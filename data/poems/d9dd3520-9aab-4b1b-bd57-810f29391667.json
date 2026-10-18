@@ -1,0 +1,469 @@
+{
+ "id": "d9dd3520-9aab-4b1b-bd57-810f29391667",
+ "kind": "shi",
+ "title": "江州重别薛六柳八二员外",
+ "title_en": "Parting Again at Jiangzhou from Two Officials, Xue the Sixth and Liu the Eighth",
+ "author": "刘长卿",
+ "author_en": "Liu Changqing",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "优",
+    "yōu"
+   ],
+   [
+    "诏",
+    "zhào"
+   ]
+  ],
+  [
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "学",
+    "xué"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "歌",
+    "gē"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "多",
+    "duō"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "喜",
+    "xǐ"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "近",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "何",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "弃",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "愧",
+    "kuì"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "遣",
+    "qiǎn"
+   ],
+   [
+    "慎",
+    "shèn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料里“胡雁”写作“胡鴈”，“愧君”写作“媿君”。“鴈”是“雁”的异体字，“媿”是“愧”的异体字，通行本写作“雁”“愧”。",
+  "en": "The source text writes yàn (goose) and kuì (ashamed) in older variant forms. Common editions use the standard forms. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 5,
+   "char": "发",
+   "pinyin": "fà",
+   "zh": "“白发”的“发”是头发，读 fà。",
+   "en": "In white hair, the character means hair and is read fà."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "生涯：一生、这辈子。",
+   "en": "shēng yá: one's life."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "岂料：哪里想到。",
+   "en": "qǐ liào: who would have thought."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "承优诏：接到皇帝宽厚的诏书。诏书是皇帝下的命令。这里一般理解为反话，指把他贬官的命令；一说指减轻他处分的诏书。",
+   "en": "chéng yōu zhào: to receive a kind edict from the emperor. An edict is the emperor's written order. It is usually read as bitter irony, meaning the order that sent him away in disgrace. Another reading says it was an order that made his punishment lighter."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "空知：只知道。",
+   "en": "kōng zhī: only knowing how to."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "学醉歌：学着喝醉了唱歌，借酒消愁。",
+   "en": "xué zuì gē: to learn to drink and sing, drowning sorrow in wine."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "胡雁：从北方飞来的大雁。",
+   "en": "hú yàn: wild geese from the north."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "淮南：淮河以南的地方。",
+   "en": "huái nán: the land south of the Huai River."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "木落：树叶落了。",
+   "en": "mù luò: the leaves have fallen."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "楚山：楚地的山。江州一带古代属于楚国。",
+   "en": "chǔ shān: the hills of Chu. The Jiangzhou area once belonged to the old state of Chu."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "寄身：寄住、安身。",
+   "en": "jì shēn: to lodge, to find a place to stay."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "且喜：姑且高兴。",
+   "en": "qiě xǐ: at least glad that."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "沧洲：水边的地方，古人常用来指隐士住的地方。",
+   "en": "cāng zhōu: land by the water, often used for the home of a hermit."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "顾影：看看自己的影子，就是看看自己。",
+   "en": "gù yǐng: to look at one's own shadow, that is, to look at oneself."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 7,
+   "zh": "无如白发何：对满头白发毫无办法。",
+   "en": "wú rú bái fà hé: there is nothing to be done about the white hair."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "龙钟：年老体衰、行动不便的样子。",
+   "en": "lóng zhōng: old, weak and slow."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "人共弃：被大家一起抛弃。",
+   "en": "rén gòng qì: cast aside by everyone."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "愧君：让你们费心，我感到惭愧。",
+   "en": "kuì jūn: I feel ashamed to trouble you."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "犹遣：还叮嘱我。",
+   "en": "yóu qiǎn: still telling me to."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "慎风波：小心江上的风浪，也暗指官场上的风波。",
+   "en": "shèn fēng bō: to beware of wind and waves on the river, and also of trouble in official life."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "这辈子哪里想到会接到皇帝这样的“优诏”，",
+   "en": "In all my life, who would have thought I would get such a kind edict?"
+  },
+  {
+   "zh": "面对世事，我只知道学着借酒高歌。",
+   "en": "Facing the world, all I know is to drink and sing."
+  },
+  {
+   "zh": "明月照着江面，北方的大雁从天上飞过；",
+   "en": "The moon shines on the river, and northern geese fly past."
+  },
+  {
+   "zh": "淮南的树叶落光了，楚地的群山显得更多了。",
+   "en": "In the south the leaves have fallen, and the hills of Chu look many and bare."
+  },
+  {
+   "zh": "姑且高兴我寄身的地方离水边很近，",
+   "en": "At least I am glad my new home is near the water."
+  },
+  {
+   "zh": "可看看自己，对满头白发又有什么办法？",
+   "en": "But looking at myself, what can I do about my white hair?"
+  },
+  {
+   "zh": "如今我老态龙钟，被人们一起抛弃，",
+   "en": "Now I am old and slow, and everyone has cast me aside."
+  },
+  {
+   "zh": "很惭愧你们还叮嘱我，路上要小心风浪。",
+   "en": "I am ashamed that you still tell me to beware of wind and waves."
+  }
+ ],
+ "background": {
+  "zh": "刘长卿为人刚直，得罪过权贵，一生两次被贬官。这首诗一般认为是他遭贬谪、路过江州（今江西九江）时写的。在这里，他第二次和薛、柳两位朋友告别，所以题目叫“重别”。“薛六”“柳八”是按家中兄弟排行称呼，他们的名字已经不清楚；“员外”是员外郎，一种官职。具体是哪一次被贬时写的，说法不一。",
+  "en": "Liu Changqing was blunt and honest. He offended powerful people and was sent away in disgrace twice. This poem is usually thought to have been written when he passed through Jiangzhou, today's Jiujiang in Jiangxi, on the way to his place of exile. There he said goodbye a second time to two friends, Xue and Liu, so the title says \"parting again\". \"The Sixth\" and \"the Eighth\" are their places among their brothers; their full names are no longer known. Yuanwai was the title of an official post. Which of his two exiles this belongs to is debated."
+ },
+ "author_note": {
+  "zh": "刘长卿，字文房，唐代诗人，生卒年说法不一，大约生活在唐玄宗到唐德宗时期。他擅长写五言诗，被人称为“五言长城”，七律也写得好。他的诗多写贬谪的愁苦和山水的冷清。",
+  "en": "Liu Changqing, also called Wenfang, was a Tang poet. Sources differ on his dates; he lived roughly from the reign of Emperor Xuanzong to that of Emperor Dezong. He was best at five-character poems and was called the Great Wall of five-character verse, but his seven-character regulated poems are fine too. His poems often tell of the grief of exile and the loneliness of hills and rivers."
+ },
+ "appreciation": {
+  "zh": "开头两句就带着苦笑：被贬官了，却说是“承优诏”，皇帝真是“宽厚”啊。自己能做的，只有喝酒唱歌。中间写江边的景：月光下大雁南飞，树叶落尽，群山光秃秃的。大雁南飞，正像自己被赶到南方；落叶飘零，正像自己的衰老。接着他说，好在住处靠近水边，可以像隐士一样过日子，可一看满头白发，又无可奈何。最后最让人心酸：人人都抛弃了我，只有你们还叮嘱我“小心风浪”。一句关心，让他又感激又惭愧。",
+  "en": "The opening carries a bitter smile. He has been sent away in disgrace, yet he calls it a \"kind edict\", as if the emperor were being generous. All he can do is drink and sing. The middle shows the river scene: geese fly south under the moon, the leaves are gone, and the hills stand bare. The geese flying south are like him being driven south. The falling leaves are like his own aging. Then he says that at least his new home is near the water, where he can live like a hermit. But one look at his white hair, and he feels helpless. The ending is the most touching. Everyone else has cast him aside, and only these friends still tell him to beware of the waves. That one caring word makes him both grateful and ashamed."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "friendship",
+   "exile",
+   "old-age"
+  ]
+ },
+ "uncertain": []
+}

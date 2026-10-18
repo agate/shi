@@ -1,0 +1,351 @@
+{
+ "id": "e4354c00-c83e-43da-9341-7007889dd625",
+ "kind": "shi",
+ "title": "过香积寺",
+ "title_en": "Visiting Xiangji Temple",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "积",
+    "jī"
+   ],
+   [
+    "寺",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "峰",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "径",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "泉",
+    "quán"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "咽",
+    "yè"
+   ],
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "石",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "松",
+    "sōng"
+   ]
+  ],
+  [
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "潭",
+    "tán"
+   ],
+   [
+    "曲",
+    "qū"
+   ]
+  ],
+  [
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "禅",
+    "chán"
+   ],
+   [
+    "制",
+    "zhì"
+   ],
+   [
+    "毒",
+    "dú"
+   ],
+   [
+    "龙",
+    "lóng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库的文字第三句作“迳”，“迳”是“径”的旧写法，这里按通行本写作“径”。",
+  "en": "The source text writes the word for path in line three with an old variant character; this page uses the common modern form."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "“咽”在这里是声音被堵住、像哽咽一样，读 yè，不读 yàn。",
+   "en": "Here it means a sound choked off, like a sob, so it is read yè, not yàn."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄暮”是傍晚，书面词语里读 bó。",
+   "en": "In bó mù, dusk, it is read bó."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "香积寺：唐代长安城南边的一座佛寺，在今天陕西西安。",
+   "en": "xiāng jī sì: a Buddhist temple south of Chang'an in the Tang, in today's Xi'an, Shaanxi."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "数（shù）里：好几里路。",
+   "en": "shù lǐ: several li; li is an old unit of distance, about half a kilometer."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "云峰：高入云中的山峰。",
+   "en": "yún fēng: mountain peaks that rise into the clouds."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "无人径：没有人走的小路。",
+   "en": "wú rén jìng: a path no one walks on."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "咽（yè）：哽咽，声音低沉不畅。危石：高耸的大石头。泉水在大石头间流过，声音像哽咽一样。",
+   "en": "yè wēi shí: yè means choked, like a muffled sob; wēi shí means tall, steep rocks. The spring flows among the rocks with a choked sound."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "冷青松：阳光照在青松上，也显得冷清清的。",
+   "en": "lěng qīng sōng: even the sunlight on the green pines seems cold."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "薄（bó）暮：傍晚，天快黑的时候。",
+   "en": "bó mù: dusk, when it is getting dark."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "空潭：空寂清澈的水潭。曲（qū）：弯曲的地方，岸边。",
+   "en": "kōng tán qū: kōng tán is a still, clear, empty pool; qū is the bend of its bank."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "安禅：佛家用语，安静地坐着冥想，让心定下来。",
+   "en": "ān chán: a Buddhist practice of sitting quietly in meditation to calm the mind."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "毒龙：佛经里的比喻，指人心里的贪心和种种杂念。传说有毒龙住在水潭里害人，被高僧用佛法制服。",
+   "en": "dú lóng: the poisonous dragon, a Buddhist image for greed and restless thoughts. A story tells of a poisonous dragon in a pool that a holy monk tamed with Buddhist teaching."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我不知道香积寺在哪里，",
+   "en": "I did not know where Xiangji Temple was;"
+  },
+  {
+   "zh": "走了好几里路，走进了高入云中的山峰。",
+   "en": "I walked several li and entered peaks wrapped in clouds."
+  },
+  {
+   "zh": "古树参天，没有人走的小路，",
+   "en": "Ancient trees, a path where no one walks,"
+  },
+  {
+   "zh": "深山里，从哪里传来一阵钟声？",
+   "en": "and somewhere deep in the mountains, the sound of a bell."
+  },
+  {
+   "zh": "泉水流过高耸的石头，声音像在哽咽；",
+   "en": "The spring sobs as it flows past the steep rocks;"
+  },
+  {
+   "zh": "阳光照在青松上，也透着清冷。",
+   "en": "the sunlight on the green pines feels cold."
+  },
+  {
+   "zh": "傍晚时分，来到空寂的水潭边，",
+   "en": "At dusk I reach the bend of a still, empty pool,"
+  },
+  {
+   "zh": "想起高僧在这里安心打坐，制服心中的毒龙。",
+   "en": "and think of monks sitting here in meditation, taming the poisonous dragon of desire."
+  }
+ ],
+ "background": {
+  "zh": "香积寺在唐代长安城的南边，是一座有名的佛寺。王维信佛，常去寺庙游览、拜访僧人。这首诗写他去香积寺的路上和到了寺边看到、听到的景色。题目里的“过”是拜访、探访的意思。写于哪一年不详，一般认为是他中年以后住在长安一带的时候。",
+  "en": "Xiangji Temple was a well-known Buddhist temple south of the Tang capital, Chang'an. Wang Wei was a Buddhist and often visited temples and monks. This poem describes what he saw and heard on the way to the temple and beside it. The word guò in the title means to visit. The year is not known; it is usually thought to be from his middle years or later, while he lived near Chang'an."
+ },
+ "author_note": {
+  "zh": "王维（约701—761），字摩诘，唐代大诗人、画家，也精通音乐。他信佛很虔诚，被称为“诗佛”。宋代苏轼说他“诗中有画，画中有诗”。他的山水诗安静空灵，常带着佛家的味道，这首诗就是很好的例子。",
+  "en": "Wang Wei (about 701–761), also called Mojie, was a great Tang poet and painter, and skilled in music too. He was a devoted Buddhist and is called the Buddha of Poetry. The Song writer Su Shi said there are paintings in his poems and poems in his paintings. His landscape poems are calm and airy, often with a Buddhist feeling, and this one is a fine example."
+ },
+ "appreciation": {
+  "zh": "这首诗写寺，却从头到尾没有正面写寺。开头说“不知”，好像是随意走着，走进了云雾深山。古树、无人的小路，一片寂静；忽然远处传来钟声，才知道寺就在附近。“泉声咽危石，日色冷青松”最有名：泉水本来是欢快的，碰到大石头，声音变得低沉；阳光本来是暖的，照在浓密的松林里，也显得冷了。一个“咽”、一个“冷”，把山的幽深写活了。最后来到水潭边，诗人想到要静下心来，赶走心里的杂念。整首诗越写越静，读完好像自己的心也安静下来了。",
+  "en": "The poem is about a temple, yet it never shows the temple directly. It begins with \"I did not know\", as if he were wandering until he found himself among cloudy peaks. Ancient trees and an empty path: all is silent. Then a bell rings somewhere, and he knows the temple must be near. The most famous lines are about the spring and the sun. Spring water is usually cheerful, but against the big rocks its sound turns low and choked. Sunlight is usually warm, but among the thick pines it seems cold. Those two words, choked and cold, bring the deep stillness of the mountain to life. At last, by the pool, he thinks of calming his mind and driving out restless thoughts. The poem grows quieter and quieter, and when you finish, your own heart feels quiet too."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "temple",
+   "mountains",
+   "buddhism",
+   "stillness",
+   "spring-water"
+  ]
+ },
+ "uncertain": []
+}

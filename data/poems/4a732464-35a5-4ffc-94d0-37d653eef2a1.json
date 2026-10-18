@@ -1,0 +1,207 @@
+{
+ "id": "4a732464-35a5-4ffc-94d0-37d653eef2a1",
+ "kind": "shi",
+ "title": "长干曲四首·其二",
+ "title_en": "Changgan Song, No. 2 of 4",
+ "author": "崔颢",
+ "author_en": "Cui Hao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "侧",
+    "cè"
+   ]
+  ],
+  [
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "识",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长干是地名，长读 cháng。",
+   "en": "Chánggān is a place name; this character is read cháng."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "长干是地名，干读 gān。",
+   "en": "Chánggān is a place name; this character is read gān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "临：靠近，挨着。",
+   "en": "lín: next to, beside."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "九江：这里泛指长江下游一带的江水，不是今天的九江市。",
+   "en": "jiǔ jiāng: here it simply means the waters of the lower Yangtze, not today's city of Jiujiang."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "侧：旁边。",
+   "en": "cè: side, beside."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "长干：古代地名，叫长干里，在今天南京城南，靠近长江，很多船家住在那里。",
+   "en": "cháng gān: Changgan, an old neighborhood south of today's Nanjing, near the Yangtze, where many boat families lived."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "相识：互相认识。",
+   "en": "xiāng shí: to know each other."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我家就住在江边，",
+   "en": "My home is by the river;"
+  },
+  {
+   "zh": "每天在江边来来去去。",
+   "en": "every day I come and go along its banks."
+  },
+  {
+   "zh": "我们都是长干人，",
+   "en": "We are both from Changgan,"
+  },
+  {
+   "zh": "只是从小就不认识。",
+   "en": "but we never knew each other as children."
+  }
+ ],
+ "background": {
+  "zh": "《长干曲》是南方的民歌题目，多写长干一带船家男女的生活。崔颢写了四首，前两首像一问一答：第一首是一位姑娘在船上问邻船的人“你家住在哪里？也许我们是同乡”；这第二首是那个人的回答。写作年份不清楚。",
+  "en": "\"Changgan Song\" is the title of a southern folk song, usually about the lives of boat people around Changgan. Cui Hao wrote four. The first two are like a question and an answer. In the first, a young woman on a boat asks someone on the next boat, \"Where is your home? Maybe we are from the same place.\" This second song is the reply. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "崔颢（约704—754），盛唐诗人。他最有名的诗是《黄鹤楼》，传说李白登黄鹤楼时看到这首诗，说“眼前有景道不得，崔颢题诗在上头”。他的《长干曲》学习民歌，写得朴素自然，和《黄鹤楼》的风格很不一样。",
+  "en": "Cui Hao (about 704–754) was a poet of the high Tang. His most famous poem is \"Yellow Crane Tower\". Legend says that when Li Bai climbed the tower and saw it, he said he could not write about the view, because Cui Hao's poem was already up there. Cui Hao's Changgan Songs learn from folk songs. They are plain and natural, very different in style from \"Yellow Crane Tower\"."
+ },
+ "appreciation": {
+  "zh": "这首诗像一段对话里的回答，说得很直，像平常聊天。他说：我家也在江边，天天在江上来来去去。我们原来都是长干人，可惜从小不认识。“同是”和“不相识”放在一起，有一点惊喜，也有一点可惜：住得这么近，怎么到今天才遇见？诗里没写两个人的样子，也没写船，但我们能想象出宽宽的江面上，两条船靠得很近，两个年轻人隔着船说话的情景。简单的话里，有淡淡的温情。",
+  "en": "This poem is like the answer in a conversation, said straight out, like ordinary chat. He says: my home is by the river too, and I go up and down it every day. We are both from Changgan, but what a pity, we never knew each other as children. Putting \"both from\" next to \"never knew\" gives a little surprise and a little regret: we lived so close, so why do we only meet today? The poem does not describe the two people or the boats. Still, we can picture a wide river, two boats drifting close together, and two young people talking across the water. In these simple words there is a quiet warmth."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "boat",
+   "encounter",
+   "hometown",
+   "folk-song"
+  ]
+ },
+ "uncertain": []
+}

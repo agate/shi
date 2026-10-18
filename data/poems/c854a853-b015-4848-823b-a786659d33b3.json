@@ -1,0 +1,393 @@
+{
+ "id": "c854a853-b015-4848-823b-a786659d33b3",
+ "kind": "shi",
+ "title": "宿王昌龄隐居",
+ "title_en": "Spending the Night at Wang Changling's Old Retreat",
+ "author": "常建",
+ "author_en": "Chang Jian",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "测",
+    "cè"
+   ]
+  ],
+  [
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "际",
+    "jì"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ],
+  [
+   [
+    "茅",
+    "máo"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "药",
+    "yào"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "滋",
+    "zī"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "纹",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "鸾",
+    "luán"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "群",
+    "qún"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“犹为君”是“还在为你（照着）”，“为”读 wèi。",
+   "en": "Yóu wèi jūn means \"still shining for you\", so the character is read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "不测：深得没法测量。",
+   "en": "bù cè: too deep to measure."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "隐处：隐居的地方，指王昌龄从前住的地方。",
+   "en": "yǐn chù: the place where someone lived in seclusion, meaning Wang Changling's old home."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "唯：只有。",
+   "en": "wéi: only."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "松际：松树之间，松树梢头。",
+   "en": "sōng jì: among the pines, at the tops of the pine trees."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "露：露出来。",
+   "en": "lù: to show, to peep out."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "微月：淡淡的月亮。",
+   "en": "wēi yuè: a faint moon."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "清光：清亮的月光。",
+   "en": "qīng guāng: clear moonlight."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "犹：还，仍然。",
+   "en": "yóu: still."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "君：你，指王昌龄。",
+   "en": "jūn: you, meaning Wang Changling."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "茅亭：用茅草盖顶的亭子。",
+   "en": "máo tíng: a pavilion with a thatched roof."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "宿：停留，过夜。这里说花影好像在亭中睡着了。",
+   "en": "sù: to stay the night. Here the flower shadows seem to sleep in the pavilion."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "药院：种着草药的院子。",
+   "en": "yào yuàn: a courtyard where herbs are grown."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "滋：生长，滋长。",
+   "en": "zī: to grow, to spread."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "苔纹：青苔长出的花纹。",
+   "en": "tái wén: the patterns made by moss."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "余：我。",
+   "en": "yú: I."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "亦：也。",
+   "en": "yì: also."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "谢时：辞别世俗，不再追求功名。",
+   "en": "xiè shí: to bid farewell to the world and stop chasing fame and office."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "鸾鹤：鸾鸟和仙鹤，传说中神仙骑的鸟。和鸾鹤为群，意思是隐居山中、像神仙一样生活。",
+   "en": "luán hè: the phoenix-like luan bird and the crane, birds that immortals ride in legends. To live among them means living as a hermit in the hills, like an immortal."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清清的溪水深得看不见底，",
+   "en": "The clear stream is too deep to see the bottom."
+  },
+  {
+   "zh": "你隐居的地方，只有一片孤云飘着。",
+   "en": "Over the place where you lived alone, there is only a single cloud."
+  },
+  {
+   "zh": "松树梢头露出一弯淡淡的月亮，",
+   "en": "A faint moon peeps out among the pines,"
+  },
+  {
+   "zh": "清亮的月光好像还在为你照着。",
+   "en": "and its clear light still seems to shine for you."
+  },
+  {
+   "zh": "茅草亭子里，花影静静地睡着；",
+   "en": "In the thatched pavilion, the flower shadows sleep,"
+  },
+  {
+   "zh": "种药的院子里，长满了青苔的花纹。",
+   "en": "and moss has spread its patterns over the herb garden."
+  },
+  {
+   "zh": "我也要辞别世俗，离开这里，",
+   "en": "I too will say goodbye to the world and leave,"
+  },
+  {
+   "zh": "到西山去和鸾鹤作伴。",
+   "en": "to live among the luan birds and cranes in the western hills."
+  }
+ ],
+ "background": {
+  "zh": "王昌龄是唐代有名的诗人，他在做官以前，曾经在山里隐居。常建和王昌龄是同一年（727年）考中的进士，是好朋友。后来王昌龄出去做官了，常建来到他从前隐居的地方，在这里住了一夜，写下这首诗。一说王昌龄隐居的地方在石门山。最后两句说自己也要去隐居，一般认为也带着委婉地劝王昌龄回来的意思。",
+  "en": "Wang Changling was a famous Tang poet. Before he became an official, he lived in seclusion in the hills. Chang Jian passed the imperial exam in the same year as Wang, 727, and they were good friends. Later, after Wang had gone off to serve as an official, Chang Jian came to his old retreat, stayed the night there and wrote this poem. One account says the retreat was on Mount Shimen. The last two lines say the poet will become a hermit too, and they are usually read as also gently urging Wang to come back."
+ },
+ "author_note": {
+  "zh": "常建，唐代诗人，开元十五年（727年）考中进士。他做过小官，因为仕途不顺，后来长期过着隐居生活。他的诗多写山林、寺庙和隐居的安静，最有名的是《题破山寺后禅院》，其中“曲径通幽处，禅房花木深”到今天还常被人引用。",
+  "en": "Chang Jian was a Tang poet who passed the imperial exam in 727. He held only a minor post, and because his career did not go well, he later lived for a long time as a hermit. His poems often describe forests, temples and the calm of a quiet life. The best known is \"Written at the Meditation Hall behind Poshan Temple\", whose lines about a winding path leading to a hidden place, and a meditation room deep in flowers and trees, are still often quoted today."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是一个没有主人的地方。溪水很深，上面只飘着一片孤云，好像这里的一切还在等王昌龄回来。最美的是月亮：它从松树间露出来，清光照着空空的院子，好像还记得老主人，一直为他亮着。茅亭里花影安静，药院里青苔长满，说明主人已经走了很久，可这里的清幽一点没变。诗人在这里住了一夜，心也静了下来，于是说：我也要告别世俗，去西山和鸾鹤作伴。整首诗清冷又干净，读的时候好像能闻到松林和青苔的气味。",
+  "en": "This poem is about a place with no one living in it. The stream is deep, and only a single cloud floats above, as if everything here were still waiting for Wang Changling to return. The loveliest part is the moon. It peeps out between the pines, and its clear light falls on the empty yard, as if it still remembered its old master and kept shining for him. The flower shadows lie quiet in the pavilion, and moss covers the herb garden. The master has been gone a long time, yet the place is as peaceful as ever. Staying the night here, the poet's own heart grows calm, and he says: I too will leave the world and go to live with the cranes in the western hills. The whole poem feels cool and clean. Reading it, you can almost smell the pines and the moss."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "reclusion",
+   "moon",
+   "friendship",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

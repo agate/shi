@@ -1,0 +1,776 @@
+{
+ "id": "ci-4b55b53c1a2b",
+ "kind": "ci",
+ "title": "凤箫吟·锁离愁",
+ "title_en": "Feng Xiao Yin: Locking In the Sorrow of Parting",
+ "author": "韩缜",
+ "author_en": "Han Zhen",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "绵",
+    "mián"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "际",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "熏",
+    "xūn"
+   ]
+  ],
+  [
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "帏",
+    "wéi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "泣",
+    "qì"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "轮",
+    "lún"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "孙",
+    "sūn"
+   ]
+  ],
+  [
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "妒",
+    "dù"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "裙",
+    "qún"
+   ]
+  ],
+  [
+   [
+    "恁",
+    "nèn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "缓",
+    "huǎn"
+   ],
+   [
+    "步",
+    "bù"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "茵",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "改",
+    "gǎi"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "新",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "野",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "嬉",
+    "xī"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "负",
+    "fù"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "“缓步香茵”的“茵”，这里的底本写作“裀”，两个字是异体，意思一样，通行本多写“茵”。底本的题目是“凤箫吟·芳草”，“芳草”点出这首词写的是春草；现在通行的题目多用首句，作“凤箫吟·锁离愁”。",
+  "en": "In \"huǎn bù xiāng yīn\", our source text writes yīn with a variant form of the character. The two forms mean the same thing, and most editions use the common one. Our source titles it \"Feng Xiao Yin: Fragrant Grass\", which tells us the lyric is about spring grass. Today it is usually titled by its first line instead."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "这里的“长”读 cháng，意思是“常常、一直”。",
+   "en": "Here this character is read cháng, meaning \"always\"."
+  },
+  {
+   "line": 17,
+   "pos": 6,
+   "char": "新",
+   "pinyin": "xīn",
+   "zh": "“长新”的“长”读 cháng，意思是“永远、总是”。",
+   "en": "In \"cháng xīn\" the character is read cháng, meaning \"forever, always\"."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "“尽日”是“一整天”，读 jìn，不读 jǐn。",
+   "en": "\"Jìn rì\" means \"all day long\". It is read jìn, not jǐn."
+  },
+  {
+   "line": 13,
+   "pos": 0,
+   "char": "恁",
+   "pinyin": "nèn",
+   "zh": "“恁”在宋词里常当“那、那样”讲，读 nèn。“恁时”就是“那时”。",
+   "en": "In Song lyrics this character often means \"that\" and is read nèn. \"Nèn shí\" means \"at that time\"."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重重”是“一层又一层”，读 chóng。",
+   "en": "\"Chóng chóng\" means \"layer upon layer\" and is read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "锁离愁：把离别的愁锁住。这里说的是春草，草长得密密的，好像把离愁都锁在里面。",
+   "en": "suǒ lí chóu: to lock in the sorrow of parting. The subject is spring grass. It grows so thick that it seems to hold the sadness of parting inside it."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "连绵无际：一片连着一片，看不到边。",
+   "en": "lián mián wú jì: stretching on and on, with no end in sight."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "陌上：路边，田间小路上。",
+   "en": "mò shàng: along the roads and paths between the fields."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "初熏：刚刚散发出香气。熏，香气飘散。",
+   "en": "chū xūn: just beginning to give off a sweet smell."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "绣帏：绣花的帐子，这里指女子住的闺房。",
+   "en": "xiù wéi: an embroidered curtain. Here it stands for a young woman's room."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "念远：想念远行的人。",
+   "en": "niàn yuǎn: missing someone who has gone far away."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "征轮：远行人坐的车。轮，车轮，代指车。",
+   "en": "zhēng lún: the wheels of a traveler's carriage, that is, the carriage itself."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "长亭：古时路边供行人歇脚的亭子，人们常在这里送别。",
+   "en": "cháng tíng: a roadside pavilion where travelers rested. People often said goodbye there."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "远水孤云：远处的流水和一片孤单的云。",
+   "en": "yuǎn shuǐ gū yún: far-off water and a lonely cloud."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "望极：望到最远的地方。",
+   "en": "wàng jí: to look as far as the eye can see."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "目断：一直望着，直到看不见。",
+   "en": "mù duàn: to gaze until the eyes can see no farther."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "王孙：本指贵族子弟，这里指远行的人。古书《楚辞》里有“王孙游兮不归，春草生兮萋萋”，所以春草常和远行不归的人连在一起。",
+   "en": "wáng sūn: once meant a young noble. Here it means the traveler. An old poem in the Chu Ci says the young lord wanders and does not come home, while spring grass grows thick. Since then, spring grass has been linked with travelers who do not return."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "消魂：伤心得好像魂都没了。",
+   "en": "xiāo hún: so sad that one's soul seems to melt away."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 7,
+   "zh": "绿妒轻裙：绿草好像在嫉妒她那轻薄的绿裙子。前人有“记得绿罗裙，处处怜芳草”的句子，说看见绿草就想起穿绿裙的人。",
+   "en": "lǜ dù qīng qún: the green grass seems jealous of her light green skirt. An earlier poet wrote that, remembering a green silk skirt, he loved the grass everywhere, because it reminded him of the one who wore it."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 5,
+   "zh": "素手：白白的手。",
+   "en": "sù shǒu: fair, white hands."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "飞絮：飘飞的柳絮。",
+   "en": "fēi xù: willow fluff floating in the air."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "香茵：香香的草地，像一张软软的垫子。茵，垫子、褥子。",
+   "en": "xiāng yīn: fragrant grass, soft like a cushion. Yīn means a mat or cushion."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "朱颜：红润的脸，指年轻的容貌。",
+   "en": "zhū yán: rosy cheeks, that is, a young face."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 5,
+   "zh": "空自改：白白地变老了。",
+   "en": "kōng zì gǎi: changes, grows old, all for nothing."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 5,
+   "zh": "芳意：草木的生机和香气。",
+   "en": "fāng yì: the fresh life and sweet smell of plants."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "嬉游：游玩。",
+   "en": "xī yóu: to play and roam about."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "莫负青春：不要辜负了这大好的春光，也不要辜负年轻的时光。",
+   "en": "mò fù qīng chūn: do not waste this lovely spring, and do not waste your youth."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春草把离别的愁锁在里面，",
+   "en": "The spring grass locks in the sorrow of parting,"
+  },
+  {
+   "zh": "一片连着一片，望不到边。",
+   "en": "stretching on and on with no end."
+  },
+  {
+   "zh": "它刚长出来的时候，路边就飘起了淡淡的香气。",
+   "en": "When it first came up, the roadsides began to smell sweet."
+  },
+  {
+   "zh": "闺房里的人想念着远去的人，",
+   "en": "In her curtained room, a woman misses the one who has gone far away."
+  },
+  {
+   "zh": "偷偷地流下一串串泪珠，",
+   "en": "Quietly her tears fall like strings of pearls,"
+  },
+  {
+   "zh": "哭着送走了远行的车。",
+   "en": "as she weeps and sees his carriage off."
+  },
+  {
+   "zh": "送别的长亭一直在眼前，",
+   "en": "The farewell pavilion is always before her eyes,"
+  },
+  {
+   "zh": "更远处是一层又一层的流水和孤云。",
+   "en": "and beyond it, layer after layer, far waters and a lonely cloud."
+  },
+  {
+   "zh": "她只好登上高楼，望到最远的地方，",
+   "en": "All she can do is climb the tall tower and look as far as she can,"
+  },
+  {
+   "zh": "整天望着远行的人，直到什么也看不见。",
+   "en": "watching all day for the traveler until her eyes can see no more."
+  },
+  {
+   "zh": "真叫人伤心啊。",
+   "en": "How it breaks the heart."
+  },
+  {
+   "zh": "自从在池塘边分别以后，",
+   "en": "Since they parted by the pond,"
+  },
+  {
+   "zh": "两人曾经走过的地方，绿草好像在嫉妒她的轻裙。",
+   "en": "in the places they once walked, the green grass seems jealous of her light skirt."
+  },
+  {
+   "zh": "那时候他牵着她白白的手，",
+   "en": "Back then he held her fair hand,"
+  },
+  {
+   "zh": "在纷飞的落花和柳絮里，",
+   "en": "among flying petals and willow fluff,"
+  },
+  {
+   "zh": "慢慢走在香香的草地上。",
+   "en": "and they strolled slowly over the fragrant grass."
+  },
+  {
+   "zh": "年轻的容貌白白地变老了，",
+   "en": "Young faces grow old, and nothing can stop it,"
+  },
+  {
+   "zh": "而春草一年又一年，总是新鲜芬芳。",
+   "en": "but year after year the grass comes back fresh and sweet."
+  },
+  {
+   "zh": "趁着满山遍野的绿色，",
+   "en": "While the green fills all the fields,"
+  },
+  {
+   "zh": "尽情游玩，喝醉了就睡在草地上，",
+   "en": "go out and play, drink, and sleep on the grass,"
+  },
+  {
+   "zh": "不要辜负这大好春光。",
+   "en": "and do not waste the spring of your life."
+  }
+ ],
+ "background": {
+  "zh": "这首词借春草写离别。宋人的笔记里有一个故事：宋神宗熙宁年间，韩缜奉命到北方，和辽国商量划定边界。临走前，他和心爱的侍妾告别，写下了这首词。据说神宗知道了，还派人把那位侍妾送到他身边。这个故事来自笔记，不一定完全可靠。",
+  "en": "This lyric uses spring grass to write about parting. Song dynasty notebooks tell a story about it. In the Xining years of Emperor Shenzong (1068–1077), Han Zhen was sent north to settle the border with the Liao state. Before he left, he said goodbye to a beloved concubine and wrote this lyric. It is said that the emperor heard of it and sent her to join him. The story comes from notebooks and may not be fully reliable."
+ },
+ "author_note": {
+  "zh": "韩缜（1019—1097），字玉汝，北宋大臣，宋哲宗时做过宰相。他主要是一位做官的人，写的词流传下来很少。这首《凤箫吟》是他最有名的作品，被选进了《宋词三百首》。",
+  "en": "Han Zhen (1019–1097), courtesy name Yuru, was a Northern Song official who served as chief minister under Emperor Zhezong. He was mainly a statesman, and very few of his lyrics survive. This one is his best known, and it was chosen for the anthology Three Hundred Song Lyrics."
+ },
+ "appreciation": {
+  "zh": "整首词写的都是春草，却一个“草”字也没有出现。上片写分别：草长得密密的，像把离愁锁住了；草一直铺到长亭，铺到远水孤云那边，女子登楼远望，望到看不见人影。草走多远，思念就跟多远。下片回忆：两人曾在草地上牵手散步，花和柳絮在身边飞。最后几句很有意思：人会老，草却年年都新。所以不如趁着春天，到绿野里尽情游玩，别辜负了好时光。读的时候，可以想象一片望不到头的青草地，一边是离别的眼泪，一边是春天的生机。",
+  "en": "The whole lyric is about spring grass, yet the word \"grass\" never appears. The first stanza is about parting. The grass grows so thick that it seems to lock in the sorrow. It spreads all the way to the farewell pavilion, and on toward the far waters and the lonely cloud. The woman climbs a tower and looks until the traveler is gone. However far the grass reaches, her longing reaches too. The second stanza looks back. The two once walked hand in hand on the grass, with petals and willow fluff flying around them. The ending is surprising. People grow old, but the grass is new every year. So why not go out into the green fields while it is spring, and not waste the good time? Picture a field of green with no end: on one side the tears of parting, on the other the life of spring."
+ },
+ "famous_lines": [
+  6,
+  7,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "longing",
+   "grass",
+   "love"
+  ]
+ },
+ "uncertain": []
+}

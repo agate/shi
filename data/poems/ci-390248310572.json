@@ -1,0 +1,420 @@
+{
+ "id": "ci-390248310572",
+ "kind": "ci",
+ "title": "太常引·建康中秋夜为吕叔潜赋",
+ "title_en": "Tai Chang Yin: Written for Lü Shuqian on Mid-Autumn Night in Jiankang",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "轮",
+    "lún"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "磨",
+    "mó"
+   ]
+  ],
+  [
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "姮",
+    "héng"
+   ],
+   [
+    "娥",
+    "é"
+   ]
+  ],
+  [
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "欺",
+    "qī"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "奈",
+    "nài"
+   ],
+   [
+    "何",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "河",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "斫",
+    "zhuó"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "婆",
+    "pó"
+   ],
+   [
+    "娑",
+    "suō"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "多",
+    "duō"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重：这里是“再一次”的意思，读 chóng，不读 zhòng。",
+   "en": "Here the character means 'again', so it is read chóng, not zhòng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "秋影：秋天的月亮。",
+   "en": "qiū yǐng: the autumn moon."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "金波：月亮发出的金色光芒，像流动的波浪。",
+   "en": "jīn bō: golden waves, the moonlight that seems to flow like water."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "飞镜：飞在天上的镜子，指圆圆的月亮。",
+   "en": "fēi jìng: a flying mirror, meaning the round moon."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "重磨：又磨了一遍。古代的镜子是铜做的，要常常磨才亮。",
+   "en": "chóng mó: polished again. Old mirrors were made of bronze and had to be polished to shine."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "把酒：端着酒杯。",
+   "en": "bǎ jiǔ: holding up a cup of wine."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "姮娥：就是嫦娥，传说住在月亮上的仙女。",
+   "en": "héng é: Chang'e, the goddess who lives on the moon in the old story."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "被白发欺人：被白头发欺负，意思是人还没做成大事，头发却白了。",
+   "en": "bèi bái fà qī rén: bullied by white hair, meaning one grows old before the great task is done."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "奈何：怎么办。",
+   "en": "nài hé: what can I do?"
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "乘风：借着风飞上天。",
+   "en": "chéng fēng: riding the wind up into the sky."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "好去：痛痛快快地去。",
+   "en": "hǎo qù: go off freely and happily."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "直下：笔直往下。",
+   "en": "zhí xià: straight down."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "斫：用刀斧砍。",
+   "en": "zhuó: to chop with an axe."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "桂婆娑：枝叶摇摆、长得很茂盛的桂树。传说月亮里有一棵桂树。",
+   "en": "guì pó suō: the swaying, leafy cassia tree. Legend says a cassia tree grows on the moon."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "人道是：人们说。",
+   "en": "rén dào shì: people say."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "清光：清亮的月光。",
+   "en": "qīng guāng: clear moonlight."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一轮秋月慢慢移动，洒下金色的光波。",
+   "en": "The round autumn moon moves on, pouring out golden waves of light."
+  },
+  {
+   "zh": "它像一面飞在天上的镜子，又被重新磨亮了。",
+   "en": "It is like a flying mirror, freshly polished again."
+  },
+  {
+   "zh": "我端起酒杯问月中的嫦娥：",
+   "en": "I raise my cup and ask Chang'e on the moon:"
+  },
+  {
+   "zh": "白发一天天欺负我，我该怎么办？",
+   "en": "White hair keeps bullying me. What can I do?"
+  },
+  {
+   "zh": "我想乘着风痛快地飞上天去，",
+   "en": "I want to ride the wind up into the sky,"
+  },
+  {
+   "zh": "穿过万里长空，",
+   "en": "across ten thousand miles of open air,"
+  },
+  {
+   "zh": "笔直往下看人间的山河。",
+   "en": "and look straight down on the mountains and rivers below."
+  },
+  {
+   "zh": "再砍掉月中那棵枝叶摇摆的桂树，",
+   "en": "Then I would chop down the swaying cassia tree on the moon,"
+  },
+  {
+   "zh": "人们说，这样月光会更加明亮。",
+   "en": "for people say the moonlight would be even brighter."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为写于宋孝宗淳熙元年（1174年）。那时辛弃疾在建康（今江苏南京）做官。北方的大片土地被金国占着，他一心想收复，却得不到重用。中秋夜，他和朋友吕叔潜一起赏月，写下这首词送给朋友。“斫去桂婆娑”一句，借用了杜甫诗里“斫却月中桂，清光应更多”的意思。",
+  "en": "This lyric is usually dated to 1174. Xin Qiji was then an official in Jiankang, today's Nanjing. Much of northern China was held by the Jin state. He longed to win it back but was not given real power. On Mid-Autumn night he watched the moon with his friend Lü Shuqian and wrote this for him. The line about chopping down the cassia tree borrows an idea from Du Fu, who wrote that cutting the moon's cassia would make its light brighter."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他年轻时在北方起兵抗金，后来南归宋朝。他一生想收复中原，却常常被冷落。他的词豪放有力，和苏轼并称“苏辛”。这首词里的浪漫想象，也藏着他的报国心。",
+  "en": "Xin Qiji (1140–1207) was a great Southern Song lyric poet. As a young man he raised troops in the north to fight the Jin, then came south to join the Song. All his life he hoped to win back the north, but he was often pushed aside. His lyrics are bold and strong, and he is named together with Su Shi. The wild fancy in this lyric also hides his wish to serve the country."
+ },
+ "appreciation": {
+  "zh": "上片先写月：秋月像金色的波浪，又像一面刚磨亮的镜子，又圆又亮。接着词人端起酒杯问嫦娥：白发欺负人，怎么办？一下子从美景转到心里的烦恼，他是在叹自己老了，大事还没做成。下片想象奇特：他要乘风飞上天，从万里高空往下看山河，再砍掉月中的桂树，让月光照得更亮。桂树挡住月光，就像朝廷里阻碍抗金的人。砍去它，人间就会更亮。整首词像一个童话，背后却是一颗想为国家出力的心。",
+  "en": "The first half paints the moon. It is like golden waves, and like a mirror just polished, round and bright. Then the poet raises his cup and asks Chang'e: white hair is bullying me, what can I do? The mood turns from beauty to worry. He sighs that he is growing old before his great task is done. The second half is full of wild imagination. He wants to ride the wind into the sky, look down on the land from far above, and chop down the cassia tree on the moon so the light shines brighter. The tree that blocks the light is like the people at court who stood in the way of fighting the Jin. Cut it down, and the world below grows brighter. The lyric reads like a fairy tale, but behind it beats a heart that longs to serve the country."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "midautumn"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "patriotism",
+   "ambition",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

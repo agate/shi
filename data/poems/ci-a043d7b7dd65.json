@@ -1,0 +1,808 @@
+{
+ "id": "ci-a043d7b7dd65",
+ "kind": "ci",
+ "title": "绮罗香·咏春雨",
+ "title_en": "Qi Luo Xiang: On Spring Rain",
+ "author": "史达祖",
+ "author_en": "Shi Dazu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "做",
+    "zuò"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "欺",
+    "qī"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "冥",
+    "míng"
+   ],
+   [
+    "迷",
+    "mí"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "重",
+    "zhòng"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "园",
+    "yuán"
+   ]
+  ],
+  [
+   [
+    "喜",
+    "xǐ"
+   ],
+   [
+    "泥",
+    "ní"
+   ],
+   [
+    "润",
+    "rùn"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "妨",
+    "fáng"
+   ],
+   [
+    "它",
+    "tā"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "钿",
+    "diàn"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "极",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "急",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "峰",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "娘",
+    "niáng"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "妩",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "梨",
+    "lí"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "剪",
+    "jiǎn"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "语料库经过机器繁简转换，“沈沈”这里按通行本作“沉沉”，“翦灯”作“剪灯”，意思不变。",
+  "en": "The corpus text was converted by machine and writes two characters in older forms. Here they follow the common edition, chén chén (deep, heavy) and jiǎn dēng (trimming the lamp); the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "钿",
+   "pinyin": "diàn",
+   "zh": "读 diàn，指用金、玉、贝壳镶嵌的装饰。另一个读音 tián 指铜钱，这里不用。",
+   "en": "Read diàn: decoration inlaid with gold, jade or shell. The other reading, tián, means a coin and is not used here."
+  },
+  {
+   "line": 16,
+   "pos": 1,
+   "char": "当",
+   "pinyin": "dāng",
+   "zh": "读 dāng。“当日”在这里是“当年、那时候”。",
+   "en": "Read dāng. Dāng rì here means back then, in those days."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "做冷：造出寒冷。",
+   "en": "zuò lěng: making cold."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "欺花：欺负花朵，让花受冻。",
+   "en": "qī huā: bullying the flowers, chilling them."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "将烟困柳：用烟一样的雨雾把柳树团团围住。将，用。",
+   "en": "jiāng yān kùn liǔ: wrapping the willows in smoky mist. Jiāng here means using."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 6,
+   "zh": "偷催春暮：悄悄地催着春天走向末尾。暮，晚、末。",
+   "en": "tōu cuī chūn mù: quietly hurrying spring to its end."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "尽日：整天。",
+   "en": "jìn rì: all day long."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "冥迷：昏昏暗暗、迷迷蒙蒙。",
+   "en": "míng mí: dim and blurry."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "欲飞还住：想要飘飞起来，却又停住了。写细雨飘飘停停。",
+   "en": "yù fēi hái zhù: wanting to fly up yet stopping again: the fine rain drifting and pausing."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "粉重：蝴蝶翅膀上的粉被雨打湿，变得沉重。",
+   "en": "fěn zhòng: the powder on a butterfly's wings grows heavy with rain."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "宿：停下来过夜。",
+   "en": "sù: to stay for the night."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "西园：园林，泛指花园。",
+   "en": "xī yuán: the west garden; any garden."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "泥润：泥土湿润。燕子用湿泥筑巢，所以高兴。",
+   "en": "ní rùn: the mud is moist. Swallows build nests with wet mud, so they are glad."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "南浦：南边的水边。古诗里常指送别的地方。",
+   "en": "nán pǔ: the southern shore; in old poems often a place of parting."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "最妨它：最妨碍的是。",
+   "en": "zuì fáng tā: what it hinders most is."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "佳约风流：情人间美好的约会。",
+   "en": "jiā yuē fēng liú: a sweet date between lovers."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "钿车：用金玉装饰的车子，多是女子坐的。",
+   "en": "diàn chē: a carriage inlaid with gold and jade, usually for ladies."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "杜陵：地名，在长安城南，古时游玩的好地方。这里借指约会的地方。",
+   "en": "dù líng: a place south of Chang'an, a famous spot for outings; here, the place of the date."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "沉沉：雨云浓重、天色阴暗的样子。",
+   "en": "chén chén: heavy and gloomy with rain clouds."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "望极：望到最远处。",
+   "en": "wàng jí: looking as far as the eye can see."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 6,
+   "zh": "春潮晚急：春天的江潮到傍晚涨得更急。",
+   "en": "chūn cháo wǎn jí: the spring river tide rising faster at evening."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "官渡：官府设的渡口。",
+   "en": "guān dù: the public ferry crossing."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "隐约：看不清楚，若有若无。",
+   "en": "yǐn yuē: faint, half seen."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "遥峰：远处的山峰。",
+   "en": "yáo fēng: the distant peaks."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "和泪：带着泪水。",
+   "en": "hé lèi: with tears."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "谢娘：唐宋诗词里常用来称呼心爱的女子。",
+   "en": "xiè niáng: a name often used in Tang and Song poems for a beloved young woman."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 6,
+   "zh": "眉妩：眉毛长得妩媚好看。古人常把远山比作女子的眉毛。",
+   "en": "méi wǔ: lovely eyebrows. Old poets often compared distant hills to a woman's brows."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "断岸：陡直的江岸。",
+   "en": "duàn àn: a steep riverbank."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 5,
+   "zh": "新绿：新涨的绿色江水，也指岸边新长的草。",
+   "en": "xīn lǜ: fresh green: newly risen water, or new grass on the bank."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "落红：落下的花瓣。",
+   "en": "luò hóng: fallen petals."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 7,
+   "zh": "门掩梨花：关着门，门外是雨中的梨花。化用古词“雨打梨花深闭门”。",
+   "en": "mén yǎn lí huā: the door shut on the pear blossoms outside, echoing the old line 'rain beats the pear blossoms, the door shut tight'."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "剪灯：剪去烧焦的灯芯，让灯更亮。化用李商隐“何当共剪西窗烛，却话巴山夜雨时”，写两人在雨夜谈心。",
+   "en": "jiǎn dēng: trimming the burnt wick so the lamp burns brighter. It echoes Li Shangyin's line about trimming the candle together and talking of a rainy night; two people talking late on a rainy night."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "它造出寒冷，欺负着花朵，",
+   "en": "It makes the cold that bullies the flowers,"
+  },
+  {
+   "zh": "用烟一样的雾气困住柳树，",
+   "en": "it wraps the willows in smoky mist,"
+  },
+  {
+   "zh": "在千里大地上悄悄催着春天老去。",
+   "en": "and over a thousand miles quietly hurries spring to its end."
+  },
+  {
+   "zh": "整天昏昏暗暗、迷迷蒙蒙，",
+   "en": "All day long, everything is dim and blurred;"
+  },
+  {
+   "zh": "带着愁，想要飘飞，又停了下来。",
+   "en": "full of sorrow, it wants to fly, then stops again."
+  },
+  {
+   "zh": "蝴蝶吃惊翅膀上的粉变重了，只好在西园里歇宿；",
+   "en": "Butterflies, startled by their heavy, wet wings, rest in the west garden;"
+  },
+  {
+   "zh": "燕子高兴泥土湿润，飞回南边的水边筑巢。",
+   "en": "swallows, glad of the moist mud, fly home to the southern shore."
+  },
+  {
+   "zh": "它最妨碍的，是情人的美好约会：",
+   "en": "Worst of all, it spoils the lovers' sweet date:"
+  },
+  {
+   "zh": "华美的车子到不了约好的杜陵路。",
+   "en": "the jeweled carriage cannot reach the road to Duling."
+  },
+  {
+   "zh": "江上阴沉沉的，我望到最远处，",
+   "en": "The river is heavy and dark; I gaze as far as I can,"
+  },
+  {
+   "zh": "又碰上傍晚春潮涨得急，",
+   "en": "and the spring tide is rising fast in the evening,"
+  },
+  {
+   "zh": "找不到官家的渡口。",
+   "en": "so I cannot find the ferry."
+  },
+  {
+   "zh": "远处的山峰若隐若现，",
+   "en": "The far peaks are faint,"
+  },
+  {
+   "zh": "像心爱的女子带着泪的眉毛。",
+   "en": "like the tear-wet eyebrows of my beloved."
+  },
+  {
+   "zh": "在陡岸边，新绿的江水涨起来的时候，",
+   "en": "By the steep bank, where the fresh green water rises,"
+  },
+  {
+   "zh": "正是落花带着愁绪流走的地方。",
+   "en": "is where the fallen petals float away with sorrow."
+  },
+  {
+   "zh": "记得那一天，关着门，门外是雨中梨花，",
+   "en": "I remember that day, the door shut on the pear blossoms,"
+  },
+  {
+   "zh": "我们剪着灯芯，说话说到深夜。",
+   "en": "we trimmed the lamp and talked deep into the night."
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏物词，题目是“咏春雨”，写的就是暮春的细雨。史达祖最擅长咏物，这首和他写燕子的《双双燕》都很有名。有一个特别的地方：整首词没有出现一个“雨”字，却处处都在写雨，从花、柳、蝴蝶、燕子，一直写到江潮、远山和雨夜的回忆。这首词具体写在什么时候、什么地方，已经不清楚了。",
+  "en": "This is a ci about an object; its title is 'On Spring Rain', and it describes the fine rain of late spring. Shi Dazu was best at writing about objects, and this piece is as famous as his ci on swallows, 'A Pair of Swallows'. There is one special thing about it: the word for rain never appears even once, yet every line is about rain. It moves from flowers, willows, butterflies and swallows to the river tide, the far hills and a memory of a rainy night. When and where it was written is no longer known."
+ },
+ "author_note": {
+  "zh": "史达祖，字邦卿，号梅溪，汴（今河南开封）人，南宋词人，生卒年不能确定。他没有考中进士，在权臣韩侂胄手下做文书，很受重用。韩侂胄失败被杀后，他也受到惩罚，被流放，最后在穷困中去世。他的词以咏物出名，观察很细，写得精巧。",
+  "en": "Shi Dazu, also called Meixi, came from Bian, today's Kaifeng in Henan. He was a Southern Song ci poet, and his exact dates are not known. He never passed the top exam. He worked as a clerk for the powerful minister Han Tuozhou, who relied on him a great deal. After Han fell and was killed, Shi was punished and sent into exile, and he died in poverty. His ci are famous for describing objects, with sharp eyes and fine craft."
+ },
+ "appreciation": {
+  "zh": "这首词像在给春雨画一幅一幅小画。开头三句，雨像一个调皮又冷淡的人：让花受冻，把柳树困在雾里，悄悄地把春天催老。接着写雨整天迷迷蒙蒙，飘飘停停，好像也在发愁。然后写小动物：蝴蝶的翅膀湿了飞不动，只好停下；燕子却高兴，因为湿泥正好筑巢。一个“惊”，一个“喜”，很生动。雨还耽误了情人的约会。下片写江上：雨天看不远，潮水急，找不到渡口；远山像带泪的眉毛；落花随水流走。最后一句忽然回到从前：也是一个下雨的夜，关着门，两个人剪着灯芯说话。全词没有“雨”字，却让人觉得湿漉漉的，又有一点甜，一点愁。",
+  "en": "This ci paints spring rain in one small picture after another. In the first three lines the rain is like a cold, mischievous person. It chills the flowers, traps the willows in mist, and quietly makes spring grow old. Next the rain drifts and pauses all day, as if it too were sad. Then come the little creatures. Butterflies, their wings wet, cannot fly and must rest. Swallows are glad, because wet mud is just right for nests. One is startled, one is happy, and both feel alive. The rain also spoils a lovers' date. The second stanza moves to the river. In the rain you cannot see far, the tide is fast, and the ferry is lost. The far hills look like eyebrows wet with tears; fallen petals float away. The last line suddenly goes back in time: another rainy night, the door shut, two people trimming the lamp and talking. The word rain never appears, yet everything feels damp, a little sweet and a little sad."
+ },
+ "famous_lines": [
+  5,
+  6
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "object",
+   "love",
+   "late-spring"
+  ]
+ },
+ "uncertain": []
+}

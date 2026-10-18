@@ -1,0 +1,552 @@
+{
+ "id": "ci-8436e570fd1d",
+ "kind": "ci",
+ "title": "蝶恋花·伫倚危楼风细细",
+ "title_en": "Butterflies Love Flowers: Leaning Long on a High Tower in the Gentle Wind",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "伫",
+    "zhù"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "细",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "际",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "拟",
+    "nǐ"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ],
+   [
+    "图",
+    "tú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "歌",
+    "gē"
+   ]
+  ],
+  [
+   [
+    "强",
+    "qiǎng"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "宽",
+    "kuān"
+   ],
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "悔",
+    "huǐ"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "伊",
+    "yī"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "憔",
+    "qiáo"
+   ],
+   [
+    "悴",
+    "cuì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "语料把这首词放在欧阳修名下，文字也是另一个版本：“独倚危楼风细细。望极离愁，黯黯生天际。草色山光残照里。无人会得凭阑意。也拟疏狂图一醉。对酒当歌，强饮还无味。衣带渐宽都不悔。况伊销得人憔悴。”现在课本和通行本都作柳永的词，文字如上。这里用通行本。",
+  "en": "The corpus lists this lyric under Ouyang Xiu, with a different wording: for example \"leaning alone\" instead of \"standing long\", \"sorrow of parting\" instead of \"spring sorrow\", \"forcing myself to drink\" instead of \"forcing myself to be merry\", and \"how much more, since she wore me thin\" in the last line. Today's textbooks and common editions give it to Liu Yong with the wording used here. We follow the common text."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 3,
+   "zh": "“会”在这里读 huì，是理解、懂得的意思。",
+   "en": "Here this character is read huì, meaning to understand.",
+   "char": "会",
+   "pinyin": "huì"
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "zh": "“当”在这里读 dāng，是对着、面对的意思。",
+   "en": "Here this character is read dāng, meaning to face.",
+   "char": "当",
+   "pinyin": "dāng"
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "zh": "“强”在这里读 qiǎng，是勉强的意思，不读 qiáng。",
+   "en": "Here this character is read qiǎng, meaning to force oneself, not qiáng.",
+   "char": "强",
+   "pinyin": "qiǎng"
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "zh": "“乐”在这里读 lè，是快乐的意思，不读 yuè。",
+   "en": "Here this character is read lè, meaning to be merry, not yuè.",
+   "char": "乐",
+   "pinyin": "lè"
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "zh": "“为”在这里读 wèi，意思是为了。",
+   "en": "Here this character is read wèi, meaning for the sake of.",
+   "char": "为",
+   "pinyin": "wèi"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "伫倚：久久地靠着站立。伫，长时间站着。",
+   "en": "zhù yǐ: to stand leaning for a long time. Zhù means to stand still for long."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "危楼：高楼。危，高。",
+   "en": "wēi lóu: a high tower. Wēi here means high."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "风细细：微风轻轻地吹。",
+   "en": "fēng xì xì: a gentle breeze."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "望极：望到最远的地方。",
+   "en": "wàng jí: to gaze as far as the eye can see."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "春愁：春天里生出的愁，多指思念。",
+   "en": "chūn chóu: spring sorrow, usually longing for someone."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "黯黯：心情低沉、昏暗的样子。",
+   "en": "àn àn: dim and gloomy."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "天际：天边。",
+   "en": "tiān jì: the edge of the sky, the horizon."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "烟光：雾气迷蒙的景色。",
+   "en": "yān guāng: a hazy, misty view."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "残照：落日的余光。",
+   "en": "cán zhào: the last light of the setting sun."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 4,
+   "zh": "会：理解，懂得。",
+   "en": "huì: to understand."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "凭阑：靠着栏杆。阑，同“栏”。",
+   "en": "píng lán: leaning on the railing."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "拟：打算。",
+   "en": "nǐ: to plan to."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "疏狂：放纵不羁，不受拘束。",
+   "en": "shū kuáng: wild and free, careless of rules."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "图一醉：求得一醉。",
+   "en": "tú yī zuì: to seek to get drunk."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "对酒当歌：一边喝酒，一边唱歌。出自曹操的诗。",
+   "en": "duì jiǔ dāng gē: drinking and singing. The phrase comes from a poem by Cao Cao."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "强乐：勉强作乐。",
+   "en": "qiǎng lè: forcing oneself to be merry."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "无味：没有意思，没有滋味。",
+   "en": "wú wèi: tasteless, no fun at all."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "衣带渐宽：衣带越来越松，说明人一天天瘦了。",
+   "en": "yī dài jiàn kuān: the belt grows looser and looser, meaning he is getting thinner day by day."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 2,
+   "zh": "伊：她，那个人。",
+   "en": "yī: her, that person."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "消得：值得。",
+   "en": "xiāo dé: worth it."
+  },
+  {
+   "line": 9,
+   "start": 5,
+   "end": 7,
+   "zh": "憔悴：又瘦又没精神。",
+   "en": "qiáo cuì: thin, pale and worn out."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我久久地靠在高楼上，微风轻轻吹来。",
+   "en": "I stand a long time leaning on a high tower, a gentle breeze blowing."
+  },
+  {
+   "zh": "望向最远的地方，春天的愁绪，",
+   "en": "I gaze as far as I can see, and a spring sorrow"
+  },
+  {
+   "zh": "从昏暗的天边慢慢升起。",
+   "en": "rises darkly from the edge of the sky."
+  },
+  {
+   "zh": "青草的颜色，迷蒙的雾气，都笼罩在落日的余光里。",
+   "en": "The green of the grass and the misty haze lie in the last light of the sun."
+  },
+  {
+   "zh": "我默默无言，谁能懂得我靠着栏杆的心意？",
+   "en": "I say nothing. Who could understand why I lean on this railing?"
+  },
+  {
+   "zh": "我打算放纵一回，喝个大醉，",
+   "en": "I plan to let myself go and get drunk,"
+  },
+  {
+   "zh": "对着酒，唱着歌，",
+   "en": "to drink and to sing,"
+  },
+  {
+   "zh": "可是勉强作乐，还是没有一点滋味。",
+   "en": "but forced merriment still has no taste at all."
+  },
+  {
+   "zh": "衣带一天天变宽，我也始终不后悔，",
+   "en": "My belt grows looser day by day, yet I never regret it."
+  },
+  {
+   "zh": "为了她，我值得变得这样憔悴。",
+   "en": "For her, it is worth wasting away like this."
+  }
+ ],
+ "background": {
+  "zh": "这首词的写作时间和地点已经说不清了，一般认为是柳永漂泊在外时思念心上人而写的。它也被收进过欧阳修的词集，文字略有不同，所以作者一说是欧阳修，现在通行的说法是柳永。近代学者王国维在《人间词话》里，用最后两句比喻做大事业、大学问的第二种境界：为了目标，再苦也不后悔。",
+  "en": "We no longer know when or where this lyric was written. It is usually read as one Liu Yong wrote while wandering far from home, missing someone he loved. It was also included, in slightly different words, in the collected lyrics of Ouyang Xiu, so some say Ouyang Xiu wrote it. Today it is usually given to Liu Yong. The modern scholar Wang Guowei used the last two lines for the second of three stages of great work and learning: never regretting the hardship of chasing your goal."
+ },
+ "author_note": {
+  "zh": "柳永（约987—约1053），原名三变，北宋词人。他年轻时多次考进士没考中，长年在城市里和乐工、歌女来往，为他们写歌词，作品流传很广，有“凡有井水饮处，即能歌柳词”的说法。晚年才考中进士，只做过小官。他擅长写长调慢词，多写离别和羁旅的愁苦。",
+  "en": "Liu Yong (about 987 to about 1053), first named Sanbian, was a Northern Song lyric poet. As a young man he failed the top civil exam several times. For years he lived among city musicians and singers and wrote songs for them, and his songs spread so widely that people said wherever there was a well, someone was singing Liu Yong. He passed the exam only late in life and held only small posts. He was best at long, slow lyrics, mostly about partings and the sorrows of travel."
+ },
+ "appreciation": {
+  "zh": "上半首写登楼远望。他在高楼上站了很久，风轻轻吹，他望着天边，愁绪像暮色一样从远处升起来。夕阳照着青草和雾气，景色很美，可是没有人懂他为什么靠着栏杆不走。下半首写他想办法解愁：干脆喝个大醉，唱唱歌。可是心不在这里，勉强的快乐一点味道都没有。最后两句是全词的心：人一天天瘦下去，衣带都松了，他却说“终不悔”，为了她，值得。这份执着，让这两句流传了近千年。",
+  "en": "The first half is about climbing a tower and gazing far. He stands there for a long time in the gentle wind, looking at the horizon, and his sorrow rises from far away like the dusk. The sunset lights the green grass and the mist. It is beautiful, but no one understands why he leans on the railing and will not leave. The second half is about trying to drive the sorrow away. Why not get drunk and sing? But his heart is elsewhere, and forced fun has no taste. The last two lines are the heart of the lyric. He grows thinner every day until his belt is loose, yet he says he never regrets it. For her, it is worth it. This stubborn love has kept these two lines alive for nearly a thousand years."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "tower",
+   "sunset",
+   "devotion"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "语料把这首词记在欧阳修名下，通行本作柳永。另外，这首词已经有一份精读文件 ci-7fbe79b11acb（柳永《蝶恋花·伫倚危楼风细细》），两份内容重复，需要决定保留哪一份。",
+   "en": "The corpus lists this lyric under Ouyang Xiu, while common editions give it to Liu Yong. Also, this lyric already has a close-reading file, ci-7fbe79b11acb (Liu Yong's version), so the two files duplicate each other and one should be chosen."
+  }
+ ]
+}

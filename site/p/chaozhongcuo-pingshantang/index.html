@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>朝中措·平山堂 · 欧阳修 — 诗</title>
+    <meta name="description" content="朝中措·平山堂 · 欧阳修 — Chao Zhong Cuo: Pingshan Hall by Ouyang Xiu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>朝中措·平山堂</h1>
+        <p class="by">欧阳修<span class="mono"><span lang="en">Ouyang Xiu · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Chao Zhong Cuo: Pingshan Hall</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>píng</i><b>平</b></span><span class="c gl" data-l="0" data-p="1"><i>shān</i><b>山</b></span><span class="c gl" data-l="0" data-p="2"><i>lán</i><b>阑</b></span><span class="c gl rd" data-l="0" data-p="3"><i>jiàn</i><b>槛</b></span><span class="c gl" data-l="0" data-p="4"><i>yǐ</i><b>倚</b></span><span class="c gl" data-l="0" data-p="5"><i>qíng</i><b>晴</b></span><span class="c gl" data-l="0" data-p="6"><i>kōng</i><b>空</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>shān</i><b>山</b></span><span class="c" data-l="1" data-p="1"><i>sè</i><b>色</b></span><span class="c gl" data-l="1" data-p="2"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="1" data-p="3"><i>wú</i><b>无</b></span><span class="c gl" data-l="1" data-p="4"><i>zhōng</i><b>中</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>shǒu</i><b>手</b></span><span class="c gl rd" data-l="2" data-p="1"><i>zhòng</i><b>种</b></span><span class="c" data-l="2" data-p="2"><i>táng</i><b>堂</b></span><span class="c" data-l="2" data-p="3"><i>qián</i><b>前</b></span><span class="c" data-l="2" data-p="4"><i>chuí</i><b>垂</b></span><span class="c" data-l="2" data-p="5"><i>liǔ</i><b>柳</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>bié</i><b>别</b></span><span class="c" data-l="3" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="3" data-p="2"><i>jǐ</i><b>几</b></span><span class="c gl" data-l="3" data-p="3"><i>dù</i><b>度</b></span><span class="c gl" data-l="3" data-p="4"><i>chūn</i><b>春</b></span><span class="c gl" data-l="3" data-p="5"><i>fēng</i><b>风</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>wén</i><b>文</b></span><span class="c gl" data-l="4" data-p="1"><i>zhāng</i><b>章</b></span><span class="c gl" data-l="4" data-p="2"><i>tài</i><b>太</b></span><span class="c gl" data-l="4" data-p="3"><i>shǒu</i><b>守</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>huī</i><b>挥</b></span><span class="c gl" data-l="5" data-p="1"><i>háo</i><b>毫</b></span><span class="c" data-l="5" data-p="2"><i>wàn</i><b>万</b></span><span class="c" data-l="5" data-p="3"><i>zì</i><b>字</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>yī</i><b>一</b></span><span class="c" data-l="6" data-p="1"><i>yǐn</i><b>饮</b></span><span class="c gl" data-l="6" data-p="2"><i>qiān</i><b>千</b></span><span class="c gl" data-l="6" data-p="3"><i>zhōng</i><b>钟</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>xíng</i><b>行</b></span><span class="c" data-l="7" data-p="1"><i>lè</i><b>乐</b></span><span class="c gl" data-l="7" data-p="2"><i>zhí</i><b>直</b></span><span class="c gl" data-l="7" data-p="3"><i>xū</i><b>须</b></span><span class="c" data-l="7" data-p="4"><i>nián</i><b>年</b></span><span class="c rd" data-l="7" data-p="5"><i>shào</i><b>少</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>zūn</i><b>尊</b></span><span class="c gl" data-l="8" data-p="1"><i>qián</i><b>前</b></span><span class="c gl" data-l="8" data-p="2"><i>kàn</i><b>看</b></span><span class="c gl" data-l="8" data-p="3"><i>qǔ</i><b>取</b></span><span class="c gl" data-l="8" data-p="4"><i>shuāi</i><b>衰</b></span><span class="c gl" data-l="8" data-p="5"><i>wēng</i><b>翁</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus gives only the tune name; common editions add the title &quot;Pingshan Hall&quot;. In line seven the corpus uses an older form of the character zhōng (a wine cup); simplified editions use the common form, with the same meaning.</p><p lang="zh">语料只题词牌“朝中措”，通行本题作“朝中措·平山堂”。语料第七句作“千锺”，简体通行本写作“千钟”，意思一样。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">平山阑槛倚晴空</span><span lang="en">The railings of Pingshan Hall seem to lean against the clear sky;</span><span lang="zh">平山堂的栏杆好像靠在晴朗的天空上，</span></li><li><span class="o">山色有无中</span><span lang="en">the far hills are faint, now there, now gone.</span><span lang="zh">远处的山色若有若无。</span></li><li><span class="o">手种堂前垂柳</span><span lang="en">I planted the weeping willow in front of the hall with my own hands;</span><span lang="zh">堂前那棵垂柳是我亲手种的，</span></li><li><span class="o">别来几度春风</span><span lang="en">since I left, how many spring winds have blown through it?</span><span lang="zh">分别以后，它已经吹过几回春风了？</span></li><li class="brk"><span class="o">文章太守</span><span lang="en">You, the governor who writes so well,</span><span lang="zh">你这位会写文章的太守，</span></li><li><span class="o">挥毫万字</span><span lang="en">can write ten thousand words at a stroke</span><span lang="zh">一下笔就能写上万字，</span></li><li><span class="o">一饮千钟</span><span lang="en">and drink a thousand cups at a sitting.</span><span lang="zh">一喝酒就能喝下千杯。</span></li><li><span class="o">行乐直须年少</span><span lang="en">If you want to enjoy life, do it while you are young;</span><span lang="zh">要寻欢作乐，就该趁年轻的时候，</span></li><li><span class="o">尊前看取衰翁</span><span lang="en">just look at me, a worn-out old man before the wine cup.</span><span lang="zh">你看看酒杯前我这个衰老的老头儿吧。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>平山<span class="mono">píng shān</span></dt><dd><span lang="en">píng shān: Pingshan Hall, which Ouyang Xiu built on a hill outside Yangzhou when he served there. From the hall, the far hills south of the river seem level with it, so it was named &quot;Level with the Hills&quot;.</span><span lang="zh">平山：平山堂，欧阳修在扬州做官时在城外蜀冈上修的厅堂。站在堂上，江南的远山好像和堂一样高，所以叫“平山”。</span></dd></div><div><dt>阑槛<span class="mono">lán jiàn</span></dt><dd><span lang="en">lán jiàn: a railing.</span><span lang="zh">阑槛：栏杆。</span></dd></div><div><dt>倚晴空<span class="mono">yǐ qíng kōng</span></dt><dd><span lang="en">yǐ qíng kōng: the railing seems to lean against the clear sky, showing how high the hall stands.</span><span lang="zh">倚晴空：栏杆好像靠在晴朗的天空上，说平山堂很高。</span></dd></div><div><dt>有无中<span class="mono">yǒu wú zhōng</span></dt><dd><span lang="en">yǒu wú zhōng: the far hills are faint, now there, now not.</span><span lang="zh">有无中：远山若隐若现，好像有，又好像没有。</span></dd></div><div><dt>手种<span class="mono">shǒu zhòng</span></dt><dd><span lang="en">shǒu zhòng: planted with my own hands.</span><span lang="zh">手种：亲手种下。</span></dd></div><div><dt>几度春风<span class="mono">jǐ dù chūn fēng</span></dt><dd><span lang="en">jǐ dù chūn fēng: how many spring winds have passed, that is, how many years.</span><span lang="zh">几度春风：过了几个春天。</span></dd></div><div><dt>文章太守<span class="mono">wén zhāng tài shǒu</span></dt><dd><span lang="en">wén zhāng tài shǒu: a governor who writes fine prose. A tài shǒu was the head of a prefecture. Here it means his friend Liu Chang, who was going to govern Yangzhou. Another reading says Ouyang Xiu also means himself.</span><span lang="zh">文章太守：文章写得好的太守。太守，一个州的长官。这里指要去扬州做官的朋友刘敞，一说也是欧阳修说自己。</span></dd></div><div><dt>挥毫<span class="mono">huī háo</span></dt><dd><span lang="en">huī háo: to wield the brush and write. Háo is a writing brush.</span><span lang="zh">挥毫：拿起毛笔写字。毫，毛笔。</span></dd></div><div><dt>千钟<span class="mono">qiān zhōng</span></dt><dd><span lang="en">qiān zhōng: a thousand cups. A zhōng was an old wine vessel. It is an exaggeration for a huge capacity for wine.</span><span lang="zh">千钟：一千杯。钟，古代的酒器。这是夸张，说酒量大。</span></dd></div><div><dt>直须<span class="mono">zhí xū</span></dt><dd><span lang="en">zhí xū: one really should.</span><span lang="zh">直须：就应该，正应当。</span></dd></div><div><dt>尊前<span class="mono">zūn qián</span></dt><dd><span lang="en">zūn qián: before the wine cup, that is, while drinking. Zūn is a wine cup.</span><span lang="zh">尊前：酒杯前，就是喝酒的时候。尊，酒杯。</span></dd></div><div><dt>看取<span class="mono">kàn qǔ</span></dt><dd><span lang="en">kàn qǔ: take a look. Qǔ adds no meaning of its own here.</span><span lang="zh">看取：看看。取，助词，没有实在意思。</span></dd></div><div><dt>衰翁<span class="mono">shuāi wēng</span></dt><dd><span lang="en">shuāi wēng: a worn-out old man, the poet speaking of himself.</span><span lang="zh">衰翁：衰老的老头儿，欧阳修说自己。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>槛<span class="mono">jiàn</span></dt><dd><span lang="en">lán jiàn: a railing. The character is read jiàn when it means railing; it is read kǎn only in the word for doorsill.</span><span lang="zh">阑槛：栏杆。“槛”指栏杆时读 jiàn；“门槛”的“槛”才读 kǎn。</span></dd></div><div><dt>种<span class="mono">zhòng</span></dt><dd><span lang="en">shǒu zhòng: planted with one&#x27;s own hands. Here it is the action of planting, read zhòng.</span><span lang="zh">手种：亲手种下，“种”是动作，读 zhòng。</span></dd></div><div><dt>少<span class="mono">shào</span></dt><dd><span lang="en">nián shào: when one is young, read shào.</span><span lang="zh">年少：年轻的时候，读 shào。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In 1056, Ouyang Xiu&#x27;s friend Liu Chang was about to become governor of Yangzhou, and Ouyang wrote this ci to see him off. Eight years earlier Ouyang himself had served in Yangzhou. He built Pingshan Hall outside the city and planted a willow in front of it with his own hands. Now that his friend was going there, he remembered the place and wrote this. He was about fifty that year, so he calls himself &quot;a worn-out old man&quot;.</p><p lang="zh">宋仁宗嘉祐元年（1056年），欧阳修的朋友刘敞要去扬州做太守，欧阳修写了这首词为他送行。八年前，欧阳修自己在扬州做官，在城外修了平山堂，还亲手在堂前种了柳树。如今朋友要去那里，他想起旧地，写下了这首词。这一年他五十岁左右，所以自称“衰翁”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Ouyang Xiu (1007–1072), also called the Old Drunkard, was a great Northern Song writer and one of the Eight Masters of Tang and Song prose. He wrote the famous &quot;Pavilion of the Old Drunkard&quot;. He served in office for many years and was sent away several times, but he stayed open-hearted. Some of his ci are tender, while others, like this one, are bold and free.</p><p lang="zh">欧阳修（1007—1072），号醉翁，晚年又号六一居士，北宋文学家，“唐宋八大家”之一。他写过有名的《醉翁亭记》。他做官多年，几次被贬，但性格豁达。他的词有的婉转，有的像这首一样豪放潇洒。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half shows Pingshan Hall. The railing leans against the clear sky, so the hall must be high. The far hills are faint, now there, now gone, and the view is wide and misty. &quot;Now there, now gone&quot; is borrowed from a line by Wang Wei, and it fits perfectly. Then he thinks of the willow he planted himself and asks how many springs have passed since he left. His longing is all in that question. The second half turns to his friend: ten thousand words with one sweep of the brush, a thousand cups at one sitting. A gifted, bold, carefree governor jumps off the page. The last two lines are half a joke: enjoy life while you are young; look at me, already an old man. There is a sigh inside the laugh, and good wishes for his friend too.</p><p lang="zh">上片写平山堂。栏杆靠着晴空，可见堂很高；远山若有若无，画面开阔又朦胧。“山色有无中”是借用王维的诗句，用在这里非常自然。接着写他亲手种的柳树，问分别后过了几个春天，怀念之情就在这一问里。下片转向朋友：写文章一挥就是万字，喝酒一喝就是千杯，一个才华横溢、豪爽潇洒的太守跃然纸上。最后两句半开玩笑：快乐要趁年轻，你看我，已经是个老头儿了。笑里带着感慨，也带着对朋友的祝福。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/baodingxian-dingyouyuanxi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>宝鼎现·丁酉元夕</b></a><a href="../../p/zhuyingtaijin-chunrikeguixiyoufeiyuan/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>祝英台近·春日客龟溪游废园</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["平", "píng"], ["山", "shān"], ["阑", "lán"], ["槛", "jiàn"], ["倚", "yǐ"], ["晴", "qíng"], ["空", "kōng"]], [["山", "shān"], ["色", "sè"], ["有", "yǒu"], ["无", "wú"], ["中", "zhōng"]], [["手", "shǒu"], ["种", "zhòng"], ["堂", "táng"], ["前", "qián"], ["垂", "chuí"], ["柳", "liǔ"]], [["别", "bié"], ["来", "lái"], ["几", "jǐ"], ["度", "dù"], ["春", "chūn"], ["风", "fēng"]], [["文", "wén"], ["章", "zhāng"], ["太", "tài"], ["守", "shǒu"]], [["挥", "huī"], ["毫", "háo"], ["万", "wàn"], ["字", "zì"]], [["一", "yī"], ["饮", "yǐn"], ["千", "qiān"], ["钟", "zhōng"]], [["行", "xíng"], ["乐", "lè"], ["直", "zhí"], ["须", "xū"], ["年", "nián"], ["少", "shào"]], [["尊", "zūn"], ["前", "qián"], ["看", "kàn"], ["取", "qǔ"], ["衰", "shuāi"], ["翁", "wēng"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "平山：平山堂，欧阳修在扬州做官时在城外蜀冈上修的厅堂。站在堂上，江南的远山好像和堂一样高，所以叫“平山”。", "en": "píng shān: Pingshan Hall, which Ouyang Xiu built on a hill outside Yangzhou when he served there. From the hall, the far hills south of the river seem level with it, so it was named \"Level with the Hills\"."}, {"line": 0, "start": 2, "end": 4, "zh": "阑槛：栏杆。", "en": "lán jiàn: a railing."}, {"line": 0, "start": 4, "end": 7, "zh": "倚晴空：栏杆好像靠在晴朗的天空上，说平山堂很高。", "en": "yǐ qíng kōng: the railing seems to lean against the clear sky, showing how high the hall stands."}, {"line": 1, "start": 2, "end": 5, "zh": "有无中：远山若隐若现，好像有，又好像没有。", "en": "yǒu wú zhōng: the far hills are faint, now there, now not."}, {"line": 2, "start": 0, "end": 2, "zh": "手种：亲手种下。", "en": "shǒu zhòng: planted with my own hands."}, {"line": 3, "start": 2, "end": 6, "zh": "几度春风：过了几个春天。", "en": "jǐ dù chūn fēng: how many spring winds have passed, that is, how many years."}, {"line": 4, "start": 0, "end": 4, "zh": "文章太守：文章写得好的太守。太守，一个州的长官。这里指要去扬州做官的朋友刘敞，一说也是欧阳修说自己。", "en": "wén zhāng tài shǒu: a governor who writes fine prose. A tài shǒu was the head of a prefecture. Here it means his friend Liu Chang, who was going to govern Yangzhou. Another reading says Ouyang Xiu also means himself."}, {"line": 5, "start": 0, "end": 2, "zh": "挥毫：拿起毛笔写字。毫，毛笔。", "en": "huī háo: to wield the brush and write. Háo is a writing brush."}, {"line": 6, "start": 2, "end": 4, "zh": "千钟：一千杯。钟，古代的酒器。这是夸张，说酒量大。", "en": "qiān zhōng: a thousand cups. A zhōng was an old wine vessel. It is an exaggeration for a huge capacity for wine."}, {"line": 7, "start": 2, "end": 4, "zh": "直须：就应该，正应当。", "en": "zhí xū: one really should."}, {"line": 8, "start": 0, "end": 2, "zh": "尊前：酒杯前，就是喝酒的时候。尊，酒杯。", "en": "zūn qián: before the wine cup, that is, while drinking. Zūn is a wine cup."}, {"line": 8, "start": 2, "end": 4, "zh": "看取：看看。取，助词，没有实在意思。", "en": "kàn qǔ: take a look. Qǔ adds no meaning of its own here."}, {"line": 8, "start": 4, "end": 6, "zh": "衰翁：衰老的老头儿，欧阳修说自己。", "en": "shuāi wēng: a worn-out old man, the poet speaking of himself."}], "readings": [{"line": 0, "pos": 3, "char": "槛", "pinyin": "jiàn", "zh": "阑槛：栏杆。“槛”指栏杆时读 jiàn；“门槛”的“槛”才读 kǎn。", "en": "lán jiàn: a railing. The character is read jiàn when it means railing; it is read kǎn only in the word for doorsill."}, {"line": 2, "pos": 1, "char": "种", "pinyin": "zhòng", "zh": "手种：亲手种下，“种”是动作，读 zhòng。", "en": "shǒu zhòng: planted with one's own hands. Here it is the action of planting, read zhòng."}, {"line": 7, "pos": 5, "char": "少", "pinyin": "shào", "zh": "年少：年轻的时候，读 shào。", "en": "nián shào: when one is young, read shào."}], "speak": ["平山阑健倚晴空", "山色有无中", "手仲堂前垂柳", "别来几度春风", "文章太守", "挥毫万字", "一饮千钟", "行乐直须年少", "尊前看取衰翁"], "speakTitle": "朝中措，平山堂。欧阳修。", "sample": "平山阑槛倚晴空"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>玉楼春·东风又作无情计 · 晏几道 — 诗</title>
+    <meta name="description" content="玉楼春·东风又作无情计 · 晏几道 — Jade Tower Spring: Again the East Wind Plays Its Heartless Trick by Yan Jidao: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>玉楼春·东风又作无情计</h1>
+        <p class="by">晏几道<span class="mono"><span lang="en">Yan Jidao · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Jade Tower Spring: Again the East Wind Plays Its Heartless Trick</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>dōng</i><b>东</b></span><span class="c gl" data-l="0" data-p="1"><i>fēng</i><b>风</b></span><span class="c" data-l="0" data-p="2"><i>yòu</i><b>又</b></span><span class="c gl" data-l="0" data-p="3"><i>zuò</i><b>作</b></span><span class="c gl" data-l="0" data-p="4"><i>wú</i><b>无</b></span><span class="c gl" data-l="0" data-p="5"><i>qíng</i><b>情</b></span><span class="c gl" data-l="0" data-p="6"><i>jì</i><b>计</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>yàn</i><b>艳</b></span><span class="c gl" data-l="1" data-p="1"><i>fěn</i><b>粉</b></span><span class="c gl" data-l="1" data-p="2"><i>jiāo</i><b>娇</b></span><span class="c gl" data-l="1" data-p="3"><i>hóng</i><b>红</b></span><span class="c" data-l="1" data-p="4"><i>chuī</i><b>吹</b></span><span class="c" data-l="1" data-p="5"><i>mǎn</i><b>满</b></span><span class="c" data-l="1" data-p="6"><i>dì</i><b>地</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>bì</i><b>碧</b></span><span class="c gl" data-l="2" data-p="1"><i>lóu</i><b>楼</b></span><span class="c gl" data-l="2" data-p="2"><i>lián</i><b>帘</b></span><span class="c gl" data-l="2" data-p="3"><i>yǐng</i><b>影</b></span><span class="c" data-l="2" data-p="4"><i>bù</i><b>不</b></span><span class="c gl" data-l="2" data-p="5"><i>zhē</i><b>遮</b></span><span class="c" data-l="2" data-p="6"><i>chóu</i><b>愁</b></span></p><p class="ln"><span class="c rd" data-l="3" data-p="0"><i>hái</i><b>还</b></span><span class="c gl" data-l="3" data-p="1"><i>sì</i><b>似</b></span><span class="c gl" data-l="3" data-p="2"><i>qù</i><b>去</b></span><span class="c gl" data-l="3" data-p="3"><i>nián</i><b>年</b></span><span class="c gl" data-l="3" data-p="4"><i>jīn</i><b>今</b></span><span class="c gl" data-l="3" data-p="5"><i>rì</i><b>日</b></span><span class="c gl" data-l="3" data-p="6"><i>yì</i><b>意</b></span></p><p class="ln brk"><span class="c" data-l="4" data-p="0"><i>shuí</i><b>谁</b></span><span class="c" data-l="4" data-p="1"><i>zhī</i><b>知</b></span><span class="c gl" data-l="4" data-p="2"><i>cuò</i><b>错</b></span><span class="c gl" data-l="4" data-p="3"><i>guǎn</i><b>管</b></span><span class="c gl" data-l="4" data-p="4"><i>chūn</i><b>春</b></span><span class="c gl" data-l="4" data-p="5"><i>cán</i><b>残</b></span><span class="c gl" data-l="4" data-p="6"><i>shì</i><b>事</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>dào</i><b>到</b></span><span class="c" data-l="5" data-p="1"><i>chù</i><b>处</b></span><span class="c gl" data-l="5" data-p="2"><i>dēng</i><b>登</b></span><span class="c gl" data-l="5" data-p="3"><i>lín</i><b>临</b></span><span class="c" data-l="5" data-p="4"><i>céng</i><b>曾</b></span><span class="c gl" data-l="5" data-p="5"><i>fèi</i><b>费</b></span><span class="c gl" data-l="5" data-p="6"><i>lèi</i><b>泪</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>cǐ</i><b>此</b></span><span class="c" data-l="6" data-p="1"><i>shí</i><b>时</b></span><span class="c gl" data-l="6" data-p="2"><i>jīn</i><b>金</b></span><span class="c gl" data-l="6" data-p="3"><i>zhǎn</i><b>盏</b></span><span class="c gl" data-l="6" data-p="4"><i>zhí</i><b>直</b></span><span class="c gl" data-l="6" data-p="5"><i>xū</i><b>须</b></span><span class="c gl" data-l="6" data-p="6"><i>shēn</i><b>深</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>kàn</i><b>看</b></span><span class="c rd" data-l="7" data-p="1"><i>jìn</i><b>尽</b></span><span class="c" data-l="7" data-p="2"><i>luò</i><b>落</b></span><span class="c" data-l="7" data-p="3"><i>huā</i><b>花</b></span><span class="c gl" data-l="7" data-p="4"><i>néng</i><b>能</b></span><span class="c gl" data-l="7" data-p="5"><i>jǐ</i><b>几</b></span><span class="c gl" data-l="7" data-p="6"><i>zuì</i><b>醉</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">东风又作无情计</span><span lang="en">Again the spring wind makes its heartless plan,</span><span lang="zh">春风又打起了无情的主意，</span></li><li><span class="o">艳粉娇红吹满地</span><span lang="en">and blows pink and red petals all over the ground.</span><span lang="zh">把粉的、红的花瓣吹得满地都是。</span></li><li><span class="o">碧楼帘影不遮愁</span><span lang="en">In the blue-green tower, the curtain&#x27;s shadow cannot keep out my sorrow,</span><span lang="zh">青绿色的楼上，帘子的影子挡不住忧愁，</span></li><li><span class="o">还似去年今日意</span><span lang="en">which feels just the same as on this day last year.</span><span lang="zh">还和去年今天的心情一模一样。</span></li><li class="brk"><span class="o">谁知错管春残事</span><span lang="en">Who knows that I fret, for nothing, about spring coming to an end?</span><span lang="zh">谁知道我白白操心春天将尽这件事，</span></li><li><span class="o">到处登临曾费泪</span><span lang="en">Wherever I climbed up high to look far, I shed tears for it.</span><span lang="zh">每到一处登高望远，都曾为它流泪。</span></li><li><span class="o">此时金盏直须深</span><span lang="en">Now the golden cup must be filled to the brim,</span><span lang="zh">这时候金杯里的酒一定要斟满，</span></li><li><span class="o">看尽落花能几醉</span><span lang="en">for by the time the last flowers fall, how many more times can I get drunk?</span><span lang="zh">等到看完落花，还能醉上几回呢？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>东风<span class="mono">dōng fēng</span></dt><dd><span lang="en">dōng fēng: the east wind, the wind of spring.</span><span lang="zh">东风：春天的风。</span></dd></div><div><dt>作无情计<span class="mono">zuò wú qíng jì</span></dt><dd><span lang="en">zuò wú qíng jì: to make a heartless plan; the spring wind seems cruel enough to blow the flowers down.</span><span lang="zh">作无情计：打着无情的主意，说春风狠心地要把花吹落。</span></dd></div><div><dt>艳粉娇红<span class="mono">yàn fěn jiāo hóng</span></dt><dd><span lang="en">yàn fěn jiāo hóng: bright pink and pretty red, meaning the flower petals.</span><span lang="zh">艳粉娇红：粉色、红色的鲜艳花朵，这里指花瓣。</span></dd></div><div><dt>碧楼<span class="mono">bì lóu</span></dt><dd><span lang="en">bì lóu: a building painted blue-green.</span><span lang="zh">碧楼：漆成青绿色的楼。</span></dd></div><div><dt>帘影<span class="mono">lián yǐng</span></dt><dd><span lang="en">lián yǐng: the shadow of the curtain.</span><span lang="zh">帘影：门窗上帘子的影子。</span></dd></div><div><dt>遮<span class="mono">zhē</span></dt><dd><span lang="en">zhē: to block, to shut out.</span><span lang="zh">遮：挡住。</span></dd></div><div><dt>似去年今日意<span class="mono">sì qù nián jīn rì yì</span></dt><dd><span lang="en">sì qù nián jīn rì yì: the same feeling as on this very day last year.</span><span lang="zh">似去年今日意：和去年这一天的心情一样。</span></dd></div><div><dt>错管<span class="mono">cuò guǎn</span></dt><dd><span lang="en">cuò guǎn: to worry about something you should not, all for nothing.</span><span lang="zh">错管：不该管却去管了，白白操心。</span></dd></div><div><dt>春残事<span class="mono">chūn cán shì</span></dt><dd><span lang="en">chūn cán shì: the matter of spring coming to an end.</span><span lang="zh">春残事：春天快要过去这件事。</span></dd></div><div><dt>登临<span class="mono">dēng lín</span></dt><dd><span lang="en">dēng lín: to climb up high and look far.</span><span lang="zh">登临：登上高处，向远处看。</span></dd></div><div><dt>费泪<span class="mono">fèi lèi</span></dt><dd><span lang="en">fèi lèi: to spend many tears.</span><span lang="zh">费泪：流了许多眼泪。</span></dd></div><div><dt>金盏<span class="mono">jīn zhǎn</span></dt><dd><span lang="en">jīn zhǎn: a golden wine cup, any fine wine cup.</span><span lang="zh">金盏：金色的酒杯，泛指精美的酒杯。</span></dd></div><div><dt>直须深<span class="mono">zhí xū shēn</span></dt><dd><span lang="en">zhí xū shēn: the cup must be filled to the brim.</span><span lang="zh">直须深：一定要把酒斟得满满的。</span></dd></div><div><dt>能几醉<span class="mono">néng jǐ zuì</span></dt><dd><span lang="en">néng jǐ zuì: how many more times can I get drunk?</span><span lang="zh">能几醉：还能醉上几回呢。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>还<span class="mono">hái</span></dt><dd><span lang="en">Here the character means still, so it is read hái, not huán.</span><span lang="zh">“还似”的“还”是“仍然”的意思，读 hái，不读 huán。</span></dd></div><div><dt>尽<span class="mono">jìn</span></dt><dd><span lang="en">Here the character means to the very end, so it is read jìn.</span><span lang="zh">“看尽”的“尽”是“完、到头”的意思，读 jìn。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric is about the sadness of falling flowers in late spring. We do not know exactly when it was written. Yan Jidao grew up in the family of a chief minister and lived in wealth when young. After his father Yan Shu died, the family slowly declined and his life grew harder. So his lyrics often miss the past and sigh over passing time. This one starts with the wind blowing the flowers down, moves to tears shed on high places, and ends with wine. It shows that feeling of loving spring and grieving as it goes.</p><p lang="zh">这首词写暮春落花时的伤感，具体写作时间不能确定。晏几道出身宰相家庭，年轻时过着富贵的生活。父亲晏殊去世后，家道慢慢衰落，他的日子越来越不如意。所以他的词里常常有对往事的怀念和对时光流逝的叹息。这首词从风吹落花写起，写到登高流泪，最后以饮酒收尾，正是这种惜春伤时的心情。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Jidao (about 1038–1110), also called Xiaoshan, was the seventh son of Yan Shu; father and son are called the Two Yans. He was proud and would not flatter powerful people, and he was poor in his later years. His lyrics are mostly about longing, parting and memories of happy days. They are sincere and clear and fresh in language. His collection is called Xiaoshan Ci.</p><p lang="zh">晏几道（约1038—1110），号小山，是晏殊的第七个儿子，和父亲合称“二晏”。他性格清高，不肯讨好有权势的人，晚年生活贫困。他的词多写相思、离别和对往日欢乐的回忆，感情真挚，语言清丽，有《小山词》传世。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">At the start, the spring wind makes its heartless plan again. The word again tells us this happens every year, and every year the poet is sad. The ground covered with pink and red petals is beautiful, but the wind blew them down, so the beauty comes with regret. A curtain can block the sun, but not sorrow, and this sorrow is just like last year&#x27;s. In the second half the poet laughs at himself. No one can keep spring from leaving, yet he worries about it for nothing and cries on every high place. At last he decides to fill the cup and get drunk a few more times before the flowers are all gone, because such chances are few. On the surface he is telling himself to drink. Underneath, he cannot bear to let spring go.</p><p lang="zh">开头说春风“又作无情计”，一个“又”字，说明这样的事年年都有，词人年年都伤心。满地的粉红花瓣很美，却是被风吹落的，美里带着可惜。帘子挡得住阳光，却挡不住愁，这愁和去年今天一模一样。下半首词人自嘲：春天要走，谁也留不住，我却白白为它操心，到处登高流泪。最后他想通了，不如把酒杯斟满，趁花还没落完多醉几回，因为这样的机会已经不多了。表面是劝自己喝酒，其实是更深的不舍。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/huanxisha-mengehuashenmengjiuyou/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>浣溪沙·门隔花深梦旧游</b></a><a href="../../p/tianmenyao-dengcaishiemeiting/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>天门谣·登采石峨眉亭</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["东", "dōng"], ["风", "fēng"], ["又", "yòu"], ["作", "zuò"], ["无", "wú"], ["情", "qíng"], ["计", "jì"]], [["艳", "yàn"], ["粉", "fěn"], ["娇", "jiāo"], ["红", "hóng"], ["吹", "chuī"], ["满", "mǎn"], ["地", "dì"]], [["碧", "bì"], ["楼", "lóu"], ["帘", "lián"], ["影", "yǐng"], ["不", "bù"], ["遮", "zhē"], ["愁", "chóu"]], [["还", "hái"], ["似", "sì"], ["去", "qù"], ["年", "nián"], ["今", "jīn"], ["日", "rì"], ["意", "yì"]], [["谁", "shuí"], ["知", "zhī"], ["错", "cuò"], ["管", "guǎn"], ["春", "chūn"], ["残", "cán"], ["事", "shì"]], [["到", "dào"], ["处", "chù"], ["登", "dēng"], ["临", "lín"], ["曾", "céng"], ["费", "fèi"], ["泪", "lèi"]], [["此", "cǐ"], ["时", "shí"], ["金", "jīn"], ["盏", "zhǎn"], ["直", "zhí"], ["须", "xū"], ["深", "shēn"]], [["看", "kàn"], ["尽", "jìn"], ["落", "luò"], ["花", "huā"], ["能", "néng"], ["几", "jǐ"], ["醉", "zuì"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "东风：春天的风。", "en": "dōng fēng: the east wind, the wind of spring."}, {"line": 0, "start": 3, "end": 7, "zh": "作无情计：打着无情的主意，说春风狠心地要把花吹落。", "en": "zuò wú qíng jì: to make a heartless plan; the spring wind seems cruel enough to blow the flowers down."}, {"line": 1, "start": 0, "end": 4, "zh": "艳粉娇红：粉色、红色的鲜艳花朵，这里指花瓣。", "en": "yàn fěn jiāo hóng: bright pink and pretty red, meaning the flower petals."}, {"line": 2, "start": 0, "end": 2, "zh": "碧楼：漆成青绿色的楼。", "en": "bì lóu: a building painted blue-green."}, {"line": 2, "start": 2, "end": 4, "zh": "帘影：门窗上帘子的影子。", "en": "lián yǐng: the shadow of the curtain."}, {"line": 2, "start": 5, "end": 6, "zh": "遮：挡住。", "en": "zhē: to block, to shut out."}, {"line": 3, "start": 1, "end": 7, "zh": "似去年今日意：和去年这一天的心情一样。", "en": "sì qù nián jīn rì yì: the same feeling as on this very day last year."}, {"line": 4, "start": 2, "end": 4, "zh": "错管：不该管却去管了，白白操心。", "en": "cuò guǎn: to worry about something you should not, all for nothing."}, {"line": 4, "start": 4, "end": 7, "zh": "春残事：春天快要过去这件事。", "en": "chūn cán shì: the matter of spring coming to an end."}, {"line": 5, "start": 2, "end": 4, "zh": "登临：登上高处，向远处看。", "en": "dēng lín: to climb up high and look far."}, {"line": 5, "start": 5, "end": 7, "zh": "费泪：流了许多眼泪。", "en": "fèi lèi: to spend many tears."}, {"line": 6, "start": 2, "end": 4, "zh": "金盏：金色的酒杯，泛指精美的酒杯。", "en": "jīn zhǎn: a golden wine cup, any fine wine cup."}, {"line": 6, "start": 4, "end": 7, "zh": "直须深：一定要把酒斟得满满的。", "en": "zhí xū shēn: the cup must be filled to the brim."}, {"line": 7, "start": 4, "end": 7, "zh": "能几醉：还能醉上几回呢。", "en": "néng jǐ zuì: how many more times can I get drunk?"}], "readings": [{"line": 3, "pos": 0, "char": "还", "pinyin": "hái", "zh": "“还似”的“还”是“仍然”的意思，读 hái，不读 huán。", "en": "Here the character means still, so it is read hái, not huán."}, {"line": 7, "pos": 1, "char": "尽", "pinyin": "jìn", "zh": "“看尽”的“尽”是“完、到头”的意思，读 jìn。", "en": "Here the character means to the very end, so it is read jìn."}], "speak": ["东风又作无情计", "艳粉娇红吹满地", "碧楼帘影不遮愁", "还嗣去年今日意", "谁知错管春残事", "到处登临曾费泪", "此时金盏直须深", "看晋落花能几醉"], "speakTitle": "玉楼春，东风又作无情计。晏几道。", "sample": "东风又作无情计"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

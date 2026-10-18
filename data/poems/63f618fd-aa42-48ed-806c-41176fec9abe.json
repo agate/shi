@@ -1,0 +1,251 @@
+{
+ "id": "63f618fd-aa42-48ed-806c-41176fec9abe",
+ "kind": "shi",
+ "title": "望洞庭",
+ "title_en": "Gazing at Dongting Lake",
+ "author": "刘禹锡",
+ "author_en": "Liu Yuxi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "和",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "潭",
+    "tán"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "磨",
+    "mó"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "翠",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "螺",
+    "luó"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "湖光：湖面上的水光。",
+   "en": "hú guāng: the shimmer of light on the lake."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "两相和：湖光和月光两样东西互相融合，十分和谐。和，和谐、融洽。",
+   "en": "liǎng xiāng hé: the two, lake light and moonlight, blend together in harmony. Hé means in harmony."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "潭面：这里指湖面。潭，深水。",
+   "en": "tán miàn: here, the surface of the lake. Tán means deep water."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "镜未磨：没有磨过的镜子。古代的镜子是铜做的，要常常磨才会亮。没磨的镜子不太亮，看上去朦朦胧胧的。",
+   "en": "jìng wèi mó: a mirror not yet polished. Old mirrors were made of bronze and had to be polished to shine. An unpolished one looks soft and hazy."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "遥望：从远处看。",
+   "en": "yáo wàng: to look from far away."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 6,
+   "zh": "洞庭山水：洞庭湖的水和湖中的君山。",
+   "en": "dòng tíng shān shuǐ: the water of Dongting Lake and Junshan, the little hill in the lake."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 7,
+   "zh": "翠：青绿色。",
+   "en": "cuì: deep green."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "白银盘：白银做的盘子，比喻月光下的洞庭湖面。",
+   "en": "bái yín pán: a silver plate. It stands for the lake shining under the moon."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "青螺：青黑色的螺壳，比喻湖中的君山。",
+   "en": "qīng luó: a dark green snail shell. It stands for Junshan in the lake."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋夜，湖上的水光和月光融在一起，十分和谐。",
+   "en": "On an autumn night, the light on the lake and the moonlight blend in harmony."
+  },
+  {
+   "zh": "湖面没有风，像一面还没磨过的铜镜，平静又朦胧。",
+   "en": "No wind stirs the water. It is like a bronze mirror not yet polished, calm and hazy."
+  },
+  {
+   "zh": "远远望去，洞庭湖的山和水青翠一片。",
+   "en": "Looking from afar, the hill and water of Dongting are a deep green."
+  },
+  {
+   "zh": "就像白银盘子里，放着一只青色的小螺。",
+   "en": "It is like a little green snail shell set on a silver plate."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗写于唐穆宗长庆四年（824年）秋天。那一年，刘禹锡从夔州调到和州去做官，路上经过洞庭湖。洞庭湖在今天湖南省的北部，是中国很大的淡水湖。湖里有一座小山，叫君山。诗人在一个秋天的月夜远望洞庭湖，写下了这首诗。",
+  "en": "This poem is usually dated to the autumn of 824. That year Liu Yuxi was moved from a post in Kuizhou to one in Hezhou, and on the way he passed Dongting Lake. The lake is in the north of today's Hunan Province and is one of China's largest freshwater lakes. In the lake stands a small hill called Junshan. On a moonlit autumn night the poet looked out across the lake and wrote this poem."
+ },
+ "author_note": {
+  "zh": "刘禹锡（772—842），字梦得，唐代诗人。白居易称他为“诗豪”。他年轻时参加政治改革失败，被贬到外地二十多年，可他性格乐观，不肯低头。他写过很多山水诗和像民歌一样的诗，比如《竹枝词》《陋室铭》也很有名。",
+  "en": "Liu Yuxi (772–842) was a Tang poet. Bai Juyi called him the Hero of Poetry. When he was young he joined a plan to reform the government. It failed, and he was sent away from the capital for more than twenty years. But he stayed cheerful and never gave in. He wrote many poems about mountains and rivers, and songs in the style of folk songs, such as the Bamboo Branch Songs. His short essay \"Ode to My Humble Room\" is also famous."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅月夜里的洞庭湖画。第一句写湖光和月光融成一片，又亮又柔。第二句说湖面没有风，像一面没磨过的铜镜，静静的，带一点朦胧。后两句诗人把眼光放远：整个洞庭湖在月光下白亮亮的，像一只白银盘子；湖中的君山青青的，像盘子里放着的一只小青螺。诗人站得很远，所以大湖变成了一只盘子，大山变成了一颗小螺。这个比喻又新鲜又可爱，让人看到了一个安静、明亮、小巧的洞庭湖。",
+  "en": "The poem is like a painting of Dongting Lake on a moonlit night. The first line shows the lake light and the moonlight melting into one, bright and soft. The second says there is no wind, so the lake is like a bronze mirror not yet polished: still, and a little hazy. Then the poet looks farther. Under the moon the whole lake gleams white, like a silver plate. The green hill in the middle is like a little green snail shell lying on the plate. Because the poet stands so far away, a huge lake becomes a plate and a hill becomes a tiny shell. This picture is fresh and charming. It shows us a quiet, bright, gentle Dongting Lake."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lake",
+   "moon",
+   "landscape",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,439 @@
+{
+ "id": "ci-5295d1143637",
+ "kind": "ci",
+ "title": "虞美人·有美堂赠述古",
+ "title_en": "The Beauty Yu: For Shugu at the Hall of Beauty",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·虞美人（双调）",
+  "en": "ci lyric to the tune Yu Mei Ren, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "美",
+    "měi"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "弥",
+    "mí"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "倒",
+    "dǎo"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "徘",
+    "pái"
+   ],
+   [
+    "徊",
+    "huái"
+   ]
+  ],
+  [
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "调",
+    "diào"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "唱",
+    "chàng"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "琉",
+    "liú"
+   ],
+   [
+    "璃",
+    "lí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "词题“有美堂赠述古”是通行本的题目，资料库只有词牌。第四句资料库作“且徘徊”，通行本作“更徘徊”。",
+  "en": "The title For Shugu at the Hall of Beauty comes from common editions; the corpus gives only the tune name. In line four the corpus has qiě (for now) where common editions have gèng (still more)."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "湖山：西湖和周围的群山。",
+   "en": "hú shān: West Lake and the hills around it."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "信是：确实是。",
+   "en": "xìn shì: truly is."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "东南美：东南一带最美的地方。宋仁宗曾写诗称杭州是“东南第一州”，有美堂的名字也由此而来。",
+   "en": "dōng nán měi: the most beautiful place in the southeast. Emperor Renzong of Song once praised Hangzhou as the first city of the southeast, and the Hall of Beauty took its name from his poem."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "弥千里：满眼都是，一直伸展到千里之外。弥，满、遍。",
+   "en": "mí qiān lǐ: filling the view for a thousand li. Mí means to fill, to spread everywhere."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "使君：对州郡长官的尊称，这里指杭州知州陈襄，字述古。",
+   "en": "shǐ jūn: a polite title for a governor. Here it means Chen Xiang, also called Shugu, governor of Hangzhou."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "能得几回来：还能再来几次呢？意思是这一走，以后很难再来了。",
+   "en": "néng dé jǐ huí lái: how many more times can you come? It means once he leaves, he may never come back."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "便使：即使、就算。",
+   "en": "biàn shǐ: even if."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "尊前：酒杯前，指酒席上。尊，酒杯。",
+   "en": "zūn qián: before the wine cup, at the feast. Zūn is a wine vessel."
+  },
+  {
+   "line": 3,
+   "start": 7,
+   "end": 9,
+   "zh": "徘徊：走来走去，舍不得离开。",
+   "en": "pái huái: to linger, walking back and forth, not wanting to leave."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "沙河塘：杭州城南一处热闹的街区，靠近有美堂。",
+   "en": "shā hé táng: Shahetang, a busy district in the south of Hangzhou, near the Hall of Beauty."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "灯初上：灯火刚刚点亮。",
+   "en": "dēng chū shàng: the lamps have just been lit."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "水调：曲调名，相传是隋炀帝时的曲子，声音悲凉。",
+   "en": "shuǐ diào: the name of a tune, said to date from the Sui dynasty, with a sad sound."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "谁家：哪一家，不知是谁。",
+   "en": "shuí jiā: someone, no one knows who."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "夜阑：夜深了。阑，将尽。",
+   "en": "yè lán: deep in the night. Lán means coming to an end."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "一江：满满一江，指钱塘江。",
+   "en": "yī jiāng: the whole river, the Qiantang River."
+  },
+  {
+   "line": 7,
+   "start": 6,
+   "end": 9,
+   "zh": "碧琉璃：碧绿的琉璃，比喻月光下江水又清又亮。琉璃，一种光亮的彩色玻璃。",
+   "en": "bì liú lí: green glass. It pictures the river under the moon, clear and shining. Liú lí is a bright colored glass."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "这里的湖光山色，确实是东南最美的，",
+   "en": "These lakes and hills are truly the loveliest in the southeast;"
+  },
+  {
+   "zh": "一眼望去，满满铺开千里。",
+   "en": "at one glance they fill the view for a thousand li."
+  },
+  {
+   "zh": "太守啊，你以后还能来几回？",
+   "en": "Governor, how many more times will you be able to come?"
+  },
+  {
+   "zh": "就算在酒席上喝醉了，也要多留一会儿。",
+   "en": "Even if we are drunk before our cups, let us linger a little longer."
+  },
+  {
+   "zh": "沙河塘里，灯火刚刚亮起，",
+   "en": "In Shahetang the lamps have just been lit;"
+  },
+  {
+   "zh": "不知是谁家在唱《水调》。",
+   "en": "from somewhere, someone is singing the Water Melody."
+  },
+  {
+   "zh": "夜深了，风停了，正要回去的时候，",
+   "en": "Late at night, when the wind is still and we are about to go home,"
+  },
+  {
+   "zh": "只有一江明月，像碧绿的琉璃。",
+   "en": "there is only the river full of moonlight, like green glass."
+  }
+ ],
+ "background": {
+  "zh": "宋神宗熙宁七年（1074年），苏轼在杭州做通判（知州的副手）。知州陈襄，字述古，要调到别的地方去。临走前他在吴山上的有美堂请同僚喝酒，苏轼就在酒席上写了这首词送给他。有美堂可以看到西湖和钱塘江。词里先写眼前的好山好水，再写夜里的城市和月下的江水，把送别的不舍藏在景物里。",
+  "en": "In 1074 Su Shi was deputy governor of Hangzhou. The governor, Chen Xiang, also called Shugu, was being moved to another post. Before leaving, he held a feast for his colleagues at the Hall of Beauty on Wu Hill, and Su Shi wrote this ci at the table as a gift for him. From the hall one could see West Lake and the Qiantang River. The ci first shows the lovely hills and water, then the city at night and the river under the moon, hiding the sadness of parting inside the scenery."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画都很出色。他两次在杭州做官，很爱这里的山水，写过许多关于西湖的诗词。他和陈襄相处得很好，陈襄离任前后，苏轼写了好几首送他的词。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great Northern Song writer, excellent at poems, ci, essays, calligraphy and painting. He served twice in Hangzhou and loved its lakes and hills, writing many poems about West Lake. He got along very well with Chen Xiang, and around the time Chen left, Su Shi wrote several ci to see him off."
+ },
+ "appreciation": {
+  "zh": "上片站在高处：西湖和群山铺开千里，美得让人舍不得走。接着一句“使君能得几回来”，轻轻一问，就把离别说出来了：你走了，还能回来几次呢？所以就算喝醉了，也要再多待一会儿。下片时间往后推：天黑了，城里灯火亮起，远处有人唱着悲凉的《水调》；夜深风静，大家要散了，只剩一江明月，江水像碧绿的琉璃一样又清又亮。最后没有说一个“愁”字，可那安静的月光里，满是不舍。",
+  "en": "The first stanza stands up high. West Lake and the hills spread for a thousand li, so lovely that no one wants to leave. Then comes a gentle question, how many more times can you come, and the parting is out in the open. Once you go, will you ever come back? So even if we are drunk, let us stay a little longer. The second stanza moves on in time. Night falls, the city lamps come on, and someone far off sings the sad Water Melody. Late at night the wind is still and everyone is about to go. Only the moonlit river remains, clear and bright like green glass. The poem never says the word sorrow, but that quiet moonlight is full of not wanting to say goodbye."
+ },
+ "famous_lines": [
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "west-lake",
+   "moon",
+   "friendship",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,261 @@
+{
+ "id": "33a67972-ca3d-4597-a45e-e6e1dd2623b4",
+ "kind": "shi",
+ "title": "戏为六绝句（其二）",
+ "title_en": "Six Playful Quatrains, No. 2",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "卢",
+    "lú"
+   ],
+   [
+    "骆",
+    "luò"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "体",
+    "tǐ"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "哂",
+    "shěn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "尔",
+    "ěr"
+   ],
+   [
+    "曹",
+    "cáo"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "俱",
+    "jù"
+   ],
+   [
+    "灭",
+    "miè"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "废",
+    "fèi"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文第一句作“杨王卢骆”。通行本多作“王杨卢骆”，这是“初唐四杰”的通常排法，这里用通行本。",
+  "en": "The corpus begins with the names in the order Yang, Wang, Lu, Luo. Common editions have Wang, Yang, Lu, Luo, the usual order for the Four Great Poets of the Early Tang, which is used here."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "为：读 wéi，意思是写、作。“为文”就是写文章。",
+   "en": "Here the character is read wéi, meaning to write; wéi wén means writing essays or poems."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "王杨卢骆：王勃、杨炯、卢照邻、骆宾王，四位初唐诗人，合称“初唐四杰”。",
+   "en": "wáng yáng lú luò: Wang Bo, Yang Jiong, Lu Zhaolin and Luo Binwang, called the Four Great Poets of the Early Tang."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "当时体：那个时代流行的写法和风格。",
+   "en": "dāng shí tǐ: the style of writing of their own time."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "轻薄：说话刻薄、不尊重别人的人。",
+   "en": "qīng bó: shallow, sneering people."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "哂：讥笑。",
+   "en": "shěn: to sneer at, to laugh at."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "未休：没完没了。",
+   "en": "wèi xiū: without stopping."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "尔曹：你们这些人。尔，你；曹，一类人。",
+   "en": "ěr cáo: you people. Ěr means you; cáo means a group of people."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "俱灭：都消失了。",
+   "en": "jù miè: all gone, all wiped out."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "不废：不会影响，挡不住。",
+   "en": "bù fèi: cannot stop or harm."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "万古：千秋万代，永远。",
+   "en": "wàn gǔ: for all ages, forever."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "王勃、杨炯、卢照邻、骆宾王的诗文，是他们那个时代的风格，",
+   "en": "Wang, Yang, Lu and Luo wrote in the style of their own time,"
+  },
+  {
+   "zh": "可如今有些轻薄的人写文章，总是没完没了地讥笑他们。",
+   "en": "yet shallow people today write pieces that sneer at them without end."
+  },
+  {
+   "zh": "等你们这些人连同名字都消失了，",
+   "en": "When you and your names have all vanished,"
+  },
+  {
+   "zh": "他们的作品仍会像长江黄河一样，万古长流。",
+   "en": "their work will still flow on like the great rivers, for all time."
+  }
+ ],
+ "background": {
+  "zh": "《戏为六绝句》是杜甫用六首绝句来谈诗歌的组诗，一般认为写于唐肃宗上元二年（761年）前后，那时他住在成都。当时有些人看不起初唐四杰，嫌他们的文风过时。杜甫不同意，写了这首诗为四杰说话。题目说“戏为”，是开玩笑地写，其实态度很认真。",
+  "en": "\"Six Playful Quatrains\" is a set of six short poems in which Du Fu talks about poetry. It is usually dated to around 761, when he lived in Chengdu. At the time, some people looked down on the Four Great Poets of the Early Tang and thought their style was old-fashioned. Du Fu disagreed and wrote this poem to stand up for them. The title says \"playful\", but he means it seriously."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他读书很多，对前人的作品很尊重，主张向古人和前辈好好学习。《戏为六绝句》是他谈诗的重要作品，用诗的形式来评论诗，在他之前很少有人这样做。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He read widely and respected the writers who came before him, and he believed in learning from them. \"Six Playful Quatrains\" is his key work on poetry. Using poems to judge poems was something few had done before him."
+ },
+ "appreciation": {
+  "zh": "前两句摆出事实：四杰的风格属于他们的时代，有些人却一直嘲笑他们。后两句是杜甫的回答，非常有力：你们这些人，身体和名字都会消失，没人记得；四杰的作品却像长江黄河，永远流下去。这里用江河作比，把真正的好作品比成永不停歇的大河，把那些嘲笑比成挡不住大河的小东西。“不废江河万古流”后来成了成语一样的名句，用来说真正有价值的东西不会被埋没。",
+  "en": "The first two lines state the facts: the Four Poets wrote in the style of their age, but some people keep mocking them. The last two lines are Du Fu's answer, and it is strong. You people, your bodies and your names will vanish, and no one will remember you. The work of the Four Poets will flow on forever, like the Yangtze and the Yellow River. Truly good work is a great river that never stops, and the mockery cannot hold it back. The last line later became a famous saying: what has real value will never be buried."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "poetry",
+   "criticism",
+   "river",
+   "legacy"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,355 @@
+{
+ "id": "8eaf97fd-82bb-4651-9dde-9a5a6f78182c",
+ "kind": "shi",
+ "title": "春宫怨",
+ "title_en": "Lament in the Spring Palace",
+ "author": "杜荀鹤",
+ "author_en": "Du Xunhe",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "婵",
+    "chán"
+   ],
+   [
+    "娟",
+    "juān"
+   ],
+   [
+    "误",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "慵",
+    "yōng"
+   ]
+  ],
+  [
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "恩",
+    "ēn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "貌",
+    "mào"
+   ]
+  ],
+  [
+   [
+    "教",
+    "jiāo"
+   ],
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "容",
+    "róng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "碎",
+    "suì"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "重",
+    "chóng"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "芙",
+    "fú"
+   ],
+   [
+    "蓉",
+    "róng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "教",
+   "pinyin": "jiāo",
+   "zh": "教：让、使的意思，古诗里常读 jiāo。",
+   "en": "Here it means to make or let someone do something, and in old poems it is usually read jiāo."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "为：做。“为容”就是打扮，读 wéi。",
+   "en": "Here it means to do or make, as in wéi róng, to make oneself up, so it is read wéi."
+  },
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重：重叠、一层一层，读 chóng。这首诗押平声韵，读 chóng 才和“慵、容、蓉”押韵。",
+   "en": "Here it means layer upon layer, so it is read chóng. The poem rhymes on level tones, and chóng rhymes with yōng, róng and róng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "婵娟：美丽的容貌。",
+   "en": "chán juān: beauty, good looks."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "误：耽误，害了。",
+   "en": "wù: to ruin, to do harm."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "慵：懒，提不起精神。",
+   "en": "yōng: lazy, listless."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "承恩：得到皇帝的宠爱。",
+   "en": "chéng ēn: to win the emperor's favour."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "妾：古代女子称呼自己的谦虚说法。",
+   "en": "qiè: a humble word old-time women used for \"I\"."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "若为容：怎么打扮。若，怎样；为容，梳妆打扮。",
+   "en": "ruò wéi róng: how should I make myself up? Ruò means how; wéi róng means to dress up and put on make-up."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "碎：鸟叫声细细碎碎、此起彼伏。",
+   "en": "suì: the birdsong is light and broken, rising here and there."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "花影重：太阳升高了，花的影子层层叠叠。",
+   "en": "huā yǐng chóng: with the sun high, the flowers' shadows lie layer upon layer."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "越溪女：越地溪边的女子。传说美女西施进宫前在越国的若耶溪边浣纱，这里指她当年一起浣纱的女伴。",
+   "en": "yuè xī nǚ: the girls by the stream in Yue. Legend says the beauty Xi Shi washed silk by the Ruoye Stream in Yue before she was sent to a palace. This means the friends who once washed silk with her."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "芙蓉：荷花。",
+   "en": "fú róng: lotus flowers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "很早就被自己的美貌害了，",
+   "en": "Long ago my beauty brought me to harm."
+  },
+  {
+   "zh": "想要梳妆，对着镜子又懒得动手。",
+   "en": "I mean to make myself up, but at the mirror I cannot be bothered."
+  },
+  {
+   "zh": "得到皇帝的宠爱，不在于长得美不美，",
+   "en": "Winning the emperor's favour does not depend on looks,"
+  },
+  {
+   "zh": "叫我还怎么打扮自己呢？",
+   "en": "so how am I supposed to dress myself up?"
+  },
+  {
+   "zh": "春风暖暖的，鸟儿叫声细碎，",
+   "en": "The spring breeze is warm, the birdsong light and broken;"
+  },
+  {
+   "zh": "太阳升高了，花影层层叠叠。",
+   "en": "the sun is high, the flower shadows deep and layered."
+  },
+  {
+   "zh": "每年这个时候，越溪边的女伴们，",
+   "en": "Every year at this time, my old friends by the stream in Yue"
+  },
+  {
+   "zh": "一定都在想念我，想起我们一起采荷花的日子。",
+   "en": "must think of me, and of the days we picked lotus together."
+  }
+ ],
+ "background": {
+  "zh": "“宫怨”是古诗中常见的题材，写宫女被冷落的忧愁。这首诗借一个宫女的口吻，说美貌并不能得到皇帝的宠爱。很多人认为，诗人也是在说自己：有才华的人不一定被重用。诗写于何时不详。这首诗一说是周朴所作，《唐诗三百首》署名杜荀鹤。",
+  "en": "\"Palace laments\" were a common kind of old poem, about the sorrow of palace women left neglected. This poem speaks as a palace lady, saying beauty does not win the emperor's favour. Many readers think the poet is also talking about himself: people with talent are not always given a chance. When it was written is unknown. Some say it was written by Zhou Pu, but the Three Hundred Tang Poems gives it to Du Xunhe."
+ },
+ "author_note": {
+  "zh": "杜荀鹤（846—904），晚唐诗人，池州石埭（今安徽）人。他家境贫寒，考了很多次，四十多岁才考中进士。他的诗语言通俗，很多写的是战乱中百姓的苦难。",
+  "en": "Du Xunhe (846–904) was a late Tang poet from Shidai in Chizhou, in today's Anhui. His family was poor. He sat the top exam many times and only passed in his forties. His poems use everyday language, and many describe the suffering of ordinary people in times of war."
+ },
+ "appreciation": {
+  "zh": "第一句就很特别：美貌本来是好事，她却说自己被美貌“误”了。因为长得美，她被选进宫里，从此离开了家乡和朋友。可是进宫以后才发现，得宠靠的不是美貌。既然这样，打扮还有什么用？所以她对着镜子也懒得梳妆。五六句写宫里的春天：风暖，鸟叫，花影浓密，景色越美，她越寂寞。最后她想起家乡溪边一起采荷花的女伴。那时虽然普通，却自由快乐。这首诗写的是宫女，也写出了有才的人不被看重的委屈。",
+  "en": "The first line is unusual. Beauty should be a blessing, but she says her beauty \"harmed\" her. Because she was pretty, she was chosen for the palace and left her home and friends behind. Then she found that favour in the palace does not come from looks. If so, what is the use of make-up? So she sits at the mirror without the heart to begin. Lines five and six show spring in the palace: a warm wind, birdsong, thick flower shadows. The lovelier the scene, the lonelier she feels. At last she thinks of her old friends picking lotus by the stream at home. That life was plain, but free and happy. The poem is about a palace lady, and also about the hurt of talented people who are overlooked."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "loneliness",
+   "spring",
+   "talent"
+  ]
+ },
+ "uncertain": []
+}

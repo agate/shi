@@ -1,0 +1,362 @@
+{
+ "id": "ci-7d3a84abce27",
+ "kind": "ci",
+ "title": "点绛唇·新月娟娟",
+ "title_en": "Dian Jiang Chun: The Thin New Moon",
+ "author": "汪藻",
+ "author_en": "Wang Zao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "娟",
+    "juān"
+   ],
+   [
+    "娟",
+    "juān"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "衔",
+    "xián"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ]
+  ],
+  [
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "搔",
+    "sāo"
+   ],
+   [
+    "首",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ]
+  ],
+  [
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "兴",
+    "xìng"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "“归兴浓于酒”，有的版本作“归兴浓如酒”，意思一样，都是说想家的心比酒还浓。",
+  "en": "Some versions read nóng rú jiǔ (as strong as wine) instead of nóng yú jiǔ (stronger than wine). The meaning is the same: the wish to go home is as strong as wine."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "这里指北斗星，读 dǒu，不读打斗的 dòu。",
+   "en": "Here the character means the Big Dipper, so it is read dǒu, not dòu as in fighting."
+  },
+  {
+   "line": 8,
+   "pos": 1,
+   "char": "兴",
+   "pinyin": "xìng",
+   "zh": "归兴是想回家的兴致，读 xìng，和“兴趣”的“兴”一样。",
+   "en": "Guī xìng is the wish to go home. The character is read xìng, as in xìngqù (interest)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "娟娟：美好的样子。这里形容弯弯的新月又细又美。",
+   "en": "juān juān: lovely. Here it describes the thin new moon, slim and pretty."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "衔斗：衔，用嘴含着。山好像用嘴含着北斗星，意思是北斗星低低地挂在山顶上。",
+   "en": "xián dǒu: xián means to hold in the mouth. The hill seems to hold the Big Dipper in its mouth: the stars hang low just above the hilltop."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "搔首：用手挠头。人心里烦闷、拿不定主意的时候，常会挠头。",
+   "en": "sāo shǒu: to scratch one's head, as people do when they feel restless or troubled."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "梅影横窗瘦：梅花枝条的影子斜斜地映在窗上，又细又瘦。",
+   "en": "méi yǐng héng chuāng shòu: the shadow of the plum branches lies across the window, thin and bony."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "好个霜天：多好的一个下霜的夜晚啊。",
+   "en": "hǎo gè shuāng tiān: what a fine frosty night."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "闲却：闲着，空着没用。",
+   "en": "xián què: left idle, with nothing to do."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "传杯手：传递酒杯、互相劝酒的手。闲却传杯手，就是没有人一起喝酒。",
+   "en": "chuán bēi shǒu: the hand that passes the wine cup. Leaving it idle means there is no one to drink with."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "乱鸦：成群乱叫的乌鸦。",
+   "en": "luàn yā: a noisy flock of crows."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "归兴：想回家的心情。",
+   "en": "guī xìng: the wish to go home."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "浓于酒：比酒还浓。",
+   "en": "nóng yú jiǔ: stronger than wine."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一弯新月细细的，十分美丽。",
+   "en": "A thin new moon, slim and lovely."
+  },
+  {
+   "zh": "夜里很冷，江面很静，北斗星低低地挂在山头，好像被山含在嘴里。",
+   "en": "The night is cold and the river is still. The Big Dipper hangs low, as if the hill holds it in its mouth."
+  },
+  {
+   "zh": "我睡不着，起身挠挠头。",
+   "en": "I cannot sleep, so I get up and scratch my head."
+  },
+  {
+   "zh": "梅花的影子斜斜地映在窗上，又细又瘦。",
+   "en": "The shadow of the plum tree falls across the window, thin and bony."
+  },
+  {
+   "zh": "多好的一个霜夜啊，",
+   "en": "Such a fine frosty night,"
+  },
+  {
+   "zh": "可是我这只传杯劝酒的手却闲着，没人陪我喝酒。",
+   "en": "yet my hand that should pass the wine cup lies idle. No one is here to drink with me."
+  },
+  {
+   "zh": "你知道吗？",
+   "en": "Do you know?"
+  },
+  {
+   "zh": "在乌鸦乱叫过后，",
+   "en": "After the crows have cawed and settled,"
+  },
+  {
+   "zh": "我想回家的心情，比酒还要浓。",
+   "en": "my wish to go home is stronger than wine."
+  }
+ ],
+ "background": {
+  "zh": "这首词写作的时间和地点不详。从词里看，是一个寒冷的冬夜，词人在外地，睡不着觉，想念家乡。一说是汪藻在官场不得意时写的，词里的“乱鸦”可能暗指朝中那些吵吵嚷嚷的小人。这首词的作者也有争议，一说是苏轼的儿子苏过写的，一般选本署名汪藻。",
+  "en": "We do not know exactly when or where this poem was written. From the poem itself, it is a cold winter night. The poet is far from home, cannot sleep, and misses home. One view says Wang Zao wrote it when things were going badly for him as an official, and the noisy crows may hint at petty people at court. Who wrote it is also debated. One view says it was Su Guo, the son of Su Shi, but most anthologies give it to Wang Zao."
+ },
+ "author_note": {
+  "zh": "汪藻（1079—1154），字彦章，饶州德兴（今江西德兴）人，北宋末、南宋初的文人。他最擅长写骈文，就是讲究对仗的文章，南宋初年朝廷的很多诏书都出自他的手。他留下来的词很少，这首《点绛唇》是最有名的一首。",
+  "en": "Wang Zao (1079–1154) came from Dexing in today's Jiangxi. He was a writer at the end of the Northern Song and the start of the Southern Song. He was best at a kind of prose built on matched pairs of phrases, and he wrote many of the court's official orders in the early Southern Song. Very few of his song lyrics survive, and this one is the best known."
+ },
+ "appreciation": {
+  "zh": "上阕是一幅冷清的夜景：弯弯的新月，寒冷的夜，安静的江，低低的北斗星。词人睡不着，起来挠头，看见梅花的影子映在窗上，又细又瘦。这个“瘦”字，既写梅影，也像在写人的孤单。下阕说，这么好的霜夜，本该和朋友喝酒，可是身边没有人。最后他问：你知道吗？乌鸦乱叫之后，我想回家的心，比酒还浓。用酒来比思乡，酒越喝越醉，思乡也越想越深。读的时候，可以想象一个人站在冷冷的窗前，望着月亮，心里只想回家。",
+  "en": "The first half is a cold, quiet night scene: a thin new moon, a chilly night, a still river, and the Big Dipper hanging low. The poet cannot sleep. He gets up and scratches his head, and sees the plum tree's shadow on the window, thin and bony. The word thin describes the shadow, but it also hints at the lonely man. In the second half he says that on such a fine frosty night he should be drinking with friends, but no one is there. At the end he asks: do you know? After the crows have cawed, my wish to go home is stronger than wine. Wine makes you drunker the more you drink, and homesickness grows deeper the more you think. Picture a man at a cold window, looking at the moon, wanting only to go home."
+ },
+ "famous_lines": [
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "moon",
+   "plum",
+   "night",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,266 @@
+{
+ "id": "fb376b71-91c6-44ee-b2e4-40f5b3f71b8f",
+ "kind": "shi",
+ "title": "寄令狐郎中",
+ "title_en": "To Secretary Linghu",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "嵩",
+    "sōng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "居",
+    "jū"
+   ]
+  ],
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "鲤",
+    "lǐ"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "纸",
+    "zhǐ"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "宾",
+    "bīn"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "茂",
+    "mào"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "相",
+    "xiàng"
+   ],
+   [
+    "如",
+    "rú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "相",
+   "pinyin": "xiàng",
+   "zh": "相如是汉代文学家司马相如的名字，相读 xiàng。",
+   "en": "Xiàngrú is the given name of the Han writer Sima Xiangru; this character is read xiàng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "嵩云：嵩山上的云。嵩山在洛阳附近，诗人当时在洛阳。",
+   "en": "sōng yún: the clouds over Mount Song, near Luoyang, where the poet was living."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "秦树：秦地的树。秦地指长安一带，令狐郎中当时在长安。",
+   "en": "qín shù: the trees of Qin, the Chang'an area, where Secretary Linghu was."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "离居：分开居住。",
+   "en": "lí jū: living apart."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "双鲤：书信。古代有诗说，客人从远方带来两条鲤鱼，鱼肚子里有一封信，后来就用“双鲤”指书信。",
+   "en": "shuāng lǐ: a letter. An old poem tells of a guest bringing two carp from far away, with a letter inside the fish, so \"a pair of carp\" came to mean a letter."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "迢迢：路途遥远的样子。",
+   "en": "tiáo tiáo: from very far away."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "一纸书：一封信。",
+   "en": "yī zhǐ shū: a single letter."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "休问：不要问。",
+   "en": "xiū wèn: do not ask."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "梁园旧宾客：梁园是西汉梁孝王的园子，司马相如曾在那里做客。诗人年轻时在令狐郎中的父亲令狐楚手下做事，所以自比梁园的旧客人。",
+   "en": "liáng yuán jiù bīn kè: the old guest of the Liang Garden. The Liang Garden belonged to Prince Xiao of Liang in the Western Han, and Sima Xiangru was once his guest. As a young man the poet worked for Linghu Chu, the secretary's father, so he calls himself an old guest of that garden."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "茂陵：地名，在今天陕西兴平。司马相如晚年生病辞官，住在茂陵。",
+   "en": "mào líng: Maoling, in today's Xingping, Shaanxi. Sima Xiangru lived there in old age after he gave up his post because of illness."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "病相如：生病的司马相如，诗人用来比自己。",
+   "en": "bìng xiàng rú: the sick Sima Xiangru, standing for the poet himself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我在嵩山的云下，你在长安的树旁，我们分开很久了。",
+   "en": "I am under the clouds of Mount Song, you among the trees of Qin; we have lived apart a long time."
+  },
+  {
+   "zh": "你从遥远的地方寄来一封信。",
+   "en": "From far away comes your letter."
+  },
+  {
+   "zh": "请不要问我这个梁园的老宾客过得怎么样，",
+   "en": "Do not ask how this old guest of the Liang Garden is doing:"
+  },
+  {
+   "zh": "我就像秋雨中卧病在茂陵的司马相如。",
+   "en": "I am like Sima Xiangru, sick at Maoling in the autumn rain."
+  }
+ ],
+ "background": {
+  "zh": "一般认为这首诗写于唐武宗会昌五年（845年）秋天。那时李商隐在洛阳闲居养病，在长安做右司郎中的老朋友令狐绹给他寄来书信问候，他就写了这首诗回答。令狐绹的父亲令狐楚曾经很赏识李商隐，教他写文章。后来两人因为各种原因关系变得冷淡。",
+  "en": "This poem is usually dated to the autumn of 845. At that time Li Shangyin was living quietly in Luoyang and was ill. His old friend Linghu Tao, a secretary in a government office in Chang'an, sent him a letter asking how he was, and he answered with this poem. Linghu Tao's father, Linghu Chu, had greatly admired Li Shangyin and taught him to write. Later, for various reasons, the two men grew distant."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐诗人。他很有才华，但一生在官场上很不顺利，常常被卷进两派官员的争斗里，日子过得不如意。他的诗含蓄、优美，喜欢用典故，常常带着淡淡的伤感，这首诗也是这样。",
+  "en": "Li Shangyin (about 813–about 858) was a poet of the late Tang. He was very gifted, but his official career never went well. He was often caught between two quarreling groups of officials, and his life was a disappointment. His poems are subtle and beautiful, full of old stories, and often softly sad, and this one is too."
+ },
+ "appreciation": {
+  "zh": "第一句只用“嵩云”和“秦树”两个景物，就写出了两个人一个在洛阳、一个在长安，隔得很远。第二句写远方来信，信只有“一纸”，却走了很远的路，可见情意很重。后两句诗人不直接说自己过得多苦，而是借司马相如的故事：我就像当年那个病倒在茂陵的相如，秋雨不停，又冷又孤单。“休问”两个字，好像是说“别问了，说出来只会更难过”。短短四句，有感谢，有思念，也有说不出的委屈。",
+  "en": "The first line uses just two things, the clouds of Mount Song and the trees of Qin, to show that one friend is in Luoyang and the other in Chang'an, far apart. The second line is about the letter. It is only one sheet of paper, yet it came a long way, so the feeling behind it is deep. In the last two lines the poet does not say outright how hard his life is. He borrows the story of Sima Xiangru instead: I am like that sick man at Maoling, with the autumn rain falling, cold and alone. \"Do not ask\" sounds as if he means: don't ask, saying it would only hurt more. In four short lines there is thanks, longing, and a hurt that cannot be spoken."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "letter",
+   "illness",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

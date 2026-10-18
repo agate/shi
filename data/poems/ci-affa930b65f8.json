@@ -1,0 +1,423 @@
+{
+ "id": "ci-affa930b65f8",
+ "kind": "ci",
+ "title": "阮郎归·湘天风雨破寒初",
+ "title_en": "Ruan Lang Gui: Wind and Rain over Hunan Break the Early Cold",
+ "author": "秦观",
+ "author_en": "Qin Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "初",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "虚",
+    "xū"
+   ]
+  ],
+  [
+   [
+    "丽",
+    "lì"
+   ],
+   [
+    "谯",
+    "qiáo"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "单",
+    "chán"
+   ],
+   [
+    "于",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "徂",
+    "cú"
+   ]
+  ],
+  [
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "旅",
+    "lǚ"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "孤",
+    "gū"
+   ]
+  ],
+  [
+   [
+    "峥",
+    "zhēng"
+   ],
+   [
+    "嵘",
+    "róng"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "除",
+    "chú"
+   ]
+  ],
+  [
+   [
+    "衡",
+    "héng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "郴",
+    "chēn"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "无",
+    "wú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料库第二句作“深沈”。“沈”在古书里常当“沉”用，这里按今天的写法作“深沉”。",
+  "en": "The corpus writes line two with an old form of the character for 'deep, heavy'. Here it is written the modern way."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "单",
+   "pinyin": "chán",
+   "zh": "单于：古代匈奴首领的称号，单读 chán。这里《小单于》是曲子名。",
+   "en": "In chán yú (the title of a Xiongnu chief), the first character is read chán, not dān. Here 'Little Chanyu' is the name of a tune."
+  },
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "和",
+   "pinyin": "hé",
+   "zh": "和：这里是“连”的意思，读 hé。",
+   "en": "Here the character means 'even', and is read hé."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "湘天：湖南的天空。湘，湖南的简称。",
+   "en": "xiāng tiān: the sky over Hunan. Xiāng is a short name for Hunan."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "破寒初：刚刚打破寒冷，冬天刚开始变冷的时候。一说是冲破了寒冷。",
+   "en": "pò hán chū: the cold just breaking in. One reading says the storm breaks through the cold."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "虚：空空的。",
+   "en": "xū: empty."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "丽谯：华丽的城楼，上面有人吹号报时。",
+   "en": "lì qiáo: a fine watchtower on the city wall, where horns sounded the hours."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "小单于：一支用号角吹的曲子的名字。",
+   "en": "xiǎo chán yú: 'Little Chanyu', the name of a tune played on the horn."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "迢迢：长长的样子。",
+   "en": "tiáo tiáo: long, drawn-out."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "徂：过去、消逝。",
+   "en": "cú: to pass, to slip away."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "乡梦：梦见家乡的梦。",
+   "en": "xiāng mèng: a dream of home."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "旅魂：在外漂泊的人的心。",
+   "en": "lǚ hún: the soul of a traveler far from home."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "峥嵘：本指山高险，这里形容这一年过得很艰难。",
+   "en": "zhēng róng: steep and rugged, here meaning the year was hard to get through."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "岁又除：一年又过去了，指除夕。",
+   "en": "suì yòu chú: another year is gone; it is New Year's Eve."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "衡阳：在今湖南。传说大雁南飞到衡阳的回雁峰就不再往南，所以衡阳还能有雁捎信。",
+   "en": "héng yáng: a city in today's Hunan. Legend says wild geese flying south stop at Huiyan Peak near Hengyang, so letters can still come by goose there."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "雁传书：大雁传送书信。古人说大雁能帮人带信。",
+   "en": "yàn chuán shū: geese carrying letters. People of old said wild geese could bring letters."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "郴阳：郴州，在衡阳更南边，就是词人被贬去的地方。",
+   "en": "chēn yáng: Chenzhou, south of Hengyang, the place where the poet was sent in exile."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "和雁无：连大雁也没有。",
+   "en": "hé yàn wú: not even a goose."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "湖南的天上风雨交加，寒冷刚刚到来，",
+   "en": "Wind and rain sweep the Hunan sky as the cold first sets in,"
+  },
+  {
+   "zh": "幽深的庭院空空荡荡。",
+   "en": "and the deep courtyard is empty."
+  },
+  {
+   "zh": "城楼上吹完了《小单于》的曲子，",
+   "en": "On the watchtower the horn has finished the tune 'Little Chanyu',"
+  },
+  {
+   "zh": "漫长清冷的夜晚慢慢过去。",
+   "en": "and the long, cold night slowly slips away."
+  },
+  {
+   "zh": "回家乡的梦断了，",
+   "en": "My dream of home is broken,"
+  },
+  {
+   "zh": "漂泊在外的心多么孤单。",
+   "en": "my wandering soul is all alone,"
+  },
+  {
+   "zh": "艰难的一年又到了除夕。",
+   "en": "and another hard year comes to its last night."
+  },
+  {
+   "zh": "衡阳还有大雁帮人捎信，",
+   "en": "In Hengyang there are still geese to carry letters,"
+  },
+  {
+   "zh": "可郴州这里，连大雁都没有。",
+   "en": "but here in Chenzhou there is not even a goose."
+  }
+ ],
+ "background": {
+  "zh": "宋哲宗时，新党掌权，秦观因为和苏轼关系密切，一再被贬。绍圣年间，他被贬到郴州（今湖南郴州）。这首词写的是他在郴州过除夕的情景，一说作于绍圣三年（1096年）年底。离家很远，又是一年的最后一夜，他只能听着城楼的号角，一个人熬过长夜。",
+  "en": "Under Emperor Zhezong, the New Policies party took power. Because Qin Guan was close to Su Shi, he was demoted and sent away again and again. In the Shaosheng years he was exiled to Chenzhou in today's Hunan. This lyric shows him spending New Year's Eve there; one view dates it to the end of 1096. Far from home, on the last night of the year, he could only listen to the horn on the tower and get through the long night alone."
+ },
+ "author_note": {
+  "zh": "秦观（1049—1100），字少游，号淮海居士，北宋词人，是“苏门四学士”之一。他的词感情细腻，多写离愁。晚年一再被贬，到过郴州、横州、雷州等偏远地方，词也越写越凄苦，最后死在北归的路上。",
+  "en": "Qin Guan (1049–1100) was a Northern Song lyric poet, one of the Four Scholars around Su Shi. His lyrics are tender and often about the pain of parting. In his later years he was exiled again and again to far places such as Chenzhou, Hengzhou and Leizhou, and his lyrics grew sadder. He died on the road back north."
+ },
+ "appreciation": {
+  "zh": "上片写除夕夜的环境：风雨交加，寒气袭人，庭院又深又空。城楼上的号角吹完了，夜还长得看不到头。这些景物都很冷清，正好衬出人的孤独。下片直接说心情：回乡的梦断了，心很孤单，艰难的一年又过去了。最后两句最让人难过。古人说大雁能捎信，大雁飞到衡阳就停下了，那里还能收到家书；郴州比衡阳更远，连大雁都没有，家里的消息根本传不来。一个“无”字收尾，把被贬远方的绝望写到了极点。",
+  "en": "The first half shows the scene on New Year's Eve. Wind and rain, biting cold, a deep and empty courtyard. The horn on the tower has finished, and the night seems endless. Everything is cold and quiet, which sets off the man's loneliness. The second half speaks of his heart directly. The dream of home is broken, his soul is alone, and another hard year has passed. The last two lines are the saddest. People said geese could carry letters, and geese stop at Hengyang, so letters from home can still reach there. Chenzhou is even farther south. There is not even a goose, so no news from home can come. Ending on the word 'none', the poet shows the deepest despair of an exile far from home."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [
+   "new-year-eve"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "homesick",
+   "loneliness",
+   "wild-geese"
+  ]
+ },
+ "uncertain": []
+}

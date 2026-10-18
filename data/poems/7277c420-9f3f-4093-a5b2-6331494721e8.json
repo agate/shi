@@ -1,0 +1,282 @@
+{
+ "id": "7277c420-9f3f-4093-a5b2-6331494721e8",
+ "kind": "shi",
+ "title": "春思",
+ "title_en": "Spring Thoughts",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "丝",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "桑",
+    "sāng"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "枝",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "识",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "帏",
+    "wéi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "燕：这里是地名，指燕地，读 yān，不读燕子的 yàn。",
+   "en": "Here the character is a place name, the land of Yan, read yān, not yàn as in \"swallow\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "燕草：燕地的草。燕地在今天河北北部一带，丈夫在那里守边。",
+   "en": "yān cǎo: the grass of Yan. Yan was in today's northern Hebei, where the husband guards the border."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "碧丝：绿色的丝线。北方冷，草才刚长出来，细细的像丝。",
+   "en": "bì sī: green silk threads. The north is cold, so the grass has only just come up, thin as thread."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "秦桑：秦地的桑树。秦地在今天陕西一带，是妻子住的地方。",
+   "en": "qín sāng: the mulberry trees of Qin, around today's Shaanxi, where the wife lives."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "低绿枝：绿叶长得茂盛，把枝条都压弯了。",
+   "en": "dī lǜ zhī: the leafy green branches hang low, heavy with leaves."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "怀归：想着回家。",
+   "en": "huái guī: thinking of coming home."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "断肠：伤心到极点，好像肠子都断了。",
+   "en": "duàn cháng: heartbroken, so sad it feels as if one's insides are torn."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "不相识：和我不认识。",
+   "en": "bù xiāng shí: does not know me, is a stranger to me."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "何事：为什么。",
+   "en": "hé shì: why."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "罗帏：丝织的床帐。",
+   "en": "luó wéi: silk bed curtains."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "燕地的草刚刚长出来，细得像绿色的丝线；",
+   "en": "In Yan the grass has just come up, thin as green silk thread."
+  },
+  {
+   "zh": "秦地的桑树早已枝叶茂盛，绿枝低垂。",
+   "en": "In Qin the mulberry branches already hang low, thick with green."
+  },
+  {
+   "zh": "当你在远方想着回家的时候，",
+   "en": "On the day you begin to long for home,"
+  },
+  {
+   "zh": "正是我在这里想你想得心碎的时候。",
+   "en": "I will already be here, heartbroken."
+  },
+  {
+   "zh": "春风啊，你和我素不相识，",
+   "en": "Spring wind, you are a stranger to me."
+  },
+  {
+   "zh": "为什么要吹进我的床帐里来？",
+   "en": "Why do you slip in through my silk bed curtains?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首写思念的诗。诗里的妻子住在秦地，就是长安一带；丈夫远在北方的燕地守卫边疆。唐代常有男子被派到边地当兵，一去好几年，家里的妻子只能等待。李白借这样一位妻子的口吻，写出了她在春天里的思念。这首诗具体写于哪一年，已经不清楚了。",
+  "en": "This is a poem about missing someone. The wife lives in Qin, around Chang'an. Her husband is far away in the north, in Yan, guarding the border. In the Tang dynasty men were often sent to the frontier as soldiers for years, and their wives could only wait at home. Li Bai speaks in the voice of such a wife and shows how she misses him in spring. We do not know which year he wrote it."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他的诗大多豪放，但也很会用女子的口吻写细腻的感情。这类诗语言浅白，像民歌一样，感情却很深。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. Most of his poems are bold and free, but he could also write delicate feelings in a woman's voice. These poems use plain words like folk songs, yet the feelings run deep."
+ },
+ "appreciation": {
+  "zh": "开头两句写两个地方的春天。北方的草才刚冒出细丝，南边的桑树已经绿叶满枝。一个地方晚，一个地方早，正好说明两人隔得很远。妻子看着眼前的桑树，心里想的是远方的丈夫。三四句说：等你想回家的时候，我早就想你想得心碎了。最后两句最妙：一阵春风吹进床帐，她竟然生气地问春风：“我又不认识你，你进来干什么？”这一问，看起来有点傻，却写出了她对丈夫一心一意，连春风都不许来打扰。",
+  "en": "The first two lines show spring in two places. In the north the grass is only thin threads. Here the mulberry branches are already full of leaves. One place is late, the other early, which shows how far apart the two are. Looking at the trees in front of her, the wife thinks of her husband far away. Lines three and four say: by the time you want to come home, my heart will long since have broken from missing you. The last two lines are the best. A spring breeze blows into her bed curtains, and she scolds it: \"I don't even know you, so why come in?\" The question seems a little silly. But it shows she is loyal to her husband with her whole heart, and will not even let the spring wind disturb her."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "frontier",
+   "wind"
+  ]
+ },
+ "uncertain": []
+}

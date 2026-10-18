@@ -1,0 +1,362 @@
+{
+ "id": "15c6cbc9-753a-4f09-86bf-4fe2d8bb1fee",
+ "kind": "shi",
+ "title": "凉思",
+ "title_en": "Cool Thoughts",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "槛",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "蝉",
+    "chán"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "枝",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "兼",
+    "jiān"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "寓",
+    "yù"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "占",
+    "zhān"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "数",
+    "shuò"
+   ]
+  ],
+  [
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "槛",
+   "pinyin": "jiàn",
+   "zh": "“槛”指栏杆时读 jiàn；指门槛时才读 kǎn。",
+   "en": "When it means a railing, this is read jiàn. It is read kǎn only when it means a doorsill."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "数",
+   "pinyin": "shuò",
+   "zh": "“数”在这里是“屡次、多次”的意思，读 shuò。",
+   "en": "Here this means \"again and again\", so it is read shuò."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "客：客人，这里指诗人的朋友。",
+   "en": "kè: the guest, here the poet's friend."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "波平槛：水涨到和栏杆一样高。槛，栏杆。",
+   "en": "bō píng jiàn: the water has risen level with the railing. Jiàn means railing."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "蝉休：蝉不叫了。",
+   "en": "chán xiū: the cicadas have stopped singing."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "永怀：长久地思念。",
+   "en": "yǒng huái: to miss someone for a long time."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "当此节：在这个时节，指秋天。",
+   "en": "dāng cǐ jié: at this time of year, that is, autumn."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "移时：过了很久。",
+   "en": "yí shí: a long time passes."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "北斗：北斗星，这里指京城长安。",
+   "en": "běi dǒu: the Big Dipper, here standing for the capital, Chang'an."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "兼春：又过了一个春天，就是一年多。",
+   "en": "jiān chūn: another spring has passed, so more than a year."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "南陵：地名，在今天安徽省。",
+   "en": "nán líng: Nanling, a place in today's Anhui Province."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "寓使：捎信的人。寓，寄托。",
+   "en": "yù shǐ: a messenger who carries letters."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "占梦数：多次用梦来算卦，想知道吉凶。",
+   "en": "zhān mèng shuò: again and again reading dreams for signs of good or bad luck."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "新知：新交的知心朋友。",
+   "en": "xīn zhī: a new close friend."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "朋友走后，水涨到和栏杆一样高；",
+   "en": "Since my friend left, the water has risen to the railing;"
+  },
+  {
+   "zh": "蝉不叫了，露水挂满了树枝。",
+   "en": "the cicadas are still, and dew covers the branches."
+  },
+  {
+   "zh": "在这样的秋天，我一直想念着你，",
+   "en": "In this season I miss you all the time,"
+  },
+  {
+   "zh": "靠着栏杆站着，不知不觉过了很久。",
+   "en": "and leaning on the rail I stand there, while the time slips by."
+  },
+  {
+   "zh": "离开京城，又过了一个春天，越来越远；",
+   "en": "Far from the capital, another spring has gone;"
+  },
+  {
+   "zh": "南陵的书信，使者迟迟送不到。",
+   "en": "the messenger from Nanling is slow to bring a letter."
+  },
+  {
+   "zh": "在天涯一次又一次用梦来占卜，",
+   "en": "At the edge of the world I read my dreams again and again,"
+  },
+  {
+   "zh": "怀疑你是不是有了新的朋友，忘了我。",
+   "en": "and wonder if you have found a new friend and forgotten me."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是李商隐在秋天思念远方的朋友时写的。诗里的“客”是谁，写作的时间和地点，都没有确定的说法。一般理解为：朋友走了很久，诗人离开京城已一年多，书信又迟迟不来，所以很不安。一说诗人当时住在南陵，也有人认为诗里思念的是他的妻子。",
+  "en": "Li Shangyin wrote this poem in autumn while missing someone far away. We do not know for sure who the guest was, or when and where it was written. The usual reading is this: the friend left long ago, the poet has been away from the capital for over a year, and letters are slow to come, so he feels uneasy. One view says the poet was living in Nanling then. Some think the person he misses is his wife."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐诗人，和杜牧齐名，人称“小李杜”。他的诗用词华美，感情深，意思却常常含蓄难懂，所以后人对他很多诗的理解都不一样，这首也是。",
+  "en": "Li Shangyin (about 813–about 858) was a poet of the late Tang. He was as famous as Du Mu, and the two were called \"the Little Li and Du\". His poems use rich words and deep feeling, but their meaning is often hidden and hard to pin down. People read many of his poems in different ways, and this one too."
+ },
+ "appreciation": {
+  "zh": "题目叫“凉思”，就是秋天凉意里的思念。开头先写景：朋友走后，水涨高了，蝉不叫了，露水满枝，一片清冷。诗人靠着栏杆站了很久，只因为想念。接着说离开京城一年多，书信迟迟不来。最后两句最打动人：他一次又一次占卜自己的梦，甚至怀疑朋友有了新的知己，把他忘了。这种又想念、又担心、又有点不放心的心情，写得非常真实细腻。",
+  "en": "The title means thoughts in the cool of autumn. It opens with the scene. Since the friend left, the water has risen, the cicadas are silent, and dew covers the branches. Everything feels cool and clear. The poet leans on the railing for a long time, just because he misses his friend. Then he says he has been away from the capital for over a year, and letters are slow to come. The last two lines are the most touching. Again and again he reads his dreams for signs, and even wonders if his friend has a new close friend and has forgotten him. Missing someone, worrying, and feeling a little unsure, all at once: the poem shows it with real, delicate truth."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "missing",
+   "friendship",
+   "cicada",
+   "dream",
+   "letter"
+  ]
+ },
+ "uncertain": []
+}

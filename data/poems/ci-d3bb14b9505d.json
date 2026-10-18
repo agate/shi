@@ -1,0 +1,483 @@
+{
+ "id": "ci-d3bb14b9505d",
+ "kind": "ci",
+ "title": "夜游宫·记梦寄师伯浑",
+ "title_en": "Night Journey to the Palace: A Dream, Sent to Shi Bohun",
+ "author": "陆游",
+ "author_en": "Lu You",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·夜游宫",
+  "en": "ci to the tune Ye You Gong"
+ },
+ "lines": [
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "笳",
+    "jiā"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "铁",
+    "tiě"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "河",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "西",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "际",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "纸",
+    "zhǐ"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "侯",
+    "hóu"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "虽",
+    "suī"
+   ],
+   [
+    "残",
+    "cán"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "死",
+    "sǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "“铁骑”指骑兵，现在课本读 qí。古代把骑兵、坐骑读作 jì。",
+   "en": "Tiě qí means armored cavalry. Today's textbooks read it qí; in old times it was read jì when it meant a horseman."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "“睡觉”在这里是睡醒的意思，“觉”读 jué，不读 jiào。",
+   "en": "Here shuì jué means to wake from sleep, so this character is read jué, not jiào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "雪晓：下雪的清晨。",
+   "en": "xuě xiǎo: a snowy dawn."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "清笳：清亮的胡笳声。胡笳是古代北方的一种吹奏乐器，军中常用。",
+   "en": "qīng jiā: the clear sound of the hujia, a reed pipe from the north often played in army camps."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "乱起：四处纷纷响起。",
+   "en": "luàn qǐ: rising all around."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "铁骑：披着铁甲的骑兵。",
+   "en": "tiě qí: cavalry in iron armor."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "望似水：远远望去，队伍像流水一样一眼看不到头。",
+   "en": "wàng sì shuǐ: seen from afar, the ranks look like flowing water, stretching endlessly."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "关河：关塞和河流，指边防要地。",
+   "en": "guān hé: passes and rivers, meaning the frontier."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "雁门：雁门关，在今天山西北部，是古代有名的边关。",
+   "en": "yàn mén: Yanmen Pass in the north of today's Shanxi, a famous frontier pass."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "青海际：青海湖的边上。青海湖在今天的青海省，唐代是和吐蕃作战的前线。",
+   "en": "qīng hǎi jì: the shores of Qinghai Lake, in today's Qinghai Province, a front line in Tang wars."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "睡觉：睡醒。",
+   "en": "shuì jué: waking from sleep."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "漏声断：漏壶的滴水声停了，说明夜快尽了。漏壶是古代计时的工具。",
+   "en": "lòu shēng duàn: the dripping of the water clock has stopped, so the night is almost over. A water clock measured time by dripping water."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "自许：自己期望、自己认定。",
+   "en": "zì xǔ: to set oneself the goal, to believe of oneself."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 7,
+   "zh": "封侯在万里：到万里之外的边疆立功，被封为侯。这里用了东汉班超投笔从戎、在西域立功封侯的故事。",
+   "en": "fēng hóu zài wàn lǐ: to win the title of lord by great deeds at the frontier ten thousand miles away. It recalls Ban Chao of the Han dynasty, who threw down his writing brush, joined the army and was made a lord for his deeds in the far west."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "鬓虽残：鬓发虽然已经稀疏斑白。",
+   "en": "bìn suī cán: though the hair at my temples is thin and gray."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "心未死：报国的心还没有死。",
+   "en": "xīn wèi sǐ: my heart for serving the country is not dead."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "下雪的清晨，清亮的胡笳声四处响起。",
+   "en": "On a snowy dawn, clear reed pipes sound on every side."
+  },
+  {
+   "zh": "我在梦里走到的地方，",
+   "en": "The place my dream has carried me,"
+  },
+  {
+   "zh": "不知道是哪里。",
+   "en": "I do not know where it is."
+  },
+  {
+   "zh": "披甲的骑兵悄无声息，远远望去像流水一样。",
+   "en": "Armored cavalry move without a sound, flowing on like water."
+  },
+  {
+   "zh": "我想，这里应该是边关要地，",
+   "en": "I think it must be the frontier,"
+  },
+  {
+   "zh": "在雁门关的西边，",
+   "en": "west of Yanmen Pass,"
+  },
+  {
+   "zh": "青海湖的边上。",
+   "en": "by the shores of Qinghai Lake."
+  },
+  {
+   "zh": "醒来时，只有一盏冷冷的灯陪着我。",
+   "en": "I wake beside a cold lamp."
+  },
+  {
+   "zh": "漏壶的滴水声已经停了，",
+   "en": "The water clock has stopped dripping,"
+  },
+  {
+   "zh": "斜斜的月光照在窗纸上。",
+   "en": "and the slanting moon shines on the paper window."
+  },
+  {
+   "zh": "我曾经立志要到万里之外的边疆立功封侯。",
+   "en": "I once vowed to win a lord's title by deeds ten thousand miles away."
+  },
+  {
+   "zh": "有谁知道，",
+   "en": "Who knows"
+  },
+  {
+   "zh": "我的鬓发虽然已经斑白稀疏，",
+   "en": "that though my hair is thin and gray,"
+  },
+  {
+   "zh": "报国的心却还没有死。",
+   "en": "my heart is not dead?"
+  }
+ ],
+ "background": {
+  "zh": "题目说明这是记录一场梦，写好后寄给朋友师伯浑。师伯浑是四川眉山的一位隐士，很有才学，和陆游很谈得来。一般认为这首词写于陆游在四川做官的那几年（约1172—1178年）。那时北方的大片土地被金国占领，陆游一心想收复失地，却没有机会上战场，只能在梦里驰骋边关。",
+  "en": "The title says this records a dream and was sent to his friend Shi Bohun. Shi Bohun was a learned hermit from Meishan in Sichuan who got on very well with Lu You. The poem is usually dated to the years when Lu You served in Sichuan, about 1172 to 1178. Much of the north was then held by the Jin state. Lu You longed to win it back but never got the chance to fight, so he could only ride to the frontier in his dreams."
+ },
+ "author_note": {
+  "zh": "陆游（1125—1210），号放翁，南宋大诗人。他一生最大的心愿就是赶走金兵、收复中原。他曾到南郑前线参与军务，那是他最难忘的日子，可很快就被调走了。后来他写了大量梦见从军、驰骋边关的诗词，这首就是其中之一。",
+  "en": "Lu You (1125 to 1210), also called Fangweng, was a great Southern Song poet. His greatest wish was to drive out the Jin armies and win back the north. He once served at the front in Nanzheng, the days he never forgot, but he was soon sent away. Afterward he wrote many poems about dreaming of army life and riding at the frontier, and this is one of them."
+ },
+ "appreciation": {
+  "zh": "上阕全是梦。一开头就很有气势：雪天清晨，胡笳声四起，一队队铁甲骑兵无声地前进，像流水一样。“无声”比喧闹更让人觉得军纪严明、力量强大。词人自己也不知道身在哪里，只猜想是雁门关西、青海湖边，那些古代将士立功的地方。下阕梦醒了，画面一下子冷下来：寒灯、断了的漏声、照在窗纸上的斜月。从热血的战场回到冷清的小屋，落差很大。最后他说，自己早就立志万里封侯，就算头发白了，这颗心也没有死。“鬓虽残，心未死”六个字，写尽了一个老人不肯认输的报国之心。",
+  "en": "The first half is all dream, and it opens with great force. On a snowy dawn reed pipes sound everywhere, and ranks of armored cavalry move silently, like flowing water. Their silence shows strict order and great strength more than any noise could. The poet does not know where he is. He only guesses: west of Yanmen Pass, by Qinghai Lake, where soldiers of old won glory. The second half is waking, and the picture turns cold at once: a cold lamp, a silent water clock, the slanting moon on the paper window. From a stirring battlefield back to a bare room, the drop is huge. At the end he says he long ago vowed to win glory far away. His hair may be gray, but his heart is not dead. The last six characters say everything about an old man who refuses to give up on serving his country."
+ },
+ "famous_lines": [
+  10,
+  11,
+  12,
+  13
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "dream",
+   "frontier",
+   "patriotism",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

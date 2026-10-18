@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>杏花天影·绿丝低拂鸳鸯浦 · 姜夔 — 诗</title>
+    <meta name="description" content="杏花天影·绿丝低拂鸳鸯浦 · 姜夔 — Shadow of Apricot Blossom Sky: Green Willow Threads Brush Mandarin Duck Shore by Jiang Kui: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci to the tune Xing Hua Tian Ying</span><span lang="zh">宋词 · 词·杏花天影</span></p>
+        <h1>杏花天影·绿丝低拂鸳鸯浦</h1>
+        <p class="by">姜夔<span class="mono"><span lang="en">Jiang Kui · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Shadow of Apricot Blossom Sky: Green Willow Threads Brush Mandarin Duck Shore</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>lǜ</i><b>绿</b></span><span class="c gl" data-l="0" data-p="1"><i>sī</i><b>丝</b></span><span class="c" data-l="0" data-p="2"><i>dī</i><b>低</b></span><span class="c gl" data-l="0" data-p="3"><i>fú</i><b>拂</b></span><span class="c gl" data-l="0" data-p="4"><i>yuān</i><b>鸳</b></span><span class="c gl" data-l="0" data-p="5"><i>yāng</i><b>鸯</b></span><span class="c gl" data-l="0" data-p="6"><i>pǔ</i><b>浦</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>xiǎng</i><b>想</b></span><span class="c gl" data-l="1" data-p="1"><i>táo</i><b>桃</b></span><span class="c gl" data-l="1" data-p="2"><i>yè</i><b>叶</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>dāng</i><b>当</b></span><span class="c" data-l="2" data-p="1"><i>shí</i><b>时</b></span><span class="c gl" data-l="2" data-p="2"><i>huàn</i><b>唤</b></span><span class="c gl" data-l="2" data-p="3"><i>dù</i><b>渡</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>yòu</i><b>又</b></span><span class="c gl" data-l="3" data-p="1"><i>jiāng</i><b>将</b></span><span class="c gl" data-l="3" data-p="2"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="3" data-p="3"><i>yǎn</i><b>眼</b></span><span class="c" data-l="3" data-p="4"><i>yǔ</i><b>与</b></span><span class="c" data-l="3" data-p="5"><i>chūn</i><b>春</b></span><span class="c" data-l="3" data-p="6"><i>fēng</i><b>风</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>dài</i><b>待</b></span><span class="c gl" data-l="4" data-p="1"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>yǐ</i><b>倚</b></span><span class="c gl" data-l="5" data-p="1"><i>lán</i><b>兰</b></span><span class="c gl" data-l="5" data-p="2"><i>ráo</i><b>桡</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>gèng</i><b>更</b></span><span class="c gl rd" data-l="6" data-p="1"><i>shǎo</i><b>少</b></span><span class="c gl" data-l="6" data-p="2"><i>zhù</i><b>驻</b></span></p><p class="ln brk"><span class="c gl" data-l="7" data-p="0"><i>jīn</i><b>金</b></span><span class="c gl" data-l="7" data-p="1"><i>líng</i><b>陵</b></span><span class="c" data-l="7" data-p="2"><i>lù</i><b>路</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>yīng</i><b>莺</b></span><span class="c gl" data-l="8" data-p="1"><i>yín</i><b>吟</b></span><span class="c gl" data-l="8" data-p="2"><i>yàn</i><b>燕</b></span><span class="c gl" data-l="8" data-p="3"><i>wǔ</i><b>舞</b></span></p><p class="ln"><span class="c gl" data-l="9" data-p="0"><i>suàn</i><b>算</b></span><span class="c" data-l="9" data-p="1"><i>cháo</i><b>潮</b></span><span class="c" data-l="9" data-p="2"><i>shuǐ</i><b>水</b></span></p><p class="ln"><span class="c" data-l="10" data-p="0"><i>zhī</i><b>知</b></span><span class="c" data-l="10" data-p="1"><i>rén</i><b>人</b></span><span class="c" data-l="10" data-p="2"><i>zuì</i><b>最</b></span><span class="c" data-l="10" data-p="3"><i>kǔ</i><b>苦</b></span></p><p class="ln"><span class="c" data-l="11" data-p="0"><i>mǎn</i><b>满</b></span><span class="c gl" data-l="11" data-p="1"><i>tīng</i><b>汀</b></span><span class="c" data-l="11" data-p="2"><i>fāng</i><b>芳</b></span><span class="c" data-l="11" data-p="3"><i>cǎo</i><b>草</b></span><span class="c gl" data-l="11" data-p="4"><i>bù</i><b>不</b></span><span class="c gl" data-l="11" data-p="5"><i>chéng</i><b>成</b></span><span class="c gl" data-l="11" data-p="6"><i>guī</i><b>归</b></span></p><p class="ln"><span class="c" data-l="12" data-p="0"><i>rì</i><b>日</b></span><span class="c" data-l="12" data-p="1"><i>mù</i><b>暮</b></span></p><p class="ln"><span class="c" data-l="13" data-p="0"><i>gèng</i><b>更</b></span><span class="c gl" data-l="13" data-p="1"><i>yí</i><b>移</b></span><span class="c gl" data-l="13" data-p="2"><i>zhōu</i><b>舟</b></span></p><p class="ln"><span class="c" data-l="14" data-p="0"><i>xiàng</i><b>向</b></span><span class="c gl rd" data-l="14" data-p="1"><i>shèn</i><b>甚</b></span><span class="c gl" data-l="14" data-p="2"><i>chù</i><b>处</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The words match the usual text. The source gives the tune name as Xing Hua Tian, but the usual text has Xing Hua Tian Ying, a new tune Jiang Kui made by changing the old Xing Hua Tian a little.</p><p lang="zh">词句与通行本相同。底本的词牌写作“杏花天”，通行本作“杏花天影”。这是姜夔在《杏花天》的基础上稍作变化而成的新调。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">绿丝低拂鸳鸯浦</span><span lang="en">Green willow threads hang low and brush the shore where mandarin ducks live.</span><span lang="zh">绿色的柳条低低地拂过鸳鸯栖息的水边，</span></li><li><span class="o">想桃叶</span><span lang="en">I think of Taoye</span><span lang="zh">我想起桃叶，</span></li><li><span class="o">当时唤渡</span><span lang="en">and how she once called for the ferry here.</span><span lang="zh">当年在这里呼唤渡船的情景。</span></li><li><span class="o">又将愁眼与春风</span><span lang="en">Once more I turn my sad eyes to the spring wind.</span><span lang="zh">我又带着满眼忧愁望着春风，</span></li><li><span class="o">待去</span><span lang="en">I am about to go,</span><span lang="zh">正要离开，</span></li><li><span class="o">倚兰桡</span><span lang="en">yet I lean on the oar</span><span lang="zh">却又靠着船桨，</span></li><li><span class="o">更少驻</span><span lang="en">and linger a little longer.</span><span lang="zh">再稍稍停留一会儿。</span></li><li class="brk"><span class="o">金陵路</span><span lang="en">Along the roads of Jinling</span><span lang="zh">金陵路上，</span></li><li><span class="o">莺吟燕舞</span><span lang="en">orioles sing and swallows dance.</span><span lang="zh">黄莺歌唱，燕子飞舞。</span></li><li><span class="o">算潮水</span><span lang="en">I suppose only the tide</span><span lang="zh">想来只有潮水，</span></li><li><span class="o">知人最苦</span><span lang="en">knows how bitter I feel.</span><span lang="zh">知道我心里最苦。</span></li><li><span class="o">满汀芳草不成归</span><span lang="en">The sandbars are full of sweet grass, yet I cannot go home.</span><span lang="zh">水边沙洲上长满了芳草，我却回不了家，</span></li><li><span class="o">日暮</span><span lang="en">The sun is setting.</span><span lang="zh">天又晚了。</span></li><li><span class="o">更移舟</span><span lang="en">If I move the boat on again,</span><span lang="zh">再把船划走，</span></li><li><span class="o">向甚处</span><span lang="en">where is there to go?</span><span lang="zh">又能去什么地方呢？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>绿丝<span class="mono">lǜ sī</span></dt><dd><span lang="en">lǜ sī: green threads, meaning willow branches.</span><span lang="zh">绿丝：像绿色丝线一样的柳条。</span></dd></div><div><dt>拂<span class="mono">fú</span></dt><dd><span lang="en">fú: to brush lightly.</span><span lang="zh">拂：轻轻擦过。</span></dd></div><div><dt>鸳鸯浦<span class="mono">yuān yāng pǔ</span></dt><dd><span lang="en">yuān yāng pǔ: a shore where mandarin ducks live. These ducks always go in pairs, so they hint at lovers.</span><span lang="zh">鸳鸯浦：有鸳鸯栖息的水边。鸳鸯总是成双成对，这里暗示相爱的人。</span></dd></div><div><dt>桃叶<span class="mono">táo yè</span></dt><dd><span lang="en">táo yè: Taoye, the woman loved by the Jin dynasty calligrapher Wang Xianzhi. He saw her off at a ferry on the Qinhuai River in Nanjing and wrote songs for her, and the ferry was later called Taoye Ferry. Here she stands for the woman the poet misses.</span><span lang="zh">桃叶：东晋书法家王献之所爱的女子。王献之曾在南京秦淮河边的渡口送她，还写了《桃叶歌》，那个渡口后来就叫桃叶渡。这里借指词人自己思念的恋人。</span></dd></div><div><dt>唤渡<span class="mono">huàn dù</span></dt><dd><span lang="en">huàn dù: calling for the ferry boat.</span><span lang="zh">唤渡：呼唤渡船过河。</span></dd></div><div><dt>将<span class="mono">jiāng</span></dt><dd><span lang="en">jiāng: to take; here, to turn his eyes to.</span><span lang="zh">将：拿，把。</span></dd></div><div><dt>愁眼<span class="mono">chóu yǎn</span></dt><dd><span lang="en">chóu yǎn: sad eyes.</span><span lang="zh">愁眼：满含忧愁的眼睛。</span></dd></div><div><dt>待去<span class="mono">dài qù</span></dt><dd><span lang="en">dài qù: about to leave.</span><span lang="zh">待去：正要离开。</span></dd></div><div><dt>兰桡<span class="mono">lán ráo</span></dt><dd><span lang="en">lán ráo: an oar of magnolia wood; here, the little boat.</span><span lang="zh">兰桡：用木兰木做的船桨，这里指小船。</span></dd></div><div><dt>少驻<span class="mono">shǎo zhù</span></dt><dd><span lang="en">shǎo zhù: to stay a little while.</span><span lang="zh">少驻：稍微停留一会儿。</span></dd></div><div><dt>金陵<span class="mono">jīn líng</span></dt><dd><span lang="en">jīn líng: Jinling, today&#x27;s Nanjing.</span><span lang="zh">金陵：今天的江苏南京。</span></dd></div><div><dt>莺吟燕舞<span class="mono">yīng yín yàn wǔ</span></dt><dd><span lang="en">yīng yín yàn wǔ: orioles singing and swallows dancing, a lively spring scene.</span><span lang="zh">莺吟燕舞：黄莺在唱，燕子在飞，形容春光热闹美好。</span></dd></div><div><dt>算<span class="mono">suàn</span></dt><dd><span lang="en">suàn: I suppose, I reckon.</span><span lang="zh">算：想来，料想。</span></dd></div><div><dt>汀<span class="mono">tīng</span></dt><dd><span lang="en">tīng: flat land by the water, a sandbar.</span><span lang="zh">汀：水边的平地，小洲。</span></dd></div><div><dt>不成归<span class="mono">bù chéng guī</span></dt><dd><span lang="en">bù chéng guī: cannot go home.</span><span lang="zh">不成归：回不去，归不成。</span></dd></div><div><dt>移舟<span class="mono">yí zhōu</span></dt><dd><span lang="en">yí zhōu: to move the boat on.</span><span lang="zh">移舟：划船离开。</span></dd></div><div><dt>甚处<span class="mono">shèn chù</span></dt><dd><span lang="en">shèn chù: what place.</span><span lang="zh">甚处：什么地方。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>少<span class="mono">shǎo</span></dt><dd><span lang="en">Here it means a little while, read shǎo.</span><span lang="zh">这里“少”是稍微的意思，读 shǎo。</span></dd></div><div><dt>甚<span class="mono">shèn</span></dt><dd><span lang="en">Here it means what place. Most textbooks and notes read it shèn; some read it shén, as in the word for what.</span><span lang="zh">“甚处”就是什么地方。课本和多数注本读 shèn；一说按“什么”的意思读 shén。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">A short note before the poem says that in the winter of 1186 the poet set out from Miankou, where the Han River flows into the Yangtze. On the second day of the first month of 1187 he passed Jinling and looked north toward the Huai region. The weather was clear and fine, and his little boat drifted slowly under its sail. He was then traveling east to Huzhou with his friend Xiao Dezao. It is usually thought that the woman he once loved lived in Hefei, to the north across the Huai lands, so he uses the story of Taoye to write about missing her.</p><p lang="zh">词前小序说：丙午年（1186年）冬天，词人从沔口（汉水流入长江的地方）出发；丁未年（1187年）正月初二，经过金陵，向北望着淮楚一带，天气晴好，小船挂着帆在水上慢慢漂。那时他正随朋友萧德藻东去湖州。一般认为，他北望的淮南方向有他在合肥爱过的女子，所以借桃叶的故事来写思念。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Jiang Kui (about 1155 to about 1221), also called the Daoist of White Rock, was a Southern Song ci poet and musician. He never held office and drifted from place to place. He knew music deeply and often wrote both the tune and the words. His poems feel cool and airy. He seldom says his feelings outright, but hides them in scenery and old stories, as he does here.</p><p lang="zh">姜夔（约1155—约1221），号白石道人，南宋词人和音乐家。他一生没做官，四处漂泊。他精通音律，常常自己作曲填词。他的词清冷空灵，很少直接说情，而是借景物和典故把感情藏在里面，这首词就是这样。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is about a moment of hesitation on a boat. At the start, willow threads brush Mandarin Duck Shore, and the paired ducks call to mind a pair of lovers. The poet remembers the story of Taoye Ferry, where Wang Xianzhi saw off the woman he loved. He hides his own longing inside this old story. Then he is about to go, yet stays a little longer. He wants to leave but cannot bear to, and in a few words we feel how much he cares. The second half shows spring in Jinling, with orioles singing and swallows dancing. The livelier it is, the lonelier he feels. Only the tide, he says, knows his pain. At last night falls. The sandbars are green with grass, yet he cannot go home. Even if he rows on, where could he go? The poem ends with that question and leaves us to feel how lost and rootless he is.</p><p lang="zh">这首词写的是在船上的一段犹豫。开头柳条拂过鸳鸯浦，成双的鸳鸯让人想到成双的恋人。词人想起桃叶渡的故事：王献之在这里送别所爱的人。他把自己的思念藏在这个老故事里。接着他“待去”又“少驻”，想走又舍不得走，心里的牵挂一下子就写出来了。下阕先写金陵的春天，莺歌燕舞，热热闹闹，可越热闹越显得他孤单。他说只有潮水懂他的苦。最后天黑了，沙洲上长满芳草，他却回不去；就算再划船走，又能去哪里？一个问句结尾，把漂泊无依的心情留给读者慢慢体会。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/xiqianying-yuanxi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>喜迁莺·元夕</b></a><a href="../../p/yulouchun-chunfengzhizaiyuanxipan/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>玉楼春·春风只在园西畔</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["绿", "lǜ"], ["丝", "sī"], ["低", "dī"], ["拂", "fú"], ["鸳", "yuān"], ["鸯", "yāng"], ["浦", "pǔ"]], [["想", "xiǎng"], ["桃", "táo"], ["叶", "yè"]], [["当", "dāng"], ["时", "shí"], ["唤", "huàn"], ["渡", "dù"]], [["又", "yòu"], ["将", "jiāng"], ["愁", "chóu"], ["眼", "yǎn"], ["与", "yǔ"], ["春", "chūn"], ["风", "fēng"]], [["待", "dài"], ["去", "qù"]], [["倚", "yǐ"], ["兰", "lán"], ["桡", "ráo"]], [["更", "gèng"], ["少", "shǎo"], ["驻", "zhù"]], [["金", "jīn"], ["陵", "líng"], ["路", "lù"]], [["莺", "yīng"], ["吟", "yín"], ["燕", "yàn"], ["舞", "wǔ"]], [["算", "suàn"], ["潮", "cháo"], ["水", "shuǐ"]], [["知", "zhī"], ["人", "rén"], ["最", "zuì"], ["苦", "kǔ"]], [["满", "mǎn"], ["汀", "tīng"], ["芳", "fāng"], ["草", "cǎo"], ["不", "bù"], ["成", "chéng"], ["归", "guī"]], [["日", "rì"], ["暮", "mù"]], [["更", "gèng"], ["移", "yí"], ["舟", "zhōu"]], [["向", "xiàng"], ["甚", "shèn"], ["处", "chù"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "绿丝：像绿色丝线一样的柳条。", "en": "lǜ sī: green threads, meaning willow branches."}, {"line": 0, "start": 3, "end": 4, "zh": "拂：轻轻擦过。", "en": "fú: to brush lightly."}, {"line": 0, "start": 4, "end": 7, "zh": "鸳鸯浦：有鸳鸯栖息的水边。鸳鸯总是成双成对，这里暗示相爱的人。", "en": "yuān yāng pǔ: a shore where mandarin ducks live. These ducks always go in pairs, so they hint at lovers."}, {"line": 1, "start": 1, "end": 3, "zh": "桃叶：东晋书法家王献之所爱的女子。王献之曾在南京秦淮河边的渡口送她，还写了《桃叶歌》，那个渡口后来就叫桃叶渡。这里借指词人自己思念的恋人。", "en": "táo yè: Taoye, the woman loved by the Jin dynasty calligrapher Wang Xianzhi. He saw her off at a ferry on the Qinhuai River in Nanjing and wrote songs for her, and the ferry was later called Taoye Ferry. Here she stands for the woman the poet misses."}, {"line": 2, "start": 2, "end": 4, "zh": "唤渡：呼唤渡船过河。", "en": "huàn dù: calling for the ferry boat."}, {"line": 3, "start": 1, "end": 2, "zh": "将：拿，把。", "en": "jiāng: to take; here, to turn his eyes to."}, {"line": 3, "start": 2, "end": 4, "zh": "愁眼：满含忧愁的眼睛。", "en": "chóu yǎn: sad eyes."}, {"line": 4, "start": 0, "end": 2, "zh": "待去：正要离开。", "en": "dài qù: about to leave."}, {"line": 5, "start": 1, "end": 3, "zh": "兰桡：用木兰木做的船桨，这里指小船。", "en": "lán ráo: an oar of magnolia wood; here, the little boat."}, {"line": 6, "start": 1, "end": 3, "zh": "少驻：稍微停留一会儿。", "en": "shǎo zhù: to stay a little while."}, {"line": 7, "start": 0, "end": 2, "zh": "金陵：今天的江苏南京。", "en": "jīn líng: Jinling, today's Nanjing."}, {"line": 8, "start": 0, "end": 4, "zh": "莺吟燕舞：黄莺在唱，燕子在飞，形容春光热闹美好。", "en": "yīng yín yàn wǔ: orioles singing and swallows dancing, a lively spring scene."}, {"line": 9, "start": 0, "end": 1, "zh": "算：想来，料想。", "en": "suàn: I suppose, I reckon."}, {"line": 11, "start": 1, "end": 2, "zh": "汀：水边的平地，小洲。", "en": "tīng: flat land by the water, a sandbar."}, {"line": 11, "start": 4, "end": 7, "zh": "不成归：回不去，归不成。", "en": "bù chéng guī: cannot go home."}, {"line": 13, "start": 1, "end": 3, "zh": "移舟：划船离开。", "en": "yí zhōu: to move the boat on."}, {"line": 14, "start": 1, "end": 3, "zh": "甚处：什么地方。", "en": "shèn chù: what place."}], "readings": [{"line": 6, "pos": 1, "char": "少", "pinyin": "shǎo", "zh": "这里“少”是稍微的意思，读 shǎo。", "en": "Here it means a little while, read shǎo."}, {"line": 14, "pos": 1, "char": "甚", "pinyin": "shèn", "zh": "“甚处”就是什么地方。课本和多数注本读 shèn；一说按“什么”的意思读 shén。", "en": "Here it means what place. Most textbooks and notes read it shèn; some read it shén, as in the word for what."}], "speak": ["绿丝低拂鸳鸯浦", "想桃叶", "当时唤渡", "又将愁眼与春风", "待去", "倚兰桡", "更少驻", "金陵路", "莺吟燕舞", "算潮水", "知人最苦", "满汀芳草不成归", "日暮", "更移舟", "向甚处"], "speakTitle": "杏花天影，绿丝低拂鸳鸯浦。姜夔。", "sample": "绿丝低拂鸳鸯浦"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,416 @@
+{
+ "id": "ci-6b61afad7d3d",
+ "kind": "ci",
+ "title": "忆秦娥·楼阴缺",
+ "title_en": "Remembering Qin E: The Gap in the Tower's Shade",
+ "author": "范成大",
+ "author_en": "Fan Chengda",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "缺",
+    "quē"
+   ]
+  ],
+  [
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "厢",
+    "xiāng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "厢",
+    "xiāng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "杏",
+    "xìng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "虬",
+    "qiú"
+   ],
+   [
+    "咽",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "帏",
+    "wéi"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "语料题目作“秦楼月·忆秦娥”。“秦楼月”是《忆秦娥》这个词牌的另一个名字，通行本题作“忆秦娥”。",
+  "en": "The corpus title is \"Moon over the Qin Tower\", another name for the tune \"Remembering Qin E\". Common editions use \"Remembering Qin E\"."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 6,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "这里的“咽”是声音哽住、断断续续，像哭泣一样，读 yè（呜咽），不读 yān 或 yàn。",
+   "en": "Here the character means a choked, broken sound like sobbing, so it is read yè, not yān or yàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "楼阴缺：高楼的影子缺了一块，月光从那里照进来。",
+   "en": "lóu yīn quē: there is a gap in the tower's shadow, where the moonlight shines through."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "影卧：影子横躺在地上。",
+   "en": "yǐng wò: the shadow lies flat across the ground."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "东厢：正房东边的屋子。",
+   "en": "dōng xiāng: the side rooms on the east of the main hall."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "一天风露：满天的风和露水。一天，满天。",
+   "en": "yì tiān fēng lù: wind and dew filling the whole sky. Here yì tiān means the whole sky."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "杏花如雪：月光下白色的杏花像雪一样。",
+   "en": "xìng huā rú xuě: in the moonlight, the white apricot blossoms look like snow."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "隔烟：隔着夜里的雾气。",
+   "en": "gé yān: through the night mist."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "催漏：漏壶滴水，好像在催着时间往前走。漏，古代用滴水计时的器具。",
+   "en": "cuī lòu: the water clock drips, as if hurrying time along. A lòu was an old clock that measured time by dripping water."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "金虬：漏壶上铜做的龙形出水口。虬，传说中有角的小龙。",
+   "en": "jīn qiú: the bronze dragon-shaped spout of the water clock. A qiú is a small horned dragon of legend."
+  },
+  {
+   "line": 5,
+   "start": 6,
+   "end": 7,
+   "zh": "咽：滴水声断断续续，像人在呜咽。",
+   "en": "yè: the dripping sounds broken and choked, like someone sobbing."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "罗帏：丝绸做的帐子。",
+   "en": "luó wéi: a silk bed curtain."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "灯花结：灯芯烧久了，结成花一样的小疙瘩。民间说这是有喜事、远方的人要回来的好兆头。",
+   "en": "dēng huā jié: after burning a long time, the lamp wick forms a little knot like a flower. Folk belief said this meant good news, perhaps that someone far away was coming home."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "片时：一会儿，很短的时间。",
+   "en": "piàn shí: a short while."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "春梦：春夜的梦，常指美好却很快就醒的梦。",
+   "en": "chūn mèng: a dream on a spring night, often a sweet dream that ends too soon."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "天阔：天地辽阔，远得没有边。",
+   "en": "tiān kuò: the sky is wide and endless."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "高楼的影子缺了一块，",
+   "en": "There is a gap in the tower's shadow,"
+  },
+  {
+   "zh": "月光照着东厢，栏杆的影子横躺在地上。",
+   "en": "where the moon over the east rooms lays the railing's shadow flat on the ground."
+  },
+  {
+   "zh": "啊，东厢的月亮。",
+   "en": "Ah, the moon over the east rooms."
+  },
+  {
+   "zh": "满天是风和露水，",
+   "en": "Wind and dew fill the sky,"
+  },
+  {
+   "zh": "杏花白得像雪一样。",
+   "en": "and the apricot blossoms are white as snow."
+  },
+  {
+   "zh": "隔着夜雾，漏壶的铜龙嘴滴着水，声音像呜咽，好像在催时间快走。",
+   "en": "Through the mist, the bronze dragon of the water clock drips with a sobbing sound, as if hurrying the night along."
+  },
+  {
+   "zh": "丝帐里灯光昏暗，灯芯结成了灯花。",
+   "en": "Inside the silk curtains the lamp is dim, and its wick has formed a flower."
+  },
+  {
+   "zh": "啊，灯芯结了花。",
+   "en": "Ah, the lamp wick has flowered."
+  },
+  {
+   "zh": "我做了一会儿春天的梦，",
+   "en": "For a moment I dreamed a spring dream,"
+  },
+  {
+   "zh": "梦里到了江南，天地那么辽阔。",
+   "en": "and in it I reached the south, under a wide, endless sky."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一位女子在春夜里思念远方的人。上片写她看到的夜景：月光、栏杆的影子、像雪一样的杏花。下片写屋里：漏壶滴水，灯花结起，她睡着了，梦到了江南。她想念的人可能就在江南。这首词写于哪一年，已经说不清了。",
+  "en": "This ci shows a woman missing someone far away on a spring night. The first half is what she sees outside: moonlight, the railing's shadow, apricot blossoms like snow. The second half moves indoors: the water clock drips, the lamp wick flowers, and she falls asleep and dreams of the south. The person she misses may be there. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "范成大（1126—1193），号石湖居士，南宋诗人，苏州人。他做过大官，还出使过金国，不怕危险。他最有名的是写农村生活的《四时田园杂兴》。他的词写得清新秀丽，这首就是一首细腻的春夜相思词。",
+  "en": "Fan Chengda (1126–1193), also known as the Lay Buddhist of Stone Lake, was a Southern Song poet from Suzhou. He held high office and once went bravely as an envoy to the Jin state in the north. He is best known for his poems on the seasons of farm life. His ci are fresh and graceful, and this one is a delicate song of longing on a spring night."
+ },
+ "appreciation": {
+  "zh": "这首词像一组慢慢移动的镜头。先是楼影缺了一角，月光照下来，栏杆的影子躺在地上；再抬头，满天风露，杏花白得像雪。景色很美，也很冷清。下片镜头移进屋里：远处漏壶在滴水，声音像有人在哭，好像在催着夜晚快点过去；帐子里灯光暗了，灯芯结出灯花。灯花本来是好兆头，可她等的人还是没来。于是她只好在梦里去找，梦里到了江南，天那么宽，人却还是找不到。最后“江南天阔”四个字，把想念推得又远又大。",
+  "en": "This ci is like a camera moving slowly. First, a corner of the tower's shadow is missing, the moonlight pours in, and the railing's shadow lies on the ground. Then we look up: wind and dew fill the sky, and the apricot blossoms are white as snow. The scene is lovely, but lonely too. In the second half the camera moves indoors. The water clock drips far off, sounding like someone crying, as if pushing the night along. Inside the curtains the lamp grows dim and its wick forms a flower. That is meant to be a good sign, yet the one she waits for still has not come. So she can only look for him in a dream. In the dream she reaches the south, where the sky is so wide, and still she cannot find him. The last words, \"the south, under a wide sky\", make her longing feel huge and far away."
+ },
+ "famous_lines": [
+  3,
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "night",
+   "moon",
+   "apricot-blossom",
+   "dream"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,360 @@
+{
+ "id": "ci-4f1adf1b4846",
+ "kind": "ci",
+ "title": "浣溪沙·不信芳春厌老人",
+ "title_en": "Huan Xi Sha: I Do Not Believe Spring Scorns the Old",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "厌",
+    "yàn"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "辞",
+    "cí"
+   ],
+   [
+    "频",
+    "pín"
+   ]
+  ],
+  [
+   [
+    "巧",
+    "qiǎo"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "艳",
+    "yàn"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "皆",
+    "jiē"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "恼",
+    "nǎo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "颠",
+    "diān"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "拼",
+    "pàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "嗔",
+    "chēn"
+   ]
+  ],
+  [
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "真",
+    "zhēn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": {
+  "zh": "第二句通行本作“老人几度送余春”，和“人、春、频、嗔、真”押韵；这里的底本作“送春归”，应是传抄的错误。贺铸给这首词起了别名“醉中真”。",
+  "en": "The common text of line two ends with yú chūn (the last of spring), which rhymes with rén, chūn, pín, chēn and zhēn. The source text here has chūn guī (spring going home), which is likely a copying slip. He Zhu gave this lyric another name, Truth in Drunkenness."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 4,
+   "char": "拼",
+   "pinyin": "pàn",
+   "zh": "这里同“拚”，是“豁出去、不顾惜”的意思，旧读 pàn。现在也有人读 pīn。",
+   "en": "Here the character means to risk it all, to not care. It is traditionally read pàn. Some people today read it pīn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "芳春：美好的春天。",
+   "en": "fāng chūn: lovely spring."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "厌：嫌弃，讨厌。",
+   "en": "yàn: to dislike, to scorn."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "几度：几次，多少回。",
+   "en": "jǐ dù: how many times."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "余春：剩下的春天，春天的最后一段日子。",
+   "en": "yú chūn: what is left of spring; its last days."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "行乐：游玩，寻欢作乐。",
+   "en": "xíng lè: to go out and enjoy oneself."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "莫辞频：不要嫌次数太多。辞，推辞；频，频繁。",
+   "en": "mò cí pín: do not refuse because it is too often. Cí means to decline, pín means often."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "巧笑艳歌：美丽的笑容和动听的歌声。",
+   "en": "qiǎo xiào yàn gē: lovely smiles and charming songs."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "皆我意：都合我的心意。",
+   "en": "jiē wǒ yì: all are just what I like."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "恼花：被花撩拨得心烦意乱，就是爱花爱到不得了。",
+   "en": "nǎo huā: to be stirred and troubled by flowers, loving them to distraction."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "颠酒：喝酒喝得疯疯癫癫。",
+   "en": "diān jiǔ: to drink till one is wild."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "君嗔：你生气。嗔，生气、责怪。",
+   "en": "jūn chēn: your anger. Chēn means to be angry or scold."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "物情：世上万物的真实情形，也指人情世故。",
+   "en": "wù qíng: the true nature of things and of people."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "醉中真：只有喝醉的时候才是真的。",
+   "en": "zuì zhōng zhēn: only in drunkenness is it true."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我不相信美好的春天会嫌弃老人。",
+   "en": "I do not believe that lovely spring scorns the old."
+  },
+  {
+   "zh": "老人已经送走过多少回春天的最后时光了。",
+   "en": "This old man has seen off the last of spring so many times."
+  },
+  {
+   "zh": "珍惜春天，就该去游玩，别嫌次数多。",
+   "en": "Treasure spring and go out to enjoy it. Do not say it is too often."
+  },
+  {
+   "zh": "美丽的笑容、动听的歌声，都合我的心意。",
+   "en": "Lovely smiles and charming songs are all just what I like."
+  },
+  {
+   "zh": "爱花爱到发狂，喝酒喝到疯癫，就算你生气我也不管。",
+   "en": "I will be wild over flowers and wild with wine, even if it makes you angry."
+  },
+  {
+   "zh": "世上的事情，只有在醉里才是真的。",
+   "en": "Of all the things in the world, only what we feel when drunk is true."
+  }
+ ],
+ "background": {
+  "zh": "这首词的写作时间不详。从词里看，贺铸写它的时候已经自称“老人”，大概是晚年的作品。春天快要过去了，他却不服老，要抓紧时间赏花、听歌、喝酒。贺铸一生做官不得意，这种“醉中才真”的话，也透出他对世事的不满。",
+  "en": "We do not know when this poem was written. In it He Zhu already calls himself an old man, so it is probably from his later years. Spring is nearly over, but he refuses to give in to age. He wants to hurry and enjoy flowers, songs and wine. He Zhu's career as an official never went well, and saying that only drunkenness is true also shows his unhappiness with the world."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，号庆湖遗老，卫州（今河南卫辉）人，北宋词人。他长得高大威猛，脸色青黑，人称“贺鬼头”，可是他的词却写得非常细腻柔美。他因为一句“梅子黄时雨”出了名，又被叫作“贺梅子”。",
+  "en": "He Zhu (1052–1125) came from Weizhou, today's Weihui in Henan. He was a Northern Song writer of song lyrics. He was tall and fierce-looking, with a dark face, and people nicknamed him Ghost-Head He. Yet his lyrics are gentle and delicate. A famous line of his about rain when the plums turn yellow earned him another nickname, Plum He."
+ },
+ "appreciation": {
+  "zh": "这首词像一个老人在和春天赌气。开头他就说：我不信春天会嫌弃老人！我已经送走过那么多个春天了，所以更要珍惜，玩得再多也不嫌多。下阕更大胆：笑声歌声我都喜欢，爱花爱酒爱到发狂，你生气我也不管。最后一句最耐人寻味：世上的事，只有醉了才是真的。言外之意是，清醒的时候看到的，常常是假的。表面上是在说及时行乐，背后却有一点对现实的失望。",
+  "en": "This poem is like an old man arguing with spring. He begins: I do not believe spring scorns the old! I have seen off so many springs, so I must treasure this one all the more. No amount of fun is too much. The second half is even bolder: I love the laughter and the songs, I will go wild over flowers and wine, and I do not care if you are angry. The last line is the one to think about: in this world, only what we feel when drunk is true. The hidden meaning is that what we see when sober is often false. On the surface it says enjoy life while you can, but underneath there is some disappointment with the real world."
+ },
+ "famous_lines": [
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "age",
+   "wine",
+   "spring",
+   "joy"
+  ]
+ },
+ "uncertain": []
+}

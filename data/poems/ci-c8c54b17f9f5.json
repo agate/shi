@@ -1,0 +1,835 @@
+{
+ "id": "ci-c8c54b17f9f5",
+ "kind": "ci",
+ "title": "喜迁莺·元夕",
+ "title_en": "Xi Qian Ying: Lantern Festival Night",
+ "author": "史达祖",
+ "author_en": "Shi Dazu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "滴",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "近",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "了",
+    "liǎo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "隔",
+    "gé"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "圈",
+    "quān"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "织",
+    "zhī"
+   ],
+   [
+    "练",
+    "liàn"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "直",
+    "zhí"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "应",
+    "yìng"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "赖",
+    "lài"
+   ]
+  ],
+  [
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "趁",
+    "chèn"
+   ],
+   [
+    "烛",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "踪",
+    "zōng"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "忆",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "郎",
+    "láng"
+   ]
+  ],
+  [
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "笛",
+    "dí"
+   ]
+  ],
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "疏",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "厅",
+    "tīng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "倾",
+    "qīng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "碧",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "拘",
+    "jū"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "定",
+    "dìng"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "学",
+    "xué"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "历",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "一",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "际",
+    "jì"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "隙",
+    "xì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "语料库最后一句作“误玉人、夜寒帘隙”，通行本作“误玉人、夜寒窗际帘隙”，多“窗际”两个字，字数也和这个词牌相合，这里用通行本。语料库只有词牌名，通行本加了题目“元夕”。",
+  "en": "In the corpus the last line reads 'make my love wait, by the curtain gap in the cold night'. The common edition adds two characters, chuāng jì, 'by the window', which also fits the word count of this tune, so we follow it. The corpus gives only the tune name; the common edition adds the title 'Lantern Festival Night'."
+ },
+ "readings": [
+  {
+   "line": 12,
+   "pos": 0,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "这里读 màn，同“漫”，意思是“白白地、徒然”。另一个读音 mán 是“欺骗”的意思，这里不用。",
+   "en": "Read màn here, the same as the word for 'in vain'. The other reading, mán, means to deceive and is not used here."
+  },
+  {
+   "line": 13,
+   "pos": 1,
+   "char": "了",
+   "pinyin": "le",
+   "zh": "这里读 le，表示已经变老了。",
+   "en": "Read le here, showing that he has already grown old."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "月波：月光像水波一样。",
+   "en": "yuè bō: moonlight like ripples of water."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "疑滴：好像要滴下来。疑，好像。",
+   "en": "yí dī: seeming about to drip. Yí here means it seems."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "玉壶：玉做的壶，这里比喻晴朗明净的夜空。",
+   "en": "yù hú: a jade pot; here, an image of the clear, bright night sky."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "天近：天好像离得很近。",
+   "en": "tiān jìn: the sky seems close."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "了无尘隔：一点灰尘都没有，什么也挡不住。了，完全。",
+   "en": "liǎo wú chén gé: not a speck of dust in between. Liǎo means completely."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "翠眼圈花：彩灯上用翠绿的圆眼和花朵做装饰。一说是灯做成花的样子。",
+   "en": "cuì yǎn quān huā: lanterns decorated with green round eyes ringed with flowers. Another reading says the lanterns were shaped like flowers."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "冰丝织练：用冰一样洁白的丝织成的白绸，指白绢做的灯。练，白色的熟绢。",
+   "en": "bīng sī zhī liàn: white silk woven from ice-pale thread: lanterns made of white silk. Liàn is soft white silk."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "黄道：皇帝走的大道，这里指京城的大街。",
+   "en": "huáng dào: the emperor's road; here, the main avenue of the capital."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "宝光相直：灯火的光像珠宝一样，一路连成直直的一线。",
+   "en": "bǎo guāng xiāng zhí: lantern light like jewels, lined up straight along the way."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "自怜：自己可怜自己。",
+   "en": "zì lián: to pity oneself."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "诗酒瘦：因为写诗、喝酒，人变得消瘦。",
+   "en": "shī jiǔ shòu: grown thin from poetry and wine."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "难应接：应付不过来，看都看不过来。",
+   "en": "nán yìng jiē: too much to take in."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "春色：春天的景色，这里指元宵的热闹景象。",
+   "en": "chūn sè: spring scenery; here, the bright bustle of the festival."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "无赖：让人没办法、放不下。这里指最叫人忘不掉。",
+   "en": "wú lài: something you can do nothing about; here, what one can never forget."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 5,
+   "zh": "随香趁烛：跟着女子的香气，追着灯烛去游玩。趁，追逐。",
+   "en": "suí xiāng chèn zhú: following ladies' perfume and chasing the lamplight. Chèn means to chase."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "狂客：放纵不拘的朋友。",
+   "en": "kuáng kè: wild, carefree friends."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "踪迹：当年游玩留下的痕迹。",
+   "en": "zōng jì: traces of those old outings."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "谩记忆：白白地回想。",
+   "en": "màn jì yì: remembering in vain."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "杜郎：指唐代诗人杜牧。他年轻时在扬州过着风流的生活。作者用来比自己。",
+   "en": "dù láng: the Tang poet Du Mu, who lived a carefree romantic life in Yangzhou when young. The poet compares himself to him."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "忍听：怎么忍心听，意思是不忍心听。",
+   "en": "rěn tīng: how can I bear to hear? It means he cannot bear it."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 5,
+   "zh": "东风笛：春风里吹响的笛声。",
+   "en": "dōng fēng dí: a flute played in the spring wind."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "柳院灯疏：种着柳树的院子里，灯火稀稀落落。",
+   "en": "liǔ yuàn dēng shū: in the willow courtyard, the lamps are few."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "梅厅雪在：种着梅花的厅前，雪还没化。",
+   "en": "méi tīng xuě zài: before the plum-blossom hall, the snow still lies."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "谁与：和谁一起。",
+   "en": "shuí yǔ: with whom?"
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 6,
+   "zh": "细倾春碧：慢慢地倒一杯碧绿的春酒。春碧，酒名，泛指美酒。",
+   "en": "xì qīng chūn bì: slowly pouring the green spring wine. Chūn bì is a name for fine wine."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 5,
+   "zh": "拘未定：管不住，按捺不下。拘，约束。",
+   "en": "jū wèi dìng: cannot be held in check. Jū means to restrain."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "犹自：仍然、还是。",
+   "en": "yóu zì: still."
+  },
+  {
+   "line": 19,
+   "start": 5,
+   "end": 7,
+   "zh": "游历：出去游玩。",
+   "en": "yóu lì: going out to roam."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 3,
+   "zh": "怕万一：只怕万一。",
+   "en": "pà wàn yī: only I fear that, just maybe,"
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 3,
+   "zh": "误玉人：耽误了心爱的人，让她白白等待。玉人，美丽的女子。",
+   "en": "wù yù rén: make my love wait in vain. Yù rén, jade person, means a beautiful woman."
+  },
+  {
+   "line": 21,
+   "start": 5,
+   "end": 9,
+   "zh": "窗际帘隙：窗边、帘子的缝隙里。际，边。",
+   "en": "chuāng jì lián xì: by the window, through the gap in the curtain. Jì means edge."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月光像水波，好像要滴下来，",
+   "en": "The moonlight ripples like water, as if it might drip."
+  },
+  {
+   "zh": "看那夜空像玉壶一样明净，天好像很近，",
+   "en": "I gaze at the sky, clear as a jade pot, so close,"
+  },
+  {
+   "zh": "一点灰尘也没有。",
+   "en": "with not a speck of dust between."
+  },
+  {
+   "zh": "翠绿的灯眼围着花朵，",
+   "en": "Lanterns with green eyes ringed in flowers,"
+  },
+  {
+   "zh": "洁白的丝绢织成灯罩，",
+   "en": "lanterns of ice-white silk,"
+  },
+  {
+   "zh": "大街上灯光像珠宝一样连成一线。",
+   "en": "light like jewels running straight down the great avenue."
+  },
+  {
+   "zh": "我可怜自己，因为诗和酒变得消瘦，",
+   "en": "I pity myself, grown thin from poetry and wine,"
+  },
+  {
+   "zh": "这么多春光，实在看不过来。",
+   "en": "too worn to take in so much spring."
+  },
+  {
+   "zh": "最叫人忘不掉的，",
+   "en": "What I can never let go"
+  },
+  {
+   "zh": "是当年追着香气、追着灯火，",
+   "en": "is how I once followed perfume and chased the lamps,"
+  },
+  {
+   "zh": "和那些放纵不拘的朋友一起游玩。",
+   "en": "in the company of wild friends."
+  },
+  {
+   "zh": "那些踪迹啊，",
+   "en": "Those old traces,"
+  },
+  {
+   "zh": "只能白白地回想。",
+   "en": "I remember them in vain."
+  },
+  {
+   "zh": "像杜牧那样风流的人，如今已经老了，",
+   "en": "Like Du Mu, the carefree young man has grown old;"
+  },
+  {
+   "zh": "怎么忍心听春风里的笛声。",
+   "en": "how can he bear the flute in the spring wind?"
+  },
+  {
+   "zh": "柳树院子里灯火稀疏，",
+   "en": "In the willow courtyard the lamps are few;"
+  },
+  {
+   "zh": "梅花厅前雪还没化，",
+   "en": "before the plum hall the snow remains;"
+  },
+  {
+   "zh": "有谁和我慢慢地对饮春酒？",
+   "en": "who will slowly pour the spring wine with me?"
+  },
+  {
+   "zh": "可旧日的情怀还是按捺不住，",
+   "en": "Yet my old feelings will not be held back,"
+  },
+  {
+   "zh": "还想学当年那样出去游玩。",
+   "en": "and I still try to roam as I did in those years."
+  },
+  {
+   "zh": "只怕万一，",
+   "en": "I only fear that, just maybe,"
+  },
+  {
+   "zh": "让心爱的人白白等着，在寒夜的窗边、帘缝里张望。",
+   "en": "I will leave my love waiting in vain, by the window, at the curtain's gap, in the cold night."
+  }
+ ],
+ "background": {
+  "zh": "“元夕”就是正月十五元宵节的夜晚。宋代过元宵非常热闹，京城里到处挂满花灯，人们整夜出来看灯游玩。这首词写的是作者在一个元宵夜里的所见所想：满城灯火很美，他却觉得自己老了、瘦了，想起年轻时和朋友们追着灯火游玩的日子。这首词具体写于哪一年、在什么地方，已经不清楚了。",
+  "en": "Yuán xī is the night of the fifteenth of the first month, the Lantern Festival. In the Song dynasty this festival was very lively. The capital was hung with lanterns everywhere, and people stayed out all night to look at them. This ci tells what the poet sees and thinks on one Lantern Festival night. The lights of the city are beautiful, but he feels old and thin, and remembers the days when he chased the lamps with friends. The exact year and place it was written are no longer known."
+ },
+ "author_note": {
+  "zh": "史达祖，字邦卿，号梅溪，汴（今河南开封）人，南宋词人，生卒年不能确定。他在权臣韩侂胄手下做文书，很受重用。韩侂胄失败被杀后，他也受到惩罚，被流放，晚年很不得意。这首词里“老了杜郎”的感叹，和他自己的经历有相通的地方。他的词观察细，用字精巧。",
+  "en": "Shi Dazu, also called Meixi, came from Bian, today's Kaifeng in Henan. He was a Southern Song ci poet whose exact dates are not known. He worked as a clerk for the powerful minister Han Tuozhou, who relied on him greatly. After Han fell and was killed, Shi was punished and sent into exile, and his later years were unhappy. The sigh in this ci that Du Lang has grown old fits his own life. His ci show close observation and careful, delicate wording."
+ },
+ "appreciation": {
+  "zh": "上片先写元宵夜的美：月光像水，好像要滴下来；天空干净得像玉壶，离人很近；街上的花灯五颜六色，连成一条光的河。可这么美的夜，作者却说自己被诗和酒弄瘦了，看都看不过来。他心里想的，是年轻时跟着朋友追着灯火的快乐。下片回到现在：当年的事只能空想，人已经老了，听见春风里的笛声都受不了。院子里灯少了，雪还没化，也没人陪他喝酒。可他心里还是忍不住，想再像从前那样出去走走。最后一句很温柔：他担心万一出去了，让心上人在寒夜的窗边白白等他。热闹的元宵节和孤单的老人放在一起，让人觉得更加冷清。",
+  "en": "The first stanza shows the beauty of the night. The moonlight is like water, ready to drip. The sky is as clean as a jade pot and seems close enough to touch. Colorful lanterns fill the streets in a river of light. Yet on such a lovely night the poet says poetry and wine have worn him thin, and he cannot take it all in. What fills his mind is the joy of his youth, chasing the lamps with friends. The second stanza comes back to the present. Those days can only be remembered in vain. He has grown old, and even a flute in the spring wind is too much to bear. The courtyard has few lamps, the snow has not melted, and no one drinks with him. Still, he cannot hold back the wish to go out as he used to. The last line is tender: he fears that if he goes, his love will wait for him in vain at the window on a cold night. Putting a lonely old man beside a bright festival makes the loneliness feel even colder."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "lantern",
+   "aging",
+   "memory",
+   "love",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

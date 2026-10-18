@@ -1,0 +1,244 @@
+{
+ "id": "ae558bdc-1af9-404f-887e-d65e4c57a166",
+ "kind": "shi",
+ "title": "忆江南·江南好",
+ "title_en": "Remembering the South: The South Is Lovely",
+ "author": "白居易",
+ "author_en": "Bai Juyi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "词（单调，忆江南）",
+  "en": "lyric, single stanza, to the tune Yi Jiangnan"
+ },
+ "lines": [
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "谙",
+    "ān"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "蓝",
+    "lán"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料本只有开头两句“江南好，风景旧曾谙”，后面缺失，这里按通行本补全。语料本题目是“杂曲歌辞·忆江南”，课本一般题作《忆江南》，这是三首中的第一首。",
+  "en": "The corpus text has only the first two lines; the rest is missing and is restored here from the common text. The corpus title files it under miscellaneous song lyrics; textbooks usually call it \"Yi Jiangnan\". It is the first of three."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "曾",
+   "pinyin": "céng",
+   "zh": "这里是“曾经”的意思，读 céng，不读 zēng。",
+   "en": "Here it means once, in the past, so it is read céng, not zēng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "江南：长江下游的南边，比如今天的苏州、杭州一带。",
+   "en": "Jiāngnán: the land south of the lower Yangtze, around today's Suzhou and Hangzhou."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "旧曾谙：从前就很熟悉。旧，从前；谙，熟悉。",
+   "en": "jiù céng ān: knew well long ago. Jiù means in the past; ān means to know well."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "江花：江边的花。",
+   "en": "jiāng huā: flowers by the river."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "红胜火：比火还要红。胜，超过。",
+   "en": "hóng shèng huǒ: redder than fire. Shèng means to beat, to be more than."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "绿如蓝：绿得像蓝草一样。蓝，一种可以做蓝绿色染料的草。",
+   "en": "lǜ rú lán: as green as the indigo plant. Lán here is a plant used to make blue-green dye."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "能不忆：怎么能不想念呢？",
+   "en": "néng bù yì: how could I not miss it?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "江南真好！",
+   "en": "The south is lovely!"
+  },
+  {
+   "zh": "那里的风景，我从前就很熟悉。",
+   "en": "I knew its scenery well long ago."
+  },
+  {
+   "zh": "太阳出来，江边的花红得比火还艳，",
+   "en": "When the sun comes up, the flowers by the river are redder than fire;"
+  },
+  {
+   "zh": "春天来了，江水绿得像蓝草一样。",
+   "en": "when spring comes, the river is as green as indigo."
+  },
+  {
+   "zh": "怎么能不想念江南呢？",
+   "en": "How could I not miss the south?"
+  }
+ ],
+ "background": {
+  "zh": "白居易年轻时到过江南，后来又先后在杭州、苏州做刺史，也就是一个州的长官。他非常喜欢江南的山水。晚年他住在洛阳，回想起江南的美景，写了三首《忆江南》，这是第一首。一般认为写于开成三年（838年）前后，那时他已经六十多岁了。",
+  "en": "Bai Juyi visited the south when he was young. Later he served as prefect, the head of a region, first in Hangzhou and then in Suzhou. He loved the hills and waters of the south. In old age he lived in Luoyang. Remembering the beauty of the south, he wrote three lyrics called \"Yi Jiangnan\". This is the first. It is usually dated to around 838, when he was already in his sixties."
+ },
+ "author_note": {
+  "zh": "白居易（772—846），字乐天，号香山居士，唐代大诗人。他写诗喜欢用浅显的语言，据说连不识字的老奶奶都能听懂。他也是较早写词的诗人之一，这首《忆江南》短小、明白，又特别美。",
+  "en": "Bai Juyi (772–846), also called Letian, was a great Tang poet. He liked to write in plain words; it is said that even an old woman who could not read could understand his poems. He was also one of the first poets to write lyrics set to tunes. This \"Yi Jiangnan\" is short, clear and very beautiful."
+ },
+ "appreciation": {
+  "zh": "这首小词只有二十七个字。第一句直接喊出来：“江南好！”像一个人一想起家乡就忍不住笑。第二句说，这里的风景我从前就很熟悉，说明这不是听来的，是亲眼见过的。中间两句是一幅颜色最鲜艳的画：早上的太阳照着江边的花，红得像火；春天的江水绿得发蓝。红和绿放在一起，又亮又热闹。最后一句“能不忆江南？”用问句收尾，其实答案大家都知道：当然想啊！读的时候，可以闭上眼睛想一想，春天早晨的江南是什么颜色。",
+  "en": "This little lyric has only twenty-seven characters. The first line simply calls out: \"The south is lovely!\" It is like someone who smiles the moment he thinks of a place he loves. The second line says he knew this scenery well long ago, so he is not repeating what others said; he saw it himself. The middle two lines paint the brightest picture: the morning sun on riverside flowers, red as fire, and the spring river so green it is almost blue. Red next to green is bright and lively. The last line ends with a question, \"How could I not miss the south?\" Everyone knows the answer: of course he does! As you read, close your eyes and imagine the colors of a spring morning in the south."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "jiangnan",
+   "memory",
+   "scenery",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

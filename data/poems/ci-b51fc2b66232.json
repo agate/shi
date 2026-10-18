@@ -1,0 +1,754 @@
+{
+ "id": "ci-b51fc2b66232",
+ "kind": "ci",
+ "title": "南浦·旅怀",
+ "title_en": "Nan Pu: Thoughts on the Road",
+ "author": "孔夷",
+ "author_en": "Kong Yi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《南浦》，双调102字",
+  "en": "ci to the tune Nan Pu, 102 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ]
+  ],
+  [
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "单",
+    "chán"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "谯",
+    "qiáo"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "投",
+    "tóu"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "骎",
+    "qīn"
+   ],
+   [
+    "骎",
+    "qīn"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "骑",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "村",
+    "cūn"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "敲",
+    "qiāo"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "纷",
+    "fēn"
+   ]
+  ],
+  [
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "嘹",
+    "liáo"
+   ],
+   [
+    "唳",
+    "lì"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "胧",
+    "lóng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "损",
+    "sǔn"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "裙",
+    "qún"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "艳",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "付",
+    "fù"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "痕",
+    "hén"
+   ]
+  ],
+  [
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "馀",
+    "yú"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "通行本作“酒市渐阑灯火”“乍离烟水”。这里的底本作“渐闲”“下离”，可能是版本不同或传抄的差别。",
+  "en": "Common editions read jian lan (the lamps slowly going out) and zha li (just leaving). The source text has jian xian and xia li, likely a different edition or a copying slip."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "单",
+   "pinyin": "chán",
+   "zh": "“单于”的“单”读 chán。单于本是匈奴首领的称号，这里指曲子《小单于》。",
+   "en": "In chan yu this character is read chán. Chanyu was the title of the Xiongnu ruler; here it names a horn tune."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "按今天的习惯读 qí。古时“骑”作名词（骑马的人、坐骑）读 jì。",
+   "en": "Today this is read qí. In old usage, as a noun meaning a horse and rider, it was read jì."
+  },
+  {
+   "line": 13,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为问”的“为”读 wèi，意思是替、请让我。",
+   "en": "In wei wen this character is read wèi, meaning let me, or on someone's behalf."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "画角：古代军中的号角，外面画着彩色花纹，声音高亢悲凉。",
+   "en": "huà jiǎo: a painted horn used in old armies. Its sound was loud and sad."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "单于：曲子名《小单于》，是用号角吹的曲子。",
+   "en": "chán yú: short for the tune Little Chanyu, played on the horn."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "三弄：吹了三遍。弄，演奏一遍曲子。",
+   "en": "sān nòng: played three times. Nòng is one playing of a tune."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 8,
+   "zh": "谯门：城门上用来瞭望的楼。",
+   "en": "qiáo mén: the watchtower over a city gate."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "投宿：找地方住下过夜。",
+   "en": "tóu sù: to find a place to stay the night."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "骎骎：马跑得很快的样子。",
+   "en": "qīn qīn: horses running fast."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "征骑：远行人骑的马。",
+   "en": "zhēng qí: the horse of a traveller on a long journey."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "渐阑：慢慢快要完了。这里是说酒店的灯火渐渐熄了。",
+   "en": "jiàn lán: slowly coming to an end. The lamps in the wine shops are going out one by one."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "惊雁：受惊飞起的大雁。",
+   "en": "jīng yàn: wild geese startled into flight."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "乍：刚刚。",
+   "en": "zhà: just now."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "烟水：雾气笼罩的水面。",
+   "en": "yān shuǐ: water covered in mist."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "嘹唳：大雁响亮又凄凉的叫声。",
+   "en": "liáo lì: the loud, mournful cry of wild geese."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 3,
+   "zh": "度：越过，飞过。",
+   "en": "dù: to pass over."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "好在：唐宋时的口语，意思是还像从前一样，别来无恙。",
+   "en": "hǎo zài: an old everyday phrase meaning still as before, still well."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "半胧：朦朦胧胧，不太亮。",
+   "en": "bàn lóng: dim, half hidden."
+  },
+  {
+   "line": 10,
+   "start": 6,
+   "end": 8,
+   "zh": "销魂：伤心得好像魂都没了。",
+   "en": "xiāo hún: so sad that one's soul seems to melt away."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "故国：故乡。",
+   "en": "gù guó: the old home."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "愁损：愁得消瘦憔悴。",
+   "en": "chóu sǔn: worn thin by sorrow."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 5,
+   "zh": "绿罗裙：穿绿色丝裙的人，指家乡心爱的女子。",
+   "en": "lǜ luó qún: a green silk skirt, standing for the woman he loves back home."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 6,
+   "zh": "暗香闲艳：淡淡的香气，安静的美丽，都是指梅花。",
+   "en": "àn xiāng xián yàn: faint fragrance and quiet beauty, both meaning plum blossom."
+  },
+  {
+   "line": 14,
+   "start": 6,
+   "end": 8,
+   "zh": "啼痕：泪痕。万点啼痕，像无数泪滴，也像点点梅花。",
+   "en": "tí hén: tear stains. Ten thousand of them are like countless tears, and also like dots of plum blossom."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "翠屏：绿色的屏风，在女子的房间里。",
+   "en": "cuì píng: a green screen in a woman's room."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "两眉馀恨：两道眉毛间留着没散的愁。",
+   "en": "liǎng méi yú hèn: lingering sorrow between her two brows."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "风声里，画角的声音很悲凉，",
+   "en": "In the wind, the painted horn sounds sad."
+  },
+  {
+   "zh": "听那《小单于》吹了三遍，从城门楼上传下来。",
+   "en": "I hear the tune Little Chanyu played three times, falling from the gate tower."
+  },
+  {
+   "zh": "我骑着马急急忙忙找地方过夜，",
+   "en": "Riding hard, I look for a place to spend the night."
+  },
+  {
+   "zh": "大雪落满了孤零零的村子。",
+   "en": "Snow fills the lonely village."
+  },
+  {
+   "zh": "酒店的灯火慢慢熄了，",
+   "en": "The lamps of the wine shops slowly go out."
+  },
+  {
+   "zh": "这时乱叶纷纷飞舞，敲打着窗户。",
+   "en": "Just then, scattered leaves whirl about and tap at the window."
+  },
+  {
+   "zh": "几声受惊大雁的叫声传来，",
+   "en": "A few cries of startled geese come to me."
+  },
+  {
+   "zh": "它们刚离开雾蒙蒙的水面，",
+   "en": "They have just left the misty water,"
+  },
+  {
+   "zh": "高声哀鸣着飞过寒冷的云层。",
+   "en": "and cry loud and sad as they pass through the cold clouds."
+  },
+  {
+   "zh": "那朦朦胧胧的溪上月亮，还是老样子，",
+   "en": "The dim moon over the stream is just as it was,"
+  },
+  {
+   "zh": "到现在，处处都让我伤心。",
+   "en": "yet now everything everywhere breaks my heart."
+  },
+  {
+   "zh": "梦里回到故乡，看到梅花，",
+   "en": "In dreams I go home to the plum blossoms,"
+  },
+  {
+   "zh": "心爱的她一定愁得消瘦了。",
+   "en": "and she in her green silk skirt must be worn thin with sorrow."
+  },
+  {
+   "zh": "请问那幽香淡雅的梅花，",
+   "en": "Let me ask the quietly fragrant plum blossoms:"
+  },
+  {
+   "zh": "你也在相思，把万点泪痕寄给我吗？",
+   "en": "are you longing too, sending me ten thousand tear stains?"
+  },
+  {
+   "zh": "想来她这时应该在翠绿的屏风边，",
+   "en": "I suppose by her green screen right now,"
+  },
+  {
+   "zh": "皱着双眉，带着满心的愁，靠在那里看黄昏。",
+   "en": "she leans into the dusk, sorrow still between her brows."
+  }
+ ],
+ "background": {
+  "zh": "这首词写冬天在旅途中投宿的一夜。号角声、风雪、乱叶、惊雁，让一个远行的人格外孤单。他在梦里回到故乡，看见梅花，想起家中的心上人。词的具体写作时间和地点已经不清楚。它被收进《宋词三百首》，是孔夷流传最广的作品。",
+  "en": "This lyric describes one winter night on the road, stopping at an inn. The horn, the wind and snow, the whirling leaves and the startled geese all make the traveller feel very alone. In a dream he goes home, sees the plum blossoms, and thinks of the woman he loves. We no longer know exactly when or where it was written. It was chosen for the Three Hundred Song Lyrics and is Kong Yi's best-known work."
+ },
+ "author_note": {
+  "zh": "孔夷，北宋人，字方平，汝州龙兴（今河南宝丰一带）人。一般说他没有做官，隐居在乡间，自号“滍皋渔父”。他的词留下来的很少，这首《南浦》写得清丽凄凉，最有名。",
+  "en": "Kong Yi lived in the Northern Song. He came from Longxing in Ruzhou, around today's Baofeng in Henan. He is usually said to have never taken office and to have lived quietly in the countryside, calling himself the Fisherman of the Zhi Riverbank. Few of his lyrics survive, and this one, clear and sad, is the most famous."
+ },
+ "appreciation": {
+  "zh": "上阕全是声音和寒冷：风里悲凉的号角，城楼上一遍遍的曲子，雪满孤村，乱叶敲窗，惊雁在冷云里哀叫。一个骑马赶路的人，就在这样的夜里住进陌生的小村。下阕转到心里：月亮还是那个月亮，人却处处伤心。他梦见故乡的梅花，又想起家里的她，问梅花是不是也在流泪。最后一句设想她靠着屏风望黄昏，眉头紧锁。词人不直接说自己想她，而是写她想自己，这样思念就变成了两个人的。",
+  "en": "The first stanza is all sound and cold: the sad horn in the wind, the tune played again and again on the tower, snow over a lonely village, leaves tapping at the window, startled geese crying in cold clouds. A man riding hard on a long road stops for the night in a strange little village. The second stanza turns inward. The moon is the same moon, but everything hurts now. He dreams of the plum blossoms at home, thinks of her, and asks the blossoms whether they are weeping too. The last line pictures her leaning by the screen at dusk, her brows drawn tight. The poet does not say outright that he misses her. He imagines her missing him, so the longing belongs to both of them."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "homesick",
+   "love",
+   "snow",
+   "plum"
+  ]
+ },
+ "uncertain": []
+}

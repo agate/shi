@@ -1,0 +1,836 @@
+{
+ "id": "ci-35cb2ae401ad",
+ "kind": "ci",
+ "title": "解语花·上元",
+ "title_en": "Jie Yu Hua: The Lantern Festival",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "焰",
+    "yàn"
+   ],
+   [
+    "蜡",
+    "là"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "浥",
+    "yì"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "莲",
+    "lián"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "射",
+    "shè"
+   ]
+  ],
+  [
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "瓦",
+    "wǎ"
+   ]
+  ],
+  [
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "耿",
+    "gěng"
+   ],
+   [
+    "耿",
+    "gěng"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "娥",
+    "é"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "裳",
+    "cháng"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "雅",
+    "yǎ"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "腰",
+    "yāo"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "把",
+    "bǎ"
+   ]
+  ],
+  [
+   [
+    "箫",
+    "xiāo"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "喧",
+    "xuān"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "参",
+    "cēn"
+   ],
+   [
+    "差",
+    "cī"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "麝",
+    "shè"
+   ]
+  ],
+  [
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "都",
+    "dū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "放",
+    "fàng"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ]
+  ],
+  [
+   [
+    "嬉",
+    "xī"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "冶",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "钿",
+    "diàn"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "帕",
+    "pà"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "谢",
+    "xiè"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "移",
+    "yí"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "盖",
+    "gài"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "罢",
+    "bà"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "这里用的是常见选本里的文字。数据库原文第二句作“露浥烘炉”，常见本作“露浥红莲”，红莲指莲花形的花灯。两种写法都有版本依据。词题“上元”是后来选本常加的，数据库原文只有词牌名。",
+  "en": "This follows the text in common anthologies. In line 2 the corpus has hōng lú (glowing lamps) where common editions have hóng lián (red lotus), meaning lotus-shaped lanterns. Both readings are found in old editions. The subtitle “The Lantern Festival” is added in common anthologies; the corpus gives only the tune name."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "裳",
+   "pinyin": "cháng",
+   "zh": "衣裳：在古诗词里一般读 yī cháng。现代口语读 yī shang。",
+   "en": "In old poems this word for clothes is usually read yī cháng; in everyday speech today it is yī shang."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "参",
+   "pinyin": "cēn",
+   "zh": "参差：长短高低不齐，读 cēn cī。",
+   "en": "This word, meaning uneven, is read cēn cī."
+  },
+  {
+   "line": 9,
+   "pos": 3,
+   "char": "差",
+   "pinyin": "cī",
+   "zh": "参差的“差”读 cī，不读 chà 或 chā。",
+   "en": "In cēn cī this character is read cī, not chà or chā."
+  },
+  {
+   "line": 14,
+   "pos": 0,
+   "char": "钿",
+   "pinyin": "diàn",
+   "zh": "钿车：用金银珠宝镶嵌装饰的车，“钿”读 diàn。",
+   "en": "In diàn chē, “a carriage inlaid with gold and jewels”, this character is read diàn."
+  },
+  {
+   "line": 21,
+   "pos": 0,
+   "char": "从",
+   "pinyin": "cóng",
+   "zh": "从：任凭、随便，读 cóng。",
+   "en": "Here this character means to let things be, and is read cóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "风销焰蜡：风吹着燃烧的蜡烛，蜡慢慢化掉。销，熔化。",
+   "en": "fēng xiāo yàn là: the wind melts the burning candles. Xiāo means to melt."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "露浥红莲：露水打湿了红莲花灯。浥，沾湿；红莲，做成莲花样子的灯。",
+   "en": "lù yì hóng lián: dew wets the red lotus lanterns. Yì means to moisten; hóng lián are lanterns shaped like lotus flowers."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "花市：元宵节晚上卖花灯、挂满花灯的街市。",
+   "en": "huā shì: the lantern market, streets hung with lanterns on festival night."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "光相射：灯光和月光互相照耀。",
+   "en": "guāng xiāng shè: the lights shine upon one another."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "桂华流瓦：月光像水一样流在屋瓦上。传说月亮里有桂树，所以用桂华指月光。",
+   "en": "guì huá liú wǎ: moonlight flows over the roof tiles like water. Legend says an osmanthus tree grows on the moon, so its blossom stands for moonlight."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "纤云：细细的薄云。",
+   "en": "xiān yún: thin wisps of cloud."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "耿耿：明亮的样子。",
+   "en": "gěng gěng: bright and clear."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "素娥：月中的仙女嫦娥，这里指月亮。",
+   "en": "sù é: Chang'e, the goddess of the moon, here meaning the moon itself."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "欲下：好像要从天上走下来。",
+   "en": "yù xià: as if about to come down from the sky."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "淡雅：素净、雅致，不艳丽。",
+   "en": "dàn yǎ: simple and graceful, not showy."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "楚女：楚地的女子。楚指今天湖北、湖南一带。",
+   "en": "chǔ nǚ: girls of Chu, the land of today's Hubei and Hunan."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "纤腰一把：腰很细，好像一只手就能握住。",
+   "en": "xiān yāo yī bǎ: waists so slim a hand could hold them."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "箫鼓喧：吹箫打鼓，非常热闹。",
+   "en": "xiāo gǔ xuān: flutes and drums make a cheerful noise."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "参差：高高低低、来来往往，不整齐。",
+   "en": "cēn cī: uneven, crowding to and fro."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 5,
+   "zh": "香麝：麝香，一种很香的香料。这里指游人身上的香气。",
+   "en": "xiāng shè: musk, a strong perfume, here the scent of the passing crowd."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "因念：因此想起。",
+   "en": "yīn niàn: and so I think back to."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "都城：京城，指北宋的都城汴京，就是今天河南开封。",
+   "en": "dū chéng: the capital, Bianjing of the Northern Song, today's Kaifeng in Henan."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 6,
+   "zh": "放夜：古时城里晚上不准随便走动，元宵节前后几天特许人们夜里出游，叫放夜。",
+   "en": "fàng yè: in old cities people could not walk about at night, but around the Lantern Festival this rule was lifted; that was called fàng yè."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 5,
+   "zh": "千门如昼：千家万户灯火通明，像白天一样亮。",
+   "en": "qiān mén rú zhòu: a thousand gates all lit up as bright as day."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "嬉笑游冶：说说笑笑，尽情游玩。游冶，出游玩乐。",
+   "en": "xī xiào yóu yě: laughing and joking, out having fun."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "钿车：用金银珠宝装饰的华丽车子。",
+   "en": "diàn chē: a fine carriage inlaid with gold and jewels."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "罗帕：丝绸手帕，这里指车里坐着的女子。",
+   "en": "luó pà: a silk handkerchief, here meaning the young women riding in the carriages."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 6,
+   "zh": "暗尘随马：马跑过去扬起的尘土跟着马走。化用唐代苏味道写元宵的诗句“暗尘随马去”，这里暗写男女相逢、追随。",
+   "en": "àn chén suí mǎ: dust kicked up by the horses follows them. It borrows a line about the Lantern Festival by the Tang poet Su Weidao, and hints at young men riding after the carriages."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 4,
+   "zh": "年光是也：每年的节日风光还是一样。",
+   "en": "nián guāng shì yě: the festival scenes are the same each year."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 3,
+   "zh": "唯只见：只看到。",
+   "en": "wéi zhǐ jiàn: I can only see."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 7,
+   "zh": "旧情衰谢：从前的心情像花一样凋谢了。",
+   "en": "jiù qíng shuāi xiè: the old feelings have faded like flowers."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "清漏移：漏壶里的水滴着，时间慢慢过去，夜深了。漏，古代用滴水来计时的器具。",
+   "en": "qīng lòu yí: the water clock drips and time moves on; the night grows late. A lòu was an old clock that told time by dripping water."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "飞盖：飞快行驶的车。盖，车上的篷子，代指车。",
+   "en": "fēi gài: a fast carriage. Gài is a carriage's canopy, standing for the carriage."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 5,
+   "zh": "从舞休歌罢：任凭那里的舞停了、歌散了，也不管了。从，任凭。",
+   "en": "cóng wǔ xiū gē bà: let the dancing stop and the singing end; it no longer matters. Cóng means to let things be."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "风吹着燃烧的蜡烛，蜡慢慢化掉，",
+   "en": "The wind melts the burning candles,"
+  },
+  {
+   "zh": "露水打湿了红莲花灯，",
+   "en": "dew wets the red lotus lanterns,"
+  },
+  {
+   "zh": "花灯街市上，灯光月光互相照耀。",
+   "en": "and in the lantern market the lights shine on one another."
+  },
+  {
+   "zh": "月光像水一样流过屋瓦。",
+   "en": "Moonlight flows across the roof tiles."
+  },
+  {
+   "zh": "细细的薄云散开了，",
+   "en": "The thin clouds drift apart,"
+  },
+  {
+   "zh": "明亮的月亮好像嫦娥要走下人间。",
+   "en": "and the bright moon seems like the moon goddess about to come down."
+  },
+  {
+   "zh": "姑娘们的衣服素净又雅致，",
+   "en": "The girls' clothes are simple and graceful;"
+  },
+  {
+   "zh": "看那楚地的女子，腰细得一只手就能握住。",
+   "en": "look at the girls of Chu, their waists so slim a hand could hold them."
+  },
+  {
+   "zh": "箫声鼓声一片热闹，",
+   "en": "Flutes and drums ring out,"
+  },
+  {
+   "zh": "人影高高低低，来来往往，",
+   "en": "shadows of people crowd to and fro,"
+  },
+  {
+   "zh": "满路都飘着麝香的香气。",
+   "en": "and the whole road is sweet with musk."
+  },
+  {
+   "zh": "这让我想起当年京城元宵节的夜晚，",
+   "en": "It makes me think of festival nights long ago in the capital,"
+  },
+  {
+   "zh": "千家万户灯火通明，像白天一样，",
+   "en": "a thousand gates lit up as bright as day,"
+  },
+  {
+   "zh": "人们说说笑笑，尽情游玩。",
+   "en": "people laughing and out having fun."
+  },
+  {
+   "zh": "装饰华丽的车里坐着拿丝帕的女子，",
+   "en": "Fine carriages carried girls with silk handkerchiefs;"
+  },
+  {
+   "zh": "在相遇的地方，",
+   "en": "wherever they met,"
+  },
+  {
+   "zh": "总有骑马的人跟在车后，马蹄扬起尘土。",
+   "en": "young riders followed, the dust trailing after their horses."
+  },
+  {
+   "zh": "每年的节日风光还是这样，",
+   "en": "The festival looks the same each year;"
+  },
+  {
+   "zh": "只是我从前的心情已经凋谢了。",
+   "en": "only my old feelings have faded away."
+  },
+  {
+   "zh": "漏壶滴水，夜已经深了，",
+   "en": "The water clock drips on, and the night grows late;"
+  },
+  {
+   "zh": "我坐着车匆匆回来，",
+   "en": "I ride home quickly in my carriage,"
+  },
+  {
+   "zh": "任凭那边的舞停了、歌散了。",
+   "en": "and let the dancing stop and the singing end."
+  }
+ ],
+ "background": {
+  "zh": "上元就是农历正月十五元宵节。这天晚上家家挂灯，人们出门赏灯。这首词写的是作者在外地过元宵节，看到眼前的灯会，想起当年在京城汴京过节的热闹。一般认为是周邦彦离开京城、在外地做官时写的，词里提到“楚女”，一说写于荆州，一说写于溧水，具体年份说法不一。",
+  "en": "Shang Yuan is the Lantern Festival, on the fifteenth night of the first lunar month. That night every home hangs lanterns and people go out to see them. In this lyric the poet spends the festival away from the capital. Watching the lanterns before him, he remembers how lively the festival was in Bianjing, the capital. It is usually thought he wrote it while serving as an official outside the capital. Because it mentions girls of Chu, some say it was written in Jingzhou, others in Lishui; the exact year is not agreed."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，钱塘（今浙江杭州）人，北宋著名词人。他精通音乐，宋徽宗时曾主持管理音乐的机构大晟府。他的词字句讲究，音律严谨，常把唐诗的句子巧妙地化用进词里，这首词里的“暗尘随马”就是一个例子。",
+  "en": "Zhou Bangyan (1056–1121), also called Meicheng, was from Qiantang, today's Hangzhou in Zhejiang. He was a famous Northern Song writer of ci lyrics. He knew music deeply, and under Emperor Huizong he ran the court music office. His lyrics are carefully worded and strict in their music. He often wove lines from Tang poems into his own, and the dust following the horses in this lyric is one example."
+ },
+ "appreciation": {
+  "zh": "上半首写眼前的元宵夜。先是近景：蜡烛在风里慢慢化，花灯沾着露水，灯光和月光交织在一起。再抬头看：云散了，月光像水一样流过屋瓦，月亮亮得好像嫦娥要下凡。然后是街上的人：衣着素雅的姑娘，热闹的箫鼓，满路的香气。下半首一转，想起当年京城的元宵：千门灯火如白昼，华丽的车子，骑马追随的少年，处处是欢笑。可如今节日年年一样，人的心情却变了。最后他不等歌舞结束就坐车回家。热闹的灯会和冷清的心情放在一起，越热闹，越让人觉得孤单。",
+  "en": "The first half shows the festival night in front of him. Up close, candles melt in the wind, lanterns are wet with dew, and lamplight mixes with moonlight. Looking up, the clouds have cleared, moonlight flows over the roofs like water, and the moon is so bright it seems the goddess might step down. Then come the people in the street: girls in simple, graceful clothes, flutes and drums, sweet scent all along the road. The second half turns to memory: the capital long ago, a thousand gates lit like day, fine carriages, young men riding after them, laughter everywhere. Now the festival is the same each year, but his heart has changed. In the end he rides home before the music is over. The bright festival and his lonely heart are set side by side, and the brighter the scene, the lonelier he feels."
+ },
+ "famous_lines": [
+  3,
+  16
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "lantern",
+   "moon",
+   "memory",
+   "city",
+   "festival"
+  ]
+ },
+ "uncertain": []
+}

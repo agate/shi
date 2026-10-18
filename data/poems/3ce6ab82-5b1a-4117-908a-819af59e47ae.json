@@ -1,0 +1,246 @@
+{
+ "id": "3ce6ab82-5b1a-4117-908a-819af59e47ae",
+ "kind": "shi",
+ "title": "越中览古",
+ "title_en": "Viewing the Past in Yue",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "勾",
+    "gōu"
+   ],
+   [
+    "践",
+    "jiàn"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "义",
+    "yì"
+   ],
+   [
+    "士",
+    "shì"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "殿",
+    "diàn"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "鹧",
+    "zhè"
+   ],
+   [
+    "鸪",
+    "gū"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文作“越王句践”“义士还乡”。“句践”是“勾践”的古写法。通行本多作“勾践”“还家”，这里用通行本。",
+  "en": "The corpus writes the king's name with an older form of the first character, and has \"returned to their villages\" instead of \"returned home\". Common editions use the modern form of the name and \"returned home\", which are used here."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还：读 huán，是回来的意思。",
+   "en": "Here the character is read huán, meaning to return."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "勾践：春秋时越国的国王。他被吴国打败后，卧薪尝胆，最后灭了吴国。",
+   "en": "gōu jiàn: Goujian, a king of Yue in the Spring and Autumn period. Beaten by Wu, he slept on brushwood and tasted bitter gall to keep his anger alive, and in the end he destroyed Wu."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "破吴：打败吴国。",
+   "en": "pò wú: defeating the state of Wu."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "义士：为国出力的将士。",
+   "en": "yì shì: loyal soldiers who fought for their country."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "尽锦衣：都穿上了华丽的衣服，表示立功受赏，风光回乡。",
+   "en": "jìn jǐn yī: all in fine silk, meaning they were rewarded and came home in glory."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "春殿：宫殿。“春”字写出热闹繁华。",
+   "en": "chūn diàn: the palace hall; \"spring\" suggests how lively and splendid it was."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "只今：如今。",
+   "en": "zhǐ jīn: now."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "鹧鸪：一种鸟，叫声听起来很凄凉。",
+   "en": "zhè gū: a partridge, a bird whose call sounds sad and lonely."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "越王勾践打败了吴国，胜利归来，",
+   "en": "King Goujian of Yue crushed Wu and came home in triumph."
+  },
+  {
+   "zh": "为国出力的将士们回到家，个个穿着锦衣。",
+   "en": "His loyal soldiers returned home, every one dressed in silk."
+  },
+  {
+   "zh": "宫女们像花一样美，挤满了繁华的宫殿。",
+   "en": "Palace ladies, lovely as flowers, filled the splendid halls."
+  },
+  {
+   "zh": "可如今这里只有几只鹧鸪在飞。",
+   "en": "Now only partridges fly over the place."
+  }
+ ],
+ "background": {
+  "zh": "越中就是古代越国的都城会稽，在今天的浙江绍兴。春秋时，越王勾践被吴国打败，忍辱多年，终于灭了吴国。李白年轻时漫游吴越一带，来到这里，看到当年的宫殿早已不在，想起这段历史，写下了这首怀古诗。具体年份不清楚。",
+  "en": "Yue's old capital was Kuaiji, today's Shaoxing in Zhejiang. In the Spring and Autumn period, King Goujian of Yue was defeated by Wu, bore the shame for years, and finally destroyed Wu. When Li Bai was young he travelled around this region. He came here, saw that the old palaces were long gone, thought about that history, and wrote this poem about the past. We do not know the exact year."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他一生爱游山玩水，走过很多地方，常常在古迹前写诗感叹历史。他还写过一首《苏台览古》，写的是吴国的旧宫，可以和这首对着读。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. All his life he loved to travel, and at old ruins he often wrote poems sighing over history. He also wrote \"Viewing the Past at Gusu Terrace\" about the old palace of Wu, which pairs well with this poem."
+ },
+ "appreciation": {
+  "zh": "前三句写当年越国有多风光：国王打了胜仗回来，将士穿着锦衣，宫里满是像花一样的宫女。一句比一句热闹。到了第四句，画面一下子变了：如今什么都没有了，只剩几只鹧鸪在飞。三句繁华，一句冷清，对比特别强烈。诗人不直接说“繁华不长久”，只让我们看鹧鸪飞过荒地，自己去体会这份感慨。",
+  "en": "The first three lines show how glorious Yue once was. The king came home victorious, the soldiers wore silk, and the palace was full of ladies as lovely as flowers. Each line is livelier than the one before. Then in the fourth line the picture suddenly changes: now nothing is left, only a few partridges flying. Three lines of glory, one line of emptiness, and the contrast is very strong. The poet never says \"glory does not last\". He just lets us watch the birds fly over the empty land and feel it ourselves."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "ruins",
+   "impermanence",
+   "bird"
+  ]
+ },
+ "uncertain": []
+}

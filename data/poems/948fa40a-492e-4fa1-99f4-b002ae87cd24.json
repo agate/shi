@@ -1,0 +1,275 @@
+{
+ "id": "948fa40a-492e-4fa1-99f4-b002ae87cd24",
+ "kind": "shi",
+ "title": "清平调·其一",
+ "title_en": "Qingping Tune, No. 1",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "裳",
+    "cháng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "容",
+    "róng"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "拂",
+    "fú"
+   ],
+   [
+    "槛",
+    "jiàn"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "浓",
+    "nóng"
+   ]
+  ],
+  [
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "逢",
+    "féng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "裳",
+   "pinyin": "cháng",
+   "zh": "“衣裳”现在口语读 yī shang，在古诗里一般读 yī cháng。",
+   "en": "In everyday speech today the word is yī shang, but in classical poems it is usually read yī cháng."
+  },
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "槛",
+   "pinyin": "jiàn",
+   "zh": "“槛”指栏杆时读 jiàn；读 kǎn 是门槛的意思。",
+   "en": "When the character means a railing it is read jiàn; read kǎn, it means a doorsill."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "云想衣裳：看见云，就想到她的衣裳。也可以理解成：她的衣裳像云一样美。",
+   "en": "yún xiǎng yī cháng: seeing the clouds, one thinks of her robes; or, her robes are as lovely as clouds."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "花想容：看见花，就想到她的容貌。容，脸、容貌。",
+   "en": "huā xiǎng róng: seeing the flowers, one thinks of her face. Róng means face, looks."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "拂：轻轻吹过。",
+   "en": "fú: to brush lightly."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "槛：栏杆。这里是种牡丹的花圃边上的栏杆。",
+   "en": "jiàn: a railing, here the railing around the peony beds."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "露华浓：露水又多又亮。露华，晶莹的露珠。",
+   "en": "lù huá nóng: the dew is thick and sparkling. Lù huá means glistening dewdrops."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "若非：如果不是。",
+   "en": "ruò fēi: if not."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "群玉山：神话里西王母住的仙山。",
+   "en": "qún yù shān: Jade Mountain, the fairy mountain where the Queen Mother of the West lived in myth."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "会向：一定是在……",
+   "en": "huì xiàng: surely it would be at..."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "瑶台：神话里仙女住的地方，用美玉砌成的高台。",
+   "en": "yáo tái: the Jade Terrace, a high platform of precious stone where fairies lived in myth."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 7,
+   "zh": "逢：遇见。",
+   "en": "féng: to meet."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "见到云彩就想起她的衣裳，见到花儿就想起她的容貌。",
+   "en": "The clouds make me think of her robes, the flowers of her face."
+  },
+  {
+   "zh": "春风吹拂着栏杆，牡丹上的露珠又多又亮。",
+   "en": "Spring wind brushes the railing, and the dew lies thick and bright on the peonies."
+  },
+  {
+   "zh": "这样美的人，如果不是在群玉山上见到的，",
+   "en": "Such beauty, if not seen on Jade Mountain,"
+  },
+  {
+   "zh": "那一定是在瑶台的月光下遇到的仙女。",
+   "en": "could only be a fairy met under the moon at the Jade Terrace."
+  }
+ ],
+ "background": {
+  "zh": "《清平调》一共三首，这是第一首。唐玄宗天宝初年，李白在长安的翰林院做事，陪在皇帝身边写诗。据唐人笔记记载，一个春天，唐玄宗和杨贵妃在兴庆宫的沉香亭前看牡丹，叫人把李白找来写新歌词。李白当场写了这三首诗，交给乐工配曲演唱。一说写于天宝二年（743年）。",
+  "en": "There are three \"Qingping Tunes\", and this is the first. In the early Tianbao years of Emperor Xuanzong, Li Bai worked at the Hanlin Academy in Chang'an, writing poems at the emperor's side. According to a Tang anecdote book, one spring Emperor Xuanzong and Consort Yang were admiring peonies by the Chenxiang Pavilion in the Xingqing Palace, and the emperor sent for Li Bai to write new song words. Li Bai wrote these three poems on the spot, and the court musicians set them to music. One view dates them to 743."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他的诗想象大胆，常常写到神仙和月亮。他在长安做翰林供奉的时间不长，大约两年就离开了宫廷。这三首《清平调》是他在宫中时写的名作。",
+  "en": "Li Bai (701–762) was a great Tang poet, known as the Immortal of Poetry. His poems are full of bold imagination and often speak of fairies and the moon. His time serving the emperor in Chang'an was short; after about two years he left the court. These three Qingping Tunes are famous works from his time in the palace."
+ },
+ "appreciation": {
+  "zh": "这首诗写杨贵妃的美，却一句也没有直接写她长什么样。第一句最妙：看见云，就想到她的衣裳；看见花，就想到她的脸。云和花都很美，可它们都让人想起她，可见她更美。第二句写春风、栏杆和带露的牡丹，又像在写花，又像在写人，花和人融在一起了。后两句把她比成仙女：这样的美人，人间哪里找得到？不是在群玉山上，就是在瑶台的月光下。整首诗轻盈、明亮，像一幅飘着仙气的画。",
+  "en": "This poem praises Consort Yang's beauty without ever describing what she looks like. The first line is the best. Seeing clouds, one thinks of her robes; seeing flowers, one thinks of her face. Clouds and flowers are lovely, yet they only remind us of her, so she must be lovelier still. The second line shows spring wind, a railing and dewy peonies. It seems to describe the flowers and the woman at once, so the two blend together. The last two lines compare her to a fairy. Where on earth could one find such a beauty? Only on Jade Mountain, or under the moon at the Jade Terrace. The whole poem is light and bright, like a painting touched with magic."
+ },
+ "famous_lines": [
+  0
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "beauty",
+   "flower",
+   "peony",
+   "palace",
+   "fairy"
+  ]
+ },
+ "uncertain": []
+}

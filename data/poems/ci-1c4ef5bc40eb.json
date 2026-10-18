@@ -1,0 +1,834 @@
+{
+ "id": "ci-1c4ef5bc40eb",
+ "kind": "ci",
+ "title": "花犯·郭希道送水仙索赋",
+ "title_en": "Hua Fan: Guo Xidao Sends Me Narcissus and Asks for a Poem",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "娉",
+    "pīng"
+   ],
+   [
+    "婷",
+    "tíng"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "铅",
+    "qiān"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "靥",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "蜂",
+    "fēng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "晕",
+    "yùn"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "翘",
+    "qiáo"
+   ],
+   [
+    "欹",
+    "qī"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "认",
+    "rèn"
+   ]
+  ],
+  [
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "紧",
+    "jǐn"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "稳",
+    "wěn"
+   ]
+  ],
+  [
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "葱",
+    "cōng"
+   ],
+   [
+    "蒨",
+    "qiàn"
+   ]
+  ],
+  [
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "准",
+    "zhǔn"
+   ]
+  ],
+  [
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "娥",
+    "é"
+   ],
+   [
+    "化",
+    "huà"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "芳",
+    "fāng"
+   ]
+  ],
+  [
+   [
+    "凌",
+    "líng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "遗",
+    "yí"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "砌",
+    "qì"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "冻",
+    "dòng"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "藏",
+    "cáng"
+   ],
+   [
+    "韵",
+    "yùn"
+   ]
+  ],
+  [
+   [
+    "熏",
+    "xūn"
+   ],
+   [
+    "炉",
+    "lú"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "旋",
+    "xuán"
+   ],
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "傍",
+    "bàng"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "绀",
+    "gàn"
+   ],
+   [
+    "鬒",
+    "zhěn"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "引",
+    "yǐn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "语料库只有词牌名，通行本有题目“郭希道送水仙索赋”。语料库“翠翘敧鬓”的“敧”是“欹”的另一种写法，这里按通行本作“欹”，意思是倾斜。",
+  "en": "The corpus gives only the tune name; the common edition adds the title 'Guo Xidao Sends Me Narcissus and Asks for a Poem'. In the corpus, the character for 'tilted' in the fourth line is written in a variant form; here it follows the common edition. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "晕",
+   "pinyin": "yùn",
+   "zh": "读 yùn，指脸上或花上一圈淡淡的颜色，像“红晕”。",
+   "en": "Read yùn: a soft ring of color on a face or a flower, as in a blush."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "翘",
+   "pinyin": "qiáo",
+   "zh": "读 qiáo。“翠翘”是一种像翠鸟尾羽的首饰。",
+   "en": "Read qiáo. Cuì qiáo is a hairpin shaped like a kingfisher's tail feathers."
+  },
+  {
+   "line": 15,
+   "pos": 3,
+   "char": "旋",
+   "pinyin": "xuán",
+   "zh": "读 xuán，意思是“随即、很快地”。",
+   "en": "Read xuán, meaning soon, right away."
+  },
+  {
+   "line": 16,
+   "pos": 7,
+   "char": "鬒",
+   "pinyin": "zhěn",
+   "zh": "读 zhěn，指浓密的黑发。",
+   "en": "Read zhěn: thick dark hair."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "娉婷：女子姿态美好的样子。这里把水仙花比作一个小巧的美人。",
+   "en": "pīng tíng: graceful, of a young woman. Here the narcissus is pictured as a small beauty."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "清铅：白色的铅粉，古代女子用来搽脸。比喻水仙洁白的花瓣。",
+   "en": "qīng qiān: white lead powder that women once put on their faces; it stands for the narcissus's white petals."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "素靥：素净的脸颊。靥，脸颊、酒窝。",
+   "en": "sù yè: a plain, clean face. Yè means cheek or dimple."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "蜂黄：古代女子额头上涂的黄色妆饰，也叫“额黄”。比喻水仙中间黄色的花心。",
+   "en": "fēng huáng: yellow makeup that women once painted on the forehead; it stands for the yellow cup in the middle of the narcissus."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "暗偷晕：悄悄地晕染开一圈颜色。",
+   "en": "àn tōu yùn: quietly spreading a soft ring of color."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "翠翘：像翠鸟尾羽的首饰，比喻水仙绿色的叶子。",
+   "en": "cuì qiáo: a kingfisher-feather hairpin; it stands for the narcissus's green leaves."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "欹鬓：斜插在鬓发边。欹，倾斜；鬓，耳边的头发。",
+   "en": "qī bìn: tilted at the side of the hair. Qī means slanting; bìn is the hair by the ears."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "中庭：院子中间。",
+   "en": "zhōng tíng: the middle of the courtyard."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "相认：相见、相识。这里说作者在梦里见到了这位“花仙”。",
+   "en": "xiāng rèn: to meet and know each other; here, the poet meets the flower spirit in a dream."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "睡浓：睡得正熟。",
+   "en": "shuì nóng: sleeping deeply."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "凄风紧：冷风吹得很急。",
+   "en": "qī fēng jǐn: a cold wind blowing hard."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "惊回：惊醒过来。",
+   "en": "jīng huí: waking with a start."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "晓色：清晨的天色。",
+   "en": "xiǎo sè: the light of dawn."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "葱蒨：草木青翠茂盛的样子。这里指一盆绿油油的水仙。",
+   "en": "cōng qiàn: lush and green; here, a pot of fresh green narcissus."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "花梦准：梦见花仙的梦应验了。准，准确、应验。",
+   "en": "huā mèng zhǔn: the dream of the flower came true. Zhǔn means accurate, fulfilled."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "湘娥：湘水的女神，传说是舜的两个妃子娥皇、女英，舜死后她们投湘水而死。",
+   "en": "xiāng é: the goddesses of the Xiang River, said to be the two wives of the ancient king Shun, who drowned themselves in the river after he died."
+  },
+  {
+   "line": 10,
+   "start": 5,
+   "end": 7,
+   "zh": "幽芳：幽静的香花，指水仙。",
+   "en": "yōu fāng: a quiet fragrant flower: the narcissus."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "凌波：在水波上轻轻走过。曹植《洛神赋》写洛水女神“凌波微步”，后来人们把水仙叫“凌波仙子”。",
+   "en": "líng bō: stepping lightly over the waves. Cao Zhi described the Luo River goddess walking on the waves, and later people called the narcissus the fairy who walks on waves."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "云沙：像云一样茫茫的沙滩。",
+   "en": "yún shā: sandbanks vast as clouds."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 6,
+   "zh": "遗恨：留下的遗憾。",
+   "en": "yí hèn: a regret left behind."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "临砌影：靠近台阶的花影。砌，台阶。",
+   "en": "lín qì yǐng: the flower's shadow by the steps. Qì means steps."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 3,
+   "zh": "寒香乱：清冷的香气四处飘散。",
+   "en": "hán xiāng luàn: the cool fragrance drifting everywhere."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 7,
+   "zh": "冻梅藏韵：寒天的梅花也比不过它，只好把自己的风韵藏起来。",
+   "en": "dòng méi cáng yùn: the winter plum blossoms, outdone, hide their charm."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "熏炉：熏香用的炉子。",
+   "en": "xūn lú: a burner for incense."
+  },
+  {
+   "line": 15,
+   "start": 5,
+   "end": 7,
+   "zh": "傍枕：靠在枕头边。",
+   "en": "bàng zhěn: next to the pillow."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "玉人：美人，这里仍指水仙。",
+   "en": "yù rén: a beauty; here, still the narcissus."
+  },
+  {
+   "line": 16,
+   "start": 5,
+   "end": 8,
+   "zh": "垂绀鬒：垂着深青色的浓发，比喻水仙垂下的绿叶。绀，深青带红的颜色。",
+   "en": "chuí gàn zhěn: letting down thick dark-blue hair: the drooping green leaves. Gàn is a deep blue with a touch of red."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 1,
+   "zh": "料：料想，猜想。",
+   "en": "liào: I expect, I imagine."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "唤赏：叫上朋友一起观赏。",
+   "en": "huàn shǎng: to call friends to come and enjoy it."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 7,
+   "zh": "清华池馆：清幽华美的池边楼馆。一说是郭希道家园林的名字。",
+   "en": "qīng huá chí guǎn: a clear and lovely house by a pond. One account says this was the name of Guo Xidao's garden."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "台杯：一种带托盘的酒杯，一说是成套大小相叠的杯子。",
+   "en": "tái bēi: a wine cup set on a stand; one account says a nested set of cups."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "满引：斟满酒，一饮而尽。",
+   "en": "mǎn yǐn: to fill the cup to the brim and drink it down."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一个小巧美好的姑娘，",
+   "en": "A small, graceful girl,"
+  },
+  {
+   "zh": "脸上搽着白粉，素净清秀，",
+   "en": "her face powdered white, plain and fair,"
+  },
+  {
+   "zh": "额上的黄妆悄悄晕开，",
+   "en": "the yellow on her brow softly spreading,"
+  },
+  {
+   "zh": "翠绿的首饰斜插在鬓边。",
+   "en": "a green feather pin tilted in her hair."
+  },
+  {
+   "zh": "昨夜在寒冷的院子中间，",
+   "en": "Last night in the cold courtyard,"
+  },
+  {
+   "zh": "我们在月光下相见。",
+   "en": "we met beneath the moon."
+  },
+  {
+   "zh": "我睡得正熟，可冷风吹得很急，",
+   "en": "I slept deeply, but the cold wind blew hard,"
+  },
+  {
+   "zh": "一下子惊醒，心还跳个不停。",
+   "en": "and I woke with a start, my heart still uneasy."
+  },
+  {
+   "zh": "清晨有人送来一盆青翠的水仙，",
+   "en": "At dawn someone brought a pot of fresh green narcissus,"
+  },
+  {
+   "zh": "我才知道昨夜梦见花仙，是准的。",
+   "en": "and then I knew my flower dream had come true."
+  },
+  {
+   "zh": "是湘水女神化成了这清幽的花，",
+   "en": "The goddess of the Xiang River became this quiet flower;"
+  },
+  {
+   "zh": "她曾在水波上轻轻走过，",
+   "en": "she once walked lightly on the waves,"
+  },
+  {
+   "zh": "把遗憾留在古老江岸茫茫的沙滩上。",
+   "en": "leaving her regret on the misty sands of the ancient shore."
+  },
+  {
+   "zh": "花影靠在台阶边，",
+   "en": "Her shadow rests by the steps;"
+  },
+  {
+   "zh": "清冷的香气四处飘散，连寒梅也藏起了风韵。",
+   "en": "her cool scent drifts everywhere, and even the winter plum hides its charm."
+  },
+  {
+   "zh": "把它放在熏炉旁，又很快移到枕边，",
+   "en": "I set it by the incense burner, then soon move it beside my pillow,"
+  },
+  {
+   "zh": "又见到这位美人垂着深青色的长发。",
+   "en": "and once more see the beauty letting down her deep blue hair."
+  },
+  {
+   "zh": "想必你会请朋友到清华池馆来赏花，",
+   "en": "I expect you will call friends to your pond house to admire it,"
+  },
+  {
+   "zh": "那时一定要把酒杯斟满，一饮而尽。",
+   "en": "and then the cups must be filled to the brim and drained."
+  }
+ ],
+ "background": {
+  "zh": "题目说明了写这首词的缘由：朋友郭希道送给作者一盆水仙花，请他写一首词来咏它。“索赋”就是“请人作诗词”。水仙在冬天到早春开花，白色花瓣，中间有黄色的花心，叶子细长青绿，常养在水盆里。作者把水仙写成一位美丽的花仙子，先在梦里相见，醒来正好收到花。这首词写于哪一年已经不清楚。",
+  "en": "The title tells why this ci was written. A friend, Guo Xidao, sent the poet a pot of narcissus and asked him to write a ci about it. The narcissus blooms from winter into early spring. It has white petals with a yellow center and long thin green leaves, and is often grown in a bowl of water. The poet turns the flower into a lovely fairy: he first meets her in a dream, then wakes to find the flowers arriving. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），字君特，号梦窗，四明（今浙江宁波）人，南宋词人。他一生没有做官，长年在官员家里做幕僚，也就是帮忙处理事务的客人。他的词辞藻华丽、想象奇特，常常把梦和现实交织在一起，有时不太好懂。这首词里花和梦、美人和水仙混在一起，正是他的风格。",
+  "en": "Wu Wenying (about 1200–about 1260), also called Mengchuang, came from Siming, today's Ningbo in Zhejiang. He was a Southern Song ci poet. He never held office, and spent many years as an aide in officials' households, a guest who helped with their affairs. His ci are rich in ornate words and strange images, and often weave dream and real life together, so they can be hard to follow. In this ci the flower and the dream, the beauty and the narcissus, all blend together, which is just his style."
+ },
+ "appreciation": {
+  "zh": "这首词最妙的地方，是从头到尾把水仙当成一位姑娘来写。白色的花瓣是她搽的粉，黄色的花心是她额上的妆，绿叶是她鬓边的翠翘。作者先写梦：昨夜月光下，在冷冷的院子里见到这位姑娘，可冷风把他吹醒了。天一亮，朋友送来一盆水仙，他才明白梦里的人就是这花。下片给她讲身世：她是湘水女神变的，在水上轻轻走过，心里留着古老的遗憾。她的香气让寒梅都害羞。作者舍不得她，先放在熏炉边，又搬到枕头旁。最后又想到送花的朋友，猜他也会请客赏花，大家举杯喝个痛快。梦、花、神话和友情交织在一起，像一幅朦朦胧胧的画。",
+  "en": "The best thing about this ci is that it treats the narcissus as a girl from start to finish. The white petals are her face powder, the yellow center is the makeup on her brow, and the green leaves are the feather pin in her hair. First comes a dream. Last night, in a cold moonlit courtyard, the poet met this girl, but the cold wind woke him. At dawn a friend sent a pot of narcissus, and he understood that the girl in his dream was this flower. The second stanza tells her story. She was once the goddess of the Xiang River, walking lightly on the water, carrying an ancient regret. Her scent makes even the winter plum shy. The poet cannot bear to part with her. He sets her by the incense burner, then moves her beside his pillow. At the end he thinks of the friend who sent the flower and imagines him inviting guests to admire it, everyone raising full cups. Dream, flower, myth and friendship blend together, like a soft, misty painting."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "narcissus",
+   "flower",
+   "dream",
+   "friendship",
+   "object"
+  ]
+ },
+ "uncertain": []
+}

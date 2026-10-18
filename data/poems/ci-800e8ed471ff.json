@@ -1,0 +1,454 @@
+{
+ "id": "ci-800e8ed471ff",
+ "kind": "ci",
+ "title": "鹧鸪天·元夕有所梦",
+ "title_en": "Partridge Sky: A Dream on the Night of the Lantern Festival",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "肥",
+    "féi"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "种",
+    "zhòng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "比",
+    "bǐ"
+   ],
+   [
+    "丹",
+    "dān"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "啼",
+    "tí"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "丝",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "莲",
+    "lián"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "各",
+    "gè"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "底本末句作“两处沈吟”。“沈”是“沉”的古写法，这里按通行写法作“沉”。底本没有题目，通行本题作“元夕有所梦”。",
+  "en": "The source text writes the chén in the last line with an older form of the character; here it uses the common modern form. The source gives no subtitle; the commonly taught text adds A Dream on the Night of the Lantern Festival."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "种",
+   "pinyin": "zhòng",
+   "zh": "“种相思”的“种”是种下的意思，读 zhòng，不读 zhǒng。",
+   "en": "Here the character means to plant, so it is read zhòng, not zhǒng."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "“谁教”的“教”是“使、让”的意思，现在一般读 jiào。按词的格律这里要用平声，所以也有人读 jiāo。",
+   "en": "Here the character means to make or let, and is usually read jiào today. The meter wants a level tone here, so some readers say jiāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "肥水：河名，流经今天的安徽合肥。",
+   "en": "féi shuǐ: the Fei River, which flows past today's Hefei in Anhui."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "无尽期：没有尽头的时候。",
+   "en": "wú jìn qī: with no end in time."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "不合：不应该。",
+   "en": "bù hé: should not have."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "种相思：种下相思的种子，就是爱上了一个人。",
+   "en": "zhòng xiāng sī: to plant the seed of longing, that is, to fall in love."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "未比：比不上。",
+   "en": "wèi bǐ: not as good as."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "丹青：红色和青色的颜料，指画像。",
+   "en": "dān qīng: red and blue-green paints, meaning a painted portrait."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "暗里：黑暗中，也指梦里模模糊糊的时候。",
+   "en": "àn lǐ: in the dark, in the dim haze of the dream."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 7,
+   "zh": "惊山鸟啼：被山鸟的叫声惊醒。",
+   "en": "jīng shān niǎo tí: startled awake by the cry of a mountain bird."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "鬓：耳朵前面的头发。",
+   "en": "bìn: the hair at the temples, in front of the ears."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "丝：白丝，指头发变白了。",
+   "en": "sī: white silk, meaning the hair has turned white."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "不成悲：分别太久，连悲伤都麻木了，哭不出来。",
+   "en": "bù chéng bēi: after so long apart, even sorrow goes numb and tears will not come."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 2,
+   "zh": "教：使、让。",
+   "en": "jiào: to make, to let."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "红莲夜：元宵节的夜晚。那时挂的花灯很多做成红莲花的样子。",
+   "en": "hóng lián yè: the night of the Lantern Festival, when many lanterns were shaped like red lotuses."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "两处：两个地方，指他和她各在一方。",
+   "en": "liǎng chù: two places; he and she, each in a different place."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "沉吟：默默地想心事。",
+   "en": "chén yín: to brood quietly."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "肥水向东流去，永远没有尽头，",
+   "en": "The Fei River flows east and never ends."
+  },
+  {
+   "zh": "当初真不该种下这份相思。",
+   "en": "I should never have planted this seed of longing."
+  },
+  {
+   "zh": "梦里见到的你，还比不上画像清楚，",
+   "en": "In my dream you were less clear than a painted portrait,"
+  },
+  {
+   "zh": "昏暗中，忽然被山鸟的叫声惊醒。",
+   "en": "and in the dark a mountain bird's cry suddenly woke me."
+  },
+  {
+   "zh": "春天还没变绿，",
+   "en": "Spring has not yet turned green,"
+  },
+  {
+   "zh": "我的鬓发却已经白了。",
+   "en": "but my temples have already turned white."
+  },
+  {
+   "zh": "在人间分别得太久，连悲伤都麻木了。",
+   "en": "Apart so long in this world, even my sorrow has gone numb."
+  },
+  {
+   "zh": "是谁让我们每年到了元宵灯夜，",
+   "en": "Who made it so that every year, on the night of the lotus lanterns,"
+  },
+  {
+   "zh": "在两个地方各自默默想念，只有自己知道？",
+   "en": "in two places we each brood in silence, and only we ourselves know?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写于宋宁宗庆元三年（1197年）的元宵节。题目“元夕有所梦”，就是元宵节夜里做了一个梦。姜夔年轻时在合肥认识了一位女子，两人感情很深，后来却不得不分开，再也没能团聚。据学者考证，他有好几首词都是怀念这位女子的。这一年元宵，他梦见了她，醒来后写下这首词。",
+  "en": "This lyric was written at the Lantern Festival of 1197. The subtitle means a dream on the Lantern Festival night. As a young man, Jiang Kui met a woman in Hefei. They loved each other deeply, but they had to part and were never together again. Scholars believe several of his lyrics were written in memory of her. That year, on the festival night, he dreamed of her, and when he woke he wrote this lyric."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），号白石道人，南宋词人，也是音乐家。他一生没有做官，靠朋友接济，四处漂泊。他精通音乐，能自己作曲再填词，有些词还留下了曲谱。他的词清冷空灵，用字讲究，怀念合肥那段恋情的作品写得尤其深情。",
+  "en": "Jiang Kui (about 1155–about 1221), who called himself the Daoist of White Stone, was a Southern Song lyric poet and also a musician. He never held office; he lived on help from friends and moved from place to place. He knew music well and could write his own tunes and then the words, and some of his scores survive. His lyrics are cool, airy and carefully worded. The ones that remember his love in Hefei are especially tender."
+ },
+ "appreciation": {
+  "zh": "第一句用肥水作比：河水东流没有尽头，相思也没有尽头。第二句说“当初不合种相思”，好像在后悔，其实是爱得太深才说气话。梦里见到她，却模模糊糊，还不如一张画像，偏偏又被山鸟叫醒，连这一点模糊的相见也没了。下半首写自己老了：春天还没绿，头发先白了。“人间别久不成悲”最让人心酸：不是不悲伤，而是分别太久，伤心得哭都哭不出来。最后写每年元宵灯夜，两个人在两个地方各自想念，只有自己知道，热闹的节日更显得孤单。",
+  "en": "The first line compares longing to the Fei River: the water flows east without end, and so does the longing. The second line says he should never have fallen in love. It sounds like regret, but it is the angry talk of someone who loves too much. In the dream he sees her, but only dimly, less clearly than a painting, and then a mountain bird wakes him, so even that faint meeting is lost. The second half says he has grown old: spring is not yet green, but his hair is already white. The line about sorrow going numb is the saddest. It is not that he does not grieve; they have been apart so long that the grief is past tears. At the end, every Lantern Festival night, two people in two places think of each other, and only they know. The lively festival makes them feel even more alone."
+ },
+ "famous_lines": [
+  6
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "dream",
+   "longing",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

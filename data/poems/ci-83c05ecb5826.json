@@ -1,0 +1,513 @@
+{
+ "id": "ci-83c05ecb5826",
+ "kind": "ci",
+ "title": "蝶恋花·早行",
+ "title_en": "Butterflies in Love with Flowers: Setting Out at Dawn",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·蝶恋花",
+  "en": "ci to the tune Die Lian Hua"
+ },
+ "lines": [
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "皎",
+    "jiǎo"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "乌",
+    "wū"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "定",
+    "dìng"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "残",
+    "cán"
+   ]
+  ],
+  [
+   [
+    "辘",
+    "lù"
+   ],
+   [
+    "轳",
+    "lú"
+   ],
+   [
+    "牵",
+    "qiān"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "井",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "眸",
+    "móu"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "炯",
+    "jiǒng"
+   ],
+   [
+    "炯",
+    "jiǒng"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "绵",
+    "mián"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "执",
+    "zhí"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "徊",
+    "huái"
+   ],
+   [
+    "徨",
+    "huáng"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "听",
+    "tīng"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "柄",
+    "bǐng"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "鸡",
+    "jī"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "应",
+    "yìng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "通行本第三句作“辘轳牵金井”，第五句作“红绵冷”。这里的底本把“辘轳”转成了生僻字，“红绵冷”写作“红棉泠”，都是传抄或转换时的差错，现在按通行本改正。",
+  "en": "In the usual text line three has lù lú, a well pulley, and line five ends with hóng mián lěng, the red silk padding is cold. The source text turned the pulley word into rare characters and wrote the end of line five with look-alike characters. These are copying or conversion slips, so we follow the usual text."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "“更漏”的“更”是夜里计时的单位，读 gēng，不读 gèng。",
+   "en": "In gēng lòu, the night water clock, this character is a watch of the night, read gēng, not gèng."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "轳",
+   "pinyin": "lú",
+   "zh": "“辘轳”在现代词典里第二个字读轻声 lu，诵读诗词时常读 lú。",
+   "en": "In modern dictionaries the second syllable of lù lú is toneless, but in reciting poems it is often read lú."
+  },
+  {
+   "line": 8,
+   "pos": 5,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "北斗星的“斗”读 dǒu，不读 dòu。",
+   "en": "As in the Big Dipper, this is read dǒu, not dòu."
+  },
+  {
+   "line": 9,
+   "pos": 6,
+   "char": "应",
+   "pinyin": "yìng",
+   "zh": "“相应”是互相应和，读 yìng。",
+   "en": "Here it means to answer one another, read yìng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "月皎：月光明亮洁白。",
+   "en": "yuè jiǎo: the moon is bright and white."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "惊乌：被惊动的乌鸦。月光太亮，乌鸦以为天亮了。",
+   "en": "jīng wū: startled crows. The moon is so bright the crows think it is morning."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "栖不定：在树上停不安稳。",
+   "en": "qī bù dìng: cannot settle on their perch."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "更漏：古代夜里计时用的漏壶，靠滴水来计算时间。",
+   "en": "gēng lòu: a water clock, which measured the hours of the night by dripping water."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "将残：快要滴完了，说明天快亮了。",
+   "en": "jiāng cán: almost run out, so dawn is near."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "辘轳：井上用来绞绳打水的转轮。",
+   "en": "lù lú: a wheel over a well, turned to wind up the rope and lift water."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "金井：井栏装饰华美的井。",
+   "en": "jīn jǐng: a well with a finely decorated rim."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "两眸：两只眼睛。",
+   "en": "liǎng móu: both eyes."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "炯炯：明亮的样子。这里是说她一夜没睡，眼睛还睁得亮亮的。",
+   "en": "jiǒng jiǒng: bright. Here, she has not slept all night, and her eyes are still wide open."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "泪花：泪珠。",
+   "en": "lèi huā: teardrops."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "红绵：红色丝绵做的枕芯。",
+   "en": "hóng mián: red silk padding inside the pillow."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "执手：手拉着手。",
+   "en": "zhí shǒu: holding hands."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "鬓影：鬓发的影子。鬓，耳朵前面的头发。",
+   "en": "bìn yǐng: the shadow of the hair at the temples."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "徊徨：徘徊犹豫，想走又不想走。",
+   "en": "huái huáng: hesitating, wanting to go and not wanting to."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "愁难听：让人发愁，不忍心听。",
+   "en": "chóu nán tīng: so sad one can hardly bear to hear it."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "横斗柄：北斗星的斗柄横着，表示天快亮了。斗柄是北斗七星里像勺子把儿的那三颗星。",
+   "en": "héng dǒu bǐng: the handle of the Big Dipper lies across the sky, a sign that dawn is near. The handle is the three stars forming the dipper's grip."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "鸡相应：远处的鸡叫声一声接一声，互相应和。",
+   "en": "jī xiāng yìng: roosters far away crow one after another, answering each other."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月光明亮，惊得乌鸦在树上停不安稳。",
+   "en": "The moon is so bright the startled crows cannot settle."
+  },
+  {
+   "zh": "漏壶的水快要滴完，夜快过去了，",
+   "en": "The water clock is nearly run out,"
+  },
+  {
+   "zh": "有人摇着辘轳从金井里打水。",
+   "en": "and someone winds the pulley at the golden well."
+  },
+  {
+   "zh": "声音把她唤醒，她的两眼明亮，一夜没睡。",
+   "en": "The sound wakes her, though her bright eyes never closed."
+  },
+  {
+   "zh": "泪珠落在枕上，红绵枕芯都湿冷了。",
+   "en": "Tears fall on the pillow, and its red silk grows cold."
+  },
+  {
+   "zh": "两人手拉着手，寒霜般的风吹动她鬓发的影子。",
+   "en": "They hold hands; the frosty wind stirs the shadow of her hair."
+  },
+  {
+   "zh": "要走的人徘徊犹豫，",
+   "en": "He lingers, unsure of going."
+  },
+  {
+   "zh": "告别的话让人发愁，不忍心听。",
+   "en": "Their parting words are too sad to hear."
+  },
+  {
+   "zh": "楼上栏杆那边，北斗的斗柄已经横在天上，",
+   "en": "Above the tower's railing, the Dipper's handle lies across the sky."
+  },
+  {
+   "zh": "露水寒冷，人越走越远，只听见鸡叫声此起彼伏。",
+   "en": "The dew is cold, he goes farther away, and roosters answer one another."
+  }
+ ],
+ "background": {
+  "zh": "这首词题为“早行”，写的是天快亮时一对恋人分别的情景：从夜里将尽、女子惊醒，写到执手告别，再写到行人走远。词里没有说明是哪一年、在什么地方写的，现在也没有可靠的记载。",
+  "en": "The title is Setting Out at Dawn. The poem shows two lovers parting just before daybreak. It moves from the end of the night and her waking, to their holding hands and saying goodbye, to the traveler going off into the distance. It does not say when or where it was written, and no reliable record tells us."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），北宋词人，精通音乐，宋徽宗时主管过朝廷的音乐机构大晟府。他的词讲究格律，用词典雅，写得细腻周密，对后来的南宋词人影响很大，被称为“词中老杜”。他很擅长写离别。",
+  "en": "Zhou Bangyan (1056 to 1121) was a Northern Song ci poet and a master of music. Under Emperor Huizong he ran the court music office. His poems follow the rules of sound closely, use elegant words, and are careful and detailed. He deeply influenced later Southern Song poets and was called the Du Fu of ci. He was especially good at writing about partings."
+ },
+ "appreciation": {
+  "zh": "这首词像一组电影镜头，按时间一步步推进。先是月光亮得惊动了乌鸦，接着是漏壶快滴完、井边传来辘轳声，告诉我们天快亮了。这些声音唤醒了她，其实她一夜没睡，眼睛亮亮的，枕头已被眼泪湿透。下阕写分别：两人手拉手站在寒风里，要走的人迟迟不肯走，告别的话谁都不忍心听。最后镜头拉远：楼上的人望着北斗横斜，露水冰冷，行人越走越远，只剩下一声声鸡鸣。全词没有一句大喊“难过”，可每个画面都透着不舍。",
+  "en": "This poem is like a series of film shots, moving forward step by step in time. First the moon is so bright it startles the crows. Then the water clock runs low and the well pulley creaks, telling us dawn is near. The sounds wake her, though in truth she never slept. Her eyes are bright and her pillow is wet with tears. The second half is the parting. They hold hands in the cold wind. The one leaving cannot make himself go, and neither can bear to hear the goodbyes. At the end the camera pulls back. From the tower she sees the Dipper's handle lying across the sky. The dew is cold, he goes farther and farther, and only the roosters' crowing is left. Not one line cries out that they are sad, yet every picture is full of the pain of letting go."
+ },
+ "famous_lines": [
+  0
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "dawn",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

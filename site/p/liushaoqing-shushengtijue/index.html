@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>柳梢青·数声鶗鴂 · 蔡伸 — 诗</title>
+    <meta name="description" content="柳梢青·数声鶗鴂 · 蔡伸 — Liu Shao Qing: A Few Cries of the Cuckoo by Cai Shen: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci lyric</span><span lang="zh">宋词 · 词</span></p>
+        <h1>柳梢青·数声鶗鴂</h1>
+        <p class="by">蔡伸<span class="mono"><span lang="en">Cai Shen · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Liu Shao Qing: A Few Cries of the Cuckoo</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl rd" data-l="0" data-p="0"><i>shù</i><b>数</b></span><span class="c gl" data-l="0" data-p="1"><i>shēng</i><b>声</b></span><span class="c gl" data-l="0" data-p="2"><i>tí</i><b>鶗</b></span><span class="c gl" data-l="0" data-p="3"><i>jué</i><b>鴂</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>kě</i><b>可</b></span><span class="c gl" data-l="1" data-p="1"><i>lián</i><b>怜</b></span><span class="c" data-l="1" data-p="2"><i>yòu</i><b>又</b></span><span class="c" data-l="1" data-p="3"><i>shì</i><b>是</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>chūn</i><b>春</b></span><span class="c gl" data-l="2" data-p="1"><i>guī</i><b>归</b></span><span class="c" data-l="2" data-p="2"><i>shí</i><b>时</b></span><span class="c" data-l="2" data-p="3"><i>jié</i><b>节</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>mǎn</i><b>满</b></span><span class="c" data-l="3" data-p="1"><i>yuàn</i><b>院</b></span><span class="c gl" data-l="3" data-p="2"><i>dōng</i><b>东</b></span><span class="c gl" data-l="3" data-p="3"><i>fēng</i><b>风</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>hǎi</i><b>海</b></span><span class="c" data-l="4" data-p="1"><i>táng</i><b>棠</b></span><span class="c gl rd" data-l="4" data-p="2"><i>pū</i><b>铺</b></span><span class="c gl" data-l="4" data-p="3"><i>xiù</i><b>绣</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>lí</i><b>梨</b></span><span class="c gl" data-l="5" data-p="1"><i>huā</i><b>花</b></span><span class="c gl" data-l="5" data-p="2"><i>piāo</i><b>飘</b></span><span class="c gl" data-l="5" data-p="3"><i>xuě</i><b>雪</b></span></p><p class="ln brk"><span class="c gl" data-l="6" data-p="0"><i>dīng</i><b>丁</b></span><span class="c gl" data-l="6" data-p="1"><i>xiāng</i><b>香</b></span><span class="c gl" data-l="6" data-p="2"><i>lù</i><b>露</b></span><span class="c gl" data-l="6" data-p="3"><i>qì</i><b>泣</b></span><span class="c" data-l="6" data-p="4"><i>cán</i><b>残</b></span><span class="c" data-l="6" data-p="5"><i>zhī</i><b>枝</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>suàn</i><b>算</b></span><span class="c gl" data-l="7" data-p="1"><i>wèi</i><b>未</b></span><span class="c gl" data-l="7" data-p="2"><i>bǐ</i><b>比</b></span><span class="c gl" data-l="7" data-p="3"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="7" data-p="4"><i>cháng</i><b>肠</b></span><span class="c gl" data-l="7" data-p="5"><i>cùn</i><b>寸</b></span><span class="c gl" data-l="7" data-p="6"><i>jié</i><b>结</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>zì</i><b>自</b></span><span class="c" data-l="8" data-p="1"><i>shì</i><b>是</b></span><span class="c gl" data-l="8" data-p="2"><i>xiū</i><b>休</b></span><span class="c gl" data-l="8" data-p="3"><i>wén</i><b>文</b></span></p><p class="ln"><span class="c" data-l="9" data-p="0"><i>duō</i><b>多</b></span><span class="c" data-l="9" data-p="1"><i>qíng</i><b>情</b></span><span class="c" data-l="9" data-p="2"><i>duō</i><b>多</b></span><span class="c" data-l="9" data-p="3"><i>gǎn</i><b>感</b></span></p><p class="ln"><span class="c" data-l="10" data-p="0"><i>bù</i><b>不</b></span><span class="c rd" data-l="10" data-p="1"><i>gān</i><b>干</b></span><span class="c gl" data-l="10" data-p="2"><i>fēng</i><b>风</b></span><span class="c gl" data-l="10" data-p="3"><i>yuè</i><b>月</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The bird name tí jué has no common simplified form. The corpus&#x27;s machine conversion used a very rare character for the first syllable; here the usual traditional form is kept.</p><p lang="zh">“鶗鴂”这两个字没有通用的简化字形。语料库机器转换时把“鶗”写成了很少见的“𫛸”，这里保留常见写法“鶗鴂”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">数声鶗鴂</span><span lang="en">A few cries of the cuckoo.</span><span lang="zh">杜鹃叫了几声，</span></li><li><span class="o">可怜又是</span><span lang="en">What a pity, once again it is</span><span lang="zh">可惜，又到了</span></li><li><span class="o">春归时节</span><span lang="en">the time when spring goes home.</span><span lang="zh">春天要走的时候。</span></li><li><span class="o">满院东风</span><span lang="en">Spring wind fills the courtyard,</span><span lang="zh">满院子吹着春风，</span></li><li><span class="o">海棠铺绣</span><span lang="en">fallen crabapple blossoms cover the ground like embroidery,</span><span lang="zh">落下的海棠花像铺了一地锦绣，</span></li><li><span class="o">梨花飘雪</span><span lang="en">and pear blossoms drift down like snow.</span><span lang="zh">梨花飘落，像下雪一样。</span></li><li class="brk"><span class="o">丁香露泣残枝</span><span lang="en">Dew hangs on the broken lilac branches, as if they weep,</span><span lang="zh">丁香残枝上挂着露水，好像在哭，</span></li><li><span class="o">算未比愁肠寸结</span><span lang="en">but I think even that cannot match the knots of sorrow in my heart.</span><span lang="zh">可我想，它还比不上我愁得打结的心肠。</span></li><li><span class="o">自是休文</span><span lang="en">I am simply like Shen Yue,</span><span lang="zh">我本来就像沈约一样，</span></li><li><span class="o">多情多感</span><span lang="en">full of feeling, easily moved,</span><span lang="zh">感情多，感触也多，</span></li><li><span class="o">不干风月</span><span lang="en">and this sorrow has nothing to do with the wind and moon of spring.</span><span lang="zh">这份愁和春天的风月并没有关系。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>数声<span class="mono">shù shēng</span></dt><dd><span lang="en">shù shēng: a few cries.</span><span lang="zh">数声：几声。</span></dd></div><div><dt>鶗鴂<span class="mono">tí jué</span></dt><dd><span lang="en">tí jué: a bird, usually taken to be the cuckoo. It calls in late spring with a sad cry, and people knew then that spring was leaving.</span><span lang="zh">鶗鴂：一种鸟，一般认为就是杜鹃。它在春末叫，叫声凄凉，古人听了就知道春天要走了。</span></dd></div><div><dt>可怜<span class="mono">kě lián</span></dt><dd><span lang="en">kě lián: what a pity, how sad.</span><span lang="zh">可怜：可惜，让人难过。</span></dd></div><div><dt>春归<span class="mono">chūn guī</span></dt><dd><span lang="en">chūn guī: spring going home, meaning spring is over.</span><span lang="zh">春归：春天回去了，就是春天结束了。</span></dd></div><div><dt>东风<span class="mono">dōng fēng</span></dt><dd><span lang="en">dōng fēng: the east wind, the spring wind.</span><span lang="zh">东风：春风。</span></dd></div><div><dt>铺绣<span class="mono">pū xiù</span></dt><dd><span lang="en">pū xiù: fallen crabapple blossoms cover the ground like spread-out embroidery.</span><span lang="zh">铺绣：海棠花落满地，像铺开的彩色绣品。</span></dd></div><div><dt>梨花飘雪<span class="mono">lí huā piāo xuě</span></dt><dd><span lang="en">lí huā piāo xuě: white pear blossoms drift down like snow.</span><span lang="zh">梨花飘雪：白色的梨花飘落，像下雪一样。</span></dd></div><div><dt>丁香<span class="mono">dīng xiāng</span></dt><dd><span lang="en">dīng xiāng: lilac. Its buds look like tied knots, so poets used them for sorrow that cannot be untied.</span><span lang="zh">丁香：一种花，花蕾像打了结，古人常用“丁香结”比喻解不开的愁。</span></dd></div><div><dt>露泣<span class="mono">lù qì</span></dt><dd><span lang="en">lù qì: dew on the branches, as if weeping.</span><span lang="zh">露泣：露水挂在枝上，像在哭泣。</span></dd></div><div><dt>算未比<span class="mono">suàn wèi bǐ</span></dt><dd><span lang="en">suàn wèi bǐ: I reckon it still cannot match.</span><span lang="zh">算未比：想来还比不上。</span></dd></div><div><dt>愁肠寸结<span class="mono">chóu cháng cùn jié</span></dt><dd><span lang="en">chóu cháng cùn jié: every inch of one&#x27;s insides tied in knots, a way to say very deep sorrow.</span><span lang="zh">愁肠寸结：愁得肠子每一寸都打了结，形容非常忧愁。</span></dd></div><div><dt>休文<span class="mono">xiū wén</span></dt><dd><span lang="en">xiū wén: Shen Yue, a poet of the Southern Dynasties. It was said he grew thinner and thinner from worry. The poet compares himself to him.</span><span lang="zh">休文：南朝诗人沈约，字休文。传说他愁得一天天消瘦，腰带都松了。这里词人用他比自己。</span></dd></div><div><dt>风月<span class="mono">fēng yuè</span></dt><dd><span lang="en">fēng yuè: wind and moon, here meaning the spring scenery.</span><span lang="zh">风月：风和月，这里指春天的景色。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>数<span class="mono">shù</span></dt><dd><span lang="en">In shù shēng (a few cries), the first character means &#x27;several&#x27; and is read shù, not shǔ.</span><span lang="zh">数声：几声。数读 shù，是“几个”的意思。</span></dd></div><div><dt>铺<span class="mono">pū</span></dt><dd><span lang="en">In pū xiù, the first character is the verb &#x27;to spread out&#x27;, read pū, not pù.</span><span lang="zh">铺绣：像铺开的锦绣。这里是动词“铺开”，读 pū。</span></dd></div><div><dt>干<span class="mono">gān</span></dt><dd><span lang="en">In bù gān (has nothing to do with), the second character is read gān, not gàn.</span><span lang="zh">不干：不关、和……没关系。干读 gān。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric is about sadness in late spring. The year it was written is not known. Late spring is the last part of the season, when flowers fall one by one and the cuckoo begins to call. Poets of old often wrote about sorrow for passing spring at this time. Cai Shen borrows the story of Shen Yue to say he was born with a sad and tender heart.</p><p lang="zh">这首词写暮春时节的愁绪，具体写于哪一年已经不清楚。暮春就是春天的最后一段时间，花一片片落下，杜鹃鸟开始叫。古人常在这时写“伤春”的诗词。蔡伸在词里借用了南朝沈约的典故，说自己天生多愁善感。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Cai Shen (1088–1156) came from Putian in today&#x27;s Fujian and was a grandson of the Northern Song calligrapher Cai Xiang. He lived from the end of the Northern Song into the early Southern Song and served as a local official. His lyrics are mostly about parting and longing, gentle and graceful in style.</p><p lang="zh">蔡伸（1088—1156），字伸道，号友古居士，莆田（今属福建）人，是北宋书法家蔡襄的孙子。他生活在北宋末到南宋初，做过地方官。他的词多写离别和相思，风格清丽婉转。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The lyric opens with a few cuckoo cries, telling us spring is about to leave again. The next three lines show fallen flowers filling the courtyard. Crabapple blossoms cover the ground like embroidery and pear blossoms fall like snow. It is so beautiful it hurts. The second half shows dew on the lilac, as if the flowers are crying. But the poet says the flowers&#x27; tears cannot match the knots of sorrow in his heart. At the end he compares himself to Shen Yue and says this sorrow comes from his own tender nature, not from the spring wind and moon. It is a way of saying the opposite of what he means. He claims spring has nothing to do with it, yet it is spring&#x27;s leaving that makes his sorrow deeper.</p><p lang="zh">词一开头就是几声杜鹃，告诉人春天又要走了。接着三句写满院的落花：海棠铺地像锦绣，梨花飘落像雪，美得让人心疼。下片写丁香枝上的露水，好像花在哭。词人却说：花的眼泪，还比不上我心里打结的愁。最后他用沈约比自己，说这份愁是自己天生多情，和春风明月没关系。这是一种反着说的写法：嘴上说和春天无关，其实正是春天的离去，让他愁得更深。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/mulanhuaman-chuzhousongfancui/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>木兰花慢·滁州送范倅</b></a><a href="../../p/jiangchengzi-hualoulianmujuanxinqing/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>江城子·画楼帘幕卷新晴</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["数", "shù"], ["声", "shēng"], ["鶗", "tí"], ["鴂", "jué"]], [["可", "kě"], ["怜", "lián"], ["又", "yòu"], ["是", "shì"]], [["春", "chūn"], ["归", "guī"], ["时", "shí"], ["节", "jié"]], [["满", "mǎn"], ["院", "yuàn"], ["东", "dōng"], ["风", "fēng"]], [["海", "hǎi"], ["棠", "táng"], ["铺", "pū"], ["绣", "xiù"]], [["梨", "lí"], ["花", "huā"], ["飘", "piāo"], ["雪", "xuě"]], [["丁", "dīng"], ["香", "xiāng"], ["露", "lù"], ["泣", "qì"], ["残", "cán"], ["枝", "zhī"]], [["算", "suàn"], ["未", "wèi"], ["比", "bǐ"], ["愁", "chóu"], ["肠", "cháng"], ["寸", "cùn"], ["结", "jié"]], [["自", "zì"], ["是", "shì"], ["休", "xiū"], ["文", "wén"]], [["多", "duō"], ["情", "qíng"], ["多", "duō"], ["感", "gǎn"]], [["不", "bù"], ["干", "gān"], ["风", "fēng"], ["月", "yuè"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "数声：几声。", "en": "shù shēng: a few cries."}, {"line": 0, "start": 2, "end": 4, "zh": "鶗鴂：一种鸟，一般认为就是杜鹃。它在春末叫，叫声凄凉，古人听了就知道春天要走了。", "en": "tí jué: a bird, usually taken to be the cuckoo. It calls in late spring with a sad cry, and people knew then that spring was leaving."}, {"line": 1, "start": 0, "end": 2, "zh": "可怜：可惜，让人难过。", "en": "kě lián: what a pity, how sad."}, {"line": 2, "start": 0, "end": 2, "zh": "春归：春天回去了，就是春天结束了。", "en": "chūn guī: spring going home, meaning spring is over."}, {"line": 3, "start": 2, "end": 4, "zh": "东风：春风。", "en": "dōng fēng: the east wind, the spring wind."}, {"line": 4, "start": 2, "end": 4, "zh": "铺绣：海棠花落满地，像铺开的彩色绣品。", "en": "pū xiù: fallen crabapple blossoms cover the ground like spread-out embroidery."}, {"line": 5, "start": 0, "end": 4, "zh": "梨花飘雪：白色的梨花飘落，像下雪一样。", "en": "lí huā piāo xuě: white pear blossoms drift down like snow."}, {"line": 6, "start": 0, "end": 2, "zh": "丁香：一种花，花蕾像打了结，古人常用“丁香结”比喻解不开的愁。", "en": "dīng xiāng: lilac. Its buds look like tied knots, so poets used them for sorrow that cannot be untied."}, {"line": 6, "start": 2, "end": 4, "zh": "露泣：露水挂在枝上，像在哭泣。", "en": "lù qì: dew on the branches, as if weeping."}, {"line": 7, "start": 0, "end": 3, "zh": "算未比：想来还比不上。", "en": "suàn wèi bǐ: I reckon it still cannot match."}, {"line": 7, "start": 3, "end": 7, "zh": "愁肠寸结：愁得肠子每一寸都打了结，形容非常忧愁。", "en": "chóu cháng cùn jié: every inch of one's insides tied in knots, a way to say very deep sorrow."}, {"line": 8, "start": 2, "end": 4, "zh": "休文：南朝诗人沈约，字休文。传说他愁得一天天消瘦，腰带都松了。这里词人用他比自己。", "en": "xiū wén: Shen Yue, a poet of the Southern Dynasties. It was said he grew thinner and thinner from worry. The poet compares himself to him."}, {"line": 10, "start": 2, "end": 4, "zh": "风月：风和月，这里指春天的景色。", "en": "fēng yuè: wind and moon, here meaning the spring scenery."}], "readings": [{"line": 0, "pos": 0, "char": "数", "pinyin": "shù", "zh": "数声：几声。数读 shù，是“几个”的意思。", "en": "In shù shēng (a few cries), the first character means 'several' and is read shù, not shǔ."}, {"line": 4, "pos": 2, "char": "铺", "pinyin": "pū", "zh": "铺绣：像铺开的锦绣。这里是动词“铺开”，读 pū。", "en": "In pū xiù, the first character is the verb 'to spread out', read pū, not pù."}, {"line": 10, "pos": 1, "char": "干", "pinyin": "gān", "zh": "不干：不关、和……没关系。干读 gān。", "en": "In bù gān (has nothing to do with), the second character is read gān, not gàn."}], "speak": ["数声鶗鴂", "可怜又是", "春归时节", "满院东风", "海棠铺绣", "梨花飘雪", "丁香露泣残枝", "算未比愁肠寸结", "自是休文", "多情多感", "不肝风月"], "speakTitle": "柳梢青，数声鶗鴂。蔡伸。", "sample": "数声鶗鴂"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

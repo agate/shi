@@ -1,0 +1,449 @@
+{
+ "id": "3f049d66-1513-407f-bb4e-cf25a7b5069a",
+ "kind": "shi",
+ "title": "自夏口至鹦鹉洲夕望岳阳寄源中丞",
+ "title_en": "Gazing Toward Yueyang at Dusk on the Way from Xiakou to Parrot Isle, Sent to Vice Censor Yuan",
+ "author": "刘长卿",
+ "author_en": "Liu Changqing",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "汀",
+    "tīng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "益",
+    "yì"
+   ],
+   [
+    "渺",
+    "miǎo"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ],
+  [
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "口",
+    "kǒu"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ]
+  ],
+  [
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "背",
+    "bèi"
+   ],
+   [
+    "岭",
+    "lǐng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "戍",
+    "shù"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "泊",
+    "bó"
+   ],
+   [
+    "船",
+    "chuán"
+   ]
+  ],
+  [
+   [
+    "贾",
+    "jiǎ"
+   ],
+   [
+    "谊",
+    "yì"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "忧",
+    "yōu"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "室",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "谪",
+    "zhé"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "怜",
+    "lián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料库本第一个字“汀”外面加了方括号，表示是整理者补上的字。通行本就作“汀洲”，这里去掉了括号。",
+  "en": "In the corpus, the first character, tīng, is put in square brackets, showing that an editor filled it in. The common text simply reads tīng zhōu, so the brackets are dropped here."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 5,
+   "char": "泊",
+   "pinyin": "bó",
+   "zh": "“泊船”是把船停靠在岸边，读 bó，不读 pō。",
+   "en": "Bó chuán means to moor a boat, so it is read bó, not pō."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "贾",
+   "pinyin": "jiǎ",
+   "zh": "作姓时读 jiǎ，不读 gǔ。",
+   "en": "As a surname it is read jiǎ, not gǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "汀洲：水中或水边的小块平地，这里指鹦鹉洲。",
+   "en": "tīng zhōu: a small flat islet in or beside the water, here Parrot Isle."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "复：又。",
+   "en": "fù: also, and again."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "楚客：客居在楚地的人。这一带古代属于楚国，这里指诗人自己。",
+   "en": "chǔ kè: a stranger staying in the land of Chu. This area belonged to the old state of Chu; here it means the poet himself."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "益渺然：更加渺茫，远得没有边际。益，更加。",
+   "en": "yì miǎo rán: even more distant and boundless. Yì means even more."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "汉口：汉水流进长江的地方，在今天的湖北武汉。",
+   "en": "hàn kǒu: where the Han River flows into the Yangtze, in today's Wuhan, Hubei."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "斜渡鸟：鸟儿斜斜地飞过江面。",
+   "en": "xié dù niǎo: birds flying slantwise across the river."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "洞庭：洞庭湖，在岳阳旁边，是很大的湖。",
+   "en": "dòng tíng: Dongting Lake, a very large lake beside Yueyang."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "背岭：背靠着山岭。",
+   "en": "bèi lǐng: with its back to the hills."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "吹角：吹响号角。角是军中用的一种吹奏乐器，声音很凄凉。",
+   "en": "chuī jiǎo: blowing the horn. The horn was a wind instrument used in the army, with a mournful sound."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "独戍：孤零零的守卫营地。戍，守卫边防的地方。",
+   "en": "dú shù: a lonely guard post. Shù means a place where soldiers keep watch."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "贾谊：西汉的才子，年轻时就很有本事，多次给皇帝上书，提出治理国家的意见，后来被人排挤，贬到了长沙。",
+   "en": "jiǎ yì: Jia Yi, a gifted young scholar of the Western Han. He sent the emperor many letters with plans for ruling the country, but others pushed him out and he was sent away to Changsha."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "上书：给皇帝写信，提意见。",
+   "en": "shàng shū: to write to the emperor with advice."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "汉室：汉朝的朝廷，汉朝的天下。",
+   "en": "hàn shì: the house of Han, the Han court and its realm."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "谪：被降职，并被派到远方去。",
+   "en": "zhé: to be demoted and sent far away."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "古今怜：从古到今的人都同情他。怜，同情、可惜。",
+   "en": "gǔ jīn lián: people from ancient times to now all feel sorry for him. Lián means to pity."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "鹦鹉洲边没有风浪，也没有烟雾，",
+   "en": "By Parrot Isle there are no waves and no mist,"
+  },
+  {
+   "zh": "我这个漂泊在楚地的人，思念朋友的心更加渺茫。",
+   "en": "and I, a stranger in the land of Chu, miss my friend across endless distance."
+  },
+  {
+   "zh": "汉口的夕阳下，鸟儿斜斜地飞过江面，",
+   "en": "In the setting sun at Hankou, birds fly slantwise over the river,"
+  },
+  {
+   "zh": "洞庭湖的秋水远远地连着天边。",
+   "en": "and the autumn waters of Dongting stretch far away to meet the sky."
+  },
+  {
+   "zh": "孤城背靠山岭，寒风里传来号角声，",
+   "en": "A lonely town backs onto the hills, and a horn sounds in the cold,"
+  },
+  {
+   "zh": "江边孤零零的营地旁，夜里停着船。",
+   "en": "by a lone guard post on the river, boats are moored for the night."
+  },
+  {
+   "zh": "贾谊给皇帝上书，为汉朝的天下担忧，",
+   "en": "Jia Yi wrote to the emperor out of worry for the Han,"
+  },
+  {
+   "zh": "却被贬到长沙，从古到今的人都同情他。",
+   "en": "yet he was sent away to Changsha, and people of all ages have pitied him."
+  }
+ ],
+ "background": {
+  "zh": "夏口在今天的湖北武汉，鹦鹉洲是附近长江里的一片沙洲。诗人从夏口来到鹦鹉洲，傍晚向岳阳方向远望，写了这首诗寄给一位姓源的中丞。中丞是御史中丞，一种负责监察官员的大官。这位源中丞是谁，现在说不准。一说诗写在唐代宗大历年间，刘长卿在鄂州一带做官，又被人诬告，心里很不平。诗里用贾谊的遭遇，既同情朋友，也说自己。",
+  "en": "Xiakou is in today's Wuhan, Hubei, and Parrot Isle is a sandbank in the Yangtze nearby. The poet went from Xiakou to Parrot Isle and, at dusk, gazed toward Yueyang. Then he wrote this poem and sent it to a Vice Censor named Yuan. A vice censor was a high official whose job was to check on other officials. We are not sure who this Mr. Yuan was. One view says the poem was written in the Dali years of Emperor Daizong, when Liu Changqing held office around Ezhou and was falsely accused. Through the story of Jia Yi, he pities his friend and speaks of himself too."
+ },
+ "author_note": {
+  "zh": "刘长卿，字文房，唐代诗人，生卒年说法不一。他特别擅长写五言诗，被称为“五言长城”。他做官时两次被贬，后来做过随州刺史，所以又叫“刘随州”。他的诗常写贬谪、漂泊的愁苦，风格清淡。",
+  "en": "Liu Changqing, also called Wenfang, was a Tang poet; sources disagree on his birth and death years. He was so good at five-character poems that people called him the Great Wall of five-character verse. Twice he was demoted and sent away, and later he governed Suizhou, so he is also called Liu Suizhou. His poems often tell of the sorrow of exile and wandering, in a quiet, plain style."
+ },
+ "appreciation": {
+  "zh": "前四句写傍晚远望。江上没有风浪，也没有雾，天地特别开阔，可越开阔，想念朋友的心就越没着落。汉口的夕阳里，鸟儿斜斜飞过；远处洞庭湖的秋水，一直连到天边。画面很大，很安静，也很孤单。五、六句天黑了：孤城靠着山，寒风里响起号角；江边营地旁，只停着一条船。最后两句借古人说心事：贾谊一心为国，却被贬到长沙。诗人没有直接说自己委屈，只说“古今怜”，这份不平和同情，都藏在里面了。",
+  "en": "The first four lines show a gaze into the distance at dusk. There are no waves and no mist on the river, so the world looks wide open. But the wider it looks, the more lost his longing for his friend feels. In the setting sun at Hankou, birds fly slantwise past, and far away the autumn waters of Dongting reach the sky. The picture is huge, quiet and lonely. In lines five and six night falls. A lonely town leans on the hills, a horn sounds in the cold wind, and by a riverside guard post only boats are moored. The last two lines use a man of old to speak his heart. Jia Yi gave everything for his country, yet he was sent away to Changsha. The poet does not say outright that he has been wronged. He only says that all ages pity Jia Yi, and his hurt and his sympathy are hidden in those words."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "dusk",
+   "exile",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,732 @@
+{
+ "id": "ci-305ca749d4d9",
+ "kind": "ci",
+ "title": "水调歌头·送章德茂大卿使虏",
+ "title_en": "Shui Diao Ge Tou: Seeing Off Minister Zhang Demao on His Mission to the Jin",
+ "author": "陈亮",
+ "author_en": "Chen Liang",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《水调歌头》，双调九十五字",
+  "en": "ci to the tune Shui Diao Ge Tou, 95 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "师",
+    "shī"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "场",
+    "chǎng"
+   ],
+   [
+    "只",
+    "zhī"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "毕",
+    "bì"
+   ],
+   [
+    "竟",
+    "jìng"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "雄",
+    "xióng"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "使",
+    "shǐ"
+   ]
+  ],
+  [
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "洋",
+    "yáng"
+   ],
+   [
+    "洋",
+    "yáng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "东",
+    "dōng"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "穹",
+    "qióng"
+   ],
+   [
+    "庐",
+    "lú"
+   ],
+   [
+    "拜",
+    "bài"
+   ]
+  ],
+  [
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "藁",
+    "gǎo"
+   ],
+   [
+    "街",
+    "jiē"
+   ],
+   [
+    "逢",
+    "féng"
+   ]
+  ],
+  [
+   [
+    "尧",
+    "yáo"
+   ],
+   [
+    "之",
+    "zhī"
+   ],
+   [
+    "都",
+    "dū"
+   ]
+  ],
+  [
+   [
+    "舜",
+    "shùn"
+   ],
+   [
+    "之",
+    "zhī"
+   ],
+   [
+    "壤",
+    "rǎng"
+   ]
+  ],
+  [
+   [
+    "禹",
+    "yǔ"
+   ],
+   [
+    "之",
+    "zhī"
+   ],
+   [
+    "封",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "耻",
+    "chǐ"
+   ],
+   [
+    "臣",
+    "chén"
+   ],
+   [
+    "戎",
+    "róng"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "腥",
+    "xīng"
+   ],
+   [
+    "膻",
+    "shān"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "灵",
+    "líng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "磅",
+    "páng"
+   ],
+   [
+    "礴",
+    "bó"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "通",
+    "tōng"
+   ]
+  ],
+  [
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "运",
+    "yùn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "赫",
+    "hè"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "语料库只题词牌，通行本有题目“送章德茂大卿使虏”。正文相同。",
+  "en": "The corpus gives only the tune name. The common text adds the title \"Seeing Off Minister Zhang Demao on His Mission to the Jin\". The words of the poem are the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "“谩说”的“谩”这里读 màn，意思是不要、别，同“漫”；读 mán 时是欺骗的意思。",
+   "en": "Here this character is read màn, meaning \"do not\". Read mán, it means to deceive."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "只",
+   "pinyin": "zhī",
+   "zh": "“只手”的“只”读 zhī，意思是单独的一个，“只手”就是一只手。",
+   "en": "In zhī shǒu this character is read zhī, meaning \"single\": one hand alone."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还我”的“还”这里读 hái，意思是仍然、还是。一说读 huán，“还我万夫雄”是“还是让我们有万夫之雄”的意思，理解相近。",
+   "en": "Here this character is read hái, meaning \"still\". Some read it huán, \"to give back\", but the sense is close: after all we still have a hero."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "南师：南方宋朝的军队。很久不见宋军北伐了。",
+   "en": "nán shī: the southern army, the Song troops. It had been long since they marched north."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "谩说：别说，不要以为。",
+   "en": "màn shuō: do not say, do not think."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "北群空：唐代韩愈说伯乐走过冀北，那里的好马就被挑光了。这里反过来说：别以为北伐无人、宋朝没有人才。",
+   "en": "běi qún kōng: the northern herd is empty. Han Yu of the Tang said that once the horse expert Bole passed through the north, all the good horses were picked out. Here it is turned around: do not think the Song has no talented men."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "当场只手：在敌人面前独当一面。",
+   "en": "dāng chǎng zhī shǒu: standing alone before the enemy, holding up the whole task."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "万夫雄：能抵挡一万人的英雄，指章德茂。",
+   "en": "wàn fū xióng: a hero worth ten thousand men, meaning Zhang Demao."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "汉使：汉朝的使者，这里指宋朝的使者。",
+   "en": "hàn shǐ: an envoy of the Han, here an envoy of the Song."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "得似：怎么能像，难道要像。",
+   "en": "dé sì: how could one be like..."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "依旧只流东：河水总是向东流。比喻宋朝使者每年都去金国朝拜，好像河水一样理所当然。",
+   "en": "yī jiù zhǐ liú dōng: the river always flows east. It compares the Song envoys going to the Jin court every year to a river that never changes course."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "穹庐：北方游牧民族住的圆顶帐篷，这里指金国朝廷。",
+   "en": "qióng lú: the domed tents of northern nomads, here the Jin court."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "藁街：汉代长安城里外国使者住的街。汉将陈汤杀了匈奴郅支单于，把他的头挂在藁街示众。这里说：总有一天敌人的首领会被挂在藁街。",
+   "en": "gǎo jiē: a street in Han-dynasty Chang'an where foreign envoys stayed. The Han general Chen Tang killed a Xiongnu chieftain and hung his head there. Here it means: one day the enemy leader will end up there."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "尧之都：尧建都的地方。尧、舜、禹都是传说中的古代圣王。",
+   "en": "yáo zhī dū: the capital of Yao. Yao, Shun and Yu were the wise kings of legend."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 3,
+   "zh": "壤：土地。",
+   "en": "rǎng: land."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 3,
+   "zh": "封：疆域，国土。",
+   "en": "fēng: territory, a realm."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "于中：在这中间，指在中原这片土地上。",
+   "en": "yú zhōng: among them, on the land of the Central Plains."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "耻臣戎：把向敌人称臣看作耻辱。戎，古代对西北民族的称呼，这里指金国。",
+   "en": "chǐ chén róng: to feel shame at bowing to the enemy as a subject. Róng was an old name for peoples of the northwest, here meaning the Jin."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "腥膻：牛羊肉的腥臊气味，这里指金人统治下的中原。",
+   "en": "xīng shān: the rank smell of mutton and beef, here meaning the Central Plains under Jin rule."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "如许：这样，这么多。",
+   "en": "rú xǔ: like this, so much."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "英灵：古代英雄的灵魂。",
+   "en": "yīng líng: the spirits of heroes of the past."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "磅礴：盛大的正气。",
+   "en": "páng bó: vast and mighty, the great spirit of what is right."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 5,
+   "zh": "通：伸张，畅通。",
+   "en": "tōng: to flow freely again, to be set right."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "胡运：金国的国运。",
+   "en": "hú yùn: the fortune of the Jin state."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 5,
+   "zh": "赫日自当中：火红的太阳自然正当天空中央，比喻宋朝的国运正盛。",
+   "en": "hè rì zì dāng zhōng: the blazing sun stands high in the middle of the sky, meaning the Song's fortune will shine."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "很久没见到南方军队北伐了，",
+   "en": "It has been long since the southern army marched north,"
+  },
+  {
+   "zh": "可别说宋朝已经没有人才。",
+   "en": "but do not say the Song has no great men left."
+  },
+  {
+   "zh": "在敌人面前独当一面，",
+   "en": "Standing alone before the enemy,"
+  },
+  {
+   "zh": "毕竟我们还有你这样的万夫之雄。",
+   "en": "after all, we still have a hero like you, worth ten thousand men."
+  },
+  {
+   "zh": "可笑我们堂堂大国的使者，",
+   "en": "How laughable that we, envoys of a great nation,"
+  },
+  {
+   "zh": "难道要像那浩荡的河水，",
+   "en": "should be like the broad river,"
+  },
+  {
+   "zh": "总是向东流去，年年去朝拜敌人？",
+   "en": "always flowing east, going every year to bow to the enemy."
+  },
+  {
+   "zh": "这次暂且再到金国的帐篷里拜一回，",
+   "en": "For now, go once more and bow in their tents;"
+  },
+  {
+   "zh": "将来总会在藁街看到敌人首领的头颅。",
+   "en": "one day we will see their leader's head hung on Gaojie Street."
+  },
+  {
+   "zh": "这里是尧建都的地方，",
+   "en": "This is the capital of Yao,"
+  },
+  {
+   "zh": "是舜的土地，",
+   "en": "the land of Shun,"
+  },
+  {
+   "zh": "是禹的疆域。",
+   "en": "the realm of Yu."
+  },
+  {
+   "zh": "在这片土地上，总应该有",
+   "en": "On this land there must be"
+  },
+  {
+   "zh": "一个半个以向敌人称臣为耻的人吧。",
+   "en": "at least one or two people ashamed to bow to the enemy."
+  },
+  {
+   "zh": "万里中原都充满了敌人的腥膻气，",
+   "en": "For ten thousand li the land reeks of the invaders."
+  },
+  {
+   "zh": "千古英雄的灵魂在哪里？",
+   "en": "Where are the spirits of the heroes of old?"
+  },
+  {
+   "zh": "浩大的正气什么时候才能伸张？",
+   "en": "When will the great spirit of right flow free again?"
+  },
+  {
+   "zh": "金国的国运何必去问，",
+   "en": "Why ask about the fortune of the Jin?"
+  },
+  {
+   "zh": "我们的国运就像火红的太阳正当中天。",
+   "en": "Ours is like the blazing sun at the height of the sky."
+  }
+ ],
+ "background": {
+  "zh": "宋孝宗淳熙十二年（1185年），大理少卿章森（字德茂）奉命出使金国，去给金国皇帝祝寿。那时南宋向金国称“侄”，每年都要派人去朝贺，很多人觉得这是耻辱。陈亮一向主张收复中原，就写了这首词给章德茂送行，鼓励他在敌人面前不要失了国家的志气。",
+  "en": "In 1185, Zhang Sen, courtesy name Demao, a senior minister of justice, was sent to the Jin to congratulate the Jin emperor on his birthday. At that time the Southern Song called itself the Jin's \"nephew\" and had to send envoys every year. Many people found this shameful. Chen Liang had always argued for taking back the north. He wrote this ci to see Zhang off, urging him not to lose the nation's pride in front of the enemy."
+ },
+ "author_note": {
+  "zh": "陈亮（1143—1194），字同甫，号龙川，婺州永康（今属浙江）人，南宋思想家和词人。他多次上书皇帝，要求北伐收复失地，几次被人陷害下狱。他和辛弃疾是好朋友，词风也一样豪迈激昂。",
+  "en": "Chen Liang (1143–1194), who called himself Longchuan, came from Yongkang in today's Zhejiang. He was a Southern Song thinker and ci poet. Again and again he wrote to the emperor asking for a war to win back the lost north, and he was framed and jailed more than once. He was a close friend of Xin Qiji, and his ci are just as bold and fiery."
+ },
+ "appreciation": {
+  "zh": "这首送别词一点也不伤感，反而像一篇激昂的演说。开头先给朋友打气：别以为宋朝没人，你就是万夫之雄。接着笑南宋使者年年去朝拜，像河水只会向东流，又马上转回来：这次暂且去拜一拜，总有一天要在藁街看到敌人的下场。下片连说“尧之都，舜之壤，禹之封”，三个短句像敲鼓一样，提醒大家中原是祖先的土地，总该有人觉得向敌人称臣是羞耻。最后一问一答：敌人的国运不用问，我们就像正午的太阳。读起来让人热血沸腾。",
+  "en": "This farewell poem is not sad at all. It reads like a fiery speech. It begins by cheering the friend on: do not think the Song has no one; you are a hero worth ten thousand men. Then it mocks the envoys who go to bow every year, like a river that can only flow east, and quickly turns: go and bow this once, and one day we will see the enemy's end on Gaojie Street. The second stanza beats out three short lines, the capital of Yao, the land of Shun, the realm of Yu, like drumbeats. They remind everyone that the north is the land of their ancestors, and someone must feel ashamed to bow to the enemy. It ends with a question and an answer: no need to ask about the enemy's fortune; ours is the noon sun. It makes the blood run hot."
+ },
+ "famous_lines": [
+  9,
+  10,
+  11,
+  17,
+  18
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "farewell",
+   "friendship",
+   "history",
+   "war"
+  ]
+ },
+ "uncertain": []
+}

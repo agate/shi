@@ -1,0 +1,278 @@
+{
+ "id": "0db5450e-f1e0-4d53-8106-529def535537",
+ "kind": "shi",
+ "title": "清平调·其三",
+ "title_en": "Qing Ping Tune, No. 3",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "倾",
+    "qīng"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "欢",
+    "huān"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "看",
+    "kān"
+   ]
+  ],
+  [
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "释",
+    "shì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文写作“沈香亭”。“沈”是“沉”的古字，通行本写作“沉香亭”。",
+  "en": "The corpus writes the pavilion's name with an old form of the character chén. Common editions use the modern form. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长在这里读 cháng，意思是“常常、总是”。",
+   "en": "Here this character is read cháng and means always."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "看",
+   "pinyin": "kān",
+   "zh": "看在这里读 kān，是平声，和“欢、干”押韵。也有人读 kàn。",
+   "en": "Here this character is read kān, in the level tone, so it rhymes with huān and gān. Some read it kàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "名花：有名的花，这里指牡丹。",
+   "en": "míng huā: a famous flower; here the peony."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "倾国：美得能让一国的人都为她倾倒，这里指杨贵妃。",
+   "en": "qīng guó: so beautiful that a whole country falls for her; here Lady Yang, the emperor's favorite consort."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "两相欢：花和美人互相映衬，都让人喜欢。",
+   "en": "liǎng xiāng huān: the flower and the beauty set each other off, and both bring joy."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "长得：常常得到，总能让。",
+   "en": "cháng dé: always able to make."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "君王：皇帝，这里指唐玄宗。",
+   "en": "jūn wáng: the ruler; here Emperor Xuanzong."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "解释：消除、化解。和今天“解释”的意思不同。",
+   "en": "jiě shì: to melt away, to ease. Not today's meaning of to explain."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "春风：这里代指君王。",
+   "en": "chūn fēng: the spring wind; here it stands for the emperor."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "无限恨：说不完的烦恼和愁闷。",
+   "en": "wú xiàn hèn: endless worries and gloom."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "沉香亭：皇宫兴庆宫里的一座亭子，用名贵的沉香木做成。",
+   "en": "Chenxiang Pavilion: a pavilion in the Xingqing Palace, built of precious aloeswood."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "名贵的牡丹和倾国的美人互相映衬，都让人欢喜，",
+   "en": "The famous peonies and the peerless beauty set each other off, both a delight,"
+  },
+  {
+   "zh": "惹得君王总是笑着观赏。",
+   "en": "so the emperor always gazes at them with a smile."
+  },
+  {
+   "zh": "在沉香亭北边，美人靠着栏杆，",
+   "en": "North of Chenxiang Pavilion, she leans on the railing,"
+  },
+  {
+   "zh": "君王心里有再多的烦恼，也都被消除了。",
+   "en": "and all the endless worries the spring wind brings melt away."
+  }
+ ],
+ "background": {
+  "zh": "《清平调》共三首，这是第三首。一般认为写于唐玄宗天宝初年（一说天宝二年，743年）的春天。当时李白在长安做翰林供奉，就是陪在皇帝身边写诗文的人。宫中沉香亭前的牡丹开了，唐玄宗和杨贵妃一起赏花，让人把李白叫来写新词。李白很快写成了这三首，由乐师配曲演唱。",
+  "en": "There are three Qing Ping Tunes, and this is the third. They are usually dated to a spring in the early Tianbao years, one view says 743. Li Bai was then a court writer in Chang'an, someone who stayed near the emperor to write poems. The peonies by Chenxiang Pavilion were in bloom. Emperor Xuanzong and Lady Yang came to enjoy them, and the emperor sent for Li Bai to write new songs. Li Bai quickly wrote these three, and the court musicians sang them."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他四十多岁时被召到长安，在皇帝身边写诗，名气很大，但不到三年就离开了。这三首《清平调》是他在宫中最有名的作品，写得华丽又轻快。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. In his forties he was called to Chang'an to write poems for the emperor and became very famous, but he left after less than three years. These three Qing Ping Tunes are his best-known works from the palace, rich in color and light in step."
+ },
+ "appreciation": {
+  "zh": "前两首写花像人、人像花，这一首把花、美人和君王放在一起。第一句说牡丹和美人“两相欢”，分不清哪个更美。第二句写君王看着她们，脸上一直带着笑。第三句说，有了这样的花和人，春天里再多的烦恼也能化开。最后一句收在一个画面上：沉香亭北边，美人轻轻靠着栏杆。诗到这里就停了，不再多说，留下一幅安静、明丽的宫中赏花图，让人自己去想。",
+  "en": "The first two songs say the flower is like the lady and the lady is like the flower. This one puts the flower, the lady and the emperor together. The first line says the peony and the beauty both bring joy; you cannot tell which is lovelier. The second line shows the emperor watching them, a smile always on his face. The third line says that with such flowers and such a lady, any worry of spring melts away. The last line stops on one picture: north of the pavilion, the lady leans lightly on the railing. The poem ends there and says no more. It leaves a calm, bright scene of flower viewing in the palace for us to imagine."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "peony",
+   "beauty",
+   "palace",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

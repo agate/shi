@@ -1,0 +1,800 @@
+{
+ "id": "ci-e928abc99739",
+ "kind": "ci",
+ "title": "帝台春·芳草碧色",
+ "title_en": "Di Tai Chun: The Fragrant Grass Is Green",
+ "author": "李甲",
+ "author_en": "Li Jia",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·帝台春（双调）",
+  "en": "ci lyric to the tune Di Tai Chun, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "力",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "拾",
+    "shí"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "侣",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ]
+  ],
+  [
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "食",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "旋",
+    "xuán"
+   ],
+   [
+    "释",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "织",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "拭",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "滴",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "伫",
+    "zhù"
+   ],
+   [
+    "立",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "阑",
+    "lán"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "碧",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "拚",
+    "pàn"
+   ],
+   [
+    "则",
+    "zé"
+   ],
+   [
+    "而",
+    "ér"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "拚",
+    "pàn"
+   ],
+   [
+    "了",
+    "le"
+   ]
+  ],
+  [
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "则",
+    "zé"
+   ],
+   [
+    "怎",
+    "zěn"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "得",
+    "dé"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "鳞",
+    "lín"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "息",
+    "xī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "资料库原文第二十一句作“拼则而已今拼了”，字序错乱，这里按通行本作“拚则而今已拚了”。",
+  "en": "In the database text, the line \"pan ze er jin yi pan le\" has its characters jumbled and uses a different character for pàn. This follows the common text."
+ },
+ "readings": [
+  {
+   "line": 15,
+   "pos": 0,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "“谩”在这里同“漫”，意思是徒然、白白地，读 màn。",
+   "en": "Here this character is used for màn (in vain) and is read màn."
+  },
+  {
+   "line": 20,
+   "pos": 0,
+   "char": "拚",
+   "pinyin": "pàn",
+   "zh": "“拚”是舍弃不顾的意思，读 pàn。资料库原文写作“拼”，今天也有人读 pīn。",
+   "en": "This character means to give up regardless and is read pàn. The database text writes it with the character now read pīn."
+  },
+  {
+   "line": 10,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "这里是“做、当”的意思，读 wéi。",
+   "en": "Here it means \"to be, to act as\" and is read wéi."
+  },
+  {
+   "line": 11,
+   "pos": 1,
+   "char": "旋",
+   "pinyin": "xuán",
+   "zh": "这里是“随即、刚刚”的意思，读 xuán。",
+   "en": "Here it means \"soon, just\" and is read xuán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "萋萋：草长得很茂盛的样子。",
+   "en": "qī qī: lush and thick, of grass."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "南陌：南边的小路。陌，田间小路。",
+   "en": "nán mò: the southern paths. Mò is a path between fields."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "暖絮：暖风里飘的柳絮。",
+   "en": "nuǎn xù: willow fluff drifting in the warm air."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "乱红：纷纷飘落的花瓣。",
+   "en": "luàn hóng: flower petals falling every which way."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "春愁无力：因为春天的愁绪，人没有一点力气。",
+   "en": "chūn chóu wú lì: so weighed down by spring sorrow that one has no strength."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "盈盈：姿态美好的样子，这里指美丽的女子。",
+   "en": "yíng yíng: graceful, here meaning a lovely young woman."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "拾翠侣：一起春游的女伴。拾翠，捡拾翠鸟的羽毛，后来指女子春天出游。",
+   "en": "shí cuì lǚ: a companion on a spring outing. Shí cuì means picking up kingfisher feathers, and came to mean women's spring outings."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "携赏：手拉着手一起游玩观赏。",
+   "en": "xié shǎng: to go out together hand in hand to enjoy the sights."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "凤城：京城的美称。",
+   "en": "fèng chéng: Phoenix City, a fine name for the capital."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "寒食：寒食节，在清明节前一两天，这一天不生火做饭，人们常出门踏青。",
+   "en": "hán shí: the Cold Food Festival, a day or two before Qingming. People did not light fires to cook, and often went out to enjoy the spring."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "海角：海边极远的地方。",
+   "en": "hǎi jiǎo: the farthest corner by the sea."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "天涯为客：在天边一样远的地方做客，就是漂泊在外。",
+   "en": "tiān yá wéi kè: to be a stranger at the edge of the sky, that is, to wander far from home."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "旋释：刚刚解开。旋，随即、刚刚；释，放下、解开。",
+   "en": "xuán shì: just let go. Xuán means \"soon, just\"; shì means to loosen."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "还似织：又像织布一样密密地交织起来。",
+   "en": "hái sì zhī: again woven thick, like cloth on a loom."
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 3,
+   "zh": "暗拭：偷偷地擦。",
+   "en": "àn shì: to wipe secretly."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 3,
+   "zh": "谩伫立：白白地久久站着。谩，同“漫”，徒然；伫立，长时间站着。",
+   "en": "màn zhù lì: to stand a long time, in vain. Màn means \"in vain\"; zhù lì means to stand still for long."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "危阑：高楼上的栏杆。危，高。",
+   "en": "wēi lán: the railing of a tall building. Wēi means high."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 3,
+   "zh": "尽黄昏：整个黄昏，一直到黄昏结束。",
+   "en": "jìn huáng hūn: all through dusk."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "暮云凝碧：傍晚的云凝聚在青碧的天空里。",
+   "en": "mù yún níng bì: evening clouds gathered still in the blue-green sky."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 1,
+   "zh": "拚：舍弃，豁出去不管了。",
+   "en": "pàn: to give up, to let go no matter what."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "而今：现在。",
+   "en": "ér jīn: now."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "怎生：怎么。",
+   "en": "zěn shēng: how."
+  },
+  {
+   "line": 22,
+   "start": 3,
+   "end": 5,
+   "zh": "鳞鸿：鱼和大雁。古人传说鱼和雁能传书信，所以用来指书信、送信的人。",
+   "en": "lín hóng: fish and wild geese. In old stories they carried letters, so the words stand for letters or messengers."
+  },
+  {
+   "line": 23,
+   "start": 3,
+   "end": 5,
+   "zh": "消息：音信。",
+   "en": "xiāo xī: news."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "芳草一片青绿，",
+   "en": "The fragrant grass is green,"
+  },
+  {
+   "zh": "茂茂盛盛地长满了南边的小路。",
+   "en": "growing thick along every southern path."
+  },
+  {
+   "zh": "暖风里的柳絮和乱飞的落花，",
+   "en": "Willow fluff in the warm air and petals blown about,"
+  },
+  {
+   "zh": "好像也懂得人的心思，",
+   "en": "they too seem to know"
+  },
+  {
+   "zh": "知道人被春愁压得没有一点力气。",
+   "en": "how spring sorrow leaves me without strength."
+  },
+  {
+   "zh": "还记得那位美丽的女伴，",
+   "en": "I remember the lovely girl who came with me on spring outings,"
+  },
+  {
+   "zh": "和我手拉着手，一起游赏",
+   "en": "how we went out hand in hand"
+  },
+  {
+   "zh": "京城寒食节的春光。",
+   "en": "to enjoy the Cold Food Festival in the capital."
+  },
+  {
+   "zh": "可到了今天，",
+   "en": "But now,"
+  },
+  {
+   "zh": "我在海角遇到春天，",
+   "en": "I meet the spring at the corner of the sea,"
+  },
+  {
+   "zh": "在天涯做一个漂泊的客人。",
+   "en": "a wanderer at the edge of the sky."
+  },
+  {
+   "zh": "愁绪刚刚解开，",
+   "en": "No sooner is my sorrow loosened"
+  },
+  {
+   "zh": "又像织布一样密密地缠上来。",
+   "en": "than it is woven thick again."
+  },
+  {
+   "zh": "眼泪偷偷擦干，",
+   "en": "I secretly wipe away my tears,"
+  },
+  {
+   "zh": "又偷偷地流下来。",
+   "en": "and secretly they fall again."
+  },
+  {
+   "zh": "白白地久久站着，",
+   "en": "I stand a long time, in vain,"
+  },
+  {
+   "zh": "把高楼的栏杆都靠遍了，",
+   "en": "leaning on every part of the high railing,"
+  },
+  {
+   "zh": "一直站到黄昏过去，",
+   "en": "all through the dusk,"
+  },
+  {
+   "zh": "看到的也只是",
+   "en": "and all I see"
+  },
+  {
+   "zh": "傍晚的云停在青碧的天空里。",
+   "en": "are evening clouds gathered in the blue-green sky."
+  },
+  {
+   "zh": "说放下吧，现在我已经豁出去放下了；",
+   "en": "If I am to let go, then now I have let go;"
+  },
+  {
+   "zh": "说忘掉吧，可又怎么能说忘就忘呢？",
+   "en": "if I am to forget, how can I forget just like that?"
+  },
+  {
+   "zh": "于是我又去问问送信的鱼和雁，",
+   "en": "So again I ask the fish and the geese that carry letters,"
+  },
+  {
+   "zh": "试着再一次打听她的消息。",
+   "en": "and try once more to find news of her."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是一个漂泊在外的人，在春天里想念从前的恋人。他想起当年寒食节，和心上人一起在京城游春；如今自己却远在天涯，独自过着又一个春天。词里没有写明是哪一年、在哪里写的，作者的生平也知道得很少，所以写作背景已经说不清了。",
+  "en": "This lyric is about a man far from home who misses a former love in spring. He remembers a Cold Food Festival long ago, when he and his sweetheart enjoyed the spring together in the capital. Now he is at the edge of the world, spending another spring alone. The lyric does not say when or where it was written, and very little is known about the poet's life, so the setting can no longer be told."
+ },
+ "author_note": {
+  "zh": "李甲，字景元，北宋词人，生平事迹留下来的很少。据记载他是华亭（今上海松江一带）人，做过地方小官，还擅长画画。他的词留下来的不多，这首《帝台春》被收进了《宋词三百首》。",
+  "en": "Li Jia, courtesy name Jingyuan, was a Northern Song ci poet. Very little is known about his life. Records say he came from Huating, around today's Songjiang in Shanghai, held minor local posts, and was a skilled painter. Few of his lyrics survive; this one was chosen for Three Hundred Song Lyrics."
+ },
+ "appreciation": {
+  "zh": "上片从春景写起：芳草长满小路，柳絮和落花在暖风里乱飞，好像也知道人没有力气。然后回忆从前，和心上人在京城过寒食节，多么快乐；再看现在，自己在天涯海角做客，同样是春天，心情完全不同。下片连用四个三字短句：“愁旋释，还似织，泪暗拭，又偷滴。”愁刚放下又缠上来，泪刚擦干又流下来，节奏又短又急，像一声声抽泣。接着他靠遍栏杆，看到的只有暮云。“拚则而今已拚了，忘则怎生便忘得”用的是大白话：说放下，已经放下了；说忘掉，哪里忘得了！这两句把人心里的矛盾说得非常真切。最后他还是忍不住去打听她的消息。",
+  "en": "The first stanza begins with spring. Fragrant grass fills the paths, and willow fluff and petals fly in the warm wind, as if they knew how weak he feels. Then he remembers the past, when he spent the Cold Food Festival in the capital with his sweetheart, so happy. Now he is a stranger at the edge of the world. It is spring again, but his heart is completely different. The second stanza opens with four short lines of three characters each: the sorrow is let go and woven up again; the tears are wiped away and fall again. The rhythm is short and quick, like sob after sob. Then he leans on every part of the railing, and sees only evening clouds. The next two lines are in plain speech: if I am to let go, I have let go; but forget her? How could I! They show the struggle inside a person very truly. In the end he still cannot help asking for news of her."
+ },
+ "famous_lines": [
+  11,
+  12,
+  13,
+  14,
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "hanshi"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "wanderer",
+   "memory"
+  ]
+ },
+ "uncertain": []
+}

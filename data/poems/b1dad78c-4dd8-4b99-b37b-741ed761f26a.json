@@ -1,0 +1,349 @@
+{
+ "id": "b1dad78c-4dd8-4b99-b37b-741ed761f26a",
+ "kind": "shi",
+ "title": "宿桐庐江寄广陵旧游",
+ "title_en": "Spending the Night on the Tonglu River, for Old Friends in Guangling",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "暝",
+    "míng"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "猿",
+    "yuán"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "急",
+    "jí"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "建",
+    "jiàn"
+   ],
+   [
+    "德",
+    "dé"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "土",
+    "tǔ"
+   ]
+  ],
+  [
+   [
+    "维",
+    "wéi"
+   ],
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里用通行本。资料库第一句作“山暝闻猿愁”，通行本作“山暝听猿愁”，意思一样。",
+  "en": "This uses the common text. In the corpus the first line uses a different word for \"hear\"; the common text has \"listen\". The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还将”是“仍然把、还要把”的意思，一般读 hái。一说读 huán，理解为“把眼泪寄回去”。",
+   "en": "Hái jiāng means \"still I will take\", so the character is usually read hái. Some read it huán, meaning \"send back\"."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "“两行泪”的“行”是量词，表示一道一道，读 háng。",
+   "en": "In \"two lines of tears\" the character counts lines, so it is read háng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "暝：天色昏暗，天黑了。",
+   "en": "míng: dusk, growing dark."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "猿愁：猿猴的叫声很凄凉，让人听了发愁。",
+   "en": "yuán chóu: the cries of the apes sound so sad that they make the listener sad too."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "沧江：青绿色的江水，这里指桐庐江。",
+   "en": "cāng jiāng: the blue-green river, here the Tonglu River."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "鸣：响。风吹树叶发出声音。",
+   "en": "míng: to sound; the wind makes the leaves rustle."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "建德：唐代睦州的一个县，在今天浙江，桐庐就在附近。这里指诗人现在所在的地方。",
+   "en": "jiàn dé: Jiande, a county in Tang times in today's Zhejiang, near Tonglu. It stands for where the poet is now."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "非吾土：不是我的家乡。",
+   "en": "fēi wú tǔ: not my homeland."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "维扬：扬州的别称，也就是题目里的广陵。",
+   "en": "wéi yáng: another name for Yangzhou, the same place as Guangling in the title."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "旧游：以前一起游玩的老朋友。",
+   "en": "jiù yóu: old friends I used to spend time with."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "两行泪：两道眼泪。",
+   "en": "liǎng háng lèi: two lines of tears."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "海西头：大海的西边，指扬州。隋炀帝写过“借问扬州在何处，淮南江北海西头”。",
+   "en": "hǎi xī tóu: the west edge of the sea, meaning Yangzhou. Emperor Yang of Sui wrote that Yangzhou lies at the western end of the sea."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天色昏暗，山中传来猿猴凄凉的叫声，",
+   "en": "Dusk falls on the hills, and I hear the sad cries of apes."
+  },
+  {
+   "zh": "青绿的江水在夜里急急地流着。",
+   "en": "The green river rushes on through the night."
+  },
+  {
+   "zh": "风吹着两岸的树叶，沙沙作响，",
+   "en": "Wind rustles the leaves on both banks,"
+  },
+  {
+   "zh": "月光照着江上一只孤单的小船。",
+   "en": "and the moon shines on one lonely boat."
+  },
+  {
+   "zh": "建德这地方不是我的家乡，",
+   "en": "Jiande is not my homeland."
+  },
+  {
+   "zh": "我怀念在扬州的老朋友们。",
+   "en": "I miss my old friends in Yangzhou."
+  },
+  {
+   "zh": "我还要把这两行思念的眼泪，",
+   "en": "So I will take these two lines of tears"
+  },
+  {
+   "zh": "远远地寄给大海西边的你们。",
+   "en": "and send them far away to you, at the western edge of the sea."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然中年时到长安求官没有成功，后来到吴越一带漫游，也就是今天的江苏、浙江。一般认为这首诗写于这次漫游途中，大约在开元十八年（730年）前后。一天夜里，他的船停在桐庐江上。桐庐江是钱塘江流经桐庐的一段。他想起扬州的老朋友，就写了这首诗寄给他们。广陵就是扬州。",
+  "en": "In middle age Meng Haoran went to Chang'an hoping for an official post, but failed. Afterward he wandered through the Wu and Yue region, today's Jiangsu and Zhejiang. This poem is usually thought to come from that trip, around the year 730. One night his boat was moored on the Tonglu River, the stretch of the Qiantang River that runs past Tonglu. He thought of his old friends in Yangzhou and wrote this poem to send to them. Guangling is an old name for Yangzhou."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），襄州襄阳（今湖北襄阳）人，唐代山水田园诗人，和王维并称“王孟”。他一生没有做官，大部分时间隐居或漫游。他的诗清淡自然，我们熟悉的《春晓》《过故人庄》都是他写的。",
+  "en": "Meng Haoran (689–740) came from Xiangyang in today's Hubei. He was a Tang poet of hills, rivers and farm life, often named together with Wang Wei. He never held office, and spent most of his life as a hermit or traveling. His poems are plain and natural. He also wrote the well-known \"Spring Morning\" and \"Visiting an Old Friend's Farm\"."
+ },
+ "appreciation": {
+  "zh": "前四句写夜里的江景，一句比一句冷清：天黑了，猿在哀叫；江水在夜里急急地流；风吹树叶沙沙响；月光下只有一只小船。声音和画面放在一起，诗人孤单的心情就出来了。后四句直接说心事：这里不是我的家乡，我想念扬州的朋友。最后他说要把两行眼泪寄到遥远的扬州去。眼泪当然寄不走，可这样说，反而让人感到他的思念有多深。",
+  "en": "The first four lines show the river at night, each one lonelier than the last. It is dark and the apes are crying. The river rushes through the night. Wind rustles the leaves. Under the moon there is only one small boat. Put the sounds and pictures together, and the poet's loneliness comes through. The last four lines say what is in his heart. This is not his home, and he misses his friends in Yangzhou. At the end he says he will send two lines of tears all the way to Yangzhou. Of course tears cannot be mailed, but saying so shows how deeply he misses them."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "homesick",
+   "night",
+   "river",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,192 @@
+{
+ "id": "ef5f6c59-7460-402d-a2e6-fb8214ea5332",
+ "kind": "shi",
+ "title": "剑客",
+ "title_en": "The Swordsman",
+ "author": "贾岛",
+ "author_en": "Jia Dao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "磨",
+    "mó"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "剑",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "刃",
+    "rèn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "试",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "示",
+    "shì"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里用的是课本和通行本的文字。资料库里第三、四句作“今日把似君，谁为不平事”，意思差不多，都是把剑拿给你看，问谁受了不公平的事。",
+  "en": "This uses the text found in textbooks and common editions. The database has a slightly different third and fourth line (bǎ sì jūn, shuí wèi bù píng shì). The meaning is about the same: I show you the sword, and ask who has been treated unfairly."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "磨一剑：磨一把剑。磨，在石头上来回擦，把刀剑擦得锋利。",
+   "en": "mó yī jiàn: to grind one sword. Mó means rubbing a blade on a stone, back and forth, to make it sharp."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "霜刃：像霜一样又白又冷、闪着寒光的剑刃。刃，刀剑锋利的那条边。",
+   "en": "shuāng rèn: a blade as white and cold as frost, shining with a cold light. Rèn is the sharp edge of a sword."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "未曾试：还没有试过，就是还没真正用过。",
+   "en": "wèi céng shì: has never been tried, never really used yet."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "把示君：拿给你看。把，拿着；示，给人看；君，对人的尊称，就是“您”。",
+   "en": "bǎ shì jūn: hold it out to show you. Bǎ means to hold, shì means to show, jūn is a polite word for you."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "不平事：不公平的事，受了冤屈、被人欺负的事。",
+   "en": "bù píng shì: something unfair, a wrong someone has suffered."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我花了十年工夫，磨成了这一把剑。",
+   "en": "For ten years I have ground and polished this one sword."
+  },
+  {
+   "zh": "剑刃像霜一样闪着寒光，却还没有真正试过。",
+   "en": "Its blade shines cold as frost, but it has never yet been put to the test."
+  },
+  {
+   "zh": "今天我把它拿出来给你看。",
+   "en": "Today I take it out and show it to you."
+  },
+  {
+   "zh": "谁遇到了不公平的事，就告诉我吧。",
+   "en": "Tell me: who has been treated unfairly?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗写成的年月已经说不清了。诗题一作《述剑》。一般认为，诗人是借剑客说自己：剑客十年磨剑，就像读书人多年苦学，练出了真本事，盼着有一天能被人用上，去做一番事业。也有人说这是贾岛参加科举（古代考试选官的制度）以前写的，表达想要施展才能的心愿，这只是一种说法。",
+  "en": "No one knows for sure when this poem was written. It is also known by another title, \"On the Sword\". It is usually read as the poet speaking through a swordsman. Ten years spent grinding a sword is like a scholar studying hard for years. He has real skill now, and hopes someone will let him use it to do great things. Some say Jia Dao wrote it before he took the imperial exams, the old tests for choosing officials, but that is only one view."
+ },
+ "author_note": {
+  "zh": "贾岛（779—843），唐代诗人。他年轻时出家当过和尚，后来还俗，考了很多次科举都没考中，一生只做过小官。他写诗特别认真，一个字要想很久，“推敲”这个词就来自他的故事。人们把他和孟郊并称“郊寒岛瘦”。这首诗却很少见地写得豪爽有力。",
+  "en": "Jia Dao (779–843) was a Tang poet. As a young man he became a Buddhist monk, then left the temple. He took the imperial exams many times without passing, and only ever held small posts. He worked on every word for a long time. The Chinese word for weighing your words, tuī qiāo (push or knock), comes from a story about him. People paired him with Meng Jiao as two poets of thin, cold, hard-won verse. This poem, unusually for him, is bold and strong."
+ },
+ "appreciation": {
+  "zh": "这首诗只有二十个字，却像一个剑客站在你面前说话。第一句“十年磨一剑”，写出了长久的努力和耐心，十年只做一件事。第二句说剑已经像霜一样锋利，可是还没用过，让人感到一种憋着的力量。后两句剑客把剑拿出来，直接问：“谁有不平事？”意思是：谁受了欺负，我替他出头！语气干脆，又有一股侠气。读这首诗，可以想象一个人静静磨剑多年，今天终于可以把本事拿出来，帮别人讨回公道。今天人们常用“十年磨一剑”比喻长期下苦功夫做好一件事。",
+  "en": "The poem has only twenty characters, yet it feels like a swordsman standing in front of you and talking. The first line, ten years grinding one sword, shows long effort and patience: ten years spent on one thing. The second line says the blade is now sharp as frost, but it has never been used. You can feel strength held back, waiting. In the last two lines he shows you the sword and asks straight out: who has been treated unfairly? He means: if someone has been wronged, I will stand up for them. The words are short and bold, full of a knight's spirit. Picture a man quietly sharpening a sword for years, and today he can finally use his skill to set things right for others. Today people still say ten years grinding one sword to mean working hard on one thing for a long time."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "ambition",
+   "sword",
+   "hero",
+   "justice"
+  ]
+ },
+ "uncertain": []
+}

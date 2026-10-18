@@ -1,0 +1,379 @@
+{
+ "id": "ci-23f974ba1b62",
+ "kind": "ci",
+ "title": "点绛唇·试灯夜初晴",
+ "title_en": "Dian Jiang Chun: Clear Skies on the Night of the Lantern Preview",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（点绛唇，双调四十一字）",
+  "en": "ci lyric to the tune Dian Jiang Chun, two stanzas, 41 characters"
+ },
+ "lines": [
+  [
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "娥",
+    "é"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "梳",
+    "shū"
+   ],
+   [
+    "洗",
+    "xǐ"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "酥",
+    "sū"
+   ],
+   [
+    "润",
+    "rùn"
+   ],
+   [
+    "凌",
+    "líng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "辇",
+    "niǎn"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "仿",
+    "fǎng"
+   ],
+   [
+    "佛",
+    "fú"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "熏",
+    "xūn"
+   ],
+   [
+    "被",
+    "bèi"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "笙",
+    "shēng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重：读 chóng，再一次。",
+   "en": "Read chóng here: again, once more."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "卷尽：全都卷走了。",
+   "en": "juǎn jìn: swept all away."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "愁云：让人发愁的阴云。",
+   "en": "chóu yún: gloomy clouds that make one sad."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "素娥：嫦娥，月亮里的仙女。这里指月亮。",
+   "en": "sù é: Chang'e, the goddess in the moon. Here it means the moon itself."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "临夜：到了夜里。",
+   "en": "lín yè: as night comes."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "新梳洗：刚刚梳过头、洗过脸。形容雨后的月亮又干净又明亮。",
+   "en": "xīn shū xǐ: has just combed her hair and washed her face. The moon after rain looks fresh and bright."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "暗尘：黑暗中扬起的尘土。唐代苏味道写元宵有“暗尘随马去”的句子。",
+   "en": "àn chén: dust stirred up in the dark. A Tang poem about the Lantern Festival by Su Weidao says dust follows the horses."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "酥润：像酥油一样柔软湿润。雨后地面湿润，所以没有尘土。",
+   "en": "sū rùn: soft and moist like butter. After the rain the ground is damp, so no dust rises."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "凌波：形容美人走路轻盈，好像踩在水波上。出自曹植《洛神赋》“凌波微步”。这里指女子走过的路。",
+   "en": "líng bō: walking lightly as if on waves, a phrase from Cao Zhi's Rhapsody on the Goddess of the Luo River. Here it means the road where women walk."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "辇路：皇帝的车驾走的大路，这里指京城的大街。辇，皇帝坐的车。",
+   "en": "niǎn lù: the road for the emperor's carriage, here the main streets of the capital. Niǎn is the emperor's carriage."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "仿佛：好像。",
+   "en": "fǎng fú: seemingly, as if."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "灯前事：从前在花灯下发生的事，指和心爱的人一起看灯。",
+   "en": "dēng qián shì: what happened by the lanterns long ago, seeing the lights with someone he loved."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "情如水：感情像流水一样，绵绵不断，也像流水一样一去不回。",
+   "en": "qíng rú shuǐ: feelings like water, flowing on and on, and also gone like water that never returns."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "熏被：用香料把被子熏香。",
+   "en": "xūn bèi: scenting the quilt with incense."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "笙歌：吹笙唱歌，泛指热闹的音乐和歌声。笙，一种用竹管做的乐器。",
+   "en": "shēng gē: music and song. The shēng is a wind instrument made of bamboo pipes."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "让人发愁的阴云全被卷走了，",
+   "en": "The gloomy clouds have all been swept away."
+  },
+  {
+   "zh": "月亮像刚刚梳洗过的嫦娥，在夜里格外明亮。",
+   "en": "At nightfall the moon is bright, like Chang'e freshly combed and washed."
+  },
+  {
+   "zh": "黑暗里扬不起一点灰尘，",
+   "en": "No dust rises in the dark,"
+  },
+  {
+   "zh": "女子走过的路面，湿润柔软得像酥油。",
+   "en": "and the road where the ladies walk is soft and moist as butter."
+  },
+  {
+   "zh": "我又来到京城的大街上，",
+   "en": "Once again I come to the great streets of the capital."
+  },
+  {
+   "zh": "好像又看见了从前花灯前的往事。",
+   "en": "It seems I see again what happened by the lanterns long ago."
+  },
+  {
+   "zh": "那份感情像流水一样，",
+   "en": "That love was like flowing water."
+  },
+  {
+   "zh": "如今我只能在小楼里熏着香被，",
+   "en": "Now, in a small upstairs room, I scent my quilt with incense,"
+  },
+  {
+   "zh": "在春梦里重新听到那热闹的笙歌。",
+   "en": "and in a spring dream I hear the music and songs again."
+  }
+ ],
+ "background": {
+  "zh": "题目里的“试灯”，是元宵节前几天先把花灯点起来试一试，人们也会出门提前看灯。这一天下过雨，夜里天刚放晴。吴文英走到京城（一般认为是南宋都城临安，就是今天的杭州）的大街上，想起从前和心爱的人一起看灯的情景，写下了这首词。具体哪一年写的，不清楚。",
+  "en": "The title's shì dēng, or lantern preview, means lighting the lanterns a few days before the Lantern Festival to test them. People would also go out early to see them. On this day it had rained, and at night the sky had just cleared. Wu Wenying walked the streets of the capital, usually taken to be Lin'an, today's Hangzhou. He remembered seeing the lanterns with someone he loved, and wrote this lyric. We do not know the year."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，四明（今浙江宁波）人，南宋词人。他一生没有做过官，常在官员家里做幕僚，就是帮忙出主意、写文书的人。他的词用字华丽，画面很密，常常回忆旧日的爱情，带着一种梦一样的感觉。他留下的词有三百多首，叫《梦窗词》。",
+  "en": "Wu Wenying (about 1200 to about 1260), also called Mengchuang, was a Southern Song lyric poet from Siming, today's Ningbo. He never held an official post. He worked as an assistant to officials, giving advice and writing letters. His lyrics are rich in words and packed with images. He often looked back on old loves, with a dreamlike feeling. More than three hundred of his lyrics survive, in a collection called Mengchuang Ci."
+ },
+ "appreciation": {
+  "zh": "上半首写眼前：雨停了，阴云散了，月亮像刚洗过脸的嫦娥一样干净明亮。地面湿湿的，走路不起灰尘。这本该是看灯的好夜晚。下半首写心里：走在熟悉的大街上，好像又回到了从前那个灯下的夜晚。可是“情如水”，往事像流水一样回不来了。最后他不去街上热闹，而是回到小楼，熏好被子睡觉，只在春梦里再听一听当年的笙歌。外面越热闹越明亮，他心里就越冷清。整首词很短，却把一个人的回忆和孤单写得很轻、很淡，又很长。",
+  "en": "The first half shows what he sees. The rain has stopped, the clouds are gone, and the moon is clean and bright like Chang'e after washing her face. The ground is damp, so no dust rises. It should be a perfect night for lanterns. The second half shows what he feels. Walking the familiar streets, he seems to be back on that night by the lanterns long ago. But 'love is like water': the past has flowed away and will not come back. In the end he does not join the crowds. He goes back to his small room, scents his quilt and goes to sleep, hearing the old music only in a spring dream. The brighter and busier the world outside, the lonelier he is inside. The lyric is short, but its memory and loneliness feel light, soft and long-lasting."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "lantern",
+   "moon",
+   "memory",
+   "love",
+   "lonely"
+  ]
+ },
+ "uncertain": []
+}

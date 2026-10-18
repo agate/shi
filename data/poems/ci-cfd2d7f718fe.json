@@ -1,0 +1,444 @@
+{
+ "id": "ci-cfd2d7f718fe",
+ "kind": "ci",
+ "title": "虞美人·寄公度",
+ "title_en": "The Beauty Yu: Sent to Gongdu",
+ "author": "舒亶",
+ "author_en": "Shu Dan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·虞美人（双调）",
+  "en": "ci lyric to the tune Yu Mei Ren, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "芙",
+    "fú"
+   ],
+   [
+    "蓉",
+    "róng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涵",
+    "hán"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "背",
+    "bèi"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "贴",
+    "tiē"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "看",
+    "kàn"
+   ]
+  ],
+  [
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "台",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "赠",
+    "zèng"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "梅",
+    "méi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "词题“寄公度”是通行本的题目，资料库只有词牌。第三句资料库作“帖云寒”，通行本作“贴云寒”，意思相同。",
+  "en": "The title Sent to Gongdu comes from common editions; the corpus gives only the tune name. In line three the corpus uses an older form of the character tiē (to cling); common editions use the modern one. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 8,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "“看”今天读 kàn。这里在韵脚上，古代读平声 kān，和“寒”押韵。",
+   "en": "Today this is read kàn. Here it ends a rhyming line, and in old times it was read kān, rhyming with hán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "芙蓉：荷花。",
+   "en": "fú róng: lotus flowers."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "落尽：全部凋落了，说明已经是秋末。",
+   "en": "luò jìn: all fallen, which shows it is late autumn."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "天涵水：天空倒映在水中，水天连成一片。涵，包含、沉浸。",
+   "en": "tiān hán shuǐ: the sky is held in the water, water and sky become one. Hán means to contain, to soak in."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "沧波：青绿色的水波。",
+   "en": "cāng bō: blue-green waves."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "背飞：背对着背，朝相反的方向飞。",
+   "en": "bèi fēi: flying back to back, in opposite directions."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "贴云寒：贴着寒冷的云层飞。",
+   "en": "tiē yún hán: flying close against the cold clouds."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "东畔：东边。",
+   "en": "dōng pàn: the east side."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 8,
+   "zh": "倚阑：靠着栏杆。",
+   "en": "yǐ lán: leaning on the railing."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "浮生：人生。古人觉得人生像水上漂浮的东西，没有定准。",
+   "en": "fú shēng: this floating life. People of old felt life drifts like something on water, never settled."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "只合：只应该、只适合。",
+   "en": "zhǐ hé: should only, is only fit for."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "尊前：酒杯前，指饮酒。尊，酒杯。",
+   "en": "zūn qián: before the wine cup, that is, drinking. Zūn is a wine vessel."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "长安道：通往京城的路。长安本是汉唐的都城，这里代指北宋的京城汴京。",
+   "en": "cháng ān dào: the road to the capital. Chang'an was the capital of Han and Tang; here it stands for the Northern Song capital, Bianjing."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友，这里指公度。",
+   "en": "gù rén: an old friend, here Gongdu."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "早晚：什么时候，或者不久以后。",
+   "en": "zǎo wǎn: some day, or before long."
+  },
+  {
+   "line": 7,
+   "start": 6,
+   "end": 9,
+   "zh": "一枝梅：南北朝时陆凯从江南折梅花寄给远方的朋友范晔，写诗说“江南无所有，聊赠一枝春”。这里用这个故事，盼朋友寄来问候。",
+   "en": "yī zhī méi: a sprig of plum. Long ago Lu Kai picked a plum branch in Jiangnan and sent it to his far-off friend Fan Ye, with a poem saying Jiangnan had nothing better, so he sent one branch of spring. The line borrows this story, hoping the friend will send greetings."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "荷花已经落尽，天空倒映在水里，",
+   "en": "The lotus flowers have all fallen, and the sky lies in the water;"
+  },
+  {
+   "zh": "傍晚时分，青绿的水波涌起。",
+   "en": "at dusk, blue-green waves rise."
+  },
+  {
+   "zh": "一对燕子背对背飞去，贴着寒冷的云层，",
+   "en": "A pair of swallows fly apart, back to back, close against the cold clouds;"
+  },
+  {
+   "zh": "我独自来到小楼东边，靠着栏杆远望。",
+   "en": "alone, I go to the east side of the little tower and lean on the rail to look."
+  },
+  {
+   "zh": "漂泊的人生，只适合在酒杯前慢慢变老，",
+   "en": "This floating life is fit only for growing old before the wine cup;"
+  },
+  {
+   "zh": "大雪铺满了通往京城的大路。",
+   "en": "snow covers the road to the capital."
+  },
+  {
+   "zh": "老朋友啊，哪天你登上高台的时候，",
+   "en": "Old friend, some day when you climb a high terrace,"
+  },
+  {
+   "zh": "请寄给我一枝江南的梅花，捎来春天。",
+   "en": "send me a sprig of plum, a piece of Jiangnan's spring."
+  }
+ ],
+ "background": {
+  "zh": "这是舒亶写给朋友公度的词。“寄”就是寄给远方的人。从荷花落尽、大雪满路来看，写的是秋末到冬天的景色。词人独自登楼，看见燕子分飞，想起了远方的朋友。公度是谁，具体写在哪一年，已经说不清了。下片“雪满长安道”，一说是写去京城的路又远又难走，也暗指做官的路不顺。",
+  "en": "Shu Dan wrote this ci for his friend Gongdu. The title word jì means to send something to someone far away. Fallen lotus and snow-covered roads show the scene is late autumn into winter. The poet climbs a tower alone, sees swallows flying apart, and thinks of his distant friend. We no longer know who Gongdu was or what year it was written. One reading says the snowy road to the capital shows that the way there is long and hard, and also hints that his life as an official is not going well."
+ },
+ "author_note": {
+  "zh": "舒亶（1041—1103），字信道，明州慈溪（今浙江宁波一带）人，北宋官员、词人。他做御史时，参与弹劾苏轼，就是有名的“乌台诗案”，所以历史上名声不太好。可是他的词写得清新含蓄，这首是他最有名的作品。",
+  "en": "Shu Dan (1041–1103) came from Cixi in Mingzhou, near today's Ningbo in Zhejiang. He was a Northern Song official and ci poet. As a censor he helped bring charges against Su Shi in the famous Crow Terrace poetry case, so history does not remember him kindly. Yet his ci are fresh and gentle, and this is his best-known work."
+ },
+ "appreciation": {
+  "zh": "上片是一幅冷清的画：荷花谢了，水天一色，傍晚起了波浪；一对燕子却背对背飞开，贴着冷冷的云。燕子本该成双，现在分开了，就像词人和朋友。他一个人靠着栏杆看了很久。下片说心里话：人生漂泊不定，不如喝酒度日；外面大雪封路，世事也不顺心。最后一转，盼着朋友登高时想起他，寄来一枝江南的梅花。雪天里的一枝梅，就是一点春天，也是朋友之间最暖的问候。",
+  "en": "The first stanza is a cold, lonely picture. The lotus has faded, water and sky are one color, and waves rise at dusk. A pair of swallows fly apart, back to back, close to the cold clouds. Swallows should stay in pairs, but these have split, just like the poet and his friend. He leans on the rail alone for a long time. The second stanza speaks from the heart. Life drifts and is never settled, so he might as well pass the days drinking. Outside, snow blocks the roads, and the world does not go his way either. Then the last lines turn: he hopes that when his friend climbs a high place, he will think of him and send a sprig of Jiangnan plum. One plum branch on a snowy day is a little piece of spring, and the warmest greeting between friends."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn",
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "plum",
+   "snow",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

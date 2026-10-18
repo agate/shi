@@ -1,0 +1,404 @@
+{
+ "id": "ci-9ed1756de64d",
+ "kind": "ci",
+ "title": "菩萨蛮·哀筝一弄湘江曲",
+ "title_en": "Pu Sa Man: A Sad Zheng Plays the Xiang River Tune",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《菩萨蛮》，双调四十四字",
+  "en": "ci to the tune Pu Sa Man, 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "哀",
+    "āi"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "写",
+    "xiě"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "指",
+    "zhǐ"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "弦",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "传",
+    "chuán"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "筵",
+    "yán"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "慢",
+    "màn"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "柱",
+    "zhù"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "黛",
+    "dài"
+   ],
+   [
+    "低",
+    "dī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 6,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "“湘江曲”的“曲”指乐曲，读 qǔ，不读 qū。",
+   "en": "In xiang jiang qu this character means a tune and is read qǔ, not qū as in bent."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "哀筝：声音悲哀的筝。筝是一种平放着、用手指弹的长形弦乐器。",
+   "en": "āi zhēng: a zheng with a sad sound. The zheng is a long string instrument laid flat and plucked with the fingers."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "一弄：弹奏一曲。弄，演奏。",
+   "en": "yī nòng: to play a piece. Nòng means to play music."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "湘江曲：和湘江有关的曲子。传说舜的两个妃子在湘江边哭念死去的舜，这类曲子多很哀伤。",
+   "en": "xiāng jiāng qǔ: a tune about the Xiang River. Legend says the two wives of the ancient ruler Shun wept for him by the Xiang, so such tunes are usually sad."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "写尽：完全表现出来。",
+   "en": "xiě jìn: to show completely."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "湘波绿：湘江碧绿的水波。",
+   "en": "xiāng bō lǜ: the green waves of the Xiang River."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "纤指：细长的手指。",
+   "en": "xiān zhǐ: slender fingers."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "十三弦：唐宋时的筝一般有十三根弦，这里就指筝。",
+   "en": "shí sān xián: thirteen strings. In Tang and Song times the zheng usually had thirteen strings, so this means the zheng."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "细将：细细地把……",
+   "en": "xì jiāng: carefully taking..."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "幽恨：藏在心底的愁恨。",
+   "en": "yōu hèn: sorrow hidden deep in the heart."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "当筵：在酒席上。筵，酒席。",
+   "en": "dāng yán: at the banquet. Yán means a feast."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "秋水慢：清亮的眼睛慢慢地流转。秋水，比喻女子像秋天的水一样清澈的眼睛。",
+   "en": "qiū shuǐ màn: her clear eyes moving slowly. Qiū shuǐ, autumn water, is an old way to describe a woman's bright clear eyes."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "玉柱：筝上支撑琴弦的小柱子，这里形容它精美如玉。",
+   "en": "yù zhù: the small bridges on the zheng that hold up the strings, fine as jade."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "斜飞雁：筝柱一个个斜着排开，像一行斜飞的大雁。",
+   "en": "xié fēi yàn: the bridges stand in a slanting row, like a line of wild geese flying."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "断肠：伤心到了极点。",
+   "en": "duàn cháng: heartbreak at its deepest."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "春山：春天的青山，比喻女子画的眉毛。",
+   "en": "chūn shān: green spring hills, an old way to describe a woman's painted eyebrows."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "眉黛：眉毛。黛，古代女子画眉用的青黑色颜料。",
+   "en": "méi dài: eyebrows. Dài is the dark pigment women once used to paint their brows."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "低：低垂，这里指皱起眉头、低下头。",
+   "en": "dī: lowered, here meaning she knits her brows and bows her head."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "悲哀的筝声弹起一支湘江的曲子，",
+   "en": "A sad zheng plays a tune of the Xiang River;"
+  },
+  {
+   "zh": "每一声都把湘江碧绿的水波写尽了。",
+   "en": "every note paints the green waves of the Xiang."
+  },
+  {
+   "zh": "她纤细的手指在十三根弦上拨动，",
+   "en": "Her slender fingers move over the thirteen strings,"
+  },
+  {
+   "zh": "细细地把心底的愁恨传了出来。",
+   "en": "carefully passing on the sorrow hidden in her heart."
+  },
+  {
+   "zh": "在酒席上，她清亮的眼睛慢慢流转，",
+   "en": "At the banquet her clear eyes move slowly;"
+  },
+  {
+   "zh": "如玉的筝柱斜斜排开，像一行飞雁。",
+   "en": "the jade bridges stand slanting like a line of flying geese."
+  },
+  {
+   "zh": "弹到最伤心的地方，",
+   "en": "When she plays to the most heartbreaking part,"
+  },
+  {
+   "zh": "她那青山一样的眉毛低低地垂了下来。",
+   "en": "her brows, like spring hills, droop low."
+  }
+ ],
+ "background": {
+  "zh": "这首词写在酒席上听一位女子弹筝。她弹的是一支和湘江有关的悲伤曲子，弹着弹着，自己也伤心起来，低下了眉头。写作的具体时间和这位女子是谁都不清楚。晏几道年轻时常和朋友在宴席上听歌女唱歌弹琴，他的词里写了很多这样的女子，带着深深的同情。",
+  "en": "This ci is about listening to a woman play the zheng at a banquet. She plays a sad tune about the Xiang River, and as she plays she grows sad herself and lowers her brows. We do not know when it was written or who the woman was. When young, Yan Jidao often listened to singing girls play and sing at feasts with his friends. Many of his ci are about such women, written with deep sympathy."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是北宋宰相晏殊的小儿子。他年轻时过着富贵的生活，常和朋友饮酒听歌。后来家道中落，一生只做过小官。他的词多写歌女、离别和对旧日欢聚的怀念，感情真挚，语言清丽。",
+  "en": "Yan Jidao (about 1038 to about 1110), styled Shuyuan, also called Xiaoshan, was the youngest son of the Northern Song chief minister Yan Shu. When young he lived in wealth and often drank and listened to songs with friends. Later his family declined, and he only held small posts. His ci are mostly about singing girls, parting and memories of happy gatherings long ago, with true feeling and clear words."
+ },
+ "appreciation": {
+  "zh": "这首词把声音、动作和表情写在一起。上片写声音：哀伤的筝弹起湘江曲，每一声都像碧绿的湘江水在流，悲伤的传说也跟着流了出来。她的手指在弦上细细地拨，把心里的愁恨也弹了进去。下片写人：她在酒席上一边弹，一边眼波慢慢流转，筝柱斜排像一行大雁。弹到最伤心的地方，她的眉毛低了下来。曲子里的悲伤和她自己的心事分不开了，听的人也跟着心里一酸。",
+  "en": "This ci puts sound, movement and face together. The first stanza is about sound. The sad zheng plays the Xiang River tune, and each note seems to flow like the green Xiang water, carrying the old sad legend with it. Her fingers pluck the strings with care, playing her own sorrow into the music. The second stanza is about her. At the banquet her eyes move slowly as she plays, and the bridges of the zheng slant like a line of geese. When she reaches the saddest part, her brows droop. The sorrow of the tune and her own hidden grief can no longer be told apart, and the listener's heart aches too."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "music",
+   "banquet",
+   "sorrow",
+   "singing-girl"
+  ]
+ },
+ "uncertain": []
+}

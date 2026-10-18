@@ -1,0 +1,399 @@
+{
+ "id": "b881b056-6d92-45e8-9620-4710a375776f",
+ "kind": "shi",
+ "title": "和晋陵陆丞早春游望",
+ "title_en": "Replying to Assistant Magistrate Lu of Jinling: Gazing Out on an Early Spring Outing",
+ "author": "杜审言",
+ "author_en": "Du Shenyan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "宦",
+    "huàn"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "偏",
+    "piān"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "新",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "霞",
+    "xiá"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "曙",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "淑",
+    "shū"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ]
+  ],
+  [
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "蘋",
+    "pín"
+   ]
+  ],
+  [
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "调",
+    "diào"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "巾",
+    "jīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料本第六句作“晴光转绿苹”，“苹”是繁体“蘋”机器转换的错字，这里改回“蘋”。其他文字和通行本相同。",
+  "en": "The corpus writes the sixth line with the apple character for píng. That is a slip from machine conversion of the traditional character for pín, water clover, which is restored here. The rest matches the common text."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "蘋",
+   "pinyin": "pín",
+   "zh": "蘋读 pín，是一种长在浅水里的草，也叫田字草。它和“苹果”的“苹”（píng）本来是两个字，机器把繁体转成简体时常常错写成“苹”。",
+   "en": "Here the character is pín, a small water plant also called water clover. It is a different word from píng (apple). Machine conversion to simplified characters often writes it wrongly as the apple character."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "“归思”的“思”是名词，意思是心思、念头。现在一般读 sī；古时候作名词读 sì（去声）。",
+   "en": "In guī sī the character sī is a noun meaning thoughts or longing. Today it is usually read sī. In old times the noun was read sì, with a falling tone."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "独有：只有。",
+   "en": "dú yǒu: only."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "宦游人：离开家乡、到外地做官的人。这里是诗人说自己。",
+   "en": "huàn yóu rén: someone who has left home to work as an official far away. Here the poet means himself."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "偏：特别，格外。",
+   "en": "piān: especially, more than others."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "惊：吃惊，心里一动。",
+   "en": "jīng: to be startled, to feel a jolt inside."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "物候：随着季节变化的景物，比如花开、草绿、鸟叫。",
+   "en": "wù hòu: the signs of the season in nature, such as flowers opening, grass turning green and birds singing."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "曙：天刚亮的时候。",
+   "en": "shǔ: daybreak, when the sky first gets light."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "梅柳：梅花和柳树。",
+   "en": "méi liǔ: plum blossoms and willow trees."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "渡江春：春天渡过了长江。江南的梅花开了、柳树绿了，春意好像从江南渡江来到了江北。",
+   "en": "dù jiāng chūn: spring crosses the river. The plums bloom and the willows turn green south of the Yangtze first, as if spring were crossing the river northward."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "淑气：温和的春天气息。淑，美好。",
+   "en": "shū qì: the mild, warm air of spring. Shū means good and gentle."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "催：催促。",
+   "en": "cuī: to urge, to hurry along."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "黄鸟：黄莺，一种叫声好听的鸟。",
+   "en": "huáng niǎo: the oriole, a yellow bird with a lovely song."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "转：使……改变。阳光让蘋草的颜色变得更绿。",
+   "en": "zhuǎn: to turn, to change. The sunlight makes the water plants turn a deeper green."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "绿蘋：绿色的蘋草，一种浮在浅水上的小草。",
+   "en": "lǜ pín: green water clover, a small plant floating in shallow water."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "歌：唱。这里指吟诵。",
+   "en": "gē: to sing. Here it means to chant a poem."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "古调：古朴的曲调，指陆丞写的那首诗，夸它格调高雅。",
+   "en": "gǔ diào: an old-style tune. It means the poem Assistant Magistrate Lu wrote, praising it as noble and elegant."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "归思：想回家的心思。",
+   "en": "guī sī: the longing to go home."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "沾巾：眼泪打湿了手巾。",
+   "en": "zhān jīn: tears wet the handkerchief."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "只有离开家乡、在外做官的人，",
+   "en": "Only a man who has left home to serve as an official"
+  },
+  {
+   "zh": "才会对季节景物的变化格外吃惊。",
+   "en": "is so startled by the new signs of the season."
+  },
+  {
+   "zh": "清晨，云霞从海上升起，天亮了。",
+   "en": "At dawn, rosy clouds rise out of the sea as day breaks."
+  },
+  {
+   "zh": "梅花开了，柳树绿了，春天渡过了长江。",
+   "en": "Plums bloom and willows turn green; spring crosses the river."
+  },
+  {
+   "zh": "温暖的春气催着黄莺歌唱，",
+   "en": "The warm spring air urges the orioles to sing."
+  },
+  {
+   "zh": "晴朗的阳光让水里的蘋草更绿了。",
+   "en": "The bright sunshine turns the water clover a deeper green."
+  },
+  {
+   "zh": "忽然听到你吟唱古朴的诗篇，",
+   "en": "Suddenly I hear you chant your old-style poem,"
+  },
+  {
+   "zh": "想家的心思涌上来，眼泪快要打湿手巾。",
+   "en": "and longing for home rises until my tears nearly wet my handkerchief."
+  }
+ ],
+ "background": {
+  "zh": "题目里的“和”读 hè，意思是照着别人诗的题目和意思写一首来应答。晋陵是今天的江苏常州一带，陆丞是一位姓陆的县丞（县里的副长官），名字已经不清楚了。陆丞写了一首《早春游望》，杜审言写这首诗来应和。一般认为，这时杜审言在江阴（今江苏江阴）做县丞，大约是武则天永昌元年（689年）前后，他离开家乡已经多年了。",
+  "en": "In the title, hè means writing a poem in reply to a friend's poem, on the same subject. Jinling is the area of today's Changzhou in Jiangsu. Lu was an assistant magistrate, the second official of a county, whose full name is no longer known. Lu wrote a poem called \"Gazing Out on an Early Spring Outing\", and Du Shenyan wrote this one in reply. It is usually thought that Du was then assistant magistrate of Jiangyin, around the year 689, and had been away from home for many years."
+ },
+ "author_note": {
+  "zh": "杜审言（约645—708），初唐诗人，是大诗人杜甫的祖父。他和李峤、崔融、苏味道并称“文章四友”。他写的五言律诗格律工整，对后来律诗的成熟很有影响。杜甫曾说“吾祖诗冠古”，很为祖父的诗自豪。",
+  "en": "Du Shenyan (about 645–708) was an early Tang poet and the grandfather of the great poet Du Fu. He was one of the Four Friends of Letters, along with Li Qiao, Cui Rong and Su Weidao. His five-character regulated poems follow the strict rules neatly, and they helped this form grow mature. Du Fu once wrote that his grandfather's poems were the best of their time, and he was proud of them."
+ },
+ "appreciation": {
+  "zh": "第一联就点出主题：只有离家做官的人，才对季节变化这么敏感。在家乡的人天天看着春来，不觉得稀奇；可在外地的人一看到新景色，就想到又过了一年，还没回家。中间两联写早春：太阳从海上升起，云霞满天；梅花柳树把春天带过江来；黄莺在暖风里唱歌，蘋草在阳光下发绿。景色越美，越显出他乡的春天不是自己的。最后听到朋友的诗，想家的心再也压不住，泪水快要流下来。明代胡应麟把它评为初唐五律第一。",
+  "en": "The first two lines give the theme. Only someone far from home, serving as an official, notices the change of season so sharply. People at home watch spring come every day and find it ordinary. But a man far away sees the new scenery and thinks: another year has gone, and I still have not gone home. The middle four lines paint early spring. The sun rises over the sea in rosy clouds. Plums and willows carry spring across the river. Orioles sing in the warm wind, and water plants shine green in the sun. The lovelier the scene, the more it feels like someone else's spring. At the end, hearing his friend's poem, he cannot hold back his homesickness, and tears almost fall. The Ming critic Hu Yinglin called it the best five-character regulated poem of the early Tang."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "official-life",
+   "early-spring",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

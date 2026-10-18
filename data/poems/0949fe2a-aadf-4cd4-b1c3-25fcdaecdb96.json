@@ -1,0 +1,468 @@
+{
+ "id": "0949fe2a-aadf-4cd4-b1c3-25fcdaecdb96",
+ "kind": "shi",
+ "title": "积雨辋川庄作",
+ "title_en": "Written at My Wangchuan Farm After Long Rain",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "积",
+    "jī"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "蒸",
+    "zhēng"
+   ],
+   [
+    "藜",
+    "lí"
+   ],
+   [
+    "炊",
+    "chuī"
+   ],
+   [
+    "黍",
+    "shǔ"
+   ],
+   [
+    "饷",
+    "xiǎng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "菑",
+    "zī"
+   ]
+  ],
+  [
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鹭",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "夏",
+    "xià"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "啭",
+    "zhuàn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹂",
+    "lí"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "习",
+    "xí"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "观",
+    "guān"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "槿",
+    "jǐn"
+   ]
+  ],
+  [
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "斋",
+    "zhāi"
+   ],
+   [
+    "折",
+    "zhé"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "葵",
+    "kuí"
+   ]
+  ],
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "席",
+    "xí"
+   ],
+   [
+    "罢",
+    "bà"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "疑",
+    "yí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "菑",
+   "pinyin": "zī",
+   "zh": "菑在这里指田地，读 zī，不读 zāi。",
+   "en": "Here this character means a farm field and is read zī, not zāi."
+  },
+  {
+   "line": 4,
+   "pos": 5,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝槿的“朝”是早晨的意思，读 zhāo。",
+   "en": "In this word the character means morning, so it is read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "积雨：下了很久的雨。",
+   "en": "jī yǔ: rain that has gone on for many days."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "空林：安静、没有什么人的树林。",
+   "en": "kōng lín: a quiet wood with hardly anyone in it."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "烟火迟：雨天空气潮湿，做饭的炊烟慢慢地升起来。",
+   "en": "yān huǒ chí: in the damp air, the smoke from cooking fires rises slowly."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "藜：一种野菜，嫩叶可以吃。",
+   "en": "lí: a wild plant whose young leaves can be eaten."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "黍：黄米，一种粮食。",
+   "en": "shǔ: broomcorn millet, a kind of grain."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "饷：给在地里干活的人送饭。",
+   "en": "xiǎng: to bring food to people working in the fields."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "东菑：东边的田地。菑，开垦过的田。",
+   "en": "dōng zī: the fields to the east. Zī means farmland that has been cleared."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "漠漠：一大片、望不到边的样子。",
+   "en": "mò mò: spreading wide, as far as the eye can see."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "阴阴：树木茂密、浓荫一片的样子。",
+   "en": "yīn yīn: thick and shady, as under leafy trees."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "啭：鸟儿婉转地叫。",
+   "en": "zhuàn: for a bird to sing in a rolling, tuneful way."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "黄鹂：一种黄色的鸟，叫声好听。",
+   "en": "huáng lí: the oriole, a yellow bird with a sweet song."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "习静：练习让心安静下来，类似静坐修心。",
+   "en": "xí jìng: practicing calm, like sitting quietly to settle the mind."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "朝槿：木槿花。它早上开花，到傍晚就凋谢了。",
+   "en": "zhāo jǐn: the rose of Sharon. Its flowers open in the morning and fade by evening."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "清斋：吃素，过清淡简单的日子。",
+   "en": "qīng zhāi: eating plain vegetarian food and living simply."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "露葵：带着露水的葵菜。葵菜是古代常吃的一种蔬菜。",
+   "en": "lù kuí: mallow greens with dew on them. Mallow was a common vegetable in old times."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "野老：乡下老人，这里是王维自称。",
+   "en": "yě lǎo: an old man of the countryside. Here Wang Wei means himself."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "争席：争座位。出自《庄子》：有个人刚来时旅店的人都恭敬地给他让座，后来他放下了架子，大家就随便和他争座位了。意思是和普通人打成一片，没有隔阂。",
+   "en": "zhēng xí: fighting over seats. It comes from the book Zhuangzi. When a certain man first arrived at an inn, everyone gave up their seats to him politely. Later he dropped his proud airs, and people pushed him for a seat like anyone else. It means mixing freely with ordinary people."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 7,
+   "zh": "海鸥何事更相疑：出自《列子》：海边有人喜欢海鸥，海鸥天天和他一起玩。他父亲叫他抓一只回来，第二天海鸥就只在天上飞，不肯下来了。这里说：我已经没有一点机心，海鸥为什么还要怀疑我呢？",
+   "en": "hǎi ōu hé shì gèng xiāng yí: this comes from the book Liezi. A man by the sea loved the gulls, and they played with him every day. His father told him to catch one. The next day the gulls only circled in the sky and would not come down. Here it means: I no longer have any scheming in my heart, so why would the gulls still doubt me?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "雨下了很多天，林子里静悄悄的，炊烟慢慢升起。",
+   "en": "After many days of rain, the woods are quiet, and the cooking smoke rises slowly."
+  },
+  {
+   "zh": "人们蒸好野菜，煮好黄米饭，送给东边田里干活的人。",
+   "en": "People steam wild greens and cook millet, and carry the food to the workers in the eastern fields."
+  },
+  {
+   "zh": "一大片水田上，白鹭飞来飞去。",
+   "en": "Over the wide flooded rice fields, white egrets fly."
+  },
+  {
+   "zh": "浓密的夏日树荫里，黄鹂在婉转歌唱。",
+   "en": "In the deep shade of the summer trees, orioles sing."
+  },
+  {
+   "zh": "我在山里练习静心，看着早开晚落的木槿花。",
+   "en": "In the mountains I practice calm, watching the rose of Sharon that blooms at dawn and fades at dusk."
+  },
+  {
+   "zh": "在松树下吃素斋，摘下带露水的葵菜。",
+   "en": "Under the pines I keep a plain meal, picking mallow greens wet with dew."
+  },
+  {
+   "zh": "我这个乡下老人早就和别人不分你我了。",
+   "en": "This old countryman has long stopped standing apart from other people."
+  },
+  {
+   "zh": "海鸥啊，你们为什么还要怀疑我呢？",
+   "en": "So why, you gulls, would you still be wary of me?"
+  }
+ ],
+ "background": {
+  "zh": "辋川在今天陕西蓝田县的山里。王维中年以后在这里买下一座别墅，常常住在里面，一边做官，一边过着隐居的日子。这首诗写的是夏天连日下雨后，他在辋川别墅看到的田园景色，和自己安静修心的生活。具体写于哪一年，没有确切的说法。",
+  "en": "Wangchuan is in the mountains of today's Lantian County in Shaanxi. In his middle years Wang Wei bought a country house there and often stayed in it. He kept his government post but lived much like a hermit. This poem describes the farm scenes he saw at Wangchuan after many days of summer rain, and his own quiet life. We do not know for sure which year it was written."
+ },
+ "author_note": {
+  "zh": "王维（701？—761），唐代大诗人，也是画家和音乐家，信奉佛教，被人称为“诗佛”。苏轼说他“诗中有画，画中有诗”。他写山水田园最拿手，这首诗就像一幅雨后的田园画。",
+  "en": "Wang Wei (701?–761) was a great Tang poet, and also a painter and musician. He was a devoted Buddhist and is called the Buddha of Poetry. The later writer Su Shi said there were paintings in his poems and poems in his paintings. He was best at mountains, rivers and farm life, and this poem reads like a painting of the countryside after rain."
+ },
+ "appreciation": {
+  "zh": "前四句是一幅农家雨后图。雨下久了，林子很静，炊烟慢慢升起；农家做好饭，送到田里。接着镜头拉远：一大片水田上白鹭飞着，这是看到的；浓浓树荫里黄鹂唱着，这是听到的。“漠漠”“阴阴”两个叠词，让画面又宽又深。后四句写自己：看木槿花早开晚谢，想到万物都会变；吃素、摘葵菜，过得清清淡淡。最后用两个古代故事说，我已经放下了一切心机，和乡下人、和鸟儿都能自在相处。整首诗安静、湿润，读起来心也跟着静了。",
+  "en": "The first four lines are a picture of a farm after rain. The rain has gone on so long that the woods are still, and cooking smoke drifts up slowly. Families cook and carry meals to the fields. Then the view widens. White egrets fly over broad wet fields: that is what we see. Orioles sing in the thick shade: that is what we hear. The doubled words mò mò and yīn yīn make the picture feel wide and deep. The last four lines are about the poet himself. He watches flowers that open at dawn and fall at dusk, and thinks how everything changes. He eats plain food and picks greens. At the end he uses two old stories to say he has let go of all scheming. He can live at ease with country people and even with birds. The whole poem is quiet and damp with rain, and reading it calms the heart."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "countryside",
+   "reclusion",
+   "birds",
+   "calm"
+  ]
+ },
+ "uncertain": []
+}

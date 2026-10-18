@@ -1,0 +1,810 @@
+{
+ "id": "ci-4b310f0f16fe",
+ "kind": "ci",
+ "title": "秋霁·江水苍苍",
+ "title_en": "Autumn Clearing: The River Water, Grey and Vast",
+ "author": "史达祖",
+ "author_en": "Shi Dazu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（长调）",
+  "en": "ci lyric (long form)"
+ },
+ "lines": [
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "苍",
+    "cāng"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "荷",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "感",
+    "gǎn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "废",
+    "fèi"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "凉",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "程",
+    "chéng"
+   ],
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "嫌",
+    "xián"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "力",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "息",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "渠",
+    "qú"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "碧",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "国",
+    "guó"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "脍",
+    "kuài"
+   ],
+   [
+    "鲈",
+    "lú"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "瘦",
+    "shòu"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "岑",
+    "cén"
+   ],
+   [
+    "寂",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "蛩",
+    "qióng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "屋",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "毛",
+    "máo"
+   ],
+   [
+    "白",
+    "bái"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "俊",
+    "jùn"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "得",
+    "dé"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "奈",
+    "nài"
+   ],
+   [
+    "苒",
+    "rǎn"
+   ],
+   [
+    "苒",
+    "rǎn"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "惊",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "剪",
+    "jiǎn"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "驿",
+    "yì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "这里按通行的简体本，最后一句作“剪梅烟驿”。语料作“翦梅”，“翦”是“剪”的老写法，意思一样。",
+  "en": "We follow common simplified editions, which write the last line with the everyday character for \"cut\". The corpus uses an older way of writing the same word; the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "渠",
+   "pinyin": "qú",
+   "zh": "渠：第三人称“它、他”，读 qú。",
+   "en": "qú: an old word for \"it\" or \"him\". Read qú."
+  },
+  {
+   "line": 10,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "还：又、仍然，读 hái。",
+   "en": "hái: again, still. Read hái, not huán."
+  },
+  {
+   "line": 16,
+   "pos": 1,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "年少：年轻的时候，少读 shào。",
+   "en": "nián shào: when young. Read shào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "苍苍：青灰色，一望无边的样子。",
+   "en": "cāng cāng: grey-green and stretching far."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 5,
+   "zh": "倦柳愁荷：像累了一样的柳树，像发愁一样的荷叶。说的是秋天枯黄的柳和荷。",
+   "en": "juàn liǔ chóu hé: tired-looking willows and sad-looking lotus, that is, willows and lotus withered by autumn."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "共感：一起感受到。",
+   "en": "gòng gǎn: to feel together."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "废阁：荒废的楼阁。",
+   "en": "fèi gé: a run-down, deserted tower."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "古帘空暮：旧帘子挂着，空空地对着傍晚。",
+   "en": "gǔ lián kōng mù: an old curtain hanging, facing the empty dusk."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "雁程：大雁飞行的路程。古人说大雁能传书信。",
+   "en": "yàn chéng: the wild geese's journey. People long ago said geese could carry letters."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "最嫌风力：最怕风大。也暗指书信难以送到。",
+   "en": "zuì xián fēng lì: what they most dislike is strong wind. It also hints that letters are hard to get through."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "故园信息：家乡的消息。",
+   "en": "gù yuán xìn xī: news from home."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 2,
+   "zh": "渠：它。一说指眼前的景物，一说指故园。",
+   "en": "qú: it. Some say it means the scene before him, others say his home."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "南山碧：南边山上的青翠颜色。",
+   "en": "nán shān bì: the deep green of the southern hills."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "上国：京城，这里指南宋都城临安（今浙江杭州）。",
+   "en": "shàng guó: the capital; here Lin'an, the Southern Song capital, today's Hangzhou in Zhejiang."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "脍鲈：把鲈鱼切成细丝做菜。晋代张翰在外做官，看到秋风起，想起家乡的鲈鱼，就辞官回家了。这里用这个故事表示想回家。",
+   "en": "kuài lú: finely sliced perch. In the Jin dynasty Zhang Han, serving far from home, saw the autumn wind rise, missed the perch of his hometown, and quit his post to go home. The story stands for longing to go home."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "江汉：长江和汉水一带，在今湖北。",
+   "en": "Jiang and Han: the area of the Yangtze and Han rivers, in today's Hubei."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "岁晚：一年快到头了。",
+   "en": "suì wǎn: the year is ending."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "瘦骨临风：瘦弱的身子迎着风站着。",
+   "en": "shòu gǔ lín fēng: a thin, bony body standing in the wind."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "秋声：秋天风吹树叶、虫鸣等声音。",
+   "en": "qiū shēng: the sounds of autumn, like wind in leaves and insects chirping."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "岑寂：冷清寂静。",
+   "en": "cén jì: lonely and silent."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "露蛩：在露水里鸣叫的蟋蟀。蛩，蟋蟀。",
+   "en": "lù qióng: crickets chirping in the dew. Qióng means cricket."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 6,
+   "zh": "鬓毛：耳朵旁边的头发。",
+   "en": "bìn máo: the hair at the temples."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "俊游：快乐美好的游玩。",
+   "en": "jùn yóu: happy, carefree outings."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 7,
+   "zh": "浑断得：全都断绝了。浑，全、都。",
+   "en": "hún duàn dé: all cut off. Hún means entirely."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "可怜：可叹、让人伤心。",
+   "en": "kě lián: sad, pitiful."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "苒苒：慢慢地、渐渐地，这里指时光一点点过去。",
+   "en": "rǎn rǎn: slowly, little by little; here, time slipping away."
+  },
+  {
+   "line": 18,
+   "start": 4,
+   "end": 6,
+   "zh": "魂惊：心里一惊，心神不安。",
+   "en": "hún jīng: the heart is startled and uneasy."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "采香南浦：在南边水边采香草。南浦常指送别的地方。",
+   "en": "cǎi xiāng nán pǔ: picking fragrant plants on the southern shore, a place often linked to farewells."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "剪梅烟驿：在烟雾中的驿站折下梅花。古代有人折梅托驿使寄给远方的朋友。驿，古代传送书信、供人歇脚的站。",
+   "en": "jiǎn méi yān yì: cutting plum blossoms at a misty post station. Long ago, people sent plum sprigs to faraway friends by courier. A yì was a station for letters and travelers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "江水青苍苍的一望无边，",
+   "en": "The river water stretches grey-green and wide."
+  },
+  {
+   "zh": "看那疲倦的柳树、发愁的荷叶，",
+   "en": "I look at the weary willows and the sorrowful lotus;"
+  },
+  {
+   "zh": "它们和我一起感受着秋天的景色。",
+   "en": "together we feel the colors of autumn."
+  },
+  {
+   "zh": "荒废的楼阁先凉了，",
+   "en": "The deserted tower turns cold first;"
+  },
+  {
+   "zh": "旧帘子空对着傍晚。",
+   "en": "the old curtain hangs before an empty dusk."
+  },
+  {
+   "zh": "大雁飞行，最怕风大。",
+   "en": "On their journey, the geese hate the wind most of all."
+  },
+  {
+   "zh": "家乡的消息啊，",
+   "en": "News from home —"
+  },
+  {
+   "zh": "只有映入眼中的青翠南山让我喜爱。",
+   "en": "all I have is the green of the southern hills that I love to see."
+  },
+  {
+   "zh": "想起京城，",
+   "en": "I think of the capital:"
+  },
+  {
+   "zh": "谁是那个想念鲈鱼、却还留在江汉没回去的人呢？",
+   "en": "who is the one who longs for the perch of home, yet still stays by the Jiang and Han, not yet returned?"
+  },
+  {
+   "zh": "又到了一年快完的时候，",
+   "en": "Once again the year is ending."
+  },
+  {
+   "zh": "我瘦弱的身子迎着风，",
+   "en": "My thin body stands in the wind;"
+  },
+  {
+   "zh": "夜里听见秋天的声音，",
+   "en": "at night I hear the sounds of autumn"
+  },
+  {
+   "zh": "打破了冷清和寂静。",
+   "en": "stir the lonely silence."
+  },
+  {
+   "zh": "露水里的蟋蟀叫得悲凉，灯光清冷，屋子也冷，",
+   "en": "Crickets cry in the dew; the lamp is pale, the room is cold;"
+  },
+  {
+   "zh": "翻着书，愁得鬓发都白了。",
+   "en": "turning the pages, my grief has whitened the hair at my temples."
+  },
+  {
+   "zh": "年轻时那些美好的游乐，已经全都断绝了。",
+   "en": "The happy outings of my youth are all cut off."
+  },
+  {
+   "zh": "只是最让人伤心的是，",
+   "en": "But what hurts most is this:"
+  },
+  {
+   "zh": "时光一点点流走，心里一阵阵惊动，",
+   "en": "time slips away little by little, and my heart is startled,"
+  },
+  {
+   "zh": "想起当年在南浦采香草，",
+   "en": "remembering picking fragrant plants on the southern shore,"
+  },
+  {
+   "zh": "在烟雾中的驿站折梅花。",
+   "en": "and cutting plum blossoms at the misty post station."
+  }
+ ],
+ "background": {
+  "zh": "这首词是秋天写的思乡怀人之作。史达祖本来在南宋朝廷里给权臣韩侂胄做事。韩侂胄死后，他受到牵连被处罚，贬到外地。一说这首词就是他被贬以后写的，词里的“江汉”是他当时待的地方。他一个人在外，年纪大了，又在深秋，看到荒凉的景色，就想起了家乡、京城和年轻时的快乐日子。",
+  "en": "This lyric, written in autumn, is about missing home and people far away. Shi Dazu once worked in the Southern Song court for the powerful minister Han Tuozhou. After Han died, Shi was punished along with others tied to him and sent away from the capital. One view says this lyric was written after that exile, and that the Jiang and Han in the lyric is where he was then living. Alone, no longer young, in late autumn, he saw the bleak scenery and thought of his home, the capital, and the happy days of his youth."
+ },
+ "author_note": {
+  "zh": "史达祖，号梅溪，南宋词人，生卒年不能确定。他没有考中科举，做过权臣韩侂胄的文书，很受信任。后来韩侂胄被杀，他也被处以刑罚，晚年过得很不好。他的词写得细腻，特别擅长写景物，名作有咏燕子的《双双燕》。",
+  "en": "Shi Dazu, also known as Meixi, was a Southern Song lyric poet; the years of his birth and death are not certain. He never passed the state exams, but served as a trusted secretary to the powerful minister Han Tuozhou. When Han was later killed, Shi was punished too, and his later years were hard. His lyrics are delicate and he was especially good at describing things; a famous one is \"A Pair of Swallows\"."
+ },
+ "appreciation": {
+  "zh": "这首词的颜色很灰。上片一开头就是苍苍的江水、累了的柳树、发愁的荷叶，连楼阁和帘子都冷冷清清的。词人把自己的愁放进了景物里：不是柳和荷在发愁，是他自己。大雁怕风，书信难通，只有南山的青色让他想起家乡。接着他问：是谁想回家又回不去？其实就是他自己。下片更孤单：年底了，人瘦了，夜里听着秋风虫鸣，灯冷屋冷，翻书翻到头发都白了。最后几句，他想起年轻时在水边采香草、在驿站折梅花的美好日子，可这些都回不来了。整首词像一个人在秋夜里慢慢回头看自己的一生，越想越冷。",
+  "en": "The colors of this lyric are grey. The first stanza opens with the grey-green river, weary willows and sorrowful lotus; even the tower and the curtain feel cold and empty. The poet puts his own sadness into the scenery: it is not the willows and the lotus that grieve, it is he. The geese fear the wind, letters cannot get through, and only the green of the southern hills reminds him of home. Then he asks: who is the one who wants to go home but cannot? He means himself. The second stanza is lonelier still. The year is ending, he has grown thin, and at night he listens to autumn wind and crickets. The lamp is cold, the room is cold, and he turns the pages of his books until his hair turns white. At the end he remembers the sweet days of his youth, picking fragrant plants by the water and cutting plum blossoms at a post station, but they will never come back. The whole lyric is like a man on an autumn night slowly looking back over his life, and the more he thinks, the colder he feels."
+ },
+ "famous_lines": [
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "exile",
+   "aging",
+   "memory"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,456 @@
+{
+ "id": "12919986-2d09-4d2e-b5ad-f2485e40ada5",
+ "kind": "shi",
+ "title": "登楼",
+ "title_en": "Climbing the Tower",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "方",
+    "fāng"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "难",
+    "nàn"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "垒",
+    "lěi"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "变",
+    "biàn"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "今",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "廷",
+    "tíng"
+   ],
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "改",
+    "gǎi"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "寇",
+    "kòu"
+   ],
+   [
+    "盗",
+    "dào"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "侵",
+    "qīn"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "祠",
+    "cí"
+   ],
+   [
+    "庙",
+    "miào"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "聊",
+    "liáo"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "甫",
+    "fǔ"
+   ],
+   [
+    "吟",
+    "yín"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "难",
+   "pinyin": "nàn",
+   "zh": "多难是“灾难多”，读 nàn。",
+   "en": "Here the word means disaster, so it is read nàn."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "还是“还有、仍然”的意思，读 hái。",
+   "en": "Here it means still, so it is read hái."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "为在这里是“作、吟唱”的意思，读 wéi。",
+   "en": "Here it means to make or to chant, so it is read wéi."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "甫",
+   "pinyin": "fǔ",
+   "zh": "梁甫吟也写作“梁父吟”，“甫、父”都读 fǔ。",
+   "en": "This song title is also written with another character for fǔ. Both are read fǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "客心：客居他乡的人的心情，这里指杜甫自己。",
+   "en": "kè xīn: the feelings of someone living far from home. Here, Du Fu himself."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "万方多难：全国各地都有灾难，指国家到处是战乱。",
+   "en": "wàn fāng duō nàn: disasters everywhere in the land, that is, war all over the country."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "登临：登高望远。",
+   "en": "dēng lín: to climb high and look far."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "锦江：流经成都的一条江。",
+   "en": "jǐn jiāng: a river that flows through Chengdu."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "来天地：春色从天地之间扑面而来。",
+   "en": "lái tiān dì: the spring colors come rushing in from all of heaven and earth."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "玉垒：玉垒山，在成都西北边。",
+   "en": "yù lěi: Mount Yulei, northwest of Chengdu."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "变古今：浮云变来变去，就像从古到今的世事变化。",
+   "en": "biàn gǔ jīn: the clouds keep changing, like the changes of the world from ancient times to now."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "北极：北极星，比喻朝廷，像北极星一样稳固不变。",
+   "en": "běi jí: the Pole Star. It stands for the imperial court, which stays fixed like that star."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "西山寇盗：西边山外的强盗，指当时侵犯唐朝的吐蕃。",
+   "en": "xī shān kòu dào: raiders beyond the western mountains. It means the Tibetan armies attacking the Tang."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "莫相侵：不要来侵犯。",
+   "en": "mò xiāng qīn: do not come to invade us."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "后主：三国时蜀国的第二个皇帝刘禅，他无能，最后亡了国。",
+   "en": "hòu zhǔ: Liu Shan, the second and last ruler of Shu in the Three Kingdoms. He was weak and lost his state."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "还祠庙：还有祠庙。成都先主庙旁边有后主的祠。",
+   "en": "hái cí miào: still has a shrine. Next to the shrine of Liu Bei in Chengdu there was one for Liu Shan."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "聊：姑且，暂且。",
+   "en": "liáo: just for now, for the moment."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "梁甫吟：一首古歌的名字。据说诸葛亮在出山前喜欢吟唱它。",
+   "en": "liáng fǔ yín: the name of an old song. Zhuge Liang is said to have loved chanting it before he entered public life."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "繁花开到高楼边，我这个异乡人看了却很伤心。",
+   "en": "Flowers bloom right up to the tall tower, yet the sight saddens me, a man far from home."
+  },
+  {
+   "zh": "国家到处都是灾难，我在这时候登楼远望。",
+   "en": "Troubles fill the land on every side, and at such a time I climb up to look."
+  },
+  {
+   "zh": "锦江两岸的春色，从天地之间涌来。",
+   "en": "The spring colors of the Jin River pour in from all of heaven and earth."
+  },
+  {
+   "zh": "玉垒山上的浮云，从古到今变幻不停。",
+   "en": "The drifting clouds over Mount Yulei change and change, as they have from ancient times to now."
+  },
+  {
+   "zh": "朝廷就像北极星，终究不会改变。",
+   "en": "The court is like the Pole Star, and in the end it will not change."
+  },
+  {
+   "zh": "西山外的吐蕃啊，不要再来侵犯了。",
+   "en": "You raiders beyond the western hills, do not come to invade again."
+  },
+  {
+   "zh": "可叹那无能的后主，到现在还有祠庙受人祭祀。",
+   "en": "How sad that even the weak ruler Liu Shan still has a shrine where people make offerings."
+  },
+  {
+   "zh": "天快黑了，我姑且吟一首《梁甫吟》。",
+   "en": "As the sun sets, I chant the old Liangfu song for a while."
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为写于唐代宗广德二年（764年）春天，杜甫在成都。前一年冬天，吐蕃军队攻进长安，皇帝逃走，后来长安才被收复。吐蕃又攻占了西川的一些州。国家多难，朝廷里又有宦官专权。杜甫登上成都的一座高楼，看到满眼春色，想到国事，写下了这首诗。",
+  "en": "This poem is usually dated to the spring of 764, when Du Fu was in Chengdu. The winter before, Tibetan armies had broken into the capital Chang'an and the emperor had fled. The city was won back later. The Tibetans also took several districts in western Sichuan. The country was in trouble, and eunuchs held too much power at court. Du Fu climbed a tall tower in Chengdu. Seeing spring everywhere and thinking of the nation's troubles, he wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他一生关心国家和百姓，常常在诗里把自己的愁和国家的难连在一起。他很敬佩诸葛亮，希望朝廷也能有诸葛亮那样的贤臣。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. All his life he cared about his country and its people, and in his poems his own sorrows are often tied to the nation's troubles. He deeply admired Zhuge Liang and wished the court had a wise minister like him."
+ },
+ "appreciation": {
+  "zh": "第一句就很特别：花开得正好，本该高兴，诗人却说“伤客心”，因为国家正遭难，美景反而让人更难过。三、四句是有名的写景句：锦江的春色从天地间扑来，玉垒山的浮云变幻了千年，画面又大又远，把空间和时间都写进去了。五、六句转到时局：朝廷像北极星一样不会倒，吐蕃别妄想。最后两句借后主说事：这么无能的君主还有人祭祀，暗暗批评当时的皇帝信任小人；自己只能像诸葛亮当年那样吟诗，空有一片心意。全诗景大情深，忧国之情很浓。",
+  "en": "The first line is unusual. The flowers are lovely and should bring joy, but the poet says they hurt his heart. The country is suffering, so beauty makes him even sadder. Lines three and four are famous scenery lines. Spring rushes in from all of heaven and earth along the Jin River. The clouds over Mount Yulei have changed for a thousand years. The picture is huge and far-reaching, and it holds both space and time. Lines five and six turn to the state of the nation: the court will stand like the Pole Star, so the raiders should not dream of winning. The last two lines use Liu Shan to make a point. Even such a weak ruler still gets offerings. This quietly criticizes the emperor of the day for trusting bad men. The poet can only chant the song Zhuge Liang once loved, with a loyal heart and no way to help. The scenery is vast and the feeling deep, full of worry for the country."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "history",
+   "climbing",
+   "war",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

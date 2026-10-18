@@ -1,0 +1,456 @@
+{
+ "id": "fae577a5-da28-4672-83ff-94c97ae2a4a4",
+ "kind": "shi",
+ "title": "晚次鄂州",
+ "title_en": "Stopping at Ezhou in the Evening",
+ "author": "卢纶",
+ "author_en": "Lu Lun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "程",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "估",
+    "gū"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "静",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "业",
+    "yè"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "战",
+    "zhàn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "鼙",
+    "pí"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "估",
+   "pinyin": "gū",
+   "zh": "“估客”就是商人，读 gū。",
+   "en": "In the word for merchant, read gū."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "“知道、感觉到”的意思，读 jué。",
+   "en": "Meaning to sense, to notice, read jué."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "“又、再”的意思，读 gèng。",
+   "en": "Meaning even more, read gèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "汉阳城：在今湖北武汉，和鄂州隔着长江。",
+   "en": "hàn yáng chéng: a town in today's Wuhan, Hubei, across the Yangtze from Ezhou."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "犹是：还是、仍然要。",
+   "en": "yóu shì: still."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "孤帆：孤零零的一只船。",
+   "en": "gū fān: a single lonely sail."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "一日程：一天的路程。",
+   "en": "yī rì chéng: a day's journey."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "估客：商人。",
+   "en": "gū kè: a merchant."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "昼眠：白天睡觉。",
+   "en": "zhòu mián: sleeping in the daytime."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "舟人：船夫。",
+   "en": "zhōu rén: the boatmen."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "觉潮生：知道潮水涨起来了。",
+   "en": "jué cháo shēng: knowing the tide is rising."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "三湘：湘江流域的统称，在今湖南一带，是诗人要去的地方。",
+   "en": "sān xiāng: a name for the lands along the Xiang River, in today's Hunan, where the poet was going."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "衰鬓：变白、稀疏的鬓发。鬓，耳朵前面的头发。",
+   "en": "shuāi bìn: graying, thinning hair at the temples. Bìn is the hair in front of the ears."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "归心：想回家的心。",
+   "en": "guī xīn: the heart's wish to go home."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "旧业：家中原有的产业，比如田地房屋。",
+   "en": "jiù yè: the family's old property, such as fields and houses."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "征战：打仗。",
+   "en": "zhēng zhàn: war."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "更堪：哪里还受得了。",
+   "en": "gèng kān: how can one bear even more."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "鼓鼙：军中的大鼓和小鼓，指打仗的声音。",
+   "en": "gǔ pí: the big and small army drums, the sound of war."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "云散开了，远远望见汉阳城，",
+   "en": "The clouds part, and far off I see the town of Hanyang,"
+  },
+  {
+   "zh": "可是这只孤船还要走上一天。",
+   "en": "but my lonely boat still has a day to go."
+  },
+  {
+   "zh": "商人白天睡觉，可见江上风平浪静；",
+   "en": "The merchants sleep by day, so the waves must be calm."
+  },
+  {
+   "zh": "船夫夜里说话，可知潮水涨了起来。",
+   "en": "The boatmen talk at night, so I know the tide is rising."
+  },
+  {
+   "zh": "我带着斑白的鬓发去三湘，正赶上萧瑟的秋天；",
+   "en": "Gray at the temples, I head for the Xiang lands just as autumn comes;"
+  },
+  {
+   "zh": "远在万里之外，想家的心对着明月。",
+   "en": "ten thousand li from home, my longing faces the bright moon."
+  },
+  {
+   "zh": "家里的产业已经在战乱中全部毁掉，",
+   "en": "My family's old home was lost in the fighting,"
+  },
+  {
+   "zh": "哪里还受得了江上又传来战鼓声！",
+   "en": "and how can I bear the war drums sounding on the river again?"
+  }
+ ],
+ "background": {
+  "zh": "安史之乱时，北方战火不断，很多人往南方逃难。卢纶一家也受到战乱影响。一般认为，这首诗是他在战乱中南下、路过鄂州（今湖北武汉武昌一带）时写的，一说作于唐肃宗至德年间。“次”是停船住宿的意思。他坐船沿长江往三湘去，傍晚停在鄂州，看到对岸的汉阳城，想到自己的处境，写下了这首诗。",
+  "en": "During the An Lushan rebellion, war raged across the north, and many people fled south. Lu Lun's family suffered from the fighting too. The poem is usually thought to have been written when he traveled south during the war and passed Ezhou, around today's Wuchang in Wuhan, Hubei. One view dates it to the Zhide years of Emperor Suzong. In the title, cì means to stop for the night. Going by boat along the Yangtze toward the Xiang lands, he stopped at Ezhou in the evening, saw Hanyang across the river, thought about his own life, and wrote this poem."
+ },
+ "author_note": {
+  "zh": "卢纶（约739—约799），字允言，河中蒲县（今山西永济）人，唐代诗人，“大历十才子”之一。他年轻时多次考进士都没考中，后来靠人推荐做了官。他写的边塞诗很有名，比如“欲将轻骑逐，大雪满弓刀”。",
+  "en": "Lu Lun (about 739–about 799), also called Yunyan, came from Puxian in Hezhong, today's Yongji in Shanxi. He was a Tang poet and one of the Ten Talents of the Dali era. As a young man he failed the imperial exam several times, and later got office through others' recommendations. His frontier poems are famous, such as the lines about chasing the enemy with light cavalry while heavy snow covers bows and swords."
+ },
+ "appreciation": {
+  "zh": "开头很有意思：云散了，汉阳城就在眼前，可船还要再走一天。看得见却到不了，旅途的急切和疲惫一下子出来了。第三、四句是名句：商人白天睡得香，说明浪很平；船夫半夜说话，原来是潮水涨了。诗人自己呢？白天看人睡，夜里听人说话，说明他日夜都睡不着。后四句直接说出愁：头发白了，又逢秋天；离家万里，只能对着月亮想家；家产早被战乱毁掉，江上又传来战鼓声。前面写得越平静，结尾的痛就越重。",
+  "en": "The opening is interesting. The clouds part and Hanyang is right there, yet the boat still needs another day. He can see it but cannot reach it, and we feel how eager and tired the traveler is. The third and fourth lines are famous. The merchants sleep soundly by day, so the waves must be calm. The boatmen talk at midnight, because the tide is rising. And the poet? He watches others sleep by day and hears them talk at night, which means he cannot sleep day or night. The last four lines say his sorrow plainly. His hair is gray, and it is autumn. He is ten thousand li from home and can only look at the moon. His family's property was lost in the war, and now war drums sound on the river again. The calmer the first part, the heavier the pain at the end."
+ },
+ "famous_lines": [
+  2,
+  3,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "homesick",
+   "war",
+   "moon",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

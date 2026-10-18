@@ -1,0 +1,811 @@
+{
+ "id": "ci-616022494039",
+ "kind": "ci",
+ "title": "青门饮·胡马嘶风",
+ "title_en": "To the Tune Qing Men Yin: Northern Horses Neigh in the Wind",
+ "author": "时彦",
+ "author_en": "Shi Yan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "嘶",
+    "sī"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "彤",
+    "tóng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "吐",
+    "tǔ"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "竿",
+    "gān"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "照",
+    "zhào"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "鸭",
+    "yā"
+   ]
+  ],
+  [
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "烛",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "了",
+    "liǎo"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "烦",
+    "fán"
+   ],
+   [
+    "恼",
+    "nǎo"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "牵",
+    "qiān"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "量",
+    "liáng"
+   ],
+   [
+    "耳",
+    "ěr"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "跃",
+    "yuè"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "迎",
+    "yíng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "笑",
+    "xiào"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 12,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "这里是“常常、一直”的意思，读 cháng，不读 zhǎng。",
+   "en": "Here it means \"always\", so it is read cháng, not zhǎng."
+  },
+  {
+   "line": 12,
+   "pos": 5,
+   "char": "了",
+   "pinyin": "liǎo",
+   "zh": "“才了”是“刚刚弄完”，“了”读 liǎo，和“照、草、老、晓”押韵。",
+   "en": "Cái liǎo means just finished, so it is read liǎo, rhyming with zhào, cǎo, lǎo and xiǎo."
+  },
+  {
+   "line": 16,
+   "pos": 2,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝雨”是早晨的雨，“朝”读 zhāo，不读 cháo。",
+   "en": "Zhāo yǔ means morning rain, so it is read zhāo, not cháo."
+  },
+  {
+   "line": 20,
+   "pos": 0,
+   "char": "甚",
+   "pinyin": "shèn",
+   "zh": "“甚时”就是“什么时候”。“甚”在这里读 shèn，也有人读 shén。",
+   "en": "Shèn shí means \"when\". Here the first character is read shèn; some people read it shén."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "胡马：北方边地的马。胡，古代对北方和西方少数民族的称呼。",
+   "en": "hú mǎ: horses of the northern lands. Hú was the old name for the peoples of the north and west."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "嘶风：迎着风高声叫。嘶，马叫。",
+   "en": "sī fēng: neighing loudly into the wind. Sī is the cry of a horse."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "汉旗翻雪：自己国家的旗子在雪中翻卷。这里借汉说宋。",
+   "en": "hàn qí fān xuě: our own flags flapping in the snow. The Han here stands for the Song."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "彤云：下雪前天上阴沉沉、带点红色的浓云。",
+   "en": "tóng yún: thick, dark clouds with a reddish tinge that come before snow."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 4,
+   "zh": "吐：冒出来，涌出来。",
+   "en": "tǔ: to come pouring out."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "一竿残照：太阳落到只有一根竹竿那么高，是快要落山的夕阳。",
+   "en": "yī gān cán zhào: the sun is only a bamboo pole's height above the land; it is the last light of sunset."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "连空：连着天空，一眼望不到边。",
+   "en": "lián kōng: reaching up to the sky as far as one can see."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 6,
+   "zh": "暮沙衰草：傍晚的沙地和枯黄的草。衰，枯萎。",
+   "en": "mù shā shuāi cǎo: sandy ground at dusk and withered yellow grass. Shuāi means withered."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "星斗横：星星横挂在天上，说夜已经深了。",
+   "en": "xīng dǒu héng: the stars lie across the sky, meaning it is deep in the night."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "幽馆：冷清的旅馆。",
+   "en": "yōu guǎn: a lonely inn."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 7,
+   "zh": "灯花空老：灯芯烧过后结成的小花白白地越积越多。说人一夜没睡，对着灯坐了很久。",
+   "en": "dēng huā kōng lǎo: the charred knots on the lamp wick grow bigger for nothing. It means he sat by the lamp all night without sleeping."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "香鸭：做成鸭子形状的香炉。",
+   "en": "xiāng yā: an incense burner shaped like a duck."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "泪烛：蜡烛烧化时流下的蜡油，像眼泪一样。",
+   "en": "lèi zhú: a candle with wax running down it like tears."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "霜天难晓：下霜的冷夜好像总也不天亮。晓，天亮。",
+   "en": "shuāng tiān nán xiǎo: on a frosty night, dawn seems never to come. Xiǎo means daybreak."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "晓妆：早晨梳妆打扮。这里指和他分别那天早晨的她。",
+   "en": "xiǎo zhuāng: making up in the morning. Here it is her, on the morning they parted."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "离怀：分别时的心情。",
+   "en": "lí huái: the feelings of parting."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "秋波：像秋天的水一样清亮的眼睛，指美人的眼神。",
+   "en": "qiū bō: eyes as clear as autumn water, meaning a lovely woman's glance."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "朝雨：早晨的雨。借用巫山神女“朝为行云，暮为行雨”的故事，指和心上人相会。",
+   "en": "zhāo yǔ: morning rain. It borrows the story of the goddess of Mount Wu, who was a cloud at dawn and rain at dusk, and means meeting one's beloved."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 1,
+   "zh": "料：料想，猜想。",
+   "en": "liào: to guess, to suppose."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 5,
+   "zh": "牵情处：牵动感情、让人放不下的地方。",
+   "en": "qiān qíng chù: the thing that tugs at the heart and cannot be let go."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "忍思量：怎么忍心去想。思量，想。",
+   "en": "rěn sī liáng: how can I bear to think of it? Sī liáng means to think."
+  },
+  {
+   "line": 19,
+   "start": 3,
+   "end": 7,
+   "zh": "耳边曾道：她曾经在我耳边说过的话。道，说。",
+   "en": "ěr biān céng dào: the words she once whispered in my ear. Dào means to say."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "跃马：骑着马飞奔。",
+   "en": "yuè mǎ: galloping on horseback."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "迎门：在门口迎接。",
+   "en": "yíng mén: to come to the door to meet someone."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "胡地的马迎着寒风嘶叫，",
+   "en": "Northern horses neigh into the wind,"
+  },
+  {
+   "zh": "我们的旗子在大雪里翻卷，",
+   "en": "our flags flap in the snow,"
+  },
+  {
+   "zh": "阴沉的浓云又涌了出来，",
+   "en": "dark snow clouds pour out again,"
+  },
+  {
+   "zh": "只剩一竿高的夕阳斜照。",
+   "en": "and the sun hangs only a pole's height above the land."
+  },
+  {
+   "zh": "古老的树木连着天空，",
+   "en": "Old trees reach up to the sky,"
+  },
+  {
+   "zh": "乱糟糟的山数也数不清，",
+   "en": "jumbled hills stand beyond counting,"
+  },
+  {
+   "zh": "走完了傍晚的沙地和枯草。",
+   "en": "and I have crossed the dusky sands and withered grass."
+  },
+  {
+   "zh": "星星横挂在冷清的旅馆上空，",
+   "en": "Stars lie across the sky above the lonely inn,"
+  },
+  {
+   "zh": "我整夜睡不着，灯花白白地越结越多。",
+   "en": "I cannot sleep all night, and the lamp wick knots up for nothing."
+  },
+  {
+   "zh": "鸭形香炉里的烟雾浓浓的，",
+   "en": "Thick smoke curls from the duck-shaped incense burner,"
+  },
+  {
+   "zh": "蜡烛流下的蜡油都冻住了，",
+   "en": "the candle's waxy tears have frozen,"
+  },
+  {
+   "zh": "下霜的寒夜，天总也不亮。",
+   "en": "and on this frosty night dawn will not come."
+  },
+  {
+   "zh": "我一直记得那天早晨，她刚梳妆好，",
+   "en": "I always remember that morning when she had just made herself up,"
+  },
+  {
+   "zh": "一杯送别酒还没喝完，",
+   "en": "and before the farewell cup was empty,"
+  },
+  {
+   "zh": "离别的心情有多少啊。",
+   "en": "how much sorrow of parting there was."
+  },
+  {
+   "zh": "醉中看到的她的眼神，",
+   "en": "Her glances that I saw when drunk,"
+  },
+  {
+   "zh": "梦里和她的相会，",
+   "en": "our meetings in my dreams,"
+  },
+  {
+   "zh": "都成了醒来后的烦恼。",
+   "en": "all turn into sorrow when I wake."
+  },
+  {
+   "zh": "我猜最让我放不下的，",
+   "en": "I guess what tugs my heart the most"
+  },
+  {
+   "zh": "是她在我耳边说过的话，我怎么忍心去想。",
+   "en": "is what she whispered in my ear, and I can hardly bear to think of it."
+  },
+  {
+   "zh": "什么时候我才能骑马飞奔回家，",
+   "en": "When will I gallop home again"
+  },
+  {
+   "zh": "看见她在门口迎接我，轻轻一笑。",
+   "en": "and see her at the door to meet me, smiling softly?"
+  }
+ ],
+ "background": {
+  "zh": "这首词上阕写北方边地的风雪、荒山和冷清的旅馆，下阕写对家中心上人的思念。从“胡马”“汉旗”这些词看，写的是北方边境上的旅途。一说这是时彦奉命出使北方的辽国时，在路上写的，但具体时间不清楚。",
+  "en": "The first stanza shows wind and snow in the northern borderlands, wild hills and a lonely inn. The second shows the poet missing the woman he loves at home. Words like \"northern horses\" and \"our flags\" show it is a journey near the northern border. One view says Shi Yan wrote it on the road when he was sent as an envoy to the Liao state in the north, but the time is not known."
+ },
+ "author_note": {
+  "zh": "时彦，字邦美，开封（今河南开封）人，北宋人。宋神宗元丰二年（1079），他考中进士第一名，也就是状元。他留下来的词非常少，这首《青门饮》被选进了《宋词三百首》。",
+  "en": "Shi Yan, also called Bangmei, came from Kaifeng in Henan and lived in the Northern Song. In 1079 he came first in the highest imperial exam. Very few of his lyrics survive, and this one was chosen for the famous anthology Three Hundred Song Lyrics."
+ },
+ "appreciation": {
+  "zh": "上阕像一幅冷冷的边塞画：马在风里叫，旗在雪里翻，乌云压着，夕阳只剩一竿高。古树、乱山、沙地、枯草，一路走过来，到了夜里只住进一间冷清的旅馆。他睡不着，灯花结了又结，香炉烟浓，蜡烛的泪都冻住了，天怎么也不亮。下阕一下子暖了起来：他想起分别那天早晨，她刚梳好妆，送别酒还没喝完。醉里梦里都是她，醒来却只剩烦恼。最后他盼着有一天骑马飞奔回去，她在门口笑着迎接他。越是外面冷，这一笑就越显得温暖。",
+  "en": "The first stanza is like a cold frontier painting. Horses neigh in the wind, flags flap in the snow, dark clouds press down, and the sun is only a pole's height from the ground. He passes old trees, wild hills, sand and dry grass, and at night he stops at a lonely inn. He cannot sleep. The lamp wick knots again and again, the incense smoke is thick, the candle's tears freeze, and dawn will not come. The second stanza suddenly turns warm. He remembers the morning they parted: she had just made herself up, and the farewell cup was not yet empty. Drunk or dreaming, he sees only her, but waking brings only sorrow. At the end he hopes that one day he will gallop home and she will meet him at the door with a smile. The colder the world outside, the warmer that smile feels."
+ },
+ "famous_lines": [
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "travel",
+   "longing",
+   "love"
+  ]
+ },
+ "uncertain": []
+}

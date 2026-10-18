@@ -1,0 +1,723 @@
+{
+ "id": "ci-35872161e9e6",
+ "kind": "ci",
+ "title": "长亭怨慢·重过中庵故园",
+ "title_en": "Chang Ting Yuan Man: Passing Zhong'an's Old Garden Again",
+ "author": "王沂孙",
+ "author_en": "Wang Yisun",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《长亭怨慢》，双调",
+  "en": "ci to the tune Chang Ting Yuan Man, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "艇",
+    "tǐng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "皋",
+    "gāo"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "遍",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "掩",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "屐",
+    "jī"
+   ],
+   [
+    "齿",
+    "chǐ"
+   ],
+   [
+    "莓",
+    "méi"
+   ],
+   [
+    "阶",
+    "jiē"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "袖",
+    "xiù"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "限",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "惆",
+    "chóu"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "怎",
+    "zěn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "尤",
+    "yóu"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "短",
+    "duǎn"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "绮",
+    "qǐ"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "雕",
+    "diāo"
+   ],
+   [
+    "槛",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "苒",
+    "rǎn"
+   ],
+   [
+    "苒",
+    "rǎn"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ],
+  [
+   [
+    "抚",
+    "fǔ"
+   ],
+   [
+    "乔",
+    "qiáo"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "英",
+    "yīng"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "婉",
+    "wǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 13,
+   "pos": 6,
+   "char": "槛",
+   "pinyin": "jiàn",
+   "zh": "“槛”指栏杆时读 jiàn，比如“雕槛”“栏槛”。读 kǎn 时指门槛。",
+   "en": "When this character means a railing, as in diāo jiàn (carved railing), it is read jiàn. Read kǎn, it means a doorsill."
+  },
+  {
+   "line": 16,
+   "pos": 1,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "“数点”是几点的意思，“数”读 shù。",
+   "en": "In shù diǎn (a few dots) the character is read shù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "泛孤艇：划着一只小船在水上漂。泛，漂浮。",
+   "en": "fàn gū tǐng: drifting in a lone little boat. Fàn means to float."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "东皋：东边水边的高地，泛指郊外的田野水岸。",
+   "en": "dōng gāo: the high ground by the water to the east, meaning the countryside and riverbanks."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "过遍：都经过了一遍。",
+   "en": "guò biàn: passed by every part."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "当日：那时候，从前。",
+   "en": "dāng rì: back then."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "绿阴门掩：绿树的浓荫遮着园门。",
+   "en": "lǜ yīn mén yǎn: the gate hidden in the deep green shade of trees."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "屐齿：木头鞋底下的齿。古人穿木屐走路，会在地上留下齿印。",
+   "en": "jī chǐ: the teeth under wooden clogs. Walking in clogs left their prints on the ground."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "莓阶：长着青苔的台阶。莓，莓苔，就是青苔。",
+   "en": "méi jiē: steps covered with moss."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "罗袖：丝绸做的衣袖。",
+   "en": "luó xiù: silk sleeves."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "何限：多么多，数不清。",
+   "en": "hé xiàn: countless, without limit."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "惆怅：失望伤感。",
+   "en": "chóu chàng: disappointed and sad."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "秋苑：秋天冷落的园子。",
+   "en": "qiū yuàn: a garden gone bare in autumn."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "自约：自从约好。一说是“自然约好”。",
+   "en": "zì yuē: since we agreed. Another reading takes it as 'we had of course agreed'."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 7,
+   "zh": "风流云散：像风吹走、云散开一样，大家各奔东西。",
+   "en": "fēng liú yún sàn: scattering like wind and clouds, everyone going their own way."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 6,
+   "zh": "尤远：更远。",
+   "en": "yóu yuǎn: even farther."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 5,
+   "zh": "绮疏：雕刻着花纹的窗户。",
+   "en": "qǐ shū: windows carved with patterns."
+  },
+  {
+   "line": 13,
+   "start": 5,
+   "end": 7,
+   "zh": "雕槛：雕花的栏杆。",
+   "en": "diāo jiàn: carved railings."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 5,
+   "zh": "苒苒：慢慢移动的样子。",
+   "en": "rǎn rǎn: slowly moving."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "乔木：高大的树。古人常用老树来表示故乡、故国和流逝的岁月。",
+   "en": "qiáo mù: tall trees. Old trees often stood for one's homeland, the old country, and the years gone by."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 7,
+   "zh": "年华将晚：一年快到尽头，人也渐渐老了。",
+   "en": "nián huá jiāng wǎn: the year is nearly over, and one is growing old."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "红英：红花。",
+   "en": "hóng yīng: red flowers."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "西园：园林的泛称，这里指朋友的旧园子。",
+   "en": "xī yuán: the west garden, a general name for a garden, here the friend's old garden."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "凄婉：凄凉而又柔婉。",
+   "en": "qī wǎn: sad and tender."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我划着一只小船，把东边水岸都走了一遍。",
+   "en": "I drift in a lone little boat past every bank on the east side."
+  },
+  {
+   "zh": "还记得当年，",
+   "en": "I still remember how, back then,"
+  },
+  {
+   "zh": "绿树的浓荫遮着园门。",
+   "en": "green shade hid the garden gate."
+  },
+  {
+   "zh": "木屐在长满青苔的台阶上留下齿印，",
+   "en": "Our clogs left prints on the mossy steps,"
+  },
+  {
+   "zh": "酒痕沾在丝绸袖子上，这样的快乐数也数不清。",
+   "en": "and wine stained our silk sleeves; such happy times were countless."
+  },
+  {
+   "zh": "想去寻找从前的踪迹，",
+   "en": "I want to look for the old traces,"
+  },
+  {
+   "zh": "却只剩下惆怅，园子已经成了冷落的秋园。",
+   "en": "but there is only sadness: the garden has become a bare autumn place."
+  },
+  {
+   "zh": "自从和一起赏花的人约好以后，",
+   "en": "Since we made our promise, we who enjoyed the flowers together,"
+  },
+  {
+   "zh": "分别后大家就像风吹云散，各奔东西。",
+   "en": "after parting we have all scattered like wind and clouds."
+  },
+  {
+   "zh": "水是那么远。",
+   "en": "The water stretches far."
+  },
+  {
+   "zh": "哪里想到流水的外面，",
+   "en": "Who knew that beyond the flowing water"
+  },
+  {
+   "zh": "乱山还要更远。",
+   "en": "the tangled hills would be farther still?"
+  },
+  {
+   "zh": "远在天边，连梦也很短，",
+   "en": "Far away, even dreams are short."
+  },
+  {
+   "zh": "想来他们已经忘了这雕花的窗子和栏杆。",
+   "en": "I suppose they have forgotten the carved windows and railings."
+  },
+  {
+   "zh": "望不尽慢慢西沉的夕阳，",
+   "en": "I gaze at the slowly sinking sun without end,"
+  },
+  {
+   "zh": "抚摸着高大的老树，感叹一年将尽，人也老了。",
+   "en": "and touch the tall old trees: the year is ending, and I am growing old."
+  },
+  {
+   "zh": "只有几点红花，",
+   "en": "Only a few red flowers"
+  },
+  {
+   "zh": "还认得这西园的凄凉。",
+   "en": "still know the sadness of this west garden."
+  }
+ ],
+ "background": {
+  "zh": "题目里的“中庵”，一般认为是作者一位朋友的号，“故园”是这位朋友从前的园子。作者坐船重新经过这里，想起当年和朋友们在园中赏花喝酒的热闹，如今园子荒凉，朋友们也四散各地。王沂孙生活在宋朝灭亡前后，一说这首词的冷落和感伤里，也藏着对故国的怀念。写作年份不清楚。",
+  "en": "Zhong'an in the title is usually taken to be the pen name of one of the poet's friends, and the old garden was that friend's. The poet passes by boat again and remembers the lively days of flowers and wine with friends in the garden. Now the garden is bare and the friends have scattered. Wang Yisun lived through the fall of the Song dynasty, and some readers feel the poem's loneliness also hides grief for the lost country. We do not know the year it was written."
+ },
+ "author_note": {
+  "zh": "王沂孙（约1230—约1291），字圣与，号碧山，宋末元初的词人，会稽（今浙江绍兴）人。宋朝灭亡后，他和一些遗民词人常常一起写词，借咏物来寄托亡国的伤痛。他的词含蓄深沉，常常不直接说出心事。",
+  "en": "Wang Yisun (about 1230 – about 1291) was a ci poet from Kuaiji (today's Shaoxing, Zhejiang) who lived as the Song gave way to the Yuan. After the Song fell, he and other poets loyal to it often wrote ci together, using objects and scenes to hold their grief for the lost country. His ci are quiet and deep, and rarely say his feelings straight out."
+ },
+ "appreciation": {
+  "zh": "这首词像在旧照片和眼前的荒园之间来回切换。旧照片里：绿荫遮门，台阶上有木屐的齿印，袖子上有酒痕，热热闹闹。眼前：园子成了冷清的秋园，一起赏花的人像风里的云一样散了。下阕把距离越拉越远：水已经很远，水外的乱山更远，连梦都短得到不了。黄昏时他抚摸老树，感到一年、一生都快到傍晚了。最后只有几点红花还“认得”这园子的凄凉——人都忘了，花还记得，这比直接说孤单更让人难过。",
+  "en": "The poem cuts back and forth between an old photograph and the bare garden in front of him. In the photograph: green shade over the gate, clog prints on the steps, wine on the sleeves, noise and laughter. Now: the garden is a cold autumn place, and the friends who shared the flowers have scattered like clouds in the wind. The second stanza pushes the distance farther and farther. The water is far, the hills beyond it are farther, and even dreams are too short to reach them. At dusk he touches the old trees and feels that the year, and his life, are nearing evening. At last only a few red flowers still 'know' the garden's sadness. People have forgotten, but the flowers remember. That hurts more than simply saying he is lonely."
+ },
+ "famous_lines": [
+  10,
+  11,
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "memory",
+   "garden",
+   "loss"
+  ]
+ },
+ "uncertain": []
+}

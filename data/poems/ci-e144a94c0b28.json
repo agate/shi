@@ -1,0 +1,786 @@
+{
+ "id": "ci-e144a94c0b28",
+ "kind": "ci",
+ "title": "薄幸·青楼春晚",
+ "title_en": "Bo Xing: Late Spring in the Painted Tower",
+ "author": "吕渭老",
+ "author_en": "Lü Weilao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "昼",
+    "zhòu"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "梳",
+    "shū"
+   ],
+   [
+    "匀",
+    "yún"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "懒",
+    "lǎn"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "弄",
+    "nòng"
+   ]
+  ],
+  [
+   [
+    "惹",
+    "rě"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "掷",
+    "zhì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "题",
+    "tí"
+   ],
+   [
+    "诗",
+    "shī"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "贳",
+    "shì"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "怎",
+    "zěn"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "廊",
+    "láng"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "满",
+    "mǎn"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "蜂",
+    "fēng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "芭",
+    "bā"
+   ],
+   [
+    "蕉",
+    "jiāo"
+   ],
+   [
+    "展",
+    "zhǎn"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "拘",
+    "jū"
+   ],
+   [
+    "管",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "品",
+    "pǐn"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "参",
+    "cēn"
+   ],
+   [
+    "差",
+    "cī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "腰",
+    "yāo"
+   ],
+   [
+    "支",
+    "zhī"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "贳",
+   "pinyin": "shì",
+   "zh": "“贳”读 shì，意思是赊欠，这里指拿东西抵押换酒。",
+   "en": "This character is read shì. It means to buy on credit; here, to pawn something for wine."
+  },
+  {
+   "line": 16,
+   "pos": 2,
+   "char": "参",
+   "pinyin": "cēn",
+   "zh": "“参差”读 cēn cī，意思是长短高低不齐。",
+   "en": "Cēn cī means uneven, of different heights."
+  },
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "角",
+   "pinyin": "jiǎo",
+   "zh": "“角枕”的“角”读 jiǎo，指用兽角装饰的枕头。",
+   "en": "Here it is read jiǎo: a pillow decorated with horn."
+  },
+  {
+   "line": 15,
+   "pos": 0,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "“尽”在这里读 jìn，意思是全、都。",
+   "en": "Here it is read jìn, meaning all, entirely."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "青楼：涂着青漆的华丽楼房，这里指女子住的楼。",
+   "en": "qīng lóu: a fine house painted blue-green, here the house where the woman lives."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "寂寂：静悄悄的。",
+   "en": "jì jì: very quiet."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "梳匀：梳头、匀粉，就是梳妆打扮。",
+   "en": "shū yún: combing the hair and smoothing on powder, that is, dressing up."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "乍：忽然，刚刚。",
+   "en": "zhà: suddenly, just then."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "莺弄：黄莺婉转地叫。弄，鸟儿鸣叫。",
+   "en": "yīng nòng: the oriole sings. Nòng here means a bird's song."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "年时：当年，那时候。",
+   "en": "nián shí: in those years, back then."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 7,
+   "zh": "偷掷春心：偷偷地把爱慕的心意送给对方。掷，投出去。",
+   "en": "tōu zhì chūn xīn: secretly giving one's heart. Zhì means to throw."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "隔雾：隔着花丛里的雾气。",
+   "en": "gé wù: through the mist among the flowers."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "角枕：用兽角装饰的枕头。",
+   "en": "jiǎo zhěn: a pillow decorated with horn."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "题诗：在上面写诗。",
+   "en": "tí shī: writing a poem on something."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "宝钗：女子头上漂亮的钗子。钗，别在头发上的首饰。",
+   "en": "bǎo chāi: a fine hairpin."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "贳酒：赊酒，这里指拿宝钗抵押去换酒。",
+   "en": "shì jiǔ: getting wine on credit, here by pawning the hairpin."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 6,
+   "zh": "青苔深院：长满青苔的幽深院子。",
+   "en": "qīng tái shēn yuàn: a deep, quiet courtyard covered in moss."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "回廊：曲折环绕的走廊。",
+   "en": "huí láng: a winding covered walkway."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 3,
+   "zh": "但：只，只有。",
+   "en": "dàn: only."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "蜂愁蝶恨：下雨了，蜜蜂和蝴蝶都不能飞，好像也在发愁。",
+   "en": "fēng chóu dié hèn: in the rain, bees and butterflies cannot fly, as if they too were sad."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "拘管：管束，约束。",
+   "en": "jū guǎn: to watch over and keep in check."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 5,
+   "zh": "品：弹奏。",
+   "en": "pǐn: to play an instrument."
+  },
+  {
+   "line": 15,
+   "start": 5,
+   "end": 7,
+   "zh": "秦筝：古筝，一种弦乐器，相传出自秦地。",
+   "en": "qín zhēng: the zheng, a plucked string instrument said to come from the land of Qin."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 5,
+   "zh": "参差雁：筝上撑弦的小柱子斜斜排开，像一行飞雁，叫“雁柱”。参差，高低不齐。",
+   "en": "cēn cī yàn: the little bridges under the zheng's strings stand in a slanting row like flying geese, so they are called goose bridges. Cēn cī means uneven."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "腰支：腰身。同“腰肢”。",
+   "en": "yāo zhī: the waist."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "杨花：柳絮，随风飘得很远。",
+   "en": "yáng huā: willow fluff, which drifts far on the wind."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "住在华美的楼里，春天快要过去了。",
+   "en": "In the fine tower, spring is nearly over."
+  },
+  {
+   "zh": "白天静悄悄的，她连梳头打扮都懒得做。",
+   "en": "The day is quiet, and she is too weary even to comb her hair and powder her face."
+  },
+  {
+   "zh": "忽然听见乌鸦叫、黄莺唱，",
+   "en": "Suddenly she hears crows calling and orioles singing,"
+  },
+  {
+   "zh": "引起了无边无际的新愁。",
+   "en": "and they stir up endless new sorrow."
+  },
+  {
+   "zh": "记得那时候，两人偷偷把心意交给对方，",
+   "en": "She remembers how, back then, they secretly gave their hearts,"
+  },
+  {
+   "zh": "隔着花间的雾气，远远地望见彼此。",
+   "en": "and saw each other from afar through the mist among the flowers."
+  },
+  {
+   "zh": "后来在角枕上题诗，",
+   "en": "Then they wrote poems on a horn-trimmed pillow,"
+  },
+  {
+   "zh": "拿宝钗去换酒，",
+   "en": "pawned a fine hairpin for wine,"
+  },
+  {
+   "zh": "在长满青苔的深院里一起喝醉。",
+   "en": "and got drunk together in a deep, mossy courtyard."
+  },
+  {
+   "zh": "怎么能忘记，在回廊下面，",
+   "en": "How could she forget, beneath the winding walkway,"
+  },
+  {
+   "zh": "两人手拉着手，花儿明艳，月亮正圆。",
+   "en": "the place where they held hands, with bright flowers and a full moon?"
+  },
+  {
+   "zh": "如今只有傍晚的雨，",
+   "en": "Now there is only the evening rain."
+  },
+  {
+   "zh": "蜜蜂发愁，蝴蝶怨恨，",
+   "en": "The bees are sad and the butterflies grieve."
+  },
+  {
+   "zh": "她靠着小窗，呆呆地看着芭蕉叶慢慢展开。",
+   "en": "By the small window she idly watches the banana leaves unfold."
+  },
+  {
+   "zh": "可是又有谁来管她呢？",
+   "en": "But who is there to care for her?"
+  },
+  {
+   "zh": "她一句话也不说，闲闲地弹着秦筝，",
+   "en": "Without a word she idly plays the zheng,"
+  },
+  {
+   "zh": "眼泪洒满了斜排着的雁柱。",
+   "en": "and her tears fall all over its slanting goose bridges."
+  },
+  {
+   "zh": "她的腰身一天天瘦下去，",
+   "en": "Her waist grows thinner day by day,"
+  },
+  {
+   "zh": "心也跟着杨花一起飘远了。",
+   "en": "and her heart drifts far away with the willow fluff."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一位女子在暮春时节思念远方的恋人。上半首写她慵懒发愁，又回忆两人初见和相爱的情景；下半首写如今的孤单。词写于何时、为谁而写，都没有可靠的记载。它被收进了近代学者朱祖谋编选的《宋词三百首》。",
+  "en": "This ci shows a woman in late spring, missing a lover far away. The first stanza shows her weary and sad, then remembering how they first met and fell in love. The second shows how lonely she is now. There is no reliable record of when or for whom it was written. It was included in the anthology Three Hundred Song Ci, compiled by the scholar Zhu Zumou in the early twentieth century."
+ },
+ "author_note": {
+  "zh": "吕渭老，一作吕滨老，字圣求，嘉兴（今属浙江）人，生卒年不详，大约生活在北宋末到南宋初。他的生平留下的记载很少，有词集《圣求词》。他的词多写男女相思，语言清丽，有的也写到国家的危难。",
+  "en": "Lü Weilao, also written Lü Binlao, came from Jiaxing in today's Zhejiang. His birth and death years are unknown; he lived around the end of the Northern Song and the start of the Southern Song. Little is recorded about his life. His collection is called Shengqiu Ci. Most of his ci are about lovers missing each other, in clear, graceful language; some also touch on the country's troubles."
+ },
+ "appreciation": {
+  "zh": "这首词像是一个女子的日记。开头是暮春的白天，楼里静悄悄的，她连打扮都没心思。一声鸟叫，就勾起了满心的愁。接着她翻开回忆：两人隔着花雾偷偷相望，后来在枕头上题诗，拿钗子换酒，在深院里一起喝醉，回廊下手拉着手，花好月圆。这些甜蜜的画面越清楚，眼前的冷清就越难受：傍晚下着雨，连蜂蝶都发愁，她只能对着芭蕉发呆，一言不发地弹筝，眼泪落在筝柱上。最后一句最妙：人越来越瘦，心却跟着杨花飞远了，飞到那个人身边去。",
+  "en": "This ci reads like a woman's diary. It opens on a late-spring day. The tower is quiet, and she has no heart even to dress up. One birdcall stirs up all her sorrow. Then she opens her memories. They glanced at each other through the misty flowers. Later they wrote poems on a pillow, pawned a hairpin for wine, got drunk in a deep courtyard, and held hands under the walkway, with flowers bright and the moon full. The clearer these sweet pictures are, the harder the present feels. Evening rain falls, even the bees and butterflies seem sad, and she can only stare at the banana leaves and play the zheng in silence, her tears falling on its bridges. The last line is the best: she grows thinner and thinner, while her heart floats away with the willow fluff, toward the one she misses."
+ },
+ "famous_lines": [
+  18
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "memory",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

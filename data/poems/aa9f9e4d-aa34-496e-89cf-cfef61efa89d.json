@@ -1,0 +1,265 @@
+{
+ "id": "aa9f9e4d-aa34-496e-89cf-cfef61efa89d",
+ "kind": "shi",
+ "title": "宫词",
+ "title_en": "Palace Poem",
+ "author": "顾况",
+ "author_en": "Gu Kuang",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "笙",
+    "shēng"
+   ],
+   [
+    "歌",
+    "gē"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "嫔",
+    "pín"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "和",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "漏",
+    "lòu"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "晶",
+    "jīng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "河",
+    "hé"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料里是《宫词五首》的第二首，末句作“水精帘卷近银河”。《唐诗三百首》等通行本题作《宫词》，末句作“水晶帘卷近秋河”。“水精”就是“水晶”；“秋河”就是秋天夜里的银河。",
+  "en": "The source lists this as the second of \"Five Palace Poems\", with the last line ending in \"near the Silver River\". Common editions such as \"Three Hundred Tang Poems\" call it \"Palace Poem\" and end the line with \"near the autumn river\". The two words for crystal are the same thing, and the autumn river is the Milky Way on an autumn night."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "玉楼：华丽的楼阁，这里指受宠的妃子住的高楼。",
+   "en": "yù lóu: a jade tower, a splendid building. Here it is the tall tower where a favored lady lives."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "天半：半空中，形容楼很高。",
+   "en": "tiān bàn: halfway up the sky, showing how tall the tower is."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "笙歌：吹笙唱歌，泛指音乐歌声。笙，一种用很多根竹管做成的乐器。",
+   "en": "shēng gē: music and singing. A shēng is a mouth organ made of many bamboo pipes."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "宫嫔：宫里的妃子和宫女。",
+   "en": "gōng pín: ladies of the palace."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "笑语和：说笑声和音乐声混在一起。和，应和、混合。",
+   "en": "xiào yǔ hé: laughter and talk mixed with the music. Hé means to blend with."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "月殿：月光下的宫殿，指诗中这位宫女自己住的冷清宫殿。",
+   "en": "yuè diàn: a palace hall in the moonlight, here the quiet hall where the lonely lady lives."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "影开：月光照下来，宫殿的影子清楚地显出来。一说指云散开，月亮露出来。",
+   "en": "yǐng kāi: the moon shines down and the hall's shadow shows clearly. Another reading: the clouds part and the moon comes out."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "夜漏：夜里漏壶滴水的声音。漏壶是古代用滴水来计时的工具。",
+   "en": "yè lòu: the dripping of the water clock at night. A water clock told the time by dripping water."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "水晶帘：用水晶珠子串成的帘子。",
+   "en": "shuǐ jīng lián: a curtain made of strings of crystal beads."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "卷：卷起。",
+   "en": "juǎn: to roll up."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "秋河：秋夜的银河。",
+   "en": "qiū hé: the Milky Way on an autumn night."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "高高的玉楼耸入半空，楼上传来音乐和歌声。",
+   "en": "From a jade tower high in the sky come the sounds of pipes and song."
+  },
+  {
+   "zh": "风把宫女们的说笑声和着乐声送了过来。",
+   "en": "The wind carries the palace ladies' laughter, mixed with the music."
+  },
+  {
+   "zh": "月光照进冷清的宫殿，只听见夜里漏壶滴水的声音。",
+   "en": "In a moonlit hall far away, she hears only the water clock dripping through the night."
+  },
+  {
+   "zh": "卷起水晶帘子，好像离秋夜的银河很近。",
+   "en": "She rolls up the crystal curtain, and the autumn Milky Way seems close."
+  }
+ ],
+ "background": {
+  "zh": "这是一首宫怨诗。宫怨诗写的是皇宫里的女子，特别是不被皇帝宠爱的宫女，心里的孤单和委屈。唐代很多诗人都写过这类诗。这首诗具体写于哪一年，已经不清楚了。诗人借一个失宠宫女的眼睛和耳朵，写出别处热闹、自己冷清的对比。",
+  "en": "This is a palace lament. Such poems are about women in the palace, especially those the emperor no longer favored, and their loneliness and hurt. Many Tang poets wrote them. We do not know in which year this one was written. The poet uses the eyes and ears of a lady who has lost favor to show the contrast between the noisy fun elsewhere and her own quiet room."
+ },
+ "author_note": {
+  "zh": "顾况，字逋翁，唐代诗人，生卒年不太清楚，大约生活在八世纪。他做过官，后来隐居在茅山。他比白居易年长很多。相传白居易年轻时拿诗去拜见他，他开玩笑说“长安米贵，居大不易”，读了白居易的诗后又大加称赞。",
+  "en": "Gu Kuang, also called Buweng, was a Tang poet. His exact dates are unclear; he lived around the eighth century. He served as an official and later lived as a hermit on Mount Mao. He was much older than Bai Juyi. Legend says that when young Bai Juyi brought him poems, Gu Kuang joked that rice in Chang'an was expensive and living there was not easy, playing on the name Juyi. After reading the poems, he praised them highly."
+ },
+ "appreciation": {
+  "zh": "诗里有两个地方。一边是高高的玉楼，音乐不停，笑声随风飘来，那是受宠的人在欢乐。另一边是月光下的冷宫，没有音乐，没有人说话，只有漏壶一滴一滴地响。能听见滴水声，说明四周非常安静，也说明她一夜都没睡。最后她卷起帘子，看见银河好像就在眼前。可银河那么近，皇帝却那么远。一说后两句仍写那座玉楼，楼高得卷起帘子就挨着银河。不管哪种读法，诗人一个“怨”字也没写，只把热闹和冷清放在一起，让读者自己感到她的寂寞。",
+  "en": "There are two places in this poem. On one side is the tall jade tower, with endless music and laughter drifting on the wind. That is where the favored ones are having fun. On the other side is a cold hall in the moonlight. No music, no voices, only the water clock dripping drop by drop. If she can hear the drips, it must be very quiet, and she must be lying awake all night. At last she rolls up the curtain and sees the Milky Way close in front of her. The stars are so near, but the emperor is so far. Another reading says the last two lines still describe the jade tower, so tall that rolling up its curtain brings you close to the stars. Either way, the poet never says she is unhappy. He just puts the noise and the silence side by side, and lets us feel her loneliness ourselves."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "loneliness",
+   "night",
+   "music"
+  ]
+ },
+ "uncertain": []
+}

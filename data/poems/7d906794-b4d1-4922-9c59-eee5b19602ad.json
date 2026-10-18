@@ -1,0 +1,521 @@
+{
+ "id": "7d906794-b4d1-4922-9c59-eee5b19602ad",
+ "kind": "shi",
+ "title": "琴歌",
+ "title_en": "Song of the Zither",
+ "author": "李颀",
+ "author_en": "Li Qi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言古诗",
+  "en": "seven-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "主",
+    "zhǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夕",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "请",
+    "qǐng"
+   ],
+   [
+    "奏",
+    "zòu"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "广",
+    "guǎng"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "乌",
+    "wū"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "炉",
+    "lú"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "增",
+    "zēng"
+   ],
+   [
+    "辉",
+    "huī"
+   ]
+  ],
+  [
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "渌",
+    "lù"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "妃",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "皆",
+    "jiē"
+   ],
+   [
+    "静",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "座",
+    "zuò"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "奉",
+    "fèng"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "敢",
+    "gǎn"
+   ],
+   [
+    "告",
+    "gào"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "始",
+    "shǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "第五句通行本作“铜炉”。这里的底本把繁体的“鑪”转成了一个生僻字，意思一样，现在按通行本写作“炉”。",
+  "en": "In line five the usual text has tóng lú, a bronze incense burner. The source text turned the old form of lú into a rare character during conversion. The meaning is the same, so we use the usual form."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "弹",
+   "pinyin": "tán",
+   "zh": "弹琴的“弹”读 tán，不读 dàn。",
+   "en": "Here it means to play a stringed instrument, read tán, not dàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "今夕：今天晚上。",
+   "en": "jīn xī: this evening."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "鸣琴：琴，这里指弹琴。",
+   "en": "míng qín: the qin, a seven-string zither; here, playing it."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "广陵客：从广陵来的客人，指弹琴的人。广陵就是今天的江苏扬州。古代名曲《广陵散》很有名，所以用“广陵客”称赞他琴艺高超。",
+   "en": "guǎng líng kè: the guest from Guangling, meaning the zither player. Guangling is today's Yangzhou. A famous old piece was called Guangling San, so the name praises his great skill."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "乌半飞：乌鸦被月光惊起，有的飞起来，有的还停着。",
+   "en": "wū bàn fēi: the crows are startled by the moonlight; some fly up, some stay."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "霜凄：寒霜让人觉得凄冷。",
+   "en": "shuāng qī: the frost makes everything cold and cheerless."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "铜炉：铜做的香炉。",
+   "en": "tóng lú: a bronze incense burner."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "华烛：装饰华美的蜡烛。",
+   "en": "huá zhú: fine, decorated candles."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "渌水：古琴曲的名字。渌，水清的样子。",
+   "en": "lù shuǐ: Clear Water, the name of an old zither piece."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "楚妃：古琴曲的名字，也叫《楚妃叹》。",
+   "en": "chǔ fēi: The Lady of Chu, another old zither piece, also called The Sigh of the Lady of Chu."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "一声已动：琴声刚一响起。",
+   "en": "yī shēng yǐ dòng: as soon as the first note sounds."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "物皆静：周围的一切都安静下来。",
+   "en": "wù jiē jìng: everything around falls silent."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "四座：四周坐着的客人。",
+   "en": "sì zuò: the guests sitting all around."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "星欲稀：星星快要变少了，说明天快亮了。",
+   "en": "xīng yù xī: the stars are about to fade, so dawn is near."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "清淮：清澈的淮水，指淮河一带。",
+   "en": "qīng huái: the clear Huai River, meaning the Huai River region."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "奉使：接受朝廷的派遣，去外地办事。",
+   "en": "fèng shǐ: to be sent on an official mission."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "敢告：冒昧地告诉。一种客气的说法。",
+   "en": "gǎn gào: may I tell; a polite way of speaking."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "云山：白云和高山，常用来指隐居的地方。",
+   "en": "yún shān: clouds and mountains, often standing for a hermit's life."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "主人备好了酒，今晚大家尽情欢乐，",
+   "en": "Our host has wine, and tonight we make merry."
+  },
+  {
+   "zh": "请那位来自广陵的琴师弹一曲。",
+   "en": "We ask the zither master from Guangling to play."
+  },
+  {
+   "zh": "月光照在城头，乌鸦被惊得半飞半停，",
+   "en": "Moonlight falls on the city wall; half the crows take flight."
+  },
+  {
+   "zh": "寒霜让万树都显得凄冷，冷风钻进衣服。",
+   "en": "Frost chills ten thousand trees, and the wind slips into our clothes."
+  },
+  {
+   "zh": "铜香炉和华美的蜡烛，烛光越发明亮，",
+   "en": "By the bronze burner the fine candles shine ever brighter."
+  },
+  {
+   "zh": "他先弹《渌水》，后弹《楚妃》。",
+   "en": "First he plays Clear Water, then The Lady of Chu."
+  },
+  {
+   "zh": "琴声一响，四周一切都静了下来，",
+   "en": "At the first note, all things fall still."
+  },
+  {
+   "zh": "满座的人都不说话，星星也快要稀少了。",
+   "en": "No one in the room says a word, and the stars begin to fade."
+  },
+  {
+   "zh": "我奉命出使到千里之外的淮水一带，",
+   "en": "I am sent on duty to the clear Huai, a thousand miles away."
+  },
+  {
+   "zh": "请让我告诉云和山：我的隐居之心从这里开始。",
+   "en": "May I tell the clouds and mountains: from here it begins."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是一次送别宴会上听琴的情景。从最后两句看，李颀当时要奉命到千里之外的淮水一带去，朋友设宴为他送行，请琴师弹琴。具体是哪一年、去做什么事，现在已经说不清楚了。",
+  "en": "The poem describes listening to the zither at a farewell feast. The last two lines show that Li Qi was about to be sent on duty to the Huai River region, a thousand miles away. A friend held a feast to see him off and asked a zither master to play. We no longer know the year, or what the mission was."
+ },
+ "author_note": {
+  "zh": "李颀（约690—约751），唐代诗人，做过新乡县尉这样的小官，后来辞官隐居。他擅长写边塞诗，也很会写音乐。他写听琴、听胡笳、听觱篥的诗，都把声音写得活灵活现，这首《琴歌》就是其中一首。",
+  "en": "Li Qi (about 690 to about 751) was a Tang poet. He held small posts, such as a county officer in Xinxiang, and later left office to live quietly. He was known for poems of the frontier, and also for poems about music. His poems on hearing the zither, the reed pipe and other instruments make the sound come alive, and this is one of them."
+ },
+ "appreciation": {
+  "zh": "这首诗写听琴，却很少直接写琴声有多好听。前两句点出宴会和琴师。三四句先写屋外：月光、乌鸦、寒霜、冷风，一片清冷，好像在为琴声铺一层安静的底色。五六句回到屋里，烛光明亮，琴师先后弹了两支名曲。最妙的是七八句：琴声一响，万物都静；满座无言，直到星星快要稀了。诗人不说琴声多美，只写大家听得入迷、忘了时间，读者自然能想到琴声的动人。最后两句说自己要远行，听了这样的琴声，便想从此走向云山，过清静的日子。一说“从此始”是说这趟远行从今夜开始。",
+  "en": "This is a poem about the zither that hardly says how the music sounds. The first two lines set up the feast and the player. Lines three and four show the scene outside: moonlight, crows, frost, cold wind. Everything is cool and clear, like a quiet background laid down for the music. Lines five and six come back inside, where candles shine and the player performs two famous pieces. The best part is lines seven and eight. At the first note all things go still. No one speaks, until the stars begin to fade. The poet never says the music is beautiful. He only shows that everyone listens so deeply they forget the time, and we can feel how moving it must be. The last two lines say he must travel far. After music like this, he wants to head for the clouds and mountains and live a quiet life. Another reading takes the last line to mean his long journey begins tonight."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "music",
+   "night",
+   "farewell",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

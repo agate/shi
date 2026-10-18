@@ -1,0 +1,444 @@
+{
+ "id": "ci-4691e1e0f547",
+ "kind": "ci",
+ "title": "玉楼春·池塘水绿春微暖",
+ "title_en": "Jade Tower Spring: The Pond Is Green, Spring a Little Warm",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "真",
+    "zhēn"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "面",
+    "miàn"
+   ]
+  ],
+  [
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "韵",
+    "yùn"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ],
+   [
+    "铮",
+    "zhēng"
+   ],
+   [
+    "𫓩",
+    "cōng"
+   ]
+  ],
+  [
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "腰",
+    "yāo"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "旋",
+    "xuán"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "钩",
+    "gōu"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "畔",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "检",
+    "jiǎn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "半",
+    "bàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "这首词更常见的是收在晏殊名下的版本，题为《木兰花》，文字是：“池塘水绿风微暖”“重头歌韵响琤琮”“玉钩阑下香阶畔”“醉后不知斜日晚”。这里保留底本收在欧阳修名下的文字：“春微暖”“从头”“铮𫓩”“玉钩帘”“红日晚”。",
+  "en": "This lyric is better known in a version under Yan Shu's name, titled Magnolia Blossoms. That version has fēng wēi nuǎn (the breeze a little warm), chóng tóu (the repeated part), chēng cóng (a jade-like ringing), yù gōu lán (a fine railing) and xié rì (the setting sun). Here we keep the source text, filed under Ouyang Xiu: chūn wēi nuǎn (spring a little warm), cóng tóu (from the beginning), zhēng cōng (a metal-like ringing), yù gōu lián (a curtain on jade hooks) and hóng rì (the red sun)."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "𫓩",
+   "pinyin": "cōng",
+   "zh": "“铮𫓩”的“𫓩”读 cōng，是金属或玉石相撞的声音，这个字很少见。",
+   "en": "This rare character is read cōng; it is the sound of metal or jade striking together."
+  },
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "旋",
+   "pinyin": "xuán",
+   "zh": "“乱旋”的“旋”是旋转的意思，读 xuán。",
+   "en": "Here the character means to spin, so it is read xuán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "春微暖：春天的天气微微暖和。",
+   "en": "chūn wēi nuǎn: the spring weather is a little warm."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "玉真：本来指仙女，这里指一位像仙女一样美的歌舞女子。",
+   "en": "yù zhēn: a fairy; here it means a singer and dancer as lovely as a fairy."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "从头：从开头起。",
+   "en": "cóng tóu: from the very beginning."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "歌韵：歌声的音调。",
+   "en": "gē yùn: the tune of the singing."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "铮𫓩：金属、玉石相碰的清脆声音，这里形容歌声清亮。",
+   "en": "zhēng cōng: the clear sound of metal or jade striking; here it describes a bright, clear voice."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "入破：唐宋大曲里的一段，到这里节奏突然变快，舞蹈也跟着急促起来。",
+   "en": "rù pò: a part of a long Tang and Song dance suite where the beat suddenly speeds up and the dance grows fast."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "舞腰红乱旋：跳舞的人腰身转动，红色的衣裙飞快地旋转。",
+   "en": "wǔ yāo hóng luàn xuán: the dancer's waist turns and her red skirt whirls fast."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "玉钩帘：用玉钩挂起来的帘子。",
+   "en": "yù gōu lián: a curtain hung on jade hooks."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "香阶：落着花瓣、带着香气的台阶。",
+   "en": "xiāng jiē: steps scented by fallen petals."
+  },
+  {
+   "line": 4,
+   "start": 6,
+   "end": 7,
+   "zh": "畔：旁边。",
+   "en": "pàn: beside."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "红日：太阳。“红日晚”是说太阳快落山了。",
+   "en": "hóng rì: the red sun. Hóng rì wǎn means the sun is going down."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "共我：和我一起。",
+   "en": "gòng wǒ: together with me."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "点检：一个一个地清点、数。",
+   "en": "diǎn jiǎn: to count one by one."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "池塘里的水绿了，春天微微暖和起来。",
+   "en": "The pond water has turned green, and spring is a little warm."
+  },
+  {
+   "zh": "我还记得第一次见到那位像仙女一样美的姑娘。",
+   "en": "I still remember the first time I saw that girl, lovely as a fairy."
+  },
+  {
+   "zh": "她从头唱起，歌声像金玉相碰一样清脆。",
+   "en": "She sang from the beginning, her voice ringing clear like metal and jade."
+  },
+  {
+   "zh": "舞曲节奏变快，她腰身转动，红裙飞旋。",
+   "en": "When the music sped up, her waist turned and her red skirt whirled."
+  },
+  {
+   "zh": "在玉钩挂起的帘子下，在花香飘飘的台阶旁，",
+   "en": "Below the curtain on its jade hooks, beside the petal-scented steps,"
+  },
+  {
+   "zh": "我喝醉了，连太阳快落山了都不知道。",
+   "en": "I was so drunk I did not notice the sun was going down."
+  },
+  {
+   "zh": "当年和我一起赏花的那些人，",
+   "en": "Of the people who enjoyed the flowers with me back then,"
+  },
+  {
+   "zh": "如今数一数，已经不到一半了。",
+   "en": "if I count them now, not even half are left."
+  }
+ ],
+ "background": {
+  "zh": "这首词回忆多年前一个春天，在宴会上初见一位歌舞女子的情景，结尾感叹当年一起赏花的人如今已经不到一半。它同时出现在晏殊和欧阳修两个人的名下，只有几个字不同。通行的选本大多把它算作晏殊的《木兰花》，这里是收在欧阳修名下的版本。到底是谁写的，还没有定论，写作时间也不清楚。",
+  "en": "This lyric looks back to a spring many years ago, when the poet first saw a young singer and dancer at a feast. At the end he sighs that, of the friends who enjoyed the flowers with him then, not even half are left. The same lyric appears under both Yan Shu's and Ouyang Xiu's names, with only a few words different. Most anthologies count it as Yan Shu's Magnolia Blossoms; this is the version filed under Ouyang Xiu. Who really wrote it is not settled, and we do not know when it was written."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），号醉翁，晚年又号六一居士，北宋文学家，“唐宋八大家”之一。他年轻时得到晏殊的赏识，两人都爱写宴会、春光和离愁，词风很接近，所以有些词会同时出现在两人的集子里，这首就是一例。",
+  "en": "Ouyang Xiu (1007–1072), who called himself the Old Drunkard and later the Retired Scholar of Six Ones, was a Northern Song writer and one of the Eight Great Prose Masters of Tang and Song. When young he was valued by Yan Shu. Both liked to write about feasts, spring light and the sadness of parting, and their styles are close. So some lyrics turn up in both men's collections, and this is one of them."
+ },
+ "appreciation": {
+  "zh": "上半首像一段彩色的回忆：春天的池塘绿了，那位姑娘第一次出现。她从头唱起，声音清脆得像金玉相碰；节奏一快，她的红裙转成一团火。读的时候，好像自己也坐在宴会上，看得入了迷。下半首接着写那天的快乐：帘下阶前，大家喝得大醉，太阳落山都不知道。最后两句一下子回到现在：当年一起赏花的人，数一数已经不到一半。热闹的过去和冷清的现在放在一起，时光飞逝、人事无常的感慨说得很轻，却让人久久难忘。",
+  "en": "The first half is like a colorful memory. The spring pond is green, and the girl appears for the first time. She sings from the start, her voice as clear as metal and jade striking. When the beat speeds up, her red skirt spins like a flame. As you read, it is as if you sit at the feast too, lost in the show. The second half goes on with that happy day: under the curtain, by the steps, everyone got so drunk that no one noticed the sunset. Then the last two lines jump back to now. Of the friends who enjoyed the flowers together, not even half are left. Putting the lively past next to the lonely present, the poem says softly how fast time flies and how nothing stays the same, and the feeling stays with you."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "banquet",
+   "dance",
+   "time",
+   "friendship"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "这首词又见于晏殊的《珠玉词》，文字稍有不同，通行选本多归晏殊。作者是晏殊还是欧阳修，没有定论。",
+   "en": "This lyric also appears in Yan Shu's collection with slightly different words, and most anthologies give it to Yan Shu. Whether Yan Shu or Ouyang Xiu wrote it is not settled."
+  }
+ ]
+}

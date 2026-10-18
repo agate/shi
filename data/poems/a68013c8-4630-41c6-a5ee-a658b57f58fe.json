@@ -1,0 +1,350 @@
+{
+ "id": "a68013c8-4630-41c6-a5ee-a658b57f58fe",
+ "kind": "shi",
+ "title": "淮上喜会梁川故人",
+ "title_en": "Glad to Meet an Old Friend from Liangchuan on the Huai River",
+ "author": "韦应物",
+ "author_en": "Wei Yingwu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "每",
+    "měi"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "间",
+    "jiān"
+   ]
+  ],
+  [
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "旧",
+    "jiù"
+   ]
+  ],
+  [
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "斑",
+    "bān"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里用通行本。资料库最后两句作“何因北归去，淮上对秋山”，通行本作“何因不归去，淮上有秋山”；“萧疎”的“疎”是“疏”的异体字。题目里的“梁川”，有的本子作“梁州”。",
+  "en": "This uses the common text. In the corpus the last two lines read \"Why go back north? On the Huai I face the autumn hills.\" The common text reads \"Why not go back? On the Huai there are autumn hills.\" The corpus also writes \"thin\" in line six with a variant character. Some editions write Liangzhou instead of Liangchuan in the title."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "“为客”是做客、客居的意思，“为”读 wéi。",
+   "en": "Wéi kè means to live as a guest far from home, so the character is read wéi."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还”在这里是回去的意思，读 huán。",
+   "en": "Here the character means to go back home, so it is read huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "江汉：长江和汉水一带。梁州（今陕西汉中一带）就在汉水上游。",
+   "en": "jiāng hàn: the lands along the Yangtze and the Han River. Liangzhou, near today's Hanzhong in Shaanxi, is on the upper Han."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "为客：在外地做客，客居。",
+   "en": "wéi kè: to live as a guest far from home."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "每醉还：每次都喝醉了才回去。",
+   "en": "měi zuì huán: every time, we went home drunk."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "浮云：飘来飘去的云。比喻两人分别后像浮云一样四处飘荡。",
+   "en": "fú yún: drifting clouds. After parting, the two friends drifted apart like clouds."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "流水：像流水一样，时间一去不回头。",
+   "en": "liú shuǐ: like flowing water, time passes and never comes back."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "萧疏：稀稀落落的样子，这里指头发稀少。",
+   "en": "xiāo shū: thin and sparse; here, thinning hair."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "鬓：脸两边靠近耳朵的头发。",
+   "en": "bìn: the hair at the temples, by the ears."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "斑：花白，黑发里夹着白发。",
+   "en": "bān: streaked with gray."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "何因：为什么。",
+   "en": "hé yīn: why."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "淮上：淮河边上。",
+   "en": "huái shàng: on the banks of the Huai River."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "当年我们都在江汉一带客居，",
+   "en": "Long ago we were both guests far from home, by the Yangtze and the Han."
+  },
+  {
+   "zh": "每次相聚，都喝醉了才回去。",
+   "en": "Each time we met, we went home drunk."
+  },
+  {
+   "zh": "自从像浮云一样分别以后，",
+   "en": "Since we parted and drifted like clouds,"
+  },
+  {
+   "zh": "时间像流水一样，一晃就是十年。",
+   "en": "time has flowed away like water: ten years have passed."
+  },
+  {
+   "zh": "今天欢声笑语，情谊还和从前一样，",
+   "en": "Today we laugh and talk, and our friendship is just as before,"
+  },
+  {
+   "zh": "只是头发已经稀疏，两鬓都花白了。",
+   "en": "but our hair has grown thin, and our temples are gray."
+  },
+  {
+   "zh": "你问我为什么不回去？",
+   "en": "Why don't I go home, you ask?"
+  },
+  {
+   "zh": "因为这淮河边上，有我喜爱的秋山啊。",
+   "en": "Because here on the Huai there are the autumn hills I love."
+  }
+ ],
+ "background": {
+  "zh": "韦应物年轻时曾在梁州一带客居，和一位朋友常常一起喝酒。十年以后，两人在淮河边上意外重逢，诗人又高兴又感慨，写下这首诗。“梁川”指梁州，在今天陕西汉中一带。这首诗具体写于哪一年，这位朋友是谁，都已经不清楚了。一般认为是韦应物在淮河一带做官时写的。",
+  "en": "When he was young, Wei Yingwu lived for a time in the Liangzhou area as a guest, and often drank with a friend there. Ten years later the two met again by chance beside the Huai River. The poet was happy and moved, and wrote this poem. Liangchuan means Liangzhou, near today's Hanzhong in Shaanxi. We no longer know the year it was written or who the friend was. It is usually thought he wrote it while serving as an official near the Huai."
+ },
+ "author_note": {
+  "zh": "韦应物（约737—约791），唐代诗人，长安人。年轻时做过唐玄宗的侍卫，为人任性。后来发奋读书，做过苏州刺史，所以人称“韦苏州”。他的诗风格淡雅，常写山水和友情，后人把他和王维、孟浩然、柳宗元并称。",
+  "en": "Wei Yingwu (about 737 to about 791) was a Tang poet from Chang'an. As a young man he was a guard for Emperor Xuanzong and was rather wild. Later he studied hard and became governor of Suzhou, so people called him Wei of Suzhou. His poems are calm and plain, often about nature and friendship. Later readers placed him beside Wang Wei, Meng Haoran and Liu Zongyuan."
+ },
+ "appreciation": {
+  "zh": "这首诗写老朋友重逢，喜中带着悲。头两句回忆过去：年轻时在外地，见面就喝醉，多么快活。三、四句用“浮云”和“流水”，写分别后漂泊不定、时光飞逝，一下子就过了十年。五、六句写眼前：笑声还像当年一样，可是两人的头发都白了，这一对比让人心酸。最后两句是问答：为什么不回家乡？因为淮河边有秋山。这个回答有点轻松，又有点无奈，留给读者慢慢体会。",
+  "en": "This poem is about old friends meeting again, with sadness mixed into the joy. The first two lines look back. When they were young and far from home, they got drunk every time they met. How happy they were. Lines three and four use drifting clouds and flowing water to show how they wandered apart and how time flew: suddenly ten years were gone. Lines five and six show the present. Their laughter is the same as before, but both have gone gray. That contrast hurts. The last two lines are a question and an answer. Why not go home? Because there are autumn hills by the Huai. The answer sounds light, but it also hides a quiet helplessness, left for the reader to feel."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "reunion",
+   "time",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

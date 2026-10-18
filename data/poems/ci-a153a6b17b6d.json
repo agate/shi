@@ -1,0 +1,472 @@
+{
+ "id": "ci-a153a6b17b6d",
+ "kind": "ci",
+ "title": "渔家傲·小雨廉纤风细细",
+ "title_en": "Yu Jia Ao: Fine Rain and a Gentle Breeze",
+ "author": "朱服",
+ "author_en": "Zhu Fu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "廉",
+    "lián"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "细",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "恋",
+    "liàn"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "比",
+    "bǐ"
+   ]
+  ],
+  [
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "付",
+    "fù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "几",
+    "jǐ"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "龟",
+    "guī"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "尽",
+    "jǐn"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "计",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "沽",
+    "gū"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "市",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "拼",
+    "pàn"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "而",
+    "ér"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "通行本作“万家杨柳青烟里”“和春付与东流水”，底本作“轻烟里”“西流水”。首句也有版本作“小雨纤纤风细细”。",
+  "en": "The common text reads \"green mist\" in line 2 and \"water flowing east\" in line 5. The source has \"light mist\" and \"water flowing west\". Some versions also open with a different word for the fine rain."
+ },
+ "readings": [
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "拼",
+   "pinyin": "pàn",
+   "zh": "“拼一醉”的“拼”同“拚”，是豁出去、舍弃一切的意思，古诗词里读 pàn。现在也有人读 pīn。",
+   "en": "Here the character means the same as an older one, \"to give everything up for\", read pàn in old poems. Some today read it pīn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "廉纤：细小，形容毛毛细雨。",
+   "en": "lián xiān: very fine, describing drizzle."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "青烟：青色的烟雾，这里指雨中柳树像笼着一层雾。",
+   "en": "qīng yān: a blue-green mist, here the willows in the rain looking veiled in haze."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "恋树湿花：被雨打湿的花，好像舍不得离开树枝。",
+   "en": "liàn shù shī huā: rain-soaked blossoms that seem unwilling to leave the branch."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "无比：没有什么能比得上，非常多。",
+   "en": "wú bǐ: beyond compare, too much."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "和春：连同春天一起。和，连带。",
+   "en": "hé chūn: together with spring. Hé here means along with."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "付与：交给。",
+   "en": "fù yǔ: to hand over to."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "九十光阴：春天三个月，大约九十天。",
+   "en": "jiǔ shí guāng yīn: the ninety days of spring, its three months."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "金龟：唐代官员佩戴的金龟形饰物，代表官位。传说贺知章曾解下金龟换酒，招待李白。",
+   "en": "jīn guī: a gold turtle ornament worn by Tang officials as a sign of rank. Legend says He Zhizhang once took his off to pay for wine for Li Bai."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "留无计：没有办法留住春天。",
+   "en": "liú wú jì: no way to make spring stay."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "寄语：捎个话，转告。",
+   "en": "jì yǔ: to send word."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "沽酒市：卖酒的地方。沽，买或卖。",
+   "en": "gū jiǔ shì: the place where wine is sold. Gū is to buy or sell."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "拼一醉：豁出去大醉一场。",
+   "en": "pàn yī zuì: to throw everything aside and get drunk."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "而今：如今，现在。",
+   "en": "ér jīn: now."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "他年：以后的某一年，将来。",
+   "en": "tā nián: some year to come."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "小雨细细密密，风也轻轻柔柔，",
+   "en": "The rain is a fine drizzle, the breeze soft and gentle,"
+  },
+  {
+   "zh": "千家万户的杨柳都笼罩在青烟似的雨雾里。",
+   "en": "and the willows of ten thousand homes stand in a green haze."
+  },
+  {
+   "zh": "被雨打湿的花舍不得离开树枝，想飞也飞不起来。",
+   "en": "The wet blossoms cling to the branches; they cannot fly away."
+  },
+  {
+   "zh": "我的愁多得没法比，",
+   "en": "My sorrow has no equal;"
+  },
+  {
+   "zh": "连同春天一起，都交给了东去的流水。",
+   "en": "together with spring, I give it all to the water flowing east."
+  },
+  {
+   "zh": "春天九十天，又能剩下多少？",
+   "en": "Spring has ninety days; how many are left?"
+  },
+  {
+   "zh": "就算把金龟都解下来换酒，也没法把春天留住。",
+   "en": "Even if I trade all my gold for wine, there is no way to keep it here."
+  },
+  {
+   "zh": "捎个话给东城卖酒的地方：",
+   "en": "Send word to the wine shops in the east of town:"
+  },
+  {
+   "zh": "我要豁出去大醉一场。",
+   "en": "I mean to drink myself completely drunk."
+  },
+  {
+   "zh": "因为今天的快乐，到将来都会变成眼泪。",
+   "en": "For today's joys will be tomorrow's tears."
+  }
+ ],
+ "background": {
+  "zh": "这是一首惜春的词，写春末细雨中的愁绪，具体写作时间已经不清楚。朱服留下来的词很少，这一首因为最后一句“而今乐事他年泪”写得深刻，流传很广，被选进了《宋词三百首》。",
+  "en": "This is a lyric about grieving for the end of spring. It shows the sad mood of a late-spring drizzle. Exactly when it was written is no longer known. Very few of Zhu Fu's lyrics survive. This one became widely known because of its deep last line, \"today's joys will be tomorrow's tears\", and it was chosen for the famous collection Three Hundred Song Lyrics."
+ },
+ "author_note": {
+  "zh": "朱服，字行中，湖州乌程（今浙江湖州）人，北宋人。他在宋神宗熙宁年间考中进士，做过地方官和朝廷的官，后来在官场上受到排挤，被贬到外地。他不以写词出名，作品留下的很少，这首《渔家傲》是他的代表作。",
+  "en": "Zhu Fu came from Wucheng in Huzhou, Zhejiang. He lived in the Northern Song. He passed the top imperial exam under Emperor Shenzong, and served both in the provinces and at court. Later he was pushed aside in court politics and sent away from the capital. He was not known as a lyric writer, and few of his works survive. This lyric is his best known piece."
+ },
+ "appreciation": {
+  "zh": "上片是一幅湿漉漉的春景：小雨细得像雾，风轻轻地吹，满城柳树都罩在青烟里。最动人的是“恋树湿花飞不起”：花被雨打湿了，粘在枝头飞不起来，好像舍不得离开树。可它终究要落，春天终究要走，于是词人把愁和春天一起交给东流的水。下片算起账来：春天一共九十天，还剩几天？就算像古人那样解下金龟去换酒，也留不住它。那就干脆去喝个大醉吧。最后一句一下子说到了人生：现在越快乐，将来回想起来就越会流泪。这句话又平常又深刻，读过就很难忘。",
+  "en": "The first stanza is a soaking-wet spring scene. The rain is as fine as mist, the breeze blows softly, and all the willows in town stand in a green haze. The most touching line is about the wet blossoms. Soaked by rain, they stick to the branches and cannot fly away, as if they do not want to leave the tree. But in the end they will fall, and spring will go. So the poet hands his sorrow, together with spring, to the river flowing east. The second stanza does the sums. Spring has ninety days; how many are left? Even if he traded his gold ornament for wine like the old poets, he could not keep it. So he will just go and get drunk. The last line suddenly speaks about all of life: the happier we are now, the more we will cry when we remember it later. It is simple and deep at once, and hard to forget once you have read it."
+ },
+ "famous_lines": [
+  2,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "end-of-spring",
+   "rain",
+   "wine",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

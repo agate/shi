@@ -1,0 +1,374 @@
+{
+ "id": "ci-0917f741f7a7",
+ "kind": "ci",
+ "title": "清平乐·春晚",
+ "title_en": "Qing Ping Yue: Late Spring",
+ "author": "王安国",
+ "author_en": "Wang Anguo",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "费",
+    "fèi"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "污",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "琵",
+    "pí"
+   ],
+   [
+    "琶",
+    "pá"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "肯",
+    "kěn"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料只题词牌“清平乐”，最后一句作“春风自在梨花”。通行本（如《宋词三百首》）题作“清平乐·春晚”，末句作“春风自在杨花”。",
+  "en": "The corpus gives only the tune name, and its last line ends with \"pear blossom\". Common editions, such as Three Hundred Song Ci, add the title \"Late Spring\" and end the last line with \"willow catkins\"."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "留春不住：想把春天留下，却留不住。",
+   "en": "liú chūn bú zhù: trying to make spring stay, but it will not."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 5,
+   "zh": "费尽莺儿语：黄莺叫个不停，好像费尽了口舌在挽留春天。",
+   "en": "fèi jìn yīng ér yǔ: the orioles sing on and on, as if they have used up all their words begging spring to stay."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "残红：落下来的花瓣。",
+   "en": "cán hóng: fallen petals, literally \"leftover red\"."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "宫锦污：像宫里织的华美锦缎被弄脏了。宫锦，皇宫里用的上等锦缎。",
+   "en": "gōng jǐn wū: like fine palace brocade that has been soiled. Gōng jǐn was the best silk brocade, woven for the palace."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "南园：南边的园子。",
+   "en": "nán yuán: the garden to the south."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "小怜：本来是古代北齐一位会弹琵琶的妃子的名字，这里借指弹琵琶的歌女。",
+   "en": "xiǎo lián: the name of a consort of the old Northern Qi court who played the pipa. Here it stands for a singing girl who plays the pipa."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "初上琵琶：刚刚弹起琵琶。",
+   "en": "chū shàng pí pá: just beginning to play the pipa, a plucked lute."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "晓来：天亮的时候。",
+   "en": "xiǎo lái: at daybreak."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "思绕天涯：思绪飘到了天边。天涯，天的尽头，很远的地方。",
+   "en": "sī rào tiān yá: thoughts drifting to the edge of the sky. Tiān yá means the end of the world, somewhere very far."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 6,
+   "zh": "画堂朱户：画着彩画的厅堂，涂着红漆的大门，指富贵人家。",
+   "en": "huà táng zhū hù: painted halls and red-lacquered doors, that is, the homes of the rich and powerful."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "自在：自由自在。",
+   "en": "zì zài: free and easy."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "杨花：柳絮，柳树的种子带着白色的绒毛，春末随风到处飘。",
+   "en": "yáng huā: willow catkins, the fluffy white seeds that drift everywhere on the wind in late spring."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天留也留不住，",
+   "en": "Spring cannot be made to stay,"
+  },
+  {
+   "zh": "黄莺费尽了口舌，也没能挽留它。",
+   "en": "though the orioles have used up all their song begging it."
+  },
+  {
+   "zh": "满地都是落花，像华美的锦缎被弄脏了，",
+   "en": "Fallen petals cover the ground like soiled palace brocade,"
+  },
+  {
+   "zh": "那是昨夜南园里的一场风雨。",
+   "en": "left by last night's wind and rain in the south garden."
+  },
+  {
+   "zh": "歌女刚刚弹起琵琶，",
+   "en": "The singing girl has just begun to play her pipa;"
+  },
+  {
+   "zh": "天亮时，思绪已经飘到了天边。",
+   "en": "by daybreak her thoughts have drifted to the ends of the earth."
+  },
+  {
+   "zh": "杨花不肯飞进富贵人家的画堂红门，",
+   "en": "The willow catkins will not drift into painted halls behind red doors;"
+  },
+  {
+   "zh": "只在春风里自由自在地飘荡。",
+   "en": "they float free and easy on the spring wind."
+  }
+ ],
+ "background": {
+  "zh": "这首词写春天快要结束时的景色和心情。一夜风雨，园中花落满地，春天留不住了。词的最后借杨花不进富贵人家、只在春风里自由飘荡，一般认为寄托了词人不愿攀附权贵的性格。这首词写于哪一年，已经说不清了。",
+  "en": "This ci shows the scene and mood at the very end of spring. After a night of wind and rain, the garden is covered in fallen flowers, and spring cannot be held back. At the end, the willow catkins refuse to enter the homes of the rich and float freely on the wind. This is usually read as showing the poet's own refusal to seek favor from the powerful. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "王安国（1028—1074），字平甫，北宋人，是王安石的弟弟。他很有才学，性格正直。哥哥王安石推行变法时，他并不完全赞同，还曾当面提出意见。他留下的词不多，这首《清平乐》是最有名的一首。",
+  "en": "Wang Anguo (1028–1074) was a Northern Song scholar and the younger brother of the statesman Wang Anshi. He was gifted and upright. When his brother pushed through his great reforms, Wang Anguo did not fully agree and even told him so to his face. Only a few of his ci survive, and this one is the most famous."
+ },
+ "appreciation": {
+  "zh": "上片写春天走了。开头就很无奈：春天留不住，连黄莺叫了那么久也没用。接着看地上：一夜风雨，落花铺满了园子，像漂亮的锦缎被弄脏了，又美又可惜。下片写人。歌女弹起琵琶，到天亮时，心思已经飘到很远的地方，春愁无处可说。最后两句最有名：杨花不肯飞进那些画堂红门的富贵人家，宁愿在春风里自由自在地飘。杨花本来是没有主意的东西，词人却说它“不肯”，好像它也有骨气。这其实是词人在说自己：宁可自在，也不去讨好别人。",
+  "en": "The first half shows spring leaving. It opens helplessly: spring will not stay, and even the orioles singing so long cannot keep it. Then look at the ground: after a night of wind and rain, fallen flowers cover the garden like lovely brocade that has been soiled, beautiful and sad at once. The second half turns to people. A singing girl plays her pipa, and by daybreak her thoughts have wandered far away, with a spring sadness she cannot speak. The last two lines are the most famous. The willow catkins will not fly into the painted halls of the rich; they would rather drift freely on the spring wind. Catkins have no will of their own, yet the poet says they \"will not\", as if they had backbone. He is really talking about himself: better to be free than to flatter others."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "fallen-flowers",
+   "willow-catkins",
+   "integrity",
+   "freedom"
+  ]
+ },
+ "uncertain": []
+}

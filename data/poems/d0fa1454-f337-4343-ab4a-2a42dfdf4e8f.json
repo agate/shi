@@ -1,0 +1,262 @@
+{
+ "id": "d0fa1454-f337-4343-ab4a-2a42dfdf4e8f",
+ "kind": "shi",
+ "title": "春宫曲",
+ "title_en": "Spring in the Palace",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "井",
+    "jǐng"
+   ],
+   [
+    "桃",
+    "táo"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "央",
+    "yāng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "轮",
+    "lún"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "宠",
+    "chǒng"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "赐",
+    "cì"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "袍",
+    "páo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "风开：春风把花吹开了。",
+   "en": "fēng kāi: the spring wind made the flowers open."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "露井：上面没有亭子遮盖的井。",
+   "en": "lù jǐng: an open well, with no shelter built over it."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "未央：未央宫，汉朝长安城里的皇宫。",
+   "en": "wèi yāng: the Weiyang Palace, the imperial palace in Chang'an in the Han dynasty."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "前殿：皇宫正面的大殿。",
+   "en": "qián diàn: the front hall, the main hall of the palace."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "月轮：圆圆的月亮，像一个轮子。",
+   "en": "yuè lún: the round moon, shaped like a wheel."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "平阳歌舞：平阳公主家里会唱歌跳舞的女子，指卫子夫。汉武帝在姐姐平阳公主家看中了她，把她带进宫中。",
+   "en": "píng yáng gē wǔ: the singing and dancing girl from Princess Pingyang's house, meaning Wei Zifu. Emperor Wu of Han noticed her at his sister Princess Pingyang's home and took her into the palace."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "新：刚刚。",
+   "en": "xīn: just now, newly."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "承宠：得到皇帝的宠爱。",
+   "en": "chéng chǒng: to win the emperor's favor."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "帘外：门帘外面。",
+   "en": "lián wài: outside the curtain."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "赐：皇帝送给臣下或宫人东西。",
+   "en": "cì: to grant, when the emperor gives something to someone below him."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "锦袍：用彩色丝织品做的长袍，很贵重。",
+   "en": "jǐn páo: a robe made of colorful brocade, very precious."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "昨天夜里，春风吹开了井边的桃花。",
+   "en": "Last night the spring wind opened the peach blossoms by the open well."
+  },
+  {
+   "zh": "未央宫前殿上空，一轮明月高高挂着。",
+   "en": "Above the front hall of the Weiyang Palace, a round moon rode high."
+  },
+  {
+   "zh": "平阳公主家的歌女，刚刚得到皇帝的宠爱。",
+   "en": "The singing girl from Princess Pingyang's house has just won the emperor's favor."
+  },
+  {
+   "zh": "帘外春夜还有些冷，皇帝赏给她一件锦袍。",
+   "en": "Outside the curtain the spring night is chilly, so the emperor gives her a brocade robe."
+  }
+ ],
+ "background": {
+  "zh": "这首诗又题作《殿前曲》，是一首宫怨诗，就是替皇宫里被冷落的女子诉说心事的诗。诗里用的是汉朝的故事：汉武帝在平阳公主家看中歌女卫子夫，把她带进宫，后来她很受宠爱。唐朝诗人常常借汉朝的事来写唐朝的宫廷。这首诗具体写于哪一年，已经无法确定。",
+  "en": "This poem is also titled \"Song Before the Hall\". It is a palace lament, a kind of poem that speaks for women in the palace who have been forgotten. It uses a story from the Han dynasty. Emperor Wu of Han saw a singing girl named Wei Zifu at Princess Pingyang's house, took her into the palace, and she became his great favorite. Tang poets often used Han stories to write about the Tang court. We cannot tell what year this poem was written."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），字少伯，盛唐诗人。他最擅长写七言绝句，被后人称为“七绝圣手”。他写边塞的诗很有名，比如《出塞》；他也写了不少宫怨诗，细细写出深宫女子的孤单和愁苦。",
+  "en": "Wang Changling (c. 698–c. 757), also called Shaobo, was a poet of the High Tang. He was the finest writer of seven-character quatrains, and later readers called him the Master of the Seven-Character Quatrain. He is famous for poems about the frontier, such as \"Out to the Frontier\". He also wrote many palace laments that show the loneliness and sorrow of women shut inside the palace."
+ },
+ "appreciation": {
+  "zh": "这首诗从头到尾没有一个“怨”字，却处处是怨。前两句写春夜的宫廷：桃花开了，月亮高高挂着，一片美好。第三句说，新来的歌女刚刚得到皇帝的宠爱。第四句写一个小细节：怕她冷，皇帝亲手赏她锦袍，可见有多疼她。那么，是谁在看这一切呢？一般认为，是一位已经失宠的宫女。她站在帘外，看着别人被宠爱，自己却在春寒里孤零零的。别人越热闹，她越冷清。诗人只写别人的得宠，让读者自己体会旁观者的心酸。",
+  "en": "The poem never once uses the word for grievance, yet grievance fills every line. The first two lines show the palace on a spring night: peach blossoms open, the moon rides high, and all is lovely. The third line says a new singing girl has just won the emperor's favor. The fourth line gives a small detail: worried she will be cold, the emperor gives her a brocade robe, which shows how much he cares for her. So who is watching all this? It is usually read as a palace woman who has lost the emperor's favor. She stands outside the curtain and watches someone else being loved, while she stands alone in the spring chill. The warmer things are inside, the colder she feels. The poet only writes about the other woman's good fortune and lets us feel the onlooker's heartache for ourselves."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "loneliness",
+   "moon",
+   "history"
+  ]
+ },
+ "uncertain": []
+}

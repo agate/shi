@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>天末怀李白 · 杜甫 — 诗</title>
+    <meta name="description" content="天末怀李白 · 杜甫 — Thinking of Li Bai from the End of the Sky by Du Fu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character regulated verse</span><span lang="zh">唐诗 · 五言律诗</span></p>
+        <h1>天末怀李白</h1>
+        <p class="by">杜甫<span class="mono"><span lang="en">Du Fu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Thinking of Li Bai from the End of the Sky</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>liáng</i><b>凉</b></span><span class="c" data-l="0" data-p="1"><i>fēng</i><b>风</b></span><span class="c" data-l="0" data-p="2"><i>qǐ</i><b>起</b></span><span class="c gl" data-l="0" data-p="3"><i>tiān</i><b>天</b></span><span class="c gl" data-l="0" data-p="4"><i>mò</i><b>末</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>jūn</i><b>君</b></span><span class="c gl" data-l="1" data-p="1"><i>zǐ</i><b>子</b></span><span class="c gl" data-l="1" data-p="2"><i>yì</i><b>意</b></span><span class="c gl" data-l="1" data-p="3"><i>rú</i><b>如</b></span><span class="c gl" data-l="1" data-p="4"><i>hé</i><b>何</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>hóng</i><b>鸿</b></span><span class="c gl" data-l="2" data-p="1"><i>yàn</i><b>雁</b></span><span class="c" data-l="2" data-p="2"><i>jǐ</i><b>几</b></span><span class="c" data-l="2" data-p="3"><i>shí</i><b>时</b></span><span class="c" data-l="2" data-p="4"><i>dào</i><b>到</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>jiāng</i><b>江</b></span><span class="c gl" data-l="3" data-p="1"><i>hú</i><b>湖</b></span><span class="c gl" data-l="3" data-p="2"><i>qiū</i><b>秋</b></span><span class="c gl" data-l="3" data-p="3"><i>shuǐ</i><b>水</b></span><span class="c gl" data-l="3" data-p="4"><i>duō</i><b>多</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>wén</i><b>文</b></span><span class="c gl" data-l="4" data-p="1"><i>zhāng</i><b>章</b></span><span class="c gl" data-l="4" data-p="2"><i>zēng</i><b>憎</b></span><span class="c gl" data-l="4" data-p="3"><i>mìng</i><b>命</b></span><span class="c gl" data-l="4" data-p="4"><i>dá</i><b>达</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>chī</i><b>魑</b></span><span class="c gl" data-l="5" data-p="1"><i>mèi</i><b>魅</b></span><span class="c gl" data-l="5" data-p="2"><i>xǐ</i><b>喜</b></span><span class="c gl" data-l="5" data-p="3"><i>rén</i><b>人</b></span><span class="c gl rd" data-l="5" data-p="4"><i>guò</i><b>过</b></span></p><p class="ln"><span class="c rd" data-l="6" data-p="0"><i>yīng</i><b>应</b></span><span class="c" data-l="6" data-p="1"><i>gòng</i><b>共</b></span><span class="c gl" data-l="6" data-p="2"><i>yuān</i><b>冤</b></span><span class="c gl" data-l="6" data-p="3"><i>hún</i><b>魂</b></span><span class="c" data-l="6" data-p="4"><i>yǔ</i><b>语</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>tóu</i><b>投</b></span><span class="c" data-l="7" data-p="1"><i>shī</i><b>诗</b></span><span class="c" data-l="7" data-p="2"><i>zèng</i><b>赠</b></span><span class="c gl rd" data-l="7" data-p="3"><i>mì</i><b>汨</b></span><span class="c gl" data-l="7" data-p="4"><i>luó</i><b>罗</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">Common editions title it with the word huái (to think of); the corpus uses another word with the same meaning. The corpus also has a slip in the river&#x27;s name: the correct character is mì, with the sun element on the right, not the look-alike character gǔ.</p><p lang="zh">通行本题作《天末怀李白》，语料库题作《天末忆李白》。语料库写作“汩罗”，是繁简转换时的错字：江名是“汨罗”，汨读 mì，右边是“日”；“汩”读 gǔ，右边是“曰”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">凉风起天末</span><span lang="en">A cool wind rises at the edge of the sky;</span><span lang="zh">凉风从天边吹起，</span></li><li><span class="o">君子意如何</span><span lang="en">how are you feeling now, my friend?</span><span lang="zh">你现在心情怎么样？</span></li><li><span class="o">鸿雁几时到</span><span lang="en">When will a letter from you arrive?</span><span lang="zh">你的信什么时候才能寄到？</span></li><li><span class="o">江湖秋水多</span><span lang="en">The autumn floods are high on the rivers and lakes; the way is full of danger.</span><span lang="zh">江湖上秋水正大，一路多么凶险。</span></li><li><span class="o">文章憎命达</span><span lang="en">Fate seems to hate those who write well;</span><span lang="zh">有才华的人，命运偏偏不顺；</span></li><li><span class="o">魑魅喜人过</span><span lang="en">the monsters are glad when someone passes by.</span><span lang="zh">害人的鬼怪，就盼着有人经过。</span></li><li><span class="o">应共冤魂语</span><span lang="en">You must be talking with the wronged spirit of Qu Yuan,</span><span lang="zh">你应该会和屈原的冤魂说说话，</span></li><li><span class="o">投诗赠汨罗</span><span lang="en">throwing a poem into the Miluo River for him.</span><span lang="zh">把诗投进汨罗江送给他吧。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>天末<span class="mono">tiān mò</span></dt><dd><span lang="en">tiān mò: the end of the sky, the far edge of the world. Du Fu was then in faraway Qinzhou.</span><span lang="zh">天末：天的尽头，天边。杜甫当时在很远的秦州。</span></dd></div><div><dt>君子<span class="mono">jūn zǐ</span></dt><dd><span lang="en">jūn zǐ: the gentleman, meaning Li Bai.</span><span lang="zh">君子：指李白。</span></dd></div><div><dt>意如何<span class="mono">yì rú hé</span></dt><dd><span lang="en">yì rú hé: how are you feeling?</span><span lang="zh">意如何：心情怎么样。</span></dd></div><div><dt>鸿雁<span class="mono">hóng yàn</span></dt><dd><span lang="en">hóng yàn: wild geese. Old stories say geese carry letters, so here it means a letter.</span><span lang="zh">鸿雁：大雁。古代传说大雁能传信，这里指书信。</span></dd></div><div><dt>江湖秋水多<span class="mono">jiāng hú qiū shuǐ duō</span></dt><dd><span lang="en">jiāng hú qiū shuǐ duō: the rivers and lakes are full of autumn floods, the way is dangerous. It hints at the dangers Li Bai faces.</span><span lang="zh">江湖秋水多：江湖上秋水大涨，路途凶险，比喻李白处境艰难。</span></dd></div><div><dt>文章<span class="mono">wén zhāng</span></dt><dd><span lang="en">wén zhāng: writing; here, people with literary talent.</span><span lang="zh">文章：这里指有文才的人。</span></dd></div><div><dt>憎命达<span class="mono">zēng mìng dá</span></dt><dd><span lang="en">zēng mìng dá: hates a smooth fate. It means people of great talent often have hard lives.</span><span lang="zh">憎命达：讨厌命运顺利。意思是有才华的人往往命运坎坷。</span></dd></div><div><dt>魑魅<span class="mono">chī mèi</span></dt><dd><span lang="en">chī mèi: monsters of the mountains and forests in legend, here meaning wicked people.</span><span lang="zh">魑魅：传说中山林里害人的鬼怪，这里比喻坏人。</span></dd></div><div><dt>喜人过<span class="mono">xǐ rén guò</span></dt><dd><span lang="en">xǐ rén guò: glad when people pass by, so they can eat them. It means wicked people wait to trap good men.</span><span lang="zh">喜人过：喜欢有人经过，好把人吃掉。比喻坏人专等着陷害好人。</span></dd></div><div><dt>冤魂<span class="mono">yuān hún</span></dt><dd><span lang="en">yuān hún: the wronged spirit, meaning Qu Yuan. He was a great poet of Chu in the Warring States period who was slandered and finally drowned himself in the Miluo River.</span><span lang="zh">冤魂：指屈原。屈原是战国时楚国的大诗人，被人陷害，最后投汨罗江而死。</span></dd></div><div><dt>汨罗<span class="mono">mì luó</span></dt><dd><span lang="en">mì luó: the Miluo River, in today&#x27;s Hunan.</span><span lang="zh">汨罗：汨罗江，在今湖南。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>过<span class="mono">guò</span></dt><dd><span lang="en">Read guò today. The poem rhymes it with hé, duō and luó; in old times it was read in a level tone here, so it rhymed.</span><span lang="zh">现在读 guò。这首诗押“何、多、过、罗”，古代这里读平声，才能押韵。</span></dd></div><div><dt>应<span class="mono">yīng</span></dt><dd><span lang="en">Read yīng, meaning &quot;must, probably&quot;.</span><span lang="zh">读 yīng，意思是“应该、大概会”。</span></dd></div><div><dt>汨<span class="mono">mì</span></dt><dd><span lang="en">Read mì, as in the Miluo River. Do not confuse it with the look-alike character read gǔ.</span><span lang="zh">读 mì，汨罗江的“汨”。不要和读 gǔ 的“汩”混淆。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In the autumn of 759, Du Fu was living in Qinzhou, today&#x27;s Tianshui in Gansu. Li Bai had been found guilty for joining the army of Prince Yong, Li Lin, and was being sent into exile in Yelang. In fact, Li Bai had already been pardoned on the way, but Du Fu, far away in Qinzhou, probably did not know. He was deeply worried about his old friend and wrote this poem.</p><p lang="zh">唐肃宗乾元二年（759年）秋天，杜甫住在秦州（今甘肃天水）。这时李白因为参加了永王李璘的军队，被判罪流放夜郎。其实李白在半路上已经遇到大赦放了回来，但远在秦州的杜甫可能还不知道。他十分担心老朋友，写下了这首诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Fu (712–770) was eleven years younger than Li Bai. They met in Luoyang in 744, travelled together, and became good friends. Li Bai later wrote little about Du Fu, but Du Fu wrote more than ten poems about Li Bai over his life. This is one of the most moving.</p><p lang="zh">杜甫（712—770）比李白小十一岁。两人744年在洛阳相识，一起游玩过，从此成了好朋友。李白后来很少写到杜甫，杜甫却一生写了十几首怀念李白的诗，这首是其中很感人的一首。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">As soon as the cool wind rises, Du Fu thinks of his faraway friend and simply asks: are you all right? It is plain but full of feeling. Then he waits for a letter that does not come, and worries about the dangerous autumn floods, which really means worrying about Li Bai&#x27;s troubles. Line five, &quot;fate hates those who write well&quot;, has been famous for over a thousand years: the more talent someone has, the harder their life seems. Du Fu speaks up for Li Bai here, and also for himself. At the end he imagines Li Bai on his way into exile, passing through Hunan and throwing a poem into the Miluo River to honor Qu Yuan, who was also wronged. Putting Li Bai beside Qu Yuan is high praise, and deep sympathy too.</p><p lang="zh">开头凉风一起，杜甫就想起了远方的朋友，只问一句“你还好吗”，很朴素，却很深情。接着盼信不来，又担心路上秋水凶险，其实是担心李白的处境。第五句“文章憎命达”是千古名句：越有才华的人，命运好像越不顺。这是在替李白鸣不平，也是杜甫自己的感慨。最后杜甫想到，李白流放的路上会经过湖南，也许会写诗投进汨罗江，去祭奠同样被冤枉的屈原。把李白和屈原放在一起，是对李白很高的评价，也是深深的同情。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/heletianchunci/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>和乐天春词</b></a><a href="../../p/songlishaofubianxiazhongwangshaofubianchangsha/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>送李少府贬峡中王少府贬长沙</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["凉", "liáng"], ["风", "fēng"], ["起", "qǐ"], ["天", "tiān"], ["末", "mò"]], [["君", "jūn"], ["子", "zǐ"], ["意", "yì"], ["如", "rú"], ["何", "hé"]], [["鸿", "hóng"], ["雁", "yàn"], ["几", "jǐ"], ["时", "shí"], ["到", "dào"]], [["江", "jiāng"], ["湖", "hú"], ["秋", "qiū"], ["水", "shuǐ"], ["多", "duō"]], [["文", "wén"], ["章", "zhāng"], ["憎", "zēng"], ["命", "mìng"], ["达", "dá"]], [["魑", "chī"], ["魅", "mèi"], ["喜", "xǐ"], ["人", "rén"], ["过", "guò"]], [["应", "yīng"], ["共", "gòng"], ["冤", "yuān"], ["魂", "hún"], ["语", "yǔ"]], [["投", "tóu"], ["诗", "shī"], ["赠", "zèng"], ["汨", "mì"], ["罗", "luó"]]], "glosses": [{"line": 0, "start": 3, "end": 5, "zh": "天末：天的尽头，天边。杜甫当时在很远的秦州。", "en": "tiān mò: the end of the sky, the far edge of the world. Du Fu was then in faraway Qinzhou."}, {"line": 1, "start": 0, "end": 2, "zh": "君子：指李白。", "en": "jūn zǐ: the gentleman, meaning Li Bai."}, {"line": 1, "start": 2, "end": 5, "zh": "意如何：心情怎么样。", "en": "yì rú hé: how are you feeling?"}, {"line": 2, "start": 0, "end": 2, "zh": "鸿雁：大雁。古代传说大雁能传信，这里指书信。", "en": "hóng yàn: wild geese. Old stories say geese carry letters, so here it means a letter."}, {"line": 3, "start": 0, "end": 5, "zh": "江湖秋水多：江湖上秋水大涨，路途凶险，比喻李白处境艰难。", "en": "jiāng hú qiū shuǐ duō: the rivers and lakes are full of autumn floods, the way is dangerous. It hints at the dangers Li Bai faces."}, {"line": 4, "start": 0, "end": 2, "zh": "文章：这里指有文才的人。", "en": "wén zhāng: writing; here, people with literary talent."}, {"line": 4, "start": 2, "end": 5, "zh": "憎命达：讨厌命运顺利。意思是有才华的人往往命运坎坷。", "en": "zēng mìng dá: hates a smooth fate. It means people of great talent often have hard lives."}, {"line": 5, "start": 0, "end": 2, "zh": "魑魅：传说中山林里害人的鬼怪，这里比喻坏人。", "en": "chī mèi: monsters of the mountains and forests in legend, here meaning wicked people."}, {"line": 5, "start": 2, "end": 5, "zh": "喜人过：喜欢有人经过，好把人吃掉。比喻坏人专等着陷害好人。", "en": "xǐ rén guò: glad when people pass by, so they can eat them. It means wicked people wait to trap good men."}, {"line": 6, "start": 2, "end": 4, "zh": "冤魂：指屈原。屈原是战国时楚国的大诗人，被人陷害，最后投汨罗江而死。", "en": "yuān hún: the wronged spirit, meaning Qu Yuan. He was a great poet of Chu in the Warring States period who was slandered and finally drowned himself in the Miluo River."}, {"line": 7, "start": 3, "end": 5, "zh": "汨罗：汨罗江，在今湖南。", "en": "mì luó: the Miluo River, in today's Hunan."}], "readings": [{"line": 5, "pos": 4, "char": "过", "pinyin": "guò", "zh": "现在读 guò。这首诗押“何、多、过、罗”，古代这里读平声，才能押韵。", "en": "Read guò today. The poem rhymes it with hé, duō and luó; in old times it was read in a level tone here, so it rhymed."}, {"line": 6, "pos": 0, "char": "应", "pinyin": "yīng", "zh": "读 yīng，意思是“应该、大概会”。", "en": "Read yīng, meaning \"must, probably\"."}, {"line": 7, "pos": 3, "char": "汨", "pinyin": "mì", "zh": "读 mì，汨罗江的“汨”。不要和读 gǔ 的“汩”混淆。", "en": "Read mì, as in the Miluo River. Do not confuse it with the look-alike character read gǔ."}], "speak": ["凉风起天末", "君子意如何", "鸿雁几时到", "江湖秋水多", "文章憎命达", "魑魅喜人过", "应共冤魂语", "投诗赠汨罗"], "speakTitle": "天末怀李白。杜甫。", "sample": "凉风起天末"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

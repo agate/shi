@@ -1,0 +1,350 @@
+{
+ "id": "f2f04c30-149d-4b2b-bce1-1334adf84739",
+ "kind": "shi",
+ "title": "灞上秋居",
+ "title_en": "Autumn Lodging at Bashang",
+ "author": "马戴",
+ "author_en": "Ma Dai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "灞",
+    "bà"
+   ],
+   [
+    "原",
+    "yuán"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "定",
+    "dìng"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "频",
+    "pín"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "滴",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "壁",
+    "bì"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "僧",
+    "sēng"
+   ],
+   [
+    "邻",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "郊",
+    "jiāo"
+   ],
+   [
+    "扉",
+    "fēi"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "致",
+    "zhì"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "身",
+    "shēn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库的文字写作“鴈”“隣”，是“雁”“邻”的旧写法；第八句作“何门致此身”。这里按《唐诗三百首》通行本作“何年致此身”。",
+  "en": "The source text uses old variant characters for the words goose and neighbor, and line eight reads \"through which gate\" instead of \"in what year\". This page follows the common text of Three Hundred Tang Poems."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "“雁行”是大雁飞行时排成的行列，“行”读 háng，不读 xíng。",
+   "en": "Here it means the line formed by flying geese, so it is read háng, not xíng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "灞（bà）原：灞上，长安东边灞水旁的一片高地。",
+   "en": "bà yuán: the Bashang plateau, high ground by the Ba River east of Chang'an."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "风雨定：风停了，雨也住了。",
+   "en": "fēng yǔ dìng: the wind and rain have stopped."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "雁行（háng）：大雁飞行时排成的队伍。频：一次又一次，很多。",
+   "en": "yàn háng pín: yàn háng is a line of flying geese; pín means again and again, many."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "他乡：不是自己家乡的地方。",
+   "en": "tā xiāng: a place that is not one's home."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "寒灯：寒夜里的一盏孤灯。",
+   "en": "hán dēng: a lone lamp on a cold night."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "白露：秋天夜里草木上凝结的露水。",
+   "en": "bái lù: the white dew that forms on plants on autumn nights."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "孤壁：孤零零的墙，指简陋的住处。",
+   "en": "gū bì: a lonely wall; a bare, simple home."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "野僧：住在山野里的和尚。",
+   "en": "yě sēng: a monk living out in the countryside."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "寄卧：寄住，借住在别人那里。",
+   "en": "jì wò: to lodge, to live in someone else's place."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "郊扉：郊外的房子。扉，门。",
+   "en": "jiāo fēi: a house outside the city. Fēi means door."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "致此身：把自己献给国家，为朝廷做事。《论语》里说“事君能致其身”。",
+   "en": "zhì cǐ shēn: to give oneself to serving the country. The phrase comes from the Analects of Confucius."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "灞上的风雨停了下来，",
+   "en": "On the Bashang plateau, the wind and rain have stopped;"
+  },
+  {
+   "zh": "傍晚，看见一行行大雁不断飞过。",
+   "en": "at dusk I see line after line of wild geese flying past."
+  },
+  {
+   "zh": "异乡的树上，叶子纷纷落下；",
+   "en": "In this strange land, leaves fall from the trees;"
+  },
+  {
+   "zh": "寒夜里，一盏孤灯照着孤单的我。",
+   "en": "on a cold night, one lamp shines on a lonely man."
+  },
+  {
+   "zh": "空荡荡的园子里，白露一滴滴落下；",
+   "en": "In the empty garden, white dew drips;"
+  },
+  {
+   "zh": "简陋的墙边，只有山野的和尚和我做邻居。",
+   "en": "by my bare wall, my only neighbor is a country monk."
+  },
+  {
+   "zh": "我寄住在这郊外的屋子里已经很久了，",
+   "en": "I have lodged in this house outside the city for a long time;"
+  },
+  {
+   "zh": "哪一年才能为国家出力呢？",
+   "en": "in what year will I be able to serve my country?"
+  }
+ ],
+ "background": {
+  "zh": "马戴年轻时来到长安考进士，考了很多年都没考中。一般认为这首诗写在他寄住灞上、考试屡次失利的时候。灞上在长安东边，是离京城不远的郊外。秋天的晚上，他一个人住在这里，看着落叶和大雁，想到自己还没有出路，写下了这首诗。具体年份不详。",
+  "en": "As a young man Ma Dai came to Chang'an to take the highest exam, and failed for many years. This poem is usually thought to be from that time, when he lodged at Bashang. Bashang is just east of Chang'an, in the countryside near the capital. On an autumn night, alone there, watching falling leaves and passing geese, he thought about having no way forward and wrote this poem. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "马戴，字虞臣，晚唐诗人。他考了很多年，到唐武宗会昌四年（844年）才考中进士，后来做过小官，也曾被贬。他和贾岛、姚合等诗人是朋友。他的五言律诗写得很好，风格清冷含蓄，这首诗就是代表作。",
+  "en": "Ma Dai, also called Yuchen, was a late Tang poet. After many tries he finally passed the highest exam in 844, under Emperor Wuzong. He later held small posts and was once sent away as a punishment. He was friends with the poets Jia Dao and Yao He. He wrote fine five-character regulated verse in a cool, quiet style, and this poem is one of his best."
+ },
+ "appreciation": {
+  "zh": "这首诗处处都是“孤”和“冷”。风雨刚停，大雁一行行往南飞，它们有地方去，诗人却还留在这里。“落叶他乡树，寒灯独夜人”最有名：异乡的树在落叶，寒夜里只有一盏灯和一个人。落叶像诗人一样飘零，孤灯像诗人一样孤单。接着是空园里的露水声，邻居只有一个和尚，冷清得能听见露珠滴落。最后两句说出心事：住了这么久，什么时候才能为国家做事呢？前面的冷景，都是为了衬出这一声叹息。",
+  "en": "Everything in this poem is lonely and cold. The rain has just stopped, and geese fly south in lines. They have somewhere to go; the poet is still stuck here. The most famous lines set falling leaves in a strange land beside one lamp and one person on a cold night. The leaves drift like the poet, and the lamp is alone like him. Then comes the sound of dew in the empty garden, and his only neighbor is a monk. It is so quiet he can hear the dew drip. The last two lines speak his heart: after so long here, when will he get to serve his country? All the cold scenery before leads up to this one sigh."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "loneliness",
+   "goose",
+   "frustration",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,852 @@
+{
+ "id": "ci-e17658e39164",
+ "kind": "ci",
+ "title": "摸鱼儿·怎知他春归何处",
+ "title_en": "Mo Yu Er: Who Knows Where Spring Has Gone",
+ "author": "刘辰翁",
+ "author_en": "Liu Chenweng",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "怎",
+    "zěn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "结",
+    "jié"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ]
+  ],
+  [
+   [
+    "憔",
+    "qiáo"
+   ],
+   [
+    "悴",
+    "cuì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "旧",
+    "jiù"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "刘",
+    "liú"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "记",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "剪",
+    "jiǎn"
+   ],
+   [
+    "韭",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "恁",
+    "nèn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "候",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "滑",
+    "huá"
+   ]
+  ],
+  [
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "衫",
+    "shān"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "袖",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "皱",
+    "zhòu"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "有",
+    "yǒu"
+   ]
+  ],
+  [
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "论",
+    "lùn"
+   ],
+   [
+    "文",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ],
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "又",
+    "yòu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "古籍本作“翦韭”，“翦”是“剪”的古写，通行本作“剪韭”。",
+  "en": "The old edition writes jiǎn, \"to cut\", in an old form; common editions use the modern character."
+ },
+ "readings": [
+  {
+   "line": 13,
+   "pos": 3,
+   "char": "恁",
+   "pinyin": "nèn",
+   "zh": "恁：这样、那样，宋词里常用，读 nèn。表示“您”的意思时读 nín。",
+   "en": "Meaning \"such\" or \"so\", common in Song lyrics, it is read nèn. As an old form of \"you\" it is read nín."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "少年：年轻的时候，少读 shào。",
+   "en": "In shào nián, youth, this is read shào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "怎知他：谁知道呢。他，语气词，没有实际意思。",
+   "en": "zěn zhī tā: who can tell. Tā here is just a filler word."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "且尽尊酒：暂且把杯里的酒喝干。尊，同“樽”，酒杯。",
+   "en": "qiě jìn zūn jiǔ: for now, drain the cup. Zūn is a wine cup."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "袅袅：像柳丝一样细长、缠绵不断。",
+   "en": "niǎo niǎo: long and winding, like willow threads."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "天涯恨：漂泊远方的愁苦。",
+   "en": "tiān yá hèn: the sorrow of wandering far from home."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "长结：一直缠绕在。",
+   "en": "cháng jié: forever tied to."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 6,
+   "zh": "西湖烟柳：杭州西湖边像烟雾一样的柳树。",
+   "en": "xī hú yān liǔ: the misty willows of West Lake in Hangzhou."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "断桥：西湖上的一座桥。",
+   "en": "duàn qiáo: the Broken Bridge, a bridge on West Lake."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "憔悴：又瘦又没有精神。",
+   "en": "qiáo cuì: thin and worn out."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 5,
+   "zh": "前度桃花、刘郎：唐代刘禹锡被贬十几年后回到长安，又去玄都观看桃花，写了“前度刘郎今又来”。词人也姓刘，所以借来说自己。前度，上一次。",
+   "en": "qián dù táo huā, liú láng: in the Tang dynasty, Liu Yuxi came back to Chang'an after many years of exile, went again to see the peach blossoms at a temple, and wrote \"Master Liu of last time is here again\". The poet is also named Liu, so he uses this for himself. Qián dù means last time."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 5,
+   "zh": "否：吗，表示问话。",
+   "en": "fǒu: a word that turns the line into a question."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "且住：暂且留下。",
+   "en": "qiě zhù: stay for now."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "草草：简单、随便，没有好好准备。",
+   "en": "cǎo cǎo: simply, without much fuss."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 6,
+   "zh": "剪韭：割韭菜做菜招待客人。杜甫写过“夜雨剪春韭”，是朋友相聚的热情招待。",
+   "en": "jiǎn jiǔ: cutting chives to cook for a guest. Du Fu wrote of cutting spring chives in the night rain to welcome an old friend."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "前宵：前天夜里。",
+   "en": "qián xiāo: the night before last."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 6,
+   "zh": "恁时候：这样的时候。",
+   "en": "nèn shí hòu: a time like this."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "深杯：满满的大杯酒。",
+   "en": "shēn bēi: a deep, full cup of wine."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 7,
+   "zh": "歌声滑：歌声圆润流畅。",
+   "en": "gē shēng huá: singing smooth and flowing."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 1,
+   "zh": "翻：反而。",
+   "en": "fān: instead, on the contrary."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "空眉皱：白白地皱着眉头。",
+   "en": "kōng méi zhòu: frowning in vain."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 5,
+   "zh": "尊前：酒杯前，酒席上。",
+   "en": "zūn qián: before the wine cups, at the feast."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "临分把手：快要分别时拉着手。",
+   "en": "lín fēn bǎ shǒu: holding hands just before parting."
+  },
+  {
+   "line": 20,
+   "start": 1,
+   "end": 5,
+   "zh": "一笑论文：一起说说笑笑，谈论文章。杜甫怀念李白时写过“重与细论文”。",
+   "en": "yī xiào lùn wén: laughing together and talking about writing. Du Fu, missing Li Bai, wrote of hoping to talk about poems with him again."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 2,
+   "zh": "清狂：洒脱不拘束。",
+   "en": "qīng kuáng: free and carefree."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "顾曲：欣赏音乐。三国时周瑜精通音乐，别人弹错了，他一定会回头看，人称“曲有误，周郎顾”。",
+   "en": "gù qǔ: enjoying music. In the Three Kingdoms period Zhou Yu knew music so well that if a player made a mistake, he would turn to look."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 5,
+   "zh": "此会几时又：这样的聚会，什么时候才能再有？",
+   "en": "cǐ huì jǐ shí yòu: when will a gathering like this come again?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "谁知道春天回到哪里去了，",
+   "en": "Who knows where spring has gone?"
+  },
+  {
+   "zh": "我们今天相逢，暂且把杯里的酒喝干。",
+   "en": "Now that we meet, let us drain our cups for a while."
+  },
+  {
+   "zh": "年轻时漂泊远方的愁苦，像柳丝一样绵长，",
+   "en": "The sorrow of our wandering youth, long as willow threads,"
+  },
+  {
+   "zh": "一直缠在西湖如烟的柳树上。",
+   "en": "is still tangled in the misty willows of West Lake."
+  },
+  {
+   "zh": "不要再回头去想了。",
+   "en": "Do not look back."
+  },
+  {
+   "zh": "只剩下细雨中的断桥，",
+   "en": "There is only the Broken Bridge in the fine rain,"
+  },
+  {
+   "zh": "在憔悴的人离开以后。",
+   "en": "after the worn-out travelers have gone."
+  },
+  {
+   "zh": "春风还和从前一样。",
+   "en": "The east wind is the same as before."
+  },
+  {
+   "zh": "问问从前那些桃花：",
+   "en": "Let me ask the peach blossoms of long ago:"
+  },
+  {
+   "zh": "刘郎还记得你们，",
+   "en": "Master Liu still remembers you;"
+  },
+  {
+   "zh": "花儿还能认出刘郎吗？",
+   "en": "can the flowers still know Master Liu?"
+  },
+  {
+   "zh": "你暂且留下吧，",
+   "en": "Stay a while,"
+  },
+  {
+   "zh": "我简单地割些韭菜，留你吃顿饭。",
+   "en": "and I will cut some chives and keep you for a simple meal."
+  },
+  {
+   "zh": "前天夜里，也是这样的时候。",
+   "en": "The night before last was just such a time."
+  },
+  {
+   "zh": "满杯的酒想跟上圆润的歌声，",
+   "en": "The full cups tried to keep up with the smooth singing,"
+  },
+  {
+   "zh": "反而洒湿了半只春衫的袖子。",
+   "en": "but instead they wet half a spring sleeve."
+  },
+  {
+   "zh": "白白地皱着眉头。",
+   "en": "I frown in vain."
+  },
+  {
+   "zh": "看看酒席上的人，",
+   "en": "Look around the table:"
+  },
+  {
+   "zh": "好像每个人都有了白发。",
+   "en": "it seems everyone has white hair now."
+  },
+  {
+   "zh": "快要分别了，我们拉着手，",
+   "en": "About to part, we hold hands,"
+  },
+  {
+   "zh": "感叹那说说笑笑、谈论文章，",
+   "en": "and sigh over the laughing talk about writing,"
+  },
+  {
+   "zh": "洒脱地一起听曲的日子，",
+   "en": "the carefree hours of listening to music together:"
+  },
+  {
+   "zh": "这样的聚会什么时候才能再有？",
+   "en": "when will we gather like this again?"
+  }
+ ],
+ "background": {
+  "zh": "这首词一说题为《酒边留同年徐云屋》。“同年”是同一年考中进士的人。刘辰翁在酒席上挽留这位老朋友，写下这首词。两人年轻时大概都在杭州参加考试，所以词里写西湖、断桥。写作时间不详，一说作于南宋灭亡以后，所以重逢的欢喜里带着很深的悲凉。",
+  "en": "One account gives this lyric the title \"Asking My Exam-Year Friend Xu Yunwu to Stay, Over Wine\". An exam-year friend was someone who passed the highest exam in the same year. At a drinking party Liu Chenweng begged this old friend to stay, and wrote this lyric. In their youth they probably both took the exam in Hangzhou, which is why West Lake and the Broken Bridge appear. The date is unknown; one view is that it was written after the Southern Song fell, so the joy of meeting again is mixed with deep sadness."
+ },
+ "author_note": {
+  "zh": "刘辰翁（1232—1297），南宋末年词人，江西庐陵人。他考中进士后，因为在考卷里批评奸臣贾似道，被排在后面。宋朝灭亡后，他不肯做元朝的官，隐居起来。他的词多写怀念故国的悲痛，感情真切。",
+  "en": "Liu Chenweng (1232–1297) was a lyric poet of the last years of the Southern Song, from Luling in Jiangxi. When he passed the highest exam, his answer criticized the corrupt minister Jia Sidao, so he was ranked low. After the Song fell he refused to serve the Yuan and lived in retreat. Many of his lyrics mourn the lost dynasty, with deep, honest feeling."
+ },
+ "appreciation": {
+  "zh": "开头一句“怎知他春归何处”，春天走了，找不到了，好像也在说美好的年代一去不回。老朋友见面，先喝酒。想起年轻时在西湖边的日子，柳树还在，人却憔悴了。词人借刘禹锡看桃花的故事问：我还记得花，花还认得我吗？下片写挽留朋友，简单做顿饭，就像杜甫招待老友。酒席上看看大家，头发都白了。最后拉着手分别，叹一声：这样说笑谈诗、听曲的聚会，什么时候才能再有？整首词语气平常，像朋友聊天，可每一句都带着时光流逝、人事变迁的伤感。",
+  "en": "The first line, \"Who knows where spring has gone?\", says spring has left and cannot be found. It also seems to say that good times are gone for good. Old friends meet and first they drink. They remember their youth by West Lake: the willows are still there, but the people are worn out. Using Liu Yuxi's story of the peach blossoms, the poet asks: I still remember the flowers, but do they still know me? The second stanza begs his friend to stay for a simple meal, as Du Fu once welcomed an old friend. Looking around the table, everyone's hair is white. At last they hold hands to part, and he sighs: when will we laugh, talk about poems and listen to music like this again? The tone is plain, like friends chatting, but every line carries the sadness of time passing and the world changing."
+ },
+ "famous_lines": [
+  8,
+  9,
+  10
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "farewell",
+   "aging",
+   "west-lake"
+  ]
+ },
+ "uncertain": []
+}

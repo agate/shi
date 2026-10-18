@@ -1,0 +1,365 @@
+{
+ "id": "2c036362-9f1d-434c-854f-b97a2a4bb19b",
+ "kind": "shi",
+ "title": "天末怀李白",
+ "title_en": "Thinking of Li Bai from the End of the Sky",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "末",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "何",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "多",
+    "duō"
+   ]
+  ],
+  [
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "章",
+    "zhāng"
+   ],
+   [
+    "憎",
+    "zēng"
+   ],
+   [
+    "命",
+    "mìng"
+   ],
+   [
+    "达",
+    "dá"
+   ]
+  ],
+  [
+   [
+    "魑",
+    "chī"
+   ],
+   [
+    "魅",
+    "mèi"
+   ],
+   [
+    "喜",
+    "xǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "冤",
+    "yuān"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "投",
+    "tóu"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "赠",
+    "zèng"
+   ],
+   [
+    "汨",
+    "mì"
+   ],
+   [
+    "罗",
+    "luó"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本题作《天末怀李白》，语料库题作《天末忆李白》。语料库写作“汩罗”，是繁简转换时的错字：江名是“汨罗”，汨读 mì，右边是“日”；“汩”读 gǔ，右边是“曰”。",
+  "en": "Common editions title it with the word huái (to think of); the corpus uses another word with the same meaning. The corpus also has a slip in the river's name: the correct character is mì, with the sun element on the right, not the look-alike character gǔ."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "过",
+   "pinyin": "guò",
+   "zh": "现在读 guò。这首诗押“何、多、过、罗”，古代这里读平声，才能押韵。",
+   "en": "Read guò today. The poem rhymes it with hé, duō and luó; in old times it was read in a level tone here, so it rhymed."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "读 yīng，意思是“应该、大概会”。",
+   "en": "Read yīng, meaning \"must, probably\"."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "汨",
+   "pinyin": "mì",
+   "zh": "读 mì，汨罗江的“汨”。不要和读 gǔ 的“汩”混淆。",
+   "en": "Read mì, as in the Miluo River. Do not confuse it with the look-alike character read gǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "天末：天的尽头，天边。杜甫当时在很远的秦州。",
+   "en": "tiān mò: the end of the sky, the far edge of the world. Du Fu was then in faraway Qinzhou."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "君子：指李白。",
+   "en": "jūn zǐ: the gentleman, meaning Li Bai."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "意如何：心情怎么样。",
+   "en": "yì rú hé: how are you feeling?"
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "鸿雁：大雁。古代传说大雁能传信，这里指书信。",
+   "en": "hóng yàn: wild geese. Old stories say geese carry letters, so here it means a letter."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "江湖秋水多：江湖上秋水大涨，路途凶险，比喻李白处境艰难。",
+   "en": "jiāng hú qiū shuǐ duō: the rivers and lakes are full of autumn floods, the way is dangerous. It hints at the dangers Li Bai faces."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "文章：这里指有文才的人。",
+   "en": "wén zhāng: writing; here, people with literary talent."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "憎命达：讨厌命运顺利。意思是有才华的人往往命运坎坷。",
+   "en": "zēng mìng dá: hates a smooth fate. It means people of great talent often have hard lives."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "魑魅：传说中山林里害人的鬼怪，这里比喻坏人。",
+   "en": "chī mèi: monsters of the mountains and forests in legend, here meaning wicked people."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "喜人过：喜欢有人经过，好把人吃掉。比喻坏人专等着陷害好人。",
+   "en": "xǐ rén guò: glad when people pass by, so they can eat them. It means wicked people wait to trap good men."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "冤魂：指屈原。屈原是战国时楚国的大诗人，被人陷害，最后投汨罗江而死。",
+   "en": "yuān hún: the wronged spirit, meaning Qu Yuan. He was a great poet of Chu in the Warring States period who was slandered and finally drowned himself in the Miluo River."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "汨罗：汨罗江，在今湖南。",
+   "en": "mì luó: the Miluo River, in today's Hunan."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "凉风从天边吹起，",
+   "en": "A cool wind rises at the edge of the sky;"
+  },
+  {
+   "zh": "你现在心情怎么样？",
+   "en": "how are you feeling now, my friend?"
+  },
+  {
+   "zh": "你的信什么时候才能寄到？",
+   "en": "When will a letter from you arrive?"
+  },
+  {
+   "zh": "江湖上秋水正大，一路多么凶险。",
+   "en": "The autumn floods are high on the rivers and lakes; the way is full of danger."
+  },
+  {
+   "zh": "有才华的人，命运偏偏不顺；",
+   "en": "Fate seems to hate those who write well;"
+  },
+  {
+   "zh": "害人的鬼怪，就盼着有人经过。",
+   "en": "the monsters are glad when someone passes by."
+  },
+  {
+   "zh": "你应该会和屈原的冤魂说说话，",
+   "en": "You must be talking with the wronged spirit of Qu Yuan,"
+  },
+  {
+   "zh": "把诗投进汨罗江送给他吧。",
+   "en": "throwing a poem into the Miluo River for him."
+  }
+ ],
+ "background": {
+  "zh": "唐肃宗乾元二年（759年）秋天，杜甫住在秦州（今甘肃天水）。这时李白因为参加了永王李璘的军队，被判罪流放夜郎。其实李白在半路上已经遇到大赦放了回来，但远在秦州的杜甫可能还不知道。他十分担心老朋友，写下了这首诗。",
+  "en": "In the autumn of 759, Du Fu was living in Qinzhou, today's Tianshui in Gansu. Li Bai had been found guilty for joining the army of Prince Yong, Li Lin, and was being sent into exile in Yelang. In fact, Li Bai had already been pardoned on the way, but Du Fu, far away in Qinzhou, probably did not know. He was deeply worried about his old friend and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770）比李白小十一岁。两人744年在洛阳相识，一起游玩过，从此成了好朋友。李白后来很少写到杜甫，杜甫却一生写了十几首怀念李白的诗，这首是其中很感人的一首。",
+  "en": "Du Fu (712–770) was eleven years younger than Li Bai. They met in Luoyang in 744, travelled together, and became good friends. Li Bai later wrote little about Du Fu, but Du Fu wrote more than ten poems about Li Bai over his life. This is one of the most moving."
+ },
+ "appreciation": {
+  "zh": "开头凉风一起，杜甫就想起了远方的朋友，只问一句“你还好吗”，很朴素，却很深情。接着盼信不来，又担心路上秋水凶险，其实是担心李白的处境。第五句“文章憎命达”是千古名句：越有才华的人，命运好像越不顺。这是在替李白鸣不平，也是杜甫自己的感慨。最后杜甫想到，李白流放的路上会经过湖南，也许会写诗投进汨罗江，去祭奠同样被冤枉的屈原。把李白和屈原放在一起，是对李白很高的评价，也是深深的同情。",
+  "en": "As soon as the cool wind rises, Du Fu thinks of his faraway friend and simply asks: are you all right? It is plain but full of feeling. Then he waits for a letter that does not come, and worries about the dangerous autumn floods, which really means worrying about Li Bai's troubles. Line five, \"fate hates those who write well\", has been famous for over a thousand years: the more talent someone has, the harder their life seems. Du Fu speaks up for Li Bai here, and also for himself. At the end he imagines Li Bai on his way into exile, passing through Hunan and throwing a poem into the Miluo River to honor Qu Yuan, who was also wronged. Putting Li Bai beside Qu Yuan is high praise, and deep sympathy too."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "longing",
+   "injustice",
+   "li-bai"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,359 @@
+{
+ "id": "542cb326-1037-4bd9-b0f6-6479d165dc4c",
+ "kind": "shi",
+ "title": "岁暮归南山",
+ "title_en": "Returning to the Southern Hills at Year's End",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "阙",
+    "què"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "敝",
+    "bì"
+   ],
+   [
+    "庐",
+    "lú"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ],
+   [
+    "弃",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "疏",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "逼",
+    "bī"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "除",
+    "chú"
+   ]
+  ],
+  [
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "寐",
+    "mèi"
+   ]
+  ],
+  [
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "虚",
+    "xū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文作“故人疎”，“疎”是“疏”的异体字，通行本写作“疏”。",
+  "en": "The corpus writes shū (distant) in an old variant form; common editions use the standard form."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "阙",
+   "pinyin": "què",
+   "zh": "“北阙”的“阙”指宫门前的楼台，读 què，不读 quē。",
+   "en": "In běi què the character means the tower gate of a palace, read què, not quē."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "北阙：皇宫北面的门楼，大臣在这里上书。这里代指朝廷。",
+   "en": "běi què: the north tower gate of the palace, where officials handed in letters. It stands for the court."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "休上书：不再给皇帝写信求官了。",
+   "en": "xiū shàng shū: stop writing to the emperor to ask for a post."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "南山：家乡的山，指诗人在襄阳的隐居之地。",
+   "en": "nán shān: the hills near home, where the poet lived in Xiangyang."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "敝庐：破旧的房子，是对自己家的谦虚说法。",
+   "en": "bì lú: a shabby hut, a humble way to speak of one's own home."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "不才：没有才能，是自谦的话。",
+   "en": "bù cái: without talent, a modest way to speak of oneself."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "明主：英明的君主，指皇帝。",
+   "en": "míng zhǔ: the wise ruler, meaning the emperor."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "故人疏：老朋友也渐渐疏远了。",
+   "en": "gù rén shū: old friends have drifted away."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "青阳：春天。",
+   "en": "qīng yáng: spring."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "逼岁除：逼着旧年结束。岁除，一年的最后一天。",
+   "en": "bī suì chú: pushes the old year to its end. Suì chú is the last day of the year."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "永怀：心事重重，长久地想着。",
+   "en": "yǒng huái: thoughts that go on and on."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "不寐：睡不着。",
+   "en": "bù mèi: unable to sleep."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "虚：空空的，冷清。",
+   "en": "xū: empty, lonely."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我不再到朝廷去上书求官了，",
+   "en": "I will stop sending letters to the palace,"
+  },
+  {
+   "zh": "回到南山我那间破旧的老屋。",
+   "en": "and go home to my shabby hut in the southern hills."
+  },
+  {
+   "zh": "我没有才能，所以英明的皇帝不用我；",
+   "en": "I have no talent, so the wise ruler has cast me aside."
+  },
+  {
+   "zh": "我又常常生病，连老朋友也疏远了。",
+   "en": "I am often ill, so even old friends have drifted away."
+  },
+  {
+   "zh": "白头发一根根长出来，催着人变老；",
+   "en": "White hairs keep coming, hurrying me into old age."
+  },
+  {
+   "zh": "春天快到了，逼着旧的一年走到尽头。",
+   "en": "Spring is near, pushing the old year to its end."
+  },
+  {
+   "zh": "心事重重，愁得整夜睡不着，",
+   "en": "Full of worries, I lie awake all night,"
+  },
+  {
+   "zh": "只见松间的月光照着空空的窗。",
+   "en": "and moonlight through the pines falls on an empty window."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗是孟浩然四十岁左右到长安考进士落榜以后写的。他求官不成，只好在年底回到家乡襄阳。相传他在王维那里偶然碰见唐玄宗，念了这首诗，玄宗听到“不才明主弃”很不高兴，说“是你自己不求官，我何曾抛弃过你”，于是不用他。这个故事出自后人记载，未必是真的。",
+  "en": "This poem is usually thought to have been written after Meng Haoran, around forty, failed the imperial exam in Chang'an. Unable to get a post, he went home to Xiangyang at the end of the year. A story says he met Emperor Xuanzong by chance at Wang Wei's place and recited this poem. Hearing the line about the wise ruler casting him aside, the emperor was displeased: \"You never sought office. When did I ever cast you aside?\" So he was never given a post. The story comes from later writings and may not be true."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），唐代诗人，襄阳人。他很想做官，四十岁左右才去长安考试，却没考上，一生都没当上官。他的诗多写山水田园，平淡自然，但也有不少像这首一样，写出了失意的苦闷。",
+  "en": "Meng Haoran (689–740) was a Tang poet from Xiangyang. He wanted very much to serve as an official. Around forty he went to Chang'an to take the exam but failed, and he never held office in his life. Most of his poems are about nature and farm life, plain and natural, but many, like this one, show the pain of disappointment."
+ },
+ "appreciation": {
+  "zh": "这首诗是一个失意的人在年底的心里话。开头说不再求官了，回家去吧，听上去很干脆，其实是没有办法。三、四句说“我没才能，皇帝不用我；我多病，朋友也远了”，表面上怪自己，心里却满是委屈和不平。五、六句写时间：白发越来越多，一年又要过去，人却一事无成。最后他一夜没睡，只看见松树间的月光照着空窗。一个“虚”字，写出了屋子的冷清，也写出了心里的空落。",
+  "en": "This poem is a disappointed man speaking his heart at the end of the year. He begins: no more asking for office, I am going home. It sounds firm, but really he has no choice. Lines three and four say: I have no talent, so the emperor will not use me; I am sick, so my friends have left me. He seems to blame himself, but he is full of hurt and complaint. Lines five and six are about time. His hair grows whiter, another year ends, and he has achieved nothing. At last he lies awake all night, seeing only pine-filtered moonlight on an empty window. The word xū, empty, shows the cold room and the hollow feeling in his heart."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [
+   "new-year-eve"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "frustration",
+   "aging",
+   "home",
+   "moon",
+   "sleepless"
+  ]
+ },
+ "uncertain": []
+}

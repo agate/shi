@@ -1,0 +1,258 @@
+{
+ "id": "45415d34-7f13-4fcb-9f66-cf2b5ae980ad",
+ "kind": "shi",
+ "title": "晚春",
+ "title_en": "Late Spring",
+ "author": "韩愈",
+ "author_en": "Han Yu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "般",
+    "bān"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "斗",
+    "dòu"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "菲",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "榆",
+    "yú"
+   ],
+   [
+    "荚",
+    "jiá"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库题目作《游城南十六首·晚春》，这是韩愈《游城南十六首》组诗中的一首，课本里通常只题《晚春》。资料库原文“鬬”是“斗”的繁体异体字，现在写作“斗”。",
+  "en": "The corpus title shows this is one of Han Yu's sixteen poems on visiting the south of the city; textbooks usually call it just \"Late Spring\". The corpus uses an old form of the character for \"compete\" (dòu); it is written in its simplified form today."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "才思：现在一般读 cái sī。旧时这里的“思”读 sì，指才情。",
+   "en": "In cái sī (talent, wit), the character is usually read sī today. In older readings it was sì here."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "不久归：春天不久就要走了。归，回去，这里指春天离开。",
+   "en": "bù jiǔ guī: spring will soon be gone. Guī means to go back, here spring leaving."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "百般红紫：各种各样颜色鲜艳的花。",
+   "en": "bǎi bān hóng zǐ: all kinds of red and purple flowers."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "斗芳菲：比赛谁更美、更香。芳菲，花草的香气和美丽。",
+   "en": "dòu fāng fēi: competing to be the most fragrant and beautiful. Fāng fēi means the beauty and scent of flowers."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "杨花：柳絮，柳树种子上白色的绒毛，会随风飞。",
+   "en": "yáng huā: willow fluff, the white down on willow seeds that floats in the wind."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "榆荚：榆树的果实，圆圆的，像小钱，也叫榆钱。",
+   "en": "yú jiá: elm seeds, round and flat like little coins."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "才思：才气和心思。",
+   "en": "cái sī: talent and cleverness."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "惟解：只知道，只会。解，懂得。",
+   "en": "wéi jiě: only knows how to. Jiě means to understand."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "漫天：满天。",
+   "en": "màn tiān: filling the sky."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "花草树木知道春天很快就要走了，",
+   "en": "The grass and trees know spring will soon be leaving,"
+  },
+  {
+   "zh": "于是红红紫紫的花都开出来，比赛谁更美。",
+   "en": "so flowers of every red and purple bloom, competing in beauty."
+  },
+  {
+   "zh": "柳絮和榆钱没有这样的才情，",
+   "en": "Willow fluff and elm seeds have no such talent;"
+  },
+  {
+   "zh": "只会满天飘飞，像下雪一样。",
+   "en": "all they know is to fill the sky, flying like snow."
+  }
+ ],
+ "background": {
+  "zh": "韩愈写过一组《游城南十六首》，写的是他在长安城南游玩时看到的景物，这是其中一首。一说写于唐宪宗元和十一年（816年）。晚春时节，花儿抢着开放，柳絮和榆钱在空中乱飞，诗人看到这番景象，写下了这首有趣的小诗。",
+  "en": "Han Yu wrote a set of sixteen poems on outings in the south of Chang'an, and this is one of them. One view dates them to 816. In late spring, flowers rush to bloom while willow fluff and elm seeds fly about in the air. Seeing this, the poet wrote this playful little poem."
+ },
+ "author_note": {
+  "zh": "韩愈（768—824），中唐文学家、诗人，“唐宋八大家”之首，写文章很有名。他的诗爱出新意，常常写别人想不到的角度。这首诗把花草写得像人一样会想、会比赛，就很有他的特点。",
+  "en": "Han Yu (768–824) was a mid-Tang writer and poet, first among the Eight Great Prose Masters of Tang and Song, and famous for his essays. His poems like to find fresh ideas and look at things from angles others miss. This poem makes plants think and compete like people, which is very much his style."
+ },
+ "appreciation": {
+  "zh": "这首诗最有意思的地方，是把花草树木写成了人。它们“知道”春天要走了，就赶紧打扮，比赛谁更漂亮。柳絮和榆钱没什么好看的颜色，诗人说它们“没有才思”，只会满天乱飞。可正是它们飞得像雪一样，给晚春添了一道特别的风景。这是笑它们笨，还是夸它们也在尽力留住春天？人们看法不同，正好留给读者自己去想。",
+  "en": "The fun of this poem is that it turns plants into people. They \"know\" spring is leaving, so they hurry to dress up and compete to be the prettiest. Willow fluff and elm seeds have no bright colors, so the poet says they have \"no talent\" and can only fly about the sky. Yet flying like snow, they give late spring a special sight of its own. Is the poet laughing at them, or praising them for trying their best to keep spring too? Readers disagree, which leaves us room to decide for ourselves."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "spring",
+   "flowers",
+   "willow",
+   "personification"
+  ]
+ },
+ "uncertain": []
+}

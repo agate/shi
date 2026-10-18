@@ -1,0 +1,832 @@
+{
+ "id": "ci-0a8a3e743776",
+ "kind": "ci",
+ "title": "齐天乐·蝉",
+ "title_en": "To the Tune Qi Tian Le: The Cicada",
+ "author": "王沂孙",
+ "author_en": "Wang Yisun",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（慢词，双调）",
+  "en": "ci lyric, long form in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "襟",
+    "jīn"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "咽",
+    "yè"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "柯",
+    "kē"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "诉",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "怪",
+    "guài"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "佩",
+    "pèi"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ],
+   [
+    "调",
+    "tiáo"
+   ],
+   [
+    "柱",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "残",
+    "cán"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "铅",
+    "qiān"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "洗",
+    "xǐ"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "贮",
+    "zhù"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "翼",
+    "yì"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "枯",
+    "kū"
+   ],
+   [
+    "形",
+    "xíng"
+   ],
+   [
+    "阅",
+    "yuè"
+   ],
+   [
+    "世",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "抱",
+    "bào"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "顿",
+    "dùn"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ]
+  ],
+  [
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "薰",
+    "xūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "原始资料“馀恨”“馀音”的“馀”是“余”的旧写法，这里统一写作“余”。",
+  "en": "The source writes the yú of yú hèn and yú yīn (leftover) in an older form; the modern simplified form is used here."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "“咽”这里是哽咽、声音悲咽的意思，读 yè，不读 yān 或 yàn。",
+   "en": "Here the character means to sob, a choked sad sound, and is read yè, not yān or yàn."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "调",
+   "pinyin": "tiáo",
+   "zh": "“调柱”是调弦，“调”读 tiáo。",
+   "en": "In tiáo zhù (tuning the strings) it is read tiáo."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为谁”是替谁、为了谁，“为”读 wèi。",
+   "en": "In wèi shuí (for whom) it is read wèi."
+  },
+  {
+   "line": 17,
+   "pos": 0,
+   "char": "甚",
+   "pinyin": "shèn",
+   "zh": "“甚”这里是“为什么”的意思，读 shèn。",
+   "en": "Here the character means why, and is read shèn."
+  },
+  {
+   "line": 19,
+   "pos": 0,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "“谩”同“漫”，意思是徒然、白白地，读 màn。",
+   "en": "Here it means the same as màn, in vain, and is read màn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "一襟：满怀，满胸。襟，衣服的前襟。",
+   "en": "yī jīn: a whole chestful. Jīn is the front of a robe."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "余恨：没有消散的怨恨。",
+   "en": "yú hèn: grief that never faded."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "宫魂断：古书记载，齐王的王后含恨而死，尸体变成了蝉，在庭树上悲鸣。所以后人称蝉为“齐女”，说它是宫中女子的魂。",
+   "en": "gōng hún duàn: an old book says a queen of Qi died full of grief and turned into a cicada that cried in the courtyard trees. So the cicada came to be seen as the soul of a palace lady."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "翠阴：绿色的树荫。",
+   "en": "cuì yīn: green shade."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "乍：刚刚，忽然。",
+   "en": "zhà: just now, suddenly."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "凉柯：清凉的树枝。柯，树枝。",
+   "en": "liáng kē: a cool branch. Kē means branch."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "还移暗叶：又移到浓密幽暗的树叶间去。",
+   "en": "hái yí àn yè: then moves again into the dark, thick leaves."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "深诉：深深地倾诉。",
+   "en": "shēn sù: to pour out deeply."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "怪：惊奇，觉得奇怪。",
+   "en": "guài: to be surprised, to wonder."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 5,
+   "zh": "瑶佩流空：玉佩相碰的声音在空中流动。形容蝉声清脆。",
+   "en": "yáo pèi liú kōng: the sound of jade pendants knocking floats through the air. It describes the cicada's clear song."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "玉筝调柱：像有人在调玉筝的弦。柱，筝上架弦的小木柱。",
+   "en": "yù zhēng tiáo zhù: like someone tuning a jade zither. Zhù are the small bridges that hold up the zither's strings."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "镜暗妆残：镜子昏暗，妆容残褪。这是把蝉比作憔悴的宫女。",
+   "en": "jìng àn zhuāng cán: the mirror is dim and the makeup worn off. The cicada is pictured as a palace lady who has lost her looks."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "娇鬓：美丽的鬓发。传说魏文帝的宫女莫琼树把鬓发梳得像蝉翼一样薄，叫“蝉鬓”。",
+   "en": "jiāo bìn: lovely hair at the temples. Legend says a palace lady of Emperor Wen of Wei combed her side hair as thin as a cicada's wings, called cicada hair."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "尚如许：还是这样（美好）。",
+   "en": "shàng rú xǔ: still so lovely."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "铜仙铅泪：汉武帝造了一个手捧铜盘承接露水的铜仙人。魏明帝下令把它拆走，传说铜人流下了眼泪。唐代李贺写它“忆君清泪如铅水”。",
+   "en": "tóng xiān qiān lèi: Emperor Wu of Han built a bronze immortal holding a plate to catch dew. When Emperor Ming of Wei had it taken away, legend says the bronze figure wept. The Tang poet Li He wrote that its tears were like molten lead."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "似洗：泪流得像水洗一样。",
+   "en": "sì xǐ: weeping as if washed in tears."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 5,
+   "zh": "携盘去远：铜仙人连同承露盘一起被搬到远方。",
+   "en": "xié pán qù yuǎn: the bronze immortal was carried far away, plate and all."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 2,
+   "zh": "贮：储存，积存。",
+   "en": "zhù: to store up."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "零露：落下的露水。古人以为蝉只喝露水。",
+   "en": "líng lù: falling dew. People of old believed cicadas drank only dew."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "病翼：病弱的翅膀。",
+   "en": "bìng yì: weak, sick wings."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "枯形：干枯的身子。",
+   "en": "kū xíng: a withered body."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "阅世：经历人世。",
+   "en": "yuè shì: to live through the world."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "消得：经得起，禁得住。",
+   "en": "xiāo dé: able to bear."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 6,
+   "zh": "几度：几次。",
+   "en": "jǐ dù: how many times."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "余音：最后剩下的鸣声。",
+   "en": "yú yīn: the last lingering notes."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 5,
+   "zh": "独抱清高：独自守着高洁的品格。古人认为蝉住在高处、只喝露水，很清高。",
+   "en": "dú bào qīng gāo: keeping a pure, lofty nature alone. People of old thought the cicada noble because it lived high up and drank only dew."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 1,
+   "zh": "顿：一下子。",
+   "en": "dùn: all at once."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "凄楚：凄凉悲苦。",
+   "en": "qī chǔ: sad and bitter."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "薰风：初夏温暖的南风。",
+   "en": "xūn fēng: the warm south wind of early summer."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "满怀没有消散的怨恨，宫女的魂魄断绝了，",
+   "en": "With a chestful of grief that never faded, the palace lady's soul broke away,"
+  },
+  {
+   "zh": "年年都化作蝉，在庭院绿荫的树上鸣叫。",
+   "en": "and year after year it cries in the green shade of the courtyard trees."
+  },
+  {
+   "zh": "它刚刚在清凉的树枝上哽咽，",
+   "en": "Just now it sobbed on a cool branch,"
+  },
+  {
+   "zh": "又移到幽暗的树叶间，",
+   "en": "then moved into the dark leaves,"
+  },
+  {
+   "zh": "再一次把离别的愁苦深深诉说。",
+   "en": "and once more poured out its sorrow of parting."
+  },
+  {
+   "zh": "西窗外刚下过一阵雨，",
+   "en": "A shower has just passed the west window."
+  },
+  {
+   "zh": "奇怪，好像有玉佩的声音在空中流动，",
+   "en": "How strange: it sounds like jade pendants floating through the air,"
+  },
+  {
+   "zh": "又像有人在调玉筝的弦。",
+   "en": "or like someone tuning the strings of a jade zither."
+  },
+  {
+   "zh": "镜子昏暗，妆容也已残褪，",
+   "en": "The mirror is dim, the makeup worn away;"
+  },
+  {
+   "zh": "还为了谁把鬓发梳得这样美？",
+   "en": "for whom does she still keep her lovely hair so fine?"
+  },
+  {
+   "zh": "铜仙人流下铅水般的眼泪，像水洗过一样，",
+   "en": "The bronze immortal weeps tears like lead, as if washed in them;"
+  },
+  {
+   "zh": "可叹它带着承露盘被搬到了远方，",
+   "en": "alas, it was carried far away, plate and all,"
+  },
+  {
+   "zh": "再也难以积存落下的露水。",
+   "en": "and the falling dew can no longer be gathered."
+  },
+  {
+   "zh": "病弱的翅膀被秋天惊动，",
+   "en": "Sick wings startled by autumn,"
+  },
+  {
+   "zh": "干枯的身子看尽了人世，",
+   "en": "a withered body that has seen the world:"
+  },
+  {
+   "zh": "还能经得起几回夕阳？",
+   "en": "how many more sunsets can it bear?"
+  },
+  {
+   "zh": "最后的鸣声更加悲苦。",
+   "en": "Its last notes are more bitter still."
+  },
+  {
+   "zh": "为什么独自守着清高，",
+   "en": "Why does it keep its pure nature all alone,"
+  },
+  {
+   "zh": "却一下子变得这样凄凉？",
+   "en": "only to fall at once into such sorrow?"
+  },
+  {
+   "zh": "白白地想起初夏的暖风，",
+   "en": "In vain it dreams of the warm summer wind,"
+  },
+  {
+   "zh": "和那千万缕柳丝。",
+   "en": "and the willow branches, thousands upon thousands of threads."
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏物词，题目是写蝉，实际是借蝉抒发亡国的悲痛。南宋灭亡前后，王沂孙和周密、张炎等词人用同样的题目唱和，这些词后来编成了《乐府补题》。一说这些词和元朝时宋朝皇陵被盗掘的事有关，词里的“宫魂”就暗指宋朝的后妃。这种说法有争议，但整首词充满亡国之痛，这一点是大家公认的。",
+  "en": "This is a lyric about an object. On the surface it is about the cicada, but it uses the cicada to voice grief for a lost country. Around the fall of the Southern Song, Wang Yisun and other poets such as Zhou Mi and Zhang Yan wrote lyrics on the same subjects in reply to one another. These were later gathered into a book called Yuefu Buti. One view links these lyrics to the robbing of the Song imperial tombs under the Yuan, so the palace soul would hint at the Song empresses and consorts. That view is debated. But everyone agrees the lyric is full of the pain of a fallen country."
+ },
+ "author_note": {
+  "zh": "王沂孙（？—约1290），号碧山，会稽（今浙江绍兴）人，宋末元初的词人。他经历了南宋灭亡，心中充满悲痛。他最擅长写咏物词，借蝉、梅、新月、落叶这些小东西，含蓄地说出亡国的哀伤。这首《齐天乐·蝉》是他最有名的作品之一。",
+  "en": "Wang Yisun (birth year unknown, died about 1290), who called himself Bishan, came from Kuaiji, today's Shaoxing in Zhejiang. He was a lyric poet at the end of the Song and the start of the Yuan. He lived through the fall of the Southern Song, and his heart was full of grief. He was best at lyrics about objects. Through small things like a cicada, plum blossom, a new moon or fallen leaves, he quietly spoke of the sorrow of a lost country. This lyric on the cicada is one of his best-known works."
+ },
+ "appreciation": {
+  "zh": "全词句句写蝉，又句句像在写人。开头用了齐国王后化蝉的传说，蝉成了一个满怀怨恨的宫女，年年在树上哭诉。雨后蝉声清脆，像玉佩、像筝声，可她已经镜暗妆残，美丽的鬓发又为谁而留？下片用铜仙人流泪的故事：承露盘被搬走，蝉没有露水可喝了。这就像国家没了，人也失去了依靠。秋天到了，蝉翅膀病了，身子枯了，还能看几次夕阳？它一直守着清高，结局却这样凄凉。最后它只能白白地回想夏天的暖风和千万缕柳丝，那是再也回不去的好时光。读的时候，可以想象一只秋蝉在夕阳里发出最后的叫声。",
+  "en": "Every line is about the cicada, and every line also seems to be about a person. The opening uses the legend of the Qi queen who became a cicada, so the insect is a palace lady full of grief, crying in the trees year after year. After rain its song is clear, like jade pendants or a zither. But her mirror is dim and her makeup is gone; for whom does she still keep her lovely hair? The second stanza uses the story of the weeping bronze immortal. The dew plate has been carried off, so the cicada has no dew to drink. It is like a country that is gone, leaving its people with nothing to lean on. Autumn comes. The wings are sick, the body is withered; how many more sunsets can it see? It always kept itself pure, yet it ends so sadly. At last it can only dream in vain of the warm summer wind and the thousands of willow threads, good times that will never come back. As you read, picture an autumn cicada giving its last cry in the setting sun."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "cicada",
+   "fallen-country",
+   "grief",
+   "object"
+  ]
+ },
+ "uncertain": []
+}

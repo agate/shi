@@ -1,0 +1,827 @@
+{
+ "id": "ci-c0f88cab34de",
+ "kind": "ci",
+ "title": "宴清都·初春",
+ "title_en": "Yan Qing Du: Early Spring",
+ "author": "卢祖皋",
+ "author_en": "Lu Zugao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "讯",
+    "xùn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "管",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "次",
+    "cì"
+   ],
+   [
+    "第",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "笙",
+    "shēng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "合",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "绮",
+    "qǐ"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "溶",
+    "róng"
+   ],
+   [
+    "溶",
+    "róng"
+   ],
+   [
+    "涧",
+    "jiàn"
+   ],
+   [
+    "渌",
+    "lù"
+   ],
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "泮",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "换",
+    "huàn"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "黛",
+    "dài"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "隋",
+    "suí"
+   ],
+   [
+    "堤",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "阔",
+    "kuò"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "音",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "鸾",
+    "luán"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "鉴",
+    "jiàn"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "计",
+    "jì"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "笼",
+    "lóng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "澹",
+    "dàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "恁",
+    "nèn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "语料库只有词牌名，通行本有题目“初春”。语料库“鸾分槛影”的“槛”，通行本作“鉴”（镜子），用的是鸾鸟照镜的典故，这里用通行本。",
+  "en": "The corpus gives only the tune name; the common edition adds the title 'Early Spring'. Where the corpus has kǎn (railing) in the line about the luan bird, the common edition has jiàn (mirror), which fits the old story of the luan bird and the mirror, so we follow it."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "读 bó，这里是“微弱、淡”的意思，写初春阳光还不强。",
+   "en": "Read bó, meaning faint or weak: the early spring sun is not yet strong."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "读 chóng，意思是“又一次”。",
+   "en": "Read chóng, meaning once again."
+  },
+  {
+   "line": 11,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "读 chóng，“重见”就是再见面。",
+   "en": "Read chóng: chóng jiàn means to meet again."
+  },
+  {
+   "line": 14,
+   "pos": 0,
+   "char": "恁",
+   "pinyin": "nèn",
+   "zh": "读 nèn，宋代口语，意思是“那、那样”。“恁时”就是“那时”。",
+   "en": "Read nèn, a word from Song-dynasty speech meaning that. Nèn shí means at that time."
+  },
+  {
+   "line": 17,
+   "pos": 1,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "读 nǎ，同“哪”。“那堪”就是“哪里受得了”。",
+   "en": "Read nǎ, the same as 'how'. Nǎ kān means how can one bear it."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "春讯：春天到来的消息。",
+   "en": "chūn xùn: news that spring has come."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "飞琼管：玉管里的灰飞了出来。古人把芦苇灰放在玉做的律管里，节气一到，灰就飞出来，用来测定季节。",
+   "en": "fēi qióng guǎn: ash flying from the jade pipe. People of old put reed ash in jade pitch pipes; when a new season's air arrived, the ash flew out, telling them the season had changed."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "风日薄：风很轻，阳光很淡。",
+   "en": "fēng rì bó: the wind is soft and the sunlight faint."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "度墙：飞过墙头。度，越过。",
+   "en": "dù qiáng: flying over the wall. Dù means to cross."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "次第：一处接一处，渐渐地。",
+   "en": "cì dì: one place after another, little by little."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "笙歌：吹笙唱歌，泛指音乐歌声。笙，一种用竹管做的乐器。",
+   "en": "shēng gē: music and singing. The shēng is a wind instrument made of bamboo pipes."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "翠合：满眼青翠，到处都是绿色。一说指穿翠绿衣服的女子聚在一起。",
+   "en": "cuì hé: green all around. Another reading says it means girls in green gathering together."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "绮罗：华美的丝织衣服，借指穿着华服的女子。",
+   "en": "qǐ luó: fine silk clothes; they stand for the women who wear them."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "溶溶：水流宽广、缓缓流动的样子。",
+   "en": "róng róng: wide and gently flowing."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "涧渌：山涧里清清的水。渌，清澈的水。",
+   "en": "jiàn lù: clear water in a mountain stream. Lù means clear water."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "冰泮：冰化开了。泮，融解。",
+   "en": "bīng pàn: the ice melts. Pàn means to thaw."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 7,
+   "zh": "年华暗换：时光不知不觉地换了一年。",
+   "en": "nián huá àn huàn: the years changing without our noticing."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "料：料想，猜想。",
+   "en": "liào: I imagine."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "黛眉：用青黑色画的眉毛，借指心上人，也像细细的柳叶。",
+   "en": "dài méi: eyebrows painted dark blue-black. They stand for the beloved, and also look like thin willow leaves."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "锁：皱起眉头，发愁的样子。",
+   "en": "suǒ: to knit the brows in worry."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "隋堤：隋炀帝开运河时修的河堤，堤上种满柳树，是古诗里常写的离别之地。",
+   "en": "suí dī: the embankment built along the Grand Canal under Emperor Yang of Sui, lined with willows; a common place of parting in old poems."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "芳心：女子美好的心意，也指花心。",
+   "en": "fāng xīn: a young woman's tender heart; also the heart of a flower."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "梁苑：汉代梁孝王的园林，在今河南商丘一带，后来泛指美好的园林。",
+   "en": "liáng yuàn: the gardens of Prince Xiao of Liang in the Han dynasty, near today's Shangqiu in Henan; later any fine garden."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "新来：近来。",
+   "en": "xīn lái: lately."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 6,
+   "zh": "雁阔云音：大雁飞得远远的，云里传不来书信。古人说大雁能带信。",
+   "en": "yàn kuò yún yīn: the geese are far away, and no letter comes through the clouds. Old stories say geese carry letters."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "鸾分鉴影：鸾鸟和镜子里的影子分开了，比喻恋人分离。传说有一只鸾鸟三年不叫，人们给它照镜子，它看见自己的影子悲鸣而死。鉴，镜子。",
+   "en": "luán fēn jiàn yǐng: the luan bird parted from its image in the mirror: lovers separated. A legend tells of a luan bird that would not sing for three years; when shown a mirror, it saw its reflection, cried out in grief, and died. Jiàn means mirror."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "无计：没有办法。",
+   "en": "wú jì: no way at all."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "啼春：像在为春天哭泣。",
+   "en": "tí chūn: as if weeping for spring."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "笼愁：笼罩着愁绪。",
+   "en": "lóng chóu: wrapped in sorrow."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "澹月：淡淡的月亮。澹，同“淡”。",
+   "en": "dàn yuè: a pale moon."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "离肠：离别时的心肠，离愁。",
+   "en": "lí cháng: the heart at parting; the sorrow of separation."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 1,
+   "zh": "算：想来，算起来。",
+   "en": "suàn: it seems, all things counted."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 7,
+   "zh": "凭高望眼：登上高处，向远方张望。凭，靠着。",
+   "en": "píng gāo wàng yǎn: climbing high and gazing far. Píng means to lean on."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 7,
+   "zh": "芳草连天：青草一直连到天边。古诗里芳草常象征无边的离愁。",
+   "en": "fāng cǎo lián tiān: fragrant grass reaching to the sky. In old poems endless grass often stands for endless longing."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "飞梅弄晚：梅花瓣在傍晚的风里飘飞。弄，戏弄、摆弄。",
+   "en": "fēi méi nòng wǎn: plum petals tossing in the evening wind. Nòng means to play with."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "玉管里的灰飞起来，报告春天来了。",
+   "en": "Ash flies from the jade pipe: spring has come."
+  },
+  {
+   "zh": "风轻，阳光淡，飞过墙头的鸟叫成一片。",
+   "en": "The wind is soft, the sun is faint, and birds flying over the wall sing all at once."
+  },
+  {
+   "zh": "江边的城里，一处接一处，",
+   "en": "Across the river town, one place after another,"
+  },
+  {
+   "zh": "笙歌响起，满眼青翠，",
+   "en": "pipes and songs ring out amid the green,"
+  },
+  {
+   "zh": "穿着绮罗的人们带着暖暖的香气。",
+   "en": "and women in silk bring a warm fragrance."
+  },
+  {
+   "zh": "山涧里清水缓缓流，冰都化了。",
+   "en": "Clear streams flow wide and slow; the ice has melted."
+  },
+  {
+   "zh": "在醉梦里，时光不知不觉又换了一年。",
+   "en": "In drunken dreams, the year has quietly turned."
+  },
+  {
+   "zh": "想必她又在柳树成行的隋堤边皱起眉头，",
+   "en": "I imagine her knitting her dark brows again by the willows of the Sui dike,"
+  },
+  {
+   "zh": "她的心也还在为梁苑的春色而动。",
+   "en": "her tender heart still stirred by the spring of the Liang gardens."
+  },
+  {
+   "zh": "近来大雁飞得远远的，云里没有书信，",
+   "en": "Lately the geese are far, and no letter comes through the clouds;"
+  },
+  {
+   "zh": "像鸾鸟离开了镜中的影子，",
+   "en": "like the luan bird parted from its mirror image,"
+  },
+  {
+   "zh": "没有办法再见面。",
+   "en": "there is no way for us to meet again."
+  },
+  {
+   "zh": "细雨像在为春天哭泣，",
+   "en": "Fine rain seems to weep for spring,"
+  },
+  {
+   "zh": "淡淡的月亮笼罩着愁绪，",
+   "en": "a pale moon is wrapped in sorrow,"
+  },
+  {
+   "zh": "就像那时的庭院一样。",
+   "en": "just like the courtyard back then."
+  },
+  {
+   "zh": "离别的心，还没开口就已经碎了。",
+   "en": "My parted heart breaks before a word is said."
+  },
+  {
+   "zh": "想来只剩下登高远望的一双眼睛。",
+   "en": "All I have left, it seems, are eyes that gaze from high places."
+  },
+  {
+   "zh": "哪里还受得了，青草一直连到天边，",
+   "en": "How can I bear it, the fragrant grass reaching to the sky,"
+  },
+  {
+   "zh": "梅花瓣在傍晚的风里飘飞。",
+   "en": "and plum petals tossing in the evening wind?"
+  }
+ ],
+ "background": {
+  "zh": "题目“初春”，写的是刚开春的时候。上片写春天来了，城里到处是音乐和欢笑，冰雪化开，作者却在醉梦里觉得一年又过去了。下片写他和一位心爱的人分开了，收不到她的信，也没办法再见面。这首词写于哪一年、思念的人是谁，都已经不清楚了。",
+  "en": "The title, 'Early Spring', means the first days of spring. The first stanza shows spring arriving: music and laughter all over town, ice and snow melting, while the poet, half drunk and dreaming, feels another year has slipped away. The second stanza tells of being parted from someone he loves. No letters come, and there is no way to meet again. The year it was written, and who the loved one was, are no longer known."
+ },
+ "author_note": {
+  "zh": "卢祖皋（生卒年说法不一），字申之，号蒲江，永嘉（今浙江温州）人，南宋词人。他考中进士，在朝廷做过官。他的词清丽柔和，多写春景和离别的愁绪，用字讲究，音律和谐。这首词把明媚的春光和心里的离愁放在一起，是他常用的写法。",
+  "en": "Lu Zugao, whose exact dates are uncertain, was also called Pujiang, and came from Yongjia, today's Wenzhou in Zhejiang. He was a Southern Song ci poet who passed the top exam and served at court. His ci are clear, soft and graceful. They often describe spring scenes and the sorrow of parting, with careful wording and smooth music. Putting bright spring beside private grief, as this ci does, was a favorite method of his."
+ },
+ "appreciation": {
+  "zh": "这首词前后两片像两种天气。上片是晴朗热闹的初春：玉管里的灰飞起来报春，鸟在墙头乱叫，城里一处一处响起笙歌，山涧的冰化了，水哗哗地流。可是作者在醉梦里，只觉得时光偷偷溜走。他想到远方的人，大概也在柳树边皱着眉。下片转成阴雨的愁：大雁不来，书信断了，像鸾鸟失去了镜中的伴侣。细雨、淡月、庭院，都和分别时一样。他只能登高远望，可看到的是连到天边的青草，傍晚飘飞的梅花，愁更多了。热闹的春天反而让孤单的人更孤单。",
+  "en": "The two stanzas of this ci are like two kinds of weather. The first is bright, lively early spring. Ash flies from the jade pipe to announce spring, birds chatter on the walls, pipes and songs ring out across town, and the ice in the streams melts into rushing water. Yet the poet, in his drunken dream, only feels time slipping away. He thinks of someone far off, who is probably frowning by the willows too. The second stanza turns to the gloom of rain. The geese do not come, the letters have stopped, like the luan bird that lost its partner in the mirror. Fine rain, a pale moon, the courtyard: all are just as they were at the parting. He can only climb high and gaze far. But what he sees is grass stretching to the sky and plum petals drifting in the evening, and his sorrow only grows. A bustling spring makes a lonely person feel lonelier still."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "early-spring",
+   "longing",
+   "parting",
+   "love"
+  ]
+ },
+ "uncertain": []
+}

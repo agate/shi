@@ -1,0 +1,331 @@
+{
+ "id": "1487452b-5f49-4f4f-9913-1f3ec1cddf95",
+ "kind": "shi",
+ "title": "饯别王十一南游",
+ "title_en": "Farewell to Wang the Eleventh, Traveling South",
+ "author": "刘长卿",
+ "author_en": "Liu Changqing",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "挥",
+    "huī"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "巾",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "没",
+    "mò"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "汀",
+    "tīng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "蘋",
+    "pín"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "最后一字底本作“苹”，是繁体“蘋”被机器转成简体时出的错。“白蘋”是一种水草，读 bái pín，和苹果的“苹”不是一个字。",
+  "en": "The last character in the source text was changed by machine conversion into the character for \"apple\". The right word is bái pín, a white-flowered water plant, a different character."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "没",
+   "pinyin": "mò",
+   "zh": "“没”在这里是消失、沉没的意思，读 mò，不读 méi。",
+   "en": "Here this character means to vanish or sink out of sight, so it is read mò, not méi."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "蘋",
+   "pinyin": "pín",
+   "zh": "“蘋”是一种水草，读 pín。",
+   "en": "This is a water plant and is read pín."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "烟水阔：水面宽阔，雾气迷蒙。",
+   "en": "yān shuǐ kuò: wide water under a misty haze."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "沾巾：泪水打湿了手巾。",
+   "en": "zhān jīn: tears wet the handkerchief."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "没：消失，看不见了。",
+   "en": "mò: to vanish, to go out of sight."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "空向人：白白地对着人。朋友已走，只剩青山。",
+   "en": "kōng xiàng rén: facing me for nothing. The friend is gone; only the hills remain."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "五湖：指太湖一带，朋友要去的地方。",
+   "en": "wǔ hú: the Five Lakes, here the area around Lake Tai, where the friend is going."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "汀洲：水中的小块平地，小沙洲。",
+   "en": "tīng zhōu: a small, flat piece of land in the water."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "白蘋：一种开白色小花的水草。古人常用它表示思念远方的人。",
+   "en": "bái pín: a water plant with small white flowers. Poets often used it to show they missed someone far away."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "望着你远去，烟雾笼罩的江面宽阔无边，",
+   "en": "I watch you go; the misty water spreads wide."
+  },
+  {
+   "zh": "我挥手告别，泪水打湿了手巾。",
+   "en": "I wave goodbye, and tears wet my handkerchief."
+  },
+  {
+   "zh": "飞鸟消失在哪里了呢？",
+   "en": "Where have the flying birds gone?"
+  },
+  {
+   "zh": "只剩青山白白地对着我。",
+   "en": "Only the green hills face me, for nothing."
+  },
+  {
+   "zh": "长江上，你的一片帆越走越远；",
+   "en": "On the long river, your single sail grows distant;"
+  },
+  {
+   "zh": "落日下，五湖一带正是春天。",
+   "en": "under the setting sun, it is spring by the Five Lakes."
+  },
+  {
+   "zh": "谁能看见，我站在沙洲上，",
+   "en": "Who can see me, standing on the sandbar,"
+  },
+  {
+   "zh": "思念着你，对着白蘋发愁。",
+   "en": "missing you, grieving over the white water plants?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首送别诗。王十一是诗人的朋友，“十一”是他在家族同辈里的排行，名字已经不知道了。朋友要坐船往南去五湖一带，诗人摆酒为他送行（这就是“饯别”），写下了这首诗。写作的具体时间不清楚。",
+  "en": "This is a farewell poem. Wang the Eleventh was a friend of the poet. \"Eleventh\" was his place among the cousins of his family; his own name is no longer known. The friend was leaving by boat for the Five Lakes in the south, and the poet held a farewell meal for him (that is what jian bie in the title means) and wrote this poem. We do not know exactly when."
+ },
+ "author_note": {
+  "zh": "刘长卿，唐代中期诗人，生卒年说法不一。他擅长五言诗，被称为“五言长城”。他一生仕途不顺，送别、怀人的诗写得特别多，也特别动情。",
+  "en": "Liu Changqing was a Tang poet of the middle period; sources disagree about his dates. He was best at five-character poems and was called \"the Great Wall of five-character verse\". His career went badly, and he wrote many moving poems about parting from friends and missing them."
+ },
+ "appreciation": {
+  "zh": "这首诗按照送别的过程来写。先是朋友上船，诗人挥手流泪；船走远了，连飞鸟也看不见了，只剩青山对着他。“空”字写出了人走后的空落落。接着，长江上只剩一片帆，越来越小，诗人想象朋友到了五湖，那里正是春天。最后，船已经看不见了，诗人还站在沙洲上，对着水草发呆。整首诗从近到远，又从远回到自己，把舍不得的心情写得很深。",
+  "en": "The poem follows the parting step by step. First the friend boards the boat, and the poet waves and cries. The boat sails off; even the birds vanish, and only the green hills face him. The word \"for nothing\" shows how empty he feels once his friend is gone. Next there is just one sail on the long river, smaller and smaller. The poet imagines his friend reaching the Five Lakes, where it is spring. At the end the boat is out of sight, but the poet still stands on the sandbar, staring at the water plants. The poem moves from near to far and then back to the poet himself, showing how hard it is to let a friend go."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "river",
+   "missing"
+  ]
+ },
+ "uncertain": []
+}

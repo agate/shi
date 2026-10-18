@@ -1,0 +1,804 @@
+{
+ "id": "ci-aa97056db956",
+ "kind": "ci",
+ "title": "薄幸·淡妆多态",
+ "title_en": "Bo Xing: Light Makeup, Many Charms",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "态",
+    "tài"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "的",
+    "dí"
+   ],
+   [
+    "的",
+    "dí"
+   ],
+   [
+    "频",
+    "pín"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "眄",
+    "miǎn"
+   ],
+   [
+    "睐",
+    "lài"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "绾",
+    "wǎn"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "带",
+    "dài"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "迎",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "颦",
+    "pín"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "奈",
+    "nài"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "鸭",
+    "yā"
+   ],
+   [
+    "炉",
+    "lú"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "翔",
+    "xiáng"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "解",
+    "jiě"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "烧",
+    "shāo"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "踏",
+    "tà"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "挑",
+    "tiāo"
+   ],
+   [
+    "菜",
+    "cài"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "丁",
+    "dīng"
+   ],
+   [
+    "宁",
+    "níng"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "碍",
+    "ài"
+   ]
+  ],
+  [
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "再",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "困",
+    "kùn"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ],
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "聊",
+    "liáo"
+   ],
+   [
+    "赖",
+    "lài"
+   ]
+  ],
+  [
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "梢",
+    "shāo"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "原文与通行本差别较大：开头作“艳真多态”，又有“琴心相许”“与写宜男双带”“斜月朦胧”“轻颦微笑”“便翡翠屏开，芙蓉帐掩，与把香罗偷解”“往来翻恨”“春浓酒暖”等不同。这里采用《宋词三百首》等通行本的文字。",
+  "en": "The source text differs a lot from the common version. It opens with a different word for beauty, and has different wording in many places, such as the bed curtains, the slanting moon, the warm wine and the line about tying the sash. Here we use the common text, as in Three Hundred Song Ci."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "的",
+   "pinyin": "dí",
+   "zh": "“的的”读 dí dí，意思是明亮的样子，这里形容眼睛明亮有神。",
+   "en": "Read dí dí here, meaning bright; it describes her shining eyes."
+  },
+  {
+   "line": 17,
+   "pos": 0,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "“厌厌”同“恹恹”，读 yān yān，意思是没精神、懒洋洋的。",
+   "en": "Here the doubled character is read yān yān, meaning listless and weary."
+  },
+  {
+   "line": 13,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重帘”是一层又一层的帘子，“重”读 chóng。",
+   "en": "Chóng lián means layer upon layer of curtains, so the character is read chóng."
+  },
+  {
+   "line": 12,
+   "pos": 1,
+   "char": "宁",
+   "pinyin": "níng",
+   "zh": "“丁宁”同“叮咛”，这里读 dīng níng。",
+   "en": "Dīng níng is an old way of writing the word for urging again and again."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "淡妆：化着淡淡的妆。",
+   "en": "dàn zhuāng: light makeup."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "多态：姿态很多，很有风韵。",
+   "en": "duō tài: full of charm in every move."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "的的：明亮的样子。",
+   "en": "dí dí: bright, shining."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "眄睐：斜着眼看，送眼波。",
+   "en": "miǎn lài: glancing sideways, casting looks."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 7,
+   "zh": "琴心先许：心里已经先答应了。汉代司马相如弹琴表达对卓文君的爱慕，卓文君听懂了琴声，就跟他走了。",
+   "en": "qín xīn xiān xǔ: she had already given her heart. In the Han dynasty, Sima Xiangru played the qin to show his love for Zhuo Wenjun; she understood the music and went away with him."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "绾：把带子打成结。",
+   "en": "wǎn: to tie into a knot."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 6,
+   "zh": "合欢双带：打成同心结的一对衣带，表示两人结为恩爱。",
+   "en": "hé huān shuāng dài: a pair of sashes tied in a love knot, a sign that two people are joined in love."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "画堂：装饰华美的厅堂。",
+   "en": "huà táng: a beautifully decorated hall."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 7,
+   "zh": "风月逢迎：在清风明月下相会。",
+   "en": "fēng yuè féng yíng: meeting under the breeze and the moon."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "轻颦：轻轻皱一下眉。颦，皱眉。",
+   "en": "qīng pín: a slight frown."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "娇无奈：娇美得叫人没有办法。",
+   "en": "jiāo wú nài: so lovely that one is helpless before her."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 4,
+   "zh": "睡鸭炉：做成睡着的鸭子样子的香炉。",
+   "en": "shuì yā lú: an incense burner shaped like a sleeping duck."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "翔鸳屏：画着飞翔的鸳鸯的屏风。",
+   "en": "xiáng yuān píng: a screen painted with flying mandarin ducks."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "香罗：带着香气的丝绸衣带。",
+   "en": "xiāng luó: a fragrant silk sash."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "烧灯：点灯，指正月十五元宵节点花灯。",
+   "en": "shāo dēng: lighting lanterns, at the Lantern Festival on the fifteenth of the first month."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 7,
+   "zh": "踏青挑菜：春天到郊外游玩、挖野菜。古时二月初二前后有挑菜的风俗。",
+   "en": "tà qīng tiāo cài: spring outings and gathering wild greens, an old custom around the second day of the second month."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 3,
+   "zh": "凭：靠，托。",
+   "en": "píng: to rely on, to entrust."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "丁宁：反复嘱咐，同“叮咛”。",
+   "en": "dīng níng: to tell again and again."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "重帘碍：一层层的帘子挡住了。碍，阻挡。",
+   "en": "chóng lián ài: blocked by layers of curtains."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "酒困：喝了酒后困倦。",
+   "en": "jiǔ kùn: drowsy from wine."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "昼永：白天很长。",
+   "en": "zhòu yǒng: the day is long."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 7,
+   "zh": "无聊赖：心里空空的，没有什么可以寄托。",
+   "en": "wú liáo lài: empty, with nothing to lean on."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "厌厌：没精神的样子，同“恹恹”。",
+   "en": "yān yān: listless and weary."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 6,
+   "zh": "花梢日在：太阳还挂在花枝梢头，说明白天还没过完。",
+   "en": "huā shāo rì zài: the sun still hangs at the tips of the flowering branches; the day is not yet over."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她化着淡妆，姿态动人。",
+   "en": "Lightly made up, she was full of charm."
+  },
+  {
+   "zh": "更有那明亮的眼睛，一次次回头看我。",
+   "en": "Her bright eyes turned back to glance at me again and again."
+  },
+  {
+   "zh": "我就明白，她心里已经先答应了，",
+   "en": "Then I knew she had already given her heart,"
+  },
+  {
+   "zh": "想和我把一对衣带结成同心结。",
+   "en": "and wished to tie our sashes in a love knot."
+  },
+  {
+   "zh": "记得在华美的厅堂，清风明月下相会，",
+   "en": "I remember meeting in the painted hall, under the breeze and the moon,"
+  },
+  {
+   "zh": "她轻轻皱眉、浅浅一笑，娇美得叫人没办法。",
+   "en": "her light frown and faint smile so lovely I was helpless."
+  },
+  {
+   "zh": "在睡鸭香炉旁边，",
+   "en": "Beside the sleeping-duck incense burner,"
+  },
+  {
+   "zh": "在画着飞鸳鸯的屏风里，",
+   "en": "behind the screen of flying mandarin ducks,"
+  },
+  {
+   "zh": "她害羞地悄悄解开了香罗带。",
+   "en": "she shyly untied her fragrant silk sash."
+  },
+  {
+   "zh": "可是自从过了元宵节点灯以后，",
+   "en": "But ever since the lanterns of the Lantern Festival,"
+  },
+  {
+   "zh": "踏青、挖野菜的时候，都没再见到她。",
+   "en": "I have not seen her at the spring outings or among those gathering greens."
+  },
+  {
+   "zh": "好几次托一对燕子，",
+   "en": "Several times I asked a pair of swallows"
+  },
+  {
+   "zh": "反复带去我深深的心意，",
+   "en": "to carry my deep feelings to her again and again,"
+  },
+  {
+   "zh": "可燕子来来往往，又恨那一层层帘子挡住了路。",
+   "en": "but as they flew back and forth, I hated the layered curtains that blocked them."
+  },
+  {
+   "zh": "约好什么时候再见呢？",
+   "en": "When will we meet again?"
+  },
+  {
+   "zh": "正是春意浓浓、喝酒困倦的时候，",
+   "en": "It is deep spring, and I am drowsy with wine,"
+  },
+  {
+   "zh": "人闲着，白天又长，心里空落落的。",
+   "en": "idle through the long day, with nothing to lean on."
+  },
+  {
+   "zh": "没精打采地睡醒起来，",
+   "en": "I wake up listless,"
+  },
+  {
+   "zh": "太阳还挂在花枝梢头。",
+   "en": "and the sun still hangs at the tips of the flowering branches."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一段恋情：上半首回忆和一位女子从相识、相爱到幽会的经过，下半首写分别以后再也见不到她，只能在春日里苦苦思念。一般认为是以男子的口吻来写的。写于何时、为谁而写，没有可靠的记载。这首词有好几个版本，文字差别不小，这里用的是通行本。",
+  "en": "This ci tells a love story. The first stanza remembers meeting a woman, falling in love and their secret meeting. The second tells how, after they parted, he could not see her again and could only miss her through the spring days. It is usually read as written in a man's voice. There is no reliable record of when or for whom it was written. Several versions exist with quite different wording; here we use the common one."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，号庆湖遗老，北宋词人。他长得高大，脸色青黑，人称“贺鬼头”，性格豪爽，可他的词却有很多写得十分柔美。他的《青玉案》里有“梅子黄时雨”的名句，人们又叫他“贺梅子”。这首词就属于他柔美细腻的一类。",
+  "en": "He Zhu (1052–1125), also called Qinghu Yilao, was a Northern Song ci poet. He was tall with a dark face, and people nicknamed him Ghost-head He. He was bold by nature, yet many of his ci are soft and tender. A famous line of his about rain when the plums turn yellow earned him the nickname Plum He. This ci belongs to his tender kind."
+ },
+ "appreciation": {
+  "zh": "上半首像一段甜甜的回忆：她化着淡妆，眼睛亮亮的，一次又一次回头看他。他一下子就懂了她的心意。后来在画堂里相会，她皱眉、浅笑，可爱极了。下半首一下子变冷：过了元宵节，春天的郊游里再也看不见她。他托燕子带话，可燕子也飞不进一层层的帘子。春天越热闹，他越无聊，喝了酒睡一觉醒来，太阳竟然还挂在花枝上，这一天怎么这样长。最后一句不说想念，只写太阳迟迟不落，可等待的心焦全在里面了。",
+  "en": "The first stanza is a sweet memory. She wears light makeup, and her bright eyes glance back at him again and again. He understands her heart at once. Later they meet in the painted hall, and her frown and smile are utterly charming. The second stanza turns cold. After the Lantern Festival he never sees her again on the spring outings. He sends word by the swallows, but even they cannot get past the layers of curtains. The livelier spring gets, the emptier he feels. He drinks, sleeps and wakes, and the sun is still hanging on the flowering branches. How long this day is! The last line never says I miss you. It only says the sun will not set, yet all the restless waiting is inside it."
+ },
+ "famous_lines": [
+  17,
+  18
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "memory",
+   "swallow"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,371 @@
+{
+ "id": "b3de619f-cc8b-457d-942b-49f06651aba4",
+ "kind": "shi",
+ "title": "蝉",
+ "title_en": "The Cicada",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "本",
+    "běn"
+   ],
+   [
+    "以",
+    "yǐ"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "饱",
+    "bǎo"
+   ]
+  ],
+  [
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "劳",
+    "láo"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "费",
+    "fèi"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "宦",
+    "huàn"
+   ],
+   [
+    "梗",
+    "gěng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "泛",
+    "fàn"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "芜",
+    "wú"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "平",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "烦",
+    "fán"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "警",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "举",
+    "jǔ"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "清",
+    "qīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文“疎”是“疏”的异体字，这里用通行写法“疏”。",
+  "en": "The corpus writes \"sparse\" in line three with a variant character; this uses the standard form."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄宦”是官职低微的意思，书面语里“薄”读 bó。",
+   "en": "Bó huàn means a lowly post. In written words like this, the character is read bó, not báo."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "“五更”是夜里的时间单位，“更”读 gēng。",
+   "en": "Wǔ gēng is a watch of the night, so the character is read gēng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "本以高难饱：蝉本来就住在高高的树上，只喝露水，所以很难吃饱。古人以为蝉只喝露水。这里也比喻人品格清高，生活清贫。",
+   "en": "běn yǐ gāo nán bǎo: the cicada lives high in the trees and drinks only dew, so it can hardly be full. People long ago believed cicadas lived on dew. It also stands for a person who is too proud and pure to grab for gain, and so stays poor."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "徒劳：白白地费力气。",
+   "en": "tú láo: wasted effort."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "恨费声：怨恨地叫个不停，白白浪费了声音。",
+   "en": "hèn fèi shēng: crying out in complaint, wasting its voice."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "五更：古人把一夜分成五更，五更是天快亮的时候。",
+   "en": "wǔ gēng: the fifth watch. People long ago split the night into five watches, and the fifth comes just before dawn."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "疏欲断：叫声稀稀落落，快要断了。",
+   "en": "shū yù duàn: the cries grow few and are about to stop."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "碧无情：树还是那样碧绿，对蝉一点也不同情。",
+   "en": "bì wú qíng: the tree stays green and does not care about the cicada at all."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "薄宦：官职低微。",
+   "en": "bó huàn: a lowly official post."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "梗犹泛：像断了的树枝在水上漂。古代有个寓言，说木偶被水冲走，不知漂到哪里。这里比喻自己做小官，到处漂泊。",
+   "en": "gěng yóu fàn: like a broken twig still floating on the water. An old fable tells of a wooden doll swept away by a flood, not knowing where it would end up. Here it means the poet, a small official, keeps drifting from post to post."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "故园：家乡的园子，指家乡。",
+   "en": "gù yuán: the home garden, meaning home."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "芜已平：野草长得到处都是，已经和地面连成一片了。芜，野草。",
+   "en": "wú yǐ píng: weeds have grown over everything, level with the ground. Wú means weeds."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "烦君：麻烦你。君，指蝉。",
+   "en": "fán jūn: thank you for troubling yourself. Jūn means you, the cicada."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "相警：提醒我。",
+   "en": "xiāng jǐng: to warn me, to remind me."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "举家清：全家清贫。举家，全家。",
+   "en": "jǔ jiā qīng: my whole family is poor and plain. Jǔ jiā means the whole family."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "蝉啊，你住在高处，本来就难以吃饱，",
+   "en": "Cicada, you live up high, so you can hardly eat your fill."
+  },
+  {
+   "zh": "哀怨地叫个不停，也只是白费力气。",
+   "en": "You cry out in complaint, but it is all wasted breath."
+  },
+  {
+   "zh": "叫到五更天，声音稀稀落落，快要断了，",
+   "en": "By the fifth watch, your cries grow faint and almost stop,"
+  },
+  {
+   "zh": "可满树的叶子依然碧绿，对你毫无同情。",
+   "en": "yet the whole tree stays green and does not care."
+  },
+  {
+   "zh": "我做着小官，像断枝一样四处漂泊，",
+   "en": "I hold a lowly post and drift about like a broken twig."
+  },
+  {
+   "zh": "家乡的园子早已长满野草，一片荒芜。",
+   "en": "Back home, weeds have grown over my garden."
+  },
+  {
+   "zh": "麻烦你蝉儿，用叫声来提醒我，",
+   "en": "Thank you, cicada, for warning me with your song:"
+  },
+  {
+   "zh": "我也和你一样，全家清贫啊。",
+   "en": "my whole family, too, is poor and plain like you."
+  }
+ ],
+ "background": {
+  "zh": "李商隐一生夹在朝廷两派的争斗中，两边都不信任他，所以一直只做小官，在各地漂泊，生活清贫。这首诗借蝉来写自己：蝉住在高处，只喝露水，叫得再苦也没人理。人们常把它和虞世南、骆宾王的咏蝉诗放在一起谈。具体写于哪一年，说法不一。",
+  "en": "All his life Li Shangyin was caught between two rival groups at court. Neither side trusted him, so he only ever held small posts. He moved from place to place and stayed poor. In this poem he uses the cicada to write about himself. The cicada lives up high and drinks only dew, and however hard it cries, no one cares. People often discuss it together with the cicada poems of Yu Shinan and Luo Binwang. Scholars disagree about the year it was written."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），字义山，号玉谿生，晚唐大诗人，和杜牧并称“小李杜”。他的诗词句优美，感情很深，常常含蓄难懂，比如《锦瑟》和多首《无题》。他一生不得志，诗里常有自伤身世的感慨。",
+  "en": "Li Shangyin (about 813 to about 858) was a great poet of the late Tang. He and Du Mu are called the Little Li and Du. His poems are beautiful and full of deep feeling, but often hard to pin down, like \"The Ornate Zither\" and his many untitled poems. He never got far in life, and his poems often grieve over his own fate."
+ },
+ "appreciation": {
+  "zh": "这首诗表面写蝉，其实写人。蝉住得高，只喝露水，所以吃不饱；诗人为人清高，不肯讨好别人，所以过得穷。蝉叫了一整夜，到天快亮时声音都快断了，可大树还是绿油油的，一点不在乎。这就像诗人一次次努力，却没人理睬。“一树碧无情”这五个字特别有名：树越绿，越显出蝉的孤苦。后四句诗人直接说自己：做小官到处漂泊，家乡也荒了。最后他对蝉说：谢谢你提醒我，我和你一样清贫。最后这一句里，有委屈，也有骨气。",
+  "en": "On the surface this poem is about a cicada, but really it is about a person. The cicada lives high and drinks only dew, so it is never full. The poet is too proud to flatter anyone, so he is poor. The cicada cries all night, and near dawn its voice almost gives out. But the big tree stays bright green and does not care at all. It is like the poet trying again and again while no one pays attention. The words \"the whole tree green and heartless\" are especially famous: the greener the tree, the lonelier the cicada seems. In the last four lines the poet speaks of himself. He drifts from one small post to another, and his home has gone to weeds. At the end he tells the cicada: thank you for the reminder, I am as poor as you. There is hurt in that line, and also pride."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "cicada",
+   "integrity",
+   "poverty",
+   "homesick"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,783 @@
+{
+ "id": "ci-3f484b43bfa1",
+ "kind": "ci",
+ "title": "眉妩·新月",
+ "title_en": "Mei Wu: The New Moon",
+ "author": "王沂孙",
+ "author_en": "Wang Yisun",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "悬",
+    "xuán"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "澹",
+    "dàn"
+   ],
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "暝",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "团",
+    "tuán"
+   ],
+   [
+    "圆",
+    "yuán"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "拜",
+    "bài"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "径",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "稳",
+    "wěn"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "娥",
+    "é"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "钩",
+    "gōu"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "亏",
+    "kuī"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "慢",
+    "màn"
+   ],
+   [
+    "磨",
+    "mó"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "斧",
+    "fǔ"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "补",
+    "bǔ"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "镜",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "液",
+    "yè"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "赋",
+    "fù"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "永",
+    "yǒng"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "户",
+    "hù"
+   ],
+   [
+    "端",
+    "duān"
+   ],
+   [
+    "正",
+    "zhèng"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "河",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "尽",
+    "jǐn"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "澹",
+   "pinyin": "dàn",
+   "zh": "“澹”同“淡”，淡淡的，读 dàn。",
+   "en": "Here it means the same as \"pale\", read dàn."
+  },
+  {
+   "line": 8,
+   "pos": 4,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "“一曲”是一道弯弯的样子，“曲”读 qū，不读 qǔ。",
+   "en": "Here it means a curve, so it is read qū, not qǔ (a song)."
+  },
+  {
+   "line": 14,
+   "pos": 5,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重赋”是再一次写，“重”读 chóng。",
+   "en": "Here it means \"once again\", so it is read chóng."
+  },
+  {
+   "line": 18,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还”在这里一般理解为“仍然、依旧”，读 hái。一说读 huán。",
+   "en": "Here it is usually taken to mean \"still\", read hái. Some read it huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "新痕：新月细细的一道痕迹。",
+   "en": "xīn hén: the thin new mark of the new moon."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "悬柳：挂在柳梢上。",
+   "en": "xuán liǔ: hanging over the willow tips."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "澹彩：淡淡的光彩。",
+   "en": "dàn cǎi: pale light."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "依约：隐隐约约。",
+   "en": "yī yuē: faintly, dimly."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "破初暝：划破刚刚降临的暮色。暝，天黑、黄昏。",
+   "en": "pò chū míng: breaking through the first dusk. Míng is dusk, nightfall."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "团圆意：月亮将来会变圆的意思，也暗含人团圆的心愿。",
+   "en": "tuán yuán yì: a hint that the moon will grow full, and the wish that people will be together again."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "深深拜：古时女子有拜新月、许心愿的风俗。",
+   "en": "shēn shēn bài: bowing deeply. In old times women bowed to the new moon and made wishes."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "香径：花香满路的小路。",
+   "en": "xiāng jìng: a path full of the scent of flowers."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "画眉未稳：眉毛还没画好。新月弯弯细细，像女子刚画了一半的眉毛。",
+   "en": "huà méi wèi wěn: the eyebrow is not yet finished. The thin curved moon looks like a woman's eyebrow only half painted."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "素娥：月中的仙女嫦娥。",
+   "en": "sù é: Chang'e, the lady in the moon."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "离恨：分别的哀愁。",
+   "en": "lí hèn: the sorrow of parting."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "堪爱：值得喜爱，可爱。",
+   "en": "kān ài: lovely, worth loving."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "银钩：银色的钩子，比喻弯弯的新月。",
+   "en": "yín gōu: a silver hook, a picture of the curved new moon."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "宝帘：华美的帘子。新月像一只帘钩挂在帘上。",
+   "en": "bǎo lián: a fine curtain. The new moon looks like a curtain hook hanging on it."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "盈亏：月亮由缺到圆、由圆到缺。盈，满；亏，缺。",
+   "en": "yíng kuī: the moon waxing and waning. Yíng is full; kuī is lacking."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 5,
+   "zh": "慢磨玉斧：白白地磨着玉斧。慢，同“漫”，徒然。传说月亮由七宝合成，常有人拿斧头去修补它。",
+   "en": "màn mó yù fǔ: grinding the jade axe in vain. Màn here means uselessly. Legend says the moon is made of seven treasures, and people go up with axes to repair it."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "金镜：金色的镜子，比喻圆月。补不好金镜，暗指残破的江山难以恢复。",
+   "en": "jīn jìng: a golden mirror, a picture of the full moon. That it cannot be mended hints that a broken country cannot be made whole."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "太液池：皇宫里的池子名字，这里借指故国的宫苑。",
+   "en": "tài yè chí: the name of a pond in the imperial palace, used here for the palaces of the fallen dynasty."
+  },
+  {
+   "line": 14,
+   "start": 7,
+   "end": 9,
+   "zh": "清景：清美的月夜景色。",
+   "en": "qīng jǐng: the clear, lovely moonlit scene."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "故山：故乡的山，指家乡。",
+   "en": "gù shān: the hills of home."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "夜永：夜很长。",
+   "en": "yè yǒng: the night is long."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 7,
+   "zh": "窥户端正：等月亮圆了，照进窗户来。窥户，从门窗往里看；端正，指圆满的月亮。",
+   "en": "kuī hù duān zhèng: wait until the moon is round and looks in at the window. Duān zhèng here means the full moon."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "老尽：老去，衰败到底。",
+   "en": "lǎo jìn: to grow old to the end, to fade away."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 6,
+   "zh": "桂花影：传说月中有桂树，桂花影就是月光、月影。",
+   "en": "guì huā yǐng: legend says an osmanthus tree grows in the moon, so its shadow means the moonlight."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一道新月渐渐挂上柳梢，",
+   "en": "Little by little a thin new moon hangs over the willows,"
+  },
+  {
+   "zh": "淡淡的光穿过花丛，",
+   "en": "its pale light slipping through the flowers,"
+  },
+  {
+   "zh": "隐隐约约地划破刚降临的暮色。",
+   "en": "faintly breaking through the first dusk."
+  },
+  {
+   "zh": "它好像已经有了将来团圆的心意，",
+   "en": "It already seems to carry a wish for coming together,"
+  },
+  {
+   "zh": "人们深深地向它下拜，",
+   "en": "and people bow to it deeply."
+  },
+  {
+   "zh": "在花香小路上，有谁和它相逢？",
+   "en": "Who meets it on the fragrant path?"
+  },
+  {
+   "zh": "它像一道还没画好的眉毛，",
+   "en": "It is like an eyebrow not yet fully painted;"
+  },
+  {
+   "zh": "想来是嫦娥还带着离别的愁恨。",
+   "en": "perhaps Chang'e still carries the sorrow of parting."
+  },
+  {
+   "zh": "最可爱的是那一弯小小的银钩，",
+   "en": "Loveliest of all is that small curved silver hook,"
+  },
+  {
+   "zh": "挂在华美的帘子上，带着秋夜的寒冷。",
+   "en": "hanging on the fine curtain in the autumn chill."
+  },
+  {
+   "zh": "千百年来月亮的圆缺，就别再问了。",
+   "en": "Do not ask about the moon's waxing and waning through the ages."
+  },
+  {
+   "zh": "可叹白白地磨着玉斧，",
+   "en": "Alas, the jade axe is ground in vain;"
+  },
+  {
+   "zh": "也难以补好那面金镜。",
+   "en": "the golden mirror is hard to mend."
+  },
+  {
+   "zh": "太液池还在那里，",
+   "en": "The palace pond is still there,"
+  },
+  {
+   "zh": "在那凄凉的地方，还有谁再来描写这清美的月色？",
+   "en": "but in that dreary place, who will write again of this clear moonlit scene?"
+  },
+  {
+   "zh": "故乡的夜晚这样漫长，",
+   "en": "The nights in my home hills are long."
+  },
+  {
+   "zh": "我试着等它变圆，照进窗户里来。",
+   "en": "I will try to wait until it grows round and looks in at my window."
+  },
+  {
+   "zh": "看那云外的山河，",
+   "en": "Look at the hills and rivers beyond the clouds:"
+  },
+  {
+   "zh": "依旧在桂花树的影子下慢慢老去。",
+   "en": "they will still grow old and fade beneath the osmanthus shadow."
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏物词，题目是“新月”，写的是刚出现的弯月。一般认为它写于南宋灭亡前后，借新月寄托对故国的感情：新月会慢慢变圆，可破碎的江山却难以修补。词中的“太液池”“故山”，都让人想到已经失去的家国。具体写作年份已经不清楚。",
+  "en": "This is a lyric about an object: the title is \"The New Moon\", the thin crescent that has just appeared. It is usually thought to date from around the fall of the Southern Song. Through the new moon the poet shows his feelings for his lost country. The new moon will slowly grow round, but a broken land is hard to mend. The palace pond and the home hills in the lyric both bring to mind the homeland that was lost. The exact year is no longer known."
+ },
+ "author_note": {
+  "zh": "王沂孙，字圣与，号碧山，会稽（今浙江绍兴）人，宋末元初词人，生卒年不详。他经历了南宋灭亡，和周密、张炎等词人常在一起唱和。他最擅长咏物词，写一样东西，背后常藏着对故国的思念。有词集《花外集》。",
+  "en": "Wang Yisun, also called Bishan, came from Kuaiji, today's Shaoxing in Zhejiang. He lived at the end of the Song and the start of the Yuan, and his dates are not known. He saw the Southern Song fall. He often wrote lyrics back and forth with poets such as Zhou Mi and Zhang Yan. He was best at lyrics about objects: while describing one thing, he often hid his longing for the lost country. His collection is called Beyond the Flowers."
+ },
+ "appreciation": {
+  "zh": "上片很美，几乎像一幅画：一弯细细的新月挂上柳梢，淡光穿过花丛，女子们对着它下拜许愿。词人把新月比作没画完的眉毛，又比作挂在帘上的小银钩，又轻巧又可爱。可是“离恨”和“秋冷”两个词，已经透出一点凉意。下片忽然变得沉重。月亮的圆缺千古如此，不必多问；可人间破碎的东西，就像用玉斧补月一样，怎么也补不好。宫里的池子还在，却没人再来写月色了。最后他说：就算等到月圆照进窗来，看那云外的山河，也只会在月光下一点点老去。从可爱的新月，写到无法挽回的失去，这就是咏物词“借物说心事”的妙处。",
+  "en": "The first stanza is lovely, almost a painting. A thin new moon hangs over the willows, its pale light slips through the flowers, and women bow to it and make wishes. The poet compares the moon to an eyebrow not yet finished, and to a small silver hook on a curtain. Both pictures are light and sweet. Yet the words \"sorrow of parting\" and \"autumn chill\" already let in a cold breath. The second stanza suddenly grows heavy. The moon has waxed and waned forever, so there is no need to ask about it. But broken things in the human world are like trying to mend the moon with a jade axe: they cannot be fixed. The palace pond is still there, yet no one comes to write about the moonlight anymore. At last he says: even if I wait until the full moon shines in at my window, the hills and rivers beyond the clouds will only grow old under its light. From a sweet little moon to a loss that cannot be undone, this is the magic of a lyric that speaks its heart through an object."
+ },
+ "famous_lines": [
+  6,
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "lost-country",
+   "night",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

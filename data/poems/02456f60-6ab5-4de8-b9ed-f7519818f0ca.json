@@ -1,0 +1,273 @@
+{
+ "id": "02456f60-6ab5-4de8-b9ed-f7519818f0ca",
+ "kind": "shi",
+ "title": "贾生",
+ "title_en": "Master Jia",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "宣",
+    "xuān"
+   ],
+   [
+    "室",
+    "shì"
+   ],
+   [
+    "求",
+    "qiú"
+   ],
+   [
+    "贤",
+    "xián"
+   ],
+   [
+    "访",
+    "fǎng"
+   ],
+   [
+    "逐",
+    "zhú"
+   ],
+   [
+    "臣",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "贾",
+    "jiǎ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "调",
+    "diào"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "伦",
+    "lún"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "虚",
+    "xū"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "席",
+    "xí"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "鬼",
+    "guǐ"
+   ],
+   [
+    "神",
+    "shén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "贾",
+   "pinyin": "jiǎ",
+   "zh": "贾：作姓氏读 jiǎ。",
+   "en": "As a surname, this character is read jiǎ."
+  },
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "调",
+   "pinyin": "diào",
+   "zh": "调：“才调”指才气风度，读 diào，不读 tiáo。",
+   "en": "In cái diào, meaning talent and style, the second character is read diào, not tiáo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "宣室：汉代未央宫前殿的正室，皇帝在这里接见大臣。",
+   "en": "xuān shì: Xuanshi, the main hall at the front of the Han Weiyang Palace, where the emperor received officials."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "求贤：寻找有才能的人。",
+   "en": "qiú xián: seeking talented people."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "访逐臣：召见被贬到外地的大臣。逐臣，被赶出朝廷的臣子，这里指贾谊。",
+   "en": "fǎng zhú chén: calling in an exiled minister. Here it means Jia Yi, who had been sent away from court."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "贾生：贾谊，西汉著名的文学家和政治家。",
+   "en": "jiǎ shēng: Master Jia, Jia Yi, a famous writer and statesman of the Western Han."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "才调：才华和风度。",
+   "en": "cái diào: talent and style."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "更无伦：更是没有人比得上。伦，同类，可比的人。",
+   "en": "gèng wú lún: no one could match him. Lún means equals."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可惜。",
+   "en": "kě lián: what a pity."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "虚前席：白白地往前挪动坐席。古人坐在席子上，听得入神就不自觉往前凑。虚，白白地。",
+   "en": "xū qián xí: moved forward on his mat in vain. People of old sat on mats, and when they listened closely they leaned in. Xū means for nothing."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "苍生：百姓。",
+   "en": "cāng shēng: the common people."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "鬼神：鬼怪和神灵的事。",
+   "en": "guǐ shén: ghosts and spirits."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "汉文帝在宣室寻求贤才，召见了被贬的贾谊；",
+   "en": "Seeking wise men, the emperor called the exiled Jia Yi to the Xuanshi Hall."
+  },
+  {
+   "zh": "贾谊的才华风度，更是没有人比得上。",
+   "en": "Jia Yi's talent and grace had no equal."
+  },
+  {
+   "zh": "可惜文帝半夜里听得入神，向前挪动坐席，却是白白地挪；",
+   "en": "What a pity: at midnight the emperor leaned forward on his mat, all for nothing,"
+  },
+  {
+   "zh": "他不问百姓的生活，只问鬼神的事情。",
+   "en": "for he asked not about the people, only about ghosts and spirits."
+  }
+ ],
+ "background": {
+  "zh": "贾谊是西汉的才子，二十多岁就受到汉文帝重用，后来被排挤，贬到长沙。据《史记》记载，过了几年文帝把他召回来，在宣室接见他。文帝正好在想鬼神的事，就问他鬼神的来历，两人一直谈到半夜，文帝听得不知不觉往前挪坐席。李商隐借这个故事写诗，写作时间不详。",
+  "en": "Jia Yi was a brilliant young man of the Western Han. In his twenties he was given high posts by Emperor Wen, but rivals pushed him out, and he was sent away to Changsha. According to the \"Records of the Grand Historian\", a few years later the emperor called him back and met him in the Xuanshi Hall. The emperor had been thinking about spirits, so he asked Jia Yi where ghosts and spirits come from. They talked until midnight, and the emperor kept leaning forward on his mat without noticing. Li Shangyin wrote this poem from that story. We do not know when."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人，和杜牧并称“小李杜”。他很有才华，却一辈子卷在朝廷两派的争斗里，始终没能施展抱负。所以他写贾谊，也是在写自己怀才不遇的苦闷。",
+  "en": "Li Shangyin (about 813–about 858) was a great late-Tang poet. With Du Mu he was called \"the Little Li and Du\". He was very gifted, but all his life he was caught between two warring court factions and never got to use his talent. So writing about Jia Yi, he was also writing about his own frustration of being gifted but unused."
+ },
+ "appreciation": {
+  "zh": "这首诗先扬后抑。前两句好像在夸：皇帝求贤，亲自召见；贾谊才华出众，无人能比。读到这里，我们以为贾谊终于要被重用了。第三句“可怜”一转，皇帝半夜听得往前凑，看似很重视。最后一句揭开真相：他问的不是怎样治理国家、让百姓过好日子，而是鬼神。一个“问”字用了两次，“不问苍生”和“问鬼神”放在一起，对比特别强烈。短短一句，就把皇帝的糊涂和人才被浪费的可惜说透了。",
+  "en": "This poem lifts you up and then lets you down. The first two lines seem to praise: the emperor seeks wise men and calls Jia Yi in himself, and Jia Yi is matchless. We think he will finally be put to good use. Then line three turns with \"what a pity\". At midnight the emperor leans in, as if he cares deeply. The last line reveals the truth. He does not ask how to run the country or help the people live well. He asks about ghosts. The word \"ask\" appears twice. \"Not asking about the people\" and \"asking about ghosts\" sit side by side, and the contrast is sharp. One line shows both the emperor's foolishness and the waste of a great talent."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "talent",
+   "irony",
+   "emperor"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,538 @@
+{
+ "id": "ci-6bde17d7c6ae",
+ "kind": "ci",
+ "title": "千秋岁·水边沙外",
+ "title_en": "To the Tune of Qian Qiu Sui: Beyond the Sands by the Water",
+ "author": "秦观",
+ "author_en": "Qin Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·千秋岁（双调七十一字）",
+  "en": "ci lyric to the tune Qian Qiu Sui (two stanzas, 71 characters)"
+ },
+ "lines": [
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "郭",
+    "guō"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "退",
+    "tuì"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "碎",
+    "suì"
+   ]
+  ],
+  [
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "盏",
+    "zhǎn"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "宽",
+    "kuān"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "带",
+    "dài"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "对",
+    "duì"
+   ]
+  ],
+  [
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "鹓",
+    "yuān"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "盖",
+    "gài"
+   ]
+  ],
+  [
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "改",
+    "gǎi"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "海",
+    "hǎi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "沙外：沙滩的外边。",
+   "en": "shā wài: beyond the sandbank."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "城郭：城墙，这里指城。郭，外城。",
+   "en": "chéng guō: city walls, here the town. Guō is the outer wall."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "莺声碎：黄莺的叫声细碎、零零落落。",
+   "en": "yīng shēng suì: the orioles' song is light and broken into bits."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "飘零：像落叶一样四处漂泊。",
+   "en": "piāo líng: drifting about like a fallen leaf."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "疏酒盏：很少碰酒杯了。疏，疏远。",
+   "en": "shū jiǔ zhǎn: rarely touching the wine cup now. Shū means to drift away from."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "宽衣带：衣带变松了，就是人瘦了。",
+   "en": "kuān yī dài: the belt has grown loose, meaning he has grown thin."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "碧云暮合：傍晚青色的云聚拢起来。",
+   "en": "bì yún mù hé: blue-green clouds gather at dusk."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "空相对：白白地对着。",
+   "en": "kōng xiāng duì: facing them in vain."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "西池会：在西池的聚会。西池，指北宋京城汴京（今河南开封）的金明池。秦观曾和朋友们在这里宴游。",
+   "en": "xī chí huì: the gathering at West Pond. West Pond is Jinming Pond in Bianjing, the Northern Song capital, today's Kaifeng. Qin Guan once feasted there with friends."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "鹓鹭：鹓和鹭都是飞行时排列整齐的鸟，比喻朝廷里排成行列的官员。这里指当年一起做官的朋友。",
+   "en": "yuān lù: two kinds of birds that fly in neat rows, a picture of officials lined up at court. Here it means his friends who served at court with him."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "飞盖：车子飞快地跑。盖，车篷，借指车。",
+   "en": "fēi gài: carriages racing along. Gài is a carriage canopy, standing for the carriage."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "日边：太阳旁边，比喻皇帝身边、京城。",
+   "en": "rì biān: beside the sun, meaning near the emperor, in the capital."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 5,
+   "zh": "清梦断：美梦断了，回朝廷的希望破灭了。",
+   "en": "qīng mèng duàn: the sweet dream is broken; the hope of going back to court is gone."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "朱颜：红润的脸，指年轻的容貌。",
+   "en": "zhū yán: a rosy face, a young face."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "飞红：飘落的花瓣。",
+   "en": "fēi hóng: flying red petals."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在水边，在沙滩外，",
+   "en": "By the water, beyond the sands,"
+  },
+  {
+   "zh": "城里春寒已经退去。",
+   "en": "the spring chill has left the town."
+  },
+  {
+   "zh": "花影摇摇晃晃，",
+   "en": "Flower shadows sway,"
+  },
+  {
+   "zh": "黄莺的叫声零零碎碎。",
+   "en": "and the orioles sing in broken bits."
+  },
+  {
+   "zh": "四处漂泊，我连酒杯都很少碰了；",
+   "en": "Drifting from place to place, I seldom touch the wine cup;"
+  },
+  {
+   "zh": "离别以后人瘦了，衣带都松了。",
+   "en": "since parting I have grown thin, my belt hangs loose."
+  },
+  {
+   "zh": "想见的人见不到，",
+   "en": "The ones I long for are not here."
+  },
+  {
+   "zh": "傍晚青云聚拢，我只能白白地望着。",
+   "en": "At dusk the blue clouds gather, and I gaze at them in vain."
+  },
+  {
+   "zh": "回想当年在西池的聚会，",
+   "en": "I remember the gathering at West Pond,"
+  },
+  {
+   "zh": "朋友们坐着车一起飞驰。",
+   "en": "when friends from court raced along together in carriages."
+  },
+  {
+   "zh": "当年手拉手游玩的地方，",
+   "en": "Of those who walked hand in hand there,"
+  },
+  {
+   "zh": "如今还有谁在呢？",
+   "en": "who is left now?"
+  },
+  {
+   "zh": "回到皇帝身边的美梦已经破灭，",
+   "en": "The dream of returning to the emperor's side is broken;"
+  },
+  {
+   "zh": "镜子里年轻的脸已经变老。",
+   "en": "in the mirror my young face has changed."
+  },
+  {
+   "zh": "春天走了，",
+   "en": "Spring is gone,"
+  },
+  {
+   "zh": "万点落花飘飞，我的愁像大海一样深。",
+   "en": "ten thousand red petals fly, and my sorrow is as deep as the sea."
+  }
+ ],
+ "background": {
+  "zh": "北宋哲宗绍圣元年（1094年），支持新法的一派重新掌权，和苏轼亲近的秦观被贬出京城，先到杭州，又被贬到处州（今浙江丽水）管酒税。这首词一般认为写于处州，一说写于后来南迁途中。词里的“西池会”，是他早年在京城和朋友们宴游的往事。如今朋友们也都被贬到各地，所以他问：“今谁在？”",
+  "en": "In 1094, under Emperor Zhezong, the group that backed the New Policies came back to power. Qin Guan, who was close to Su Shi, was sent away from the capital, first toward Hangzhou and then to Chuzhou, today's Lishui in Zhejiang, to look after the wine tax. The lyric is usually thought to have been written in Chuzhou; another view says it was written later, on his way further south. \"The gathering at West Pond\" is a memory of feasting with friends in the capital years before. Now those friends had also been sent off to far places, so he asks, \"Who is left now?\""
+ },
+ "author_note": {
+  "zh": "秦观（1049—1100），字少游，号淮海居士，高邮（今江苏高邮）人，北宋词人，“苏门四学士”之一。他的词感情细腻，语言柔美，是婉约派的代表。因为和苏轼亲近，他在党争中一贬再贬，最后死在从贬地北归的路上。晚年的词常常写得很悲伤。",
+  "en": "Qin Guan (1049–1100), also called Shaoyou or Huaihai, came from Gaoyou in today's Jiangsu. He was a Northern Song lyric poet and one of the \"Four Scholars of Su Shi's School\". His lyrics are tender and soft, a model of the gentle style. Because he was close to Su Shi, he was sent away again and again in the fights between court groups, and he died on the road home from exile. His later lyrics are often very sad."
+ },
+ "appreciation": {
+  "zh": "上阕先写春景：水边沙外，春寒退去，花影摇动，莺声细碎，本来是很美的春天。可是词人漂泊在外，酒也不想喝，人也瘦了，想见的人见不到，只能对着傍晚的云发呆。下阕回到往事：当年在京城的西池，朋友们乘着车一起游玩，多么热闹。如今“今谁在”，朋友们死的死、贬的贬，都散了。回朝的梦断了，镜子里的脸也老了。最后一句“飞红万点愁如海”最有名：春天走了，满天落花飘飞，愁像大海一样无边无际。词人把看不见的愁，变成了能看见的落花和大海，让人一下子感受到愁有多深。",
+  "en": "The first stanza shows a spring scene: by the water, beyond the sands, the spring chill is gone, flower shadows sway and orioles sing in little bits. It should be a lovely spring. But the poet is drifting far from home. He does not feel like drinking, he has grown thin, and he cannot see the people he misses, so he just stares at the evening clouds. The second stanza goes back to the past: at West Pond in the capital, his friends rode in carriages together, and it was so lively. Now, \"who is left?\" His friends have died or been sent away, and all have scattered. The dream of returning to court is broken, and the face in the mirror has grown old. The last line is the most famous: spring is gone, ten thousand petals fill the air, and sorrow is as wide as the sea. The poet turns a sorrow you cannot see into falling petals and the sea, things you can see, so you feel at once how deep it is."
+ },
+ "famous_lines": [
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "friendship",
+   "late-spring",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

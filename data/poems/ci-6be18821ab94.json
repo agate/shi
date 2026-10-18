@@ -1,0 +1,766 @@
+{
+ "id": "ci-6be18821ab94",
+ "kind": "ci",
+ "title": "满庭芳·晓色云开",
+ "title_en": "Man Ting Fang: Dawn Light Breaks Through the Clouds",
+ "author": "秦观",
+ "author_en": "Qin Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "骤",
+    "zhòu"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "榭",
+    "xiè"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "蹴",
+    "cù"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "英",
+    "yīng"
+   ]
+  ],
+  [
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "榆",
+    "yú"
+   ],
+   [
+    "钱",
+    "qián"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "平",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "按",
+    "àn"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "钿",
+    "diàn"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "盖",
+    "gài"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "辔",
+    "pèi"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "缨",
+    "yīng"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "榼",
+    "kē"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "瀛",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "豆",
+    "dòu"
+   ],
+   [
+    "蔻",
+    "kòu"
+   ],
+   [
+    "梢",
+    "shāo"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "屈",
+    "qū"
+   ],
+   [
+    "指",
+    "zhǐ"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "惊",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "芜",
+    "wú"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "语料库作“低底按小秦筝”，多了一个“底”字。按这个词牌，这一句应是五个字，通行本作“低按小秦筝”。",
+  "en": "The corpus has an extra character in the line about playing the zheng. By the pattern of this tune the line should have five characters, and the common text gives it that way."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "还，又、仍然，读 hái。也有人理解成“恢复晴天”，读 huán。",
+   "en": "Here it means again, so it is read hái. Some read it as 'returning to clear weather' and say huán."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "燕",
+   "pinyin": "yàn",
+   "zh": "燕，燕子，读 yàn。",
+   "en": "It means the swallow, read yàn."
+  },
+  {
+   "line": 13,
+   "pos": 1,
+   "char": "钿",
+   "pinyin": "diàn",
+   "zh": "钿，用金银珠宝做成的花形装饰，读 diàn。",
+   "en": "It means a flower-shaped ornament of gold, silver or jewels, read diàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "晓色：清晨的天色。",
+   "en": "xiǎo sè: the color of the sky at dawn."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "春随人意：春天的天气正合人的心意。",
+   "en": "chūn suí rén yì: the spring weather is just what people hoped for."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "骤雨：来得又快又猛的雨。",
+   "en": "zhòu yǔ: a sudden, heavy shower."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "芳榭：周围开满花的亭台。榭，建在高台或水边的亭子。",
+   "en": "fāng xiè: a pavilion among flowers. Xiè is a pavilion on a terrace or by the water."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "蹴：踢、踩。",
+   "en": "cù: to kick or tread on."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "红英：红色的花瓣。",
+   "en": "hóng yīng: red petals."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "榆钱：榆树的果实，圆圆扁扁的，像一串串小铜钱。",
+   "en": "yú qián: elm seeds, round and flat, like strings of little coins."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "舞困：在风里飞舞累了。",
+   "en": "wǔ kùn: tired of dancing in the wind."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "桥平：春水涨起来，快和桥面一样平了。",
+   "en": "qiáo píng: the spring water has risen almost level with the bridge."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "朱门：红漆大门，指有钱人家。",
+   "en": "zhū mén: red-painted gates, the homes of the rich."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 2,
+   "zh": "按：弹奏。",
+   "en": "àn: to play an instrument."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 5,
+   "zh": "秦筝：筝，一种弹拨的弦乐器，相传出自秦地，所以叫秦筝。",
+   "en": "qín zhēng: the zheng, a plucked string instrument said to come from the old Qin lands."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "行乐处：游玩取乐的地方。",
+   "en": "xíng lè chù: places of fun and pleasure."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "珠钿翠盖：车子上装饰着珠宝，车顶有翠鸟羽毛做的车盖。指华丽的车子。",
+   "en": "zhū diàn cuì gài: carriages trimmed with pearls, with canopies of kingfisher feathers. Grand carriages."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "玉辔红缨：玉做的马缰绳，红色的缨穗。指装饰华美的马。",
+   "en": "yù pèi hóng yīng: jade bridles and red tassels. Finely decked horses."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "金榼：金色的酒器。榼，盛酒的器具。",
+   "en": "jīn kē: a golden wine flask."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "蓬瀛：蓬莱和瀛洲，传说海上的仙山。这里比喻美丽的游乐之地。",
+   "en": "péng yíng: Penglai and Yingzhou, fairy islands in the sea. Here it means a lovely place of pleasure."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 4,
+   "zh": "豆蔻梢头：唐代杜牧写扬州少女有“豆蔻梢头二月初”，后来用豆蔻比喻十三四岁的少女。",
+   "en": "dòu kòu shāo tóu: the Tang poet Du Mu wrote of a young girl in Yangzhou as a cardamom bud at the tip of a branch in early spring. Later the image meant a girl of about thirteen."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 3,
+   "zh": "十年梦：杜牧有“十年一觉扬州梦”，这里借来说扬州的旧日往事像一场梦。",
+   "en": "shí nián mèng: Du Mu wrote of waking from a ten-year dream of Yangzhou. Here it means the old days in Yangzhou feel like a dream."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "屈指堪惊：弯着手指一算，让人吃惊。",
+   "en": "qū zhǐ kān jīng: counting on one's fingers, one is shocked how long it has been."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "凭阑：靠着栏杆。",
+   "en": "píng lán: leaning on the railing."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 4,
+   "zh": "疏烟淡日：稀稀的烟雾，淡淡的太阳。",
+   "en": "shū yān dàn rì: thin mist and a pale sun."
+  },
+  {
+   "line": 22,
+   "start": 3,
+   "end": 5,
+   "zh": "芜城：扬州的别称。南朝鲍照写过《芜城赋》，写扬州的荒凉。",
+   "en": "wú chéng: another name for Yangzhou. Bao Zhao of the Southern Dynasties wrote a famous piece about the ruined city of Yangzhou."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清晨的天色里，云散开了，",
+   "en": "At dawn the clouds part."
+  },
+  {
+   "zh": "春天正合人的心意，",
+   "en": "Spring is just as we wished:"
+  },
+  {
+   "zh": "一阵急雨刚过，天又晴了。",
+   "en": "a sudden shower has just passed, and the sky is clear again."
+  },
+  {
+   "zh": "古老的楼台，花丛中的亭榭，",
+   "en": "Old terraces, pavilions among flowers,"
+  },
+  {
+   "zh": "飞来飞去的燕子踢落了红色的花瓣。",
+   "en": "swallows darting about kick down red petals."
+  },
+  {
+   "zh": "榆钱在风里舞累了，自己落下来，",
+   "en": "Elm seeds, tired of dancing in the wind, fall by themselves."
+  },
+  {
+   "zh": "秋千那边，",
+   "en": "Beyond the swing,"
+  },
+  {
+   "zh": "绿水涨得快和小桥一样平。",
+   "en": "the green water has risen level with the bridge."
+  },
+  {
+   "zh": "东风里，",
+   "en": "In the east wind,"
+  },
+  {
+   "zh": "红漆大门映着柳树，",
+   "en": "red gates shine among the willows,"
+  },
+  {
+   "zh": "有人低低地弹着小秦筝。",
+   "en": "and someone softly plays a little zheng."
+  },
+  {
+   "zh": "我是那样多情。",
+   "en": "I was so full of feeling."
+  },
+  {
+   "zh": "在那些游乐的地方，",
+   "en": "In those places of pleasure,"
+  },
+  {
+   "zh": "有缀着珠宝、撑着翠盖的车，",
+   "en": "there were carriages with pearls and kingfisher canopies,"
+  },
+  {
+   "zh": "有玉做的马缰、红色的缨穗。",
+   "en": "horses with jade bridles and red tassels."
+  },
+  {
+   "zh": "渐渐地，金色酒器里的酒喝空了，",
+   "en": "Slowly the golden flasks ran dry,"
+  },
+  {
+   "zh": "花丛像仙山一样，人也玩累了。",
+   "en": "and in that fairyland of flowers we grew tired."
+  },
+  {
+   "zh": "想起那位少女，旧日的遗憾，",
+   "en": "The girl like a young cardamom bud, the old regret,"
+  },
+  {
+   "zh": "十年往事像一场梦，",
+   "en": "ten years gone like a dream:"
+  },
+  {
+   "zh": "屈指一算，让人吃惊。",
+   "en": "counting on my fingers, I am startled."
+  },
+  {
+   "zh": "我靠着栏杆站了很久，",
+   "en": "I lean on the railing a long time."
+  },
+  {
+   "zh": "稀疏的烟雾，淡淡的阳光，",
+   "en": "Thin mist, a pale sun,"
+  },
+  {
+   "zh": "寂寞地落在扬州城上。",
+   "en": "fall lonely over the city of Yangzhou."
+  }
+ ],
+ "background": {
+  "zh": "这首词写扬州的春天和旧日的游乐。秦观是高邮人，高邮离扬州很近，他曾在扬州游玩。词里借用了唐代杜牧在扬州写的名句，一般认为是秦观多年后回想扬州旧事而作。具体写作年份说法不一。",
+  "en": "This lyric is about spring in Yangzhou and the fun of days gone by. Qin Guan came from Gaoyou, close to Yangzhou, and he had spent time there. The lyric borrows famous lines Du Mu wrote in Yangzhou in the Tang. It is usually read as Qin Guan looking back on his Yangzhou days many years later. Sources differ on the exact year."
+ },
+ "author_note": {
+  "zh": "秦观（1049—1100），字少游，北宋词人，是苏轼的学生，“苏门四学士”之一。他的词温柔细腻，多写离别和伤感，是婉约词的代表。他后来因为政治斗争被一贬再贬，词里常带着淡淡的愁。",
+  "en": "Qin Guan (1049 to 1100), courtesy name Shaoyou, was a Northern Song ci poet. He was a student of Su Shi and one of the Four Scholars of the Su school. His lyrics are gentle and delicate, often about parting and sorrow, and he is a model of the soft, graceful style. Later, caught in court fights, he was sent away again and again, and a light sadness runs through his lyrics."
+ },
+ "appreciation": {
+  "zh": "上半首是一幅明亮的春景：云开雨过，燕子踢落红花，榆钱飘下，春水涨到桥边，柳树掩映的红门里传出筝声。画面又轻又美。下半首“多情”两个字一转，回到当年：华丽的车马，喝空的酒器，玩累的花丛，热闹到了极点。可是一想到旧日的少女和十年的往事，就像一场梦，算一算让人吃惊。最后作者久久靠着栏杆，只看见淡烟淡日寂寞地落在扬州城上。前面越热闹，结尾越冷清。",
+  "en": "The first half is a bright spring picture. Clouds part after rain, swallows kick down red petals, elm seeds drift, spring water rises to the bridge, and the sound of a zheng comes from red gates among the willows. It is light and lovely. Then two words, full of feeling, turn the lyric back to the past. Grand carriages and horses, empty wine flasks, flower gardens where everyone grew tired: the fun reached its height. But thinking of the girl of those days and the ten years since, it all feels like a dream, and counting the years is a shock. At the end the poet leans on the railing a long time and sees only thin mist and a pale sun falling lonely over Yangzhou. The livelier the start, the colder the end."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6,
+  7,
+  20,
+  21,
+  22
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "yangzhou",
+   "youth",
+   "regret"
+  ]
+ },
+ "uncertain": []
+}

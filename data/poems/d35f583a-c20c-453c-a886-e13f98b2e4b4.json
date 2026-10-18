@@ -1,0 +1,463 @@
+{
+ "id": "d35f583a-c20c-453c-a886-e13f98b2e4b4",
+ "kind": "shi",
+ "title": "春思",
+ "title_en": "Spring Longing",
+ "author": "皇甫冉",
+ "author_en": "Huangfu Ran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "邑",
+    "yì"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "堆",
+    "duī"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "千",
+    "qiān"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "住",
+    "zhù"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "机",
+    "jī"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "论",
+    "lùn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "窦",
+    "dòu"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "骑",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "返",
+    "fǎn"
+   ],
+   [
+    "旆",
+    "pèi"
+   ],
+   [
+    "勒",
+    "lè"
+   ],
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料里末句作“何时反斾勒燕然”。“反”同“返”，“斾”是“旆”的异体字。通行本多作“何时返旆勒燕然”。",
+  "en": "In the source text the last line uses older forms for fǎn and pèi. Common editions use the standard forms. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "燕",
+   "pinyin": "yàn",
+   "zh": "这里指燕子，读 yàn。最后一句“燕然”是山名，读 yān。",
+   "en": "Here it means swallow, read yàn. In the last line, Yanran is a mountain name, read yān."
+  },
+  {
+   "line": 6,
+   "pos": 6,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "现在统一读 qí。“车骑”是将军名号，旧读 jì。",
+   "en": "Read qí in today's standard. In the general's title, it was once read jì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "莺啼燕语：黄莺在叫，燕子在呢喃。",
+   "en": "yīng tí yàn yǔ: orioles singing, swallows chattering."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "报新年：报告新的一年、新的春天来了。",
+   "en": "bào xīn nián: announcing that a new year, a new spring, has come."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "马邑：古代县名，在今山西朔州一带，是北方的边塞。",
+   "en": "mǎ yì: an old county in today's Shuozhou, Shanxi, on the northern frontier."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "龙堆：白龙堆，西北边远地方的大沙漠，在今新疆罗布泊一带。",
+   "en": "lóng duī: the White Dragon Mounds, a great desert far in the northwest, near Lop Nur in today's Xinjiang."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "路几千：路有好几千里远。",
+   "en": "lù jǐ qiān: the road is thousands of miles long."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "秦城：指长安。",
+   "en": "qín chéng: Chang'an."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "汉苑：汉代的皇家园林，这里借指唐朝的皇家园林。",
+   "en": "hàn yuàn: a Han imperial park, here standing for the Tang one."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "胡天：胡人地方的天空，指丈夫驻守的边地。",
+   "en": "hú tiān: the sky over the lands of the northern peoples, where her husband is stationed."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "机：织布机。",
+   "en": "jī: a loom."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "锦字：织在锦缎上的字。前秦时苏蕙把思念丈夫的诗织在锦上寄给他，后来“锦字”就指妻子写给远方丈夫的信。",
+   "en": "jǐn zì: words woven into brocade. Long ago a woman named Su Hui wove a poem of longing into silk and sent it to her husband. After that, the phrase meant a wife's letter to a husband far away."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "论长恨：诉说长久的愁怨。",
+   "en": "lùn cháng hèn: telling of long-lasting sorrow."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "笑独眠：好像在笑她一个人孤单地睡。",
+   "en": "xiào dú mián: seeming to laugh at her for sleeping alone."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "为问：请替我问一问。",
+   "en": "wèi wèn: please ask for me."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "元戎：主帅、大将。",
+   "en": "yuán róng: the commanding general."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "窦车骑：东汉的车骑将军窦宪。他打败北匈奴，在燕然山刻石记功。这里借指唐朝的主帅。",
+   "en": "dòu chē qí: Dou Xian, a General of Chariots and Cavalry in the Eastern Han. He beat the Northern Xiongnu and had his victory carved on Mount Yanran. Here he stands for the Tang commander."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "返旆：调转军旗，就是收兵回来。旆，军中的大旗。",
+   "en": "fǎn pèi: to turn the banners around, that is, to bring the army home. Pèi is a big army flag."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "勒燕然：在燕然山上刻石记功，指打了大胜仗。勒，刻。燕然，山名，在今蒙古国境内。",
+   "en": "lè yān rán: to carve on Mount Yanran, meaning to win a great victory. Lè means to carve. Yanran is a mountain in today's Mongolia."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "黄莺啼叫，燕子呢喃，告诉人们新的一年到了。",
+   "en": "Orioles sing and swallows chatter: a new year has come."
+  },
+  {
+   "zh": "可是去马邑、龙堆的路，有好几千里远。",
+   "en": "But the road to Mayi and the Dragon Mounds is thousands of miles long."
+  },
+  {
+   "zh": "我家住在长安城，紧挨着皇家园林，",
+   "en": "My home is in Chang'an, right beside the imperial park."
+  },
+  {
+   "zh": "我的心却跟着明月，飞到了遥远的边地。",
+   "en": "Yet my heart follows the bright moon to the far frontier sky."
+  },
+  {
+   "zh": "我在织布机上织出锦字，诉说长长的愁怨，",
+   "en": "At the loom I weave words in silk, telling of my long sorrow."
+  },
+  {
+   "zh": "楼上的花枝好像在笑我一个人独自睡觉。",
+   "en": "The flowering branches by my window seem to laugh at me sleeping alone."
+  },
+  {
+   "zh": "请替我问问那位像窦宪一样的主帅：",
+   "en": "Please ask the commanding general, our Dou Xian, for me:"
+  },
+  {
+   "zh": "什么时候才能打完胜仗，刻石记功，收兵回家？",
+   "en": "When will you win, carve your name on Mount Yanran, and bring the army home?"
+  }
+ ],
+ "background": {
+  "zh": "唐朝常常在北方和西北边境打仗，许多男子被派去守边，一去就是好几年。他们的妻子留在家里，日夜思念。诗人们常写这种“闺怨”诗，替留守的妻子说出心里话。这首诗就是一位住在长安的妻子在春天思念远方丈夫的心声。具体写于哪一年，已经不清楚了。",
+  "en": "The Tang dynasty often fought on its northern and northwestern borders. Many men were sent to guard the frontier and stayed away for years. Their wives waited at home and missed them day and night. Poets often wrote poems for such wives, speaking the feelings in their hearts. This poem is the voice of a wife in Chang'an who misses her faraway husband in spring. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "皇甫冉是唐代中期诗人，生卒年说法不一。他是润州丹阳（今江苏丹阳）人，唐玄宗天宝年间考中进士，做过一些不大的官。他和弟弟皇甫曾都能写诗，名气不小。他的诗清新自然，这首《春思》被选进了《唐诗三百首》。",
+  "en": "Huangfu Ran was a poet of the middle Tang. Sources differ on when he was born and died. He came from Danyang in today's Jiangsu, passed the imperial exam during the Tianbao years of Emperor Xuanzong, and held some minor posts. He and his younger brother Huangfu Zeng were both known as poets. His poems are fresh and natural, and this one was chosen for the famous collection Three Hundred Tang Poems."
+ },
+ "appreciation": {
+  "zh": "开头很热闹：黄莺唱，燕子叫，春天来了。可是第二句一下子拉远到几千里外的边塞，热闹里透出了冷清。中间四句一句写家，一句写心：人住在繁华的长安，心却跟着月亮飞到边地；手里织着锦字，楼外的花却像在笑她独眠。花本来不会笑，是她自己太孤单，才觉得连花都在笑她。最后她不直接说“我想你”，而是去问主帅：什么时候打胜仗、带大家回家？把对丈夫的思念，变成了对早日结束战争的盼望，情感更深了一层。",
+  "en": "The poem opens full of life: orioles sing, swallows chatter, spring is here. But the second line suddenly jumps thousands of miles to the frontier, and loneliness creeps into the joy. The middle four lines go back and forth between her home and her heart. She lives in busy Chang'an, but her heart flies with the moon to the border. She weaves words into silk, while the flowers outside seem to laugh at her sleeping alone. Flowers cannot laugh. She feels that way because she is so lonely. At the end she does not just say \"I miss you.\" She asks the general when he will win and bring everyone home. Her longing for her husband becomes a hope that the war will end soon, and the feeling grows deeper."
+ },
+ "famous_lines": [
+  3,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "frontier",
+   "war",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

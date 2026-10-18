@@ -1,0 +1,351 @@
+{
+ "id": "9080a103-2750-4b9b-a4fa-1167cd670a0c",
+ "kind": "shi",
+ "title": "汉江临泛",
+ "title_en": "Boating on the Han River",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "接",
+    "jiē"
+   ]
+  ],
+  [
+   [
+    "荆",
+    "jīng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "派",
+    "pài"
+   ],
+   [
+    "通",
+    "tōng"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "郡",
+    "jùn"
+   ],
+   [
+    "邑",
+    "yì"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "澜",
+    "lán"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "襄",
+    "xiāng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "翁",
+    "wēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "塞：这里指险要的地方，读 sài。",
+   "en": "Here it means a strategic stronghold, so it is read sài."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "楚塞：楚地的险要之处。汉水流经的这一带古时属于楚国。",
+   "en": "chǔ sài: the strongholds of Chu. The land along this part of the Han River once belonged to the state of Chu."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "三湘：湘江和它的支流一带，泛指今天湖南。",
+   "en": "sān xiāng: the Three Xiang, the Xiang River and its branches, meaning roughly today's Hunan."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "接：连接。",
+   "en": "jiē: to join, to reach."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "荆门：荆门山，在今天湖北宜都西北的长江边。",
+   "en": "jīng mén: Jingmen Mountain, on the Yangtze northwest of today's Yidu in Hubei."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "九派：九条支流。指长江在今天江西九江一带分出的许多支流。",
+   "en": "jiǔ pài: nine branches, the many streams the Yangtze splits into around today's Jiujiang in Jiangxi."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "天地外：好像流到天地之外去了，形容江水又远又长。",
+   "en": "tiān dì wài: as if flowing beyond heaven and earth, so long and far does the river run."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "有无中：好像有，又好像没有，形容远山在雾气里若隐若现。",
+   "en": "yǒu wú zhōng: between there and not there. The far hills seem to appear and vanish in the haze."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "郡邑：城镇。",
+   "en": "jùn yì: towns and cities."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "浮前浦：好像浮在前面的水面上。浦，水边。",
+   "en": "fú qián pǔ: seeming to float on the water ahead. Pǔ means a shore."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "动远空：波浪起伏，连远处的天空好像也在晃动。",
+   "en": "dòng yuǎn kōng: the waves rise and fall until even the far sky seems to sway."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "好风日：好风光，好天气。",
+   "en": "hǎo fēng rì: fine scenery and fine weather."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "山翁：指晋朝的山简。他在襄阳做官时，常到高阳池喝酒，喝得大醉才回家。",
+   "en": "shān wēng: Old Shan, meaning Shan Jian of the Jin dynasty. When he governed Xiangyang, he often went drinking at Gaoyang Pond and came home very drunk."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "楚地的险要之处，和三湘连在一起；",
+   "en": "The strongholds of Chu reach to the Three Xiang;"
+  },
+  {
+   "zh": "荆门山下，长江的九条支流相通。",
+   "en": "below Jingmen, the river's nine branches meet."
+  },
+  {
+   "zh": "江水滔滔，好像流到天地之外；",
+   "en": "The river flows on beyond heaven and earth;"
+  },
+  {
+   "zh": "远山若隐若现，好像有，又好像没有。",
+   "en": "the hills' colours hover between there and gone."
+  },
+  {
+   "zh": "前面水边的城镇，好像浮在水上；",
+   "en": "Towns ahead seem to float upon the shore;"
+  },
+  {
+   "zh": "波浪起伏，远处的天空也像在晃动。",
+   "en": "the waves heave until the far sky moves."
+  },
+  {
+   "zh": "襄阳的风光真好，",
+   "en": "Xiangyang has such fine wind and weather,"
+  },
+  {
+   "zh": "我愿意留在这里，和山翁一起喝个大醉。",
+   "en": "I would stay and get drunk here with Old Shan."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗写于开元二十八年（740年）。那一年王维以殿中侍御史的身份到南方去，路过襄阳，在汉江上坐船游览，写下了这首诗。汉江就是汉水，从襄阳流过，再往南流进长江。题目一作《汉江临眺》，“临眺”是登高远望的意思。",
+  "en": "This poem is usually dated to 740. That year Wang Wei, then a palace censor, was sent on official business to the south. Passing through Xiangyang, he took a boat on the Han River and wrote this poem. The Han River flows past Xiangyang and then south into the Yangtze. Some editions title it \"Gazing Out over the Han River\" instead."
+ },
+ "author_note": {
+  "zh": "王维（约701—761），唐代大诗人，也是画家和音乐家，被称为“诗佛”。苏轼说他的诗是“诗中有画”。这首诗写山水，就像一幅水墨画，远近浓淡都很有层次。",
+  "en": "Wang Wei (about 701–761) was a great Tang poet, and also a painter and musician. He is called the Buddha of Poetry. Su Shi said of his work that \"in his poems there are paintings.\" This poem paints a landscape like an ink-wash picture, with near and far, dark and light, all in layers."
+ },
+ "appreciation": {
+  "zh": "开头两句把镜头拉得很远：从楚地到三湘，从荆门到九派，一下子画出了汉江周围几千里的大地。三四句是千古名句：江水好像一直流到天地外面去，远山在雾里若有若无。一句写远，一句写淡，很像中国画里的留白。五六句写坐在船上的感觉：城镇好像浮在水上，天空也随着波浪晃动。其实城没有浮，天也没有动，是船在动，人在晃。最后诗人说，襄阳这么美，我要留下来和山翁一起喝醉。全诗气象开阔，读起来让人心胸也跟着宽了。",
+  "en": "The first two lines pull the camera far back. From Chu to the Three Xiang, from Jingmen to the nine branches, they sketch thousands of miles of land around the Han River in one stroke. Lines three and four are famous through the ages. The river seems to flow right out beyond heaven and earth, and the far hills flicker in the haze. One line shows distance, the other shows faintness, like the empty space left in a Chinese painting. Lines five and six give the feeling of being on a boat. The towns seem to float, and the sky sways with the waves. Really the towns are not floating and the sky is not moving. It is the boat that rocks. At the end the poet says Xiangyang is so beautiful that he wants to stay and drink with Old Shan. The poem is broad and open, and reading it makes your heart feel wider too."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "landscape",
+   "mountain",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

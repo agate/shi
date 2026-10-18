@@ -1,0 +1,240 @@
+{
+ "id": "4838bc46-446b-44cb-8296-29eed12cf343",
+ "kind": "shi",
+ "title": "春夜洛城闻笛",
+ "title_en": "Hearing a Flute on a Spring Night in Luoyang",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "笛",
+    "dí"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "折",
+    "zhé"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "散",
+   "pinyin": "sàn",
+   "zh": "散：读 sàn，是散开、传开的意思。",
+   "en": "Here the character is read sàn, meaning to scatter or spread."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "曲：读 qǔ，指乐曲。",
+   "en": "Here the character is read qǔ, meaning a tune."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "玉笛：精美的笛子。",
+   "en": "yù dí: a fine flute, literally a jade flute."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "暗飞声：笛声悄悄地传来。暗，暗中，不知从哪里。",
+   "en": "àn fēi shēng: the sound drifts over quietly. Àn means unseen, from who knows where."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "洛城：洛阳城，唐代的东都。",
+   "en": "luò chéng: the city of Luoyang, the eastern capital of the Tang."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "折柳：指笛曲《折杨柳》。古人分别时常折柳枝送人，这支曲子写的是离别。",
+   "en": "zhé liǔ: the flute tune \"Breaking Willow Branches\". People broke off willow twigs as a farewell gift, and the tune is about parting."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "故园情：思念家乡的感情。故园，家乡。",
+   "en": "gù yuán qíng: longing for home. Gù yuán means one's old home."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "是谁家的笛子，悄悄地传出悠扬的笛声？",
+   "en": "From whose house does the fine flute's sound come drifting in the dark?"
+  },
+  {
+   "zh": "笛声随着春风散开，飘满了洛阳城。",
+   "en": "It scatters on the spring wind and fills all of Luoyang."
+  },
+  {
+   "zh": "今夜在曲子里听到了《折杨柳》，",
+   "en": "Tonight, in the tune, I hear \"Breaking Willow Branches\";"
+  },
+  {
+   "zh": "谁能不想起自己的家乡呢？",
+   "en": "who would not think of home?"
+  }
+ ],
+ "background": {
+  "zh": "一般认为这首诗写于唐玄宗开元二十二年（734年）前后，那时李白客居洛阳。一个春天的夜里，不知从哪里传来笛声，吹的正是离别的曲子《折杨柳》。远离家乡的李白听了，忍不住思念故乡，写下了这首诗。",
+  "en": "This poem is usually dated to around 734, when Li Bai was staying in Luoyang. One spring night, the sound of a flute came from somewhere, playing \"Breaking Willow Branches\", a tune of parting. Far from home, Li Bai heard it and could not help missing his hometown, so he wrote this poem."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他二十多岁就离开四川老家，到各地漫游，一辈子很少回去。所以他写过不少思乡的诗，比如《静夜思》。这首诗和《静夜思》一样，用简单的话写出了每个游子都有的心情。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. In his twenties he left his home in Sichuan to travel, and he seldom went back. So he wrote many poems about missing home, such as \"Quiet Night Thoughts\". Like that poem, this one uses simple words to show a feeling every traveller knows."
+ },
+ "appreciation": {
+  "zh": "第一句问“谁家”，笛声从哪里来，看不见，只听得见，显得神秘又安静。第二句诗人说笛声随春风传遍了整个洛阳城。一支笛子当然吹不了那么远，这是夸张，因为诗人心里被笛声装满了，觉得全城都听得见。后两句点出曲子是《折杨柳》，是送别的歌。诗人不说“我想家”，而是问“谁不想家”，把自己的心情变成了所有人的心情，更让人感动。",
+  "en": "The first line asks \"from whose house\". The flute cannot be seen, only heard, which feels mysterious and calm. In the second line the poet says the sound spreads on the spring wind across all of Luoyang. One flute could never be heard that far. It is an exaggeration, because the music fills the poet's heart, so it seems to fill the whole city. The last two lines name the tune: \"Breaking Willow Branches\", a song of farewell. The poet does not say \"I miss home\". He asks \"who would not miss home?\", turning his own feeling into everyone's, which makes it even more moving."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "music",
+   "night",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

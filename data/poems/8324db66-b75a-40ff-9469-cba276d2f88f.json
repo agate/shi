@@ -1,0 +1,351 @@
+{
+ "id": "8324db66-b75a-40ff-9469-cba276d2f88f",
+ "kind": "shi",
+ "title": "书边事",
+ "title_en": "Writing of the Frontier",
+ "author": "张乔",
+ "author_en": "Zhang Qiao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "调",
+    "tiáo"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "戍",
+    "shù"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "冢",
+    "zhǒng"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "兵",
+    "bīng"
+   ],
+   [
+    "阻",
+    "zǔ"
+   ]
+  ],
+  [
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "蕃",
+    "fān"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "愿",
+    "yuàn"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "调",
+   "pinyin": "tiáo",
+   "zh": "调角：吹奏号角。这里“调”是吹奏、演奏的意思，读 tiáo。",
+   "en": "Here it means to play an instrument, so it is read tiáo."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "蕃",
+   "pinyin": "fān",
+   "zh": "蕃：这里指吐蕃等西部、北部的民族，读 fān。“吐蕃”一词今天读 tǔ bō。",
+   "en": "Here it means the peoples of the west and north, such as the Tibetan empire, and is read fān. The empire's own name is read tǔ bō today."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "调角：吹响号角。号角是军队里用来报时、传令的乐器。",
+   "en": "tiáo jiǎo: to blow the horn. Armies used horns to mark the time and give orders."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "断清秋：号角声在清冷的秋空里断断续续地传开。",
+   "en": "duàn qīng qiū: the horn's notes break off and drift through the clear, cold autumn air."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "征人：守边的士兵。",
+   "en": "zhēng rén: soldiers guarding the frontier."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "戍楼：边防上用来瞭望的楼。",
+   "en": "shù lóu: a watchtower on the border."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "青冢：王昭君的坟，在今天内蒙古呼和浩特附近。传说那一带草都发白，只有她坟上的草是青的，所以叫青冢。",
+   "en": "qīng zhǒng: the Green Tomb of Wang Zhaojun, near today's Hohhot in Inner Mongolia. Legend says the grass all around was pale, and only the grass on her tomb stayed green."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "梁州：唐代州名。一说指凉州，在今天甘肃武威一带，是西北边地。",
+   "en": "liáng zhōu: a Tang prefecture. Some take it to mean Liangzhou with a different character, around today's Wuwei in Gansu, in the northwest borderland."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "大汉：用汉朝代指唐朝。",
+   "en": "dà hàn: the great Han, used to mean the Tang dynasty."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "无兵阻：没有打仗的军队挡路，边境太平。",
+   "en": "wú bīng zǔ: no armies block the way. The border is at peace."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "穷边：最远的边地。",
+   "en": "qióng biān: the farthest borderland."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "蕃情：边地各民族的心意。",
+   "en": "fān qíng: the feelings of the border peoples."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "长愿：希望永远。",
+   "en": "cháng yuàn: to hope it stays so forever."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "号角声在清冷的秋空里断断续续，",
+   "en": "Horn calls break and drift through the clear autumn air."
+  },
+  {
+   "zh": "守边的士兵靠在瞭望楼上。",
+   "en": "A soldier leans on the watchtower."
+  },
+  {
+   "zh": "春风吹拂着王昭君的青冢，",
+   "en": "Spring winds blow over the Green Tomb,"
+  },
+  {
+   "zh": "太阳慢慢落在梁州的西边。",
+   "en": "and the white sun sinks over Liangzhou."
+  },
+  {
+   "zh": "大唐的边境没有战争阻隔，",
+   "en": "No armies bar the way in our great land,"
+  },
+  {
+   "zh": "连最远的边地也有游客来往。",
+   "en": "and travellers roam even the farthest border."
+  },
+  {
+   "zh": "边地各族的心意，就像这河水，",
+   "en": "The hearts of the border peoples are like this river:"
+  },
+  {
+   "zh": "愿它永远向着南方流淌。",
+   "en": "may they flow south toward us forever."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是唐朝后期西北边境一段难得的和平。安史之乱以后，河西一带被吐蕃占领了很多年。唐宣宗大中年间，沙州人张议潮带领百姓赶走吐蕃，把河西献给唐朝。一般认为，张乔就是在这以后到边地游历，看到边境安定，写下了这首诗。",
+  "en": "This poem describes a rare time of peace on the Tang's northwest border. After the An Lushan Rebellion, the Tibetan empire held the Hexi region for many years. In the Dazhong years of Emperor Xuanzong, Zhang Yichao of Shazhou led the local people to drive the Tibetans out and gave Hexi back to the Tang. It is usually thought that Zhang Qiao travelled to the border after this, saw the peace there, and wrote this poem."
+ },
+ "author_note": {
+  "zh": "张乔，晚唐诗人，池州（今安徽）人，生卒年不详。唐懿宗咸通年间，他和一些诗人一起被称为“咸通十哲”。他多次考进士都没考中。黄巢起义时，他躲进九华山隐居，一直到老。",
+  "en": "Zhang Qiao was a late Tang poet from Chizhou, in today's Anhui. His dates of birth and death are not known. In the Xiantong years he was counted among the \"Ten Worthies of Xiantong\", a group of poets. He sat the top exam many times and never passed. During the Huang Chao Rebellion he went to live in hiding on Mount Jiuhua, and stayed there into old age."
+ },
+ "appreciation": {
+  "zh": "一般的边塞诗，写的多是打仗、思乡、风沙和死亡。这首诗却很安静。号角声响着，士兵靠在楼上，好像没什么紧张的事。昭君的坟让人想起汉朝和匈奴和亲的往事，太阳落在西边，景色又大又远。五六句直接说：边境没有战争，连游客都能走到最远的地方。最后两句最有意思：诗人看着眼前向南流的河水，希望边地各族的心也像河水一样，永远向着中原。整首诗写出了人们对和平的盼望。",
+  "en": "Most frontier poems are about battles, homesickness, sandstorms and death. This one is quiet. Horns sound, and a soldier leans on the tower as if there is nothing to worry about. The Green Tomb brings to mind the old Han-era peace made by marrying Wang Zhaojun to a Xiongnu chief, and the sun setting in the west makes the land feel huge and far away. Lines five and six say it straight out: there is no war on the border, and travellers can go to its farthest corners. The last two lines are the most charming. The poet watches the river flowing south and hopes the hearts of the border peoples will always turn toward the central land, just like the water. The whole poem carries a hope for lasting peace."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "peace",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

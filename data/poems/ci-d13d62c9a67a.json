@@ -1,0 +1,462 @@
+{
+ "id": "ci-d13d62c9a67a",
+ "kind": "ci",
+ "title": "踏莎行·情似游丝",
+ "title_en": "Treading on Sedge: Love Like a Floating Thread",
+ "author": "周紫芝",
+ "author_en": "Zhou Zizhi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·踏莎行（双调）",
+  "en": "ci lyric to the tune Ta Suo Xing, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "丝",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "絮",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "定",
+    "dìng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "觑",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "垂",
+    "chuí"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "系",
+    "jì"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ],
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "做",
+    "zuò"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "量",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "阁",
+   "pinyin": "gé",
+   "zh": "“阁”在这里同“搁”，是“含着、停住”的意思，读 gé。",
+   "en": "Gé here stands for a character meaning to hold or keep in place."
+  },
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "系",
+   "pinyin": "jì",
+   "zh": "“系”在这里是“拴住、绑住”的意思，读 jì，和“系鞋带”的“系”一样。",
+   "en": "Jì here means to tie, as in tying a shoelace. It is not read xì."
+  },
+  {
+   "line": 8,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“明朝”是“明天”的意思，“朝”读 zhāo。",
+   "en": "Míng zhāo means tomorrow, so the reading is zhāo, morning, not cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "游丝：春天空中飘着的细丝，又细又长，断不了也抓不住。",
+   "en": "yóu sī: fine threads floating in the spring air, long and thin, hard to break and hard to catch."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "飞絮：随风乱飞的柳絮，飘到哪里由不得自己。",
+   "en": "fēi xù: willow fluff blown about by the wind, with no say in where it goes."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "阁定：含在眼里，停住不落下来。",
+   "en": "gé dìng: held in the eyes, not let fall."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "空相觑：只能白白地互相看着。觑，看。",
+   "en": "kōng xiāng qù: can only look at each other, helpless. Qù means to look."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "烟柳：笼罩在雾气里的柳树。",
+   "en": "yān liǔ: willows wrapped in mist."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "万丝垂：千万条柳枝垂下来。",
+   "en": "wàn sī chuí: ten thousand willow strands hanging down."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "无因：没有办法。",
+   "en": "wú yīn: no way to."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "兰舟：用木兰树做的船，是船的美称。",
+   "en": "lán zhōu: a boat of magnolia wood, a pretty name for a boat."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "系得……住：拴住。",
+   "en": "jì dé ... zhù: to tie fast, to hold."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "草迷烟渚：水中小洲上的草，在烟雾里模模糊糊看不清。渚，水中的小块陆地。",
+   "en": "cǎo mí yān zhǔ: the grass on a little island is blurred in the mist. Zhǔ is a small piece of land in the water."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "且做：就算、姑且当作。",
+   "en": "qiě zuò: let us say, let us suppose."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "莫思量：不去想。思量，想念、挂念。",
+   "en": "mò sī liáng: not to think about it. Sī liáng means to think of, to miss."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "今宵：今天晚上。",
+   "en": "jīn xiāo: tonight."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "情意像飘在空中的游丝，",
+   "en": "Love is like a floating thread in the air;"
+  },
+  {
+   "zh": "人像随风乱飞的柳絮。",
+   "en": "people are like willow fluff blown by the wind."
+  },
+  {
+   "zh": "眼泪含在眼里，两人只能默默相望。",
+   "en": "Tears held in our eyes, we can only look at each other."
+  },
+  {
+   "zh": "一溪的柳树笼着烟雾，垂下千万条柳丝，",
+   "en": "Along the stream, misty willows let down ten thousand strands,"
+  },
+  {
+   "zh": "却没有办法把木兰船拴住。",
+   "en": "yet none of them can tie the magnolia boat and keep it here."
+  },
+  {
+   "zh": "大雁飞过夕阳，",
+   "en": "Wild geese fly across the setting sun;"
+  },
+  {
+   "zh": "小洲上的草在烟雾里模糊不清。",
+   "en": "the grass on the little island is lost in the mist."
+  },
+  {
+   "zh": "现在已经有数不清的愁，",
+   "en": "Already there are countless sorrows;"
+  },
+  {
+   "zh": "就算明天可以不去想他，",
+   "en": "even if tomorrow I could stop thinking of you,"
+  },
+  {
+   "zh": "今天这一夜又该怎么熬过去呢？",
+   "en": "how will I get through tonight?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写一对恋人在水边分别。上片写分别的那一刻：两个人含着泪对望，船就要开了，岸边的柳丝再多也留不住它。下片写船走以后，留下的人望着夕阳和烟雾，愁得不知怎么度过今晚。词里没有说是谁和谁分别，具体写在什么时候，也已经说不清了。从游丝、飞絮、烟柳来看，写的是春天。",
+  "en": "This ci shows two lovers parting by the water. The first stanza is the moment of parting. They look at each other with tears in their eyes. The boat is about to leave, and all the willow strands on the bank cannot hold it back. The second stanza comes after the boat is gone. The one left behind watches the setting sun and the mist, so sad that they do not know how to get through the night. The ci does not say who is parting from whom, and we no longer know when it was written. The floating threads, willow fluff and misty willows show that it is spring."
+ },
+ "author_note": {
+  "zh": "周紫芝（1082—约1155），号竹坡居士，宣城（今属安徽）人，南宋词人。他年轻时很穷，到六十岁左右才做官。他的词清新自然，常用平常的话写深深的感情，这首词的最后两句就很像日常说话。",
+  "en": "Zhou Zizhi (1082 to about 1155), also called the Hermit of Zhupo, came from Xuancheng in today's Anhui. He was a Southern Song ci poet. He was poor when young and did not become an official until he was about sixty. His ci are fresh and natural, often using plain words for deep feelings. The last two lines of this ci sound just like everyday talk."
+ },
+ "appreciation": {
+  "zh": "开头两句用了两个比喻：情像游丝，又细又长，断不了；人像柳絮，风一吹就各自飘散，由不得自己。接着两人含泪对望，什么也说不出。岸边柳丝千万条，本来像是能拴住船的绳子，可一条也拴不住，这是把柳树也写得无奈了。下片景色更远更淡：大雁飞过夕阳，草在烟里看不清，就像远去的人。最后两句最动人：明天也许能不想了，可今晚怎么熬？把离愁说得又直白又真实，好像就在耳边说话。",
+  "en": "The first two lines give two pictures. Love is like a floating thread, thin and long, impossible to break. People are like willow fluff: the wind blows and each drifts off, with no say in it. Then the two look at each other with tears and cannot speak. The willows on the bank have ten thousand strands that look like ropes to tie a boat, yet not one can hold it, so even the willows seem helpless. In the second stanza the scene grows farther and fainter. Geese cross the setting sun, and the grass fades into the mist, just like the person going away. The last two lines are the most moving. Tomorrow I may manage not to think of you, but how will I get through tonight? The sorrow is said so plainly and truly, as if someone were speaking right beside you."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "willow",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

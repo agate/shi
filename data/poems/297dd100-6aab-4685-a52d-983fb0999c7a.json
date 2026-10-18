@@ -1,0 +1,249 @@
+{
+ "id": "297dd100-6aab-4685-a52d-983fb0999c7a",
+ "kind": "shi",
+ "title": "和乐天春词",
+ "title_en": "Spring Song, Replying to Letian",
+ "author": "刘禹锡",
+ "author_en": "Liu Yuxi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "宜",
+    "yí"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "数",
+    "shǔ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "朵",
+    "duǒ"
+   ]
+  ],
+  [
+   [
+    "蜻",
+    "qīng"
+   ],
+   [
+    "蜓",
+    "tíng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "搔",
+    "sāo"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文第一句作“新妆面面下朱楼”。通行本（如《唐诗三百首》）多作“新妆宜面下朱楼”，这里用通行本。题目里的“和”读 hè，是应和别人的诗。",
+  "en": "The corpus has a slightly different first line, \"face after face\". Common editions, such as Three Hundred Tang Poems, have \"makeup that suits her face\", which is used here. In the title, the word for \"replying\" (hè) means writing a poem to answer a friend's poem."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "数",
+   "pinyin": "shǔ",
+   "zh": "数：读 shǔ，是数数的意思。",
+   "en": "Here the character is read shǔ, meaning to count."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "新妆：刚刚化好的妆。",
+   "en": "xīn zhuāng: freshly done makeup."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "宜面：和脸很相配，化得很好看。",
+   "en": "yí miàn: suiting her face well."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "朱楼：红色的楼，指富贵人家女子住的楼。",
+   "en": "zhū lóu: a red-painted tower, where women of a rich family lived."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "深锁：紧紧地锁住。",
+   "en": "shēn suǒ: locked up tight."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "一院愁：满院子都是愁。",
+   "en": "yī yuàn chóu: a whole courtyard full of sorrow."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "中庭：院子中间。",
+   "en": "zhōng tíng: the middle of the courtyard."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "玉搔头：玉做的簪子，插在头发上的首饰。传说汉武帝曾拿妃子的玉簪来挠头，所以叫“搔头”。",
+   "en": "yù sāo tóu: a jade hairpin. Legend says a Han emperor once used a lady's jade pin to scratch his head, so it got the name \"head-scratcher\"."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她化好了漂亮的新妆，走下红楼，",
+   "en": "Her fresh makeup suits her face; she comes down from the red tower."
+  },
+  {
+   "zh": "满院春光被深深锁住，院子里满是愁绪。",
+   "en": "The spring light is locked deep inside, and the whole courtyard is full of sorrow."
+  },
+  {
+   "zh": "她走到院子中间，一朵一朵地数着花，",
+   "en": "She walks to the middle of the yard and counts the flowers one by one."
+  },
+  {
+   "zh": "一只蜻蜓飞来，落在她的玉簪上。",
+   "en": "A dragonfly flies up and lands on her jade hairpin."
+  }
+ ],
+ "background": {
+  "zh": "乐天是白居易的字。白居易写了一首《春词》，写一个女子在春天里发愁。刘禹锡读了，按同样的题目写了这首诗来应和，所以题目叫《和乐天春词》。两人是好朋友，常常这样互相写诗唱和。这首诗具体写于哪一年，不太清楚。",
+  "en": "Letian was the courtesy name of Bai Juyi. Bai wrote a \"Spring Song\" about a woman feeling sad in spring. Liu Yuxi read it and wrote this poem on the same theme in reply, so the title says \"replying to Letian\". The two were close friends and often traded poems like this. We are not sure of the year it was written."
+ },
+ "author_note": {
+  "zh": "刘禹锡（772—842），中唐诗人，被称为“诗豪”。他和白居易交情很深，晚年两人常在洛阳一起写诗，世人合称“刘白”。他的诗一般爽朗有力，这首却写得细腻含蓄，可见他也很会写女子的心事。",
+  "en": "Liu Yuxi (772–842) was a mid-Tang poet called the Hero of Poetry. He was a close friend of Bai Juyi; in their later years they often wrote poems together in Luoyang, and people named them together as \"Liu and Bai\". His poems are usually bold and bright, but this one is gentle and quiet, which shows he could also capture a woman's private feelings well."
+ },
+ "appreciation": {
+  "zh": "女子精心打扮好，走下楼来，可院门紧锁，没有人来看她。春光那么好，却被锁在院子里，满院都是愁。她没事可做，只好一朵一朵地数花，这个小动作把她的无聊和寂寞写活了。最后，一只蜻蜓落在她的玉簪上。也许是她站得太久，一动不动；也许是她太美，蜻蜓把她当成了花。人不来，只有蜻蜓来，这份冷清更让人心疼。",
+  "en": "The woman dresses up with care and comes downstairs, but the courtyard gate is locked and no one comes to see her. Spring is so lovely, yet it is shut in, and the whole yard fills with sorrow. With nothing to do, she counts the flowers one by one. That small action brings her boredom and loneliness to life. At the end, a dragonfly lands on her jade hairpin. Maybe she has stood still for so long. Maybe she is so pretty that it takes her for a flower. No person comes, only a dragonfly, and that quiet makes us feel for her all the more."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "loneliness",
+   "woman",
+   "courtyard",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

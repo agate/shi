@@ -1,0 +1,375 @@
+{
+ "id": "469dec8b-ba5e-4faf-b52f-2ad203e38d81",
+ "kind": "shi",
+ "title": "溪居",
+ "title_en": "Living by the Stream",
+ "author": "柳宗元",
+ "author_en": "Liu Zongyuan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "簪",
+    "zān"
+   ],
+   [
+    "组",
+    "zǔ"
+   ],
+   [
+    "累",
+    "lěi"
+   ]
+  ],
+  [
+   [
+    "幸",
+    "xìng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "夷",
+    "yí"
+   ],
+   [
+    "谪",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "农",
+    "nóng"
+   ],
+   [
+    "圃",
+    "pǔ"
+   ],
+   [
+    "邻",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "偶",
+    "ǒu"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "耕",
+    "gēng"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "榜",
+    "bàng"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "石",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "碧",
+    "bì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "这里“为……累”是“被……拖累”的意思，“为”表示被动，读 wéi。",
+   "en": "Here the phrase means to be burdened by something. This passive use is read wéi."
+  },
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "累",
+   "pinyin": "lěi",
+   "zh": "“累”是牵累、拖累的意思，读 lěi。一说读 lèi。",
+   "en": "Here it means to tie down or burden, read lěi. Some read it lèi."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "榜",
+   "pinyin": "bàng",
+   "zh": "“榜”这里是划船的意思，读 bàng，不读 bǎng。",
+   "en": "Here it means to row a boat, read bàng, not bǎng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "簪组：簪，古代官员别帽子用的长针；组，系官印的带子。合起来指做官。",
+   "en": "zān zǔ: a hatpin and the cord of an official seal, both worn by officials. Together they mean holding office."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "累：拖累，束缚。",
+   "en": "lěi: to tie down, to burden."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "幸：幸好。这是反话，其实心里有委屈。",
+   "en": "xìng: luckily. He says it with irony; really he feels wronged."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "南夷：南方偏远的地方，指永州，在今天湖南。",
+   "en": "nán yí: the far, wild south, meaning Yongzhou in today's Hunan."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "谪：被贬官，被调到远方。",
+   "en": "zhé: to be demoted and sent far away."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "农圃：种田种菜的地方，这里指农民。",
+   "en": "nóng pǔ: fields and vegetable gardens; here, the farmers."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "偶似：有时好像。",
+   "en": "ǒu sì: at times it seems."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "山林客：住在山林里的隐士。",
+   "en": "shān lín kè: a hermit living in the hills and woods."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "翻露草：翻动带着露水的草，就是锄草耕地。",
+   "en": "fān lù cǎo: turning over dewy grass, that is, hoeing the field."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "夜榜：夜里划船。",
+   "en": "yè bàng: rowing at night."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "响溪石：船桨碰到溪里的石头，发出声响。",
+   "en": "xiǎng xī shí: the oars knock against the stones in the stream."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "长歌：放声唱歌。",
+   "en": "cháng gē: to sing out loud and long."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "楚天：永州古代属于楚地，楚天就是这里的天空。",
+   "en": "chǔ tiān: Yongzhou was once part of the land of Chu, so this is the sky over it."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我长久被官职拖累，",
+   "en": "For a long time I was tied down by official life."
+  },
+  {
+   "zh": "幸好被贬到这南方偏远的地方。",
+   "en": "Luckily, I have been sent away to this far southern land."
+  },
+  {
+   "zh": "闲着的时候，和种田的农民做邻居，",
+   "en": "In my free time I live as a neighbor of farmers."
+  },
+  {
+   "zh": "有时候我好像一个山林里的隐士。",
+   "en": "At times I seem like a hermit of the hills and woods."
+  },
+  {
+   "zh": "清早去耕地，锄掉带露水的野草，",
+   "en": "At dawn I till the land, turning over the dewy grass."
+  },
+  {
+   "zh": "夜里划船，船桨碰响溪中的石头。",
+   "en": "At night I row, and my oars knock on the stream's stones."
+  },
+  {
+   "zh": "来来去去，碰不到一个人，",
+   "en": "Coming and going, I meet no one at all,"
+  },
+  {
+   "zh": "我放声高歌，头上是楚地碧蓝的天。",
+   "en": "so I sing out loud under the blue sky of Chu."
+  }
+ ],
+ "background": {
+  "zh": "唐顺宗时，柳宗元参加了王叔文等人主持的改革，改革失败后，他在805年被贬为永州司马。永州在今天的湖南，当时很偏僻。他在永州住了十年，后来在城外一条小溪边安了家，给小溪取名“愚溪”。这首诗写的就是他在溪边的生活，一般认为写于他搬到溪边以后。",
+  "en": "Under Emperor Shunzong, Liu Zongyuan joined a reform movement led by Wang Shuwen and others. When it failed, he was demoted in 805 to a minor post in Yongzhou, in today's Hunan, a remote place then. He lived there for ten years and later made his home beside a small stream outside the town, which he named Foolish Stream. This poem describes his life by the stream, usually thought to be written after he moved there."
+ },
+ "author_note": {
+  "zh": "柳宗元（773—819），唐代文学家，“唐宋八大家”之一。他年轻时就做了官，想要改革，却因此被贬到南方，一贬就是十几年。他在永州写了很多山水诗文，比如《江雪》和《小石潭记》，常常在安静的景色里藏着孤独和不平。",
+  "en": "Liu Zongyuan (773–819) was a Tang writer, one of the Eight Great Prose Masters of the Tang and Song. He became an official young and wanted reform, but for that he was sent south for more than ten years. In Yongzhou he wrote many works about nature, such as \"River Snow\" and \"The Little Stone Pond\". His quiet scenes often hide loneliness and a sense of injustice."
+ },
+ "appreciation": {
+  "zh": "这首诗表面上很轻松：不用做官了，真幸运；和农民做邻居，像个隐士；早上种地，晚上划船，自由自在。可是仔细读，就能听出别的味道。被贬到偏远地方，哪里是“幸”呢？这是苦笑着说的反话。“来往不逢人”，说明他身边没有一个可以说话的朋友。最后他只好对着碧蓝的天空放声唱歌，歌声里有洒脱，也有说不出的孤独和委屈。",
+  "en": "On the surface the poem sounds relaxed. No more office work, how lucky. He lives among farmers like a hermit. He farms in the morning and rows at night, free and easy. But read closely and you hear something else. How could being exiled to a remote place be lucky? He says it with a bitter smile. \"Coming and going, I meet no one\" shows he has no friend to talk to. In the end he can only sing out loud to the blue sky. His song holds freedom, but also a loneliness and hurt he cannot put into words."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "countryside",
+   "loneliness",
+   "reclusion",
+   "stream"
+  ]
+ },
+ "uncertain": []
+}

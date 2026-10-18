@@ -1,0 +1,226 @@
+{
+ "id": "ce491725-b96b-46a7-b83c-463d2094ef3f",
+ "kind": "shi",
+ "title": "塞下曲·其一",
+ "title_en": "Frontier Song, No. 1",
+ "author": "卢纶",
+ "author_en": "Lu Lun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "鹫",
+    "jiù"
+   ],
+   [
+    "翎",
+    "líng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "仆",
+    "pú"
+   ],
+   [
+    "姑",
+    "gū"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "尾",
+    "wěi"
+   ],
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "蝥",
+    "máo"
+   ],
+   [
+    "弧",
+    "hú"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "令",
+    "lìng"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "营",
+    "yíng"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "呼",
+    "hū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "仆",
+   "pinyin": "pú",
+   "zh": "金仆姑是箭名，这里的“仆”读 pú，不读 pū（向前倒下）。",
+   "en": "Jīn pú gū is the name of an arrow. Here the character is read pú, not pū as in falling forward."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "鹫翎：鹫鸟的羽毛，装在箭尾上。鹫是一种很大很凶猛的鸟。",
+   "en": "jiù líng: feathers of a vulture, fixed to the end of an arrow. A vulture here is a very large, fierce bird of prey."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "金仆姑：古代一种好箭的名字，最早见于《左传》。",
+   "en": "jīn pú gū: Golden Pugu, the name of a fine arrow in ancient times, first found in the old history Zuo Zhuan."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "燕尾：旗子边上分叉的飘带，像燕子的尾巴。",
+   "en": "yàn wěi: the forked streamers on a flag, shaped like a swallow's tail."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "绣：绣着花纹。",
+   "en": "xiù: embroidered."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "蝥弧：古代一种军旗的名字，也出自《左传》。这里泛指军旗。",
+   "en": "máo hú: Maohu, the name of an ancient war banner, also from Zuo Zhuan. Here it means army flags in general."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "独立：将军一个人站着，形容他威严。",
+   "en": "dú lì: the general stands alone, tall and commanding."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "扬新令：发布新的命令。",
+   "en": "yáng xīn lìng: to give out a new order."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "千营：许许多多的军营，指全军。",
+   "en": "qiān yíng: a thousand camps, meaning the whole army."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "共一呼：一齐高声回应。",
+   "en": "gòng yī hū: all shout back as one."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "将军身上佩着鹫羽做尾的金仆姑好箭，",
+   "en": "The general carries Golden Pugu arrows fletched with vulture feathers,"
+  },
+  {
+   "zh": "军旗上飘着燕尾一样的绣花飘带。",
+   "en": "and the war banners fly with embroidered swallow-tail streamers."
+  },
+  {
+   "zh": "将军威严地站着，发布新的军令，",
+   "en": "He stands alone, tall and stern, and gives a new order;"
+  },
+  {
+   "zh": "千万座营里的士兵一齐高声响应。",
+   "en": "from a thousand camps the soldiers roar back as one."
+  }
+ ],
+ "background": {
+  "zh": "这是卢纶《和张仆射塞下曲》六首中的第一首。“和”读 hè，是写诗回应别人的诗；仆射读 pú yè，是一种大官，这位张仆射一说是张延赏。这一首写将军发号施令、全军响应的场面，是这组诗的开头。诗里的“金仆姑”“蝥弧”都是《左传》里出现过的名字。",
+  "en": "This is the first of Lu Lun's six \"Replying to Minister Zhang's Frontier Songs\". Replying here means writing a poem in answer to someone else's. Minister was a high official title, and this Minister Zhang may have been Zhang Yanshang. This first poem opens the set with a general giving orders and the whole army answering. The arrow name Golden Pugu and the banner name Maohu both come from the old history Zuo Zhuan."
+ },
+ "author_note": {
+  "zh": "卢纶，唐代诗人，“大历十才子”之一，生卒年不能确定，大约生活在八世纪后半期。他在军中做过官，熟悉军营生活。他的《塞下曲》一组六首，写出了将军的威风和将士的勇敢，其中几首被选进了课本。",
+  "en": "Lu Lun was a Tang poet, one of the Ten Talents of the Dali era. His exact dates are not known; he lived in the second half of the eighth century. He served in the army and knew camp life well. His set of six Frontier Songs shows the general's power and the soldiers' courage, and several of them are in school textbooks."
+ },
+ "appreciation": {
+  "zh": "前两句先写装备：箭是名箭，尾巴上插着鹫羽；旗是战旗，飘着燕尾一样的绣带。只看箭和旗，就知道这支军队有多精良，将军有多威风。第三句镜头对准将军：他一个人站在高处，发布新的命令。第四句镜头一下拉远：千万座军营的士兵一齐高喊回应，声音像打雷一样。一个人和千万人，一静一动，对比非常强烈。读的时候可以想象旗子在风中猎猎作响，喊声在山谷间回荡。",
+  "en": "The first two lines show the gear. The arrows are famous arrows with vulture feathers at the end. The flags are war banners with embroidered swallow-tail streamers. Just from the arrows and flags, we can tell how fine this army is and how mighty its general. The third line points the camera at the general: he stands alone up high and gives a new order. The fourth line pulls the camera far back: soldiers in a thousand camps shout their answer together, like thunder. One man and ten thousand, stillness and roar, a powerful contrast. Picture the flags snapping in the wind and the shout echoing through the valleys."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "army",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,824 @@
+{
+ "id": "ci-1001b32fa7f0",
+ "kind": "ci",
+ "title": "齐天乐·蟋蟀",
+ "title_en": "Qi Tian Le: The Cricket",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "庾",
+    "yǔ"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "赋",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "私",
+    "sī"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "铺",
+    "pū"
+   ]
+  ],
+  [
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "井",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "伊",
+    "yī"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "哀",
+    "āi"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "诉",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "妇",
+    "fù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "机",
+    "jī"
+   ],
+   [
+    "杼",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "甚",
+    "shén"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "频",
+    "pín"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "续",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "和",
+    "hè"
+   ],
+   [
+    "砧",
+    "zhēn"
+   ],
+   [
+    "杵",
+    "chǔ"
+   ]
+  ],
+  [
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ],
+   [
+    "迎",
+    "yíng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "吊",
+    "diào"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "豳",
+    "bīn"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "篱",
+    "lí"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "灯",
+    "dēng"
+   ]
+  ],
+  [
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "写",
+    "xiě"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "丝",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "铺",
+   "pinyin": "pū",
+   "zh": "这里读 pū。“铜铺”就是“铺首”，门上衔着门环的铜底座。",
+   "en": "Read pū here. Tóng pū is the bronze plate on a door that holds the knocker ring."
+  },
+  {
+   "line": 9,
+   "pos": 4,
+   "char": "甚",
+   "pinyin": "shén",
+   "zh": "这里读 shén，意思是“什么”，宋代口语。也有人照字面读 shèn。",
+   "en": "Read shén here, meaning what, as in Song-dynasty speech. Some read it shèn, its usual sound."
+  },
+  {
+   "line": 12,
+   "pos": 1,
+   "char": "和",
+   "pinyin": "hè",
+   "zh": "读 hè，意思是“应和、跟着一起响”。",
+   "en": "Read hè, meaning to answer in sound, to join in."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "庾郎：指南北朝诗人庾信。郎，对年轻男子的称呼。",
+   "en": "yǔ láng: the poet Yu Xin of the Northern and Southern Dynasties. Láng is a polite word for a young man."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "先自：本来就已经。",
+   "en": "xiān zì: already, even before this."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "吟愁赋：吟诵《愁赋》。传说庾信写过一篇《愁赋》，写满心的忧愁。",
+   "en": "yín chóu fù: chanting the Rhapsody on Sorrow. Yu Xin is said to have written a piece by that name, full of grief."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "凄凄：凄凉悲伤的样子。",
+   "en": "qī qī: sad and chilly."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "更闻：又听到。",
+   "en": "gèng wén: and then hears."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "私语：小声说话。这里指蟋蟀低低的叫声。",
+   "en": "sī yǔ: whispering; here, the soft chirping of the cricket."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "铜铺：门上衔门环的铜底座，借指门边。",
+   "en": "tóng pū: the bronze base of a door knocker; it stands for the doorway."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "苔侵石井：青苔慢慢长满了石头井栏。侵，渐渐爬上。",
+   "en": "tái qīn shí jǐng: moss creeping over the stone rim of the well."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "伊：它，指蟋蟀。",
+   "en": "yī: it; the cricket."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "曾听伊处：曾经听到它叫的地方。",
+   "en": "céng tīng yī chù: places where it was heard before."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "哀音似诉：悲哀的声音像在诉说什么。",
+   "en": "āi yīn sì sù: a sad sound, as if telling something."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "思妇：思念远方丈夫的妇女。",
+   "en": "sī fù: a wife who misses her husband far away."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "机杼：织布机。杼，织布的梭子。蟋蟀又叫“促织”，意思是催人织布。",
+   "en": "jī zhù: the loom; zhù is the shuttle. Another name for the cricket is cù zhī, urging the weaving."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "曲曲屏山：一折一折的屏风，屏风上画着山。",
+   "en": "qū qū píng shān: a folding screen bent fold after fold, painted with mountains."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "甚情绪：什么样的心情。意思是心情很坏，没有兴致。",
+   "en": "shén qíng xù: what kind of mood? It means she is in low spirits."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "暗雨：夜里看不见的雨。",
+   "en": "àn yǔ: rain at night that cannot be seen."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "频断续：叫声一会儿断，一会儿又接上，一次又一次。",
+   "en": "pín duàn xù: the sound breaking off and starting again, over and over."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "相和：互相应和。",
+   "en": "xiāng hè: to answer each other in sound."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "砧杵：捣衣用的石板和木棒。秋天妇女捣洗衣料，给远方的人做冬衣。",
+   "en": "zhēn chǔ: the stone block and wooden club for beating cloth. In autumn women beat cloth to make winter clothes for men far away."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "候馆：旅馆，供远行的人住的地方。",
+   "en": "hòu guǎn: an inn for travelers."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "迎秋：迎来秋天。",
+   "en": "yíng qiū: greeting the autumn."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "离宫：皇帝在都城以外的宫殿，这里暗指冷落的宫中。",
+   "en": "lí gōng: a palace away from the capital; here it hints at a lonely, forgotten palace."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "吊月：对着月亮伤感。吊，伤悼。",
+   "en": "diào yuè: grieving under the moon."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "别有：另外还有。",
+   "en": "bié yǒu: besides, there is also."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "豳诗：《诗经·豳风·七月》。诗里写过“十月蟋蟀入我床下”。豳，古地名。",
+   "en": "bīn shī: the poem 'Seventh Month' in the Book of Songs, from the land of Bin. It says that in the tenth month the cricket comes under our bed."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "漫与：随意写成。",
+   "en": "màn yǔ: written freely, without effort."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "篱落：篱笆。",
+   "en": "lí luò: a fence of sticks."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 5,
+   "zh": "呼灯：喊着要灯，指孩子们打着灯笼捉蟋蟀。",
+   "en": "hū dēng: calling for a lamp; children with lanterns hunting crickets."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "世间儿女：世上的小孩子们。",
+   "en": "shì jiān ér nǚ: the children of the world."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "写入琴丝：把蟋蟀的叫声谱成琴曲。",
+   "en": "xiě rù qín sī: turning the cricket's song into music for the qin, a zither."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "庾信本来就在吟诵他的《愁赋》，",
+   "en": "Yu Xin was already chanting his Rhapsody on Sorrow,"
+  },
+  {
+   "zh": "又听到凄凉的、低声私语般的虫鸣。",
+   "en": "and then he hears a chilly, whispering chirp."
+  },
+  {
+   "zh": "露水打湿的门边，",
+   "en": "By the door where the dew lies wet,"
+  },
+  {
+   "zh": "青苔爬满的石井旁，",
+   "en": "by the stone well crept over with moss,"
+  },
+  {
+   "zh": "都是曾经听到它叫的地方。",
+   "en": "these are all places where it has sung before."
+  },
+  {
+   "zh": "悲哀的叫声像在诉说，",
+   "en": "Its sad voice seems to tell a story,"
+  },
+  {
+   "zh": "正赶上思念丈夫的妇人睡不着，",
+   "en": "just as a wife who misses her husband cannot sleep"
+  },
+  {
+   "zh": "起身去找织布机。",
+   "en": "and gets up to find her loom."
+  },
+  {
+   "zh": "一折一折画着山的屏风旁，",
+   "en": "Beside the folding screen of painted hills,"
+  },
+  {
+   "zh": "夜里凉了，她独自一人，是什么心情啊。",
+   "en": "in the cool night, alone, what mood can she be in?"
+  },
+  {
+   "zh": "西窗外又吹来夜里看不见的雨，",
+   "en": "At the west window, unseen rain blows in again."
+  },
+  {
+   "zh": "它为谁叫个不停，时断时续，",
+   "en": "For whom does it sing, now stopping, now starting,"
+  },
+  {
+   "zh": "和捣衣的声音互相应和。",
+   "en": "answering the thud of women beating cloth?"
+  },
+  {
+   "zh": "在旅馆里迎来秋天的游子，",
+   "en": "For the traveler greeting autumn at an inn,"
+  },
+  {
+   "zh": "在冷落宫殿里对月伤心的人，",
+   "en": "for the one grieving under the moon in a lonely palace,"
+  },
+  {
+   "zh": "另有说不完的伤心。",
+   "en": "there is sorrow beyond counting."
+  },
+  {
+   "zh": "《诗经》里写蟋蟀，是随口写来的，",
+   "en": "The old poem of Bin wrote of crickets so easily;"
+  },
+  {
+   "zh": "可笑篱笆边喊着要灯笼捉蟋蟀的，",
+   "en": "and how funny, by the fence, calling for lanterns,"
+  },
+  {
+   "zh": "是世上那些不懂愁的小孩子。",
+   "en": "are the children of the world who know no sorrow."
+  },
+  {
+   "zh": "把这叫声谱进琴曲里，",
+   "en": "Put this song into the strings of a qin,"
+  },
+  {
+   "zh": "一声比一声更苦。",
+   "en": "and each note sounds more bitter than the last."
+  }
+ ],
+ "background": {
+  "zh": "姜夔在词前写了一段小序。丙辰年（1196年），他和朋友张功父（张镃）在张达可家里喝酒，听见墙壁里有蟋蟀在叫。张功父约他一起写蟋蟀，交给歌女去唱。张功父先写好了，写得很美。姜夔在茉莉花间走来走去，抬头看见秋天的月亮，忽然生出深深的愁思，不久也写成了这首词。序里还说，当时京城的人叫蟋蟀“促织”，喜欢斗蟋蟀，有人花二三十万钱买一只。",
+  "en": "Jiang Kui wrote a short preface to this ci. In 1196 he was drinking with his friend Zhang Gongfu (Zhang Zi) at the home of Zhang Dake, when they heard a cricket chirping inside the wall. Zhang Gongfu proposed that they each write about the cricket, for singers to perform. Zhang finished first, and his piece was lovely. Jiang Kui paced among the jasmine flowers, looked up at the autumn moon, and was suddenly filled with deep, sad thoughts. Soon he finished this one too. The preface also says that people in the capital called the cricket cù zhī and loved cricket fights; some paid two or three hundred thousand coins for a single cricket."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），字尧章，号白石道人，饶州鄱阳（今江西鄱阳）人，南宋词人和音乐家。他一辈子没有做官，靠朋友接济，到处做客。他懂音乐，会自己作曲，不少词的曲调是他自己创造的。他的词清冷、空灵，常用很淡的笔墨写很深的愁，正像这首写蟋蟀的词。",
+  "en": "Jiang Kui (about 1155–about 1221), also called the Daoist of White Stone, came from Poyang in today's Jiangxi. He was a Southern Song ci poet and a musician. He never held office all his life; he lived as a guest of friends who helped him. He knew music well and wrote his own tunes, and many of his ci are set to melodies he made himself. His style is cool and airy. He often paints deep sorrow with very light strokes, just as in this ci about a cricket."
+ },
+ "appreciation": {
+  "zh": "这首词写的是蟋蟀，可几乎没有写蟋蟀长什么样，而是一直写“听见它的人”。开头是忧愁的诗人庾信，接着是门边井旁，再到睡不着、起来织布的妻子。下片又从西窗的夜雨和捣衣声，写到旅馆里的游子、冷宫里的人，他们听见虫鸣，各有各的伤心。只有篱笆边打着灯笼捉蟋蟀的孩子，觉得好玩，不知道愁。结尾说，把这声音谱成曲子，一声比一声苦。小小的虫鸣，像一根线，把天下所有孤单的人串在一起。读的时候，可以想象一个秋天的凉夜：雨在下，虫在叫，很多人都醒着。",
+  "en": "This ci is about a cricket, yet it hardly describes the cricket at all. Instead it keeps showing the people who hear it. First comes the sad poet Yu Xin, then the doorway and the well, then a wife who cannot sleep and rises to weave. The second stanza moves from night rain at the west window and the sound of beaten cloth to a traveler at an inn and someone in a lonely palace. Each hears the chirping, and each has a private sorrow. Only the children by the fence, hunting crickets with lanterns, find it fun and know no grief. At the end, the poet says that if you set this sound to music, each note grows more bitter. The tiny insect song is like a thread that strings together all the lonely people in the world. Picture a cool autumn night: rain falling, a cricket singing, and many people lying awake."
+ },
+ "famous_lines": [
+  19,
+  20
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "cricket",
+   "insect",
+   "sorrow",
+   "loneliness",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

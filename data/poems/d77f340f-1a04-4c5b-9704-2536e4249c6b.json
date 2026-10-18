@@ -1,0 +1,480 @@
+{
+ "id": "d77f340f-1a04-4c5b-9704-2536e4249c6b",
+ "kind": "shi",
+ "title": "野望",
+ "title_en": "Gazing into the Country",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "戍",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "内",
+    "nèi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "诸",
+    "zhū"
+   ],
+   [
+    "弟",
+    "dì"
+   ],
+   [
+    "隔",
+    "gé"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "涕",
+    "tì"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "遥",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "供",
+    "gōng"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "病",
+    "bìng"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "涓",
+    "juān"
+   ],
+   [
+    "埃",
+    "āi"
+   ],
+   [
+    "答",
+    "dá"
+   ],
+   [
+    "圣",
+    "shèng"
+   ],
+   [
+    "朝",
+    "cháo"
+   ]
+  ],
+  [
+   [
+    "跨",
+    "kuà"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "郊",
+    "jiāo"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "目",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "条",
+    "tiáo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料里首句作“西山白雪三奇戍”，通行本作“三城戍”，“三城”指松、维、保三州，较通行。第五句语料作“唯”，通行本多作“惟”，意思相同。第六句语料“荅”是“答”的异体字。",
+  "en": "In the source text, the first line has a different word where common editions have sān chéng, the three towns; the common reading is followed here. The fifth line uses another form of wéi with the same meaning, and the sixth line uses an older variant of dá."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "西山：成都西边终年积雪的大山。",
+   "en": "xī shān: the great mountains west of Chengdu, white with snow all year."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "三城：指松州、维州、保州三座边城，在今四川西北部，当时用来防守吐蕃。",
+   "en": "sān chéng: three border towns, Songzhou, Weizhou and Baozhou, in northwest Sichuan, held against the Tibetan empire."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "戍：军队驻守。",
+   "en": "shù: to be guarded by soldiers."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "南浦：南边的水边。",
+   "en": "nán pǔ: the waterside to the south."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "清江：清澈的江水，指流过成都的锦江。",
+   "en": "qīng jiāng: the clear river, meaning the Jin River that flows past Chengdu."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "万里桥：成都南边的一座桥。",
+   "en": "wàn lǐ qiáo: a bridge on the south side of Chengdu, called the Ten-Thousand-Li Bridge."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "海内：国内、天下。",
+   "en": "hǎi nèi: all the land within the seas, the whole country."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "风尘：战乱。打仗时尘土飞扬，所以用风尘指战争。",
+   "en": "fēng chén: war. Battles raise wind and dust, so the phrase means war."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "诸弟隔：几个弟弟都被隔在远方，见不到。",
+   "en": "zhū dì gé: his younger brothers are cut off far away."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "天涯：天的边上，指离家很远的地方。",
+   "en": "tiān yá: the edge of the sky, a place very far from home."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "涕泪：眼泪。",
+   "en": "tì lèi: tears."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "一身遥：只有自己一个人，远在他乡。",
+   "en": "yī shēn yáo: all alone, far from home."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "惟将：只能把。",
+   "en": "wéi jiāng: can only take."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "迟暮：晚年。",
+   "en": "chí mù: old age, the evening of life."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "供多病：交给了多病的身体，意思是晚年只剩下生病。",
+   "en": "gōng duō bìng: handed over to sickness, meaning his old age is spent being ill."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "涓埃：一滴水、一粒尘，比喻极小的贡献。",
+   "en": "juān āi: a drop of water, a speck of dust: the tiniest bit of help."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "答：报答。",
+   "en": "dá: to repay."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "圣朝：对当时朝廷的尊称。",
+   "en": "shèng cháo: a respectful name for the ruling court."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "极目：放眼远望，看到最远的地方。",
+   "en": "jí mù: to look as far as the eye can see."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "不堪：受不了。",
+   "en": "bù kān: cannot bear."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "人事：世上的事，国家的局势。",
+   "en": "rén shì: the affairs of the world, the state of the country."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "日萧条：一天比一天冷落、衰败。",
+   "en": "rì xiāo tiáo: growing bleaker day by day."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "西山白雪皑皑，三座边城驻着守军；",
+   "en": "The Western Mountains are white with snow, and soldiers guard the three border towns."
+  },
+  {
+   "zh": "城南的水边，清江上横着万里桥。",
+   "en": "By the southern shore, the clear river runs under the Wanli Bridge."
+  },
+  {
+   "zh": "天下战乱不停，几个弟弟都被隔在远方；",
+   "en": "War fills the land, and my brothers are cut off far away."
+  },
+  {
+   "zh": "我流落天涯，独自一人，泪流满面。",
+   "en": "Here at the edge of the world I weep, all alone."
+  },
+  {
+   "zh": "我只能把晚年交给一身的病，",
+   "en": "I can only give my old age over to sickness,"
+  },
+  {
+   "zh": "一点点也没能报答朝廷。",
+   "en": "and I have not repaid the court even a drop or a speck."
+  },
+  {
+   "zh": "骑马走出郊外，常常放眼远望，",
+   "en": "I ride out to the countryside and gaze as far as I can see,"
+  },
+  {
+   "zh": "实在受不了世事一天比一天衰败。",
+   "en": "and I cannot bear how the world grows bleaker every day."
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为写于唐肃宗上元二年（761年）。那时安史之乱还没平定，杜甫为了躲避战乱，住在成都西郊的草堂。西边的吐蕃也常来侵扰，要靠边城驻军防守。杜甫的几个弟弟散落在各地，音信难通。一天他骑马到郊外远望，看到雪山和江桥，想到国家和亲人，写下了这首诗。",
+  "en": "This poem is usually dated to 761. The An Lushan rebellion was not yet over, and Du Fu had fled the fighting to his thatched cottage on the western edge of Chengdu. To the west, the Tibetan empire often raided, so border towns had to be held by troops. Du Fu's younger brothers were scattered in different places, and letters rarely got through. One day he rode out of town to look into the distance. Seeing the snowy mountains and the river bridge, he thought of his country and his family, and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他经历了安史之乱，一生漂泊，诗里写了许多百姓的苦难和对国家的担忧，被称为“诗史”。在成都草堂的几年，是他晚年难得安定的日子，但他仍然时时惦记着国家大事。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He lived through the An Lushan rebellion and wandered for much of his life. His poems tell of the people's suffering and his worry for the country, so they are called a history in verse. His years at the cottage in Chengdu were a rare quiet time late in his life, yet he still always thought about the state of the nation."
+ },
+ "appreciation": {
+  "zh": "前两句是远望看到的景：西边是雪山和边城，南边是清江和长桥。一远一近，一冷一清，画面很开阔。可是诗人看着看着，心就沉下去了：雪山下有守军，说明边境不太平；天下还在打仗，弟弟们都见不到；自己孤身一人，在天涯流泪。接着他又自责：年纪大了，身体又多病，一点也没能为国家出力。最后回到“跨马出郊”，说明这些都是他远望时想到的。“不堪人事日萧条”，把个人的孤独和国家的衰败连在了一起，叹息很深。",
+  "en": "The first two lines show what he sees from afar: snowy mountains and border towns to the west, the clear river and long bridge to the south. One far, one near; one cold, one clear; the scene is wide and open. But as he looks, his heart sinks. Soldiers below the snow mean the border is not safe. The country is still at war, and he cannot see his brothers. He is alone, weeping at the edge of the world. Then he blames himself: he is old and sick, and has done nothing to help his country. The end returns to the ride into the country, showing that all these thoughts came while he was gazing. The last line ties his own loneliness to the country's decline, and the sigh is deep."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "war",
+   "homesick",
+   "brothers",
+   "old-age",
+   "country"
+  ]
+ },
+ "uncertain": []
+}

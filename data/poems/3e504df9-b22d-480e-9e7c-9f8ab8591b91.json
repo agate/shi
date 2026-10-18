@@ -1,0 +1,376 @@
+{
+ "id": "3e504df9-b22d-480e-9e7c-9f8ab8591b91",
+ "kind": "shi",
+ "title": "宿业师山房期丁大不至",
+ "title_en": "Staying at Master Ye's Mountain Lodge, Waiting for Ding the Elder Who Does Not Come",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "岭",
+    "lǐng"
+   ]
+  ],
+  [
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "壑",
+    "hè"
+   ],
+   [
+    "倏",
+    "shū"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "暝",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "凉",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "泉",
+    "quán"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "听",
+    "tīng"
+   ]
+  ],
+  [
+   [
+    "樵",
+    "qiáo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "定",
+    "dìng"
+   ]
+  ],
+  [
+   [
+    "之",
+    "zhī"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "萝",
+    "luó"
+   ],
+   [
+    "径",
+    "jìng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文末句作“萝迳”，“迳”同“径”，通行本写作“萝径”。题目也有版本写作“宿业师山房待丁大不至”，意思一样。",
+  "en": "The corpus writes the last character of the poem in a variant form; common editions use the standard form for jìng (path). Some editions write the title with dài (wait) instead of qī (expect); the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "听",
+   "pinyin": "tīng",
+   "zh": "“清听”的“听”是名词，指听到的声音，现在读 tīng。古代这里读去声，和“暝、定、径”押韵。",
+   "en": "Here tīng is a noun, the sounds one hears. Today it is read tīng. In old times it was read in the falling tone and rhymed with the other line endings."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "度：越过。",
+   "en": "dù: to pass over."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "群壑：许多山谷。",
+   "en": "qún hè: the many valleys."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "倏：很快，一下子。",
+   "en": "shū: suddenly, in a moment."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "暝：天黑，昏暗。",
+   "en": "míng: dark, dusk."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "风泉：风声和泉水声。",
+   "en": "fēng quán: the sound of wind and of springs."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "清听：清亮悦耳的声音。",
+   "en": "qīng tīng: clear, pleasant sounds."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "樵人：上山砍柴的人。",
+   "en": "qiáo rén: woodcutters."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "欲尽：快要走光了。",
+   "en": "yù jìn: almost all gone."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "烟鸟：在暮色雾气里的鸟。",
+   "en": "yān niǎo: birds in the evening mist."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "栖初定：刚刚在树上歇定。",
+   "en": "qī chū dìng: have just settled on their branches."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "之子：这个人，指丁大。",
+   "en": "zhī zǐ: this person, meaning Ding the Elder."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "期宿来：约好来这里过夜。期，约定。",
+   "en": "qī sù lái: promised to come and stay the night. Qī means to agree on a time."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "孤琴：独自抱着琴。",
+   "en": "gū qín: alone with a zither."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "候：等候。",
+   "en": "hòu: to wait."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "萝径：长满藤萝的小路。",
+   "en": "luó jìng: a path overgrown with vines."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夕阳越过了西边的山岭，",
+   "en": "The setting sun slips over the western ridge,"
+  },
+  {
+   "zh": "许多山谷一下子都暗了下来。",
+   "en": "and all the valleys turn dark at once."
+  },
+  {
+   "zh": "松林间升起月亮，夜里透出凉意，",
+   "en": "The moon rises among the pines, and the night grows cool."
+  },
+  {
+   "zh": "风声和泉水声，清清地灌满耳朵。",
+   "en": "The sounds of wind and springs fill my ears, clear and pure."
+  },
+  {
+   "zh": "砍柴的人差不多都回家了，",
+   "en": "The woodcutters have almost all gone home."
+  },
+  {
+   "zh": "雾气里的鸟儿也刚刚在树上歇定。",
+   "en": "The birds in the mist have just settled for the night."
+  },
+  {
+   "zh": "那个人约好今晚来这里住，",
+   "en": "My friend promised to come and stay tonight,"
+  },
+  {
+   "zh": "我独自抱着琴，在藤萝小路边等他。",
+   "en": "so I wait alone with my zither by the vine-covered path."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然在山里一位僧人的住处借宿，和朋友丁大约好晚上一起住在这里。业师是这位僧人，“业”是他的法号（出家人的名字）。丁大是丁家排行老大的人，一说名叫丁凤，是孟浩然的好朋友。到了晚上朋友没有来，诗人就写下了这首等人的诗。具体写作年份不详。",
+  "en": "Meng Haoran stayed at a monk's lodge in the mountains and had arranged for his friend Ding the Elder to spend the night there too. Master Ye was the monk; Ye was his religious name. Ding the Elder was the eldest son of the Ding family, said by some to be named Ding Feng, a good friend of the poet. Night came and the friend did not, so the poet wrote this poem about waiting. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），唐代诗人，湖北襄阳人。他大半辈子没有做官，常住在家乡的山里，爱写山水和田园，和王维齐名，合称“王孟”。他的诗语言平淡，却很有味道。",
+  "en": "Meng Haoran (689–740) was a Tang poet from Xiangyang in Hubei. For most of his life he held no office and lived in the hills near home. He loved writing about mountains, rivers and farm life, and is often named together with Wang Wei. His words are plain, yet full of flavor."
+ },
+ "appreciation": {
+  "zh": "这首诗像一段慢慢变暗的电影。太阳落山，山谷一下变黑；月亮从松树后面升起，凉风吹来；耳朵里全是风声和泉水声。砍柴的人回家了，鸟也睡了，整座山安静下来。前六句越写越静，最后才出现诗人自己：他抱着琴，站在长满藤萝的小路口，等一个还没来的朋友。诗里没有一句抱怨，可那份盼望和淡淡的失落，都藏在这幅安静的画里。",
+  "en": "This poem is like a film that slowly gets darker. The sun sets and the valleys go black. The moon rises behind the pines and a cool breeze comes. The ears fill with wind and running springs. The woodcutters go home, the birds go to sleep, and the whole mountain falls quiet. The first six lines get quieter and quieter. Only at the end do we see the poet himself: holding his zither at the mouth of a vine-covered path, waiting for a friend who has not come. He never complains, but his hope and his gentle disappointment are hidden inside this still picture."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountain",
+   "night",
+   "friendship",
+   "waiting",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,218 @@
+{
+ "id": "7f3799de-78b4-49bc-b6d8-a5fa3ecacd33",
+ "kind": "shi",
+ "title": "听筝",
+ "title_en": "Listening to the Zheng",
+ "author": "李端",
+ "author_en": "Li Duan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "粟",
+    "sù"
+   ],
+   [
+    "柱",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "房",
+    "fáng"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "周",
+    "zhōu"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "顾",
+    "gù"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "拂",
+    "fú"
+   ],
+   [
+    "弦",
+    "xián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "鸣筝：弹响古筝。筝是一种弹拨乐器，有很多根弦，每根弦下面有一个可以移动的小柱子。",
+   "en": "míng zhēng: playing the zheng so it sounds. The zheng is a plucked instrument with many strings; under each string is a small movable bridge."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "金粟柱：用金色的小点装饰的弦柱。金粟，像小米粒一样的金色花纹。柱，筝上架弦的小柱子。",
+   "en": "jīn sù zhù: bridges decorated with gold dots. Jīn sù means gold patterns like tiny grains of millet; zhù are the small bridges that hold up the strings."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "素手：白净的手，指弹筝女子的手。",
+   "en": "sù shǒu: fair white hands, the hands of the woman playing."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "玉房：华美的房间。一说指筝上安放弦枕的部位。",
+   "en": "yù fáng: a fine, elegant room. Another reading says it is a part of the zheng that holds the strings."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "欲得：想要得到。",
+   "en": "yù dé: wanting to get."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "周郎：三国时吴国的周瑜。他很懂音乐，听别人演奏时，只要弹错一点，他就会回头看一眼。当时有句话说“曲有误，周郎顾”。这里借指弹筝女子想吸引的那个人。",
+   "en": "zhōu láng: Zhou Yu of the state of Wu in the Three Kingdoms period. He knew music so well that if a player made even a small mistake, he would turn to look. People said, \"If the tune goes wrong, Master Zhou looks round.\" Here it stands for the man the player wants to notice her."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "顾：回头看。",
+   "en": "gù: to turn and look."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "误：错，故意弄错。",
+   "en": "wù: wrongly, here making a mistake on purpose."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "拂弦：拨弦，弹弦。",
+   "en": "fú xián: to pluck the strings."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "装饰着金色小点的弦柱上，古筝声声响起，",
+   "en": "The zheng rings out over its gold-flecked bridges,"
+  },
+  {
+   "zh": "一双白净的手在华美的房间里弹奏。",
+   "en": "played by fair white hands in a fine room."
+  },
+  {
+   "zh": "她想让心上的“周郎”回头看她一眼，",
+   "en": "Wanting her own \"Master Zhou\" to turn and look at her,"
+  },
+  {
+   "zh": "就时不时故意弹错几个音。",
+   "en": "every now and then she plucks a wrong note on purpose."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写一位弹筝的女子。诗里用了三国时周瑜的故事：周瑜精通音乐，别人弹错了他一定会回头看。弹筝的女子正是利用这一点，故意弹错，好让她在意的人看自己一眼。有的版本题目作《鸣筝》。这首诗的写作时间和具体场合不清楚。",
+  "en": "This poem is about a woman playing the zheng. It uses a story about Zhou Yu from the Three Kingdoms period: Zhou Yu knew music so well that whenever someone played a wrong note, he would turn to look. The woman uses this trick and plays wrong notes on purpose, so that the person she cares about will look at her. Some versions call the poem \"The Ringing Zheng\". We do not know when or for what occasion it was written."
+ },
+ "author_note": {
+  "zh": "李端（生卒年说法不一，约生活在唐代宗、德宗年间），字正已，赵州（今河北一带）人，唐代诗人，是“大历十才子”之一。“大历十才子”是唐代大历年间十位有名的诗人。他的诗多写日常生活和朋友间的往来，这首《听筝》写得小巧、有趣，是他最有名的作品。",
+  "en": "Li Duan, also called Zhengji, was a Tang poet from Zhaozhou, in today's Hebei. Sources disagree on his dates; he lived in the second half of the eighth century. He was one of the \"Ten Talents of the Dali Era\", ten well-known poets of that period. His poems mostly describe daily life and time with friends. This small, playful poem is his best-known work."
+ },
+ "appreciation": {
+  "zh": "前两句像在画画：金光闪闪的弦柱，白白的手，漂亮的房间，一切都很精致。后两句才是最妙的地方。弹得好不一定有人注意，弹错了，懂音乐的人反而会回头。于是这位女子“时时误拂弦”，一次又一次故意弹错。这是一个小小的心机，又可爱又有点俏皮。诗人没有直接说她喜欢谁，只写了她弹错音，我们就能猜到她的心思。用周郎的典故，让这份小心思显得更有趣、更有味道。",
+  "en": "The first two lines paint a picture: shining gold bridges, fair white hands, a lovely room. Everything is delicate. The best part comes in the last two lines. If you play well, no one may notice you. If you play a wrong note, the person who knows music will turn around. So she \"every now and then plucks a wrong note\", again and again, on purpose. It is a small, sweet trick, charming and a bit cheeky. The poet never says whom she likes. He only tells us she plays wrong notes, and we can guess what is in her heart. The story of Zhou Yu makes her little plan even more fun to think about."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "music",
+   "zheng",
+   "love",
+   "allusion",
+   "playful"
+  ]
+ },
+ "uncertain": []
+}

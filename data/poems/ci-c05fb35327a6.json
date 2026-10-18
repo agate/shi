@@ -1,0 +1,367 @@
+{
+ "id": "ci-c05fb35327a6",
+ "kind": "ci",
+ "title": "点绛唇·蹴罢秋千",
+ "title_en": "Dian Jiang Chun: Done with the Swing",
+ "author": "无名氏",
+ "author_en": "Anonymous",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "蹴",
+    "cù"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ]
+  ],
+  [
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "慵",
+    "yōng"
+   ],
+   [
+    "整",
+    "zhěng"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ]
+  ],
+  [
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "汗",
+    "hàn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "透",
+    "tòu"
+   ]
+  ],
+  [
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "袜",
+    "wà"
+   ],
+   [
+    "刬",
+    "chǎn"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "溜",
+    "liū"
+   ]
+  ],
+  [
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "走",
+    "zǒu"
+   ]
+  ],
+  [
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "嗅",
+    "xiù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄汗”的“薄”读 bó，指一层细细的汗。口语里说“很薄”时读 báo。",
+   "en": "In bó hàn (a light sweat) the character is read bó. In everyday speech, meaning thin, it is often read báo."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "刬",
+   "pinyin": "chǎn",
+   "zh": "读 chǎn。“袜刬”是只穿着袜子走路，没穿鞋。",
+   "en": "Read chǎn. Wà chǎn means walking in socks only, without shoes."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "蹴：踩，蹬。这里指荡秋千时用脚蹬。",
+   "en": "cù: to kick or push off with the foot, as when swinging."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "罢：完了，结束。",
+   "en": "bà: finished, done."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "慵整：懒懒地整理。慵，懒洋洋的。",
+   "en": "yōng zhěng: to tidy lazily. Yōng means lazy, languid."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "纤纤手：又细又嫩的手。",
+   "en": "xiān xiān shǒu: slender, delicate hands."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "露浓花瘦：露水很重，花儿显得又小又细。",
+   "en": "lù nóng huā shòu: the dew is heavy and the flowers look thin and small."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "薄汗轻衣透：细细的汗把薄薄的衣服都湿透了。",
+   "en": "bó hàn qīng yī tòu: a light sweat soaks through her thin clothes."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "袜刬：只穿着袜子走，鞋都来不及穿。",
+   "en": "wà chǎn: walking in socks only, with no time to put on shoes."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "金钗溜：头上的金钗滑落下来。金钗，女子插在头发上的首饰。",
+   "en": "jīn chāi liū: her gold hairpin slips out. A hairpin is an ornament women wore in their hair."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "和羞走：带着害羞跑开。和，带着。",
+   "en": "hé xiū zǒu: she runs off, full of shyness. Hé here means with."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "倚门回首：靠着门回过头来看。",
+   "en": "yǐ mén huí shǒu: leaning on the door, she turns her head to look back."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 5,
+   "zh": "却把青梅嗅：却假装去闻青梅。青梅，还没熟的梅子。",
+   "en": "què bǎ qīng méi xiù: but she pretends to sniff a green plum. A green plum is an unripe plum."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "荡完了秋千，",
+   "en": "Done with the swing,"
+  },
+  {
+   "zh": "她起身，懒懒地揉一揉细嫩的手。",
+   "en": "she gets up and lazily rubs her slender hands."
+  },
+  {
+   "zh": "园子里露水很重，花儿细细瘦瘦的。",
+   "en": "In the garden the dew is heavy and the flowers look thin."
+  },
+  {
+   "zh": "细细的汗水湿透了薄薄的衣裳。",
+   "en": "A light sweat has soaked through her thin clothes."
+  },
+  {
+   "zh": "忽然看见有客人进来，",
+   "en": "Suddenly she sees a guest come in."
+  },
+  {
+   "zh": "她来不及穿鞋，只穿着袜子就跑，头上的金钗也滑落了。",
+   "en": "She runs in her socks, with no time for shoes, and her gold hairpin slips out."
+  },
+  {
+   "zh": "她又害羞又着急地跑开。",
+   "en": "Shy and flustered, she hurries away."
+  },
+  {
+   "zh": "跑到门边，又靠着门回过头来，",
+   "en": "At the door she leans on it and turns to look back,"
+  },
+  {
+   "zh": "却装作在闻青梅的香味。",
+   "en": "pretending to sniff a green plum."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是一个少女在春末夏初的园子里荡秋千，忽然有客人来了的一个小片段。作者是谁有争议：有的书说是李清照写的，有的说是无名氏，也有人说是苏轼或周邦彦写的。现在很多人把它当作李清照少女时期的作品来读，但这一点并不能确定。",
+  "en": "This poem shows one small moment: a young girl in a garden at the end of spring has just finished swinging when a guest suddenly arrives. Who wrote it is debated. Some books say Li Qingzhao, some say the author is unknown, and others name Su Shi or Zhou Bangyan. Today many people read it as a work of the young Li Qingzhao, but this cannot be proven."
+ },
+ "author_note": {
+  "zh": "作者不详。最常见的说法是李清照（1084—约1155），号易安居士，济南章丘人，宋代最有名的女词人。她少女时期的词活泼、明快，写的多是闺中生活，这首词的风格和她早期的作品很像，所以很多人认为是她写的。",
+  "en": "The author is unknown. The most common view is Li Qingzhao (1084–about 1155), from Zhangqiu near Jinan, the most famous woman writer of song lyrics in the Song dynasty. The lyrics of her girlhood are lively and bright, mostly about life at home. This poem feels much like her early work, so many people think she wrote it."
+ },
+ "appreciation": {
+  "zh": "这首词像一段小电影。上阕是安静的画面：少女刚荡完秋千，懒懒地揉着手，身上出了一层细汗。“露浓花瘦”写园子里的花，也映衬出少女的娇嫩。下阕画面忽然动起来：有客人来了！她慌得鞋都没穿，金钗也掉了，红着脸跑开。可是跑到门口，她又忍不住回头看，还假装在闻青梅，好掩饰自己的好奇。害羞、慌张、好奇，几个小动作就把一个少女的心思写活了。",
+  "en": "This poem is like a short film. The first half is a quiet picture: the girl has just finished swinging, lazily rubs her hands, and has a light sweat on her skin. The heavy dew and thin flowers describe the garden, and also set off how young and tender she is. In the second half the picture suddenly moves: a guest is coming! She is so flustered that she runs off in her socks, and her gold hairpin falls out. Red in the face, she hurries away. But at the door she cannot help looking back, and she pretends to sniff a green plum to hide her curiosity. Shy, flustered and curious: a few small actions bring the girl's feelings to life."
+ },
+ "famous_lines": [
+  6,
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "girlhood",
+   "swing",
+   "shyness",
+   "garden"
+  ]
+ },
+ "uncertain": []
+}

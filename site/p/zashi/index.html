@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>杂诗 · 无名氏 — 诗</title>
+    <meta name="description" content="杂诗 · 无名氏 — Miscellaneous Poem by Anonymous: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · seven-character quatrain</span><span lang="zh">唐诗 · 七言绝句</span></p>
+        <h1>杂诗</h1>
+        <p class="by">无名氏<span class="mono"><span lang="en">Anonymous · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Miscellaneous Poem</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>jìn</i><b>近</b></span><span class="c gl" data-l="0" data-p="1"><i>hán</i><b>寒</b></span><span class="c gl" data-l="0" data-p="2"><i>shí</i><b>食</b></span><span class="c" data-l="0" data-p="3"><i>yǔ</i><b>雨</b></span><span class="c" data-l="0" data-p="4"><i>cǎo</i><b>草</b></span><span class="c gl" data-l="0" data-p="5"><i>qī</i><b>萋</b></span><span class="c gl" data-l="0" data-p="6"><i>qī</i><b>萋</b></span></p><p class="ln"><span class="c gl rd" data-l="1" data-p="0"><i>zhuó</i><b>著</b></span><span class="c" data-l="1" data-p="1"><i>mài</i><b>麦</b></span><span class="c" data-l="1" data-p="2"><i>miáo</i><b>苗</b></span><span class="c" data-l="1" data-p="3"><i>fēng</i><b>风</b></span><span class="c" data-l="1" data-p="4"><i>liǔ</i><b>柳</b></span><span class="c gl" data-l="1" data-p="5"><i>yìng</i><b>映</b></span><span class="c gl" data-l="1" data-p="6"><i>dī</i><b>堤</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>děng</i><b>等</b></span><span class="c gl" data-l="2" data-p="1"><i>shì</i><b>是</b></span><span class="c" data-l="2" data-p="2"><i>yǒu</i><b>有</b></span><span class="c" data-l="2" data-p="3"><i>jiā</i><b>家</b></span><span class="c gl" data-l="2" data-p="4"><i>guī</i><b>归</b></span><span class="c gl" data-l="2" data-p="5"><i>wèi</i><b>未</b></span><span class="c gl" data-l="2" data-p="6"><i>dé</i><b>得</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>dù</i><b>杜</b></span><span class="c gl" data-l="3" data-p="1"><i>juān</i><b>鹃</b></span><span class="c gl" data-l="3" data-p="2"><i>xiū</i><b>休</b></span><span class="c" data-l="3" data-p="3"><i>xiàng</i><b>向</b></span><span class="c" data-l="3" data-p="4"><i>ěr</i><b>耳</b></span><span class="c" data-l="3" data-p="5"><i>biān</i><b>边</b></span><span class="c" data-l="3" data-p="6"><i>tí</i><b>啼</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">In the corpus the third line begins with &quot;already&quot; (zǎo shì). Common editions such as Three Hundred Tang Poems have &quot;just the same&quot; (děng shì), which is used here. The corpus lists it as number thirteen of a set; common editions title it simply &quot;Miscellaneous Poem&quot;.</p><p lang="zh">资料库原文第三句作“早是有家归未得”。《唐诗三百首》等通行本作“等是有家归未得”，这里用通行本。资料库题目是《杂诗》第十三首，通行本只题《杂诗》。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">近寒食雨草萋萋</span><span lang="en">The Cold Food Festival is near; spring rain falls and the grass grows thick.</span><span lang="zh">快到寒食节了，春雨下着，青草长得很茂盛；</span></li><li><span class="o">著麦苗风柳映堤</span><span lang="en">The breeze brushes the young wheat, and willows are mirrored along the dike.</span><span lang="zh">春风拂过麦苗，柳树的影子映在河堤上。</span></li><li><span class="o">等是有家归未得</span><span lang="en">Like everyone, I have a home, yet I cannot go back;</span><span lang="zh">我和别人一样有家，却回不去，</span></li><li><span class="o">杜鹃休向耳边啼</span><span lang="en">cuckoo, do not cry beside my ear.</span><span lang="zh">杜鹃啊，不要再在我耳边叫了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>寒食<span class="mono">hán shí</span></dt><dd><span lang="en">hán shí: the Cold Food Festival, a day or two before Qingming. In old times people lit no fires then and ate only cold food.</span><span lang="zh">寒食：寒食节，在清明节前一两天。古时这几天不生火做饭，只吃冷的食物。</span></dd></div><div><dt>萋萋<span class="mono">qī qī</span></dt><dd><span lang="en">qī qī: thick and lush, said of grass.</span><span lang="zh">萋萋：草长得很茂盛的样子。</span></dd></div><div><dt>著<span class="mono">zhuó</span></dt><dd><span lang="en">zhuó: to brush against, to touch.</span><span lang="zh">著：吹到，拂着。</span></dd></div><div><dt>映堤<span class="mono">yìng dī</span></dt><dd><span lang="en">yìng dī: the willows are mirrored along the dike. A dī is an earth bank built beside a river.</span><span lang="zh">映堤：柳树的影子映在河堤上。堤，河边挡水的土坝。</span></dd></div><div><dt>等是<span class="mono">děng shì</span></dt><dd><span lang="en">děng shì: just the same, equally.</span><span lang="zh">等是：同样是。</span></dd></div><div><dt>归未得<span class="mono">guī wèi dé</span></dt><dd><span lang="en">guī wèi dé: wanting to go home but unable to.</span><span lang="zh">归未得：想回去却回不去。</span></dd></div><div><dt>杜鹃<span class="mono">dù juān</span></dt><dd><span lang="en">dù juān: the cuckoo. Its call was heard as &quot;better go home&quot;, so it often made people homesick.</span><span lang="zh">杜鹃：一种鸟。它的叫声听起来像“不如归去”，所以常常引起人想家。</span></dd></div><div><dt>休<span class="mono">xiū</span></dt><dd><span lang="en">xiū: do not.</span><span lang="zh">休：不要。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>著<span class="mono">zhuó</span></dt><dd><span lang="en">Here the character is read zhuó, meaning to touch or brush against.</span><span lang="zh">著：读 zhuó，意思是附着、吹拂到。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem was written by an unknown person of the Tang dynasty and is included in Three Hundred Tang Poems. It is set around the Cold Food Festival, when spring rain falls and the grass and wheat are green. By custom, people went home at Cold Food and Qingming to sweep their family graves and be with their families. The poet is far away and cannot go home, so he misses it all the more. We do not know when or where it was written.</p><p lang="zh">这首诗是唐代一位不知名的人写的，收在《唐诗三百首》里。诗写的是寒食节前后，正是春雨绵绵、草绿麦青的时候。按照风俗，寒食和清明要回家扫墓、和家人团聚，可诗人漂泊在外，回不了家，所以格外想家。具体写于什么时候、在什么地方，都不清楚。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">&quot;Anonymous&quot; means we do not know the writer&#x27;s name. Many Tang poems are like this: the author&#x27;s name was lost long ago, but the poem was good enough to be passed down. This one shows the feelings of an ordinary traveller far from home, so whoever wrote it, it still feels close to us.</p><p lang="zh">“无名氏”就是不知道名字的作者。唐代留下了很多这样的诗，作者的名字早就找不到了，诗却因为写得好，一直流传下来。这首诗写的是普通游子的心情，所以不管是谁写的，读起来都很亲切。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines paint spring: fine rain, green grass, young wheat, willows and the river dike, full of life. But the poet cannot enjoy this lovely scene. The Cold Food Festival is near, and others are going home to their families, but he cannot. The third line says what is in his heart: I have a home too, but I just cannot get back. The fourth line is the most moving. The cuckoo&#x27;s call seems to say &quot;better go home&quot;, which only hurts more, so he begs it to stop. Of course the bird does not care about his feelings. The line is helpless and sad at once.</p><p lang="zh">前两句是一幅春景：细雨、青草、麦苗、柳树和河堤，到处都是生机。可这么美的景色，诗人却高兴不起来，因为寒食节快到了，别人都回家团聚，他却回不去。第三句说出心里话：我也有家呀，可就是回不去。第四句最打动人。杜鹃的叫声好像在说“不如归去”，诗人听了更难受，只好请它别叫了。其实鸟儿哪里管人的心事？这一句又无奈又可怜。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/songbie-wangwei/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>送别</b></a><a href="../../p/qiantanghuchunxing/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>钱塘湖春行</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["近", "jìn"], ["寒", "hán"], ["食", "shí"], ["雨", "yǔ"], ["草", "cǎo"], ["萋", "qī"], ["萋", "qī"]], [["著", "zhuó"], ["麦", "mài"], ["苗", "miáo"], ["风", "fēng"], ["柳", "liǔ"], ["映", "yìng"], ["堤", "dī"]], [["等", "děng"], ["是", "shì"], ["有", "yǒu"], ["家", "jiā"], ["归", "guī"], ["未", "wèi"], ["得", "dé"]], [["杜", "dù"], ["鹃", "juān"], ["休", "xiū"], ["向", "xiàng"], ["耳", "ěr"], ["边", "biān"], ["啼", "tí"]]], "glosses": [{"line": 0, "start": 1, "end": 3, "zh": "寒食：寒食节，在清明节前一两天。古时这几天不生火做饭，只吃冷的食物。", "en": "hán shí: the Cold Food Festival, a day or two before Qingming. In old times people lit no fires then and ate only cold food."}, {"line": 0, "start": 5, "end": 7, "zh": "萋萋：草长得很茂盛的样子。", "en": "qī qī: thick and lush, said of grass."}, {"line": 1, "start": 0, "end": 1, "zh": "著：吹到，拂着。", "en": "zhuó: to brush against, to touch."}, {"line": 1, "start": 5, "end": 7, "zh": "映堤：柳树的影子映在河堤上。堤，河边挡水的土坝。", "en": "yìng dī: the willows are mirrored along the dike. A dī is an earth bank built beside a river."}, {"line": 2, "start": 0, "end": 2, "zh": "等是：同样是。", "en": "děng shì: just the same, equally."}, {"line": 2, "start": 4, "end": 7, "zh": "归未得：想回去却回不去。", "en": "guī wèi dé: wanting to go home but unable to."}, {"line": 3, "start": 0, "end": 2, "zh": "杜鹃：一种鸟。它的叫声听起来像“不如归去”，所以常常引起人想家。", "en": "dù juān: the cuckoo. Its call was heard as \"better go home\", so it often made people homesick."}, {"line": 3, "start": 2, "end": 3, "zh": "休：不要。", "en": "xiū: do not."}], "readings": [{"line": 1, "pos": 0, "char": "著", "pinyin": "zhuó", "zh": "著：读 zhuó，意思是附着、吹拂到。", "en": "Here the character is read zhuó, meaning to touch or brush against."}], "speak": ["近寒食雨草萋萋", "浊麦苗风柳映堤", "等是有家归未得", "杜鹃休向耳边啼"], "speakTitle": "杂诗。无名氏。", "sample": "近寒食雨草萋萋"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,443 @@
+{
+ "id": "8b57e03d-6d1f-4a4a-ba34-1f58e2551ca1",
+ "kind": "shi",
+ "title": "遣悲怀三首·其一",
+ "title_en": "Easing My Grief, No. 1 of Three",
+ "author": "元稹",
+ "author_en": "Yuan Zhen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "公",
+    "gōng"
+   ],
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "偏",
+    "piān"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "嫁",
+    "jià"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "黔",
+    "qián"
+   ],
+   [
+    "娄",
+    "lóu"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "乖",
+    "guāi"
+   ]
+  ],
+  [
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "搜",
+    "sōu"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "箧",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "泥",
+    "nì"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "沽",
+    "gū"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "拔",
+    "bá"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "钗",
+    "chāi"
+   ]
+  ],
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "蔬",
+    "shū"
+   ],
+   [
+    "充",
+    "chōng"
+   ],
+   [
+    "膳",
+    "shàn"
+   ],
+   [
+    "甘",
+    "gān"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "藿",
+    "huò"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "添",
+    "tiān"
+   ],
+   [
+    "薪",
+    "xīn"
+   ],
+   [
+    "仰",
+    "yǎng"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "槐",
+    "huái"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "俸",
+    "fèng"
+   ],
+   [
+    "钱",
+    "qián"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "万",
+    "wàn"
+   ]
+  ],
+  [
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "营",
+    "yíng"
+   ],
+   [
+    "奠",
+    "diàn"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "营",
+    "yíng"
+   ],
+   [
+    "斋",
+    "zhāi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "泥",
+   "pinyin": "nì",
+   "zh": "这里是“软磨硬泡地缠着人、央求”的意思，读 nì，不读 ní。",
+   "en": "Here it means \"to coax, to pester sweetly\", so it is read nì, not ní (mud)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "谢公：东晋宰相谢安，他最疼爱侄女谢道韫。这里借指元稹的岳父韦夏卿。",
+   "en": "Xie gong: Lord Xie, the Eastern Jin prime minister Xie An, who doted on his niece Xie Daoyun. Here it stands for Yuan Zhen's father-in-law, Wei Xiaqing."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "偏怜女：特别疼爱的女儿。韦丛是韦夏卿最小的女儿。",
+   "en": "pian lian nü: the most beloved daughter. Wei Cong was Wei Xiaqing's youngest daughter."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "黔娄：春秋时齐国一个很穷的读书人。元稹用他来比喻自己当年的贫穷。",
+   "en": "Qian Lou: a very poor scholar of the state of Qi long ago. Yuan Zhen uses him to stand for his own poverty back then."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "百事乖：样样事情都不顺心。乖，不顺。",
+   "en": "bai shi guai: nothing went right. Guai here means going wrong."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "顾：看到。",
+   "en": "gu: seeing."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "搜画箧：翻找竹箱子。画箧，有花纹装饰的竹箱。一作“荩箧”，指草编的箱子。",
+   "en": "sou hua qie: searching through a painted bamboo chest. Some editions have a different word meaning a chest woven from grass."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "泥他：缠着她、央求她。他，这里指妻子。",
+   "en": "ni ta: coaxing her. Ta here means his wife."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "沽酒：买酒。",
+   "en": "gu jiu: to buy wine."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "拔金钗：把头上的金钗拔下来，拿去换钱。",
+   "en": "ba jin chai: she pulled the gold hairpin from her hair to trade for money."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "充膳：当作饭菜。",
+   "en": "chong shan: to serve as a meal."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "甘长藿：把豆叶当成美味吃。藿，豆类的叶子。",
+   "en": "gan chang huo: happily eating bean leaves as if they were a treat. Huo means the leaves of bean plants."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "添薪：添柴烧火。",
+   "en": "tian xin: adding firewood."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "仰古槐：靠老槐树落下的叶子当柴烧。仰，依靠。",
+   "en": "yang gu huai: relying on the fallen leaves of the old locust tree for fuel. Yang means to depend on."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "俸钱：做官领的工资。",
+   "en": "feng qian: an official's salary."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "营奠：置办祭品祭奠。",
+   "en": "ying dian: prepare offerings for the dead."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "营斋：请和尚做法事，为死者祈福。",
+   "en": "ying zhai: arrange a Buddhist service, with monks praying for the dead."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你是岳父最小、最疼爱的女儿，",
+   "en": "You were your father's youngest and most beloved daughter,"
+  },
+  {
+   "zh": "嫁给我这个穷书生，事事都不顺心。",
+   "en": "yet you married a poor scholar like me, and nothing went right."
+  },
+  {
+   "zh": "看我没有衣服穿，你就翻箱倒柜地找，",
+   "en": "Seeing I had no clothes, you searched through your chest;"
+  },
+  {
+   "zh": "我缠着你要买酒，你就拔下头上的金钗。",
+   "en": "when I begged for wine, you pulled the gold pin from your hair."
+  },
+  {
+   "zh": "你把野菜当饭，把豆叶当美味，",
+   "en": "You made meals of wild greens and found bean leaves sweet;"
+  },
+  {
+   "zh": "烧火的柴，全靠老槐树上落下的叶子。",
+   "en": "for firewood you counted on the leaves of the old locust tree."
+  },
+  {
+   "zh": "如今我的俸禄已经超过十万，",
+   "en": "Now my salary is over a hundred thousand,"
+  },
+  {
+   "zh": "却只能为你置办祭品、请人做法事。",
+   "en": "yet all I can do is lay out offerings and hold services for you."
+  }
+ ],
+ "background": {
+  "zh": "元稹的妻子韦丛是太子少保韦夏卿最小的女儿，二十岁时嫁给了还很贫穷的元稹。她不嫌弃丈夫穷，勤俭持家，跟着他过了好几年苦日子。唐宪宗元和四年（809年），韦丛去世，年仅二十七岁。后来元稹官做大了，生活好了，妻子却已经不在了。《遣悲怀》三首一般认为写于她去世后不久，这是第一首，回忆妻子生前的艰苦生活。",
+  "en": "Yuan Zhen's wife, Wei Cong, was the youngest daughter of the high official Wei Xiaqing. At twenty she married Yuan Zhen, who was still poor. She did not mind his poverty. She ran the home thriftily and lived through several hard years with him. In 809 she died, only twenty-seven. Later Yuan Zhen rose in office and lived well, but his wife was no longer there. The three poems of \"Easing My Grief\" are usually thought to have been written not long after her death. This first one remembers the hard life she lived."
+ },
+ "author_note": {
+  "zh": "元稹（779—831），唐代诗人，和白居易齐名，合称“元白”。他写诗语言浅显，感情真切。妻子韦丛去世后，他写了许多悼亡诗，《遣悲怀》三首是其中最有名的，被后人称为悼亡诗的经典。",
+  "en": "Yuan Zhen (779–831) was a Tang poet as famous as Bai Juyi; people name them together as Yuan and Bai. His poems use plain language and true feeling. After his wife Wei Cong died, he wrote many poems mourning her. The three poems of \"Easing My Grief\" are the best known and are seen as classics of poems for a lost wife."
+ },
+ "appreciation": {
+  "zh": "这首诗没有一句直接说“我很想你”，却句句都是思念。诗人用几件小事来写妻子：为他找衣服，拔金钗给他买酒，吃野菜和豆叶，捡槐树叶烧火。一个富家小女儿，嫁过来以后什么苦都吃，却从不抱怨。最后两句突然一转：现在钱多了，可她不在了，能做的只有祭奠。过去越穷，今天越富，这份遗憾就越让人心痛。语言像说家常话一样，平淡里藏着深深的愧疚和爱。",
+  "en": "Not one line says \"I miss you\", yet every line is full of missing her. The poet describes his wife through small things: finding clothes for him, pulling out her gold hairpin to buy him wine, eating wild greens and bean leaves, gathering locust leaves for the fire. A rich family's youngest daughter, she bore every hardship after marrying him and never complained. The last two lines turn suddenly. Now he has plenty of money, but she is gone, and all he can do is make offerings. The poorer they were then and the richer he is now, the more the regret hurts. The words sound like everyday talk, and inside their plainness lie deep guilt and love."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mourning",
+   "love",
+   "marriage",
+   "poverty"
+  ]
+ },
+ "uncertain": []
+}

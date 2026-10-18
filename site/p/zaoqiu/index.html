@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>早秋 · 许浑 — 诗</title>
+    <meta name="description" content="早秋 · 许浑 — Early Autumn by Xu Hun: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character regulated verse</span><span lang="zh">唐诗 · 五言律诗</span></p>
+        <h1>早秋</h1>
+        <p class="by">许浑<span class="mono"><span lang="en">Xu Hun · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Early Autumn</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>yáo</i><b>遥</b></span><span class="c gl" data-l="0" data-p="1"><i>yè</i><b>夜</b></span><span class="c gl" data-l="0" data-p="2"><i>fàn</i><b>泛</b></span><span class="c gl" data-l="0" data-p="3"><i>qīng</i><b>清</b></span><span class="c gl" data-l="0" data-p="4"><i>sè</i><b>瑟</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>xī</i><b>西</b></span><span class="c gl" data-l="1" data-p="1"><i>fēng</i><b>风</b></span><span class="c" data-l="1" data-p="2"><i>shēng</i><b>生</b></span><span class="c gl" data-l="1" data-p="3"><i>cuì</i><b>翠</b></span><span class="c gl" data-l="1" data-p="4"><i>luó</i><b>萝</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>cán</i><b>残</b></span><span class="c gl" data-l="2" data-p="1"><i>yíng</i><b>萤</b></span><span class="c gl" data-l="2" data-p="2"><i>qī</i><b>栖</b></span><span class="c gl" data-l="2" data-p="3"><i>yù</i><b>玉</b></span><span class="c gl" data-l="2" data-p="4"><i>lù</i><b>露</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>zǎo</i><b>早</b></span><span class="c" data-l="3" data-p="1"><i>yàn</i><b>雁</b></span><span class="c gl" data-l="3" data-p="2"><i>fú</i><b>拂</b></span><span class="c gl" data-l="3" data-p="3"><i>jīn</i><b>金</b></span><span class="c gl" data-l="3" data-p="4"><i>hé</i><b>河</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>gāo</i><b>高</b></span><span class="c" data-l="4" data-p="1"><i>shù</i><b>树</b></span><span class="c gl" data-l="4" data-p="2"><i>xiǎo</i><b>晓</b></span><span class="c gl" data-l="4" data-p="3"><i>hái</i><b>还</b></span><span class="c gl" data-l="4" data-p="4"><i>mì</i><b>密</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>yuǎn</i><b>远</b></span><span class="c" data-l="5" data-p="1"><i>shān</i><b>山</b></span><span class="c gl" data-l="5" data-p="2"><i>qíng</i><b>晴</b></span><span class="c gl" data-l="5" data-p="3"><i>gèng</i><b>更</b></span><span class="c gl" data-l="5" data-p="4"><i>duō</i><b>多</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>huái</i><b>淮</b></span><span class="c gl" data-l="6" data-p="1"><i>nán</i><b>南</b></span><span class="c gl" data-l="6" data-p="2"><i>yí</i><b>一</b></span><span class="c gl" data-l="6" data-p="3"><i>yè</i><b>叶</b></span><span class="c gl" data-l="6" data-p="4"><i>xià</i><b>下</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>zì</i><b>自</b></span><span class="c gl" data-l="7" data-p="1"><i>jué</i><b>觉</b></span><span class="c gl" data-l="7" data-p="2"><i>dòng</i><b>洞</b></span><span class="c gl" data-l="7" data-p="3"><i>tíng</i><b>庭</b></span><span class="c gl" data-l="7" data-p="4"><i>bō</i><b>波</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus gives this as the first of three poems titled &quot;Early Autumn&quot;, with the words &quot;wěi yù lù&quot;, &quot;fú yín hé&quot; and &quot;lǎo yān bō&quot;. The common text, as in Three Hundred Tang Poems, is titled simply &quot;Early Autumn&quot; and reads &quot;qī yù lù&quot;, &quot;fú jīn hé&quot; and &quot;dòng tíng bō&quot;, which are used here.</p><p lang="zh">语料是《早秋三首》的第一首，文字作“残萤委玉露，早鴈拂银河”“自觉老烟波”。《唐诗三百首》等通行本题作《早秋》，作“残萤栖玉露，早雁拂金河”“自觉洞庭波”，这里用通行本。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">遥夜泛清瑟</span><span lang="en">Through the long night, the clear notes of a se drift by.</span><span lang="zh">漫长的秋夜里，飘荡着清亮的瑟声，</span></li><li><span class="o">西风生翠萝</span><span lang="en">The west wind rises and stirs the green vines.</span><span lang="zh">西风吹起，绿色的藤萝沙沙作响。</span></li><li><span class="o">残萤栖玉露</span><span lang="en">The last few fireflies rest on dew as bright as jade.</span><span lang="zh">剩下的几只萤火虫，歇在晶莹的露水上；</span></li><li><span class="o">早雁拂金河</span><span lang="en">Early wild geese brush past the Milky Way.</span><span lang="zh">早到的大雁，从银河边上飞过。</span></li><li><span class="o">高树晓还密</span><span lang="en">At dawn the tall trees are still thick with leaves.</span><span lang="zh">清晨看去，高高的树叶子还很茂密；</span></li><li><span class="o">远山晴更多</span><span lang="en">In the clear air, more far hills come into view.</span><span lang="zh">天晴了，远处的山显得更多。</span></li><li><span class="o">淮南一叶下</span><span lang="en">When I see a single leaf fall,</span><span lang="zh">看到一片树叶落下，</span></li><li><span class="o">自觉洞庭波</span><span lang="en">I feel at once the autumn waves rising on Dongting Lake.</span><span lang="zh">我自然就感到洞庭湖上秋波已起。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>遥夜<span class="mono">yáo yè</span></dt><dd><span lang="en">yáo yè: the long night.</span><span lang="zh">遥夜：长夜。</span></dd></div><div><dt>泛清瑟<span class="mono">fàn qīng sè</span></dt><dd><span lang="en">fàn qīng sè: the clear sound of a se drifts through the air. The se is an old stringed instrument, a bit like a zither.</span><span lang="zh">泛清瑟：飘荡着清亮的瑟声。瑟是一种古代的弦乐器，有点像古筝。</span></dd></div><div><dt>西风<span class="mono">xī fēng</span></dt><dd><span lang="en">xī fēng: the west wind, the autumn wind.</span><span lang="zh">西风：秋风。</span></dd></div><div><dt>翠萝<span class="mono">cuì luó</span></dt><dd><span lang="en">cuì luó: green climbing vines.</span><span lang="zh">翠萝：绿色的藤萝。</span></dd></div><div><dt>残萤<span class="mono">cán yíng</span></dt><dd><span lang="en">cán yíng: the few fireflies left in autumn.</span><span lang="zh">残萤：秋天剩下不多的萤火虫。</span></dd></div><div><dt>栖<span class="mono">qī</span></dt><dd><span lang="en">qī: to rest on, to perch.</span><span lang="zh">栖：停留，歇在上面。</span></dd></div><div><dt>玉露<span class="mono">yù lù</span></dt><dd><span lang="en">yù lù: dew as clear and bright as jade.</span><span lang="zh">玉露：像玉一样晶莹的露水。</span></dd></div><div><dt>拂<span class="mono">fú</span></dt><dd><span lang="en">fú: to brush lightly past.</span><span lang="zh">拂：轻轻擦过。</span></dd></div><div><dt>金河<span class="mono">jīn hé</span></dt><dd><span lang="en">jīn hé: the Milky Way. People long ago linked autumn with metal, so the autumn Milky Way was called the Metal River.</span><span lang="zh">金河：银河。古人认为秋天属金，所以秋天的银河叫金河。</span></dd></div><div><dt>晓还密<span class="mono">xiǎo hái mì</span></dt><dd><span lang="en">xiǎo hái mì: at dawn the leaves still look thick. Hái means still.</span><span lang="zh">晓还密：清晨看去，树叶还很茂密。还，仍然。</span></dd></div><div><dt>晴更多<span class="mono">qíng gèng duō</span></dt><dd><span lang="en">qíng gèng duō: in the clear weather, more distant hills come into view.</span><span lang="zh">晴更多：天晴了，远处的山显得更多、更清楚。</span></dd></div><div><dt>淮南一叶下<span class="mono">huái nán yí yè xià</span></dt><dd><span lang="en">huái nán yī yè xià: the old book Huainanzi says that when you see one leaf fall, you know the year is drawing to a close. Here one falling leaf tells the poet autumn has come.</span><span lang="zh">淮南一叶下：《淮南子》里说，看到一片叶子落下，就知道一年快要过完了。这里说看到一片落叶就感到秋天来了。</span></dd></div><div><dt>自觉<span class="mono">zì jué</span></dt><dd><span lang="en">zì jué: to feel it at once, of itself.</span><span lang="zh">自觉：自然就感觉到。</span></dd></div><div><dt>洞庭波<span class="mono">dòng tíng bō</span></dt><dd><span lang="en">dòng tíng bō: the autumn waves on Dongting Lake. Qu Yuan&#x27;s poem &quot;The Lady of the Xiang&quot; pictures the autumn wind raising waves on Dongting Lake as leaves fall.</span><span lang="zh">洞庭波：洞庭湖上的秋波。屈原《湘夫人》里有“洞庭波兮木叶下”，写秋风吹起湖波、树叶飘落。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem shows the sights and feelings of early autumn. It begins with the sound of a se and the west wind on a long night, moves to the tall trees and distant hills the next morning, and ends with a single falling leaf that tells the poet autumn has truly come. It borrows from two old books: the Huainanzi and Qu Yuan&#x27;s poem &quot;The Lady of the Xiang&quot;. When and where it was written is no longer known.</p><p lang="zh">这首诗写初秋的景色和感受。诗人从长夜里的瑟声和西风写起，一直写到第二天清晨的高树和远山，最后从一片落叶感到秋天真的来了。诗里用了两个古书里的典故，一个来自《淮南子》，一个来自屈原的《湘夫人》。这首诗具体写于何时、何地，已经不清楚了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Xu Hun (about 791 to about 858) was a late Tang poet who served as a county magistrate and a prefect. He was best at regulated verse and loved to write about water, rain and the colors of hills. People joked that a thousand poems by Xu Hun are all wet. His collection is called the Dingmao Collection.</p><p lang="zh">许浑（约791—约858），晚唐诗人，做过县令、刺史等官。他最擅长写律诗，诗里特别喜欢写水、雨和山色，有“许浑千首湿”的说法，意思是他的诗总是湿漉漉的。他有一个诗集叫《丁卯集》。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem feels like searching for autumn bit by bit. At night the poet first hears it: the cool notes of a se, and the west wind in the vines. Then he sees it: only a few fireflies are left, resting on the dew, and wild geese are already crossing the sky. In the morning the trees are still thick with leaves, as if summer has not left. But the sky is high and clear, and hill after hill appears in the distance. At last a single leaf falls, and he knows at once that autumn is here. He remembers Qu Yuan&#x27;s autumn waves on Dongting Lake, and a gentle autumn mood rises in his heart. The poem never cries out in sadness. It uses sounds, light and a falling leaf to let you feel the season turning.</p><p lang="zh">这首诗像是在一点一点地寻找秋天。夜里，先是听到：清冷的瑟声，西风吹动藤萝。再是看到：萤火虫只剩几只，停在露水上；大雁已经从天上飞过。到了早晨，树叶还很密，好像夏天还没走；可天变得又高又晴，远山一座座都露了出来。最后，一片叶子落下，诗人一下子明白：秋天真的来了。他想起屈原写的洞庭湖秋波，心里也泛起了淡淡的秋思。诗里没有大声说悲伤，只是用声音、光亮和落叶，让人慢慢感到季节在变。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/wanqing/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>晚晴</b></a><a href="../../p/qingming/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>清明</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["遥", "yáo"], ["夜", "yè"], ["泛", "fàn"], ["清", "qīng"], ["瑟", "sè"]], [["西", "xī"], ["风", "fēng"], ["生", "shēng"], ["翠", "cuì"], ["萝", "luó"]], [["残", "cán"], ["萤", "yíng"], ["栖", "qī"], ["玉", "yù"], ["露", "lù"]], [["早", "zǎo"], ["雁", "yàn"], ["拂", "fú"], ["金", "jīn"], ["河", "hé"]], [["高", "gāo"], ["树", "shù"], ["晓", "xiǎo"], ["还", "hái"], ["密", "mì"]], [["远", "yuǎn"], ["山", "shān"], ["晴", "qíng"], ["更", "gèng"], ["多", "duō"]], [["淮", "huái"], ["南", "nán"], ["一", "yí"], ["叶", "yè"], ["下", "xià"]], [["自", "zì"], ["觉", "jué"], ["洞", "dòng"], ["庭", "tíng"], ["波", "bō"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "遥夜：长夜。", "en": "yáo yè: the long night."}, {"line": 0, "start": 2, "end": 5, "zh": "泛清瑟：飘荡着清亮的瑟声。瑟是一种古代的弦乐器，有点像古筝。", "en": "fàn qīng sè: the clear sound of a se drifts through the air. The se is an old stringed instrument, a bit like a zither."}, {"line": 1, "start": 0, "end": 2, "zh": "西风：秋风。", "en": "xī fēng: the west wind, the autumn wind."}, {"line": 1, "start": 3, "end": 5, "zh": "翠萝：绿色的藤萝。", "en": "cuì luó: green climbing vines."}, {"line": 2, "start": 0, "end": 2, "zh": "残萤：秋天剩下不多的萤火虫。", "en": "cán yíng: the few fireflies left in autumn."}, {"line": 2, "start": 2, "end": 3, "zh": "栖：停留，歇在上面。", "en": "qī: to rest on, to perch."}, {"line": 2, "start": 3, "end": 5, "zh": "玉露：像玉一样晶莹的露水。", "en": "yù lù: dew as clear and bright as jade."}, {"line": 3, "start": 2, "end": 3, "zh": "拂：轻轻擦过。", "en": "fú: to brush lightly past."}, {"line": 3, "start": 3, "end": 5, "zh": "金河：银河。古人认为秋天属金，所以秋天的银河叫金河。", "en": "jīn hé: the Milky Way. People long ago linked autumn with metal, so the autumn Milky Way was called the Metal River."}, {"line": 4, "start": 2, "end": 5, "zh": "晓还密：清晨看去，树叶还很茂密。还，仍然。", "en": "xiǎo hái mì: at dawn the leaves still look thick. Hái means still."}, {"line": 5, "start": 2, "end": 5, "zh": "晴更多：天晴了，远处的山显得更多、更清楚。", "en": "qíng gèng duō: in the clear weather, more distant hills come into view."}, {"line": 6, "start": 0, "end": 5, "zh": "淮南一叶下：《淮南子》里说，看到一片叶子落下，就知道一年快要过完了。这里说看到一片落叶就感到秋天来了。", "en": "huái nán yī yè xià: the old book Huainanzi says that when you see one leaf fall, you know the year is drawing to a close. Here one falling leaf tells the poet autumn has come."}, {"line": 7, "start": 0, "end": 2, "zh": "自觉：自然就感觉到。", "en": "zì jué: to feel it at once, of itself."}, {"line": 7, "start": 2, "end": 5, "zh": "洞庭波：洞庭湖上的秋波。屈原《湘夫人》里有“洞庭波兮木叶下”，写秋风吹起湖波、树叶飘落。", "en": "dòng tíng bō: the autumn waves on Dongting Lake. Qu Yuan's poem \"The Lady of the Xiang\" pictures the autumn wind raising waves on Dongting Lake as leaves fall."}], "readings": [], "speak": ["遥夜泛清瑟", "西风生翠萝", "残萤栖玉露", "早雁拂金河", "高树晓还密", "远山晴更多", "淮南仪叶下", "自觉洞庭波"], "speakTitle": "早秋。许浑。", "sample": "遥夜泛清瑟"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,803 @@
+{
+ "id": "ci-7857e0e6ef18",
+ "kind": "ci",
+ "title": "疏影·寻梅不见",
+ "title_en": "To the Tune Shu Ying: Searching for Plum Blossoms in Vain",
+ "author": "彭元逊",
+ "author_en": "Peng Yuanxun",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "蘼",
+    "mí"
+   ],
+   [
+    "芜",
+    "wú"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "若",
+    "ruò"
+   ]
+  ],
+  [
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "婉",
+    "wǎn"
+   ],
+   [
+    "娩",
+    "wǎn"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "美",
+    "měi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "晏",
+    "yàn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "笛",
+    "dí"
+   ]
+  ],
+  [
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "赋",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "阔",
+    "kuò"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "违",
+    "wéi"
+   ]
+  ],
+  [
+   [
+    "交",
+    "jiāo"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "媒",
+    "méi"
+   ],
+   [
+    "劳",
+    "láo"
+   ]
+  ],
+  [
+   [
+    "蔓",
+    "màn"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "汀",
+    "tīng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "窈",
+    "yǎo"
+   ],
+   [
+    "窕",
+    "tiǎo"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "寐",
+    "mèi"
+   ]
+  ],
+  [
+   [
+    "遗",
+    "yí"
+   ],
+   [
+    "佩",
+    "pèi"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "澧",
+    "lǐ"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "逍",
+    "xiāo"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "语料库题作“解佩环·疏影”。《宋词三百首》等通行本题作《疏影·寻梅不见》，“解佩环”是“疏影”这个词牌的另一个名字。文字上，语料库“沣浦”是繁简转换的错误，应作“澧浦”（典出《楚辞·湘君》）；“遗珮”“浮沈”“馀”是旧字形，通行本作“遗佩”“浮沉”“余”。",
+  "en": "The corpus titles it \"Jie Pei Huan, Shu Ying\". Common editions such as Three Hundred Song Lyrics title it \"Shu Ying: Searching for Plum Blossoms in Vain\"; Jie Pei Huan is another name for the Shu Ying tune. In the text, the corpus has the wrong river name in line eighteen because of a slip in machine conversion; it should be the Li River from the old song \"Lord of the Xiang\". A few old character forms in the corpus are written here in their usual modern forms."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "娩",
+   "pinyin": "wǎn",
+   "zh": "“婉娩”读 wǎn wǎn，这里的“娩”不读 miǎn。",
+   "en": "In this word it is read wǎn, not miǎn."
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "这里是“全、满”的意思，读 jìn。",
+   "en": "Here it means \"all, the whole\", so it is read jìn."
+  },
+  {
+   "line": 20,
+   "pos": 3,
+   "char": "与",
+   "pinyin": "yǔ",
+   "zh": "“容与”的“与”读 yǔ，和“渡、数、暮”押韵。",
+   "en": "In this word it is read yǔ, rhyming with dù, shù and mù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "江空不渡：江面空空的，没有船，过不去。",
+   "en": "jiāng kōng bù dù: the river is empty, with no boat, so no one can cross."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "蘼芜：一种香草。",
+   "en": "mí wú: a sweet-smelling herb."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "杜若：也是一种香草。屈原的《楚辞》里常写到这些香草。",
+   "en": "dù ruò: another sweet-smelling herb. Both often appear in the old songs of Qu Yuan."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "零落：凋谢，散落。",
+   "en": "líng luò: withered and scattered."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "荒寒：荒凉寒冷。",
+   "en": "huāng hán: bleak and cold."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "婉娩：柔美的样子，这里说美好的时光悄悄流走。",
+   "en": "wǎn wǎn: soft and lovely; here it describes good years quietly slipping away."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "望望：望了又望。",
+   "en": "wàng wàng: looking and looking again."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "美人迟暮：美人渐渐老了。屈原《离骚》里有“恐美人之迟暮”。这里的“美人”既指梅花，也寄托作者心里美好的东西。",
+   "en": "měi rén chí mù: the beauty is growing old. The phrase comes from Qu Yuan's \"Li Sao\". Here the \"beauty\" is the plum blossom, and also the good things the poet holds dear."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "更何须：又哪里需要。",
+   "en": "gèng hé xū: what need is there for."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 7,
+   "zh": "落木萧萧：树叶萧萧地落下。萧萧，落叶的声音。",
+   "en": "luò mù xiāo xiāo: leaves rustling down from the trees. Xiāo xiāo is the sound of falling leaves."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "日晏：天色晚了。晏，晚。",
+   "en": "rì yàn: late in the day. Yàn means late."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "闻笛：听见笛声。古时有笛曲《梅花落》，听到笛声容易想起梅花，也容易想起老朋友。",
+   "en": "wén dí: hearing a flute. There was an old flute tune called \"Plum Blossoms Fall\", so a flute brings plum blossoms to mind, and old friends too."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "与子同赋：和你一起作诗抒怀。子，你。",
+   "en": "yǔ zǐ tóng fù: writing poems together with you. Zǐ means you."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "事阔心违：事情离心愿越来越远，心里想的都落了空。",
+   "en": "shì kuò xīn wéi: things drift far from what one hoped, and every wish comes to nothing."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "交淡媒劳：交情淡了，媒人白白辛苦。语出《楚辞·湘君》“心不同兮媒劳”，说两边心意不合，怎么牵线都没用。",
+   "en": "jiāo dàn méi láo: the friendship has cooled and the go-between's work is wasted. It echoes a line in the old song \"Lord of the Xiang\": when two hearts differ, no matchmaker can help."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 6,
+   "zh": "蔓草沾衣多露：走过爬满野草的路，露水打湿了衣服。说路途艰难。",
+   "en": "màn cǎo zhān yī duō lù: walking through creeping weeds, the dew soaks one's clothes. It shows how hard the road is."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "汀洲：水中或水边的小块平地。",
+   "en": "tīng zhōu: small flat islets in or beside the water."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "窈窕：这里是幽深曲折的样子。",
+   "en": "yǎo tiǎo: here it means deep and winding."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 7,
+   "zh": "余醒寐：一说“余”是“我”，说我在醒着和睡着之间（恍恍惚惚）；一说“余”是“剩下”。醒寐，醒和睡。",
+   "en": "yú xǐng mèi: one view takes yú as \"I\", so I am half awake and half asleep; another takes it as \"what is left\". Xǐng mèi means waking and sleeping."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "遗佩：丢下身上的玉佩。《楚辞·湘君》里有“遗余佩兮澧浦”，是把玉佩留在澧水边，表示心意。",
+   "en": "yí pèi: leaving one's jade pendant behind. In \"Lord of the Xiang\" the singer drops a pendant by the Li River to show their love."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "澧浦：澧水的水边。澧水在今天的湖南。",
+   "en": "lǐ pǔ: the bank of the Li River, in today's Hunan."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "寄语：托它带话。",
+   "en": "jì yǔ: asking it to carry a message."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "逍遥容与：自由自在，慢悠悠的样子。也出自《楚辞·湘君》“聊逍遥兮容与”。",
+   "en": "xiāo yáo róng yǔ: free and unhurried. This too comes from \"Lord of the Xiang\"."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "江面空空，没有船可以渡过去。",
+   "en": "The river is empty; there is no crossing."
+  },
+  {
+   "zh": "可恨那蘼芜和杜若这些香草，",
+   "en": "How sad that the sweet herbs, mí wú and dù ruò,"
+  },
+  {
+   "zh": "已经凋落了无数。",
+   "en": "have withered past counting."
+  },
+  {
+   "zh": "远去的路荒凉寒冷，",
+   "en": "The far road is bleak and cold,"
+  },
+  {
+   "zh": "美好的年华悄悄流走，",
+   "en": "the lovely years quietly slip by,"
+  },
+  {
+   "zh": "我望了又望，只怕美人已经老去。",
+   "en": "and I look and look, afraid the beauty is growing old."
+  },
+  {
+   "zh": "风烟雨雪，阴天晴天，从早到晚，",
+   "en": "Through wind and mist, rain and snow, cloud and sun, from morning till night,"
+  },
+  {
+   "zh": "我只要这一枝梅，哪里需要春风里千树万树的花。",
+   "en": "I want only this one plum; what need have I of a thousand trees in the spring wind?"
+  },
+  {
+   "zh": "整座孤城里，落叶萧萧，",
+   "en": "All over the lonely town, leaves rustle down,"
+  },
+  {
+   "zh": "江水的声音日日夜夜向远方流去。",
+   "en": "and day and night the sound of the river flows away."
+  },
+  {
+   "zh": "天色晚了，山很深，听见笛声，",
+   "en": "Late in the day, deep in the hills, I hear a flute,"
+  },
+  {
+   "zh": "只怕将来我们都流落天涯，",
+   "en": "and I fear that someday we will both be cast adrift,"
+  },
+  {
+   "zh": "只能和你一起作诗诉说心事。",
+   "en": "and can only write poems together about our sorrows."
+  },
+  {
+   "zh": "事情离心愿越来越远，",
+   "en": "Things have drifted far from our hopes,"
+  },
+  {
+   "zh": "交情淡了，牵线的人也白白辛苦，",
+   "en": "the friendship has cooled, and the go-between's work is wasted,"
+  },
+  {
+   "zh": "走过野草丛生的路，露水打湿了衣裳。",
+   "en": "and walking through the weeds, my clothes are soaked with dew."
+  },
+  {
+   "zh": "在幽深曲折的汀洲上，我半醒半睡，恍恍惚惚，",
+   "en": "On the deep, winding islets I drift between waking and sleep,"
+  },
+  {
+   "zh": "像古人一样把玉佩留在澧水边，任它在水里浮浮沉沉。",
+   "en": "and like the singer of old I leave my jade pendant to float and sink by the Li River."
+  },
+  {
+   "zh": "只有白鸥和淡淡的月亮，",
+   "en": "There are only white gulls and a pale moon,"
+  },
+  {
+   "zh": "托轻轻的水波带去我的话，",
+   "en": "and I ask the little waves to carry my words,"
+  },
+  {
+   "zh": "自由自在，慢悠悠地漂远。",
+   "en": "drifting away, free and unhurried."
+  }
+ ],
+ "background": {
+  "zh": "词题是“寻梅不见”，写冬天去找梅花，却怎么也找不到。彭元逊生活在南宋末年，南宋灭亡后他没有去元朝做官。很多人认为这首词借找不到的梅花，寄托对已经失去的故国和美好事物的怀念。词里用了很多屈原《楚辞》里的句子和意象，这些句子本来写的是追求而得不到的苦。具体写于哪一年，已不可考。",
+  "en": "The title says he went looking for plum blossoms in winter and could not find them. Peng Yuanxun lived at the very end of the Southern Song. After the Song fell, he did not serve the new Yuan rulers. Many readers think the missing plum blossoms stand for his lost country and the good things that were gone. The lyric borrows many lines and images from Qu Yuan's old songs, which were about longing for something one can never reach. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "彭元逊，字巽吾，庐陵（今江西吉安）人，生卒年不详。他是南宋末年的词人。宋朝灭亡后他不肯做官，是一位“遗民”，就是旧朝灭亡后仍然怀念旧朝的人。他留下的词不多，常写亡国以后的孤独和悲凉。",
+  "en": "Peng Yuanxun, also called Xunwu, came from Luling, today's Ji'an in Jiangxi. His dates of birth and death are unknown. He wrote lyrics at the end of the Southern Song. After the Song fell he refused to take office, staying loyal to the old dynasty in his heart. Only a few of his lyrics survive, and they often tell of loneliness and grief after the fall of his country."
+ },
+ "appreciation": {
+  "zh": "这首词说是找梅花，却从头到尾没见到梅花。开头江上没有船，香草都谢了，路又远又冷，好像一个人站在冬天的江边，怎么也走不过去。他说：不管刮风下雪，我只要那一枝梅，春天的千树万花都不稀罕。可是眼前只有孤城、落叶和日夜流走的江水。下阕听见笛声，想到将来和朋友一起流落；事事不如意，路上野草的露水打湿了衣服。最后他把心意交给白鸥、淡月和微波，让它们慢慢漂远。词里满是《楚辞》的影子：美人、香草、玉佩、澧水，都是“追求却得不到”的象征。读起来冷冷清清，像一幅水墨画，淡淡的，却很悲伤。",
+  "en": "This lyric is about looking for plum blossoms, yet from start to finish no blossom appears. At the opening there is no boat on the river, the sweet herbs have withered, and the road is long and cold. It is like a man standing on a winter riverbank who can never get across. He says: wind or snow, I want only that one plum; the thousand trees of spring mean nothing to me. Yet all he sees is a lonely town, falling leaves and a river flowing away day and night. In the second stanza he hears a flute and thinks of drifting through the world with his friends. Nothing goes as hoped, and the dew on the weeds soaks his clothes. At last he hands his feelings to the white gulls, the pale moon and the little waves, and lets them drift away. The lyric is full of echoes of Qu Yuan's songs: the beauty, the sweet herbs, the jade pendant, the Li River. All are signs of longing for what cannot be reached. It reads cool and quiet, like an ink painting: pale, but very sad."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "plum",
+   "loss",
+   "loyalty",
+   "river",
+   "lonely"
+  ]
+ },
+ "uncertain": []
+}

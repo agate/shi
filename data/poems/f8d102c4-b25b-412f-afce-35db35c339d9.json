@@ -1,0 +1,458 @@
+{
+ "id": "f8d102c4-b25b-412f-afce-35db35c339d9",
+ "kind": "shi",
+ "title": "宫词",
+ "title_en": "Palace Song",
+ "author": "薛逢",
+ "author_en": "Xue Feng",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "王",
+    "wáng"
+   ]
+  ],
+  [
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "衔",
+    "xián"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "兽",
+    "shòu"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "环",
+    "huán"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "滴",
+    "dī"
+   ],
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ],
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "髻",
+    "jì"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "梳",
+    "shū"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "镜",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "添",
+    "tiān"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "袍",
+    "páo"
+   ],
+   [
+    "袴",
+    "kù"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ],
+   [
+    "御",
+    "yù"
+   ],
+   [
+    "床",
+    "chuáng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "“全、都”的意思，读 jìn。",
+   "en": "Meaning all, read jìn."
+  },
+  {
+   "line": 4,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还要、仍然”的意思，读 hái；也有人理解为“又回到”，读 huán。",
+   "en": "Meaning still, again, read hái. Some take it as going back to, read huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "十二楼：传说仙人住在五城十二楼，这里指宫中很多的楼阁。",
+   "en": "shí èr lóu: legend says immortals lived in twelve towers; here it means the many halls of the palace."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "尽：全、都。",
+   "en": "jìn: all."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "晓妆：早上梳妆打扮。",
+   "en": "xiǎo zhuāng: doing one's makeup in the morning."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "望仙楼：宫中的楼名。",
+   "en": "wàng xiān lóu: the name of a tower in the palace."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "锁衔金兽：门上的锁扣在铜兽头的门环上。金兽，铜做的兽头形门饰。",
+   "en": "suǒ xián jīn shòu: the lock hangs from a bronze beast-head on the door. Jīn shòu is a door ornament shaped like a beast's head."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "连环：一个套一个的门环。",
+   "en": "lián huán: linked rings on the door."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "铜龙：铜做的龙头形计时器的出水口。古代用漏壶滴水来计时。",
+   "en": "tóng lóng: the bronze dragon-head spout of a water clock. In old times people told time by dripping water."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "昼漏长：白天的时间显得特别漫长。漏，漏壶，计时的器具。",
+   "en": "zhòu lòu cháng: the daytime feels very long. Lòu is the water clock."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "云髻：像云一样高高盘起的发髻。",
+   "en": "yún jì: hair piled high like a cloud."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "罢梳：梳好了。",
+   "en": "bà shū: finished combing."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "还对镜：还要再对着镜子照。",
+   "en": "hái duì jìng: still looking in the mirror again."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "罗衣：用丝绸做的轻软的衣服。",
+   "en": "luó yī: a light silk robe."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "更添香：又添上熏香。古人用香料熏衣服，让衣服有香味。",
+   "en": "gèng tiān xiāng: adding more incense. People of old used incense smoke to make clothes smell sweet."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "遥窥：远远地偷看。",
+   "en": "yáo kuī: to peek from far away."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "正殿：皇帝住的主殿。",
+   "en": "zhèng diàn: the main hall where the emperor stays."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "袍袴宫人：穿着长袍和裤子的宫女，是做杂事的宫女。",
+   "en": "páo kù gōng rén: palace maids in robes and trousers, who did the chores."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "御床：皇帝的床。",
+   "en": "yù chuáng: the emperor's bed."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "宫中十二座楼里，宫女们一早就都梳妆打扮好了，",
+   "en": "In all twelve towers of the palace, the ladies finish their morning makeup,"
+  },
+  {
+   "zh": "登上望仙楼，盼望君王到来。",
+   "en": "then climb the Wangxian Tower to watch for the emperor."
+  },
+  {
+   "zh": "铜兽门环上挂着锁，环环相扣，冷冰冰的；",
+   "en": "Locks hang from the bronze beast-heads, the linked rings cold."
+  },
+  {
+   "zh": "铜龙漏壶一滴一滴地滴水，白天过得太慢。",
+   "en": "Water drips from the bronze dragon clock, and the day drags on."
+  },
+  {
+   "zh": "云一样的发髻梳好了，还对着镜子照了又照；",
+   "en": "Her cloud of hair is done, yet she looks in the mirror again and again."
+  },
+  {
+   "zh": "想换一件丝绸衣服，又再熏上一些香。",
+   "en": "She wants to change her silk robe, and adds more incense to it."
+  },
+  {
+   "zh": "远远偷看正殿，帘子掀开的地方，",
+   "en": "Peeking far off at the main hall, where the curtain is drawn back,"
+  },
+  {
+   "zh": "只见穿着袍裤的宫女在打扫皇帝的床。",
+   "en": "she sees only the maids in robes and trousers sweeping the emperor's bed."
+  }
+ ],
+ "background": {
+  "zh": "“宫词”是一类诗，专写宫中的生活，特别是宫女的心事。唐代宫里有成千上万的宫女，大多数一辈子也见不到皇帝几次，只能在深宫里空等，慢慢老去。薛逢这首诗就写宫女们从早到晚盼望皇帝、却始终盼不到的一天。写作的具体时间不详。",
+  "en": "\"Palace songs\" are a kind of poem about life in the palace, especially the feelings of palace ladies. The Tang palace held thousands of women. Most of them saw the emperor only a few times in their lives, if ever. They could only wait in the deep palace and grow old. In this poem, Xue Feng shows one day of palace ladies hoping from morning to night that the emperor will come, and never seeing him. When it was written is not known."
+ },
+ "author_note": {
+  "zh": "薛逢，字陶臣，晚唐诗人，蒲州河东（今山西永济）人，唐武宗会昌年间考中进士。他很有才气，但性格高傲，说话不留情面，得罪了当权的人，所以做官一直不太顺利。生卒年不详。",
+  "en": "Xue Feng, also called Taochen, was a poet of the late Tang from Hedong in Puzhou, today's Yongji in Shanxi. He passed the imperial exam in the Huichang years of Emperor Wuzong. He was gifted but proud and outspoken, and he offended people in power, so his official career never went smoothly. His dates of birth and death are unknown."
+ },
+ "appreciation": {
+  "zh": "这首诗一个“怨”字也没有，却处处是怨。宫女们一大早就打扮好，登楼望君王，这是盼。门上的锁冷冰冰，漏壶一滴一滴，白天怎么这么长，这是等。头发梳好了还要照镜子，衣服换了还要熏香，这是怕自己不够美，也是没事可做，只好一遍遍打扮。最后她偷偷看向正殿，帘子开了，她心里一跳，可看到的只是宫女在扫皇帝的床。皇帝还是没来。结尾什么也不说，却让人感到她深深的失望。",
+  "en": "This poem never says \"grief\", yet grief is everywhere. The ladies are dressed early and climb the tower to watch for the emperor: that is hope. The locks are cold, the water clock drips, the day is so long: that is waiting. Her hair is done but she checks the mirror again; she changes her robe and adds more incense. She fears she is not pretty enough, and she also has nothing else to do, so she dresses up over and over. At last she peeks at the main hall. The curtain opens and her heart jumps, but all she sees is a maid sweeping the emperor's bed. He has still not come. The ending says nothing more, yet we feel her deep disappointment."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "waiting",
+   "loneliness",
+   "women"
+  ]
+ },
+ "uncertain": []
+}

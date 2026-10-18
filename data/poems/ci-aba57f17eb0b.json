@@ -1,0 +1,787 @@
+{
+ "id": "ci-aba57f17eb0b",
+ "kind": "ci",
+ "title": "安公子·弱柳丝千缕",
+ "title_en": "An Gongzi: A Thousand Threads of Young Willow",
+ "author": "袁去华",
+ "author_en": "Yuan Quhua",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "弱",
+    "ruò"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "嫩",
+    "nèn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "匀",
+    "yún"
+   ],
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ],
+  [
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "番",
+    "fān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zi"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ]
+  ],
+  [
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "哀",
+    "āi"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "柱",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "庾",
+    "yǔ"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "端",
+    "duān"
+   ],
+   [
+    "聚",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "傍",
+    "bàng"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "啭",
+    "zhuàn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹂",
+    "lí"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "厌",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "坞",
+    "wù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 10,
+   "pos": 3,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”在这里是附着、聚在的意思，读 zhuó，同“着（zhuó）”。",
+   "en": "Here it means to rest on, to gather at, so it is read zhuó."
+  },
+  {
+   "line": 16,
+   "pos": 3,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "“厌厌”同“恹恹”，是没精神的样子，读 yān yān，不读 yàn。",
+   "en": "Here the doubled word means the same as yān yān, listless and drowsy, so it is read yān, not yàn."
+  },
+  {
+   "line": 16,
+   "pos": 4,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "同上，“厌厌”读 yān yān。",
+   "en": "As above, the doubled word is read yān yān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "弱柳：柔软的柳枝。",
+   "en": "ruò liǔ: soft, slender willow branches."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "千缕：千条。缕，一根根的细丝。",
+   "en": "qiān lǚ: a thousand strands."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "嫩黄匀遍：嫩黄的新芽均匀地长满了。",
+   "en": "nèn huáng yún biàn: tender yellow buds spread evenly everywhere."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "鸦啼处：乌鸦叫的地方，就是柳树上。",
+   "en": "yā tí chù: where the crows call, that is, in the willows."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "罗衣：用轻软的丝绸做的衣服。",
+   "en": "luó yī: clothes made of thin, soft silk."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "春尚浅：春天还刚开始，不深。",
+   "en": "chūn shàng qiǎn: spring is still young."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "画楼：雕梁画栋的漂亮楼房。",
+   "en": "huà lóu: a painted, finely decorated house."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "个人人：那个人。“人人”是对心爱的人亲昵的叫法。",
+   "en": "gè rén rén: that dear one. Doubling the word for person was a fond way to name a loved one."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "料：料想，猜想。",
+   "en": "liào: to guess, to imagine."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "云窗：雕着云纹的窗子，指女子住的房间。",
+   "en": "yún chuāng: a window carved with cloud patterns, meaning a woman's room."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 6,
+   "zh": "哀弦危柱：琴瑟上发出哀伤声音的弦和高高的弦柱。尘满，说明她很久没弹了。",
+   "en": "āi xián wēi zhù: the sad-sounding strings and tall bridges of a zither. Covered in dust, they show she has not played for a long time."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "庾信：南北朝时的文学家，晚年流落北方，常思念南方故乡，写过《愁赋》，后来人用他代指满怀愁绪的人。",
+   "en": "yǔ xìn: Yu Xin, a writer of the Southern and Northern Dynasties. Stuck in the north in later life, he longed for his southern home and wrote a piece on sorrow. Later poets used his name for a person full of grief."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "如许：这么多。",
+   "en": "rú xǔ: this much."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 7,
+   "zh": "都著眉端聚：全都聚在眉头上，就是愁得皱眉。",
+   "en": "dōu zhuó méi duān jù: all gathered at the brow, that is, frowning with worry."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 7,
+   "zh": "弹泪眼：擦去、弹落眼中的泪。",
+   "en": "tán lèi yǎn: flicking away the tears from the eyes."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 5,
+   "zh": "寄烟波东去：把思念托给烟雾笼罩的江水，让它带着向东流去。",
+   "en": "jì yān bō dōng qù: trusting my longing to the misty water and letting it carry it east."
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 3,
+   "zh": "永昼：长长的白天。",
+   "en": "yǒng zhòu: the long day."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 5,
+   "zh": "如何度：怎么熬过去。",
+   "en": "rú hé dù: how to get through it."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "傍枕：靠着枕头。",
+   "en": "bàng zhěn: leaning on the pillow."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "百啭：鸟儿婉转地叫个不停。啭，鸟叫。",
+   "en": "bǎi zhuàn: birds singing on and on in many turns. Zhuàn is birdsong."
+  },
+  {
+   "line": 15,
+   "start": 5,
+   "end": 7,
+   "zh": "黄鹂：一种黄色的鸟，叫声好听。",
+   "en": "huáng lí: the oriole, a yellow bird with a lovely song."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "唤觉来：被鸟叫声唤醒以后。觉，醒。",
+   "en": "huàn jué lái: after being woken by the birds. Jué means to wake."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "厌厌：没精神、昏昏沉沉的样子。",
+   "en": "yān yān: listless and drowsy."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "残照：落日的余光。",
+   "en": "cán zhào: the last light of the setting sun."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "花坞：四周高中间低、种满花的地方。",
+   "en": "huā wù: a sheltered hollow full of flowers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "柔弱的柳枝垂下千万条丝，",
+   "en": "Soft willows hang down a thousand threads,"
+  },
+  {
+   "zh": "乌鸦啼叫的柳树上，到处匀匀地长满了嫩黄的新芽。",
+   "en": "and where the crows call, tender yellow buds cover them evenly."
+  },
+  {
+   "zh": "寒气钻进薄薄的丝衣，春天还刚刚开始，",
+   "en": "The cold slips into my thin silk clothes; spring is still young,"
+  },
+  {
+   "zh": "又经过了一场风雨。",
+   "en": "and another round of wind and rain has passed."
+  },
+  {
+   "zh": "问问燕子：你飞来的时候，",
+   "en": "I ask the swallows: when you flew here,"
+  },
+  {
+   "zh": "经过绿水桥边那条路，",
+   "en": "along the road by the bridge over the green water,"
+  },
+  {
+   "zh": "可曾在那座画楼上，见到我心爱的那个人？",
+   "en": "did you see my dear one in that painted house?"
+  },
+  {
+   "zh": "我猜她正静静地关着窗子，",
+   "en": "I guess she sits quietly behind her closed window,"
+  },
+  {
+   "zh": "琴上的哀弦和高柱都落满了灰尘。",
+   "en": "and dust covers the sad strings and tall bridges of her zither."
+  },
+  {
+   "zh": "我像庾信一样，愁有这么多。",
+   "en": "Like Yu Xin, I have this much sorrow."
+  },
+  {
+   "zh": "为了谁，这些愁都聚在眉头上？",
+   "en": "For whom does it all gather at my brow?"
+  },
+  {
+   "zh": "我独自站在东风里，擦着泪眼，",
+   "en": "I stand alone in the east wind, wiping my tears,"
+  },
+  {
+   "zh": "把思念托给烟雾里的江水，向东流去。",
+   "en": "and trust my longing to the misty waters flowing east."
+  },
+  {
+   "zh": "想到春天的白天又长又闲，",
+   "en": "I think of the long, idle spring days:"
+  },
+  {
+   "zh": "人这样困倦，该怎么熬过去？",
+   "en": "so weary, how will I get through them?"
+  },
+  {
+   "zh": "我无聊地靠着枕头，听黄鹂婉转地叫个不停。",
+   "en": "Idly I lean on my pillow while the orioles sing on and on."
+  },
+  {
+   "zh": "被叫醒以后，还是昏昏沉沉的，",
+   "en": "Woken by them, I am still dull and drowsy,"
+  },
+  {
+   "zh": "落日的余光仍旧照在花坞上。",
+   "en": "and the last of the sunset still lies on the flower hollow."
+  }
+ ],
+ "background": {
+  "zh": "这首词写早春时节对远方心上人的思念，具体写作时间和对象已经不清楚。上片从眼前的柳树、风雨写起，再问燕子有没有见到她，猜想她也在孤单地想念自己。下片写自己愁得皱眉流泪，春日漫长，只能靠着枕头听鸟叫，一天又过去了。",
+  "en": "This lyric is about missing a loved one far away in early spring. Exactly when it was written, and for whom, is no longer known. The first stanza starts with the willows and the wind and rain in front of him. Then he asks the swallows whether they saw her, and imagines that she too is lonely and missing him. The second stanza shows his own sorrow: frowning, tears, long spring days. He can only lean on his pillow and listen to the birds as another day slips by."
+ },
+ "author_note": {
+  "zh": "袁去华，字宣卿，南宋词人，奉新（今属江西）人，生卒年不详。他在宋高宗绍兴年间考中进士，做过地方小官。他的词留下来的不算多，风格清丽婉转，善于写景抒情，《宋词三百首》选了他好几首。",
+  "en": "Yuan Quhua was a Southern Song poet from Fengxin, in today's Jiangxi. His dates of birth and death are not known. He passed the top imperial exam under Emperor Gaozong and served as a minor local official. Not many of his lyrics survive. They are clear, graceful and gentle, good at setting scenes and showing feelings, and several were chosen for the famous collection Three Hundred Song Lyrics."
+ },
+ "appreciation": {
+  "zh": "这首词写的是一种“说不出口的想念”。开头很美：千条柳丝，嫩黄的新芽，可春寒还在，风雨刚过，美里带着冷。接着他不直接说想她，而是去问燕子：你从她家门前飞过，见到她了吗？这个问题当然没有答案，却把想念写得很可爱。他还替对方想：她一定也关着窗，琴都落了灰，没心思弹了。下片回到自己，愁聚在眉头，眼泪托给东流的江水。最后一个画面很安静：他靠着枕头，黄鹂叫个不停，醒来时夕阳还照着花丛。日子好像停住了，只有想念一直在。",
+  "en": "This lyric is about a longing that cannot be said aloud. It opens with beauty: a thousand willow threads and tender yellow buds. But the spring cold is still here and a storm has just passed, so the beauty feels chilly. Then, instead of saying \"I miss her\", he asks the swallows: you flew past her house, did you see her? Of course there is no answer, but the question makes his longing sweet. He even imagines her side: she must keep her window shut, and her zither gathers dust because she has no heart to play. The second stanza returns to him. Sorrow gathers at his brow, and he sends his tears down the river flowing east. The last picture is very still. He leans on his pillow, the orioles keep singing, and when he wakes the sunset still lights the flowers. Time seems to stop, and only the longing goes on."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "willow",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

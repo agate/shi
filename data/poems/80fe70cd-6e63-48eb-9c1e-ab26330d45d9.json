@@ -1,0 +1,227 @@
+{
+ "id": "80fe70cd-6e63-48eb-9c1e-ab26330d45d9",
+ "kind": "shi",
+ "title": "送崔九",
+ "title_en": "Seeing Off Cui the Ninth",
+ "author": "裴迪",
+ "author_en": "Pei Di",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "丘",
+    "qiū"
+   ],
+   [
+    "壑",
+    "hè"
+   ],
+   [
+    "美",
+    "měi"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "学",
+    "xué"
+   ],
+   [
+    "武",
+    "wǔ"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "源",
+    "yuán"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "尽：这里是“尽情享受、全部领略”的意思，读 jìn，不读 jǐn。",
+   "en": "Here it means to enjoy something fully, so it is read jìn, not jǐn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "归山：回到山里去隐居。隐居就是离开官场和热闹的地方，到安静的山林里生活。",
+   "en": "guī shān: to go back to the mountains to live as a hermit, leaving official life and busy places for the quiet hills."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "深浅：不管深处还是浅处，指山里的每个地方。",
+   "en": "shēn qiǎn: deep or shallow, meaning every part of the mountains."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "须：应当，一定要。",
+   "en": "xū: should, must."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "尽：尽情享受，全部领略。",
+   "en": "jìn: to enjoy to the full."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "丘壑：山和山谷，泛指山水风景。壑，山沟。",
+   "en": "qiū hè: hills and valleys, the mountain scenery. Hè is a deep ravine."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "莫：不要。",
+   "en": "mò: do not."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "武陵人：陶渊明《桃花源记》里的渔夫。他是武陵人，偶然进入世外桃源，住了几天就出来了，后来再也找不到那个地方。",
+   "en": "wǔ líng rén: the man from Wuling, the fisherman in Tao Yuanming's story \"The Peach Blossom Spring\". By chance he found a hidden, peaceful land, stayed a few days, then left, and could never find it again."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "暂：短暂地，只一会儿。",
+   "en": "zàn: briefly, only for a short time."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "桃源：桃花源，传说中与世隔绝、人人安乐的地方。",
+   "en": "táo yuán: the Peach Blossom Spring, a legendary place cut off from the world where everyone lived in peace."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你这次回山里去，不管山深山浅，",
+   "en": "You are going back to the mountains; wherever you go, deep or shallow,"
+  },
+  {
+   "zh": "都要尽情欣赏山水的美景。",
+   "en": "be sure to enjoy all the beauty of the hills and valleys."
+  },
+  {
+   "zh": "不要学那个武陵的渔夫，",
+   "en": "Do not be like the fisherman from Wuling,"
+  },
+  {
+   "zh": "在桃花源里只玩了几天就离开了。",
+   "en": "who visited the Peach Blossom Spring for only a short while."
+  }
+ ],
+ "background": {
+  "zh": "崔九要到终南山去隐居，裴迪在马上为他送别，随口吟出了这首诗。原题较长，意思是“崔九要去南山，我在马上随口作诗和他告别”，《唐诗三百首》题作《送崔九》。崔九是排行第九的崔姓朋友，一般认为就是王维的内弟崔兴宗。诗人劝他：既然决定隐居，就要坚持下去，不要半途而废。",
+  "en": "Cui the Ninth was leaving to live as a hermit on Zhongnan Mountain. Pei Di saw him off on horseback and made up this poem on the spot. The original title is long; it means \"Cui the Ninth is going to the Southern Mountain, and I say goodbye in a poem made up on horseback.\" Three Hundred Tang Poems calls it \"Seeing Off Cui the Ninth\". Cui the Ninth was a friend surnamed Cui who was ninth among his cousins. He is usually thought to be Cui Xingzong, the younger brother of Wang Wei's wife. The poet urges him: now that you have chosen this life, stick with it and do not give up halfway."
+ },
+ "author_note": {
+  "zh": "裴迪，唐代诗人，生卒年不详，关中（今陕西一带）人。他是王维的好朋友，两人曾一起住在辋川（今陕西蓝田），游山玩水、互相写诗唱和。他的诗大多写山水和隐居生活，留下来的作品不多。",
+  "en": "Pei Di was a Tang poet from the Guanzhong region, in today's Shaanxi. His dates are unknown. He was a close friend of Wang Wei. The two once lived together at Wangchuan, in today's Lantian in Shaanxi, wandering the hills and writing poems back and forth. His poems are mostly about landscapes and the hermit's life, and only a few survive."
+ },
+ "appreciation": {
+  "zh": "这是一首送别诗，可是没有一句写难过。前两句是祝福：你去山里吧，不管走到哪里，都要把美景看个够。后两句是劝告：别像《桃花源记》里的渔夫，进了桃花源只待几天就出来，以后想回去再也找不到了。诗人借这个大家熟悉的故事，委婉地提醒朋友：隐居要真心，要坚持，不要过一阵子又跑回热闹的官场。话说得轻松，像朋友间随口的叮嘱，却很真诚，也有一点点开玩笑的味道。",
+  "en": "This is a farewell poem, yet not one line is sad. The first two lines are a blessing: go to the mountains, and wherever you wander, enjoy the scenery to the full. The last two lines are advice: do not be like the fisherman in \"The Peach Blossom Spring\", who stayed only a few days, left, and could never find his way back. Using a story everyone knew, the poet gently reminds his friend: if you become a hermit, mean it and stay with it. Do not run back to busy official life after a while. The words are light, like a friend's casual reminder, but they are sincere, with just a touch of teasing."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "hermit",
+   "mountain",
+   "allusion"
+  ]
+ },
+ "uncertain": []
+}

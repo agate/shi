@@ -1,0 +1,486 @@
+{
+ "id": "ci-937b8367d717",
+ "kind": "ci",
+ "title": "夜游宫·叶下斜阳照水",
+ "title_en": "Night Journey to the Palace: Leaves Fall, the Setting Sun on the Water",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·夜游宫",
+  "en": "ci to the tune Ye You Gong"
+ },
+ "lines": [
+  [
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "浪",
+    "làng"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "酸",
+    "suān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "射",
+    "shè"
+   ],
+   [
+    "眸",
+    "móu"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "市",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "屋",
+    "wū"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "底",
+    "dǐ"
+   ]
+  ],
+  [
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "片",
+    "piàn"
+   ]
+  ],
+  [
+   [
+    "井",
+    "jǐng"
+   ],
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "坠",
+    "zhuì"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "恋",
+    "liàn"
+   ],
+   [
+    "单",
+    "dān"
+   ],
+   [
+    "衾",
+    "qīn"
+   ],
+   [
+    "再",
+    "zài"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "娘",
+    "niáng"
+   ]
+  ],
+  [
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "纸",
+    "zhǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": {
+  "zh": "通行本第三句作“沉沉千里”。这里的底本作“沈沈”，“沈”是“沉”的古写，意思一样，现在按通行本写作“沉”。",
+  "en": "In the usual text line three uses chén chén, deep and dark. The source text uses an old way of writing the same character. The meaning is the same, so we use the usual form."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "子",
+   "pinyin": "zǐ",
+   "zh": "“眸子”的“子”在口语里读轻声，这里按诗词诵读读 zǐ，和“水、里、市”押韵。",
+   "en": "In everyday speech the zi in móu zi is toneless; in reciting the poem it is read zǐ, rhyming with shuǐ, lǐ and shì."
+  },
+  {
+   "line": 12,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "这里是“为了”的意思，读 wèi。",
+   "en": "Here it means for the sake of, read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "叶下：树叶落下。",
+   "en": "yè xià: leaves fall."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "斜阳：快要落山的太阳。",
+   "en": "xié yáng: the setting sun."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "沉沉：水又深又远、颜色暗沉的样子。",
+   "en": "chén chén: deep, wide and darkening."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "酸风：刺得眼睛发酸的冷风。这是借用李贺的诗句“东关酸风射眸子”。",
+   "en": "suān fēng: a sharp wind that stings the eyes. The phrase comes from a line by Li He."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "射眸子：像箭一样直吹眼睛。眸子，眼珠。",
+   "en": "shè móu zǐ: shoots into the eyes like an arrow."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "灯火市：街市上亮起了灯火。",
+   "en": "dēng huǒ shì: the lamps light up in the market streets."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "寒窗底：冷清的窗下。",
+   "en": "hán chuāng dǐ: beneath a cold window."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "井桐：井边的梧桐树。",
+   "en": "jǐng tóng: the parasol tree beside the well."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "飞坠：飘落下来。",
+   "en": "fēi zhuì: to drift down."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "不恋：不贪恋，待不住。",
+   "en": "bù liàn: not wanting to stay in."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "单衾：薄薄的单层被子。",
+   "en": "dān qīn: a thin, single-layer quilt."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 7,
+   "zh": "再三起：一次又一次地起床。",
+   "en": "zài sān qǐ: getting up again and again."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 3,
+   "zh": "萧娘：唐宋诗词里常用来称呼所爱的女子。",
+   "en": "xiāo niáng: Lady Xiao, a common name in Tang and Song poems for a beloved woman."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "书一纸：写了一封信。书，写。",
+   "en": "shū yī zhǐ: wrote a single letter. Shū means to write."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "树叶纷纷落下，夕阳照在水面上，",
+   "en": "Leaves fall, and the setting sun shines on the water."
+  },
+  {
+   "zh": "水面卷起细细的波浪，",
+   "en": "It rolls up small, light waves"
+  },
+  {
+   "zh": "深沉暗淡，一直流向千里之外。",
+   "en": "that stretch dark and deep for a thousand miles."
+  },
+  {
+   "zh": "站在桥上，刺骨的冷风直吹得眼睛发酸。",
+   "en": "On the bridge a bitter wind stings my eyes."
+  },
+  {
+   "zh": "我在那里站了很久，",
+   "en": "I stand there a long time,"
+  },
+  {
+   "zh": "看着黄昏降临，",
+   "en": "watching dusk come on"
+  },
+  {
+   "zh": "街市上亮起了灯火。",
+   "en": "and the lamps light up in the market."
+  },
+  {
+   "zh": "回到古老的屋子，坐在冷清的窗下，",
+   "en": "Back in the old house, beneath a cold window,"
+  },
+  {
+   "zh": "听见几片叶子，",
+   "en": "I hear a few leaves"
+  },
+  {
+   "zh": "从井边的梧桐树上飘落。",
+   "en": "drift down from the parasol tree by the well."
+  },
+  {
+   "zh": "我躺在薄被里睡不着，一次又一次地起来。",
+   "en": "I cannot stay under my thin quilt and get up again and again."
+  },
+  {
+   "zh": "有谁知道，",
+   "en": "Who knows"
+  },
+  {
+   "zh": "这都是为了她，",
+   "en": "that it is all for her,"
+  },
+  {
+   "zh": "为了写给她的一封信。",
+   "en": "for the one letter I write to her?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写一个秋天的黄昏到深夜。词人在桥上久久站立，回到住处又睡不着，一次次起来，原来是为了给心上人写一封信。词中没有说明写作的时间和地点，也没有可靠的记载说明“萧娘”是谁。",
+  "en": "The poem follows one autumn evening into the deep of night. The poet stands on a bridge for a long time. Back at his lodging he cannot sleep and keeps getting up. At the end we learn it is all because of a letter to the woman he loves. The poem does not say when or where it was written, and no reliable record tells us who Lady Xiao was."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），北宋词人，精通音乐，宋徽宗时主管过朝廷的音乐机构大晟府。他的词结构讲究，善于一层一层地铺陈景物，最后才点出心事。这首词就是先写景、后写情，到最后一句才揭开谜底。",
+  "en": "Zhou Bangyan (1056 to 1121) was a Northern Song ci poet and a master of music. Under Emperor Huizong he ran the court music office. His poems are carefully built. He lays out scenes layer by layer and names the feeling only at the end. This poem does exactly that: scenery first, then feeling, and the secret comes out only in the last line."
+ },
+ "appreciation": {
+  "zh": "这首词像一个悬念故事。上阕写黄昏：落叶、斜阳、千里的江水，冷风吹得眼睛发酸，词人却在桥上站了很久，一直看到街上亮灯。他为什么站这么久？词里先不说。下阕回到古屋，夜里很静，静得能听见几片梧桐叶落下的声音。他睡不着，一次次起床。到这里读者更想知道原因了。最后三句才揭开：原来是为了她，为了写一封信。前面所有的冷清和不安，一下子都有了答案。写景越细，最后的情就越显得深。",
+  "en": "This poem is like a story with a mystery. The first half is dusk: falling leaves, the low sun, a river a thousand miles long. The cold wind stings his eyes, yet he stands on the bridge a long time, until the lamps come on in the streets. Why does he stay so long? The poem does not say yet. The second half moves back to the old house. The night is so still he can hear a few leaves fall from the parasol tree. He cannot sleep and keeps getting up. Now we want to know the reason even more. Only the last three lines reveal it: it is all for her, for one letter. Suddenly all the coldness and restlessness before make sense. The more carefully the scenes are drawn, the deeper the feeling at the end seems."
+ },
+ "famous_lines": [
+  3,
+  11,
+  12,
+  13
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "dusk",
+   "letter"
+  ]
+ },
+ "uncertain": []
+}

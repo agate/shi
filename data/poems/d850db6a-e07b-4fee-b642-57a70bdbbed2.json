@@ -1,0 +1,201 @@
+{
+ "id": "d850db6a-e07b-4fee-b642-57a70bdbbed2",
+ "kind": "shi",
+ "title": "宫词二首·其一",
+ "title_en": "Palace Song, No. 1",
+ "author": "张祜",
+ "author_en": "Zhang Hu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古诗资料里第三句写作“一声河满子”。曲名通常写作“何满子”，《唐诗三百首》等通行本也作“何满子”。",
+  "en": "The corpus has a different character for hé in the third line, written with the water radical. The tune is usually written Hé Mǎnzǐ with the ordinary character, as in Three Hundred Tang Poems and other standard editions."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "故国：故乡，老家。",
+   "en": "gù guó: one's old home, hometown."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "三千里：形容离家非常远。",
+   "en": "sān qiān lǐ: three thousand li, meaning very, very far from home."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "深宫：皇宫深处，宫女住的地方，外人进不来，她们也出不去。",
+   "en": "shēn gōng: deep inside the palace, where palace women lived. Outsiders could not come in, and they could not go out."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "何满子：唐代一种曲子的名字，声调悲伤。传说是一位叫何满子的歌手临死前唱的曲子。",
+   "en": "hé mǎn zǐ: the name of a sad Tang tune. Legend says it was sung by a singer named He Manzi before he was put to death."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "双泪：两行眼泪。",
+   "en": "shuāng lèi: two streams of tears."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "君：这里指皇帝。",
+   "en": "jūn: here, the emperor."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "离开三千里外的故乡，",
+   "en": "Three thousand li from her old home,"
+  },
+  {
+   "zh": "在深宫里一住就是二十年。",
+   "en": "she has lived twenty years deep in the palace."
+  },
+  {
+   "zh": "刚唱出一声《何满子》，",
+   "en": "As soon as she sings the first note of \"He Manzi\","
+  },
+  {
+   "zh": "两行眼泪就落在了皇帝面前。",
+   "en": "two streams of tears fall before the emperor."
+  }
+ ],
+ "background": {
+  "zh": "唐代的皇宫里有很多宫女。她们年纪很小就被选进宫，离开家乡，很多人一辈子都出不去。张祜写了两首《宫词》，这是第一首，写一位宫女的悲伤。《何满子》是一首悲伤的曲子，据白居易说，开元年间有个歌手叫何满子，临刑前唱了这支曲子求情，最终也没被赦免。这首诗在唐代就流传很广。",
+  "en": "The Tang palace was home to many palace women. They were chosen as young girls and taken far from home, and many never left again. Zhang Hu wrote two Palace Songs; this first one tells of one palace woman's sorrow. \"He Manzi\" was a sad tune. According to Bai Juyi, in the Kaiyuan era a singer named He Manzi sang it before his execution, begging for mercy, but he was not spared. This poem was already widely known in the Tang dynasty."
+ },
+ "author_note": {
+  "zh": "张祜，字承吉，唐代诗人，生卒年说法不一，大约生活在九世纪前半期。他一生没有做过什么大官，喜欢四处游历，写了很多宫词和题咏山水名胜的诗。这首《宫词》流传很广，据说有宫中女子听了也落泪。",
+  "en": "Zhang Hu, also called Chengji, was a Tang poet. Sources differ on his dates; he lived in the first half of the ninth century. He never held high office and loved to travel. He wrote many palace songs and poems about famous sights. This Palace Song spread far and wide, and it is said that women in the palace wept when they heard it."
+ },
+ "appreciation": {
+  "zh": "这首诗二十个字，几乎每个字都很重。“三千里”是离家的远，“二十年”是时间的长。一个女孩从三千里外被送进深宫，一关就是二十年，青春全都没了。前两句只写数字，没有一个“愁”字，悲伤却已经满了。后两句写一个瞬间：她在皇帝面前唱歌，刚唱出一声《何满子》，眼泪就忍不住掉了下来。二十年的委屈，在一声歌里全部涌出。读的时候，可以想象华丽的宫殿里，一个人低着头，泪水止不住地流。",
+  "en": "This poem has twenty characters, and almost every one weighs a lot. Three thousand li is how far she is from home. Twenty years is how long. A girl was sent from three thousand li away into the deep palace and shut in for twenty years; her whole youth is gone. The first two lines give only numbers, without a single word for sorrow, yet the sorrow is already full. The last two lines show one moment: she sings before the emperor, and with the very first note of the sad tune her tears fall. Twenty years of grief pour out in one note of a song. Picture a splendid palace hall, and one woman with her head bowed, unable to stop crying."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "sorrow",
+   "homesick",
+   "music"
+  ]
+ },
+ "uncertain": []
+}

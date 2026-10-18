@@ -1,0 +1,252 @@
+{
+ "id": "fde30eaa-9b2c-47ce-ba49-c1356353ac9a",
+ "kind": "shi",
+ "title": "陇西行四首·其二",
+ "title_en": "Song of Longxi, No. 2 of 4",
+ "author": "陈陶",
+ "author_en": "Chen Tao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "誓",
+    "shì"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ],
+   [
+    "匈",
+    "xiōng"
+   ],
+   [
+    "奴",
+    "nú"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "身",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "貂",
+    "diāo"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "丧",
+    "sàng"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "尘",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "定",
+    "dìng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "闺",
+    "guī"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "丧",
+   "pinyin": "sàng",
+   "zh": "丧是“丧命、死去”的意思，读 sàng。",
+   "en": "Here it means \"to lose one's life\", read sàng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "誓扫匈奴：发誓要扫平匈奴。匈奴是汉代北方的民族，这里借指唐朝边境上的敌人。",
+   "en": "shì sǎo xiōng nú: swearing to wipe out the Xiongnu. The Xiongnu were a northern people of Han times; here the name stands for the Tang's enemies on the border."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "不顾身：不顾惜自己的生命。",
+   "en": "bù gù shēn: with no care for their own lives."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "貂锦：穿着貂皮衣服、锦缎战袍的士兵，指精锐的部队。",
+   "en": "diāo jǐn: soldiers in sable furs and brocade robes, meaning the finest troops."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "丧胡尘：死在胡地的战场上。胡尘，胡地战场上扬起的尘土。",
+   "en": "sàng hú chén: died in the dust of the battlefields in the land of the Hu, the northern peoples."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可叹，让人难过。",
+   "en": "kě lián: how sad, how pitiful."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "无定河：黄河的一条支流，在今天陕西北部。因为水流急、泥沙多，河道常常改变，所以叫“无定河”。",
+   "en": "wú dìng hé: the Wuding River, a branch of the Yellow River in today's northern Shaanxi. Its fast, muddy water kept changing course, so it was called the \"River Without a Fixed Course\"."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "犹是：还是，仍然是。",
+   "en": "yóu shì: still is."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "春闺：春天的闺房，这里指在家盼望丈夫回来的妻子。",
+   "en": "chūn guī: a woman's room in spring; here, the wife at home waiting for her husband."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "将士们发誓要扫平匈奴，连性命都不顾，",
+   "en": "The soldiers swore to wipe out the Xiongnu, with no care for their lives;"
+  },
+  {
+   "zh": "五千名精锐的战士，都死在了胡地的战场上。",
+   "en": "five thousand of the finest troops fell in the dust of the northern lands."
+  },
+  {
+   "zh": "可叹那无定河边的一堆堆白骨，",
+   "en": "How sad: the bones lying by the Wuding River"
+  },
+  {
+   "zh": "还是家中妻子梦里盼着回来的人。",
+   "en": "are still the men their wives dream of in their spring rooms."
+  }
+ ],
+ "background": {
+  "zh": "《陇西行》是乐府旧题，常用来写边塞打仗的事。陈陶写了四首，这是第二首。唐朝后期，西北边境常年打仗，很多士兵死在战场上，家里人却还不知道。具体写作年份不清楚。诗人借汉朝打匈奴的故事，写的是唐代战争给普通人带来的痛苦。",
+  "en": "\"Song of Longxi\" is an old folk-song title, often used for poems about frontier wars. Chen Tao wrote four; this is the second. In the later Tang there was fighting on the northwest border year after year. Many soldiers died, and their families did not even know. The exact year of the poem is not known. The poet borrows the Han wars against the Xiongnu to write about the pain that war brought to ordinary people in his own time."
+ },
+ "author_note": {
+  "zh": "陈陶，晚唐诗人，生卒年不详。他考进士没有考中，后来隐居在洪州西山（今江西南昌附近），过着读书、写诗的生活。他的诗流传下来的不多，这首诗因为后两句特别动人，成了他最有名的作品。",
+  "en": "Chen Tao was a poet of the late Tang; his exact dates are not known. He failed the top civil service exam and later lived as a recluse in the Western Hills of Hongzhou, near today's Nanchang in Jiangxi, reading and writing poetry. Not many of his poems survive. This one, thanks to its very moving last two lines, is his best known."
+ },
+ "appreciation": {
+  "zh": "前两句写得很壮烈：士兵们发誓杀敌，连命都不要，五千精兵一下子全死在了战场上。后两句忽然从战场跳到了家里。河边的骨头已经白了，可是在家乡，妻子还不知道丈夫已经死了，还在梦里盼他回来。一边是冷冰冰的白骨，一边是暖暖的梦，两个画面放在一起，让人心里特别难过。诗人没有骂战争，只是把这两件事摆在我们面前，战争的残酷就全都看见了。",
+  "en": "The first two lines are bold and tragic: the soldiers swear to fight with no care for their lives, and five thousand of the best troops are all killed. Then the last two lines jump from the battlefield to home. By the river the bones have already turned white. But back home, the wife does not know her husband is dead. She still dreams of his return. On one side, cold white bones; on the other, a warm dream. Put together, the two pictures break the heart. The poet does not curse war. He simply sets these two things before us, and we see how cruel war is."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "war",
+   "frontier",
+   "grief",
+   "love",
+   "soldier"
+  ]
+ },
+ "uncertain": []
+}

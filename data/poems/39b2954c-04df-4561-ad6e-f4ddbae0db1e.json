@@ -1,0 +1,489 @@
+{
+ "id": "39b2954c-04df-4561-ad6e-f4ddbae0db1e",
+ "kind": "shi",
+ "title": "行经华阴",
+ "title_en": "Passing Through Huayin",
+ "author": "崔颢",
+ "author_en": "Cui Hao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "岧",
+    "tiáo"
+   ],
+   [
+    "峣",
+    "yáo"
+   ],
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "华",
+    "huà"
+   ],
+   [
+    "俯",
+    "fǔ"
+   ],
+   [
+    "咸",
+    "xián"
+   ],
+   [
+    "京",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "峰",
+    "fēng"
+   ],
+   [
+    "削",
+    "xuē"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "成",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "武",
+    "wǔ"
+   ],
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "祠",
+    "cí"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "掌",
+    "zhǎng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "险",
+    "xiǎn"
+   ]
+  ],
+  [
+   [
+    "驿",
+    "yì"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "畤",
+    "zhì"
+   ],
+   [
+    "平",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "旁",
+    "páng"
+   ],
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "利",
+    "lì"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "学",
+    "xué"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料首句作“岧嶤”，“嶤”是“峣”的异体字。语料第六句作“驿树”，第七句作“路傍”，末句作“无如”；通行本多作“驿路”“路旁”“何如”。“傍”在这里同“旁”。“无如”是“不如”，“何如”是“哪里比得上”，意思相近。",
+  "en": "In the first line the corpus uses an old variant form of yao. The corpus reads yi shu (post-road trees) in line six, lu bang in line seven, and wu ru in the last line. Most common editions read yi lu (post road), lu pang, and he ru. Bang here means the same as pang, the roadside. Wu ru means nothing is better than; he ru means how could it compare with. The meaning is close."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "华",
+   "pinyin": "huà",
+   "zh": "太华就是华山。作山名和姓的时候，“华”读 huà。",
+   "en": "Tai Hua is Mount Hua. As the name of the mountain, this character is read huà."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "削",
+   "pinyin": "xuē",
+   "zh": "“削”单用读 xiāo，在“削不成”这样的书面词语里，现在课本一般读 xuē。",
+   "en": "Used alone this character is read xiāo; in written phrases like this one, textbooks today usually read it xuē."
+  },
+  {
+   "line": 5,
+   "pos": 5,
+   "char": "畤",
+   "pinyin": "zhì",
+   "zh": "畤读 zhì，是古代祭祀天地的地方。",
+   "en": "This character is read zhì. It means an altar for worshipping heaven and earth."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "岧峣：山高高耸立的样子。",
+   "en": "tiáo yáo: towering high."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "太华：华山，在今天陕西华阴，是五岳中的西岳。",
+   "en": "tài huà: Mount Hua, in today's Huayin in Shaanxi, the Western one of the Five Great Mountains."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "俯：从高处往下看。",
+   "en": "fǔ: to look down from above."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "咸京：咸阳，秦朝的都城。这里指唐朝的都城长安。",
+   "en": "xián jīng: Xianyang, the capital of the Qin. Here it stands for the Tang capital Chang'an."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "天外：好像在天的外边，形容极高。",
+   "en": "tiān wài: as if beyond the sky, meaning very high."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "三峰：华山上最有名的三座山峰。",
+   "en": "sān fēng: the three most famous peaks of Mount Hua."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "削不成：不是人能削出来的。说山峰陡得像刀削的一样，只有大自然才做得出。",
+   "en": "xuē bù chéng: no person could carve it. The peaks are as steep as if cut by a knife, and only nature could make them."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 3,
+   "zh": "武帝祠：汉武帝在华山脚下建的祠庙。",
+   "en": "wǔ dì cí: a shrine built at the foot of Mount Hua by Emperor Wu of Han."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "云欲散：云快要散开了。欲，将要。",
+   "en": "yún yù sàn: the clouds are about to part. Yù means about to."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "仙人掌：华山东峰的一处崖壁，上面的痕迹像一只巨大的手掌，叫仙人掌。",
+   "en": "xiān rén zhǎng: the Immortal's Palm, a cliff on the east peak of Mount Hua with marks like a giant hand."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "雨初晴：雨刚停，天刚放晴。",
+   "en": "yǔ chū qíng: the rain has just stopped and the sky is clearing."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "河山：黄河和华山。",
+   "en": "hé shān: the Yellow River and Mount Hua."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "北枕：北边靠着。枕，靠着，像头枕在枕头上。",
+   "en": "běi zhěn: resting against the north, like a head on a pillow."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "秦关：秦地的关口。一说指函谷关，一说指潼关。",
+   "en": "qín guān: a pass of the old Qin land. Some say it is Hangu Pass, others Tong Pass."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "驿路：大路。古时路上设有驿站，供送信的人和官员换马、休息。",
+   "en": "yì lù: the post road. In old times it had stations where messengers and officials changed horses and rested."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "汉畤：汉代祭祀天地的祭坛。",
+   "en": "hàn zhì: the altars where the Han dynasty worshipped heaven and earth."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "借问：请问。",
+   "en": "jiè wèn: may I ask."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "名利客：追求名声和利益的人。",
+   "en": "míng lì kè: people chasing fame and wealth."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "何如：哪里比得上。",
+   "en": "hé rú: how could it compare with."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "学长生：学习长生不老的道术。古人认为华山是神仙住的地方。",
+   "en": "xué cháng shēng: to learn the arts of living forever. People in old times thought immortals lived on Mount Hua."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "高高的华山，俯视着京城长安。",
+   "en": "Towering Mount Hua looks down on the capital."
+  },
+  {
+   "zh": "高入天外的三座山峰，不是人力能削出来的。",
+   "en": "Its three peaks rise beyond the sky; no human hand could carve them."
+  },
+  {
+   "zh": "武帝祠前，云彩快要散开了。",
+   "en": "In front of Emperor Wu's shrine, the clouds are about to part."
+  },
+  {
+   "zh": "仙人掌峰上，雨刚停，天放晴了。",
+   "en": "Over the Immortal's Palm, the rain has just stopped and the sky clears."
+  },
+  {
+   "zh": "黄河和华山北边靠着险要的秦关。",
+   "en": "To the north, river and mountain rest against the steep passes of Qin."
+  },
+  {
+   "zh": "驿路向西，平平地通到汉代的祭坛。",
+   "en": "To the west, the post road runs flat to the old Han altars."
+  },
+  {
+   "zh": "请问路边那些追名逐利的人，",
+   "en": "Let me ask the people on this road who chase fame and money:"
+  },
+  {
+   "zh": "哪里比得上在这里学道求长生呢？",
+   "en": "how could that compare with staying here to learn the way of living forever?"
+  }
+ ],
+ "background": {
+  "zh": "华阴在今天陕西华阴市，就在华山脚下，是从东边去长安的必经之路。崔颢经过这里，看到雨后的华山，写下这首诗。很多人走这条路是去长安求官、求名，所以诗人最后问他们：何不留下来学道？这首诗具体写于哪一年，已经不清楚了。",
+  "en": "Huayin is today's Huayin City in Shaanxi, right at the foot of Mount Hua. It lay on the main road to Chang'an from the east. Cui Hao passed by, saw Mount Hua after the rain, and wrote this poem. Many people on this road were going to Chang'an to seek office and fame, so at the end the poet asks them: why not stay here and learn the Way? The exact year it was written is no longer known."
+ },
+ "author_note": {
+  "zh": "崔颢（约704—754），汴州人，就是今天河南开封一带，开元年间考中进士。他最有名的诗是《黄鹤楼》，据说李白看了都说写得太好，自己不敢再写。他的诗气势开阔，这首写华山的诗也是这样。",
+  "en": "Cui Hao (about 704 to 754) came from Bianzhou, around today's Kaifeng in Henan, and passed the imperial exam in the Kaiyuan years. His most famous poem is \"Yellow Crane Tower\". It is said that even Li Bai found it so good that he dared not write his own. Cui Hao's poems feel broad and grand, and this poem about Mount Hua is like that too."
+ },
+ "appreciation": {
+  "zh": "诗人先从远处看：华山高高地站着，好像在低头看长安；三座山峰插进云天，陡得像刀削的，却不是人能削出来的。接着走近了看：祠庙前云快散了，仙人掌峰上雨刚停，山色一下子清亮起来。然后把眼光放远：北边是黄河、险关，西边是一条平平的大路通向古老的祭坛。山河这么大，历史这么长。最后诗人对路上忙着赶去长安的人发问：争名争利，哪里比得上在这神仙住的地方求长生？一首写景的诗，最后变成一声劝告。",
+  "en": "First the poet looks from far away. Mount Hua stands tall, as if bending down to look at Chang'an. Its three peaks pierce the sky, as steep as if cut by a knife, yet no person could have cut them. Then he looks closer. The clouds before the shrine are parting, the rain over the Immortal's Palm has just stopped, and the mountain turns bright and clear. Then he looks into the distance. To the north are the Yellow River and steep passes; to the west a flat road leads to ancient altars. The land is so vast, and its history so long. At last the poet asks the people hurrying to Chang'an: how can chasing fame and money compare with seeking long life here, where immortals live? A poem about scenery ends as a piece of advice."
+ },
+ "famous_lines": [
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountain",
+   "travel",
+   "immortality",
+   "fame"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>送上人 · 刘长卿 — 诗</title>
+    <meta name="description" content="送上人 · 刘长卿 — Seeing Off a Monk by Liu Changqing: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character quatrain</span><span lang="zh">唐诗 · 五言绝句</span></p>
+        <h1>送上人</h1>
+        <p class="by">刘长卿<span class="mono"><span lang="en">Liu Changqing · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Seeing Off a Monk</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>gū</i><b>孤</b></span><span class="c gl" data-l="0" data-p="1"><i>yún</i><b>云</b></span><span class="c gl" data-l="0" data-p="2"><i>jiāng</i><b>将</b></span><span class="c gl" data-l="0" data-p="3"><i>yě</i><b>野</b></span><span class="c gl" data-l="0" data-p="4"><i>hè</i><b>鹤</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>qǐ</i><b>岂</b></span><span class="c gl" data-l="1" data-p="1"><i>xiàng</i><b>向</b></span><span class="c gl" data-l="1" data-p="2"><i>rén</i><b>人</b></span><span class="c gl" data-l="1" data-p="3"><i>jiān</i><b>间</b></span><span class="c" data-l="1" data-p="4"><i>zhù</i><b>住</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>mò</i><b>莫</b></span><span class="c" data-l="2" data-p="1"><i>mǎi</i><b>买</b></span><span class="c gl" data-l="2" data-p="2"><i>wò</i><b>沃</b></span><span class="c gl" data-l="2" data-p="3"><i>zhōu</i><b>洲</b></span><span class="c gl" data-l="2" data-p="4"><i>shān</i><b>山</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>shí</i><b>时</b></span><span class="c gl" data-l="3" data-p="1"><i>rén</i><b>人</b></span><span class="c" data-l="3" data-p="2"><i>yǐ</i><b>已</b></span><span class="c gl" data-l="3" data-p="3"><i>zhī</i><b>知</b></span><span class="c gl" data-l="3" data-p="4"><i>chù</i><b>处</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The poem&#x27;s title is also given as &quot;Seeing Off a Monk from Beyond the World&quot;. Standard editions such as Three Hundred Tang Poems call it &quot;Seeing Off a Monk&quot;. The text of the poem is the same.</p><p lang="zh">这首诗的题目一作《送方外上人》。《唐诗三百首》等通行本题作《送上人》。诗的正文相同。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">孤云将野鹤</span><span lang="en">You are like a lone cloud, a wild crane;</span><span lang="zh">你就像一片孤云、一只野鹤，</span></li><li><span class="o">岂向人间住</span><span lang="en">how could you ever settle in the busy human world?</span><span lang="zh">怎么会在热闹的人世间住下来呢？</span></li><li><span class="o">莫买沃洲山</span><span lang="en">Do not go and buy Wozhou Mountain to live in retreat,</span><span lang="zh">不要去买沃洲山来隐居，</span></li><li><span class="o">时人已知处</span><span lang="en">for everyone already knows that place.</span><span lang="zh">那里早已是世人都知道的地方了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>孤云<span class="mono">gū yún</span></dt><dd><span lang="en">gū yún: a lone cloud drifting by itself.</span><span lang="zh">孤云：一片独自飘着的云。</span></dd></div><div><dt>将<span class="mono">jiāng</span></dt><dd><span lang="en">jiāng: and, together with.</span><span lang="zh">将：和，与。</span></dd></div><div><dt>野鹤<span class="mono">yě hè</span></dt><dd><span lang="en">yě hè: a wild crane living freely in the hills. The lone cloud and the wild crane both stand for the free-spirited monk.</span><span lang="zh">野鹤：在山野里自由生活的鹤。孤云和野鹤都用来比喻无拘无束的僧人。</span></dd></div><div><dt>岂<span class="mono">qǐ</span></dt><dd><span lang="en">qǐ: how could, surely not.</span><span lang="zh">岂：怎么会，哪里会。</span></dd></div><div><dt>向<span class="mono">xiàng</span></dt><dd><span lang="en">xiàng: in, at.</span><span lang="zh">向：在。</span></dd></div><div><dt>人间<span class="mono">rén jiān</span></dt><dd><span lang="en">rén jiān: the human world, the busy places where people live.</span><span lang="zh">人间：人世间，人们热闹生活的地方。</span></dd></div><div><dt>莫<span class="mono">mò</span></dt><dd><span lang="en">mò: do not.</span><span lang="zh">莫：不要。</span></dd></div><div><dt>沃洲山<span class="mono">wò zhōu shān</span></dt><dd><span lang="en">wò zhōu shān: Wozhou Mountain, in today&#x27;s Xinchang, Zhejiang. Legend says the famous monk Zhi Dun of the Eastern Jin lived there in retreat, so it was a well-known place for hermits.</span><span lang="zh">沃洲山：山名，在今天的浙江新昌，传说东晋的高僧支遁曾在那里隐居，是有名的修行地。</span></dd></div><div><dt>时人<span class="mono">shí rén</span></dt><dd><span lang="en">shí rén: the people of the day, everyone.</span><span lang="zh">时人：当时的人，世上的人。</span></dd></div><div><dt>知处<span class="mono">zhī chù</span></dt><dd><span lang="en">zhī chù: a place they know.</span><span lang="zh">知处：知道的地方。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Shàng rén is a polite word for a monk, and fāng wài means beyond the ordinary world. Liu Changqing wrote this poem to see off a monk heading far away. It uses an old story: the Eastern Jin monk Zhi Dun once tried to buy a mountain to live in retreat, and the owner laughed that true hermits of old never needed to buy a mountain first. Liu uses the story to tease his friend kindly. When it was written and who the monk was are not known.</p><p lang="zh">上人是对僧人的尊称，方外是指世俗之外。刘长卿送一位僧人去远方，写下这首诗。诗里用了一个典故：东晋高僧支遁想向别人买山来隐居，对方笑他说，没听说古代真正的隐士要花钱买山才去隐居的。刘长卿借这个故事，和朋友开了一个善意的玩笑。这首诗写于何时、送的是哪位僧人，都不清楚。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Liu Changqing, also called Wenfang, was a Tang poet. Sources differ on his dates; he lived in the eighth century. He was best at five-character poems and called himself the Great Wall of five-character verse, meaning his poems were as solid as the Great Wall. He was demoted twice in his career, often felt lonely and let down, and liked to spend time with monks and hermits.</p><p lang="zh">刘长卿，字文房，唐代诗人，生卒年说法不一，大约生活在八世纪。他最擅长写五言诗，自称“五言长城”，意思是自己的五言诗像长城一样坚固。他做官时两次被贬，心里常有失意和孤独，喜欢和僧人、隐士来往。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first line compares the monk to a lone cloud and a wild crane. A cloud drifts freely, a crane flies freely, and no one can hold them. Such a person would never live in a busy place. The last two lines suddenly turn into a friendly joke: don&#x27;t go and buy Wozhou Mountain, it is too famous; everyone knows it, so how could it be quiet? The deeper meaning is that true retreat is not about a famous mountain but about a free heart. The poem holds a farewell, some praise, and a little humor, so it feels light yet full of flavor.</p><p lang="zh">第一句把僧人比作孤云和野鹤。云自由地飘，鹤自由地飞，谁也管不住。这样的人，当然不会住在热闹的地方。后两句忽然一转，像朋友之间的玩笑：你可别去买沃洲山啊，那里太有名了，人人都知道，哪里还清静？言外之意是：真正的隐居不在于山有多出名，而在于心是否自由。诗里有送别，有赞美，也有一点幽默，读起来轻松又有味道。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/yexue/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>夜雪</b></a><a href="../../p/fengjiyizhongsongyangongsiyun/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>奉济驿重送严公四韵</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["孤", "gū"], ["云", "yún"], ["将", "jiāng"], ["野", "yě"], ["鹤", "hè"]], [["岂", "qǐ"], ["向", "xiàng"], ["人", "rén"], ["间", "jiān"], ["住", "zhù"]], [["莫", "mò"], ["买", "mǎi"], ["沃", "wò"], ["洲", "zhōu"], ["山", "shān"]], [["时", "shí"], ["人", "rén"], ["已", "yǐ"], ["知", "zhī"], ["处", "chù"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "孤云：一片独自飘着的云。", "en": "gū yún: a lone cloud drifting by itself."}, {"line": 0, "start": 2, "end": 3, "zh": "将：和，与。", "en": "jiāng: and, together with."}, {"line": 0, "start": 3, "end": 5, "zh": "野鹤：在山野里自由生活的鹤。孤云和野鹤都用来比喻无拘无束的僧人。", "en": "yě hè: a wild crane living freely in the hills. The lone cloud and the wild crane both stand for the free-spirited monk."}, {"line": 1, "start": 0, "end": 1, "zh": "岂：怎么会，哪里会。", "en": "qǐ: how could, surely not."}, {"line": 1, "start": 1, "end": 2, "zh": "向：在。", "en": "xiàng: in, at."}, {"line": 1, "start": 2, "end": 4, "zh": "人间：人世间，人们热闹生活的地方。", "en": "rén jiān: the human world, the busy places where people live."}, {"line": 2, "start": 0, "end": 1, "zh": "莫：不要。", "en": "mò: do not."}, {"line": 2, "start": 2, "end": 5, "zh": "沃洲山：山名，在今天的浙江新昌，传说东晋的高僧支遁曾在那里隐居，是有名的修行地。", "en": "wò zhōu shān: Wozhou Mountain, in today's Xinchang, Zhejiang. Legend says the famous monk Zhi Dun of the Eastern Jin lived there in retreat, so it was a well-known place for hermits."}, {"line": 3, "start": 0, "end": 2, "zh": "时人：当时的人，世上的人。", "en": "shí rén: the people of the day, everyone."}, {"line": 3, "start": 3, "end": 5, "zh": "知处：知道的地方。", "en": "zhī chù: a place they know."}], "readings": [], "speak": ["孤云将野鹤", "岂向人间住", "莫买沃洲山", "时人已知处"], "speakTitle": "送上人。刘长卿。", "sample": "孤云将野鹤"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

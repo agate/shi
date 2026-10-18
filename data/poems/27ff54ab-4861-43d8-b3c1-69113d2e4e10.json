@@ -1,0 +1,245 @@
+{
+ "id": "27ff54ab-4861-43d8-b3c1-69113d2e4e10",
+ "kind": "shi",
+ "title": "近试上张籍水部",
+ "title_en": "To Zhang Ji of the Water Ministry, Before the Exam",
+ "author": "朱庆余",
+ "author_en": "Zhu Qingyu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "房",
+    "fáng"
+   ],
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "停",
+    "tíng"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "拜",
+    "bài"
+   ],
+   [
+    "舅",
+    "jiù"
+   ],
+   [
+    "姑",
+    "gū"
+   ]
+  ],
+  [
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "婿",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "无",
+    "wú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文“婿”写作“壻”，这是“婿”的异体字，现在通行写“婿”。",
+  "en": "The corpus writes the character for \"husband\" (xù) in an old variant form. Today the standard form is used."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "洞房：新婚夫妻的房间。",
+   "en": "dòng fáng: the bridal chamber, the room of a newly married couple."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "停红烛：让红蜡烛一直点着。停，放置、留着。旧俗新婚之夜红烛整夜不灭。",
+   "en": "tíng hóng zhú: kept the red candles burning. By old custom the red candles stayed lit all through the wedding night."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "待晓：等到天亮。",
+   "en": "dài xiǎo: waiting for daybreak."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "舅姑：丈夫的父亲和母亲，就是公公婆婆。",
+   "en": "jiù gū: the husband's father and mother, her parents-in-law."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "妆罢：打扮好了。罢，完毕。",
+   "en": "zhuāng bà: having finished her makeup."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "夫婿：丈夫。",
+   "en": "fū xù: husband."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "深浅：浓淡。",
+   "en": "shēn qiǎn: dark or light."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "入时无：合不合时兴的样子？无，放在句末表示问话，相当于“吗”。",
+   "en": "rù shí wú: is it in fashion? Wú at the end turns the line into a question."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "昨天夜里，新房里的红烛一直点着；",
+   "en": "Last night the red candles burned all night in the bridal room."
+  },
+  {
+   "zh": "等到天亮，新娘要到堂前拜见公婆。",
+   "en": "At dawn the bride must go to the hall to greet her husband's parents."
+  },
+  {
+   "zh": "打扮好了，她小声地问丈夫：",
+   "en": "When her makeup is done, she softly asks her husband:"
+  },
+  {
+   "zh": "“我的眉毛画得浓淡合不合时兴？”",
+   "en": "\"Are my eyebrows painted dark or light enough to be in fashion?\""
+  }
+ ],
+ "background": {
+  "zh": "唐代考进士前，考生常把自己的诗文送给有名望的人看，希望得到推荐。朱庆余快要考试时，把这首诗送给了张籍。张籍当时任水部员外郎，是很有名的诗人，也喜欢提拔年轻人。诗里表面写新娘，其实是问：我的文章合不合考官的口味？张籍回了一首《酬朱庆余》，夸他像越地美女一样出色。朱庆余后来考中了进士。",
+  "en": "In the Tang dynasty, before the jinshi exam, candidates often sent their writings to famous people, hoping to be recommended. Just before his exam, Zhu Qingyu sent this poem to Zhang Ji. Zhang Ji was then an official in the Water Ministry. He was a well-known poet who liked to help young writers. On the surface the poem is about a bride. Underneath it asks: will my writing please the examiners? Zhang Ji answered with a poem praising him as a beauty from Yue who outshines all others. Zhu Qingyu later passed the exam."
+ },
+ "author_note": {
+  "zh": "朱庆余，唐代诗人，名可久，以字行，越州（今浙江绍兴一带）人。唐敬宗宝历二年（826年）考中进士。他的诗得到张籍的赏识，这首诗是他最有名的作品。",
+  "en": "Zhu Qingyu was a Tang poet from Yuezhou, around today's Shaoxing in Zhejiang. He was known by his courtesy name rather than his given name. He passed the jinshi exam in 826. Zhang Ji admired his poems, and this one is his most famous work."
+ },
+ "appreciation": {
+  "zh": "这首诗好像一个小故事。新婚第二天一早，新娘要去拜见公婆，这是很紧张的时刻。她打扮好了，心里没底，就悄悄问丈夫：眉毛画得合不合时兴？“低声”两个字，写出了她又害羞、又小心的样子。妙的是，整首诗是个比方：新娘是作者自己，公婆是考官，丈夫是张籍，画眉就是写文章。作者不直接问“我能考上吗”，而是借新娘的话轻轻一问，既有趣又得体。",
+  "en": "The poem is like a little story. The morning after her wedding, the bride must greet her husband's parents. It is a nervous moment. Dressed and ready but unsure, she quietly asks her husband whether her eyebrows are painted in fashion. The words \"softly asks\" show she is shy and careful. The clever part is that the whole poem is a comparison. The bride is the poet himself, the parents-in-law are the examiners, the husband is Zhang Ji, and painting the eyebrows is writing. Instead of asking straight out, \"Will I pass?\", he asks gently through the bride. It is playful and polite at once."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exam",
+   "wedding",
+   "metaphor",
+   "humor"
+  ]
+ },
+ "uncertain": []
+}

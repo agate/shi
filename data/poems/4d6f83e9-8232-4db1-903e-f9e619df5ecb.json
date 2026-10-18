@@ -1,0 +1,582 @@
+{
+ "id": "4d6f83e9-8232-4db1-903e-f9e619df5ecb",
+ "kind": "shi",
+ "title": "西施咏",
+ "title_en": "On Xi Shi",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "艳",
+    "yàn"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "重",
+    "zhòng"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "施",
+    "shī"
+   ],
+   [
+    "宁",
+    "nìng"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "微",
+    "wēi"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "妃",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "贱",
+    "jiàn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "殊",
+    "shū"
+   ],
+   [
+    "众",
+    "zhòng"
+   ]
+  ],
+  [
+   [
+    "贵",
+    "guì"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "方",
+    "fāng"
+   ],
+   [
+    "悟",
+    "wù"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "邀",
+    "yāo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "傅",
+    "fù"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "粉",
+    "fěn"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "宠",
+    "chǒng"
+   ],
+   [
+    "益",
+    "yì"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "态",
+    "tài"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "非",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "浣",
+    "huàn"
+   ],
+   [
+    "纱",
+    "shā"
+   ],
+   [
+    "伴",
+    "bàn"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "持",
+    "chí"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "效",
+    "xiào"
+   ],
+   [
+    "颦",
+    "pín"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "希",
+    "xī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "第三句原始资料作“朝仍越溪女”，通行本（如《唐诗三百首》）作“朝为越溪女”，这里从通行本。",
+  "en": "In line 3 the source has \"still\" where common editions such as Three Hundred Tang Poems have \"was\". The common text is used here."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "宁",
+   "pinyin": "nìng",
+   "zh": "这里是“难道、怎么会”的意思，读 nìng。",
+   "en": "Here it means \"how could\", so it is read nìng."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "这里是“早晨”的意思，读 zhāo，不读 cháo。",
+   "en": "Here it means morning, so it is read zhāo, not cháo."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "这里是“是、成为”的意思，读 wéi。",
+   "en": "Here it means \"to be\", so it is read wéi."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "这里是“穿”的意思，同“着”，读 zhuó。",
+   "en": "Here it means to put on clothes, so it is read zhuó."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "艳色：美丽的容貌。",
+   "en": "yàn sè: a beautiful face."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "重：看重。",
+   "en": "zhòng: to value highly."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "西施：春秋时越国的美女，传说后来被送进吴国宫中。",
+   "en": "Xī Shī: a famous beauty of the state of Yue, over two thousand years ago. Legend says she was later sent into the palace of the state of Wu."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "宁久微：怎么会一直低微下去呢。宁，难道；微，地位低。",
+   "en": "nìng jiǔ wēi: how could she stay lowly for long? Wēi means of low rank."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "越溪女：越国溪边的女孩子。传说西施原来在溪边洗纱。",
+   "en": "Yuè xī nǚ: a girl by a stream in Yue. Legend says Xi Shi used to wash silk in a stream."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "吴宫妃：吴王宫里的妃子。",
+   "en": "Wú gōng fēi: a royal consort in the palace of the king of Wu."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "贱日：地位低下的时候。",
+   "en": "jiàn rì: the days when she was poor and lowly."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "岂殊众：哪里和别人不一样呢。殊，不同。",
+   "en": "qǐ shū zhòng: how was she different from anyone else? Shū means different."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "方悟稀：才明白她美得少有。稀，稀少。",
+   "en": "fāng wù xī: only then did people see how rare she was."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "傅香粉：搽香粉。傅，涂、抹。",
+   "en": "fù xiāng fěn: to put on scented face powder."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "罗衣：丝绸做的衣服。",
+   "en": "luó yī: clothes of silk."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "益娇态：更加娇气。益，更加。",
+   "en": "yì jiāo tài: became even more pampered and coy. Yì means more."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "无是非：不管对不对都说好。",
+   "en": "wú shì fēi: right or wrong no longer mattered; whatever she did was fine."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "浣纱：在水里洗纱。",
+   "en": "huàn shā: washing silk in water."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "莫得：不能。",
+   "en": "mò dé: could not."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "持谢：奉告，告诉。",
+   "en": "chí xiè: to say this to, to tell."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 5,
+   "zh": "邻家子：邻居家的女子，指东施。",
+   "en": "lín jiā zǐ: the girl next door, meaning Dong Shi."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "效颦：学别人皱眉头。传说西施心口痛时皱眉，样子很美，邻居东施也学着皱眉，结果更难看了。",
+   "en": "xiào pín: to copy someone's frown. Legend says Xi Shi looked lovely when she frowned in pain, so her neighbor Dong Shi copied her and looked even worse."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 5,
+   "zh": "安可希：怎么能指望呢。希，希望。",
+   "en": "ān kě xī: how could you hope for that?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "美丽的容貌，天下人都看重，",
+   "en": "Everyone under heaven values a beautiful face,"
+  },
+  {
+   "zh": "西施怎么会一直低微下去呢？",
+   "en": "so how could Xi Shi stay lowly for long?"
+  },
+  {
+   "zh": "早上她还是越国溪边的姑娘，",
+   "en": "In the morning she was a girl by a stream in Yue;"
+  },
+  {
+   "zh": "晚上就成了吴王宫里的妃子。",
+   "en": "by evening she was a consort in the palace of Wu."
+  },
+  {
+   "zh": "她地位低的时候，哪里和别人不一样？",
+   "en": "When she was lowly, was she any different from others?"
+  },
+  {
+   "zh": "她富贵了，人们才发现她美得少有。",
+   "en": "Only when she grew grand did people see how rare she was."
+  },
+  {
+   "zh": "她让别人替她搽香粉，",
+   "en": "She has others put on her scented powder,"
+  },
+  {
+   "zh": "连丝绸衣服都不用自己穿。",
+   "en": "and does not even put on her silk clothes herself."
+  },
+  {
+   "zh": "君王宠爱她，她就更加娇气，",
+   "en": "The king dotes on her, so she grows more pampered;"
+  },
+  {
+   "zh": "君王怜爱她，不管对错都说好。",
+   "en": "the king loves her, so right and wrong no longer matter."
+  },
+  {
+   "zh": "当年和她一起洗纱的伙伴，",
+   "en": "The friends who once washed silk with her"
+  },
+  {
+   "zh": "却不能和她同坐一辆车回来。",
+   "en": "cannot ride home in the same carriage."
+  },
+  {
+   "zh": "我要告诉邻居家的姑娘：",
+   "en": "Let me tell the girl next door:"
+  },
+  {
+   "zh": "学她皱眉，怎么能指望变得一样呢？",
+   "en": "copying her frown, how can you hope for the same?"
+  }
+ ],
+ "background": {
+  "zh": "西施是春秋时越国的美女。传说越国被吴国打败后，越王把她献给吴王。王维借这个故事写人世间的道理：一个人地位低时没人看重，一旦得势，大家才说他了不起。诗的写作时间不清楚。一说这首诗是在感叹有才的人没被重用，也有人认为是讽刺那些靠运气发达、跟着别人学样的人。",
+  "en": "Xi Shi was a famous beauty of the state of Yue long ago. Legend says that after Yue was beaten by Wu, the king of Yue gave her to the king of Wu. Wang Wei uses the story to say something about the world. When a person is lowly, nobody cares. Once they rise, everyone says how great they are. We do not know when it was written. One view is that it sighs over talented people left unused. Others read it as mocking people who rise by luck, and those who copy them."
+ },
+ "author_note": {
+  "zh": "王维（约701—761），字摩诘，唐代诗人，也是画家和音乐家，以山水田园诗最有名。他年轻时就到长安求取功名，见过很多官场上的起起落落。这首诗不写山水，而是借古人讲世态人情，语气平静，意思却很深。",
+  "en": "Wang Wei (about 701–761) was a Tang poet who was also a painter and musician. He is best known for poems of hills, rivers and farms. As a young man he went to Chang'an to seek a career, and he saw many people rise and fall at court. This poem is not about nature. It uses an old story to talk about how people treat each other. The tone is calm, but the meaning goes deep."
+ },
+ "appreciation": {
+  "zh": "这首诗像在讲一个故事，也像在讲道理。“朝为越溪女，暮作吴宫妃”，一早一晚，身份就完全变了，变得那么快。可她本人变了吗？诗人说：低微时，她和大家一样；富贵了，人们才说她稀罕。接着写她被宠以后，搽粉穿衣都要人伺候，做什么都对，旧日的伙伴却再也够不着她。最后一句用了东施效颦的故事：光学别人的样子，是学不来好运的。整首诗语气淡淡的，却让人看清了世人只看地位的势利眼。",
+  "en": "The poem tells a story and also teaches a lesson. \"In the morning a girl by the stream, by evening a consort in the palace\": from dawn to dusk her place in the world changes completely, and so fast. But did she herself change? The poet says that when she was lowly, she was like everyone else. Only when she was grand did people call her rare. Then we see her after the king favors her. Others powder her face and dress her, everything she does is right, and her old friends can no longer reach her. The last line uses the story of Dong Shi copying the frown: copying someone's looks will not copy their luck. The tone stays calm, yet it shows clearly how people judge others only by their rank."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "beauty",
+   "society"
+  ]
+ },
+ "uncertain": []
+}

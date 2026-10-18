@@ -1,0 +1,361 @@
+{
+ "id": "768ab03f-279d-43c3-932e-131a347eb031",
+ "kind": "shi",
+ "title": "商山早行",
+ "title_en": "Setting Out Early on Mount Shang",
+ "author": "温庭筠",
+ "author_en": "Wen Tingyun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "晨",
+    "chén"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "铎",
+    "duó"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "鸡",
+    "jī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "茅",
+    "máo"
+   ],
+   [
+    "店",
+    "diàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "迹",
+    "jì"
+   ],
+   [
+    "板",
+    "bǎn"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "槲",
+    "hú"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "枳",
+    "zhǐ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "驿",
+    "yì"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ]
+  ],
+  [
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "凫",
+    "fú"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "塘",
+    "táng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "行",
+   "pinyin": "xíng",
+   "zh": "这里是“行走、旅行”的意思，读 xíng。",
+   "en": "Here it means to travel, read xíng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "动征铎：车上的铃铛响起来，表示要出发了。征铎，远行的车马上挂的大铃铛。",
+   "en": "dòng zhēng duó: the bells on the carts start ringing, a sign it is time to leave. Zhēng duó are the big bells hung on travelers' carts and horses."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "客行：在外面旅行的人，指诗人自己。",
+   "en": "kè xíng: a traveler far from home, the poet himself."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "悲故乡：因为想念故乡而伤心。",
+   "en": "bēi gù xiāng: feeling sad from missing home."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "茅店：用茅草盖屋顶的小客店。",
+   "en": "máo diàn: a small inn with a thatched roof."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "人迹：人的脚印。",
+   "en": "rén jì: footprints."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "板桥：用木板搭的桥。",
+   "en": "bǎn qiáo: a bridge made of wooden planks."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "槲叶：槲树的叶子。槲树是一种落叶树，旧叶子过冬也不掉，到春天长新芽时才落下。",
+   "en": "hú yè: leaves of the hu oak. Its old leaves stay on through winter and fall only in spring when new buds come."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "枳花：枳树开的白花。枳树也叫枸橘，春天开白花。",
+   "en": "zhǐ huā: white flowers of the trifoliate orange, which blooms in spring."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "明：使……显得明亮。白色的枳花让墙显得很亮。",
+   "en": "míng: to brighten. The white flowers make the wall look bright."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "驿墙：驿站的墙。驿站是古代给送信的人和过路官员换马、休息的地方。",
+   "en": "yì qiáng: the wall of a post station, a place where messengers and officials changed horses and rested."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "杜陵：地名，在长安城东南，这里代指长安一带，诗人曾经在那里住。",
+   "en": "dù líng: a place southeast of Chang'an, here standing for the Chang'an area, where the poet had lived."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "凫雁：野鸭和大雁。凫，野鸭。",
+   "en": "fú yàn: wild ducks and wild geese. Fú means wild duck."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "回塘：弯弯曲曲的池塘。",
+   "en": "huí táng: a winding pond."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清早起来，车马的铃铛已经响了，",
+   "en": "I rise at dawn, and the travel bells are already ringing;"
+  },
+  {
+   "zh": "我这远行的人，心里想念着故乡。",
+   "en": "as a traveler on the road, I grieve for home."
+  },
+  {
+   "zh": "鸡叫了，茅草小店上方还挂着月亮，",
+   "en": "Roosters crow; the moon still hangs over the thatched inn;"
+  },
+  {
+   "zh": "木板桥上的霜，已经留下了行人的脚印。",
+   "en": "footprints already mark the frost on the plank bridge."
+  },
+  {
+   "zh": "槲树的叶子，落满了山路，",
+   "en": "Oak leaves have fallen all over the mountain road;"
+  },
+  {
+   "zh": "白色的枳花，把驿站的墙衬得发亮。",
+   "en": "white orange blossoms brighten the post-station wall."
+  },
+  {
+   "zh": "于是想起昨夜梦见杜陵的情景：",
+   "en": "And I think of last night's dream of Duling:"
+  },
+  {
+   "zh": "野鸭和大雁，挤满了弯弯的池塘。",
+   "en": "wild ducks and geese filling the winding ponds."
+  }
+ ],
+ "background": {
+  "zh": "商山，在今天陕西商洛东南，是从长安往东南走的必经之路。这首诗写的是诗人路过商山时，一大早从客店出发的情景。一说这首诗写于唐宣宗大中末年，温庭筠离开长安，到襄阳（在今天湖北）去做官的路上。这首诗选入了初中语文课本。",
+  "en": "Mount Shang is southeast of today's Shangluo in Shaanxi, on the main road southeast out of Chang'an. The poem shows the poet setting off from an inn very early in the morning as he passed Mount Shang. One view says it was written near the end of Emperor Xuanzong's Dazhong years, when Wen Tingyun left Chang'an to take a post in Xiangyang, in today's Hubei. The poem is in the middle school Chinese textbook."
+ },
+ "author_note": {
+  "zh": "温庭筠（约812—约866），本名岐，字飞卿，晚唐诗人、词人。他很有才，据说叉八次手就能写成一首八韵的赋，人称“温八叉”，可是考试一直不顺，一生不得志。他的诗和李商隐齐名，合称“温李”；他还是花间词派的重要词人。",
+  "en": "Wen Tingyun (about 812–about 866), born Wen Qi, courtesy name Feiqing, was a late Tang poet and writer of ci. He was very gifted. It is said he could finish a long rhymed piece in the time it took to fold his hands eight times, so people called him Wen Eight-Folds. But he kept failing the exams and never did well in his career. His poems were as famous as Li Shangyin's, and the two were called Wen and Li. He was also a leading ci writer of the Huajian school."
+ },
+ "appreciation": {
+  "zh": "“鸡声茅店月，人迹板桥霜”是千古名句。这两句全是名词：鸡声、茅店、月、人迹、板桥、霜，一个动词也没有，却拼出了一幅完整的画：天还没亮，鸡在叫，月亮挂在茅草店上；桥上的霜已经被人踩出了脚印，说明有人比诗人走得更早。早起的冷、旅途的苦都在里面了。五、六句写路上看到的落叶和白花。最后诗人想起昨夜的梦：梦里是杜陵，野鸭大雁挤满池塘，热闹又温暖，和眼前冷清的路正好相反，想家的心情就更浓了。",
+  "en": "\"Rooster crows, thatched inn, moon; footprints, plank bridge, frost\" are among the most famous lines in Chinese poetry. They are made only of nouns, without a single verb, yet they build a whole picture. It is not yet light. A rooster crows, and the moon hangs over the thatched inn. The frost on the bridge already shows footprints, so someone set out even earlier than the poet. The cold of rising early and the hardship of the road are all in there. Lines five and six show the fallen leaves and white flowers along the way. At the end the poet recalls last night's dream of Duling, with wild ducks and geese crowding the ponds, lively and warm. It is just the opposite of the cold road in front of him, and it makes his homesickness even stronger."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "homesick",
+   "dawn",
+   "frost",
+   "dream"
+  ]
+ },
+ "uncertain": []
+}

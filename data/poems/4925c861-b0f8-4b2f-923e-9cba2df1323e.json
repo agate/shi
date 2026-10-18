@@ -1,0 +1,990 @@
+{
+ "id": "4925c861-b0f8-4b2f-923e-9cba2df1323e",
+ "kind": "shi",
+ "title": "洛阳女儿行",
+ "title_en": "Song of the Luoyang Girl",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言古诗（乐府）",
+  "en": "seven-character old-style poem (yuefu song)"
+ },
+ "lines": [
+  [
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "居",
+    "jū"
+   ]
+  ],
+  [
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "馀",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "良",
+    "liáng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "勒",
+    "lè"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "骢",
+    "cōng"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "侍",
+    "shì"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "脍",
+    "kuài"
+   ],
+   [
+    "鲤",
+    "lǐ"
+   ],
+   [
+    "鱼",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "檐",
+    "yán"
+   ],
+   [
+    "向",
+    "xiàng"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "帏",
+    "wéi"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "七",
+    "qī"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "车",
+    "chē"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "迎",
+    "yíng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "帐",
+    "zhàng"
+   ]
+  ],
+  [
+   [
+    "狂",
+    "kuáng"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "富",
+    "fù"
+   ],
+   [
+    "贵",
+    "guì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "骄",
+    "jiāo"
+   ],
+   [
+    "奢",
+    "shē"
+   ],
+   [
+    "剧",
+    "jù"
+   ],
+   [
+    "季",
+    "jì"
+   ],
+   [
+    "伦",
+    "lún"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "亲",
+    "qīn"
+   ],
+   [
+    "教",
+    "jiāo"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "珊",
+    "shān"
+   ],
+   [
+    "瑚",
+    "hú"
+   ],
+   [
+    "持",
+    "chí"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "曙",
+    "shǔ"
+   ],
+   [
+    "灭",
+    "miè"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "火",
+    "huǒ"
+   ]
+  ],
+  [
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "琐",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "戏",
+    "xì"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "曾",
+    "zēng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "理",
+    "lǐ"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "熏",
+    "xūn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "坐",
+    "zuò"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "华",
+    "huá"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "赵",
+    "zhào"
+   ],
+   [
+    "李",
+    "lǐ"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "玉",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "贫",
+    "pín"
+   ],
+   [
+    "贱",
+    "jiàn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "浣",
+    "huàn"
+   ],
+   [
+    "纱",
+    "shā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原始资料第二句作“容颜”，通行的《唐诗三百首》本作“颜容”，这里从通行本。原始资料里的“鲙、簷、璅、秪、薰”是旧字形或异体字，这里按今天的写法改成“脍、檐、琐、只、熏”。",
+  "en": "In line 2 the source text has róng yán; the common Three Hundred Tang Poems edition has yán róng, used here. Several characters in the source are old or variant forms; here they are written the modern way (for kuài, yán, suǒ, zhǐ and xūn)."
+ },
+ "readings": [
+  {
+   "line": 10,
+   "pos": 5,
+   "char": "教",
+   "pinyin": "jiāo",
+   "zh": "教舞：教她跳舞，这里“教”是动词，读 jiāo。",
+   "en": "jiāo wǔ: to teach dancing. Here the character is a verb, \"to teach\", read jiāo."
+  },
+  {
+   "line": 14,
+   "pos": 2,
+   "char": "曾",
+   "pinyin": "zēng",
+   "zh": "曾无：竟然没有。“曾”在这里是“竟然”的意思，读 zēng，不读 céng。",
+   "en": "zēng wú: never once. Here the character means \"actually, at all\" and is read zēng, not céng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "对门居：住在（诗人）对门。",
+   "en": "duì mén jū: lives across the street (from the poet)."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "才可：刚刚、大约。",
+   "en": "cái kě: just about."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "颜容：容貌，年纪看上去。",
+   "en": "yán róng: her looks, how old she looks."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "十五馀：十五岁多一点。",
+   "en": "shí wǔ yú: a little over fifteen."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "良人：古代妻子对丈夫的称呼。",
+   "en": "liáng rén: an old word a wife used for her husband."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "玉勒：用玉装饰的马笼头。",
+   "en": "yù lè: a horse's bridle decorated with jade."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "骢马：青白色的马，是名贵的好马。",
+   "en": "cōng mǎ: a blue-and-white horse, a fine and costly one."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "脍：把鱼或肉切成很细的片或丝。",
+   "en": "kuài: to slice fish or meat very thin."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "画阁朱楼：彩画装饰的楼阁、红漆的高楼。",
+   "en": "huà gé zhū lóu: painted pavilions and red-lacquered towers."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "尽相望：一座挨着一座，彼此望得见。",
+   "en": "jìn xiāng wàng: one after another, each in sight of the next."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "垂檐向：枝条垂向屋檐。",
+   "en": "chuí yán xiàng: their branches hang down toward the eaves."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "罗帏：丝绸做的车帘。",
+   "en": "luó wéi: silk curtains on the carriage."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "七香车：用多种香木做成的华丽车子。",
+   "en": "qī xiāng chē: a fancy carriage made of many fragrant woods."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "宝扇：华贵的扇子。古代贵族女子出门时，侍女用长柄扇遮挡她。",
+   "en": "bǎo shàn: fine fans. When a noble lady went out, maids shaded her with long-handled fans."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "九华帐：绣着许多花纹的华丽床帐。",
+   "en": "jiǔ huá zhàng: a rich bed curtain embroidered with many patterns."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "狂夫：这里指她的丈夫。",
+   "en": "kuáng fū: here, her husband."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "在青春：年纪轻轻就有了。",
+   "en": "zài qīng chūn: while still young."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "意气骄奢：神气十足，骄傲又奢侈。",
+   "en": "yì qì jiāo shē: full of pride, arrogant and wasteful."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "剧季伦：剧，胜过；季伦，晋朝大富翁石崇的字。意思是比石崇还要奢侈。",
+   "en": "jù jì lún: jù means to outdo. Jilun was the courtesy name of Shi Chong, a famously rich man of the Jin dynasty. So: even more lavish than Shi Chong."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "自怜：这里指丈夫自己疼爱（她）。",
+   "en": "zì lián: here, the husband dotes on her himself."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "碧玉：本是古代一位小户人家女子的名字，后来常指出身普通的美丽女子。这里指洛阳女儿。",
+   "en": "bì yù: once the name of a girl from a humble family in an old song, later used for any pretty girl of plain birth. Here it means the Luoyang girl."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "珊瑚：传说石崇和人比富，打碎了对方的珊瑚树，又拿出更大的珊瑚树赔给他。这里说丈夫随手就把珍宝送人。",
+   "en": "shān hú: coral. Legend says Shi Chong, competing in wealth, smashed a rival's coral tree and gave him bigger ones. Here: the husband gives treasures away without a thought."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 3,
+   "zh": "曙：天刚亮。",
+   "en": "shǔ: dawn."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 7,
+   "zh": "九微火：九微灯的灯火，是一种很华贵的灯。",
+   "en": "jiǔ wēi huǒ: the flame of a jiuwei lamp, a very costly kind of lamp."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "片片：灯花一片一片。灯芯烧过结成的花状小块叫灯花。",
+   "en": "piàn piàn: flake by flake. The burnt bits of a wick that look like little flowers are called lamp flowers."
+  },
+  {
+   "line": 13,
+   "start": 5,
+   "end": 7,
+   "zh": "花琐：雕着花纹、像连环一样的窗格。",
+   "en": "huā suǒ: carved window lattice with patterns like linked rings."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "戏罢：玩够了。",
+   "en": "xì bà: done with playing."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "理曲：练习曲子。",
+   "en": "lǐ qǔ: to practice music."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 6,
+   "zh": "熏香：点香，让香气熏染衣服和屋子。",
+   "en": "xūn xiāng: to burn incense so the scent fills the clothes and the room."
+  },
+  {
+   "line": 16,
+   "start": 5,
+   "end": 7,
+   "zh": "繁华：这里指有钱有势的人。",
+   "en": "fán huá: here, rich and powerful people."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "经过：来往、拜访。",
+   "en": "jīng guò: to come and visit."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 7,
+   "zh": "赵李家：汉成帝的皇后赵飞燕和婕妤李平的娘家，这里泛指皇亲贵族。",
+   "en": "zhào lǐ jiā: the families of Zhao Feiyan, empress of Emperor Cheng of Han, and of his consort Li Ping. Here it means royal relatives and nobles in general."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "越女：越国的女子，这里指西施。西施没被发现以前，是在江边洗纱的穷姑娘。",
+   "en": "yuè nǚ: a girl of Yue, here Xi Shi. Before she was discovered, she was a poor girl washing silk by the river."
+  },
+  {
+   "line": 19,
+   "start": 5,
+   "end": 7,
+   "zh": "浣纱：在水里洗纱。",
+   "en": "huàn shā: washing silk yarn in the water."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "洛阳有个姑娘，就住在我家对门，",
+   "en": "A girl of Luoyang lives across the street from me."
+  },
+  {
+   "zh": "看她的样子，才十五岁多一点。",
+   "en": "By her looks she is just a little over fifteen."
+  },
+  {
+   "zh": "她的丈夫骑着配玉笼头的青白骏马，",
+   "en": "Her husband rides a fine horse with a jade bridle."
+  },
+  {
+   "zh": "侍女用金盘端上切得细细的鲤鱼。",
+   "en": "Her maids serve thin-sliced carp on golden plates."
+  },
+  {
+   "zh": "她家的彩楼红阁一座连着一座，",
+   "en": "Her painted halls and red towers stand row on row."
+  },
+  {
+   "zh": "红桃绿柳的枝条垂到屋檐下。",
+   "en": "Red peach and green willow hang down by the eaves."
+  },
+  {
+   "zh": "出门时，有人掀开丝帘送她坐上香车，",
+   "en": "When she goes out, she is helped behind silk curtains into a fragrant carriage."
+  },
+  {
+   "zh": "回来时，有人举着宝扇迎她进入华丽的床帐。",
+   "en": "When she comes home, fine fans welcome her back to her rich bed curtains."
+  },
+  {
+   "zh": "她丈夫年纪轻轻就富贵了，",
+   "en": "Her husband grew rich and grand while still young."
+  },
+  {
+   "zh": "神气骄傲，奢侈得超过了石崇。",
+   "en": "Proud and wasteful, he outdoes even Shi Chong."
+  },
+  {
+   "zh": "他宠爱她，亲自教她跳舞，",
+   "en": "He dotes on her and teaches her to dance himself."
+  },
+  {
+   "zh": "珊瑚那样的珍宝，也舍得随手送人。",
+   "en": "Treasures like coral he gives away without a care."
+  },
+  {
+   "zh": "春天的窗边，天亮了才熄掉九微灯，",
+   "en": "By the spring window, the jiuwei lamp is put out only at dawn."
+  },
+  {
+   "zh": "灯花一片片飞落在雕花窗格上。",
+   "en": "Flakes of lamp flowers drift down on the carved lattice."
+  },
+  {
+   "zh": "玩够了，也从没有练过曲子，",
+   "en": "When play is over, she never practices her music."
+  },
+  {
+   "zh": "梳妆好了，只是坐着熏香。",
+   "en": "Once dressed and made up, she just sits among the incense."
+  },
+  {
+   "zh": "她在城里认识的，全是有钱有势的人，",
+   "en": "Everyone she knows in the city is rich and grand."
+  },
+  {
+   "zh": "日夜来往的，都是皇亲贵族的家。",
+   "en": "Day and night she visits the homes of royal kin."
+  },
+  {
+   "zh": "可是谁会怜惜那位美貌如玉的越国姑娘？",
+   "en": "But who feels for the girl of Yue, with a face like jade?"
+  },
+  {
+   "zh": "她又穷又卑微，只能独自在江边洗纱。",
+   "en": "Poor and lowly, she washes silk alone by the river."
+  }
+ ],
+ "background": {
+  "zh": "这首诗题下有王维的自注“时年十六”（一作十八），说明是他少年时写的。诗写的是洛阳一位嫁入豪门的少女，生活奢华却空虚。最后两句忽然转到江边洗纱的穷姑娘身上。一般认为，诗人借这个对比，感叹有才能的人出身贫寒，就得不到重用。",
+  "en": "Under the title Wang Wei noted that he was sixteen (another text says eighteen) when he wrote it, so this is a poem of his youth. It describes a young girl of Luoyang who married into a rich family and lives in luxury, but an empty one. In the last two lines the poem suddenly turns to a poor girl washing silk by the river. Most readers think the poet uses this contrast to sigh that talented people from poor families are never given a chance."
+ },
+ "author_note": {
+  "zh": "王维（701?—761），字摩诘，唐代大诗人，也是画家和音乐家，后人说他“诗中有画”。他少年时就很有名，十几岁到长安、洛阳一带，见过很多豪门贵族的生活。这首诗就是他少年时期的作品，已经能把华丽的场面写得很细。",
+  "en": "Wang Wei (701?–761), courtesy name Mojie, was a great Tang poet as well as a painter and musician. People later said his poems \"have paintings in them\". He was famous as a teenager and went to Chang'an and Luoyang, where he saw how rich noble families lived. This poem comes from those young years, and it already paints a lavish scene in fine detail."
+ },
+ "appreciation": {
+  "zh": "这首诗大部分篇幅都在写“富”：骏马、金盘、红楼、香车、宝扇、九微灯，一样比一样华丽。丈夫骄傲奢侈，把妻子当成宝贝，教她跳舞，珍宝随便送人。她的日子呢？灯点到天亮，玩够了不练曲，打扮好了只是坐着熏香。读着读着，我们会觉得这种生活很热闹，也很空。最后两句像镜头一下子转开：江边有个像玉一样美的姑娘，因为穷，只能自己洗纱，没人理会。前面写得越热闹，最后这一幕就越冷清。诗人没有直接骂谁，只是把两个画面并排放着，让我们自己去比较，去想想这个世界公平不公平。",
+  "en": "Most of the poem is about wealth: fine horses, golden plates, red towers, fragrant carriages, jeweled fans, costly lamps, each grander than the last. The husband is proud and lavish. He treats his wife like a treasure, teaches her to dance, and gives away riches without a thought. And her days? Lamps burn till dawn. After play she never practices music. Once dressed up, she just sits among the incense. As we read on, this life feels busy, but also empty. Then the last two lines swing away like a camera. By the river is a girl as lovely as jade, but because she is poor, she washes silk alone and no one cares. The busier the first part, the colder this last scene feels. The poet blames no one out loud. He just sets the two pictures side by side and lets us compare them and ask whether the world is fair."
+ },
+ "famous_lines": [
+  18,
+  19
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wealth",
+   "contrast",
+   "women",
+   "talent"
+  ]
+ },
+ "uncertain": []
+}

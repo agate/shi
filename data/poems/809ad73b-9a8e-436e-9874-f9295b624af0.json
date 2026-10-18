@@ -1,0 +1,349 @@
+{
+ "id": "809ad73b-9a8e-436e-9874-f9295b624af0",
+ "kind": "shi",
+ "title": "金陵酒肆留别",
+ "title_en": "Farewell at a Wine Shop in Jinling",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言古诗",
+  "en": "seven-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "店",
+    "diàn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "姬",
+    "jī"
+   ],
+   [
+    "压",
+    "yā"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "尝",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "弟",
+    "dì"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "送",
+    "sòng"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "各",
+    "gè"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "觞",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "请",
+    "qǐng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "之",
+    "zhī"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "短",
+    "duǎn"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "谁：现在课本读 shuí，口语也读 shéi。",
+   "en": "shuí: textbooks read it shuí; in everyday speech it is also said shéi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "柳花：柳絮，春天柳树上飘下来的白色绒毛。",
+   "en": "liǔ huā: willow catkins, the white fluff that floats down from willows in spring."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 6,
+   "zh": "店：酒店，酒馆。",
+   "en": "diàn: the wine shop."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "吴姬：吴地的年轻女子，这里指酒店里卖酒的姑娘。金陵古时属于吴地。",
+   "en": "wú jī: a young woman of the Wu region, here the girl who serves wine in the shop. Jinling was once part of Wu."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "压酒：古时酿酒，要把酒糟压一压，把新酒挤出来。",
+   "en": "yā jiǔ: to press wine. Long ago, new wine was squeezed out of the fermented grain by pressing it."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "唤客尝：招呼客人来尝。“唤”一作“劝”。",
+   "en": "huàn kè cháng: calls the guests to taste it. Some editions have \"quàn\", to urge, instead of \"huàn\"."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "金陵：今天的江苏南京。",
+   "en": "jīn líng: Jinling, today's Nanjing in Jiangsu."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "子弟：年轻人，这里指李白在金陵结交的年轻朋友。",
+   "en": "zǐ dì: young men, here the young friends Li Bai had made in Jinling."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "欲行不行：要走的人（李白）和不走的人（送行的朋友）。",
+   "en": "yù xíng bù xíng: the one about to leave, Li Bai, and those who stay behind, his friends."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "尽觞：喝干杯中的酒。觞，古代的酒杯。",
+   "en": "jìn shāng: to drain one's cup. Shāng is an old word for a wine cup."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 2,
+   "zh": "君：你们，指送行的朋友。",
+   "en": "jūn: you, the friends seeing him off."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "别意：离别的情意。",
+   "en": "bié yì: the feeling of parting."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 7,
+   "zh": "与之谁短长：和它比一比，看谁短谁长。之，指东流的江水。",
+   "en": "yǔ zhī shuí duǎn cháng: compared with it, which is shorter and which is longer? Zhī means it, the river flowing east."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春风吹起柳絮，满酒店都飘着香气，",
+   "en": "The wind blows the willow catkins, and the whole shop smells sweet."
+  },
+  {
+   "zh": "卖酒的姑娘压出新酒，招呼客人来尝。",
+   "en": "The Wu girl presses new wine and calls the guests to taste it."
+  },
+  {
+   "zh": "金陵的年轻朋友们都来为我送行，",
+   "en": "My young friends of Jinling have come to see me off."
+  },
+  {
+   "zh": "要走的我和留下的你们，都把杯中的酒喝干。",
+   "en": "Those who go and those who stay all drain their cups."
+  },
+  {
+   "zh": "请你们去问一问向东流的江水，",
+   "en": "Please go and ask the river flowing east:"
+  },
+  {
+   "zh": "离别的情意和它比起来，谁短谁长？",
+   "en": "which is longer, you, or our feeling at parting?"
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗写于唐玄宗开元十四年（726年）春天，一说是开元十三年。李白二十多岁，离开四川老家出门远游，在金陵住了一段时间，交了不少朋友。这年春天，他要离开金陵去扬州，朋友们在一家酒店里给他送行。李白写下这首诗，留给朋友们作告别，所以题目叫“留别”。",
+  "en": "This poem is usually dated to spring 726, though some say 725. Li Bai was in his twenties. He had left his home in Sichuan to travel, stayed for a while in Jinling and made many friends. That spring he was leaving for Yangzhou, and his friends gave him a farewell party at a wine shop. Li Bai wrote this poem and left it for them as a goodbye, which is why the title says \"left behind at parting\"."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代最有名的诗人之一，人称“诗仙”。他性格豪放，爱喝酒，爱交朋友，一生走遍了大半个中国。他写离别的诗很多，但常常不哭哭啼啼，而是写得热情、爽快。这首诗就是他年轻时漫游江南留下的作品。",
+  "en": "Li Bai (701 to 762) is one of the most famous Tang poets, called the Immortal of Poetry. He was bold and free, loved wine and loved making friends, and traveled across much of China. He wrote many farewell poems, but they are seldom tearful; they are warm and open-hearted. This one comes from his youthful travels in the south."
+ },
+ "appreciation": {
+  "zh": "这首送别诗一点也不冷清，反而热热闹闹。开头是春天的酒店：柳絮满天飞，酒香飘满屋，卖酒的姑娘笑着招呼客人。柳絮本来没有什么香味，诗人却说“满店香”，其实是春天的花香、酒香和欢乐的气氛混在一起了。接着朋友们都来了，要走的和留下的一杯接一杯，谁也舍不得先放下酒杯。最后两句最妙：离别的情意有多长？诗人不直接说，而是请朋友去问向东流的长江。江水滔滔不绝，永远流不完，那份友情也就像江水一样长，甚至更长。",
+  "en": "This farewell poem is not lonely at all. It is lively and warm. It opens in a wine shop in spring. Willow catkins fill the air, the smell of wine fills the room, and the girl selling wine calls the guests with a smile. Catkins have no real scent, yet the poet says the whole shop smells sweet. It is the spring flowers, the wine and the happy mood all mixed together. Then the friends arrive. Those leaving and those staying drink cup after cup, and no one wants to put a cup down first. The last two lines are the best. How long is the feeling of parting? The poet does not say. He asks his friends to go and ask the Yangtze flowing east. The river rolls on and never ends, so the friendship is just as long, or even longer."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "wine",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

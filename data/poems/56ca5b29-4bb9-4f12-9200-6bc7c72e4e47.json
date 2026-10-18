@@ -1,0 +1,500 @@
+{
+ "id": "56ca5b29-4bb9-4f12-9200-6bc7c72e4e47",
+ "kind": "shi",
+ "title": "秋登兰山寄张五",
+ "title_en": "Climbing Lan Mountain in Autumn, for Zhang the Fifth",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "者",
+    "zhě"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "怡",
+    "yí"
+   ],
+   [
+    "悦",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "始",
+    "shǐ"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "灭",
+    "miè"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "兴",
+    "xìng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "荠",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "载",
+    "zài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里按《唐诗三百首》通行本：第三句作“相望始登高”，第四句作“心随雁飞灭”，第十句作“江畔洲如月”。底本分别作“相望试登高”“心飞逐鸟灭”“江畔舟如月”，是另一种流传的版本。题目中的“兰山”，一作“万山”。",
+  "en": "We follow the usual text in Three Hundred Tang Poems: line three has shǐ dēng gāo, line four xīn suí yàn fēi miè, and line ten zhōu rú yuè with the character for sandbar. The source text has shì dēng gāo, xīn fēi zhú niǎo miè and the character for boat in line ten, another version handed down. In the title, Lan Mountain is also given as Wan Mountain."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄暮”是傍晚，“薄”读 bó，不读 báo。",
+   "en": "Bó mù means dusk; here the character is read bó, not báo."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "兴",
+   "pinyin": "xìng",
+   "zh": "“兴”是兴致、兴趣，读 xìng，不读 xīng。",
+   "en": "Here it means delight or high spirits, read xìng, not xīng."
+  },
+  {
+   "line": 8,
+   "pos": 4,
+   "char": "荠",
+   "pinyin": "jì",
+   "zh": "“荠”是荠菜，读 jì。",
+   "en": "This is the shepherd's purse plant, read jì."
+  },
+  {
+   "line": 11,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重阳”的“重”是重复的意思，读 chóng。",
+   "en": "In chóng yáng the character means double, read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "北山：指兰山（一作万山），在今天湖北襄阳，离孟浩然的家不远。",
+   "en": "běi shān: the north hill, meaning Lan Mountain, also called Wan Mountain, in today's Xiangyang, Hubei, near Meng Haoran's home."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "隐者：隐居的人。一般认为指张五，一说是诗人自己。",
+   "en": "yǐn zhě: a hermit. It is usually taken to mean Zhang the Fifth; some say it is the poet himself."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "怡悦：快乐、自在。",
+   "en": "yí yuè: happy and at ease."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "相望：遥望对方。",
+   "en": "xiāng wàng: looking toward each other from afar."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "心随雁飞灭：我的心跟着南飞的大雁一起飞走，直到大雁消失在天边。",
+   "en": "xīn suí yàn fēi miè: my heart flies off with the wild geese until they vanish into the sky."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "薄暮：傍晚，太阳快落山的时候。",
+   "en": "bó mù: dusk, when the sun is about to set."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "兴：兴致，好心情。",
+   "en": "xìng: delight, good spirits."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "归村人：回村的人。",
+   "en": "guī cūn rén: people going home to the village."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "沙行：在沙滩上走。",
+   "en": "shā xíng: walking on the sand."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "渡头：渡口，坐船过河的地方。",
+   "en": "dù tóu: a ferry landing."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 5,
+   "zh": "荠：荠菜，一种小小的野菜。远处的树看上去像荠菜一样小。",
+   "en": "jì: shepherd's purse, a tiny wild plant. The far-off trees look as small as these plants."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 3,
+   "zh": "洲：江中的沙洲。",
+   "en": "zhōu: a sandbar in the river."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "何当：什么时候才能。",
+   "en": "hé dāng: when can we."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "重阳节：农历九月初九，有登高、喝菊花酒的风俗。",
+   "en": "chóng yáng jié: the Double Ninth Festival, on the ninth day of the ninth lunar month, when people climb heights and drink chrysanthemum wine."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "北山上白云飘飘，",
+   "en": "Up on the north hill, among white clouds,"
+  },
+  {
+   "zh": "隐居的人在那里自得其乐。",
+   "en": "the hermit lives happy and at ease."
+  },
+  {
+   "zh": "为了远远望你，我才登上高处，",
+   "en": "To look toward you, I climb up high,"
+  },
+  {
+   "zh": "我的心跟着大雁飞走，直到看不见。",
+   "en": "and my heart flies off with the geese until they vanish."
+  },
+  {
+   "zh": "傍晚来临，心里生出淡淡的愁，",
+   "en": "As dusk comes on, a quiet sadness rises,"
+  },
+  {
+   "zh": "可清爽的秋天又让我兴致很高。",
+   "en": "yet the clear autumn lifts my spirits."
+  },
+  {
+   "zh": "时常看见回村的人，",
+   "en": "Now and then I see villagers heading home,"
+  },
+  {
+   "zh": "走过沙滩，在渡口歇脚。",
+   "en": "walking over the sand and resting at the ferry."
+  },
+  {
+   "zh": "天边的树小得像荠菜，",
+   "en": "Trees at the sky's edge look as small as wild herbs,"
+  },
+  {
+   "zh": "江边的沙洲弯弯的像月亮。",
+   "en": "and the sandbar by the river curves like the moon."
+  },
+  {
+   "zh": "什么时候你能带着酒来，",
+   "en": "When will you come with wine,"
+  },
+  {
+   "zh": "我们一起在重阳节喝个痛快？",
+   "en": "so we can drink together on the Double Ninth?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗是孟浩然在秋天登上家乡附近的兰山（一作万山）时写的，写好寄给朋友张五。张五是谁，说法不一：一说是张子容，一说是张諲，都是孟浩然的朋友。诗人登高远望，想念朋友，最后邀请他重阳节来一起喝酒。",
+  "en": "Meng Haoran wrote this poem one autumn after climbing Lan Mountain, also called Wan Mountain, near his home, and sent it to his friend Zhang the Fifth. Zhang the Fifth means the fifth son of a Zhang family. Who he was is debated: one view says Zhang Zirong, another says Zhang Yin. Both were friends of Meng Haoran. From the top the poet looks far out and misses his friend, and at the end he invites him to come drink at the Double Ninth Festival."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），唐代诗人，襄阳人。他大半辈子住在家乡的鹿门山一带，过着隐居的生活，也曾到长安求官，没有成功。他和王维并称“王孟”，都擅长写山水田园。他的诗语言平淡，却很有味道，这首诗写家乡的秋景就是这样。",
+  "en": "Meng Haoran (689 to 740) was a Tang poet from Xiangyang. He spent most of his life in the hills near his home, living as a hermit. He once went to Chang'an to seek a post but did not succeed. He and Wang Wei are named together as Wang and Meng, both masters of poems about hills, rivers and farms. His words are plain but full of flavor, as in this poem about autumn at home."
+ },
+ "appreciation": {
+  "zh": "开头两句借用了南朝陶弘景的诗意：山中白云只能自己欣赏。隐者在白云里自在快乐，也透出对朋友的思念。诗人为了望朋友，才登上高处；大雁飞远了，他的心也跟着飞远了。傍晚让人发愁，秋天又让人高兴，愁和喜交织在一起，很真实。接下来是登高看到的风景：回村的人在渡口歇脚，远处的树小得像荠菜，江边的沙洲弯得像月亮。“树若荠”“洲如月”两个比喻，写出了站得高、看得远的感觉，画面很清新。最后诗人约朋友重阳节来喝酒，把思念变成了一个温暖的邀请。",
+  "en": "The first two lines echo an older poet, Tao Hongjing, who said the white clouds in the hills could only be enjoyed by oneself. The hermit lives happily among white clouds, and the lines also hint at missing a friend. The poet climbs high just to look toward his friend. As the geese fly far off, his heart flies off with them. Dusk brings sadness and autumn brings joy, and the two feelings mix together, which feels very true. Next comes the view from the top. Villagers rest at the ferry. Far trees look as tiny as wild herbs, and the sandbar curves like the moon. These two images give the feeling of standing high and seeing far, and the picture is fresh and clear. At the end the poet asks his friend to come drink on the Double Ninth, turning his longing into a warm invitation."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "climbing",
+   "longing",
+   "landscape"
+  ]
+ },
+ "uncertain": []
+}

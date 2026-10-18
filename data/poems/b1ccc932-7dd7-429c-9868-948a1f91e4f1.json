@@ -1,0 +1,220 @@
+{
+ "id": "b1ccc932-7dd7-429c-9868-948a1f91e4f1",
+ "kind": "shi",
+ "title": "马诗二十三首·其五",
+ "title_en": "Horse Poems, No. 5",
+ "author": "李贺",
+ "author_en": "Li He",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "钩",
+    "gōu"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "络",
+    "luò"
+   ],
+   [
+    "脑",
+    "nǎo"
+   ]
+  ],
+  [
+   [
+    "快",
+    "kuài"
+   ],
+   [
+    "走",
+    "zǒu"
+   ],
+   [
+    "踏",
+    "tà"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古书里第一句有的写作“大漠山如雪”。现在课本和通行本都写作“大漠沙如雪”。",
+  "en": "Some old books have \"the mountains are like snow\" in the first line. Today's textbooks and standard editions have \"the sand is like snow\"."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "燕山是山名，这里的“燕”读 yān，不读 yàn（燕子）。",
+   "en": "Yanshan is the name of a mountain range. Here the character is read yān, not yàn as in the word for swallow."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "大漠：广大的沙漠。",
+   "en": "dà mò: a huge desert."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "燕山：山名，在今天的河北北部。这里泛指北方边塞的山。",
+   "en": "yān shān: the Yanshan mountains, in the north of today's Hebei. Here it stands for the mountains of the northern frontier."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "似钩：像一把弯弯的钩子。这里指弯月，也让人想到弯刀。",
+   "en": "sì gōu: like a hook. It means a thin curved moon, which also looks like a curved sword."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "何当：什么时候才能。",
+   "en": "hé dāng: when will it ever happen that..."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "金络脑：用金子装饰的马笼头。笼头是套在马头上、用来牵马的皮带。戴上它，说明马被人重用了。",
+   "en": "jīn luò nǎo: a bridle decorated with gold. A bridle is the set of straps put on a horse's head to lead it. Wearing a golden one means the horse is valued and put to use."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "快走：快跑。古时候“走”是跑的意思。",
+   "en": "kuài zǒu: run fast. In old Chinese, zǒu meant to run, not to walk."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "踏清秋：在清爽的秋天里奔驰。",
+   "en": "tà qīng qiū: to gallop through the clear, cool autumn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月光下，广阔的沙漠白得像铺了一层雪。",
+   "en": "Under the moon, the wide desert sand is as white as snow."
+  },
+  {
+   "zh": "燕山上空，挂着一弯像钩子一样的月亮。",
+   "en": "Over the Yanshan mountains hangs a moon curved like a hook."
+  },
+  {
+   "zh": "什么时候我才能戴上金子做的笼头，",
+   "en": "When will I ever wear a bridle of gold,"
+  },
+  {
+   "zh": "在清爽的秋天里，飞快地奔驰在战场上？",
+   "en": "and gallop swiftly across the fields of clear autumn?"
+  }
+ ],
+ "background": {
+  "zh": "李贺写过一组《马诗》，一共二十三首，这是第五首。每一首都写马，其实是借马来说人。好马要遇到懂它的人，才能在战场上奔跑；有才能的人也要被重用，才能做出一番事业。李贺很有才华，却一直没有施展的机会，所以写下这些诗，说出自己的心愿和苦闷。这组诗具体写于哪一年，说法不一。",
+  "en": "Li He wrote a set of twenty-three Horse Poems, and this is the fifth. Each one is about a horse, but really about a person. A fine horse needs someone who knows its worth before it can run in battle. A gifted person also needs to be given a chance before he can do great things. Li He was very talented but never got that chance, so he poured his wishes and his frustration into these poems. Sources differ on the exact year they were written."
+ },
+ "author_note": {
+  "zh": "李贺（790—816），字长吉，唐代诗人。他想象奇特，用词新奇，被人称为“诗鬼”。因为父亲名叫“晋肃”，“晋”和“进士”的“进”同音，有人说他应该避讳，他就没能去考进士。一生不得志，二十七岁就去世了。",
+  "en": "Li He (790–816), also called Changji, was a Tang poet. His imagination was strange and his words were fresh, so people called him the Ghost of Poetry. His father's name sounded like the word for the top civil exam, and people said it would be disrespectful for him to take it, so he never could. He never got the career he hoped for and died at twenty-six."
+ },
+ "appreciation": {
+  "zh": "前两句画了一幅边塞夜景：月光照着沙漠，沙子白得像雪；燕山上的月亮弯弯的，像一把钩子，也像一把弯刀。这是一片可以纵马奔驰、建立功业的地方。后两句是马的心里话：什么时候才能戴上金笼头，在秋天的原野上痛快地奔跑？“快走踏清秋”五个字，好像能听到马蹄声又急又轻快。马盼着被重用，其实就是诗人盼着被重用。读这首诗，可以想象一匹好马望着远方，等着出发的那一刻。",
+  "en": "The first two lines paint a frontier night. Moonlight falls on the desert and the sand looks as white as snow. Over the Yanshan mountains the moon is curved like a hook, or like a curved sword. This is a place for galloping horses and brave deeds. The last two lines are the horse speaking from its heart: when will I wear a golden bridle and run freely across the autumn fields? In the last line you can almost hear the hooves, fast and light. The horse longs to be put to use, and so does the poet. Picture a fine horse gazing into the distance, waiting for the moment to set off."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "horse",
+   "ambition",
+   "frontier",
+   "moon",
+   "desert"
+  ]
+ },
+ "uncertain": []
+}

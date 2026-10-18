@@ -1,0 +1,507 @@
+{
+ "id": "0f5874bf-3748-44c9-bc3a-be4a8c3eb2f6",
+ "kind": "shi",
+ "title": "阁夜",
+ "title_en": "Night in the Pavilion",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "短",
+    "duǎn"
+   ],
+   [
+    "景",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "霁",
+    "jì"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "壮",
+    "zhuàng"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "峡",
+    "xiá"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "摇",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "哭",
+    "kū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "战",
+    "zhàn"
+   ],
+   [
+    "伐",
+    "fá"
+   ]
+  ],
+  [
+   [
+    "夷",
+    "yí"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "樵",
+    "qiáo"
+   ]
+  ],
+  [
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "跃",
+    "yuè"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "土",
+    "tǔ"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寥",
+    "liáo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "现在通行的本子第五句作“野哭千家”，资料库本作“野哭几家”；第八句通行本作“人事音书漫寂寥”，资料库本作“人事依依漫寂寥”。这里用通行本。",
+  "en": "In the commonly used text, line five reads qiān jiā (a thousand homes), while the database text has jǐ jiā (a few homes). Line eight commonly reads yīn shū (letters and news), while the database text has yī yī (lingering). This page follows the common text."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 6,
+   "char": "景",
+   "pinyin": "jǐng",
+   "zh": "景在这里指日光，读 jǐng。古书里“景”有时同“影”，但这里是白天的阳光。",
+   "en": "Here this character means daylight and is read jǐng. In old books it can also stand for shadow, but here it means sunlight."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "五更的“更”是夜里的时段，读 gēng。",
+   "en": "Here the character means a watch of the night, so it is read gēng."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "数处是“几处”的意思，读 shù。",
+   "en": "Here it means several, so it is read shù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "岁暮：一年快要结束的时候，年底。",
+   "en": "suì mù: the end of the year."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "阴阳：这里指日月、时光。",
+   "en": "yīn yáng: here, the sun and moon, that is, time itself."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "短景：冬天白天短，太阳很快落下。",
+   "en": "duǎn jǐng: the short daylight of winter."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "天涯：天边，指离家很远的地方，这里指夔州。",
+   "en": "tiān yá: the edge of the sky, a place far from home. Here it means Kuizhou."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "霁：雨雪停了，天放晴。",
+   "en": "jì: for rain or snow to stop and the sky to clear."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "寒宵：寒冷的夜晚。",
+   "en": "hán xiāo: a cold night."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "五更：古人把一夜分成五段，五更是天快亮的时候。",
+   "en": "wǔ gēng: people of old split the night into five watches. The fifth watch is just before dawn."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "鼓角：军营里报时用的鼓和号角。",
+   "en": "gǔ jiǎo: the drums and horns used in army camps to mark the hours."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "三峡：长江上的瞿塘峡、巫峡、西陵峡。夔州就在瞿塘峡口。",
+   "en": "sān xiá: the Three Gorges on the Yangtze: Qutang, Wu and Xiling. Kuizhou sits at the mouth of Qutang Gorge."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "星河：银河。",
+   "en": "xīng hé: the Milky Way."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "影动摇：银河的倒影在江水里晃动。",
+   "en": "yǐng dòng yáo: the reflection of the Milky Way trembles in the river."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "野哭：在荒野里痛哭，指为死于战乱的亲人哭。",
+   "en": "yě kū: weeping out in the open, for family members killed in war."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "战伐：打仗。",
+   "en": "zhàn fá: fighting, war."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "夷歌：当地少数民族唱的歌。",
+   "en": "yí gē: songs sung by the local non-Han peoples."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "渔樵：打鱼的人和砍柴的人。",
+   "en": "yú qiáo: fishermen and woodcutters."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "卧龙：诸葛亮，号“卧龙”。",
+   "en": "wò lóng: Zhuge Liang, who was nicknamed the Sleeping Dragon."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "跃马：指东汉初年在蜀地称帝的公孙述。古文里有“公孙跃马而称帝”的说法。夔州有他们俩的祠庙。",
+   "en": "yuè mǎ: Gongsun Shu, who made himself emperor in Shu early in the Eastern Han. An old essay said he \"leapt on his horse and called himself emperor\". Kuizhou had shrines to both men."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "终黄土：最后都变成了一抔黄土，都死了。",
+   "en": "zhōng huáng tǔ: in the end both turned to yellow earth, that is, both died."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "人事：人世间的事，这里指朋友、亲人的消息和交往。",
+   "en": "rén shì: human affairs. Here, news of and contact with friends and family."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "音书：书信、消息。",
+   "en": "yīn shū: letters, news."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "漫：随它去，任凭。",
+   "en": "màn: let it be, leave it as it is."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "寂寥：冷清、稀少。",
+   "en": "jì liáo: lonely and sparse."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "年底了，时光催着白天一天比一天短。",
+   "en": "It is the end of the year, and time hurries the short winter days along."
+  },
+  {
+   "zh": "在这远在天边的地方，霜雪停了，夜晚格外寒冷。",
+   "en": "Here at the edge of the world, the frost and snow have stopped, and the night is bitter cold."
+  },
+  {
+   "zh": "天快亮时，军营的鼓声号角声听来悲凉雄壮。",
+   "en": "Before dawn, the army's drums and horns sound sad and stirring."
+  },
+  {
+   "zh": "三峡江水里，银河的倒影在晃动。",
+   "en": "In the river of the Three Gorges, the reflected Milky Way shakes and trembles."
+  },
+  {
+   "zh": "听说又在打仗，千家万户在荒野里痛哭。",
+   "en": "Hearing of more fighting, a thousand families weep out in the wilds."
+  },
+  {
+   "zh": "打鱼砍柴的人在好几处唱起了当地的歌。",
+   "en": "In several places, fishermen and woodcutters strike up their local songs."
+  },
+  {
+   "zh": "诸葛亮也好，公孙述也好，最后都成了黄土。",
+   "en": "Zhuge Liang and Gongsun Shu, the wise and the proud, both ended as yellow earth."
+  },
+  {
+   "zh": "亲友的消息少得可怜，也就随它去吧。",
+   "en": "So if news from friends and family is scarce, let it be."
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为写于唐代宗大历元年（766年）冬天。那时杜甫住在夔州（今重庆奉节）的西阁，靠近长江三峡。当时安史之乱虽然结束了，蜀地还在打仗，吐蕃也常来侵扰。他的好友李白、严武、高适等也已先后去世。在一个寒冷的冬夜，他睡不着，听着鼓角，看着江水，写下了这首诗。",
+  "en": "This poem is usually dated to the winter of 766. Du Fu was living in the West Pavilion in Kuizhou, today's Fengjie in Chongqing, near the Three Gorges of the Yangtze. The An Lushan Rebellion was over, but there was still fighting in Shu, and Tibetan armies often raided. His friends Li Bai, Yan Wu and Gao Shi had all died by then. On a cold winter night he could not sleep. Listening to the drums and horns and watching the river, he wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他的诗写尽了战乱中百姓的苦，被称为“诗史”。晚年他带着家人漂泊在四川和长江一带，又老又病，这首诗里的孤独和感慨，正是他晚年心情的写照。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. His poems record the suffering of ordinary people in wartime so fully that they are called a history in verse. In his last years he drifted with his family around Sichuan and the Yangtze, old and sick. The loneliness and sighs in this poem show how he felt in those years."
+ },
+ "appreciation": {
+  "zh": "开头两句点出时间和地点：年底、冬夜、天涯，冷清又孤单。三、四句是名句：耳朵里是五更的鼓角声，悲壮；眼睛里是江水中晃动的星河，壮阔。声音和画面一起出现，让人感到天地很大，时局很乱。五、六句写人间：千家在哭，几处在唱，哭声和歌声混在一起，更让人难受。最后两句由眼前的古迹想开去：不管是诸葛亮那样的贤人，还是公孙述那样的枭雄，最后都成了黄土，那我自己的冷清孤单，又算得了什么呢？话说得很淡，心里却很沉重。",
+  "en": "The first two lines set the time and place: the end of the year, a winter night, the edge of the world. It feels cold and lonely. Lines three and four are famous. In his ears are the drums and horns before dawn, sad and strong. Before his eyes the Milky Way trembles in the river, vast and grand. Sound and sight come together, and we feel how huge the world is and how troubled the times are. Lines five and six turn to people: a thousand homes weeping, a few places singing. The weeping and singing mixed together hurt even more. The last two lines start from the old shrines nearby. Wise Zhuge Liang and proud Gongsun Shu both became yellow earth. So what does my own loneliness matter? The words sound calm, but the heart behind them is heavy."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "war",
+   "night",
+   "loneliness",
+   "history",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

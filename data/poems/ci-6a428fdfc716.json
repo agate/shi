@@ -1,0 +1,576 @@
+{
+ "id": "ci-6a428fdfc716",
+ "kind": "ci",
+ "title": "江城子·画楼帘幕卷新晴",
+ "title_en": "Jiang Cheng Zi: Curtains Rolled Up on a New Clear Day",
+ "author": "卢祖皋",
+ "author_en": "Lu Zugao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《江城子》，双调七十字",
+  "en": "ci to the tune Jiang Cheng Zi, 70 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "幕",
+    "mù"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "屏",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "坠",
+    "zhuì"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "数",
+    "shǔ"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "娉",
+    "pīng"
+   ],
+   [
+    "婷",
+    "tíng"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "感",
+    "gǎn"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "零",
+    "líng"
+   ]
+  ],
+  [
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "酲",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "阔",
+    "kuò"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "箫",
+    "xiāo"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "载",
+    "zài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "买",
+    "mǎi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "似",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "数",
+   "pinyin": "shǔ",
+   "zh": "“暗数”是心里默默地数，“数”是动词，读 shǔ。",
+   "en": "Àn shǔ means to count silently in one's head. As a verb, this character is read shǔ."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”这里读 zhuó，意思是附着、伴着。",
+   "en": "Here this character is read zhuó, meaning to be beside or keep company with."
+  },
+  {
+   "line": 10,
+   "pos": 2,
+   "char": "醒",
+   "pinyin": "xǐng",
+   "zh": "“醒”现在读 xǐng。古代它也有平声的读法，和“晴、屏、轻”等押韵。",
+   "en": "Today this character is read xǐng. In old times it could also be read in a level tone, rhyming with the other line endings."
+  },
+  {
+   "line": 13,
+   "pos": 5,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "“年少”指年轻的时候，“少”读 shào。",
+   "en": "Nián shào means one's young days, so this character is read shào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "画楼：有彩绘装饰的楼。",
+   "en": "huà lóu: a painted tower."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "卷新晴：雨后刚刚放晴，把帘子卷起来。",
+   "en": "juǎn xīn qíng: rolling up the curtains as the sky clears after rain."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "银屏：镶着银饰的屏风。",
+   "en": "yín píng: a screen trimmed with silver."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "晓寒：清晨的寒意。",
+   "en": "xiǎo hán: the chill of early morning."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "坠粉飘香：花瓣纷纷落下，香气四处飘散，指春花凋谢。",
+   "en": "zhuì fěn piāo xiāng: petals fall and their scent drifts about; spring flowers are fading."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "唤愁生：把愁绪唤了出来。",
+   "en": "huàn chóu shēng: calling sorrow up."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "暗数：心里默默地数。",
+   "en": "àn shǔ: to count silently in the heart."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "湖上路：湖边游玩的路。一说指杭州西湖。",
+   "en": "hú shàng lù: the paths by the lake where he once went on outings. One view says the lake is West Lake in Hangzhou."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "能几度：能有几回。",
+   "en": "néng jǐ dù: how many times?"
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "娉婷：姿态美好的样子，这里指美丽的女子。",
+   "en": "pīng tíng: graceful; here, a beautiful woman."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "飘零：像落叶一样到处漂泊，没有依靠。",
+   "en": "piāo líng: drifting about like fallen leaves, with nothing to hold on to."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "春酲：春天里喝醉了酒，醉后头昏昏的样子。酲，酒醉后神志不清。",
+   "en": "chūn chéng: the dazed feeling after drinking in spring. Chéng means the muddled head after too much wine."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "对谁醒：醒过来又面对谁呢？意思是没有人可以相伴。",
+   "en": "duì shuí xǐng: when I sober up, whom will I face? There is no one to be with."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "箫声：吹箫的声音，这里暗指从前那位会吹箫的女子。",
+   "en": "xiāo shēng: the sound of a bamboo flute; here it hints at a woman of the past who played it."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "载酒买花：带着酒，买了花，去游玩。指年轻时风流快乐的生活。",
+   "en": "zài jiǔ mǎi huā: carrying wine and buying flowers for an outing; the carefree pleasures of youth."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 3,
+   "zh": "浑不似：完全不像。浑，全，完全。",
+   "en": "hún bù sì: not at all like. Hún means completely."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "雨后初晴，画楼上的帘幕卷了起来，",
+   "en": "On a newly cleared day, the curtains of the painted tower are rolled up;"
+  },
+  {
+   "zh": "银色的屏风半掩着，",
+   "en": "The silver screen stands half closed,"
+  },
+  {
+   "zh": "清晨还有一点轻轻的寒意。",
+   "en": "And the dawn holds a light chill."
+  },
+  {
+   "zh": "花瓣纷纷落下，香气四处飘散，",
+   "en": "Petals fall and their fragrance drifts,"
+  },
+  {
+   "zh": "一天天地把愁绪唤了出来。",
+   "en": "Calling up sorrow day after day."
+  },
+  {
+   "zh": "我心里默默数着这十年来湖边走过的路，",
+   "en": "I silently count ten years of paths along the lake;"
+  },
+  {
+   "zh": "有几回，",
+   "en": "How many times"
+  },
+  {
+   "zh": "是有美人陪伴着的？",
+   "en": "Was a lovely woman by my side?"
+  },
+  {
+   "zh": "年华流逝，我只能独自感叹身世飘零。",
+   "en": "The years slip away, and alone I grieve my drifting life."
+  },
+  {
+   "zh": "在春天里喝得昏昏沉沉，",
+   "en": "Dazed with wine in springtime,"
+  },
+  {
+   "zh": "醒来又能面对谁呢？",
+   "en": "Whom will I face when I wake?"
+  },
+  {
+   "zh": "天空辽阔，云朵悠闲，",
+   "en": "The sky is wide, the clouds drift idly,"
+  },
+  {
+   "zh": "却再也找不到那熟悉的箫声。",
+   "en": "But nowhere can I find that flute's sound."
+  },
+  {
+   "zh": "带着酒、买了花去游玩，那是年轻时的事，",
+   "en": "Carrying wine and buying flowers, those were the doings of youth;"
+  },
+  {
+   "zh": "现在完全不像了，",
+   "en": "None of it is the same now,"
+  },
+  {
+   "zh": "再也不是从前的心情。",
+   "en": "Nor is my heart what it used to be."
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春时节，词人回想十年来的旧游，怀念一位曾经相伴的女子，感叹年华老去。“湖上路”一说指杭州西湖，卢祖皋曾在临安（今杭州）做官。词里的女子是谁，写作的具体年份，都已无法确定。",
+  "en": "This lyric is set in late spring. The poet looks back on ten years of outings, misses a woman who once kept him company, and sighs that his youth is gone. The lake is thought by some to be West Lake, as Lu Zugao served as an official in Lin'an, today's Hangzhou. Who the woman was and the exact year it was written are no longer known."
+ },
+ "author_note": {
+  "zh": "卢祖皋（约1174—1224），字申之，号蒲江，永嘉（今浙江温州）人。南宋宁宗时考中进士，后来在朝中做官。他的词清丽婉转，多写春愁和怀旧，有词集《蒲江词》。",
+  "en": "Lu Zugao (about 1174–1224), known by his pen name Pujiang, came from Yongjia, today's Wenzhou in Zhejiang. He passed the top civil exam under Emperor Ningzong of the Southern Song and later held posts at court. His lyrics are clear, graceful and gentle, often about spring sorrow and memories of the past. His collected lyrics are called the Pujiang Lyrics."
+ },
+ "appreciation": {
+  "zh": "上片从一个清晨写起：雨后放晴，帘子卷起，屏风半掩，有一点寒意。窗外花瓣飘落，香气四散，本该是美好的景色，却天天勾起愁思。为什么？因为他在心里数着十年来湖边走过的路，有美人相伴的日子，其实没有几回。下片写现在：年华白白流逝，自己四处漂泊，只能借酒消愁，可醒来身边却没有人。天那么宽，云那么闲，再也听不到那熟悉的箫声。最后三句像一声长叹：年轻时载酒买花的快乐，现在想起来，心情已经完全不一样了。全词语言清淡，愁绪却像落花一样，一片一片飘满了心里。",
+  "en": "The first stanza begins on a morning. The sky has cleared after rain, the curtains are rolled up, the screen is half closed, and there is a slight chill. Outside, petals fall and their scent drifts. It should be lovely, yet every day it stirs up sorrow. Why? Because he is counting the lakeside paths of the past ten years, and the days with a lovely woman beside him were really very few. The second stanza is about now. The years slip by, he drifts from place to place, and he drinks to forget, but when he wakes there is no one beside him. The sky is wide and the clouds idle, yet he can no longer hear that familiar flute. The last three lines are like a long sigh: the joy of youth, carrying wine and buying flowers, feels completely different now. The words are light and plain, but the sorrow falls into his heart petal by petal."
+ },
+ "famous_lines": [
+  13,
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "aging",
+   "love",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

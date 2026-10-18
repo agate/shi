@@ -1,0 +1,700 @@
+{
+ "id": "ci-2bc6bb90653a",
+ "kind": "ci",
+ "title": "汉宫春·立春日",
+ "title_en": "Han Gong Chun: On the Day Spring Begins",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《汉宫春》，双调九十六字",
+  "en": "ci to the tune Han Gong Chun, 96 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "美",
+    "měi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "幡",
+    "fān"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "端",
+    "duān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "肯",
+    "kěn"
+   ],
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "园",
+    "yuán"
+   ]
+  ],
+  [
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "办",
+    "bàn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "柑",
+    "gān"
+   ],
+   [
+    "荐",
+    "jiàn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "韭",
+    "jiǔ"
+   ],
+   [
+    "堆",
+    "duī"
+   ],
+   [
+    "盘",
+    "pán"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "薰",
+    "xūn"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "染",
+    "rǎn"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "没",
+    "méi"
+   ],
+   [
+    "些",
+    "xiē"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "变",
+    "biàn"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "颜",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "环",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "语料库本“余寒”作“馀寒”，“馀”是“余”的旧写法，这里按现在的写法。",
+  "en": "The corpus writes yú (left over) with an older form of the character. This page uses the modern one."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "“收尽”的“尽”读 jìn，意思是完全。",
+   "en": "In shōu jìn this character is read jìn, meaning completely."
+  },
+  {
+   "line": 17,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝来”的“朝”读 zhāo，意思是早晨。",
+   "en": "In zhāo lái this character is read zhāo, meaning morning."
+  },
+  {
+   "line": 17,
+   "pos": 2,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "“塞雁”的“塞”读 sài，指边塞。",
+   "en": "In sài yàn this character is read sài, meaning the frontier."
+  },
+  {
+   "line": 17,
+   "pos": 5,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还”在这里读 huán，意思是回去，和“幡、寒、盘、颜、环”押韵。",
+   "en": "Here this character is read huán, meaning to return. It rhymes with fān, hán, pán, yán and huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "袅袅：轻轻摆动的样子。",
+   "en": "niǎo niǎo: gently swaying."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "春幡：立春这天，人们用彩色的绸子或纸剪成小旗子、小燕子，戴在头上，迎接春天。",
+   "en": "chūn fān: spring banners. On the day spring began, people cut little flags or swallows from coloured silk or paper and wore them in their hair to welcome spring."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "无端：没来由地，无缘无故地。",
+   "en": "wú duān: for no reason at all."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "余寒：冬天剩下的寒气。",
+   "en": "yú hán: the cold left over from winter."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "年时：去年，往年。",
+   "en": "nián shí: last year, in years past."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "西园：泛指园林。一说指作者北方的家乡。",
+   "en": "xī yuán: the west garden, a garden in general. Some say it means the poet's old home in the north."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "浑未办：完全没有准备。浑，全、都。",
+   "en": "hún wèi bàn: not prepared at all. Hún means entirely."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "黄柑荐酒：用黄柑酿的酒，或用黄柑来下酒，是立春时的习俗。荐，进献、配着。",
+   "en": "huáng gān jiàn jiǔ: wine made from yellow oranges, or oranges served with wine, a custom on the first day of spring. Jiàn means to offer, to go with."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 6,
+   "zh": "青韭堆盘：立春吃“春盘”，盘里堆着韭菜等新鲜蔬菜，互相赠送。",
+   "en": "qīng jiǔ duī pán: on the first day of spring people ate a \"spring plate\" piled with fresh greens such as chives, and gave them to one another."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 5,
+   "zh": "薰梅染柳：东风吹得梅花飘香，把柳树染绿。薰，熏香。",
+   "en": "xūn méi rǎn liǔ: the east wind makes the plum blossoms fragrant and dyes the willows green. Xūn means to perfume."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "更没些闲：再也没有一点空闲。",
+   "en": "gèng méi xiē xián: not a moment of rest any more."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "朱颜：红润的脸，指年轻的容貌。",
+   "en": "zhū yán: rosy cheeks, a young face."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "清愁：淡淡的、却去不掉的忧愁。",
+   "en": "qīng chóu: a quiet sorrow that will not go away."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 7,
+   "zh": "解连环：解开玉连环。战国时秦王送给齐国一个解不开的玉连环，齐王后用锤子把它敲断，说“解开了”。这里比喻解开心中缠绕的愁。",
+   "en": "jiě lián huán: to undo the linked jade rings. In the Warring States period the King of Qin sent the state of Qi a ring puzzle no one could undo; the Queen of Qi smashed it with a hammer and said it was solved. Here it means untangling the knot of sorrow."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "生怕：很怕，最怕。",
+   "en": "shēng pà: dreading, fearing most of all."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 6,
+   "zh": "塞雁先还：从南方过冬的大雁，春天比人先飞回北方。",
+   "en": "sài yàn xiān huán: the wild geese that wintered in the south fly back north before people can."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天已经回来了，",
+   "en": "Spring has come back:"
+  },
+  {
+   "zh": "你看美人的头上，",
+   "en": "look at the ladies' hair,"
+  },
+  {
+   "zh": "戴着轻轻摆动的春幡。",
+   "en": "where spring banners sway gently."
+  },
+  {
+   "zh": "可是风雨无缘无故地来，",
+   "en": "Yet wind and rain come for no reason,"
+  },
+  {
+   "zh": "还不肯把冬天剩下的寒气收干净。",
+   "en": "unwilling to sweep away the last of the cold."
+  },
+  {
+   "zh": "去年的燕子，",
+   "en": "Last year's swallows,"
+  },
+  {
+   "zh": "我想今晚会在梦里飞回西园吧。",
+   "en": "I think, will fly back to the west garden in their dreams tonight."
+  },
+  {
+   "zh": "我全没准备好黄柑酒，",
+   "en": "I have not got the orange wine ready at all,"
+  },
+  {
+   "zh": "更不用说传送堆满青韭的春盘了。",
+   "en": "still less passed round plates piled with green chives."
+  },
+  {
+   "zh": "我却笑东风，从今天起，",
+   "en": "Yet I laugh at the east wind: from now on,"
+  },
+  {
+   "zh": "就要忙着熏香梅花、染绿柳条，",
+   "en": "it will be busy perfuming plum blossoms and dyeing willows,"
+  },
+  {
+   "zh": "再也没有一点空闲了。",
+   "en": "with not a moment to rest."
+  },
+  {
+   "zh": "偶尔闲下来，它又跑到镜子里，",
+   "en": "And when it is idle, it slips into the mirror"
+  },
+  {
+   "zh": "把人年轻的容颜悄悄变老。",
+   "en": "and quietly turns young faces old."
+  },
+  {
+   "zh": "淡淡的忧愁总也断不了，",
+   "en": "My quiet sorrow never ends;"
+  },
+  {
+   "zh": "问一问，有谁能解开这心中的连环？",
+   "en": "who, I ask, can undo these linked rings?"
+  },
+  {
+   "zh": "最怕看见花开了又落，",
+   "en": "Most of all I dread seeing flowers bloom and fall,"
+  },
+  {
+   "zh": "清早起来，北方的大雁已经比我先飞回去了。",
+   "en": "and at dawn the frontier geese flying home ahead of me."
+  }
+ ],
+ "background": {
+  "zh": "立春是二十四节气的第一个，表示春天开始。宋代立春这天，人们头戴春幡，喝黄柑酒，吃韭菜春盘。辛弃疾出生在被金国占领的北方，二十多岁时投奔南宋。一般认为这首词是他南归以后写的，借立春的风俗，写自己思念北方故乡、恢复中原的愿望迟迟不能实现。具体年份说法不一。",
+  "en": "The Beginning of Spring is the first of the twenty-four solar terms. In the Song, people wore spring banners in their hair on this day, drank orange wine, and ate spring plates of chives. Xin Qiji was born in the north, under the rule of the Jin, and came south to the Song in his twenties. The poem is usually thought to be from after he came south. Through the spring customs he writes of missing his northern home, and of his hope to win back the north, which never seemed to come true. Its exact year is debated."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他年轻时曾在北方带兵抗金，南归后一心想收复失地，却一直得不到重用。他的词常常把家国大事藏在日常小事里，这首词就从头上的春幡、桌上的春盘写起，写的却是对故土的怀念。",
+  "en": "Xin Qiji (1140–1207) was a great ci poet of the Southern Song. As a young man he led troops against the Jin in the north. After coming south he longed to win back the lost lands but was never given the chance. His ci often hide big questions of country and home inside small everyday things. This one starts with spring banners in the hair and spring dishes on the table, but it is really about longing for his homeland."
+ },
+ "appreciation": {
+  "zh": "开头很热闹：春天回来了，美人头上的春幡轻轻飘动。可马上一转：风雨不停，寒气还在。春天来了，冷却没走，就像作者心里的事一样。燕子还能在梦里回到西园，人却回不去；春盘、黄柑酒也没心思准备。下片写得很有趣：东风忙着熏梅染柳，闲下来又钻进镜子里，把人的脸变老。把时间写成了一个会捣乱的东风。最后说最怕看到花开花落，最怕早上看见北方的大雁已经先飞回去了。大雁能回去，人却不能，这就是作者解不开的连环。",
+  "en": "The opening is lively: spring is back, and spring banners sway in the ladies' hair. Then it turns at once: the wind and rain keep on and the cold lingers. Spring has come but the cold has not gone, just like the trouble in the poet's heart. The swallows can at least go back to the west garden in their dreams, but he cannot; he has no heart to prepare the spring dishes or the orange wine. The second stanza is playful. The east wind is busy perfuming plums and dyeing willows, and when it has a spare moment it sneaks into the mirror and makes faces old. Time becomes a mischievous east wind. At the end he says what he dreads most is flowers blooming and falling, and the geese flying north at dawn ahead of him. The geese can go home, but he cannot; that is the ring puzzle he cannot undo."
+ },
+ "famous_lines": [
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [
+   "lichun"
+  ],
+  "themes": [
+   "homesick",
+   "lost-country",
+   "aging",
+   "spring",
+   "customs"
+  ]
+ },
+ "uncertain": []
+}

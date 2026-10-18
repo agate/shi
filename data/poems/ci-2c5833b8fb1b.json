@@ -1,0 +1,464 @@
+{
+ "id": "ci-2c5833b8fb1b",
+ "kind": "ci",
+ "title": "玉楼春·尊前拟把归期说",
+ "title_en": "Jade Tower Spring: Over the Wine I Meant to Name the Day I Leave",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "拟",
+    "nǐ"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "惨",
+    "cǎn"
+   ],
+   [
+    "咽",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "痴",
+    "chī"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "阕",
+    "què"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "始",
+    "shǐ"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "“惨咽”的“咽”是哭得说不出话，读 yè，不读 yàn 或 yān。",
+   "en": "Here the character means to choke with sobs, so it is read yè, not yàn or yān."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "“一曲”指一首歌，“曲”读 qǔ。",
+   "en": "Here the character means a song, so it is read qǔ."
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "“能教”的“教”是“使、让”的意思，现在一般读 jiào。按词的格律这里要用平声，所以也有人读 jiāo。",
+   "en": "Here the character means to make, and is usually read jiào today. The meter wants a level tone here, so some readers say jiāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "尊前：酒杯前，指在酒宴上。尊，同“樽”，酒杯。",
+   "en": "zūn qián: before the wine cup, that is, at the feast. Zūn is an old word for a wine cup."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "拟：打算。",
+   "en": "nǐ: to plan to."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "归期：回去、离开的日子。",
+   "en": "guī qī: the day of going back, the day of leaving."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "春容：像春天一样美的容貌，指在座的美人。",
+   "en": "chūn róng: a face as lovely as spring; it means the beautiful woman at the feast."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "惨咽：伤心得哽咽，说不出话。",
+   "en": "cǎn yè: so sad that she chokes with sobs and cannot speak."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "有情痴：重感情到了痴迷的地步。",
+   "en": "yǒu qíng chī: so full of feeling that one is almost foolish with it."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "恨：遗憾、离别的痛苦。",
+   "en": "hèn: the pain of parting, regret."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "不关风与月：和清风明月这些景物无关。",
+   "en": "bù guān fēng yǔ yuè: has nothing to do with the wind and the moon, that is, with the scenery."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "离歌：送别时唱的歌。",
+   "en": "lí gē: a song sung at a farewell."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "且莫：暂且不要。",
+   "en": "qiě mò: for now, do not."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "翻新阕：按旧曲调填写新的歌词。阕，一首歌或词的一段。",
+   "en": "fān xīn què: to set new words to an old tune. Què means a song, or one part of a song."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 7,
+   "zh": "教肠寸结：让人的肠子一寸一寸地打结，形容极其悲伤。",
+   "en": "jiào cháng cùn jié: makes one's insides tie up in knots inch by inch, meaning terrible sadness."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "直须：一定要。",
+   "en": "zhí xū: must, should surely."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "洛城花：洛阳城的花，洛阳的牡丹最有名。",
+   "en": "luò chéng huā: the flowers of Luoyang, a city famous for its peonies."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "始：才。",
+   "en": "shǐ: only then."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "容易：轻松、不那么难过。",
+   "en": "róng yì: lightly, without too much pain."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在酒宴上，我正打算说出离开的日子，",
+   "en": "At the feast I was about to tell the day I would leave."
+  },
+  {
+   "zh": "还没开口，美人就已经伤心得哽咽了。",
+   "en": "Before I spoke, the lovely woman was already choking with sobs."
+  },
+  {
+   "zh": "人生下来就是重感情、痴情的，",
+   "en": "People are simply born full of feeling, almost foolish with love."
+  },
+  {
+   "zh": "这种离别的痛苦，和清风明月没有关系。",
+   "en": "This pain of parting has nothing to do with the wind or the moon."
+  },
+  {
+   "zh": "离别的歌暂且不要再填新词了，",
+   "en": "For now, do not write new words for the farewell song."
+  },
+  {
+   "zh": "只唱一首，就已经让人肝肠寸断。",
+   "en": "One song alone already ties our insides into knots."
+  },
+  {
+   "zh": "一定要把洛阳城的花看个够，",
+   "en": "We must first see every flower in Luoyang,"
+  },
+  {
+   "zh": "才能轻松一些地和春风告别。",
+   "en": "and only then can we say goodbye to the spring wind more easily."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首词写于宋仁宗景祐元年（1034年）。那时欧阳修在洛阳做官三年，任期满了，要离开洛阳。洛阳是他和好友们一起饮酒赏花、写诗作文的地方，他非常留恋。在饯别的酒宴上，他写下了这首词。也有人认为写的是别的送别场合，具体情况说法不一。",
+  "en": "This lyric is usually dated to 1034. Ouyang Xiu had worked in Luoyang for three years, his term was over, and he had to leave. Luoyang was where he and his friends drank, enjoyed flowers and wrote poems together, and he loved it dearly. He wrote this lyric at a farewell feast. Some think it was written at a different farewell, and accounts differ on the details."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），号醉翁，晚年又号六一居士，北宋文学家，“唐宋八大家”之一。他年轻时在洛阳做官，和梅尧臣等朋友常常一起游玩、写作，那是他最快乐的日子。他写文章讲道理很严肃，写词却清新深情，常写春天、花和离别。",
+  "en": "Ouyang Xiu (1007–1072), who called himself the Old Drunkard and later the Retired Scholar of Six Ones, was a Northern Song writer and one of the Eight Great Prose Masters of Tang and Song. As a young official in Luoyang he often went out and wrote with friends such as Mei Yaochen; those were his happiest days. His essays are serious and reasoned, but his lyrics are fresh and tender, often about spring, flowers and parting."
+ },
+ "appreciation": {
+  "zh": "开头是一个很小的动作：词人刚想说出离开的日子，还没开口，对面的人已经哭了。这个画面让离别一下子变得很真实。接着两句跳出来讲道理：人天生就重感情，离别的痛苦是人心里本来就有的，不能怪风怪月。这两句说得很透，成了名句。下半首说，送别的歌别再翻新了，一首就够让人心碎。最后词人想出一个办法：先把洛阳的花看够，再和春天告别，也许就不那么难受。这话听起来豁达，其实正说明他太舍不得了。",
+  "en": "It opens with one small moment. The poet is about to say when he will leave, but before he speaks, the person across from him is already crying. This picture makes the parting feel real at once. The next two lines step back to say something true: people are born full of feeling, and the pain of parting lives in the heart itself, so you cannot blame the wind or the moon. These lines say it so clearly that they became famous. The second half says: do not write new farewell songs; one is enough to break a heart. At the end the poet finds a way out. First see all of Luoyang's flowers, then say goodbye to spring, and maybe it will hurt less. It sounds easygoing, but it really shows how hard it is for him to leave."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "flowers",
+   "luoyang",
+   "feast"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,799 @@
+{
+ "id": "ci-97a4995808e8",
+ "kind": "ci",
+ "title": "解连环·孤雁",
+ "title_en": "Jie Lian Huan: The Lone Wild Goose",
+ "author": "张炎",
+ "author_en": "Zhang Yan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "恍",
+    "huǎng"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "塘",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "净",
+    "jìng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "枯",
+    "kū"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "写",
+    "xiě"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "点",
+    "diǎn"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "循",
+    "xún"
+   ],
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "了",
+    "le"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "毡",
+    "zhān"
+   ],
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "旅",
+    "lǚ"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "荏",
+    "rěn"
+   ],
+   [
+    "苒",
+    "rǎn"
+   ]
+  ],
+  [
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ],
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "侣",
+    "lǚ"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "芦",
+    "lú"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "程",
+    "chéng"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "呼",
+    "hū"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "蓦",
+    "mò"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 13,
+   "pos": 2,
+   "char": "弹",
+   "pinyin": "tán",
+   "zh": "“弹”在这里读 tán，意思是弹奏。",
+   "en": "Here it is read tán, meaning to play an instrument."
+  },
+  {
+   "line": 18,
+   "pos": 5,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重见”是再一次见到，“重”读 chóng。",
+   "en": "Chóng jiàn means to meet again, so the character is read chóng."
+  },
+  {
+   "line": 12,
+   "pos": 0,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "“谩”在这里读 màn，意思是空自、白白地。",
+   "en": "Here it is read màn, meaning in vain."
+  },
+  {
+   "line": 14,
+   "pos": 4,
+   "char": "宿",
+   "pinyin": "sù",
+   "zh": "“宿”在这里读 sù，意思是过夜。",
+   "en": "Here it is read sù, meaning to stay the night."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "楚江：楚地的江，泛指南方的江河。",
+   "en": "chǔ jiāng: a river in the old land of Chu, meaning the rivers of the south."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "空晚：傍晚时分，天地空旷。",
+   "en": "kōng wǎn: dusk over a wide, empty land and sky."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "怅：失落、难过。",
+   "en": "chàng: sad and lost."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "离群：离开了雁群。",
+   "en": "lí qún: separated from the flock."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "恍然惊散：好像一下子受了惊吓，和同伴走散了。",
+   "en": "huǎng rán jīng sàn: as if suddenly startled and scattered from its companions."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "自顾影：自己看着自己的影子，形容孤单。",
+   "en": "zì gù yǐng: looking at its own shadow, a picture of loneliness."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "寒塘：寒冷的池塘。",
+   "en": "hán táng: a cold pond."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "写不成书：雁群飞的时候排成“一”字或“人”字，像在天上写字。孤雁只有一只，写不成字，也就带不成信。",
+   "en": "xiě bù chéng shū: a flock of geese flies in lines shaped like written characters, as if writing in the sky. A lone goose cannot form a character, and so cannot carry a letter."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "相思一点：孤雁在天上只像一个点，也只能寄去一点相思。",
+   "en": "xiāng sī yī diǎn: in the sky a lone goose is just a dot, so it can send only a dot of longing."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "因循：拖延，耽误。",
+   "en": "yīn xún: delay."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "残毡拥雪：汉代苏武被匈奴扣押，饿了就吃雪和毡毛。后来传说汉朝使者说天子射到一只雁，雁脚上绑着苏武的信，匈奴才放他回来。",
+   "en": "cán zhān yōng xuě: in the Han dynasty, Su Wu was held by the Xiongnu and ate snow and felt to survive. Later a Han envoy claimed the emperor had shot a goose carrying Su Wu's letter, and so he was set free."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "故人心眼：老朋友盼望的心和望穿的眼睛。",
+   "en": "gù rén xīn yǎn: the hoping heart and watching eyes of an old friend."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 6,
+   "zh": "荏苒：时间一点点过去。",
+   "en": "rěn rǎn: time slipping slowly by."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 3,
+   "zh": "长门：汉代宫殿名。汉武帝的陈皇后失宠后住在这里。唐代杜牧写孤雁，有“长门灯暗数声来”的句子。",
+   "en": "cháng mén: the Long Gate Palace of the Han, where Empress Chen lived after the emperor stopped loving her. The Tang poet Du Mu wrote of a goose's cries over this palace on a dark night."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 5,
+   "zh": "悄：静悄悄。",
+   "en": "qiǎo: silent."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "锦筝弹怨：用精美的筝弹出哀怨的曲子。筝上的弦柱斜排像雁行，叫“雁柱”。",
+   "en": "jǐn zhēng tán yuàn: playing a sad tune on a fine zheng. Its string bridges slant in a row like flying geese and are called goose bridges."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "伴侣：同伴，指离散的雁群。",
+   "en": "bàn lǚ: companions, the flock it lost."
+  },
+  {
+   "line": 14,
+   "start": 5,
+   "end": 7,
+   "zh": "芦花：芦苇的花，秋天白白的一片。",
+   "en": "lú huā: reed flowers, white in autumn."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "去程应转：飞走的路程也该回头了。",
+   "en": "qù chéng yīng zhuǎn: the flight away should turn back now."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "蓦地：突然。",
+   "en": "mò dì: suddenly."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "玉关：玉门关，在今甘肃，是古代通往西域的关口。",
+   "en": "yù guān: Yumen Pass, in today's Gansu, the old gateway to the far west."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "未羞他：不会在它们面前感到羞愧。",
+   "en": "wèi xiū tā: would not feel ashamed before them."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "画帘：画着花样的帘子。",
+   "en": "huà lián: a painted curtain."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "南方的江面上，傍晚空空荡荡。",
+   "en": "Over the southern river, dusk is wide and empty."
+  },
+  {
+   "zh": "可惜它离开雁群，远在万里之外，",
+   "en": "Sadly it has left the flock, ten thousand miles away,"
+  },
+  {
+   "zh": "好像一下子受了惊，和同伴走散了。",
+   "en": "as if suddenly startled and scattered."
+  },
+  {
+   "zh": "它看着自己孤单的影子，想落到寒冷的池塘里，",
+   "en": "Looking at its lonely shadow, it wants to land on a cold pond,"
+  },
+  {
+   "zh": "这时沙滩干净，野草干枯，",
+   "en": "where the sand is bare and the grass is dry,"
+  },
+  {
+   "zh": "水面平平，天空远远。",
+   "en": "the water is flat and the sky is far."
+  },
+  {
+   "zh": "一只雁排不成字，写不成信，",
+   "en": "Alone, it cannot form a character in the sky or carry a letter,"
+  },
+  {
+   "zh": "只能寄去一点点相思。",
+   "en": "and can only send a single dot of longing."
+  },
+  {
+   "zh": "想来是我耽误了，",
+   "en": "I fear that, through my delay,"
+  },
+  {
+   "zh": "让那抱着破毡、吞着雪的人，",
+   "en": "the one wrapped in tattered felt, eating snow,"
+  },
+  {
+   "zh": "老朋友，白白地望穿了心和眼。",
+   "en": "my old friend, has watched and hoped in vain."
+  },
+  {
+   "zh": "谁会可怜我旅途上的愁苦，一天天拖下去？",
+   "en": "Who pities the sorrow of my journey, dragging on and on?"
+  },
+  {
+   "zh": "长门宫的夜里静悄悄，",
+   "en": "In vain the night is silent at the Long Gate Palace,"
+  },
+  {
+   "zh": "只有锦筝弹出哀怨的曲子。",
+   "en": "where a fine zheng plays a sad tune."
+  },
+  {
+   "zh": "想那些同伴还睡在芦花丛里，",
+   "en": "I think my companions still sleep among the reed flowers,"
+  },
+  {
+   "zh": "它们也曾想过，到了春天之前，",
+   "en": "and they too must have thought that before spring"
+  },
+  {
+   "zh": "飞走的路该回头了。",
+   "en": "it is time to turn back."
+  },
+  {
+   "zh": "傍晚的雨里，我们互相呼唤，",
+   "en": "Calling to each other in the evening rain,"
+  },
+  {
+   "zh": "只怕会突然在玉门关又见面。",
+   "en": "we may suddenly meet again at Yumen Pass."
+  },
+  {
+   "zh": "那时看到双双飞回的燕子，",
+   "en": "Then, when the paired swallows come home"
+  },
+  {
+   "zh": "飞进半卷的画帘，也不会觉得羞愧了。",
+   "en": "through the half-rolled painted curtain, I will feel no shame before them."
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏孤雁的词。词里的孤雁离开了雁群，独自在南方的江上飞，其实也是张炎自己的影子。一般认为它写于南宋灭亡之后，张炎家破人散，四处漂泊。这首词写得很有名，当时的人因此叫他“张孤雁”。具体写于哪一年，已经说不清。",
+  "en": "This ci is about a lone wild goose. The goose has left its flock and flies alone over a southern river. It is really a picture of Zhang Yan himself. It is usually thought to come after the fall of the Southern Song, when his family was ruined and he drifted from place to place. It became so famous that people called him Zhang the Lone Goose. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "张炎（1248—约1320），字叔夏，号玉田，南宋末年词人。他出身贵族，南宋灭亡后家道败落，长期漂泊在江南一带。他擅长咏物词，常常借一件东西写自己的身世。他还写了一本讲作词方法的书《词源》。",
+  "en": "Zhang Yan (1248–about 1320), also called Yutian, was a ci poet of the late Southern Song. He came from a noble family that was ruined when the Southern Song fell, and he spent many years drifting in the south. He was good at ci about things, using an object to tell his own story. He also wrote a book on how to write ci, called Ci Yuan."
+ },
+ "appreciation": {
+  "zh": "全词处处写雁，又处处写人。开头是一幅很空的画：傍晚的江面，一只孤雁飞得很远，想落下来，只看见干净的沙、枯黄的草、平平的水和远远的天。接着是最妙的一句：雁群能在天上排成字，孤雁只有一只，写不成信，只能寄去“相思一点”。一个“点”字，既是天上的小黑点，也是心里那一点思念。下半首，孤雁想到冷清的长门宫，想到还在芦花里的同伴，盼着春天前能团聚，在雨里互相呼唤。最后它想象重逢以后，看见成双的燕子回来，也不必再羞愧了。词人借孤雁，写出了国破家亡后一个人孤单漂泊、又盼着团聚的心情。",
+  "en": "Every line is about the goose, and every line is also about a person. It opens on an empty picture: a river at dusk, one goose far off, wanting to land, seeing only bare sand, dry grass, flat water and a distant sky. Then comes the best line. A flock can write characters in the sky, but a lone goose cannot form a letter; it can send only a single dot of longing. That dot is both the small dark speck in the sky and the bit of love in its heart. In the second stanza the goose thinks of the silent Long Gate Palace, and of its companions still in the reeds. It hopes they will meet before spring, calling to each other in the rain. At the end it imagines that, once they are together, it will no longer feel ashamed when it sees the paired swallows come home. Through the goose, the poet shows a man who has lost his country and home, wandering alone, still hoping to be reunited."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wild-goose",
+   "loneliness",
+   "wandering",
+   "longing",
+   "lost-country"
+  ]
+ },
+ "uncertain": []
+}

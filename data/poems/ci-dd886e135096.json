@@ -1,0 +1,536 @@
+{
+ "id": "ci-dd886e135096",
+ "kind": "ci",
+ "title": "小重山·柳暗花明春事深",
+ "title_en": "Little Layered Hills: Dark Willows, Bright Flowers, Spring at Its Height",
+ "author": "章良能",
+ "author_en": "Zhang Liangneng",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·小重山（双调）",
+  "en": "ci lyric to the tune Xiao Chong Shan, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "芍",
+    "sháo"
+   ],
+   [
+    "药",
+    "yào"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "抽",
+    "chōu"
+   ],
+   [
+    "簪",
+    "zān"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "软",
+    "ruǎn"
+   ],
+   [
+    "碎",
+    "suì"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "禽",
+    "qín"
+   ]
+  ],
+  [
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "阴",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "吟",
+    "yín"
+   ]
+  ],
+  [
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "序",
+    "xù"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "寻",
+    "xún"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": {
+  "zh": "语料作“雨馀”“沈吟”，是旧字形。现在通行的简体本写作“雨余”“沉吟”，意思相同。这里用通行写法。",
+  "en": "The corpus uses older character forms in \"after the rain\" and \"brooding\". Today's simplified editions write them with the modern forms, with the same meaning. We use the modern forms."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "zh": "“芍”读 sháo，“芍药”是一种花。",
+   "en": "This character is read sháo; sháo yào is the herbaceous peony.",
+   "char": "芍",
+   "pinyin": "sháo"
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "zh": "“分”在这里读 fēn，“一分”是一点点的意思。",
+   "en": "Here this character is read fēn; yī fēn means a little bit.",
+   "char": "分",
+   "pinyin": "fēn"
+  },
+  {
+   "line": 9,
+   "pos": 3,
+   "zh": "“处”在这里读 chù，是地方的意思。",
+   "en": "Here this character is read chù, meaning place.",
+   "char": "处",
+   "pinyin": "chù"
+  },
+  {
+   "line": 11,
+   "pos": 2,
+   "zh": "“少年”的“少”读 shào，是年轻的意思，不读 shǎo。",
+   "en": "Here this character is read shào, meaning young, not shǎo.",
+   "char": "少",
+   "pinyin": "shào"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "柳暗花明：柳树长得浓密，颜色深绿；花开得鲜艳明亮。",
+   "en": "liǔ àn huā míng: the willows are thick and dark green, the flowers bright."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "春事深：春天已经到了最浓的时候。春事，春天里的景物和活动。",
+   "en": "chūn shì shēn: spring is at its fullest. Chūn shì means the sights and doings of spring."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "小阑：小栏杆。",
+   "en": "xiǎo lán: a small railing."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "芍药：一种花，花朵大而美，春末夏初开放。",
+   "en": "sháo yào: the herbaceous peony, with big, lovely flowers in late spring."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 3,
+   "zh": "抽簪：抽出花苞，花苞又细又长，像女子头上的簪子。",
+   "en": "chōu zān: to put out buds, long and slender like a woman's hairpin."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "雨余：雨后。",
+   "en": "yǔ yú: after the rain."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "风软：风很柔和。",
+   "en": "fēng ruǎn: the wind is soft."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "碎鸣禽：鸟儿叽叽喳喳，叫声细碎。",
+   "en": "suì míng qín: birds chirping in little broken notes."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "迟迟日：春天的太阳，白天变长了，太阳好像走得很慢。",
+   "en": "chí chí rì: the slow spring sun; the days grow long and the sun seems to move slowly."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "犹带：还带着。",
+   "en": "yóu dài: still carrying."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "一分阴：一点点阴云。",
+   "en": "yī fēn yīn: a touch of cloud."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "往事：过去的事。",
+   "en": "wǎng shì: things of the past."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "沉吟：反复地想，犹豫不决。",
+   "en": "chén yín: to brood, to turn over and over in the mind."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "身闲：身上没有事务，很清闲。",
+   "en": "shēn xián: free of duties, at leisure."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "时序：季节、时令。",
+   "en": "shí xù: the season."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "登临：登高游览。",
+   "en": "dēng lín: to climb up and take in the view."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "旧游：从前游玩过的地方。",
+   "en": "jiù yóu: places one used to visit."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 7,
+   "zh": "无处不堪寻：没有一处是找不到的，意思是旧地都还在。堪，可以。",
+   "en": "wú chù bù kān xún: there is no place that cannot be found; the old places are all still there. Kān means can."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "惟有：只有。",
+   "en": "wéi yǒu: only."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "少年心：年轻时的心情和兴致。",
+   "en": "shào nián xīn: the heart and high spirits of youth."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "柳树浓绿，花儿鲜艳，春天已经到了最浓的时候。",
+   "en": "Dark willows, bright flowers: spring is at its height."
+  },
+  {
+   "zh": "小栏杆边的红芍药，",
+   "en": "By the little railing the red peonies"
+  },
+  {
+   "zh": "已经抽出了像簪子一样的花苞。",
+   "en": "have already put out buds like hairpins."
+  },
+  {
+   "zh": "雨后风儿柔和，鸟儿叫声细碎。",
+   "en": "After the rain the wind is soft, and birds chirp in little notes."
+  },
+  {
+   "zh": "春天的太阳慢慢地走，",
+   "en": "The slow spring sun"
+  },
+  {
+   "zh": "还带着一点点阴云。",
+   "en": "still carries a touch of cloud."
+  },
+  {
+   "zh": "过去的事，不要再反复去想了。",
+   "en": "Do not brood over the past."
+  },
+  {
+   "zh": "我身子清闲，季节又正好，",
+   "en": "I am free, and the season is fine,"
+  },
+  {
+   "zh": "姑且登高去看看风景。",
+   "en": "so for now I will climb up and take in the view."
+  },
+  {
+   "zh": "从前游玩过的地方，没有一处找不到。",
+   "en": "The places I used to visit can all still be found."
+  },
+  {
+   "zh": "找不到的，",
+   "en": "What cannot be found"
+  },
+  {
+   "zh": "只有年轻时的那颗心。",
+   "en": "is only the heart I had when I was young."
+  }
+ ],
+ "background": {
+  "zh": "这首词写春天出游时的感慨。词人看到春意正浓，劝自己不要再想过去的事，趁着清闲去登高游玩。可是走到从前去过的地方，景物都还在，自己却已经没有了年轻时的心情。这首词写于哪一年已经不清楚，从词意看，应是他中年以后的作品。",
+  "en": "This lyric is about the feelings of a spring outing. Seeing spring at its fullest, the poet tells himself to stop thinking about the past and to go out and climb up for the view while he is free. But when he reaches the places he used to visit, the scenery is all still there, while he no longer has the heart of his youth. The year it was written is not known. From what it says, it seems to come from his middle years or later."
+ },
+ "author_note": {
+  "zh": "章良能，南宋人，生年不详，考中进士后做官，宋宁宗时官至参知政事，也就是副宰相。他留下来的词很少，这首《小重山》是最有名的一首，最后几句常被人引用。",
+  "en": "Zhang Liangneng lived in the Southern Song; his birth year is not known. After passing the top civil exam he served as an official, and under Emperor Ningzong he rose to be an assistant chief minister. Very few of his lyrics survive. This one, to the tune Xiao Chong Shan, is the best known, and its last lines are often quoted."
+ },
+ "appreciation": {
+  "zh": "上半首是一幅明亮的春景：柳绿花红，芍药抽出了花苞，雨后风软，鸟儿叽叽喳喳，太阳慢慢走，天上还有一点薄云。一切都很舒服。下半首他劝自己：别想往事了，趁着有空，去登高吧。他去了，从前的地方一处处都还找得到。最后笔锋一转：找不到的，只有那颗少年心。景物没变，变的是人。前面写得越轻快，最后这一句就越让人心里一酸。",
+  "en": "The first half is a bright spring picture. The willows are green and the flowers red, the peonies have put out buds, the wind is soft after the rain, the birds are chirping, the sun moves slowly, and there is a thin cloud in the sky. Everything feels pleasant. In the second half he tells himself not to dwell on the past and to go up for the view while he has time. He goes, and the old places can all still be found. Then comes the turn: what cannot be found is only the heart of his youth. The scenery has not changed; he has. The lighter the opening feels, the more this last line stings."
+ },
+ "famous_lines": [
+  9,
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "youth",
+   "memory",
+   "outing",
+   "time",
+   "peony"
+  ]
+ },
+ "uncertain": []
+}

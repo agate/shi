@@ -1,0 +1,821 @@
+{
+ "id": "ci-983f0d0075b3",
+ "kind": "ci",
+ "title": "夜飞鹊·河桥送人处",
+ "title_en": "Ye Fei Que: Where I Saw You Off at the River Bridge",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "其",
+    "jī"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "堕",
+    "duò"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "辉",
+    "huī"
+   ]
+  ],
+  [
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "尽",
+    "jǐn"
+   ]
+  ],
+  [
+   [
+    "霏",
+    "fēi"
+   ],
+   [
+    "霏",
+    "fēi"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "探",
+    "tàn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "津",
+    "jīn"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "杪",
+    "miǎo"
+   ],
+   [
+    "参",
+    "shēn"
+   ],
+   [
+    "旗",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "骢",
+    "cōng"
+   ],
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "纵",
+    "zòng"
+   ],
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "鞭",
+    "biān"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "递",
+    "dì"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "野",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "闻",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "遗",
+    "yí"
+   ],
+   [
+    "钿",
+    "diàn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "迷",
+    "mí"
+   ]
+  ],
+  [
+   [
+    "兔",
+    "tù"
+   ],
+   [
+    "葵",
+    "kuí"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "麦",
+    "mài"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "齐",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "徘",
+    "pái"
+   ],
+   [
+    "徊",
+    "huái"
+   ],
+   [
+    "班",
+    "bān"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "欷",
+    "xī"
+   ],
+   [
+    "歔",
+    "xū"
+   ],
+   [
+    "酹",
+    "lèi"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "西",
+    "xī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "通行本作“花骢会意”“向残阳、影与人齐”。底本作“华骢”（华、花相通）、“欲与人齐”。底本的“馀”是繁体转换留下的写法，今写作“余”。",
+  "en": "The common text reads huā cōng in line 9 and \"its shadow as tall as a person\" in line 18. The source text has an older form of huā in line 9 (the two were used for each other) and \"almost as tall as a person\" in line 18. The source also keeps an old form of the character yú in line 3, written in its usual simplified form here."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "其",
+   "pinyin": "jī",
+   "zh": "“何其”出自《诗经》“夜如何其”，“其”是句末语气词，读 jī，不读 qí。",
+   "en": "This phrase comes from the Book of Songs, \"how far is the night gone?\". The last character is a sound word at the end of a question, read jī, not qí."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "参",
+   "pinyin": "shēn",
+   "zh": "“参旗”是星名，“参”读 shēn，和“参宿”的“参”一样。",
+   "en": "Here it is the name of a star group, read shēn, as in the star Shen (Orion)."
+  },
+  {
+   "line": 13,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重红”是一层层的红花瓣，“重”读 chóng。",
+   "en": "Here it means layer upon layer of red petals, so it is read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "河桥：河上的桥，这里是送别的地方。",
+   "en": "hé qiáo: a bridge over the river, the place of parting."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "何其：怎么样了，夜已经多深了。",
+   "en": "hé jī: how far along is it? How late is the night?"
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 4,
+   "zh": "堕：落下。",
+   "en": "duò: to sink, to fall."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "余辉：剩下的一点光。",
+   "en": "yú huī: the last of the light."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "铜盘烛泪：铜做的烛台上，蜡烛烧化流下的蜡油，像眼泪一样。",
+   "en": "tóng pán zhú lèi: on the copper candle stand, the melted wax runs down like tears."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "霏霏：又细又密的样子。",
+   "en": "fēi fēi: fine and thick."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "相将：将要，快要。",
+   "en": "xiāng jiāng: soon, about to."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "散离会：送别的酒会就要散了。",
+   "en": "sàn lí huì: the farewell party is about to break up."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "探风前津鼓：迎着风细听渡口的鼓声。津，渡口。古代渡口打鼓，告诉人船要开了。",
+   "en": "tàn fēng qián jīn gǔ: listening into the wind for the drum at the ferry. Jīn is a ferry crossing. In old times a drum was beaten there when the boat was about to leave."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "树杪：树梢。",
+   "en": "shù miǎo: the treetops."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "参旗：星名。看到参旗星挂在树梢，说明天快亮了。",
+   "en": "shēn qí: the name of a star group. Seeing it at the treetops means dawn is near."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "花骢：毛色青白相间的马，泛指好马。",
+   "en": "huā cōng: a horse with a dappled blue-white coat, a fine horse."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "会意：懂得人的心思。",
+   "en": "huì yì: to understand what someone feels."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 7,
+   "zh": "纵扬鞭亦自行迟：就算举起鞭子赶它，它也自己走得很慢。纵，即使。",
+   "en": "zòng yáng biān yì zì xíng chí: even if I raise the whip, it still walks slowly by itself. Zòng means even if."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "迢递：路很远很长的样子。",
+   "en": "tiáo dì: long and far."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "清野：空旷冷清的田野。",
+   "en": "qīng yě: open, empty fields."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "空带愁归：只带着满心的愁回来。空，只，白白地。",
+   "en": "kōng dài chóu guī: coming back with nothing but sorrow."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "何意：哪里想到。",
+   "en": "hé yì: who would have thought."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "重红：一层层落下的红花瓣。",
+   "en": "chóng hóng: layers of fallen red petals."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "遗钿：掉落的首饰。钿，用金银珠宝做的花形头饰。",
+   "en": "yí diàn: a dropped hair ornament. Diàn is a flower-shaped ornament of gold or gems."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "斜径都迷：那条斜斜的小路也认不出来了。",
+   "en": "xié jìng dōu mí: even the slanting path can no longer be made out."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "兔葵燕麦：两种野草。唐代刘禹锡用它们写荒凉的景象，后来人常借来写旧地荒凉。",
+   "en": "tù kuí yàn mài: two kinds of wild weeds. The Tang poet Liu Yuxi used them to show a place gone wild, and later poets borrowed them for the same feeling."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 7,
+   "zh": "影与人齐：夕阳把野草的影子拉得很长，和人一样高。",
+   "en": "yǐng yǔ rén qí: the low sun stretches the weeds' shadows until they are as tall as a person."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "班草：把草铺开坐在上面。这里指当初两人分别时坐过的地方。",
+   "en": "bān cǎo: spreading grass to sit on. Here it means the spot where the two of them sat when they parted."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "欷歔：抽泣、叹气。",
+   "en": "xī xū: to sob and sigh."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "酹酒：把酒洒在地上，表示怀念。",
+   "en": "lèi jiǔ: pouring wine on the ground in remembrance."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "极望：尽力往远处望。",
+   "en": "jí wàng: to gaze as far as the eye can see."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在河桥边送别你的地方，",
+   "en": "At the river bridge where I saw you off,"
+  },
+  {
+   "zh": "这凉凉的夜已经多深了？",
+   "en": "how late has the cool night grown?"
+  },
+  {
+   "zh": "斜斜的月亮远远落下，只剩一点余光。",
+   "en": "The slanting moon sinks far away, leaving only a little light."
+  },
+  {
+   "zh": "铜烛台上的蜡泪已经流尽，",
+   "en": "On the copper stand the candle's tears have all run out,"
+  },
+  {
+   "zh": "细密的冷露打湿了衣裳。",
+   "en": "and fine cold dew soaks our clothes."
+  },
+  {
+   "zh": "送别的酒会就要散了，",
+   "en": "The farewell party is about to break up."
+  },
+  {
+   "zh": "迎着风听渡口的鼓声，",
+   "en": "I listen into the wind for the ferry drum,"
+  },
+  {
+   "zh": "参旗星已经挂在树梢。",
+   "en": "and the Shenqi stars already hang at the treetops."
+  },
+  {
+   "zh": "花马也懂得人的心思，",
+   "en": "Even the dappled horse understands how I feel:"
+  },
+  {
+   "zh": "就算扬起鞭子，它也走得慢慢的。",
+   "en": "though I raise the whip, it walks slowly by itself."
+  },
+  {
+   "zh": "回来的路又长又远，穿过空旷的田野，",
+   "en": "The long road winds back through the empty fields."
+  },
+  {
+   "zh": "人声渐渐远去，再也听不见了，",
+   "en": "Voices fade until I hear none at all,"
+  },
+  {
+   "zh": "我只带着满心的愁回来。",
+   "en": "and I come home with nothing but sorrow."
+  },
+  {
+   "zh": "哪里想到，地上铺满了一层层落花，",
+   "en": "Who would have thought the ground would be covered in layers of fallen red petals?"
+  },
+  {
+   "zh": "她掉落的首饰再也找不到，",
+   "en": "The ornament she dropped is nowhere to be seen,"
+  },
+  {
+   "zh": "连那条斜斜的小路也认不出了。",
+   "en": "and even the slanting path is lost."
+  },
+  {
+   "zh": "只见野葵和野麦，",
+   "en": "There are only wild weeds and wild oats,"
+  },
+  {
+   "zh": "在夕阳下拉出和人一样高的影子。",
+   "en": "their shadows in the setting sun as tall as a person."
+  },
+  {
+   "zh": "我只能在当初坐过的草地上走来走去，",
+   "en": "I can only pace around the grass where we once sat,"
+  },
+  {
+   "zh": "抽泣着把酒洒在地上，",
+   "en": "sobbing as I pour wine on the ground,"
+  },
+  {
+   "zh": "拼命望向西边的天空。",
+   "en": "and gaze as far as I can toward the western sky."
+  }
+ ],
+ "background": {
+  "zh": "这是一首写离别的词，写作时间已经不清楚。上片写送别那一夜：月亮西斜，蜡烛烧完，露水打湿衣裳，渡口的鼓声催人上路。下片写分别以后，词人又回到送别的地方，只见落花满地，野草丛生，再也找不到她的身影。从“遗钿”看，送走的一般认为是一位女子。",
+  "en": "This is a ci lyric about parting. When it was written is no longer known. The first stanza shows the night of the farewell: the moon sinks, the candles burn out, the dew soaks the clothes, and the drum at the ferry calls the traveler away. The second stanza comes after the parting. The poet goes back to the same place and finds only fallen petals and wild weeds. There is no trace of her left. Because of the dropped hair ornament, the person he saw off is usually taken to be a woman."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，钱塘（今浙江杭州）人，北宋词人。他精通音乐，曾经主管朝廷的音乐机构大晟府，写词很讲究格律和音韵。他的词写得细致工整，铺陈有层次，对南宋词人影响很大。",
+  "en": "Zhou Bangyan (1056–1121) was a Northern Song poet from Qiantang, today's Hangzhou. He knew music very well and once ran the court's music office. He was careful about the rules of rhythm and sound in his lyrics. His writing is fine and orderly, laid out step by step, and it shaped many Southern Song poets."
+ },
+ "appreciation": {
+  "zh": "这首词像两段电影。第一段是深夜送别：月亮斜了，蜡烛流尽了，露水凉了，鼓声和星星都在说“该走了”。最妙的是那匹马，主人扬鞭，它却慢慢走，好像也舍不得。马都这样，人更不用说了。第二段是独自回来：人声渐渐听不见了，地上满是落花，她掉的首饰找不到，连小路都认不清。夕阳下，野草的影子和人一样高，四下一片荒凉。最后他只能在当初坐过的草地上来回走，洒酒叹气，望着西边的天。词里没有一句直说“我很想你”，但每一个画面都是思念。",
+  "en": "This lyric is like two scenes in a film. The first is a farewell late at night. The moon slants, the candles burn out, the dew turns cold, and the drum and the stars all seem to say: it is time to go. The best touch is the horse. Its master raises the whip, yet it walks slowly, as if it too cannot bear to leave. If even the horse feels this way, think how the people feel. The second scene is coming back alone. The voices fade away. Petals cover the ground. The ornament she dropped cannot be found, and even the path is hard to see. In the setting sun the shadows of the weeds are as tall as a person, and everything looks wild and empty. In the end he can only pace the grass where they sat, pour out wine and sigh, and stare at the western sky. Not one line says \"I miss you\", yet every picture is full of missing her."
+ },
+ "famous_lines": [
+  8,
+  9,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "longing",
+   "night",
+   "love"
+  ]
+ },
+ "uncertain": []
+}

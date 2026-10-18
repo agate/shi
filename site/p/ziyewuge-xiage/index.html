@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>子夜吴歌·夏歌 · 李白 — 诗</title>
+    <meta name="description" content="子夜吴歌·夏歌 · 李白 — Midnight Song of Wu: Summer by Li Bai: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character old-style poem</span><span lang="zh">唐诗 · 五言古诗</span></p>
+        <h1>子夜吴歌·夏歌</h1>
+        <p class="by">李白<span class="mono"><span lang="en">Li Bai · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Midnight Song of Wu: Summer</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>jìng</i><b>镜</b></span><span class="c gl" data-l="0" data-p="1"><i>hú</i><b>湖</b></span><span class="c gl" data-l="0" data-p="2"><i>sān</i><b>三</b></span><span class="c gl" data-l="0" data-p="3"><i>bǎi</i><b>百</b></span><span class="c gl" data-l="0" data-p="4"><i>lǐ</i><b>里</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>hàn</i><b>菡</b></span><span class="c gl" data-l="1" data-p="1"><i>dàn</i><b>萏</b></span><span class="c gl" data-l="1" data-p="2"><i>fā</i><b>发</b></span><span class="c" data-l="1" data-p="3"><i>hé</i><b>荷</b></span><span class="c" data-l="1" data-p="4"><i>huā</i><b>花</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>wǔ</i><b>五</b></span><span class="c" data-l="2" data-p="1"><i>yuè</i><b>月</b></span><span class="c gl" data-l="2" data-p="2"><i>xī</i><b>西</b></span><span class="c gl" data-l="2" data-p="3"><i>shī</i><b>施</b></span><span class="c" data-l="2" data-p="4"><i>cǎi</i><b>采</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>rén</i><b>人</b></span><span class="c" data-l="3" data-p="1"><i>kàn</i><b>看</b></span><span class="c gl" data-l="3" data-p="2"><i>ài</i><b>隘</b></span><span class="c gl" data-l="3" data-p="3"><i>ruò</i><b>若</b></span><span class="c gl rd" data-l="3" data-p="4"><i>yé</i><b>耶</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>huí</i><b>回</b></span><span class="c gl" data-l="4" data-p="1"><i>zhōu</i><b>舟</b></span><span class="c gl" data-l="4" data-p="2"><i>bú</i><b>不</b></span><span class="c gl" data-l="4" data-p="3"><i>dài</i><b>待</b></span><span class="c gl" data-l="4" data-p="4"><i>yuè</i><b>月</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>guī</i><b>归</b></span><span class="c" data-l="5" data-p="1"><i>qù</i><b>去</b></span><span class="c gl" data-l="5" data-p="2"><i>yuè</i><b>越</b></span><span class="c gl" data-l="5" data-p="3"><i>wáng</i><b>王</b></span><span class="c gl" data-l="5" data-p="4"><i>jiā</i><b>家</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus title is &quot;Xianghe Song Lyrics: Midnight Songs of the Four Seasons, Summer&quot;. The common title is &quot;Midnight Song of Wu: Summer&quot;. In line four the corpus writes the stream&#x27;s name Ruoye with a different second character; the common text uses the usual one, as here.</p><p lang="zh">语料题目作《相和歌辞·子夜四时歌四首·夏歌》，通行本题作《子夜吴歌·夏歌》。语料第四句作“若邪”，通行本写作“若耶”，指的是同一条溪，这里用“若耶”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">镜湖三百里</span><span lang="en">Mirror Lake stretches three hundred li around.</span><span lang="zh">镜湖方圆三百里，</span></li><li><span class="o">菡萏发荷花</span><span lang="en">Its lotus buds have opened into flowers.</span><span lang="zh">湖上的荷花苞都开成了荷花。</span></li><li><span class="o">五月西施采</span><span lang="en">In the fifth month, Xi Shi comes to pick lotus.</span><span lang="zh">五月里，西施来湖上采莲，</span></li><li><span class="o">人看隘若耶</span><span lang="en">So many come to look that the Ruoye Stream is crowded.</span><span lang="zh">看她的人挤满了若耶溪。</span></li><li><span class="o">回舟不待月</span><span lang="en">Without waiting for the moon, she turns her boat around</span><span lang="zh">她不等月亮升起，就掉转船头，</span></li><li><span class="o">归去越王家</span><span lang="en">and goes back to the palace of the King of Yue.</span><span lang="zh">回到越王的宫里去了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>镜湖<span class="mono">jìng hú</span></dt><dd><span lang="en">jìng hú: Mirror Lake, in today&#x27;s Shaoxing, Zhejiang, its water as still as a mirror.</span><span lang="zh">镜湖：湖名，在今天浙江绍兴，湖水平静得像镜子一样。</span></dd></div><div><dt>三百里<span class="mono">sān bǎi lǐ</span></dt><dd><span lang="en">sān bǎi lǐ: three hundred li, a way of saying the lake is very big.</span><span lang="zh">三百里：形容湖面很大。</span></dd></div><div><dt>菡萏<span class="mono">hàn dàn</span></dt><dd><span lang="en">hàn dàn: lotus buds, or lotus flowers.</span><span lang="zh">菡萏：荷花的花苞，也指荷花。</span></dd></div><div><dt>发<span class="mono">fā</span></dt><dd><span lang="en">fā: to open, to bloom.</span><span lang="zh">发：开放。</span></dd></div><div><dt>西施<span class="mono">xī shī</span></dt><dd><span lang="en">xī shī: Xi Shi, a famous beauty of the state of Yue in the Spring and Autumn period. Legend says she washed silk by the Ruoye Stream.</span><span lang="zh">西施：春秋时越国有名的美女，传说她曾在若耶溪边浣纱。</span></dd></div><div><dt>隘<span class="mono">ài</span></dt><dd><span lang="en">ài: narrow; here it means packed with people.</span><span lang="zh">隘：狭窄，这里指挤满了人。</span></dd></div><div><dt>若耶<span class="mono">ruò yé</span></dt><dd><span lang="en">ruò yé: the Ruoye Stream, south of today&#x27;s Shaoxing, flowing into Mirror Lake.</span><span lang="zh">若耶：若耶溪，在今天绍兴南边，流入镜湖。</span></dd></div><div><dt>回舟不待月<span class="mono">huí zhōu bú dài yuè</span></dt><dd><span lang="en">huí zhōu bù dài yuè: she turns her boat back without waiting for the moon to rise.</span><span lang="zh">回舟不待月：不等月亮升起，就掉转船头回去了。</span></dd></div><div><dt>越王家<span class="mono">yuè wáng jiā</span></dt><dd><span lang="en">yuè wáng jiā: the palace of the King of Yue. Legend says Xi Shi was later called into the palace of Goujian, King of Yue.</span><span lang="zh">越王家：越王的宫里。传说西施后来被召进越王勾践的宫中。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>耶<span class="mono">yé</span></dt><dd><span lang="en">yé: Ruoye is the name of a stream, read ruò yé today. In older pronunciation it rhymed with huā and jiā.</span><span lang="zh">耶：若耶是溪名，现在读 ruò yé。古音和“花、家”押韵。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">The Midnight Songs of Wu are a set of four poems Li Bai wrote in the style of southern folk songs, one for each season. This one is about summer and borrows the legend of Xi Shi. Mirror Lake and the Ruoye Stream are both in today&#x27;s Shaoxing, Zhejiang, once part of the state of Yue. Legend says Xi Shi was a beauty of Yue who washed silk by the Ruoye Stream and was later taken into the King of Yue&#x27;s palace. The poet imagines her picking lotus on the lake in the fifth month. The year the set was written is not known.</p><p lang="zh">《子夜吴歌》是李白仿照南方民歌写的一组诗，共四首，分别写春、夏、秋、冬。这首写夏天，借用了西施的传说。镜湖和若耶溪都在今天的浙江绍兴，那里古时属于越国。传说西施是越国的美女，曾在若耶溪边浣纱，后来进了越王的宫。诗人想象她五月在湖上采莲的样子。这组诗具体写于哪一年，已经不清楚了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Bai (701 to 762) is one of the most famous Tang poets, called the Immortal of Poetry. He loved folk songs and often rewrote old song titles in his own way. The Midnight Songs of Wu began as folk songs of the Wu region in the south. Li Bai wrote one for each season: spring, summer, autumn and winter. The words are as plain as a folk song, but the feeling runs deep.</p><p lang="zh">李白（701—762），唐代最有名的诗人之一，人称“诗仙”。他很喜欢学习民歌，把老的乐府诗题拿来重新写。《子夜吴歌》本来是南方吴地的民歌，李白按春、夏、秋、冬各写了一首，语言像民歌一样明白好懂，感情却很深。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is like a lively summer painting. First comes a wide view: Mirror Lake, three hundred li across, covered in lotus flowers. Then the view moves closer: the lovely Xi Shi rows her little boat out to pick lotus. The poet never tells us how beautiful she is. Instead he says so many people come to look that the Ruoye Stream is jammed. The bigger the crowd, the more beautiful she must be. In the end she does not wait for the moon. She rows back to the King of Yue&#x27;s palace, leaving the crowd on the bank still gazing. The lotus is lovely, and she is lovelier still. But she comes and goes so quickly that we are left amazed, and a little sorry to see her go.</p><p lang="zh">这首诗像一幅热闹的夏日图画。先是一个大大的镜头：三百里的镜湖，开满了荷花。然后镜头拉近：美丽的西施划着小船来采莲。诗人没有直接写她有多美，而是写看她的人太多，把若耶溪都挤满了。人越多，越说明她美。最后她不等月亮出来，就划船回越王宫里去了，留下岸上的人还在张望。荷花美，人更美；可是来得匆匆，去得也匆匆，让人觉得又惊艳又有点不舍。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/guiyuan/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>闺怨</b></a><a href="../../p/jinlingtu/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>金陵图</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["镜", "jìng"], ["湖", "hú"], ["三", "sān"], ["百", "bǎi"], ["里", "lǐ"]], [["菡", "hàn"], ["萏", "dàn"], ["发", "fā"], ["荷", "hé"], ["花", "huā"]], [["五", "wǔ"], ["月", "yuè"], ["西", "xī"], ["施", "shī"], ["采", "cǎi"]], [["人", "rén"], ["看", "kàn"], ["隘", "ài"], ["若", "ruò"], ["耶", "yé"]], [["回", "huí"], ["舟", "zhōu"], ["不", "bú"], ["待", "dài"], ["月", "yuè"]], [["归", "guī"], ["去", "qù"], ["越", "yuè"], ["王", "wáng"], ["家", "jiā"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "镜湖：湖名，在今天浙江绍兴，湖水平静得像镜子一样。", "en": "jìng hú: Mirror Lake, in today's Shaoxing, Zhejiang, its water as still as a mirror."}, {"line": 0, "start": 2, "end": 5, "zh": "三百里：形容湖面很大。", "en": "sān bǎi lǐ: three hundred li, a way of saying the lake is very big."}, {"line": 1, "start": 0, "end": 2, "zh": "菡萏：荷花的花苞，也指荷花。", "en": "hàn dàn: lotus buds, or lotus flowers."}, {"line": 1, "start": 2, "end": 3, "zh": "发：开放。", "en": "fā: to open, to bloom."}, {"line": 2, "start": 2, "end": 4, "zh": "西施：春秋时越国有名的美女，传说她曾在若耶溪边浣纱。", "en": "xī shī: Xi Shi, a famous beauty of the state of Yue in the Spring and Autumn period. Legend says she washed silk by the Ruoye Stream."}, {"line": 3, "start": 2, "end": 3, "zh": "隘：狭窄，这里指挤满了人。", "en": "ài: narrow; here it means packed with people."}, {"line": 3, "start": 3, "end": 5, "zh": "若耶：若耶溪，在今天绍兴南边，流入镜湖。", "en": "ruò yé: the Ruoye Stream, south of today's Shaoxing, flowing into Mirror Lake."}, {"line": 4, "start": 0, "end": 5, "zh": "回舟不待月：不等月亮升起，就掉转船头回去了。", "en": "huí zhōu bù dài yuè: she turns her boat back without waiting for the moon to rise."}, {"line": 5, "start": 2, "end": 5, "zh": "越王家：越王的宫里。传说西施后来被召进越王勾践的宫中。", "en": "yuè wáng jiā: the palace of the King of Yue. Legend says Xi Shi was later called into the palace of Goujian, King of Yue."}], "readings": [{"line": 3, "pos": 4, "char": "耶", "pinyin": "yé", "zh": "耶：若耶是溪名，现在读 ruò yé。古音和“花、家”押韵。", "en": "yé: Ruoye is the name of a stream, read ruò yé today. In older pronunciation it rhymed with huā and jiā."}], "speak": ["镜湖三百里", "菡萏发荷花", "五月西施采", "人看隘若耶", "回舟不待月", "归去越王家"], "speakTitle": "子夜吴歌，夏歌。李白。", "sample": "镜湖三百里"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

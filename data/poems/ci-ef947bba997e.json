@@ -1,0 +1,623 @@
+{
+ "id": "ci-ef947bba997e",
+ "kind": "ci",
+ "title": "蓦山溪·梅",
+ "title_en": "Mo Shan Xi: Plum Blossoms",
+ "author": "曹组",
+ "author_en": "Cao Zu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "洗",
+    "xǐ"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "真",
+    "zhēn"
+   ],
+   [
+    "态",
+    "tài"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "铅",
+    "qiān"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "御",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "细",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "垂",
+    "chuí"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "况",
+    "kuàng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "结",
+    "jié"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "廉",
+    "lián"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "世",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "供",
+    "gōng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ],
+   [
+    "却",
+    "què"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "底本题目只有词牌，通行本题作“梅”。",
+  "en": "Our source gives only the tune name; common editions add the title \"Plum Blossoms\"."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”在这里是“放、安顿”的意思，读 zhuó。",
+   "en": "Here this character means \"to place, to rest\", so it is read zhuó."
+  },
+  {
+   "line": 12,
+   "pos": 2,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”在这里是“碰上、遭受”的意思，读 zhuó。",
+   "en": "Here this character means \"to meet with, to suffer\", so it is read zhuó."
+  },
+  {
+   "line": 14,
+   "pos": 0,
+   "char": "供",
+   "pinyin": "gōng",
+   "zh": "“供”是“给、提供”，读 gōng。",
+   "en": "This character means \"to give, to supply\" and is read gōng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "洗妆真态：洗去脂粉后天然的样子。这里把梅花比作不化妆的美人。",
+   "en": "xǐ zhuāng zhēn tài: a natural look with all makeup washed off. The plum blossom is pictured as a beauty who wears no makeup."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "铅华：古代女子搽脸的白粉。",
+   "en": "qiān huá: the white face powder women used in old times."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "御：用。“不作铅华御”就是不用脂粉打扮。",
+   "en": "yù: to use. The line means she does not put on powder."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "竹外一枝斜：竹林外斜伸出一枝梅花。苏轼有“竹外一枝斜更好”的句子。",
+   "en": "zhú wài yī zhī xié: a single branch of plum leaning out beyond the bamboo. Su Shi wrote a line much like this."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 7,
+   "zh": "天寒日暮：杜甫的《佳人》写一位美人“天寒翠袖薄，日暮倚修竹”，天冷了，衣袖单薄，傍晚靠着竹子。这里用来比梅花。",
+   "en": "tiān hán rì mù: cold weather, end of day. Du Fu's poem \"The Beauty\" shows a lady in thin sleeves, leaning on bamboo at dusk in the cold. The plum is pictured as that lady."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 5,
+   "zh": "无处著清香：清香没有地方安放，说没人欣赏。",
+   "en": "wú chù zhuó qīng xiāng: its pure scent has nowhere to rest. No one is there to enjoy it."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "垂垂：雪下得很重，像要压下来。",
+   "en": "chuí chuí: the snow hangs heavy, as if weighing everything down."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "江头路：江边的路，更荒凉冷清。",
+   "en": "jiāng tóu lù: the road by the river, even lonelier and colder."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "疏影：稀疏的影子。北宋林逋写梅花有“疏影横斜水清浅”的名句。",
+   "en": "shū yǐng: sparse shadows. The Song poet Lin Bu wrote a famous line about plum branches casting sparse shadows over shallow water."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "消魂：心醉，或伤心得好像魂都没了。",
+   "en": "xiāo hún: so moved, or so sad, that the soul seems to melt."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "结子欲黄：梅树结了果子，快要变黄。",
+   "en": "jié zǐ yù huáng: the plum tree has borne fruit, and it is about to turn yellow."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 7,
+   "zh": "廉纤细雨：绵绵的毛毛雨。梅子黄的时候，江南常下这样的雨，叫梅雨。",
+   "en": "lián xiān xì yǔ: a fine, endless drizzle. When plums turn yellow, south China often has such rain, called plum rain."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "孤芳：独自开放的香花，指梅花。",
+   "en": "gū fāng: a lonely fragrant flower, that is, the plum."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 5,
+   "zh": "供断有情愁：给有情的人带来无尽的愁。断，尽、极。",
+   "en": "gōng duàn yǒu qíng chóu: it gives endless sorrow to people who feel deeply. Duàn here means to the utmost."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "东阳：指南朝的沈约，他做过东阳太守，因为忧愁消瘦，腰带越来越松。后来“东阳”就代指消瘦的人。这里是词人自比。",
+   "en": "dōng yáng: Shen Yue, a poet of the Southern Dynasties who governed Dongyang. He grew so thin from worry that his belt kept getting looser. Later \"Dongyang\" came to mean someone wasting away. Here the poet means himself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "梅花像洗去脂粉的美人，露出天然的模样，",
+   "en": "The plum blossom is like a beauty with her makeup washed off, showing her true face;"
+  },
+  {
+   "zh": "从不用白粉打扮自己。",
+   "en": "she never puts on powder."
+  },
+  {
+   "zh": "竹林外斜伸出一枝，",
+   "en": "One branch leans out beyond the bamboo,"
+  },
+  {
+   "zh": "让人想起那位在寒冷的傍晚靠着竹子的佳人。",
+   "en": "like the lady in the old poem who leans on bamboo in the cold at dusk."
+  },
+  {
+   "zh": "黄昏时的小院里，",
+   "en": "In a small courtyard at dusk,"
+  },
+  {
+   "zh": "它的清香找不到地方安放。",
+   "en": "its pure scent finds nowhere to rest."
+  },
+  {
+   "zh": "风细细地吹，",
+   "en": "The wind blows softly,"
+  },
+  {
+   "zh": "雪沉沉地下，",
+   "en": "the snow falls heavy,"
+  },
+  {
+   "zh": "更何况是开在冷清的江边路上呢。",
+   "en": "and how much lonelier it is on the road by the river."
+  },
+  {
+   "zh": "月亮旁边，映着它稀疏的影子，",
+   "en": "By the moon, its sparse shadows show,"
+  },
+  {
+   "zh": "让人连做梦都到了伤心的地方。",
+   "en": "and even in dreams one goes to a place of heartache."
+  },
+  {
+   "zh": "等到梅子结出来，快要变黄的时候，",
+   "en": "When the fruit has formed and is about to turn yellow,"
+  },
+  {
+   "zh": "又要遭受绵绵的细雨。",
+   "en": "it must suffer the fine, endless rain again."
+  },
+  {
+   "zh": "它孤独地开了一辈子，",
+   "en": "All its life it blooms alone,"
+  },
+  {
+   "zh": "给有情的人带来无尽的愁。",
+   "en": "and gives endless sorrow to those who feel deeply."
+  },
+  {
+   "zh": "让人愁得消瘦了，",
+   "en": "It makes one waste away,"
+  },
+  {
+   "zh": "就像当年的沈约一样。",
+   "en": "thin as Shen Yue of old."
+  },
+  {
+   "zh": "试问梅花，你知道吗？",
+   "en": "Tell me, plum blossom, do you know?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏梅的词。词人把梅花当作一位不施脂粉、孤独清高的美人来写，从冬天开花，一直写到初夏结出梅子。这首词写于什么时候、在什么地方，没有可靠的记载。",
+  "en": "This is a lyric in praise of the plum blossom. The poet writes the plum as a beauty who wears no makeup, lonely and proud. He follows it from its blossoms in winter to its fruit in early summer. There is no reliable record of when or where it was written."
+ },
+ "author_note": {
+  "zh": "曹组，字元宠，北宋末年的词人，宋徽宗时在朝中做官。他的词在当时流传很广，有不少是诙谐逗乐的，也有像这首一样清雅的作品。南宋词人曹勋是他的儿子。他的生卒年不详。",
+  "en": "Cao Zu, courtesy name Yuanchong, was a lyric poet at the end of the Northern Song and served at court under Emperor Huizong. His lyrics were widely sung in his day. Many were playful and funny, but some, like this one, are elegant and pure. The Southern Song poet Cao Xun was his son. His dates are unknown."
+ },
+ "appreciation": {
+  "zh": "这首词把梅花写成一个人。上片写她的样子：不化妆，天然美；一枝斜出竹外，像杜甫诗里那位在寒风中倚竹的佳人。黄昏的小院里，她的清香没人欣赏；风细雪重，江边路上更冷清。读到这里，我们能感到一种孤单的高洁。下片写她的命运：月下的影子让人梦里也伤心；好不容易结了梅子，又碰上绵绵细雨。她孤独地开了一辈子，只给有情的人带来愁。词人为她愁得消瘦，像古时的沈约，最后忍不住问：花啊，你知道吗？这一问很轻，却把怜惜之情全说出来了。",
+  "en": "This lyric writes the plum blossom as a person. The first stanza shows how she looks. She wears no makeup and is naturally lovely. One branch leans out beyond the bamboo, like the lady in Du Fu's poem who leans on bamboo in the cold wind. In the small courtyard at dusk, no one enjoys her scent. The wind is soft, the snow is heavy, and the road by the river is lonelier still. Here we feel a lonely kind of purity. The second stanza shows her fate. Her shadow under the moon brings heartache even in dreams. When at last she bears fruit, the endless drizzle comes. She blooms alone all her life and only brings sorrow to those who feel deeply. The poet grows thin with sorrow for her, like Shen Yue long ago. At last he cannot help asking: flower, do you know? The question is soft, yet it says all his tender pity."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "plum-blossom",
+   "loneliness",
+   "snow",
+   "beauty"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,730 @@
+{
+ "id": "ci-4a8aad600e7f",
+ "kind": "ci",
+ "title": "采莲令·月华收",
+ "title_en": "Cai Lian Ling: The Moonlight Fades",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调，91字",
+  "en": "ci lyric in two stanzas, 91 characters"
+ },
+ "lines": [
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "曙",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "娥",
+    "é"
+   ],
+   [
+    "执",
+    "zhí"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "歧",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "轧",
+    "yà"
+   ],
+   [
+    "轧",
+    "yà"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "伫",
+    "zhù"
+   ],
+   [
+    "立",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "顾",
+    "gù"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "恁",
+    "nèn"
+   ],
+   [
+    "急",
+    "jí"
+   ],
+   [
+    "桨",
+    "jiǎng"
+   ],
+   [
+    "凌",
+    "líng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "贪",
+    "tān"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "般",
+    "bān"
+   ],
+   [
+    "方",
+    "fāng"
+   ],
+   [
+    "寸",
+    "cùn"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "脉",
+    "mò"
+   ],
+   [
+    "脉",
+    "mò"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "轧",
+   "pinyin": "yà",
+   "zh": "轧轧是开门的声音，象声词，读 yà yà。",
+   "en": "Yà yà is the creaking sound of a door opening, so the character is read yà."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "争",
+   "pinyin": "zhēng",
+   "zh": "“争”在这里是“怎”的意思，读音仍是 zhēng。",
+   "en": "Here this character means how; it is still read zhēng."
+  },
+  {
+   "line": 9,
+   "pos": 1,
+   "char": "恁",
+   "pinyin": "nèn",
+   "zh": "“恁”是宋代口语，意思是这样、如此，读 nèn。",
+   "en": "This is a Song-dynasty spoken word meaning so, like this. It is read nèn."
+  },
+  {
+   "line": 13,
+   "pos": 0,
+   "char": "脉",
+   "pinyin": "mò",
+   "zh": "脉脉是含情不语的样子，读 mò mò。",
+   "en": "Mò mò means gazing with feeling but saying nothing, read mò."
+  },
+  {
+   "line": 14,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重城是一重又一重的城墙，“重”读 chóng。",
+   "en": "Chóng chéng means walls behind walls, so this character is read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "月华收：月光渐渐消失了。",
+   "en": "yuè huá shōu: the moonlight fades away."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "霜天曙：下霜的天空刚刚亮。",
+   "en": "shuāng tiān shǔ: the frosty sky is just getting light."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 3,
+   "zh": "西征客：要往西边远行的人，就是词人自己。",
+   "en": "xī zhēng kè: a traveler going west, the poet himself."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "翠娥：眉毛画得青翠的美丽女子，这里指和词人相爱的女子。",
+   "en": "cuì é: a beautiful woman with dark-painted brows, here the woman the poet loves."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "执手：拉着手。",
+   "en": "zhí shǒu: holding hands."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "临歧：走到岔路口。古人常在岔路口分别。",
+   "en": "lín qí: coming to the fork in the road, where people in old times said goodbye."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "朱户：红漆的大门。",
+   "en": "zhū hù: a red-painted door."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "千娇面：非常娇美的脸。",
+   "en": "qiān jiāo miàn: a very lovely face."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "伫立：久久地站着。",
+   "en": "zhù lì: standing still for a long time."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "断肠：伤心到了极点。",
+   "en": "duàn cháng: heartbroken, as sad as can be."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "争忍：怎么忍心。",
+   "en": "zhēng rěn: how could one bear to."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "回顾：回头看。",
+   "en": "huí gù: to look back."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "兰舟：用木兰树木做的船，是船的美称。",
+   "en": "lán zhōu: a boat made of magnolia wood, a pretty name for a boat."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "便恁：就这样。",
+   "en": "biàn nèn: just like that."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "凌波：在水波上飞快地前进。",
+   "en": "líng bō: skimming over the waves."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "贪行色：只顾着赶路。行色，出发时匆忙的样子。",
+   "en": "tān xíng sè: caring only about hurrying on. Xíng sè is the look of a traveler rushing off."
+  },
+  {
+   "line": 10,
+   "start": 5,
+   "end": 7,
+   "zh": "离绪：离别的愁绪。",
+   "en": "lí xù: the sad feelings of parting."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "万般：各种各样，这里指千头万绪的心事。",
+   "en": "wàn bān: all kinds, here countless worries."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "方寸：指心。古人认为心只有一寸见方那么大。",
+   "en": "fāng cùn: the heart. People in old times thought the heart was about one square inch in size."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 3,
+   "zh": "饮恨：把怨恨咽到肚子里，说不出来。",
+   "en": "yǐn hèn: swallowing your sorrow, unable to speak it."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 5,
+   "zh": "同谁语：能跟谁说呢。",
+   "en": "tóng shuí yǔ: who can I tell?"
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 5,
+   "zh": "重城：一层又一层的城墙，指女子住的城。",
+   "en": "chóng chéng: walls behind walls, the city where the woman lives."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "隐隐：模模糊糊，看不太清。",
+   "en": "yǐn yǐn: faint and hazy."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 6,
+   "zh": "烟树：笼罩在雾气里的树。",
+   "en": "yān shù: trees wrapped in mist."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月光渐渐消失了，",
+   "en": "The moonlight fades,"
+  },
+  {
+   "zh": "云很淡，下霜的天空刚刚亮。",
+   "en": "the clouds are thin, and the frosty sky begins to brighten."
+  },
+  {
+   "zh": "要往西远行的我，这时心里非常痛苦。",
+   "en": "I am about to travel west, and my heart is full of pain."
+  },
+  {
+   "zh": "心爱的女子拉着我的手，送我到岔路口，",
+   "en": "My beloved holds my hand and walks me to the fork in the road."
+  },
+  {
+   "zh": "红漆的大门轧轧地打开了。",
+   "en": "The red door creaks open."
+  },
+  {
+   "zh": "她美丽的脸庞，静静地久久站着，",
+   "en": "With her lovely face, she stands there quietly for a long time,"
+  },
+  {
+   "zh": "一句话也不说，只是流泪。",
+   "en": "saying nothing, only crying."
+  },
+  {
+   "zh": "我伤心欲绝，怎么忍心回头看她？",
+   "en": "My heart is breaking. How can I bear to look back at her?"
+  },
+  {
+   "zh": "一只小小的木兰船，",
+   "en": "A little magnolia boat"
+  },
+  {
+   "zh": "就这样划着快桨，在水波上飞快地离去。",
+   "en": "rows off fast like this, racing over the waves."
+  },
+  {
+   "zh": "船只顾着赶路，哪里知道我离别的愁苦？",
+   "en": "It only cares about hurrying on. How could it know my sorrow at parting?"
+  },
+  {
+   "zh": "心里有千头万绪，",
+   "en": "My heart is full of a thousand worries,"
+  },
+  {
+   "zh": "只能把怨恨咽下去，",
+   "en": "and I can only swallow my sorrow."
+  },
+  {
+   "zh": "满腔深情，能跟谁说呢？",
+   "en": "With all this feeling, who can I tell?"
+  },
+  {
+   "zh": "再回头望去，一重重的城墙已经看不见了，",
+   "en": "When I look back again, the city walls are gone from sight."
+  },
+  {
+   "zh": "寒冷的江水流向天边，",
+   "en": "The cold river runs off to the edge of the sky,"
+  },
+  {
+   "zh": "只隐隐约约看到两三棵烟雾里的树。",
+   "en": "and I can just make out two or three trees in the mist."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是一次清晨的离别。天刚亮，词人要坐船往西远行，心爱的女子开门送他到岔路口。上船以后，船越走越远，他回头再看，城已经不见了。柳永一生常年在外漂泊，写过很多离别的词。这首词具体写于什么时间、在什么地方，现在不清楚。",
+  "en": "This lyric is about a parting at dawn. The sky is just getting light. The poet is about to sail west, and the woman he loves opens the door and walks him to the fork in the road. Once he is on the boat, it goes farther and farther away. When he looks back, the city has disappeared. Liu Yong spent much of his life wandering far from home and wrote many lyrics about parting. We do not know exactly when or where this one was written."
+ },
+ "author_note": {
+  "zh": "柳永（约984—约1053），原名三变，崇安（今福建武夷山）人，北宋著名词人。他很懂音乐，写了大量长调慢词，语言通俗好懂，当时传唱很广，有人说“凡有井水饮处，即能歌柳词”。他考科举很不顺利，长期在各地漂泊，所以特别会写离别和羁旅的愁苦。",
+  "en": "Liu Yong (about 984 to about 1053), first named Sanbian, came from Chong'an, today's Wuyishan in Fujian. He was a famous poet of the Northern Song. He knew music well and wrote many long, slow lyrics in plain, easy words. They were sung everywhere. People said that wherever there was a well to drink from, someone could sing Liu Yong's songs. He did badly in the official exams for a long time and wandered from place to place, so he was very good at writing about parting and the sorrow of travel."
+ },
+ "appreciation": {
+  "zh": "上片像一段电影镜头。先是天色：月亮落了，云淡淡的，霜天刚亮，冷冷清清。然后是人：女子拉着手送到路口，大门“轧轧”一响，她一句话也不说，只是流泪。词人连回头看一眼都不忍心。下片写船上。小船划得飞快，好像一点也不懂人的心事。满肚子的话没处说，只能咽下去。最后他还是忍不住回头了，可是城已经看不见，只剩寒江流向天外，两三棵树在雾里若隐若现。这个结尾不说一个“愁”字，愁却像那片雾一样，越飘越远，越来越淡，又一直散不开。",
+  "en": "The first stanza is like a scene from a film. First the sky: the moon has set, the clouds are thin, and the frosty dawn is cold and quiet. Then the people: she holds his hand and walks him to the road. The door creaks. She says nothing, only cries. He cannot even bear to look back. The second stanza is on the boat. The little boat races along, as if it knows nothing of human hearts. He has so much to say and no one to tell, so he swallows it. In the end he looks back after all, but the city is gone. Only the cold river runs to the edge of the sky, with two or three trees half hidden in the mist. The ending never uses the word sorrow. Yet the sorrow is like that mist: drifting farther, growing fainter, and never quite clearing."
+ },
+ "famous_lines": [
+  14,
+  15,
+  16
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "river",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

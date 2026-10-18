@@ -1,0 +1,386 @@
+{
+ "id": "ci-5eee297f9a28",
+ "kind": "ci",
+ "title": "清平乐·春归何处",
+ "title_en": "Qing Ping Yue: Where Has Spring Gone",
+ "author": "黄庭坚",
+ "author_en": "Huang Tingjian",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《清平乐》，双调四十六字",
+  "en": "ci to the tune Qing Ping Yue, 46 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "踪",
+    "zōng"
+   ],
+   [
+    "迹",
+    "jì"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "除",
+    "chú"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹂",
+    "lí"
+   ]
+  ],
+  [
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "啭",
+    "zhuàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "解",
+    "jiě"
+   ]
+  ],
+  [
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "蔷",
+    "qiáng"
+   ],
+   [
+    "薇",
+    "wēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "春归：春天回去了，就是春天结束了。",
+   "en": "chūn guī: spring has gone home, that is, spring is over."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "何处：什么地方。",
+   "en": "hé chù: where."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "寂寞：冷清，孤单。",
+   "en": "jì mò: lonely and quiet."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "无行路：没有留下走过的路，找不到它的去向。",
+   "en": "wú xíng lù: no road left behind, no trace of where it went."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "若：如果。",
+   "en": "ruò: if."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "唤取：叫它，把它喊回来。取，放在动词后面，没有实在意思。",
+   "en": "huàn qǔ: to call it back. Qǔ after a verb adds no real meaning."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "踪迹：脚印，留下的痕迹。",
+   "en": "zōng jì: footprints, traces."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "除非：只有。",
+   "en": "chú fēi: only, unless."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "问取：去问一问。",
+   "en": "wèn qǔ: to go and ask."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "黄鹂：黄莺，一种羽毛金黄、叫声好听的鸟。",
+   "en": "huáng lí: the oriole, a golden bird with a lovely song."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "百啭：婉转地叫个不停。啭，鸟儿婉转地叫。",
+   "en": "bǎi zhuàn: singing on and on in many turns. Zhuàn is a bird's warbling song."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 6,
+   "zh": "解：懂，明白。",
+   "en": "jiě: to understand."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "因风：顺着风，借着风势。",
+   "en": "yīn fēng: riding on the wind."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "蔷薇：一种爬藤的花，初夏开放。春天快走完的时候才开。",
+   "en": "qiáng wēi: the climbing rose, which blooms in early summer, when spring is almost gone."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天回到哪里去了？",
+   "en": "Where has spring gone?"
+  },
+  {
+   "zh": "四下冷冷清清，连它走过的路都找不到。",
+   "en": "All is lonely and still; there is no trace of the road it took."
+  },
+  {
+   "zh": "如果有人知道春天去了哪里，",
+   "en": "If anyone knows where spring has gone,"
+  },
+  {
+   "zh": "请把它叫回来，和我们住在一起。",
+   "en": "please call it back to live with us."
+  },
+  {
+   "zh": "春天没有留下一点痕迹，谁会知道呢？",
+   "en": "Spring has left no trace. Who could know?"
+  },
+  {
+   "zh": "除非去问问黄鹂鸟。",
+   "en": "Unless we ask the oriole."
+  },
+  {
+   "zh": "黄鹂婉转地叫个不停，可是没有人听得懂，",
+   "en": "The oriole sings on and on, but no one understands;"
+  },
+  {
+   "zh": "它借着风势，飞过了蔷薇花丛。",
+   "en": "it rides the wind and flies away over the roses."
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春时节的惜春之情。春天快结束了，词人舍不得它走，就像对待一个朋友一样到处找它，问人，又问鸟。写作的具体时间和地点不清楚。全词没有直接写落花残红，而是把春天当成一个会走路、会躲起来的人来写，想象很特别。",
+  "en": "This ci is about the sadness of seeing spring end. Spring is almost over, and the poet does not want it to go. He looks for it everywhere, as if it were a friend, asking people and then asking a bird. We do not know exactly when or where it was written. The poem never shows fallen flowers directly. Instead it treats spring as a person who can walk away and hide, which is an unusual and fresh idea."
+ },
+ "author_note": {
+  "zh": "黄庭坚（1045—1105），字鲁直，号山谷道人，洪州分宁（今江西修水）人，北宋诗人、书法家。他是苏轼的学生，“苏门四学士”之一，和苏轼并称“苏黄”。他是江西诗派的开创者，书法也非常有名。他一生几次被贬到偏远的地方，最后死在宜州。",
+  "en": "Huang Tingjian (1045–1105), styled Luzhi, called himself the Daoist of Shangu. He came from Fenning in Hongzhou, today's Xiushui in Jiangxi. He was a Northern Song poet and calligrapher, and one of the Four Scholars who studied under Su Shi. People named the two of them together as Su and Huang. He founded the Jiangxi school of poetry, and his calligraphy is famous too. He was sent away to remote places several times and died in Yizhou."
+ },
+ "appreciation": {
+  "zh": "这首词像一个孩子在找走丢的小伙伴。开头就问：春天到哪里去了？四周冷冷清清，连脚印都没有。那就请知道的人帮忙，把它叫回来一起住吧。下片说：没人知道，那就问黄鹂吧，黄鹂天天在春天里唱歌，一定知道。可黄鹂叫了半天，没人听得懂，它一转身，顺着风飞过蔷薇花去了。蔷薇一开，春天就真的走了。一问再问，最后什么也没找到，惜春的心情就藏在这一次次的寻找里，又天真，又惆怅。",
+  "en": "This ci is like a child looking for a lost friend. It starts by asking: where has spring gone? All around it is lonely and still, with not even a footprint. So it asks anyone who knows to call spring back to live with us. The second stanza says no one knows, so let us ask the oriole. The oriole sings in spring every day, so surely it knows. But it sings and sings and no one understands. Then it turns and rides the wind away over the roses. When the roses bloom, spring is truly gone. The poet asks again and again and finds nothing. His love for spring hides in all this searching, both innocent and sad."
+ },
+ "famous_lines": [
+  0,
+  1,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "birds",
+   "longing",
+   "imagination"
+  ]
+ },
+ "uncertain": []
+}

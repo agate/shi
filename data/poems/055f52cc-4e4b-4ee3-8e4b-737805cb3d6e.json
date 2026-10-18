@@ -1,0 +1,269 @@
+{
+ "id": "055f52cc-4e4b-4ee3-8e4b-737805cb3d6e",
+ "kind": "shi",
+ "title": "小儿垂钓",
+ "title_en": "A Child Fishing",
+ "author": "胡令能",
+ "author_en": "Hu Lingneng",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "稚",
+    "zhì"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "学",
+    "xué"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "纶",
+    "lún"
+   ]
+  ],
+  [
+   [
+    "侧",
+    "cè"
+   ],
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "莓",
+    "méi"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "身",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "招",
+    "zhāo"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "应",
+    "yìng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文“稚”写作“穉”，这是“稚”的异体字，课本写“稚”。",
+  "en": "The corpus writes the character for \"young\" (zhì) in an old variant form. The textbook uses the standard form."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "得",
+   "pinyin": "dé",
+   "zh": "得：课本读 dé。也有人读 děi，意思差不多，都是“怕会……”。",
+   "en": "The textbook reads this character as dé. Some read it děi. Either way it means \"afraid that...\"."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "应",
+   "pinyin": "yìng",
+   "zh": "应：这里是“回答、理睬”的意思，读 yìng，不读 yīng。",
+   "en": "Here the character means to answer or respond, so it is read yìng, not yīng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "蓬头：头发乱蓬蓬的，没有梳整齐。",
+   "en": "péng tóu: with messy, uncombed hair."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "稚子：小孩子。",
+   "en": "zhì zǐ: a small child."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "垂纶：钓鱼。纶，钓鱼用的丝线。",
+   "en": "chuí lún: to fish. Lún is fishing line."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "侧坐：侧着身子坐。",
+   "en": "cè zuò: sitting sideways."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "莓苔：青苔，长在潮湿地方的绿色小植物。",
+   "en": "méi tái: moss, the little green plants that grow in damp places."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "映身：草把他的身子遮住了一些。映，遮掩、映衬。",
+   "en": "yìng shēn: the grass half hides his body."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "借问：向人打听。",
+   "en": "jiè wèn: to ask someone the way."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "遥：远远地。",
+   "en": "yáo: from far away."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "不应人：不回答路人的话。",
+   "en": "bù yìng rén: does not answer the passer-by."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一个头发乱蓬蓬的小孩，在河边学钓鱼，",
+   "en": "A little child with messy hair is learning to fish."
+  },
+  {
+   "zh": "他侧着身子坐在青苔上，野草掩映着他的身影。",
+   "en": "He sits sideways on the moss, half hidden by the grass."
+  },
+  {
+   "zh": "有个过路人向他问路，他远远地摆摆手，",
+   "en": "A passer-by asks him the way, and he waves from afar,"
+  },
+  {
+   "zh": "怕把鱼吓跑了，不敢出声回答。",
+   "en": "afraid of scaring the fish, he will not say a word."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是诗人在水边看到的一个有趣画面：一个小孩正在专心钓鱼，有人问路，他不敢说话，只是摆手。诗人把这一刻写了下来。写作的具体时间和地点不详。这首诗现在收在小学语文课本里，是很多孩子最早读到的古诗之一。",
+  "en": "This poem shows a funny scene the poet saw by the water. A child is fishing very seriously. When someone asks him the way, he dares not speak and just waves his hand. The poet caught that moment in words. We do not know exactly when or where he wrote it. Today the poem is in primary school textbooks and is one of the first old poems many children read."
+ },
+ "author_note": {
+  "zh": "胡令能，唐代诗人，生活在唐德宗、唐宪宗时期，隐居在圃田（今河南郑州一带）。他年轻时以修补锅碗、钉铰为生，人称“胡钉铰”。他留下的诗很少，但这首《小儿垂钓》流传很广。",
+  "en": "Hu Lingneng was a Tang poet who lived in the time of Emperors Dezong and Xianzong. He lived quietly in Putian, near today's Zhengzhou in Henan. As a young man he earned his living mending pots and bowls, so people called him \"Hu the Tinker\". Few of his poems survive, but \"A Child Fishing\" is widely known."
+ },
+ "appreciation": {
+  "zh": "前两句写小孩的样子：头发乱乱的，侧身坐在青苔上，草遮住了半个身子。一看就是个贪玩的乡下孩子，还在“学”钓鱼，是个新手。后两句写一件小事：路人问路，他远远地招招手，却不说话。为什么？“怕得鱼惊”——怕一出声把鱼吓跑了。这个动作写得特别传神，好像我们就站在旁边看。小孩的认真、天真和可爱，全在这一招手里。",
+  "en": "The first two lines show what the child looks like. Messy hair, sitting sideways on the moss, half hidden by grass. He is clearly a playful country kid, and he is only \"learning\" to fish, a beginner. The last two lines tell a small event. A passer-by asks the way. The child waves from afar but says nothing. Why? He is afraid a sound will scare the fish away. The gesture is so true to life that we feel we are standing right there. The child's seriousness, innocence and charm are all in that one wave of the hand."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "children",
+   "fishing",
+   "countryside",
+   "humor"
+  ]
+ },
+ "uncertain": []
+}

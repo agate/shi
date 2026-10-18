@@ -1,0 +1,483 @@
+{
+ "id": "ce71032a-c075-492c-9554-51eb080348a5",
+ "kind": "shi",
+ "title": "奉和圣制从蓬莱向兴庆阁道中留春雨中春望之作应制",
+ "title_en": "Matching the Emperor's Poem on Gazing at Spring in the Rain on the Covered Way from Penglai to Xingqing, Written on Command",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "渭",
+    "wèi"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "萦",
+    "yíng"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "曲",
+    "qū"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "銮",
+    "luán"
+   ],
+   [
+    "舆",
+    "yú"
+   ],
+   [
+    "迥",
+    "jiǒng"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "阙",
+    "què"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "令",
+    "lìng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "宸",
+    "chén"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "玩",
+    "wán"
+   ],
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "华",
+    "huá"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料里写作“黄山旧遶汉宫斜”“阁道廻看上苑花”。“遶”是“绕”的异体字，“廻”是“回”的异体字，通行本写作“绕”“回”，意思一样。",
+  "en": "The source text writes the characters for rào and huí in older variant forms. Common editions use the standard forms. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "现在读 xié。古音读 xiá，和“花、家、华”押韵。",
+   "en": "Read xié today. The old reading xiá rhymes with huā, jiā and huá."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "渭水：渭河，流过长安北边的一条大河。",
+   "en": "wèi shuǐ: the Wei River, a big river flowing north of Chang'an."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 4,
+   "zh": "萦：围绕、弯弯绕绕。",
+   "en": "yíng: to wind around."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "秦塞：秦地的关塞，指长安所在的关中地区，四面有山河作屏障。",
+   "en": "qín sài: the passes of the old land of Qin, meaning the Guanzhong area around Chang'an, guarded by mountains and rivers."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "曲：弯曲。",
+   "en": "qū: bending, curving."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "黄山：这里不是安徽的黄山，而是长安西边的一座山，汉代在山下建过黄山宫。",
+   "en": "huáng shān: not the famous Huangshan in Anhui, but a hill west of Chang'an, where the Han dynasty built the Huangshan Palace."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "旧：从前、一向。",
+   "en": "jiù: since long ago."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "汉宫：汉代留下的宫殿，这里借指唐朝的宫殿。",
+   "en": "hàn gōng: palaces of the Han dynasty, here standing for the Tang palaces."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "斜：斜斜地延伸。",
+   "en": "xié: stretching at a slant."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "銮舆：皇帝坐的车。銮是车上挂的铃铛。",
+   "en": "luán yú: the emperor's carriage. Luán is the bell hung on it."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "迥出：远远地出来。",
+   "en": "jiǒng chū: coming out far away."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "千门：宫中门很多，用千门形容宫殿重重叠叠。",
+   "en": "qiān mén: a thousand gates, a way of saying the palace had gate after gate."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "阁道：在两座宫殿之间架起来的有顶的通道，皇帝走在上面，外人看不见。",
+   "en": "gé dào: a covered, raised walkway between two palaces, so the emperor could pass without being seen."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "回看：回头看。",
+   "en": "huí kàn: to turn and look back."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "上苑：皇家的园林。",
+   "en": "shàng yuàn: the imperial park."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "帝城：皇帝住的城，就是长安。",
+   "en": "dì chéng: the emperor's city, Chang'an."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "凤阙：宫门前高高的楼台，上面装饰着铜凤凰。",
+   "en": "fèng què: tall towers before the palace gate, topped with bronze phoenixes."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "为：为了。",
+   "en": "wèi: in order to."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 4,
+   "zh": "乘阳气：顺着春天生发的阳气。古人认为春天阳气上升，万物生长。",
+   "en": "chéng yáng qì: following the rising warm energy of spring. People of old believed spring brings rising yang, which makes things grow."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "行时令：按照季节颁布政令，比如春天劝人种地。",
+   "en": "xíng shí lìng: to carry out the duties of the season, such as urging farmers to plant in spring."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "宸游：皇帝出游。宸本来指皇帝住的地方，后来代指皇帝。",
+   "en": "chén yóu: the emperor's outing. Chén first meant the emperor's home, then the emperor himself."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "物华：美好的景物。",
+   "en": "wù huá: beautiful sights of nature."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "渭水自己弯弯曲曲地绕着秦地的关塞流过，",
+   "en": "The Wei River winds on its own around the passes of the land of Qin."
+  },
+  {
+   "zh": "黄山一向斜斜地环绕着汉家的宫殿。",
+   "en": "Huangshan has long stretched at a slant around the palaces of Han."
+  },
+  {
+   "zh": "皇帝的车驾远远驶出宫门，穿过千门旁的柳树，",
+   "en": "The emperor's carriage comes out far past the willows by the thousand gates."
+  },
+  {
+   "zh": "在阁道上回头，还能看见御园里的花。",
+   "en": "On the covered walkway he turns and sees the flowers of the imperial park."
+  },
+  {
+   "zh": "云雾里，长安城耸立着一对凤阙，",
+   "en": "In the clouds, the capital lifts its pair of phoenix towers."
+  },
+  {
+   "zh": "春雨中，绿树掩映着千家万户。",
+   "en": "In the spring rain, green trees shade ten thousand homes."
+  },
+  {
+   "zh": "皇帝出行是为了顺应春天的阳气，颁行时令，",
+   "en": "The emperor goes out to follow spring's rising warmth and do the season's work,"
+  },
+  {
+   "zh": "并不是为了游玩、欣赏美景。",
+   "en": "not to wander about and enjoy the pretty views."
+  }
+ ],
+ "background": {
+  "zh": "唐玄宗常从大明宫（又叫蓬莱宫）沿着阁道去兴庆宫。有一次在路上遇到春雨，他停下来眺望春景，写了一首诗。大臣们奉命写诗相和，这叫“应制”。王维的这首就是和诗。前六句写从高处看到的长安：河流、山、宫殿、春雨中的人家。最后两句照例称颂皇帝，说他出行是为了百姓。写作的具体年份不详。",
+  "en": "Emperor Xuanzong often went from the Daming Palace, also called Penglai Palace, to the Xingqing Palace along a covered walkway. Once, on the way, spring rain began. He stopped to gaze at the spring view and wrote a poem. His officials were told to write matching poems. A poem written on the emperor's command is called yingzhi. This is Wang Wei's matching poem. The first six lines show Chang'an seen from up high: the river, the hills, the palaces, the homes in the spring rain. The last two lines praise the emperor, as such poems always did, saying he went out for the people's sake. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "王维（701—761，生年一说699），字摩诘，唐代大诗人，也是画家，人称“诗佛”。苏轼说他“诗中有画”。他在朝中做官多年，常常要写应制诗。这类诗大多是客套的颂歌，但王维写得有画面感，被认为是应制诗里的佳作。",
+  "en": "Wang Wei (701–761; some say born 699), also called Mojie, was a great Tang poet and a painter too. People call him the Buddha of Poetry. Su Shi said there were paintings inside his poems. He served at court for many years and often had to write poems on command. Most such poems are polite praise, but Wang Wei's are full of pictures, and this one is counted among the best of its kind."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅从高处俯看的长安大画。先画远处：渭水绕城，黄山斜卧，山河把京城围在中间。再画近处：皇帝的车驾穿过柳树，回头是满园的花。最精彩的是“云里帝城双凤阙，雨中春树万人家”：上面是云里的宫殿，高高在上；下面是雨中的绿树和千家万户，安静又热闹。一高一低，一边是皇宫，一边是百姓，春雨把它们连成一片。最后两句说皇帝出来不是为了玩，而是为了顺应春天、关心农事，这是应制诗的规矩，读的时候知道就好。",
+  "en": "This poem is like a big painting of Chang'an seen from above. First the far view: the Wei River curls around the city, Huangshan lies at a slant, and hills and water hold the capital in the middle. Then the near view: the emperor's carriage passes the willows, and when he looks back the park is full of flowers. The best part is the third couplet. Above, the palace towers stand high in the clouds. Below, green trees and ten thousand homes sit quiet and lively in the rain. One high, one low; one the palace, one the people; and the spring rain joins them together. The last two lines say the emperor came out not to play but to follow the season and care for farming. That was the rule for poems written on command, so it is enough to know it is there."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "capital",
+   "palace",
+   "court"
+  ]
+ },
+ "uncertain": []
+}

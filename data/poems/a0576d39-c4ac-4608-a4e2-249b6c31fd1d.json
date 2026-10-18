@@ -1,0 +1,501 @@
+{
+ "id": "a0576d39-c4ac-4608-a4e2-249b6c31fd1d",
+ "kind": "shi",
+ "title": "青溪",
+ "title_en": "Green Creek",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "川",
+    "chuān"
+   ]
+  ],
+  [
+   [
+    "每",
+    "měi"
+   ],
+   [
+    "逐",
+    "zhú"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ]
+  ],
+  [
+   [
+    "趣",
+    "qū"
+   ],
+   [
+    "途",
+    "tú"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "喧",
+    "xuān"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "漾",
+    "yàng"
+   ],
+   [
+    "漾",
+    "yàng"
+   ],
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "菱",
+    "líng"
+   ],
+   [
+    "荇",
+    "xìng"
+   ]
+  ],
+  [
+   [
+    "澄",
+    "chéng"
+   ],
+   [
+    "澄",
+    "chéng"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "葭",
+    "jiā"
+   ],
+   [
+    "苇",
+    "wěi"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "川",
+    "chuān"
+   ],
+   [
+    "澹",
+    "dàn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "请",
+    "qǐng"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "钓",
+    "diào"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "矣",
+    "yǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本写作“青溪”。这里的底本作“青谿”，“谿”是“溪”的异体字，意思一样，现在按通行本写作“溪”。",
+  "en": "The usual text writes xī, creek, in its common form. The source text uses an old variant form of the same character, so we follow the usual text."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "趣",
+   "pinyin": "qū",
+   "zh": "这里“趣”同“趋”，是走向、奔向的意思，读 qū，不读 qù。",
+   "en": "Here this character means the same as to head toward, so it is read qū, not qù."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "将",
+   "pinyin": "jiāng",
+   "zh": "“将”在这里是将近、几乎的意思，读 jiāng。",
+   "en": "Here it means nearly, read jiāng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "言：句首的语气词，没有实际意思。",
+   "en": "yán: a word that starts the line and has no real meaning of its own."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "黄花川：一条河的名字，在今天陕西凤县东北。",
+   "en": "huáng huā chuān: Huanghua River, a river in the northeast of today's Feng County, Shaanxi."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "每逐：常常顺着。逐，追随、沿着。",
+   "en": "měi zhú: always following. Zhú means to follow along."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "青溪：一条溪水的名字。",
+   "en": "qīng xī: Green Creek, the name of a stream."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "将万转：将近一万次转弯，形容弯弯曲曲。",
+   "en": "jiāng wàn zhuǎn: nearly ten thousand turns; winding and winding."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "趣途：走过的路程。趣，同“趋”，走向。",
+   "en": "qū tú: the distance traveled. Qū means to head toward."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "声喧：水声喧闹，哗哗地响。",
+   "en": "shēng xuān: the water roars and splashes."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "色静：水的颜色显得很宁静。",
+   "en": "sè jìng: the color of the water looks calm and still."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "漾漾：水波轻轻荡漾的样子。",
+   "en": "yàng yàng: the gentle ripple of water."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "菱荇：菱角和荇菜，都是浮在水面上的水草。",
+   "en": "líng xìng: water chestnut and floating heart, two plants that float on water."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "澄澄：水清澈透明的样子。",
+   "en": "chéng chéng: clear and see-through."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "葭苇：芦苇。",
+   "en": "jiā wěi: reeds."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "素已闲：向来就很清闲淡泊。素，平素、一向。",
+   "en": "sù yǐ xián: has always been at ease. Sù means always, as usual."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 3,
+   "zh": "澹：恬淡、安静。",
+   "en": "dàn: calm and peaceful."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "盘石：又大又平的石头。",
+   "en": "pán shí: a large, flat rock."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "垂钓：钓鱼。这里借用了东汉严光不肯做官、隐居钓鱼的故事。",
+   "en": "chuí diào: fishing. It recalls Yan Guang of the Han dynasty, who refused office and lived as a hermit, fishing."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "将已矣：就这样度过一生吧。已矣，算了、到此为止。",
+   "en": "jiāng yǐ yǐ: let this be my whole life. Yǐ yǐ means that is all, let it end here."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我进入黄花川，",
+   "en": "To go into the Huanghua River valley,"
+  },
+  {
+   "zh": "总是顺着青溪的流水走。",
+   "en": "I always follow the waters of Green Creek."
+  },
+  {
+   "zh": "溪水随着山势转了上万道弯，",
+   "en": "It winds with the hills through ten thousand bends,"
+  },
+  {
+   "zh": "其实走过的路程还不到一百里。",
+   "en": "yet the whole way is not a hundred miles."
+  },
+  {
+   "zh": "在乱石中间，水声哗哗喧闹；",
+   "en": "Among the jumbled rocks its voice is loud;"
+  },
+  {
+   "zh": "在深深的松林里，水色宁静安详。",
+   "en": "deep in the pines its color lies still."
+  },
+  {
+   "zh": "水波轻轻荡漾，菱角和荇菜在水面上漂着；",
+   "en": "Gentle ripples float the water chestnut and floating heart;"
+  },
+  {
+   "zh": "溪水清澈见底，映出岸边的芦苇。",
+   "en": "clear and bright, it mirrors the reeds."
+  },
+  {
+   "zh": "我的心向来清闲淡泊，",
+   "en": "My heart has always been at peace,"
+  },
+  {
+   "zh": "这清清的溪水也是这样恬静。",
+   "en": "and this clear stream is just as calm."
+  },
+  {
+   "zh": "请让我留在这块大石头上，",
+   "en": "Let me stay here on this great flat rock"
+  },
+  {
+   "zh": "就这样钓鱼度过一生吧。",
+   "en": "and spend my life fishing, and that is all."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是诗人沿着青溪进入黄花川时看到的景色。黄花川在今天陕西凤县一带，青溪是流入那里的一条溪水。这首诗具体写于什么时候、诗人为什么经过这里，现在没有可靠的记载。诗人被清溪的美打动，想到自己一向淡泊的心，便生出了隐居垂钓的念头。",
+  "en": "The poem shows what the poet saw as he followed Green Creek into the Huanghua River valley. The Huanghua River is around today's Feng County in Shaanxi, and Green Creek is a stream flowing there. There is no reliable record of when the poem was written or why the poet passed this way. Moved by the clear stream, and thinking of his own calm heart, he began to dream of living as a hermit and fishing."
+ },
+ "author_note": {
+  "zh": "王维（约701—761），唐代诗人，也是画家和音乐家。他信佛，被称为“诗佛”。他的山水诗安静清新，苏轼说他“诗中有画”。他晚年在辋川隐居，常写自己淡泊的心境。这首诗把山水的静和人心的静写在一起，很能代表他的风格。",
+  "en": "Wang Wei (about 701 to 761) was a Tang poet, and also a painter and musician. He was a Buddhist and is called the Buddha of Poetry. His poems of hills and rivers are calm and fresh, and Su Shi said his poems hold paintings inside them. In later life he lived quietly at Wangchuan and often wrote about his peaceful heart. This poem joins the stillness of nature with the stillness of a person's heart, which is very much his style."
+ },
+ "appreciation": {
+  "zh": "这首诗像跟着一条小溪散步。开头说溪水弯弯曲曲转了上万道弯，路却不到一百里，让人想到山路的曲折和溪水的活泼。中间四句最美：在乱石里，水声哗哗地响；进了松林，水色一下子安静下来。一动一静，一个写声音，一个写颜色。接着又写水面漂着水草，清水映着芦苇，像一幅细细的山水画。最后诗人说，我的心本来就很清闲，就像这条溪水一样。于是他想留在大石头上，钓一辈子鱼。人和溪水好像融为一体，读完让人心里也变得安静。",
+  "en": "This poem is like a walk beside a little stream. At the start the creek twists through ten thousand bends, yet the road is not even a hundred miles. We picture the winding hill path and the lively water. The middle four lines are the most beautiful. Among the jumbled rocks the water roars; inside the pine woods its color suddenly grows still. One is movement, one is stillness; one is sound, one is color. Then water plants float on the surface and the clear water mirrors the reeds, like a fine, detailed painting. At the end the poet says his heart has always been at peace, just like this stream. So he wants to stay on the big rock and fish for the rest of his life. The man and the stream seem to become one, and after reading it our own hearts grow quiet too."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "stream",
+   "nature",
+   "retirement",
+   "calm"
+  ]
+ },
+ "uncertain": []
+}

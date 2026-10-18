@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>长相思·其一 · 李白 — 诗</title>
+    <meta name="description" content="长相思·其一 · 李白 — Endless Longing, No. 1 by Li Bai: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · yuefu song with lines of mixed length</span><span lang="zh">唐诗 · 乐府·杂言</span></p>
+        <h1>长相思·其一</h1>
+        <p class="by">李白<span class="mono"><span lang="en">Li Bai · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Endless Longing, No. 1</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>cháng</i><b>长</b></span><span class="c gl" data-l="0" data-p="1"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="0" data-p="2"><i>sī</i><b>思</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>zài</i><b>在</b></span><span class="c gl" data-l="1" data-p="1"><i>cháng</i><b>长</b></span><span class="c gl" data-l="1" data-p="2"><i>ān</i><b>安</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>luò</i><b>络</b></span><span class="c gl" data-l="2" data-p="1"><i>wěi</i><b>纬</b></span><span class="c" data-l="2" data-p="2"><i>qiū</i><b>秋</b></span><span class="c" data-l="2" data-p="3"><i>tí</i><b>啼</b></span><span class="c gl" data-l="2" data-p="4"><i>jīn</i><b>金</b></span><span class="c gl" data-l="2" data-p="5"><i>jǐng</i><b>井</b></span><span class="c gl" data-l="2" data-p="6"><i>lán</i><b>阑</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>wēi</i><b>微</b></span><span class="c" data-l="3" data-p="1"><i>shuāng</i><b>霜</b></span><span class="c gl" data-l="3" data-p="2"><i>qī</i><b>凄</b></span><span class="c gl" data-l="3" data-p="3"><i>qī</i><b>凄</b></span><span class="c gl" data-l="3" data-p="4"><i>diàn</i><b>簟</b></span><span class="c" data-l="3" data-p="5"><i>sè</i><b>色</b></span><span class="c" data-l="3" data-p="6"><i>hán</i><b>寒</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>gū</i><b>孤</b></span><span class="c" data-l="4" data-p="1"><i>dēng</i><b>灯</b></span><span class="c" data-l="4" data-p="2"><i>bù</i><b>不</b></span><span class="c" data-l="4" data-p="3"><i>míng</i><b>明</b></span><span class="c gl rd" data-l="4" data-p="4"><i>sī</i><b>思</b></span><span class="c gl" data-l="4" data-p="5"><i>yù</i><b>欲</b></span><span class="c gl" data-l="4" data-p="6"><i>jué</i><b>绝</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>juǎn</i><b>卷</b></span><span class="c gl" data-l="5" data-p="1"><i>wéi</i><b>帷</b></span><span class="c" data-l="5" data-p="2"><i>wàng</i><b>望</b></span><span class="c" data-l="5" data-p="3"><i>yuè</i><b>月</b></span><span class="c gl" data-l="5" data-p="4"><i>kōng</i><b>空</b></span><span class="c gl" data-l="5" data-p="5"><i>cháng</i><b>长</b></span><span class="c gl" data-l="5" data-p="6"><i>tàn</i><b>叹</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>měi</i><b>美</b></span><span class="c" data-l="6" data-p="1"><i>rén</i><b>人</b></span><span class="c" data-l="6" data-p="2"><i>rú</i><b>如</b></span><span class="c" data-l="6" data-p="3"><i>huā</i><b>花</b></span><span class="c" data-l="6" data-p="4"><i>gé</i><b>隔</b></span><span class="c gl" data-l="6" data-p="5"><i>yún</i><b>云</b></span><span class="c gl" data-l="6" data-p="6"><i>duān</i><b>端</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>shàng</i><b>上</b></span><span class="c" data-l="7" data-p="1"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="7" data-p="2"><i>qīng</i><b>青</b></span><span class="c gl" data-l="7" data-p="3"><i>míng</i><b>冥</b></span><span class="c" data-l="7" data-p="4"><i>zhī</i><b>之</b></span><span class="c" data-l="7" data-p="5"><i>cháng</i><b>长</b></span><span class="c" data-l="7" data-p="6"><i>tiān</i><b>天</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>xià</i><b>下</b></span><span class="c" data-l="8" data-p="1"><i>yǒu</i><b>有</b></span><span class="c gl rd" data-l="8" data-p="2"><i>lù</i><b>渌</b></span><span class="c gl" data-l="8" data-p="3"><i>shuǐ</i><b>水</b></span><span class="c" data-l="8" data-p="4"><i>zhī</i><b>之</b></span><span class="c gl" data-l="8" data-p="5"><i>bō</i><b>波</b></span><span class="c gl" data-l="8" data-p="6"><i>lán</i><b>澜</b></span></p><p class="ln"><span class="c" data-l="9" data-p="0"><i>tiān</i><b>天</b></span><span class="c" data-l="9" data-p="1"><i>cháng</i><b>长</b></span><span class="c" data-l="9" data-p="2"><i>lù</i><b>路</b></span><span class="c" data-l="9" data-p="3"><i>yuǎn</i><b>远</b></span><span class="c gl" data-l="9" data-p="4"><i>hún</i><b>魂</b></span><span class="c gl" data-l="9" data-p="5"><i>fēi</i><b>飞</b></span><span class="c gl" data-l="9" data-p="6"><i>kǔ</i><b>苦</b></span></p><p class="ln"><span class="c" data-l="10" data-p="0"><i>mèng</i><b>梦</b></span><span class="c" data-l="10" data-p="1"><i>hún</i><b>魂</b></span><span class="c" data-l="10" data-p="2"><i>bú</i><b>不</b></span><span class="c" data-l="10" data-p="3"><i>dào</i><b>到</b></span><span class="c gl" data-l="10" data-p="4"><i>guān</i><b>关</b></span><span class="c gl" data-l="10" data-p="5"><i>shān</i><b>山</b></span><span class="c" data-l="10" data-p="6"><i>nán</i><b>难</b></span></p><p class="ln"><span class="c" data-l="11" data-p="0"><i>cháng</i><b>长</b></span><span class="c" data-l="11" data-p="1"><i>xiāng</i><b>相</b></span><span class="c" data-l="11" data-p="2"><i>sī</i><b>思</b></span></p><p class="ln"><span class="c gl" data-l="12" data-p="0"><i>cuī</i><b>摧</b></span><span class="c gl" data-l="12" data-p="1"><i>xīn</i><b>心</b></span><span class="c gl" data-l="12" data-p="2"><i>gān</i><b>肝</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The source titles it simply &quot;Endless Longing&quot;. Li Bai wrote more than one poem with this title, and this is the first, so it is called No. 1 here. In line 8 some editions have &quot;high sky&quot; instead of &quot;long sky&quot;; the source wording is kept.</p><p lang="zh">原始资料题作“长相思”。李白的《长相思》不止一首，这是第一首，所以题作“长相思·其一”。第八句有的版本作“青冥之高天”，这里从原文作“长天”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">长相思</span><span lang="en">Endless longing,</span><span lang="zh">我日日夜夜地想念，</span></li><li><span class="o">在长安</span><span lang="en">for someone in Chang&#x27;an.</span><span lang="zh">想念的人在长安。</span></li><li><span class="o">络纬秋啼金井阑</span><span lang="en">In autumn the katydids sing by the fine well railing.</span><span lang="zh">秋天，纺织娘在华美的井栏边鸣叫，</span></li><li><span class="o">微霜凄凄簟色寒</span><span lang="en">A thin frost is cold, and even the bamboo mat feels chilly.</span><span lang="zh">薄薄的霜冷冷的，竹席也透着寒气。</span></li><li><span class="o">孤灯不明思欲绝</span><span lang="en">My lone lamp burns dim, and I miss her so much I can hardly bear it.</span><span lang="zh">一盏孤灯昏昏暗暗，我想念得快受不了了，</span></li><li><span class="o">卷帷望月空长叹</span><span lang="en">I roll up the curtain, look at the moon, and sigh in vain.</span><span lang="zh">卷起窗帘望着月亮，只能白白叹气。</span></li><li><span class="o">美人如花隔云端</span><span lang="en">The one as lovely as a flower is far away, beyond the clouds.</span><span lang="zh">那像花一样美的人，远在云的那一头。</span></li><li><span class="o">上有青冥之长天</span><span lang="en">Above is the long, deep-blue sky,</span><span lang="zh">上面是高远的青天，</span></li><li><span class="o">下有渌水之波澜</span><span lang="en">below are the waves of clear water.</span><span lang="zh">下面是清水翻起的波浪。</span></li><li><span class="o">天长路远魂飞苦</span><span lang="en">The sky is so high, the road so long, even my soul struggles to fly there.</span><span lang="zh">天那么高，路那么远，连魂飞过去都很辛苦，</span></li><li><span class="o">梦魂不到关山难</span><span lang="en">With passes and mountains in the way, not even my dreams can reach her.</span><span lang="zh">关山重重，连梦也到不了她身边。</span></li><li><span class="o">长相思</span><span lang="en">Endless longing,</span><span lang="zh">我日日夜夜地想念，</span></li><li><span class="o">摧心肝</span><span lang="en">it breaks my heart.</span><span lang="zh">心肝都要碎了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>相思<span class="mono">xiāng sī</span></dt><dd><span lang="en">xiāng sī: to miss someone you love.</span><span lang="zh">相思：想念一个人。</span></dd></div><div><dt>长安<span class="mono">cháng ān</span></dt><dd><span lang="en">Cháng&#x27;ān: the Tang capital, today&#x27;s Xi&#x27;an in Shaanxi.</span><span lang="zh">长安：唐朝的都城，在今天的陕西西安。</span></dd></div><div><dt>络纬<span class="mono">luò wěi</span></dt><dd><span lang="en">luò wěi: an insect that sings in autumn, a kind of katydid. Its call sounds like a spinning wheel.</span><span lang="zh">络纬：一种秋天鸣叫的虫子，又叫纺织娘，叫声像纺车在转。</span></dd></div><div><dt>金井阑<span class="mono">jīn jǐng lán</span></dt><dd><span lang="en">jīn jǐng lán: a finely decorated railing around a well.</span><span lang="zh">金井阑：装饰华美的井栏。井阑，水井四周的栏杆。</span></dd></div><div><dt>凄凄<span class="mono">qī qī</span></dt><dd><span lang="en">qī qī: cold and chilly.</span><span lang="zh">凄凄：寒冷的样子。</span></dd></div><div><dt>簟<span class="mono">diàn</span></dt><dd><span lang="en">diàn: a mat woven from bamboo, slept on in summer.</span><span lang="zh">簟：竹子编的席子，夏天睡觉时铺。</span></dd></div><div><dt>思欲绝<span class="mono">sī yù jué</span></dt><dd><span lang="en">sī yù jué: missing someone so much it is almost unbearable.</span><span lang="zh">思欲绝：想念得快要受不了了。</span></dd></div><div><dt>卷帷<span class="mono">juǎn wéi</span></dt><dd><span lang="en">juǎn wéi: to roll up the curtain.</span><span lang="zh">卷帷：卷起窗帘。帷，帘子、帐子。</span></dd></div><div><dt>空长叹<span class="mono">kōng cháng tàn</span></dt><dd><span lang="en">kōng cháng tàn: can only sigh long, with no use.</span><span lang="zh">空长叹：只能白白地长长叹气。</span></dd></div><div><dt>云端<span class="mono">yún duān</span></dt><dd><span lang="en">yún duān: the far side of the clouds, too far to reach.</span><span lang="zh">云端：云的那一头，形容远得够不着。</span></dd></div><div><dt>青冥<span class="mono">qīng míng</span></dt><dd><span lang="en">qīng míng: the deep blue, far-off sky.</span><span lang="zh">青冥：青色的高远天空。</span></dd></div><div><dt>渌水<span class="mono">lù shuǐ</span></dt><dd><span lang="en">lù shuǐ: clear water.</span><span lang="zh">渌水：清清的水。</span></dd></div><div><dt>波澜<span class="mono">bō lán</span></dt><dd><span lang="en">bō lán: waves.</span><span lang="zh">波澜：波浪。</span></dd></div><div><dt>魂飞苦<span class="mono">hún fēi kǔ</span></dt><dd><span lang="en">hún fēi kǔ: even the soul finds it hard to fly there.</span><span lang="zh">魂飞苦：连魂飞过去都很辛苦。</span></dd></div><div><dt>关山<span class="mono">guān shān</span></dt><dd><span lang="en">guān shān: mountain passes and peaks, all the things blocking the way.</span><span lang="zh">关山：关口和高山，指路上重重阻隔。</span></dd></div><div><dt>摧心肝<span class="mono">cuī xīn gān</span></dt><dd><span lang="en">cuī xīn gān: the heart is breaking, deep sorrow.</span><span lang="zh">摧心肝：心肝都要碎了，形容极度伤心。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>思<span class="mono">sī</span></dt><dd><span lang="en">Here it is the verb &quot;to long for&quot;, read sī. In old usage, as a noun meaning &quot;thoughts&quot;, it could be read sì.</span><span lang="zh">这里是动词“想念”，读 sī。古时用作名词“心思”时可读 sì。</span></dd></div><div><dt>渌<span class="mono">lù</span></dt><dd><span lang="en">This character is read lù and means clear.</span><span lang="zh">“渌”读 lù，意思是清澈。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">&quot;Endless Longing&quot; is an old yuefu song title, usually about lovers missing each other. People do not agree on when Li Bai wrote this one. One view is that he wrote it after leaving Chang&#x27;an. He had served at court there, then left disappointed, and could never let it go. So many readers think the &quot;lovely one&quot; may be not only a sweetheart but also a picture of a dream he could not reach.</p><p lang="zh">《长相思》是乐府旧题，大多写男女之间的思念。这首诗的写作时间说法不一。一说是李白离开长安以后写的。他曾在长安做官，后来失意离开，心里一直放不下。所以很多人认为，诗里的“美人”不只是指心上人，也可能是在比喻他追求不到的理想。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. His poems are bold and full of feeling, and he loved writing to old yuefu titles. All his life he hoped to do great things for the country, but he never got the chance. The pain of something always out of reach in this poem carries a shadow of his own life.</p><p lang="zh">李白（701—762），唐代大诗人，人称“诗仙”。他的诗想象大胆，感情奔放，很爱写乐府旧题。他心里一直想为国家做大事，却很不得志。这首诗里那种“够不着”的痛苦，也带着他自己的影子。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first six characters give the theme: endless longing, for someone in Chang&#x27;an. Then comes an autumn night. Insects sing by the well, the frost is thin, the mat is cold, the lamp is dim. These cold things make the loneliness grow, bit by bit. He rolls up the curtain to see the moon, but can only sigh, because she is beyond the clouds. Next he looks up and down: high sky above, wide water below. Even his soul cannot fly there, and even his dreams cannot arrive. Distance is pushed as far as it can go. At the end he comes back to &quot;endless longing&quot; and adds &quot;it breaks my heart&quot;, like one long sigh. The short and long lines take turns, so reading it feels like holding back sobs.</p><p lang="zh">开头六个字就点出题目：一直想念，人在长安。接着写秋夜：虫在井边叫，霜很薄，竹席很凉，一盏灯昏昏暗暗。这些冷冷的东西，让孤单的感觉一点点加重。卷起帘子看月亮，只能叹气，因为那个人“隔云端”。后面一上一下，写天高水阔，再写魂飞不过去，梦也到不了，把“远”写到了极点。最后又回到“长相思”，加一句“摧心肝”，好像一声长长的叹息。三字、七字的句子交错，读起来像在哽咽。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/taoyuanxing/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>桃源行</b></a><a href="../../p/yuezhonglangu/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>越中览古</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["长", "cháng"], ["相", "xiāng"], ["思", "sī"]], [["在", "zài"], ["长", "cháng"], ["安", "ān"]], [["络", "luò"], ["纬", "wěi"], ["秋", "qiū"], ["啼", "tí"], ["金", "jīn"], ["井", "jǐng"], ["阑", "lán"]], [["微", "wēi"], ["霜", "shuāng"], ["凄", "qī"], ["凄", "qī"], ["簟", "diàn"], ["色", "sè"], ["寒", "hán"]], [["孤", "gū"], ["灯", "dēng"], ["不", "bù"], ["明", "míng"], ["思", "sī"], ["欲", "yù"], ["绝", "jué"]], [["卷", "juǎn"], ["帷", "wéi"], ["望", "wàng"], ["月", "yuè"], ["空", "kōng"], ["长", "cháng"], ["叹", "tàn"]], [["美", "měi"], ["人", "rén"], ["如", "rú"], ["花", "huā"], ["隔", "gé"], ["云", "yún"], ["端", "duān"]], [["上", "shàng"], ["有", "yǒu"], ["青", "qīng"], ["冥", "míng"], ["之", "zhī"], ["长", "cháng"], ["天", "tiān"]], [["下", "xià"], ["有", "yǒu"], ["渌", "lù"], ["水", "shuǐ"], ["之", "zhī"], ["波", "bō"], ["澜", "lán"]], [["天", "tiān"], ["长", "cháng"], ["路", "lù"], ["远", "yuǎn"], ["魂", "hún"], ["飞", "fēi"], ["苦", "kǔ"]], [["梦", "mèng"], ["魂", "hún"], ["不", "bú"], ["到", "dào"], ["关", "guān"], ["山", "shān"], ["难", "nán"]], [["长", "cháng"], ["相", "xiāng"], ["思", "sī"]], [["摧", "cuī"], ["心", "xīn"], ["肝", "gān"]]], "glosses": [{"line": 0, "start": 1, "end": 3, "zh": "相思：想念一个人。", "en": "xiāng sī: to miss someone you love."}, {"line": 1, "start": 1, "end": 3, "zh": "长安：唐朝的都城，在今天的陕西西安。", "en": "Cháng'ān: the Tang capital, today's Xi'an in Shaanxi."}, {"line": 2, "start": 0, "end": 2, "zh": "络纬：一种秋天鸣叫的虫子，又叫纺织娘，叫声像纺车在转。", "en": "luò wěi: an insect that sings in autumn, a kind of katydid. Its call sounds like a spinning wheel."}, {"line": 2, "start": 4, "end": 7, "zh": "金井阑：装饰华美的井栏。井阑，水井四周的栏杆。", "en": "jīn jǐng lán: a finely decorated railing around a well."}, {"line": 3, "start": 2, "end": 4, "zh": "凄凄：寒冷的样子。", "en": "qī qī: cold and chilly."}, {"line": 3, "start": 4, "end": 5, "zh": "簟：竹子编的席子，夏天睡觉时铺。", "en": "diàn: a mat woven from bamboo, slept on in summer."}, {"line": 4, "start": 4, "end": 7, "zh": "思欲绝：想念得快要受不了了。", "en": "sī yù jué: missing someone so much it is almost unbearable."}, {"line": 5, "start": 0, "end": 2, "zh": "卷帷：卷起窗帘。帷，帘子、帐子。", "en": "juǎn wéi: to roll up the curtain."}, {"line": 5, "start": 4, "end": 7, "zh": "空长叹：只能白白地长长叹气。", "en": "kōng cháng tàn: can only sigh long, with no use."}, {"line": 6, "start": 5, "end": 7, "zh": "云端：云的那一头，形容远得够不着。", "en": "yún duān: the far side of the clouds, too far to reach."}, {"line": 7, "start": 2, "end": 4, "zh": "青冥：青色的高远天空。", "en": "qīng míng: the deep blue, far-off sky."}, {"line": 8, "start": 2, "end": 4, "zh": "渌水：清清的水。", "en": "lù shuǐ: clear water."}, {"line": 8, "start": 5, "end": 7, "zh": "波澜：波浪。", "en": "bō lán: waves."}, {"line": 9, "start": 4, "end": 7, "zh": "魂飞苦：连魂飞过去都很辛苦。", "en": "hún fēi kǔ: even the soul finds it hard to fly there."}, {"line": 10, "start": 4, "end": 6, "zh": "关山：关口和高山，指路上重重阻隔。", "en": "guān shān: mountain passes and peaks, all the things blocking the way."}, {"line": 12, "start": 0, "end": 3, "zh": "摧心肝：心肝都要碎了，形容极度伤心。", "en": "cuī xīn gān: the heart is breaking, deep sorrow."}], "readings": [{"line": 4, "pos": 4, "char": "思", "pinyin": "sī", "zh": "这里是动词“想念”，读 sī。古时用作名词“心思”时可读 sì。", "en": "Here it is the verb \"to long for\", read sī. In old usage, as a noun meaning \"thoughts\", it could be read sì."}, {"line": 8, "pos": 2, "char": "渌", "pinyin": "lù", "zh": "“渌”读 lù，意思是清澈。", "en": "This character is read lù and means clear."}], "speak": ["偿乡思", "在长安", "络纬秋啼金井阑", "微霜凄凄簟色寒", "孤灯不明思欲绝", "卷帷望月空长叹", "美人如花隔云端", "上有青冥之长天", "下有渌水之波澜", "天偿路远魂飞苦", "梦魂不到关山难", "偿乡思", "摧心肝"], "speakTitle": "长相思，其一。李白。", "sample": "长相思"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

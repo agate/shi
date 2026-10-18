@@ -1,0 +1,500 @@
+{
+ "id": "6beb5cc2-ae49-4e23-952a-1cb92fa11512",
+ "kind": "shi",
+ "title": "望蓟门",
+ "title_en": "Looking Out at Jimen",
+ "author": "祖咏",
+ "author_en": "Zu Yong",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "惊",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "笳",
+    "jiā"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "喧",
+    "xuān"
+   ],
+   [
+    "喧",
+    "xuān"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "将",
+    "jiàng"
+   ],
+   [
+    "营",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "积",
+    "jī"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "曙",
+    "shǔ"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "旌",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "场",
+    "chǎng"
+   ],
+   [
+    "烽",
+    "fēng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "蓟",
+    "jì"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "虽",
+    "suī"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "投",
+    "tóu"
+   ],
+   [
+    "笔",
+    "bǐ"
+   ],
+   [
+    "吏",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "论",
+    "lùn"
+   ],
+   [
+    "功",
+    "gōng"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "请",
+    "qǐng"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "缨",
+    "yīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料第二句作“箫鼓”，第五句作“连胡月”；通行本多作“笳鼓”“侵胡月”。笳是北方的一种管乐器，常在军中吹奏。",
+  "en": "The corpus has xiao gu (flutes and drums) in line two and lian hu yue (joins the moon) in line five. Most common editions have jia gu (reed pipes and drums) and qin hu yue (reaches up to the moon). The jia is a reed pipe of the north, often played in army camps."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "燕台指古代燕国一带，地名“燕”读 yān，不读 yàn。",
+   "en": "Here it is the old state of Yan, a place name, so it is read yān, not yàn."
+  },
+  {
+   "line": 1,
+   "pos": 5,
+   "char": "将",
+   "pinyin": "jiàng",
+   "zh": "“汉将”是将领、将军，读 jiàng。",
+   "en": "Here it means a general, so it is read jiàng."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "“少小”是年少的时候，读 shào。",
+   "en": "Here it means young, so it is read shào."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还欲”是仍然想要，读 hái。",
+   "en": "Here it means still, so it is read hái."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "燕台：战国时燕昭王筑的黄金台，用来招揽人才。这里指燕地，就是今天北京一带。",
+   "en": "yān tái: the Golden Terrace built by King Zhao of Yan to draw talented men. Here it means the land of Yan, around today's Beijing."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "客心惊：我这个远方来客心里一震。",
+   "en": "kè xīn jīng: my heart as a traveler was startled."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "笳鼓：胡笳和战鼓，都是军中的乐器。",
+   "en": "jiā gǔ: reed pipes and war drums, both played in the army."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "喧喧：声音很响很杂。",
+   "en": "xuān xuān: loud and noisy."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "汉将营：汉朝将军的军营。唐诗常借汉朝说唐朝，这里就是唐军的军营。",
+   "en": "hàn jiàng yíng: the camp of a Han general. Tang poems often say Han when they mean Tang, so this is a Tang army camp."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "寒光：冰雪反射出的冷光。",
+   "en": "hán guāng: the cold light shining off ice and snow."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "积雪：堆积很厚的雪。",
+   "en": "jī xuě: deep, piled-up snow."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "三边：泛指边疆。",
+   "en": "sān biān: the frontiers in general."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "曙色：天刚亮时的光。",
+   "en": "shǔ sè: the light of dawn."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "危旌：高高的军旗。危，高。",
+   "en": "wēi jīng: tall army flags. Wēi means high."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "沙场：战场。",
+   "en": "shā chǎng: the battlefield."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "烽火：边境上报警的火。有敌人来时就点起火，一个烽火台接一个传下去。",
+   "en": "fēng huǒ: beacon fires on the frontier. When enemies came, fires were lit, passed from one beacon tower to the next."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "侵胡月：烽火的光冲上天，好像碰到了胡地的月亮。胡，古代对北方民族的称呼。",
+   "en": "qīn hú yuè: the beacon light shoots up as if touching the moon over the northern lands. Hú was an old name for the northern peoples."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "海畔：海边。蓟城东南靠近渤海。",
+   "en": "hǎi pàn: by the sea. The city of Ji lay near the Bohai Sea to its southeast."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "拥：围抱着。",
+   "en": "yōng: to surround, to embrace."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "蓟城：唐代幽州的州城，在今天北京西南一带。蓟门就在这一带。",
+   "en": "jì chéng: the city of Ji, seat of Youzhou in the Tang, southwest of today's Beijing. Jimen was in this area."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "少小：年轻的时候。",
+   "en": "shào xiǎo: when young."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "投笔吏：扔掉笔去从军的小官。东汉班超原来给官府抄书，后来扔下笔说要去边疆立功，最后真的立了大功。",
+   "en": "tóu bǐ lì: the clerk who threw down his brush. Ban Chao of the Eastern Han copied documents for a living, then threw down his brush, saying he would win glory on the frontier, and he did."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "论功：说到建立功业。",
+   "en": "lùn gōng: speaking of winning glory."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "请长缨：请求一根长绳子。西汉终军年轻时请求皇帝给他一根长绳，说要把南越王捆来。后来指主动请求上阵杀敌。",
+   "en": "qǐng cháng yīng: to ask for a long rope. Young Zhong Jun of the Western Han asked the emperor for a long rope to bring back the king of Nanyue tied up. It came to mean asking to go to war."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "登上燕台向远处一望，我这个外乡人心里一震。",
+   "en": "I look out from the terrace of Yan, and my traveler's heart is startled."
+  },
+  {
+   "zh": "唐军的军营里，胡笳和战鼓响成一片。",
+   "en": "Reed pipes and drums roar through the Tang army camp."
+  },
+  {
+   "zh": "万里积雪，闪着冰冷的光。",
+   "en": "Snow lies for ten thousand li, shining with a cold light."
+  },
+  {
+   "zh": "边疆天刚亮，高高的军旗在晨光中飘动。",
+   "en": "Over the frontier, tall flags stir in the light of dawn."
+  },
+  {
+   "zh": "战场上的烽火冲上天，好像碰到了胡地的月亮。",
+   "en": "Beacon fires on the battlefield leap up to the moon of the north."
+  },
+  {
+   "zh": "海边的云和山，围抱着蓟城。",
+   "en": "By the sea, clouds and mountains embrace the city of Ji."
+  },
+  {
+   "zh": "我年轻时虽然不像班超那样投笔从军，",
+   "en": "Though as a young man I did not throw down my brush like Ban Chao,"
+  },
+  {
+   "zh": "说到建功立业，我还是想像终军那样请缨上阵。",
+   "en": "when it comes to glory, I still want to ask for the long rope like Zhong Jun."
+  }
+ ],
+ "background": {
+  "zh": "蓟门在唐代幽州一带，就是今天北京附近，是唐朝东北边防的重地，常有大军驻守。祖咏来到这里，登高远望，看到雪原、军旗、烽火和雄伟的军营，心里激动，写下这首诗。诗里写了积雪，应当是冬天。他具体是哪一年、为什么到这里，已经不清楚了。",
+  "en": "Jimen was in Youzhou in the Tang, near today's Beijing. It was a key post on the northeast frontier, often guarded by large armies. Zu Yong came here, climbed high and looked out. He saw snowfields, army flags, beacon fires and a mighty camp, and in his excitement he wrote this poem. The poem mentions deep snow, so it was likely winter. The year he came and why he came are no longer known."
+ },
+ "author_note": {
+  "zh": "祖咏，洛阳人，生卒年不详，开元十二年（724年）考中进士，和王维是好朋友。他做官不顺利，后来隐居。他留下的诗不多，最有名的是《终南望余雪》。这首《望蓟门》是他少见的边塞诗，写得很有气势。",
+  "en": "Zu Yong came from Luoyang. His birth and death years are unknown. He passed the imperial exam in 724 and was a good friend of Wang Wei. His official career did not go well, and later he lived in retirement. Few of his poems survive; the best known is \"Looking at the Last Snow on Mount Zhongnan\". This poem is one of his rare frontier poems, and it is full of power."
+ },
+ "appreciation": {
+  "zh": "第一句的“惊”字是全诗的眼睛：诗人一登高，就被眼前的景象震住了。接着他一样一样告诉我们他看到了什么：军营里鼓声震天；万里雪原闪着冷光；天刚亮，高高的军旗在风中飘动；烽火冲天，好像碰到了月亮；海边的云和山团团围住蓟城。画面又大又冷，又雄壮又紧张。看到这些，诗人的心也热了起来：我年轻时虽然没有投笔从军，现在也想像古代英雄那样，主动请求上战场。从“惊”到“请长缨”，一个书生的报国之心被点燃了。",
+  "en": "The word \"startled\" in the first line is the eye of the whole poem. The moment the poet climbs high, the view stuns him. Then he tells us, one by one, what he sees. Drums thunder through the army camp. Snowfields shine cold for ten thousand li. At dawn, tall flags flutter in the wind. Beacon fires leap up as if to touch the moon. By the sea, clouds and mountains wrap around the city of Ji. The picture is huge and cold, grand and tense. Seeing all this, the poet's heart grows hot. Though he did not join the army when he was young, now he too wants to ask to go to war like the heroes of old. From being startled to asking for the long rope, a scholar's wish to serve his country catches fire."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "army",
+   "ambition",
+   "snow"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>送崔九 · 裴迪 — 诗</title>
+    <meta name="description" content="送崔九 · 裴迪 — Seeing Off Cui the Ninth by Pei Di: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character quatrain</span><span lang="zh">唐诗 · 五言绝句</span></p>
+        <h1>送崔九</h1>
+        <p class="by">裴迪<span class="mono"><span lang="en">Pei Di · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Seeing Off Cui the Ninth</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>guī</i><b>归</b></span><span class="c gl" data-l="0" data-p="1"><i>shān</i><b>山</b></span><span class="c gl" data-l="0" data-p="2"><i>shēn</i><b>深</b></span><span class="c gl" data-l="0" data-p="3"><i>qiǎn</i><b>浅</b></span><span class="c" data-l="0" data-p="4"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>xū</i><b>须</b></span><span class="c gl rd" data-l="1" data-p="1"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="1" data-p="2"><i>qiū</i><b>丘</b></span><span class="c gl" data-l="1" data-p="3"><i>hè</i><b>壑</b></span><span class="c" data-l="1" data-p="4"><i>měi</i><b>美</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>mò</i><b>莫</b></span><span class="c" data-l="2" data-p="1"><i>xué</i><b>学</b></span><span class="c gl" data-l="2" data-p="2"><i>wǔ</i><b>武</b></span><span class="c gl" data-l="2" data-p="3"><i>líng</i><b>陵</b></span><span class="c gl" data-l="2" data-p="4"><i>rén</i><b>人</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>zàn</i><b>暂</b></span><span class="c" data-l="3" data-p="1"><i>yóu</i><b>游</b></span><span class="c gl" data-l="3" data-p="2"><i>táo</i><b>桃</b></span><span class="c gl" data-l="3" data-p="3"><i>yuán</i><b>源</b></span><span class="c" data-l="3" data-p="4"><i>lǐ</i><b>里</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">归山深浅去</span><span lang="en">You are going back to the mountains; wherever you go, deep or shallow,</span><span lang="zh">你这次回山里去，不管山深山浅，</span></li><li><span class="o">须尽丘壑美</span><span lang="en">be sure to enjoy all the beauty of the hills and valleys.</span><span lang="zh">都要尽情欣赏山水的美景。</span></li><li><span class="o">莫学武陵人</span><span lang="en">Do not be like the fisherman from Wuling,</span><span lang="zh">不要学那个武陵的渔夫，</span></li><li><span class="o">暂游桃源里</span><span lang="en">who visited the Peach Blossom Spring for only a short while.</span><span lang="zh">在桃花源里只玩了几天就离开了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>归山<span class="mono">guī shān</span></dt><dd><span lang="en">guī shān: to go back to the mountains to live as a hermit, leaving official life and busy places for the quiet hills.</span><span lang="zh">归山：回到山里去隐居。隐居就是离开官场和热闹的地方，到安静的山林里生活。</span></dd></div><div><dt>深浅<span class="mono">shēn qiǎn</span></dt><dd><span lang="en">shēn qiǎn: deep or shallow, meaning every part of the mountains.</span><span lang="zh">深浅：不管深处还是浅处，指山里的每个地方。</span></dd></div><div><dt>须<span class="mono">xū</span></dt><dd><span lang="en">xū: should, must.</span><span lang="zh">须：应当，一定要。</span></dd></div><div><dt>尽<span class="mono">jìn</span></dt><dd><span lang="en">jìn: to enjoy to the full.</span><span lang="zh">尽：尽情享受，全部领略。</span></dd></div><div><dt>丘壑<span class="mono">qiū hè</span></dt><dd><span lang="en">qiū hè: hills and valleys, the mountain scenery. Hè is a deep ravine.</span><span lang="zh">丘壑：山和山谷，泛指山水风景。壑，山沟。</span></dd></div><div><dt>莫<span class="mono">mò</span></dt><dd><span lang="en">mò: do not.</span><span lang="zh">莫：不要。</span></dd></div><div><dt>武陵人<span class="mono">wǔ líng rén</span></dt><dd><span lang="en">wǔ líng rén: the man from Wuling, the fisherman in Tao Yuanming&#x27;s story &quot;The Peach Blossom Spring&quot;. By chance he found a hidden, peaceful land, stayed a few days, then left, and could never find it again.</span><span lang="zh">武陵人：陶渊明《桃花源记》里的渔夫。他是武陵人，偶然进入世外桃源，住了几天就出来了，后来再也找不到那个地方。</span></dd></div><div><dt>暂<span class="mono">zàn</span></dt><dd><span lang="en">zàn: briefly, only for a short time.</span><span lang="zh">暂：短暂地，只一会儿。</span></dd></div><div><dt>桃源<span class="mono">táo yuán</span></dt><dd><span lang="en">táo yuán: the Peach Blossom Spring, a legendary place cut off from the world where everyone lived in peace.</span><span lang="zh">桃源：桃花源，传说中与世隔绝、人人安乐的地方。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>尽<span class="mono">jìn</span></dt><dd><span lang="en">Here it means to enjoy something fully, so it is read jìn, not jǐn.</span><span lang="zh">尽：这里是“尽情享受、全部领略”的意思，读 jìn，不读 jǐn。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Cui the Ninth was leaving to live as a hermit on Zhongnan Mountain. Pei Di saw him off on horseback and made up this poem on the spot. The original title is long; it means &quot;Cui the Ninth is going to the Southern Mountain, and I say goodbye in a poem made up on horseback.&quot; Three Hundred Tang Poems calls it &quot;Seeing Off Cui the Ninth&quot;. Cui the Ninth was a friend surnamed Cui who was ninth among his cousins. He is usually thought to be Cui Xingzong, the younger brother of Wang Wei&#x27;s wife. The poet urges him: now that you have chosen this life, stick with it and do not give up halfway.</p><p lang="zh">崔九要到终南山去隐居，裴迪在马上为他送别，随口吟出了这首诗。原题较长，意思是“崔九要去南山，我在马上随口作诗和他告别”，《唐诗三百首》题作《送崔九》。崔九是排行第九的崔姓朋友，一般认为就是王维的内弟崔兴宗。诗人劝他：既然决定隐居，就要坚持下去，不要半途而废。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Pei Di was a Tang poet from the Guanzhong region, in today&#x27;s Shaanxi. His dates are unknown. He was a close friend of Wang Wei. The two once lived together at Wangchuan, in today&#x27;s Lantian in Shaanxi, wandering the hills and writing poems back and forth. His poems are mostly about landscapes and the hermit&#x27;s life, and only a few survive.</p><p lang="zh">裴迪，唐代诗人，生卒年不详，关中（今陕西一带）人。他是王维的好朋友，两人曾一起住在辋川（今陕西蓝田），游山玩水、互相写诗唱和。他的诗大多写山水和隐居生活，留下来的作品不多。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This is a farewell poem, yet not one line is sad. The first two lines are a blessing: go to the mountains, and wherever you wander, enjoy the scenery to the full. The last two lines are advice: do not be like the fisherman in &quot;The Peach Blossom Spring&quot;, who stayed only a few days, left, and could never find his way back. Using a story everyone knew, the poet gently reminds his friend: if you become a hermit, mean it and stay with it. Do not run back to busy official life after a while. The words are light, like a friend&#x27;s casual reminder, but they are sincere, with just a touch of teasing.</p><p lang="zh">这是一首送别诗，可是没有一句写难过。前两句是祝福：你去山里吧，不管走到哪里，都要把美景看个够。后两句是劝告：别像《桃花源记》里的渔夫，进了桃花源只待几天就出来，以后想回去再也找不到了。诗人借这个大家熟悉的故事，委婉地提醒朋友：隐居要真心，要坚持，不要过一阵子又跑回热闹的官场。话说得轻松，像朋友间随口的叮嘱，却很真诚，也有一点点开玩笑的味道。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/xisaishanhuaigu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>西塞山怀古</b></a><a href="../../p/wutisishou-qier/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>无题四首·其二</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["归", "guī"], ["山", "shān"], ["深", "shēn"], ["浅", "qiǎn"], ["去", "qù"]], [["须", "xū"], ["尽", "jìn"], ["丘", "qiū"], ["壑", "hè"], ["美", "měi"]], [["莫", "mò"], ["学", "xué"], ["武", "wǔ"], ["陵", "líng"], ["人", "rén"]], [["暂", "zàn"], ["游", "yóu"], ["桃", "táo"], ["源", "yuán"], ["里", "lǐ"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "归山：回到山里去隐居。隐居就是离开官场和热闹的地方，到安静的山林里生活。", "en": "guī shān: to go back to the mountains to live as a hermit, leaving official life and busy places for the quiet hills."}, {"line": 0, "start": 2, "end": 4, "zh": "深浅：不管深处还是浅处，指山里的每个地方。", "en": "shēn qiǎn: deep or shallow, meaning every part of the mountains."}, {"line": 1, "start": 0, "end": 1, "zh": "须：应当，一定要。", "en": "xū: should, must."}, {"line": 1, "start": 1, "end": 2, "zh": "尽：尽情享受，全部领略。", "en": "jìn: to enjoy to the full."}, {"line": 1, "start": 2, "end": 4, "zh": "丘壑：山和山谷，泛指山水风景。壑，山沟。", "en": "qiū hè: hills and valleys, the mountain scenery. Hè is a deep ravine."}, {"line": 2, "start": 0, "end": 1, "zh": "莫：不要。", "en": "mò: do not."}, {"line": 2, "start": 2, "end": 5, "zh": "武陵人：陶渊明《桃花源记》里的渔夫。他是武陵人，偶然进入世外桃源，住了几天就出来了，后来再也找不到那个地方。", "en": "wǔ líng rén: the man from Wuling, the fisherman in Tao Yuanming's story \"The Peach Blossom Spring\". By chance he found a hidden, peaceful land, stayed a few days, then left, and could never find it again."}, {"line": 3, "start": 0, "end": 1, "zh": "暂：短暂地，只一会儿。", "en": "zàn: briefly, only for a short time."}, {"line": 3, "start": 2, "end": 4, "zh": "桃源：桃花源，传说中与世隔绝、人人安乐的地方。", "en": "táo yuán: the Peach Blossom Spring, a legendary place cut off from the world where everyone lived in peace."}], "readings": [{"line": 1, "pos": 1, "char": "尽", "pinyin": "jìn", "zh": "尽：这里是“尽情享受、全部领略”的意思，读 jìn，不读 jǐn。", "en": "Here it means to enjoy something fully, so it is read jìn, not jǐn."}], "speak": ["归山深浅去", "须晋丘壑美", "莫学武陵人", "暂游桃源里"], "speakTitle": "送崔九。裴迪。", "sample": "归山深浅去"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

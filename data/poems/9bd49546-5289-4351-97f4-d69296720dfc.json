@@ -1,0 +1,244 @@
+{
+ "id": "9bd49546-5289-4351-97f4-d69296720dfc",
+ "kind": "shi",
+ "title": "江南曲",
+ "title_en": "Song of the South",
+ "author": "李益",
+ "author_en": "Li Yi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "嫁",
+    "jià"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "瞿",
+    "qú"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "贾",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "嫁",
+    "jià"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "儿",
+    "ér"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "诗集里题目作《江南词》，常见选本如《唐诗三百首》作《江南曲》。第二句的“悮”是“误”的异体字，现在通行写“误”。",
+  "en": "The corpus titles the poem \"Words of the South\". Common anthologies such as \"Three Hundred Tang Poems\" title it \"Song of the South\". In line two, the corpus uses an old variant form of the character for \"miss\"; today the standard form is used."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "贾",
+   "pinyin": "gǔ",
+   "zh": "“贾”指商人时读 gǔ，作姓时才读 jiǎ。",
+   "en": "When this character means \"merchant\", it is read gǔ. It is read jiǎ only as a family name."
+  },
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝朝”是天天、每天的意思，读 zhāo，不读 cháo。",
+   "en": "Doubled, this character means \"every morning, every day\", and is read zhāo, not cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "嫁得：嫁给了。",
+   "en": "jià dé: married to."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "瞿塘：瞿塘峡，长江三峡之一，在今天重庆奉节一带。这里指去长江上游做买卖。",
+   "en": "qú táng: Qutang Gorge, one of the Three Gorges of the Yangtze, near Fengjie in Chongqing. Here it means trading far up the river."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "贾：商人。",
+   "en": "gǔ: a merchant."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "朝朝：天天。",
+   "en": "zhāo zhāo: every day."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "误：耽误，错过。",
+   "en": "wù: to miss, to let down."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "妾：古代女子对自己的谦称，就是“我”。",
+   "en": "qiè: a humble word a woman in old times used for \"I\"."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "期：约好的日子，这里指约好回家的日子。",
+   "en": "qī: an agreed date, here the day he promised to come home."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "潮有信：潮水涨落有固定的时间，从不失约。信，信用，守时。",
+   "en": "cháo yǒu xìn: the tide rises and falls at set times and never breaks its word. Xìn means keeping faith, being on time."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "与：给。",
+   "en": "yǔ: to, for."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "弄潮儿：在潮水里游玩、搏浪的年轻人。",
+   "en": "nòng cháo ér: young men who play and swim in the rising tide."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我嫁给了一个去瞿塘做买卖的商人，",
+   "en": "I married a merchant who trades up at Qutang Gorge,"
+  },
+  {
+   "zh": "他天天让我白等，总不按约好的日子回来。",
+   "en": "and day after day he misses the date he promised to come home."
+  },
+  {
+   "zh": "早知道潮水涨落从不失约，",
+   "en": "If I had known the tide always comes on time,"
+  },
+  {
+   "zh": "还不如嫁给那在潮水里玩耍的年轻人。",
+   "en": "I would have married a young man who plays in the tide."
+  }
+ ],
+ "background": {
+  "zh": "《江南曲》是乐府的旧题目，多写江南一带的生活和男女感情。李益用这个题目，写一位商人的妻子。唐朝时商业很发达，很多商人常年在外，妻子只能在家里等。这首诗写的就是这样一位妻子的埋怨。写作年代不清楚。",
+  "en": "\"Song of the South\" is an old folk-song title. Songs under it are often about life in the south, along the Yangtze, and about love. Li Yi used the title to write about a merchant's wife. Trade grew strong in the Tang dynasty, and many merchants spent years away from home while their wives waited. This poem gives one such wife's complaint. We do not know when it was written."
+ },
+ "author_note": {
+  "zh": "李益（746—829），唐代诗人，大历年间考中进士。他长期在边塞军中做事，最出名的是边塞诗，比如《夜上受降城闻笛》。他的绝句很受人喜爱，当时就被谱成曲子传唱。这首小诗则是学民歌的写法，活泼直白。",
+  "en": "Li Yi (746–829) was a Tang poet who passed the imperial exam in the Dali era. He worked for many years in border armies and is best known for frontier poems, such as \"Hearing a Flute at Night on the Wall of Shouxiang\". His quatrains were loved and set to music in his own time. This little poem copies the style of folk songs: lively and direct."
+ },
+ "appreciation": {
+  "zh": "这首诗像一位妻子在说气话，读来又好笑又心酸。前两句是实情：丈夫在外做生意，一次又一次说好回来又不回来。后两句突然冒出一个怪念头：潮水每天按时来、按时走，从不失约；早知道这样，还不如嫁给天天跟潮水打交道的弄潮儿呢！她当然不是真的要改嫁，而是等得太久，又盼又怨，才说出这样的傻话。“潮有信”和丈夫的“误期”放在一起，一下子就看出丈夫多不守信。话说得越直，越能看出她心里有多想念。",
+  "en": "This poem sounds like a wife speaking in a temper. It is funny and sad at once. The first two lines give the facts: her husband trades far away, and again and again he promises to come home and does not. Then a strange idea pops up. The tide comes and goes on time every day, and never breaks its word. If she had known, she would have married a young man who plays in the tide! Of course she does not really mean it. She has waited too long, hoping and complaining, so she says something silly. Setting the faithful tide beside the husband's missed dates shows how unreliable he is. The more bluntly she speaks, the more we see how much she misses him."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "wife",
+   "tide"
+  ]
+ },
+ "uncertain": []
+}

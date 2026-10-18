@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>留别王维 · 孟浩然 — 诗</title>
+    <meta name="description" content="留别王维 · 孟浩然 — A Parting Poem for Wang Wei by Meng Haoran: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character regulated verse</span><span lang="zh">唐诗 · 五言律诗</span></p>
+        <h1>留别王维</h1>
+        <p class="by">孟浩然<span class="mono"><span lang="en">Meng Haoran · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">A Parting Poem for Wang Wei</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>jì</i><b>寂</b></span><span class="c gl" data-l="0" data-p="1"><i>jì</i><b>寂</b></span><span class="c gl" data-l="0" data-p="2"><i>jìng</i><b>竟</b></span><span class="c gl" data-l="0" data-p="3"><i>hé</i><b>何</b></span><span class="c gl" data-l="0" data-p="4"><i>dài</i><b>待</b></span></p><p class="ln"><span class="c gl rd" data-l="1" data-p="0"><i>zhāo</i><b>朝</b></span><span class="c gl rd" data-l="1" data-p="1"><i>zhāo</i><b>朝</b></span><span class="c gl" data-l="1" data-p="2"><i>kōng</i><b>空</b></span><span class="c gl" data-l="1" data-p="3"><i>zì</i><b>自</b></span><span class="c gl" data-l="1" data-p="4"><i>guī</i><b>归</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>yù</i><b>欲</b></span><span class="c gl" data-l="2" data-p="1"><i>xún</i><b>寻</b></span><span class="c gl" data-l="2" data-p="2"><i>fāng</i><b>芳</b></span><span class="c gl" data-l="2" data-p="3"><i>cǎo</i><b>草</b></span><span class="c" data-l="2" data-p="4"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>xī</i><b>惜</b></span><span class="c" data-l="3" data-p="1"><i>yǔ</i><b>与</b></span><span class="c gl" data-l="3" data-p="2"><i>gù</i><b>故</b></span><span class="c gl" data-l="3" data-p="3"><i>rén</i><b>人</b></span><span class="c gl" data-l="3" data-p="4"><i>wéi</i><b>违</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>dāng</i><b>当</b></span><span class="c gl" data-l="4" data-p="1"><i>lù</i><b>路</b></span><span class="c" data-l="4" data-p="2"><i>shuí</i><b>谁</b></span><span class="c gl" data-l="4" data-p="3"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="4" data-p="4"><i>jiǎ</i><b>假</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>zhī</i><b>知</b></span><span class="c gl" data-l="5" data-p="1"><i>yīn</i><b>音</b></span><span class="c gl" data-l="5" data-p="2"><i>shì</i><b>世</b></span><span class="c gl" data-l="5" data-p="3"><i>suǒ</i><b>所</b></span><span class="c gl" data-l="5" data-p="4"><i>xī</i><b>稀</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>zhǐ</i><b>只</b></span><span class="c gl" data-l="6" data-p="1"><i>yīng</i><b>应</b></span><span class="c gl" data-l="6" data-p="2"><i>shǒu</i><b>守</b></span><span class="c gl" data-l="6" data-p="3"><i>jì</i><b>寂</b></span><span class="c gl" data-l="6" data-p="4"><i>mò</i><b>寞</b></span></p><p class="ln"><span class="c rd" data-l="7" data-p="0"><i>huán</i><b>还</b></span><span class="c gl" data-l="7" data-p="1"><i>yǎn</i><b>掩</b></span><span class="c gl" data-l="7" data-p="2"><i>gù</i><b>故</b></span><span class="c gl" data-l="7" data-p="3"><i>yuán</i><b>园</b></span><span class="c gl" data-l="7" data-p="4"><i>fēi</i><b>扉</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus gives the title as &quot;A Parting Poem for Censor Wang Wei&quot;, and the seventh line with two different characters for &quot;only&quot; and &quot;lonely&quot;. Common editions use the shorter title and the more usual characters. The meaning is the same.</p><p lang="zh">资料库题目作《留别王侍御维》，正文末联作“秪应守索寞”。通行本题作《留别王维》，正文作“只应守寂寞”。“秪”和“只”意思相同。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">寂寂竟何待</span><span lang="en">Lonely and ignored, what am I still waiting for?</span><span lang="zh">冷冷清清的，我到底还在等什么？</span></li><li><span class="o">朝朝空自归</span><span lang="en">Every day I go out, and every day I come back empty-handed.</span><span lang="zh">天天出门，天天空着手回来。</span></li><li><span class="o">欲寻芳草去</span><span lang="en">I want to go home and live quietly among the fragrant grass,</span><span lang="zh">我想回家乡去，过安静的日子，</span></li><li><span class="o">惜与故人违</span><span lang="en">but it pains me to part from you, my old friend.</span><span lang="zh">只可惜要和老朋友你分别。</span></li><li><span class="o">当路谁相假</span><span lang="en">Who among the men in power will lend me a hand?</span><span lang="zh">朝廷里当权的人，谁肯帮我一把？</span></li><li><span class="o">知音世所稀</span><span lang="en">True friends who understand me are rare in this world.</span><span lang="zh">真正懂我的朋友，世上实在太少。</span></li><li><span class="o">只应守寂寞</span><span lang="en">I can only keep to my quiet, lonely life,</span><span lang="zh">我只好守着冷清的日子，</span></li><li><span class="o">还掩故园扉</span><span lang="en">go back, and close the door of my old home.</span><span lang="zh">回去关上老家的门。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>寂寂<span class="mono">jì jì</span></dt><dd><span lang="en">jì jì: quiet and lonely, with no one paying attention.</span><span lang="zh">寂寂：冷冷清清，没人理会。</span></dd></div><div><dt>竟何待<span class="mono">jìng hé dài</span></dt><dd><span lang="en">jìng hé dài: what am I still waiting for, after all?</span><span lang="zh">竟何待：到底还在等什么呢？</span></dd></div><div><dt>朝朝<span class="mono">zhāo zhāo</span></dt><dd><span lang="en">zhāo zhāo: every day.</span><span lang="zh">朝朝：每天。</span></dd></div><div><dt>空自归<span class="mono">kōng zì guī</span></dt><dd><span lang="en">kōng zì guī: to come back alone, empty-handed.</span><span lang="zh">空自归：白白地一个人回来，什么也没得到。</span></dd></div><div><dt>寻芳草<span class="mono">xún fāng cǎo</span></dt><dd><span lang="en">xún fāng cǎo: to look for fragrant grass. It stands for going home to live quietly away from the world.</span><span lang="zh">寻芳草：去找长满香草的地方，比喻回家乡去隐居。</span></dd></div><div><dt>违<span class="mono">wéi</span></dt><dd><span lang="en">wéi: to part, to leave.</span><span lang="zh">违：分开，离别。</span></dd></div><div><dt>故人<span class="mono">gù rén</span></dt><dd><span lang="en">gù rén: an old friend, here Wang Wei.</span><span lang="zh">故人：老朋友，这里指王维。</span></dd></div><div><dt>当路<span class="mono">dāng lù</span></dt><dd><span lang="en">dāng lù: those in power at court.</span><span lang="zh">当路：当权的人，在朝廷里掌权的人。</span></dd></div><div><dt>相假<span class="mono">xiāng jiǎ</span></dt><dd><span lang="en">xiāng jiǎ: to help me, to lift me up. Jiǎ means to lend a hand.</span><span lang="zh">相假：帮助我，提拔我。假，借助、给予。</span></dd></div><div><dt>知音<span class="mono">zhī yīn</span></dt><dd><span lang="en">zhī yīn: a friend who truly understands you. In an old story, only Zhong Ziqi understood Bo Ya&#x27;s music, so a close friend is called a zhī yīn, &quot;one who knows the tune&quot;.</span><span lang="zh">知音：真正懂你的朋友。古时伯牙弹琴，只有钟子期听得懂，后来就把知心朋友叫知音。</span></dd></div><div><dt>世所稀<span class="mono">shì suǒ xī</span></dt><dd><span lang="en">shì suǒ xī: rare in this world.</span><span lang="zh">世所稀：世上很少有。</span></dd></div><div><dt>只应<span class="mono">zhǐ yīng</span></dt><dd><span lang="en">zhǐ yīng: can only, have no choice but to.</span><span lang="zh">只应：只能，只好。</span></dd></div><div><dt>守寂寞<span class="mono">shǒu jì mò</span></dt><dd><span lang="en">shǒu jì mò: to live a quiet, lonely life.</span><span lang="zh">守寂寞：守着冷清的日子。</span></dd></div><div><dt>掩<span class="mono">yǎn</span></dt><dd><span lang="en">yǎn: to close.</span><span lang="zh">掩：关上。</span></dd></div><div><dt>故园扉<span class="mono">gù yuán fēi</span></dt><dd><span lang="en">gù yuán fēi: the door of my old home. Fēi means door.</span><span lang="zh">故园扉：老家的门。扉，门。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>朝<span class="mono">zhāo</span></dt><dd><span lang="en">Here zhāo zhāo means every day. The character means morning, so it is read zhāo.</span><span lang="zh">朝朝：天天。这里的“朝”是早晨的意思，读 zhāo。</span></dd></div><div><dt>朝<span class="mono">zhāo</span></dt><dd><span lang="en">As above, read zhāo.</span><span lang="zh">同上，读 zhāo。</span></dd></div><div><dt>还<span class="mono">huán</span></dt><dd><span lang="en">Here it means to go back, so it is read huán.</span><span lang="zh">还：回去，读 huán。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">When Meng Haoran was about forty, he went to Chang&#x27;an to take the top civil service exam, and failed. He stayed in the capital for a while hoping for a post, but that failed too. During this time he became close friends with Wang Wei. Before he left Chang&#x27;an to go home to Xiangyang, he wrote this poem for Wang Wei. It tells of his disappointment and how hard it was to leave his friend. It is usually dated to around 729.</p><p lang="zh">孟浩然四十岁左右到长安考进士，没有考中。他在长安住了一段时间，想找机会做官，也没有成功。在这期间，他和王维成了好朋友。离开长安回襄阳老家之前，他写了这首诗送给王维，说出自己的失望和对朋友的不舍。一般认为写于开元十七年（729年）前后。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Meng Haoran (689–740) came from Xiangyang. He was a famous Tang poet of hills, rivers and farm life, and is often named together with Wang Wei. He never held office. He spent most of his life living quietly at home, with some long journeys. Li Bai admired him and wrote, &quot;I love Master Meng.&quot;</p><p lang="zh">孟浩然（689—740），襄阳人，唐代著名的山水田园诗人，和王维并称“王孟”。他一生没有做过官，大部分时间在家乡隐居，也到各地游历。李白很佩服他，写过“吾爱孟夫子”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem speaks very plainly, like pouring out your troubles to a close friend. The first two lines are a question to himself: waiting like this every day, what am I waiting for? &quot;Every day I come back empty-handed&quot; shows him hitting one wall after another. Lines three and four show a pull in two directions: he wants to go home, but he does not want to leave his friend. Lines five and six hurt the most. No one in power will help, and people who understand him are so few. These lines also thank Wang Wei, because Wang Wei is that rare true friend. In the end the poet decides to go home and close his door on a lonely life. The voice is calm, but deep hurt lies underneath.</p><p lang="zh">这首诗说话很直白，像在对好朋友诉苦。开头两句是问自己：天天这样等，到底在等什么？“朝朝空自归”写出了一次次碰壁的样子。三四句写心里的矛盾：想回家，又舍不得朋友。五六句是全诗最痛的地方：当权的人没人帮忙，懂我的人又这么少。这两句也是在感谢王维，因为王维就是那个少有的知音。最后诗人决定回去关上家门，过冷清的日子。语气平静，可是里面藏着很深的委屈。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/tingzheng/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>听筝</b></a><a href="../../p/jinguyuan/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>金谷园</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["寂", "jì"], ["寂", "jì"], ["竟", "jìng"], ["何", "hé"], ["待", "dài"]], [["朝", "zhāo"], ["朝", "zhāo"], ["空", "kōng"], ["自", "zì"], ["归", "guī"]], [["欲", "yù"], ["寻", "xún"], ["芳", "fāng"], ["草", "cǎo"], ["去", "qù"]], [["惜", "xī"], ["与", "yǔ"], ["故", "gù"], ["人", "rén"], ["违", "wéi"]], [["当", "dāng"], ["路", "lù"], ["谁", "shuí"], ["相", "xiāng"], ["假", "jiǎ"]], [["知", "zhī"], ["音", "yīn"], ["世", "shì"], ["所", "suǒ"], ["稀", "xī"]], [["只", "zhǐ"], ["应", "yīng"], ["守", "shǒu"], ["寂", "jì"], ["寞", "mò"]], [["还", "huán"], ["掩", "yǎn"], ["故", "gù"], ["园", "yuán"], ["扉", "fēi"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "寂寂：冷冷清清，没人理会。", "en": "jì jì: quiet and lonely, with no one paying attention."}, {"line": 0, "start": 2, "end": 5, "zh": "竟何待：到底还在等什么呢？", "en": "jìng hé dài: what am I still waiting for, after all?"}, {"line": 1, "start": 0, "end": 2, "zh": "朝朝：每天。", "en": "zhāo zhāo: every day."}, {"line": 1, "start": 2, "end": 5, "zh": "空自归：白白地一个人回来，什么也没得到。", "en": "kōng zì guī: to come back alone, empty-handed."}, {"line": 2, "start": 1, "end": 4, "zh": "寻芳草：去找长满香草的地方，比喻回家乡去隐居。", "en": "xún fāng cǎo: to look for fragrant grass. It stands for going home to live quietly away from the world."}, {"line": 3, "start": 4, "end": 5, "zh": "违：分开，离别。", "en": "wéi: to part, to leave."}, {"line": 3, "start": 2, "end": 4, "zh": "故人：老朋友，这里指王维。", "en": "gù rén: an old friend, here Wang Wei."}, {"line": 4, "start": 0, "end": 2, "zh": "当路：当权的人，在朝廷里掌权的人。", "en": "dāng lù: those in power at court."}, {"line": 4, "start": 3, "end": 5, "zh": "相假：帮助我，提拔我。假，借助、给予。", "en": "xiāng jiǎ: to help me, to lift me up. Jiǎ means to lend a hand."}, {"line": 5, "start": 0, "end": 2, "zh": "知音：真正懂你的朋友。古时伯牙弹琴，只有钟子期听得懂，后来就把知心朋友叫知音。", "en": "zhī yīn: a friend who truly understands you. In an old story, only Zhong Ziqi understood Bo Ya's music, so a close friend is called a zhī yīn, \"one who knows the tune\"."}, {"line": 5, "start": 2, "end": 5, "zh": "世所稀：世上很少有。", "en": "shì suǒ xī: rare in this world."}, {"line": 6, "start": 0, "end": 2, "zh": "只应：只能，只好。", "en": "zhǐ yīng: can only, have no choice but to."}, {"line": 6, "start": 2, "end": 5, "zh": "守寂寞：守着冷清的日子。", "en": "shǒu jì mò: to live a quiet, lonely life."}, {"line": 7, "start": 1, "end": 2, "zh": "掩：关上。", "en": "yǎn: to close."}, {"line": 7, "start": 2, "end": 5, "zh": "故园扉：老家的门。扉，门。", "en": "gù yuán fēi: the door of my old home. Fēi means door."}], "readings": [{"line": 1, "pos": 0, "char": "朝", "pinyin": "zhāo", "zh": "朝朝：天天。这里的“朝”是早晨的意思，读 zhāo。", "en": "Here zhāo zhāo means every day. The character means morning, so it is read zhāo."}, {"line": 1, "pos": 1, "char": "朝", "pinyin": "zhāo", "zh": "同上，读 zhāo。", "en": "As above, read zhāo."}, {"line": 7, "pos": 0, "char": "还", "pinyin": "huán", "zh": "还：回去，读 huán。", "en": "Here it means to go back, so it is read huán."}], "speak": ["寂寂竟何待", "朝朝空自归", "欲寻芳草去", "惜与故人违", "当路谁相假", "知音世所稀", "只应守寂寞", "桓掩故园扉"], "speakTitle": "留别王维。孟浩然。", "sample": "寂寂竟何待"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

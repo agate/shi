@@ -1,0 +1,494 @@
+{
+ "id": "3d26433c-a673-4094-8c83-cadb1b08412a",
+ "kind": "shi",
+ "title": "登柳州城楼寄漳汀封连四州",
+ "title_en": "Climbing the Liuzhou City Tower: To the Prefects of Zhang, Ting, Feng and Lian",
+ "author": "柳宗元",
+ "author_en": "Liu Zongyuan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "荒",
+    "huāng"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "茫",
+    "máng"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "飐",
+    "zhǎn"
+   ],
+   [
+    "芙",
+    "fú"
+   ],
+   [
+    "蓉",
+    "róng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "密",
+    "mì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "薜",
+    "bì"
+   ],
+   [
+    "荔",
+    "lì"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ]
+  ],
+  [
+   [
+    "岭",
+    "lǐng"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "遮",
+    "zhē"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "目",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "滞",
+    "zhì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料第六句作“九廻肠”，“廻”是“回”的异体字，通行本作“九回肠”。",
+  "en": "In line six the corpus uses an old variant form of hui; common editions use the standard form. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "“愁思”的“思”是名词，意思是心思、情绪。现在读 sī；古音读去声 sì。",
+   "en": "Here this character is a noun meaning thoughts or feelings. Today it is read sī; the old reading was sì."
+  },
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重遮”是一层又一层地遮住，读 chóng，不读 zhòng。",
+   "en": "Here it means layer upon layer, so it is read chóng, not zhòng."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "“曲”在这里是弯弯曲曲，读 qū。",
+   "en": "Here it means winding, so it is read qū."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "接：连接。",
+   "en": "jiē: to reach, to join."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "大荒：荒凉辽阔的原野。",
+   "en": "dà huāng: the vast, wild land."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "海天：像大海和天空一样无边。",
+   "en": "hǎi tiān: as boundless as the sea and sky."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "愁思：忧愁的心情。",
+   "en": "chóu sī: sad thoughts."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "茫茫：无边无际。",
+   "en": "máng máng: endless."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "惊风：突然刮来的狂风。",
+   "en": "jīng fēng: a sudden, wild wind."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 4,
+   "zh": "飐：风吹得东西摇动。",
+   "en": "zhǎn: to shake in the wind."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "芙蓉：荷花。",
+   "en": "fú róng: lotus flowers."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "密雨：又密又急的雨。",
+   "en": "mì yǔ: thick, heavy rain."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "侵：侵袭，打上去。",
+   "en": "qīn: to beat against."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "薜荔：一种常绿的藤蔓植物，常爬在墙上。",
+   "en": "bì lì: climbing fig, an evergreen vine that often grows on walls."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "岭树：山岭上的树。",
+   "en": "lǐng shù: trees on the mountains."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "重遮：一层层地遮住。",
+   "en": "chóng zhē: to block layer upon layer."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "千里目：望向千里之外的眼光。",
+   "en": "qiān lǐ mù: eyes looking a thousand li away."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "九回肠：肠子绕了九道弯，形容心里愁得像打了结一样。",
+   "en": "jiǔ huí cháng: bowels twisted nine times, meaning a heart tied in knots with sorrow."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "百越：古代对南方各民族的总称，这里指岭南一带。",
+   "en": "bǎi yuè: the Hundred Yue, an old name for the peoples of the far south. Here it means the lands south of the mountains."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "文身：在身上刺花纹。古书说南方越人有这个习俗。",
+   "en": "wén shēn: tattooing the body. Old books said the Yue people of the south had this custom."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "犹自：还是，仍然。",
+   "en": "yóu zì: still."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "音书：书信、消息。",
+   "en": "yīn shū: letters and news."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "滞：停滞，不通。",
+   "en": "zhì: stuck, unable to get through."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "柳州城上的高楼，连着一望无边的荒野。",
+   "en": "The tall tower on the Liuzhou wall looks out over endless wild land."
+  },
+  {
+   "zh": "我的愁绪像大海和天空一样，无边无际。",
+   "en": "My sorrow is as boundless as the sea and sky."
+  },
+  {
+   "zh": "狂风乱吹，荷花池的水起伏摇荡。",
+   "en": "A wild wind tosses the lotus pond."
+  },
+  {
+   "zh": "急雨斜着打在爬满薜荔的墙上。",
+   "en": "Heavy rain slants against walls covered in climbing vines."
+  },
+  {
+   "zh": "山岭上的树一层层挡住了我望向远方的眼睛。",
+   "en": "Trees on the ridges, layer upon layer, block my gaze across a thousand li."
+  },
+  {
+   "zh": "弯弯曲曲的江水，就像我愁得打了结的肝肠。",
+   "en": "The winding river twists like my heart, tied in nine knots."
+  },
+  {
+   "zh": "我们一起被贬到这南方的偏远之地，",
+   "en": "Together we were sent to this far southern land of tattooed people,"
+  },
+  {
+   "zh": "却连书信都难以相通，各自困在一个地方。",
+   "en": "yet even our letters cannot get through, and each of us is stuck in his own place."
+  }
+ ],
+ "background": {
+  "zh": "唐顺宗时，柳宗元和刘禹锡等人参加了一场改革，叫永贞革新。改革失败后，他们都被贬到远方。十年后的元和十年（815年），他们被召回长安，不久又被派到更远的地方做刺史：柳宗元去柳州，韩泰去漳州，韩晔去汀州，陈谏去封州，刘禹锡去连州。这年夏天柳宗元到了柳州，登上城楼，想念这几位朋友，写了这首诗寄给他们。",
+  "en": "Under Emperor Shunzong, Liu Zongyuan, Liu Yuxi and others took part in a reform called the Yongzhen Reform. When it failed, they were all sent away to far-off places. Ten years later, in 815, they were called back to Chang'an, but soon they were sent even farther away to govern distant prefectures: Liu Zongyuan to Liuzhou, Han Tai to Zhangzhou, Han Ye to Tingzhou, Chen Jian to Fengzhou, and Liu Yuxi to Lianzhou. That summer Liu Zongyuan reached Liuzhou. He climbed the city tower, missed his friends, and sent them this poem."
+ },
+ "author_note": {
+  "zh": "柳宗元（773—819），字子厚，河东人，唐代文学家、思想家，是“唐宋八大家”之一。他一生大半在被贬中度过，先在永州，后在柳州，最后死在柳州，所以人们也叫他“柳柳州”。他在柳州做了不少好事，当地人很怀念他。",
+  "en": "Liu Zongyuan (773 to 819) came from Hedong. He was a Tang writer and thinker, and one of the Eight Great Prose Masters of the Tang and Song. He spent most of his life in exile, first in Yongzhou and then in Liuzhou, where he died. So people also call him Liu of Liuzhou. He did much good in Liuzhou, and the local people long remembered him."
+ },
+ "appreciation": {
+  "zh": "诗人站在高楼上，看到的是一片荒野，心里的愁也像海天一样望不到边。接着是一场夏天的暴风雨：狂风把荷花池吹得乱摇，急雨斜斜地打在墙上。荷花和薜荔本来是美好的东西，却被风雨欺负，这也像诗人和朋友们受到的打击。他想往远处看看朋友们在的地方，可是一层层山上的树挡住了视线；江水弯弯曲曲，就像他打了结的心。最后两句说：我们一起来到这遥远的南方，却连书信都难通。景里有情，情里有景，读来沉重又真切。",
+  "en": "The poet stands in the tall tower and sees only wild land, and his sorrow stretches as far as the sea and sky. Then comes a summer storm. A wild wind shakes the lotus pond, and heavy rain slants against the walls. Lotus flowers and climbing vines are lovely things, yet the storm batters them, just as the poet and his friends have been battered. He wants to look toward where his friends are, but layer after layer of trees on the mountains blocks his view. The river winds and twists, like his knotted heart. The last two lines say: we all came to this far southern land together, yet even our letters cannot get through. Feeling lives in the scenery, and the scenery carries the feeling. It reads as heavy and true."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "friendship",
+   "longing",
+   "storm"
+  ]
+ },
+ "uncertain": []
+}

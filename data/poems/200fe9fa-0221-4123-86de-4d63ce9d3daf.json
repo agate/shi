@@ -1,0 +1,356 @@
+{
+ "id": "200fe9fa-0221-4123-86de-4d63ce9d3daf",
+ "kind": "shi",
+ "title": "旅宿",
+ "title_en": "Staying at an Inn",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "旅",
+    "lǚ"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "良",
+    "liáng"
+   ],
+   [
+    "伴",
+    "bàn"
+   ]
+  ],
+  [
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "警",
+    "jǐng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "系",
+    "xì"
+   ],
+   [
+    "钓",
+    "diào"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "船",
+    "chuán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料库写作“断鴈”“湘江”。“鴈”是“雁”的异体字。“沧江好烟月”是《唐诗三百首》等通行本的写法，有的版本作“湘江”。",
+  "en": "The corpus has two different characters: an old variant form of the character for \"goose\", and \"Xiang River\" in place of \"cang jiang\". The variant is just another way of writing \"goose\". \"Cang jiang\" is the reading in the Three Hundred Tang Poems and other common editions; some editions have \"Xiang River\"."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "悄",
+   "pinyin": "qiǎo",
+   "zh": "读 qiǎo，“悄然”是忧愁的样子。",
+   "en": "Read qiǎo; qiǎo rán means sad and quiet."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "系",
+   "pinyin": "xì",
+   "zh": "读 xì，意思是“拴、绑”。口语“系鞋带”读 jì。",
+   "en": "Read xì, meaning \"to tie up\". In everyday speech, tying shoelaces is read jì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "良伴：好朋友，好伙伴。",
+   "en": "liáng bàn: a good companion."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "凝情：心思凝住了，想事情想得出神。",
+   "en": "níng qíng: lost in thought, feelings held still."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "悄然：忧愁的样子。",
+   "en": "qiǎo rán: sad and silent."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "寒灯：冷清的灯光，说明夜深人孤单。",
+   "en": "hán dēng: a cold, lonely lamp late at night."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "断雁：离群的孤雁。",
+   "en": "duàn yàn: a wild goose that has lost its flock."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "警：惊醒。",
+   "en": "jǐng: to wake with a start."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "愁眠：带着愁绪睡着。",
+   "en": "chóu mián: a sleep full of worries."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "侵晓：天快亮的时候。",
+   "en": "qīn xiǎo: when dawn is near."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "隔年：过了一年。家信要一年才能寄到。",
+   "en": "gé nián: a year later. A letter from home takes a year to arrive."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "沧江：江水青苍，这里泛指江。",
+   "en": "cāng jiāng: a blue-green river, here just meaning the river."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "烟月：薄雾中的月色。",
+   "en": "yān yuè: moonlight through a thin mist."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "住在旅馆里，身边没有好朋友，",
+   "en": "At the inn there is no good friend with me;"
+  },
+  {
+   "zh": "我想着心事，独自愁闷不语。",
+   "en": "lost in thought, I sit alone and sad."
+  },
+  {
+   "zh": "对着冷清的灯，想起从前的事；",
+   "en": "By the cold lamp I think of the past;"
+  },
+  {
+   "zh": "失群孤雁的叫声，把我从愁梦中惊醒。",
+   "en": "the cry of a lone goose wakes me from troubled sleep."
+  },
+  {
+   "zh": "梦里回到遥远的家，醒来天已快亮；",
+   "en": "In a dream I go home far away, and wake near dawn;"
+  },
+  {
+   "zh": "家里的信，要隔一年才能寄到。",
+   "en": "a letter from home takes a year to reach me."
+  },
+  {
+   "zh": "江上的月色笼着薄雾，多么美好，",
+   "en": "How lovely the misty moon over the river,"
+  },
+  {
+   "zh": "门前就拴着一条钓鱼的小船。",
+   "en": "and by the door a fishing boat is tied."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是诗人独自在外，住在旅馆里思念家乡的心情。杜牧一生有很多年在南方各地做幕僚、当地方官，常常远离家乡。这首诗具体写于什么时候、什么地方，现在说不清楚。",
+  "en": "This poem is about the poet staying alone at an inn far from home, missing his family. Du Mu spent many years in the south, working as an adviser to officials and as a local official, often far from home. We cannot say exactly when or where this poem was written."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），字牧之，号樊川居士，晚唐著名诗人。他的诗清新俊爽，和李商隐齐名，人称“小李杜”。他最有名的是七言绝句，比如《山行》《清明》。这首五言律诗写客居的孤单，语言平易，感情真切。",
+  "en": "Du Mu (803–852) was a famous late Tang poet. His poems are fresh and bright. He and Li Shangyin are known together as \"the Little Li and Du\". He is best known for seven-character quatrains such as \"Mountain Walk\" and \"Qingming\". This five-character regulated verse describes the loneliness of a traveller in plain, sincere words."
+ },
+ "appreciation": {
+  "zh": "前六句一层层写孤单。旅馆里没有朋友，只能自己发愁；夜里对着冷灯想往事，好不容易睡着，又被孤雁叫醒；梦里回了家，醒来天快亮了，家信却要一年才到。灯是冷的，雁是孤的，梦是远的，信是慢的，处处都是寂寞。最后两句忽然一转，写江上薄雾中的月色很美，门口还拴着钓鱼船。景色越美，越显得诗人身在异乡。一说这两句也带着“不如回家去过钓鱼的日子”的念头。",
+  "en": "The first six lines build up loneliness step by step. There is no friend at the inn, so he worries alone. At night he faces a cold lamp and thinks of the past. When he finally sleeps, a lone goose wakes him. In a dream he goes home, then wakes near dawn, and a letter from home takes a year to come. The lamp is cold, the goose is alone, the dream is far, the letter is slow. Everything feels lonely. The last two lines turn suddenly to a lovely scene: misty moonlight on the river and a fishing boat tied by the door. The more beautiful the scene, the more he feels he is in a strange place. Some readers also hear a wish in these lines: to go home and live a quiet fishing life."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "travel",
+   "loneliness",
+   "night",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

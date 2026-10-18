@@ -1,0 +1,269 @@
+{
+ "id": "0edc1f37-50aa-48ac-9fb3-1def51c4319c",
+ "kind": "shi",
+ "title": "从军行·其四",
+ "title_en": "Joining the Army, No. 4",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "战",
+    "zhàn"
+   ],
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "甲",
+    "jiǎ"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文第二句作“孤城遥望雁门关”。课本和通行本作“玉门关”，玉门关在西北，和青海、楼兰的方位更合。",
+  "en": "In the corpus, line 2 names the Yanmen Pass. Textbooks and common editions name the Yumen (Jade Gate) Pass, which is in the northwest and fits better with Qinghai and Loulan."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长在这里读 cháng，意思是长长的。",
+   "en": "Here this character is read cháng, meaning long."
+  },
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还在这里读 huán，意思是回来。",
+   "en": "Here this character is read huán, meaning to return."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "青海：指青海湖，在今青海省。",
+   "en": "Qinghai: Qinghai Lake, in today's Qinghai Province."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "长云：连成一大片的云。",
+   "en": "cháng yún: long clouds stretching far."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "暗雪山：让雪山都变暗了。雪山，指祁连山，山顶终年有雪。",
+   "en": "àn xuě shān: darkening the snowy mountains. The snowy mountains are the Qilian range, white all year."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "孤城：孤零零的城，指边塞上的城。",
+   "en": "gū chéng: a lonely town; a fort on the frontier."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "玉门关：古代的关口，在今甘肃敦煌西北，是通往西域的要道。",
+   "en": "Yumen Pass: the Jade Gate, an old pass northwest of today's Dunhuang in Gansu, on the road to the Western Regions."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "百战：打了很多很多仗。",
+   "en": "bǎi zhàn: a hundred battles; very many battles."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "穿金甲：把铁甲都磨穿了。穿，磨破；金甲，战士穿的铁甲。",
+   "en": "chuān jīn jiǎ: wearing through the metal armor. Chuān here means to wear through."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "楼兰：汉代西域的一个国家，常常和汉朝作对。这里代指侵扰边境的敌人。",
+   "en": "Loulan: a small state in the Western Regions in Han times that often fought the Han. Here it stands for any enemy raiding the border."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "终不还：决不回来。",
+   "en": "zhōng bù huán: will never come back."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "青海湖上空，长长的云层遮得雪山都暗了下来。",
+   "en": "Over Qinghai Lake, long clouds darken the snowy mountains."
+  },
+  {
+   "zh": "从孤零零的边城，远远望着玉门关。",
+   "en": "From a lonely frontier fort, I look far off to the Jade Gate Pass."
+  },
+  {
+   "zh": "在黄沙中打了无数仗，铁甲都磨穿了，",
+   "en": "In the yellow sands we have fought a hundred battles and worn through our armor,"
+  },
+  {
+   "zh": "不打败敌人，决不回家乡。",
+   "en": "but until we crush Loulan, we will never go home."
+  }
+ ],
+ "background": {
+  "zh": "《从军行》是乐府的旧题目，专门写军队和打仗的生活。王昌龄用这个题目写了七首诗，这是第四首。一般认为他年轻时到过西北边地，这组诗写的就是那里将士们的生活和心情，写作的具体年份说法不一。",
+  "en": "Joining the Army is an old folk-song title used for poems about soldiers and war. Wang Changling wrote seven poems under it, and this is the fourth. He is usually thought to have traveled to the northwest frontier when young. These poems show the life and feelings of the soldiers there. Sources differ on the exact year."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），唐代诗人，特别擅长写七言绝句，被称为“七绝圣手”。他写了很多边塞诗，写出了战士们的辛苦和豪情，《出塞》《从军行》都是名篇。",
+  "en": "Wang Changling (about 698 to about 757) was a Tang poet. He was a master of the seven-character quatrain. He wrote many frontier poems about soldiers' hardships and courage. Out Past the Frontier and Joining the Army are among his most famous."
+ },
+ "appreciation": {
+  "zh": "前两句画出一片辽阔的边疆：青海湖上压着长长的云，远处的雪山也暗了下来，一座孤城远远对着玉门关。这里又冷又远，让人觉得空旷、悲凉。第三句一下子写尽了战争的艰苦：在黄沙里打了无数仗，连铁甲都磨穿了。可是最后一句不是叹气，而是发誓：不打败敌人，就不回家。前面越苦，最后的誓言就越有力量。我们能看到一群又累又坚强的战士，站在风沙里不肯后退。",
+  "en": "The first two lines paint a huge, empty frontier. Long clouds hang over Qinghai Lake, the snowy mountains turn dark, and a lonely fort faces the far Jade Gate. It is cold and far from home, and it feels vast and sad. The third line sums up how hard the war is: endless battles in the yellow sand, so many that the armor has worn through. But the last line is not a sigh. It is a vow: until we beat the enemy, we will not go home. The harder the first lines are, the stronger the vow sounds. We can picture tired but tough soldiers standing in the wind and sand, refusing to step back."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "soldier",
+   "courage"
+  ]
+ },
+ "uncertain": []
+}

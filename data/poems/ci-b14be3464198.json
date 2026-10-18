@@ -1,0 +1,794 @@
+{
+ "id": "ci-b14be3464198",
+ "kind": "ci",
+ "title": "疏影·咏荷叶",
+ "title_en": "Shu Ying: On Lotus Leaves",
+ "author": "张炎",
+ "author_en": "Zhang Yan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "圆",
+    "yuán"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "洁",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "遗",
+    "yí"
+   ],
+   [
+    "簪",
+    "zān"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "展",
+    "zhǎn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "炎",
+    "yán"
+   ],
+   [
+    "热",
+    "rè"
+   ]
+  ],
+  [
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "鸯",
+    "yāng"
+   ],
+   [
+    "密",
+    "mì"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "倾",
+    "qīng"
+   ],
+   [
+    "盖",
+    "gài"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "浣",
+    "huàn"
+   ],
+   [
+    "纱",
+    "shā"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "碎",
+    "suì"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "叠",
+    "dié"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "皱",
+    "zhòu"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "裙",
+    "qún"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "恋",
+    "liàn"
+   ],
+   [
+    "恋",
+    "liàn"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "衫",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "染",
+    "rǎn"
+   ],
+   [
+    "枯",
+    "kū"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "铅",
+    "qiān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "喜",
+    "xǐ"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "匹",
+    "pǐ"
+   ],
+   [
+    "练",
+    "liàn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "光",
+    "guāng"
+   ]
+  ],
+  [
+   [
+    "倒",
+    "dào"
+   ],
+   [
+    "泻",
+    "xiè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 11,
+   "pos": 3,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "“谩”在这里读 màn，意思是白白地，同“漫”。",
+   "en": "Here it is read màn, meaning in vain."
+  },
+  {
+   "line": 11,
+   "pos": 8,
+   "char": "折",
+   "pinyin": "zhé",
+   "zh": "“裙折”的“折”同“褶”，指裙子上的褶子，这里按通行读法标 zhé。一说读 zhě。",
+   "en": "In qún zhé the character means the pleats of a skirt. We mark the common reading zhé; some read it zhě."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "碧圆：碧绿的圆东西，指荷叶。",
+   "en": "bì yuán: a round green thing, meaning a lotus leaf."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "自洁：本身就很干净。",
+   "en": "zì jié: clean by nature."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 5,
+   "zh": "浅洲远渚：浅水里的小洲，远处的小岛。洲、渚，都是水中的小块陆地。",
+   "en": "qiǎn zhōu yuǎn zhǔ: shallow islets and far-off sandbars, small pieces of land in the water."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "亭亭：直直地立着，很好看的样子。",
+   "en": "tíng tíng: standing tall and graceful."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "清绝：清秀极了。",
+   "en": "qīng jué: pure and lovely beyond compare."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "遗簪：掉下的簪子。簪，古人别头发用的长针。这里指刚长出、还卷着的新荷叶，样子像一根簪子。",
+   "en": "yí zān: a dropped hairpin. Here it means a young lotus leaf still rolled up, shaped like a long hairpin."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "不展秋心：卷着的叶子不打开，像心里藏着愁。“秋心”合起来就是一个“愁”字。",
+   "en": "bù zhǎn qiū xīn: the rolled leaf will not open, like a heart that hides its sorrow. Put together, the characters for autumn and heart make the character for sorrow."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 6,
+   "zh": "能卷几多炎热：它卷起来，又能卷走多少暑热呢。",
+   "en": "néng juǎn jǐ duō yán rè: rolled up like that, how much summer heat can it roll away?"
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "倾盖：两辆车的车盖靠在一起，原指路上相遇、谈得投机。这里指鸳鸯躲在荷叶下，荷叶像伞盖一样把它们遮住。",
+   "en": "qīng gài: the canopies of two carriages tilted together, an old phrase for meeting and talking closely. Here the lotus leaf shades the mandarin ducks like a canopy."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 6,
+   "zh": "浣纱人：在水边洗纱的女子。传说美女西施曾在溪边浣纱。",
+   "en": "huàn shā rén: a girl washing silk by the water. Legend says the beauty Xi Shi once did so."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "怨歌：带着哀怨的歌，一般理解为采莲女子的歌声。",
+   "en": "yuàn gē: a sad song, usually taken as the songs of girls picking lotus."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "花风：吹着荷花的风。",
+   "en": "huā fēng: the breeze among the lotus flowers."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 6,
+   "zh": "翠云千叠：一层层像绿云一样的荷叶。",
+   "en": "cuì yún qiān dié: layer upon layer of leaves, like green clouds."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "汉舞：汉代赵飞燕的舞。传说她身体很轻，跳舞时差点被风吹走，宫女拉住她的裙子，把裙子拉出了褶子。",
+   "en": "hàn wǔ: the dance of Zhao Feiyan of the Han dynasty. Legend says she was so light that the wind nearly blew her away, and her maids grabbed her skirt and creased it."
+  },
+  {
+   "line": 11,
+   "start": 3,
+   "end": 4,
+   "zh": "谩：白白地，徒然。",
+   "en": "màn: in vain."
+  },
+  {
+   "line": 11,
+   "start": 5,
+   "end": 8,
+   "zh": "留仙裙：有褶子的裙子。传说赵飞燕的裙子被拉出褶子后，宫里人都学着做，叫“留仙裙”。这里用来比荷叶上的皱纹。",
+   "en": "liú xiān qún: a pleated skirt. Legend says that after Zhao Feiyan's skirt was creased, the palace women copied it and called it the skirt that kept the fairy. Here it stands for the folds of a lotus leaf."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "恋恋青衫：舍不得的青色衣衫。这里把荷叶比作青衫，一说也指词人自己的衣服。",
+   "en": "liàn liàn qīng shān: a beloved green robe. The lotus leaf is compared to a green robe; some say it also means the poet's own clothes."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "枯香：荷叶枯了还留着的香气。",
+   "en": "kū xiāng: the scent that stays even when the leaf has dried."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "鬓丝飘雪：耳边的头发白得像雪。这里比荷叶边枯白，也写词人自己老了。",
+   "en": "bìn sī piāo xuě: the hair by the ears is white as snow. It pictures the leaf's withered edge, and the poet growing old."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "盘心：荷叶中间。荷叶像一只圆盘。",
+   "en": "pán xīn: the middle of the leaf, which is shaped like a round plate."
+  },
+  {
+   "line": 15,
+   "start": 5,
+   "end": 7,
+   "zh": "铅水：像铅一样沉重、发白的水。唐代李贺写过“忆君清泪如铅水”，这里也暗指眼泪。",
+   "en": "qiān shuǐ: water heavy and pale like lead. The Tang poet Li He compared tears to it, so it also hints at tears."
+  },
+  {
+   "line": 16,
+   "start": 5,
+   "end": 7,
+   "zh": "吹折：吹断。",
+   "en": "chuī zhé: blown and snapped."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 5,
+   "zh": "匹练：一整匹白绸子，比喻洒满水面的月光。",
+   "en": "pǐ liàn: a whole bolt of white silk, picturing the moonlight on the water."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "倒泻：倒下来，泻下来。",
+   "en": "dào xiè: pouring down."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "碧绿的圆荷叶，本来就那样干净。",
+   "en": "The round green leaves are clean by nature."
+  },
+  {
+   "zh": "在浅水的小洲边、远处的小岛旁，",
+   "en": "By shallow islets and far-off sandbars,"
+  },
+  {
+   "zh": "它们高高地立着，清秀极了。",
+   "en": "they stand tall, pure and lovely."
+  },
+  {
+   "zh": "还有像簪子一样卷着的新叶，",
+   "en": "There are young leaves rolled up like dropped hairpins,"
+  },
+  {
+   "zh": "卷着不打开，像心里藏着愁，",
+   "en": "they will not open, like a heart hiding sorrow,"
+  },
+  {
+   "zh": "又能卷走多少暑热呢？",
+   "en": "and how much summer heat can they roll away?"
+  },
+  {
+   "zh": "鸳鸯躲在荷叶底下说着悄悄话，",
+   "en": "Mandarin ducks whisper beneath a leaf that shades them like a canopy."
+  },
+  {
+   "zh": "可别把这话告诉洗纱的姑娘。",
+   "en": "Do not tell it to the girls who wash silk."
+  },
+  {
+   "zh": "只怕她们哀怨的歌声，忽然打断了吹花的风，",
+   "en": "I fear their sad songs may suddenly break the flower breeze,"
+  },
+  {
+   "zh": "把千层绿云一样的荷叶弄碎。",
+   "en": "and shatter the thousand layers of green cloud."
+  },
+  {
+   "zh": "回想当年赵飞燕在汉宫跳舞，",
+   "en": "I think back to Zhao Feiyan dancing in the Han palace."
+  },
+  {
+   "zh": "怕她被风吹走，白白把裙子拉出了褶子。",
+   "en": "For fear she would fly away, her skirt was creased in vain."
+  },
+  {
+   "zh": "那叫人舍不得的青衫，",
+   "en": "The beloved green robe"
+  },
+  {
+   "zh": "还沾着枯荷的香气，",
+   "en": "still carries the scent of dried leaves,"
+  },
+  {
+   "zh": "又叹息鬓边的头发白得像飘雪。",
+   "en": "and I sigh that the hair by my ears is white as falling snow."
+  },
+  {
+   "zh": "荷叶中间的露水像铅水一样沉重，",
+   "en": "The dew in the leaf's heart is heavy as lead."
+  },
+  {
+   "zh": "又过了一夜，西风把它吹断了。",
+   "en": "Another night, and the west wind snaps it."
+  },
+  {
+   "zh": "高兴的是还能静静地看那像白绸一样的秋光，",
+   "en": "Still I am glad to watch, in quiet, the autumn light like a bolt of white silk,"
+  },
+  {
+   "zh": "半个湖的明月光倒泻下来。",
+   "en": "as the bright moon pours down over half the lake."
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏物词，写的是荷叶。“疏影”是词牌名，张炎用这个曲调写荷叶时，把它改名叫“绿意”，所以有的书题作《绿意》。张炎生活在南宋灭亡前后，这首词写在什么时候已经说不清。很多人认为，词里从夏天的新荷写到秋天的枯荷，也寄托着他自己的身世和亡国的伤感。",
+  "en": "This ci describes a thing: lotus leaves. Shu Ying is the name of the tune. When Zhang Yan used it for lotus leaves, he renamed it Lü Yi, meaning green thoughts, so some books use that title. Zhang Yan lived through the fall of the Southern Song. We do not know when this ci was written. Many readers think that, by moving from fresh summer leaves to dry autumn ones, it also carries his own life story and his grief for the lost country."
+ },
+ "author_note": {
+  "zh": "张炎（1248—约1320），字叔夏，号玉田，南宋末年词人。他出身贵族，祖上是南宋名将张俊。南宋灭亡后家道败落，他四处漂泊，晚年曾在四明（今浙江宁波）摆摊算卦为生。他擅长写咏物词，笔下的东西常常带着自己漂泊、伤感的影子。",
+  "en": "Zhang Yan (1248–about 1320), also called Yutian, was a ci poet of the late Southern Song. He came from a noble family; his ancestor was the famous general Zhang Jun. After the Southern Song fell, his family lost everything, and he drifted from place to place. In later life he once kept a fortune-telling stall in Siming, today's Ningbo. He was good at ci about things, and the things he describes often carry his own wandering and sadness."
+ },
+ "appreciation": {
+  "zh": "这首词通篇写荷叶，却一个“荷”字都没有用。上半首是夏天：圆圆的荷叶干干净净，高高地立在水里；新叶卷着像簪子，像藏着心事；鸳鸯在叶下说悄悄话，词人还担心采莲女的歌声把这片绿云惊碎。下半首到了秋天：荷叶皱了，像赵飞燕被拉出褶子的裙子；叶子枯了，边上发白，像人老了头发变白；一夜西风，就把它吹断了。可是结尾一转，湖上月光像白绸一样铺开，又让人心里静下来。写荷叶从新到老，也像在写一个人从年轻到老去。",
+  "en": "The whole ci is about lotus leaves, yet the word lotus never appears. The first stanza is summer. The round leaves are clean and stand tall in the water. Young leaves curl like hairpins, as if hiding a secret. Mandarin ducks whisper beneath them, and the poet worries that the songs of lotus girls might shatter this green cloud. The second stanza is autumn. The leaves wrinkle like Zhao Feiyan's creased skirt. They dry and whiten at the edges, like an old man's hair. One night of west wind snaps them. But at the end the mood turns: moonlight spreads over the lake like white silk, and the heart grows calm. Writing the leaf from young to old, he also seems to write a life."
+ },
+ "famous_lines": [
+  17,
+  18
+ ],
+ "tags": {
+  "seasons": [
+   "summer",
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lotus",
+   "object",
+   "aging",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

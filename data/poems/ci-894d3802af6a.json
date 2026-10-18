@@ -1,0 +1,455 @@
+{
+ "id": "ci-894d3802af6a",
+ "kind": "ci",
+ "title": "鹧鸪天·重过阊门万事非",
+ "title_en": "Partridge Sky: Passing Changmen Gate Again, Everything Has Changed",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "阊",
+    "chāng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "非",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "梧",
+    "wú"
+   ],
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "死",
+    "sǐ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "鸯",
+    "yāng"
+   ],
+   [
+    "失",
+    "shī"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "原",
+    "yuán"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "晞",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "垄",
+    "lǒng"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "依",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "床",
+    "chuáng"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "挑",
+    "tiǎo"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "补",
+    "bǔ"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "底本题作“半死桐”，这是贺铸给《鹧鸪天》这个词牌另起的名字，取自词中“梧桐半死”一句。底本第七句作“新垅”，“垅”是“垄”的异体字，这里按通行写法作“垄”。",
+  "en": "The source text titles it Half-Dead Tung Tree, a name He Zhu gave to the Partridge Sky tune, taken from a line in this lyric. In the seventh line the source writes lǒng (grave mound) with a variant form; here it uses the common form."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重过”的“重”是“再一次”的意思，读 chóng，不读 zhòng。",
+   "en": "Here the character means once again, so it is read chóng, not zhòng."
+  },
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "挑",
+   "pinyin": "tiǎo",
+   "zh": "“挑灯”是把灯芯挑起来，让灯更亮，“挑”读 tiǎo。",
+   "en": "Here the character means to lift the lamp wick so the light burns brighter, and is read tiǎo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "重过：再一次经过。",
+   "en": "chóng guò: to pass by once again."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "阊门：苏州城的西门，这里代指苏州。",
+   "en": "chāng mén: the west gate of Suzhou; here it stands for the city of Suzhou."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "万事非：一切都和从前不一样了。",
+   "en": "wàn shì fēi: everything is no longer as it was."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "何事：为什么。",
+   "en": "hé shì: why?"
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "梧桐半死：梧桐树死了一半。古人常用梧桐比喻夫妻，半死就是夫妻中失去了一个。",
+   "en": "wú tóng bàn sǐ: the tung tree is half dead. Tung trees were often used to stand for husband and wife, so half dead means one of the pair is gone."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "清霜：寒冷的秋霜。",
+   "en": "qīng shuāng: cold autumn frost."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "鸳鸯：一种水鸟，常常雌雄成对，比喻恩爱的夫妻。",
+   "en": "yuān yāng: mandarin ducks, water birds that stay in pairs, a symbol of a loving couple."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "失伴：失去了伴侣。",
+   "en": "shī bàn: to lose one's mate."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "原上：原野上，这里指墓地所在的地方。",
+   "en": "yuán shàng: out on the open plain, where the grave lies."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "露初晞：草上的露水刚刚被晒干。古人用露水很快干掉比喻人生短暂。晞，干。",
+   "en": "lù chū xī: the dew on the grass has just dried. People once used quickly drying dew to stand for how short life is. Xī means to dry."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "旧栖：从前两人一起住的地方。",
+   "en": "jiù qī: the old home they shared."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "新垄：新坟。垄，坟墓上的土堆。",
+   "en": "xīn lǒng: a new grave. Lǒng is the mound of earth over a grave."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "依依：恋恋不舍的样子。",
+   "en": "yī yī: unwilling to part, lingering."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 2,
+   "zh": "复：再。",
+   "en": "fù: again."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "挑灯：把灯芯挑起来，让灯更亮。",
+   "en": "tiǎo dēng: to lift the lamp wick so it burns brighter."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "再一次经过阊门，一切都和从前不一样了。",
+   "en": "Passing Changmen Gate again, I find everything has changed."
+  },
+  {
+   "zh": "我们一同来到这里，为什么不能一同回去？",
+   "en": "We came here together; why can we not go home together?"
+  },
+  {
+   "zh": "就像经过寒霜以后，梧桐树死了一半，",
+   "en": "Like a tung tree half dead after the cold frost,"
+  },
+  {
+   "zh": "又像白了头的鸳鸯，失去伴侣独自飞。",
+   "en": "like a white-headed mandarin duck flying alone, its mate lost."
+  },
+  {
+   "zh": "原野上的青草，",
+   "en": "On the grass of the open plain,"
+  },
+  {
+   "zh": "露水刚刚被晒干。",
+   "en": "the dew has only just dried."
+  },
+  {
+   "zh": "从前住过的老屋和新起的坟墓，都让我恋恋不舍。",
+   "en": "Our old home and the new grave, I cannot bear to leave either one."
+  },
+  {
+   "zh": "我躺在空空的床上，听着南窗外的雨声，",
+   "en": "Lying on the empty bed, I listen to the rain at the south window."
+  },
+  {
+   "zh": "还有谁会在深夜挑亮灯火，为我缝补衣裳？",
+   "en": "Who will ever again lift the lamp wick late at night and mend my clothes?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首悼念亡妻的词。贺铸的妻子赵氏曾和他一起住在苏州，后来在苏州去世。从词里看，她勤劳体贴，常在深夜为他缝补衣服。后来贺铸重新经过苏州，想起和妻子一起来、却只有自己一个人回去，写下了这首词。具体写作年份说法不一。它和苏轼的《江城子·十年生死两茫茫》一样，是宋代有名的悼亡词。",
+  "en": "This lyric mourns the poet's late wife. He Zhu's wife, of the Zhao family, lived with him in Suzhou and later died there. From the lyric we see she was hardworking and caring, mending his clothes late at night. Later, passing through Suzhou again, He Zhu thought about how they had come together but he had to leave alone, and he wrote this lyric. Accounts differ on the exact year. Like Su Shi's lyric for his own late wife, it is one of the best-known Song lyrics of mourning."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，北宋词人。他是宋太祖贺皇后的族孙，娶的是宗室的女子。他长得高大，脸色发青，人称“贺鬼头”。他的词风格多样，有豪放的，也有深情婉转的。《青玉案》里“梅子黄时雨”一句写得极好，人们又叫他“贺梅子”。",
+  "en": "He Zhu (1052–1125), courtesy name Fanghui, was a Northern Song lyric poet. He was a distant grandson in the family of Empress He, wife of the first Song emperor, and he married a woman of the imperial clan. He was tall with a bluish face, so people called him Ghost-Head He. His lyrics come in many styles, some bold and some tender. A famous line about rain in plum-ripening season earned him the nickname Plum He."
+ },
+ "appreciation": {
+  "zh": "第一句“重过阊门万事非”，景物还在，人却不在了，一切都变了样。第二句是一个问题：一同来的，为什么不能一同回去？问得很简单，却没有答案，读来让人心痛。接着用两个比喻：经霜半死的梧桐、白头失伴的鸳鸯，都是在说自己老来失去了妻子。下半首写坟上的青草和很快晒干的露水，提醒我们生命多么短暂。最后两句最打动人：空床上听着雨声，再也没有人深夜挑灯为他补衣了。词人没有写妻子长什么样，只写了一个补衣的小动作，夫妻之间的深情就全在里面了。",
+  "en": "The first line says that the places are still there, but the person is gone, and everything has changed. The second line is a question: we came together, so why can we not go back together? It is a simple question with no answer, and it hurts to read. Then come two pictures: a tung tree half killed by frost, and a white-headed mandarin duck that has lost its mate. Both show the poet losing his wife in old age. The second half shows the grass on the grave and the dew that dries so fast, reminding us how short life is. The last two lines move us most. On the empty bed he hears the rain, and no one will ever again lift the lamp wick late at night to mend his clothes. He never describes what his wife looked like. He only shows her mending clothes, and all their love is in that small act."
+ },
+ "famous_lines": [
+  2,
+  3,
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mourning",
+   "wife",
+   "love",
+   "grief"
+  ]
+ },
+ "uncertain": []
+}

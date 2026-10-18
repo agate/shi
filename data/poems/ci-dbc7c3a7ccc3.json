@@ -1,0 +1,757 @@
+{
+ "id": "ci-dbc7c3a7ccc3",
+ "kind": "ci",
+ "title": "绮寮怨·上马人扶残醉",
+ "title_en": "To the Tune Qi Liao Yuan: Helped onto My Horse, Still Half Drunk",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "扶",
+    "fú"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "瓦",
+    "wǎ"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "檐",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "津",
+    "jīn"
+   ],
+   [
+    "亭",
+    "tíng"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "题",
+    "tí"
+   ],
+   [
+    "败",
+    "bài"
+   ],
+   [
+    "壁",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "蛛",
+    "zhū"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "罩",
+    "zhào"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "墨",
+    "mò"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "晕",
+    "yùn"
+   ],
+   [
+    "青",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "徘",
+    "pái"
+   ],
+   [
+    "徊",
+    "huái"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "息",
+    "xī"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "盈",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "程",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "再",
+    "zài"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "琼",
+    "qióng"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "清",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "敛",
+    "liǎn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "黛",
+    "dài"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "听",
+    "tīng"
+   ]
+  ],
+  [
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "渭",
+    "wèi"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "零",
+    "líng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "醒",
+   "pinyin": "xǐng",
+   "zh": "现在读 xǐng。古时候这个字也有平声的读法，和“亭、青、盈、程”押韵。",
+   "en": "Today it is read xǐng. In old times it also had a level-tone reading that rhymes with tíng, qīng, yíng and chéng."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "“水曲”是水流弯曲的地方，读 qū。",
+   "en": "Shuǐ qū means a bend in the water, so it is read qū."
+  },
+  {
+   "line": 11,
+   "pos": 1,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "“旧曲”是从前的歌曲，读 qǔ。",
+   "en": "Jiù qǔ means an old song, so it is read qǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "残醉：酒还没有完全醒，还带着几分醉意。",
+   "en": "cán zuì: still a little drunk from the night before."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 3,
+   "zh": "水曲：河水弯曲的地方。",
+   "en": "shuǐ qū: a bend in the river."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 7,
+   "zh": "翠瓦朱檐：青绿色的瓦，红色的屋檐。",
+   "en": "cuì wǎ zhū yán: green roof tiles and red eaves."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "垂杨：垂柳，枝条往下垂的柳树。",
+   "en": "chuí yáng: weeping willows, whose branches hang down."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "乍见：忽然看见。",
+   "en": "zhà jiàn: suddenly catching sight of."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "津亭：渡口边的亭子，古人常在这里送别。津，渡口。",
+   "en": "jīn tíng: a pavilion by a ferry crossing, where people in old times often said goodbye. Jīn means a ferry crossing."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 6,
+   "zh": "题败壁：在破旧的墙上写诗。古人常把诗写在亭子或旅店的墙上。",
+   "en": "tí bài bì: writing a poem on a crumbling wall. People in old times often wrote poems on the walls of pavilions and inns."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "蛛丝罩：蜘蛛网罩在上面。",
+   "en": "zhū sī zhào: covered with cobwebs."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 8,
+   "zh": "苔晕青：青苔一圈圈地长开，把墙染成了青色。晕，像水渍一样慢慢化开。",
+   "en": "tái yùn qīng: moss has spread in rings and turned the wall green. Yùn means spreading out slowly like a water stain."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "念去来：想起这些年的来来去去。",
+   "en": "niàn qù lái: thinking of all the comings and goings of these years."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "徘徊：在一个地方走来走去，舍不得离开。",
+   "en": "pái huái: pacing back and forth, not wanting to leave."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 8,
+   "zh": "愁思盈：忧愁的心思装得满满的。盈，满。",
+   "en": "chóu sī yíng: the heart is full of sad thoughts. Yíng means full."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "去去：走吧走吧，越走越远。",
+   "en": "qù qù: go on, go on, farther and farther away."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 6,
+   "zh": "倦寻路程：赶路赶得累了，不想再找路了。",
+   "en": "juàn xún lù chéng: tired of finding the way and travelling on."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "江陵：地名，在今天的湖北荆州。",
+   "en": "jiāng líng: a place name, today's Jingzhou in Hubei."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "杨琼：唐代江陵有名的歌女。白居易写过一首《问杨琼》。这里借指诗人从前在江陵认识的歌女。",
+   "en": "yáng qióng: a famous singing girl of Jiangling in the Tang. The poet Bai Juyi wrote a poem asking about her. Here she stands for a singing girl the poet once knew in Jiangling."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "凄清：凄凉冷清，听了让人难过。",
+   "en": "qī qīng: chill and sad to hear."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "敛愁黛：皱起发愁的眉头。黛，画眉用的青黑色颜料，代指眉毛。",
+   "en": "liǎn chóu dài: knitting her troubled brows. Dài is the dark pigment used to paint eyebrows, standing for the brows."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "尊前：酒杯前，指喝酒的席上。尊，酒杯。",
+   "en": "zūn qián: before the wine cup, meaning at a drinking party. Zūn is a wine vessel."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "关情：动情，牵动人的感情。",
+   "en": "guān qíng: touching one's feelings."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "渭城：指王维的送别诗《送元二使安西》，第一句是“渭城朝雨浥轻尘”。后来人们送别时常常唱这首歌。",
+   "en": "wèi chéng: Wei City, meaning Wang Wei's famous farewell poem, whose first line begins with Wei City. Later people often sang it when saying goodbye."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "泪零：眼泪落下来。零，落。",
+   "en": "lèi líng: tears falling. Líng means to fall."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我还带着醉意，被人扶上马，",
+   "en": "Still half drunk, I am helped onto my horse,"
+  },
+  {
+   "zh": "清晨的风吹来，也没能把我吹醒。",
+   "en": "and even the morning wind cannot wake me up."
+  },
+  {
+   "zh": "河水弯弯的地方，倒映着青瓦红檐，",
+   "en": "Where the river bends, green tiles and red eaves shine in the water,"
+  },
+  {
+   "zh": "垂柳丛里，忽然看见了渡口的亭子。",
+   "en": "and among the weeping willows I suddenly see the ferry pavilion."
+  },
+  {
+   "zh": "那时我曾在这破墙上题过诗，",
+   "en": "Long ago I wrote a poem on its crumbling wall."
+  },
+  {
+   "zh": "现在蛛网罩着，淡淡的墨迹边长满了青苔。",
+   "en": "Now cobwebs cover it, and green moss spreads around the faded ink."
+  },
+  {
+   "zh": "想起这些年来来去去，时光像流水一样，",
+   "en": "I think of all my comings and goings, and how the years flowed by like water,"
+  },
+  {
+   "zh": "我在这里走来走去很久，叹着气，心里满是忧愁。",
+   "en": "and I linger here a long time, sighing, my heart full of sorrow."
+  },
+  {
+   "zh": "走吧走吧，我已经懒得再赶路了。",
+   "en": "Go on, go on; I am tired of finding the road."
+  },
+  {
+   "zh": "江陵的那些往事，",
+   "en": "Those old days in Jiangling,"
+  },
+  {
+   "zh": "我哪里还再去打听那位杨琼一样的歌女呢。",
+   "en": "I have never again asked after the singing girl I knew, like Yang Qiong."
+  },
+  {
+   "zh": "她唱的旧歌凄凉冷清，",
+   "en": "Her old songs were chill and sad,"
+  },
+  {
+   "zh": "她皱着发愁的眉头，如今又唱给谁听？",
+   "en": "and frowning, whom does she sing them to now?"
+  },
+  {
+   "zh": "如果酒席前的老朋友还在，",
+   "en": "If my old friend were still at the wine table,"
+  },
+  {
+   "zh": "想念我的，一定是她最动情。",
+   "en": "she would be the one who missed me most."
+  },
+  {
+   "zh": "哪里用得着唱《渭城曲》来送别呢？",
+   "en": "No need to sing the farewell song of Wei City."
+  },
+  {
+   "zh": "歌声还没唱完，",
+   "en": "Before the song is even over,"
+  },
+  {
+   "zh": "眼泪就先落下来了。",
+   "en": "the tears would fall."
+  }
+ ],
+ "background": {
+  "zh": "这首词写诗人在旅途中，清早酒还没醒就上马赶路，经过一座渡口的亭子，发现自己从前在墙上题的诗还在，已经长满了青苔。他想起多年前在江陵认识的歌女和朋友，十分伤感。一说周邦彦年轻时在荆州（江陵）住过一段时间，这首词写的就是那段往事，但具体写在哪一年并不清楚。",
+  "en": "In this lyric the poet is on a journey. Early in the morning, still half drunk, he gets on his horse. Passing a pavilion by a ferry, he finds the poem he once wrote on its wall, now covered in moss. He remembers a singing girl and friends he knew in Jiangling years ago, and feels very sad. One view says Zhou Bangyan lived in Jingzhou, the area of Jiangling, for a while when he was young, and that this lyric looks back on that time. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，钱塘（今浙江杭州）人。他精通音乐，自己能写曲子，晚年曾管理朝廷的音乐机构大晟府。他的词用字讲究，音律严密，被后人看作北宋词的集大成者。",
+  "en": "Zhou Bangyan (1056–1121), also called Meicheng, came from Qiantang, today's Hangzhou. He knew music deeply and could compose tunes himself. In later life he ran the court's music office. His lyrics are carefully worded and strictly musical, and later readers saw him as the master who brought together all the best of Northern Song lyrics."
+ },
+ "appreciation": {
+  "zh": "开头很有画面感：一个人醉醺醺地被扶上马，早晨的风都吹不醒他。走着走着，河湾里倒映着青瓦红檐，柳树后面露出一座亭子。他忽然认出来了，墙上还有自己当年写的诗，可是已经蛛网罩着，青苔长满。一首旧诗，就把多年的时光一下子拉到眼前。下阕他想起江陵的歌女：她的歌那么凄凉，现在又唱给谁听呢？最后几句很动人：如果她还在，根本不用唱送别的歌，歌还没唱完，眼泪就先流下来了。整首词从眼前的景，慢慢走到心里最软的地方。",
+  "en": "The opening is like a picture. A man, still drunk, is helped onto his horse, and even the morning wind cannot wake him. As he rides, green tiles and red eaves shine in a bend of the river, and a pavilion appears behind the willows. Suddenly he knows it: his own old poem is still on the wall, but it is covered with cobwebs and moss. One old poem brings all the lost years back at once. In the second stanza he remembers the singing girl of Jiangling. Her songs were so sad; whom does she sing for now? The last lines are moving. If she were still here, there would be no need for a farewell song. The tears would fall before the song was done. The lyric moves slowly from the scene before his eyes to the softest place in his heart."
+ },
+ "famous_lines": [
+  4,
+  5,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "nostalgia",
+   "parting",
+   "memory"
+  ]
+ },
+ "uncertain": []
+}

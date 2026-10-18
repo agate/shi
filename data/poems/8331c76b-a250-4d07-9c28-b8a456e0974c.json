@@ -1,0 +1,459 @@
+{
+ "id": "8331c76b-a250-4d07-9c28-b8a456e0974c",
+ "kind": "shi",
+ "title": "春雨",
+ "title_en": "Spring Rain",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "袷",
+    "jiá"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "寥",
+    "liáo"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "违",
+    "wéi"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "箔",
+    "bó"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "晼",
+    "wǎn"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "珰",
+    "dāng"
+   ],
+   [
+    "缄",
+    "jiān"
+   ],
+   [
+    "札",
+    "zhá"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "由",
+    "yóu"
+   ],
+   [
+    "达",
+    "dá"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 5,
+   "char": "袷",
+   "pinyin": "jiá",
+   "zh": "“袷衣”是夹衣，这里“袷”读 jiá，同“夹”。",
+   "en": "In jia yi (a lined jacket) this character is read jiá, the same as the word for \"lined\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "怅卧：心里失落地躺着。",
+   "en": "chang wo: lying down, feeling lost and sad."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "白袷衣：白色的夹衣，是唐代人在家闲居时穿的便服。",
+   "en": "bai jia yi: a white lined jacket, the casual clothes people wore at home in the Tang."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "白门：本来是金陵（今天的南京）的别称，后来常指男女约会的地方。这里指诗人和心上人曾经相会的地方。",
+   "en": "Bai men: White Gate. It was another name for Jinling (today's Nanjing), and later often meant a place where lovers met. Here it is where the poet once met the one he loves."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "寥落：冷清、空荡荡。",
+   "en": "liao luo: empty and lonely."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "意多违：事情大多不如心意。",
+   "en": "yi duo wei: most things go against one's wishes."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "红楼：漂亮的楼房，指心上人住过的地方。",
+   "en": "hong lou: the red mansion, where the one he loves used to live."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "相望冷：隔着雨望过去，只觉得冷清凄凉。",
+   "en": "xiang wang leng: looking across through the rain, he feels only cold and loneliness."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "珠箔：珠子串成的帘子。这里形容雨丝像一串串珠帘。",
+   "en": "zhu bo: a curtain of strung beads. Here the strands of rain look like a bead curtain."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "飘灯：雨中摇晃的灯光。",
+   "en": "piao deng: lamplight flickering in the rain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "远路：指走远路的心上人。",
+   "en": "yuan lu: the far road, meaning the loved one who has gone far away."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "晼晚：太阳快落山的样子，这里指春天快要过去。",
+   "en": "wan wan: the sun about to set; here, spring nearly over."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "残宵：天快亮时的残夜。",
+   "en": "can xiao: the last part of the night, just before dawn."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "依稀：模模糊糊，看不清楚。",
+   "en": "yi xi: faint and blurry."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "玉珰：玉做的耳坠，古人常拿来当作定情信物。",
+   "en": "yu dang: jade earrings, often given as a token of love."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "缄札：封好的书信。",
+   "en": "jian zha: a sealed letter."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "何由达：怎样才能送到呢？",
+   "en": "he you da: how can it ever get there?"
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "云罗：像网一样密密的云。罗，捕鸟的网。",
+   "en": "yun luo: clouds spread thick like a net. Luo is a net for catching birds."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "一雁：一只大雁。古人说大雁能传书信。",
+   "en": "yi yan: a single wild goose. People believed geese could carry letters."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "新春时节，我穿着白夹衣，失落地躺着，",
+   "en": "In the new spring I lie in my white lined jacket, sad and lost."
+  },
+  {
+   "zh": "白门冷冷清清，事事都不如意。",
+   "en": "White Gate is empty and lonely, and nothing goes as I wish."
+  },
+  {
+   "zh": "隔着雨望向那座红楼，只觉得冷清，",
+   "en": "Across the rain I look at the red mansion, and it feels cold."
+  },
+  {
+   "zh": "雨丝像珠帘，灯光摇晃，我独自走回家。",
+   "en": "Rain hangs like a bead curtain, lamps flicker, and I walk home alone."
+  },
+  {
+   "zh": "远方的你，也该为春天将尽而伤心吧，",
+   "en": "You, far away, must also grieve that spring is fading;"
+  },
+  {
+   "zh": "只有在天快亮时，我还能做个模糊的梦。",
+   "en": "only near dawn can I still have a faint dream of you."
+  },
+  {
+   "zh": "玉耳坠和封好的信，要怎样才能送到你手里？",
+   "en": "Jade earrings and a sealed letter: how can they ever reach you?"
+  },
+  {
+   "zh": "万里长空，云像网一样，只有一只孤雁在飞。",
+   "en": "Across ten thousand miles, clouds spread like a net, and a single goose flies."
+  }
+ ],
+ "background": {
+  "zh": "这首诗的写作时间不清楚。诗里写的是春雨的晚上，诗人回到曾经和心上人相会的地方，人已经不在了。他在雨中望着红楼，独自回家，夜里梦见她，想写信却不知道怎么寄出去。有人认为这是写给一位恋人的；也有人认为诗里还藏着诗人自己仕途不顺的苦闷。",
+  "en": "We do not know when this poem was written. It tells of a rainy spring night. The poet goes back to the place where he once met the one he loves, but she is gone. He gazes at the red mansion through the rain, walks home alone, dreams of her at night, and wants to send a letter but has no way to send it. Some think it was written for a lover. Others think it also hides the poet's frustration with his career."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐诗人。他的诗善于写朦胧、细腻的感情，常常借景物和典故把心事藏起来，读起来很美，但意思不太好猜。这首《春雨》就是他写离别相思的代表作之一。",
+  "en": "Li Shangyin (about 813 to about 858) was a late Tang poet. He was good at writing hazy, delicate feelings, often hiding them behind scenery and old stories. His poems are beautiful to read, but their meaning is hard to pin down. \"Spring Rain\" is one of his best-known poems about parting and longing."
+ },
+ "appreciation": {
+  "zh": "全诗都笼罩在一片春雨里。最美的是第三、四句：隔着雨看红楼，楼还在，人却不在了，所以连看过去都觉得冷；雨丝被灯光照亮，像一挂挂珠帘，诗人一个人走回家。颜色有红有白，有灯光有雨丝，画面很美，心里却很孤单。后四句越想越远：想她在远方也在伤春，只能在梦里见她，想送信却不知道送到哪里。最后一只大雁飞在像网一样的云里，又小又孤单，好像那封永远寄不出的信。",
+  "en": "The whole poem is wrapped in spring rain. The finest lines are three and four. Through the rain he sees the red mansion. The building is still there but she is not, so even looking at it feels cold. Lit by the lamps, the strands of rain look like bead curtains, and he walks home alone. There is red and white, lamplight and rain, a lovely picture with a lonely heart inside it. The last four lines reach further and further away. He imagines her grieving for spring too, sees her only in dreams, and wants to send a letter but does not know where. At the end, one wild goose flies in clouds spread like a net, small and alone, like the letter that can never be sent."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "love",
+   "longing",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

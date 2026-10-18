@@ -1,0 +1,375 @@
+{
+ "id": "6d098c75-038d-45f4-8f86-73976c355e44",
+ "kind": "shi",
+ "title": "终南别业",
+ "title_en": "My Country Home at Zhongnan",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "颇",
+    "pō"
+   ],
+   [
+    "好",
+    "hào"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "陲",
+    "chuí"
+   ]
+  ],
+  [
+   [
+    "兴",
+    "xìng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "每",
+    "měi"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "往",
+    "wǎng"
+   ]
+  ],
+  [
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "偶",
+    "ǒu"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "值",
+    "zhí"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "叟",
+    "sǒu"
+   ]
+  ],
+  [
+   [
+    "谈",
+    "tán"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "好",
+   "pinyin": "hào",
+   "zh": "这里是“喜欢”的意思，读 hào。",
+   "en": "Here it means to like, read hào."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "兴",
+   "pinyin": "xìng",
+   "zh": "“兴来”是兴致来了，读 xìng。",
+   "en": "In xìng lái it means the mood or interest, read xìng."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "这里是“回家”的意思，读 huán。",
+   "en": "Here it means to go home, read huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "中岁：中年。",
+   "en": "zhōng suì: middle age."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "颇：很，相当。",
+   "en": "pō: quite, very."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "好道：喜欢佛教的道理。好，喜欢。",
+   "en": "hào dào: to love the teachings of Buddhism. Hào means to like."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "晚家：晚年把家安在。家，这里是动词，安家。",
+   "en": "wǎn jiā: in later years, to make a home. Jiā is used here as a verb."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "南山陲：终南山脚下。陲，边上。",
+   "en": "nán shān chuí: the foot of the Zhongnan Mountains. Chuí means the edge."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "兴来：兴致来了，想出去玩的时候。",
+   "en": "xìng lái: when the mood strikes."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "每：常常。",
+   "en": "měi: often."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "胜事：美好的事，指山里的美景和乐趣。",
+   "en": "shèng shì: wonderful things, the beauty and joy of the mountains."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "空自知：只有自己知道、自己欣赏。",
+   "en": "kōng zì zhī: known and enjoyed by himself alone."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "水穷处：溪水的尽头。穷，尽头。",
+   "en": "shuǐ qióng chù: the place where the stream ends. Qióng means the end."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "值：遇到。",
+   "en": "zhí: to meet by chance."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "林叟：住在山林里的老人。叟，老头儿。",
+   "en": "lín sǒu: an old man who lives in the woods. Sǒu means old man."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "无还期：忘了回家的时间。还，回家。",
+   "en": "wú huán qī: forgetting the time to go home. Huán means to return."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我到了中年，很喜欢佛理，",
+   "en": "In middle age I came to love the teachings of the Buddha;"
+  },
+  {
+   "zh": "晚年把家安在了终南山脚下。",
+   "en": "late in life I made my home at the foot of the Southern Mountains."
+  },
+  {
+   "zh": "兴致一来，我常常一个人出去走走，",
+   "en": "When the mood strikes, I often go out alone;"
+  },
+  {
+   "zh": "那些美好的事，只有我自己知道。",
+   "en": "the joys I find there, I alone know."
+  },
+  {
+   "zh": "有时走到溪水的尽头，",
+   "en": "Sometimes I walk to where the stream runs out,"
+  },
+  {
+   "zh": "就坐下来，看云朵慢慢升起。",
+   "en": "then sit and watch the clouds rise."
+  },
+  {
+   "zh": "偶尔在林子里遇到一位老人，",
+   "en": "Now and then I meet an old man of the woods,"
+  },
+  {
+   "zh": "说说笑笑，就忘了回家的时间。",
+   "en": "and we talk and laugh, forgetting when to go home."
+  }
+ ],
+ "background": {
+  "zh": "这首诗又叫《初至山中》《入山寄城中故人》。别业，就是在老家之外另外盖的房子，像今天说的别墅。王维中年以后信佛很深，后来在终南山下的辋川买了一处别墅，常在那里过隐居一样的生活。一般认为，诗里的“终南别业”就是辋川别业。这首诗写的就是他在那里自由自在的日子。",
+  "en": "This poem is also known by other titles, such as \"First Arriving in the Mountains\". A bié yè was a second house away from the main home, like a country house today. From middle age on, Wang Wei was a devoted Buddhist. He later bought a country house at Wangchuan, below the Zhongnan Mountains, and often lived there almost like a hermit. It is usually thought that the Zhongnan country house in the title is the Wangchuan house. The poem is about his free and easy days there."
+ },
+ "author_note": {
+  "zh": "王维（约701—761），字摩诘，唐代大诗人、画家，也精通音乐。他信佛，名和字合起来是“维摩诘”，这是一位佛教人物的名字。他的山水诗安静、空灵，人们叫他“诗佛”。这首诗就很能看出他悠闲、随缘的性格。",
+  "en": "Wang Wei (about 701–761), courtesy name Mojie, was a great Tang poet and painter, and he was skilled in music too. He was a Buddhist; his given name and courtesy name together make Weimojie, the name of a figure in Buddhist scripture. His poems of hills and water are quiet and airy, and people called him the Buddha of Poetry. This poem shows his easygoing nature, happy to let things come as they will."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是一种很轻松的心情。诗人想出门就出门，一个人也不觉得寂寞，山里的好东西自己欣赏就够了。第五、六句最有名：走着走着，溪水没了，路好像走到头了，他也不着急，干脆坐下来看云从山谷里升起来。这两句也让人想到一个道理：路走到尽头时，换个角度，也许就能看到新的风景。最后遇到一位山里的老人，聊得开心，连回家都忘了。整首诗没有一点急躁，读起来就像跟着他在山里慢慢散步。",
+  "en": "This poem is about a very relaxed state of mind. The poet goes out whenever he likes. Being alone does not make him lonely, and it is enough to enjoy the good things of the mountains by himself. Lines five and six are the most famous. As he walks, the stream runs out, and the path seems to end. He is not upset. He just sits down and watches the clouds rise from the valley. These lines also suggest an idea: when a road comes to an end, a change of view may show you something new. At last he meets an old man of the mountains, they chat happily, and he even forgets to go home. Nothing in the poem is in a hurry. Reading it feels like taking a slow walk with him in the hills."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "reclusion",
+   "mountain",
+   "nature",
+   "clouds",
+   "buddhism"
+  ]
+ },
+ "uncertain": []
+}

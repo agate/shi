@@ -1,0 +1,209 @@
+{
+ "id": "4bef9a5e-f4a1-44bd-a78c-cb0fe38ccdff",
+ "kind": "shi",
+ "title": "长干曲四首·其一",
+ "title_en": "Changgan Songs, No. 1",
+ "author": "崔颢",
+ "author_en": "Cui Hao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "住",
+    "zhù"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "塘",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "停",
+    "tíng"
+   ],
+   [
+    "船",
+    "chuán"
+   ],
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "或",
+    "huò"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里用《唐诗三百首》的通行文本。另有版本第一句作“君家定何处”，第三句作“停舟暂借问”，意思差不多。",
+  "en": "This uses the common text from Three Hundred Tang Poems. Another version has jūn jiā dìng hé chù (\"where exactly is your home\") in line one and tíng zhōu (\"stop the boat\", with a different word for boat) in line three. The meaning is almost the same."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "君：你，对别人客气的称呼。",
+   "en": "jūn: you, a polite way to address someone."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "妾：古时女子说自己时用的谦称，就是“我”。",
+   "en": "qiè: a humble word a woman in old times used for herself, meaning \"I\"."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "横塘：地名，在今天江苏南京一带，离长干不远。",
+   "en": "héng táng: Hengtang, a place near today's Nanjing in Jiangsu, not far from Changgan."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "暂：暂且，短短地、先。",
+   "en": "zàn: for a moment, just briefly."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "借问：请问，向人打听。",
+   "en": "jiè wèn: may I ask, to ask someone politely."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "或恐：也许，说不定。",
+   "en": "huò kǒng: perhaps, maybe."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "同乡：同一个地方的人，老乡。",
+   "en": "tóng xiāng: someone from the same hometown."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "请问你家住在哪里？",
+   "en": "May I ask where your home is?"
+  },
+  {
+   "zh": "我家住在横塘。",
+   "en": "My home is in Hengtang."
+  },
+  {
+   "zh": "我把船停下来，暂且问你一声，",
+   "en": "I stop my boat for a moment to ask you,"
+  },
+  {
+   "zh": "说不定我们还是同乡呢。",
+   "en": "because maybe we come from the same place."
+  }
+ ],
+ "background": {
+  "zh": "《长干曲》是一个乐府诗题，来自古代南京一带的民歌。长干是地名，在今天南京城南，靠近长江，那里住着很多以船为家、在江上做事的人。崔颢一共写了四首《长干曲》，这是第一首。写作的具体时间不清楚。诗里只写了一个船家姑娘向另一条船上的人搭话，像一段对白。",
+  "en": "\"Changgan Song\" is a title of yuefu, songs in the style of old folk songs, which came from the area around today's Nanjing. Changgan was a place in the south of the city, near the Yangtze River. Many people there lived on boats and worked on the river. Cui Hao wrote four Changgan Songs, and this is the first. We do not know exactly when he wrote it. The poem only shows a young woman on a boat calling out to someone on another boat, like a short piece of dialogue."
+ },
+ "author_note": {
+  "zh": "崔颢（约704—754），唐代诗人，汴州（今河南开封）人。他最有名的诗是《黄鹤楼》，据说连李白看了都佩服。他早年的诗多写女子和爱情，后来到边塞走过，诗风变得雄浑。《长干曲》学的是南方民歌，语言像说话一样自然。",
+  "en": "Cui Hao (about 704–754) was a Tang poet from Bianzhou, today's Kaifeng in Henan. His most famous poem is \"Yellow Crane Tower\"; it is said that even Li Bai admired it. His early poems were mostly about women and love. Later he travelled to the frontier, and his style grew bold and strong. His \"Changgan Songs\" copy the folk songs of the south, and the words are as natural as speech."
+ },
+ "appreciation": {
+  "zh": "这首诗没有一个字写景，也没有写人长什么样，只有一句问话和一句自我介绍。可是我们能想象出画面：宽宽的江面上，两条船慢慢靠近，一个姑娘听见对方的口音很熟悉，忍不住停下船来问一声。她先问“你家在哪儿”，还没等人回答，就急着说“我住在横塘”，又赶紧解释“说不定是同乡呢”。这几句话又直爽又有点害羞，把在外漂泊的人听到乡音时那种亲切和惊喜写得活灵活现。",
+  "en": "Not one word of this poem describes the scenery or what anyone looks like. There is only a question and a self-introduction. Yet we can picture it. On the wide river, two boats drift close. A young woman hears a voice with a familiar accent and cannot help stopping to ask. She asks \"Where is your home?\" Before the other person can answer, she rushes to say \"I live in Hengtang\", and then quickly explains, \"Maybe we are from the same place.\" Her words are frank and a little shy. They bring to life the warmth and surprise a person far from home feels on hearing the sound of home."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "boat",
+   "hometown",
+   "dialogue",
+   "folk-song"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,278 @@
+{
+ "id": "4e92a96d-aa74-4153-8314-b6df22d1e18a",
+ "kind": "shi",
+ "title": "子夜吴歌·春歌",
+ "title_en": "Midnight Songs of Wu: Spring",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "敷",
+    "fū"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "桑",
+    "sāng"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "条",
+    "tiáo"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "鲜",
+    "xiān"
+   ]
+  ],
+  [
+   [
+    "蚕",
+    "cán"
+   ],
+   [
+    "饥",
+    "jī"
+   ],
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "连",
+    "lián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "秦地：古代秦国的地方，大约是今天的陕西一带。",
+   "en": "qín dì: the old land of Qin, roughly today's Shaanxi."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "罗敷：汉代乐府诗《陌上桑》里的一位美丽女子，她在路边采桑，有官员想打她的主意，被她聪明地拒绝了。后来“罗敷”就成了美丽又有骨气的女子的代称。",
+   "en": "luó fū: Luofu, a beautiful woman in the Han folk song \"Mulberry by the Road\". An official tried to win her over while she picked mulberry leaves, and she cleverly turned him down. Her name came to stand for a woman who is lovely and firm."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "采桑：摘桑树的叶子，用来喂蚕。",
+   "en": "cǎi sāng: picking mulberry leaves to feed silkworms."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "素手：白白的手。素，白色。",
+   "en": "sù shǒu: white hands. Sù means white."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "青条：绿色的桑树枝条。",
+   "en": "qīng tiáo: the green branches of the mulberry tree."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "红妆：女子漂亮的打扮。",
+   "en": "hóng zhuāng: a young woman's pretty clothes and makeup."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "鲜：鲜艳、明亮。",
+   "en": "xiān: bright and fresh."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "妾：古代女子对自己的谦称，就是“我”。",
+   "en": "qiè: a humble word a woman used for \"I\" in old times."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "五马：汉代太守坐的车用五匹马拉，所以用“五马”指太守这样的大官。这里指那个想搭讪罗敷的官员。",
+   "en": "wǔ mǎ: five horses. In the Han dynasty a prefect's carriage was pulled by five horses, so \"five horses\" means a high official. Here it is the official who tries to chat her up."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "留连：停下来不肯走，舍不得离开。",
+   "en": "liú lián: to linger and not want to leave."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秦地有一位像罗敷一样美丽的姑娘，",
+   "en": "In the land of Qin there is a girl as lovely as Luofu."
+  },
+  {
+   "zh": "她在清清的绿水边采桑叶。",
+   "en": "She picks mulberry leaves beside the clear green water."
+  },
+  {
+   "zh": "白白的手在绿色的桑枝间忙着，",
+   "en": "Her white hands move among the green branches."
+  },
+  {
+   "zh": "鲜艳的打扮在阳光下格外明亮。",
+   "en": "Her bright clothes shine in the sunlight."
+  },
+  {
+   "zh": "“蚕饿了，我要回去了，",
+   "en": "\"My silkworms are hungry, I must go home.\""
+  },
+  {
+   "zh": "坐五马大车的老爷，您别在这里流连了。”",
+   "en": "\"Sir in your five-horse carriage, do not linger here.\""
+  }
+ ],
+ "background": {
+  "zh": "《子夜歌》是南方吴地流行的民歌曲调，传说是晋代一位叫子夜的女子创作的。后来有人按春夏秋冬写成《子夜四时歌》。李白也写了四首，这是第一首春歌。诗里的故事来自汉乐府《陌上桑》：美丽的罗敷在路边采桑，太守看上了她，被她拒绝。这首诗具体写于什么时候，现在已经说不清了。",
+  "en": "The Midnight Song was a folk tune from the Wu region in the south. Legend says a woman named Ziye of the Jin dynasty made it. Later people wrote Midnight Songs for the four seasons. Li Bai wrote four too, and this is the first, the spring song. Its story comes from the Han folk song \"Mulberry by the Road\": lovely Luofu picks mulberry leaves by the road, a prefect takes a liking to her, and she turns him down. No one knows exactly when Li Bai wrote this poem."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他很喜欢学习民歌和乐府老曲子，常常借旧题目写新诗。他的语言自然流畅，像这首诗一样，读起来像唱歌一样明快。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. He loved folk songs and old Yuefu tunes, and often wrote new poems under old titles. His language flows naturally. Like this poem, his lines read as lightly as a song."
+ },
+ "appreciation": {
+  "zh": "前四句像一幅明亮的春天图画：绿水边，绿桑枝，一双白白的手，一身红红的衣裳，在阳光下特别耀眼。颜色有绿、白、青、红，十分鲜艳。后两句姑娘开口说话：“蚕饿了，我得走了，您别在这儿耽误工夫。”话说得很客气，意思却很坚决。她不慌不忙，用干活做借口，轻轻松松拒绝了大官。短短三十个字，写出了一个又美丽、又勤劳、又有主见的姑娘。",
+  "en": "The first four lines are like a bright spring picture. Green water, green mulberry branches, a pair of white hands, and red clothes that dazzle in the sun. Green, white and red make the scene glow. In the last two lines the girl speaks: \"My silkworms are hungry, I must go. Please do not waste your time here.\" Her words are polite, but her meaning is firm. Calmly, she uses her work as a reason and turns the official away with ease. In just thirty characters we meet a girl who is lovely, hard-working and sure of her own mind."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "woman",
+   "silkworm",
+   "folk-song",
+   "integrity"
+  ]
+ },
+ "uncertain": []
+}

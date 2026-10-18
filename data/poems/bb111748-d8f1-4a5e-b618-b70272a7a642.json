@@ -1,0 +1,249 @@
+{
+ "id": "bb111748-d8f1-4a5e-b618-b70272a7a642",
+ "kind": "shi",
+ "title": "江南曲",
+ "title_en": "Song of the South",
+ "author": "李益",
+ "author_en": "Li Yi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "嫁",
+    "jià"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "瞿",
+    "qú"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "贾",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "嫁",
+    "jià"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "儿",
+    "ér"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "贾",
+   "pinyin": "gǔ",
+   "zh": "贾在这里是商人的意思，读 gǔ，不读姓氏的 jiǎ。",
+   "en": "Here this character means merchant and is read gǔ, not jiǎ as in the surname."
+  },
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝朝是天天的意思，“朝”读 zhāo（早晨），不读 cháo。",
+   "en": "Zhāo zhāo means every day. The character is read zhāo, morning, not cháo."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "同上，读 zhāo。",
+   "en": "Same as above, read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "嫁得：嫁给了。",
+   "en": "jià dé: married to."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "瞿塘：瞿塘峡，长江三峡之一，在今天的重庆奉节一带。",
+   "en": "qú táng: the Qutang Gorge, one of the Three Gorges of the Yangtze River, near today's Fengjie in Chongqing."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "贾：商人。瞿塘贾，就是在长江上来往做生意的商人。",
+   "en": "gǔ: a merchant. Here, a trader who travels up and down the Yangtze through Qutang."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "朝朝：天天。",
+   "en": "zhāo zhāo: every day."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "误：耽误，错过。",
+   "en": "wù: to miss, to let down."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "妾：古代女子对自己的谦称，就是“我”。",
+   "en": "qiè: a humble word a woman in old times used for herself, meaning I or me."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "期：约定的日子，这里指丈夫说好回家的日期。",
+   "en": "qī: the agreed date, here the day the husband promised to come home."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "潮有信：潮水涨落有固定的时间，从不失约。信，守信用、准时。",
+   "en": "cháo yǒu xìn: the tide comes and goes at set times and never breaks its word. Xìn means keeping one's word, being on time."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "与：给。",
+   "en": "yǔ: to, here meaning married to."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "弄潮儿：在潮水里游泳、玩耍或驾船的年轻人。",
+   "en": "nòng cháo ér: young men who swim, play or sail in the tide."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我嫁给了一个在瞿塘峡做生意的商人，",
+   "en": "I married a merchant who trades through the Qutang Gorge,"
+  },
+  {
+   "zh": "他天天在外，一次又一次错过回家的日子。",
+   "en": "and day after day he misses the date he promised to come home."
+  },
+  {
+   "zh": "早知道潮水来去从不失约，",
+   "en": "Had I known that the tide always keeps its time,"
+  },
+  {
+   "zh": "还不如嫁给在潮水里玩耍的年轻人。",
+   "en": "I would have married a young man who rides the tide."
+  }
+ ],
+ "background": {
+  "zh": "《江南曲》是乐府旧题，原来是江南一带的民歌，多写男女之情。李益用这个旧题，写了一个商人妻子的心事。唐代商业发达，很多商人常年在长江上来来往往，留在家里的妻子只能苦苦等待。诗人站在妻子的角度，用她自己的口气说话，写得像一首民歌。",
+  "en": "\"Song of the South\" is an old folk-song title from the south of the Yangtze, usually about love. Li Yi used this old title to tell the feelings of a merchant's wife. Trade was booming in the Tang dynasty, and many merchants spent years travelling on the Yangtze. Their wives stayed home and could only wait. The poet speaks in the wife's own voice, so the poem sounds like a folk song."
+ },
+ "author_note": {
+  "zh": "李益（746—829），字君虞，唐代诗人。他最擅长写边塞诗，七言绝句写得尤其好，比如“不知何处吹芦管，一夜征人尽望乡”。他也会学习民歌的写法，这首《江南曲》语言朴素，就像一个普通女子在说话。",
+  "en": "Li Yi (746–829), also called Junyu, was a Tang poet. He was best at frontier poems, especially seven-character quatrains, such as the one where all the soldiers look toward home when they hear a reed pipe at night. He also learned from folk songs. This poem uses plain words, just like an ordinary woman talking."
+ },
+ "appreciation": {
+  "zh": "这首诗短得像一句抱怨，却很有趣。女子嫁了一个商人，丈夫天天说回来，天天回不来。她等啊等，心里又急又气。看到江上的潮水，她忽然想：潮水每天按时来，从不骗人；早知道这样，还不如嫁给天天在潮水里玩的年轻人呢！这句话听起来像傻话、气话，其实是太想念丈夫了。诗人没有写“想念”两个字，却让人感到她的等待有多长、多苦。读的时候，可以想象一个女子站在江边，一边看潮水，一边嘟着嘴说出这番话。",
+  "en": "This poem is as short as a single complaint, and it is charming. A woman married a merchant. Every day he says he will come back, and every day he does not. She waits and waits, anxious and annoyed. Looking at the tide on the river, a thought strikes her: the tide comes on time every day and never lies. Had she known, she would have married one of the young men who play in the tide! It sounds silly, said in a temper, but really it shows how much she misses her husband. The poet never uses the word miss, yet we feel how long and hard her waiting is. Picture a woman by the river, watching the tide and grumbling these words."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "waiting",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

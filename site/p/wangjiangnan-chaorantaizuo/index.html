@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>望江南·超然台作 · 苏轼 — 诗</title>
+    <meta name="description" content="望江南·超然台作 · 苏轼 — Gazing South of the River: Written on the Chaoran Terrace by Su Shi: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>望江南·超然台作</h1>
+        <p class="by">苏轼<span class="mono"><span lang="en">Su Shi · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Gazing South of the River: Written on the Chaoran Terrace</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="0" data-p="1"><i>wèi</i><b>未</b></span><span class="c" data-l="0" data-p="2"><i>lǎo</i><b>老</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>fēng</i><b>风</b></span><span class="c" data-l="1" data-p="1"><i>xì</i><b>细</b></span><span class="c" data-l="1" data-p="2"><i>liǔ</i><b>柳</b></span><span class="c gl rd" data-l="1" data-p="3"><i>xié</i><b>斜</b></span><span class="c gl rd" data-l="1" data-p="4"><i>xié</i><b>斜</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>shì</i><b>试</b></span><span class="c" data-l="2" data-p="1"><i>shàng</i><b>上</b></span><span class="c gl" data-l="2" data-p="2"><i>chāo</i><b>超</b></span><span class="c gl" data-l="2" data-p="3"><i>rán</i><b>然</b></span><span class="c gl" data-l="2" data-p="4"><i>tái</i><b>台</b></span><span class="c" data-l="2" data-p="5"><i>shàng</i><b>上</b></span><span class="c" data-l="2" data-p="6"><i>kàn</i><b>看</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>bàn</i><b>半</b></span><span class="c gl" data-l="3" data-p="1"><i>háo</i><b>壕</b></span><span class="c" data-l="3" data-p="2"><i>chūn</i><b>春</b></span><span class="c" data-l="3" data-p="3"><i>shuǐ</i><b>水</b></span><span class="c" data-l="3" data-p="4"><i>yì</i><b>一</b></span><span class="c" data-l="3" data-p="5"><i>chéng</i><b>城</b></span><span class="c" data-l="3" data-p="6"><i>huā</i><b>花</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>yān</i><b>烟</b></span><span class="c" data-l="4" data-p="1"><i>yǔ</i><b>雨</b></span><span class="c gl" data-l="4" data-p="2"><i>àn</i><b>暗</b></span><span class="c gl" data-l="4" data-p="3"><i>qiān</i><b>千</b></span><span class="c gl" data-l="4" data-p="4"><i>jiā</i><b>家</b></span></p><p class="ln brk"><span class="c gl" data-l="5" data-p="0"><i>hán</i><b>寒</b></span><span class="c gl" data-l="5" data-p="1"><i>shí</i><b>食</b></span><span class="c" data-l="5" data-p="2"><i>hòu</i><b>后</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>jiǔ</i><b>酒</b></span><span class="c" data-l="6" data-p="1"><i>xǐng</i><b>醒</b></span><span class="c" data-l="6" data-p="2"><i>què</i><b>却</b></span><span class="c gl" data-l="6" data-p="3"><i>zī</i><b>咨</b></span><span class="c gl" data-l="6" data-p="4"><i>jiē</i><b>嗟</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>xiū</i><b>休</b></span><span class="c" data-l="7" data-p="1"><i>duì</i><b>对</b></span><span class="c gl" data-l="7" data-p="2"><i>gù</i><b>故</b></span><span class="c gl" data-l="7" data-p="3"><i>rén</i><b>人</b></span><span class="c" data-l="7" data-p="4"><i>sī</i><b>思</b></span><span class="c gl" data-l="7" data-p="5"><i>gù</i><b>故</b></span><span class="c gl" data-l="7" data-p="6"><i>guó</i><b>国</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>qiě</i><b>且</b></span><span class="c" data-l="8" data-p="1"><i>jiāng</i><b>将</b></span><span class="c gl" data-l="8" data-p="2"><i>xīn</i><b>新</b></span><span class="c gl" data-l="8" data-p="3"><i>huǒ</i><b>火</b></span><span class="c" data-l="8" data-p="4"><i>shì</i><b>试</b></span><span class="c gl" data-l="8" data-p="5"><i>xīn</i><b>新</b></span><span class="c gl" data-l="8" data-p="6"><i>chá</i><b>茶</b></span></p><p class="ln"><span class="c" data-l="9" data-p="0"><i>shī</i><b>诗</b></span><span class="c" data-l="9" data-p="1"><i>jiǔ</i><b>酒</b></span><span class="c gl" data-l="9" data-p="2"><i>chèn</i><b>趁</b></span><span class="c gl" data-l="9" data-p="3"><i>nián</i><b>年</b></span><span class="c gl" data-l="9" data-p="4"><i>huá</i><b>华</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">春未老</span><span lang="en">Spring has not yet grown old.</span><span lang="zh">春天还没有老去，</span></li><li><span class="o">风细柳斜斜</span><span lang="en">A soft breeze blows, and the willow twigs lean and sway.</span><span lang="zh">微风轻轻吹，柳条斜斜地摆动。</span></li><li><span class="o">试上超然台上看</span><span lang="en">I climb the Chaoran Terrace and look out.</span><span lang="zh">我登上超然台向远处看，</span></li><li><span class="o">半壕春水一城花</span><span lang="en">The moat is half full of spring water, and the whole town is in flower.</span><span lang="zh">护城河里涨了半河春水，满城都是花。</span></li><li><span class="o">烟雨暗千家</span><span lang="en">Misty rain dims thousands of homes.</span><span lang="zh">蒙蒙烟雨，让千家万户都暗了下来。</span></li><li class="brk"><span class="o">寒食后</span><span lang="en">After the Cold Food Festival,</span><span lang="zh">寒食节过后，</span></li><li><span class="o">酒醒却咨嗟</span><span lang="en">I sober up, and yet I cannot help sighing.</span><span lang="zh">酒醒了，我却忍不住叹气。</span></li><li><span class="o">休对故人思故国</span><span lang="en">Don&#x27;t long for home in front of old friends.</span><span lang="zh">不要在老朋友面前想念故乡了，</span></li><li><span class="o">且将新火试新茶</span><span lang="en">Let&#x27;s light the new fire and try the new tea instead.</span><span lang="zh">姑且点起新火，来煮一壶新茶吧。</span></li><li><span class="o">诗酒趁年华</span><span lang="en">Write poems and drink wine while the good years last.</span><span lang="zh">写诗喝酒，要趁着大好年华。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>斜斜<span class="mono">xié xié</span></dt><dd><span lang="en">xié xié: leaning gently, swaying lightly.</span><span lang="zh">斜斜：微微倾斜、轻轻摆动的样子。</span></dd></div><div><dt>超然台<span class="mono">chāo rán tái</span></dt><dd><span lang="en">chāo rán tái: a high terrace on the north wall of Mizhou, today&#x27;s Zhucheng in Shandong. Su Shi repaired it and his brother Su Zhe named it. Chāo rán means rising above worldly worries.</span><span lang="zh">超然台：密州（今山东诸城）城北的一座高台，苏轼修好后，他的弟弟苏辙给它取了这个名字。“超然”是不被外物烦扰的意思。</span></dd></div><div><dt>壕<span class="mono">háo</span></dt><dd><span lang="en">háo: the moat, the water dug around a city wall.</span><span lang="zh">壕：护城河，围着城墙挖的河。</span></dd></div><div><dt>暗千家<span class="mono">àn qiān jiā</span></dt><dd><span lang="en">àn qiān jiā: thousands of homes are dimmed and blurred by misty rain.</span><span lang="zh">暗千家：千家万户都被烟雨遮得暗暗的、朦朦胧胧的。</span></dd></div><div><dt>寒食<span class="mono">hán shí</span></dt><dd><span lang="en">hán shí: the Cold Food Festival, a day or two before Qingming. By custom no fires were lit and people ate only cold food.</span><span lang="zh">寒食：寒食节，在清明前一两天。这几天按习俗不生火，只吃冷的食物。</span></dd></div><div><dt>咨嗟<span class="mono">zī jiē</span></dt><dd><span lang="en">zī jiē: to sigh.</span><span lang="zh">咨嗟：叹气。</span></dd></div><div><dt>故人<span class="mono">gù rén</span></dt><dd><span lang="en">gù rén: old friends.</span><span lang="zh">故人：老朋友。</span></dd></div><div><dt>故国<span class="mono">gù guó</span></dt><dd><span lang="en">gù guó: one&#x27;s home region; here Su Shi&#x27;s hometown of Meishan, in today&#x27;s Sichuan.</span><span lang="zh">故国：故乡，这里指苏轼的家乡眉山（在今四川）。</span></dd></div><div><dt>新火<span class="mono">xīn huǒ</span></dt><dd><span lang="en">xīn huǒ: the new fire lit again after the Cold Food Festival.</span><span lang="zh">新火：寒食节过后重新点起的火。</span></dd></div><div><dt>新茶<span class="mono">xīn chá</span></dt><dd><span lang="en">xīn chá: new tea leaves picked around Qingming.</span><span lang="zh">新茶：清明前后新采的茶叶。</span></dd></div><div><dt>趁年华<span class="mono">chèn nián huá</span></dt><dd><span lang="en">chèn nián huá: while the good years and the good season last.</span><span lang="zh">趁年华：趁着大好的年纪和时光。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>斜<span class="mono">xié</span></dt><dd><span lang="en">Today it is read xié. In old pronunciation it was xiá, rhyming with huā, jiā, jiē, chá and huá.</span><span lang="zh">现在读 xié。古音读 xiá，和“花、家、嗟、茶、华”押韵。</span></dd></div><div><dt>斜<span class="mono">xié</span></dt><dd><span lang="en">Today it is read xié. In old pronunciation it was xiá, rhyming with huā, jiā, jiē, chá and huá.</span><span lang="zh">现在读 xié。古音读 xiá，和“花、家、嗟、茶、华”押韵。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In 1074 Su Shi went to Mizhou, today&#x27;s Zhucheng in Shandong, as its prefect, the head of the district. The next year he repaired an old terrace on the north side of the town, and his brother Su Zhe named it the Chaoran Terrace. This lyric is usually dated to late spring 1076, just after the Cold Food Festival. Climbing the terrace, Su Shi saw spring all over the town and thought of the home he had left long ago. Then he told himself to set the sadness down and enjoy the days in front of him.</p><p lang="zh">宋神宗熙宁七年（1074年），苏轼到密州（今山东诸城）做知州（一个州的长官）。第二年，他把城北一座旧台修好，弟弟苏辙给它取名“超然台”。一般认为这首词写于熙宁九年（1076年）暮春，寒食节刚过。苏轼登台远望，看到满城春色，想起离开很久的家乡，又劝自己放下愁思，好好过眼前的日子。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Su Shi (1037–1101), also called Dongpo, was a great writer of the Northern Song. He was a master of poems, lyrics, prose, calligraphy and painting. He was sent away from the capital many times, yet he always found a way to look on the bright side and find joy in hard days. After leaving his hometown of Meishan he seldom went back. His poems often show homesickness, and often show him easing it himself.</p><p lang="zh">苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画样样精通。他一生多次被贬到外地，但总能看得开，在苦日子里找到乐趣。他离开家乡眉山后就很少回去，诗词里常常流露思乡之情，又常常自己把它化解掉。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half is a spring scene seen from high up: a soft wind, leaning willows, a moat half full of water, a town full of flowers, and then a misty rain that wraps every home in haze. The colors move from bright to soft. The second half turns inward. After the Cold Food Festival he sobers up and starts to sigh, because he misses home. But Su Shi does not let himself stay sad. Don&#x27;t long for home in front of friends, he says; light the new fire and make a pot of new tea. The last line, about poems and wine while the good years last, speaks to himself and to every reader: good times do not wait, so enjoy them.</p><p lang="zh">上片像一幅从高处看下去的春景图：细风、斜柳、半河春水、满城鲜花，最后一场烟雨，把千家万户都罩得朦朦胧胧。颜色由明亮慢慢变得柔和。下片转到心里：寒食过后，酒醒了，人反而叹起气来，因为想家了。可苏轼不让自己一直难过，他说：别在朋友面前想家了，点起新火，煮一壶新茶吧。最后一句“诗酒趁年华”，像是对自己，也像是对每个读者说：好时光不等人，要好好享受。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/huanxisha-loujiaochuxiaoyilvxia/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>浣溪沙·楼角初销一缕霞</b></a><a href="../../p/ruihexian-shiyunnianyanying/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>瑞鹤仙·湿云黏雁影</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["春", "chūn"], ["未", "wèi"], ["老", "lǎo"]], [["风", "fēng"], ["细", "xì"], ["柳", "liǔ"], ["斜", "xié"], ["斜", "xié"]], [["试", "shì"], ["上", "shàng"], ["超", "chāo"], ["然", "rán"], ["台", "tái"], ["上", "shàng"], ["看", "kàn"]], [["半", "bàn"], ["壕", "háo"], ["春", "chūn"], ["水", "shuǐ"], ["一", "yì"], ["城", "chéng"], ["花", "huā"]], [["烟", "yān"], ["雨", "yǔ"], ["暗", "àn"], ["千", "qiān"], ["家", "jiā"]], [["寒", "hán"], ["食", "shí"], ["后", "hòu"]], [["酒", "jiǔ"], ["醒", "xǐng"], ["却", "què"], ["咨", "zī"], ["嗟", "jiē"]], [["休", "xiū"], ["对", "duì"], ["故", "gù"], ["人", "rén"], ["思", "sī"], ["故", "gù"], ["国", "guó"]], [["且", "qiě"], ["将", "jiāng"], ["新", "xīn"], ["火", "huǒ"], ["试", "shì"], ["新", "xīn"], ["茶", "chá"]], [["诗", "shī"], ["酒", "jiǔ"], ["趁", "chèn"], ["年", "nián"], ["华", "huá"]]], "glosses": [{"line": 1, "start": 3, "end": 5, "zh": "斜斜：微微倾斜、轻轻摆动的样子。", "en": "xié xié: leaning gently, swaying lightly."}, {"line": 2, "start": 2, "end": 5, "zh": "超然台：密州（今山东诸城）城北的一座高台，苏轼修好后，他的弟弟苏辙给它取了这个名字。“超然”是不被外物烦扰的意思。", "en": "chāo rán tái: a high terrace on the north wall of Mizhou, today's Zhucheng in Shandong. Su Shi repaired it and his brother Su Zhe named it. Chāo rán means rising above worldly worries."}, {"line": 3, "start": 1, "end": 2, "zh": "壕：护城河，围着城墙挖的河。", "en": "háo: the moat, the water dug around a city wall."}, {"line": 4, "start": 2, "end": 5, "zh": "暗千家：千家万户都被烟雨遮得暗暗的、朦朦胧胧的。", "en": "àn qiān jiā: thousands of homes are dimmed and blurred by misty rain."}, {"line": 5, "start": 0, "end": 2, "zh": "寒食：寒食节，在清明前一两天。这几天按习俗不生火，只吃冷的食物。", "en": "hán shí: the Cold Food Festival, a day or two before Qingming. By custom no fires were lit and people ate only cold food."}, {"line": 6, "start": 3, "end": 5, "zh": "咨嗟：叹气。", "en": "zī jiē: to sigh."}, {"line": 7, "start": 2, "end": 4, "zh": "故人：老朋友。", "en": "gù rén: old friends."}, {"line": 7, "start": 5, "end": 7, "zh": "故国：故乡，这里指苏轼的家乡眉山（在今四川）。", "en": "gù guó: one's home region; here Su Shi's hometown of Meishan, in today's Sichuan."}, {"line": 8, "start": 2, "end": 4, "zh": "新火：寒食节过后重新点起的火。", "en": "xīn huǒ: the new fire lit again after the Cold Food Festival."}, {"line": 8, "start": 5, "end": 7, "zh": "新茶：清明前后新采的茶叶。", "en": "xīn chá: new tea leaves picked around Qingming."}, {"line": 9, "start": 2, "end": 5, "zh": "趁年华：趁着大好的年纪和时光。", "en": "chèn nián huá: while the good years and the good season last."}], "readings": [{"line": 1, "pos": 3, "char": "斜", "pinyin": "xié", "zh": "现在读 xié。古音读 xiá，和“花、家、嗟、茶、华”押韵。", "en": "Today it is read xié. In old pronunciation it was xiá, rhyming with huā, jiā, jiē, chá and huá."}, {"line": 1, "pos": 4, "char": "斜", "pinyin": "xié", "zh": "现在读 xié。古音读 xiá，和“花、家、嗟、茶、华”押韵。", "en": "Today it is read xié. In old pronunciation it was xiá, rhyming with huā, jiā, jiē, chá and huá."}], "speak": ["春未老", "风细柳斜斜", "试上超然台上看", "半壕春水义城花", "烟雨暗千家", "寒食后", "酒醒却咨嗟", "休对故人思故国", "且将新火试新茶", "诗酒趁年华"], "speakTitle": "望江南，超然台作。苏轼。", "sample": "春未老"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

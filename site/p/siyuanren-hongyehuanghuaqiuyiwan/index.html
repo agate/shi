@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>思远人·红叶黄花秋意晚 · 晏几道 — 诗</title>
+    <meta name="description" content="思远人·红叶黄花秋意晚 · 晏几道 — Thinking of the One Far Away: Red Leaves, Yellow Flowers, Late Autumn by Yan Jidao: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci lyric in two stanzas</span><span lang="zh">宋词 · 词·双调</span></p>
+        <h1>思远人·红叶黄花秋意晚</h1>
+        <p class="by">晏几道<span class="mono"><span lang="en">Yan Jidao · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Thinking of the One Far Away: Red Leaves, Yellow Flowers, Late Autumn</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>hóng</i><b>红</b></span><span class="c" data-l="0" data-p="1"><i>yè</i><b>叶</b></span><span class="c gl" data-l="0" data-p="2"><i>huáng</i><b>黄</b></span><span class="c gl" data-l="0" data-p="3"><i>huā</i><b>花</b></span><span class="c gl" data-l="0" data-p="4"><i>qiū</i><b>秋</b></span><span class="c gl" data-l="0" data-p="5"><i>yì</i><b>意</b></span><span class="c gl" data-l="0" data-p="6"><i>wǎn</i><b>晚</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>qiān</i><b>千</b></span><span class="c" data-l="1" data-p="1"><i>lǐ</i><b>里</b></span><span class="c" data-l="1" data-p="2"><i>niàn</i><b>念</b></span><span class="c gl" data-l="1" data-p="3"><i>xíng</i><b>行</b></span><span class="c gl" data-l="1" data-p="4"><i>kè</i><b>客</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>fēi</i><b>飞</b></span><span class="c" data-l="2" data-p="1"><i>yún</i><b>云</b></span><span class="c" data-l="2" data-p="2"><i>guò</i><b>过</b></span><span class="c" data-l="2" data-p="3"><i>jǐn</i><b>尽</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>guī</i><b>归</b></span><span class="c gl" data-l="3" data-p="1"><i>hóng</i><b>鸿</b></span><span class="c gl" data-l="3" data-p="2"><i>wú</i><b>无</b></span><span class="c gl" data-l="3" data-p="3"><i>xìn</i><b>信</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>hé</i><b>何</b></span><span class="c" data-l="4" data-p="1"><i>chù</i><b>处</b></span><span class="c gl" data-l="4" data-p="2"><i>jì</i><b>寄</b></span><span class="c gl" data-l="4" data-p="3"><i>shū</i><b>书</b></span><span class="c gl" data-l="4" data-p="4"><i>dé</i><b>得</b></span></p><p class="ln brk"><span class="c gl" data-l="5" data-p="0"><i>lèi</i><b>泪</b></span><span class="c gl rd" data-l="5" data-p="1"><i>tán</i><b>弹</b></span><span class="c gl" data-l="5" data-p="2"><i>bú</i><b>不</b></span><span class="c gl" data-l="5" data-p="3"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="5" data-p="4"><i>lín</i><b>临</b></span><span class="c gl" data-l="5" data-p="5"><i>chuāng</i><b>窗</b></span><span class="c gl" data-l="5" data-p="6"><i>dī</i><b>滴</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>jiù</i><b>就</b></span><span class="c gl" data-l="6" data-p="1"><i>yàn</i><b>砚</b></span><span class="c gl rd" data-l="6" data-p="2"><i>xuán</i><b>旋</b></span><span class="c gl" data-l="6" data-p="3"><i>yán</i><b>研</b></span><span class="c gl" data-l="6" data-p="4"><i>mò</i><b>墨</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>jiàn</i><b>渐</b></span><span class="c" data-l="7" data-p="1"><i>xiě</i><b>写</b></span><span class="c" data-l="7" data-p="2"><i>dào</i><b>到</b></span><span class="c gl" data-l="7" data-p="3"><i>bié</i><b>别</b></span><span class="c gl" data-l="7" data-p="4"><i>lái</i><b>来</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>cǐ</i><b>此</b></span><span class="c" data-l="8" data-p="1"><i>qíng</i><b>情</b></span><span class="c" data-l="8" data-p="2"><i>shēn</i><b>深</b></span><span class="c" data-l="8" data-p="3"><i>chù</i><b>处</b></span></p><p class="ln"><span class="c gl" data-l="9" data-p="0"><i>hóng</i><b>红</b></span><span class="c gl" data-l="9" data-p="1"><i>jiān</i><b>笺</b></span><span class="c gl rd" data-l="9" data-p="2"><i>wéi</i><b>为</b></span><span class="c gl" data-l="9" data-p="3"><i>wú</i><b>无</b></span><span class="c gl" data-l="9" data-p="4"><i>sè</i><b>色</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">红叶黄花秋意晚</span><span lang="en">Red leaves, yellow flowers: autumn is growing late,</span><span lang="zh">红叶黄花，秋天已经深了，</span></li><li><span class="o">千里念行客</span><span lang="en">and I think of the traveller a thousand miles away.</span><span lang="zh">我想念着远在千里之外的游子。</span></li><li><span class="o">飞云过尽</span><span lang="en">The flying clouds have all drifted past,</span><span lang="zh">天上的云都飞过去了，</span></li><li><span class="o">归鸿无信</span><span lang="en">and the returning geese bring no news of him.</span><span lang="zh">飞回来的大雁也没带来他的消息，</span></li><li><span class="o">何处寄书得</span><span lang="en">Where can I send a letter?</span><span lang="zh">我的信又能寄到哪里去呢？</span></li><li class="brk"><span class="o">泪弹不尽临窗滴</span><span lang="en">Tears I cannot stop drip down by the window.</span><span lang="zh">眼泪弹也弹不完，靠着窗子往下滴，</span></li><li><span class="o">就砚旋研墨</span><span lang="en">I catch them in my inkstone and grind ink with them at once.</span><span lang="zh">我拿砚台接住眼泪，随即用它来磨墨。</span></li><li><span class="o">渐写到别来</span><span lang="en">Slowly I write about the time since we parted,</span><span lang="zh">渐渐写到分别以后，</span></li><li><span class="o">此情深处</span><span lang="en">and when I reach the deepest of my feelings,</span><span lang="zh">写到感情最深的地方，</span></li><li><span class="o">红笺为无色</span><span lang="en">the red letter paper has lost its colour in my tears.</span><span lang="zh">红色的信纸都被泪水湿得褪了颜色。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>黄花<span class="mono">huáng huā</span></dt><dd><span lang="en">huáng huā: chrysanthemums.</span><span lang="zh">黄花：菊花。</span></dd></div><div><dt>秋意晚<span class="mono">qiū yì wǎn</span></dt><dd><span lang="en">qiū yì wǎn: autumn is already late.</span><span lang="zh">秋意晚：秋天已经深了。</span></dd></div><div><dt>行客<span class="mono">xíng kè</span></dt><dd><span lang="en">xíng kè: a traveller far from home, here the one she misses.</span><span lang="zh">行客：出远门的人，这里指她思念的人。</span></dd></div><div><dt>归鸿<span class="mono">guī hóng</span></dt><dd><span lang="en">guī hóng: wild geese flying back. People in old times said geese could carry letters.</span><span lang="zh">归鸿：飞回来的大雁。古人说大雁能帮人传信。</span></dd></div><div><dt>无信<span class="mono">wú xìn</span></dt><dd><span lang="en">wú xìn: bringing no news.</span><span lang="zh">无信：没有带来消息。</span></dd></div><div><dt>寄书得<span class="mono">jì shū dé</span></dt><dd><span lang="en">jì shū dé: to be able to send a letter. Dé here means can.</span><span lang="zh">寄书得：能把信寄出去。得，能够。</span></dd></div><div><dt>泪弹不尽<span class="mono">lèi tán bú jìn</span></dt><dd><span lang="en">lèi tán bù jìn: tears that can never all be wiped or flicked away.</span><span lang="zh">泪弹不尽：眼泪擦也擦不完，弹也弹不完。</span></dd></div><div><dt>临窗滴<span class="mono">lín chuāng dī</span></dt><dd><span lang="en">lín chuāng dī: dripping down by the window.</span><span lang="zh">临窗滴：靠着窗子往下滴。</span></dd></div><div><dt>就砚<span class="mono">jiù yàn</span></dt><dd><span lang="en">jiù yàn: catching the tears with the inkstone. Jiù means to bring close; yàn is the stone used to grind ink.</span><span lang="zh">就砚：用砚台接着眼泪。就，凑近、靠近。砚，磨墨用的石台。</span></dd></div><div><dt>旋研墨<span class="mono">xuán yán mò</span></dt><dd><span lang="en">xuán yán mò: grinding ink with the tears right away. Xuán means at once; yán means to grind.</span><span lang="zh">旋研墨：马上就用泪水磨墨。旋，随即。研，磨。</span></dd></div><div><dt>别来<span class="mono">bié lái</span></dt><dd><span lang="en">bié lái: since we parted.</span><span lang="zh">别来：分别以后。</span></dd></div><div><dt>红笺<span class="mono">hóng jiān</span></dt><dd><span lang="en">hóng jiān: red letter paper.</span><span lang="zh">红笺：写信用的红色信纸。</span></dd></div><div><dt>为无色<span class="mono">wéi wú sè</span></dt><dd><span lang="en">wéi wú sè: losing its colour. The tears soak the red paper until its colour fades.</span><span lang="zh">为无色：变得没有颜色了。眼泪把红纸打湿，颜色也褪了。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>弹<span class="mono">tán</span></dt><dd><span lang="en">Here it means to flick away or shed, so it is read tán, not dàn.</span><span lang="zh">这里是“弹落、洒下”的意思，读 tán，不读 dàn。</span></dd></div><div><dt>旋<span class="mono">xuán</span></dt><dd><span lang="en">Here it means &quot;right away&quot;, usually read xuán. Some people read it xuàn.</span><span lang="zh">这里是“随即、马上”的意思，一般读 xuán。也有人读 xuàn。</span></dd></div><div><dt>为<span class="mono">wéi</span></dt><dd><span lang="en">Read wéi here, meaning &quot;to become&quot;. Another view takes it as &quot;because of this&quot;, read wèi.</span><span lang="zh">这里按“变成”的意思读 wéi。一说是“因此、为了这个”，读 wèi。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric speaks in the voice of a woman who misses someone far away in late autumn. Red leaves and yellow flowers show that autumn is deep. She wants to write to him but does not know where to send it, so she can only write with tears. Most people think Yan Jidao made up this tune himself, and that its name, &quot;Thinking of the One Far Away&quot;, comes from the poem&#x27;s own words about missing the traveller. The year it was written is not recorded.</p><p lang="zh">这首词借一位女子的口吻，写深秋时她思念远方的人。红叶黄花，秋意已浓，她想写信，却不知道寄到哪里，只能流着泪写。一般认为“思远人”这个词牌是晏几道自己创制的，名字就来自词里“千里念行客”的意思。具体写于哪一年，没有记载。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Jidao (about 1038 to about 1110), also called Shuyuan and Xiaoshan, came from Linchuan in today&#x27;s Fuzhou, Jiangxi. He was the youngest son of the chief minister and poet Yan Shu. Born into wealth, he saw his family decline and held only small posts all his life. His collection is called &quot;Lyrics of Xiaoshan&quot;. It is mostly about longing and parting, full of true feeling and small, heartbreaking details.</p><p lang="zh">晏几道（约1038—约1110），字叔原，号小山，抚州临川（今江西抚州）人，是宰相、词人晏殊的小儿子。他出身富贵，后来家道中落，一生只做过小官。他的词集叫《小山词》，多写相思和离别，感情真，写得细，常有让人心酸的小细节。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This lyric is short, but it holds a picture no one forgets: someone crying while writing a letter. The first stanza is about missing him in autumn. Red leaves and yellow flowers show autumn is deep. The clouds have flown off and the geese have come back, yet there is no news of him, and she does not know where to send a letter. The second stanza is the most moving. Her tears will not stop falling by the window, so she catches them in her inkstone and grinds her ink with them. The more she writes, the sadder she gets. When she reaches her deepest feelings, the tears soak the red paper until its colour fades. The poet never uses the word &quot;sorrow&quot;, yet the faded red paper says more than saying &quot;I miss you&quot; a hundred times.</p><p lang="zh">这首词很短，却有一个让人忘不掉的画面：一个人边哭边写信。上阕写秋天的思念：红叶黄花，秋深了；云飞走了，大雁回来了，却没有他的消息，信也不知道往哪里寄。下阕最动人：眼泪止不住地落在窗前，她干脆拿砚台接住眼泪，用泪水来磨墨。越写越伤心，写到最深情的地方，眼泪把红色的信纸都泡得褪了色。古人用“红笺为无色”说泪多，说情深，没有一个“愁”字，却比说一百遍“我想你”还感人。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/yingtixu-canhanzhengqibingjiu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>莺啼序·残寒正欺病酒</b></a><a href="../../p/zhegutian-yidiancanhongyujinshi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>鹧鸪天·一点残红欲尽时</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["红", "hóng"], ["叶", "yè"], ["黄", "huáng"], ["花", "huā"], ["秋", "qiū"], ["意", "yì"], ["晚", "wǎn"]], [["千", "qiān"], ["里", "lǐ"], ["念", "niàn"], ["行", "xíng"], ["客", "kè"]], [["飞", "fēi"], ["云", "yún"], ["过", "guò"], ["尽", "jǐn"]], [["归", "guī"], ["鸿", "hóng"], ["无", "wú"], ["信", "xìn"]], [["何", "hé"], ["处", "chù"], ["寄", "jì"], ["书", "shū"], ["得", "dé"]], [["泪", "lèi"], ["弹", "tán"], ["不", "bú"], ["尽", "jìn"], ["临", "lín"], ["窗", "chuāng"], ["滴", "dī"]], [["就", "jiù"], ["砚", "yàn"], ["旋", "xuán"], ["研", "yán"], ["墨", "mò"]], [["渐", "jiàn"], ["写", "xiě"], ["到", "dào"], ["别", "bié"], ["来", "lái"]], [["此", "cǐ"], ["情", "qíng"], ["深", "shēn"], ["处", "chù"]], [["红", "hóng"], ["笺", "jiān"], ["为", "wéi"], ["无", "wú"], ["色", "sè"]]], "glosses": [{"line": 0, "start": 2, "end": 4, "zh": "黄花：菊花。", "en": "huáng huā: chrysanthemums."}, {"line": 0, "start": 4, "end": 7, "zh": "秋意晚：秋天已经深了。", "en": "qiū yì wǎn: autumn is already late."}, {"line": 1, "start": 3, "end": 5, "zh": "行客：出远门的人，这里指她思念的人。", "en": "xíng kè: a traveller far from home, here the one she misses."}, {"line": 3, "start": 0, "end": 2, "zh": "归鸿：飞回来的大雁。古人说大雁能帮人传信。", "en": "guī hóng: wild geese flying back. People in old times said geese could carry letters."}, {"line": 3, "start": 2, "end": 4, "zh": "无信：没有带来消息。", "en": "wú xìn: bringing no news."}, {"line": 4, "start": 2, "end": 5, "zh": "寄书得：能把信寄出去。得，能够。", "en": "jì shū dé: to be able to send a letter. Dé here means can."}, {"line": 5, "start": 0, "end": 4, "zh": "泪弹不尽：眼泪擦也擦不完，弹也弹不完。", "en": "lèi tán bù jìn: tears that can never all be wiped or flicked away."}, {"line": 5, "start": 4, "end": 7, "zh": "临窗滴：靠着窗子往下滴。", "en": "lín chuāng dī: dripping down by the window."}, {"line": 6, "start": 0, "end": 2, "zh": "就砚：用砚台接着眼泪。就，凑近、靠近。砚，磨墨用的石台。", "en": "jiù yàn: catching the tears with the inkstone. Jiù means to bring close; yàn is the stone used to grind ink."}, {"line": 6, "start": 2, "end": 5, "zh": "旋研墨：马上就用泪水磨墨。旋，随即。研，磨。", "en": "xuán yán mò: grinding ink with the tears right away. Xuán means at once; yán means to grind."}, {"line": 7, "start": 3, "end": 5, "zh": "别来：分别以后。", "en": "bié lái: since we parted."}, {"line": 9, "start": 0, "end": 2, "zh": "红笺：写信用的红色信纸。", "en": "hóng jiān: red letter paper."}, {"line": 9, "start": 2, "end": 5, "zh": "为无色：变得没有颜色了。眼泪把红纸打湿，颜色也褪了。", "en": "wéi wú sè: losing its colour. The tears soak the red paper until its colour fades."}], "readings": [{"line": 5, "pos": 1, "char": "弹", "pinyin": "tán", "zh": "这里是“弹落、洒下”的意思，读 tán，不读 dàn。", "en": "Here it means to flick away or shed, so it is read tán, not dàn."}, {"line": 6, "pos": 2, "char": "旋", "pinyin": "xuán", "zh": "这里是“随即、马上”的意思，一般读 xuán。也有人读 xuàn。", "en": "Here it means \"right away\", usually read xuán. Some people read it xuàn."}, {"line": 9, "pos": 2, "char": "为", "pinyin": "wéi", "zh": "这里按“变成”的意思读 wéi。一说是“因此、为了这个”，读 wèi。", "en": "Read wéi here, meaning \"to become\". Another view takes it as \"because of this\", read wèi."}], "speak": ["红叶黄花秋意晚", "千里念行客", "飞云过尽", "归鸿无信", "何处寄书得", "泪坛不尽临窗滴", "就砚旋研墨", "渐写到别来", "此情深处", "红笺围无色"], "speakTitle": "思远人，红叶黄花秋意晚。晏几道。", "sample": "红叶黄花秋意晚"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

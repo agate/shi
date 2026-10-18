@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>踏莎行·祖席离歌 · 晏殊 — 诗</title>
+    <meta name="description" content="踏莎行·祖席离歌 · 晏殊 — Treading on Sedge: Farewell Songs at the Parting Feast by Yan Shu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci lyric to the tune Ta Suo Xing, in two stanzas</span><span lang="zh">宋词 · 词·踏莎行（双调）</span></p>
+        <h1>踏莎行·祖席离歌</h1>
+        <p class="by">晏殊<span class="mono"><span lang="en">Yan Shu · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Treading on Sedge: Farewell Songs at the Parting Feast</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>zǔ</i><b>祖</b></span><span class="c gl" data-l="0" data-p="1"><i>xí</i><b>席</b></span><span class="c gl" data-l="0" data-p="2"><i>lí</i><b>离</b></span><span class="c gl" data-l="0" data-p="3"><i>gē</i><b>歌</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>cháng</i><b>长</b></span><span class="c gl" data-l="1" data-p="1"><i>tíng</i><b>亭</b></span><span class="c" data-l="1" data-p="2"><i>bié</i><b>别</b></span><span class="c" data-l="1" data-p="3"><i>yàn</i><b>宴</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>xiāng</i><b>香</b></span><span class="c gl" data-l="2" data-p="1"><i>chén</i><b>尘</b></span><span class="c gl" data-l="2" data-p="2"><i>yǐ</i><b>已</b></span><span class="c gl" data-l="2" data-p="3"><i>gé</i><b>隔</b></span><span class="c gl" data-l="2" data-p="4"><i>yóu</i><b>犹</b></span><span class="c gl" data-l="2" data-p="5"><i>huí</i><b>回</b></span><span class="c gl" data-l="2" data-p="6"><i>miàn</i><b>面</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>jū</i><b>居</b></span><span class="c gl" data-l="3" data-p="1"><i>rén</i><b>人</b></span><span class="c" data-l="3" data-p="2"><i>pǐ</i><b>匹</b></span><span class="c" data-l="3" data-p="3"><i>mǎ</i><b>马</b></span><span class="c gl" data-l="3" data-p="4"><i>yìng</i><b>映</b></span><span class="c gl" data-l="3" data-p="5"><i>lín</i><b>林</b></span><span class="c gl" data-l="3" data-p="6"><i>sī</i><b>嘶</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>xíng</i><b>行</b></span><span class="c gl" data-l="4" data-p="1"><i>rén</i><b>人</b></span><span class="c gl" data-l="4" data-p="2"><i>qù</i><b>去</b></span><span class="c gl" data-l="4" data-p="3"><i>zhào</i><b>棹</b></span><span class="c gl" data-l="4" data-p="4"><i>yī</i><b>依</b></span><span class="c gl" data-l="4" data-p="5"><i>bō</i><b>波</b></span><span class="c gl" data-l="4" data-p="6"><i>zhuǎn</i><b>转</b></span></p><p class="ln brk"><span class="c gl" data-l="5" data-p="0"><i>huà</i><b>画</b></span><span class="c gl" data-l="5" data-p="1"><i>gé</i><b>阁</b></span><span class="c gl" data-l="5" data-p="2"><i>hún</i><b>魂</b></span><span class="c gl" data-l="5" data-p="3"><i>xiāo</i><b>消</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>gāo</i><b>高</b></span><span class="c" data-l="6" data-p="1"><i>lóu</i><b>楼</b></span><span class="c gl" data-l="6" data-p="2"><i>mù</i><b>目</b></span><span class="c gl" data-l="6" data-p="3"><i>duàn</i><b>断</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>xié</i><b>斜</b></span><span class="c" data-l="7" data-p="1"><i>yáng</i><b>阳</b></span><span class="c gl" data-l="7" data-p="2"><i>zhǐ</i><b>只</b></span><span class="c gl" data-l="7" data-p="3"><i>sòng</i><b>送</b></span><span class="c gl" data-l="7" data-p="4"><i>píng</i><b>平</b></span><span class="c gl" data-l="7" data-p="5"><i>bō</i><b>波</b></span><span class="c" data-l="7" data-p="6"><i>yuǎn</i><b>远</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>wú</i><b>无</b></span><span class="c" data-l="8" data-p="1"><i>qióng</i><b>穷</b></span><span class="c" data-l="8" data-p="2"><i>wú</i><b>无</b></span><span class="c" data-l="8" data-p="3"><i>jìn</i><b>尽</b></span><span class="c" data-l="8" data-p="4"><i>shì</i><b>是</b></span><span class="c" data-l="8" data-p="5"><i>lí</i><b>离</b></span><span class="c" data-l="8" data-p="6"><i>chóu</i><b>愁</b></span></p><p class="ln"><span class="c gl" data-l="9" data-p="0"><i>tiān</i><b>天</b></span><span class="c gl" data-l="9" data-p="1"><i>yá</i><b>涯</b></span><span class="c gl" data-l="9" data-p="2"><i>dì</i><b>地</b></span><span class="c gl" data-l="9" data-p="3"><i>jiǎo</i><b>角</b></span><span class="c gl" data-l="9" data-p="4"><i>xún</i><b>寻</b></span><span class="c gl" data-l="9" data-p="5"><i>sī</i><b>思</b></span><span class="c gl" data-l="9" data-p="6"><i>biàn</i><b>遍</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">祖席离歌</span><span lang="en">At the farewell feast, parting songs are sung,</span><span lang="zh">送别的酒席上唱起离别的歌，</span></li><li><span class="o">长亭别宴</span><span lang="en">a goodbye banquet laid out at the roadside pavilion.</span><span lang="zh">在长亭摆下告别的宴席。</span></li><li><span class="o">香尘已隔犹回面</span><span lang="en">The rising dust already comes between us, yet he still turns back to look.</span><span lang="zh">扬起的尘土已经把人隔开，他还在回头张望。</span></li><li><span class="o">居人匹马映林嘶</span><span lang="en">The horse of the one staying behind neighs by the trees,</span><span lang="zh">送行人骑的马在树林边嘶叫，</span></li><li><span class="o">行人去棹依波转</span><span lang="en">while the traveler&#x27;s boat follows the waves around the bend and away.</span><span lang="zh">远行人坐的船顺着水波转弯远去。</span></li><li class="brk"><span class="o">画阁魂消</span><span lang="en">In the painted room, the heart is broken;</span><span lang="zh">在彩画的楼阁里伤心得失了魂，</span></li><li><span class="o">高楼目断</span><span lang="en">from the tall tower, one looks until the eyes can go no farther.</span><span lang="zh">登上高楼望到看不见为止。</span></li><li><span class="o">斜阳只送平波远</span><span lang="en">The setting sun only lights the calm water stretching far away.</span><span lang="zh">夕阳只是照着平静的水面一直伸向远方。</span></li><li><span class="o">无穷无尽是离愁</span><span lang="en">What has no end at all is the sorrow of parting;</span><span lang="zh">没有尽头的，是这离别的愁苦，</span></li><li><span class="o">天涯地角寻思遍</span><span lang="en">the longing goes everywhere, to the ends of the earth.</span><span lang="zh">思念跟着他，想遍了天涯海角。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>祖席<span class="mono">zǔ xí</span></dt><dd><span lang="en">zǔ xí: a farewell feast. In old times people made an offering to the god of roads before a journey, called zǔ, so a send-off feast was named after it.</span><span lang="zh">祖席：送别时摆的酒席。古人出远门前要祭路神，叫“祖”，后来送行的酒宴也叫祖席。</span></dd></div><div><dt>离歌<span class="mono">lí gē</span></dt><dd><span lang="en">lí gē: songs sung at a parting.</span><span lang="zh">离歌：送别时唱的歌。</span></dd></div><div><dt>长亭<span class="mono">cháng tíng</span></dt><dd><span lang="en">cháng tíng: a roadside pavilion where travelers rested. People often said goodbye there.</span><span lang="zh">长亭：古时路边供行人歇脚的亭子，常常在这里送别。</span></dd></div><div><dt>香尘<span class="mono">xiāng chén</span></dt><dd><span lang="en">xiāng chén: the dust kicked up by the cart and horses. Calling it fragrant is just a pretty way of speaking.</span><span lang="zh">香尘：车马走过扬起的尘土。说它“香”，是一种美称。</span></dd></div><div><dt>已隔<span class="mono">yǐ gé</span></dt><dd><span lang="en">yǐ gé: already cut off by the dust, hard to see.</span><span lang="zh">已隔：已经被尘土隔开，看不清了。</span></dd></div><div><dt>犹回面<span class="mono">yóu huí miàn</span></dt><dd><span lang="en">yóu huí miàn: still turning back to look. Yóu means still; huí miàn means turning one&#x27;s face back.</span><span lang="zh">犹回面：还在回头张望。犹，还；回面，回过头来。</span></dd></div><div><dt>居人<span class="mono">jū rén</span></dt><dd><span lang="en">jū rén: the one who stays behind, the one seeing someone off.</span><span lang="zh">居人：留下来的人，就是送行的人。</span></dd></div><div><dt>映林嘶<span class="mono">yìng lín sī</span></dt><dd><span lang="en">yìng lín sī: the horse neighs among the trees, half hidden and half seen.</span><span lang="zh">映林嘶：马在树林那边嘶叫，人影被树林遮着，时隐时现。</span></dd></div><div><dt>行人<span class="mono">xíng rén</span></dt><dd><span lang="en">xíng rén: the one leaving on the journey.</span><span lang="zh">行人：出远门的人。</span></dd></div><div><dt>去棹<span class="mono">qù zhào</span></dt><dd><span lang="en">qù zhào: the boat going away. Zhào is an oar, and here it stands for the boat.</span><span lang="zh">去棹：远去的船。棹，划船的桨，这里代指船。</span></dd></div><div><dt>依波转<span class="mono">yī bō zhuǎn</span></dt><dd><span lang="en">yī bō zhuǎn: following the waves around the bend, slowly out of sight.</span><span lang="zh">依波转：顺着水波转弯，渐渐看不见了。</span></dd></div><div><dt>画阁<span class="mono">huà gé</span></dt><dd><span lang="en">huà gé: a painted, decorated upper room.</span><span lang="zh">画阁：有彩画装饰的楼阁。</span></dd></div><div><dt>魂消<span class="mono">hún xiāo</span></dt><dd><span lang="en">hún xiāo: so sad it is as if one&#x27;s soul has melted away.</span><span lang="zh">魂消：伤心得像丢了魂一样。</span></dd></div><div><dt>目断<span class="mono">mù duàn</span></dt><dd><span lang="en">mù duàn: looking until the eyes can see no farther.</span><span lang="zh">目断：望到眼睛看不见的地方为止，望穿了眼。</span></dd></div><div><dt>只送<span class="mono">zhǐ sòng</span></dt><dd><span lang="en">zhǐ sòng: only seeing it off, as if nothing can be kept.</span><span lang="zh">只送：只是送着，好像什么也留不住。</span></dd></div><div><dt>平波<span class="mono">píng bō</span></dt><dd><span lang="en">píng bō: the calm surface of the water.</span><span lang="zh">平波：平静的水面。</span></dd></div><div><dt>天涯地角<span class="mono">tiān yá dì jiǎo</span></dt><dd><span lang="en">tiān yá dì jiǎo: the edge of the sky and the corner of the earth, meaning the farthest places.</span><span lang="zh">天涯地角：天的边上、地的尽头，指非常远的地方。</span></dd></div><div><dt>寻思遍<span class="mono">xún sī biàn</span></dt><dd><span lang="en">xún sī biàn: thinking of every place. The longing follows the traveler everywhere. Xún sī means to think over, to miss.</span><span lang="zh">寻思遍：想遍了，思念跟着去到每一个地方。寻思，想念、琢磨。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This ci is about seeing someone off. We no longer know who it was for or what year it was written. The first stanza shows the moment of parting: the feast ends, the horses raise dust, and the boat drifts away on the water. The second stanza shows what happens after: the one left behind climbs a tower to look into the distance. One reading says the second stanza is about a woman waiting at home. Others think it is the poet himself, who saw his friend off.</p><p lang="zh">这是一首写送别的词，具体写给谁、写在哪一年，已经说不清了。上片写分别的那一刻：酒席散了，车马扬起尘土，船也顺水走远。下片写人走以后，留下的人登楼远望。一说下片写的是一位在家等候的女子，也有人认为写的就是送行的词人自己。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Shu (991–1055) was a Northern Song ci poet who rose to be chief minister. As a boy he was a famous child prodigy and was sent to the court in his early teens. His ci are gentle and graceful. He often wrote about quiet sadness and parting, without strong words, keeping his feelings soft and hidden. His son Yan Jidao was also a famous ci poet.</p><p lang="zh">晏殊（991—1055），北宋词人，做官做到宰相。他从小就是有名的“神童”，十几岁就被推荐进朝廷。他的词温和雅致，常写闲愁和离别，不用激烈的词句，愁也写得很含蓄。他的儿子晏几道也是著名词人。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This ci is like a camera slowly pulling back. First we see the feast and hear the songs, and the friend is still close. Then the dust rises and he can hardly be seen, but he still looks back. Then a horse neighs by the trees and a boat turns a bend in the river, and the two drift farther and farther apart. In the second stanza the camera stops on a tall tower. Someone looks and looks, but sees only the setting sun on the calm water reaching into the distance. The last two lines say it plainly: this sorrow of parting has no end, and the heart follows him to the ends of the earth. The farther the scene goes, the longer the feeling grows.</p><p lang="zh">这首词像一组慢慢拉远的镜头。先是酒席、歌声，人还在眼前；接着车马扬尘，人已经看不清，却还在回头；然后马在林边叫，船在水上转弯，两个人越离越远。到了下片，镜头停在高楼上：人望了又望，只看见夕阳照着平静的水面一直铺向远方。最后两句把愁说透了：这份离愁没有尽头，心跟着那个人走遍了天涯海角。景越远，情越长。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/xiechichun-canhanxiaojin/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>谢池春·残寒销尽</b></a><a href="../../p/huafan-yongmei/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>花犯·咏梅</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["祖", "zǔ"], ["席", "xí"], ["离", "lí"], ["歌", "gē"]], [["长", "cháng"], ["亭", "tíng"], ["别", "bié"], ["宴", "yàn"]], [["香", "xiāng"], ["尘", "chén"], ["已", "yǐ"], ["隔", "gé"], ["犹", "yóu"], ["回", "huí"], ["面", "miàn"]], [["居", "jū"], ["人", "rén"], ["匹", "pǐ"], ["马", "mǎ"], ["映", "yìng"], ["林", "lín"], ["嘶", "sī"]], [["行", "xíng"], ["人", "rén"], ["去", "qù"], ["棹", "zhào"], ["依", "yī"], ["波", "bō"], ["转", "zhuǎn"]], [["画", "huà"], ["阁", "gé"], ["魂", "hún"], ["消", "xiāo"]], [["高", "gāo"], ["楼", "lóu"], ["目", "mù"], ["断", "duàn"]], [["斜", "xié"], ["阳", "yáng"], ["只", "zhǐ"], ["送", "sòng"], ["平", "píng"], ["波", "bō"], ["远", "yuǎn"]], [["无", "wú"], ["穷", "qióng"], ["无", "wú"], ["尽", "jìn"], ["是", "shì"], ["离", "lí"], ["愁", "chóu"]], [["天", "tiān"], ["涯", "yá"], ["地", "dì"], ["角", "jiǎo"], ["寻", "xún"], ["思", "sī"], ["遍", "biàn"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "祖席：送别时摆的酒席。古人出远门前要祭路神，叫“祖”，后来送行的酒宴也叫祖席。", "en": "zǔ xí: a farewell feast. In old times people made an offering to the god of roads before a journey, called zǔ, so a send-off feast was named after it."}, {"line": 0, "start": 2, "end": 4, "zh": "离歌：送别时唱的歌。", "en": "lí gē: songs sung at a parting."}, {"line": 1, "start": 0, "end": 2, "zh": "长亭：古时路边供行人歇脚的亭子，常常在这里送别。", "en": "cháng tíng: a roadside pavilion where travelers rested. People often said goodbye there."}, {"line": 2, "start": 0, "end": 2, "zh": "香尘：车马走过扬起的尘土。说它“香”，是一种美称。", "en": "xiāng chén: the dust kicked up by the cart and horses. Calling it fragrant is just a pretty way of speaking."}, {"line": 2, "start": 2, "end": 4, "zh": "已隔：已经被尘土隔开，看不清了。", "en": "yǐ gé: already cut off by the dust, hard to see."}, {"line": 2, "start": 4, "end": 7, "zh": "犹回面：还在回头张望。犹，还；回面，回过头来。", "en": "yóu huí miàn: still turning back to look. Yóu means still; huí miàn means turning one's face back."}, {"line": 3, "start": 0, "end": 2, "zh": "居人：留下来的人，就是送行的人。", "en": "jū rén: the one who stays behind, the one seeing someone off."}, {"line": 3, "start": 4, "end": 7, "zh": "映林嘶：马在树林那边嘶叫，人影被树林遮着，时隐时现。", "en": "yìng lín sī: the horse neighs among the trees, half hidden and half seen."}, {"line": 4, "start": 0, "end": 2, "zh": "行人：出远门的人。", "en": "xíng rén: the one leaving on the journey."}, {"line": 4, "start": 2, "end": 4, "zh": "去棹：远去的船。棹，划船的桨，这里代指船。", "en": "qù zhào: the boat going away. Zhào is an oar, and here it stands for the boat."}, {"line": 4, "start": 4, "end": 7, "zh": "依波转：顺着水波转弯，渐渐看不见了。", "en": "yī bō zhuǎn: following the waves around the bend, slowly out of sight."}, {"line": 5, "start": 0, "end": 2, "zh": "画阁：有彩画装饰的楼阁。", "en": "huà gé: a painted, decorated upper room."}, {"line": 5, "start": 2, "end": 4, "zh": "魂消：伤心得像丢了魂一样。", "en": "hún xiāo: so sad it is as if one's soul has melted away."}, {"line": 6, "start": 2, "end": 4, "zh": "目断：望到眼睛看不见的地方为止，望穿了眼。", "en": "mù duàn: looking until the eyes can see no farther."}, {"line": 7, "start": 2, "end": 4, "zh": "只送：只是送着，好像什么也留不住。", "en": "zhǐ sòng: only seeing it off, as if nothing can be kept."}, {"line": 7, "start": 4, "end": 6, "zh": "平波：平静的水面。", "en": "píng bō: the calm surface of the water."}, {"line": 9, "start": 0, "end": 4, "zh": "天涯地角：天的边上、地的尽头，指非常远的地方。", "en": "tiān yá dì jiǎo: the edge of the sky and the corner of the earth, meaning the farthest places."}, {"line": 9, "start": 4, "end": 7, "zh": "寻思遍：想遍了，思念跟着去到每一个地方。寻思，想念、琢磨。", "en": "xún sī biàn: thinking of every place. The longing follows the traveler everywhere. Xún sī means to think over, to miss."}], "readings": [], "speak": ["祖席离歌", "长亭别宴", "香尘已隔犹回面", "居人匹马映林嘶", "行人去棹依波转", "画阁魂消", "高楼目断", "斜阳只送平波远", "无穷无尽是离愁", "天涯地角循思遍"], "speakTitle": "踏莎行，祖席离歌。晏殊。", "sample": "祖席离歌"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

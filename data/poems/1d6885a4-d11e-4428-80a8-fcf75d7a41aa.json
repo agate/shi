@@ -1,0 +1,366 @@
+{
+ "id": "1d6885a4-d11e-4428-80a8-fcf75d7a41aa",
+ "kind": "shi",
+ "title": "春宫怨",
+ "title_en": "Spring Lament in the Palace",
+ "author": "杜荀鹤",
+ "author_en": "Du Xunhe",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "婵",
+    "chán"
+   ],
+   [
+    "娟",
+    "juān"
+   ],
+   [
+    "误",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "慵",
+    "yōng"
+   ]
+  ],
+  [
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "恩",
+    "ēn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "貌",
+    "mào"
+   ]
+  ],
+  [
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "容",
+    "róng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "碎",
+    "suì"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "重",
+    "zhòng"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "芙",
+    "fú"
+   ],
+   [
+    "蓉",
+    "róng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "“教”是“让、使”的意思，今天一般读 jiào。按律诗平仄这里该是平声，古人读 jiāo。",
+   "en": "Here this means \"to make, to let\" and is usually read jiào today. The tone pattern wants a level tone here, so in old times it was read jiāo."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "“若为”是“怎么、如何”的意思，“为”读 wéi。",
+   "en": "Ruò wéi means \"how\", so this is read wéi."
+  },
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "zhòng",
+   "zh": "“重”这里一般读 zhòng，指花影浓密；一说读 chóng，指花影层层叠叠。",
+   "en": "This is usually read zhòng, meaning thick and heavy shadows. Another view reads it chóng, meaning shadows layered one on another."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "婵娟：美好的容貌。",
+   "en": "chán juān: beauty, a lovely face."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "误：耽误，害了。",
+   "en": "wù: to ruin, to lead astray."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "欲妆：想要梳妆打扮。",
+   "en": "yù zhuāng: wanting to put on makeup and do her hair."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "慵：懒，没精神。",
+   "en": "yōng: lazy, listless, without spirit."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "承恩：得到皇帝的宠爱。",
+   "en": "chéng ēn: to win the emperor's favor."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "妾：古代女子对自己的谦称，就是“我”。",
+   "en": "qiè: a humble word a woman used for \"I\" in old times."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "若为容：怎么打扮。容，打扮。",
+   "en": "ruò wéi róng: how to make herself look nice. Róng means to dress up."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "碎：细碎，鸟叫声又多又杂。",
+   "en": "suì: broken into bits, the many small sounds of chirping birds."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "越溪女：越溪边的姑娘。越溪，传说是西施洗纱的溪水，在今天浙江。这里指她进宫前一起玩的女伴。",
+   "en": "yuè xī nǚ: girls of the Yue Creek. Legend says the great beauty Xi Shi washed silk in this creek, in today's Zhejiang. Here it means the girls she played with before entering the palace."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "芙蓉：荷花。",
+   "en": "fú róng: lotus flowers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我早年就被自己的美貌耽误了，",
+   "en": "Long ago my beauty led me astray;"
+  },
+  {
+   "zh": "想梳妆，对着镜子却懒得动手。",
+   "en": "I want to make myself up, but at the mirror I lose heart."
+  },
+  {
+   "zh": "得到皇帝宠爱，不在于长得好看，",
+   "en": "Winning the emperor's favor does not depend on looks,"
+  },
+  {
+   "zh": "那叫我怎么打扮才好呢？",
+   "en": "so how should I dress myself up?"
+  },
+  {
+   "zh": "春风暖和，鸟叫声细细碎碎；",
+   "en": "The wind is warm, and the birds chirp in tiny bits;"
+  },
+  {
+   "zh": "太阳升高，花影浓浓地铺在地上。",
+   "en": "the sun is high, and the flowers cast thick shadows."
+  },
+  {
+   "zh": "我想起每年越溪边的女伴们，",
+   "en": "I think of the girls by the Yue Creek each year,"
+  },
+  {
+   "zh": "想起我们一起采荷花的日子。",
+   "en": "and of the days we picked lotus flowers together."
+  }
+ ],
+ "background": {
+  "zh": "这是一首宫怨诗，写一位宫女的苦闷。古代皇宫里有很多宫女，大多数一辈子也见不到皇帝，只能在深宫里孤独终老。作者有不同说法：通行的《唐诗三百首》署名杜荀鹤，欧阳修的《六一诗话》却说是周朴写的。很多人认为，诗人也借宫女不受重用，说自己有才华却得不到赏识。",
+  "en": "This is a palace lament, about the sorrow of a palace maid. The old palaces held many maids, and most never even saw the emperor. They grew old there alone. Sources differ on the author. The common Three Hundred Tang Poems gives it to Du Xunhe, but Ouyang Xiu's Remarks on Poetry says Zhou Pu wrote it. Many readers think the poet also uses the maid to speak of himself: a man of talent whom no one values."
+ },
+ "author_note": {
+  "zh": "杜荀鹤（846—904），晚唐诗人，出身贫寒，考了很多次才考中进士。他的诗语言通俗，常写百姓的苦难，也写自己怀才不遇。周朴是同一时期的诗人，一生隐居，没有做官。",
+  "en": "Du Xunhe (846–904) was a poet of the late Tang. He was born poor and passed the imperial exam only after many tries. His poems use plain words, often tell of the suffering of ordinary people, and also of his own talent going unused. Zhou Pu lived at the same time; he spent his life as a hermit and never held office."
+ },
+ "appreciation": {
+  "zh": "开头一句就很特别：美貌本是好事，她却说自己被美貌“误”了，因为长得美才被选进宫，从此困在深宫。她想打扮，却提不起精神，因为她明白，得宠不靠长相，打扮了也没用。后面笔锋一转写春景：风暖了，鸟儿叽叽喳喳，太阳高照，花影重重。春天这么热闹，更显出她的寂寞。最后她想起家乡的女伴，每年一起采荷花，那时多么自由快乐。“风暖鸟声碎，日高花影重”是有名的写景名句。",
+  "en": "The first line is striking. Beauty should be a gift, but she says her beauty ruined her. Because she was lovely she was chosen for the palace, and now she is trapped there. She wants to make herself up but has no heart for it. She knows the emperor's favor does not depend on looks, so dressing up is no use. Then the poem turns to spring. The wind is warm, birds chatter, the sun is high, and flower shadows lie thick. Spring is so lively that it makes her loneliness stand out even more. At last she remembers the girls back home, picking lotus every year, when she was free and happy. The lines about the warm wind and the flower shadows are famous for their picture of spring."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "lament",
+   "beauty",
+   "memory"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "作者有争议：底本署名周朴，欧阳修《六一诗话》也说是周朴所作；通行的《唐诗三百首》署名杜荀鹤。这里按通行本署名杜荀鹤。",
+   "en": "The author is disputed. The source text gives Zhou Pu, and Ouyang Xiu's Remarks on Poetry also names Zhou Pu, while the common Three Hundred Tang Poems gives Du Xunhe. We follow the common edition."
+  },
+  {
+   "field": "author_note",
+   "zh": "杜荀鹤的生卒年（846—904）是通行说法，但不完全确定。",
+   "en": "Du Xunhe's dates (846–904) are the usual ones but are not fully certain."
+  }
+ ]
+}

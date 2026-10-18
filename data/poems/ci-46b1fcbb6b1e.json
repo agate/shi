@@ -1,0 +1,830 @@
+{
+ "id": "ci-46b1fcbb6b1e",
+ "kind": "ci",
+ "title": "湘春夜月·近清明",
+ "title_en": "Xiang Chun Ye Yue: Near Qingming",
+ "author": "黄孝迈",
+ "author_en": "Huang Xiaomai",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《湘春夜月》，双调",
+  "en": "ci to the tune Xiang Chun Ye Yue, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "禽",
+    "qín"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "歌",
+    "gē"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "付",
+    "fù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "诉",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "薄",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "旅",
+    "lǚ"
+   ],
+   [
+    "宿",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "柔",
+    "róu"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "温",
+    "wēn"
+   ],
+   [
+    "存",
+    "cún"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "樽",
+    "zūn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "泣",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "摇",
+    "yáo"
+   ],
+   [
+    "荡",
+    "dàng"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "短",
+    "duǎn"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "甚",
+    "shén"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "根",
+    "gēn"
+   ]
+  ],
+  [
+   [
+    "这",
+    "zhè"
+   ],
+   [
+    "次",
+    "cì"
+   ],
+   [
+    "第",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "没",
+    "méi"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "并",
+    "bīng"
+   ],
+   [
+    "刀",
+    "dāo"
+   ]
+  ],
+  [
+   [
+    "翦",
+    "jiǎn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "痕",
+    "hén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“轻薄”是轻浮的意思，“薄”读 bó。",
+   "en": "In qīng bó, light and flighty, this character is read bó."
+  },
+  {
+   "line": 17,
+   "pos": 1,
+   "char": "甚",
+   "pinyin": "shén",
+   "zh": "“甚时”是什么时候，“甚”在这里同“什么”的“什”，读 shén。",
+   "en": "In shén shí, what time, this character means what and is read shén."
+  },
+  {
+   "line": 17,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重见”是再见，“重”读 chóng。",
+   "en": "In chóng jiàn, to see again, this character is read chóng."
+  },
+  {
+   "line": 19,
+   "pos": 5,
+   "char": "并",
+   "pinyin": "bīng",
+   "zh": "“并刀”是并州出产的刀剪，并州的“并”读 bīng。",
+   "en": "Bīng dāo are blades made in Bingzhou. In the place name, this character is read bīng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "清明：清明节，在每年四月初，春天正盛的时候。",
+   "en": "qīng míng: the Qingming festival, in early April, at the height of spring."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "翠禽：羽毛青绿色的小鸟。",
+   "en": "cuì qín: a small bird with green feathers."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "消魂：形容非常伤心，好像魂都没了。",
+   "en": "xiāo hún: so sad that one seems to lose one's soul."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "清歌：清脆好听的歌声。",
+   "en": "qīng gē: a clear, sweet song."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "付与：交给。",
+   "en": "fù yǔ: to hand over to."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "欲共：想要和……一起。",
+   "en": "yù gòng: to want to, together with."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "柳花：柳絮，柳树的种子，带着白色的绒毛，到处飘飞。",
+   "en": "liǔ huā: willow catkins, the willow's seeds with white fluff that float everywhere."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "低诉：轻声诉说。",
+   "en": "dī sù: to tell in a low voice."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "轻薄：轻浮，不庄重。柳絮轻飘飘的，所以这样说。",
+   "en": "qīng bó: light and flighty. Catkins float so lightly, hence the word."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "不解：不懂得。",
+   "en": "bù jiě: does not understand."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "伤春：因为春天将尽而伤心。",
+   "en": "shāng chūn: to feel sad that spring is ending."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "楚乡：楚地，古代楚国一带，大约是今天的湖南、湖北。",
+   "en": "chǔ xiāng: the land of Chu, the old state of Chu, roughly today's Hunan and Hubei."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "旅宿：在旅途中住宿。",
+   "en": "lǚ sù: staying overnight on a journey."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "别绪：离别的愁思。",
+   "en": "bié xù: the sad thoughts of parting."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "温存：温柔地安慰、体贴。",
+   "en": "wēn cún: to comfort gently."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "空樽：空了的酒杯。",
+   "en": "kōng zūn: an empty wine cup."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "夜泣：夜里哭泣。",
+   "en": "yè qì: to weep at night."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "当门：正对着门。",
+   "en": "dāng mén: right at the door."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "翠玉楼：华美的楼，指心上人住过的地方。",
+   "en": "cuì yù lóu: a beautiful tower; where the loved one once lived."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "惟是：只是。",
+   "en": "wéi shì: only."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 7,
+   "zh": "一波湘水：一片湘江的水。湘江是湖南的大河。有的本子写作“一陂”。",
+   "en": "yī bō xiāng shuǐ: a stretch of the Xiang River, the great river of Hunan. Some editions write a different word meaning a pond."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "摇荡湘云：湘江上的云影在水里摇晃。",
+   "en": "yáo dàng xiāng yún: the clouds over the Xiang rocking in the water."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "甚时：什么时候。",
+   "en": "shén shí: what time, when."
+  },
+  {
+   "line": 17,
+   "start": 5,
+   "end": 7,
+   "zh": "桃根：东晋王献之的爱妾桃叶有个妹妹叫桃根。这里借指心上人。",
+   "en": "táo gēn: Taogen was the sister of Taoye, a beloved companion of Wang Xianzhi in the Jin dynasty. Here it stands for the loved one."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 3,
+   "zh": "这次第：这种情形，这光景。",
+   "en": "zhè cì dì: this situation, this state of things."
+  },
+  {
+   "line": 19,
+   "start": 3,
+   "end": 5,
+   "zh": "没个：没有一把。",
+   "en": "méi gè: there is not one."
+  },
+  {
+   "line": 19,
+   "start": 5,
+   "end": 7,
+   "zh": "并刀：并州（今山西太原一带）出产的剪刀，以锋利出名。",
+   "en": "bīng dāo: scissors from Bingzhou, around today's Taiyuan in Shanxi, famous for being sharp."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "翦断：剪断。翦，同“剪”。",
+   "en": "jiǎn duàn: to cut off. This form of the character is an old way of writing jiǎn, to cut."
+  },
+  {
+   "line": 20,
+   "start": 4,
+   "end": 6,
+   "zh": "愁痕：愁留在心上的痕迹。",
+   "en": "chóu hén: the marks sorrow leaves on the heart."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "快到清明节了，",
+   "en": "It is nearly Qingming."
+  },
+  {
+   "zh": "枝头的翠鸟叫得让人心碎。",
+   "en": "A green bird on the branch sings until my heart breaks."
+  },
+  {
+   "zh": "可惜这一片清亮的歌声，",
+   "en": "What a pity that all this clear song"
+  },
+  {
+   "zh": "都只能交给黄昏。",
+   "en": "is given only to the dusk."
+  },
+  {
+   "zh": "我想和柳絮轻声说说心里话，",
+   "en": "I want to whisper my heart to the willow catkins,"
+  },
+  {
+   "zh": "又怕柳絮轻飘飘的，",
+   "en": "but fear the catkins are too light and flighty"
+  },
+  {
+   "zh": "不懂得伤春的心情。",
+   "en": "to understand the sadness of spring."
+  },
+  {
+   "zh": "想到自己在楚地的旅店里过夜，",
+   "en": "I think of myself lodging at an inn in the land of Chu,"
+  },
+  {
+   "zh": "满是柔情和离愁，",
+   "en": "full of tender love and the sorrow of parting."
+  },
+  {
+   "zh": "有谁来温柔地安慰我？",
+   "en": "Who will comfort me gently?"
+  },
+  {
+   "zh": "对着空酒杯，夜里独自流泪，",
+   "en": "Before an empty cup, I weep in the night."
+  },
+  {
+   "zh": "青山默默不说话，",
+   "en": "The green hills say nothing,"
+  },
+  {
+   "zh": "只有残月正对着门口。",
+   "en": "and only the fading moon faces my door."
+  },
+  {
+   "zh": "在她住过的翠玉楼前，",
+   "en": "Before the jade-green tower where she lived,"
+  },
+  {
+   "zh": "只有一片湘江的水，",
+   "en": "there is only a stretch of the Xiang River,"
+  },
+  {
+   "zh": "摇晃着湘江上的云影。",
+   "en": "rocking the clouds of the Xiang."
+  },
+  {
+   "zh": "天那么长，梦那么短，",
+   "en": "The sky is so long, and dreams so short."
+  },
+  {
+   "zh": "问一问，什么时候才能再见到心上人？",
+   "en": "I ask: when will I see my love again?"
+  },
+  {
+   "zh": "这种光景，",
+   "en": "In a state like this,"
+  },
+  {
+   "zh": "想来人间也没有一把并州快剪，",
+   "en": "I think there is not one pair of sharp Bingzhou scissors in the world"
+  },
+  {
+   "zh": "能剪断我心上的愁痕。",
+   "en": "that could cut the marks of sorrow from my heart."
+  }
+ ],
+ "background": {
+  "zh": "《湘春夜月》这个词牌是黄孝迈自己创作的，名字里有“湘”“春”“夜”“月”，正好合着词的内容：在湘江一带的春夜，对着月亮想念远方的人。词里说“楚乡旅宿”，可知作者当时在湖南、湖北一带作客，快到清明的时候，一个人住在旅店里。具体年份和他想念的人是谁，都已经不可考。",
+  "en": "Huang Xiaomai made up this tune himself. Its name holds the words Xiang, spring, night and moon, which fit the ci exactly: on a spring night by the Xiang River, he looks at the moon and misses someone far away. The line about lodging in the land of Chu tells us he was a traveller somewhere in today's Hunan or Hubei. It was close to the Qingming festival, and he was staying alone at an inn. We cannot tell the year, or who the person he missed was."
+ },
+ "author_note": {
+  "zh": "黄孝迈，字德夫，号雪舟，南宋人，生平事迹留下来很少。他的词作流传不多，但写得细腻动人。南宋词人刘克庄读了他的词，很是称赞。",
+  "en": "Huang Xiaomai, also called Xuezhou, lived in the Southern Song. Very little is known about his life. Only a few of his ci survive, but they are delicate and moving. The Southern Song poet Liu Kezhuang read his ci and praised them highly."
+ },
+ "appreciation": {
+  "zh": "快到清明了，枝头的翠鸟唱得让人心碎。可惜这么好听的歌，只能唱给黄昏听。他想对柳絮说说心里话，又怕柳絮轻飘飘的，不懂得伤春。一个人住在异乡，满肚子柔情和离愁，谁来安慰呢？下片更冷清：酒杯空了，夜里独自流泪，青山不说话，只有残月照着门口。想起她住过的楼前，只剩一片湘水，晃着湘江上的云影。天那么长，梦那么短，什么时候才能再见到她？最后说：人间没有一把锋利的并州剪刀，剪得断心上的愁。愁像画在心上的痕迹，怎么也去不掉。",
+  "en": "It is nearly Qingming. A green bird on a branch sings so sweetly it breaks the heart. What a pity such lovely song is given only to the dusk. He wants to tell his feelings to the willow catkins, but fears they are too light and flighty to understand the sadness of spring. Alone in a strange land, full of tender love and the pain of parting, who will comfort him? The second stanza is even lonelier. The cup is empty, he weeps alone at night, the green hills say nothing, and only the fading moon shines at the door. Before the jade-green tower where she once lived, there is only a stretch of the Xiang River, rocking the clouds reflected in it. The sky goes on so long, and dreams are so short. When will he see her again? At last he says that in all the world there is no sharp Bingzhou scissors that could cut the marks of sorrow from his heart. The sorrow is like a scar drawn on the heart that will not go away."
+ },
+ "famous_lines": [
+  2,
+  3,
+  19,
+  20
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "qingming"
+  ],
+  "solar_terms": [
+   "qingming"
+  ],
+  "themes": [
+   "longing",
+   "travel",
+   "moon",
+   "love"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,880 @@
+{
+ "id": "ci-c5f6bafa530b",
+ "kind": "ci",
+ "title": "摸鱼儿·东皋寓居",
+ "title_en": "Mo Yu Er: Living at the Eastern Bank",
+ "author": "晁补之",
+ "author_en": "Chao Buzhi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "买",
+    "mǎi"
+   ],
+   [
+    "陂",
+    "bēi"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "旋",
+    "xuán"
+   ],
+   [
+    "栽",
+    "zāi"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "稀",
+    "xī"
+   ],
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "皋",
+    "gāo"
+   ],
+   [
+    "嘉",
+    "jiā"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "涨",
+    "zhǎng"
+   ]
+  ],
+  [
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "觜",
+    "zuǐ"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "聚",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "川",
+    "chuān"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "任",
+    "rèn"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "幄",
+    "wò"
+   ],
+   [
+    "张",
+    "zhāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "柔",
+    "róu"
+   ],
+   [
+    "茵",
+    "yīn"
+   ],
+   [
+    "藉",
+    "jiè"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "绫",
+    "líng"
+   ],
+   [
+    "被",
+    "bèi"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "闺",
+    "guī"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "步",
+    "bù"
+   ]
+  ],
+  [
+   [
+    "儒",
+    "rú"
+   ],
+   [
+    "冠",
+    "guān"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "误",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "刀",
+    "dāo"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "邵",
+    "shào"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "瓜",
+    "guā"
+   ],
+   [
+    "圃",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "觑",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "功",
+    "gōng"
+   ],
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "班",
+    "bān"
+   ],
+   [
+    "超",
+    "chāo"
+   ]
+  ],
+  [
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "侯",
+    "hóu"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "计",
+    "jì"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "古籍本最后一句作“归计恐迟春”，“春”字不押韵，是错字，通行本作“迟暮”。古籍本还作“淮岸江浦”“沙觜鸥来鹭聚”“柔茵借地”，通行本作“淮岸湘浦”“沙觜鹭来鸥聚”“柔茵藉地”。“覰”是“觑”的异体字。各本文字略有不同，这里用通行本。",
+  "en": "The old edition ends with chí chūn, \"late spring\", but chūn does not rhyme and is a slip; common editions read chí mù, \"late in life\". The old edition also has jiāng pǔ for xiāng pǔ, \"gulls come and egrets gather\" for \"egrets come and gulls gather\", and a different character for jiè, \"to spread under\". The character qù is written in a variant form there. Editions differ slightly; this page follows the common text."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "觜",
+   "pinyin": "zuǐ",
+   "zh": "觜：同“嘴”，沙觜就是伸进水里的沙滩尖儿，读 zuǐ。这个字作星名时读 zī。",
+   "en": "Here it is the same as \"mouth\" or \"tip\": a sandbar pointing into the water, read zuǐ. As the name of a star it is read zī."
+  },
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "陂",
+   "pinyin": "bēi",
+   "zh": "陂塘：池塘，陂读 bēi。",
+   "en": "In bēi táng, a pond, this is read bēi."
+  },
+  {
+   "line": 13,
+   "pos": 3,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "现在统一读 qí。古时指一人一马的“骑兵”时读 jì。",
+   "en": "Today it is read qí. In old usage, meaning a horseman, it was read jì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "陂塘：池塘。",
+   "en": "bēi táng: a pond."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 4,
+   "zh": "旋：随即、马上。",
+   "en": "xuán: right away."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "依稀：好像、仿佛。",
+   "en": "yī xī: seemingly, rather like."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "淮岸湘浦：淮河的岸边，湘江的水边。这里是说池塘的景色很像南方的江边。浦，水边。",
+   "en": "huái àn xiāng pǔ: the banks of the Huai River and the shores of the Xiang River. The pond looks like a southern riverside. Pǔ means the water's edge."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "东皋：东边的水边高地。陶渊明有“登东皋以舒啸”的句子，后来常指隐居的地方。",
+   "en": "dōng gāo: the high bank to the east. Tao Yuanming wrote of climbing the eastern bank to sing out, so it came to mean a place to live in retreat."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "嘉雨：好雨，及时雨。",
+   "en": "jiā yǔ: a good, timely rain."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "新痕涨：下雨后水涨起来，岸上留下新的水痕。",
+   "en": "xīn hén zhǎng: after the rain the water rises, leaving a new mark on the bank."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "沙觜：伸进水里的沙滩尖儿。",
+   "en": "shā zuǐ: a tip of sand reaching into the water."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "鹭、鸥：白鹭和海鸥，都是水鸟。",
+   "en": "lù, ōu: egrets and gulls, both water birds."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "堪爱处：值得喜爱的地方。堪，值得。",
+   "en": "kān ài chù: the most lovable thing. Kān means worth."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "一川：满河、整条河。",
+   "en": "yī chuān: the whole stream."
+  },
+  {
+   "line": 5,
+   "start": 8,
+   "end": 10,
+   "zh": "流渚：月光在小洲上流动。渚，水中的小块陆地。",
+   "en": "liú zhǔ: moonlight flowing over the islets. Zhǔ is a small patch of land in water."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "任：任凭、随它。",
+   "en": "rèn: to let it be."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 5,
+   "zh": "翠幄张天：绿树像翠绿的帐篷张开，遮住天空。幄，帐篷。",
+   "en": "cuì wò zhāng tiān: the green trees spread like a green tent over the sky. Wò means a tent."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "柔茵藉地：柔软的草地像垫子一样铺在地上。茵，垫子；藉，垫着。",
+   "en": "róu yīn jiè dì: soft grass spread on the ground like a cushion. Yīn means a cushion; jiè means to lay under."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "青绫被：汉代尚书郎在宫里值夜班，朝廷发给青绫被子。这里代指在朝廷做官的日子。",
+   "en": "qīng líng bèi: a blue silk quilt. In the Han dynasty, court officials on night duty were given such quilts. Here it stands for his days as a court official."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 6,
+   "zh": "金闺故步：在朝廷里走过的老路。金闺，金马门，代指朝廷。",
+   "en": "jīn guī gù bù: the old paths he walked at court. Jīn guī, the Golden Horse Gate, stands for the court."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 6,
+   "zh": "儒冠曾把身误：读书人的帽子耽误了我的一生。化用杜甫的“儒冠多误身”。儒冠，读书人戴的帽子，代指读书做官。",
+   "en": "rú guān céng bǎ shēn wù: the scholar's cap has wasted my life. It echoes Du Fu's line that the scholar's cap often ruins a man. Rú guān stands for studying and becoming an official."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "弓刀千骑：带着弓刀的大队骑兵，指做地方长官时出门的威风场面。",
+   "en": "gōng dāo qiān qí: a thousand horsemen with bows and swords, the grand escort of a local governor."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "成何事：做成了什么事呢？意思是什么也没做成。",
+   "en": "chéng hé shì: what did it achieve? That is, nothing."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "邵平瓜圃：邵平是秦朝的东陵侯。秦朝灭亡后，他在长安城外种瓜，瓜很甜，人称“东陵瓜”。这里指隐居种田的生活。圃，菜园。",
+   "en": "shào píng guā pǔ: Shao Ping was the Marquis of Dongling under Qin. After Qin fell he grew melons outside Chang'an, so sweet they were called Dongling melons. Here it means a quiet farming life. Pǔ is a garden plot."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 3,
+   "zh": "觑：看。",
+   "en": "qù: to look."
+  },
+  {
+   "line": 16,
+   "start": 1,
+   "end": 3,
+   "zh": "青镜：青铜镜子。",
+   "en": "qīng jìng: a bronze mirror."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "星星：头发花白，像点点星光。",
+   "en": "xīng xīng: hair flecked with white, like dots of starlight."
+  },
+  {
+   "line": 16,
+   "start": 8,
+   "end": 10,
+   "zh": "如许：这样，这么多。",
+   "en": "rú xǔ: like this, this much."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "浪语：空话。",
+   "en": "làng yǔ: empty talk."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 3,
+   "zh": "便似得：即使能像。便，即使。",
+   "en": "biàn sì dé: even if I could be like. Biàn means even if."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "班超：东汉人，在西域守了三十多年，封为定远侯。他老了以后上书请求回乡，说只希望活着回到玉门关。",
+   "en": "bān chāo: Ban Chao of the Eastern Han guarded the Western Regions for over thirty years and was made a marquis. In old age he begged to go home, saying he only hoped to come back through the Jade Gate alive."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "归计：回家的打算。",
+   "en": "guī jì: the plan to go home."
+  },
+  {
+   "line": 20,
+   "start": 3,
+   "end": 5,
+   "zh": "迟暮：晚了，人已经老了。",
+   "en": "chí mù: too late, already old."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我买下一片池塘，马上种上杨柳，",
+   "en": "I bought a pond and planted willows right away;"
+  },
+  {
+   "zh": "看起来很像淮河、湘江的水边。",
+   "en": "it looks rather like the banks of the Huai and the Xiang."
+  },
+  {
+   "zh": "东皋下了一场好雨，岸边留下新涨的水痕，",
+   "en": "A good rain fell on the eastern bank, and the water left a new mark as it rose;"
+  },
+  {
+   "zh": "沙滩尖上，白鹭飞来，鸥鸟聚集。",
+   "en": "on the sandbar egrets fly in and gulls gather."
+  },
+  {
+   "zh": "最可爱的地方，",
+   "en": "The loveliest thing of all"
+  },
+  {
+   "zh": "是夜里满河月光，在小洲上流动。",
+   "en": "is the moonlight at night, filling the stream and flowing over the islets."
+  },
+  {
+   "zh": "没有别人，我独自起舞。",
+   "en": "With no one about, I dance alone."
+  },
+  {
+   "zh": "随它绿树像帐篷一样遮住天空，",
+   "en": "Let the green trees spread like a tent over the sky,"
+  },
+  {
+   "zh": "柔软的青草像垫子铺在地上，",
+   "en": "and the soft grass lie like a cushion on the ground;"
+  },
+  {
+   "zh": "酒喝完了，我还舍不得离开。",
+   "en": "the wine is gone, but I cannot bear to leave."
+  },
+  {
+   "zh": "宫里值夜的青绫被子，",
+   "en": "The blue silk quilt of night duty at court,"
+  },
+  {
+   "zh": "不要再想念朝廷里的旧日子了。",
+   "en": "do not miss those old days at court."
+  },
+  {
+   "zh": "读书做官，曾经耽误了我一生。",
+   "en": "The scholar's cap once wasted my life."
+  },
+  {
+   "zh": "带着千名骑兵当地方长官，又做成了什么事？",
+   "en": "Riding out with a thousand horsemen as governor, what did it achieve?"
+  },
+  {
+   "zh": "反而荒废了像邵平那样种瓜的园子。",
+   "en": "It only let my melon patch, like Shao Ping's, run wild."
+  },
+  {
+   "zh": "你试着看一看，",
+   "en": "Just take a look:"
+  },
+  {
+   "zh": "满镜子都是花白的鬓发，如今已经这样了。",
+   "en": "the mirror is full of graying temples; this is how it is now."
+  },
+  {
+   "zh": "功名不过是空话。",
+   "en": "Fame and rank are empty words."
+  },
+  {
+   "zh": "就算能像班超那样，",
+   "en": "Even if I could be like Ban Chao,"
+  },
+  {
+   "zh": "在万里之外封侯，",
+   "en": "made a marquis ten thousand miles away,"
+  },
+  {
+   "zh": "想回家的时候，恐怕人也老了。",
+   "en": "by the time I planned to come home, I fear I would be old."
+  }
+ ],
+ "background": {
+  "zh": "北宋末年，朝廷里新旧两派互相打压。晁补之和苏轼关系很近，被划进旧党，多次被贬，最后被罢官。他回到山东老家，在东皋修了一座园子，叫“归来园”，自号“归来子”，学陶渊明过隐居生活。这首词就写他在东皋的生活和心情。各本的题目不完全相同。",
+  "en": "In the last years of the Northern Song, two factions at court kept attacking each other. Chao Buzhi was close to Su Shi, so he was counted in the old faction. He was demoted again and again, and finally dismissed. He went home to Shandong and built a garden on the eastern bank called the Garden of Return. He called himself the Man Who Returned, and lived quietly like Tao Yuanming. This lyric describes his life and feelings there. Editions give the title in different ways."
+ },
+ "author_note": {
+  "zh": "晁补之（1053—1110），北宋文学家，是“苏门四学士”之一，也就是苏轼最有名的四个学生之一。他诗文都好，词风接近苏轼，开阔洒脱。他做过几个州的地方长官，后来在党争中受牵连，晚年隐居。",
+  "en": "Chao Buzhi (1053–1110) was a Northern Song writer, one of the Four Scholars of Su Shi's school, his four best-known followers. He wrote fine poems and prose, and his lyrics, like Su Shi's, are broad and free. He governed several prefectures, but was caught up in the faction fights and lived in retreat in his later years."
+ },
+ "appreciation": {
+  "zh": "上片像一幅田园画：买了池塘，种上杨柳，雨后水涨，白鹭和鸥鸟飞来。最美的是夜里，月光像水一样在小洲上流淌。词人一个人跳舞，绿树当帐篷，青草当垫子，喝完酒还不想走。这里很自在，很快乐。下片换了心情。他说别再想朝廷里的日子了，读书做官耽误了一生，当长官威风也没做成什么事。照照镜子，头发都白了。就算像班超那样立了大功，封了侯，等到想回家的时候人也老了。所以不如现在就回来。表面写快乐，底下藏着委屈和看透之后的叹息。",
+  "en": "The first stanza is like a painting of country life. He buys a pond and plants willows. After rain the water rises, and egrets and gulls fly in. Loveliest of all is the night, when moonlight flows over the islets like water. He dances alone, with the trees as his tent and the grass as his cushion, and stays on after the wine is gone. He is free and happy here. The second stanza changes mood. He tells himself not to miss the court. Studying for office wasted his life, and all the grandeur of being a governor achieved nothing. In the mirror his hair is turning white. Even if he won great fame like Ban Chao and became a marquis, by the time he came home he would be old. So it is better to come back now. On the surface it is about joy, but underneath lie hurt feelings and the sigh of a man who has seen through it all."
+ },
+ "famous_lines": [
+  5,
+  12
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "retreat",
+   "countryside",
+   "moon",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,274 @@
+{
+ "id": "0055db4e-e8d3-41a0-b201-0e3b970e27b6",
+ "kind": "shi",
+ "title": "秋夜曲",
+ "title_en": "Autumn Night Song",
+ "author": "王涯",
+ "author_en": "Wang Ya",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "魄",
+    "pò"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "微",
+    "wēi"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "殷",
+    "yīn"
+   ],
+   [
+    "勤",
+    "qín"
+   ],
+   [
+    "弄",
+    "nòng"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "怯",
+    "qiè"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "房",
+    "fáng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "薄：读书音 bó，口语里单说“薄”常读 báo，两种读法都有人用。",
+   "en": "This character, meaning thin, has a reading-style pronunciation bó. In everyday speech, used alone, it is often báo. Both are heard."
+  },
+  {
+   "line": 1,
+   "pos": 5,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "更：这里是“更换”的意思，读 gēng，不读 gèng。",
+   "en": "Here the character means to change, so it is read gēng, not gèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "桂魄：月亮。传说月亮里有桂树；魄，指月亮的光。",
+   "en": "guì pò: the moon. Legend says an osmanthus tree grows on the moon, and pò means moonlight."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "初生：刚刚升起。",
+   "en": "chū shēng: just rising."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "微：少，一点点。",
+   "en": "wēi: slight, just a little."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "轻罗：轻薄的丝绸衣服。",
+   "en": "qīng luó: light silk clothes."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "更衣：换衣服。",
+   "en": "gēng yī: to change clothes."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "银筝：用银子装饰的筝。筝是一种弹拨的弦乐器。",
+   "en": "yín zhēng: a zheng decorated with silver. The zheng is a plucked string instrument."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "殷勤弄：一遍又一遍、很用心地弹。弄，弹奏。",
+   "en": "yīn qín nòng: playing again and again with great care. Nòng means to play."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "心怯：心里害怕。",
+   "en": "xīn qiè: afraid at heart."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "不忍：不愿意，狠不下心。",
+   "en": "bù rěn: cannot bear to."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月亮刚刚升起，秋天的露水还很少；",
+   "en": "The moon has just risen, and the autumn dew is still light."
+  },
+  {
+   "zh": "身上的丝绸衣服已经显得单薄，她却还没有换上厚衣。",
+   "en": "Her silk dress already feels too thin, yet she has not changed it."
+  },
+  {
+   "zh": "夜深了，她还在一遍遍地弹着银筝，",
+   "en": "Deep into the night she keeps playing her silver zheng,"
+  },
+  {
+   "zh": "因为害怕冷清的空房，舍不得回去。",
+   "en": "afraid of the empty room, she cannot bear to go back."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是乐府题目，写一位女子在秋夜里独自弹筝。她的丈夫或心上人不在身边，所以她不愿回到空荡荡的房间。作者一说是王涯，一说是王维，《唐诗三百首》里署名王维，《全唐诗》两人名下都收了这首诗。写作时间不详。",
+  "en": "This poem uses a Yuefu song title. It shows a woman playing the zheng alone on an autumn night. The one she loves is not with her, so she does not want to go back to her empty room. The author is given as Wang Ya by some sources and Wang Wei by others. \"Three Hundred Tang Poems\" names Wang Wei, and the \"Complete Tang Poems\" lists it under both. When it was written is unknown."
+ },
+ "author_note": {
+  "zh": "王涯（？—835），唐代诗人，中唐时做到宰相。835年发生“甘露之变”，大臣们谋划除掉掌权的宦官，失败了，王涯也被杀害。他写过不少宫词和乐府小诗，语言清新。",
+  "en": "Wang Ya (died 835) was a Tang poet who rose to chancellor. In 835 came the Sweet Dew Incident, when officials plotted to remove the powerful palace eunuchs and failed. Wang Ya was killed. He wrote many short palace poems and Yuefu songs in fresh, clear language."
+ },
+ "appreciation": {
+  "zh": "诗里没有一个字直接说“想念”，却处处是想念。第一句写景：月亮刚升，露水还少，是初秋的夜晚。第二句写她觉得衣服薄了，却懒得换，可见心思不在这上面。第三句说夜已深，她还在弹筝，一遍又一遍。最后一句才说出原因：她怕回到空房里，一个人更孤单。弹筝不是为了好听，而是为了打发孤独。读的时候，可以想象月光下一个人影，琴声一直响到深夜。",
+  "en": "Not one word says \"I miss him\", yet longing is everywhere. The first line sets the scene: the moon has just risen and the dew is light. It is an early autumn night. In the second line her clothes feel thin, but she does not bother to change, so her mind is elsewhere. In the third line it is late, and she keeps playing over and over. Only the last line gives the reason: she is afraid to go back to the empty room, where she would feel even lonelier. She is not playing to make lovely music, but to pass the lonely hours. Picture a figure in the moonlight, and the music going on deep into the night."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "loneliness",
+   "music",
+   "moon",
+   "night"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "作者有争议：一说王涯，一说王维。《唐诗三百首》署王维，《全唐诗》两人名下都有。",
+   "en": "The author is disputed: some sources say Wang Ya, others Wang Wei. \"Three Hundred Tang Poems\" names Wang Wei, and the \"Complete Tang Poems\" lists it under both."
+  }
+ ]
+}

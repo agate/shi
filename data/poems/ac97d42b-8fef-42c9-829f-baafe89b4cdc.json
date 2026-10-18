@@ -1,0 +1,492 @@
+{
+ "id": "ac97d42b-8fef-42c9-829f-baafe89b4cdc",
+ "kind": "shi",
+ "title": "利州南渡",
+ "title_en": "Crossing the River South of Lizhou",
+ "author": "温庭筠",
+ "author_en": "Wen Tingyun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "澹",
+    "dàn"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "晖",
+    "huī"
+   ]
+  ],
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "岛",
+    "dǎo"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "微",
+    "wēi"
+   ]
+  ],
+  [
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "嘶",
+    "sī"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "棹",
+    "zhào"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "歇",
+    "xiē"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "船",
+    "chuán"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "丛",
+    "cóng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "顷",
+    "qǐng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "范",
+    "fàn"
+   ],
+   [
+    "蠡",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "机",
+    "jī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本第三句的“櫂”是“棹”的异体字，这里用通行写法“棹”。",
+  "en": "The source text writes the word for oar in the third line in an older variant form; the common form is used here."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "澹",
+   "pinyin": "dàn",
+   "zh": "“澹然”的“澹”是水波平静的样子，读 dàn。",
+   "en": "Here the character describes calm, still water and is read dàn."
+  },
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "“曲岛”的“曲”是弯弯曲曲的意思，读 qū，不读 qǔ。",
+   "en": "Here the character means winding, so it is read qū, not qǔ."
+  },
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "“数丛”的“数”是几、好几的意思，读 shù。",
+   "en": "Here the character means several, so it is read shù."
+  },
+  {
+   "line": 6,
+   "pos": 6,
+   "char": "蠡",
+   "pinyin": "lǐ",
+   "zh": "“范蠡”是人名，“蠡”读 lǐ。",
+   "en": "In the name Fan Li, this character is read lǐ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "澹然：水面平静的样子。",
+   "en": "dàn rán: calm and still, as water is."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "空水：空阔明净的江水。",
+   "en": "kōng shuǐ: wide, clear, open water."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "斜晖：太阳西斜时的光，就是夕阳。",
+   "en": "xié huī: the slanting light of the low sun, the evening sun."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "曲岛：弯弯曲曲的江中小岛。",
+   "en": "qū dǎo: a winding little island in the river."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "苍茫：一片模糊、看不清边的样子。",
+   "en": "cāng máng: hazy and vast, with no clear edge."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "翠微：青绿色的山，这里指远处的山。",
+   "en": "cuì wēi: green, misty hills; here, the hills in the distance."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 4,
+   "zh": "嘶：马叫。",
+   "en": "sī: the neigh of a horse."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 6,
+   "zh": "棹：划船的桨，这里指渡船。",
+   "en": "zhào: an oar; here, the ferry boat."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "歇：休息，停下来等。",
+   "en": "xiē: to rest, to stop and wait."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "数丛：几丛。",
+   "en": "shù cóng: a few clumps."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "沙草：长在沙洲上的草。",
+   "en": "shā cǎo: grass growing on a sandbar."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 6,
+   "zh": "鸥：鸥鸟，一种水鸟。",
+   "en": "ōu: the gull, a water bird."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "万顷：形容面积非常大。顷是土地面积单位。",
+   "en": "wàn qǐng: ten thousand qing, a huge area. A qing is a measure of land."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 6,
+   "zh": "鹭：白鹭，一种腿长、颈长的白色水鸟。",
+   "en": "lù: the egret, a white water bird with long legs and a long neck."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "谁解：谁懂得，谁能够。",
+   "en": "shuí jiě: who understands, who is able to."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "范蠡：春秋时越国的大臣，帮越王勾践打败吴国后，坐着小船离开，到五湖隐居。",
+   "en": "Fàn Lǐ: a minister of the state of Yue in the Spring and Autumn period. After he helped King Goujian defeat Wu, he left in a small boat to live in hiding on the Five Lakes."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "五湖：一般指太湖一带的湖泊。",
+   "en": "wǔ hú: the Five Lakes, usually taken as Lake Tai and the lakes around it."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "烟水：雾气笼罩的水面。",
+   "en": "yān shuǐ: water covered in mist."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "忘机：忘掉心机，不再算计名利，心里清静自在。",
+   "en": "wàng jī: to forget all scheming, to stop chasing fame and gain and feel calm and free."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "平静空阔的江水，正对着西斜的夕阳，",
+   "en": "The calm, wide river faces the slanting evening sun;"
+  },
+  {
+   "zh": "弯曲的小岛模模糊糊，和远处青山连在一起。",
+   "en": "a winding island, hazy and dim, joins the green hills far away."
+  },
+  {
+   "zh": "渡船上马儿嘶叫，人们看着船划向对岸，",
+   "en": "On the water a horse neighs, as people watch the ferry row away;"
+  },
+  {
+   "zh": "柳树边有人歇着，等渡船回来。",
+   "en": "by the willows people rest, waiting for the boat to come back."
+  },
+  {
+   "zh": "几丛沙洲上的草边，一群鸥鸟四散飞开，",
+   "en": "From a few clumps of grass on the sandbar, a flock of gulls scatters;"
+  },
+  {
+   "zh": "一望无际的江边田野上，一只白鹭飞起。",
+   "en": "over the endless riverside fields, a single egret takes flight."
+  },
+  {
+   "zh": "谁能懂得像范蠡那样，坐着小船去远方，",
+   "en": "Who understands how to take a boat like Fan Li and sail away,"
+  },
+  {
+   "zh": "在烟雾迷蒙的五湖上，独自忘掉世间的算计？",
+   "en": "to forget all scheming, alone, on the misty water of the Five Lakes?"
+  }
+ ],
+ "background": {
+  "zh": "利州在今天四川广元一带，嘉陵江从城边流过。“南渡”就是坐渡船过江往南去。诗人在傍晚的渡口等船，看到江上和岸边的景色，写下了这首诗。具体写作年份不能确定。",
+  "en": "Lizhou was around today's Guangyuan in Sichuan, where the Jialing River flows past the town. Crossing south means taking the ferry across the river to go south. Waiting at the ferry one evening, the poet watched the scenes on the river and its banks and wrote this poem. We do not know the exact year it was written."
+ },
+ "author_note": {
+  "zh": "温庭筠（约812—约866，一说约801—约866），晚唐诗人、词人。他很有才华，据说叉八次手就能作成一首八韵的赋，人称“温八叉”。但他一生考试不顺，只做过小官，常常在各地奔波。这首诗里想要远离名利的心情，也和他不得志的经历有关。",
+  "en": "Wen Tingyun (about 812 to about 866; some say born about 801) was a late Tang poet and lyric writer. He was very gifted: a story says he could finish a long rhymed piece in the time it took to fold his hands eight times, so people called him Eight-Folds Wen. But he kept failing the civil exams, held only minor posts, and was often on the road. The wish in this poem to leave fame and gain behind has to do with his own disappointments."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅傍晚的渡口图。先是远景：平静的江面映着夕阳，小岛和青山连成一片，模模糊糊。再是近景，而且有声有色：船上马在叫，岸边柳树下有人在等船。一边是走，一边是等，渡口的日常一下子活了。接着诗人的目光被鸟吸引：一群鸥鸟飞散，一只白鹭独自飞过大片田野。“群”和“一”对比，画面又热闹又空阔。看着这些自由的鸟，诗人想起了坐船去五湖的范蠡。来来往往的人都在为生活奔忙，有谁能真正放下心机、自在地过日子呢？最后一句是在问别人，也是在问自己。",
+  "en": "This poem is like a painting of a ferry at dusk. First the far view: the calm river reflects the setting sun, and the island and green hills blur into one. Then the near view, full of sound and color: a horse neighs on the boat, and people wait under the willows on the bank. Some are leaving and some are waiting, and the daily life of the ferry comes alive. Next the poet's eye turns to the birds: a flock of gulls scatters, and one egret flies alone over the wide fields. The flock and the single bird make the scene both busy and open. Watching these free birds, the poet thinks of Fan Li, who sailed off to the Five Lakes. All the people coming and going are busy making a living. Who can truly let go of scheming and live freely? The last line asks others, and it also asks himself."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "ferry",
+   "sunset",
+   "birds",
+   "reclusion"
+  ]
+ },
+ "uncertain": []
+}

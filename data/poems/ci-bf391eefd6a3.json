@@ -1,0 +1,439 @@
+{
+ "id": "ci-bf391eefd6a3",
+ "kind": "ci",
+ "title": "玉楼春·燕鸿过后春归去",
+ "title_en": "Spring in the Jade Tower: After the Swallows and Geese Have Passed",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "珮",
+    "pèi"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "侣",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "挽",
+    "wǎn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "烂",
+    "làn"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝云：早晨的云，读 zhāo，不读 cháo。",
+   "en": "In zhāo yún, morning clouds, it is read zhāo, not cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "春归去：春天走了。",
+   "en": "chūn guī qù: spring has gone."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 7,
+   "zh": "来如春梦几多时：来的时候像春梦一样，能有多少时间呢？",
+   "en": "lái rú chūn mèng jǐ duō shí: it comes like a spring dream; how long can it last?"
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "朝云：早晨的云，太阳一出就散了。传说巫山神女“早上是云，晚上是雨”，所以朝云也指美丽的女子。",
+   "en": "zhāo yún: morning clouds, which melt away when the sun comes out. Legend says the goddess of Mount Wu was cloud in the morning and rain at night, so morning clouds also stand for a lovely woman."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "无觅处：没有地方可以找到。觅，找。",
+   "en": "wú mì chù: nowhere to be found. Mì means to look for."
+  },
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "燕鸿：燕子和大雁。燕子春天来、秋天走，大雁秋天来、春天走，一来一去，很难相见。",
+   "en": "yàn hóng: swallows and wild geese. Swallows come in spring and leave in autumn; geese come in autumn and leave in spring. One comes as the other goes, so they seldom meet."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "浮生：人的一生。古人觉得人生像漂浮不定的东西，短暂又靠不住。",
+   "en": "fú shēng: a human life. People of old felt life drifts like something floating, short and unsure."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "千万绪：千头万绪，心事多得理不清。",
+   "en": "qiān wàn xù: a thousand threads; more thoughts than one can sort out."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "闻琴：汉代卓文君听了司马相如弹琴，爱上了他，跟他一起走了。",
+   "en": "wén qín: in the Han dynasty, Zhuo Wenjun heard Sima Xiangru play the qin zither, fell in love and ran away with him."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "解珮：传说郑交甫在汉水边遇到两位仙女，仙女解下身上的玉佩送给他，转眼就不见了。",
+   "en": "jiě pèi: legend says Zheng Jiaofu met two goddesses by the Han River. They untied the jade pendants they wore and gave them to him, then vanished in a moment."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "神仙侣：神仙一样美好的伴侣。",
+   "en": "shén xiān lǚ: a partner as lovely as an immortal."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "挽断罗衣：拉着丝绸衣服，拉断了也不放手。挽，拉。",
+   "en": "wǎn duàn luó yī: pulling at a silk robe until it tears. Wǎn means to pull."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "独醒人：大家都醉了，只有自己清醒的人。这话出自屈原“众人皆醉我独醒”。",
+   "en": "dú xǐng rén: the one person who stays sober when all others are drunk. It comes from Qu Yuan's words: everyone is drunk, I alone am sober."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "烂醉：醉得很厉害。",
+   "en": "làn zuì: very drunk."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "应有数：一说是“应该是有道理的”；一说是“这样的机会也是有限的”。",
+   "en": "yīng yǒu shù: one reading: there is good sense in it; another: such chances are numbered."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "燕子和大雁都飞过去了，春天也回去了，",
+   "en": "The swallows and geese have passed, and spring has gone home."
+  },
+  {
+   "zh": "仔细算一算这短短一生，心事千头万绪。",
+   "en": "When I count up this floating life, it holds a thousand tangled threads."
+  },
+  {
+   "zh": "美好的人和事来的时候像春梦，能有多久？",
+   "en": "Good things come like a spring dream; how long do they stay?"
+  },
+  {
+   "zh": "走的时候像早晨的云，再也找不到。",
+   "en": "They leave like morning clouds, and cannot be found again."
+  },
+  {
+   "zh": "像卓文君、像汉水仙女那样神仙般的伴侣，",
+   "en": "Lovers as fine as immortals, like the girl who heard the qin, like the goddesses who gave their pendants,"
+  },
+  {
+   "zh": "就算拉断了丝绸衣裳，也留不住。",
+   "en": "even if you pull their silk sleeves until they tear, you cannot make them stay."
+  },
+  {
+   "zh": "劝你不要做那个独自清醒的人，",
+   "en": "I urge you, don't be the only one who stays sober."
+  },
+  {
+   "zh": "在花丛中喝个烂醉，也是有道理的。",
+   "en": "Getting drunk among the flowers makes good sense."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的时间和缘由都不清楚。它和晏殊的《木兰花·燕鸿过后莺归去》几乎一模一样，只有“春归去”“来如”“去似朝云”几处不同。有的书把它收在欧阳修名下，更常见的说法认为是晏殊写的。词里感叹美好的人和事像春梦、朝云一样留不住，劝人及时行乐。",
+  "en": "We do not know when or why this lyric was written. It is almost the same as Yan Shu's lyric that begins \"After the swallows and geese have passed, the orioles fly away\". Only a few phrases differ, such as \"spring has gone\", \"comes like\" and \"leaves like morning clouds\". Some books put it under Ouyang Xiu's name, but the more common view gives it to Yan Shu. The lyric sighs that lovely people and times cannot be kept, like a spring dream or morning clouds, and urges us to enjoy life while we can."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），字永叔，号醉翁，晚年又号六一居士，北宋大文学家，“唐宋八大家”之一。他做过很高的官，还带头改革文风。他的词有的清新明快，有的深情婉转，和晏殊的风格很接近，所以两人的词常常混在一起，分不清是谁写的。",
+  "en": "Ouyang Xiu (1007–1072), also called the Old Drunkard, was a great Northern Song writer, one of the Eight Great Prose Masters of the Tang and Song. He held high office and led a reform of writing style. His lyrics are sometimes fresh and bright, sometimes tender and winding, very close to Yan Shu's style. That is why some of their lyrics got mixed up, and it is hard to tell who wrote them."
+ },
+ "appreciation": {
+  "zh": "开头写季节的离去：燕子、大雁飞过，春天也回去了。接着感叹人生：心事千头万绪，好时光来时像一场春梦，去时像早晨的云，转眼就散了。下片用卓文君和汉水仙女的故事，说美好的人总是留不住，就算拉断了衣服也没用。最后劝人别做独醒的人，在花间醉一场。和晏殊那首相比，“来如”“去似”一来一去对得更整齐，读起来像一声长长的叹息。",
+  "en": "It opens with a season leaving: the swallows and geese pass, and spring goes home. Then it sighs over life. Thoughts are tangled, and good times come like a spring dream and leave like morning clouds, gone in a blink. The second half uses the stories of Zhuo Wenjun and the river goddesses: lovely people can never be kept, even if you tear their sleeves. At last it urges us not to stay sober alone, but to get drunk among the flowers. Compared with Yan Shu's version, \"comes like\" and \"leaves like\" make a neater pair, and the lines read like one long sigh."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "transience",
+   "parting",
+   "wine",
+   "dream"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "这首词和晏殊的《木兰花·燕鸿过后莺归去》几乎相同，作者是欧阳修还是晏殊，说法不一；本文据语料署欧阳修，未能核实出处。",
+   "en": "This lyric is nearly the same as one by Yan Shu, and accounts differ on whether Ouyang Xiu or Yan Shu wrote it. It is given here under Ouyang Xiu as in the corpus, but the source has not been checked."
+  }
+ ]
+}

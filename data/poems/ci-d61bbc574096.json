@@ -1,0 +1,751 @@
+{
+ "id": "ci-d61bbc574096",
+ "kind": "ci",
+ "title": "瑞鹤仙·悄郊原带郭",
+ "title_en": "Rui He Xian: The Quiet Countryside Around the City Wall",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "悄",
+    "qiǎo"
+   ],
+   [
+    "郊",
+    "jiāo"
+   ],
+   [
+    "原",
+    "yuán"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "郭",
+    "guō"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "永",
+    "yǒng"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "漠",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "敛",
+    "liǎn"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "恋",
+    "liàn"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ]
+  ],
+  [
+   [
+    "凌",
+    "líng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "步",
+    "bù"
+   ],
+   [
+    "弱",
+    "ruò"
+   ]
+  ],
+  [
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "短",
+    "duǎn"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "用",
+    "yòng"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "约",
+    "yuē"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "鞍",
+    "ān"
+   ]
+  ],
+  [
+   [
+    "缓",
+    "huǎn"
+   ],
+   [
+    "引",
+    "yǐn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "酌",
+    "zhuó"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "扶",
+    "fú"
+   ]
+  ],
+  [
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "阁",
+    "gé"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "飙",
+    "biāo"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "幕",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "扶",
+    "fú"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "药",
+    "yào"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "恶",
+    "è"
+   ]
+  ],
+  [
+   [
+    "任",
+    "rèn"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "却",
+    "què"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "喜",
+    "xǐ"
+   ],
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "乐",
+    "lè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "通行本作“犹恋孤城阑角”，底本作“栏角”，意思相同。底本的“馀”是繁体转换留下的写法，今写作“余”。",
+  "en": "The common text writes the character for \"railing\" in line 5 with an older form; the source uses the modern form. The meaning is the same. The source also keeps an old form of yú in that line, written in its usual simplified form here."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "悄",
+   "pinyin": "qiǎo",
+   "zh": "“悄”在这里是静悄悄的意思，读 qiǎo。",
+   "en": "Here it means quiet and still, read qiǎo."
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重解”是再一次解下，“重”读 chóng。",
+   "en": "Here it means \"once again\", so it is read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "悄：静悄悄的。",
+   "en": "qiǎo: quiet, hushed."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 5,
+   "zh": "郊原带郭：城外的原野像带子一样围着城墙。郭，外城墙。",
+   "en": "jiāo yuán dài guō: the fields outside town wrap around the city wall like a belt. Guō is the outer city wall."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "行路永：要走的路很长。",
+   "en": "xíng lù yǒng: the road ahead is long."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "漠漠：尘土弥漫、看不清的样子。",
+   "en": "mò mò: thick and hazy with dust."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "敛余红：夕阳收起最后一点红光。敛，收起。",
+   "en": "liǎn yú hóng: the sun gathers in the last of its red light. Liǎn means to draw in."
+  },
+  {
+   "line": 4,
+   "start": 7,
+   "end": 9,
+   "zh": "阑角：栏杆的一角，这里指城楼上的栏杆。",
+   "en": "lán jiǎo: the corner of a railing, here on the city tower."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "凌波步弱：女子走路轻盈柔弱。“凌波”出自曹植《洛神赋》，形容美人脚步轻得像在水波上走。",
+   "en": "líng bō bù ruò: a woman's light, delicate steps. The phrase comes from Cao Zhi's poem on the River Luo goddess, who walked as lightly as if on the waves."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "短亭：路边供行人休息的亭子。古时五里一短亭，十里一长亭。",
+   "en": "duǎn tíng: a roadside shelter for travelers. In old times there was a short pavilion every five li and a long one every ten."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 7,
+   "zh": "何用素约：哪里用得着事先约好。素，平素、事先。",
+   "en": "hé yòng sù yuē: no need to have planned it beforehand. Sù means in advance."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "流莺：飞来飞去、叫声婉转的黄莺。这里比喻劝酒的歌女。",
+   "en": "liú yīng: an oriole flitting about and singing. Here it stands for a singing girl who urges him to drink."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "绣鞍：绣着花纹的马鞍。重解绣鞍，就是又下马留下来。",
+   "en": "xiù ān: an embroidered saddle. Taking it off again means getting off the horse to stay."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "缓引春酌：慢慢地喝着春酒。引，举杯；酌，酒。",
+   "en": "huǎn yǐn chūn zhuó: slowly drinking spring wine. Yǐn is to lift the cup; zhuó is wine."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "醒眠朱阁：醒来时发现自己睡在红色的楼阁里。",
+   "en": "xǐng mián zhū gé: waking to find himself asleep in a red-painted chamber."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "惊飙：突然刮起的大风。飙，暴风。",
+   "en": "jīng biāo: a sudden gust. Biāo is a storm wind."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "动幕：吹动帘幕。",
+   "en": "dòng mù: stirring the curtains."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "残醉：还没完全醒的醉意。",
+   "en": "cán zuì: drunkenness that has not quite worn off."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "红药：红色的芍药花。",
+   "en": "hóng yào: red herbaceous peonies."
+  },
+  {
+   "line": 16,
+   "start": 5,
+   "end": 9,
+   "zh": "花深无地：落花堆得厚厚的，看不见地面了。",
+   "en": "huā shēn wú dì: fallen flowers lie so deep that no ground shows."
+  },
+  {
+   "line": 17,
+   "start": 5,
+   "end": 6,
+   "zh": "恶：猛烈，凶。",
+   "en": "è: fierce, harsh."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 5,
+   "zh": "任流光过却：任凭时光就这样流走。流光，像水一样流走的时光。",
+   "en": "rèn liú guāng guò què: let time flow past as it will. Liú guāng is time slipping by like water."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "洞天：道家说的神仙住的地方，这里指自己安闲的小天地。",
+   "en": "dòng tiān: in Daoist belief, a cave world where immortals live. Here it means his own peaceful little world."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "静悄悄的郊野环绕着城墙，",
+   "en": "Quiet fields wrap around the city wall."
+  },
+  {
+   "zh": "要走的路还很长，",
+   "en": "The road ahead is long."
+  },
+  {
+   "zh": "行人走了，车后的尘土一片迷蒙。",
+   "en": "The traveler leaves, and the dust behind his cart hangs thick."
+  },
+  {
+   "zh": "斜阳映着山，慢慢落下，",
+   "en": "The slanting sun lights the hills as it sinks,"
+  },
+  {
+   "zh": "收起最后一点红光，还恋恋不舍地停在孤城的栏杆角上。",
+   "en": "and, gathering its last red light, still lingers on a corner of the lonely city's railings."
+  },
+  {
+   "zh": "一位女子迈着轻盈柔弱的步子，",
+   "en": "A woman walks by with light, delicate steps."
+  },
+  {
+   "zh": "在短亭相遇，哪里用得着事先约好。",
+   "en": "We meet at the roadside pavilion; no plan was needed."
+  },
+  {
+   "zh": "有像黄莺一样会唱歌的人劝我留下，",
+   "en": "A girl who sings like an oriole urges me to stay,"
+  },
+  {
+   "zh": "我又解下了绣花马鞍，",
+   "en": "so once more I take off the embroidered saddle"
+  },
+  {
+   "zh": "慢慢喝着春酒。",
+   "en": "and slowly drink the spring wine."
+  },
+  {
+   "zh": "不记得是早还是晚回去的，",
+   "en": "I do not remember if I went back early or late,"
+  },
+  {
+   "zh": "上马时是谁扶我上去的，",
+   "en": "or who helped me onto my horse;"
+  },
+  {
+   "zh": "醒来时已经睡在红色的楼阁里。",
+   "en": "I woke up asleep in a red chamber."
+  },
+  {
+   "zh": "突然一阵大风吹动了帘幕，",
+   "en": "A sudden gust shakes the curtains."
+  },
+  {
+   "zh": "我带着还没醒透的醉意，",
+   "en": "Still half drunk,"
+  },
+  {
+   "zh": "绕着红芍药走来走去。",
+   "en": "I wander around the red peonies."
+  },
+  {
+   "zh": "可叹西园里落花已经堆得看不见地面，",
+   "en": "Alas, in the west garden fallen flowers lie so deep the ground is gone,"
+  },
+  {
+   "zh": "东风为什么又刮得这么猛？",
+   "en": "so why is the east wind blowing so hard again?"
+  },
+  {
+   "zh": "就任凭时光这样流走吧，",
+   "en": "Let time flow past as it will;"
+  },
+  {
+   "zh": "还好我在自己的小天地里，自得其乐。",
+   "en": "I am still glad to find my own joy in my little world."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是一次送别后的醉游和醒来后的感慨，写作时间已经不能确定。宋人笔记里有个说法：周邦彦晚年住在钱塘，梦中写成这首词，后来遇到方腊起事，他逃难途中的经历竟和词里写的一一对上。这个故事带有传奇色彩，不一定可靠，但可见这首词在宋代就很有名。",
+  "en": "This lyric shows a drunken outing after a farewell, and the feelings that come on waking. Its date can no longer be fixed. A Song dynasty notebook tells a story: in old age Zhou Bangyan lived in Qiantang and wrote this lyric in a dream. Later, during the Fang La uprising, what happened to him as he fled matched the lyric line by line. The story sounds like a legend and may not be true, but it shows the lyric was already famous in the Song."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，钱塘（今浙江杭州）人，北宋词人。他精通音乐，主管过朝廷的音乐机构大晟府。他写词讲究格律，善于把一件事从头到尾细细铺开，层层转折，被后人看作婉约词的集大成者。",
+  "en": "Zhou Bangyan (1056–1121) was a Northern Song poet from Qiantang, today's Hangzhou. He knew music deeply and once ran the court's music office. He was strict about the rules of rhythm and sound. He liked to lay out a story from start to finish, with many turns along the way. Later readers saw him as the great master of the gentle, graceful style of ci."
+ },
+ "appreciation": {
+  "zh": "这首词像一段从傍晚到第二天的日记。开头是城外的黄昏：路长长的，车尘迷蒙，夕阳舍不得落下，还挂在城楼的栏杆角上。接着偶遇佳人，有人劝酒，他干脆下马留下，慢慢喝起来。下片很有意思：他喝得太醉，连怎么回去、谁扶他上马都不记得，醒来已经睡在楼里。一阵风把他吹醒，他扶着醉意去看芍药，却看到满园落花，东风还在使劲吹。春天要走了，他心里难过，但最后说：随它去吧，我在自己的小天地里也能快乐。这份“放下”里，其实藏着一点无奈。",
+  "en": "This lyric reads like a diary from one evening to the next day. It opens at dusk outside the city. The road is long, the dust from the carts hangs in the air, and the setting sun seems unwilling to go, still caught on a corner of the city railings. Then he meets a lovely woman by chance. Someone urges him to drink, so he simply gets off his horse and stays, sipping slowly. The second stanza is fun. He got so drunk that he cannot remember how he went home or who helped him onto his horse. He wakes up already asleep in a chamber. A gust of wind rouses him. Still tipsy, he goes to look at the peonies, but finds the garden deep in fallen petals, and the east wind still blowing hard. Spring is leaving, and he feels sad. Yet in the end he says: let it go, I can be happy in my own little world. Inside this letting go there is a quiet sigh."
+ },
+ "famous_lines": [
+  3,
+  4,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wine",
+   "parting",
+   "fallen-flowers",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

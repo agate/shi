@@ -1,0 +1,337 @@
+{
+ "id": "2f37297b-77d5-412b-bc73-105bfa4d011d",
+ "kind": "shi",
+ "title": "蜀先主庙",
+ "title_en": "The Temple of the First Ruler of Shu",
+ "author": "刘禹锡",
+ "author_en": "Liu Yuxi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "气",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "凛",
+    "lǐn"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ],
+  [
+   [
+    "势",
+    "shì"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "足",
+    "zú"
+   ],
+   [
+    "鼎",
+    "dǐng"
+   ]
+  ],
+  [
+   [
+    "业",
+    "yè"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "铢",
+    "zhū"
+   ],
+   [
+    "钱",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "相",
+    "xiàng"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "国",
+    "guó"
+   ]
+  ],
+  [
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "象",
+    "xiàng"
+   ],
+   [
+    "贤",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "蜀",
+    "shǔ"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "妓",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "魏",
+    "wèi"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "相",
+   "pinyin": "xiàng",
+   "zh": "读 xiàng，指丞相，这里是诸葛亮。",
+   "en": "Read xiàng, meaning a chief minister, here Zhuge Liang."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "英雄气：英雄的气概。",
+   "en": "yīng xióng qì: the spirit of a hero."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "千秋：千年，很长的时间。",
+   "en": "qiān qiū: a thousand autumns, a very long time."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "凛然：让人敬畏的样子。",
+   "en": "lǐn rán: awe-inspiring, making people feel respect."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "三足鼎：鼎是古代有三只脚的大锅。“三足鼎立”比喻魏、蜀、吴三国并立。",
+   "en": "sān zú dǐng: a dǐng is an ancient three-legged cauldron. \"Standing like the three legs of a dǐng\" means the Three Kingdoms of Wei, Shu and Wu standing side by side."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "业复五铢钱：五铢钱是汉朝的钱币，王莽篡汉时废掉了，东汉光武帝又恢复了它。这里说刘备的事业是要复兴汉朝。",
+   "en": "yè fù wǔ zhū qián: the five-zhu coin was the money of the Han. Wang Mang abolished it when he seized the throne, and Emperor Guangwu brought it back. Here it means Liu Bei's work was to restore the Han."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "得相：得到一位好丞相，指诸葛亮。",
+   "en": "dé xiàng: finding a great minister, Zhuge Liang."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "生儿：生的儿子，指刘备的儿子刘禅，也就是后主。",
+   "en": "shēng ér: the son he had, Liu Shan, the Later Ruler."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "不象贤：不能像父亲那样贤能。象，像、效法。",
+   "en": "bù xiàng xián: was not as able and wise as his father. Xiàng means to be like, to follow."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "蜀故妓：蜀国原来的歌舞艺人。",
+   "en": "shǔ gù jì: the former singers and dancers of Shu."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "魏宫：魏国的宫廷。蜀亡后，刘禅被迁到魏国都城洛阳。",
+   "en": "wèi gōng: the court of Wei. After Shu fell, Liu Shan was moved to the Wei capital, Luoyang."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "刘备那顶天立地的英雄气概，",
+   "en": "Liu Bei's heroic spirit fills heaven and earth;"
+  },
+  {
+   "zh": "千年以后仍然让人敬畏。",
+   "en": "a thousand years later it still fills people with awe."
+  },
+  {
+   "zh": "他和魏、吴三分天下，像鼎的三只脚；",
+   "en": "He split the land three ways, like the three legs of a cauldron;"
+  },
+  {
+   "zh": "他的大业是要复兴汉朝。",
+   "en": "his great work was to bring back the Han."
+  },
+  {
+   "zh": "得到诸葛亮当丞相，才建立了蜀国；",
+   "en": "He found Zhuge Liang as his minister and founded a state;"
+  },
+  {
+   "zh": "可惜生的儿子不像父亲那样贤能。",
+   "en": "but the son he had was not as able as his father."
+  },
+  {
+   "zh": "最让人难过的是，蜀国原来的歌舞艺人，",
+   "en": "Saddest of all, the old dancers of Shu"
+  },
+  {
+   "zh": "竟到魏国的宫殿前去跳舞。",
+   "en": "came to dance before the palace of Wei."
+  }
+ ],
+ "background": {
+  "zh": "先主就是刘备，他是三国时蜀汉的开国皇帝。他的儿子刘禅叫后主。这首诗是刘禹锡参观蜀先主庙时写的，一般认为写于他做夔州刺史的时候，庙在夔州，就是今天重庆奉节。诗人回顾刘备的一生，感叹蜀汉兴起又灭亡。",
+  "en": "The First Ruler was Liu Bei, who founded the state of Shu Han in the Three Kingdoms period. His son Liu Shan was called the Later Ruler. Liu Yuxi wrote this poem when he visited a temple to Liu Bei. It is usually dated to his time as governor of Kuizhou, and the temple was in Kuizhou, today's Fengjie in Chongqing. The poet looks back on Liu Bei's life and sighs over how Shu Han rose and fell."
+ },
+ "author_note": {
+  "zh": "刘禹锡（772—842），字梦得，中唐诗人，和白居易很要好，人称“刘白”。他因为参加政治改革，被贬到外地二十多年，但性格乐观坚强。他写了很多怀古诗，比如《乌衣巷》《西塞山怀古》，常常借历史感叹兴亡。",
+  "en": "Liu Yuxi (772–842) was a mid Tang poet and a close friend of Bai Juyi; the two were called \"Liu and Bai\". Because he took part in a political reform, he was sent away from the capital for over twenty years, yet he stayed cheerful and strong. He wrote many poems about the past, such as \"Black Robe Lane\", often using history to reflect on the rise and fall of states."
+ },
+ "appreciation": {
+  "zh": "前四句是赞美。一开头就说刘备的英雄气概充满天地，千年后还让人敬畏，气势很大。接着说他三分天下、想要复兴汉朝，功业了不起。第五、六句一扬一抑：他得到了诸葛亮这样的好丞相，才能建国；可儿子刘禅却不争气。最后两句讲一个历史故事：蜀亡后，魏国让蜀国的歌舞艺人在刘禅面前表演，旁人都很伤心，刘禅却笑着说“此间乐，不思蜀”。诗人不直接骂刘禅，只写艺人在魏宫跳舞，悲凉的感觉却更深了。",
+  "en": "The first four lines are praise. Right away the poet says Liu Bei's heroic spirit fills heaven and earth and still inspires awe a thousand years later. That is a grand opening. Then he says Liu Bei split the land three ways and tried to restore the Han, a great achievement. Lines five and six go up and then down: Liu Bei found a fine minister in Zhuge Liang and could found a state, but his son Liu Shan was a failure. The last two lines point to a story from history. After Shu fell, Wei had the dancers of Shu perform before Liu Shan. Everyone else was heartbroken, but Liu Shan laughed and said he was happy here and did not miss Shu. The poet does not scold Liu Shan directly. He only shows the dancers performing in the Wei palace, and the sadness runs even deeper."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "hero",
+   "three-kingdoms",
+   "rise-and-fall"
+  ]
+ },
+ "uncertain": []
+}

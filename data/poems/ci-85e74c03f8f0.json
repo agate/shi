@@ -1,0 +1,877 @@
+{
+ "id": "ci-85e74c03f8f0",
+ "kind": "ci",
+ "title": "贺新郎·梦冷黄金屋",
+ "title_en": "To the Tune of He Xin Lang: Cold Dreams of the Golden House",
+ "author": "蒋捷",
+ "author_en": "Jiang Jie",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调，一百一十六字",
+  "en": "ci lyric in two stanzas, 116 characters"
+ },
+ "lines": [
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "屋",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "阵",
+    "zhèn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "扑",
+    "pū"
+   ]
+  ],
+  [
+   [
+    "化",
+    "huà"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "纱",
+    "shā"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "荆",
+    "jīng"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "菽",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "台",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "涌",
+    "yǒng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "棋",
+    "qí"
+   ],
+   [
+    "局",
+    "jú"
+   ]
+  ],
+  [
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "嫌",
+    "xián"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "碎",
+    "suì"
+   ],
+   [
+    "泻",
+    "xiè"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "玉",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "悰",
+    "cóng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "再",
+    "zài"
+   ],
+   [
+    "展",
+    "zhǎn"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "卜",
+    "bǔ"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "样",
+    "yàng"
+   ]
+  ],
+  [
+   [
+    "描",
+    "miáo"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "绡",
+    "xiāo"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "幅",
+    "fú"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "束",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "牙",
+    "yá"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "袖",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "竹",
+    "zhú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  13
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "斜鸿阵，像斜飞的雁群一样排列的筝柱。“斜”现在读 xié。",
+   "en": "This phrase means the zither bridges set in a slanting line like flying geese. The character is read xié today."
+  },
+  {
+   "line": 10,
+   "pos": 2,
+   "char": "弹",
+   "pinyin": "tán",
+   "zh": "弹棋，古代一种用手指弹棋子的游戏，“弹”读 tán。",
+   "en": "Tán qí is an old game in which pieces are flicked with the fingers, so the character is read tán."
+  },
+  {
+   "line": 14,
+   "pos": 2,
+   "char": "悰",
+   "pinyin": "cóng",
+   "zh": "芳悰，美好的心情。“悰”读 cóng。",
+   "en": "Fāng cóng means a sweet, happy mood. The second character is read cóng."
+  },
+  {
+   "line": 23,
+   "pos": 0,
+   "char": "解",
+   "pinyin": "jiě",
+   "zh": "解听，懂得欣赏，“解”读 jiě。",
+   "en": "Here the word means to know how to listen to and enjoy, so the character is read jiě."
+  },
+  {
+   "line": 23,
+   "pos": 4,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "曲，歌曲，读 qǔ。",
+   "en": "Here the character means a song, so it is read qǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "黄金屋：华美的宫殿。用汉武帝“金屋藏娇”的故事：他小时候说过，如果娶了阿娇，就造一座金屋给她住。",
+   "en": "huáng jīn wū: a golden house, a splendid palace. It comes from the story of Emperor Wu of Han, who as a boy said he would build a golden house for his cousin A Jiao if he married her."
+  },
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "梦冷：梦里的一切都冷落了，指繁华已经过去。",
+   "en": "mèng lěng: the dream has grown cold; the glory is gone."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "秦筝：筝，一种弹拨的弦乐器，相传出自秦地。",
+   "en": "qín zhēng: the zheng, a plucked zither said to come from the old land of Qin."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 3,
+   "zh": "斜鸿阵：筝上支弦的柱子斜斜排开，像一行飞雁。",
+   "en": "xié hóng zhèn: the bridges that hold up the zither strings run in a slanting line, like a line of flying geese."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "素弦尘扑：白色的琴弦上落满了灰尘，说明很久没人弹了。",
+   "en": "sù xián chén pū: dust has settled on the white strings; no one has played it for a long time."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "娇莺：可爱的黄莺。这里说梦中的魂化成黄莺飞回旧居。",
+   "en": "jiāo yīng: a lovely oriole. Here the dreaming soul turns into an oriole and flies back to the old home."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "旧绿：从前熟悉的绿纱窗。",
+   "en": "jiù lǜ: the old, familiar green of the gauze window."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "荆桃：樱桃。",
+   "en": "jīng táo: cherries."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "如菽：像豆子一样大小。菽，豆子。",
+   "en": "rú shū: as small as beans. Shū means beans."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "琼台：玉做的台子，这里指精美的棋盘。",
+   "en": "qióng tái: a jade stand; here, a fine game board."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 5,
+   "zh": "弹棋局：弹棋的棋盘，中间高高隆起。李商隐有诗说“玉作弹棋局，中心最不平”，这里用来比喻心里的不平。",
+   "en": "tán qí jú: the board for the flicking game, which rises in the middle. Li Shangyin wrote that such a board is most uneven at its heart. Here it stands for a heart that cannot be at peace."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "嫌明烛：讨厌明亮的烛光，怕照出自己消瘦的身影。",
+   "en": "xián míng zhú: to dislike bright candles, for fear they show how thin one has grown."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "鸳楼：华美的楼阁。鸳，鸳鸯，常比喻恩爱的人。",
+   "en": "yuān lóu: a fine tower. Yuān is the mandarin duck, a sign of loving couples."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 7,
+   "zh": "碎泻东西玉：玉器被打碎，洒落得到处都是。“东西玉”一说是酒器的名字。这里比喻美好的一切被毁掉、四散。",
+   "en": "suì xiè dōng xī yù: jade smashed and scattered everywhere. One view says east-west jade was the name of a kind of wine cup. It stands for everything lovely being broken and scattered."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "芳悰：美好的心情。有的版本作“芳踪”，指美人的踪迹。",
+   "en": "fāng cóng: a sweet, happy mood. Some editions have a word meaning the lovely woman's traces instead."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "翠钗难卜：用翠玉钗来占卜也难算出结果。古代女子有用钗占卜的习俗。",
+   "en": "cuì chāi nán bǔ: even telling fortunes with a jade hairpin cannot give an answer. Women of old sometimes used hairpins to tell fortunes."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "宫眉：宫里流行的画眉样子。",
+   "en": "gōng méi: the eyebrow style popular in the palace."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 7,
+   "zh": "横云样：像横着的云那样的眉形。",
+   "en": "héng yún yàng: eyebrows shaped like a drifting band of cloud."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "生绡：没有煮过的生丝织成的绢，可以作画。",
+   "en": "shēng xiāo: raw silk cloth, used to paint on."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "妆束：打扮。",
+   "en": "zhuāng shù: one's make-up and dress."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "红牙：红色的牙板，唱歌时用来打拍子。",
+   "en": "hóng yá: red clappers made of ivory or wood, used to beat time when singing."
+  },
+  {
+   "line": 23,
+   "start": 2,
+   "end": 5,
+   "zh": "开元曲：唐玄宗开元年间的歌曲。开元是唐朝最兴盛的时期，这里借指宋朝的旧曲。",
+   "en": "kāi yuán qǔ: songs of the Kaiyuan years, the high point of the Tang. Here they stand for songs of the old Song days."
+  },
+  {
+   "line": 24,
+   "start": 1,
+   "end": 3,
+   "zh": "空掩袖，倚寒竹：杜甫《佳人》里写一位被抛弃的女子“天寒翠袖薄，日暮倚修竹”，这里化用这两句。",
+   "en": "kōng yǎn xiù, yǐ hán zhú: Du Fu's poem The Fair Lady describes an abandoned woman in thin green sleeves leaning on tall bamboo in the cold. These lines borrow that picture."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "黄金屋里的美梦已经冷落。",
+   "en": "The dream of the golden house has grown cold."
+  },
+  {
+   "zh": "可叹那架秦筝，",
+   "en": "Alas for the zither:"
+  },
+  {
+   "zh": "在像斜飞雁群一样的筝柱间，",
+   "en": "among its bridges, slanting like flying geese,"
+  },
+  {
+   "zh": "白色的琴弦落满了灰尘。",
+   "en": "dust covers the white strings."
+  },
+  {
+   "zh": "梦魂化成娇小的黄莺飞回去，",
+   "en": "My dreaming soul becomes an oriole and flies back,"
+  },
+  {
+   "zh": "还认得那熟悉的绿纱窗。",
+   "en": "and still knows the old green gauze window."
+  },
+  {
+   "zh": "刚下过一场雨，",
+   "en": "A rain has just passed,"
+  },
+  {
+   "zh": "樱桃才结得像豆子那么小。",
+   "en": "and the cherries are only as big as beans."
+  },
+  {
+   "zh": "这份怨恨难以平复，你知道吗？",
+   "en": "This sorrow cannot be smoothed away; do you know?"
+  },
+  {
+   "zh": "就像玉做的棋盘上，",
+   "en": "It is like the jade game board"
+  },
+  {
+   "zh": "中间高高隆起，总是不平。",
+   "en": "that rises in the middle and is never level."
+  },
+  {
+   "zh": "身影一天天消瘦，",
+   "en": "My shadow grows thinner every day,"
+  },
+  {
+   "zh": "连明亮的烛光都怕照见。",
+   "en": "and I shrink from the bright candles."
+  },
+  {
+   "zh": "华美的楼阁里，玉器碎了，洒落四处。",
+   "en": "In the fine tower, the jade is smashed and scattered everywhere."
+  },
+  {
+   "zh": "问一问那美好的心情，",
+   "en": "I ask when that happy mood"
+  },
+  {
+   "zh": "什么时候才能再有？",
+   "en": "will ever come again,"
+  },
+  {
+   "zh": "用翠钗占卜，也算不出来。",
+   "en": "but the jade hairpin cannot tell the answer."
+  },
+  {
+   "zh": "我想把宫里横云一样的眉样，",
+   "en": "I want to take the palace eyebrows, shaped like bands of cloud,"
+  },
+  {
+   "zh": "画到生绢上，",
+   "en": "and paint them on raw silk,"
+  },
+  {
+   "zh": "又怕这已经不是",
+   "en": "but I fear that this is no longer"
+  },
+  {
+   "zh": "如今流行的打扮了。",
+   "en": "the fashion of today."
+  },
+  {
+   "zh": "彩扇和红牙板现在都还在，",
+   "en": "The painted fan and red clappers are all still here;"
+  },
+  {
+   "zh": "只恨没有人",
+   "en": "I only grieve that no one"
+  },
+  {
+   "zh": "懂得欣赏开元年间的老曲子了。",
+   "en": "knows how to listen to the songs of the Kaiyuan days."
+  },
+  {
+   "zh": "我只能白白地掩着衣袖，",
+   "en": "I can only hide my hands in my sleeves for nothing,"
+  },
+  {
+   "zh": "靠着寒冷的竹子站着。",
+   "en": "and lean against the cold bamboo."
+  }
+ ],
+ "background": {
+  "zh": "蒋捷生活在南宋末年，宋朝灭亡后他不肯做元朝的官，隐居起来。这首词借一位失宠宫女的口吻，写繁华不再、旧曲无人欣赏的哀怨。一般认为，词人是用宫女的遭遇来寄托亡国的悲痛；一说只是写宫怨。写作时间不详，大概在宋亡以后。",
+  "en": "Jiang Jie lived at the end of the Southern Song. After the Song fell, he refused to serve the new Yuan rulers and lived in hiding. This ci speaks in the voice of a palace lady who has lost favour. She grieves that the glory is gone and no one cares for the old songs. It is usually read as the poet using her story to carry his grief for the fallen dynasty; another view takes it simply as a palace lady's complaint. The year is not known, but it was probably written after the Song fell."
+ },
+ "author_note": {
+  "zh": "蒋捷，字胜欲，号竹山，阳羡（今江苏宜兴）人，南宋末年考中进士。宋亡后他隐居不出，人称“竹山先生”。他和周密、王沂孙、张炎被称为“宋末四大家”。他的词常写亡国之痛，语言精巧，最有名的是《一剪梅·舟过吴江》和《虞美人·听雨》。",
+  "en": "Jiang Jie, also called Shengyu and Zhushan, came from Yangxian, today's Yixing in Jiangsu. He passed the highest civil exam near the end of the Southern Song. After the Song fell, he lived in hiding and was known as Master Zhushan. He is counted among the four great ci writers at the end of the Song, with Zhou Mi, Wang Yisun and Zhang Yan. His ci often carry the pain of a fallen country, in finely made language. His best known are Yi Jian Mei: Passing Wujiang by Boat and Yu Mei Ren: Listening to the Rain."
+ },
+ "appreciation": {
+  "zh": "词一开头就是“梦冷”：黄金屋的繁华只剩下冷梦，秦筝落满灰尘，没人再弹。魂儿化作黄莺飞回旧居，还认得绿纱窗，可樱桃才小如豆子，一切都还没来得及成熟。心中的不平，像弹棋盘中间隆起，人也消瘦得怕见烛光。下阕更痛：楼里的玉器碎了一地，好心情再也找不回，占卜也算不出。想画上宫里的旧眉样，又怕早已不合时宜。扇子和牙板都在，却没人懂老曲子了。最后她掩着袖子靠着寒竹，像杜甫笔下的佳人。整首词句句写宫女，却处处让人想到一个灭亡的朝代和守着旧日不肯改变的人。",
+  "en": "The ci begins with a cold dream. Of the golden house's glory, only a cold dream is left; the zither is covered in dust and no one plays it. The soul turns into an oriole and flies home, and still knows the green gauze window, but the cherries are only as small as beans; nothing has had time to ripen. The heart is as uneven as the raised middle of a game board, and she has grown so thin she fears the candlelight. The second stanza hurts even more. The jade in the tower lies smashed, the happy mood cannot be found again, and no fortune-telling can say when it will return. She wants to paint the old palace eyebrow style, but fears it is long out of fashion. The fan and the clappers are still here, but no one understands the old songs. At last she hides her hands in her sleeves and leans on the cold bamboo, like the fair lady in Du Fu's poem. Every line is about a palace lady, yet everywhere it makes us think of a fallen dynasty and of people who keep faith with the old days."
+ },
+ "famous_lines": [
+  21,
+  22,
+  23
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "fallen-dynasty",
+   "palace",
+   "music",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,289 @@
+{
+ "id": "91f95b30-c42f-470a-9df8-dd6284fca474",
+ "kind": "shi",
+ "title": "隋宫",
+ "title_en": "The Sui Palace",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "兴",
+    "xìng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "戒",
+    "jiè"
+   ],
+   [
+    "严",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "省",
+    "xǐng"
+   ],
+   [
+    "谏",
+    "jiàn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "函",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "举",
+    "jǔ"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "裁",
+    "cái"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "障",
+    "zhàng"
+   ],
+   [
+    "泥",
+    "ní"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "帆",
+    "fān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "乘",
+   "pinyin": "chéng",
+   "zh": "“乘兴”的“乘”是趁着的意思，读 chéng。",
+   "en": "In chéng xìng, chéng means taking advantage of, and is read chéng."
+  },
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "兴",
+   "pinyin": "xìng",
+   "zh": "“兴”指兴致、高兴，读 xìng。",
+   "en": "Xìng here means high spirits, so it is read xìng."
+  },
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "省",
+   "pinyin": "xǐng",
+   "zh": "“省”在这里是察看、理会的意思，读 xǐng，不读 shěng。",
+   "en": "Here xǐng means to look into or heed, so it is read xǐng, not shěng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "乘兴：趁着一时高兴。",
+   "en": "chéng xìng: on a whim, while in high spirits."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "南游：到南方游玩。这里指隋炀帝坐船去江都，就是今天的江苏扬州。",
+   "en": "nán yóu: to travel south for pleasure. Here it means Emperor Yang of Sui sailing to Jiangdu, today's Yangzhou in Jiangsu."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "戒严：皇帝出行时加强警戒、做好防备。“不戒严”是说他随随便便就出发了，什么都不顾。",
+   "en": "jiè yán: to put guards on alert when the emperor travels. \"Not on alert\" means he set off carelessly, caring about nothing."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "九重：一层又一层的宫门，这里指深宫里的皇帝。",
+   "en": "jiǔ chóng: the ninefold gates, layer upon layer of palace doors; here it means the emperor deep inside his palace."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "省：察看，理会。",
+   "en": "xǐng: to look at, to pay attention to."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "谏书函：大臣劝皇帝改正错误的信。谏，劝告；函，信封、书信。",
+   "en": "jiàn shū hán: letters from ministers urging the emperor to change his ways. Jiàn means to admonish; hán is a letter."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "举国：全国上下。",
+   "en": "jǔ guó: the whole country."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "裁：用剪刀剪开。",
+   "en": "cái: to cut with scissors."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "宫锦：专门给皇宫织的华丽丝绸。",
+   "en": "gōng jǐn: fine brocade, rich silk woven for the palace."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "障泥：挂在马鞍两边、垂下来挡泥土的布。",
+   "en": "zhàng ní: mud guards, cloths hanging from both sides of a saddle to keep off mud."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 7,
+   "zh": "帆：船上挂的帆。传说隋炀帝的龙船用锦缎做帆。",
+   "en": "fān: a sail. Legend says Emperor Yang's dragon boats had sails made of brocade."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "隋炀帝趁着一时高兴就往南方游玩，什么防备都不做。",
+   "en": "On a whim, the emperor set off south to play, taking no care at all."
+  },
+  {
+   "zh": "深宫里的皇帝，谁去理会大臣们劝他的信呢？",
+   "en": "Deep in his palace, who would ever read the ministers' letters of warning?"
+  },
+  {
+   "zh": "春风里，全国上下都在剪裁宫中的锦缎，",
+   "en": "In the spring wind, the whole country is cutting palace brocade,"
+  },
+  {
+   "zh": "一半做成马的障泥，一半做成龙船的帆。",
+   "en": "half to make mud guards for horses, half to make sails for boats."
+  }
+ ],
+ "background": {
+  "zh": "隋宫指隋炀帝在江都（今江苏扬州）修的行宫。隋炀帝很爱享乐，几次坐着豪华的龙船，带着大队人马去江都游玩，花费了大量钱财，百姓非常辛苦。有大臣上书劝他不要去，竟被他处死。最后隋朝很快灭亡，他自己也死在江都。李商隐生活在晚唐，借隋朝的旧事来提醒当时的人。写作年份不能确定。",
+  "en": "The Sui palace here means the travel palace Emperor Yang of Sui built at Jiangdu, today's Yangzhou in Jiangsu. Emperor Yang loved pleasure. Several times he sailed to Jiangdu on splendid dragon boats with huge crowds of followers. It cost a great deal of money and was very hard on the people. Some ministers wrote to warn him not to go, and he had them put to death. Soon the Sui dynasty fell, and he himself died at Jiangdu. Li Shangyin, living in the late Tang, used this old story as a warning to his own time. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人，和杜牧并称“小李杜”。他的诗词句精美，含义很深。他写过好几首借古讽今的咏史诗，常常拿前朝皇帝的荒唐事，来说当时朝廷的问题。他还写过一首七言律诗，也叫《隋宫》。",
+  "en": "Li Shangyin (about 813–858) was a great late Tang poet. He and Du Mu are called \"the Little Li and Du\". His poems are finely worded and full of hidden meaning. He wrote several poems about history that use the past to criticize the present, often taking the follies of earlier emperors to point at problems in his own court. He also wrote an eight-line poem with the same title."
+ },
+ "appreciation": {
+  "zh": "这首诗不直接骂隋炀帝，只是把事情摆出来，让人自己去想。前两句写他的任性：想去就去，不做防备；大臣劝他，他根本不看。后两句画出一个夸张又真实的场面：春天到了，全国的人都在忙着剪锦缎，不是给百姓做衣服，而是给皇帝的马做障泥、给龙船做帆。锦缎那么贵重，却被拿去挡泥土、迎风吹。一个“举国”，写出了花钱之多、百姓之苦。读到这里，我们就明白隋朝为什么那么快就灭亡了。",
+  "en": "The poem does not scold Emperor Yang directly. It just lays out what happened and lets us think for ourselves. The first two lines show his willfulness. He goes wherever he likes, with no care for safety, and does not even look at his ministers' warnings. The last two lines paint a scene that is exaggerated yet true. Spring has come, and the whole country is busy cutting brocade. Not to clothe the people, but to make mud guards for the emperor's horses and sails for his boats. Such precious silk is used to block mud and catch the wind. The words \"the whole country\" show how much was spent and how the people suffered. Reading this, we understand why the Sui fell so quickly."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "satire",
+   "emperor"
+  ]
+ },
+ "uncertain": []
+}

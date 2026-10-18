@@ -1,0 +1,347 @@
+{
+ "id": "59fb3f01-65b2-416a-aefb-c13e502bfba1",
+ "kind": "shi",
+ "title": "塞下曲四首·其二",
+ "title_en": "Songs Below the Frontier, No. 2",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "饮",
+    "yìn"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "刀",
+    "dāo"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "没",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "洮",
+    "táo"
+   ]
+  ],
+  [
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "战",
+    "zhàn"
+   ]
+  ],
+  [
+   [
+    "咸",
+    "xián"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "足",
+    "zú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "古",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "蒿",
+    "hāo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "饮",
+   "pinyin": "yìn",
+   "zh": "“饮马”是让马喝水，“饮”读 yìn，不读 yǐn。",
+   "en": "Yìn mǎ means to let horses drink, so the character is read yìn, not yǐn."
+  },
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "没",
+   "pinyin": "mò",
+   "zh": "“没”是沉下去的意思，读 mò，不读 méi。",
+   "en": "Here it means to sink out of sight, read mò, not méi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "饮马：给马喝水。",
+   "en": "yìn mǎ: to water the horses."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "秋水：秋天的河水。",
+   "en": "qiū shuǐ: river water in autumn."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "平沙：一望无边的沙漠。",
+   "en": "píng shā: flat desert stretching far away."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "黯黯：昏暗、模模糊糊的样子。",
+   "en": "àn àn: dim and hazy."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "临洮：古地名，在今天甘肃岷县一带，秦朝长城的西头从这里开始。",
+   "en": "lín táo: an old place name, around today's Minxian in Gansu, where the western end of the Qin Great Wall began."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "长城战：在长城一带打的仗。一说指唐玄宗开元初年唐军在临洮一带打败吐蕃的战事。",
+   "en": "cháng chéng zhàn: battles near the Great Wall. One view says it means the early Kaiyuan years, when Tang armies beat the Tibetan forces near Lintao."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "咸言：大家都说。咸，都。",
+   "en": "xián yán: everyone says. Xián means all."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "意气高：斗志昂扬，士气很高。",
+   "en": "yì qì gāo: in high spirits, eager to fight."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "足今古：从古到今一直充满着。足，满。",
+   "en": "zú jīn gǔ: always filling the air, from ancient times to now. Zú means full."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "蓬蒿：蓬草和蒿草，泛指野草。",
+   "en": "péng hāo: tumbleweed and wormwood; wild weeds in general."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "牵着马渡过秋天的河，让马喝水，",
+   "en": "We cross the autumn river and let our horses drink."
+  },
+  {
+   "zh": "河水冰冷，风像刀子一样割人。",
+   "en": "The water is icy, and the wind cuts like a knife."
+  },
+  {
+   "zh": "一望无边的沙漠上，太阳还没落下，",
+   "en": "Over the endless desert, the sun has not yet set,"
+  },
+  {
+   "zh": "远远地，模模糊糊能看见临洮。",
+   "en": "and far off, dim and hazy, Lintao comes into view."
+  },
+  {
+   "zh": "当年在长城一带打仗，",
+   "en": "Of the battles long ago by the Great Wall,"
+  },
+  {
+   "zh": "人人都说将士们斗志昂扬。",
+   "en": "everyone says the soldiers fought in high spirits."
+  },
+  {
+   "zh": "可是从古到今，这里只有满天黄沙，",
+   "en": "Yet from ancient times to now, only yellow dust fills this place,"
+  },
+  {
+   "zh": "战士的白骨乱七八糟地丢在野草里。",
+   "en": "and the white bones of soldiers lie scattered among the weeds."
+  }
+ ],
+ "background": {
+  "zh": "“塞下曲”是唐代的一种乐府诗题，专门写边塞的生活和战争。王昌龄年轻时到过西北边塞，一般认为这组诗就是那时写的。他亲眼看到了边塞的荒凉，也看到了战争留下的白骨，所以这首诗不只是赞美打仗，更多的是对战争的反思。",
+  "en": "\"Songs Below the Frontier\" is an old song title used by Tang poets for poems about life and war on the border. Wang Changling traveled to the northwest frontier as a young man, and this set of poems is usually thought to come from that time. He saw for himself how bleak the border was, and the bones that war left behind. So this poem does not simply praise fighting; it looks hard at what war really costs."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），唐代诗人，最擅长七言绝句，被称为“七绝圣手”。他写了很多边塞诗，比如“秦时明月汉时关”那首《出塞》，和高适、岑参一样是边塞诗的名家。",
+  "en": "Wang Changling (about 698 to about 757) was a Tang poet best at seven-character quatrains, called the Master of the Seven-Character Quatrain. He wrote many frontier poems, such as \"Out to the Frontier\", which begins with the moon of Qin and the passes of Han. Like Gao Shi and Cen Shen, he is a leading frontier poet."
+ },
+ "appreciation": {
+  "zh": "开头就让人冷得发抖：秋天的河水冰凉，风像刀一样割在脸上。接着画面拉远，一大片沙漠，太阳挂在天边，远处的临洮城模模糊糊。在这样荒凉的地方，诗人想起当年的长城大战，人人都说那时的将士多么英勇。可最后两句一下把热闹打碎：从古到今，这里只有漫天黄沙，战士的白骨散落在野草中。前面说“意气高”，后面是“白骨乱”，一对比，战争的残酷就清清楚楚了。",
+  "en": "The opening makes you shiver. The autumn river is icy, and the wind slices your face like a knife. Then the view pulls back: a vast desert, the sun hanging low, the town of Lintao dim in the distance. In this bleak place, the poet thinks of the great battles by the Great Wall long ago, when everyone praised the soldiers' courage. But the last two lines smash that glory. From ancient times to now there is only yellow dust, and soldiers' white bones scattered in the weeds. High spirits first, scattered bones at the end: that contrast makes the cruelty of war perfectly clear."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "desert",
+   "history"
+  ]
+ },
+ "uncertain": []
+}

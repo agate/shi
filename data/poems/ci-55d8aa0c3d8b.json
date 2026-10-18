@@ -1,0 +1,1025 @@
+{
+ "id": "ci-55d8aa0c3d8b",
+ "kind": "ci",
+ "title": "兰陵王·春恨",
+ "title_en": "Prince of Lanling: Spring Sorrow",
+ "author": "张元干",
+ "author_en": "Zhang Yuangan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（长调，三叠）",
+  "en": "ci lyric (long tune, three stanzas)"
+ },
+ "lines": [
+  [
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "箔",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "阁",
+    "gé"
+   ]
+  ],
+  [
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "药",
+    "yào"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "妒",
+    "dù"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "恶",
+    "è"
+   ]
+  ],
+  [
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "梢",
+    "shāo"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "嫩",
+    "nèn"
+   ],
+   [
+    "萼",
+    "è"
+   ]
+  ],
+  [
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "掩",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "熏",
+    "xūn"
+   ]
+  ],
+  [
+   [
+    "中",
+    "zhòng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "勺",
+    "sháo"
+   ]
+  ],
+  [
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "京",
+    "jīng"
+   ],
+   [
+    "洛",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ]
+  ],
+  [
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "著",
+    "zhuó"
+   ]
+  ],
+  [
+   [
+    "障",
+    "zhàng"
+   ],
+   [
+    "泥",
+    "ní"
+   ],
+   [
+    "油",
+    "yóu"
+   ],
+   [
+    "壁",
+    "bì"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "梳",
+    "shū"
+   ],
+   [
+    "掠",
+    "lüè"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "驰",
+    "chí"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "载",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "约",
+    "yuē"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "漂",
+    "piāo"
+   ],
+   [
+    "泊",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "乐",
+    "lè"
+   ]
+  ],
+  [
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "襟",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "索",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "璧",
+    "bì"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "昨",
+    "zuó"
+   ]
+  ],
+  [
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "表",
+    "biǎo"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "鹤",
+    "hè"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "除",
+    "chú"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "却",
+    "què"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11,
+  19
+ ],
+ "text_note": {
+  "zh": "原始资料第一句作“朱箔”（红帘），通行本（如《宋词三百首》）多作“珠箔”（珠帘），这里从通行本。第十句作“沈水”，这是繁体转简体时的错字：“沈水”就是“沉水”（沉香），今天写作“沉”，这里改正。",
+  "en": "In line 1 the source text has zhū meaning \"red\" (a red curtain); common editions such as Three Hundred Song Lyrics have zhū meaning \"pearl\" (a beaded curtain), used here. The source text writes the first character of line 10 as shěn, a slip from machine conversion. The word is chén shuǐ, agarwood incense, written today with the character for chén. It is corrected here."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝雨：早上的雨，“朝”是早晨的意思，读 zhāo，不读 cháo。",
+   "en": "zhāo yǔ: morning rain. Here the character means \"morning\" and is read zhāo, not cháo."
+  },
+  {
+   "line": 10,
+   "pos": 0,
+   "char": "中",
+   "pinyin": "zhòng",
+   "zh": "中酒：喝醉了酒，难受。“中”读 zhòng，像“中暑”的“中”。",
+   "en": "zhòng jiǔ: sick from too much wine. The character is read zhòng, as in \"to be struck by\"."
+  },
+  {
+   "line": 13,
+   "pos": 3,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "迷著：沉迷在里面。“著”同“着”，这里读 zhuó，和本段的“洛、掠、约”押韵。",
+   "en": "mí zhuó: lost in it. The character is read zhuó here, which rhymes with the other line endings in this stanza."
+  },
+  {
+   "line": 25,
+   "pos": 0,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "那回：哪里还会回来。“那”在这里同“哪”，读 nǎ。",
+   "en": "nǎ huí: how could they ever come back. Here the character means \"how, which\" and is read nǎ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "珠箔：用珠子串成的帘子，泛指华美的帘子。",
+   "en": "zhū bó: a curtain of strung beads, or any fine curtain."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "乍阁：刚刚停住。“阁”同“搁”，停止。",
+   "en": "zhà gé: has just stopped."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "烟柳弄晴：像笼着轻烟的柳树，在晴光里轻轻摇摆。",
+   "en": "yān liǔ nòng qíng: willows that look wrapped in mist sway in the sunshine."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "侵阶：长到了台阶上。",
+   "en": "qīn jiē: growing right up onto the steps."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "红药：红色的芍药花。",
+   "en": "hóng yào: red peonies."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "妒花恶：好像嫉妒花儿，吹得很凶。",
+   "en": "dù huā è: as if jealous of the flowers, blowing cruelly."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "嫩萼：嫩嫩的花苞。萼是包在花外面的绿色小片。",
+   "en": "nèn è: tender flower buds. The è are the small green leaves around a flower."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "屏山：屏风。上面常画着山水，所以叫屏山。",
+   "en": "píng shān: a folding screen, often painted with mountains, hence the name."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "沉水：沉香，一种很香的木头，可以点来熏屋子。",
+   "en": "chén shuǐ: agarwood, a fragrant wood burned as incense."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "倦熏：懒得去点香。",
+   "en": "juàn xūn: too weary to burn the incense."
+  },
+  {
+   "line": 10,
+   "start": 5,
+   "end": 7,
+   "zh": "杯勺：酒杯和舀酒的勺子，代指喝酒。",
+   "en": "bēi sháo: wine cups and ladles, meaning drinking."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "寻思：回想。",
+   "en": "xún sī: to think back."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "旧京洛：旧日的京城。京洛本指洛阳，后来泛指京城，这里指北宋的都城汴京（今河南开封）。",
+   "en": "jiù jīng luò: the old capital. The phrase first meant Luoyang, then any capital. Here it is the Northern Song capital, Bianjing (today's Kaifeng in Henan)."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "疏狂：无拘无束，任性放纵。",
+   "en": "shū kuáng: free and wild, with no restraint."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "障泥：挂在马鞍两边挡泥的垫子，这里代指马。",
+   "en": "zhàng ní: mud flaps hung on both sides of a saddle; here it means the horse."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "油壁：油壁车，车壁漆得光亮的车子，古代女子常坐。",
+   "en": "yóu bì: a carriage with glossy painted sides, often ridden by women."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 7,
+   "zh": "催梳掠：催她快点梳头打扮。",
+   "en": "cuī shū lüè: urging her to hurry and do her hair."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "驰道：京城里皇帝车马走的大道。",
+   "en": "chí dào: the wide imperial road in the capital."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "同载：坐同一辆车。",
+   "en": "tóng zài: riding in the same carriage."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "上林：上林苑，本是汉代皇家园林，这里指京城的皇家园林。",
+   "en": "shàng lín: the Shanglin Park, a Han royal garden; here the royal gardens of the capital."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "灯夜：元宵节晚上，家家挂灯。",
+   "en": "dēng yè: the night of the Lantern Festival, when lanterns hang everywhere."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 7,
+   "zh": "早共约：就已经约好下一次相会。",
+   "en": "zǎo gòng yuē: already made plans to meet again."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "争信：怎么能相信。“争”是“怎”的意思。",
+   "en": "zhēng xìn: how could one believe. Zhēng here means \"how\"."
+  },
+  {
+   "line": 20,
+   "start": 1,
+   "end": 3,
+   "zh": "行乐：从前一起玩乐的日子。",
+   "en": "xíng lè: the happy times of the past."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 1,
+   "zh": "甚：为什么、怎么会。",
+   "en": "shèn: why, how is it that."
+  },
+  {
+   "line": 21,
+   "start": 1,
+   "end": 5,
+   "zh": "粉淡衣襟：衣襟上留下的脂粉香已经淡了。",
+   "en": "fěn dàn yī jīn: the face powder left on the robe has faded."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 4,
+   "zh": "弦索：琴弦，代指弹奏的乐器。",
+   "en": "xián suǒ: instrument strings, meaning music."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 4,
+   "zh": "琼枝璧月：玉一样的树枝，玉璧一样圆的月亮。南朝陈后主宫中有诗句“璧月夜夜满，琼树朝朝新”，这里借来写京城繁华的春夜。",
+   "en": "qióng zhī bì yuè: jade-like branches and a moon round as a jade disk. A poem at the court of the Chen dynasty ruler said \"The jade moon is full every night, the jade trees are new every morning.\" Here it paints a splendid spring night in the capital."
+  },
+  {
+   "line": 23,
+   "start": 4,
+   "end": 7,
+   "zh": "春如昨：春天还和从前一样。",
+   "en": "chūn rú zuó: spring is just as it was before."
+  },
+  {
+   "line": 24,
+   "start": 0,
+   "end": 1,
+   "zh": "怅：惆怅，失落。",
+   "en": "chàng: sad and lost."
+  },
+  {
+   "line": 24,
+   "start": 3,
+   "end": 5,
+   "zh": "华表：立在宫殿、城门或坟墓前的大石柱。",
+   "en": "huá biǎo: a tall stone pillar in front of a palace, city gate or tomb."
+  },
+  {
+   "line": 25,
+   "start": 2,
+   "end": 4,
+   "zh": "双鹤：传说丁令威学道成仙，化成一只鹤飞回家乡，落在城门的华表上，感叹城还在、人已经不同了。这里说两人分别后，再也不能一起回到旧地。",
+   "en": "shuāng hè: two cranes. Legend says Ding Lingwei became an immortal, turned into a crane, flew home and landed on the pillar at the city gate, sighing that the city was the same but the people had changed. Here it means the two lovers can never return together."
+  },
+  {
+   "line": 26,
+   "start": 2,
+   "end": 4,
+   "zh": "除是：除非是。",
+   "en": "chú shì: unless, except."
+  },
+  {
+   "line": 27,
+   "start": 3,
+   "end": 6,
+   "zh": "暂忘却：暂时忘掉。",
+   "en": "zàn wàng què: forget for a while."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "卷起珠帘，",
+   "en": "I roll up the beaded curtain."
+  },
+  {
+   "zh": "早上的雨和淡淡的阴云刚刚停住。",
+   "en": "The morning rain and light clouds have just stopped."
+  },
+  {
+   "zh": "栏杆外面，",
+   "en": "Beyond the railing,"
+  },
+  {
+   "zh": "柳树像笼着轻烟，在晴光里摇摆，",
+   "en": "misty willows sway in the sunshine,"
+  },
+  {
+   "zh": "青草长上了台阶，映着红色的芍药。",
+   "en": "and green grass climbs the steps beside red peonies."
+  },
+  {
+   "zh": "东风好像嫉妒花儿，吹得那么凶，",
+   "en": "The east wind seems jealous of the flowers and blows hard,"
+  },
+  {
+   "zh": "吹落了",
+   "en": "blowing down"
+  },
+  {
+   "zh": "枝头嫩嫩的花苞。",
+   "en": "the tender buds on the branches."
+  },
+  {
+   "zh": "屏风掩着，",
+   "en": "The screen is closed."
+  },
+  {
+   "zh": "沉香我也懒得去点，",
+   "en": "I am too weary to light the agarwood."
+  },
+  {
+   "zh": "酒醉难受，现在一看到酒杯就怕。",
+   "en": "Sick from wine, I dread the sight of a cup."
+  },
+  {
+   "zh": "回想起旧日在京城的时候，",
+   "en": "I think back to the old capital,"
+  },
+  {
+   "zh": "那时正年轻，无拘无束，",
+   "en": "when I was young and free,"
+  },
+  {
+   "zh": "沉醉在歌声和笑声里。",
+   "en": "lost in songs and laughter."
+  },
+  {
+   "zh": "马已备好，香车等着，我催她快点梳妆。",
+   "en": "The horse was ready, the carriage waiting, and I urged her to finish her hair."
+  },
+  {
+   "zh": "我们曾在大道上同坐一辆车，",
+   "en": "We rode together on the imperial road,"
+  },
+  {
+   "zh": "在皇家园林里手拉着手，",
+   "en": "walked hand in hand in the royal gardens,"
+  },
+  {
+   "zh": "元宵灯会刚过，就约好了下一次相会。",
+   "en": "and just after the Lantern Festival we promised to meet again."
+  },
+  {
+   "zh": "又怎么能想到，后来会四处漂泊。",
+   "en": "How could I have believed I would end up drifting far from home?"
+  },
+  {
+   "zh": "如今多么寂寞。",
+   "en": "Now, how lonely it is."
+  },
+  {
+   "zh": "想起从前的欢乐，",
+   "en": "I think of the happy times."
+  },
+  {
+   "zh": "为什么衣襟上的脂粉香已经淡了，",
+   "en": "Why has the powder on my robe faded,"
+  },
+  {
+   "zh": "琴弦声也断了？",
+   "en": "and why has the music stopped?"
+  },
+  {
+   "zh": "玉树明月，春天还和从前一样。",
+   "en": "Jade branches, a moon like a jade disk: spring is just as it was."
+  },
+  {
+   "zh": "可惜分别以后，那城门前的华表上，",
+   "en": "But sadly, since we parted, to the pillar by the city gate"
+  },
+  {
+   "zh": "哪里还会有一对仙鹤飞回来。",
+   "en": "no pair of cranes will ever return."
+  },
+  {
+   "zh": "这份相思，除非是",
+   "en": "This longing, unless"
+  },
+  {
+   "zh": "在醉梦里，才能暂时忘掉。",
+   "en": "I am drunk, I can never forget even for a while."
+  }
+ ],
+ "background": {
+  "zh": "张元干年轻时住在北宋京城汴京，过着热闹快活的日子。1127年，金兵攻破汴京，北宋灭亡，史称“靖康之变”。他后来到了南方，一直漂泊。这首词写春天的愁闷，回忆旧日在京城和心上人一起游玩的情景。一说它表面写男女相思，其实也寄托着对失去的故都的怀念。具体写作时间不详。",
+  "en": "As a young man, Zhang Yuangan lived in Bianjing, the Northern Song capital, and had a lively, happy life. In 1127 the Jin army took Bianjing and the Northern Song fell. This is known as the Jingkang Incident. He later went south and spent his life moving from place to place. This lyric is about spring sorrow. It recalls days in the capital spent with a loved one. One view says that on the surface it is about love, but it also carries longing for the lost old capital. The exact date is not known."
+ },
+ "author_note": {
+  "zh": "张元干（1091—约1161），字仲宗，号芦川居士，福建永福人，两宋之际的词人。北宋灭亡后，他坚决主张抗击金兵，反对求和，曾写词送别被贬的主战大臣胡铨，因此被朝廷削去官籍。他早年的词写得柔美，后来多写国家的苦难，悲壮激昂。",
+  "en": "Zhang Yuangan (1091–c. 1161), courtesy name Zhongzong, came from Yongfu in Fujian and lived as the Northern Song gave way to the Southern Song. After the north fell, he firmly called for fighting the Jin and opposed making peace. He once wrote a farewell lyric for Hu Quan, a minister banished for wanting war, and was struck from the rolls of officials for it. His early lyrics are soft and graceful; his later ones often mourn his country's suffering with passion."
+ },
+ "appreciation": {
+  "zh": "这首词分三段，像从“现在”走回“过去”，再回到“现在”。第一段是眼前的春天：雨停了，柳树摇着，芍药开着，可东风把嫩花苞吹落了。词人懒得点香，喝醉了难受，春天虽美，他却提不起精神。第二段一下子回到年轻时的京城：骑马、坐车、手拉手逛园子、元宵节约会，那么热闹。“又争信漂泊”一句，把美梦打断了。第三段回到眼前的寂寞：衣上的香淡了，琴声也断了，春天和从前一样，人却回不去了。最后说，只有喝醉，才能暂时忘掉。越是写当年的快乐，现在的孤单就越让人心酸。",
+  "en": "The lyric has three parts. It walks from the present back to the past, then returns to the present. The first part is the spring in front of him: the rain has stopped, willows sway, peonies bloom, but the east wind knocks down the tender buds. He cannot be bothered to light incense, he is sick from wine, and though spring is lovely he has no spirit for it. The second part leaps back to the capital of his youth: riding horses, sharing a carriage, walking hand in hand in the gardens, a date at the Lantern Festival. So lively. Then the line \"How could I have believed I would end up drifting\" breaks the sweet dream. The third part comes back to his loneliness now. The scent on his robe has faded, the music has stopped. Spring is the same as before, but he can never go back. At the end he says only being drunk lets him forget for a while. The happier the memories, the sadder his loneliness feels."
+ },
+ "famous_lines": [
+  23,
+  26,
+  27
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "love",
+   "homeland",
+   "drifting"
+  ]
+ },
+ "uncertain": []
+}

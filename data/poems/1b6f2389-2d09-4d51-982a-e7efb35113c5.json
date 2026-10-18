@@ -1,0 +1,260 @@
+{
+ "id": "1b6f2389-2d09-4d51-982a-e7efb35113c5",
+ "kind": "shi",
+ "title": "长信怨",
+ "title_en": "Lament of the Changxin Palace",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "奉",
+    "fèng"
+   ],
+   [
+    "帚",
+    "zhǒu"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "团",
+    "tuán"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "徘",
+    "pái"
+   ],
+   [
+    "徊",
+    "huái"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "及",
+    "jí"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "昭",
+    "zhāo"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文作“裴回”“寒鵶”，通行本写作“徘徊”“寒鸦”，意思一样。这首诗又作《长信秋词五首》其三，第二句也有版本作“且将团扇共徘徊”。",
+  "en": "The corpus uses older forms of the characters for pacing to and fro and for crow; common editions use the modern forms, with the same meaning. The poem also appears as the third of Five Autumn Poems of the Changxin Palace, and some editions begin line 2 slightly differently."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "奉帚：拿着扫帚打扫。这里指在长信宫做洒扫的事。",
+   "en": "fèng zhǒu: to hold a broom and sweep; here, doing the cleaning in the Changxin Palace."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "平明：天刚亮。",
+   "en": "píng míng: at dawn."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "金殿：华丽的宫殿。",
+   "en": "jīn diàn: a splendid palace hall."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "暂将：姑且拿着。将，拿。",
+   "en": "zàn jiāng: just holding for a while. Jiāng means to hold."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "团扇：圆形的扇子。汉代班婕妤写过一首诗，用秋天被丢在一边的团扇比喻失宠的自己。",
+   "en": "tuán shàn: a round fan. In Han times, Lady Ban wrote a poem comparing herself, out of favor, to a fan put away in autumn."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "徘徊：来回地走。",
+   "en": "pái huái: to walk back and forth."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "玉颜：像玉一样美的容貌。",
+   "en": "yù yán: a face as fair as jade."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "寒鸦：冬天的乌鸦，羽毛是黑色的。",
+   "en": "hán yā: the winter crow, a black bird."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "昭阳：汉代的昭阳殿，汉成帝宠爱的赵飞燕姐妹住在那里。",
+   "en": "Zhaoyang: the Zhaoyang Hall of the Han palace, where the emperor's favorite, Zhao Feiyan, and her sister lived."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "日影：阳光，这里比喻皇帝的恩宠。",
+   "en": "rì yǐng: sunlight; here a picture of the emperor's favor."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天刚亮，金殿的门打开了，她拿着扫帚去打扫，",
+   "en": "At dawn the golden hall opens, and she takes up her broom to sweep."
+  },
+  {
+   "zh": "扫完了，只好拿着团扇来回地走。",
+   "en": "Then she can only hold her round fan and pace to and fro."
+  },
+  {
+   "zh": "她美丽的容貌，反而比不上一只黑黑的寒鸦，",
+   "en": "Her jade-fair face is worth less than a black winter crow,"
+  },
+  {
+   "zh": "寒鸦还能带着昭阳殿的阳光飞过来。",
+   "en": "for the crow still flies in carrying the sunlight of the Zhaoyang Hall."
+  }
+ ],
+ "background": {
+  "zh": "这首诗借汉代的故事来写。汉成帝时，班婕妤很有才德，后来皇帝宠爱赵飞燕姐妹，她失宠了，就请求去长信宫侍奉太后，过着孤单的日子。唐代诗人常借这个故事写宫中女子的寂寞。王昌龄的《长信秋词》共五首，这是其中一首，写作的具体年份不详。",
+  "en": "This poem borrows a Han story. Under Emperor Cheng of Han, Lady Ban was talented and good. Later the emperor fell for the sisters Zhao Feiyan and lost interest in her. She asked to go serve the empress dowager in the Changxin Palace, and lived there alone. Tang poets often used her story to write about lonely palace women. This is one of Wang Changling's five Autumn Poems of the Changxin Palace. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），唐代诗人，被称为“七绝圣手”，意思是写七言绝句的高手。他不光写边塞诗，也写了很多宫怨诗，就是写宫中女子哀怨的诗，写得含蓄细腻。",
+  "en": "Wang Changling (about 698 to about 757) was a Tang poet known as the master of the seven-character quatrain. Besides frontier poems, he wrote many palace laments, poems about the sorrow of women at court. They are quiet and delicate."
+ },
+ "appreciation": {
+  "zh": "这首诗最妙的是第三、四句。乌鸦又黑又丑，美人又白又美，按理说乌鸦怎么能比得上美人？可是乌鸦能从皇帝住的昭阳殿飞过来，身上好像还带着那边的阳光；美人却再也见不到皇帝了。一个“不及”，把她的委屈和心酸全说出来了。前两句也很有画面：天一亮就去扫地，扫完无事可做，只能拿着一把团扇来回走。团扇正让人想起秋天被丢掉的扇子，就像被冷落的她。",
+  "en": "The best part is the third and fourth lines. A crow is black and plain, and she is fair and lovely. How could a crow be worth more? Yet the crow can fly over from the Zhaoyang Hall, where the emperor is, as if still carrying its sunlight. She will never see the emperor again. The words \"not as good as\" hold all her hurt and sorrow. The first two lines paint a clear picture too. At dawn she sweeps, and then, with nothing to do, she paces with a round fan. The fan reminds us of a fan put away in autumn, just as she has been put aside."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "loneliness",
+   "lament"
+  ]
+ },
+ "uncertain": []
+}

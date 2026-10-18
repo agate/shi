@@ -1,0 +1,731 @@
+{
+ "id": "ci-1d3b36e530e3",
+ "kind": "ci",
+ "title": "八声甘州·记玉关踏雪事清游",
+ "title_en": "Basheng Ganzhou: I Remember the Frontier Pass, Treading Snow on a Pure Journey",
+ "author": "张炎",
+ "author_en": "Zhang Yan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《八声甘州》，双调九十七字",
+  "en": "ci to the tune Basheng Ganzhou, 97 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "踏",
+    "tà"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "脆",
+    "cuì"
+   ],
+   [
+    "貂",
+    "diāo"
+   ],
+   [
+    "裘",
+    "qiú"
+   ]
+  ],
+  [
+   [
+    "傍",
+    "bàng"
+   ],
+   [
+    "枯",
+    "kū"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "饮",
+    "yìn"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "悠",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "短",
+    "duǎn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "表",
+    "biǎo"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "洒",
+    "sǎ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "题",
+    "tí"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "载",
+    "zài"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "佩",
+    "pèi"
+   ]
+  ],
+  [
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "折",
+    "zhé"
+   ],
+   [
+    "芦",
+    "lú"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "赠",
+    "zèng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "招",
+    "zhāo"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "感",
+    "gǎn"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "傍",
+   "pinyin": "bàng",
+   "zh": "“傍”在这里读 bàng，意思是靠着、沿着。",
+   "en": "Here this character is read bàng, meaning alongside or following."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "饮",
+   "pinyin": "yìn",
+   "zh": "“饮马”的“饮”读 yìn，意思是给马喝水。",
+   "en": "In yìn mǎ this character is read yìn, meaning to give the horse water."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "载",
+   "pinyin": "zài",
+   "zh": "“载取”的“载”读 zài，意思是装载、带着。",
+   "en": "In zài qǔ this character is read zài, meaning to carry along."
+  },
+  {
+   "line": 18,
+   "pos": 1,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "“斜”现在读 xié。",
+   "en": "This character is read xié today."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "玉关：玉门关，古代西北的边关。这里泛指北方寒冷的边远地方。",
+   "en": "yù guān: the Jade Gate Pass, an old frontier pass in the northwest. Here it simply means the cold, far-off north."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 8,
+   "zh": "清游：清雅的游历，这里指和朋友一起在北方的经历。",
+   "en": "qīng yóu: a pure, elegant journey; here, the trip in the north with his friend."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "脆貂裘：冷得连貂皮袍子都冻得发脆。貂裘，用貂皮做的厚袍子。",
+   "en": "cuì diāo qiú: so cold that even the sable fur coat seemed to turn brittle. Diāo qiú is a thick coat of sable fur."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "傍：沿着，靠着。",
+   "en": "bàng: along, beside."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "长河饮马：在长长的大河边让马喝水。",
+   "en": "cháng hé yìn mǎ: watering the horses at a long river."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "悠悠：长久，说不尽。",
+   "en": "yōu yōu: long-lasting, endless."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "江表：长江以南，就是江南。作者的家在江南。",
+   "en": "jiāng biǎo: the land south of the Yangtze, that is, the Jiangnan region, where the poet lived."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "老泪洒西州：东晋羊昙敬爱舅舅谢安，谢安死后，他走到西州城门，想起舅舅，痛哭而去。这里借来写怀念故人、伤心故国。",
+   "en": "lǎo lèi sǎ xī zhōu: in the Eastern Jin, Yang Tan loved his uncle Xie An. After Xie An died, Yang Tan reached the West Gate and burst into tears at the memory. Here it means weeping for lost friends and a lost country."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 5,
+   "zh": "一字无题处：一个字也没有写上。古代有在红叶上题诗传情的故事，这里说落叶上没有题字。",
+   "en": "yī zì wú tí chù: not a single word is written. There is an old story of lovers writing poems on red leaves; here the leaves carry no words."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "落叶都愁：可每一片落叶都是愁。",
+   "en": "luò yè dōu chóu: yet every falling leaf is full of sorrow."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 6,
+   "zh": "载取白云归去：带着白云回去，指朋友回去隐居。",
+   "en": "zài qǔ bái yún guī qù: carrying the white clouds home, that is, his friend going back to live as a hermit."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 5,
+   "zh": "楚佩：《楚辞》里有把玉佩留在江边送给心上人的句子。这里指留下情意的人。",
+   "en": "chǔ pèi: in the old Chu songs, a jade pendant is left by the river as a gift for a loved one. Here it means someone who leaves behind a token of friendship."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "弄影中洲：在水中小洲上看着自己的影子徘徊。中洲，水中间的小块陆地。",
+   "en": "nòng yǐng zhōng zhōu: lingering with one's shadow on an islet. Zhōng zhōu is a small island in the water."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "赠远：送给远方的人。",
+   "en": "zèng yuǎn: to send to someone far away."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 5,
+   "zh": "零落一身秋：自己像落叶一样孤单飘零，满身都是秋意。",
+   "en": "líng luò yī shēn qiū: scattered like fallen leaves, his whole self full of autumn."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "寻常：平常，普普通通。",
+   "en": "xún cháng: ordinary, everyday."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "沙鸥：沙滩上的鸥鸟。古人常用鸥鸟比喻隐居时的伙伴，这里指老朋友。",
+   "en": "shā ōu: gulls on the sand. Old poets used gulls as the companions of a quiet life; here they stand for old friends."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 3,
+   "zh": "空怀感：白白地满怀感慨。",
+   "en": "kōng huái gǎn: full of feeling, all for nothing."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "却怕登楼：却害怕登上高楼。登高远望最容易想家、想故人，古代王粲有《登楼赋》写这种心情。",
+   "en": "què pà dēng lóu: yet afraid to climb a tower. Looking far from high places brings homesickness and longing; the ancient poet Wang Can wrote a famous piece on this feeling."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "记得当年在北方边地踏雪，一起清雅地游历，",
+   "en": "I remember the frontier pass, treading snow on our journey together;"
+  },
+  {
+   "zh": "寒气冷得连貂皮袍子都发脆。",
+   "en": "the cold was so sharp our sable coats seemed to crack."
+  },
+  {
+   "zh": "沿着枯树林边的古道，",
+   "en": "Along old roads beside bare woods,"
+  },
+  {
+   "zh": "在长长的大河边让马喝水，",
+   "en": "we watered our horses at the long river;"
+  },
+  {
+   "zh": "这番情意悠长，说也说不尽。",
+   "en": "that feeling lingers on without end."
+  },
+  {
+   "zh": "如今短短的梦里还是江南，",
+   "en": "Now my short dreams are still of the south,"
+  },
+  {
+   "zh": "我却像羊昙那样，洒下老泪。",
+   "en": "and like Yang Tan at the West Gate I shed old tears."
+  },
+  {
+   "zh": "没有一个字写在上面，",
+   "en": "Not a single word is written on them,"
+  },
+  {
+   "zh": "可是片片落叶都是愁。",
+   "en": "yet every falling leaf is full of sorrow."
+  },
+  {
+   "zh": "你带着白云回去隐居了，",
+   "en": "You go home carrying the white clouds;"
+  },
+  {
+   "zh": "问一问，还有谁会留下玉佩寄托情意，",
+   "en": "who, I ask, will leave a jade pendant as a token,"
+  },
+  {
+   "zh": "在水中小洲上独自徘徊？",
+   "en": "and linger with their shadow on the islet?"
+  },
+  {
+   "zh": "我折下芦花，想送给远方的你，",
+   "en": "I pick reed flowers to send to you far away;"
+  },
+  {
+   "zh": "自己孤单飘零，满身都是秋意。",
+   "en": "alone and scattered, I am all autumn."
+  },
+  {
+   "zh": "到那平常的野桥流水边，",
+   "en": "By an ordinary country bridge and stream,"
+  },
+  {
+   "zh": "想要招呼鸥鸟过来，",
+   "en": "I try to call the gulls to me,"
+  },
+  {
+   "zh": "来的却不是从前的那些老朋友了。",
+   "en": "but those that come are not the old gulls I knew."
+  },
+  {
+   "zh": "白白地满怀感慨，",
+   "en": "Full of feeling, all for nothing,"
+  },
+  {
+   "zh": "哪里有斜阳，",
+   "en": "wherever the sun sets low,"
+  },
+  {
+   "zh": "我就怕登上那里的高楼。",
+   "en": "I am afraid to climb the tower."
+  }
+ ],
+ "background": {
+  "zh": "这首词前面有一段小序，大意是：辛卯年（1291年），沈尧道和我一起从北方回来，各自住在杭州、绍兴一带。过了一年，尧道来看望我，说笑了几天又走了，我就写了这首词送他，也寄给朋友赵学舟。那时南宋已经灭亡，张炎和沈尧道曾一起北上，在寒冷的北方吃了不少苦。词的开头回忆的就是那段经历。",
+  "en": "The poem has a short preface. It says, roughly: in 1291 Shen Yaodao and I came back together from the north, and we settled near Hangzhou and Shaoxing. A year later Yaodao came to visit me in my loneliness. We talked and laughed for a few days, then he left again, so I wrote this for him and also sent it to our friend Zhao Xuezhou. The Southern Song had already fallen. Zhang Yan and Shen Yaodao had travelled north together and suffered in the cold there. The opening lines remember that journey."
+ },
+ "author_note": {
+  "zh": "张炎（1248—约1320），号玉田，宋末元初的词人。他出身贵族，祖上是南宋名将张俊。宋朝灭亡后，家产被没收，他从富贵公子变成四处漂泊的穷文人。他的词清雅空灵，常写亡国之痛和身世飘零，还写过讲作词方法的书《词源》。",
+  "en": "Zhang Yan (1248–about 1320) was a ci poet at the end of the Song and the start of the Yuan. He came from a noble family; his ancestor was the famous Southern Song general Zhang Jun. When the Song fell, the family lost everything, and he went from rich young lord to poor wandering scholar. His ci are clear and airy, often about the pain of a lost country and a drifting life. He also wrote a book on how to write ci."
+ },
+ "appreciation": {
+  "zh": "上片先回忆北方：大雪、寒风、枯林、古道、长河饮马，画面又冷又远，却是两个老朋友共同经历的日子，所以“此意悠悠”。接着回到眼前：梦里还是江南，醒来只有老泪。落叶上一个字也没写，却片片是愁，这一句写得很巧。下片写朋友又走了。他带着白云回去隐居，自己只能折一枝芦花，满身秋意。想招来沙鸥做伴，来的却不是旧时的鸥鸟，人事全非。最后说哪里有斜阳就怕登楼，因为一登楼，故国、故人都涌上心头。整首词没有大声喊痛，却处处是冷清和孤单。",
+  "en": "The first stanza remembers the north: heavy snow, bitter wind, bare woods, old roads, horses drinking at a long river. The pictures are cold and far away, yet these were days two old friends shared, so the feeling lingers on. Then he returns to the present: his dreams are still of the south, and he wakes to old tears. Not a word is written on the falling leaves, yet each one is sorrow; this is a clever line. The second stanza is about his friend leaving again. The friend goes home to the clouds, while the poet can only pick a reed flower, wrapped in autumn. He tries to call the gulls, but they are not the old ones; everything has changed. At last he says that wherever the sun sets, he dares not climb a tower, because from up there the lost country and lost friends would flood his heart. The poem never cries out loud, yet loneliness is everywhere in it."
+ },
+ "famous_lines": [
+  7,
+  8,
+  12,
+  13
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "parting",
+   "lost-country",
+   "loneliness",
+   "autumn"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,465 @@
+{
+ "id": "42f17f00-bbc1-4b5b-82c1-3e9e012725ba",
+ "kind": "shi",
+ "title": "赠阙下裴舍人",
+ "title_en": "To Secretary Pei at the Palace",
+ "author": "钱起",
+ "author_en": "Qian Qi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹂",
+    "lí"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "禁",
+    "jìn"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "阴",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "途",
+    "tú"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "霄",
+    "xiāo"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "捧",
+    "pěng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "献",
+    "xiàn"
+   ],
+   [
+    "赋",
+    "fù"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "遇",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "簪",
+    "zān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料首句作“黄莺”，通行本多作“黄鹂”，都是黄色羽毛、叫声好听的鸟。语料第六句末字作“新”，通行本作“心”；这首诗押“林、阴、深、心、簪”的韵，作“心”才合韵。",
+  "en": "The corpus has huang ying in line one; most common editions have huang li. Both name the same kind of yellow songbird, the oriole. The corpus ends line six with xin meaning new; common editions have xin meaning heart. The poem rhymes on lin, yin, shen, xin and zan, and only the character for heart fits the old rhyme."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "“尽”在这里是消失、完了的意思，读 jìn。",
+   "en": "Here this character means to fade away, and is read jìn."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长乐宫的“长”读 cháng。",
+   "en": "In the palace name Changle, this character is read cháng."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "“长怀”是长久地怀着，读 cháng。",
+   "en": "Here it means for a long time, and is read cháng."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "发",
+   "pinyin": "fà",
+   "zh": "“白发”的“发”指头发，读 fà。",
+   "en": "Here it means hair, and is read fà."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "黄鹂：黄莺，一种黄色羽毛、叫声好听的鸟。",
+   "en": "huáng lí: the oriole, a yellow bird with a sweet song."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "上林：上林苑，原是汉代皇家的大园林，这里指唐朝皇宫的园林。",
+   "en": "shàng lín: Shanglin Park, a great royal park of the Han. Here it means the Tang palace gardens."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "紫禁：皇宫。古人认为皇帝住的地方对应天上的紫微星，又禁止百姓进入，所以叫紫禁。",
+   "en": "zǐ jìn: the palace. The emperor's home was linked to the Purple Star in the sky, and ordinary people were forbidden to enter."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "晓：清晨。",
+   "en": "xiǎo: early morning."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "阴阴：幽暗的样子，这里写清晨树木浓密、天色还暗。",
+   "en": "yīn yīn: dim and shady. Here, thick trees in the dark of early morning."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "长乐：长乐宫，原是汉代宫殿，这里借指唐朝的宫殿。",
+   "en": "cháng lè: the Changle Palace of the Han, used here for the Tang palace."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "花外尽：钟声穿过花丛，慢慢消失。",
+   "en": "huā wài jìn: the bell's sound passes beyond the flowers and fades."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "龙池：唐代兴庆宫里的一个水池。",
+   "en": "lóng chí: Dragon Pond, a pool in the Xingqing Palace of the Tang."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "阳和：春天温暖的气息，这里比喻皇帝的恩泽。",
+   "en": "yáng hé: the warmth of spring. Here it stands for the emperor's kindness."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "穷途恨：走投无路的苦恼，指自己没有出路。",
+   "en": "qióng tú hèn: the pain of being at a dead end, with no way forward."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "霄汉：高空，这里比喻朝廷。",
+   "en": "xiāo hàn: the high sky. Here it stands for the court."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "捧日心：捧着太阳的心，比喻忠心为皇帝做事。日，比喻皇帝。",
+   "en": "pěng rì xīn: a heart that holds up the sun, meaning loyalty to the emperor. The sun stands for the emperor."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "献赋：向皇帝献上自己写的赋，希望得到赏识。汉代司马相如就是因为赋写得好被皇帝看中的。",
+   "en": "xiàn fù: to present one's writing to the emperor, hoping to be noticed. In the Han, Sima Xiangru was noticed by the emperor for his fine rhymed prose."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "未遇：没有遇到赏识自己的人，没有得到官职。",
+   "en": "wèi yù: not yet met with favor; not yet given a post."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "华簪：华贵的簪子。古代官员用簪子把帽子别在头发上，这里指做高官的裴舍人。",
+   "en": "huá zān: a fine hairpin. Officials used hairpins to fix their caps, so it means a high official, here Pei."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "二月里，黄鹂飞进了皇家的园林。",
+   "en": "In the second month, orioles fly into the royal gardens."
+  },
+  {
+   "zh": "春天的京城，清晨的皇宫一片幽暗。",
+   "en": "In the spring city, the palace is dim and shady in the early morning."
+  },
+  {
+   "zh": "长乐宫的钟声，穿过花丛渐渐消失。",
+   "en": "The bells of the palace fade away beyond the flowers."
+  },
+  {
+   "zh": "龙池边的柳树，在雨中显得更绿了。",
+   "en": "The willows by Dragon Pond turn a deeper green in the rain."
+  },
+  {
+   "zh": "春天的暖意，驱散不了我走投无路的苦恼。",
+   "en": "Spring's warmth cannot clear away my sorrow at having no way forward."
+  },
+  {
+   "zh": "可我心里一直怀着为朝廷效力的忠心。",
+   "en": "Yet I always keep a loyal heart, hoping to serve the court."
+  },
+  {
+   "zh": "我献赋求官已经十年，还是没有被赏识。",
+   "en": "For ten years I have offered my writing, and still no one has taken me up."
+  },
+  {
+   "zh": "头发都白了，在您这位高官面前真觉得羞愧。",
+   "en": "Now my hair is white, and I feel ashamed before you in your fine official's cap."
+  }
+ ],
+ "background": {
+  "zh": "裴舍人是一位姓裴的中书舍人，在皇帝身边起草诏书，他的名字已经不清楚了。“阙下”就是宫门下，指在朝廷做官。这首诗前面写皇宫里的春景，后面写自己多年得不到官职，是一首希望对方帮忙推荐自己的诗。一般认为写于钱起还没有得到官职的时候，具体年份不清楚。",
+  "en": "Secretary Pei was a palace secretary surnamed Pei who drafted the emperor's orders. His full name is no longer known. \"At the palace\" means serving at court. The first half of the poem shows spring in the palace; the second half tells of the poet's years without a post. It is a poem asking the other man to recommend him. It is usually thought to have been written before Qian Qi got an official post, but the year is not known."
+ },
+ "author_note": {
+  "zh": "钱起（约722—约780），字仲文，吴兴人，就是今天浙江湖州一带。他是“大历十才子”之一，天宝年间考中进士。他的诗写景清秀细致，这首诗里写钟声和柳色的两句就很有代表性。",
+  "en": "Qian Qi (about 722 to about 780) came from Wuxing, around today's Huzhou in Zhejiang. He was one of the Ten Talents of the Dali era and passed the imperial exam in the Tianbao years. His poems paint scenery in a clear and delicate way, and the two lines here about the bells and the willows are a good example."
+ },
+ "appreciation": {
+  "zh": "前四句像一幅春天皇宫的画：黄鹂飞进园林，清晨的宫殿还笼着幽暗的树影；钟声穿过花丛慢慢消失，雨中的柳树越来越绿。这些都是裴舍人每天看到的美景，也在夸他身处高位。后四句笔锋一转，写自己：春天这么暖，却暖不到我的心；我一心想为朝廷做事，可是献赋十年也没人理会。最后说头发白了，站在您面前真是羞愧。诗人求人帮忙，却说得含蓄得体，不卑不亢。",
+  "en": "The first four lines are like a painting of the palace in spring. Orioles fly into the gardens, and in the early morning the halls are still wrapped in dark tree shadows. The bells fade away through the flowers, and the willows grow greener in the rain. These are the sights Pei sees every day, and they also praise him for his high place. The last four lines turn to the poet himself. Spring is so warm, yet its warmth cannot reach his heart. He wants with all his heart to serve the court, but after ten years of offering his writing, no one has noticed. At last he says his hair is white, and he feels ashamed to stand before Pei. He is asking for help, but he says it gently and with dignity."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "career",
+   "ambition",
+   "old-age"
+  ]
+ },
+ "uncertain": []
+}

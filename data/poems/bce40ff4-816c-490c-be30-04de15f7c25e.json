@@ -1,0 +1,266 @@
+{
+ "id": "bce40ff4-816c-490c-be30-04de15f7c25e",
+ "kind": "shi",
+ "title": "题金陵渡",
+ "title_en": "Written at the Jinling Ferry",
+ "author": "张祜",
+ "author_en": "Zhang Hu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "津",
+    "jīn"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "宿",
+    "xiǔ"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "瓜",
+    "guā"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "宿",
+   "pinyin": "xiǔ",
+   "zh": "“一宿”是住一夜的意思，宿在这里一般读 xiǔ。也有读物读作 sù。",
+   "en": "Yī xiǔ means to stay one night, and here the character is usually read xiǔ. Some books read it sù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "金陵：这里指唐代的润州，就是今天的江苏镇江，不是今天的南京。唐朝人有时也把润州叫作金陵。",
+   "en": "jīn líng: here it means Runzhou in the Tang dynasty, today's Zhenjiang in Jiangsu, not today's Nanjing. Tang people sometimes called Runzhou by the name Jinling."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "津渡：渡口，坐船过江的地方。",
+   "en": "jīn dù: a ferry landing, where people take a boat across the river."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "小山楼：渡口边小山上的楼，是诗人住宿的地方。",
+   "en": "xiǎo shān lóu: a small building on a little hill by the ferry, where the poet stayed."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "一宿：住一夜。",
+   "en": "yī xiǔ: to stay one night."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "行人：出门在外、赶路的人，这里指诗人自己。",
+   "en": "xíng rén: a traveler far from home. Here it is the poet himself."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "自可愁：自然会感到忧愁。",
+   "en": "zì kě chóu: of course feels sad."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "潮落：江潮退下去。",
+   "en": "cháo luò: the tide in the river goes out."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "斜月：偏向西边、快要落下的月亮。",
+   "en": "xié yuè: the slanting moon, low in the west and about to set."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "星火：像星星一样小的点点灯火。",
+   "en": "xīng huǒ: tiny lights, small as stars."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "瓜州：长江北岸的一个小镇，在今天江苏扬州南边，和镇江隔江相对。",
+   "en": "guā zhōu: Guazhou, a small town on the north bank of the Yangtze, south of today's Yangzhou, facing Zhenjiang across the river."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "金陵渡口旁，小山上有一座小楼。",
+   "en": "By the Jinling ferry, a small building stands on a little hill."
+  },
+  {
+   "zh": "在这里住上一夜的旅人，自然满心忧愁。",
+   "en": "A traveler spending one night here cannot help feeling sad."
+  },
+  {
+   "zh": "夜里江潮退去，斜斜的月亮挂在江上。",
+   "en": "At night the tide goes out, and the slanting moon hangs over the river."
+  },
+  {
+   "zh": "对岸闪着两三点灯火，那里就是瓜州。",
+   "en": "Across the water, two or three tiny lights flicker. That is Guazhou."
+  }
+ ],
+ "background": {
+  "zh": "张祜一生没有做过官，常常在各地漫游。这首诗是他漫游江南时，夜里住在金陵渡口边的小楼上写的。这里的金陵渡在今天江苏镇江的长江边，对岸就是瓜州。夜深睡不着，他望着江面，写下了眼前的景色和心里的愁。具体写于哪一年，已经说不清了。",
+  "en": "Zhang Hu never held an official post and spent much of his life wandering from place to place. He wrote this poem while traveling south of the Yangtze, spending a night in a small building by the Jinling ferry. This ferry was on the Yangtze at today's Zhenjiang in Jiangsu, with Guazhou on the far bank. Late at night, unable to sleep, he gazed at the river and wrote down the scene and the sadness in his heart. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "张祜，字承吉，唐代诗人，生卒年说法不一，大约生活在九世纪前半叶。他很有才华，却一直没有做上官，一生大多在各地漫游，晚年隐居。他写景的小诗清新自然，最有名的是《宫词》，其中“故国三千里，深宫二十年”传诵很广。",
+  "en": "Zhang Hu, also called Chengji, was a Tang poet. Sources disagree on when he was born and died, but he lived roughly in the first half of the ninth century. He was very gifted but never got an official post. He spent most of his life traveling and lived as a recluse in old age. His short poems about scenery are fresh and natural. His most famous poem is \"Palace Song\", with the widely known lines about a girl three thousand li from home, shut in the palace for twenty years."
+ },
+ "appreciation": {
+  "zh": "第一句像在交代地点：渡口、小山、小楼，一个“小”字，让人觉得这里冷清又安静。第二句直接说出心情：一个人在外地过夜，自然发愁。后两句不再说愁，只写看到的景：潮水退了，月亮斜挂，夜里的江面又黑又宽。就在这一片黑暗里，对岸亮着两三点小小的灯火，诗人认出那是瓜州。灯火越小越少，越显得夜晚空旷、旅人孤单。这首诗像一幅淡淡的夜景画，愁绪就藏在画里。",
+  "en": "The first line sets the place: a ferry, a little hill, a small building. The word for small makes the spot feel quiet and lonely. The second line says the feeling straight out: spending a night alone far from home, of course he is sad. The last two lines stop talking about sadness and only show what he sees. The tide has gone out, the moon hangs low, and the river at night is dark and wide. In all that darkness, two or three tiny lights shine on the far bank, and the poet knows it is Guazhou. The fewer and smaller the lights, the emptier the night feels and the lonelier the traveler. The poem is like a soft painting of a night scene, with the sadness hidden inside it."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "night",
+   "river",
+   "moon",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,283 @@
+{
+ "id": "ci-dfbd756578db",
+ "kind": "ci",
+ "title": "忆王孙·春词",
+ "title_en": "Remembering the Young Lord: A Spring Lyric",
+ "author": "李重元",
+ "author_en": "Li Chongyuan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·忆王孙（单调）",
+  "en": "ci lyric to the tune Yi Wang Sun, one stanza"
+ },
+ "lines": [
+  [
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "孙",
+    "sūn"
+   ]
+  ],
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "宇",
+    "yǔ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "闻",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "打",
+    "dǎ"
+   ],
+   [
+    "梨",
+    "lí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "闭",
+    "bì"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "萋萋：草长得又密又茂盛的样子。",
+   "en": "qī qī: grass growing thick and lush."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "芳草：青草。",
+   "en": "fāng cǎo: green, fresh grass."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "王孙：本来指贵族的子孙，这里指远行在外、还没回来的人。古书《楚辞》里有一句“王孙游兮不归，春草生兮萋萋”，意思是远游的人不回来，春草又长得茂盛了。",
+   "en": "wáng sūn: once meant the sons of noble families. Here it means the loved one who went far away and has not come back. An old book, the Chu Ci, has a line saying the young lord travels and does not return, while the spring grass grows thick."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "柳外：柳树的那一边。",
+   "en": "liǔ wài: beyond the willow trees."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "空：白白地。",
+   "en": "kōng: in vain, for nothing."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "断魂：伤心到了极点，好像魂都要断了。",
+   "en": "duàn hún: so sad it feels as if the soul is breaking."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "杜宇：杜鹃鸟。传说是古代蜀国的国王杜宇死后变的。它的叫声听起来像“不如归去”（还不如回家去），所以让想家、想人的人更难过。",
+   "en": "dù yǔ: the cuckoo. Legend says it was once Du Yu, an ancient king of Shu, who turned into this bird after he died. Its call sounds like \"better go home\", so it makes people who miss someone even sadder."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "不忍闻：不忍心听。",
+   "en": "bù rěn wén: cannot bear to hear it."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "欲：将要，快要。",
+   "en": "yù: about to, soon."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "黄昏：太阳落山、天快黑的时候。",
+   "en": "huáng hūn: dusk, when the sun has set and it is getting dark."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "深闭门：把门关得紧紧的。",
+   "en": "shēn bì mén: shut the door tight."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "萋萋的春草长满了天边，让我想起远方还没回来的人。",
+   "en": "Thick spring grass stretches to the sky's edge, and I think of the one who went away."
+  },
+  {
+   "zh": "柳树那边的小楼高高的，我登楼远望，只是白白地伤心。",
+   "en": "Beyond the willows the tower stands tall. I climb it and gaze, but my heartache is all for nothing."
+  },
+  {
+   "zh": "杜鹃一声又一声地叫，我实在不忍心听。",
+   "en": "The cuckoo calls again and again, and I cannot bear to hear it."
+  },
+  {
+   "zh": "天快要黑了。",
+   "en": "Dusk is coming on."
+  },
+  {
+   "zh": "雨点打在梨花上，我把门紧紧关上。",
+   "en": "Rain beats on the pear blossoms, and I shut the door tight."
+  }
+ ],
+ "background": {
+  "zh": "这首词收在《宋词三百首》里，题目是“春词”，写的是春天里一个人思念远方亲人的心情。李重元一共留下四首《忆王孙》，分别写春、夏、秋、冬，这是写春天的那一首。具体写在什么时候、为谁而写，已经说不清了。一说这首词是秦观写的，但现在一般认为作者是李重元。",
+  "en": "This lyric is in the anthology Three Hundred Song Lyrics, under the heading \"A Spring Lyric\". It shows someone in spring missing a loved one far away. Li Chongyuan left four lyrics to this tune, one for each season, and this is the spring one. We no longer know when or for whom it was written. Some say it was written by Qin Guan, but today it is usually given to Li Chongyuan."
+ },
+ "author_note": {
+  "zh": "李重元，宋代词人，大约生活在北宋末年。他的生平几乎没有记载留下来，作品也只传下这四首《忆王孙》。虽然留下的很少，但这首春词写得清新自然，成了很多人喜欢背诵的小词。",
+  "en": "Li Chongyuan was a Song dynasty ci poet who probably lived near the end of the Northern Song. Almost nothing is recorded about his life, and only these four lyrics to Yi Wang Sun survive. Even so, this spring lyric is so fresh and natural that many people love to learn it by heart."
+ },
+ "appreciation": {
+  "zh": "这首词很短，只有五句，却像一组慢慢推近的镜头。先是满眼青草，一直长到天边，让人想起远方的人。再是柳树后面的高楼，有人站在楼上，望了又望，人还是没回来。接着传来杜鹃的叫声，好像在说“回来吧”，听得人心里更痛。天渐渐黑了，下起雨来，雨点打在雪白的梨花上，她只好把门关紧。最后一句不说一个“愁”字，可是关上的门、被雨打的梨花，把孤单和失望都写出来了。每一句都押韵，读起来声音连成一片，像细雨一样绵绵不断。",
+  "en": "This lyric has only five lines, yet it feels like a camera slowly moving closer. First we see green grass stretching all the way to the sky's edge, which brings the faraway person to mind. Then a tall tower behind the willows: someone stands there looking and looking, but no one comes. Next comes the cuckoo's cry, as if saying \"come home\", and it hurts even more to hear. Dusk falls and rain begins. The rain beats on the snow-white pear blossoms, and she can only shut the door tight. The last line never uses the word \"sorrow\", but the closed door and the rain-beaten blossoms show all her loneliness and disappointment. Every line rhymes, so the sounds run together like a soft, endless drizzle."
+ },
+ "famous_lines": [
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "rain",
+   "flowers",
+   "cuckoo",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

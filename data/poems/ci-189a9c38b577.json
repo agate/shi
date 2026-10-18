@@ -1,0 +1,422 @@
+{
+ "id": "ci-189a9c38b577",
+ "kind": "ci",
+ "title": "鹧鸪天·一点残红欲尽时",
+ "title_en": "Partridge Sky: When the Last Red Glow Is Nearly Gone",
+ "author": "周紫芝",
+ "author_en": "Zhou Zizhi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·鹧鸪天（双调）",
+  "en": "ci lyric to the tune Zhe Gu Tian, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "帏",
+    "wéi"
+   ]
+  ],
+  [
+   [
+    "梧",
+    "wú"
+   ],
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "离",
+    "lí"
+   ]
+  ],
+  [
+   [
+    "调",
+    "tiáo"
+   ],
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "瑟",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "拨",
+    "bō"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "猊",
+    "ní"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "唱",
+    "chàng"
+   ],
+   [
+    "鹧",
+    "zhè"
+   ],
+   [
+    "鸪",
+    "gū"
+   ],
+   [
+    "词",
+    "cí"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "垂",
+    "chuí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "调",
+   "pinyin": "tiáo",
+   "zh": "“调宝瑟”是调整瑟弦、弹瑟，“调”读 tiáo。",
+   "en": "Tiáo bǎo sè means to tune and play the se, so tiáo is the reading here."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "“三更”的“更”是古代夜里计时的单位，读 gēng。",
+   "en": "Gēng here is a watch of the night, an old unit for telling time at night."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "残红：这里指快要燃尽的灯火或烛火，只剩一点红光。",
+   "en": "cán hóng: here the last red glow of a lamp or candle that is nearly burned out."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "欲尽：快要完了。",
+   "en": "yù jìn: about to run out."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "乍凉：刚刚变凉。乍，刚刚、忽然。",
+   "en": "zhà liáng: just turned cool. Zhà means just, suddenly."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "屏帏：屏风和帐子，指卧室里。",
+   "en": "píng wéi: screens and curtains, that is, the bedroom."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "三更：半夜，大约晚上十一点到凌晨一点。古人把一夜分成五更。",
+   "en": "sān gēng: the third watch, around midnight, from about eleven to one. People of old split the night into five watches."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "叶叶声声：每一片叶子、每一声雨响。",
+   "en": "yè yè shēng shēng: every leaf, every sound of the rain."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "宝瑟：精美的瑟。瑟是一种有很多弦的古代弹拨乐器。",
+   "en": "bǎo sè: a fine se, an old plucked instrument with many strings."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "拨金猊：拨动香炉里的香灰，让香烧得旺一些。金猊，铸成狻猊（一种像狮子的神兽）样子的铜香炉。",
+   "en": "bō jīn ní: stirring the incense in the burner so it glows. Jīn ní is a bronze incense burner shaped like a lion-like beast."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "鹧鸪词：用《鹧鸪天》等曲调唱的歌词，多是情歌。",
+   "en": "zhè gū cí: songs sung to tunes like Partridge Sky, mostly love songs."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "西楼：西边的楼，诗词里常是思念人的地方。",
+   "en": "xī lóu: the west tower, in poems often the place where one misses someone."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "清歌：清亮的歌声，没有伴奏的歌。",
+   "en": "qīng gē: a clear song, sung without music."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "灯火只剩一点红光，快要燃尽的时候，",
+   "en": "When the last red glow of the lamp is nearly gone,"
+  },
+  {
+   "zh": "刚刚变凉的秋气，充满了屏风和帐子。",
+   "en": "the fresh chill of autumn fills the screens and curtains."
+  },
+  {
+   "zh": "半夜里，雨打在梧桐叶上，",
+   "en": "At midnight the rain falls on the wutong leaves;"
+  },
+  {
+   "zh": "每一片叶子、每一声雨，都在诉说离别。",
+   "en": "every leaf and every drop speaks of parting."
+  },
+  {
+   "zh": "那时我们调好宝瑟，",
+   "en": "Back then we tuned the fine se,"
+  },
+  {
+   "zh": "拨旺金猊香炉里的香，",
+   "en": "stirred the incense in the gilded lion burner,"
+  },
+  {
+   "zh": "一起唱着鹧鸪词。",
+   "en": "and sang partridge songs together."
+  },
+  {
+   "zh": "如今在风雨交加的西楼夜里，",
+   "en": "Now, on a night of wind and rain in the west tower,"
+  },
+  {
+   "zh": "就算不听那清亮的歌声，也忍不住流泪。",
+   "en": "even without hearing a clear song, my tears fall."
+  }
+ ],
+ "background": {
+  "zh": "这首词写秋夜里怀念一位分别了的人。词人深夜睡不着，灯快灭了，窗外下着雨，雨点打在梧桐叶上。他想起从前和那个人一起弹瑟、烧香、唱歌的日子，再看看现在一个人在风雨里，伤心得流下泪来。那个人是谁，词里没有说，写在哪一年也说不清。词里的梧桐夜雨，让人想起晚唐温庭筠“梧桐树，三更雨”的名句。",
+  "en": "This ci is about missing someone on an autumn night after they have parted. The poet cannot sleep late at night. The lamp is nearly out, it is raining outside, and the drops fall on the wutong leaves. He remembers playing the se, burning incense and singing with that person long ago. Then he looks at himself now, alone in the wind and rain, and his tears fall. The ci does not say who the person was, and we cannot tell what year it was written. The midnight rain on wutong leaves recalls a famous line by the late Tang poet Wen Tingyun about wutong trees and rain at the third watch."
+ },
+ "author_note": {
+  "zh": "周紫芝（1082—约1155），号竹坡居士，宣城（今属安徽）人，南宋词人。他年轻时很穷，很晚才做官。他的词清新自然，很少用难懂的典故，喜欢用眼前的景物写心里的感情，读起来像在听人轻声说话。",
+  "en": "Zhou Zizhi (1082 to about 1155), also called the Hermit of Zhupo, came from Xuancheng in today's Anhui. He was a Southern Song ci poet. He was poor when young and became an official late in life. His ci are fresh and natural, rarely using hard old stories. He liked to use the scene before his eyes to show the feeling in his heart, so reading him feels like hearing someone speak softly."
+ },
+ "appreciation": {
+  "zh": "上片是一个秋夜的特写：灯只剩一点红，屋里忽然冷了，窗外梧桐叶上响着半夜的雨。雨声本来只是雨声，词人却听成了“叶叶声声是别离”，因为他心里正想着那个人。下片一下子回到从前：调瑟、拨香、一起唱歌，又暖又热闹。然后又跳回现在：同样是夜晚，却是风雨西楼，只剩自己。最后一句很有力：从前要听着歌才会感动，现在连歌都不用听，眼泪就落下来了。一冷一暖，一今一昔，思念全在对比里。",
+  "en": "The first stanza is a close-up of an autumn night. The lamp has only a speck of red left, the room has suddenly turned cold, and the midnight rain patters on the wutong leaves outside. Rain is only rain, yet the poet hears every leaf and every drop speaking of parting, because that person is on his mind. The second stanza jumps back to the past: tuning the se, stirring the incense, singing together, warm and happy. Then it jumps back to now. It is night again, but in the wind and rain of the west tower, and he is alone. The last line is strong. Back then a song was needed to move him; now, without any song at all, the tears come. Cold and warm, now and then: all the longing lives in these contrasts."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "longing",
+   "night",
+   "memory"
+  ]
+ },
+ "uncertain": []
+}

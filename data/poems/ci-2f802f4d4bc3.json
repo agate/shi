@@ -1,0 +1,399 @@
+{
+ "id": "ci-2f802f4d4bc3",
+ "kind": "ci",
+ "title": "菩萨蛮·绿芜墙绕青苔院",
+ "title_en": "Pu Sa Man: Green Weeds Ring the Mossy Court",
+ "author": "陈克",
+ "author_en": "Chen Ke",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《菩萨蛮》，双调四十四字",
+  "en": "ci to the tune Pu Sa Man, 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "芜",
+    "wú"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "芭",
+    "bā"
+   ],
+   [
+    "蕉",
+    "jiāo"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ]
+  ],
+  [
+   [
+    "蝴",
+    "hú"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "烘",
+    "hōng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "垂",
+    "chuí"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "钩",
+    "gōu"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "甃",
+    "zhòu"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "转",
+    "zhuàn"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "簸",
+    "bǒ"
+   ],
+   [
+    "钱",
+    "qián"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "转",
+   "pinyin": "zhuàn",
+   "zh": "这里指杨花在井边打着旋儿飘，读 zhuàn。也有人读 zhuǎn。",
+   "en": "Here it means the willow down swirling round by the well, so it is read zhuàn. Some read it zhuǎn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "绿芜：绿色的杂草。",
+   "en": "lǜ wú: green weeds and grass."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "墙绕：围墙环绕着。",
+   "en": "qiáng rào: the wall runs around."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "青苔院：长满青苔的院子，说明很少有人来。",
+   "en": "qīng tái yuàn: a courtyard grown over with moss, a sign that few people come."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "中庭：院子中间。",
+   "en": "zhōng tíng: the middle of the courtyard."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "日淡：阳光淡淡的，不强烈。",
+   "en": "rì dàn: the sunlight is soft and pale."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "芭蕉卷：芭蕉的新叶还卷着，没有完全展开。",
+   "en": "bā jiāo juǎn: the new banana leaves are still rolled up, not yet open."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 4,
+   "zh": "阶：台阶。",
+   "en": "jiē: the steps."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "烘帘：被太阳晒得暖暖的帘子。一说是用香熏过的帘子。",
+   "en": "hōng lián: a curtain warmed by the sun. Another reading: a curtain scented with incense smoke."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "自在垂：安安静静地垂着，没有人去卷它。",
+   "en": "zì zài chuí: hanging still and easy, with no one to roll it up."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "玉钩：挂帘子用的玉做的钩子。",
+   "en": "yù gōu: a jade hook for holding up a curtain."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "双语燕：一对燕子在呢呢喃喃地叫，像在说话。",
+   "en": "shuāng yǔ yàn: a pair of swallows twittering, as if talking."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "宝甃：用漂亮的石头砌成的井壁，这里指井。甃，砌井的砖石。",
+   "en": "bǎo zhòu: a well lined with fine stone, here the well itself. Zhòu means the bricks or stones of a well."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "杨花：柳絮。",
+   "en": "yáng huā: willow down."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "簸钱：古代的一种游戏，把铜钱放在手里摇，再撒在地上，猜正反面来定输赢。常是年轻女子玩的。",
+   "en": "bǒ qián: an old game. Players shook coins in their hands, tossed them down and guessed heads or tails. Young women often played it."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "绿窗：绿纱窗，指女子的房间。",
+   "en": "lǜ chuāng: a window with green gauze, meaning a young woman's room."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "春睡轻：春天里睡得很浅，一点声音就会醒。",
+   "en": "chūn shuì qīng: a light spring nap, easily broken by a sound."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长着绿草的墙，围着长满青苔的院子；",
+   "en": "A wall overgrown with green weeds surrounds a mossy courtyard;"
+  },
+  {
+   "zh": "院子中间阳光淡淡，芭蕉的新叶还卷着。",
+   "en": "in the middle the sunlight is pale, and the new banana leaves are still curled."
+  },
+  {
+   "zh": "蝴蝶沿着台阶往上飞，",
+   "en": "Butterflies flutter up the steps;"
+  },
+  {
+   "zh": "晒暖的帘子静静地垂着。",
+   "en": "the sun-warmed curtain hangs quietly down."
+  },
+  {
+   "zh": "玉钩边，一对燕子在呢喃说话；",
+   "en": "By the jade hook a pair of swallows twitter together;"
+  },
+  {
+   "zh": "井栏旁，柳絮打着旋儿飘。",
+   "en": "by the stone well the willow down swirls round."
+  },
+  {
+   "zh": "不知哪几处传来簸钱游戏的声音，",
+   "en": "From here and there come the sounds of girls playing the coin game;"
+  },
+  {
+   "zh": "绿窗里，有人正睡着浅浅的春觉。",
+   "en": "behind the green window someone sleeps a light spring sleep."
+  }
+ ],
+ "background": {
+  "zh": "这首词写春天一个安静的庭院。墙上长草，院里生苔，阳光淡淡的，蝴蝶、燕子、柳絮都在悠闲地动着，远处传来女孩们玩簸钱游戏的声音，绿窗里有人在睡午觉。写作的具体时间不清楚。全词几乎都是景物，没有直接说人的心情，风格接近晚唐五代的“花间词”。",
+  "en": "This ci shows a quiet courtyard in spring. Weeds grow on the wall and moss in the yard. The sunlight is pale. Butterflies, swallows and willow down all drift lazily about. From somewhere comes the sound of girls playing a coin game, and behind a green window someone is taking a nap. We do not know exactly when it was written. Almost the whole poem is scenery, with no direct word about anyone's feelings. Its style is close to the Flower Among the Ci of the late Tang and Five Dynasties."
+ },
+ "author_note": {
+  "zh": "陈克，字子高，号赤城居士，临海（今浙江临海）人，生活在北宋末到南宋初，生卒年说法不一。他的词多写庭院、闺房里的景物和女子的生活，用词精美，画面细腻，常被拿来和晚唐的温庭筠相比。",
+  "en": "Chen Ke, styled Zigao, called himself the Lay Buddhist of Chicheng. He came from Linhai in today's Zhejiang and lived at the end of the Northern Song and the start of the Southern Song. Sources differ on his dates. His ci mostly show gardens, women's rooms and the lives of women, in fine words and delicate pictures. He is often compared with the late Tang poet Wen Tingyun."
+ },
+ "appreciation": {
+  "zh": "这首词像一组慢慢移动的镜头。先看到墙和院子：绿草、青苔，说明很少有人来，很安静。再看院子中间：阳光淡淡，芭蕉叶还卷着，是春天刚刚变暖的样子。然后是会动的小东西：蝴蝶飞上台阶，燕子在帘钩边说话，柳絮在井边打转。帘子“自在”地垂着，没人去卷，也是一种安静。最后声音出来了：远处有女孩玩簸钱的声音，绿窗里的人睡得很浅。越写声音，越显出这个春日的安静和慵懒。",
+  "en": "This ci is like a camera moving slowly. First we see the wall and the yard: green weeds and moss, so few people come and it is very quiet. Then the middle of the yard: pale sunlight and banana leaves still curled, just as spring is warming. Then the small moving things: butterflies flying up the steps, swallows talking by the curtain hook, willow down circling by the well. The curtain hangs at ease with no one to roll it up, another kind of stillness. At last come sounds: girls playing the coin game somewhere, and someone sleeping lightly behind the green window. The more sounds we hear, the quieter and lazier this spring day feels."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "courtyard",
+   "spring-day",
+   "swallows",
+   "stillness"
+  ]
+ },
+ "uncertain": []
+}

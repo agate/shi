@@ -1,0 +1,400 @@
+{
+ "id": "ci-cb1a16df79b8",
+ "kind": "ci",
+ "title": "诉衷情·眉意",
+ "title_en": "Su Zhong Qing: The Meaning of Her Brows",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《诉衷情》，双调四十五字",
+  "en": "ci to the tune Su Zhong Qing, 45 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "晨",
+    "chén"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "幕",
+    "mù"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "呵",
+    "hē"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "芳",
+    "fāng"
+   ]
+  ],
+  [
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "伤",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "拟",
+    "nǐ"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "敛",
+    "liǎn"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "颦",
+    "pín"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“欲笑还颦”的“还”一般读 hái，意思是却、又。",
+   "en": "In yu xiao hai pin this character is usually read hái, meaning yet, instead."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "帘幕：挂在门窗上的帘子和帷幕。",
+   "en": "lián mù: curtains and hangings over doors and windows."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "卷轻霜：卷起帘子，帘上还带着一层薄霜。一说是卷起帘子，看见外面的薄霜。",
+   "en": "juǎn qīng shuāng: rolling up the curtain, which still has a thin frost on it. Another reading: rolling up the curtain to see the light frost outside."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "呵手：对着手哈热气，让冻僵的手暖和起来。",
+   "en": "hē shǒu: breathing on one's hands to warm them."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "梅妆：梅花妆，在额头上画一朵梅花。传说南朝宋的寿阳公主睡在梅树下，一朵梅花落在她额头上，留下花印，后来女子们就学着这样打扮。",
+   "en": "méi zhuāng: plum-blossom makeup, a plum flower painted on the forehead. Legend says a princess of the Southern Dynasties, Princess Shouyang, slept under a plum tree and a flower fell on her brow and left its mark. Women then copied it."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "都缘：都是因为。",
+   "en": "dōu yuán: all because."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "离恨：和心爱的人分离的愁苦。",
+   "en": "lí hèn: the pain of being parted from someone one loves."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "故：所以。",
+   "en": "gù: so, therefore."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "远山：远山眉，把眉毛画得又细又长，淡淡的，像远处的青山。传说汉代才女卓文君的眉毛就像远山。",
+   "en": "yuǎn shān: distant-hill brows, eyebrows painted long, thin and faint like far-off hills. Legend says the Han dynasty beauty Zhuo Wenjun had brows like this."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "流芳：像流水一样逝去的美好年华。",
+   "en": "liú fāng: the beautiful years of youth slipping away like water."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "易成伤：很容易让人伤心。",
+   "en": "yì chéng shāng: easily turns to sorrow."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "拟歌：打算唱歌。拟，打算。",
+   "en": "nǐ gē: about to sing. Nǐ means to intend."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 4,
+   "zh": "敛：收住，这里指收起笑容、皱起眉头。",
+   "en": "liǎn: to hold back, here meaning to draw in the brows and stop smiling."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 4,
+   "zh": "颦：皱眉头。",
+   "en": "pín: to frown."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 4,
+   "zh": "断人肠：让人伤心到了极点，好像肠子都断了。",
+   "en": "duàn rén cháng: breaking one's heart. Literally, cutting one's insides."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清早卷起门帘，帘上带着一层薄霜。",
+   "en": "In the early morning she rolls up the curtain, touched with light frost."
+  },
+  {
+   "zh": "她对着冻冷的手哈口热气，试着画上梅花妆。",
+   "en": "She breathes on her cold hands and tries on plum-blossom makeup."
+  },
+  {
+   "zh": "都是因为心里有离别的愁苦，",
+   "en": "Because there is the pain of parting in her heart,"
+  },
+  {
+   "zh": "所以把眉毛画成了长长的远山。",
+   "en": "she paints her brows long, like distant hills."
+  },
+  {
+   "zh": "想起过去的事，",
+   "en": "She thinks of the past,"
+  },
+  {
+   "zh": "可惜美好的年华白白流走，",
+   "en": "and grieves that her best years flow away;"
+  },
+  {
+   "zh": "很容易就伤心起来。",
+   "en": "it easily turns to sorrow."
+  },
+  {
+   "zh": "正要唱歌，先收住了笑容，",
+   "en": "About to sing, she first holds back,"
+  },
+  {
+   "zh": "想要笑一笑，却又皱起了眉头，",
+   "en": "wanting to smile, she frowns instead;"
+  },
+  {
+   "zh": "这样子最让人心碎。",
+   "en": "this is what breaks the heart the most."
+  }
+ ],
+ "background": {
+  "zh": "这首词通行本题作“眉意”，写一位歌女，就是靠唱歌给人听来谋生的女子。一个寒冷的清早，她起床梳妆，画眉时心里想着离别的人，就把眉毛画成了远山的样子。写作的具体时间不清楚。宋代文人常在宴会上为歌女写词，这首词把歌女的心事写得很细，带着同情。",
+  "en": "In common editions this ci is titled The Meaning of Her Brows. It is about a singing girl, a woman who made her living by singing for guests. On a cold morning she gets up to do her makeup. As she paints her brows she thinks of someone she has parted from, so she draws them like distant hills. We do not know exactly when it was written. Song writers often wrote ci for singing girls at banquets. This one shows her hidden feelings closely and with sympathy."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），字永叔，号醉翁，晚年又号六一居士，北宋文学家，“唐宋八大家”之一。他做过朝廷的大官，提拔过苏轼、曾巩等很多人才，是当时文坛的领袖。他的文章平易自然，词却常写得婉转多情，像这首就写得很细腻。",
+  "en": "Ouyang Xiu (1007–1072), styled Yongshu, called himself the Old Drunkard, and in later years the Retired Scholar of Six Ones. He was a Northern Song writer and one of the Eight Great Prose Masters of Tang and Song. He held high office and helped many young talents, such as Su Shi and Zeng Gong, rise. He was the leader of the literary world of his time. His prose is plain and natural, but his ci are often soft and full of feeling, like this one."
+ },
+ "appreciation": {
+  "zh": "这首词的中心是眉毛。上片写画眉：寒冷的清早，帘子上有霜，手冻得发僵，她呵口热气，认真地化妆。眉毛为什么画成远山那样又细又长？因为心里有离别的愁。眉毛就像一幅画，画出了她的心事。下片写她的心：想起往事，可惜青春流走，一想就伤心。最妙的是最后几句：要唱歌了，先把愁收住；想笑一笑，眉头却又皱起来。她是歌女，必须在客人面前唱歌欢笑，心里却很苦。这种想笑笑不出来的样子，最让人心疼。",
+  "en": "The heart of this ci is her eyebrows. The first stanza shows her painting them. On a cold morning there is frost on the curtain and her hands are stiff with cold. She breathes on them and does her makeup with care. Why paint her brows long and thin like distant hills? Because there is the pain of parting in her heart. Her brows are like a picture of her feelings. The second stanza shows her mind. She thinks of the past and grieves that her youth is slipping away, and sorrow comes easily. The last lines are the finest. About to sing, she holds her sadness in. She tries to smile, but her brows knit again. As a singing girl she must sing and laugh for guests, while her heart is heavy. Wanting to smile and being unable to is what hurts the most to see."
+ },
+ "famous_lines": [
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "singing-girl",
+   "makeup",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

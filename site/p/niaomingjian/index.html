@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>鸟鸣涧 · 王维 — 诗</title>
+    <meta name="description" content="鸟鸣涧 · 王维 — Birdsong in the Ravine by Wang Wei: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character quatrain</span><span lang="zh">唐诗 · 五言绝句</span></p>
+        <h1>鸟鸣涧</h1>
+        <p class="by">王维<span class="mono"><span lang="en">Wang Wei · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Birdsong in the Ravine</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>rén</i><b>人</b></span><span class="c gl" data-l="0" data-p="1"><i>xián</i><b>闲</b></span><span class="c gl" data-l="0" data-p="2"><i>guì</i><b>桂</b></span><span class="c gl" data-l="0" data-p="3"><i>huā</i><b>花</b></span><span class="c" data-l="0" data-p="4"><i>luò</i><b>落</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>yè</i><b>夜</b></span><span class="c" data-l="1" data-p="1"><i>jìng</i><b>静</b></span><span class="c" data-l="1" data-p="2"><i>chūn</i><b>春</b></span><span class="c" data-l="1" data-p="3"><i>shān</i><b>山</b></span><span class="c gl" data-l="1" data-p="4"><i>kōng</i><b>空</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>yuè</i><b>月</b></span><span class="c" data-l="2" data-p="1"><i>chū</i><b>出</b></span><span class="c gl" data-l="2" data-p="2"><i>jīng</i><b>惊</b></span><span class="c" data-l="2" data-p="3"><i>shān</i><b>山</b></span><span class="c" data-l="2" data-p="4"><i>niǎo</i><b>鸟</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>shí</i><b>时</b></span><span class="c" data-l="3" data-p="1"><i>míng</i><b>鸣</b></span><span class="c" data-l="3" data-p="2"><i>chūn</i><b>春</b></span><span class="c gl" data-l="3" data-p="3"><i>jiàn</i><b>涧</b></span><span class="c" data-l="3" data-p="4"><i>zhōng</i><b>中</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">人闲桂花落</span><span lang="en">I am at ease, and I can sense the osmanthus flowers drifting down;</span><span lang="zh">人很清闲，静得能感到桂花轻轻飘落，</span></li><li><span class="o">夜静春山空</span><span lang="en">the night is so still, the spring hills seem empty.</span><span lang="zh">夜那么静，春天的山显得空空荡荡。</span></li><li><span class="o">月出惊山鸟</span><span lang="en">The moon rises and startles the birds in the hills,</span><span lang="zh">月亮升起来，惊动了山里栖息的鸟儿，</span></li><li><span class="o">时鸣春涧中</span><span lang="en">and now and then they call out in the spring ravine.</span><span lang="zh">它们不时在春天的山涧中鸣叫几声。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>人闲<span class="mono">rén xián</span></dt><dd><span lang="en">rén xián: a person at leisure, with a calm mind and nothing to bother him.</span><span lang="zh">人闲：人很清闲，心里很安静，没有杂事打扰。</span></dd></div><div><dt>桂花<span class="mono">guì huā</span></dt><dd><span lang="en">guì huā: osmanthus flowers. It is usually taken as a kind of osmanthus that blooms in spring. Some say it means moonlight, since legend puts an osmanthus tree on the moon.</span><span lang="zh">桂花：这里一般认为是春天开花的一种桂树。也有人说是指月光，因为传说月亮里有桂树。</span></dd></div><div><dt>空<span class="mono">kōng</span></dt><dd><span lang="en">kōng: empty and still, as if nothing were there.</span><span lang="zh">空：空旷，静悄悄的，好像什么都没有。</span></dd></div><div><dt>惊<span class="mono">jīng</span></dt><dd><span lang="en">jīng: to startle.</span><span lang="zh">惊：惊动，吓了一跳。</span></dd></div><div><dt>时<span class="mono">shí</span></dt><dd><span lang="en">shí: now and then.</span><span lang="zh">时：时而，不时地。</span></dd></div><div><dt>涧<span class="mono">jiàn</span></dt><dd><span lang="en">jiàn: a stream running between two hills, a ravine.</span><span lang="zh">涧：两座山之间的小溪。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This is the first of Wang Wei&#x27;s five poems for Huangfu Yue&#x27;s Cloud Creek. Huangfu Yue was Wang Wei&#x27;s friend, and Cloud Creek was where his country house stood. Wang Wei wrote a short poem for each of five spots there. &quot;Birdsong in the Ravine&quot; is about a mountain stream on a spring night. Sources differ on the exact year the poems were written.</p><p lang="zh">这首诗是王维《皇甫岳云溪杂题五首》中的第一首。皇甫岳是王维的朋友，云溪是他的别墅所在的地方。王维为那里的五处景物各写了一首小诗，《鸟鸣涧》就是写一条山涧的春夜。这组诗具体写于哪一年，说法不一。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Wei (701–761; some say 699–761), also called Mojie, was a great Tang poet, and a painter and musician as well. He was a Buddhist and loved quiet landscapes, so he is called the Buddha of Poetry. Su Shi said there are paintings in his poems and poems in his paintings. His landscape poems are often deeply still and empty, and this one is a perfect example.</p><p lang="zh">王维（701—761，一说699—761），字摩诘，唐代大诗人，也是画家和音乐家。他信佛，喜欢安静的山水，被称为“诗佛”。苏轼说他“诗中有画，画中有诗”。他的山水诗常常写得又静又空，这首就是代表。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is about stillness, yet it is full of small movements. Osmanthus flowers falling make almost no sound, yet the poet senses them. That tells us how calm his heart is and how quiet the night is. The hills feel empty, as if nothing were there. Then the moon rises. Its light shines in, the birds wake as if it were morning, and they call a few times in the ravine. Moonlight makes no sound, yet it wakes the birds, so the hills must be utterly silent. After the few calls, the hills feel even quieter than before. This is using movement to show stillness. Try closing your eyes and picturing yourself in the hills on a spring night, hearing those few bird calls.</p><p lang="zh">这首诗写的是“静”，却用了很多“动”。桂花落下，本来轻得没有声音，诗人却感觉到了，可见人心多静、夜多静。山里空空荡荡，好像什么都没有。忽然月亮升起，月光一照，鸟儿以为天亮了，被惊醒，在山涧里叫了几声。月光照进来没有声音，却能惊醒鸟儿，说明山里静到了极点。几声鸟叫过后，山里反而显得更静了。这就是“以动写静”。读的时候，不妨闭上眼睛，想象自己坐在春夜的山里，听那几声鸟鸣。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/guoxiangjisi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>过香积寺</b></a><a href="../../p/shanshi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>山石</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["人", "rén"], ["闲", "xián"], ["桂", "guì"], ["花", "huā"], ["落", "luò"]], [["夜", "yè"], ["静", "jìng"], ["春", "chūn"], ["山", "shān"], ["空", "kōng"]], [["月", "yuè"], ["出", "chū"], ["惊", "jīng"], ["山", "shān"], ["鸟", "niǎo"]], [["时", "shí"], ["鸣", "míng"], ["春", "chūn"], ["涧", "jiàn"], ["中", "zhōng"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "人闲：人很清闲，心里很安静，没有杂事打扰。", "en": "rén xián: a person at leisure, with a calm mind and nothing to bother him."}, {"line": 0, "start": 2, "end": 4, "zh": "桂花：这里一般认为是春天开花的一种桂树。也有人说是指月光，因为传说月亮里有桂树。", "en": "guì huā: osmanthus flowers. It is usually taken as a kind of osmanthus that blooms in spring. Some say it means moonlight, since legend puts an osmanthus tree on the moon."}, {"line": 1, "start": 4, "end": 5, "zh": "空：空旷，静悄悄的，好像什么都没有。", "en": "kōng: empty and still, as if nothing were there."}, {"line": 2, "start": 2, "end": 3, "zh": "惊：惊动，吓了一跳。", "en": "jīng: to startle."}, {"line": 3, "start": 0, "end": 1, "zh": "时：时而，不时地。", "en": "shí: now and then."}, {"line": 3, "start": 3, "end": 4, "zh": "涧：两座山之间的小溪。", "en": "jiàn: a stream running between two hills, a ravine."}], "readings": [], "speak": ["人闲桂花落", "夜静春山空", "月出惊山鸟", "时鸣春涧中"], "speakTitle": "鸟鸣涧。王维。", "sample": "人闲桂花落"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

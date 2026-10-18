@@ -1,0 +1,263 @@
+{
+ "id": "4ac3f099-73da-43e8-a4e5-1dbbd9427491",
+ "kind": "shi",
+ "title": "闺怨",
+ "title_en": "A Young Wife's Regret",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "闺",
+    "guī"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "妇",
+    "fù"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "悔",
+    "huǐ"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "婿",
+    "xù"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "侯",
+    "hóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原始文本第一句作“不曾愁”，现在通行的课本和选本多作“不知愁”，这里用“不知愁”。原文的“夫壻”，“壻”是“婿”的异体字，这里写作“婿”。",
+  "en": "The source text has bù céng chóu, \"had never worried\", in the first line. Most current textbooks and anthologies have bù zhī chóu, \"knew no worry\", which is used here. The source also writes the character for xù, \"husband\", in an old variant form; the standard form is used here."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "教：这里是“让、使”的意思，现在一般读 jiào。按格律这个位置要用平声，所以也有人读 jiāo。",
+   "en": "jiào: here it means \"to let, to make\", and is usually read jiào today. The meter needs a level tone here, so some read it jiāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "闺中：女子住的内室里。",
+   "en": "guī zhōng: in the women's rooms of the house."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "少妇：年轻的妻子。",
+   "en": "shào fù: a young married woman."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "凝妆：认真仔细地打扮。",
+   "en": "níng zhuāng: to dress up carefully."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "翠楼：华丽的楼阁。",
+   "en": "cuì lóu: a fine, beautiful tower in the house."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "陌头：路边。陌，田间的小路。",
+   "en": "mò tóu: the roadside. Mò is a path between fields."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "杨柳色：柳树发出新芽的嫩绿色。古人送别时常折柳枝，所以柳树容易让人想起离别。",
+   "en": "yáng liǔ sè: the fresh green of new willow leaves. People in old times broke off willow twigs when saying goodbye, so willows remind people of parting."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "悔教：后悔让……。",
+   "en": "huǐ jiào: to regret letting someone do something."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "夫婿：丈夫。",
+   "en": "fū xù: husband."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "觅封侯：去寻求封侯的机会，就是到边疆打仗立功，换取高官和名声。",
+   "en": "mì fēng hóu: to seek a noble title. It means going off to fight at the border to win rank and fame."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "闺房里的年轻妻子，从来不知道什么是忧愁。",
+   "en": "The young wife in her rooms had never known sorrow."
+  },
+  {
+   "zh": "春天里，她精心打扮好，登上华丽的楼阁看风景。",
+   "en": "One spring day she dressed up with care and climbed her fine tower."
+  },
+  {
+   "zh": "忽然看见路边的杨柳已经一片新绿，",
+   "en": "Suddenly she saw the fresh green of the willows by the road,"
+  },
+  {
+   "zh": "她后悔了，不该让丈夫去边疆求取功名。",
+   "en": "And she regretted sending her husband away to win a noble title."
+  }
+ ],
+ "background": {
+  "zh": "唐朝的时候，边疆常常打仗。很多年轻人愿意去从军，希望立下战功，得到官职和名声。他们的妻子只好留在家里，一年年等着。王昌龄写过很多边塞诗，也写过不少替留守妻子说话的诗。这首诗具体写于哪一年，已经不清楚。",
+  "en": "In the Tang dynasty there was often fighting at the borders. Many young men were glad to join the army, hoping to win glory, rank and fame. Their wives had to stay home and wait, year after year. Wang Changling wrote many poems about the frontier, and also many that speak for the wives left behind. The year this poem was written is not known."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），唐代诗人，特别擅长写七言绝句，被人称为“七绝圣手”。他的边塞诗很有名，比如“秦时明月汉时关”。他也很会写女子的心情，几句话就能写出人物心里的变化。",
+  "en": "Wang Changling (about 698–757) was a Tang poet who was especially good at seven-character quatrains. People called him the Master of the Seven-Character Quatrain. His frontier poems are famous, such as the one that begins \"the moon of Qin, the pass of Han\". He was also good at writing a woman's feelings, showing a change of heart in just a few lines."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是一个人心情的突然变化。开头说她“不知愁”，春天里高高兴兴地打扮，上楼看风景。可是一抬头，看见路边的柳树绿了。柳树让人想起离别，也提醒她：又是一年过去了，丈夫还没回来。她心里一下子空了，后悔当初让丈夫去边疆求功名。功名再好，也比不上两个人在一起的春天。诗人没有写她哭，只写了一个“悔”字，那份孤单就全出来了。",
+  "en": "This poem is about a sudden change of heart. At first she \"knows no sorrow\". On a spring day she happily dresses up and climbs the tower to look around. Then she sees that the willows by the road have turned green. Willows remind people of parting. They also tell her that another year has passed, and her husband is still not home. Her heart suddenly feels empty, and she regrets sending him off to seek fame at the border. No title is worth as much as a spring spent together. The poet does not show her crying. He uses only one word, \"regret\", and all her loneliness comes through."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "willow",
+   "war",
+   "regret"
+  ]
+ },
+ "uncertain": []
+}

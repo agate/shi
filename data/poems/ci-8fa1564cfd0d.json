@@ -1,0 +1,780 @@
+{
+ "id": "ci-8fa1564cfd0d",
+ "kind": "ci",
+ "title": "水龙吟·春恨",
+ "title_en": "To the Tune of Shui Long Yin: Spring Sorrow",
+ "author": "陈亮",
+ "author_en": "Chen Liang",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·水龙吟（双调一百零二字）",
+  "en": "ci lyric to the tune Shui Long Yin (two stanzas, 102 characters)"
+ },
+ "lines": [
+  [
+   [
+    "闹",
+    "nào"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "软",
+    "ruǎn"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "莎",
+    "suō"
+   ],
+   [
+    "茸",
+    "róng"
+   ],
+   [
+    "嫩",
+    "nèn"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ],
+  [
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "菲",
+    "fēi"
+   ],
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "界",
+    "jiè"
+   ]
+  ],
+  [
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "付",
+    "fù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "斗",
+    "dòu"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "勒",
+    "lè"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "绶",
+    "shòu"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "绡",
+    "xiāo"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "规",
+    "guī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "莎",
+   "pinyin": "suō",
+   "zh": "莎：这里指莎草，读 suō，不读 shā。",
+   "en": "Here this character means sedge grass and is read suō, not shā."
+  },
+  {
+   "line": 14,
+   "pos": 2,
+   "char": "勒",
+   "pinyin": "lè",
+   "zh": "勒马的“勒”读 lè，意思是拉紧缰绳。",
+   "en": "In lè mǎ this character is read lè, meaning to pull the reins tight."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "闹花：开得热热闹闹的花。",
+   "en": "nào huā: flowers blooming in a lively crowd."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "层楼：高楼。",
+   "en": "céng lóu: a tall, many-storey building."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "画帘：有画饰的帘子。",
+   "en": "huà lián: a painted curtain."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "东风软：春风柔和。东风，就是春风。",
+   "en": "dōng fēng ruǎn: the spring breeze is soft. The east wind is the spring wind."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "翠陌：绿油油的田间小路。",
+   "en": "cuì mò: green paths between the fields."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "平莎茸嫩：平地上的莎草又细又嫩，像软软的绒毛。莎草，一种野草。",
+   "en": "píng suō róng nèn: on flat ground the sedge grass is soft and young, like fluffy down. Sedge is a kind of wild grass."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "垂杨金浅：垂柳刚长出浅黄色的嫩芽。",
+   "en": "chuí yáng jīn qiǎn: the weeping willows have just put out pale gold buds."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "迟日：春天的太阳。春天白天变长，太阳好像走得很慢。",
+   "en": "chí rì: the spring sun. In spring the days grow long, as if the sun moves slowly."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "阁雨：雨要下又没下下来。阁，同“搁”，停住。",
+   "en": "gé yǔ: rain that holds back and does not fall. Gé here means to hold or stop."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 5,
+   "zh": "芳菲世界：花草遍地、香气四溢的春天。",
+   "en": "fāng fēi shì jiè: a world full of flowers and sweet smells, that is, spring."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 3,
+   "zh": "付与：交给。",
+   "en": "fù yǔ: to hand over to."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 6,
+   "zh": "莺和燕：黄莺和燕子，都是春天常见的鸟。",
+   "en": "yīng hé yàn: orioles and swallows, birds often seen in spring."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 6,
+   "zh": "凭高念远：靠着高处的栏杆，想念远方的人。",
+   "en": "píng gāo niàn yuǎn: leaning on a high railing, thinking of someone far away."
+  },
+  {
+   "line": 12,
+   "start": 5,
+   "end": 7,
+   "zh": "归雁：飞回北方的大雁。",
+   "en": "guī yàn: wild geese flying back north."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "金钗斗草：戴着金钗的女子玩斗草游戏。斗草，比谁采的花草多、种类奇，是古代春天的游戏。",
+   "en": "jīn chāi dòu cǎo: girls with gold hairpins playing the grass game. In the grass game people compared who had picked the most or the rarest plants; it was an old spring pastime."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "青丝勒马：用青丝做的缰绳拉住马。这里写当年骑马同游。",
+   "en": "qīng sī lè mǎ: pulling up a horse with reins of dark silk. It recalls riding out together in the old days."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "风流云散：像风吹走、云飘散一样，大家都分开了。",
+   "en": "fēng liú yún sàn: like wind blowing off and clouds drifting apart, everyone has gone their own way."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "罗绶分香：罗绶，丝带。分别时把带着香气的丝带分给对方作纪念。",
+   "en": "luó shòu fēn xiāng: luó shòu is a silk ribbon. At parting, scented ribbons were shared as keepsakes."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 4,
+   "zh": "翠绡封泪：用绿色的薄绸包着眼泪寄给对方，写离别的伤心。",
+   "en": "cuì xiāo fēng lèi: wrapping tears in thin green silk to send, a picture of the pain of parting."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "幽怨：藏在心里说不出的怨恨。",
+   "en": "yōu yuàn: hidden sorrow that cannot be spoken."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 3,
+   "zh": "销魂：伤心得好像魂都没了。",
+   "en": "xiāo hún: so sad it is as if the soul has melted away."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 6,
+   "zh": "疏烟淡月：稀薄的烟雾，暗淡的月光。",
+   "en": "shū yān dàn yuè: thin mist and pale moonlight."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 2,
+   "zh": "子规：杜鹃鸟。传说它的叫声像在说“不如归去”。",
+   "en": "zǐ guī: the cuckoo. Its call is said to sound like \"better to go home\"."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "声断：叫声断断续续，一直叫到声音都断了。",
+   "en": "shēng duàn: its cries break off, as if it has called until its voice gives out."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "繁花深处有一座高楼，",
+   "en": "Deep among crowded flowers stands a tall building."
+  },
+  {
+   "zh": "画帘卷起一半，春风软软地吹进来。",
+   "en": "The painted curtain is half rolled up, and the spring breeze blows in soft."
+  },
+  {
+   "zh": "春天回到了绿色的田间小路上，",
+   "en": "Spring has come back to the green field paths."
+  },
+  {
+   "zh": "平地上的莎草又细又嫩，",
+   "en": "On the flat ground the sedge is soft and young,"
+  },
+  {
+   "zh": "垂柳刚冒出浅黄的嫩芽。",
+   "en": "and the weeping willows show pale gold buds."
+  },
+  {
+   "zh": "春天的太阳催着花开，",
+   "en": "The slow spring sun hurries the flowers to bloom."
+  },
+  {
+   "zh": "淡淡的云留住了雨，",
+   "en": "Light clouds hold back the rain."
+  },
+  {
+   "zh": "天气一会儿微凉，一会儿微暖。",
+   "en": "It is a little cool, then a little warm."
+  },
+  {
+   "zh": "可恨这花草满眼的春天，",
+   "en": "Sadly, this world of flowers and green,"
+  },
+  {
+   "zh": "游人还没来得及欣赏，",
+   "en": "before any visitor could enjoy it,"
+  },
+  {
+   "zh": "全都交给了黄莺和燕子。",
+   "en": "has all been handed over to the orioles and swallows."
+  },
+  {
+   "zh": "我孤孤单单靠在高处，想念远方的人，",
+   "en": "Lonely, I lean from a high place and think of someone far away."
+  },
+  {
+   "zh": "只听见南楼那边传来一声归雁的叫声。",
+   "en": "From the south tower comes the cry of a wild goose flying home."
+  },
+  {
+   "zh": "当年戴着金钗玩斗草的她，",
+   "en": "She who played the grass game wearing gold hairpins,"
+  },
+  {
+   "zh": "当年用青丝缰绳勒马同游的我们，",
+   "en": "and we who reined in our horses with dark silk,"
+  },
+  {
+   "zh": "如今像风吹云散一样分开了。",
+   "en": "have now scattered like wind and clouds."
+  },
+  {
+   "zh": "分别时互赠带香的丝带，",
+   "en": "At parting we shared scented silk ribbons,"
+  },
+  {
+   "zh": "用绿绸包着眼泪寄来寄去，",
+   "en": "and sent tears wrapped in green silk."
+  },
+  {
+   "zh": "心里藏着多少说不出的怨恨！",
+   "en": "How much hidden sorrow is in our hearts!"
+  },
+  {
+   "zh": "正在伤心得失魂落魄的时候，",
+   "en": "Just as my heart is breaking,"
+  },
+  {
+   "zh": "又是一片稀薄的烟雾和暗淡的月光，",
+   "en": "again there is thin mist and a pale moon,"
+  },
+  {
+   "zh": "杜鹃一声声叫着，叫到声音都断了。",
+   "en": "and the cuckoo calls until its voice breaks."
+  }
+ ],
+ "background": {
+  "zh": "这首词题为“春恨”，写春天里的离愁。具体写于哪一年，现在不清楚。上阕写美好的春色没人欣赏，全给了莺和燕；下阕写怀念远方分别的人。一说这首词另有寄托：春光被莺燕占去，暗指北方的大好河山落在金人手里，南宋的人却不能去收复。这是后人的一种理解，词里没有明说。",
+  "en": "The title is \"Spring Sorrow\", and the lyric is about the pain of parting in spring. We do not know the year it was written. The first stanza says lovely spring goes unseen and is all given to orioles and swallows. The second stanza longs for someone far away. Another reading says the lyric hides a deeper meaning. Spring taken over by birds may stand for the northern lands held by the Jin, which the Southern Song could not win back. This is a later reading; the lyric does not say it outright."
+ },
+ "author_note": {
+  "zh": "陈亮（1143—1194），字同甫，号龙川，婺州永康（今浙江永康）人，南宋思想家、词人。他一心主张收复北方失地，多次上书皇帝。他一生不顺，几次被人诬告，关进监狱。晚年才考中状元，第二年就去世了。他和辛弃疾是好朋友，词风也多豪放。这首词却写得柔婉细腻，在他的词里比较少见。",
+  "en": "Chen Liang (1143–1194), also called Tongfu or Longchuan, came from Yongkang in today's Zhejiang. He was a Southern Song thinker and lyric poet. He wanted with all his heart to win back the lost northern lands and wrote to the emperor many times. His life was hard: he was falsely accused and jailed several times. He came first in the top state exam only late in life, and died the next year. He was a close friend of Xin Qiji, and most of his lyrics are bold. This one is soft and delicate, which is rare for him."
+ },
+ "appreciation": {
+  "zh": "上阕像一幅春景图：繁花里的高楼，半卷的画帘，柔柔的东风，嫩绿的莎草，刚发芽的柳条。天气一会儿凉一会儿暖，正是最舒服的早春。可是词人笔锋一转：这么好的春天，游人还没来看，就全交给了莺和燕。美景越好，没人欣赏就越可惜。下阕写人。词人独自登高，只听到一声归雁。他想起当年的她戴着金钗玩斗草，想起两人骑马同游，如今却风流云散。分别时互赠丝带，寄信时泪水沾湿绿绸，有多少说不出的怨恨。最后，淡淡的烟、暗暗的月，加上杜鹃一声声的啼叫，把伤心推到最深处。全词先美后愁，用美景来衬托愁情，愁就显得更重。",
+  "en": "The first stanza is like a painting of spring: a tall building among flowers, a half-rolled painted curtain, a soft east wind, tender sedge grass and willows just budding. It is a little cool, then a little warm, the most pleasant time of early spring. Then the poet turns: such a fine spring, and before any visitor has seen it, it has all gone to the orioles and swallows. The lovelier the view, the sadder that no one enjoys it. The second stanza is about people. The poet climbs high alone and hears only one wild goose. He remembers her with gold hairpins playing the grass game, and the two of them riding out together. Now they have scattered like wind and clouds. They shared ribbons at parting and wet green silk with tears, with so much sorrow they could not say. At the end, thin mist, a pale moon and the cuckoo's endless cries push the sadness to its deepest. The lyric is beautiful first and sad after. The beauty makes the sorrow feel heavier."
+ },
+ "famous_lines": [
+  8,
+  9,
+  10
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "longing",
+   "spring-sorrow",
+   "birds"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,762 @@
+{
+ "id": "ci-cd611347679e",
+ "kind": "ci",
+ "title": "念奴娇·书东流村壁",
+ "title_en": "Niannujiao: Written on a Village Wall at Dongliu",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《念奴娇》，双调一百字",
+  "en": "ci to the tune Niannujiao, 100 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "棠",
+    "táng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "了",
+    "le"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "刬",
+    "chǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "欺",
+    "qī"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "怯",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "持",
+    "chí"
+   ],
+   [
+    "觞",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "系",
+    "xì"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "绮",
+    "qǐ"
+   ],
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "底",
+    "dǐ"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "叠",
+    "dié"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ]
+  ],
+  [
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "发",
+    "fà"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "这里用通行本。语料库本“清明”误作“青明”（转换错误），“一枕”作“一夜”，“曾经别”作“曾轻别”，“曾见”作“长见”，“流不尽”作“流未断”，这些是不同版本的差别。",
+  "en": "This page uses the common text. The corpus writes qīng míng with a wrong first character (a conversion slip), and has slightly different words in four places: \"one night\" for \"one pillow\", \"lightly parted\" for \"once parted\", \"often seen\" for \"once seen\", and \"not yet broken\" for \"never ends\". These are differences between old editions."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "刬",
+   "pinyin": "chǎn",
+   "zh": "“刬”在这里读 chǎn。“刬地”是宋代口语，意思是平白无故地。",
+   "en": "Here this character is read chǎn. Chǎn dì is Song-dynasty spoken language for \"for no reason at all\"."
+  },
+  {
+   "line": 15,
+   "pos": 3,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“明朝”的“朝”读 zhāo，意思是早晨、日子，“明朝”就是明天。不读 cháo。",
+   "en": "In míng zhāo this character is read zhāo, meaning morning or day, so míng zhāo is tomorrow. It is not read cháo here."
+  },
+  {
+   "line": 16,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重见”的“重”读 chóng，意思是再一次。",
+   "en": "In chóng jiàn this character is read chóng, meaning again."
+  },
+  {
+   "line": 19,
+   "pos": 5,
+   "char": "发",
+   "pinyin": "fà",
+   "zh": "“华发”的“发”读 fà，指头发。",
+   "en": "In huá fà this character is read fà, meaning hair."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "野棠：野生的棠梨树，春天开白色的小花。",
+   "en": "yě táng: a wild pear tree that has small white flowers in spring."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "匆匆：很快，急急忙忙的样子。",
+   "en": "cōng cōng: quickly, in a hurry."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "清明时节：清明节前后，春天快要过去的时候。",
+   "en": "qīng míng shí jié: the days around the Qingming festival, when spring is nearly over."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "刬地：平白无故地，没来由地。",
+   "en": "chǎn dì: for no reason at all."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "欺客梦：欺负我这个在外的人的梦，把梦吹醒了。客，离家在外的人，这里指作者自己。",
+   "en": "qī kè mèng: bullies the traveller's dream and blows it away. Kè is a person far from home, here the poet himself."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "一枕：一觉睡下去，整整一夜。",
+   "en": "yī zhěn: one pillow, that is, a whole night's sleep."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "云屏：画着云彩、或者用云母装饰的屏风，放在床边挡风。",
+   "en": "yún píng: a bedside screen painted with clouds or decorated with mica, used to keep out the wind."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "寒怯：怕冷，觉得冷。",
+   "en": "hán qiè: feeling the cold, shivering."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "曲岸：弯弯曲曲的河岸。",
+   "en": "qū àn: a winding riverbank."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "持觞：端着酒杯。觞，古代的酒杯。",
+   "en": "chí shāng: holding a wine cup. Shāng is an old word for a wine cup."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "系马：把马拴住。",
+   "en": "xì mǎ: tying up the horse."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "旧游：从前在一起游玩的事。",
+   "en": "jiù yóu: the good times spent together long ago."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 6,
+   "zh": "飞燕能说：只有梁上飞来飞去的燕子还能说出当年的事。",
+   "en": "fēi yàn néng shuō: only the swallows flying about the beams could still tell what happened then."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "闻道：听说。",
+   "en": "wén dào: I hear that."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "绮陌：繁华热闹的街道。绮，有花纹的丝绸，形容美丽。",
+   "en": "qǐ mò: a busy, lively street. Qǐ is patterned silk, used here to mean beautiful."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 5,
+   "zh": "帘底纤纤月：帘子下面露出像细细弯月一样的东西，一般认为指女子的小脚，一说指女子弯弯的眉毛。这里代指作者从前认识的那位女子。",
+   "en": "lián dǐ xiān xiān yuè: something thin like a new moon showing under the curtain. It usually means a woman's small feet; some say her curved eyebrows. It stands for the woman the poet once knew."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "千叠：一层又一层，很多很多。",
+   "en": "qiān dié: layer upon layer, beyond counting."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "料得：料想，估计。",
+   "en": "liào dé: I expect, I imagine."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "尊前：酒杯前，指在酒席上。尊，同“樽”，酒杯。",
+   "en": "zūn qián: in front of the wine cups, that is, at a banquet. Zūn means a wine vessel."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 5,
+   "zh": "镜里花难折：镜子里的花，看得见却摘不到。比喻那位女子就算再见到，也已经不能亲近了。",
+   "en": "jìng lǐ huā nán zhé: a flower in a mirror can be seen but not picked. Even if he sees her again, he can no longer be close to her."
+  },
+  {
+   "line": 19,
+   "start": 4,
+   "end": 6,
+   "zh": "华发：花白的头发。",
+   "en": "huá fà: grey, whitening hair."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "野棠花落了，",
+   "en": "The wild pear blossoms have fallen,"
+  },
+  {
+   "zh": "又是匆匆地过去了，",
+   "en": "and once again, in a hurry, it has passed:"
+  },
+  {
+   "zh": "清明时节。",
+   "en": "the Qingming season."
+  },
+  {
+   "zh": "东风平白无故地吹醒了我这个旅人的梦，",
+   "en": "For no reason the east wind blows away this traveller's dream,"
+  },
+  {
+   "zh": "一整夜，隔着云屏我还是觉得冷。",
+   "en": "and all night long, behind the cloud screen, I feel the cold."
+  },
+  {
+   "zh": "在弯弯的河岸边端着酒杯，",
+   "en": "On the winding bank I held a wine cup,"
+  },
+  {
+   "zh": "在垂柳下拴着马，",
+   "en": "under the drooping willows I tied my horse;"
+  },
+  {
+   "zh": "就在这个地方，我曾经和她分别。",
+   "en": "it was right here that I once said goodbye to her."
+  },
+  {
+   "zh": "如今楼里空了，人也走了，",
+   "en": "Now the house is empty and she is gone;"
+  },
+  {
+   "zh": "当年的事只有飞来飞去的燕子能说清。",
+   "en": "only the swallows flying about can tell of those old days."
+  },
+  {
+   "zh": "听说在繁华街道的东头，",
+   "en": "I hear that at the east end of the busy street,"
+  },
+  {
+   "zh": "过路的人曾经见过，",
+   "en": "passers-by have seen"
+  },
+  {
+   "zh": "帘子底下那弯弯细细的月牙。",
+   "en": "a slender new moon beneath a curtain."
+  },
+  {
+   "zh": "旧的愁恨像春江的水，流也流不完；",
+   "en": "My old sorrow is like the spring river, flowing without end;"
+  },
+  {
+   "zh": "新的愁恨像云中的山，一层又一层。",
+   "en": "my new sorrow is like the mountains in the clouds, fold upon fold."
+  },
+  {
+   "zh": "我想，等到明天，",
+   "en": "I imagine that tomorrow,"
+  },
+  {
+   "zh": "在酒席前再见到她，",
+   "en": "if I meet her again over the wine,"
+  },
+  {
+   "zh": "她也会像镜子里的花，看得见却摘不到。",
+   "en": "she will be like a flower in a mirror, seen but out of reach."
+  },
+  {
+   "zh": "她大概也会吃惊地问我：",
+   "en": "She too will probably ask in surprise:"
+  },
+  {
+   "zh": "“你近来添了多少白头发？”",
+   "en": "\"How much grey has come into your hair lately?\""
+  }
+ ],
+ "background": {
+  "zh": "题目“书东流村壁”的意思是：写在东流县一个村子的墙上。东流在今天安徽东至县，靠着长江。一般认为这首词作于宋孝宗淳熙五年（1178年）前后，辛弃疾从江西调往临安（今杭州）做官，路过东流。多年前他曾在这里和一位女子分别，这次重来，人已经不在，他就把心里的话写在了墙上。具体年份另有说法。",
+  "en": "The title means \"written on the wall of a village in Dongliu\". Dongliu is today's Dongzhi County in Anhui, on the Yangtze River. The poem is usually dated to about 1178, when Xin Qiji was called from Jiangxi to an office in Lin'an (today's Hangzhou) and passed through Dongliu. Years before, he had said goodbye to a woman here. Coming back, he found her gone, so he wrote his feelings on a village wall. Some date it to a different year."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人，和苏轼并称“苏辛”。他出生在被金国占领的北方，二十多岁带兵南归，一心想收复失地，却长期不被重用，只能在各地做官或闲居。他的词多数豪迈激昂，但也有这样细腻温柔、写离别相思的作品。",
+  "en": "Xin Qiji (1140–1207) was a great ci poet of the Southern Song, often paired with Su Shi. He was born in the north, under the rule of the Jin. In his twenties he led soldiers south to join the Song. He longed to win back the lost north but was rarely given the chance, and spent years in minor posts or living idle. Most of his ci are bold and stirring, but some, like this one, are tender poems about love and parting."
+ },
+ "appreciation": {
+  "zh": "上片从眼前写起：清明过了，花落了，东风吹醒客梦，一夜都觉得冷。冷的不只是身体，更是一个人在外的孤单。接着回忆：就在这弯弯河岸边，垂柳下拴着马，他曾和她举杯告别。现在楼空了，人走了，只有燕子还记得。下片听说她还在城东，可就算明天在酒席上见面，她也像镜子里的花，看得见摘不到。最后想象她吃惊地问：你怎么添了这么多白发？这一问里，有多年的分离，也有作者自己壮志难成、年华老去的叹息。旧恨像江水，新恨像云山，愁一层压着一层。",
+  "en": "The first stanza starts with the scene in front of him. Qingming has passed, the blossoms have fallen, and the east wind wakes him from his dream; all night he feels cold. The cold is not only in his body. It is the loneliness of being far from home. Then he remembers: on this winding bank, with his horse tied under the willows, he raised a cup and said goodbye to her. Now the house is empty and she is gone; only the swallows remember. In the second stanza he hears she still lives at the east end of town. But even if they meet over wine tomorrow, she will be like a flower in a mirror, seen but out of reach. Last, he imagines her asking in surprise why his hair has gone so grey. That question holds the long years apart, and also the poet's sigh at growing old with his great hopes unfulfilled. Old sorrow flows like the river; new sorrow piles up like the mountains."
+ },
+ "famous_lines": [
+  13,
+  14
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "qingming"
+  ],
+  "solar_terms": [
+   "qingming"
+  ],
+  "themes": [
+   "parting",
+   "love",
+   "memory",
+   "aging",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,260 @@
+{
+ "id": "14316b5b-cba2-41e0-84bd-3c3ed0c02407",
+ "kind": "shi",
+ "title": "过华清宫·其一",
+ "title_en": "Passing the Huaqing Palace, No. 1",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "堆",
+    "duī"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "顶",
+    "dǐng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "次",
+    "cì"
+   ],
+   [
+    "第",
+    "dì"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "妃",
+    "fēi"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "笑",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "荔",
+    "lì"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "现在课本读 qí。过去这里指一人一马，读 jì，有的老教材和字典仍注 jì。",
+   "en": "Today's textbooks read it qí. In the past, meaning one rider with his horse, it was read jì, and some older books still give jì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "长安：唐朝的都城，在今陕西西安。",
+   "en": "Chang'an: the Tang capital, today's Xi'an in Shaanxi."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "回望：回头看。诗人从长安出来，回头看骊山。",
+   "en": "huí wàng: to look back. The poet looks back at Mount Li."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "绣成堆：骊山上林木花草茂盛，楼台很多，看上去像一堆堆锦绣。",
+   "en": "xiù chéng duī: piled like embroidery. Mount Li, thick with trees, flowers and buildings, looks like heaps of embroidered silk."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "千门：宫殿的一道道门，形容宫殿很多。",
+   "en": "qiān mén: a thousand gates; the many gates of the palace."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "次第：一个接一个地。",
+   "en": "cì dì: one after another."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "一骑：一个人骑着一匹马。",
+   "en": "yī qí: one rider on a horse."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "红尘：马跑得快，扬起的尘土。",
+   "en": "hóng chén: the dust kicked up by the galloping horse."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "妃子：指杨贵妃。",
+   "en": "fēi zǐ: the consort; here Lady Yang."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "荔枝：南方的一种水果，放久了就会坏。杨贵妃爱吃，皇帝就让人骑快马从远方送来。",
+   "en": "lì zhī: the lychee, a southern fruit that spoils fast. Lady Yang loved it, so the emperor had it rushed to her by fast horses."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "从长安回头望骊山，林木楼台像一堆堆锦绣，",
+   "en": "Looking back from Chang'an, Mount Li looks like heaps of embroidered silk."
+  },
+  {
+   "zh": "山顶上宫殿的一道道大门依次打开。",
+   "en": "On the mountaintop, the palace gates swing open one after another."
+  },
+  {
+   "zh": "一个骑马的人飞奔而来，扬起尘土，杨贵妃笑了，",
+   "en": "A lone rider gallops in, raising red dust, and the consort smiles."
+  },
+  {
+   "zh": "没有人知道，那是给她送荔枝来了。",
+   "en": "No one knows it is lychees that have come."
+  }
+ ],
+ "background": {
+  "zh": "华清宫在骊山上，唐玄宗和杨贵妃常在这里游乐。据记载，杨贵妃爱吃新鲜荔枝，玄宗就让人从南方骑快马一站一站接力送来，跑死了很多马，也累坏了很多人。后来发生安史之乱，唐朝由盛转衰。杜牧经过华清宫旧址，想起这段往事，写了三首绝句，这是第一首。",
+  "en": "Huaqing Palace stood on Mount Li, where Emperor Xuanzong and Lady Yang often came to enjoy themselves. Records say Lady Yang loved fresh lychees, so the emperor had them carried from the south by relays of fast horses. Many horses and men were worn out on the way. Later the An Lushan Rebellion broke out and the Tang began to decline. Passing the old palace, Du Mu remembered this story and wrote three quatrains. This is the first."
+ },
+ "author_note": {
+  "zh": "杜牧（803—约852），晚唐诗人，和李商隐并称“小李杜”。他很关心国家大事，喜欢借历史故事来提醒当时的人，写过很多咏史诗，比如《泊秦淮》《赤壁》。这首诗就是借古讽今。",
+  "en": "Du Mu (803 to about 852) was a late Tang poet, named with Li Shangyin as the Little Li and Du. He cared about the state of the country and liked to use history to warn people of his own day. He wrote many poems about the past, such as Mooring on the Qinhuai and Red Cliff. This poem uses the past to criticize the present."
+ },
+ "appreciation": {
+  "zh": "这首诗像电影里的几个镜头。先是远景：从长安回头看，骊山像一堆堆锦绣。接着镜头推近：山顶的宫门一道接一道打开。然后是一匹快马冲上来，尘土飞扬，杨贵妃笑了。谁都以为是送紧急军情的，其实只是送荔枝。诗人没有说一句批评的话，只是把“妃子笑”和“荔枝来”放在一起。为了一个人的笑，多少人和马在路上奔命。这份讽刺，读者自己就能感受到。",
+  "en": "This poem is like a few shots in a film. First a long shot: looking back from Chang'an, Mount Li looks like piles of embroidery. Then the camera moves closer: the palace gates open one after another. Then a fast horse rushes up in a cloud of dust, and the consort smiles. Anyone would think it brings urgent war news, but it only brings lychees. The poet does not say one word of blame. He just puts her smile next to the lychees. For one person's smile, so many men and horses raced themselves to death. Readers can feel the bite on their own."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "satire",
+   "palace",
+   "lychee"
+  ]
+ },
+ "uncertain": []
+}

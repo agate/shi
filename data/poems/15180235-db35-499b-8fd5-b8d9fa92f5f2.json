@@ -1,0 +1,259 @@
+{
+ "id": "15180235-db35-499b-8fd5-b8d9fa92f5f2",
+ "kind": "shi",
+ "title": "虢国夫人",
+ "title_en": "The Lady of Guo",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "虢",
+    "guó"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ],
+   [
+    "恩",
+    "ēn"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "嫌",
+    "xián"
+   ],
+   [
+    "脂",
+    "zhī"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "污",
+    "wū"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ],
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "尊",
+    "zūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文作“平明上马入宫门”“却嫌脂粉涴颜色，澹埽蛾眉朝至尊”。通行本作“骑马”“污”“淡扫”。“涴”就是弄脏，“澹埽”就是“淡扫”，意思一样。",
+  "en": "The corpus has mounting a horse in line 2, and older or variant characters for dirty and for lightly brushing in lines 3 and 4. Common editions use riding a horse and the modern characters. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "朝在这里读 cháo，意思是朝见皇帝。",
+   "en": "Here this character is read cháo, meaning to have an audience with the emperor."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "虢国夫人：杨贵妃的一个姐姐，被唐玄宗封为虢国夫人。",
+   "en": "the Lady of Guo: an elder sister of Lady Yang, the favorite consort. Emperor Xuanzong gave her this title."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "承主恩：受到皇帝的宠爱。主，指皇帝。",
+   "en": "chéng zhǔ ēn: to enjoy the emperor's favor."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "平明：天刚亮的时候。",
+   "en": "píng míng: at dawn."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "却嫌：反而嫌弃。",
+   "en": "què xián: instead she dislikes."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "脂粉：胭脂和香粉，化妆用的东西。",
+   "en": "zhī fěn: rouge and face powder, make-up."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "污颜色：弄脏了她的容貌。颜色，指脸色、容貌。",
+   "en": "wū yán sè: to spoil her looks. Yán sè here means her face."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "淡扫蛾眉：只把眉毛淡淡地描一描。蛾眉，女子细长弯弯的眉毛，像蚕蛾的触须。",
+   "en": "dàn sǎo é méi: just lightly brushing her eyebrows. É méi are a woman's long, curved brows, like a moth's feelers."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "至尊：最尊贵的人，指皇帝。",
+   "en": "zhì zūn: the most honored one, the emperor."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "虢国夫人受到皇帝的宠爱，",
+   "en": "The Lady of Guo enjoys the emperor's favor."
+  },
+  {
+   "zh": "天刚亮就骑着马进了宫门。",
+   "en": "At dawn she rides her horse right through the palace gate."
+  },
+  {
+   "zh": "她反而嫌胭脂香粉弄脏了自己的美貌，",
+   "en": "She thinks rouge and powder would only spoil her beauty,"
+  },
+  {
+   "zh": "只淡淡地画了画眉毛，就去朝见皇帝。",
+   "en": "so she just lightly brushes her brows and goes to see the emperor."
+  }
+ ],
+ "background": {
+  "zh": "唐玄宗宠爱杨贵妃，她的三个姐姐也都被封为国夫人，虢国夫人是其中之一。她们出入宫廷，十分骄横。这首诗写虢国夫人骑马直接进宫，不化浓妆就去见皇帝，表面写她美，实际讽刺她得宠后的傲慢。这首诗的作者有争议：有的书把它收在杜甫名下，题为《虢国夫人》；《唐诗三百首》等书则把它当作张祜《集灵台二首》的第二首。",
+  "en": "Emperor Xuanzong doted on Lady Yang, and her three elder sisters were all given noble titles. The Lady of Guo was one of them. The sisters came and went at court and were very proud. This poem shows the Lady of Guo riding straight into the palace and meeting the emperor with almost no make-up. On the surface it praises her beauty; underneath it mocks her pride. Who wrote it is disputed. Some books put it under Du Fu with this title. Others, such as Three Hundred Tang Poems, give it as the second of Zhang Hu's Two Poems on the Jiling Terrace."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他亲眼看到唐朝由盛转衰，写过很多批评杨家兄妹奢侈骄横的诗，比如《丽人行》。不过这首诗是否出自杜甫，历来有不同说法，也有人认为是晚唐诗人张祜写的。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He saw the Tang fall from glory into decline and wrote poems criticizing the pride and luxury of Lady Yang's family, such as Song of the Fair Ladies. Whether he wrote this poem, though, has long been debated. Some think it is by the later Tang poet Zhang Hu."
+ },
+ "appreciation": {
+  "zh": "这首诗表面上在夸人，读起来却带着冷笑。皇宫是最讲规矩的地方，别人都要下马步行，虢国夫人却天一亮就骑着马直接进去。宫里的女子见皇帝都要精心打扮，她却嫌脂粉会弄脏自己的脸，只淡淡画一下眉毛。她这么自信、这么随便，正说明她仗着皇帝的宠爱，什么规矩都不放在眼里。诗人一句批评也没说，只把她的样子画出来，讽刺就藏在里面。",
+  "en": "On the surface this poem praises a woman, but it reads with a cold smile. The palace is a place full of rules. Everyone else gets off their horse and walks, yet the Lady of Guo rides straight in at dawn. Palace ladies dress up carefully to see the emperor, yet she thinks make-up would spoil her face and only brushes her brows. Her confidence and ease show that, sure of the emperor's favor, she ignores every rule. The poet says not one word of blame. He just paints her as she is, and the mockery hides inside."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "satire",
+   "palace",
+   "beauty",
+   "history"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "作者有争议：资料库和部分杜甫集收为杜甫《虢国夫人》，《唐诗三百首》等书作张祜《集灵台二首》其二。需要确认采用哪种署名。",
+   "en": "The author is disputed. The corpus and some editions of Du Fu's works give it to Du Fu as The Lady of Guo. Three Hundred Tang Poems and others give it as Zhang Hu's second Jiling Terrace poem. The attribution to use needs to be confirmed."
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "id": "9b4f2d56-6df4-4999-a82c-11283529dd51",
+ "kind": "shi",
+ "title": "感遇十二首·其一",
+ "title_en": "Stirred by What I Meet, No. 1 of Twelve",
+ "author": "张九龄",
+ "author_en": "Zhang Jiuling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "葳",
+    "wēi"
+   ],
+   [
+    "蕤",
+    "ruí"
+   ]
+  ],
+  [
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "华",
+    "huā"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "皎",
+    "jiǎo"
+   ],
+   [
+    "洁",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "欣",
+    "xīn"
+   ],
+   [
+    "欣",
+    "xīn"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "尔",
+    "ěr"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "者",
+    "zhě"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "悦",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "本",
+    "běn"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "求",
+    "qiú"
+   ],
+   [
+    "美",
+    "měi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "华",
+   "pinyin": "huā",
+   "zh": "“华”在这里同“花”，读 huā。“桂华”就是桂花。也有人按字面读 huá。",
+   "en": "Here the character means \"flower\", so it is read huā. Guì huā is the osmanthus flower. Some read it huá, its usual sound."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "“为”在这里是“成为”的意思，读 wéi。",
+   "en": "Here the character means \"to become\", so it is read wéi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "兰：兰草，一种叶子细长、开花很香的草。",
+   "en": "lán: the orchid, a plant with long thin leaves and sweet-smelling flowers."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "葳蕤：草木长得茂盛、枝叶下垂的样子。",
+   "en": "wēi ruí: lush and full, with leaves hanging thick."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "桂华：桂花。华，同“花”。",
+   "en": "guì huā: osmanthus flowers, which bloom in autumn and smell sweet."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "皎洁：明亮洁白。",
+   "en": "jiǎo jié: bright and clean white."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "欣欣：生机勃勃、很有精神的样子。",
+   "en": "xīn xīn: full of life and joy."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "生意：生机，活下去、长起来的力量。不是做买卖。",
+   "en": "shēng yì: the force of life, the urge to grow. It does not mean business here."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "自尔：自然而然地，自己就这样。",
+   "en": "zì ěr: of themselves, naturally."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "佳节：美好的时节。",
+   "en": "jiā jié: a fine season."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "林栖者：住在山林里的人，就是隐士。",
+   "en": "lín qī zhě: people who live in the woods, that is, hermits."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "闻风：闻到兰桂的香气，也指听说它们的美名。",
+   "en": "wén fēng: catching the scent on the wind, and also hearing of their good name."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "坐：因此，因而。也有人解释为“深深地”。",
+   "en": "zuò: and so, because of this. Some explain it as \"deeply\"."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "相悦：喜爱它们。",
+   "en": "xiāng yuè: to love them."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "本心：天生的本性。",
+   "en": "běn xīn: the nature something is born with."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "美人：这里指那些赏花的人，就是上面说的林栖者。一说暗指君王。",
+   "en": "měi rén: here, the fine people who admire the flowers, that is, the hermits. Another reading says it hints at the emperor."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "折：折下来。",
+   "en": "zhé: to pick, to break off."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天的兰草，叶子长得茂盛又繁密。",
+   "en": "In spring the orchid leaves grow thick and full."
+  },
+  {
+   "zh": "秋天的桂花，开得明亮又洁白。",
+   "en": "In autumn the osmanthus flowers bloom bright and white."
+  },
+  {
+   "zh": "它们这样生机勃勃，",
+   "en": "They are so full of life,"
+  },
+  {
+   "zh": "自然而然就成了美好的时节。",
+   "en": "and of themselves they make the season fine."
+  },
+  {
+   "zh": "谁想到住在山林里的隐士，",
+   "en": "Who would have thought the hermits in the woods"
+  },
+  {
+   "zh": "闻到香气，就因此爱上了它们。",
+   "en": "would catch their scent on the wind and come to love them?"
+  },
+  {
+   "zh": "可是草木散发香气，是出于自己的本性，",
+   "en": "But plants give off their scent because that is their own nature."
+  },
+  {
+   "zh": "哪里是为了求人来把它们折下来欣赏呢？",
+   "en": "They do not ask any fine person to come and pick them."
+  }
+ ],
+ "background": {
+  "zh": "张九龄做过唐玄宗的宰相，为人正直，敢说真话。后来奸臣李林甫得势，张九龄在开元二十四年（736年）被罢去宰相，第二年又被贬到荆州做长史。《感遇》十二首一般认为是他在荆州时写的。“感遇”就是对自己的遭遇有所感触。这是第一首，借兰草和桂花说自己的心志。",
+  "en": "Zhang Jiuling was a chief minister under Emperor Xuanzong. He was honest and dared to speak the truth. Later the scheming minister Li Linfu gained power. In 736 Zhang lost his post as chief minister, and the next year he was sent away to Jingzhou as a lower official. The twelve poems called \"Stirred by What I Meet\" are usually thought to have been written in Jingzhou. The title means being moved by what has happened to oneself. This is the first one. It uses the orchid and the osmanthus to speak of his own heart."
+ },
+ "author_note": {
+  "zh": "张九龄（678—740），韶州曲江（今广东韶关）人，唐朝有名的贤相，也是诗人。他的诗清新淡雅，常常借草木来寄托自己的品格。《望月怀远》里的“海上生明月，天涯共此时”也是他写的。",
+  "en": "Zhang Jiuling (678–740) came from Qujiang in Shaozhou, today's Shaoguan in Guangdong. He was a well-known good chief minister of the Tang, and also a poet. His poems are fresh and plain, and he often used plants to show his character. He also wrote the famous line \"Over the sea the bright moon rises; far apart, we share this moment.\""
+ },
+ "appreciation": {
+  "zh": "前四句写花草：春天有兰，秋天有桂，它们各自在自己的季节里长得好好的，不用谁来安排。后四句忽然一转：隐士闻到香气，喜欢上了它们。可是诗人说，草木香，是因为它天生就香，并不是为了让人来折、来夸。这就是诗人自己的态度：我做一个正直的人，是我的本性，不是为了求别人看重、求官位。就算被贬了，也不改变。全诗语气平和，却很有骨气。",
+  "en": "The first four lines are about plants. There are orchids in spring and osmanthus in autumn. Each grows well in its own season, and no one has to arrange it. Then the poem turns. The hermits catch the scent and come to love them. But the poet says plants are fragrant because they are born that way. They do not do it so people will pick them or praise them. This is the poet's own attitude. He is honest because that is his nature, not to win praise or a high post. Even after being sent away, he will not change. The tone is calm, but the poem stands firm."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring",
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "flowers",
+   "integrity",
+   "nature",
+   "hermit"
+  ]
+ },
+ "uncertain": []
+}

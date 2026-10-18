@@ -1,0 +1,261 @@
+{
+ "id": "846bf783-211a-4122-9587-054fcbdbc6d1",
+ "kind": "shi",
+ "title": "赠花卿",
+ "title_en": "For General Hua",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "纷",
+    "fēn"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "闻",
+    "wén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里的底本第三句作“此曲秪应天上有”。秪是“只”的古写法，现在通行本和课本作“只”。",
+  "en": "Our source text writes zhǐ (only) in the third line with an old character. Current editions and textbooks use the modern one. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "这里指乐曲，读 qǔ，不读 qū。",
+   "en": "Here it means a tune, so it is read qǔ, not qū."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "这里是“应该”的意思，读 yīng。",
+   "en": "Here it means should, so it is read yīng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "锦城：锦官城，就是成都。古时成都织锦有名，所以这样叫。",
+   "en": "jǐn chéng: the Brocade City, that is, Chengdu, famous for its brocade silk in old times."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "丝管：弦乐器和管乐器，这里指音乐。丝，琴瑟一类有弦的乐器；管，笛箫一类吹的乐器。",
+   "en": "sī guǎn: strings and pipes, meaning music. Sī means stringed instruments; guǎn means wind instruments like flutes."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "日纷纷：每天热热闹闹，响个不停。",
+   "en": "rì fēn fēn: busy and lively every day, never stopping."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 7,
+   "zh": "半入江风半入云：乐声一半随着江风飘走，一半飘进了云里。",
+   "en": "bàn rù jiāng fēng bàn rù yún: half the music drifts off on the river wind, half floats up into the clouds."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "此曲：这样的乐曲。",
+   "en": "cǐ qǔ: such music."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "只应：只应该。",
+   "en": "zhǐ yīng: should only."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "人间：人世间，和“天上”相对。",
+   "en": "rén jiān: the human world, as opposed to heaven."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "几回闻：能听到几回，意思是很难听到。",
+   "en": "jǐ huí wén: how many times can one hear it, meaning hardly ever."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "成都城里，每天都响着热闹的音乐，",
+   "en": "In the Brocade City, music plays every day, lively and full,"
+  },
+  {
+   "zh": "一半随着江风飘走，一半飘进了云里。",
+   "en": "half carried off by the river wind, half rising into the clouds."
+  },
+  {
+   "zh": "这样美妙的乐曲，只应该天上才有，",
+   "en": "Such music should exist only in heaven;"
+  },
+  {
+   "zh": "人世间能听到几回呢？",
+   "en": "how many times can it be heard on earth?"
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗写于唐肃宗上元二年（761年），杜甫当时住在成都草堂。“花卿”指成都的武将花敬定，“卿”是对人的尊称。花敬定平定过一场叛乱，立了功，但他手下的士兵也趁机抢掠百姓。他平时常在家里大摆宴席，奏乐取乐。杜甫就写了这首诗送给他。",
+  "en": "This poem is usually dated to 761, when Du Fu lived in his thatched cottage in Chengdu. \"Hua Qing\" means Hua Jingding, a general in Chengdu; qing is a polite way to address someone. Hua Jingding had put down a revolt and won praise, but his soldiers also used it to rob ordinary people. He often held grand feasts at home with music. Du Fu wrote this poem for him."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被人称为“诗圣”。安史之乱后他四处漂泊，760年前后在成都西郊盖了一座草堂，住了几年，生活相对安定。这段时间他写了很多诗，有的写景，有的关心国家大事，这首诗就是其中之一。",
+  "en": "Du Fu (712–770) was a great Tang poet, often called the Sage of Poetry. After the An Lushan Rebellion he wandered from place to place. Around 760 he built a thatched cottage in the western outskirts of Chengdu and lived there for a few years, a fairly settled time. He wrote many poems there, some about scenery and some about the country's affairs. This is one of them."
+ },
+ "appreciation": {
+  "zh": "表面上看，这是一首夸音乐的诗。前两句写乐声多么热闹、多么飘逸：每天响个不停，随着江风飘远，又飞进云里。后两句说这音乐太美了，简直是天上的仙乐，人间难得听到几回。不过，这首诗还有另一种读法。古时候，“天上”也可以指皇宫，有些音乐只有皇帝才能用。一说花敬定仗着有功，在家里用了皇帝才能用的音乐，杜甫用夸奖的话委婉地提醒他。也有人认为杜甫只是单纯赞美音乐。两种理解都有道理，这正是这首小诗耐人寻味的地方。",
+  "en": "On the surface, this poem praises music. The first two lines show how lively and airy the music is: it plays every day, drifts far on the river wind, and floats into the clouds. The last two lines say it is so beautiful that it must be music of heaven, rarely heard on earth. But there is another way to read it. In old times, \"heaven\" could also mean the imperial palace, and some kinds of music were only for the emperor. One view says Hua Jingding, proud of his success, used the emperor's music at home, and Du Fu gently warned him through words of praise. Others think Du Fu was simply praising the music. Both readings make sense, and that is what makes this little poem so interesting to think about."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "music",
+   "chengdu",
+   "satire"
+  ]
+ },
+ "uncertain": []
+}

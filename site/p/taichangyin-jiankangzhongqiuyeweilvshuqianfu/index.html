@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>太常引·建康中秋夜为吕叔潜赋 · 辛弃疾 — 诗</title>
+    <meta name="description" content="太常引·建康中秋夜为吕叔潜赋 · 辛弃疾 — Tai Chang Yin: Written for Lü Shuqian on Mid-Autumn Night in Jiankang by Xin Qiji: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci lyric</span><span lang="zh">宋词 · 词</span></p>
+        <h1>太常引·建康中秋夜为吕叔潜赋</h1>
+        <p class="by">辛弃疾<span class="mono"><span lang="en">Xin Qiji · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Tai Chang Yin: Written for Lü Shuqian on Mid-Autumn Night in Jiankang</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>yī</i><b>一</b></span><span class="c" data-l="0" data-p="1"><i>lún</i><b>轮</b></span><span class="c gl" data-l="0" data-p="2"><i>qiū</i><b>秋</b></span><span class="c gl" data-l="0" data-p="3"><i>yǐng</i><b>影</b></span><span class="c" data-l="0" data-p="4"><i>zhuǎn</i><b>转</b></span><span class="c gl" data-l="0" data-p="5"><i>jīn</i><b>金</b></span><span class="c gl" data-l="0" data-p="6"><i>bō</i><b>波</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>fēi</i><b>飞</b></span><span class="c gl" data-l="1" data-p="1"><i>jìng</i><b>镜</b></span><span class="c" data-l="1" data-p="2"><i>yòu</i><b>又</b></span><span class="c gl rd" data-l="1" data-p="3"><i>chóng</i><b>重</b></span><span class="c gl" data-l="1" data-p="4"><i>mó</i><b>磨</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>bǎ</i><b>把</b></span><span class="c gl" data-l="2" data-p="1"><i>jiǔ</i><b>酒</b></span><span class="c" data-l="2" data-p="2"><i>wèn</i><b>问</b></span><span class="c gl" data-l="2" data-p="3"><i>héng</i><b>姮</b></span><span class="c gl" data-l="2" data-p="4"><i>é</i><b>娥</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>bèi</i><b>被</b></span><span class="c gl" data-l="3" data-p="1"><i>bái</i><b>白</b></span><span class="c gl" data-l="3" data-p="2"><i>fà</i><b>发</b></span><span class="c gl" data-l="3" data-p="3"><i>qī</i><b>欺</b></span><span class="c gl" data-l="3" data-p="4"><i>rén</i><b>人</b></span><span class="c gl" data-l="3" data-p="5"><i>nài</i><b>奈</b></span><span class="c gl" data-l="3" data-p="6"><i>hé</i><b>何</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>chéng</i><b>乘</b></span><span class="c gl" data-l="4" data-p="1"><i>fēng</i><b>风</b></span><span class="c gl" data-l="4" data-p="2"><i>hǎo</i><b>好</b></span><span class="c gl" data-l="4" data-p="3"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>cháng</i><b>长</b></span><span class="c" data-l="5" data-p="1"><i>kōng</i><b>空</b></span><span class="c" data-l="5" data-p="2"><i>wàn</i><b>万</b></span><span class="c" data-l="5" data-p="3"><i>lǐ</i><b>里</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>zhí</i><b>直</b></span><span class="c gl" data-l="6" data-p="1"><i>xià</i><b>下</b></span><span class="c" data-l="6" data-p="2"><i>kàn</i><b>看</b></span><span class="c" data-l="6" data-p="3"><i>shān</i><b>山</b></span><span class="c" data-l="6" data-p="4"><i>hé</i><b>河</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>zhuó</i><b>斫</b></span><span class="c" data-l="7" data-p="1"><i>qù</i><b>去</b></span><span class="c gl" data-l="7" data-p="2"><i>guì</i><b>桂</b></span><span class="c gl" data-l="7" data-p="3"><i>pó</i><b>婆</b></span><span class="c gl" data-l="7" data-p="4"><i>suō</i><b>娑</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>rén</i><b>人</b></span><span class="c gl" data-l="8" data-p="1"><i>dào</i><b>道</b></span><span class="c gl" data-l="8" data-p="2"><i>shì</i><b>是</b></span><span class="c gl" data-l="8" data-p="3"><i>qīng</i><b>清</b></span><span class="c gl" data-l="8" data-p="4"><i>guāng</i><b>光</b></span><span class="c" data-l="8" data-p="5"><i>gèng</i><b>更</b></span><span class="c" data-l="8" data-p="6"><i>duō</i><b>多</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">一轮秋影转金波</span><span lang="en">The round autumn moon moves on, pouring out golden waves of light.</span><span lang="zh">一轮秋月慢慢移动，洒下金色的光波。</span></li><li><span class="o">飞镜又重磨</span><span lang="en">It is like a flying mirror, freshly polished again.</span><span lang="zh">它像一面飞在天上的镜子，又被重新磨亮了。</span></li><li><span class="o">把酒问姮娥</span><span lang="en">I raise my cup and ask Chang&#x27;e on the moon:</span><span lang="zh">我端起酒杯问月中的嫦娥：</span></li><li><span class="o">被白发欺人奈何</span><span lang="en">White hair keeps bullying me. What can I do?</span><span lang="zh">白发一天天欺负我，我该怎么办？</span></li><li class="brk"><span class="o">乘风好去</span><span lang="en">I want to ride the wind up into the sky,</span><span lang="zh">我想乘着风痛快地飞上天去，</span></li><li><span class="o">长空万里</span><span lang="en">across ten thousand miles of open air,</span><span lang="zh">穿过万里长空，</span></li><li><span class="o">直下看山河</span><span lang="en">and look straight down on the mountains and rivers below.</span><span lang="zh">笔直往下看人间的山河。</span></li><li><span class="o">斫去桂婆娑</span><span lang="en">Then I would chop down the swaying cassia tree on the moon,</span><span lang="zh">再砍掉月中那棵枝叶摇摆的桂树，</span></li><li><span class="o">人道是清光更多</span><span lang="en">for people say the moonlight would be even brighter.</span><span lang="zh">人们说，这样月光会更加明亮。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>秋影<span class="mono">qiū yǐng</span></dt><dd><span lang="en">qiū yǐng: the autumn moon.</span><span lang="zh">秋影：秋天的月亮。</span></dd></div><div><dt>金波<span class="mono">jīn bō</span></dt><dd><span lang="en">jīn bō: golden waves, the moonlight that seems to flow like water.</span><span lang="zh">金波：月亮发出的金色光芒，像流动的波浪。</span></dd></div><div><dt>飞镜<span class="mono">fēi jìng</span></dt><dd><span lang="en">fēi jìng: a flying mirror, meaning the round moon.</span><span lang="zh">飞镜：飞在天上的镜子，指圆圆的月亮。</span></dd></div><div><dt>重磨<span class="mono">chóng mó</span></dt><dd><span lang="en">chóng mó: polished again. Old mirrors were made of bronze and had to be polished to shine.</span><span lang="zh">重磨：又磨了一遍。古代的镜子是铜做的，要常常磨才亮。</span></dd></div><div><dt>把酒<span class="mono">bǎ jiǔ</span></dt><dd><span lang="en">bǎ jiǔ: holding up a cup of wine.</span><span lang="zh">把酒：端着酒杯。</span></dd></div><div><dt>姮娥<span class="mono">héng é</span></dt><dd><span lang="en">héng é: Chang&#x27;e, the goddess who lives on the moon in the old story.</span><span lang="zh">姮娥：就是嫦娥，传说住在月亮上的仙女。</span></dd></div><div><dt>被白发欺人<span class="mono">bèi bái fà qī rén</span></dt><dd><span lang="en">bèi bái fà qī rén: bullied by white hair, meaning one grows old before the great task is done.</span><span lang="zh">被白发欺人：被白头发欺负，意思是人还没做成大事，头发却白了。</span></dd></div><div><dt>奈何<span class="mono">nài hé</span></dt><dd><span lang="en">nài hé: what can I do?</span><span lang="zh">奈何：怎么办。</span></dd></div><div><dt>乘风<span class="mono">chéng fēng</span></dt><dd><span lang="en">chéng fēng: riding the wind up into the sky.</span><span lang="zh">乘风：借着风飞上天。</span></dd></div><div><dt>好去<span class="mono">hǎo qù</span></dt><dd><span lang="en">hǎo qù: go off freely and happily.</span><span lang="zh">好去：痛痛快快地去。</span></dd></div><div><dt>直下<span class="mono">zhí xià</span></dt><dd><span lang="en">zhí xià: straight down.</span><span lang="zh">直下：笔直往下。</span></dd></div><div><dt>斫<span class="mono">zhuó</span></dt><dd><span lang="en">zhuó: to chop with an axe.</span><span lang="zh">斫：用刀斧砍。</span></dd></div><div><dt>桂婆娑<span class="mono">guì pó suō</span></dt><dd><span lang="en">guì pó suō: the swaying, leafy cassia tree. Legend says a cassia tree grows on the moon.</span><span lang="zh">桂婆娑：枝叶摇摆、长得很茂盛的桂树。传说月亮里有一棵桂树。</span></dd></div><div><dt>人道是<span class="mono">rén dào shì</span></dt><dd><span lang="en">rén dào shì: people say.</span><span lang="zh">人道是：人们说。</span></dd></div><div><dt>清光<span class="mono">qīng guāng</span></dt><dd><span lang="en">qīng guāng: clear moonlight.</span><span lang="zh">清光：清亮的月光。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>重<span class="mono">chóng</span></dt><dd><span lang="en">Here the character means &#x27;again&#x27;, so it is read chóng, not zhòng.</span><span lang="zh">重：这里是“再一次”的意思，读 chóng，不读 zhòng。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric is usually dated to 1174. Xin Qiji was then an official in Jiankang, today&#x27;s Nanjing. Much of northern China was held by the Jin state. He longed to win it back but was not given real power. On Mid-Autumn night he watched the moon with his friend Lü Shuqian and wrote this for him. The line about chopping down the cassia tree borrows an idea from Du Fu, who wrote that cutting the moon&#x27;s cassia would make its light brighter.</p><p lang="zh">这首词一般认为写于宋孝宗淳熙元年（1174年）。那时辛弃疾在建康（今江苏南京）做官。北方的大片土地被金国占着，他一心想收复，却得不到重用。中秋夜，他和朋友吕叔潜一起赏月，写下这首词送给朋友。“斫去桂婆娑”一句，借用了杜甫诗里“斫却月中桂，清光应更多”的意思。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Xin Qiji (1140–1207) was a great Southern Song lyric poet. As a young man he raised troops in the north to fight the Jin, then came south to join the Song. All his life he hoped to win back the north, but he was often pushed aside. His lyrics are bold and strong, and he is named together with Su Shi. The wild fancy in this lyric also hides his wish to serve the country.</p><p lang="zh">辛弃疾（1140—1207），号稼轩，南宋大词人。他年轻时在北方起兵抗金，后来南归宋朝。他一生想收复中原，却常常被冷落。他的词豪放有力，和苏轼并称“苏辛”。这首词里的浪漫想象，也藏着他的报国心。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half paints the moon. It is like golden waves, and like a mirror just polished, round and bright. Then the poet raises his cup and asks Chang&#x27;e: white hair is bullying me, what can I do? The mood turns from beauty to worry. He sighs that he is growing old before his great task is done. The second half is full of wild imagination. He wants to ride the wind into the sky, look down on the land from far above, and chop down the cassia tree on the moon so the light shines brighter. The tree that blocks the light is like the people at court who stood in the way of fighting the Jin. Cut it down, and the world below grows brighter. The lyric reads like a fairy tale, but behind it beats a heart that longs to serve the country.</p><p lang="zh">上片先写月：秋月像金色的波浪，又像一面刚磨亮的镜子，又圆又亮。接着词人端起酒杯问嫦娥：白发欺负人，怎么办？一下子从美景转到心里的烦恼，他是在叹自己老了，大事还没做成。下片想象奇特：他要乘风飞上天，从万里高空往下看山河，再砍掉月中的桂树，让月光照得更亮。桂树挡住月光，就像朝廷里阻碍抗金的人。砍去它，人间就会更亮。整首词像一个童话，背后却是一颗想为国家出力的心。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/sanshumei-guoduchengjiujuyougan/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>三姝媚·过都城旧居有感</b></a><a href="../../p/bagui-xiangzhongsonghudehua/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>八归·湘中送胡德华</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["一", "yī"], ["轮", "lún"], ["秋", "qiū"], ["影", "yǐng"], ["转", "zhuǎn"], ["金", "jīn"], ["波", "bō"]], [["飞", "fēi"], ["镜", "jìng"], ["又", "yòu"], ["重", "chóng"], ["磨", "mó"]], [["把", "bǎ"], ["酒", "jiǔ"], ["问", "wèn"], ["姮", "héng"], ["娥", "é"]], [["被", "bèi"], ["白", "bái"], ["发", "fà"], ["欺", "qī"], ["人", "rén"], ["奈", "nài"], ["何", "hé"]], [["乘", "chéng"], ["风", "fēng"], ["好", "hǎo"], ["去", "qù"]], [["长", "cháng"], ["空", "kōng"], ["万", "wàn"], ["里", "lǐ"]], [["直", "zhí"], ["下", "xià"], ["看", "kàn"], ["山", "shān"], ["河", "hé"]], [["斫", "zhuó"], ["去", "qù"], ["桂", "guì"], ["婆", "pó"], ["娑", "suō"]], [["人", "rén"], ["道", "dào"], ["是", "shì"], ["清", "qīng"], ["光", "guāng"], ["更", "gèng"], ["多", "duō"]]], "glosses": [{"line": 0, "start": 2, "end": 4, "zh": "秋影：秋天的月亮。", "en": "qiū yǐng: the autumn moon."}, {"line": 0, "start": 5, "end": 7, "zh": "金波：月亮发出的金色光芒，像流动的波浪。", "en": "jīn bō: golden waves, the moonlight that seems to flow like water."}, {"line": 1, "start": 0, "end": 2, "zh": "飞镜：飞在天上的镜子，指圆圆的月亮。", "en": "fēi jìng: a flying mirror, meaning the round moon."}, {"line": 1, "start": 3, "end": 5, "zh": "重磨：又磨了一遍。古代的镜子是铜做的，要常常磨才亮。", "en": "chóng mó: polished again. Old mirrors were made of bronze and had to be polished to shine."}, {"line": 2, "start": 0, "end": 2, "zh": "把酒：端着酒杯。", "en": "bǎ jiǔ: holding up a cup of wine."}, {"line": 2, "start": 3, "end": 5, "zh": "姮娥：就是嫦娥，传说住在月亮上的仙女。", "en": "héng é: Chang'e, the goddess who lives on the moon in the old story."}, {"line": 3, "start": 0, "end": 5, "zh": "被白发欺人：被白头发欺负，意思是人还没做成大事，头发却白了。", "en": "bèi bái fà qī rén: bullied by white hair, meaning one grows old before the great task is done."}, {"line": 3, "start": 5, "end": 7, "zh": "奈何：怎么办。", "en": "nài hé: what can I do?"}, {"line": 4, "start": 0, "end": 2, "zh": "乘风：借着风飞上天。", "en": "chéng fēng: riding the wind up into the sky."}, {"line": 4, "start": 2, "end": 4, "zh": "好去：痛痛快快地去。", "en": "hǎo qù: go off freely and happily."}, {"line": 6, "start": 0, "end": 2, "zh": "直下：笔直往下。", "en": "zhí xià: straight down."}, {"line": 7, "start": 0, "end": 1, "zh": "斫：用刀斧砍。", "en": "zhuó: to chop with an axe."}, {"line": 7, "start": 2, "end": 5, "zh": "桂婆娑：枝叶摇摆、长得很茂盛的桂树。传说月亮里有一棵桂树。", "en": "guì pó suō: the swaying, leafy cassia tree. Legend says a cassia tree grows on the moon."}, {"line": 8, "start": 0, "end": 3, "zh": "人道是：人们说。", "en": "rén dào shì: people say."}, {"line": 8, "start": 3, "end": 5, "zh": "清光：清亮的月光。", "en": "qīng guāng: clear moonlight."}], "readings": [{"line": 1, "pos": 3, "char": "重", "pinyin": "chóng", "zh": "重：这里是“再一次”的意思，读 chóng，不读 zhòng。", "en": "Here the character means 'again', so it is read chóng, not zhòng."}], "speak": ["一轮秋影转金波", "飞镜又崇磨", "把酒问姮娥", "被白发欺人奈何", "乘风好去", "长空万里", "直下看山河", "斫去桂婆娑", "人道是清光更多"], "speakTitle": "太常引，建康中秋夜为吕叔潜赋。辛弃疾。", "sample": "一轮秋影转金波"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

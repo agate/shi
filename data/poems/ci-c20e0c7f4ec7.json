@@ -1,0 +1,502 @@
+{
+ "id": "ci-c20e0c7f4ec7",
+ "kind": "ci",
+ "title": "蝶恋花·晚止昌乐馆寄姊妹",
+ "title_en": "Butterflies Love Flowers: Stopping at Night at the Changle Inn, to My Sisters",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "脂",
+    "zhī"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "满",
+    "mǎn"
+   ]
+  ],
+  [
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "叠",
+    "dié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "唱",
+    "chàng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "遍",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "方",
+    "fāng"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "行",
+    "xíng"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "盏",
+    "zhǎn"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ],
+  [
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "莱",
+    "lái"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "莱",
+    "lái"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "通行本第四句作“人道山长水又断”，语料作“山长山又断”；末句通行本作“东莱不似蓬莱远”，语料作“东来”。东莱是地名，指莱州。这里用通行本。",
+  "en": "In the fourth line the common text reads \"the hills are long and the waters cut off\", where the corpus repeats \"hills\". In the last line the common text has Donglai, a place name for Laizhou, where the corpus has a different character meaning \"coming east\". We follow the common text."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 3,
+   "zh": "“长”在这里读 cháng，是长远的意思，不读 zhǎng。",
+   "en": "Here this character is read cháng, meaning long, not zhǎng.",
+   "char": "长",
+   "pinyin": "cháng"
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "zh": "“道”在这里是说的意思，读 dào。",
+   "en": "Here this character means to say and is read dào.",
+   "char": "道",
+   "pinyin": "dào"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "罗衣：用轻软的丝织品做的衣服。",
+   "en": "luó yī: clothes made of light, soft silk."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "脂粉：胭脂和香粉，女子化妆用的东西。",
+   "en": "zhī fěn: rouge and powder, a woman's make-up."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "四叠阳关：《阳关曲》是唐代流传下来的送别歌，用王维“劝君更尽一杯酒，西出阳关无故人”的诗配曲，唱的时候要反复叠唱。四叠，唱好几遍。",
+   "en": "sì dié yáng guān: the Yangguan Song was a farewell song from the Tang, set to Wang Wei's poem about the Yang Pass. Its lines were sung over and over; here it is sung four times."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "千千遍：成千上万遍，形容唱了很多很多遍。",
+   "en": "qiān qiān biàn: thousands of times, very many times."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "人道：人们说。",
+   "en": "rén dào: people say."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "山长水又断：山路很长，水路又被隔断，路途遥远难走。",
+   "en": "shān cháng shuǐ yòu duàn: the mountain roads are long and the waterways are cut off; the way is far and hard."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "萧萧：风雨的声音。",
+   "en": "xiāo xiāo: the sound of wind and rain."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "孤馆：孤零零的旅馆，这里指昌乐县的驿馆。",
+   "en": "gū guǎn: a lonely inn, here the post-house at Changle."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "惜别伤离：舍不得分别，为离开而伤心。",
+   "en": "xī bié shāng lí: hating to say goodbye and grieving at parting."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "方寸：心。古人认为心只有一寸见方。",
+   "en": "fāng cùn: the heart. People of old thought the heart was one inch square."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "临行：快要出发的时候。",
+   "en": "lín xíng: just before setting off."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "酒盏：酒杯。",
+   "en": "jiǔ zhǎn: a wine cup."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "深和浅：酒倒得多还是少。这里是说心太乱，连喝了多少酒都忘了。",
+   "en": "shēn hé qiǎn: whether the cup was poured full or not. Her heart was so upset she forgot how much she drank."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 1,
+   "zh": "好：最好，可以。",
+   "en": "hǎo: it would be good to, be sure to."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "音书：书信。",
+   "en": "yīn shū: letters."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "凭过雁：托付给飞过的大雁。古人有大雁传书的说法。",
+   "en": "píng guò yàn: to trust them to the passing wild geese. People of old said wild geese could carry letters."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "东莱：地名，就是莱州，在今山东。李清照的丈夫当时在这里做官。",
+   "en": "dōng lái: Donglai, another name for Laizhou in today's Shandong, where her husband then held office."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "蓬莱：传说中海上的仙山，非常遥远，凡人到不了。",
+   "en": "péng lái: Penglai, a legendary island of immortals in the sea, too far for ordinary people to reach."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "泪水打湿了罗衣，脸上的脂粉也被泪水弄花了。",
+   "en": "Tears soaked my silk clothes and smeared all my make-up."
+  },
+  {
+   "zh": "那首送别的《阳关曲》，",
+   "en": "The farewell Yangguan Song"
+  },
+  {
+   "zh": "我们唱了一遍又一遍。",
+   "en": "we sang a thousand times over."
+  },
+  {
+   "zh": "人们说，山路长，水路又断，路很难走。",
+   "en": "People say the hills are long and the waters cut off; the road is hard."
+  },
+  {
+   "zh": "在这孤零零的驿馆里，只听见萧萧的细雨。",
+   "en": "In this lonely inn I hear only the soft, steady rain."
+  },
+  {
+   "zh": "舍不得分别，离愁让我心里乱成一团，",
+   "en": "Hating to part and grieving to leave, my heart is in a tangle."
+  },
+  {
+   "zh": "连临走时，",
+   "en": "I have even forgotten whether, as I left,"
+  },
+  {
+   "zh": "酒杯倒得多还是少，都忘了。",
+   "en": "the cups were poured deep or shallow."
+  },
+  {
+   "zh": "请你们把书信托付给南飞的大雁，",
+   "en": "Be sure to send your letters by the passing geese."
+  },
+  {
+   "zh": "东莱并不像蓬莱仙山那样遥远。",
+   "en": "Donglai is not as far away as the island of Penglai."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首词写于宋徽宗宣和三年（1121年）秋天。当时李清照的丈夫赵明诚在莱州做官，她从青州出发去莱州和丈夫团聚。走到昌乐县，晚上住在驿馆里，想起刚刚分别的姐妹们，就写了这首词寄给她们。题目里的“姊妹”，一说是她的亲姐妹，一说是关系很好的女伴。",
+  "en": "This lyric is usually dated to the autumn of 1121. Li Qingzhao's husband, Zhao Mingcheng, then held office in Laizhou, and she set out from Qingzhou to join him. When she reached Changle county, she stayed the night at the post-house. Thinking of the sisters she had just left, she wrote this lyric and sent it to them. Some say the \"sisters\" were her real sisters, and some say they were close women friends."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她出生在书香门第，和丈夫赵明诚感情很好，两人一起收集古代的金石文物。金兵南下后，她流落江南，丈夫病死，晚年孤苦。她的词前期多写闺中生活和离别相思，后期多写国破家亡的悲哀。",
+  "en": "Li Qingzhao (1084 to about 1155), who called herself the Lay Buddhist of Yi'an, was the most famous woman lyric poet of the Song. She grew up in a family of scholars and was very close to her husband, Zhao Mingcheng; together they collected ancient bronzes and stone inscriptions. After the Jin army invaded, she fled south, her husband died of illness, and her last years were lonely and hard. Her early lyrics are mostly about home life and missing loved ones; her later ones grieve for her lost country and home."
+ },
+ "appreciation": {
+  "zh": "上半首回想分别的场面：眼泪把衣服打湿，脸上的妆都哭花了，送别的歌唱了一遍又一遍，还是舍不得走。然后镜头一转，她已经一个人住在路上的驿馆里，外面下着细雨，四周冷冷清清。下半首写她的心乱：临走时喝了多少酒都记不清了。最后两句反过来安慰姐妹们：多给我写信吧，东莱不像蓬莱仙山那么远。她自己明明很难过，却先想着让姐妹们放心，这份体贴最动人。",
+  "en": "The first half looks back on the parting. Tears soaked her clothes and ruined her make-up. They sang the farewell song again and again, and still she could not bear to go. Then the scene changes: she is alone in an inn on the road, a soft rain falling outside, everything cold and quiet. The second half shows how upset she is: she cannot even remember how much she drank before leaving. The last two lines turn around to comfort her sisters. Write to me often, she says; Donglai is not as far as the island of the immortals. She is very sad herself, yet she thinks first of putting her sisters' minds at ease. That kindness is the most moving part."
+ },
+ "famous_lines": [
+  3,
+  4,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "sisters",
+   "rain",
+   "inn",
+   "letter"
+  ]
+ },
+ "uncertain": []
+}

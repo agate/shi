@@ -1,0 +1,440 @@
+{
+ "id": "cc0e7ac3-bde4-4491-8ae5-027106709e72",
+ "kind": "shi",
+ "title": "夜归鹿门山歌",
+ "title_en": "Song of Returning to Deer Gate Mountain at Night",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言古诗",
+  "en": "seven-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "寺",
+    "sì"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "喧",
+    "xuān"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "村",
+    "cūn"
+   ]
+  ],
+  [
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "鹿",
+    "lù"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "鹿",
+    "lù"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "庞",
+    "páng"
+   ],
+   [
+    "公",
+    "gōng"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "岩",
+    "yán"
+   ],
+   [
+    "扉",
+    "fēi"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寥",
+    "liáo"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本第三句作“人随沙岸向江村”，最后一句作“惟有幽人自来去”。这里的底本作“沙路”“夜来去”。意思差不多：一个是沙岸边的路，一个是沙路；一个是独自来去，一个是夜里来去。",
+  "en": "The commonly taught text has shā àn, the sandy bank, in line three, and zì lái qù, coming and going alone, in the last line. The source text has shā lù, the sandy road, and yè lái qù, coming and going at night. The meaning is about the same."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "“长寂寥”的“长”是“长久、一直”的意思，读 cháng，不读 zhǎng。",
+   "en": "Here the character means always, for a long time, so it is read cháng, not zhǎng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "昼已昏：白天已经过去，天快黑了。",
+   "en": "zhòu yǐ hūn: the day is already over and dusk is falling."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "渔梁：渔梁洲，汉水中的一片沙洲，在襄阳附近。",
+   "en": "Yúliáng: Yuliang Isle, a sandbar in the Han River near Xiangyang."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "渡头：渡口，坐船过河的地方。",
+   "en": "dù tóu: the ferry landing, where boats take people across."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "争渡喧：人们抢着上船过河，吵吵嚷嚷。",
+   "en": "zhēng dù xuān: people push to get on the boat, noisy and loud."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "沙岸：沙滩边的河岸。",
+   "en": "shā àn: the sandy riverbank."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "余：我。",
+   "en": "yú: I, me."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "鹿门：鹿门山，在今湖北襄阳东南，汉水东岸。",
+   "en": "Lù Mén: Deer Gate Mountain, southeast of today's Xiangyang in Hubei, on the east bank of the Han River."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "开烟树：月光照开了笼罩着树林的雾气，树林显露出来。",
+   "en": "kāi yān shù: the moonlight seems to part the mist around the trees, so they come into view."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "庞公：庞德公，东汉末年的隐士。他不肯做官，后来带着家人上了鹿门山采药，再也没有回来。",
+   "en": "Páng Gōng: Pang Degong, a hermit at the end of the Eastern Han. He refused to take office and went up Deer Gate Mountain with his family to gather herbs, never to come back."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "栖隐：隐居。",
+   "en": "qī yǐn: to live in hiding, away from the world."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "岩扉：用山岩当门，指隐士住的山洞或山屋。",
+   "en": "yán fēi: a door of rock, meaning a hermit's cave or mountain hut."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "松径：松树林中的小路。",
+   "en": "sōng jìng: a path through the pines."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "寂寥：寂静冷清。",
+   "en": "jì liáo: silent and lonely."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "惟有：只有。",
+   "en": "wéi yǒu: only."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "幽人：隐居的人，这里是诗人自指。",
+   "en": "yōu rén: a recluse; here the poet means himself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "山上的寺庙敲响了钟，白天已经过去，天色昏暗，",
+   "en": "The mountain temple's bell rings; the day is done and dusk is falling."
+  },
+  {
+   "zh": "渔梁洲的渡口，人们争着过河，吵吵嚷嚷。",
+   "en": "At the Yuliang ferry, people jostle to cross, loud and noisy."
+  },
+  {
+   "zh": "人们沿着沙岸，向江边的村子走去，",
+   "en": "People follow the sandy bank toward the riverside villages;"
+  },
+  {
+   "zh": "我也坐着小船，回鹿门山去。",
+   "en": "I too take a boat, back to Deer Gate Mountain."
+  },
+  {
+   "zh": "鹿门山的月光照开了雾气，林中的树显露出来，",
+   "en": "On Deer Gate, the moonlight parts the mist and the trees appear;"
+  },
+  {
+   "zh": "不知不觉，我已经来到庞公当年隐居的地方。",
+   "en": "before I know it, I have come to where Pang Gong once lived in hiding."
+  },
+  {
+   "zh": "岩石做门，松间小路，一直这样寂静冷清，",
+   "en": "The rock door and the pine path are always silent and lonely;"
+  },
+  {
+   "zh": "只有我这个隐居的人，独自在这里来来去去。",
+   "en": "only I, the recluse, come and go here alone."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然是襄阳人，家在汉水南岸的岘山附近。他曾在汉水对岸的鹿门山隐居过一段时间。鹿门山是东汉隐士庞德公隐居的地方。这首诗写他傍晚坐船过汉水，夜里回到鹿门山的经过。具体写作年份不能确定。",
+  "en": "Meng Haoran came from Xiangyang, with his home near Mount Xian on the south bank of the Han River. For a time he lived as a recluse on Deer Gate Mountain, across the river. That mountain was where the Eastern Han hermit Pang Degong had lived in hiding. This poem tells of crossing the Han by boat at dusk and getting back to Deer Gate at night. We do not know the exact year."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），唐代山水田园诗人，和王维并称“王孟”。他一生大部分时间没有做官，在家乡襄阳一带隐居、读书、游山玩水。他很佩服庞德公这样的隐士，这首诗里就把自己当成了庞公的后来人。",
+  "en": "Meng Haoran (689–740) was a Tang poet of mountains, rivers and country life, often named together with Wang Wei. For most of his life he held no office and lived quietly around his home town of Xiangyang, reading and wandering the hills. He admired hermits like Pang Degong, and in this poem he sees himself as following in Pang Gong's footsteps."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是一段回家的路，也是一段从热闹到安静的路。开头很热闹：寺里的钟声响了，渡口的人抢着上船，吵吵嚷嚷，都要赶回自己的村子。诗人也坐上了船，可他去的是另一个方向，去山里。到了鹿门山，声音一下子没了，只有月光照开雾气，树林慢慢露出来。走着走着，忽然到了庞公隐居的地方。最后两句最安静：岩门、松路，一直冷冷清清，只有我一个人来来去去。读到这里，可以感到诗人心里的那份宁静和自在，也有一点点孤独。",
+  "en": "This poem is about a journey home, and also a journey from noise to quiet. It starts out busy. The temple bell rings, and people at the ferry push onto the boat, loud and hurried, all heading back to their villages. The poet gets on a boat too, but he goes the other way, into the mountains. Once he reaches Deer Gate, the noise is suddenly gone. There is only moonlight parting the mist, and the trees slowly coming into view. Walking on, he suddenly finds himself where Pang Gong once lived. The last two lines are the quietest: a rock door, a pine path, always still and lonely, with only me coming and going. Here we can feel the poet's calm and freedom, and a little loneliness too."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "night",
+   "moon",
+   "reclusion",
+   "mountain",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

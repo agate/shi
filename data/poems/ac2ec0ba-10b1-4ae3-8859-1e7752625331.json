@@ -1,0 +1,219 @@
+{
+ "id": "ac2ec0ba-10b1-4ae3-8859-1e7752625331",
+ "kind": "shi",
+ "title": "哥舒歌",
+ "title_en": "Song of Geshu",
+ "author": "西鄙人",
+ "author_en": "A Man of the Western Border",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "七",
+    "qī"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "哥",
+    "gē"
+   ],
+   [
+    "舒",
+    "shū"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "刀",
+    "dāo"
+   ]
+  ],
+  [
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "牧",
+    "mù"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "敢",
+    "gǎn"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "洮",
+    "táo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "“北斗”的“斗”读 dǒu，指像舀酒的勺子一样的星座形状，不读 dòu。",
+   "en": "In \"Big Dipper\" this character is read dǒu, meaning a ladle shape. It is not dòu (to fight)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "北斗七星：北方天空中七颗很亮的星，排成勺子的样子，也叫北斗。",
+   "en": "běi dǒu qī xīng: seven bright stars in the northern sky shaped like a ladle, the Big Dipper."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "哥舒：指哥舒翰，唐朝名将，镇守西北边疆。哥舒是复姓。",
+   "en": "gē shū: Geshu Han, a famous Tang general who guarded the northwest border. Geshu is a two-character family name."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "夜带刀：夜里也佩着刀，时刻准备作战。",
+   "en": "yè dài dāo: wearing his sword even at night, always ready to fight."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "至今：到现在。",
+   "en": "zhì jīn: to this day."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "窥：偷偷地看，这里指敌人在远处偷看、想打进来。",
+   "en": "kuī: to peek, here meaning the enemy watching from afar, hoping to break in."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "牧马：放马。这里指吐蕃人南下放马，其实就是借放马来侵扰。",
+   "en": "mù mǎ: to graze horses. Here it means Tibetan riders coming south to graze horses, which really meant raiding."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "过：越过。",
+   "en": "guò: to cross."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "临洮：地名，在今天甘肃岷县一带，是秦长城西边的起点。这里泛指西北边境。",
+   "en": "lín táo: Lintao, a place near today's Minxian in Gansu, the western end of the Qin Great Wall. Here it stands for the northwest border."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "北斗七星高高地挂在夜空，",
+   "en": "The seven stars of the Big Dipper hang high in the night sky."
+  },
+  {
+   "zh": "哥舒翰夜里也佩着刀巡守边关。",
+   "en": "Geshu Han keeps watch at night, his sword at his side."
+  },
+  {
+   "zh": "到现在，敌人只敢远远地偷看，想来放马，",
+   "en": "To this day the enemy only peeks from far off, longing to graze their horses here,"
+  },
+  {
+   "zh": "却不敢越过临洮一步。",
+   "en": "but they dare not cross Lintao."
+  }
+ ],
+ "background": {
+  "zh": "这是一首西北边境的民歌，作者没有留下名字，“西鄙人”就是“西部边地的人”。唐玄宗天宝年间，名将哥舒翰镇守西北，多次打败吐蕃。吐蕃是当时青藏高原上的一个强国，常常南下侵扰。哥舒翰守边以后，边境安定下来，百姓就编了这首歌来称颂他。",
+  "en": "This is a folk song from the northwest border. The writer left no name; \"a man of the western border\" just means someone from the western frontier. In the Tianbao era of Emperor Xuanzong, the famous general Geshu Han guarded the northwest and beat the Tibetan Empire many times. The Tibetan Empire was a strong state on the Tibetan Plateau that often raided Tang lands. After Geshu Han took charge, the border grew peaceful, and the local people made up this song to praise him."
+ },
+ "author_note": {
+  "zh": "“西鄙人”不是一个人的名字，意思是西部边地的百姓。鄙，指边远的地方。这首歌是百姓口头传唱的，后来被收进诗集，成为唐诗里少见的民歌名篇。",
+  "en": "\"A Man of the Western Border\" is not a person's name. It means the common people of the western frontier. The poem was a song passed on by word of mouth, later written down in poetry collections. It is one of the few famous folk songs among Tang poems."
+ },
+ "appreciation": {
+  "zh": "这首歌一开口就很有气势。第一句写北斗七星高高挂在天上，又亮又稳。第二句马上接上哥舒翰：他深夜佩刀巡守，就像北斗星一样，高高地守护着边疆。把人和星星放在一起，人也显得高大起来。后两句写敌人：他们只敢远远地偷看，想来放马，却不敢越过临洮。诗里没写一场战斗，但从敌人的“不敢”里，我们就能看出哥舒翰有多威风。语言简单，像老百姓随口唱出来的，所以特别好记。",
+  "en": "This song is strong from its very first line. The Big Dipper hangs high in the sky, bright and steady. The second line jumps straight to Geshu Han. He keeps watch late at night with his sword, and like the Big Dipper, he stands high over the border and guards it. Putting the man next to the stars makes him seem tall and grand. The last two lines turn to the enemy. They only dare to peek from far away and wish they could graze their horses here, but they never dare cross Lintao. The poem shows no battle at all. Yet from the enemy's fear, we see how mighty Geshu Han is. The words are simple, as if ordinary people sang them off the cuff, so they are very easy to remember."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "hero",
+   "folk-song",
+   "stars"
+  ]
+ },
+ "uncertain": []
+}

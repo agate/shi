@@ -1,0 +1,434 @@
+{
+ "id": "ci-69b36fd84c24",
+ "kind": "ci",
+ "title": "柳梢青·数声鶗鴂",
+ "title_en": "Liu Shao Qing: A Few Cries of the Cuckoo",
+ "author": "蔡伸",
+ "author_en": "Cai Shen",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "鶗",
+    "tí"
+   ],
+   [
+    "鴂",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "棠",
+    "táng"
+   ],
+   [
+    "铺",
+    "pū"
+   ],
+   [
+    "绣",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "梨",
+    "lí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "丁",
+    "dīng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "泣",
+    "qì"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "枝",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "比",
+    "bǐ"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "文",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "感",
+    "gǎn"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": {
+  "zh": "“鶗鴂”这两个字没有通用的简化字形。语料库机器转换时把“鶗”写成了很少见的“𫛸”，这里保留常见写法“鶗鴂”。",
+  "en": "The bird name tí jué has no common simplified form. The corpus's machine conversion used a very rare character for the first syllable; here the usual traditional form is kept."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "数声：几声。数读 shù，是“几个”的意思。",
+   "en": "In shù shēng (a few cries), the first character means 'several' and is read shù, not shǔ."
+  },
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "铺",
+   "pinyin": "pū",
+   "zh": "铺绣：像铺开的锦绣。这里是动词“铺开”，读 pū。",
+   "en": "In pū xiù, the first character is the verb 'to spread out', read pū, not pù."
+  },
+  {
+   "line": 10,
+   "pos": 1,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "不干：不关、和……没关系。干读 gān。",
+   "en": "In bù gān (has nothing to do with), the second character is read gān, not gàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "数声：几声。",
+   "en": "shù shēng: a few cries."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "鶗鴂：一种鸟，一般认为就是杜鹃。它在春末叫，叫声凄凉，古人听了就知道春天要走了。",
+   "en": "tí jué: a bird, usually taken to be the cuckoo. It calls in late spring with a sad cry, and people knew then that spring was leaving."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可惜，让人难过。",
+   "en": "kě lián: what a pity, how sad."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "春归：春天回去了，就是春天结束了。",
+   "en": "chūn guī: spring going home, meaning spring is over."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "东风：春风。",
+   "en": "dōng fēng: the east wind, the spring wind."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "铺绣：海棠花落满地，像铺开的彩色绣品。",
+   "en": "pū xiù: fallen crabapple blossoms cover the ground like spread-out embroidery."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "梨花飘雪：白色的梨花飘落，像下雪一样。",
+   "en": "lí huā piāo xuě: white pear blossoms drift down like snow."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "丁香：一种花，花蕾像打了结，古人常用“丁香结”比喻解不开的愁。",
+   "en": "dīng xiāng: lilac. Its buds look like tied knots, so poets used them for sorrow that cannot be untied."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "露泣：露水挂在枝上，像在哭泣。",
+   "en": "lù qì: dew on the branches, as if weeping."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "算未比：想来还比不上。",
+   "en": "suàn wèi bǐ: I reckon it still cannot match."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "愁肠寸结：愁得肠子每一寸都打了结，形容非常忧愁。",
+   "en": "chóu cháng cùn jié: every inch of one's insides tied in knots, a way to say very deep sorrow."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "休文：南朝诗人沈约，字休文。传说他愁得一天天消瘦，腰带都松了。这里词人用他比自己。",
+   "en": "xiū wén: Shen Yue, a poet of the Southern Dynasties. It was said he grew thinner and thinner from worry. The poet compares himself to him."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "风月：风和月，这里指春天的景色。",
+   "en": "fēng yuè: wind and moon, here meaning the spring scenery."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "杜鹃叫了几声，",
+   "en": "A few cries of the cuckoo."
+  },
+  {
+   "zh": "可惜，又到了",
+   "en": "What a pity, once again it is"
+  },
+  {
+   "zh": "春天要走的时候。",
+   "en": "the time when spring goes home."
+  },
+  {
+   "zh": "满院子吹着春风，",
+   "en": "Spring wind fills the courtyard,"
+  },
+  {
+   "zh": "落下的海棠花像铺了一地锦绣，",
+   "en": "fallen crabapple blossoms cover the ground like embroidery,"
+  },
+  {
+   "zh": "梨花飘落，像下雪一样。",
+   "en": "and pear blossoms drift down like snow."
+  },
+  {
+   "zh": "丁香残枝上挂着露水，好像在哭，",
+   "en": "Dew hangs on the broken lilac branches, as if they weep,"
+  },
+  {
+   "zh": "可我想，它还比不上我愁得打结的心肠。",
+   "en": "but I think even that cannot match the knots of sorrow in my heart."
+  },
+  {
+   "zh": "我本来就像沈约一样，",
+   "en": "I am simply like Shen Yue,"
+  },
+  {
+   "zh": "感情多，感触也多，",
+   "en": "full of feeling, easily moved,"
+  },
+  {
+   "zh": "这份愁和春天的风月并没有关系。",
+   "en": "and this sorrow has nothing to do with the wind and moon of spring."
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春时节的愁绪，具体写于哪一年已经不清楚。暮春就是春天的最后一段时间，花一片片落下，杜鹃鸟开始叫。古人常在这时写“伤春”的诗词。蔡伸在词里借用了南朝沈约的典故，说自己天生多愁善感。",
+  "en": "This lyric is about sadness in late spring. The year it was written is not known. Late spring is the last part of the season, when flowers fall one by one and the cuckoo begins to call. Poets of old often wrote about sorrow for passing spring at this time. Cai Shen borrows the story of Shen Yue to say he was born with a sad and tender heart."
+ },
+ "author_note": {
+  "zh": "蔡伸（1088—1156），字伸道，号友古居士，莆田（今属福建）人，是北宋书法家蔡襄的孙子。他生活在北宋末到南宋初，做过地方官。他的词多写离别和相思，风格清丽婉转。",
+  "en": "Cai Shen (1088–1156) came from Putian in today's Fujian and was a grandson of the Northern Song calligrapher Cai Xiang. He lived from the end of the Northern Song into the early Southern Song and served as a local official. His lyrics are mostly about parting and longing, gentle and graceful in style."
+ },
+ "appreciation": {
+  "zh": "词一开头就是几声杜鹃，告诉人春天又要走了。接着三句写满院的落花：海棠铺地像锦绣，梨花飘落像雪，美得让人心疼。下片写丁香枝上的露水，好像花在哭。词人却说：花的眼泪，还比不上我心里打结的愁。最后他用沈约比自己，说这份愁是自己天生多情，和春风明月没关系。这是一种反着说的写法：嘴上说和春天无关，其实正是春天的离去，让他愁得更深。",
+  "en": "The lyric opens with a few cuckoo cries, telling us spring is about to leave again. The next three lines show fallen flowers filling the courtyard. Crabapple blossoms cover the ground like embroidery and pear blossoms fall like snow. It is so beautiful it hurts. The second half shows dew on the lilac, as if the flowers are crying. But the poet says the flowers' tears cannot match the knots of sorrow in his heart. At the end he compares himself to Shen Yue and says this sorrow comes from his own tender nature, not from the spring wind and moon. It is a way of saying the opposite of what he means. He claims spring has nothing to do with it, yet it is spring's leaving that makes his sorrow deeper."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "spring-sorrow",
+   "flowers",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,478 @@
+{
+ "id": "733afc7b-e370-4724-b755-e9342c574d22",
+ "kind": "shi",
+ "title": "咏怀古迹五首·其四",
+ "title_en": "Thoughts on Ancient Sites, Five Poems: No. 4",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "蜀",
+    "shǔ"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "幸",
+    "xìng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "峡",
+    "xiá"
+   ]
+  ],
+  [
+   [
+    "崩",
+    "bēng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "宫",
+    "gōng"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "像",
+    "xiàng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "虚",
+    "xū"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "寺",
+    "sì"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "庙",
+    "miào"
+   ],
+   [
+    "杉",
+    "shān"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "巢",
+    "cháo"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "鹤",
+    "hè"
+   ]
+  ],
+  [
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "伏",
+    "fú"
+   ],
+   [
+    "腊",
+    "là"
+   ],
+   [
+    "走",
+    "zǒu"
+   ],
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "翁",
+    "wēng"
+   ]
+  ],
+  [
+   [
+    "武",
+    "wǔ"
+   ],
+   [
+    "侯",
+    "hóu"
+   ],
+   [
+    "祠",
+    "cí"
+   ],
+   [
+    "屋",
+    "wū"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "近",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "体",
+    "tǐ"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "臣",
+    "chén"
+   ],
+   [
+    "祭",
+    "jì"
+   ],
+   [
+    "祀",
+    "sì"
+   ],
+   [
+    "同",
+    "tóng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "杉",
+   "pinyin": "shān",
+   "zh": "“杉”在“杉树”里口语常读 shā，“杉松”这里一般读 shān。",
+   "en": "In everyday speech this character is often read shā; in this phrase it is usually read shān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "蜀主：蜀汉的君主刘备。",
+   "en": "shǔ zhǔ: the ruler of Shu, Liu Bei."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "窥吴：想要攻打吴国。窥，暗中打主意。",
+   "en": "kuī wú: to set his eyes on Wu, planning to attack it."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "幸：皇帝到某个地方去，叫“幸”。",
+   "en": "xìng: a word for an emperor's journey to a place."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "三峡：长江三峡，在今天重庆和湖北之间。",
+   "en": "sān xiá: the Three Gorges of the Yangtze, between today's Chongqing and Hubei."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "崩年：去世的那一年。皇帝死叫“崩”。",
+   "en": "bēng nián: the year he died. Bēng is the word for an emperor's death."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "永安宫：刘备伐吴大败后退到白帝城，住在永安宫，第二年（223年）死在这里。故址在今天重庆奉节。",
+   "en": "yǒng ān gōng: Yong'an Palace. After his great defeat by Wu, Liu Bei fell back to Baidi and stayed in this palace, dying here the next year, in 223. Its site is in today's Fengjie, Chongqing."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "翠华：用翠鸟羽毛装饰的旗子，是皇帝出行用的，这里指刘备的仪仗。",
+   "en": "cuì huá: a banner decorated with kingfisher feathers, carried on an emperor's journeys. Here it means Liu Bei's royal train."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "想像：只能在想象中看到。",
+   "en": "xiǎng xiàng: can only be pictured in the mind."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "玉殿：华美的宫殿，指永安宫。",
+   "en": "yù diàn: a splendid palace, here Yong'an Palace."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "虚无：不存在了。",
+   "en": "xū wú: gone, no longer there."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "野寺：荒野里的寺庙。杜甫原注说，永安宫的旧址已经改成了寺庙。",
+   "en": "yě sì: a temple in the wilds. Du Fu's own note says the old palace site had become a temple."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "古庙：指刘备庙，也叫先主庙。",
+   "en": "gǔ miào: the old temple of Liu Bei, also called the temple of the First Ruler."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "杉松：杉树和松树。",
+   "en": "shān sōng: fir and pine trees."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "巢水鹤：水鹤在树上做窝。",
+   "en": "cháo shuǐ hè: water cranes build their nests there."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "岁时：一年中的节令。",
+   "en": "suì shí: the seasons and festivals of the year."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "伏腊：伏日和腊日，古代夏天和冬天两次重要的祭祀节日。",
+   "en": "fú là: the summer and winter festivals, two important times for offerings in old China."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "走村翁：村里的老人们赶来祭拜。",
+   "en": "zǒu cūn wēng: old village men come to make offerings."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "武侯祠：诸葛亮的祠堂。诸葛亮被封为武乡侯，所以叫武侯。",
+   "en": "wǔ hóu cí: the shrine of Zhuge Liang. He was made Marquis of Wuxiang, so he was called Marquis Wu."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "常邻近：一直挨在旁边。",
+   "en": "cháng lín jìn: always close by."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "一体君臣：君主和臣子像一个人一样同心。",
+   "en": "yī tǐ jūn chén: ruler and minister as one body, of one mind."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "祭祀同：人们同时祭拜他们。",
+   "en": "jì sì tóng: people make offerings to both together."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "蜀主刘备想攻打吴国，来到了三峡，",
+   "en": "The ruler of Shu set out against Wu and came to the Three Gorges."
+  },
+  {
+   "zh": "他去世的那一年，也是在这永安宫里。",
+   "en": "In the year he died, he too was here, in Yong'an Palace."
+  },
+  {
+   "zh": "当年皇帝的仪仗，只能在空山里想象了，",
+   "en": "His royal banners can now only be pictured in these empty hills."
+  },
+  {
+   "zh": "华美的宫殿早已不在，只剩荒野里的寺庙。",
+   "en": "The splendid palace is gone; only a temple in the wilds remains."
+  },
+  {
+   "zh": "古庙里的杉树和松树上，水鹤在做窝，",
+   "en": "In the fir and pine trees of the old temple, water cranes build their nests."
+  },
+  {
+   "zh": "每年夏冬两季的祭日，村里的老人都赶来祭拜。",
+   "en": "At the summer and winter festivals, old village men come to make offerings."
+  },
+  {
+   "zh": "诸葛亮的祠堂一直就在旁边，",
+   "en": "Zhuge Liang's shrine has always stood close by."
+  },
+  {
+   "zh": "君臣同心，人们祭祀他们也总在一起。",
+   "en": "Ruler and minister were of one mind, and they receive offerings together."
+  }
+ ],
+ "background": {
+  "zh": "唐代宗大历元年（766年），杜甫住在夔州，就是今天重庆奉节。他看了当地和附近的古迹，写了《咏怀古迹》五首，分别写庾信、宋玉、王昭君、刘备和诸葛亮。这是第四首，写夔州的刘备庙。刘备当年伐吴失败，就死在这里的永安宫。庙旁边就是诸葛亮的祠堂，杜甫看到君臣两人一起受人祭拜，十分感慨。",
+  "en": "In 766, Du Fu was living in Kuizhou, today's Fengjie in Chongqing. He visited ancient sites there and nearby and wrote five poems on them, about Yu Xin, Song Yu, Wang Zhaojun, Liu Bei and Zhuge Liang. This is the fourth, about the temple of Liu Bei in Kuizhou. Liu Bei died here in Yong'an Palace after his failed war against Wu. Right next to his temple stood the shrine of Zhuge Liang. Seeing ruler and minister honored together moved Du Fu deeply."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。晚年他漂泊在四川和湖北一带，在夔州住了将近两年，写了很多诗。他一直希望遇到像刘备那样信任臣子的君主，自己也能像诸葛亮那样为国出力，可这个愿望始终没有实现。",
+  "en": "Du Fu (712 to 770) was a great Tang poet, called the Sage of Poetry. In his later years he drifted around Sichuan and Hubei, and lived in Kuizhou for nearly two years, writing many poems. He always hoped to meet a ruler who trusted his ministers as Liu Bei did, so that he could serve the country as Zhuge Liang had. That wish never came true."
+ },
+ "appreciation": {
+  "zh": "前四句写刘备：他为了攻打吴国来到三峡，最后死在这里；当年的旗帜和宫殿，现在只能想象，只剩一座荒野里的寺庙。英雄的事业，被时间冲得干干净净。第三联写眼前的庙：杉树松树上住着水鹤，很冷清；可每到节日，村里的老人还会来祭拜，说明百姓没有忘记他。最后一联把诸葛亮带了进来：君臣的祠堂挨在一起，人们一起祭拜他们。杜甫最羡慕的，就是这种君臣同心。他自己一辈子没遇到这样的君主，所以这份羡慕里也有自己的叹息。",
+  "en": "The first four lines are about Liu Bei. He came to the Three Gorges to attack Wu, and in the end he died here. His banners and his palace can now only be imagined; all that is left is a temple in the wilds. Time has washed the hero's deeds away. The third couplet shows the temple in front of Du Fu. Water cranes live in its firs and pines, and it is lonely. Yet at every festival, old men from the village still come to make offerings, so the common people have not forgotten him. The last couplet brings in Zhuge Liang. The shrines of ruler and minister stand side by side, and people honor them together. What Du Fu envied most was this kind of trust between a ruler and his minister. He never met such a ruler himself, so his envy carries a sigh for his own life."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "hero",
+   "loyalty",
+   "temple"
+  ]
+ },
+ "uncertain": []
+}

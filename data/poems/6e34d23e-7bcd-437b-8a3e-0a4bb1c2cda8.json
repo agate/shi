@@ -1,0 +1,267 @@
+{
+ "id": "6e34d23e-7bcd-437b-8a3e-0a4bb1c2cda8",
+ "kind": "shi",
+ "title": "登科后",
+ "title_en": "After Passing the Imperial Exam",
+ "author": "孟郊",
+ "author_en": "Meng Jiao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "龌",
+    "wò"
+   ],
+   [
+    "龊",
+    "chuò"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "足",
+    "zú"
+   ],
+   [
+    "夸",
+    "kuā"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "放",
+    "fàng"
+   ],
+   [
+    "荡",
+    "dàng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "蹄",
+    "tí"
+   ],
+   [
+    "疾",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "这里指早晨、今天，读 zhāo，不读 cháo。",
+   "en": "Here it means morning, today, so it is read zhāo, not cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "昔日：从前，过去的日子。",
+   "en": "xī rì: the old days, the past."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "龌龊：这里指处境不好、心情憋屈，不是“脏”的意思。",
+   "en": "wò chuò: here it means a cramped, miserable life, not \"dirty\" as in modern Chinese."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "不足夸：不值得再提了。",
+   "en": "bù zú kuā: not worth talking about anymore."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "今朝：今天。",
+   "en": "jīn zhāo: today."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "放荡：这里指无拘无束、自由自在，不是现在说的坏意思。",
+   "en": "fàng dàng: here it means free and carefree, not the bad sense it has today."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "思无涯：心思飞得没有边。涯，边际。",
+   "en": "sī wú yá: thoughts that fly without limits. Yá means an edge or a shore."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "春风得意：在春风里骑着马，得意洋洋。后来成了成语，形容事情顺利、心情高兴。",
+   "en": "chūn fēng dé yì: riding proudly in the spring breeze. It later became an idiom for being happy because everything is going well."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 7,
+   "zh": "疾：快。",
+   "en": "jí: fast."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "看尽：看遍、全都看完。",
+   "en": "kàn jìn: to see all of, to see every one."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "长安花：长安城里的花。长安是唐朝的都城，在今天的陕西西安。",
+   "en": "cháng ān huā: the flowers of Chang'an, the Tang capital, today's Xi'an in Shaanxi."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "从前那些不如意、憋屈的日子，再也不值得一提了。",
+   "en": "The cramped and unhappy days of the past are not worth mentioning anymore."
+  },
+  {
+   "zh": "今天心情舒畅，自由自在，思绪飞得没有边。",
+   "en": "Today I feel free, and my thoughts fly without limits."
+  },
+  {
+   "zh": "我在春风里骑着马，得意洋洋，马蹄跑得飞快。",
+   "en": "Proud in the spring breeze, I ride, and my horse's hooves fly."
+  },
+  {
+   "zh": "一天之内，就把长安城的花全都看遍了。",
+   "en": "In a single day I see every flower in Chang'an."
+  }
+ ],
+ "background": {
+  "zh": "“登科”就是考中科举。孟郊年轻时两次考进士都没考上，心里非常苦闷。唐德宗贞元十二年（796年），他终于考中了进士，这时他已经四十多岁了。唐朝放榜在春天，新考中的进士会在长安城里骑马游玩、赏花庆祝。孟郊高兴极了，写下了这首诗。",
+  "en": "Dēng kē means passing the imperial exam. When he was younger, Meng Jiao failed the top exam twice and felt very low. In 796 he finally passed, when he was already in his forties. In the Tang the results came out in spring, and the new graduates rode around Chang'an to enjoy the flowers and celebrate. Meng Jiao was overjoyed and wrote this poem."
+ },
+ "author_note": {
+  "zh": "孟郊（751—814），字东野，中唐诗人。他一生贫穷，做的官也很小，诗里常写贫苦和愁闷，和贾岛并称“郊寒岛瘦”。大家熟悉的《游子吟》“慈母手中线”就是他写的。这首《登科后》是他少有的欢快之作。",
+  "en": "Meng Jiao (751–814) was a poet of the middle Tang. He was poor all his life and only held small posts. His poems often speak of hardship and sorrow, so people paired him with Jia Dao as \"cold Meng and thin Jia\". The well-known \"Song of the Traveling Son\", about a mother sewing for her son, is his. This poem is one of his rare happy ones."
+ },
+ "appreciation": {
+  "zh": "这首诗把“高兴”写得又直接又痛快。前两句一比：过去的苦日子不值一提，今天心里像打开了笼子，思绪飞得没有边。后两句写他骑着马在长安城里飞跑。“春风得意”四个字，春风是真的春风，也是他心里的喜气。“一日看尽长安花”，长安那么大，花那么多，一天怎么看得完？这正是夸张：他太高兴了，恨不得一下子把所有的美景都看遍。读这首诗，我们能感到一个等了很多年的人，终于成功时那种忍不住的快乐。",
+  "en": "This poem shows joy in a direct, unrestrained way. The first two lines make a contrast: the hard days of the past are not worth a word, and today his heart is like a bird let out of a cage. The last two lines show him riding fast through Chang'an. The spring breeze is a real breeze, and also the happiness inside him. \"In a single day I see every flower in Chang'an\" - the city is huge and full of flowers, so how could he see them all in one day? That is the exaggeration: he is so happy that he wants to see every lovely thing at once. Reading it, we feel the joy of someone who waited many years and finally succeeded."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "joy",
+   "exam",
+   "flowers",
+   "chang'an"
+  ]
+ },
+ "uncertain": []
+}

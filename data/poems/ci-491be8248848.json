@@ -1,0 +1,411 @@
+{
+ "id": "ci-491be8248848",
+ "kind": "ci",
+ "title": "虞美人·落花已作风前舞",
+ "title_en": "The Beauty Yu: Fallen Petals Already Dance in the Wind",
+ "author": "叶梦得",
+ "author_en": "Ye Mengde",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·虞美人（双调）",
+  "en": "ci lyric to the tune Yu Mei Ren, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "丈",
+    "zhàng"
+   ],
+   [
+    "罥",
+    "juàn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "殷",
+    "yīn"
+   ],
+   [
+    "勤",
+    "qín"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "美",
+    "měi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "用",
+    "yòng"
+   ],
+   [
+    "敛",
+    "liǎn"
+   ],
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "眉",
+    "méi"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "奈",
+    "nài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "“尽”在这里是“喝完”的意思，读 jìn，和王维“劝君更尽一杯酒”一样。",
+   "en": "Jìn here means to drink it all up, the same as in Wang Wei's famous line urging a friend to drink one more cup."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 7,
+   "zh": "已作风前舞：已经在风里飞舞。",
+   "en": "yǐ zuò fēng qián wǔ: already dancing in the wind."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "又送：又迎来、又伴着。这里是说风刚吹完花，傍晚又下起雨。",
+   "en": "yòu sòng: and then brings along. The wind has blown the flowers, and in the evening rain comes too."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "晓来：到了早晨。",
+   "en": "xiǎo lái: when morning comes."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "残红：凋落的花瓣。",
+   "en": "cán hóng: fallen petals, the red left over."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "游丝：春天空中飘着的细丝，多是虫子吐的丝。",
+   "en": "yóu sī: fine threads floating in the spring air, mostly spun by insects."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 7,
+   "zh": "罥：挂着、缠绕。",
+   "en": "juàn: to hang on, to tangle around."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "殷勤：情意深厚、热情周到。",
+   "en": "yīn qín: warm and caring, full of feeling."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "更尽：再喝干。更，再。",
+   "en": "gèng jìn: drink it dry once more. Gèng means again."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "敛蛾眉：皱起眉头，表示发愁。蛾眉，女子细长弯弯的眉毛，像蚕蛾的触须。",
+   "en": "liǎn é méi: to knit the brows, a sign of sadness. É méi are a woman's long curved brows, like a moth's feelers."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "无奈：没有办法。",
+   "en": "wú nài: helpless, nothing one can do."
+  },
+  {
+   "line": 7,
+   "start": 6,
+   "end": 8,
+   "zh": "酒阑：酒喝到快结束，宴会要散了。阑，将尽。",
+   "en": "jiǔ lán: when the drinking is nearly over and the party is about to end. Lán means coming to an end."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "落花已经在风中飞舞，",
+   "en": "The fallen flowers already dance in the wind,"
+  },
+  {
+   "zh": "傍晚又迎来一场黄昏雨。",
+   "en": "and at dusk an evening rain follows."
+  },
+  {
+   "zh": "到了早晨，庭院里一半是落下的花瓣，",
+   "en": "By morning, half the courtyard is covered with fallen petals;"
+  },
+  {
+   "zh": "只有千丈长的游丝，挂在晴朗的天空里。",
+   "en": "only thousand-foot floating threads hang in the clear sky."
+  },
+  {
+   "zh": "我们情意殷勤，在花下手拉着手，",
+   "en": "Warm-hearted, we walk hand in hand beneath the flowers,"
+  },
+  {
+   "zh": "再把杯中的酒喝干。",
+   "en": "and drain the wine in our cups once more."
+  },
+  {
+   "zh": "美人啊，你不必皱起眉头发愁，",
+   "en": "Lovely one, there is no need to knit your brows;"
+  },
+  {
+   "zh": "我也是多情的人，只是酒宴将散的时候，也没有办法。",
+   "en": "I too have a tender heart, but there is nothing to be done when the wine runs out."
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春时节。先刮风，后下雨，花落了大半，词人和朋友在花下喝酒，一位唱歌劝酒的美人也在场。有的版本在词牌后有一段小序，说是雨后和朋友干誉、才卿在来禽（林檎，一种果树）花下摆酒时写的。词人借着赏最后的春花，说出春天和欢聚都留不住的感叹。",
+  "en": "This ci is set in late spring. First the wind blows, then the rain falls, and most of the flowers are gone. The poet drinks with friends under the trees, and a lovely singer who pours the wine is there too. Some editions add a short note after the tune name. It says the ci was written after the rain, while drinking with his friends Ganyu and Caiqing under a flowering crab apple tree. Enjoying the last spring flowers, the poet sighs that neither spring nor happy gatherings can be kept."
+ },
+ "author_note": {
+  "zh": "叶梦得（1077—1148），号石林居士，北宋末到南宋初的词人、学者。他做过不少地方的官，晚年住在湖州的卞山，写了很多诗话、笔记。他年轻时的词比较清丽，后来经历了北宋灭亡，词风变得简洁有力。这首是他写得比较柔和的一首。",
+  "en": "Ye Mengde (1077–1148), also called the Hermit of Shilin, was a ci poet and scholar who lived at the end of the Northern Song and the start of the Southern Song. He served as an official in many places and spent his last years at Mount Bian near Huzhou, writing many notes and essays on poetry. His early ci were fresh and pretty. After living through the fall of the Northern Song, his style grew plain and strong. This one is among his softer pieces."
+ },
+ "appreciation": {
+  "zh": "开头三句写春天在一点点离开：风吹落花，雨又来打，早上一看，庭院一半都是落红。可是第四句忽然抬头，只见长长的游丝挂在晴空里，轻轻飘着，好像在拉住最后一点春光。下片写人：朋友们在花下拉着手，再干一杯。对着发愁的美人，词人说“不用敛蛾眉”，好像在安慰她；接着又说“我亦多情”，其实他自己也舍不得。酒总要喝完，春天总要过去，这份无奈说得轻，却很真。",
+  "en": "The first three lines show spring leaving bit by bit. The wind blows the flowers down, the rain beats them, and in the morning half the courtyard is red with petals. Then the fourth line suddenly looks up: long floating threads hang in the clear sky, drifting softly, as if trying to hold on to the last of spring. The second stanza turns to people. Friends hold hands under the flowers and drink one more cup. To the sad singer the poet says there is no need to frown, as if comforting her. Then he adds that he too has a tender heart, so in truth he cannot bear it either. The wine must end and spring must pass. He says this helplessness lightly, but it is real."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "flowers",
+   "wine",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,262 @@
+{
+ "id": "59063901-7dbc-4f22-974f-ddccab675cbc",
+ "kind": "shi",
+ "title": "清平调·其二",
+ "title_en": "Qingping Song (No. 2)",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "艳",
+    "yàn"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "巫",
+    "wū"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "枉",
+    "wǎng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "似",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "第一句的“红艳”，有的版本作“秾艳”，意思是浓艳、艳丽。",
+  "en": "In the first line, some editions have nóng yàn, \"rich and bright\", instead of hóng yàn, \"red and bright\"."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "红艳：红艳艳的花，指牡丹花，也比喻杨贵妃。",
+   "en": "hóng yàn: a bright red flower, the peony. It also stands for Yang Guifei."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "露凝香：露水停在花上，花香好像也凝结在里面。",
+   "en": "lù níng xiāng: dew rests on the petals, as if the scent were gathered in it."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "云雨巫山：古代传说，巫山的神女早上化作云，晚上化作雨，曾在梦里和楚王相会。",
+   "en": "yún yǔ wū shān: in an old legend, the goddess of Mount Wu became clouds in the morning and rain in the evening, and met a king of Chu in a dream."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "枉断肠：白白地伤心。因为神女只是梦里的人，见不到。枉，白白地；断肠，非常伤心。",
+   "en": "wǎng duàn cháng: heartbroken for nothing, because the goddess lived only in a dream. Wǎng means in vain; duàn cháng, \"broken insides\", means deep grief."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "借问：请问。",
+   "en": "jiè wèn: may I ask."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "汉宫：汉朝的皇宫。",
+   "en": "hàn gōng: the palace of the Han dynasty."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "谁得似：谁能比得上她。",
+   "en": "shuí dé sì: who could match her."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可爱。这里不是“值得同情”的意思。",
+   "en": "kě lián: lovely. Here it does not mean \"pitiful\"."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "飞燕：赵飞燕，汉成帝的皇后，以美貌和轻盈出名。",
+   "en": "Fēiyàn: Zhao Feiyan, empress of Emperor Cheng of Han, famous for her beauty and lightness."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "倚新妆：靠着刚刚化好的妆，才显得美。",
+   "en": "yǐ xīn zhuāng: relying on freshly done makeup to look beautiful."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一枝红艳的牡丹，带着露水，香气凝在花上。",
+   "en": "A branch of bright red peony, dew gathered in its scent."
+  },
+  {
+   "zh": "巫山神女只在梦里，楚王为她白白伤心。",
+   "en": "The cloud-and-rain goddess of Mount Wu broke a king's heart for nothing."
+  },
+  {
+   "zh": "请问汉朝的宫里，有谁比得上她？",
+   "en": "May I ask, in the palace of Han, who could match her?"
+  },
+  {
+   "zh": "就算是可爱的赵飞燕，也要靠刚化好的妆才行。",
+   "en": "Even lovely Feiyan needed fresh makeup to try."
+  }
+ ],
+ "background": {
+  "zh": "李白在长安做翰林供奉的时候，有一年春天，唐玄宗和杨贵妃在兴庆宫的沉香亭前赏牡丹，叫李白马上写新歌词，李白就写了三首《清平调》。这个故事出自唐人笔记，一般认为在天宝初年。后来还有传说，说有人借第二首里的赵飞燕挑拨，说李白在讽刺杨贵妃，这只是传说。",
+  "en": "When Li Bai served at court in Chang'an as a writer for the emperor, one spring Emperor Xuanzong and Yang Guifei were admiring peonies by the Chenxiang Pavilion in the Xingqing Palace. The emperor told Li Bai to write new song lyrics on the spot, and he wrote three Qingping Songs. The story comes from Tang notebooks and is usually placed in the early Tianbao years. A later legend says someone used the mention of Zhao Feiyan in the second song to claim Li Bai was mocking Yang Guifei, but this is only a legend."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他的诗想象丰富，语言自然。他在长安宫廷里待了大约两年，写了不少给皇帝听的诗，这三首《清平调》最有名。后来他离开长安，继续四处漫游。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. His poems are full of imagination and flow naturally. He spent about two years at the court in Chang'an, writing many poems for the emperor, and these three Qingping Songs are the most famous. Later he left Chang'an and went on wandering."
+ },
+ "appreciation": {
+  "zh": "这首诗表面写花，其实写人。第一句是一枝带露的红牡丹，又鲜又香，这就是杨贵妃的样子。第二句说巫山神女：她再美，也只在梦里，楚王想见也见不到，白白伤心。眼前的美人却是真的。后两句再拿汉朝最美的赵飞燕来比：连她也要靠新化的妆才好看。言外之意是，眼前这位不用打扮就已经很美。诗人一层层地比，把花和人都夸到了极点。",
+  "en": "On the surface this poem is about a flower, but it is really about a person. The first line is a dewy red peony, fresh and fragrant: that is how Yang Guifei looks. The second line speaks of the goddess of Mount Wu. However lovely, she lived only in a dream, and the king of Chu grieved in vain because he could never see her. The beauty here is real. The last two lines compare her with Zhao Feiyan, the loveliest woman of the Han palace: even Feiyan needed fresh makeup to look her best. The hidden meaning is that this lady is beautiful without any. Step by step, the poet raises his praise of the flower and the lady as high as it can go."
+ },
+ "famous_lines": [
+  0,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "peony",
+   "beauty",
+   "palace",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

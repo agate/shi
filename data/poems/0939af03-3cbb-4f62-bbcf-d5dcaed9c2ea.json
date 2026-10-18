@@ -1,0 +1,262 @@
+{
+ "id": "0939af03-3cbb-4f62-bbcf-d5dcaed9c2ea",
+ "kind": "shi",
+ "title": "题菊花",
+ "title_en": "On the Chrysanthemums",
+ "author": "黄巢",
+ "author_en": "Huang Chao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "飒",
+    "sà"
+   ],
+   [
+    "飒",
+    "sà"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "栽",
+    "zāi"
+   ]
+  ],
+  [
+   [
+    "蕊",
+    "ruǐ"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "帝",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文“蕊”写作“蘂”，这是“蕊”的异体字，现在通行写“蕊”。",
+  "en": "The corpus writes the character for \"flower heart\" (ruǐ) in an old variant form. Today the standard form is used."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "为：这里是“成为”的意思，读 wéi，不读 wèi。",
+   "en": "Here the character means to become, so it is read wéi, not wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "飒飒：风吹的声音。",
+   "en": "sà sà: the sound of the wind."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "西风：秋风。",
+   "en": "xī fēng: the west wind, the autumn wind."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "满院栽：种满了院子，这里指院子里开满了菊花。",
+   "en": "mǎn yuàn zāi: planted all over the yard, meaning the yard is full of chrysanthemums."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "蕊寒香冷：花蕊和花香都带着寒意。蕊，花心。",
+   "en": "ruǐ hán xiāng lěng: the flower hearts and their scent feel cold. Ruǐ is the heart of a flower."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "蝶难来：天冷了，蝴蝶很难飞来。",
+   "en": "dié nán lái: it is cold, so butterflies rarely come."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "他年：将来有一天。",
+   "en": "tā nián: some day in the future."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "青帝：神话里掌管春天的神。",
+   "en": "qīng dì: the Green Emperor, the god of spring in myth."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "报与：告诉，通知。",
+   "en": "bào yǔ: to tell, to let know."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "一处开：在同一个时候一起开放。",
+   "en": "yī chù kāi: to bloom together at the same time."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋风飒飒地吹，满院子都开着菊花；",
+   "en": "The autumn wind whistles, and the yard is full of chrysanthemums."
+  },
+  {
+   "zh": "花心冰凉，香气清冷，蝴蝶很难飞来。",
+   "en": "Their hearts are chill, their scent is cold, and butterflies rarely come."
+  },
+  {
+   "zh": "将来有一天，如果我做了掌管春天的神，",
+   "en": "If some day I become the god of spring,"
+  },
+  {
+   "zh": "我就让菊花和桃花在同一个季节开放。",
+   "en": "I will tell the chrysanthemums to bloom with the peach blossoms."
+  }
+ ],
+ "background": {
+  "zh": "黄巢是唐朝末年一场大起义的首领。一般认为这首诗是他起义之前写的，一说是他少年时所作。菊花在秋天开，天冷了，蝴蝶不来，没人欣赏。黄巢看着菊花，想到了它们的处境，写下了这首诗。具体写作时间已经说不清了。",
+  "en": "Huang Chao led a great uprising at the end of the Tang dynasty. This poem is usually thought to date from before the uprising. Another view says he wrote it as a boy. Chrysanthemums bloom in autumn. It is cold, butterflies do not come, and no one enjoys them. Looking at the flowers, Huang Chao thought about how they were treated and wrote this poem. Exactly when is no longer known."
+ },
+ "author_note": {
+  "zh": "黄巢（？—884），唐末农民起义的首领。他出身贩盐的人家，读过书，考进士没考上。875年前后他起兵，880年攻进长安，自己称帝，884年失败而死。他留下的诗很少，但都很有气势。",
+  "en": "Huang Chao (died 884) led a peasant uprising at the end of the Tang. He came from a family of salt traders. He studied but failed the jinshi exam. Around 875 he rose in revolt. In 880 he took Chang'an and declared himself emperor. In 884 he was defeated and died. Few of his poems survive, but all are bold and strong."
+ },
+ "appreciation": {
+  "zh": "前两句写菊花的冷清：秋风一吹，满院菊花开了，可是太冷了，连蝴蝶都不来。菊花很美，却没人欣赏，有点委屈。后两句忽然变得很大胆：要是有一天我当了春神，就让菊花和桃花一起在春天开放！一般人写菊花，是夸它不怕冷；黄巢却想改变规矩，让菊花也享受春天的温暖。这里有对菊花的同情，也有想改变世界的雄心。语气豪迈，读起来很有力量。",
+  "en": "The first two lines show how lonely the chrysanthemums are. The autumn wind blows and the yard is full of flowers, but it is so cold that not even butterflies come. The flowers are lovely, yet no one enjoys them. It seems unfair. Then the last two lines turn bold. If some day I become the god of spring, I will let the chrysanthemums bloom in spring with the peach blossoms! Most poets praise the chrysanthemum for braving the cold. Huang Chao wants to change the rules so it can enjoy spring's warmth too. There is pity for the flowers here, and a great wish to change the world. The tone is proud and full of power."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "chrysanthemum",
+   "flower",
+   "ambition"
+  ]
+ },
+ "uncertain": []
+}

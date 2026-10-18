@@ -1,0 +1,725 @@
+{
+ "id": "ci-0fa8f77bd2ec",
+ "kind": "ci",
+ "title": "琵琶仙·双桨来时",
+ "title_en": "Pi Pa Xian: When the Twin Oars Came",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《琵琶仙》，姜夔自度曲，双调",
+  "en": "ci to the tune Pi Pa Xian, a tune Jiang Kui made up himself, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "桨",
+    "jiǎng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "根",
+    "gēn"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "奇",
+    "qí"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "汀",
+    "tīng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "添",
+    "tiān"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "鴂",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "牧",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "奈",
+    "nài"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "襟",
+    "jīn"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "榆",
+    "yú"
+   ],
+   [
+    "荚",
+    "jiá"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ],
+   [
+    "藏",
+    "cáng"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 11,
+   "pos": 5,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "“芳思”的“思”是名词，指情思。古音读去声 sì，现在一般读 sī。",
+   "en": "In fāng sī (tender thoughts) the character is a noun. In old pronunciation it was sì, but today it is usually read sī."
+  },
+  {
+   "line": 5,
+   "pos": 6,
+   "char": "鴂",
+   "pinyin": "jué",
+   "zh": "“鴂”读 jué，“鹈鴂”是一种鸟，一般认为就是杜鹃。",
+   "en": "This character is read jué. Tí jué is a bird, usually taken to be the cuckoo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "双桨：一对船桨，代指划来的小船。",
+   "en": "shuāng jiǎng: a pair of oars, meaning a little boat rowing up."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 9,
+   "zh": "桃根桃叶：东晋书法家王献之的爱妾叫桃叶，她的妹妹叫桃根。王献之曾在渡口作《桃叶歌》送桃叶。这里说船上的女子像旧歌里的桃叶姐妹，也让作者想起自己从前爱过的人。",
+   "en": "táo gēn táo yè: Peach Leaf was the beloved of the calligrapher Wang Xianzhi, and Peach Root was her sister. He wrote 'The Song of Peach Leaf' to see her off at a ferry. The woman in the boat looks like the girls in that old song, and reminds the poet of someone he once loved."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "歌扇：唱歌时拿的扇子。",
+   "en": "gē shàn: a fan held while singing."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 6,
+   "zh": "轻约飞花：用扇子轻轻挡开飞舞的花瓣。约，拦住。",
+   "en": "qīng yuē fēi huā: gently waving away the flying petals with the fan. Yuē means to hold back."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "蛾眉：像蚕蛾触须那样细长弯曲的眉毛，代指美女。",
+   "en": "é méi: eyebrows as fine and curved as a moth's feelers, meaning a beautiful woman."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "奇绝：美得出奇，无人能比。",
+   "en": "qí jué: wonderfully, matchlessly lovely."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "汀洲：水中的小块陆地。",
+   "en": "tīng zhōu: a small island or sandbank in the water."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "啼鴂：鸣叫的鹈鴂，一般认为是杜鹃。古人认为它一叫，春天就要过去，百花凋零。",
+   "en": "tí jué: a calling tí jué bird, usually taken to be the cuckoo. People believed that when it called, spring was ending and flowers would fade."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "十里扬州：唐代杜牧《赠别》写“春风十里扬州路”，扬州是他年轻时风流快乐的地方。",
+   "en": "shí lǐ yáng zhōu: ten miles of Yangzhou. The Tang poet Du Mu wrote of 'ten miles of spring wind on the Yangzhou road', where he spent his carefree youth."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "三生杜牧：三生，佛教说的前生、今生、来生。作者说自己好像杜牧转世，也有过一段扬州那样的旧情。",
+   "en": "sān shēng dù mù: Du Mu across three lives. Buddhists speak of a past, present and next life. The poet says he is like Du Mu born again, with an old love of his own."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "休说：不要再说了。",
+   "en": "xiū shuō: say no more."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 7,
+   "zh": "宫烛分烟：寒食节过后，皇宫点起新火，把蜡烛分给大臣，烛烟飘散到各家。这里点明又到了寒食清明时节。",
+   "en": "gōng zhú fēn yān: after the Cold Food Festival, the palace lit new fire and gave candles to officials, so their smoke spread to many homes. It tells us it is the Cold Food and Qingming season again."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 1,
+   "zh": "奈：无奈，没有办法。",
+   "en": "nài: there is nothing to be done."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 6,
+   "zh": "一襟芳思：满怀春天的情思。襟，衣服前胸部分，代指胸怀。",
+   "en": "yī jīn fāng sī: a heart full of tender spring feelings. Jīn is the front of a robe, meaning the heart."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 1,
+   "zh": "与：交给，送给。",
+   "en": "yǔ: to give, to hand over."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "榆荚：榆树的果实，圆圆的像铜钱，也叫榆钱，暮春时纷纷飘落。",
+   "en": "yú jiá: elm seeds, round like coins, also called elm money. They fall in showers in late spring."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 7,
+   "zh": "藏鸦细柳：细长的柳条长得又密又长，能把乌鸦藏住。",
+   "en": "cáng yā xì liǔ: slender willows grown so thick they can hide a crow."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "玉尊：玉做的酒杯，指酒宴。尊，同“樽”。",
+   "en": "yù zūn: a jade wine cup, meaning a feast."
+  },
+  {
+   "line": 14,
+   "start": 5,
+   "end": 7,
+   "zh": "回雪：被风吹得回旋飞舞的雪。曹植《洛神赋》用“流风之回雪”形容美人跳舞。这里写柳条在风里舞动，像有人在酒席前跳舞。",
+   "en": "huí xuě: snow whirling in the wind. In 'The Goddess of the Luo River', Cao Zhi used this image for a dancer. Here the willow strands sway like someone dancing before the feast."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 6,
+   "zh": "西出阳关：王维《送元二使安西》写“西出阳关无故人”。古人分别时常折柳相送，看见柳树就想起离别。",
+   "en": "xī chū yáng guān: going west through the Yang Pass, from Wang Wei's farewell poem 'Seeing Off Yuan Er'. People broke off willow twigs at partings, so willows bring farewells to mind."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友，旧日相好的人。",
+   "en": "gù rén: an old friend, someone once dear."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一只小船划着双桨来了，",
+   "en": "A little boat came rowing with its twin oars,"
+  },
+  {
+   "zh": "船上有个人，像旧歌里唱的桃根、桃叶姐妹。",
+   "en": "and on it was someone like the sisters Peach Root and Peach Leaf in the old song."
+  },
+  {
+   "zh": "她拿着唱歌的扇子，轻轻挡开飞花，",
+   "en": "With her singing fan she gently waved away the flying petals."
+  },
+  {
+   "zh": "那弯弯的眉毛，美得出奇。",
+   "en": "Her curved brows were lovely beyond compare."
+  },
+  {
+   "zh": "春天渐渐远去，水中的小洲自顾自地绿着，",
+   "en": "Spring is slowly going; the little islands turn green all by themselves,"
+  },
+  {
+   "zh": "又添了几声杜鹃的啼叫。",
+   "en": "and a few cuckoo calls are added."
+  },
+  {
+   "zh": "像杜牧那样十里扬州的往事，",
+   "en": "Like Du Mu's ten miles of Yangzhou,"
+  },
+  {
+   "zh": "我好像是杜牧转世，",
+   "en": "as if I were Du Mu born again,"
+  },
+  {
+   "zh": "那些旧事，就不要再说了。",
+   "en": "those old days are better left unspoken."
+  },
+  {
+   "zh": "又到了宫中分送蜡烛、烛烟飘散的寒食时节，",
+   "en": "Again it is the season when the palace sends out candles and their smoke drifts away."
+  },
+  {
+   "zh": "无奈在愁闷里，季节匆匆就换了。",
+   "en": "Sadly, in my gloom, the seasons hurry past."
+  },
+  {
+   "zh": "我把满怀春天的情思，",
+   "en": "All the tender feelings in my heart"
+  },
+  {
+   "zh": "都交给了空台阶上飘落的榆钱。",
+   "en": "I give to the elm seeds falling on the empty steps."
+  },
+  {
+   "zh": "千丝万缕的细柳，密得能藏住乌鸦，",
+   "en": "Thousands of slender willow strands, thick enough to hide crows,"
+  },
+  {
+   "zh": "在酒杯前随风起舞，像回旋的飞雪。",
+   "en": "dance before the jade cup like whirling snow."
+  },
+  {
+   "zh": "我想起了“西出阳关”那样的情景，",
+   "en": "They remind me of that scene of going west through the Yang Pass,"
+  },
+  {
+   "zh": "正是和旧日相好的人刚刚分别的时候。",
+   "en": "the moment I first parted from the one I loved."
+  }
+ ],
+ "background": {
+  "zh": "这首词前面有一段小序，大意是：吴兴（今浙江湖州）水边人家多，家家有画船，春游非常热闹，连杭州西湖都比不上。己酉年（1189年），作者和朋友萧时父带着酒到城南游玩，有所感触，写下这首词。一般认为，他在船上看见一位女子，想起了自己从前在合肥爱过的人。“自度曲”是说这个曲调是姜夔自己作的。",
+  "en": "The poem has a short preface. It says that in Wuxing (today's Huzhou, Zhejiang) many homes stood by the water and each had a painted boat, so spring outings there were livelier even than at West Lake in Hangzhou. In 1189 the poet and his friend Xiao Shifu took wine to the south of the city, and he was moved to write this. It is usually thought that a woman he saw on a boat reminded him of a woman he had once loved in Hefei. The tune was one Jiang Kui composed himself."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），字尧章，号白石道人，南宋词人和音乐家。他一辈子没有做官，靠朋友接济过日子。他能自己作曲，留下了带乐谱的词。年轻时他在合肥爱过一位女子，后来分开了，他的不少词都在怀念这段感情。",
+  "en": "Jiang Kui (about 1155 – about 1221) was a Southern Song ci writer and musician. He never held office and lived with help from friends. He could compose music, and some of his ci survive with their tunes written out. When young he loved a woman in Hefei, but they parted, and many of his ci look back on that love."
+ },
+ "appreciation": {
+  "zh": "这首词从一个瞬间写起：一条小船划来，船上的女子拿扇子挡开飞花，美得让人心动。可作者马上转到伤感：春天渐渐远了，杜鹃在叫，杜牧那样的扬州旧梦，“前事休说”——不说，是因为说起来太痛。下阕写时间过得快：寒食又到了，他把满心的情思交给落在空台阶上的榆钱，等于说没人可以诉说。最后看见满树柳条在酒席前飞舞，想到古人折柳送别，心里浮现的正是当年和心上人刚分开的那一刻。全词写景很轻很美，藏着的感情却很深。",
+  "en": "The poem starts with a single moment. A little boat rows up, and the woman on it waves away the petals with her fan, so lovely that his heart stirs. But he turns at once to sorrow. Spring is going, the cuckoo calls, and his own old dream, like Du Mu's in Yangzhou, is 'better left unspoken', because speaking of it hurts too much. The second stanza is about time rushing on. The festival has come again. He gives all his feelings to the elm seeds on the empty steps, which means he has no one to tell. At last he sees willows dancing before the feast. Willows were broken off at farewells, so what rises in his mind is the very moment he parted from the one he loved. The scenes are light and pretty, but the feeling hidden in them runs deep."
+ },
+ "famous_lines": [
+  6,
+  7,
+  8,
+  13,
+  14
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "hanshi"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "memory",
+   "parting",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,426 @@
+{
+ "id": "ci-ac0d1e001d57",
+ "kind": "ci",
+ "title": "鹧鸪天·鹅湖归病起作",
+ "title_en": "Partridge Sky: Written on Rising from Illness after Returning from Ehu",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "簟",
+    "diàn"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "莲",
+    "lián"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "定",
+    "dìng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "咄",
+    "duō"
+   ],
+   [
+    "咄",
+    "duō"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "丘",
+    "qiū"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "壑",
+    "hè"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "筋",
+    "jīn"
+   ],
+   [
+    "力",
+    "lì"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "懒",
+    "lǎn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "枕簟：枕头和竹席。簟，竹子编的凉席。",
+   "en": "zhěn diàn: pillow and bamboo mat. Diàn is a cool mat woven from bamboo."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "溪堂：溪水边的屋子。",
+   "en": "xī táng: a house by the stream."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "冷欲秋：凉凉的，快要到秋天了。",
+   "en": "lěng yù qiū: cool, as if autumn were about to come."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "断云：一片片零散的云。",
+   "en": "duàn yún: scattered patches of cloud."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "晚来收：到了傍晚，云慢慢散去了。",
+   "en": "wǎn lái shōu: toward evening the clouds draw away."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "浑如醉：简直像喝醉了一样。浑，简直、完全。",
+   "en": "hún rú zuì: just like being drunk. Hún means completely, simply."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "白鸟：白色的水鸟，比如白鹭。",
+   "en": "bái niǎo: white water birds, such as egrets."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "定自愁：一定是自己在发愁。",
+   "en": "dìng zì chóu: must be sad in its own heart."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "书咄咄：东晋的殷浩被罢官后，整天用手在空中写“咄咄怪事”四个字，表示心里不平。咄咄，表示惊怪的叹声。",
+   "en": "shū duō duō: after Yin Hao of the Eastern Jin was dismissed, he spent his days writing \"strange, strange business\" in the air with his finger, to show his anger. Duō duō is a cry of shock."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "且休休：还是算了吧，罢了罢了。休休，罢了、不去想它。",
+   "en": "qiě xiū xiū: let it go, let it go. Xiū xiū means enough, stop thinking about it."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "一丘一壑：一座小山，一条山沟，指隐居在山水之间。",
+   "en": "yī qiū yī hè: one hill and one valley; living quietly among hills and streams."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "风流：这里指潇洒、有情趣。",
+   "en": "fēng liú: here, carefree and full of charm."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "筋力：体力，力气。",
+   "en": "jīn lì: bodily strength."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "新来：近来，最近。",
+   "en": "xīn lái: lately."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "溪边屋里，枕头和竹席已经凉凉的，快到秋天了。",
+   "en": "In my house by the stream, the pillow and bamboo mat are cool; autumn is near."
+  },
+  {
+   "zh": "一片片云依着水面，到傍晚慢慢散去。",
+   "en": "Scattered clouds rest on the water and draw away toward evening."
+  },
+  {
+   "zh": "红色的荷花互相依靠着，简直像喝醉了一样。",
+   "en": "Red lotuses lean on one another, just as if they were drunk."
+  },
+  {
+   "zh": "白色的水鸟一声不响，一定是自己在发愁。",
+   "en": "A white bird stands without a sound; it must be sad inside."
+  },
+  {
+   "zh": "别再像殷浩那样在空中写“咄咄怪事”了，",
+   "en": "No more writing \"strange, strange business\" in the air,"
+  },
+  {
+   "zh": "还是算了吧，算了吧。",
+   "en": "let it go, let it go."
+  },
+  {
+   "zh": "住在一座山、一条沟之间，也自有潇洒的乐趣。",
+   "en": "Living among one hill and one valley has its own carefree charm."
+  },
+  {
+   "zh": "不知道我的力气衰退了多少，",
+   "en": "I do not know how much my strength has faded,"
+  },
+  {
+   "zh": "只觉得最近懒得上楼了。",
+   "en": "only that lately I have not felt like climbing the stairs."
+  }
+ ],
+ "background": {
+  "zh": "辛弃疾四十多岁时被罢官，回到江西上饶带湖边的家里闲住。这首词题目说是从鹅湖回来、病刚好时写的。鹅湖在今天江西铅山县，是附近的一座名山，有鹅湖寺。具体哪一年写的，说法不一。夏末秋初，他病后坐在溪边屋里，看着荷花和水鸟，想到自己被闲置不用，又想到身体在变老，写下了这首词。",
+  "en": "In his forties Xin Qiji was dismissed from office and went home to live by Daihu Lake in Shangrao, Jiangxi. The title says he wrote this lyric after coming back from Ehu and getting over an illness. Ehu, Goose Lake, is a famous mountain nearby in today's Yanshan County, with a temple on it. Sources differ on the exact year. At the end of summer, just recovered, he sat in his house by the stream, watching lotuses and water birds. He thought of being left with nothing to do, and of his body growing old, and wrote this."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他出生在被金国占领的北方，年轻时参加抗金起义，后来回到南宋。他一心想收复北方，却长期得不到重用，中年以后多次被罢官，在江西乡下闲住了很多年。他的词豪放有力，也有写得很细腻温柔的。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song poet. He was born in the north, which the Jin had taken. As a young man he joined an uprising against the Jin and then came south to the Song. He wanted with all his heart to win back the north, but he was seldom given real power. From middle age he was dismissed again and again, and lived for many years in the Jiangxi countryside. Most of his lyrics are bold and strong, but some are soft and delicate."
+ },
+ "appreciation": {
+  "zh": "上片写景，景里藏着心情。竹席凉了，云散了，秋天要来了。红莲相倚像醉了，白鸟不说话像在发愁，其实醉的、愁的都是词人自己。下片用了两个古人的故事：殷浩被罢官后心里不平，司空图隐居时把亭子叫“休休”。辛弃疾说：不要再愤愤不平了，算了吧，住在山水间也挺好。可最后两句又露出了真心：力气不知道衰了多少，连楼都懒得上了。一个想上战场的人，现在连楼都懒得爬，这份无奈说得很轻，却让人心酸。",
+  "en": "The first half paints a scene with feelings hidden in it. The mat is cool, the clouds are gone, autumn is coming. The red lotuses lean together as if drunk, and the white bird is silent as if sad. Really it is the poet who is drunk and sad. The second half uses two old stories. Yin Hao, dismissed from office, could not let go of his anger. Sima Tu, living in retirement, called his pavilion \"Let It Go\". Xin Qiji says: stop being angry, let it go; life among the hills is fine too. But the last two lines show his true heart. He does not know how much strength he has lost; he does not even feel like climbing the stairs. A man who longed to ride into battle now cannot be bothered to climb stairs. He says it lightly, and that makes it all the sadder."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "illness",
+   "retirement",
+   "aging",
+   "lotus"
+  ]
+ },
+ "uncertain": []
+}

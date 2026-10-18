@@ -1,0 +1,464 @@
+{
+ "id": "cae8a893-7ae6-4824-b4c5-eada730b075f",
+ "kind": "shi",
+ "title": "苏武庙",
+ "title_en": "The Temple of Su Wu",
+ "author": "温庭筠",
+ "author_en": "Wen Tingyun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "苏",
+    "sū"
+   ],
+   [
+    "武",
+    "wǔ"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "祠",
+    "cí"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "陇",
+    "lǒng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "羊",
+    "yáng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "甲",
+    "jiǎ"
+   ],
+   [
+    "帐",
+    "zhàng"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "冠",
+    "guān"
+   ],
+   [
+    "剑",
+    "jiàn"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "丁",
+    "dīng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "茂",
+    "mào"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "侯",
+    "hóu"
+   ],
+   [
+    "印",
+    "yìn"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "哭",
+    "kū"
+   ],
+   [
+    "逝",
+    "shì"
+   ],
+   [
+    "川",
+    "chuān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本的“廻”“劒”是“回”“剑”的异体字，这里用通行写法。",
+  "en": "The source text writes two characters, for return and for sword, in older variant forms; the common forms are used here."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "“塞草”是边塞上的草，“塞”读 sài，不读 sāi。",
+   "en": "Here the character means the frontier, so it is read sài, not sāi."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "冠",
+   "pinyin": "guān",
+   "zh": "“冠剑”的“冠”是帽子，是名词，读 guān，不读 guàn。",
+   "en": "Here the character is a noun meaning a hat, so it is read guān, not guàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "苏武：西汉人。汉武帝时出使匈奴，被扣留了十九年，始终不肯投降。",
+   "en": "Sū Wǔ: a man of the Western Han. Sent as envoy to the Xiongnu under Emperor Wu, he was held there for nineteen years and never gave in."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "魂销：心神激动得好像魂都散了，形容极度悲喜。",
+   "en": "hún xiāo: so moved that his soul seemed to melt away, overwhelmed by grief and joy."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "汉使：汉朝派来的使者。",
+   "en": "hàn shǐ: the envoy sent by the Han court."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "古祠：古老的祠庙，指苏武庙。",
+   "en": "gǔ cí: an old shrine, meaning the temple of Su Wu."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "两茫然：两样都模糊遥远，说庙和树都已经很古老，让人想不清当年的事。",
+   "en": "liǎng máng rán: both dim and distant; the temple and the trees are so old that the past feels hazy."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "雁断：大雁飞走了，没有书信。传说苏武曾把信系在雁脚上传回汉朝。",
+   "en": "yàn duàn: no more wild geese, so no letters. Legend says Su Wu sent a letter home tied to a goose's foot."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "胡天：匈奴的天空，指北方遥远的地方。",
+   "en": "hú tiān: the sky over the Xiongnu lands, the far north."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "陇上：高地上。",
+   "en": "lǒng shàng: on the high ground."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "羊归：羊群回来。苏武被迫在北海边放羊。",
+   "en": "yáng guī: the sheep come home. Su Wu was forced to herd sheep by the Northern Sea."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "塞草烟：边塞的草地上暮烟升起。",
+   "en": "sài cǎo yān: evening haze rising over the frontier grass."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "回日：苏武回到汉朝的时候。",
+   "en": "huí rì: the day Su Wu came back to Han."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "甲帐：汉武帝用珍宝装饰的帐子。这里说武帝已经死了，宫中一切都变了。",
+   "en": "jiǎ zhàng: a jeweled tent made for Emperor Wu. Here it means Emperor Wu had died and everything at court had changed."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "冠剑：戴着官帽、佩着宝剑，指当年出使时的装束。",
+   "en": "guān jiàn: a hat and a sword, the dress he wore when he set out as envoy."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "丁年：成年、壮年。",
+   "en": "dīng nián: the prime of life, a grown young man."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "茂陵：汉武帝的陵墓，这里指汉武帝。",
+   "en": "mào líng: the tomb of Emperor Wu; here it means the emperor himself."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "封侯印：封侯的官印。苏武回来后被封了官，后来又封了侯，可汉武帝已经看不到了。",
+   "en": "fēng hóu yìn: the seal of a marquis. After he returned, Su Wu was given office and later made a marquis, but Emperor Wu did not live to see it."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "逝川：流走的河水，比喻一去不回的时光。",
+   "en": "shì chuān: a river flowing away, a picture of time that never comes back."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "苏武见到汉朝使者时，激动得魂都要散了，",
+   "en": "When Su Wu met the Han envoy, he was so moved his soul nearly melted away;"
+  },
+  {
+   "zh": "如今只剩古老的祠庙和高大的树，一切都那么遥远模糊。",
+   "en": "now only the old shrine and the tall trees remain, and the past feels dim and distant."
+  },
+  {
+   "zh": "当年在北方，云边的大雁都飞走了，只有胡地的月亮，",
+   "en": "Back then, in the north, the geese were gone from the clouds, and only the foreign moon was there;"
+  },
+  {
+   "zh": "他在高地上放羊，傍晚羊群回来，边塞草原升起暮烟。",
+   "en": "he herded sheep on the high ground, and as the flock came home, evening haze rose over the frontier grass."
+  },
+  {
+   "zh": "他回来时，宫中的楼台已经不是武帝时的样子，",
+   "en": "When he came back, the palace towers were no longer as they had been under Emperor Wu;"
+  },
+  {
+   "zh": "想当初出使时戴冠佩剑，还是个年轻的壮年人。",
+   "en": "when he had set out with hat and sword, he was a young man in his prime."
+  },
+  {
+   "zh": "武帝已经去世，看不到他被封侯，",
+   "en": "Emperor Wu, in his tomb, never saw the seal that made him a marquis;"
+  },
+  {
+   "zh": "他只能对着秋天的流水，哭那一去不回的岁月。",
+   "en": "he could only weep in vain toward the autumn river, for the years that had flowed away."
+  }
+ ],
+ "background": {
+  "zh": "苏武是西汉的大臣。汉武帝时，他奉命出使匈奴，被扣留了十九年。匈奴逼他投降，他不肯，被赶到北海（今贝加尔湖一带）放羊。后来汉朝和匈奴和好，他才回到长安，那时汉武帝已经去世。温庭筠来到苏武庙，想起这段历史，写下了这首诗。写作时间不能确定。",
+  "en": "Su Wu was an official of the Western Han. Under Emperor Wu he was sent as envoy to the Xiongnu and was held there for nineteen years. They tried to force him to give in; he refused, and was sent to herd sheep by the Northern Sea, around today's Lake Baikal. Only after the two sides made peace did he return to Chang'an, by which time Emperor Wu had died. Visiting a temple to Su Wu, Wen Tingyun thought of this history and wrote the poem. We do not know when."
+ },
+ "author_note": {
+  "zh": "温庭筠（约812—约866，一说约801—约866），晚唐诗人、词人。他的诗和李商隐齐名，合称“温李”。他的词写得细腻华美，被称为“花间派”的代表。这首诗不同于他常写的柔美题材，写得深沉悲壮。",
+  "en": "Wen Tingyun (about 812 to about 866; some say born about 801) was a late Tang poet and lyric writer. His poems were ranked with Li Shangyin's, and the two are called Wen and Li. His song lyrics are delicate and rich, and he is seen as the leader of the Flower Collection school. Unlike his usual soft, pretty subjects, this poem is deep, grave and heroic."
+ },
+ "appreciation": {
+  "zh": "这首诗像在看一部老电影的回放。开头是最激动的一幕：苏武终于见到汉朝使者，悲喜交加。镜头一转，回到眼前：只剩一座古庙、几棵大树，一切都很遥远。第三、四句又回到过去：北方的天空没有大雁，只有月亮；傍晚羊群回来，草原上升起暮烟。这两句没写苦，却让人感到十九年的孤独。第五、六句一回一去：回来时宫殿已经变了，出发时他还年轻。最后两句最心酸：最想让他看到自己忠心的汉武帝已经不在了，苏武只能对着秋水，哭那流走的岁月。",
+  "en": "This poem is like watching an old film played back. It opens on the most moving scene: Su Wu at last meets the Han envoy, overcome with grief and joy. Then the camera cuts to now: just an old temple and a few tall trees, all far away in time. Lines three and four go back to the past. No geese in the northern sky, only the moon; at dusk the sheep come home and haze rises over the grassland. These lines do not say he suffered, yet we feel nineteen lonely years. Lines five and six set his return against his leaving. When he came back the palace had changed; when he left he was young. The last two lines are the saddest. Emperor Wu, the one he most wanted to see his loyalty, was already gone. Su Wu could only weep toward the autumn river for the years that had flowed away."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "loyalty",
+   "hero",
+   "frontier",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

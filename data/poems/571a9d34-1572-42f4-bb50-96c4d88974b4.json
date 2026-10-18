@@ -1,0 +1,361 @@
+{
+ "id": "571a9d34-1572-42f4-bb50-96c4d88974b4",
+ "kind": "shi",
+ "title": "春日忆李白",
+ "title_en": "Thinking of Li Bai on a Spring Day",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "敌",
+    "dí"
+   ]
+  ],
+  [
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "群",
+    "qún"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "庾",
+    "yǔ"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "府",
+    "fǔ"
+   ]
+  ],
+  [
+   [
+    "俊",
+    "jùn"
+   ],
+   [
+    "逸",
+    "yì"
+   ],
+   [
+    "鲍",
+    "bào"
+   ],
+   [
+    "参",
+    "cān"
+   ],
+   [
+    "军",
+    "jūn"
+   ]
+  ],
+  [
+   [
+    "渭",
+    "wèi"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "论",
+    "lùn"
+   ],
+   [
+    "文",
+    "wén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "这里“思”是名词，指才思、想法，现在读 sī。古代作名词时读去声，近似 sì。",
+   "en": "Here it is a noun, meaning the flow of ideas. Today it is read sī. In old times the noun was read in the falling tone, close to sì."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重”是再一次的意思，读 chóng。",
+   "en": "Here it means once again, read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "白也：李白呀。“也”放在名字后面，表示停顿和感叹。",
+   "en": "bái yě: Li Bai, ah. Yě after a name adds a pause and a sense of praise."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "无敌：没有人比得上。",
+   "en": "wú dí: no one can match him."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "飘然：轻快洒脱、自由自在的样子。",
+   "en": "piāo rán: light, free and unbound."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "思不群：想法与众不同。不群，不和一般人一样。",
+   "en": "sī bù qún: his ideas are unlike anyone else's."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "清新：清爽新鲜，不俗气。",
+   "en": "qīng xīn: fresh and clean, never dull."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "庾开府：南北朝时的诗人庾信，他在北周做过“开府”这个高官，所以这样叫他。",
+   "en": "yǔ kāi fǔ: Yu Xin, a poet of the Northern and Southern Dynasties, called by his high title kāi fǔ."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "俊逸：才气出众，潇洒奔放。",
+   "en": "jùn yì: brilliant and free-spirited."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "鲍参军：南朝宋的诗人鲍照，做过“参军”这个官。",
+   "en": "bào cān jūn: Bao Zhao, a poet of the Liu Song dynasty, who held the post of cān jūn, a military adviser."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "渭北：渭水北边，指长安一带，是杜甫当时在的地方。",
+   "en": "wèi běi: north of the Wei River, around Chang'an, where Du Fu was."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "江东：长江下游的东南一带，是李白当时在的地方。",
+   "en": "jiāng dōng: the lands east of the lower Yangtze, where Li Bai was."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 4,
+   "zh": "尊：同“樽”，古代的酒杯。",
+   "en": "zūn: an ancient wine cup."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "细论文：仔细地谈论诗文。",
+   "en": "xì lùn wén: to talk about poetry in detail."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "李白呀，他的诗天下无敌，",
+   "en": "Li Bai, ah, his poems have no equal."
+  },
+  {
+   "zh": "潇洒自由，想法和别人都不一样。",
+   "en": "Free and soaring, his ideas stand apart from everyone's."
+  },
+  {
+   "zh": "他的诗像庾信那样清新，",
+   "en": "His verse is fresh like that of Yu Xin,"
+  },
+  {
+   "zh": "又像鲍照那样俊逸奔放。",
+   "en": "and brilliant and bold like that of Bao Zhao."
+  },
+  {
+   "zh": "我在渭水北边，看着春天的树；",
+   "en": "North of the Wei River, I look at the spring trees."
+  },
+  {
+   "zh": "你在江东，望着傍晚的云。",
+   "en": "East of the Yangtze, you watch the clouds at dusk."
+  },
+  {
+   "zh": "什么时候我们能再一起喝一杯酒，",
+   "en": "When can we share a cup of wine again,"
+  },
+  {
+   "zh": "重新坐下来，细细地谈论诗文呢？",
+   "en": "and sit down once more to talk about poetry in detail?"
+  }
+ ],
+ "background": {
+  "zh": "杜甫和李白在744年相识，一起游玩过，成了好朋友。745年两人在山东分别，以后再也没有见面。后来杜甫到了长安，李白去了江东一带。一般认为这首诗是杜甫在长安时写的，大约在746年或747年的春天，他想念李白，写下了这首诗。",
+  "en": "Du Fu and Li Bai met in 744, traveled together and became good friends. In 745 they parted in Shandong and never met again. Du Fu then went to Chang'an, and Li Bai went to the lands east of the Yangtze. This poem is usually thought to have been written in Chang'an, around the spring of 746 or 747, when Du Fu was missing Li Bai."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他比李白小十一岁，非常敬佩李白，一生写过十几首怀念李白的诗。两个人一起被叫作“李杜”，是唐诗里最亮的两颗星。",
+  "en": "Du Fu (712–770) was a great Tang poet called the Sage of Poetry. He was eleven years younger than Li Bai and admired him deeply, writing more than ten poems about him in his life. Together the two are called Li-Du, the two brightest stars of Tang poetry."
+ },
+ "appreciation": {
+  "zh": "前四句全在夸李白：他的诗天下第一，想法与众不同，又清新又潇洒，像古代两位名家合在一起。夸得这么痛快，可见杜甫有多佩服他。第五、六句最有名：一个看着渭北春天的树，一个望着江东傍晚的云，两个人隔得很远，却好像在同时想念对方。后来人们用“春树暮云”来比喻想念远方的朋友。最后两句盼着再见面，能一起喝酒谈诗，淡淡的话里有很深的情。",
+  "en": "The first four lines are all praise for Li Bai. His poems are the best in the land, his ideas unlike anyone's, fresh and free, like two great poets of the past rolled into one. Praise this open shows how much Du Fu admired him. Lines five and six are the most famous. One friend looks at spring trees north of the Wei; the other watches dusk clouds east of the Yangtze. They are far apart, yet they seem to miss each other at the same moment. Later, \"spring trees and evening clouds\" became a saying for missing a faraway friend. The last two lines hope to meet again, drink together and talk about poems. The words are simple, but the feeling runs deep."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "missing",
+   "poetry",
+   "li-bai"
+  ]
+ },
+ "uncertain": []
+}

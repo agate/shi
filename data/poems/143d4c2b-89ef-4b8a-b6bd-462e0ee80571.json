@@ -1,0 +1,254 @@
+{
+ "id": "143d4c2b-89ef-4b8a-b6bd-462e0ee80571",
+ "kind": "shi",
+ "title": "闻王昌龄左迁龙标遥有此寄",
+ "title_en": "Hearing Wang Changling Was Demoted to Longbiao, I Send This from Afar",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "规",
+    "guī"
+   ],
+   [
+    "啼",
+    "tí"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "标",
+    "biāo"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "溪",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "西",
+    "xī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文第四句作“随风直到夜郎西”。课本作“随君直到夜郎西”，也有版本作“随风”。",
+  "en": "In the corpus, line 4 says the moon follows the wind. Textbooks say it follows you, the friend. Some editions have the wind."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "杨花：柳絮，柳树的种子带着白色绒毛，像雪一样飘。",
+   "en": "yáng huā: willow catkins, white fluffy seeds that drift like snow."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "子规：杜鹃鸟，叫声很悲伤，听起来像“不如归去”。",
+   "en": "zǐ guī: the cuckoo. Its sad call was said to sound like \"better go home\"."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "闻道：听说。",
+   "en": "wén dào: to hear it said."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "龙标：地名，在今湖南洪江一带。这里用地名代指王昌龄，因为他被贬到那里做官。",
+   "en": "Longbiao: a place near today's Hongjiang in Hunan. Here it stands for Wang Changling, who was sent there."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "五溪：湘西、贵州东部一带的五条溪水，那里在当时是偏远的地方。",
+   "en": "wǔ xī: the Five Streams, in western Hunan and eastern Guizhou, a remote land at that time."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "愁心：担忧、思念的心。",
+   "en": "chóu xīn: a worried, missing heart."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "与：给，交给。",
+   "en": "yǔ: to give to, to hand to."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "随君：跟着你。君，你，指王昌龄。",
+   "en": "suí jūn: to follow you. Jūn means you, here Wang Changling."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "夜郎：唐代的夜郎县，在今湖南新晃一带，靠近龙标。",
+   "en": "Yelang: a Tang county near today's Xinhuang in Hunan, close to Longbiao."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "柳絮落光了，杜鹃鸟在悲伤地啼叫，",
+   "en": "The willow catkins have all fallen, and the cuckoo cries."
+  },
+  {
+   "zh": "听说你被贬到龙标，要经过遥远的五溪。",
+   "en": "I hear you are sent to Longbiao, past the far Five Streams."
+  },
+  {
+   "zh": "我把忧愁思念的心托付给明月，",
+   "en": "I give my worried heart to the bright moon,"
+  },
+  {
+   "zh": "让它跟着你，一直到夜郎的西边。",
+   "en": "so it can follow you all the way west of Yelang."
+  }
+ ],
+ "background": {
+  "zh": "王昌龄是李白的好朋友。他原来在江宁（今江苏南京）做官，后来被贬到更偏远的龙标去做县尉，一个很小的官。一般认为这件事发生在唐玄宗天宝年间，具体年份说法不一。李白听到消息时离朋友很远，没法去送他，就写了这首诗寄给他。",
+  "en": "Wang Changling was a good friend of Li Bai. He had been an official in Jiangning, today's Nanjing, and was then demoted to a small post in remote Longbiao. This is usually placed in the Tianbao years, but sources differ on the year. When Li Bai heard the news he was far away and could not see his friend off, so he wrote this poem and sent it to him."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他一生朋友很多，写了很多送别和思念朋友的诗，比如《赠汪伦》《黄鹤楼送孟浩然之广陵》。他的想象特别大胆，这首诗让明月替他去陪伴朋友，就是很好的例子。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. He had many friends and wrote many poems of farewell and longing, such as To Wang Lun and Seeing Meng Haoran Off to Guangling. His imagination was very bold. Here he asks the moon to keep his friend company in his place."
+ },
+ "appreciation": {
+  "zh": "第一句写暮春的景：柳絮落尽，杜鹃在叫。春天要走了，杜鹃的叫声又那么悲伤，一开头就让人觉得难过。第二句才说出消息：朋友要被贬到遥远的地方，路上要过五条溪。后两句是全诗最美的地方。诗人去不了，就把自己的心交给明月。不管朋友走到哪里，抬头都能看到同一个月亮，月亮就带着诗人的牵挂一直跟着他。这是把月亮当成了会帮忙的好朋友，又温暖又深情。",
+  "en": "The first line shows late spring: the catkins have fallen and the cuckoo is calling. Spring is leaving, and the bird sounds so sad, so the poem starts with sorrow. The second line gives the news: the friend is being sent far away, past five streams. The last two lines are the most beautiful. The poet cannot go, so he gives his heart to the moon. Wherever the friend goes, he can look up and see the same moon, and the moon carries the poet's care along with him. The moon becomes a helpful friend. It is warm and full of feeling."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "moon",
+   "farewell",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

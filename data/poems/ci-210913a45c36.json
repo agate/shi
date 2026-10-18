@@ -1,0 +1,431 @@
+{
+ "id": "ci-210913a45c36",
+ "kind": "ci",
+ "title": "木兰花·池塘水绿风微暖",
+ "title_en": "Magnolia Blossoms: The Pond Is Green, the Breeze a Little Warm",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "真",
+    "zhēn"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "面",
+    "miàn"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "韵",
+    "yùn"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ],
+   [
+    "琤",
+    "chēng"
+   ],
+   [
+    "琮",
+    "cóng"
+   ]
+  ],
+  [
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "腰",
+    "yāo"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "旋",
+    "xuán"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "钩",
+    "gōu"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "畔",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "检",
+    "jiǎn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "半",
+    "bàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "通行本第三句作“重头歌韵响琤琮”。这里的底本作“铮琮”。“琤”和“铮”都可以形容清脆的声音，意思差不多。",
+  "en": "The commonly taught text ends the third line with chēng cóng, a clear ringing sound. The source text writes the first of these two characters as zhēng. Both forms describe a clear, ringing sound, so the meaning is about the same."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重头”的“重”是“重复”的意思，读 chóng，不读 zhòng。",
+   "en": "Here the character means to repeat, so it is read chóng, not zhòng."
+  },
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "旋",
+   "pinyin": "xuán",
+   "zh": "“乱旋”的“旋”是旋转的意思，读 xuán。",
+   "en": "Here the character means to spin, so it is read xuán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "玉真：本来指仙女，这里指一位像仙女一样美的歌舞女子。",
+   "en": "yù zhēn: a fairy; here it means a singer and dancer as lovely as a fairy."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "重头：一首曲子分前后两段，后段的曲调重复前段，叫“重头”。",
+   "en": "chóng tóu: a song in two halves, where the second half repeats the tune of the first."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "歌韵：歌声的音调。",
+   "en": "gē yùn: the tune of the singing."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "琤琮：玉石互相碰撞的清脆声音，这里形容歌声清亮。",
+   "en": "chēng cóng: the clear sound of jade pieces knocking together; here it describes a bright, clear voice."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "入破：唐宋大曲里的一段，到这里节奏突然变快，舞蹈也跟着急促起来。",
+   "en": "rù pò: a part of a long Tang and Song dance suite where the beat suddenly speeds up and the dance grows fast."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "舞腰红乱旋：跳舞的人腰身转动，红色的衣裙飞快地旋转。",
+   "en": "wǔ yāo hóng luàn xuán: the dancer's waist turns and her red skirt whirls fast."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "玉钩阑：装饰精美的栏杆。",
+   "en": "yù gōu lán: a finely decorated railing."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "香阶：落着花瓣、带着香气的台阶。",
+   "en": "xiāng jiē: steps scented by fallen petals."
+  },
+  {
+   "line": 4,
+   "start": 6,
+   "end": 7,
+   "zh": "畔：旁边。",
+   "en": "pàn: beside."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "斜日：快要落山的太阳。",
+   "en": "xié rì: the setting sun, low in the sky."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "共我：和我一起。",
+   "en": "gòng wǒ: together with me."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "点检：一个一个地清点、数。",
+   "en": "diǎn jiǎn: to count one by one."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "池塘里的水绿了，风吹来微微暖和。",
+   "en": "The pond water has turned green, and the breeze is a little warm."
+  },
+  {
+   "zh": "我还记得第一次见到那位像仙女一样美的姑娘。",
+   "en": "I still remember the first time I saw that girl, lovely as a fairy."
+  },
+  {
+   "zh": "她唱到重复的那一段，歌声像玉石相碰一样清脆。",
+   "en": "When she sang the repeated part of the song, her voice rang clear like jade."
+  },
+  {
+   "zh": "舞曲节奏变快，她腰身转动，红裙飞旋。",
+   "en": "When the music sped up, her waist turned and her red skirt whirled."
+  },
+  {
+   "zh": "在精美的栏杆下，在花香飘飘的台阶旁，",
+   "en": "Below the fine railing, beside the petal-scented steps,"
+  },
+  {
+   "zh": "我喝醉了，连太阳快落山了都不知道。",
+   "en": "I was so drunk I did not notice the sun was setting."
+  },
+  {
+   "zh": "当年和我一起赏花的那些人，",
+   "en": "Of the people who enjoyed the flowers with me back then,"
+  },
+  {
+   "zh": "如今数一数，已经不到一半了。",
+   "en": "if I count them now, not even half are left."
+  }
+ ],
+ "background": {
+  "zh": "这首词的写作时间不能确定。晏殊一生做大官，家里常常摆酒宴，请歌女唱歌跳舞。这首词回忆多年前一个春天，在宴会上第一次见到一位歌舞女子的情景。最后笔锋一转，写如今再数当年一起赏花的人，已经不到一半。这首词也被收在欧阳修名下，文字稍有不同，一般认为是晏殊的作品。",
+  "en": "We do not know exactly when this was written. Yan Shu held high office all his life, and his home often had banquets with singers and dancers. The lyric looks back to a spring many years ago, when he first saw a young singer and dancer at a feast. At the end it turns: counting the people who enjoyed the flowers with him then, he finds not even half are left. The lyric also appears under Ouyang Xiu's name with a few words changed, but it is usually taken as Yan Shu's."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），北宋前期的词人，也做过宰相。他小时候被当作神童推荐到朝廷，一生做官都很顺利。他的词温和、典雅，常写宴会、春光和淡淡的惆怅。他的儿子晏几道也是有名的词人，父子俩被合称为“二晏”。",
+  "en": "Yan Shu (991–1055) was an early Northern Song lyric poet and also served as chief minister. As a boy he was sent to court as a child prodigy, and his career went smoothly all his life. His lyrics are gentle and graceful, often about banquets, spring light and a light sadness. His son Yan Jidao was also a famous lyric poet; the two are called the Two Yans."
+ },
+ "appreciation": {
+  "zh": "上半首像一段彩色的回忆。春天的池塘绿了，风暖暖的，那位姑娘第一次出现。她唱歌，声音像玉石叮当作响；她跳舞，红裙转成一团火。读的时候，可以想象自己也坐在宴会上，听得入了迷。下半首先接着写那天的快乐：在栏杆下、台阶旁喝得大醉，太阳下山了都不知道。最后两句一下子回到现在：当年一起赏花的人，数一数已经不到一半。热闹的过去和冷清的现在放在一起，让人感到时光飞逝、人事无常，那种失落说得很轻，却很深。",
+  "en": "The first half is like a colorful memory. The spring pond is green, the wind is warm, and the girl appears for the first time. She sings, and her voice rings like jade. She dances, and her red skirt spins like a flame. As you read, you can picture yourself at the feast, lost in the music. The second half goes on with that happy day: drinking by the railing and the steps, so drunk that no one noticed the sunset. Then the last two lines jump back to now. Of the friends who enjoyed the flowers together, not even half are left. Putting the lively past next to the lonely present makes us feel how fast time flies and how nothing stays the same. The sense of loss is spoken softly, but it goes deep."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "banquet",
+   "dance",
+   "time",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

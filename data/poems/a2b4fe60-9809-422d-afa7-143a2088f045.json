@@ -1,0 +1,348 @@
+{
+ "id": "a2b4fe60-9809-422d-afa7-143a2088f045",
+ "kind": "shi",
+ "title": "阙题",
+ "title_en": "Title Lost",
+ "author": "刘眘虚",
+ "author_en": "Liu Shenxu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "由",
+    "yóu"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "至",
+    "zhì"
+   ]
+  ],
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "读",
+    "dú"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "堂",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "每",
+    "měi"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "辉",
+    "huī"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "裳",
+    "cháng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "“长”在这里是长远、绵长的意思，读 cháng。",
+   "en": "Here the character means long and lasting, so it is read cháng."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "裳",
+   "pinyin": "cháng",
+   "zh": "“衣裳”今天口语读 yī shang。古诗里“裳”读 cháng，和“长、香、堂”押韵。",
+   "en": "In everyday speech today the word for clothes is read yī shang. In old poems this character is read cháng, which rhymes with the other line endings."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "道由白云尽：山路一直通到白云的尽头，就是说山路伸进了白云深处。",
+   "en": "dào yóu bái yún jìn: the path runs to where the white clouds end, that is, it climbs deep into the clouds."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "青溪：清澈的溪水。",
+   "en": "qīng xī: a clear stream."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "长：长远，绵长。春色和溪水一样长。",
+   "en": "cháng: long and lasting. The spring goes on as long as the stream."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "至：到来，这里指漂过来。",
+   "en": "zhì: to arrive; here, to float down."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "闲门：很少有人来往的门，清静的门。",
+   "en": "xián mén: a quiet gate that few people pass."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "深柳：茂密的柳树林。",
+   "en": "shēn liǔ: thick willow trees."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "读书堂：读书的屋子。",
+   "en": "dú shū táng: a hall for reading."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "幽映：深幽的树荫遮住阳光，光线幽暗。",
+   "en": "yōu yìng: deep shade where the trees screen the light."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "每白日：每到白天，就是大白天也是如此。",
+   "en": "měi bái rì: every day, even in broad daylight."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "清辉：清亮的光，指从树叶间漏下来的阳光。",
+   "en": "qīng huī: clear light, the sunlight slipping through the leaves."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "山路一直伸进白云深处，",
+   "en": "The path runs up into the white clouds."
+  },
+  {
+   "zh": "春色像清清的溪水一样悠长。",
+   "en": "Spring stretches on, as long as the clear stream."
+  },
+  {
+   "zh": "时常有落花漂过来，",
+   "en": "Now and then fallen petals come drifting down,"
+  },
+  {
+   "zh": "远远地随着流水，带来一路花香。",
+   "en": "carried from far away by the water, leaving a sweet smell all along it."
+  },
+  {
+   "zh": "清静的柴门对着山路，",
+   "en": "A quiet gate faces the mountain path."
+  },
+  {
+   "zh": "读书的屋子藏在茂密的柳林深处。",
+   "en": "Deep among the willows stands a reading hall."
+  },
+  {
+   "zh": "树荫浓密，大白天也显得幽暗，",
+   "en": "The shade is so thick that even by day it is dim,"
+  },
+  {
+   "zh": "只有一点清亮的光，照在衣裳上。",
+   "en": "and only a little clear light falls on my clothes."
+  }
+ ],
+ "background": {
+  "zh": "这首诗原来的题目已经丢失了，所以叫“阙题”，“阙”就是“缺”。诗里写的是山中一座读书的地方，四周有白云、溪水、落花和柳树，十分清幽。一般认为写的是诗人或朋友隐居读书的住处，但写于何时何地，已经不清楚了。",
+  "en": "The poem's real title was lost, so it is called \"Title Lost\". It describes a place for reading in the mountains, surrounded by white clouds, a stream, fallen petals and willows, all quiet and lovely. It is usually thought to show where the poet or a friend lived quietly and read. When and where it was written is no longer known."
+ },
+ "author_note": {
+  "zh": "刘眘虚，“眘”是“慎”的古字。他是盛唐诗人，生卒年不详，江东人，开元年间考中进士。他和孟浩然、王昌龄等诗人是朋友。他的诗多写山水和隐居的生活，风格清幽，可惜流传下来的只有十几首。",
+  "en": "Liu Shenxu was a poet of the high Tang. We do not know when he was born or died. He came from east of the Yangtze and passed the imperial exam in the Kaiyuan years. He was a friend of poets such as Meng Haoran and Wang Changling. He mostly wrote about hills, rivers and the quiet life of a hermit, in a calm, clear style. Sadly, only about a dozen of his poems survive."
+ },
+ "appreciation": {
+  "zh": "读这首诗，就像跟着诗人一步步走进深山。先看见山路钻进白云里，再看见清溪长长地流，春天也像溪水一样没有尽头。落花从远处漂来，连流水都是香的。走着走着，看到一扇安静的门，柳林深处有一间读书屋。最后两句最妙：树荫太浓，大白天也幽暗，只有一点点光落在衣服上。全诗没有一个人说话，却让人觉得又静、又香、又凉快，好像自己也想去那里读书。",
+  "en": "Reading this poem is like following the poet step by step into the deep hills. First you see the path disappear into white clouds. Then you see a clear stream flowing on and on, and spring seems as endless as the stream. Petals drift in from far away, so even the water smells sweet. Walking on, you reach a quiet gate and a reading hall hidden among willows. The last two lines are the best. The shade is so thick that it is dim even by day, and only a little light falls on your clothes. No one speaks in the poem, yet it feels quiet, fragrant and cool. It makes you want to go there and read, too."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountains",
+   "hermit",
+   "reading",
+   "flowers",
+   "stream"
+  ]
+ },
+ "uncertain": []
+}

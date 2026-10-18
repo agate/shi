@@ -1,0 +1,841 @@
+{
+ "id": "ci-05a38ddecc88",
+ "kind": "ci",
+ "title": "女冠子·元夕",
+ "title_en": "Nü Guan Zi: Lantern Festival Night",
+ "author": "蒋捷",
+ "author_en": "Jiang Jie",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "蕙",
+    "huì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "画",
+    "huà"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "笙",
+    "shēng"
+   ],
+   [
+    "箫",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "琉",
+    "liú"
+   ],
+   [
+    "璃",
+    "lí"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "射",
+    "shè"
+   ]
+  ],
+  [
+   [
+    "而",
+    "ér"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "挂",
+    "guà"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "况",
+    "kuàng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "懒",
+    "lǎn"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "怯",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "耍",
+    "shuǎ"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "打",
+    "dǎ"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "解",
+    "jiě"
+   ]
+  ],
+  [
+   [
+    "再",
+    "zài"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "公",
+    "gōng"
+   ],
+   [
+    "借",
+    "jiè"
+   ]
+  ],
+  [
+   [
+    "剔",
+    "tī"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "灺",
+    "xiè"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ]
+  ],
+  [
+   [
+    "钿",
+    "diàn"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "帕",
+    "pà"
+   ]
+  ],
+  [
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "砑",
+    "yà"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "写",
+    "xiě"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "话",
+    "huà"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "鬟",
+    "huán"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "唱",
+    "chàng"
+   ]
+  ],
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "语料库“羞与蛾儿争耍”的“耍”作“要”，通行本作“耍”（玩耍），这里用通行本。语料库只有词牌名，通行本加了题目“元夕”。",
+  "en": "In line twelve the corpus has yào (want) where the usual text has shuǎ (play); this page follows the usual text. The corpus gives only the tune name; the usual text adds the title \"Lantern Festival Night\"."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "蕙花：一种香草，这里也指元宵节扎的花灯。一说“蕙花”就是蕙兰花。",
+   "en": "huì huā: a fragrant orchid. Here it may also mean the flower lanterns made for the festival."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "池馆：有水池的园林房屋。",
+   "en": "chí guǎn: houses and halls in a garden with a pond."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "宝钗楼：楼名，这里泛指热闹华丽的酒楼。",
+   "en": "bǎo chāi lóu: the name of a tower, here meaning any grand, busy wine house."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "笙箫：笙和箫，两种吹奏的乐器。",
+   "en": "shēng xiāo: two kinds of wind instruments, the reed pipe and the flute."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "琉璃：一种彩色透明的东西，这里指琉璃做的灯。",
+   "en": "liú lí: colored glass. Here it means lanterns made of it."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "漫挂：随随便便地挂着，没什么人看。",
+   "en": "màn guà: hung up carelessly, with few people to see them."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 6,
+   "zh": "暗尘明月：车马走过扬起尘土，明月照着人群。出自唐诗“暗尘随马去，明月逐人来”，写元宵夜的热闹。",
+   "en": "àn chén míng yuè: dust kicked up by horses and a bright moon following the crowds. It comes from a Tang poem about the busy Lantern Festival night."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "元夜：元宵节的夜晚，正月十五。",
+   "en": "yuán yè: the night of the Lantern Festival, the fifteenth of the first month."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 1,
+   "zh": "况：何况、更何况。",
+   "en": "kuàng: what is more."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "心懒意怯：心里懒洋洋的，提不起兴致，又有点害怕。",
+   "en": "xīn lǎn yì qiè: feeling listless, with no wish to go out, and a little timid."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "蛾儿：古代元宵节妇女头上戴的饰物，用彩纸或丝绸做成蛾子的样子。这里指戴着它的年轻人。",
+   "en": "é ér: a moth-shaped ornament women wore in their hair at the Lantern Festival. Here it means the young people wearing them."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 6,
+   "zh": "争耍：争着玩耍。",
+   "en": "zhēng shuǎ: to compete at having fun."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "江城：江边的城市。",
+   "en": "jiāng chéng: a city by a river."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 7,
+   "zh": "初更打：刚刚打了一更鼓，也就是天黑不久。古代晚上用打更报时。",
+   "en": "chū gēng dǎ: the first watch has just been struck, soon after dark. In old times the night hours were announced by beating a drum."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 5,
+   "zh": "谁解：谁能够、谁懂得。",
+   "en": "shuí jiě: who can, who knows how to."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "天公：老天爷。",
+   "en": "tiān gōng: Heaven, the old man in the sky."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 1,
+   "zh": "剔：挑，把灯芯挑亮。",
+   "en": "tī: to pick at the wick so the lamp burns brighter."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "红灺：灯芯烧剩下的部分。灺，蜡烛或灯芯的余烬。",
+   "en": "hóng xiè: the burnt end of a wick. Xiè is what is left after a candle or wick burns."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "隐隐：模模糊糊，看不太清楚。",
+   "en": "yǐn yǐn: faint and blurry."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "钿车：用金银珠宝装饰的车子。",
+   "en": "diàn chē: a carriage decorated with gold, silver and gems."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "罗帕：丝绸手帕。这里指当年游玩的女子。",
+   "en": "luó pà: a silk handkerchief. Here it stands for the ladies who went out that night."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "吴笺：吴地出产的好信纸。",
+   "en": "wú jiān: fine writing paper from the Wu region."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 5,
+   "zh": "银粉砑：用石头把撒了银粉的纸碾压得光滑发亮。砑，碾压、磨光。",
+   "en": "yín fěn yà: paper sprinkled with silver powder and pressed smooth and shiny with a stone. Yà means to press and polish."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 6,
+   "zh": "旧家风景：从前的景象，指宋朝还在时元宵节的样子。",
+   "en": "jiù jiā fēng jǐng: the scenes of the past, meaning the Lantern Festival back when the Song dynasty still stood."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "闲话：随便说说的故事。",
+   "en": "xián huà: stories told just for talk."
+  },
+  {
+   "line": 21,
+   "start": 1,
+   "end": 3,
+   "zh": "绿鬟：乌黑的发髻，指年轻女孩。",
+   "en": "lǜ huán: glossy black hair coiled up, meaning a young girl."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 4,
+   "zh": "夕阳西下：她唱的歌里的句子。一说是宋人范周一首元宵词的开头，写当年元宵的繁华。",
+   "en": "xī yáng xī xià: a line from the song she sings. One view is that it opens a Lantern Festival lyric by the Song writer Fan Zhou, about the splendor of those days."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "蕙花灯散发着香气，",
+   "en": "The orchid lanterns give off their scent;"
+  },
+  {
+   "zh": "雪后天晴，园林池馆美得像一幅画。",
+   "en": "the snow has cleared, and the garden halls are as lovely as a painting."
+  },
+  {
+   "zh": "春风吹来，",
+   "en": "The spring wind arrives,"
+  },
+  {
+   "zh": "宝钗楼上，",
+   "en": "and up in the grand wine tower"
+  },
+  {
+   "zh": "到处是笙箫的乐声，",
+   "en": "music of pipes and flutes is everywhere,"
+  },
+  {
+   "zh": "琉璃灯放射着光彩。",
+   "en": "and glass lanterns shine bright."
+  },
+  {
+   "zh": "如今，灯只是随便挂着。",
+   "en": "Now the lanterns just hang there, with no one looking."
+  },
+  {
+   "zh": "不再有车马扬尘、明月照人的热闹，",
+   "en": "There is no more dust under horses, no bright moon following crowds,"
+  },
+  {
+   "zh": "不再是那时的元宵夜了。",
+   "en": "it is not the Lantern Festival night of those days."
+  },
+  {
+   "zh": "更何况这些年来，",
+   "en": "What is more, in these years"
+  },
+  {
+   "zh": "我心里懒散又胆怯，",
+   "en": "my heart has grown listless and timid,"
+  },
+  {
+   "zh": "不好意思和戴着蛾儿的年轻人争着玩。",
+   "en": "and I am too shy to play alongside the young people with moth ornaments in their hair."
+  },
+  {
+   "zh": "江城里人声静了，刚刚打过一更。",
+   "en": "The river city has gone quiet; the first watch has just been struck."
+  },
+  {
+   "zh": "问一问，谁能",
+   "en": "I ask: who could"
+  },
+  {
+   "zh": "再向老天爷把那繁华借回来？",
+   "en": "borrow that splendor back from Heaven once more?"
+  },
+  {
+   "zh": "我挑着快烧尽的灯芯，",
+   "en": "I pick at the burnt-down wick,"
+  },
+  {
+   "zh": "只在梦里模模糊糊看见",
+   "en": "and only in dreams do I faintly see"
+  },
+  {
+   "zh": "华丽的车子和拿着丝帕的游人。",
+   "en": "the jeweled carriages and ladies with silk handkerchiefs."
+  },
+  {
+   "zh": "我拿出撒银粉、磨光滑的吴地信纸，",
+   "en": "I take out fine Wu paper, silvered and polished,"
+  },
+  {
+   "zh": "想把从前的景象",
+   "en": "meaning to take the scenes of the past"
+  },
+  {
+   "zh": "写成故事讲给人听。",
+   "en": "and write them down as stories to tell."
+  },
+  {
+   "zh": "可笑那梳着黑发髻的邻家女孩，",
+   "en": "How strange, the neighbor girl with her black hair coiled,"
+  },
+  {
+   "zh": "靠着窗户还在唱着",
+   "en": "leaning at the window, still singing"
+  },
+  {
+   "zh": "“夕阳西下”。",
+   "en": "\"The setting sun goes down in the west\"."
+  }
+ ],
+ "background": {
+  "zh": "这首词写元宵节。作者蒋捷生活在南宋末年，经历了宋朝灭亡。一般认为这首词是宋亡以后写的。元宵夜，他回想起从前城里灯火通明、人山人海的热闹，再看看眼前冷冷清清的样子，心里非常难过，于是写下了这首词。",
+  "en": "This lyric is about the Lantern Festival. The poet, Jiang Jie, lived at the very end of the Southern Song and saw the dynasty fall. It is usually thought to have been written after the fall. On the festival night, he remembered how the city used to blaze with lanterns and crowds. Looking at how cold and quiet it was now, he felt deep sorrow and wrote this lyric."
+ },
+ "author_note": {
+  "zh": "蒋捷，南宋末年的词人，宋朝末年考中进士。宋朝灭亡后，他不愿意给元朝做官，隐居在太湖边的竹山，人们叫他“竹山先生”。他的词常常写亡国之后的伤感，《虞美人·听雨》是他最有名的作品。",
+  "en": "Jiang Jie was a lyric writer at the end of the Southern Song. He passed the highest imperial exam in the dynasty's last years. After the Song fell, he refused to serve the new Yuan rulers and lived quietly at Zhushan by Lake Tai, so people called him Master Zhushan. His lyrics often grieve for the lost dynasty. His most famous work is \"Yu Mei Ren: Listening to the Rain\"."
+ },
+ "appreciation": {
+  "zh": "这首词像两张照片放在一起对比。第一张是从前：蕙花香，雪后天晴，楼上音乐响个不停，琉璃灯闪闪发光。第二张是现在：灯随便挂着，没人看，城里一更天就安静了。作者自己也老了，没有心思出去玩。他想把从前的样子写下来，留给后人。最后一个小画面特别打动人：邻家小女孩靠着窗户唱歌，唱的是当年的旧曲子，她却不知道歌里的繁华早已不在。“笑”字里，其实满是心酸。",
+  "en": "This lyric is like two photos placed side by side. The first is the past: the orchid lanterns smell sweet, the sky clears after snow, music plays on and on in the towers, and glass lanterns sparkle. The second is the present: the lanterns hang with no one to see them, and the city goes quiet right after dark. The poet himself has grown old and has no wish to go out. He wants to write down how things used to be, for later people. The last small scene is the most moving. A little neighbor girl leans at her window singing an old song from those days, without knowing that the splendor in it is long gone. The word \"laugh\" here is really full of heartache."
+ },
+ "famous_lines": [
+  21,
+  22,
+  23
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "lost-country",
+   "lanterns",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

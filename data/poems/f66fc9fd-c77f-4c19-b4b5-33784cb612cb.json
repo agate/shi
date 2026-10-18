@@ -1,0 +1,349 @@
+{
+ "id": "f66fc9fd-c77f-4c19-b4b5-33784cb612cb",
+ "kind": "shi",
+ "title": "观猎",
+ "title_en": "Watching a Hunt",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "劲",
+    "jìng"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "鸣",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "军",
+    "jūn"
+   ],
+   [
+    "猎",
+    "liè"
+   ],
+   [
+    "渭",
+    "wèi"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "枯",
+    "kū"
+   ],
+   [
+    "鹰",
+    "yīng"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "疾",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "蹄",
+    "tí"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "丰",
+    "fēng"
+   ],
+   [
+    "市",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "营",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "射",
+    "shè"
+   ],
+   [
+    "雕",
+    "diāo"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "平",
+    "píng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "劲",
+   "pinyin": "jìng",
+   "zh": "劲：这里读 jìng，意思是强劲、有力，不读 jìn。",
+   "en": "jìng: here it means strong and forceful, so it is read jìng, not jìn."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还：这里读 huán，意思是返回。",
+   "en": "huán: here it means to return, so it is read huán, not hái."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "风劲：风很大，很有力。",
+   "en": "fēng jìng: the wind is strong."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "角弓：用兽角装饰的硬弓。",
+   "en": "jiǎo gōng: a strong bow decorated with animal horn."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "鸣：响。这里指拉弓放箭时弓弦发出的声音。",
+   "en": "míng: to sound. Here it is the twang of the bowstring as arrows are shot."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "渭城：秦朝的都城咸阳，在长安西北，渭水边上。",
+   "en": "wèi chéng: Weicheng, the old Qin capital Xianyang, northwest of Chang'an by the Wei River."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "鹰眼疾：猎鹰的眼睛特别尖，一下就看到猎物。疾，快、敏锐。",
+   "en": "yīng yǎn jí: the hawk's eyes are sharp and spot prey at once. Jí means quick and keen."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "雪尽：雪化完了。",
+   "en": "xuě jìn: the snow has all melted."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "新丰市：新丰镇，在长安东边，今天陕西西安临潼一带，以产好酒出名。",
+   "en": "xīn fēng shì: the town of Xinfeng, east of Chang'an, near today's Lintong in Xi'an, famous for its wine."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "细柳营：细柳是地名，在长安西边。汉代名将周亚夫曾在这里驻军，军纪严明。这里借来称赞这位将军的军营。",
+   "en": "xì liǔ yíng: Xiliu was a place west of Chang'an. The Han general Zhou Yafu once camped his strict, well-run army there. The poet borrows the name to praise this general's camp."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "射雕处：射下大雕的地方。雕是一种很大很猛的鸟，飞得又高又快，能射中它说明箭术高明。",
+   "en": "shè diāo chù: the place where he shot down an eagle. The eagle is a large fierce bird that flies high and fast, so hitting one shows great skill."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "暮云平：傍晚的云和大地连成一片，平平展展。",
+   "en": "mù yún píng: the evening clouds lie flat and even, meeting the land."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "大风呼呼地刮，角弓的弦嗡嗡作响，",
+   "en": "The wind blows hard, and the horn bows twang."
+  },
+  {
+   "zh": "将军正在渭城郊外打猎。",
+   "en": "The general is out hunting near Weicheng."
+  },
+  {
+   "zh": "野草枯了，猎鹰的眼睛显得格外锐利；",
+   "en": "The grass is dry, and the hawk's eyes are sharper than ever."
+  },
+  {
+   "zh": "积雪化尽，马跑起来蹄子格外轻快。",
+   "en": "The snow is gone, and the horses' hooves fly light."
+  },
+  {
+   "zh": "一转眼，就跑过了新丰镇，",
+   "en": "In a flash they gallop past the town of Xinfeng,"
+  },
+  {
+   "zh": "又回到了细柳营。",
+   "en": "and ride back to the camp at Xiliu."
+  },
+  {
+   "zh": "回头望刚才射雕的地方，",
+   "en": "Looking back at the spot where the eagle was shot,"
+  },
+  {
+   "zh": "只见千里原野上，傍晚的云平平地铺开。",
+   "en": "he sees evening clouds lying flat across a thousand miles."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写一位将军在长安附近打猎的情景。季节大约是冬末初春，草已经枯了，雪也刚化完。诗里的渭城、新丰、细柳都在长安周围。一般认为这是王维早年的作品，但具体写于哪一年、写的是哪位将军，说法不一，已经无法确定。这首诗是唐代五言律诗里写打猎最有名的一首。",
+  "en": "This poem shows a general hunting near Chang'an. The season seems to be late winter or early spring: the grass is dry and the snow has just melted. Weicheng, Xinfeng and Xiliu were all places around Chang'an. It is usually thought to be an early work of Wang Wei, but the year and the general's name are not known for sure. It is the most famous Tang five-character regulated poem about hunting."
+ },
+ "author_note": {
+  "zh": "王维（约701—761），唐代大诗人、画家，又精通音乐，人们称他“诗佛”。他最有名的是安静优美的山水田园诗。宋代苏轼说他“诗中有画”。这首《观猎》却写得豪迈有力，说明他年轻时也有一股英雄气，诗风不只一种。",
+  "en": "Wang Wei (about 701 to 761) was a great Tang poet and painter, and also skilled in music. People call him the Buddha of Poetry. He is best known for calm, beautiful poems about hills, rivers and farms. The Song writer Su Shi said his poems held pictures. But this poem is bold and strong, showing that as a young man he also had a heroic spirit."
+ },
+ "appreciation": {
+  "zh": "这首诗像一段快节奏的打猎电影。第一句先让你听到声音：风声和弓弦声，人还没出场，气势已经出来了。第二句将军才登场。第三、四句写得特别妙：草枯了，兔子狐狸藏不住，所以鹰眼显得更尖；雪化了，地面干爽，马跑得更轻快。接着“忽过”“还归”，一眨眼跑过新丰，又回到军营，速度快得惊人。最后镜头慢下来：将军回头一看，刚才射雕的地方，只剩千里平展的暮云。前面越快越热闹，结尾越安静越开阔，让人回味将军的英武和潇洒。",
+  "en": "This poem is like a fast hunting film. The first line lets you hear it before you see it: the wind and the twang of bows. The general has not appeared yet, but the power is already there. He enters in the second line. Lines three and four are clever. The grass is dry, so rabbits and foxes cannot hide, and the hawk's eyes seem sharper. The snow has melted, the ground is firm, and the horses run lighter. Then, in a blink, they race past Xinfeng and back to camp, amazingly fast. At the end the camera slows down. The general looks back at where he shot the eagle and sees only evening clouds spread flat for a thousand miles. The faster and busier the start, the quieter and wider the ending, leaving you to admire the general's skill and ease."
+ },
+ "famous_lines": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "hunting",
+   "hero",
+   "general",
+   "wind"
+  ]
+ },
+ "uncertain": []
+}

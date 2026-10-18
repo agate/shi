@@ -1,0 +1,451 @@
+{
+ "id": "ci-f13a5b19cfe7",
+ "kind": "ci",
+ "title": "木兰花·秋千院落重帘暮",
+ "title_en": "Magnolia Blossoms: Dusk Behind Layered Curtains in the Swing Courtyard",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "笔",
+    "bǐ"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "题",
+    "tí"
+   ],
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "丹",
+    "dān"
+   ],
+   [
+    "杏",
+    "xìng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "絮",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "襄",
+    "xiāng"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "骝",
+    "liú"
+   ],
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "踪",
+    "zōng"
+   ]
+  ],
+  [
+   [
+    "嘶",
+    "sī"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料作“雨馀花”，“馀”是“余”的另一种写法，这里按通行写法作“雨余花”。",
+  "en": "The corpus writes \"after the rain\" with a variant form of the character yú; here the usual form is used."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重帘：一层又一层的帘子，“重”读 chóng。",
+   "en": "In chóng lián, layer upon layer of curtains, it is read chóng."
+  },
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝云：早晨的云，读 zhāo。",
+   "en": "In zhāo yún, morning clouds, it is read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "院落：院子。",
+   "en": "yuàn luò: a courtyard."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "重帘：一层又一层的帘子。",
+   "en": "chóng lián: layer upon layer of curtains."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "彩笔：精美的笔，也指写诗作文的才华。",
+   "en": "cǎi bǐ: a fine brush; it also means a talent for writing poems."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "闲来：闲着没事的时候。",
+   "en": "xián lái: in idle moments."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "题绣户：在她华美的门窗上题写诗句。绣户，雕花彩饰的门，指女子的住处。",
+   "en": "tí xiù hù: writing lines of poetry on her lovely door. A xiù hù is a carved, painted door, meaning the place where a young woman lives."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "丹杏：红色的杏花。",
+   "en": "dān xìng: red apricot blossoms."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "雨余花：雨后剩下来的花。",
+   "en": "yǔ yú huā: the flowers left after the rain."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "风后絮：风吹过后飘飞的柳絮。",
+   "en": "fēng hòu xù: willow fluff drifting after the wind."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "朝云：早晨的云。传说巫山神女“早上是云，晚上是雨”，这里指他爱过的那位女子。",
+   "en": "zhāo yún: morning clouds. Legend says the goddess of Mount Wu was cloud in the morning and rain at night; here it means the woman he once loved."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "信断：音信断了，没有消息。",
+   "en": "xìn duàn: no more letters or news."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "襄王春梦：传说楚襄王梦见巫山神女，醒来她就不见了。这里比喻那段感情像一场梦，已经过去了。",
+   "en": "xiāng wáng chūn mèng: legend says King Xiang of Chu dreamed of the goddess of Mount Wu, and when he woke she was gone. Here it means that love was like a dream, now over."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "紫骝：一种毛色紫红的好马。",
+   "en": "zǐ liú: a fine horse with a reddish-purple coat."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "旧游踪：以前常去那里留下的踪迹。",
+   "en": "jiù yóu zōng: the tracks of old visits."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "嘶：马叫。",
+   "en": "sī: a horse's neigh."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "画桥：雕饰得很漂亮的桥。",
+   "en": "huà qiáo: a beautifully decorated bridge."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "挂着秋千的院子里，一层层帘子垂下，天色已晚。",
+   "en": "In the courtyard with the swing, layer upon layer of curtains hang down as dusk falls."
+  },
+  {
+   "zh": "当年我闲来无事，就提着彩笔在她门上题诗。",
+   "en": "Back then, in idle moments, I would write poems on her lovely door."
+  },
+  {
+   "zh": "墙头的红杏，经过一场雨只剩下零落的花，",
+   "en": "On top of the wall, the red apricot has only a few blossoms left after the rain,"
+  },
+  {
+   "zh": "门外的绿柳，被风吹得柳絮乱飞。",
+   "en": "and outside the gate the green willow scatters fluff in the wind."
+  },
+  {
+   "zh": "像朝云一样的她，断了音信，不知去了哪里，",
+   "en": "She, like the morning clouds, has sent no word, and I don't know where she is."
+  },
+  {
+   "zh": "大概就像楚襄王的春梦一样，一去不回了。",
+   "en": "It must have gone like King Xiang's spring dream, never to return."
+  },
+  {
+   "zh": "我的紫骝马还认得从前常走的路，",
+   "en": "My red-brown horse still knows the old way,"
+  },
+  {
+   "zh": "嘶叫着走过画桥东边的那条路。",
+   "en": "and neighs as it crosses the road east of the painted bridge."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的时间不清楚。从词意看，是晏几道重新经过从前和一位女子相会的地方，想起当年在她门上题诗的日子，如今人已不知去向，只有马还认得旧路。晏几道写过很多回忆旧日恋情的词，这是其中的一首。",
+  "en": "We do not know when this lyric was written. From its words, Yan Jidao passes again by the place where he used to meet a woman. He remembers writing poems on her door. Now no one knows where she has gone, and only his horse still knows the old road. Yan Jidao wrote many lyrics remembering past loves, and this is one of them."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是宰相晏殊的小儿子，北宋词人。他出身富贵，后来家道中落，一生只做过小官。他性格清高，不肯巴结权贵，词多写离别、相思和对旧日欢乐的怀念，感情真挚深切，人们把他和父亲并称“二晏”。",
+  "en": "Yan Jidao (about 1038 – about 1110), also called Xiaoshan, was a younger son of the chief minister Yan Shu, and a Northern Song lyric poet. He was born rich, but the family later declined, and he held only small posts. He was proud and would not flatter the powerful. His lyrics are mostly about parting, longing and missing past happy days, with deep, sincere feeling. He and his father are called the Two Yans."
+ },
+ "appreciation": {
+  "zh": "上片从眼前写到过去。黄昏时，秋千还在，帘子还垂着，可那个人不在了。他想起当年提笔在她门上题诗的快乐。墙头的杏花被雨打落，门外的柳絮被风吹散，就像那段感情一样，零零落落。下片直说思念：她像朝云一样没了消息，一切成了一场春梦。最后两句最动人：人忘不了，马也忘不了，它认得旧路，嘶叫着走过画桥。词人不说自己多难过，只写马，可读的人一下子就明白了。",
+  "en": "The first half moves from now to the past. At dusk the swing is still there and the curtains still hang, but she is gone. He remembers the joy of writing poems on her door. The apricot blossoms on the wall are knocked down by rain, and the willow fluff outside is scattered by wind, just like that love, broken and scattered. The second half speaks of longing plainly. She has vanished like morning clouds, and everything has become a spring dream. The last two lines are the most moving. He cannot forget, and neither can his horse: it knows the old road and neighs as it crosses the painted bridge. The poet does not say how sad he is; he writes only about the horse, and the reader understands at once."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "love",
+   "horse",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,460 @@
+{
+ "id": "11b013f9-aa6a-4e55-8e68-195dc62f161f",
+ "kind": "shi",
+ "title": "感遇十二首·其七",
+ "title_en": "Stirred by What I Meet, No. 7 of 12",
+ "author": "张九龄",
+ "author_en": "Zhang Jiuling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "丹",
+    "dān"
+   ],
+   [
+    "橘",
+    "jú"
+   ]
+  ],
+  [
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "冬",
+    "dōng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "伊",
+    "yī"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "以",
+    "yǐ"
+   ],
+   [
+    "荐",
+    "jiàn"
+   ],
+   [
+    "嘉",
+    "jiā"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "奈",
+    "nài"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "阻",
+    "zǔ"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "运",
+    "yùn"
+   ],
+   [
+    "命",
+    "mìng"
+   ],
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "所",
+    "suǒ"
+   ],
+   [
+    "遇",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "循",
+    "xún"
+   ],
+   [
+    "环",
+    "huán"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "寻",
+    "xún"
+   ]
+  ],
+  [
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "李",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "阴",
+    "yīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本第七句作“运命惟所遇”，用“惟”字；这里的古籍文本作“唯”。两个字在这里意思一样，都是“只、只是”。",
+  "en": "In line seven, the commonly taught text and the old corpus write the word wei (only) with two different characters. They sound the same and mean the same thing here: \"only\"."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "绿",
+   "pinyin": "lǜ",
+   "zh": "读 lǜ，绿色的意思。",
+   "en": "Read lǜ, meaning green."
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "读 chóng，是“一层又一层”的意思，不读 zhòng。",
+   "en": "Read chóng, meaning \"layer upon layer\", not zhòng (heavy)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "丹橘：红色的橘子。丹，红色。",
+   "en": "dān jú: red tangerines. Dān means red."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "经冬：经过整个冬天。",
+   "en": "jīng dōng: through the whole winter."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "犹：仍然、还是。",
+   "en": "yóu: still."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "绿林：绿色的树林。这里说橘树到了冬天叶子还是绿的。",
+   "en": "lǜ lín: a green grove. The tangerine trees stay green even in winter."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "岂伊：难道是因为。岂，难道；伊，语气词，没有实际意思。",
+   "en": "qǐ yī: could it be because. Qǐ means \"could it be\"; yī is a filler word with no real meaning."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "地气暖：当地的天气暖和。",
+   "en": "dì qì nuǎn: the local climate is warm."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "岁寒心：不怕寒冷的品格。岁寒，一年里最冷的时候。孔子说过：天冷了，才知道松柏是最后凋谢的。",
+   "en": "suì hán xīn: a heart that does not fear the cold. Suì hán means the coldest time of the year. Confucius said that only when the year turns cold do we see that pines and cypresses are the last to wither."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "荐：献上、送给。",
+   "en": "jiàn: to offer, to present."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "嘉客：尊贵的客人。",
+   "en": "jiā kè: an honored guest."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "奈何：无奈、可是怎么办呢。",
+   "en": "nài hé: but what can be done; alas."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "阻重深：被一重重的山水阻隔，路又远又深。",
+   "en": "zǔ chóng shēn: blocked by layer after layer of mountains and rivers."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "运命：命运、运气。",
+   "en": "yùn mìng: fate, luck."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "惟所遇：只看各自碰上什么样的机会。",
+   "en": "wéi suǒ yù: depends only on what chance each one meets."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 5,
+   "zh": "循环不可寻：命运像转圈一样变来变去，没法弄清楚其中的道理。",
+   "en": "xún huán bù kě xún: fate turns round and round, and no one can find the reason in it."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "徒言：只是说、白白地说。",
+   "en": "tú yán: people only talk about."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 3,
+   "zh": "树：种植、栽培。这里是动词。",
+   "en": "shù: to plant. Here it is a verb."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "桃李：桃树和李树。它们开花好看，结的果子也常见，人们都喜欢种。",
+   "en": "táo lǐ: peach and plum trees. Their flowers are pretty and everyone likes to plant them."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 5,
+   "zh": "阴：树荫，树下遮挡阳光的地方。",
+   "en": "yīn: shade, the cool place under a tree."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "江南长着红红的橘子树，",
+   "en": "In the south of the Yangtze grow trees of red tangerines,"
+  },
+  {
+   "zh": "过了整个冬天，树林依然是绿的。",
+   "en": "and all through the winter the grove stays green."
+  },
+  {
+   "zh": "难道只是因为那里的天气暖和吗？",
+   "en": "Is it only because the land there is warm?"
+  },
+  {
+   "zh": "不，是因为它们本来就有不怕严寒的品格。",
+   "en": "No, it is because they have a heart that does not fear the cold."
+  },
+  {
+   "zh": "这样好的橘子，本可以献给尊贵的客人，",
+   "en": "Such fruit could be offered to honored guests,"
+  },
+  {
+   "zh": "可是怎么办呢，一重重山水把它挡在了远方。",
+   "en": "but alas, layer upon layer of mountains and rivers stand in the way."
+  },
+  {
+   "zh": "一个人的命运，只看他碰上什么样的机会，",
+   "en": "Fate depends only on the chances one happens to meet,"
+  },
+  {
+   "zh": "命运变来变去，其中的道理没法找到。",
+   "en": "and its turns go round and round with no reason to be found."
+  },
+  {
+   "zh": "人们只知道说要种桃树和李树，",
+   "en": "People only talk of planting peach and plum trees,"
+  },
+  {
+   "zh": "难道这橘树就不能给人一片树荫吗？",
+   "en": "but does this tree not give shade as well?"
+  }
+ ],
+ "background": {
+  "zh": "张九龄是唐玄宗开元年间有名的宰相，为人正直，敢说真话。后来他受到奸臣李林甫的排挤，在开元二十四年（736年）被罢去宰相的职位，第二年又被贬到荆州（今湖北荆州）做官。《感遇》十二首一般认为就是他在荆州时写的。他借写江南的橘树，说出自己虽被冷落、却不改变品格的心情。",
+  "en": "Zhang Jiuling was a famous chief minister under Emperor Xuanzong. He was honest and dared to speak the truth. Later he was pushed aside by the scheming minister Li Linfu. In 736 he lost his post as chief minister, and the next year he was sent away to serve in Jingzhou, in today's Hubei. The twelve poems called \"Stirred by What I Meet\" are usually thought to have been written there. Through the tangerine trees of the south, he tells how he keeps his good character even when he is pushed aside."
+ },
+ "author_note": {
+  "zh": "张九龄（678—740），字子寿，韶州曲江（今广东韶关）人，是唐代开元年间的名相，也是很有名的诗人。他的诗清淡、真诚，常用花草树木来比喻自己的品格。名句“海上生明月，天涯共此时”也是他写的。",
+  "en": "Zhang Jiuling (678–740) came from Qujiang in Shaozhou, today's Shaoguan in Guangdong. He was a famous chief minister of the Kaiyuan years and also a well-known poet. His poems are plain and sincere. He often used flowers and trees to stand for his own character. He also wrote the famous lines about the bright moon rising over the sea, shared by friends far apart."
+ },
+ "appreciation": {
+  "zh": "这首诗表面写橘树，其实写人。先想象一下：冬天到了，别的树都掉光了叶子，江南的橘树却还是绿油油的，枝头挂着红红的果子。诗人说，这不只是因为天气暖和，而是橘树自己有“岁寒心”，就像一个人不管环境多难都不变心。好橘子本该送给贵客，却被重重山水挡住，这就像有才能的人没有机会被重用。诗人没有大声抱怨，只说命运难以捉摸。最后一句轻轻反问：大家都夸桃李，难道橘树就不能给人一片树荫吗？语气平和，心里却有不平。",
+  "en": "On the surface this poem is about a tangerine tree, but really it is about a person. Picture it: winter has come, and other trees have lost their leaves. But the tangerine trees of the south are still bright green, with red fruit on the branches. The poet says this is not only because the weather is warm. The trees have a heart that does not fear the cold, like a person who stays true however hard life gets. Such good fruit should go to honored guests, but mountains and rivers block the way. This is like a talented person who never gets the chance to serve. The poet does not complain loudly. He only says that fate is hard to understand. The last line asks gently: everyone praises peach and plum trees, but does this tree not give shade too? The tone is calm, but there is hurt underneath."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "tree",
+   "integrity",
+   "fate",
+   "talent"
+  ]
+ },
+ "uncertain": []
+}

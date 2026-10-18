@@ -1,0 +1,290 @@
+{
+ "id": "92dd65da-8301-4c83-b8f3-986b6095c481",
+ "kind": "shi",
+ "title": "征怨",
+ "title_en": "A Soldier's Lament",
+ "author": "柳中庸",
+ "author_en": "Liu Zhongyong",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "策",
+    "cè"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "刀",
+    "dāo"
+   ],
+   [
+    "环",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "冢",
+    "zhǒng"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "黑",
+    "hēi"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "第四句底本作“遶”，是“绕”的异体字，这里写作通行的“绕”。",
+  "en": "In line four the source text uses an old variant form of rào (to wind around); the common form is used here."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝朝”是每天早晨、天天的意思，读 zhāo zhāo，不读 cháo。",
+   "en": "Zhāo zhāo means every morning, every day, so it is read zhāo, not cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "岁岁：年年，一年又一年。",
+   "en": "suì suì: year after year."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "金河：一条河的名字，在今天内蒙古呼和浩特一带。",
+   "en": "jīn hé: the Jin River, near today's Hohhot in Inner Mongolia."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "复：又，再。",
+   "en": "fù: again, and then."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "玉关：玉门关，在今天甘肃敦煌西北，是古代通往西域的关口。",
+   "en": "yù guān: Yumen Pass, northwest of today's Dunhuang in Gansu, an old gateway to the western lands."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "朝朝：天天，每一个早晨。",
+   "en": "zhāo zhāo: every morning, day after day."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "马策：马鞭。",
+   "en": "mǎ cè: a horse whip."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "刀环：刀柄上的铁环，这里指刀。",
+   "en": "dāo huán: the ring on a sword's handle; here it stands for the sword."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "三春：春天的三个月。",
+   "en": "sān chūn: the three months of spring."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "归：落到，飘落在。",
+   "en": "guī: to fall upon, to settle on."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "青冢：汉代王昭君的墓，在今天呼和浩特南边。传说那里四周草都枯黄了，只有墓上的草是青的，所以叫青冢。",
+   "en": "qīng zhǒng: the Green Tomb, the grave of Wang Zhaojun of the Han, south of today's Hohhot. Legend says the grass around it turned yellow, but the grass on the tomb stayed green."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "绕：环绕，弯弯曲曲地流过。",
+   "en": "rào: to wind around."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "黑山：一座山的名字，在今天呼和浩特东南。",
+   "en": "hēi shān: Black Mountain, southeast of today's Hohhot."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "年年都在金河和玉门关之间来回守边，",
+   "en": "Year after year, we move between the Jin River and Yumen Pass,"
+  },
+  {
+   "zh": "天天手里离不开马鞭和战刀。",
+   "en": "and every day our hands hold only horse whips and swords."
+  },
+  {
+   "zh": "到了春天，白雪还落在昭君的青冢上，",
+   "en": "Even in spring, white snow still falls on the Green Tomb,"
+  },
+  {
+   "zh": "万里黄河弯弯曲曲，绕着黑山流去。",
+   "en": "and the Yellow River winds ten thousand li around Black Mountain."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写守边士兵的怨恨和痛苦。唐朝在北方和西北边境驻扎着很多军队，士兵常常一守就是很多年，回不了家。诗里的金河、青冢、黑山都在今天内蒙古呼和浩特一带，玉门关在甘肃，说明士兵东奔西走，转战很远。这首诗具体写于什么时候，已经不清楚。",
+  "en": "This poem is about the bitterness and pain of soldiers guarding the frontier. The Tang kept many troops on its northern and northwestern borders, and soldiers often served there for years without going home. The Jin River, the Green Tomb and Black Mountain are all near today's Hohhot in Inner Mongolia, while Yumen Pass is in Gansu. This shows the soldiers moving from place to place over great distances. We do not know when the poem was written."
+ },
+ "author_note": {
+  "zh": "柳中庸，唐代诗人，名淡，字中庸，大约生活在八世纪后期。他的生平留下的记载很少，流传下来的诗也只有十几首。这首《征怨》被选进《唐诗三百首》，是他最有名的作品。",
+  "en": "Liu Zhongyong was a Tang poet; his given name was Dan and Zhongyong was his courtesy name. He lived roughly in the late eighth century. Very little is recorded about his life, and only a dozen or so of his poems survive. \"A Soldier's Lament\" was chosen for Three Hundred Tang Poems and is his best-known work."
+ },
+ "appreciation": {
+  "zh": "题目叫“征怨”，可是全诗没有一个“怨”字。前两句写时间：“岁岁”“朝朝”，一年又一年，一天又一天，士兵总在奔波，手里总是马鞭和刀。这样一重复，就让人感到日子漫长又单调。后两句写景：春天本该花开草绿，这里却还在下雪，雪落在孤零零的昭君墓上；黄河弯弯曲曲，绕着黑山流过万里。这些景物又冷又大又荒凉，士兵的苦和想家的心，就藏在这些景物里。四句都是对仗，读起来很整齐，像一句一句敲在心上。",
+  "en": "The title says \"lament\", but the word never appears in the poem. The first two lines are about time: year after year, morning after morning, the soldiers are always on the move, always holding whips and swords. The repeated words make the days feel long and dull. The last two lines show the land. Spring should bring flowers and green grass, but here it is still snowing, and the snow falls on Wang Zhaojun's lonely tomb. The Yellow River winds ten thousand li around Black Mountain. These sights are cold, huge and empty, and the soldiers' pain and homesickness are hidden inside them. All four lines are matched pairs, so the poem sounds even and steady, like blows landing one by one on the heart."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "soldier",
+   "homesick"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "background",
+   "zh": "金河、黑山的具体位置，各家注释说法不完全一样，这里采用常见说法。",
+   "en": "Notes do not fully agree on exactly where the Jin River and Black Mountain were; the common view is given here."
+  }
+ ]
+}

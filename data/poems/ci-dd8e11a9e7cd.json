@@ -1,0 +1,788 @@
+{
+ "id": "ci-dd8e11a9e7cd",
+ "kind": "ci",
+ "title": "宴清都·连理海棠",
+ "title_en": "Yan Qing Du: The Twin-Linked Crabapple Trees",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《宴清都》，双调",
+  "en": "ci to the tune Yan Qing Du, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "幄",
+    "wò"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "鸯",
+    "yāng"
+   ],
+   [
+    "柱",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "密",
+    "mì"
+   ]
+  ],
+  [
+   [
+    "腻",
+    "nì"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "护",
+    "hù"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "根",
+    "gēn"
+   ],
+   [
+    "兼",
+    "jiān"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "梢",
+    "shāo"
+   ],
+   [
+    "钿",
+    "diàn"
+   ],
+   [
+    "合",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "妒",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "足",
+    "zú"
+   ],
+   [
+    "交",
+    "jiāo"
+   ],
+   [
+    "枝",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "股",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "障",
+    "zhàng"
+   ],
+   [
+    "滟",
+    "yàn"
+   ],
+   [
+    "蜡",
+    "là"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "丛",
+    "cóng"
+   ]
+  ],
+  [
+   [
+    "嫠",
+    "lí"
+   ],
+   [
+    "蟾",
+    "chán"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "感",
+    "gǎn"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "单",
+    "dān"
+   ]
+  ],
+  [
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "惯",
+    "guàn"
+   ],
+   [
+    "浴",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "盎",
+    "àng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "鬟",
+    "huán"
+   ],
+   [
+    "并",
+    "bìng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "恩",
+    "ēn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "叙",
+    "xù"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "负",
+    "fù"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "盟",
+    "méng"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "第八句通行本作“正梦枕、瑶钗燕股”，这里依通行本。古籍库原文作“正梦花”。",
+  "en": "In the eighth line, the common edition reads \"meng zhen\" (dreaming on the pillow). We follow it here. The corpus text has \"meng hua\" (dreaming of flowers) instead."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "钿",
+   "pinyin": "diàn",
+   "zh": "“钿合”是镶着金花的首饰盒，“钿”读 diàn。",
+   "en": "In diàn hé, a jewel box inlaid with gold, this character is read diàn."
+  },
+  {
+   "line": 16,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为歌”是替他们唱，“为”读 wèi。",
+   "en": "In wèi gē, to sing for them, this character is read wèi."
+  },
+  {
+   "line": 19,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝”在这里是早晨，读 zhāo。",
+   "en": "Here this character means morning and is read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "绣幄：绣花的帐幕，这里比喻浓密的花荫。",
+   "en": "xiù wò: an embroidered tent; here the thick shade of the blossoms."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "鸳鸯柱：像一对鸳鸯一样挨在一起的树干。鸳鸯是总成双成对的水鸟。",
+   "en": "yuān yāng zhù: trunks standing together like a pair of mandarin ducks. Mandarin ducks are water birds always seen in pairs."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "红情：红花的情意，指红花开得浓。",
+   "en": "hóng qíng: the feeling of the red flowers; the red blossoms are rich."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "腻云：柔润的云，比喻浓密的绿叶。",
+   "en": "nì yún: soft, glossy clouds; the thick green leaves."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "秦树：指这两棵海棠。一说海棠以秦地（今陕西一带）的最有名，所以这样叫。",
+   "en": "qín shù: the two crabapple trees. Some say they are called this because crabapples from the Qin region, around today's Shaanxi, were the most famous."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "芳根兼倚：两棵树的根互相依靠。",
+   "en": "fāng gēn jiān yǐ: the roots of the two trees lean on each other."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "钿合：镶金的首饰盒，分上下两半，能合在一起。传说唐玄宗曾送给杨贵妃金钗和钿合。",
+   "en": "diàn hé: a gold-inlaid jewel box in two halves that close together. Legend says Emperor Xuanzong gave Yang Guifei a gold hairpin and such a box."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "锦屏人妒：连屏风后面的美人都嫉妒它们。",
+   "en": "jǐn píng rén dù: even the beauty behind the brocade screen is jealous of them."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "睡足：睡够了。传说唐玄宗说杨贵妃醉后像“海棠睡未足”。",
+   "en": "shuì zú: has slept enough. Legend says Emperor Xuanzong called the tipsy Yang Guifei a crabapple that had not slept enough."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "交枝：枝条互相交缠。",
+   "en": "jiāo zhī: branches twined together."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "瑶钗燕股：玉钗的两股像燕子的尾巴，比喻两枝相连。",
+   "en": "yáo chāi yàn gǔ: a jade hairpin with two prongs like a swallow's tail; a picture of the two joined branches."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "障滟蜡：挡住风，护着明亮的蜡烛。滟，光闪闪的样子。",
+   "en": "zhàng yàn là: shield the bright candles from the wind. Yàn means shimmering."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "欢丛：开得热闹欢喜的花丛。",
+   "en": "huān cóng: the cheerful mass of flowers."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "嫠蟾：孤单的月亮。嫠，寡妇；蟾，传说月中有蟾蜍，代指月亮。",
+   "en": "lí chán: the lonely moon. Lí means a widow; chán, the toad said to live in the moon, stands for the moon."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "羞度：不好意思从这里经过。",
+   "en": "xiū dù: too shy to pass by."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "幽单：孤独冷清。",
+   "en": "yōu dān: lonely and cold."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "华清惯浴：常在华清池洗浴。华清池是唐代皇家温泉，《长恨歌》写杨贵妃“春寒赐浴华清池”。",
+   "en": "huá qīng guàn yù: often bathing at Huaqing. Huaqing was the Tang royal hot spring, where the Song of Everlasting Regret says Yang Guifei bathed."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "春盎：春意很浓。盎，满。",
+   "en": "chūn àng: full of spring. Àng means brimming."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "连鬟并暖：两人的发髻挨在一起，相依取暖。",
+   "en": "lián huán bìng nuǎn: two heads of hair side by side, warm together."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "同心：同心结，用丝带打的结，表示相爱。",
+   "en": "tóng xīn: a love knot tied from silk ribbon, a sign of love."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "承恩：受到皇帝的宠爱。",
+   "en": "chéng ēn: receiving the emperor's love and favour."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 6,
+   "zh": "长恨：指白居易的《长恨歌》，写唐玄宗和杨贵妃的爱情悲剧。",
+   "en": "cháng hèn: the Song of Everlasting Regret by Bai Juyi, about the sad love of Xuanzong and Yang Guifei."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 7,
+   "zh": "暗殿锁秋灯夜语：幽暗的宫殿里，秋夜灯下的悄悄话。《长恨歌》写他们七月七日在长生殿夜半私语。",
+   "en": "àn diàn suǒ qiū dēng yè yǔ: whispers by lamplight on an autumn night in a dark palace hall. The Song of Everlasting Regret tells of their midnight whispers in the Hall of Long Life."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 3,
+   "zh": "叙旧期：说起过去的约定。",
+   "en": "xù jiù qī: speaking of their old promise."
+  },
+  {
+   "line": 18,
+   "start": 5,
+   "end": 7,
+   "zh": "春盟：春天里许下的誓言。",
+   "en": "chūn méng: a vow made in spring."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "红朝翠暮：早上看红花，晚上看绿叶，指朝朝暮暮永远相伴。",
+   "en": "hóng zhāo cuì mù: red flowers by morning, green leaves by evening; together every morning and evening, for ever."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "花荫像绣花的帐幕，两棵树干像一对鸳鸯靠在一起。",
+   "en": "The shade is like an embroidered tent; the trunks stand together like mandarin ducks."
+  },
+  {
+   "zh": "红花的情意多么浓密，",
+   "en": "How thick the red blossoms are,"
+  },
+  {
+   "zh": "像云一样柔润的绿叶低低护着这两棵海棠。",
+   "en": "and soft cloud-like leaves bend low to shelter the two trees."
+  },
+  {
+   "zh": "它们的根互相依靠，",
+   "en": "Their fragrant roots lean on each other."
+  },
+  {
+   "zh": "树梢连在一起，像合起来的首饰盒，",
+   "en": "Their treetops meet like the two halves of a jewel box,"
+  },
+  {
+   "zh": "连锦屏后的美人都嫉妒。",
+   "en": "so the beauty behind the brocade screen is jealous."
+  },
+  {
+   "zh": "东风里花枝交缠，像睡足了一样，",
+   "en": "In the east wind the twined branches seem to have slept their fill,"
+  },
+  {
+   "zh": "正像枕上梦里，玉钗的两股相连。",
+   "en": "like the two prongs of a jade hairpin joined in a dream on the pillow."
+  },
+  {
+   "zh": "人们护着明亮的蜡烛，把热闹的花丛照得通亮，",
+   "en": "Candles, shielded from the wind, shine full on the joyful flowers,"
+  },
+  {
+   "zh": "孤单的月亮冷冷清清，不好意思从旁边经过。",
+   "en": "and the lonely moon, cold and forlorn, is too shy to pass by."
+  },
+  {
+   "zh": "人世间有太多孤独冷清的感受，",
+   "en": "The world is full of loneliness,"
+  },
+  {
+   "zh": "可它们像当年常在华清池洗浴的贵妃，",
+   "en": "but these flowers are like the royal lady who often bathed at Huaqing,"
+  },
+  {
+   "zh": "满是春意，沐着风和露水。",
+   "en": "brimming with spring, bathed in wind and dew."
+  },
+  {
+   "zh": "发髻相连，相依取暖，",
+   "en": "Hair beside hair, they keep each other warm,"
+  },
+  {
+   "zh": "一起打着同心结，",
+   "en": "tying one love knot together,"
+  },
+  {
+   "zh": "正是受宠爱的时候。",
+   "en": "in the days of being loved."
+  },
+  {
+   "zh": "如今靠谁来为她们唱那曲《长恨歌》？",
+   "en": "Who now will sing the Song of Everlasting Regret for them?"
+  },
+  {
+   "zh": "幽暗的宫殿里，锁着秋夜灯下的悄悄话。",
+   "en": "A dark hall locks away their whispers by an autumn lamp."
+  },
+  {
+   "zh": "说起旧日的约定，不辜负春天的誓言，",
+   "en": "Recalling their old promise, they keep their spring vow:"
+  },
+  {
+   "zh": "早上红花相伴，晚上绿叶相随，永远在一起。",
+   "en": "red flowers at dawn, green leaves at dusk, together always."
+  }
+ ],
+ "background": {
+  "zh": "“连理”是说两棵树的枝干长到了一起，古人拿它比喻相爱的夫妻。这首词写的是两棵连在一起的海棠花。词里用了很多唐玄宗和杨贵妃的故事：传说唐玄宗曾把醉后没睡醒的杨贵妃比作海棠，白居易的《长恨歌》也写了他们的爱情。这首词写于何时何地，已经说不清。一说词里也藏着作者对自己旧日恋人的怀念。",
+  "en": "Two trees are called lianli when their branches grow together. People of old used them as a picture of a loving couple. This ci is about two crabapple trees joined in this way. It draws on many stories of Emperor Xuanzong of Tang and his beloved Yang Guifei. Legend says the emperor once compared the sleepy Yang Guifei to a crabapple flower, and Bai Juyi's \"Song of Everlasting Regret\" tells of their love. We do not know when or where this ci was written. Some think it also hides the poet's longing for a lost love of his own."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，四明（今浙江宁波）人。他一生没有做官，长期在别人家里做幕客。他的词用字华丽，意思藏得很深，常常一句接一句地跳着写，读起来像一串串彩色的画面，比较难懂。",
+  "en": "Wu Wenying (about 1200 – about 1260), also called Mengchuang, came from Siming, today's Ningbo in Zhejiang. He never held office and spent many years as an adviser in other men's households. His ci use rich, ornate words and hide their meaning deep. He often jumps from image to image, so his lines feel like a string of bright pictures and can be hard to follow."
+ },
+ "appreciation": {
+  "zh": "上片写花。绣花帐子一样的花荫，挨在一起的树干像一对鸳鸯；红花浓密，绿叶像云一样低低护着。两棵树根靠根、枝连枝，就像能合在一起的首饰盒，连屏风后的美人都嫉妒。东风里花枝交缠，像睡足了的人；夜里人们点亮蜡烛照花，孤单的月亮都不好意思经过。下片转到杨贵妃：华清池沐浴，鬓发相连，同心结在一起，那是最受宠爱的时候。可是谁来唱那首《长恨歌》呢？秋夜深殿里的悄悄话，许下了一辈子不分开的誓言。最后一句“红朝翠暮”，愿它们像早上的红花和晚上的绿叶一样，永远相伴。整首词把花写成了一对恋人，美丽里带着一点哀愁。",
+  "en": "The first stanza is about the flowers. The shade is like an embroidered tent, and the joined trunks stand like a pair of mandarin ducks. The red blossoms are thick, and leaves like clouds bend low to shelter them. Root leans on root and twig joins twig, like the two halves of a jewel box, so that even the beauty behind the screen feels jealous. In the east wind the branches twine like a sleeper who has slept enough. At night people light candles to shine on the flowers, and the lonely moon is too shy to pass by. The second stanza turns to Yang Guifei. She bathed at Huaqing, her hair lay side by side with the emperor's, and their hearts were tied in one knot. That was when she was most loved. But who will sing the Song of Everlasting Regret? In a dark hall on an autumn night they whispered a vow never to part. The last line, \"red at dawn, green at dusk\", wishes the trees to stay together like red flowers by morning and green leaves by evening, for ever. The whole ci turns two trees into a pair of lovers. It is beautiful, with a touch of sadness."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "flowers",
+   "love",
+   "history"
+  ]
+ },
+ "uncertain": []
+}

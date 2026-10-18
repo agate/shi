@@ -1,0 +1,787 @@
+{
+ "id": "ci-47ecd8c56057",
+ "kind": "ci",
+ "title": "曲玉管·陇首云飞",
+ "title_en": "Qu Yu Guan: Clouds Fly over the Hilltops",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·三叠",
+  "en": "ci lyric in three stanzas"
+ },
+ "lines": [
+  [
+   [
+    "陇",
+    "lǒng"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "索",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "眸",
+    "móu"
+   ]
+  ],
+  [
+   [
+    "杳",
+    "yǎo"
+   ],
+   [
+    "杳",
+    "yǎo"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "京",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "偶",
+    "ǒu"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "凭",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "冉",
+    "rǎn"
+   ],
+   [
+    "冉",
+    "rǎn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "汀",
+    "tīng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "悠",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "初",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "聚",
+    "jù"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "阻",
+    "zǔ"
+   ],
+   [
+    "追",
+    "zhuī"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "每",
+    "měi"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "惹",
+    "rě"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "场",
+    "cháng"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "黯",
+    "àn"
+   ]
+  ],
+  [
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6,
+  12
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 19,
+   "pos": 1,
+   "char": "场",
+   "pinyin": "cháng",
+   "zh": "“一场”在这里是“一番、一回”的意思，读 cháng。",
+   "en": "Here it means \"a spell of\", read cháng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "陇首：山头。陇，山冈。",
+   "en": "lǒng shǒu: the hilltops. Lǒng is a ridge."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "烟波：雾气笼罩的水面。",
+   "en": "yān bō: water covered in mist."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "凭阑：靠着栏杆。",
+   "en": "píng lán: leaning on the railing."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "关河：关山和河流，指远方的路途。",
+   "en": "guān hé: mountain passes and rivers, the long way to far places."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "萧索：冷落、凄凉。",
+   "en": "xiāo suǒ: bleak and lonely."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "忍凝眸：怎么忍心一直看下去。凝眸，目不转睛地看。",
+   "en": "rěn níng móu: how can I bear to keep staring? Níng móu is to gaze without blinking."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "杳杳：遥远得看不见。",
+   "en": "yǎo yǎo: so far away it cannot be seen."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "神京：京城，这里指北宋的都城汴京。",
+   "en": "shén jīng: the capital, here Bianjing, capital of the Northern Song."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "盈盈仙子：姿态美好的女子，指词人思念的心上人。",
+   "en": "yíng yíng xiān zǐ: a graceful, fairy-like woman, the one he loves and misses."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "锦字：情人之间的书信。传说前秦苏蕙把思念丈夫的诗织在锦缎上寄给他。",
+   "en": "jǐn zì: love letters. Legend says Su Hui of the Former Qin wove a poem of longing into silk and sent it to her husband."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "终难偶：总是难以送到对方手里，难以相会。偶，相合、相遇。",
+   "en": "zhōng nán ǒu: never able to reach her, never able to meet. Ǒu means to match or meet."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "断雁无凭：失群的孤雁靠不住，不能替人传信。古人有大雁传书的说法。",
+   "en": "duàn yàn wú píng: the lone goose cannot be trusted to carry letters. People once said wild geese carried messages."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "冉冉：慢慢地。",
+   "en": "rǎn rǎn: slowly."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "汀洲：水中的小块平地。",
+   "en": "tīng zhōu: a small flat islet in the water."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 3,
+   "zh": "思悠悠：思念绵长，没有尽头。",
+   "en": "sī yōu yōu: longing that goes on and on."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 7,
+   "zh": "幽欢佳会：私下的欢聚，美好的相会。",
+   "en": "yōu huān jiā huì: quiet happy times together, sweet meetings."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "难期：难以预料。",
+   "en": "nán qī: impossible to foresee."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "翻成：反而变成。",
+   "en": "fān chéng: turned instead into."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 6,
+   "zh": "雨恨云愁：像雨像云一样绵绵不断的愁和恨，多指男女离别之苦。",
+   "en": "yǔ hèn yún chóu: sorrow and regret as endless as rain and clouds, usually the pain of lovers apart."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "阻追游：不能再在一起游玩。阻，阻隔。",
+   "en": "zǔ zhuī yóu: kept from going out together any more."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 6,
+   "zh": "平生心事：一直藏在心里的事，指对她的思念。",
+   "en": "píng shēng xīn shì: the thing he always carries in his heart, his longing for her."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "消黯：黯然销魂，伤心得失魂落魄。",
+   "en": "xiāo àn: heartbroken, so sad that one's spirit seems to melt away."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "永日：整天。",
+   "en": "yǒng rì: the whole long day."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 4,
+   "zh": "却下层楼：又走下高楼。却，再，又。",
+   "en": "què xià céng lóu: going back down from the high tower. Què here means then, again."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "山头上云在飞，",
+   "en": "Clouds fly over the hilltops."
+  },
+  {
+   "zh": "江边天色已晚，",
+   "en": "By the river the day grows late."
+  },
+  {
+   "zh": "满眼都是雾蒙蒙的水波，我靠着栏杆站了很久。",
+   "en": "Misty waters fill my eyes, and I have leaned on the railing a long time."
+  },
+  {
+   "zh": "站着远望，关山河流一片冷落，",
+   "en": "Standing and gazing, I see bleak passes and rivers,"
+  },
+  {
+   "zh": "千里都是清冷的秋色，",
+   "en": "a thousand li of clear, cold autumn."
+  },
+  {
+   "zh": "我怎么忍心一直看下去。",
+   "en": "How can I bear to keep looking?"
+  },
+  {
+   "zh": "遥远的京城看不见，",
+   "en": "The capital is far out of sight,"
+  },
+  {
+   "zh": "那位美丽如仙的人，",
+   "en": "and the lovely, fairy-like one there,"
+  },
+  {
+   "zh": "分别以后，书信总是难以送到她手里。",
+   "en": "since we parted, my letters can never reach her."
+  },
+  {
+   "zh": "孤雁靠不住，不能替我传信，",
+   "en": "The lone goose cannot carry my message;"
+  },
+  {
+   "zh": "只是慢慢地飞落到水中的小洲上。",
+   "en": "it only drifts slowly down onto the islet."
+  },
+  {
+   "zh": "我的思念绵绵没有尽头。",
+   "en": "My longing goes on and on."
+  },
+  {
+   "zh": "暗暗回想当初，",
+   "en": "Silently I think back"
+  },
+  {
+   "zh": "我们有过多少欢乐的相聚，",
+   "en": "to all our happy times together."
+  },
+  {
+   "zh": "哪里知道聚散难以预料，",
+   "en": "Who knew that meeting and parting could not be foreseen,"
+  },
+  {
+   "zh": "反而变成了像云雨一样绵绵的愁恨。",
+   "en": "and that it would all turn into sorrow as endless as clouds and rain?"
+  },
+  {
+   "zh": "如今再不能一起游玩了。",
+   "en": "Now we can no longer go out together."
+  },
+  {
+   "zh": "每次登山临水，",
+   "en": "Every time I climb a hill or come to the water,"
+  },
+  {
+   "zh": "都会引起心中最深的那件心事，",
+   "en": "it stirs up the deepest feeling of my life,"
+  },
+  {
+   "zh": "我伤心得失魂落魄，",
+   "en": "and I am lost in heartbreak."
+  },
+  {
+   "zh": "整天说不出一句话，",
+   "en": "All day long I say nothing,"
+  },
+  {
+   "zh": "只好又走下高楼。",
+   "en": "and then I go back down the tower."
+  }
+ ],
+ "background": {
+  "zh": "这首词是柳永在外漂泊时写的，具体时间和地点已经不清楚。他长年离开京城，四处奔波，常在登高望远时想起京城里的心上人。这首词分三段：第一段写秋天傍晚登楼远望，第二段写想念京城的她，第三段回想当初的欢聚，叹息如今的分离。",
+  "en": "Liu Yong wrote this lyric while wandering far from home. The exact time and place are no longer known. For many years he was away from the capital, traveling from place to place. When he climbed high and looked into the distance, he often thought of the woman he loved in the capital. The lyric has three parts. The first shows him gazing from a tower on an autumn evening. The second shows him missing her in the capital. The third looks back on their happy times and sighs over their parting."
+ },
+ "author_note": {
+  "zh": "柳永（约987—约1053），原名三变，字耆卿，崇安（今福建武夷山）人，北宋词人。他排行第七，人称“柳七”；做过屯田员外郎，又称“柳屯田”。他年轻时多次考试失意，长期流连在都市的繁华生活里，后来又四处做小官。他擅长写长调慢词，常写漂泊的辛苦和离别的伤感。",
+  "en": "Liu Yong (about 987 to about 1053), first named Sanbian, came from Chong'an, today's Wuyishan in Fujian. He was a Northern Song poet. As the seventh child he was called Liu Qi, and after one of his posts he was also called Liu Tuntian. As a young man he failed the imperial exam several times and spent many years living it up in the city. Later he moved around as a minor official. He was a master of the long, slow ci form, and often wrote about the hardship of wandering and the sadness of parting."
+ },
+ "appreciation": {
+  "zh": "这首词的结构很特别：一共三段，前两段长短句式几乎一样，像两扇对开的门，第三段才把心事全说出来。第一段是大镜头：山上云飞，江边日落，千里秋色，他靠着栏杆站了很久，看得都不忍心再看。第二段把镜头拉向远方：京城看不见，她也看不见，连大雁都不肯帮他送信，只慢慢落在小洲上。第三段回到心里：当初那么多快乐，谁知道会变成这么多愁。最后几句特别真实：每次登高都想她，伤心到一整天说不出话，最后只能默默走下楼去。上楼是为了看远方，下楼是因为看了更难过，这一上一下，写尽了思念的无奈。",
+  "en": "This lyric has an unusual shape. It has three parts. The first two have almost the same pattern of lines, like a pair of doors opening side by side. Only the third part pours out his heart. The first part is a wide shot: clouds fly over the hills, the sun sets by the river, autumn spreads for a thousand li. He has leaned on the railing so long that he cannot bear to look any more. The second part pushes the view far away. He cannot see the capital, and he cannot see her. Even the wild goose will not carry his letter, and only drifts down onto the islet. The third part turns inward. They had so many happy times; who knew it would all turn into such sorrow? The last lines feel very real. Every time he climbs high he thinks of her, and he is so sad he says nothing all day. In the end he can only walk quietly back downstairs. He went up to see far away, and he comes down because looking made it worse. That trip up and down holds all the helplessness of longing."
+ },
+ "famous_lines": [
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "wandering",
+   "climbing-high"
+  ]
+ },
+ "uncertain": []
+}

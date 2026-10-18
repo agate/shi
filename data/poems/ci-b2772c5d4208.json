@@ -1,0 +1,807 @@
+{
+ "id": "ci-b2772c5d4208",
+ "kind": "ci",
+ "title": "瑞鹤仙·乡城见月",
+ "title_en": "To the Tune Rui He Xian: Seeing the Moon in My Home Town",
+ "author": "蒋捷",
+ "author_en": "Jiang Jie",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "绀",
+    "gàn"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "街",
+    "jiē"
+   ],
+   [
+    "喧",
+    "xuān"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "息",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "檠",
+    "qíng"
+   ],
+   [
+    "背",
+    "bèi"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "壁",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "放",
+    "fàng"
+   ],
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "蜍",
+    "chú"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "隙",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "瑰",
+    "guī"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "泣",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "芜",
+    "wú"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "织",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "化",
+    "huà"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "端",
+    "duān"
+   ],
+   [
+    "的",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "极",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "蕖",
+    "qú"
+   ],
+   [
+    "浸",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "梨",
+    "lí"
+   ],
+   [
+    "溶",
+    "róng"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "夕",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "柯",
+    "kē"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "弈",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "樱",
+    "yīng"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "觅",
+    "mì"
+   ]
+  ],
+  [
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "光",
+    "guāng"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "伴",
+    "bàn"
+   ]
+  ],
+  [
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "笛",
+    "dí"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "谱",
+    "pǔ"
+   ],
+   [
+    "伊",
+    "yī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "娥",
+    "é"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "识",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 9,
+   "pos": 5,
+   "char": "的",
+   "pinyin": "dì",
+   "zh": "“端的”的“的”读 dì，意思是“底细、究竟”。它和“迹、息、壁、极”等字押韵。",
+   "en": "In duān dì, the second character is read dì and the word means \"the exact details\". It rhymes with jì, xī, bì and jí."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "绀烟：天黑时青里带红的暮色烟雾。绀，深青透红的颜色。",
+   "en": "gàn yān: the dusky mist at nightfall, dark blue with a touch of red. Gàn is that colour."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "迷雁迹：雾气浓得看不见大雁飞过的影子。",
+   "en": "mí yàn jì: the mist is so thick that the flying geese can no longer be seen."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 5,
+   "zh": "断鼓零钟：断断续续的鼓声，零零落落的钟声，是古代城里报时的声音。",
+   "en": "duàn gǔ líng zhōng: broken drumbeats and scattered bell strokes, the sounds that told the time in an old town."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "街喧：街上的吵闹声。",
+   "en": "jiē xuān: the noise of the street."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "风檠：在风里摇晃的灯。檠，灯架，这里指灯。",
+   "en": "fēng qíng: a lamp flickering in the wind. Qíng is a lamp stand, here the lamp."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "背寒壁：灯放在冰冷的墙边，光照向别处，墙这边暗暗的。",
+   "en": "bèi hán bì: the lamp stands with its back to the cold wall, so the wall side is dim."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "冰蜍：月亮。传说月亮里有一只蟾蜍（癞蛤蟆），月光又冷又白，所以叫冰蜍。",
+   "en": "bīng chú: the moon. Legend says a toad lives in the moon, and moonlight is cold and white like ice."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "丝丝窗隙：月光像细丝一样，从窗缝里一条条照进来。",
+   "en": "sī sī chuāng xì: moonlight slips in through the cracks of the window in thin threads."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "琼瑰：美玉一样的珠子。古书里有人梦见自己哭出的眼泪变成了琼瑰，这里指眼泪。",
+   "en": "qióng guī: beads like fine jade. In an old book a man dreamed that his tears turned into such beads, so here it means tears."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "乡关：家乡。",
+   "en": "xiāng guān: one's home town."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 7,
+   "zh": "霜芜似织：盖着霜的野草又密又乱，像织在一起。芜，杂草。",
+   "en": "shuāng wú sì zhī: frosty weeds grow so thick they look woven together. Wú means weeds."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 1,
+   "zh": "漫：徒然，白白地。",
+   "en": "màn: in vain."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 7,
+   "zh": "化鹤归来：传说汉代丁令威学道成仙，变成一只鹤飞回家乡，只见城墙还在，人却全换了。这里说自己回到家乡，物是人非。",
+   "en": "huà hè guī lái: legend says a man named Ding Lingwei became an immortal, turned into a crane and flew home. The town walls were the same, but all the people had changed. Here the poet has come home to find everything changed."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "旧游：从前游玩过的地方。",
+   "en": "jiù yóu: the places where one used to go about and have fun."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "端的：底细，具体是什么样子。",
+   "en": "duān dì: the exact details, what things were really like."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "欢极：快乐到了极点，说的是从前的日子。",
+   "en": "huān jí: joy at its height, speaking of the old days."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "蓬壶：传说中海上的仙山，形状像壶。这里借指家乡园林里像仙境一样的楼台池塘。",
+   "en": "péng hú: a magic island in the sea, said to be shaped like a pot. Here it stands for the fairy-like pavilions and ponds of the old home gardens."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "蕖浸：荷花泡在水里。蕖，荷花。",
+   "en": "qú jìn: lotus flowers resting in the water. Qú means lotus."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "梨溶：梨花在月光下白得像要化开一样。",
+   "en": "lí róng: pear blossoms so white in the moonlight they seem to melt."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "醉连春夕：一个个春天的夜晚，接连喝得醉醺醺。",
+   "en": "zuì lián chūn xī: drunk on one spring evening after another."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "柯云罢弈：传说晋代王质上山砍柴，看仙人下棋，一盘棋下完，斧头的木柄（柯）已经烂了，回到村里，同时代的人都不在了。这里说美好时光一下子就过去了。",
+   "en": "kē yún bà yì: legend says a woodcutter named Wang Zhi watched immortals play a board game in the hills. When the game ended, the wooden handle of his axe had rotted away, and back home everyone he knew was gone. Here it means the good times vanished in a flash."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 3,
+   "zh": "樱桃在：唐代有个故事，一个书生在寺里睡着，梦见一个穿青衣、端着樱桃的女孩，又梦见自己娶妻做官，醒来一场空。这里说往日像一场梦。",
+   "en": "yīng táo zài: a Tang story tells of a scholar who fell asleep in a temple. He dreamed of a maid carrying cherries, then of marrying and becoming a high official, and woke to find it all gone. Here the past is like that dream."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "梦难觅：那样的梦再也找不回来了。觅，找。",
+   "en": "mèng nán mì: such a dream can never be found again. Mì means to look for."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "清光：清亮的月光。",
+   "en": "qīng guāng: the clear moonlight."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "乍可：宁可，还不如。",
+   "en": "zhà kě: would rather."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "幽窗：冷清昏暗的窗户，指诗人自己的屋子。",
+   "en": "yōu chuāng: a dim, lonely window, the poet's own room."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 6,
+   "zh": "红楼夜笛：富贵人家的楼上，夜里吹笛作乐。",
+   "en": "hóng lóu yè dí: flutes played at night in the red towers of rich families."
+  },
+  {
+   "line": 20,
+   "start": 3,
+   "end": 7,
+   "zh": "换谱伊凉：换成了《伊州》《凉州》这样的边地曲子。伊州、凉州都在西北边地。这里暗说天下换了主人，连音乐都变了。",
+   "en": "huàn pǔ yī liáng: the music has changed to frontier tunes such as Yizhou and Liangzhou, both named after places in the far northwest. It hints that the country has new rulers and even the songs are different."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 2,
+   "zh": "素娥：月里的嫦娥，这里代指月亮。",
+   "en": "sù é: Chang'e, the lady in the moon, standing here for the moon."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "青红色的暮烟弥漫，看不见大雁的踪影。",
+   "en": "Dusky blue mist blurs the paths of the wild geese."
+  },
+  {
+   "zh": "鼓声断断续续，钟声零零落落，",
+   "en": "The drums fall broken, the bells ring here and there,"
+  },
+  {
+   "zh": "街上的吵闹声刚刚停下来。",
+   "en": "and the noise of the streets has just died down."
+  },
+  {
+   "zh": "风中摇晃的灯，背对着冰冷的墙。",
+   "en": "A lamp flickers in the wind with its back to the cold wall."
+  },
+  {
+   "zh": "月亮放出清冷的光，飞进屋里，",
+   "en": "The moon lets its icy light fly in,"
+  },
+  {
+   "zh": "一丝一丝穿过窗缝。",
+   "en": "thread by thread through the cracks of the window."
+  },
+  {
+   "zh": "我悄悄地流下了眼泪。",
+   "en": "Quietly I shed tears."
+  },
+  {
+   "zh": "想起家乡，盖着霜的野草密得像织成一片。",
+   "en": "I think of my home town, where frosty weeds grow thick as cloth."
+  },
+  {
+   "zh": "我白白地像丁令威化鹤那样回到家乡，",
+   "en": "In vain I have come home, like the man who flew back as a crane,"
+  },
+  {
+   "zh": "从前游玩的地方，已经记不清是什么样子了。",
+   "en": "and I have forgotten what my old haunts were really like."
+  },
+  {
+   "zh": "那时真是快乐到了极点。",
+   "en": "Back then, joy was at its height."
+  },
+  {
+   "zh": "仙境般的池塘里泡着荷花，",
+   "en": "Lotus flowers floated in fairy-like ponds,"
+  },
+  {
+   "zh": "院子里的梨花在月下白得像要化开，",
+   "en": "pear blossoms in the courtyard seemed to melt in the moonlight,"
+  },
+  {
+   "zh": "一个个春夜，我们接连喝醉。",
+   "en": "and we were drunk on one spring night after another."
+  },
+  {
+   "zh": "可就像仙人一盘棋下完，时光早已飞逝。",
+   "en": "But like the immortals' game that ended while an axe handle rotted, those days are gone."
+  },
+  {
+   "zh": "樱桃还在，",
+   "en": "The cherries are still here,"
+  },
+  {
+   "zh": "那场好梦却再也找不回来了。",
+   "en": "but that sweet dream can never be found again."
+  },
+  {
+   "zh": "我劝劝这清亮的月光：",
+   "en": "So I say to the clear moonlight:"
+  },
+  {
+   "zh": "你宁可在我冷清的窗前陪着我，",
+   "en": "you had better keep me company at my lonely window,"
+  },
+  {
+   "zh": "别去照那红楼上夜里吹笛的人家。",
+   "en": "and do not shine on the red towers where flutes play at night."
+  },
+  {
+   "zh": "只怕人间已经换上了《伊州》《凉州》那样的新曲子，",
+   "en": "I fear the world below now plays new frontier tunes like Yizhou and Liangzhou,"
+  },
+  {
+   "zh": "月亮里的嫦娥也听不懂了。",
+   "en": "tunes that even Chang'e in the moon would not know."
+  }
+ ],
+ "background": {
+  "zh": "蒋捷是南宋末年的人。1279年南宋灭亡，元朝统治了天下，他不肯出来做官，到处漂泊。这首词写他回到家乡，在城里看见月亮时的心情。家乡还在，可是人和事都变了，连街上的音乐都换成了新的曲调。具体写在哪一年，现在说不清楚。",
+  "en": "Jiang Jie lived at the very end of the Southern Song. In 1279 the Song fell and the Yuan took over the land. He refused to serve the new rulers and wandered from place to place. This lyric tells how he felt when he came back to his home town and saw the moon. The town was still there, but the people and the times had changed, and even the music in the streets was new. We do not know the exact year it was written."
+ },
+ "author_note": {
+  "zh": "蒋捷，字胜欲，号竹山，阳羡（今江苏宜兴）人，生卒年不详。他在南宋末年考中进士，宋亡后隐居不出，人们称他“竹山先生”。他和周密、王沂孙、张炎被并称为“宋末四大家”。他的词常写亡国之后的悲凉，最有名的一句是“流光容易把人抛，红了樱桃，绿了芭蕉”。",
+  "en": "Jiang Jie, also called Zhushan, came from Yangxian, today's Yixing in Jiangsu. His birth and death years are not known. He passed the highest exam near the end of the Southern Song, and after the Song fell he lived in hiding and refused office. People called him Master Zhushan. He is one of the Four Great Lyric Poets of the late Song. His lyrics often carry the sorrow of a lost country."
+ },
+ "appreciation": {
+  "zh": "上阕写眼前。天黑了，暮烟遮住了大雁，鼓声钟声渐渐停了，街上也安静下来。屋里一盏灯在风里摇，月光像细丝一样从窗缝照进来。诗人悄悄流泪，想到家乡长满了霜草，自己像化鹤归来的丁令威，从前的地方都认不出了。下阕先回到过去：荷花、梨花、春夜、美酒，快乐到了极点。可是一转眼，就像仙人下完一盘棋，像书生醒了一场梦，全都没了。最后诗人对月亮说话：你就陪着我吧，别去照那些还在吹笛作乐的人家，人间的曲子都变了，你也听不懂了。这句话很轻，却藏着国家灭亡的大悲伤。",
+  "en": "The first stanza shows the present. Night falls, the mist hides the geese, the drums and bells fade, and the streets go quiet. In the room a lamp shakes in the wind, and moonlight comes in like thin threads through the cracks of the window. The poet weeps. He thinks of his home overgrown with frosty weeds, and feels like the man who came home as a crane and found nothing he knew. The second stanza goes back to the past: lotus, pear blossoms, spring nights and wine, joy at its height. But in a blink it is gone, like the immortals' game, like the scholar's dream. At the end he speaks to the moon. Stay with me, he says, and do not shine on the people still playing flutes. The songs of the world have changed, and you would not know them. The words are soft, but they hide the great grief of a fallen country."
+ },
+ "famous_lines": [
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "homesick",
+   "lost-country",
+   "nostalgia"
+  ]
+ },
+ "uncertain": []
+}

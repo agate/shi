@@ -1,0 +1,399 @@
+{
+ "id": "ci-5b33c63b5e7e",
+ "kind": "ci",
+ "title": "留春令·画屏天畔",
+ "title_en": "Liu Chun Ling: At the Sky's Edge on the Painted Screen",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "畔",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "约",
+    "yuē"
+   ]
+  ],
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "拈",
+    "niān"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "写",
+    "xiě"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "画屏：画着图画的屏风。",
+   "en": "huà píng: a folding screen with pictures painted on it."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "天畔：天边。",
+   "en": "tiān pàn: the edge of the sky."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "梦回：从梦中醒来。",
+   "en": "mèng huí: waking from a dream."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "依约：隐隐约约，看不太清。",
+   "en": "yī yuē: faint and dim, hard to make out."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "十洲：传说海上有十个仙岛，是神仙住的地方。",
+   "en": "shí zhōu: in legend, ten islands in the sea where immortals live."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "拈：用手指捏着。",
+   "en": "niān: to hold between the fingers."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "红笺：红色的信纸。",
+   "en": "hóng jiān: red letter paper."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "伤春：因为春天要过去而难过。",
+   "en": "shāng chūn: sadness that spring is passing."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "别浦：分别时的水边。浦，水边。",
+   "en": "bié pǔ: the waterside where they parted. Pǔ means a riverbank."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "漫倚：随意地靠着栏杆。",
+   "en": "màn yǐ: leaning idly on the railing."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "分流水：在楼下分成两股流走的水，也像两个人分开。",
+   "en": "fēn liú shuǐ: water that splits in two below the tower, like two people parting."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "当日：那一天，指分别的时候。",
+   "en": "dāng rì: that day, the day they parted."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "凭高：站在高处靠着栏杆。",
+   "en": "píng gāo: leaning on a railing up high."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "画屏上画着天边的景色，",
+   "en": "On the painted screen lies a scene from the edge of the sky."
+  },
+  {
+   "zh": "我从梦中醒来，还隐隐约约记得",
+   "en": "Waking from my dream, I still faintly see"
+  },
+  {
+   "zh": "梦里那仙岛上的云和水。",
+   "en": "the clouds and waters of the immortal isles."
+  },
+  {
+   "zh": "我手捏红色信纸，给那个人写信，",
+   "en": "Holding red paper, I write a letter to that person,"
+  },
+  {
+   "zh": "写下说不完的伤春心事。",
+   "en": "full of endless sorrow at spring's passing."
+  },
+  {
+   "zh": "当年分别的水边高楼上，我曾随意靠着栏杆，",
+   "en": "In the high tower by the parting waters, I once leaned on the railing,"
+  },
+  {
+   "zh": "面对千里江南。",
+   "en": "facing a thousand miles of Jiangnan."
+  },
+  {
+   "zh": "楼下那分成两股的流水声里，",
+   "en": "In the sound of the water splitting below the tower"
+  },
+  {
+   "zh": "还有我那天登高时流下的眼泪。",
+   "en": "are the tears I shed up there that day."
+  }
+ ],
+ "background": {
+  "zh": "这首词写对远方一个人的思念，具体写给谁、写于哪一年已经不清楚了。晏几道的很多词都在回忆过去的欢聚和分别，常写梦、写信、写眼泪。这首词也是这样：从醒来时看到画屏写起，写到写信，又回想当年在水边高楼送别的情景。",
+  "en": "This lyric is about missing someone far away. Whom it was for and when it was written are not known. Many of Yan Jidao's lyrics look back on happy meetings and partings, and often speak of dreams, letters and tears. This one does too. It begins with waking and seeing the painted screen, moves on to writing a letter, and then remembers the farewell in a tower by the water."
+ },
+ "author_note": {
+  "zh": "晏几道，字叔原，号小山，北宋词人，是宰相晏殊的小儿子，和父亲并称“二晏”。他生卒年不详，大约生活在北宋中后期。他出身富贵，后来家道中落，一生不得意。他的词多写爱情和离别，感情真挚，语言清丽。",
+  "en": "Yan Jidao was a Northern Song lyric poet, the youngest son of the chief minister Yan Shu; the two are called the Two Yans. His exact dates are unknown, but he lived in the middle and later Northern Song. Born rich, he saw his family decline and never did well in life. His lyrics are mostly about love and parting, sincere in feeling and clear and lovely in words."
+ },
+ "appreciation": {
+  "zh": "上片从梦写起。醒来时，眼前是画屏，画上的天边和梦里的仙岛连在一起，分不清是梦还是画。醒了，思念却还在，他拿起红笺写信，写不完的都是伤春的心事。下片回到从前：当年在水边高楼上分别，他靠着栏杆望着千里江南。如今楼下的流水还在分成两股流走，他说水声里有当年的眼泪。眼泪流进水里，水一直流，思念也就一直没有停过。这个想象很新奇，让看不见的愁变得能听见了。",
+  "en": "The first half begins with a dream. On waking he sees the painted screen. The sky's edge in the picture blends with the immortal isles of his dream, so dream and painting run together. He is awake, but the longing stays. He picks up red paper and writes a letter full of spring sorrow. The second half goes back in time. Long ago they parted in a tower by the water, and he leaned on the railing looking over a thousand miles of Jiangnan. Today the water below still splits and flows away, and he says the tears of that day are in its sound. The tears went into the water, the water keeps flowing, and so the longing has never stopped. It is a fresh idea: it lets us hear a sorrow we cannot see."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "parting",
+   "dream",
+   "love"
+  ]
+ },
+ "uncertain": []
+}

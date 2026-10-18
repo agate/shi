@@ -1,0 +1,486 @@
+{
+ "id": "ci-3f711acb3a6d",
+ "kind": "ci",
+ "title": "踏莎行·润玉笼绡",
+ "title_en": "Treading on Sedge: Jade Skin in Thin Silk",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·踏莎行（双调）",
+  "en": "ci lyric to the tune Ta Suo Xing, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "润",
+    "rùn"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "笼",
+    "lóng"
+   ],
+   [
+    "绡",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "檀",
+    "tán"
+   ],
+   [
+    "樱",
+    "yīng"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "扇",
+    "shàn"
+   ]
+  ],
+  [
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "圈",
+    "quān"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "脂",
+    "zhī"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ],
+  [
+   [
+    "榴",
+    "liú"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "叠",
+    "dié"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "裙",
+    "qún"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "艾",
+    "ài"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "压",
+    "yā"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "鬟",
+    "huán"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "午",
+    "wǔ"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "箭",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "瘢",
+    "bān"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "褪",
+    "tuì"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "腕",
+    "wàn"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "菰",
+    "gū"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "资料库题作“蹋莎行·踏莎行”，通行本只用词牌“踏莎行”，这里按习惯加上首句作题目。",
+  "en": "The corpus heads it with two spellings of the tune name. Common editions use only the tune name Ta Suo Xing, so the first line is added here as the title, as usual."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "笼",
+   "pinyin": "lóng",
+   "zh": "“笼”在这里是“罩着”的意思，课本里同样用法（如“烟笼寒水月笼沙”）读 lóng；也有人按动词读 lǒng。",
+   "en": "Lóng here means to cover or wrap. Textbooks read the same use (as in a famous line about mist covering cold water) as lóng. Some read it lǒng as a verb."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "润玉：温润的玉，比喻女子光洁细嫩的皮肤。",
+   "en": "rùn yù: smooth, glowing jade, a picture of a woman's soft, fair skin."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "笼绡：罩着薄薄的丝绸衣服。绡，生丝织成的薄绸。",
+   "en": "lóng xiāo: wrapped in thin silk. Xiāo is a light, sheer silk."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "檀樱：浅红色的樱桃小口。檀，浅红色。",
+   "en": "tán yīng: a small mouth like a pale red cherry. Tán is a soft red color."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "倚扇：半掩在扇子后面。",
+   "en": "yǐ shàn: half hidden behind a fan."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "绣圈：绣花的衣领或项圈。",
+   "en": "xiù quān: an embroidered collar or neck ring."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "脂香浅：还留着淡淡的胭脂香气。",
+   "en": "zhī xiāng qiǎn: a faint smell of rouge still lingering."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "榴心：石榴花的花心，颜色火红。端午前后正是石榴开花的时候。",
+   "en": "liú xīn: the heart of a pomegranate flower, bright red. Pomegranates bloom around the Duanwu festival."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "空叠：白白地叠着，没有人穿上它跳舞。",
+   "en": "kōng dié: folded for nothing, with no one wearing it to dance."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "艾枝：艾草的枝叶。端午节有插艾草、戴艾叶的习俗。",
+   "en": "ài zhī: sprigs of mugwort. At Duanwu people hung mugwort or wore it in their hair."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "应压：想来正压在……上。应，大概、想必。",
+   "en": "yīng yā: must be pressing on. Yīng means probably, surely."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "愁鬟：发愁的人的发髻。鬟，环形的发髻。",
+   "en": "chóu huán: the hair coil of someone who is sad. Huán is a looped bun of hair."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "午梦千山：中午做了一个梦，梦里翻过千山去见她。",
+   "en": "wǔ mèng qiān shān: a noon dream that crosses a thousand mountains to reach her."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "窗阴一箭：窗前的日影只移动了一点点，说明梦很短。箭，古代计时漏壶里的刻度箭，这里指一小段时间。",
+   "en": "chuāng yīn yī jiàn: the sun's shadow on the window has moved only a little, so the dream was short. Jiàn was the marked rod in an old water clock, so it means a short time."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "香瘢：手腕上留下的淡淡印痕。",
+   "en": "xiāng bān: a faint mark left on the wrist."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "新褪：刚刚变松、变淡。",
+   "en": "xīn tuì: just loosened, just faded."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "红丝腕：系着彩丝的手腕。端午节人们在手腕上系五彩丝线，叫“长命缕”，祝人平安。",
+   "en": "hóng sī wàn: a wrist tied with colored thread. At Duanwu people tied five-colored threads on their wrists for good luck and long life."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "菰叶：茭白的叶子，长在水边，秋天叶子沙沙作响。",
+   "en": "gū yè: leaves of wild rice, a water plant. In autumn they rustle in the wind."
+  },
+  {
+   "line": 9,
+   "start": 5,
+   "end": 7,
+   "zh": "秋怨：像秋天一样凄凉的哀怨。",
+   "en": "qiū yuàn: a sad, lonely feeling, like autumn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她如玉的肌肤罩着薄薄的丝衣，",
+   "en": "Her jade-smooth skin is wrapped in thin silk;"
+  },
+  {
+   "zh": "樱桃小口半掩在扇子后面。",
+   "en": "her small cherry lips are half hidden behind a fan."
+  },
+  {
+   "zh": "绣花衣领上还带着淡淡的胭脂香。",
+   "en": "Her embroidered collar still keeps a faint scent of rouge."
+  },
+  {
+   "zh": "火红如石榴花的舞裙白白叠着，",
+   "en": "Her dancing skirt, red as pomegranate flowers, lies folded with no use;"
+  },
+  {
+   "zh": "想来艾枝正压在她发愁时散乱的发髻上。",
+   "en": "the mugwort sprig must be pressing on her untidy, sad hair."
+  },
+  {
+   "zh": "中午一场梦，翻过了千山万水，",
+   "en": "A noon dream crosses a thousand mountains,"
+  },
+  {
+   "zh": "醒来窗前的日影才移动了一点点。",
+   "en": "yet the shadow at the window has moved only a little."
+  },
+  {
+   "zh": "她手腕上系彩丝的印痕，新近变松变淡了。",
+   "en": "On her wrist, the mark of the colored thread has just grown loose and pale."
+  },
+  {
+   "zh": "隔着江，那人在一片雨声中，",
+   "en": "Across the river, she is lost in the sound of the rain;"
+  },
+  {
+   "zh": "晚风吹动菰叶，生出秋天般的哀怨。",
+   "en": "the evening wind stirs the wild rice leaves, and an autumn sorrow rises."
+  }
+ ],
+ "background": {
+  "zh": "从石榴花、艾枝、手腕上的彩丝来看，这首词写在端午节前后。词人中午睡了一觉，梦见了一位分别已久的女子。上片几乎都是梦中看到的她，下片写梦醒以后的思念。这位女子是谁，词里没有说。一说是吴文英在苏州时的一位姬妾，后来离开了他。",
+  "en": "From the pomegranate flowers, the mugwort and the colored thread on the wrist, we can tell this ci was written around the Duanwu festival. The poet takes a nap at noon and dreams of a woman he has long been parted from. The first stanza is almost all what he sees of her in the dream. The second stanza is his longing after he wakes. The ci does not say who she was. One reading says she was a concubine of his in Suzhou who later left him."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，南宋词人。他一生没有做大官，多在苏州、杭州一带给官员做幕僚。他的词用字精美，画面很密，像一层层织在一起的锦缎，有时读起来不太好懂。他写过许多怀念旧情人的词，这首就是其中之一。",
+  "en": "Wu Wenying (about 1200 to about 1260), also called Mengchuang, was a Southern Song ci poet. He never held high office and mostly worked as an assistant to officials around Suzhou and Hangzhou. His ci use rich, polished words and pack many pictures close together, like layers of woven brocade. Sometimes they are hard to follow. He wrote many ci missing a lost love, and this is one of them."
+ },
+ "appreciation": {
+  "zh": "上片是一场美丽的梦。词人从她的皮肤、嘴唇、衣领一路写到舞裙和头发，好像镜头一点点靠近，连胭脂的香味都闻得到。可是“空叠”“愁”字露出了她的寂寞：舞裙没人穿，头发也乱了。下片一转，“午梦千山，窗阴一箭”：梦里走过千山，醒来才过了一会儿，梦有多远，醒来就有多空。手腕上的彩丝松了，说明她瘦了。最后，那人在江对岸的雨声里，晚风吹着菰叶，明明是端午初夏，心里却已经是秋天。",
+  "en": "The first stanza is a beautiful dream. The poet moves from her skin to her lips, her collar, her skirt and her hair, as if a camera comes closer and closer, until we can even smell the rouge. But the words for folded for nothing and sad show her loneliness: no one wears the dancing skirt, and her hair is untidy. The second stanza turns: the dream crossed a thousand mountains, yet only a moment passed. The farther the dream went, the emptier waking feels. The thread on her wrist is loose, which means she has grown thin. At the end she is across the river in the rain, and the evening wind stirs the leaves. It is early summer at Duanwu, yet in his heart it is already autumn."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [
+   "duanwu"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "dream",
+   "love",
+   "longing",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,230 @@
+{
+ "id": "a6144ae0-3bcf-4503-b58d-9abf24d6608c",
+ "kind": "shi",
+ "title": "渡汉江",
+ "title_en": "Crossing the Han River",
+ "author": "宋之问",
+ "author_en": "Song Zhiwen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "岭",
+    "lǐng"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "冬",
+    "dōng"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "历",
+    "lì"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "怯",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "敢",
+    "gǎn"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "诗集里这首诗署名李频，第一句作“岭外音书绝”，第二句作“经年复历春”。现在通行的选本多署名宋之问，作“岭外音书断，经冬复历春”。",
+  "en": "The corpus credits this poem to Li Pin, with \"cut off\" written with a different character in line one and \"through the year\" instead of \"through the winter\" in line two. Most common anthologies today credit it to Song Zhiwen and use \"through the winter\" in line two."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "“更”是“更加”的意思，读 gèng。",
+   "en": "Here this character means \"even more\", so it is read gèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "岭外：五岭以南，就是今天广东、广西一带。五岭是南方的五座大山。",
+   "en": "lǐng wài: south of the Five Ridges, roughly today's Guangdong and Guangxi. The Five Ridges are five mountain ranges in the south."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "音书：消息和书信。",
+   "en": "yīn shū: news and letters."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "断：断了，没有了。",
+   "en": "duàn: cut off, gone."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "经冬：过了冬天。",
+   "en": "jīng dōng: went through the winter."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "复历：又经过。",
+   "en": "fù lì: and again went through."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "近乡：离家乡越来越近。",
+   "en": "jìn xiāng: drawing near home."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "更怯：更加害怕、心虚。怯，胆小，害怕。",
+   "en": "gèng qiè: even more afraid. Qiè means timid, afraid."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "来人：从家乡那边过来的人。",
+   "en": "lái rén: people coming from the direction of home."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "被贬到五岭以南，和家里断了音信，",
+   "en": "Far south of the Five Ridges, all news from home was cut off,"
+  },
+  {
+   "zh": "熬过了冬天，又过了春天。",
+   "en": "through a whole winter and then a spring."
+  },
+  {
+   "zh": "离家乡越近，心里反而越害怕，",
+   "en": "Now, the closer I get to home, the more afraid I feel,"
+  },
+  {
+   "zh": "不敢向迎面走来的人打听家里的事。",
+   "en": "and I dare not ask the people coming my way for news."
+  }
+ ],
+ "background": {
+  "zh": "这首诗的作者有两种说法：一说是宋之问，一说是李频。现在通行的说法是宋之问。按这个说法，唐中宗时宋之问被贬到泷州（今广东罗定一带），那里在五岭以南，离家很远，和家里断了联系。后来他偷偷从贬所逃回北方，路过汉江时写下这首诗。汉江是长江的一条大支流。",
+  "en": "Two names are given for the author: Song Zhiwen or Li Pin. The common view today is Song Zhiwen. In that account, under Emperor Zhongzong, Song Zhiwen was sent away as punishment to Longzhou, near today's Luoding in Guangdong. It lay south of the Five Ridges, far from home, and he lost all contact with his family. Later he secretly fled back north, and he wrote this poem while crossing the Han River, a large branch of the Yangtze."
+ },
+ "author_note": {
+  "zh": "宋之问，唐代初年的诗人，和沈佺期齐名，人称“沈宋”。他们讲究诗的格律，对唐代律诗的定型很有贡献。宋之问为人常受批评，曾因依附权贵两次被贬。这首诗写的就是贬谪途中的心情。",
+  "en": "Song Zhiwen was an early Tang poet, as famous as Shen Quanqi; the two were called \"Shen and Song\". They cared a lot about the strict rules of verse and helped shape the Tang regulated poem. Song Zhiwen was often criticized as a person. He was sent away twice for siding with powerful men at court. This poem shows his feelings on the road back from exile."
+ },
+ "appreciation": {
+  "zh": "前两句写离家的苦：人在遥远的南方，家里一点消息也没有，一个冬天又一个春天就这样过去了。按常理，快到家了应该高兴，急着打听家里的情况。可是后两句偏偏反过来：越近越害怕，连问都不敢问。为什么？因为这么久没消息，家里会不会出了什么事？怕听到坏消息，所以宁愿不问。这种又盼又怕的心情，很多离家很久的人都有过。“近乡情更怯”五个字，把这种心情说得又准又真，成了千古名句。",
+  "en": "The first two lines show the pain of being away. He is in the far south, with no news from home, while a winter and a spring slip by. You would expect him to be happy as he nears home, and eager to ask about his family. But the last two lines turn the other way. The closer he gets, the more afraid he is, and he does not even dare to ask. Why? After so long with no news, has something bad happened at home? He fears bad news, so he would rather not ask. Many people who have been away a long time know this mix of hope and fear. The line \"the closer I get to home, the more afraid I feel\" says it so exactly that it has been remembered for over a thousand years."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "exile",
+   "journey",
+   "river"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "作者有争议：诗集和《唐诗三百首》署名李频，许多选本和教材署名宋之问。本文采用宋之问的说法，背景也按这个说法写。",
+   "en": "The author is disputed. The corpus and \"Three Hundred Tang Poems\" credit Li Pin; many anthologies and textbooks credit Song Zhiwen. This file follows the Song Zhiwen account, and the background is written on that basis."
+  }
+ ]
+}

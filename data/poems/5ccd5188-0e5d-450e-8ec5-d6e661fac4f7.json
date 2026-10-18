@@ -1,0 +1,366 @@
+{
+ "id": "5ccd5188-0e5d-450e-8ec5-d6e661fac4f7",
+ "kind": "shi",
+ "title": "没蕃故人",
+ "title_en": "For an Old Friend Lost in Tubo",
+ "author": "张籍",
+ "author_en": "Zhang Ji",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "伐",
+    "fá"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "支",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "没",
+    "mò"
+   ],
+   [
+    "全",
+    "quán"
+   ],
+   [
+    "师",
+    "shī"
+   ]
+  ],
+  [
+   [
+    "蕃",
+    "fān"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "息",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "死",
+    "sǐ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "离",
+    "lí"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "废",
+    "fèi"
+   ],
+   [
+    "帐",
+    "zhàng"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "旗",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "祭",
+    "jì"
+   ],
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "哭",
+    "kū"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "没",
+   "pinyin": "mò",
+   "zh": "这里是“覆没、陷落”的意思，读 mò，不读 méi。",
+   "en": "Here it means to be wiped out or lost, read mò, not méi."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "蕃",
+   "pinyin": "fān",
+   "zh": "这里指吐蕃，诗里读 fān。“吐蕃”这个词现在一般读 tǔ bō。",
+   "en": "Here it means Tubo and is read fān in the poem. The full name Tubo is today usually read tǔ bō."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "前年：去年的前一年。",
+   "en": "qián nián: the year before last."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "伐：攻打。",
+   "en": "fá: to attack."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "月支：也写作“月氏”，汉代西边的一个民族。这里借来指吐蕃，就是唐朝西边的强国。",
+   "en": "yuè zhī: also written Yuezhi, a people in the west in Han times. Here the name stands for Tubo, the strong kingdom west of the Tang."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "没全师：全军覆没，整支军队都死了或被俘了。没，沉没、覆灭。",
+   "en": "mò quán shī: the whole army was wiped out, killed or captured. Mò means to sink or be destroyed."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "蕃汉：吐蕃和唐朝。",
+   "en": "fān hàn: Tubo and the Tang."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "断消息：音信断了，什么消息也没有。",
+   "en": "duàn xiāo xī: all news was cut off."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "死生长别离：不知道你是死是活，我们就这样永远分开了。",
+   "en": "sǐ shēng cháng bié lí: not knowing if you are dead or alive, we are parted for good."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "废帐：战败后丢下的破帐篷。",
+   "en": "fèi zhàng: torn tents left behind after the defeat."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "归马：自己跑回来的战马。",
+   "en": "guī mǎ: war horses that found their own way back."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "识残旗：还认得那些破烂的军旗。",
+   "en": "shí cán qí: still knowing the torn army flags."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "欲祭：想要祭奠你，就是摆上东西悼念死去的人。",
+   "en": "yù jì: wanting to hold a rite for you, that is, to mourn the dead with offerings."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "疑君在：又怀疑你还活着。君，你。",
+   "en": "yí jūn zài: yet wondering if you are still alive. Jūn means you."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "天涯：天边，非常远的地方。",
+   "en": "tiān yá: the edge of the sky, a very faraway place."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "前年，你跟着军队去攻打吐蕃，",
+   "en": "The year before last, you marched with the army against Tubo,"
+  },
+  {
+   "zh": "在城边，整支军队都覆没了。",
+   "en": "and by the city walls the whole army was lost."
+  },
+  {
+   "zh": "从那以后，吐蕃和唐朝之间音信断绝，",
+   "en": "Since then, all news between Tubo and our land has been cut off,"
+  },
+  {
+   "zh": "不知你是死是活，我们就这样永远分别了。",
+   "en": "and not knowing if you live or died, we are parted forever."
+  },
+  {
+   "zh": "战场上丢下的破帐篷，没有人去收拾，",
+   "en": "No one has gathered up the torn tents left on the field;"
+  },
+  {
+   "zh": "只有跑回来的战马，还认得那破烂的军旗。",
+   "en": "only the horses that came back still know the tattered flags."
+  },
+  {
+   "zh": "我想祭奠你，又怀疑你也许还活着，",
+   "en": "I want to mourn you, yet I wonder if you are still alive,"
+  },
+  {
+   "zh": "只能在这遥远的地方，此时此刻为你痛哭。",
+   "en": "so here, far away, at this moment, I can only weep for you."
+  }
+ ],
+ "background": {
+  "zh": "没蕃，就是陷没在吐蕃。吐蕃是唐朝西边的强国，在今天青藏高原一带。唐朝中期，吐蕃常常和唐朝打仗，很多士兵死在战场上，或者被俘，再也回不了家。张籍的一位老朋友跟着军队出征，结果全军覆没，从此没有了消息。张籍写下这首诗，悼念这位不知死活的朋友。诗写在哪一年，没有明确的记载。",
+  "en": "Mò fān means being lost in Tubo. Tubo was a strong kingdom west of the Tang, around today's Tibetan Plateau. In the middle Tang it often fought the Tang. Many soldiers died in battle or were captured and never came home. An old friend of Zhang Ji went to war with the army. The whole army was wiped out, and after that there was no news of him. Zhang Ji wrote this poem to mourn a friend who might be dead or alive. There is no clear record of the year."
+ },
+ "author_note": {
+  "zh": "张籍（约766—约830），字文昌，唐代诗人，是韩愈的学生和朋友。他很关心普通百姓的苦，写了很多乐府诗，就是能唱的、写社会生活的诗，和王建一起被称为“张王乐府”。他的诗语言朴素，感情真切，这首悼念朋友的诗也是这样。",
+  "en": "Zhang Ji (about 766–about 830), courtesy name Wenchang, was a Tang poet and a student and friend of Han Yu. He cared about the hardships of ordinary people and wrote many yuefu poems, songs about everyday life in society. Together with Wang Jian he was known for the \"Zhang-Wang yuefu\". His language is plain and his feelings are true, and this poem for a lost friend is the same."
+ },
+ "appreciation": {
+  "zh": "前四句讲事情：朋友出征，全军覆没，两边音信断绝，是死是活都不知道。后四句写想象和心情。战场上的破帐篷没人收，只有老马跑回来，还认得那面破旗。这个画面很静，却让人心里发冷：人呢？人没回来。最后两句最让人难受：想祭奠他，可万一他还活着呢？不祭吧，又多半已经死了。诗人只好在天边痛哭。这种又盼又怕的心情，把对朋友的情义写得很深。",
+  "en": "The first four lines tell what happened: the friend went to war, the whole army was lost, news stopped on both sides, and no one knows if he lived or died. The last four lines show what the poet imagines and feels. On the battlefield no one gathers the torn tents. Only an old horse comes back, still knowing the ragged flag. The picture is quiet, yet it leaves a chill: and the man? The man did not come back. The last two lines hurt the most. He wants to mourn his friend, but what if he is still alive? If he does not mourn, his friend is most likely dead. So the poet can only weep far away. This mix of hope and fear shows how deep the friendship was."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "war",
+   "friendship",
+   "grief",
+   "frontier"
+  ]
+ },
+ "uncertain": []
+}

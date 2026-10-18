@@ -1,0 +1,363 @@
+{
+ "id": "40cd6eec-c6ce-4659-a225-61063cd210e9",
+ "kind": "shi",
+ "title": "归嵩山作",
+ "title_en": "Returning to Mount Song",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "川",
+    "chuān"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "薄",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "禽",
+    "qín"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "递",
+    "dì"
+   ],
+   [
+    "嵩",
+    "sōng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "闭",
+    "bì"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“长薄”的“薄”指草木丛生的地方，读 bó，不读 báo。",
+   "en": "In cháng bó, the character means a thick growth of grass and trees. It is read bó, not báo."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还”是回来的意思，读 huán。",
+   "en": "Here it means to return, so it is read huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "清川：清清的河流。",
+   "en": "qīng chuān: a clear river."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "带：像衣带一样环绕着。",
+   "en": "dài: to wind around, like a belt."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "长薄：长长的一片草木丛。",
+   "en": "cháng bó: a long stretch of thick grass and bushes."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "闲闲：从容不慌忙的样子。",
+   "en": "xián xián: slowly, at ease."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "如有意：好像有情意一样。",
+   "en": "rú yǒu yì: as if it had feelings."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "暮禽：傍晚归巢的鸟。",
+   "en": "mù qín: birds flying home at dusk."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "相与还：和我一起回去。",
+   "en": "xiāng yǔ huán: return together with me."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "临：靠近，对着。",
+   "en": "lín: to be near, to face."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "古渡：古老的渡口，坐船过河的地方。",
+   "en": "gǔ dù: an old ferry crossing."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "迢递：遥远的样子，这里形容山高。",
+   "en": "tiáo dì: far away; here it describes how high the mountain is."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "嵩高：嵩山，在今天河南登封，古人称它“中岳”。",
+   "en": "sōng gāo: Mount Song, in today's Dengfeng, Henan, called the Central Peak in old times."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "闭关：关上门，不和外人来往，一心隐居。",
+   "en": "bì guān: to shut the gate, stop seeing people, and live quietly in retreat."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清清的河水绕着一大片草木丛流过，",
+   "en": "A clear river winds past a long stretch of thick bushes."
+  },
+  {
+   "zh": "我坐着车马，不慌不忙地往前走。",
+   "en": "My carriage and horses move along, slow and easy."
+  },
+  {
+   "zh": "流水好像懂我的心意，",
+   "en": "The flowing water seems to understand my heart,"
+  },
+  {
+   "zh": "傍晚的鸟儿也和我一起回家。",
+   "en": "and the evening birds fly home along with me."
+  },
+  {
+   "zh": "荒凉的旧城对着古老的渡口，",
+   "en": "A ruined town looks out over an old ferry crossing."
+  },
+  {
+   "zh": "落日的余光洒满秋天的山。",
+   "en": "The setting sun fills the autumn hills with light."
+  },
+  {
+   "zh": "在遥远高大的嵩山脚下，",
+   "en": "Here at the foot of tall, distant Mount Song,"
+  },
+  {
+   "zh": "我回来了，从此关上门，安心隐居。",
+   "en": "I have come home, and I will shut my gate and live in quiet."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是王维回嵩山隐居的路上写的。一般认为写于唐玄宗开元年间，那时王维暂时离开官场，到嵩山住了一段时间，具体年份说法不一。诗里写的是路上看到的秋天傍晚的景色，和他想要安静隐居的心情。",
+  "en": "Wang Wei wrote this poem on his way back to live in retreat at Mount Song. It is usually dated to the Kaiyuan years of Emperor Xuanzong, when Wang Wei stepped away from office for a while and lived at Mount Song, though the exact year is debated. The poem shows the autumn evening scenes along the road and his wish for a quiet life."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），唐代大诗人，也是画家和音乐家。他信佛，被人称为“诗佛”。他一边做官，一边常常隐居山林，最擅长写山水田园，苏轼说他“诗中有画”。",
+  "en": "Wang Wei (701–761, some say 699–761) was a great Tang poet, and also a painter and musician. He was a devout Buddhist and is called the Buddha of Poetry. He served as an official but often withdrew to the hills. He was best at poems of mountains and countryside; Su Shi said his poems held paintings inside them."
+ },
+ "appreciation": {
+  "zh": "一路上，诗人心里很平静。河水绕着草木，车马慢慢走，好像一点也不着急。他觉得流水有情，归鸟也在陪他一起回家，这其实是他自己的心情放在了景物上。接着画面变得开阔又有点冷清：荒城、古渡、满山落日，秋天的傍晚有一点寂寞。最后他到了高高的嵩山下，决定关上门不再管外面的事。全诗从轻松到冷清，再到安静，像一次慢慢放下的旅程。",
+  "en": "On the road, the poet feels calm. The river winds through the bushes, and his carriage moves slowly, in no hurry at all. He feels that the water has feelings and the birds are keeping him company on the way home. Really, he is putting his own mood into the scenery. Then the picture opens wide and grows a little lonely: a ruined town, an old ferry, hills full of setting sun. The autumn evening feels a bit empty. At last he reaches tall Mount Song and decides to shut his gate on the outside world. The poem moves from ease, to loneliness, to stillness, like a journey of slowly letting go."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountain",
+   "reclusion",
+   "journey",
+   "sunset"
+  ]
+ },
+ "uncertain": []
+}

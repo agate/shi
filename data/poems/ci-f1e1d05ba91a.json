@@ -1,0 +1,508 @@
+{
+ "id": "ci-f1e1d05ba91a",
+ "kind": "ci",
+ "title": "临江仙·忆昔西池池上饮",
+ "title_en": "Immortal by the River: I Remember Drinking by the West Pool",
+ "author": "晁冲之",
+ "author_en": "Chao Chongzhi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·临江仙（双调）",
+  "en": "ci lyric to the tune Lin Jiang Xian, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "娱",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "了",
+    "le"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "初",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "稳",
+    "wěn"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "湖",
+    "hú"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "定",
+    "dìng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "如",
+    "rú"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "无",
+    "wú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "zh": "“行”在这里读 háng，“一行书”是一行字、一封短信的意思，不读 xíng。",
+   "en": "Here this character is read háng; yī háng shū means a single line of writing, not xíng.",
+   "char": "行",
+   "pinyin": "háng"
+  },
+  {
+   "line": 1,
+   "pos": 3,
+   "zh": "“少”在这里读 shǎo，“多少”在这里是“多么多”的意思。",
+   "en": "Here this character is read shǎo; duō shǎo here means so much.",
+   "char": "少",
+   "pinyin": "shǎo"
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "zh": "“了”在这里读 le。一说读 liǎo，是完了、过后的意思。",
+   "en": "Here this character is read le. Some read it liǎo, meaning after, once over.",
+   "char": "了",
+   "pinyin": "le"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "忆昔：回想从前。",
+   "en": "yì xī: to remember the old days."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "西池：一般认为指北宋都城汴京（今河南开封）的金明池，是当时有名的游玩地方。",
+   "en": "xī chí: the West Pool, usually taken to be Jinming Pool in the Northern Song capital, Bianjing (today's Kaifeng), a famous pleasure spot."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "多少：这里是“多么多”的意思。",
+   "en": "duō shǎo: here, so much."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "欢娱：欢乐。",
+   "en": "huān yú: joy, fun."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "别来：分别以后。",
+   "en": "bié lái: since we parted."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "一行书：一行字的信。",
+   "en": "yī háng shū: a letter of even one line."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "寻常：平常。",
+   "en": "xún cháng: ordinary, usual."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "犹道：还说。",
+   "en": "yóu dào: still said."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "如初：像当初一样。",
+   "en": "rú chū: as it was at first."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "安稳：平平安安，睡得稳。",
+   "en": "ān wěn: peaceful, sound."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "锦屏：用锦缎装饰的屏风，放在床边。",
+   "en": "jǐn píng: a brocade screen beside the bed."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "好度：正好渡过。度，同“渡”，过。",
+   "en": "hǎo dù: just right for crossing. Dù here means to cross over water."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "江湖：江河湖泊，这里指两人之间遥远的路程。",
+   "en": "jiāng hú: rivers and lakes, here the long distance between them."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "休问：不要问。",
+   "en": "xiū wèn: do not ask."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "定何如：到底怎么样。",
+   "en": "dìng hé rú: how it really is."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "情知：明明知道。",
+   "en": "qíng zhī: knowing full well."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "管得：管得住，能管。",
+   "en": "guǎn dé: to be able to control."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 5,
+   "zh": "无：句末表示疑问，相当于“吗”。",
+   "en": "wú: at the end of a line it makes a question, like asking \"can it?\""
+  }
+ ],
+ "translation": [
+  {
+   "zh": "回想从前，我们在西池边饮酒，",
+   "en": "I remember how we used to drink by the West Pool."
+  },
+  {
+   "zh": "年年都有那么多欢乐。",
+   "en": "Every year there was so much joy."
+  },
+  {
+   "zh": "分别以后，你连一行字的信也没寄来。",
+   "en": "Since we parted, you have not sent even a line."
+  },
+  {
+   "zh": "从前我们平常见面的时候，",
+   "en": "Back then, even when we met in the usual way,"
+  },
+  {
+   "zh": "还总说不如初次相见时那么好。",
+   "en": "we would still say it was not as good as the first time."
+  },
+  {
+   "zh": "今夜我在锦屏后面安稳地做个梦吧，",
+   "en": "Tonight let me dream peacefully behind the brocade screen;"
+  },
+  {
+   "zh": "月光明亮，梦正好渡过江湖去找你。",
+   "en": "the moon is bright, just right for my dream to cross the rivers and lakes to you."
+  },
+  {
+   "zh": "至于相思到底有多苦，就别问了。",
+   "en": "As for how deep my longing is, do not ask."
+  },
+  {
+   "zh": "明明知道春天走了以后，",
+   "en": "I know full well that once spring has gone,"
+  },
+  {
+   "zh": "谁又管得住花儿飘落呢？",
+   "en": "who can stop the flowers from falling?"
+  }
+ ],
+ "background": {
+  "zh": "这首词回忆从前在西池边饮酒游乐的日子，抒发分别后的思念。一般认为，西池指汴京的金明池；晁冲之年轻时常和朋友在那里聚会。后来朝廷里党争激烈，他的许多朋友被贬到远方，他自己也隐居到具茨山下。一说这首词是怀念旧友的，一说是写给心上人的。具体写于哪一年已经不清楚。",
+  "en": "This lyric remembers the days of drinking and fun by the West Pool and pours out the longing that came after parting. The West Pool is usually taken to be Jinming Pool in the capital, Bianjing, where Chao Chongzhi often gathered with friends when young. Later, bitter fights between factions at court sent many of his friends far away, and he himself went to live quietly below Mount Juci. Some read the lyric as missing old friends; others read it as written to someone he loved. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "晁冲之，字叔用，北宋诗人、词人，生卒年不详。他出身有名的晁氏家族，是晁补之的堂弟。他和苏轼一派的文人关系密切。朝廷党争时，他不愿做官，隐居在具茨山下，人称“具茨先生”。他的诗词留下来的不多。",
+  "en": "Chao Chongzhi, courtesy name Shuyong, was a Northern Song poet; his dates are not known. He came from the famous Chao family and was a cousin of the poet Chao Buzhi. He was close to the writers around Su Shi. During the factional fights at court he refused to serve and lived quietly below Mount Juci, so people called him Master Juci. Few of his poems and lyrics survive."
+ },
+ "appreciation": {
+  "zh": "上半首先写从前的热闹：年年在西池边喝酒，多快乐。接着一转：分别后，你连一行字都没寄来。然后又回忆一个小细节：从前常见面，还嫌不如初见时好；现在连见一面都难了。今昔一比，失落就出来了。下半首他想：那就在梦里去找你吧，月亮这么亮，梦正好可以渡过江湖。相思有多苦，别问了。最后两句像在劝自己：春天走了，花总要落，谁也管不住。聚散也是这样，只能接受。话说得很淡，心里却很苦。",
+  "en": "The first half recalls the lively past: every year they drank by the West Pool, and it was such fun. Then the turn: since parting, you have not sent a single line. Then a small memory: back then they met often and still complained it was not as good as the first meeting. Now even one meeting is hard. Comparing then and now brings out the loss. In the second half he thinks: then let me find you in a dream. The moon is so bright, just right for a dream to cross the rivers and lakes. How bitter is longing? Do not ask. The last two lines seem to talk himself round. When spring goes, flowers must fall, and no one can stop them. Meeting and parting are the same; one can only accept it. The words are calm, but the heart is full of pain."
+ },
+ "famous_lines": [
+  3,
+  4,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "memory",
+   "dream",
+   "moon",
+   "falling-flowers"
+  ]
+ },
+ "uncertain": []
+}

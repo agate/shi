@@ -1,0 +1,450 @@
+{
+ "id": "204e287b-8194-4c2d-808b-11cc260412ae",
+ "kind": "shi",
+ "title": "渭川田家",
+ "title_en": "Farm Homes by the Wei River",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "墟",
+    "xū"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "巷",
+    "xiàng"
+   ],
+   [
+    "牛",
+    "niú"
+   ],
+   [
+    "羊",
+    "yáng"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "牧",
+    "mù"
+   ],
+   [
+    "童",
+    "tóng"
+   ]
+  ],
+  [
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "杖",
+    "zhàng"
+   ],
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "荆",
+    "jīng"
+   ],
+   [
+    "扉",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "雉",
+    "zhì"
+   ],
+   [
+    "雊",
+    "gòu"
+   ],
+   [
+    "麦",
+    "mài"
+   ],
+   [
+    "苗",
+    "miáo"
+   ],
+   [
+    "秀",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "蚕",
+    "cán"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "桑",
+    "sāng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "荷",
+    "hè"
+   ],
+   [
+    "锄",
+    "chú"
+   ],
+   [
+    "至",
+    "zhì"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "依",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "即",
+    "jí"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "羡",
+    "xiàn"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "逸",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "式",
+    "shì"
+   ],
+   [
+    "微",
+    "wēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "荷",
+   "pinyin": "hè",
+   "zh": "荷锄：扛着锄头。荷是“扛”的意思，读 hè。",
+   "en": "In hè chú (carrying a hoe on the shoulder), the first character means 'to carry' and is read hè, not hé."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "斜阳：快落山的太阳。一作“斜光”。",
+   "en": "xié yáng: the setting sun. Some editions have 'slanting light'."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "墟落：村庄。",
+   "en": "xū luò: a village."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "穷巷：村子深处的小巷。",
+   "en": "qióng xiàng: a lane deep in the village."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "野老：村里的老人。",
+   "en": "yě lǎo: an old villager."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "念：惦记，挂念。",
+   "en": "niàn: to think about, to worry about."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "倚杖：拄着拐杖。",
+   "en": "yǐ zhàng: leaning on a walking stick."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "荆扉：用荆条编的柴门。",
+   "en": "jīng fēi: a gate woven from thorny branches."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "雉雊：野鸡叫。雉，野鸡；雊，野鸡叫。",
+   "en": "zhì gòu: pheasants calling. Zhì is a pheasant; gòu is its call."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "秀：庄稼抽穗开花。",
+   "en": "xiù: grain putting out its ears and flowering."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "蚕眠：蚕长大的过程中会有几次不吃不动，像睡着了一样，叫“蚕眠”。",
+   "en": "cán mián: silkworm sleep. As silkworms grow, they stop eating and lie still several times, as if asleep."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "桑叶稀：桑叶被采得差不多了，变得稀疏。",
+   "en": "sāng yè xī: the mulberry leaves are thin, mostly picked to feed the silkworms."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "田夫：种田的农夫。",
+   "en": "tián fū: farmers."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "荷锄：扛着锄头。",
+   "en": "hè chú: carrying a hoe on the shoulder."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "依依：恋恋不舍、亲切的样子。",
+   "en": "yī yī: warm and reluctant to part."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "即此：看到这些。",
+   "en": "jí cǐ: seeing all this."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "闲逸：安闲自在。",
+   "en": "xián yì: easy and carefree."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "怅然：失意、惆怅的样子。",
+   "en": "chàng rán: wistful, a little sad."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "式微：《诗经》里的一篇，里面反复唱“式微，式微，胡不归”，意思是“天黑了，为什么还不回家”。这里表示自己也想归隐田园。",
+   "en": "shì wēi: a song in the Book of Songs that repeats 'Dusk is falling, why not go home?' Here it shows the poet's wish to retire to the countryside."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夕阳照着村庄，",
+   "en": "The setting sun shines on the village,"
+  },
+  {
+   "zh": "牛羊沿着深巷回来了。",
+   "en": "cattle and sheep come home down the deep lane."
+  },
+  {
+   "zh": "村里的老人惦记着放牧的孩子，",
+   "en": "An old villager thinks of the herd boy,"
+  },
+  {
+   "zh": "拄着拐杖在柴门口等候。",
+   "en": "and waits by the brushwood gate, leaning on his stick."
+  },
+  {
+   "zh": "野鸡在叫，麦子抽穗了，",
+   "en": "Pheasants call, the wheat is coming into ear,"
+  },
+  {
+   "zh": "蚕已经睡眠，桑叶也稀疏了。",
+   "en": "the silkworms sleep, and the mulberry leaves grow thin."
+  },
+  {
+   "zh": "农夫们扛着锄头回来，",
+   "en": "Farmers come back with hoes on their shoulders,"
+  },
+  {
+   "zh": "见了面亲亲热热地说个不停。",
+   "en": "and when they meet they talk warmly, not wanting to part."
+  },
+  {
+   "zh": "看到这些，我真羡慕这种安闲的日子，",
+   "en": "Seeing this, I long for such an easy life,"
+  },
+  {
+   "zh": "心中惆怅，不由得吟起《式微》来。",
+   "en": "and wistfully I begin to chant the old song 'Dusk Is Falling'."
+  }
+ ],
+ "background": {
+  "zh": "渭川就是渭水，流经今天的陕西关中，唐朝都城长安就在附近。这首诗写傍晚时渭水边农村的景象，具体写于哪一年已经不清楚。王维在朝廷做官多年，官场让他觉得疲惫。看到农家安宁的生活，他十分羡慕，诗的最后借《诗经·式微》表达了想要归隐的心思。",
+  "en": "The Wei River flows through the Guanzhong plain in today's Shaanxi, near the Tang capital Chang'an. This poem shows a farm village by the Wei at dusk. The year it was written is not known. Wang Wei served at court for many years, and official life wore him out. Seeing the calm life of farm families, he envied it deeply. At the end he uses the old song 'Dusk Is Falling' from the Book of Songs to show his wish to retire."
+ },
+ "author_note": {
+  "zh": "王维（701—761），字摩诘，唐代诗人、画家。他擅长写山水田园，和孟浩然并称“王孟”。苏轼说他“诗中有画”。他信佛，晚年在辋川隐居，诗风宁静淡远。这首诗里对田园生活的向往，正是他心境的写照。",
+  "en": "Wang Wei (701–761) was a Tang poet and painter. He was a master of poems about mountains, rivers and farm life, and is named together with Meng Haoran. Su Shi said there were pictures in his poems. He was a Buddhist and in later life lived quietly at his Wangchuan estate. His poems are calm and gentle. The longing for farm life in this poem mirrors his own state of mind."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅傍晚的乡村画。夕阳照着村庄，牛羊慢慢走回深巷，老人拄着拐杖在门口等放牛的孩子。接着是田野：野鸡叫，麦子抽穗，蚕在睡，桑叶稀了。农夫扛着锄头回来，见面说个没完。每一处都是“回家”：牛羊回家，孩子回家，农夫回家。看到大家都有家可归，诗人忽然很惆怅，想起《诗经》里“为什么还不回去”的歌。原来他羡慕的不只是闲适，更是一种安心的归宿。",
+  "en": "This poem is like a painting of a village at dusk. The setting sun lights the village. Cattle and sheep walk slowly home down the lane. An old man leans on his stick at the gate, waiting for the herd boy. Then come the fields: pheasants call, the wheat comes into ear, the silkworms sleep, the mulberry leaves thin out. Farmers return with their hoes and chat on and on. Everything is going home: the animals, the boy, the farmers. Seeing everyone with a home to return to, the poet suddenly feels wistful and recalls the old song that asks, why not go home? What he envies is not only an easy life but a place where the heart can rest."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "countryside",
+   "farm",
+   "dusk",
+   "retirement",
+   "homecoming"
+  ]
+ },
+ "uncertain": []
+}

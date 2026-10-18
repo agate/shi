@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>点绛唇·蹴罢秋千 · 无名氏 — 诗</title>
+    <meta name="description" content="点绛唇·蹴罢秋千 · 无名氏 — Dian Jiang Chun: Done with the Swing by Anonymous: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>点绛唇·蹴罢秋千</h1>
+        <p class="by">无名氏<span class="mono"><span lang="en">Anonymous · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Dian Jiang Chun: Done with the Swing</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>cù</i><b>蹴</b></span><span class="c gl" data-l="0" data-p="1"><i>bà</i><b>罢</b></span><span class="c" data-l="0" data-p="2"><i>qiū</i><b>秋</b></span><span class="c" data-l="0" data-p="3"><i>qiān</i><b>千</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>qǐ</i><b>起</b></span><span class="c" data-l="1" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="1" data-p="2"><i>yōng</i><b>慵</b></span><span class="c gl" data-l="1" data-p="3"><i>zhěng</i><b>整</b></span><span class="c gl" data-l="1" data-p="4"><i>xiān</i><b>纤</b></span><span class="c gl" data-l="1" data-p="5"><i>xiān</i><b>纤</b></span><span class="c gl" data-l="1" data-p="6"><i>shǒu</i><b>手</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>lù</i><b>露</b></span><span class="c gl" data-l="2" data-p="1"><i>nóng</i><b>浓</b></span><span class="c gl" data-l="2" data-p="2"><i>huā</i><b>花</b></span><span class="c gl" data-l="2" data-p="3"><i>shòu</i><b>瘦</b></span></p><p class="ln"><span class="c gl rd" data-l="3" data-p="0"><i>bó</i><b>薄</b></span><span class="c gl" data-l="3" data-p="1"><i>hàn</i><b>汗</b></span><span class="c gl" data-l="3" data-p="2"><i>qīng</i><b>轻</b></span><span class="c gl" data-l="3" data-p="3"><i>yī</i><b>衣</b></span><span class="c gl" data-l="3" data-p="4"><i>tòu</i><b>透</b></span></p><p class="ln brk"><span class="c" data-l="4" data-p="0"><i>jiàn</i><b>见</b></span><span class="c" data-l="4" data-p="1"><i>kè</i><b>客</b></span><span class="c" data-l="4" data-p="2"><i>rù</i><b>入</b></span><span class="c" data-l="4" data-p="3"><i>lái</i><b>来</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>wà</i><b>袜</b></span><span class="c gl rd" data-l="5" data-p="1"><i>chǎn</i><b>刬</b></span><span class="c gl" data-l="5" data-p="2"><i>jīn</i><b>金</b></span><span class="c gl" data-l="5" data-p="3"><i>chāi</i><b>钗</b></span><span class="c gl" data-l="5" data-p="4"><i>liū</i><b>溜</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>hé</i><b>和</b></span><span class="c gl" data-l="6" data-p="1"><i>xiū</i><b>羞</b></span><span class="c gl" data-l="6" data-p="2"><i>zǒu</i><b>走</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>yǐ</i><b>倚</b></span><span class="c gl" data-l="7" data-p="1"><i>mén</i><b>门</b></span><span class="c gl" data-l="7" data-p="2"><i>huí</i><b>回</b></span><span class="c gl" data-l="7" data-p="3"><i>shǒu</i><b>首</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>què</i><b>却</b></span><span class="c gl" data-l="8" data-p="1"><i>bǎ</i><b>把</b></span><span class="c gl" data-l="8" data-p="2"><i>qīng</i><b>青</b></span><span class="c gl" data-l="8" data-p="3"><i>méi</i><b>梅</b></span><span class="c gl" data-l="8" data-p="4"><i>xiù</i><b>嗅</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">蹴罢秋千</span><span lang="en">Done with the swing,</span><span lang="zh">荡完了秋千，</span></li><li><span class="o">起来慵整纤纤手</span><span lang="en">she gets up and lazily rubs her slender hands.</span><span lang="zh">她起身，懒懒地揉一揉细嫩的手。</span></li><li><span class="o">露浓花瘦</span><span lang="en">In the garden the dew is heavy and the flowers look thin.</span><span lang="zh">园子里露水很重，花儿细细瘦瘦的。</span></li><li><span class="o">薄汗轻衣透</span><span lang="en">A light sweat has soaked through her thin clothes.</span><span lang="zh">细细的汗水湿透了薄薄的衣裳。</span></li><li class="brk"><span class="o">见客入来</span><span lang="en">Suddenly she sees a guest come in.</span><span lang="zh">忽然看见有客人进来，</span></li><li><span class="o">袜刬金钗溜</span><span lang="en">She runs in her socks, with no time for shoes, and her gold hairpin slips out.</span><span lang="zh">她来不及穿鞋，只穿着袜子就跑，头上的金钗也滑落了。</span></li><li><span class="o">和羞走</span><span lang="en">Shy and flustered, she hurries away.</span><span lang="zh">她又害羞又着急地跑开。</span></li><li><span class="o">倚门回首</span><span lang="en">At the door she leans on it and turns to look back,</span><span lang="zh">跑到门边，又靠着门回过头来，</span></li><li><span class="o">却把青梅嗅</span><span lang="en">pretending to sniff a green plum.</span><span lang="zh">却装作在闻青梅的香味。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>蹴<span class="mono">cù</span></dt><dd><span lang="en">cù: to kick or push off with the foot, as when swinging.</span><span lang="zh">蹴：踩，蹬。这里指荡秋千时用脚蹬。</span></dd></div><div><dt>罢<span class="mono">bà</span></dt><dd><span lang="en">bà: finished, done.</span><span lang="zh">罢：完了，结束。</span></dd></div><div><dt>慵整<span class="mono">yōng zhěng</span></dt><dd><span lang="en">yōng zhěng: to tidy lazily. Yōng means lazy, languid.</span><span lang="zh">慵整：懒懒地整理。慵，懒洋洋的。</span></dd></div><div><dt>纤纤手<span class="mono">xiān xiān shǒu</span></dt><dd><span lang="en">xiān xiān shǒu: slender, delicate hands.</span><span lang="zh">纤纤手：又细又嫩的手。</span></dd></div><div><dt>露浓花瘦<span class="mono">lù nóng huā shòu</span></dt><dd><span lang="en">lù nóng huā shòu: the dew is heavy and the flowers look thin and small.</span><span lang="zh">露浓花瘦：露水很重，花儿显得又小又细。</span></dd></div><div><dt>薄汗轻衣透<span class="mono">bó hàn qīng yī tòu</span></dt><dd><span lang="en">bó hàn qīng yī tòu: a light sweat soaks through her thin clothes.</span><span lang="zh">薄汗轻衣透：细细的汗把薄薄的衣服都湿透了。</span></dd></div><div><dt>袜刬<span class="mono">wà chǎn</span></dt><dd><span lang="en">wà chǎn: walking in socks only, with no time to put on shoes.</span><span lang="zh">袜刬：只穿着袜子走，鞋都来不及穿。</span></dd></div><div><dt>金钗溜<span class="mono">jīn chāi liū</span></dt><dd><span lang="en">jīn chāi liū: her gold hairpin slips out. A hairpin is an ornament women wore in their hair.</span><span lang="zh">金钗溜：头上的金钗滑落下来。金钗，女子插在头发上的首饰。</span></dd></div><div><dt>和羞走<span class="mono">hé xiū zǒu</span></dt><dd><span lang="en">hé xiū zǒu: she runs off, full of shyness. Hé here means with.</span><span lang="zh">和羞走：带着害羞跑开。和，带着。</span></dd></div><div><dt>倚门回首<span class="mono">yǐ mén huí shǒu</span></dt><dd><span lang="en">yǐ mén huí shǒu: leaning on the door, she turns her head to look back.</span><span lang="zh">倚门回首：靠着门回过头来看。</span></dd></div><div><dt>却把青梅嗅<span class="mono">què bǎ qīng méi xiù</span></dt><dd><span lang="en">què bǎ qīng méi xiù: but she pretends to sniff a green plum. A green plum is an unripe plum.</span><span lang="zh">却把青梅嗅：却假装去闻青梅。青梅，还没熟的梅子。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>薄<span class="mono">bó</span></dt><dd><span lang="en">In bó hàn (a light sweat) the character is read bó. In everyday speech, meaning thin, it is often read báo.</span><span lang="zh">“薄汗”的“薄”读 bó，指一层细细的汗。口语里说“很薄”时读 báo。</span></dd></div><div><dt>刬<span class="mono">chǎn</span></dt><dd><span lang="en">Read chǎn. Wà chǎn means walking in socks only, without shoes.</span><span lang="zh">读 chǎn。“袜刬”是只穿着袜子走路，没穿鞋。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem shows one small moment: a young girl in a garden at the end of spring has just finished swinging when a guest suddenly arrives. Who wrote it is debated. Some books say Li Qingzhao, some say the author is unknown, and others name Su Shi or Zhou Bangyan. Today many people read it as a work of the young Li Qingzhao, but this cannot be proven.</p><p lang="zh">这首词写的是一个少女在春末夏初的园子里荡秋千，忽然有客人来了的一个小片段。作者是谁有争议：有的书说是李清照写的，有的说是无名氏，也有人说是苏轼或周邦彦写的。现在很多人把它当作李清照少女时期的作品来读，但这一点并不能确定。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">The author is unknown. The most common view is Li Qingzhao (1084–about 1155), from Zhangqiu near Jinan, the most famous woman writer of song lyrics in the Song dynasty. The lyrics of her girlhood are lively and bright, mostly about life at home. This poem feels much like her early work, so many people think she wrote it.</p><p lang="zh">作者不详。最常见的说法是李清照（1084—约1155），号易安居士，济南章丘人，宋代最有名的女词人。她少女时期的词活泼、明快，写的多是闺中生活，这首词的风格和她早期的作品很像，所以很多人认为是她写的。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is like a short film. The first half is a quiet picture: the girl has just finished swinging, lazily rubs her hands, and has a light sweat on her skin. The heavy dew and thin flowers describe the garden, and also set off how young and tender she is. In the second half the picture suddenly moves: a guest is coming! She is so flustered that she runs off in her socks, and her gold hairpin falls out. Red in the face, she hurries away. But at the door she cannot help looking back, and she pretends to sniff a green plum to hide her curiosity. Shy, flustered and curious: a few small actions bring the girl&#x27;s feelings to life.</p><p lang="zh">这首词像一段小电影。上阕是安静的画面：少女刚荡完秋千，懒懒地揉着手，身上出了一层细汗。“露浓花瘦”写园子里的花，也映衬出少女的娇嫩。下阕画面忽然动起来：有客人来了！她慌得鞋都没穿，金钗也掉了，红着脸跑开。可是跑到门口，她又忍不住回头看，还假装在闻青梅，好掩饰自己的好奇。害羞、慌张、好奇，几个小动作就把一个少女的心思写活了。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/qingmenyin-chunsi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>青门引·春思</b></a><a href="../../p/yanqingdou-chuchun/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>宴清都·初春</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["蹴", "cù"], ["罢", "bà"], ["秋", "qiū"], ["千", "qiān"]], [["起", "qǐ"], ["来", "lái"], ["慵", "yōng"], ["整", "zhěng"], ["纤", "xiān"], ["纤", "xiān"], ["手", "shǒu"]], [["露", "lù"], ["浓", "nóng"], ["花", "huā"], ["瘦", "shòu"]], [["薄", "bó"], ["汗", "hàn"], ["轻", "qīng"], ["衣", "yī"], ["透", "tòu"]], [["见", "jiàn"], ["客", "kè"], ["入", "rù"], ["来", "lái"]], [["袜", "wà"], ["刬", "chǎn"], ["金", "jīn"], ["钗", "chāi"], ["溜", "liū"]], [["和", "hé"], ["羞", "xiū"], ["走", "zǒu"]], [["倚", "yǐ"], ["门", "mén"], ["回", "huí"], ["首", "shǒu"]], [["却", "què"], ["把", "bǎ"], ["青", "qīng"], ["梅", "méi"], ["嗅", "xiù"]]], "glosses": [{"line": 0, "start": 0, "end": 1, "zh": "蹴：踩，蹬。这里指荡秋千时用脚蹬。", "en": "cù: to kick or push off with the foot, as when swinging."}, {"line": 0, "start": 1, "end": 2, "zh": "罢：完了，结束。", "en": "bà: finished, done."}, {"line": 1, "start": 2, "end": 4, "zh": "慵整：懒懒地整理。慵，懒洋洋的。", "en": "yōng zhěng: to tidy lazily. Yōng means lazy, languid."}, {"line": 1, "start": 4, "end": 7, "zh": "纤纤手：又细又嫩的手。", "en": "xiān xiān shǒu: slender, delicate hands."}, {"line": 2, "start": 0, "end": 4, "zh": "露浓花瘦：露水很重，花儿显得又小又细。", "en": "lù nóng huā shòu: the dew is heavy and the flowers look thin and small."}, {"line": 3, "start": 0, "end": 5, "zh": "薄汗轻衣透：细细的汗把薄薄的衣服都湿透了。", "en": "bó hàn qīng yī tòu: a light sweat soaks through her thin clothes."}, {"line": 5, "start": 0, "end": 2, "zh": "袜刬：只穿着袜子走，鞋都来不及穿。", "en": "wà chǎn: walking in socks only, with no time to put on shoes."}, {"line": 5, "start": 2, "end": 5, "zh": "金钗溜：头上的金钗滑落下来。金钗，女子插在头发上的首饰。", "en": "jīn chāi liū: her gold hairpin slips out. A hairpin is an ornament women wore in their hair."}, {"line": 6, "start": 0, "end": 3, "zh": "和羞走：带着害羞跑开。和，带着。", "en": "hé xiū zǒu: she runs off, full of shyness. Hé here means with."}, {"line": 7, "start": 0, "end": 4, "zh": "倚门回首：靠着门回过头来看。", "en": "yǐ mén huí shǒu: leaning on the door, she turns her head to look back."}, {"line": 8, "start": 0, "end": 5, "zh": "却把青梅嗅：却假装去闻青梅。青梅，还没熟的梅子。", "en": "què bǎ qīng méi xiù: but she pretends to sniff a green plum. A green plum is an unripe plum."}], "readings": [{"line": 3, "pos": 0, "char": "薄", "pinyin": "bó", "zh": "“薄汗”的“薄”读 bó，指一层细细的汗。口语里说“很薄”时读 báo。", "en": "In bó hàn (a light sweat) the character is read bó. In everyday speech, meaning thin, it is often read báo."}, {"line": 5, "pos": 1, "char": "刬", "pinyin": "chǎn", "zh": "读 chǎn。“袜刬”是只穿着袜子走路，没穿鞋。", "en": "Read chǎn. Wà chǎn means walking in socks only, without shoes."}], "speak": ["蹴罢秋千", "起来慵整纤纤手", "露浓花瘦", "勃汗轻衣透", "见客入来", "袜刬金钗溜", "和羞走", "倚门回首", "却把青梅嗅"], "speakTitle": "点绛唇，蹴罢秋千。无名氏。", "sample": "蹴罢秋千"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,825 @@
+{
+ "id": "ci-4e5916455c61",
+ "kind": "ci",
+ "title": "竹马子·登孤垒荒凉",
+ "title_en": "Zhu Ma Zi: Climbing the Lonely Ramparts",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《竹马子》（又名《竹马儿》），双调",
+  "en": "ci to the tune Zhu Ma Zi (also called Zhu Ma Er), in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "垒",
+    "lěi"
+   ],
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "凉",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "旷",
+    "kuàng"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "雌",
+    "cí"
+   ],
+   [
+    "霓",
+    "ní"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "拂",
+    "fú"
+   ],
+   [
+    "槛",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "烦",
+    "fán"
+   ],
+   [
+    "暑",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "蝉",
+    "chán"
+   ],
+   [
+    "噪",
+    "zào"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "商",
+    "shāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "序",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "览",
+    "lǎn"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "欢",
+    "huān"
+   ]
+  ],
+  [
+   [
+    "指",
+    "zhǐ"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "京",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "追",
+    "zhuī"
+   ],
+   [
+    "感",
+    "gǎn"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "积",
+    "jī"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "聚",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "伫",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "赢",
+    "yíng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "霁",
+    "jì"
+   ],
+   [
+    "霭",
+    "ǎi"
+   ],
+   [
+    "霏",
+    "fēi"
+   ],
+   [
+    "微",
+    "wēi"
+   ]
+  ],
+  [
+   [
+    "暝",
+    "míng"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "索",
+    "suǒ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "槛",
+   "pinyin": "jiàn",
+   "zh": "“槛”指栏杆，读 jiàn。读 kǎn 时是门槛的意思。",
+   "en": "Here this character means a railing and is read jiàn. Read kǎn, it means a doorsill."
+  },
+  {
+   "line": 20,
+   "pos": 3,
+   "char": "角",
+   "pinyin": "jiǎo",
+   "zh": "“画角”是画着花纹的号角，“角”读 jiǎo。",
+   "en": "Huà jiǎo is a painted horn, so this character is read jiǎo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "孤垒：孤零零的旧城墙、营垒。",
+   "en": "gū lěi: a lonely old rampart."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "危亭：高高的亭子。危，高。",
+   "en": "wēi tíng: a tall pavilion. Wēi here means high."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "旷望：向远处眺望。",
+   "en": "kuàng wàng: to gaze far into the distance."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "烟渚：雾气笼罩的水中小洲。渚，水中的小块陆地。",
+   "en": "yān zhǔ: a misty islet. Zhǔ is a small piece of land in the water."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "雌霓：彩虹外圈颜色较淡的那道虹。古人把颜色鲜艳的叫“虹”，算雄的；淡的叫“霓”，算雌的。",
+   "en": "cí ní: the paler outer rainbow. People of old called the bright bow male and the paler one female."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "挂雨：雨后挂在天上。",
+   "en": "guà yǔ: hanging in the sky after rain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "雄风：强劲凉爽的风。语出宋玉《风赋》。",
+   "en": "xióng fēng: a strong, cool wind, a phrase from Song Yu's Rhapsody on the Wind."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "拂槛：吹过栏杆。",
+   "en": "fú jiàn: brushing the railing."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "微收烦暑：让闷热稍稍退去。",
+   "en": "wēi shōu fán shǔ: eases the stifling heat a little."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 6,
+   "zh": "一叶惊秋：看到一片落叶，惊觉秋天到了。古话说“一叶落而知天下秋”。",
+   "en": "yī yè jīng qiū: one falling leaf startles him into knowing autumn is here. An old saying goes: one leaf falls, and all the world knows it is autumn."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "噪晚：在傍晚吵闹地叫。",
+   "en": "zào wǎn: shrilling in the evening."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "素商：指秋天。古人把秋天配白色（素）和五音里的商音。",
+   "en": "sù shāng: autumn. People of old matched autumn with the colour white and the musical note shang."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "时序：季节。",
+   "en": "shí xù: the season."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "前欢：从前的欢乐。",
+   "en": "qián huān: past joys."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 3,
+   "zh": "神京：京城，指北宋都城汴京（今河南开封）。",
+   "en": "shén jīng: the capital, Bianjing, today's Kaifeng in Henan."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "非雾非烟：像雾又不是雾，像烟又不是烟，指吉祥的彩云，也形容京城远在云霭深处。",
+   "en": "fēi wù fēi yān: not quite mist, not quite smoke: lucky coloured clouds, and the haze that hides the far-off capital."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "向此：到了这里，在这时。",
+   "en": "xiàng cǐ: here, at this moment."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "追感：回想往事而感伤。",
+   "en": "zhuī gǎn: sad thoughts of the past."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: old friends."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "凭高：登在高处。",
+   "en": "píng gāo: standing up high."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "尽日：整天。",
+   "en": "jìn rì: all day long."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 6,
+   "zh": "凝伫：一动不动地久久站着。",
+   "en": "níng zhù: standing still for a long time."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "赢得：只落得。",
+   "en": "yíng dé: all one gains is."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "消魂：非常伤心，好像魂都没了。",
+   "en": "xiāo hún: so sad that one seems to lose one's soul."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "极目：尽力远望。",
+   "en": "jí mù: looking as far as the eye can see."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "霁霭：雨后的雾气。霁，雨停天晴。",
+   "en": "jì ǎi: mist after rain. Jì means the rain has cleared."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "霏微：雾气轻轻飘散的样子。",
+   "en": "fēi wēi: drifting thin and light."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "暝鸦：黄昏时的乌鸦。暝，天黑。",
+   "en": "míng yā: crows at dusk. Míng means dark."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "萧索：冷落、凄凉。",
+   "en": "xiāo suǒ: bleak and desolate."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "画角：画着花纹的号角，古代军中用来报时。",
+   "en": "huà jiǎo: a painted horn, used in old army camps to mark the time."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "登上荒凉孤寂的旧城垒，",
+   "en": "I climb the bleak and lonely rampart."
+  },
+  {
+   "zh": "在高高的亭子里向远处眺望，",
+   "en": "From the tall pavilion I gaze far away,"
+  },
+  {
+   "zh": "静静地面对雾气笼罩的江中小洲。",
+   "en": "quietly facing a misty islet in the river."
+  },
+  {
+   "zh": "看着淡淡的彩虹挂在雨后的天上，",
+   "en": "A pale rainbow hangs in the sky after rain."
+  },
+  {
+   "zh": "凉爽的大风吹过栏杆，",
+   "en": "A strong cool wind brushes the railing,"
+  },
+  {
+   "zh": "闷热的暑气稍稍退去。",
+   "en": "and the stifling heat eases a little."
+  },
+  {
+   "zh": "渐渐发觉，一片落叶惊动了秋天，",
+   "en": "Slowly I see one falling leaf announce autumn."
+  },
+  {
+   "zh": "残留的秋蝉在傍晚吵闹地叫，",
+   "en": "Late cicadas shrill in the evening."
+  },
+  {
+   "zh": "已经是秋天的时节了。",
+   "en": "The season of autumn has come."
+  },
+  {
+   "zh": "看着这些景物，想起从前的欢乐，",
+   "en": "Looking at the view, I think of past joys."
+  },
+  {
+   "zh": "我指向京城的方向，",
+   "en": "I point toward the capital,"
+  },
+  {
+   "zh": "它在那像雾又像烟的云霭深处。",
+   "en": "deep in a haze that is neither mist nor smoke."
+  },
+  {
+   "zh": "到这时，不由得回想往事，满心伤感，",
+   "en": "Here, I am filled with sad memories."
+  },
+  {
+   "zh": "新的愁绪容易堆积，",
+   "en": "New sorrows pile up easily,"
+  },
+  {
+   "zh": "老朋友却难得相聚。",
+   "en": "but old friends are hard to gather."
+  },
+  {
+   "zh": "我在高处整天久久站立，",
+   "en": "All day I stand still on the heights,"
+  },
+  {
+   "zh": "只落得伤心到说不出话。",
+   "en": "and gain only a grief too deep for words."
+  },
+  {
+   "zh": "尽力远望，雨后的雾气轻轻飘散，",
+   "en": "As far as I can see, thin mist drifts after the rain."
+  },
+  {
+   "zh": "黄昏的乌鸦零零乱乱地飞，",
+   "en": "Crows at dusk scatter in disorder,"
+  },
+  {
+   "zh": "江城在暮色里一片冷落。",
+   "en": "and the river town grows bleak at nightfall."
+  },
+  {
+   "zh": "南楼上的画角声响起，",
+   "en": "The painted horn on the south tower sounds,"
+  },
+  {
+   "zh": "又把夕阳送走了。",
+   "en": "sending the setting sun away once more."
+  }
+ ],
+ "background": {
+  "zh": "这首词写作者在一座江边城市登上旧城垒，从高高的亭子里远望，正是夏天刚过、秋天刚来的时候。他望着京城的方向，想起从前在那里的欢乐日子，又想到老朋友难再相聚。柳永一生多半在外地奔波，这首词就是他漂泊在外时写的。具体是哪座城、哪一年，现在说不清楚。",
+  "en": "In this ci the poet climbs an old rampart in a riverside town and gazes far from a tall pavilion. Summer has just ended and autumn is arriving. He looks toward the capital, remembers the happy days he had there, and thinks how hard it is to see old friends again. Liu Yong spent much of his life travelling from post to post, and he wrote this while far from home. We do not know which town it was or in what year."
+ },
+ "author_note": {
+  "zh": "柳永（约984—约1053），原名三变，字耆卿，崇安（今福建武夷山）人。他年轻时在京城生活，常为歌女写词，考了很多次才中进士，后来只做过小官，长年漂泊。他擅长写长调慢词，写旅途的孤单和离别的愁苦最动人。",
+  "en": "Liu Yong (about 984 – about 1053) came from Chong'an, today's Wuyishan in Fujian. As a young man he lived in the capital and wrote songs for singing girls. He failed the exams many times before passing, then held only small posts and drifted for years. He was a master of long, slow ci, and wrote most movingly about the loneliness of travel and the pain of parting."
+ },
+ "appreciation": {
+  "zh": "上片是登高看到的景。荒凉的城垒，高高的亭子，下面是雾气笼罩的江中小洲。雨后挂着彩虹，凉风吹过栏杆，夏天的闷热稍稍退去。一片落叶让人惊觉秋天来了，傍晚残蝉还在叫。这时他望向京城，那里在云霭深处，看不见。下片转入心情：越想越伤感，新的愁容易堆起来，老朋友却难相聚。他在高处站了一整天，只换来说不出话的难过。最后的画面很美也很冷：雨后的雾气轻轻飘着，乌鸦乱飞，江城一片萧条，南楼的号角声又把夕阳送走了。景物越来越暗，心情也越来越沉。",
+  "en": "The first stanza is the view from the heights. Lonely ramparts, a tall pavilion, and below, a misty islet in the river. After rain a rainbow hangs in the sky, a cool wind brushes the railing, and the summer heat eases a little. One falling leaf makes him realise autumn has come, and late cicadas still shrill in the evening. He looks toward the capital, but it lies deep in clouds and he cannot see it. The second stanza turns to his heart. The more he thinks, the sadder he gets. New sorrows pile up easily, but old friends are hard to gather. He stands up high all day and gains nothing but a speechless ache. The last picture is lovely and cold. Thin mist drifts after the rain, crows fly in disorder, the river town grows bleak, and the horn on the south tower sends the setting sun away once more. The scene grows darker, and his mood grows heavier."
+ },
+ "famous_lines": [
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "homesick",
+   "dusk",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

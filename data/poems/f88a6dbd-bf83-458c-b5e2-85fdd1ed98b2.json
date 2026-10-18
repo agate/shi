@@ -1,0 +1,351 @@
+{
+ "id": "f88a6dbd-bf83-458c-b5e2-85fdd1ed98b2",
+ "kind": "shi",
+ "title": "至德二载甫自京金光门出间道归凤翔乾元初从左拾遗移华州掾与亲故别因出此门有悲往事",
+ "title_en": "Leaving Again Through the Jinguang Gate",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "顺",
+    "shùn"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "郊",
+    "jiāo"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "繁",
+    "fán"
+   ]
+  ],
+  [
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "胆",
+    "dǎn"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "招",
+    "zhāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "侍",
+    "shì"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "京",
+    "jīng"
+   ],
+   [
+    "邑",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "尊",
+    "zūn"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "驻",
+    "zhù"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料题目里的“问道”是“间道”之误。间道（jiàn dào）就是偏僻的小路。第五句语料作“近得归京邑”，通行本作“近侍归京邑”，这里用通行本。第三句也有版本作“至今犹破胆”。",
+  "en": "The corpus title has \"wèn dào\", a slip for \"jiàn dào\", a hidden side path. Line five reads \"jìn dé guī jīng yì\" in the corpus; the common text has \"jìn shì guī jīng yì\", which is used here. Some editions give line three as \"zhì jīn yóu pò dǎn\"."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "应：这里读 yīng，意思是应该、想必。",
+   "en": "yīng: here it means surely, must be, so it is read yīng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "此道：这条路，指从金光门出去的路。金光门是长安城西边的一座城门。",
+   "en": "cǐ dào: this road, the road out through the Jinguang Gate, a gate on the west side of Chang'an."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "归顺：投奔朝廷。指杜甫从叛军占领的长安逃出来，去投奔唐肃宗。",
+   "en": "guī shùn: to go over to the rightful court. Du Fu fled rebel-held Chang'an to join Emperor Suzong."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "胡正繁：叛军正多。胡，这里指安禄山、史思明的叛军。",
+   "en": "hú zhèng fán: the rebels were everywhere. Hú here means the rebel army of An Lushan and Shi Siming."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "破胆：吓破了胆。",
+   "en": "pò dǎn: scared out of one's wits."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "未招魂：吓跑的魂还没有招回来。古人认为人受了大惊吓，魂会离开身体，要招魂才能回来。",
+   "en": "wèi zhāo hún: the soul that fled in fright has not yet been called back. People long ago believed a great fright could drive the soul from the body, and it had to be called home."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "近侍：在皇帝身边做事的官。杜甫当时做左拾遗，是给皇帝提意见的小官。",
+   "en": "jìn shì: an official who serves close to the emperor. Du Fu was then a Left Reminder, a minor post for giving the emperor advice."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "京邑：京城，指长安。",
+   "en": "jīng yì: the capital, Chang'an."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "移官：调动官职。这里其实是降职，被贬到华州去做小官。",
+   "en": "yí guān: to be moved to another post. Here it really means a demotion to a small post in Huazhou."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "岂至尊：难道是皇帝的意思吗？至尊，最尊贵的人，指皇帝。",
+   "en": "qǐ zhì zūn: could this be the emperor's own wish? Zhì zūn, the most honored one, means the emperor."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "日衰老：一天天老下去。",
+   "en": "rì shuāi lǎo: growing older day by day."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "驻马：让马停下来。",
+   "en": "zhù mǎ: to stop one's horse."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "千门：皇宫里一重又一重的宫门，代指皇宫。",
+   "en": "qiān mén: the thousand gates of the palace, standing for the palace itself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "当年我就是从这条路逃出去，投奔朝廷的，",
+   "en": "Long ago I fled down this very road to join the court."
+  },
+  {
+   "zh": "那时长安西郊到处都是叛军。",
+   "en": "Back then the western outskirts swarmed with rebels."
+  },
+  {
+   "zh": "直到今天，我还觉得胆战心惊，",
+   "en": "Even today my courage is still shattered;"
+  },
+  {
+   "zh": "想必还有被吓跑的魂没招回来。",
+   "en": "surely part of my soul, scared away, has not come back."
+  },
+  {
+   "zh": "后来我跟着皇帝回到了京城，",
+   "en": "Later I came back to the capital to serve near the emperor."
+  },
+  {
+   "zh": "如今被调走，难道是皇上的本意吗？",
+   "en": "Now I am sent away. Can this really be the emperor's wish?"
+  },
+  {
+   "zh": "我没有什么才能，又一天天老了，",
+   "en": "I have no great talent, and I grow older every day."
+  },
+  {
+   "zh": "只好停下马来，回头望着皇宫的重重宫门。",
+   "en": "So I stop my horse and look back at the palace's thousand gates."
+  }
+ ],
+ "background": {
+  "zh": "题目很长，讲清了来龙去脉。至德二载（757年），长安被安史叛军占领，杜甫冒险从金光门出城，走小路逃到凤翔，投奔唐肃宗，做了左拾遗。乾元元年（758年），他因为替宰相房琯说话，被贬为华州司功参军。离开长安时，他又从金光门出城，想起一年前的逃难，心里很难过，就写了这首诗。",
+  "en": "The long title tells the whole story. In 757, Chang'an was held by the An Lushan rebels. Du Fu slipped out through the Jinguang Gate and took side paths to Fengxiang to join Emperor Suzong, who made him a Left Reminder. In 758, because he had spoken up for the chief minister Fang Guan, he was demoted to a minor post in Huazhou. Leaving Chang'an, he went out through the same gate, remembered his escape a year before, and wrote this poem in sorrow."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他一生关心国家和百姓。安史之乱中他亲身逃难，又一心想帮皇帝把国家治理好。可是他说话太直，很快就被赶出朝廷。这次离开长安以后，他再也没有回到朝廷做官。",
+  "en": "Du Fu (712 to 770) was a great Tang poet, called the Sage of Poetry. All his life he cared about his country and its people. He fled for his life during the An Lushan Rebellion and wanted with all his heart to help the emperor set things right. But he spoke too frankly and was soon pushed out of the court. After leaving Chang'an this time, he never served at court again."
+ },
+ "appreciation": {
+  "zh": "这首诗把两次出城放在一起看。第一次出金光门，是冒着生命危险逃出叛军占领的长安，去投奔皇帝；那份害怕到今天还在，好像魂都没招回来。第二次出同一座门，却是被皇帝贬走。同一条路，当年是满怀忠心地奔向朝廷，现在是带着委屈离开朝廷，这种对比让人心酸。“移官岂至尊”问得很委婉：他不敢怪皇帝，只说难道这是皇上的意思吗？最后他说自己没才能、又老了，其实是伤心的反话。他停下马，回头望着皇宫，舍不得走，也放不下对国家的心。",
+  "en": "This poem sets two trips through the same gate side by side. The first time, Du Fu risked his life to escape rebel-held Chang'an and join the emperor. That fear is still with him, as if his soul has never come back. The second time, he goes out through the same gate because the emperor has sent him away. On the same road he once ran toward the court full of loyalty, and now he leaves it feeling wronged. The contrast is painful. His question, \"Can this be the emperor's wish?\", is very gentle. He dares not blame the emperor. When he says he has no talent and is growing old, he is speaking bitterly. He stops his horse and looks back at the palace. He does not want to go, and he cannot stop caring about his country."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "war",
+   "exile",
+   "loyalty"
+  ]
+ },
+ "uncertain": []
+}

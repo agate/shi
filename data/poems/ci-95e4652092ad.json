@@ -1,0 +1,865 @@
+{
+ "id": "ci-95e4652092ad",
+ "kind": "ci",
+ "title": "永遇乐·璧月初晴",
+ "title_en": "Yong Yu Le: The Jade-Disc Moon Shines After Rain",
+ "author": "刘辰翁",
+ "author_en": "Liu Chenweng",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "璧",
+    "bì"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "黛",
+    "dài"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "澹",
+    "dàn"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "禁",
+    "jìn"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "堤",
+    "dī"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "遽",
+    "jù"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "懒",
+    "lǎn"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "禁",
+    "jìn"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "宣",
+    "xuān"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "故",
+    "gù"
+   ]
+  ],
+  [
+   [
+    "缃",
+    "xiāng"
+   ],
+   [
+    "帙",
+    "zhì"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "离",
+    "lí"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "鬟",
+    "huán"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "五",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "赋",
+    "fù"
+   ],
+   [
+    "词",
+    "cí"
+   ],
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "鄜",
+    "fū"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "对",
+    "duì"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "釭",
+    "gāng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "寐",
+    "mèi"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "社",
+    "shè"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "禁",
+   "pinyin": "jìn",
+   "zh": "读 jìn。“禁苑”是皇家园林，“禁夜”是夜里不许出门。",
+   "en": "Read jìn. Jìn yuàn is an imperial garden; jìn yè is a curfew at night."
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "读 cháng，意思是“常常、总是”。",
+   "en": "Read cháng, meaning often, always."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "璧月：像玉璧一样圆的月亮。璧，中间有孔的圆形玉器。",
+   "en": "bì yuè: a moon round like a jade disc. A bì is a flat round jade with a hole in the middle."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "初晴：雨后刚刚放晴。",
+   "en": "chū qíng: just clearing after rain."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "黛云：青黑色的云。黛，青黑色。",
+   "en": "dài yún: dark blue-black clouds."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "远澹：在远处淡淡地飘着。澹，同“淡”。",
+   "en": "yuǎn dàn: drifting faintly far away. Dàn here means pale, faint."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "春事谁主：春天的事由谁来做主？暗指国家已经亡了，江山换了主人。",
+   "en": "chūn shì shuí zhǔ: who is master of spring now? It hints that the country has fallen and the land has a new master."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "禁苑：皇家园林，这里指南宋都城临安（今浙江杭州）的皇宫园林。",
+   "en": "jìn yuàn: the imperial gardens; here, those of the Southern Song capital Lin'an, today's Hangzhou."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "娇寒：微微的寒意。",
+   "en": "jiāo hán: a delicate chill."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "湖堤：西湖边的堤岸。",
+   "en": "hú dī: the banks of West Lake."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "倦暖：暖得让人发懒。",
+   "en": "juàn nuǎn: a warmth that makes one drowsy."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "前度：上一次，从前。",
+   "en": "qián dù: last time, the past."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "遽如许：竟然一下子变成这样。遽，突然；如许，这样。",
+   "en": "jù rú xǔ: suddenly become like this. Jù means suddenly; rú xǔ means like this."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "香尘暗陌：车马扬起带着香气的尘土，把街道都遮暗了。陌，道路。",
+   "en": "xiāng chén àn mò: fragrant dust from carriages darkens the streets. Mò means road."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "华灯明昼：美丽的彩灯把夜晚照得像白天。",
+   "en": "huá dēng míng zhòu: bright lanterns make the night as light as day."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 6,
+   "zh": "长是懒携手去：可我总是懒得和人结伴去游玩。",
+   "en": "cháng shì lǎn xié shǒu qù: but I was always too lazy to go out arm in arm with others."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "断烟：没有炊烟，没有灯火，冷冷清清。",
+   "en": "duàn yān: no smoke from fires, no lights; all is bleak."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "禁夜：夜里禁止出门。元朝统治者不许人们夜里聚集看灯。",
+   "en": "jìn yè: a curfew. The Yuan rulers forbade people to gather at night to see lanterns."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 6,
+   "zh": "似愁风雨：好像整座城都在为风雨发愁。",
+   "en": "sì chóu fēng yǔ: as if the whole city were worried by wind and rain."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "宣和：北宋宋徽宗的年号（1119—1125）。那时北宋还很繁华，不久就被金兵灭了。",
+   "en": "xuān hé: a reign title of Emperor Huizong of Northern Song, 1119 to 1125. The Northern Song was still splendid then, and soon fell to the Jin."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "临安南渡：北宋灭亡后，朝廷渡过长江往南迁，把临安当作都城。",
+   "en": "lín ān nán dù: after the Northern Song fell, the court crossed south over the Yangtze and made Lin'an its capital."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "芳景：美好的风景，这里指元宵的热闹景象。",
+   "en": "fāng jǐng: lovely scenes; here, the bustle of the Lantern Festival."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "犹自如故：还和从前一样。",
+   "en": "yóu zì rú gù: still as it was before."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "缃帙：浅黄色的书套，代指书籍。指李清照和丈夫收藏的书画。",
+   "en": "xiāng zhì: light-yellow book covers, standing for books. Here, the books and art Li Qingzhao and her husband had collected."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "流离：流散丢失。",
+   "en": "liú lí: scattered and lost."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "风鬟：被风吹乱的头发。李清照《永遇乐》里有“如今憔悴，风鬟霜鬓”。",
+   "en": "fēng huán: hair tangled by the wind. Li Qingzhao's own Yong Yu Le has a line about her worn face and windblown, frosty hair."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "三五：三五一十五，指正月十五元宵节。",
+   "en": "sān wǔ: three times five is fifteen: the fifteenth of the first month, the Lantern Festival."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 3,
+   "zh": "能赋词：会写词的人，指李清照。",
+   "en": "néng fù cí: the one who could write ci: Li Qingzhao."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "江南无路：就连江南也没有出路了，指南宋已亡。",
+   "en": "jiāng nán wú lù: even in the south there is no road left; the Southern Song is gone."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "鄜州今夜：用杜甫《月夜》“今夜鄜州月，闺中只独看”。安史之乱时杜甫被困在长安，思念鄜州的家人。鄜州，在今陕西富县。",
+   "en": "fū zhōu jīn yè: from Du Fu's poem 'Moonlit Night': tonight the moon over Fuzhou, which my wife watches alone. During the An Lushan Rebellion, Du Fu was trapped in Chang'an and missed his family in Fuzhou, in today's Shaanxi."
+  },
+  {
+   "line": 20,
+   "start": 3,
+   "end": 6,
+   "zh": "谁知否：有谁知道吗？",
+   "en": "shuí zhī fǒu: does anyone know?"
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 3,
+   "zh": "空相对：白白地对着。",
+   "en": "kōng xiāng duì: facing it for nothing."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 2,
+   "zh": "残釭：快要熄灭的灯。釭，灯。",
+   "en": "cán gāng: a lamp burning low. Gāng means lamp."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 4,
+   "zh": "无寐：睡不着。寐，睡。",
+   "en": "wú mèi: unable to sleep."
+  },
+  {
+   "line": 23,
+   "start": 2,
+   "end": 4,
+   "zh": "社鼓：乡村祭祀土地神时敲的鼓。",
+   "en": "shè gǔ: village drums beaten at festivals for the earth god."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "雨后刚放晴，月亮圆得像玉璧，",
+   "en": "The rain has cleared; the moon is round as a jade disc."
+  },
+  {
+   "zh": "青黑色的云在远处淡淡飘着，",
+   "en": "Dark clouds drift faint and far."
+  },
+  {
+   "zh": "可春天的事，如今由谁做主呢？",
+   "en": "But who is master of spring now?"
+  },
+  {
+   "zh": "皇家园林里还有一丝微寒，",
+   "en": "The imperial gardens hold a delicate chill;"
+  },
+  {
+   "zh": "西湖堤上暖得让人发懒，",
+   "en": "the lake banks are warm enough to make one drowsy."
+  },
+  {
+   "zh": "和上次比，怎么一下子变成了这样！",
+   "en": "How suddenly it has all changed since last time!"
+  },
+  {
+   "zh": "从前，香车扬起的尘土把街道都遮暗了，",
+   "en": "Once, fragrant dust from carriages darkened the streets,"
+  },
+  {
+   "zh": "彩灯把夜晚照得像白天，",
+   "en": "and bright lanterns turned night into day,"
+  },
+  {
+   "zh": "我却总是懒得和人一起去玩。",
+   "en": "yet I was always too lazy to go out with friends."
+  },
+  {
+   "zh": "谁想得到，",
+   "en": "Who could have known"
+  },
+  {
+   "zh": "如今没有灯火，夜里不许出门，",
+   "en": "that now there are no fires, a curfew at night,"
+  },
+  {
+   "zh": "整座城好像都在为风雨发愁。",
+   "en": "and the whole city seems to grieve in wind and rain?"
+  },
+  {
+   "zh": "当年北宋宣和年间的繁华，",
+   "en": "The splendor of the old Xuanhe years,"
+  },
+  {
+   "zh": "到朝廷南迁临安以后，",
+   "en": "and after the court crossed south to Lin'an,"
+  },
+  {
+   "zh": "元宵的美景也还和从前一样。",
+   "en": "the festival scenes were still as fine as before."
+  },
+  {
+   "zh": "可李清照的藏书四处散失，",
+   "en": "But Li Qingzhao's books were scattered and lost;"
+  },
+  {
+   "zh": "元宵夜她头发被风吹乱，",
+   "en": "on the fifteenth night, her hair tangled by the wind,"
+  },
+  {
+   "zh": "这位会写词的人，心里最苦。",
+   "en": "she who could write ci suffered most of all."
+  },
+  {
+   "zh": "如今连江南也没有路可走了，",
+   "en": "Now even the south has no road left."
+  },
+  {
+   "zh": "像杜甫在鄜州的月夜思念家人那样，",
+   "en": "Like Du Fu thinking of his family under the Fuzhou moon tonight,"
+  },
+  {
+   "zh": "我的这份苦，又有谁知道呢？",
+   "en": "who knows the pain I feel?"
+  },
+  {
+   "zh": "我只能白白地对着",
+   "en": "I can only sit facing"
+  },
+  {
+   "zh": "快熄灭的灯，睡不着，",
+   "en": "a dying lamp, unable to sleep,"
+  },
+  {
+   "zh": "听着满村子祭神的鼓声。",
+   "en": "while village festival drums sound all around."
+  }
+ ],
+ "background": {
+  "zh": "词前有一段小序，大意是：我从乙亥年（1275年）元宵节读李清照的《永遇乐》，就流下眼泪。如今三年了，每次听到这首词都受不了，于是照着它的曲调又写一首，借李清照来说自己。虽然文采比不上她，悲苦却超过了她。这时南宋都城临安已在1276年被元军攻占，南宋基本灭亡。所以这首词大约写在1278年的元宵节。",
+  "en": "Before the ci there is a short preface. It says, in short: on the Lantern Festival of 1275 I read Li Qingzhao's Yong Yu Le and wept. Now three years have passed, and every time I hear it I cannot bear it. So I wrote one to the same tune, speaking of myself through Li Qingzhao. My words are not as fine as hers, but my grief is greater. By then the Yuan army had taken the Southern Song capital Lin'an in 1276, and the dynasty had all but fallen. So this ci was probably written at the Lantern Festival of 1278."
+ },
+ "author_note": {
+  "zh": "刘辰翁（1232—1297），字会孟，号须溪，庐陵（今江西吉安）人，南宋末年的词人。他考进士时在答卷里批评了权臣贾似道，被排在后面。南宋灭亡后，他隐居不出，不肯给元朝做官。他的词大多写亡国的痛苦，语气悲凉直接。他很敬佩李清照和辛弃疾。",
+  "en": "Liu Chenweng (1232–1297), also called Xuxi, came from Luling, today's Ji'an in Jiangxi. He was a ci poet of the last years of the Southern Song. In his top exam he criticized the powerful minister Jia Sidao, so he was ranked low. After the Southern Song fell, he lived in seclusion and refused to serve the Yuan. Most of his ci are about the pain of losing his country, in a sad and direct voice. He greatly admired Li Qingzhao and Xin Qiji."
+ },
+ "appreciation": {
+  "zh": "这首词是在和一百多年前的李清照“对话”。李清照经历了北宋灭亡，逃到南方，在元宵节写下《永遇乐》。刘辰翁又经历了南宋灭亡，在元宵节读她的词，觉得自己更苦。上片写眼前：月亮还是那么圆，春天还是来了，可“春事谁主”，国家已经换了主人。从前满城灯火，自己还懒得出去；现在想看都看不到了，城里冷冷清清，夜里不许出门。下片回想李清照：她南渡以后，元宵的景色好歹还在，可她已经很苦。现在连江南都没有了，这份苦，又有谁懂？结尾很静：一盏快灭的灯，一个睡不着的人，外面村子里却在敲鼓过节。热闹是别人的，他什么也没有。",
+  "en": "This ci is a kind of conversation with Li Qingzhao, who lived more than a hundred years earlier. She saw the Northern Song fall, fled south, and wrote her Yong Yu Le at a Lantern Festival. Liu Chenweng then saw the Southern Song fall, read her ci at the Lantern Festival, and felt his own pain was even greater. The first stanza shows the present. The moon is still round and spring has still come, but who is its master? The country has a new ruler. Once the city was full of lanterns and he was too lazy to go out. Now he cannot see them even if he wants to: the city is bleak, and no one may go out at night. The second stanza looks back at Li Qingzhao. After she fled south, at least the festival scenes were still there, yet she suffered greatly. Now even the south is gone; who can understand this pain? The ending is very quiet: a dying lamp, a man who cannot sleep, and outside, village drums beating for a festival. The joy belongs to others; he has nothing."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "lost-country",
+   "grief",
+   "lantern",
+   "memory"
+  ]
+ },
+ "uncertain": []
+}

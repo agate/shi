@@ -1,0 +1,415 @@
+{
+ "id": "ci-252d3ed1dfa6",
+ "kind": "ci",
+ "title": "清平乐·金风细细",
+ "title_en": "Qing Ping Yue: The Autumn Wind Blows Soft",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《清平乐》，双调四十六字",
+  "en": "ci to the tune Qing Ping Yue, 46 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "细",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "梧",
+    "wú"
+   ],
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "坠",
+    "zhuì"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "尝",
+    "cháng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "睡",
+    "shuì"
+   ]
+  ],
+  [
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "薇",
+    "wēi"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "槿",
+    "jǐn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "残",
+    "cán"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ]
+  ],
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "原始资料第五句作“紫微”，通行本多作“紫薇”，指紫薇花。这里用通行本。",
+  "en": "The source corpus writes the first word of line five with a different character (zi wei as in a star name). Common editions write it as the name of the crape myrtle flower, which is used here."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "金风：秋风。古人把秋天和“金”配在一起，所以叫秋风为金风。",
+   "en": "jīn fēng: the autumn wind. People of old linked autumn with metal, or gold, so they called the autumn wind the golden wind."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "细细：轻轻的，微微的。",
+   "en": "xì xì: soft and gentle."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "梧桐：一种叶子很大的树，秋天叶子最先落下。",
+   "en": "wú tóng: the parasol tree, which has big leaves and is one of the first to lose them in autumn."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "坠：掉下来。",
+   "en": "zhuì: to fall."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "绿酒：新酿的酒，酒面上浮着一层淡绿色的泡沫，所以叫绿酒。",
+   "en": "lǜ jiǔ: newly brewed wine, which had a thin pale-green froth on top."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "初尝：刚开始喝。",
+   "en": "chū cháng: having just begun to taste it."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "一枕：靠着枕头，这里指睡了一觉。",
+   "en": "yī zhěn: on the pillow, here meaning a sleep."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "浓睡：睡得很香很沉。",
+   "en": "nóng shuì: a deep, sound sleep."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "紫薇：一种夏天到秋天开花的树，花是紫红色的。",
+   "en": "zǐ wēi: crape myrtle, a tree with purple-red flowers from summer into autumn."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "朱槿：一种开大红花的灌木，也叫扶桑。",
+   "en": "zhū jǐn: Chinese hibiscus, a shrub with big red flowers."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "花残：花快要谢了。",
+   "en": "huā cán: the flowers are fading."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "斜阳：快落山的太阳。",
+   "en": "xié yáng: the setting sun."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "却照：仍旧照着，又照到了。",
+   "en": "què zhào: still shining on, shining again on."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "双燕欲归：成对的燕子要飞回南方去了。燕子秋天往南飞。",
+   "en": "shuāng yàn yù guī: a pair of swallows about to fly back south, as swallows do in autumn."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "时节：时候，季节。",
+   "en": "shí jié: the time of year."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "银屏：用银子装饰的屏风，摆在床边挡风。",
+   "en": "yín píng: a screen decorated with silver, set by the bed to keep off drafts."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "微寒：有一点冷。",
+   "en": "wēi hán: a little cold."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋风轻轻地吹着，",
+   "en": "The autumn wind blows soft and light;"
+  },
+  {
+   "zh": "梧桐叶一片一片地落下。",
+   "en": "one by one the parasol leaves come down."
+  },
+  {
+   "zh": "刚喝了一点新酒，人就容易醉了，",
+   "en": "Just a taste of new wine, and one is easily drunk;"
+  },
+  {
+   "zh": "靠在小窗边的枕头上，睡得又香又沉。",
+   "en": "by the small window, on the pillow, one sleeps deep."
+  },
+  {
+   "zh": "紫薇和朱槿的花都快谢了，",
+   "en": "The crape myrtle and the hibiscus are fading;"
+  },
+  {
+   "zh": "夕阳仍旧照着栏杆。",
+   "en": "the setting sun still shines on the railing."
+  },
+  {
+   "zh": "又到了成双的燕子要飞走的时候，",
+   "en": "It is the season when the paired swallows are leaving;"
+  },
+  {
+   "zh": "昨夜银屏边已经有了一丝凉意。",
+   "en": "last night, by the silver screen, there was a slight chill."
+  }
+ ],
+ "background": {
+  "zh": "这首词写初秋时节一个安静的日子：秋风吹，梧桐落叶，词人喝了点酒，在小窗下睡了一觉，醒来看见花谢了，夕阳照着栏杆。写作的具体时间不清楚。晏殊一生做官顺利，生活富贵悠闲，他的很多词就像这首一样，写的是平静日子里一点淡淡的、说不清的愁。",
+  "en": "This ci shows a quiet day in early autumn. The autumn wind blows and the parasol leaves fall. The poet drinks a little wine and sleeps by a small window. When he wakes, the flowers are fading and the setting sun lies on the railing. We do not know exactly when it was written. Yan Shu had a smooth career and an easy, wealthy life. Many of his ci, like this one, show a faint sadness that is hard to name, felt in calm days."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），字同叔，抚州临川（今江西抚州）人，北宋词人。他小时候就被称为“神童”，后来做到宰相，一生富贵平顺。他的词语言清丽，感情含蓄，常写季节变换带来的淡淡惆怅。他的小儿子晏几道也是有名的词人。",
+  "en": "Yan Shu (991–1055), styled Tongshu, came from Linchuan, today's Fuzhou in Jiangxi. He was a Northern Song ci poet. As a boy he was called a child genius, and later he became chief minister, living a long, comfortable life. His ci use clear, graceful words and quiet feelings, often the faint sadness that comes as the seasons change. His youngest son, Yan Jidao, was also a famous ci poet."
+ },
+ "appreciation": {
+  "zh": "整首词没有一个“愁”字，却处处是秋天的淡淡愁绪。开头的风是“细细”的，叶子是“叶叶”落下的，声音很轻，动作很慢。喝一点酒就醉，在小窗下睡得很沉，看上去很舒服。醒来一看，花谢了，夕阳斜斜地照在栏杆上，一天又过去了。燕子要飞走了，昨夜屏风边已经有了凉意。词人只是把这些小事一件件摆出来，季节在悄悄变，人心里那一点空落落的感觉，也就慢慢出来了。",
+  "en": "There is not one word for sorrow in this ci, yet a soft autumn sadness is everywhere. At the start the wind is gentle, and the leaves fall one by one. The sounds are quiet and the movements slow. A little wine makes one drunk, and the sleep by the small window is deep, which seems pleasant. On waking, the flowers have faded and the setting sun slants across the railing: another day is gone. The swallows are about to leave, and last night there was a chill by the screen. The poet simply sets these small things out one after another. The season is quietly changing, and a hollow feeling slowly rises in the heart."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "early-autumn",
+   "wine",
+   "swallows",
+   "quiet-sorrow"
+  ]
+ },
+ "uncertain": []
+}

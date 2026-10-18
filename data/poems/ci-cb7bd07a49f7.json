@@ -1,0 +1,419 @@
+{
+ "id": "ci-cb7bd07a49f7",
+ "kind": "ci",
+ "title": "忆少年·别历下",
+ "title_en": "Yi Shao Nian: Leaving Lixia",
+ "author": "晁补之",
+ "author_en": "Chao Buzhi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《忆少年》，双调四十六字",
+  "en": "ci to the tune Yi Shao Nian, 46 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "舸",
+    "gě"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "根",
+    "gēn"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "送",
+    "sòng"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "隔",
+    "gé"
+   ]
+  ],
+  [
+   [
+    "罨",
+    "yǎn"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "绀",
+    "gàn"
+   ],
+   [
+    "碧",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "陈",
+    "chén"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "刘",
+    "liú"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "况",
+    "kuàng"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重来”的“重”读 chóng，意思是再一次，不读 zhòng。",
+   "en": "In chong lai this character is read chóng, meaning again, not zhòng as in heavy."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "无穷：没有尽头，数不清。",
+   "en": "wú qióng: endless, without number."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "官柳：官府在大路两边种的柳树。古人送别时常折柳相赠。",
+   "en": "guān liǔ: willows planted by the government along main roads. People of old often broke off a willow twig as a parting gift."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "画舸：画着彩画的船。舸，船。",
+   "en": "huà gě: a painted boat. Gě means boat."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "无根：没有根，像浮萍一样漂来漂去。",
+   "en": "wú gēn: without roots, drifting like duckweed."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "行客：出门在外、要远行的人，这里是词人自己。",
+   "en": "xíng kè: a traveller, here the poet himself."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "南山：城南的山。",
+   "en": "nán shān: the hills south of the city."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "尚相送：还在一路送我。尚，还。",
+   "en": "shàng xiāng sòng: still seeing me off. Shàng means still."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "只：只是，可是。",
+   "en": "zhǐ: only, but."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 5,
+   "zh": "高城人隔：高高的城墙把送行的人挡在了后面，再也看不见了。",
+   "en": "gāo chéng rén gé: the tall city walls cut me off from the people seeing me off; I can no longer see them."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "罨画：色彩鲜艳的图画，这里形容园林像画一样美。",
+   "en": "yǎn huà: a brightly coloured painting. Here it means the gardens are as lovely as a picture."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "绀碧：深青色，带一点红的深蓝绿色。",
+   "en": "gàn bì: a deep blue-green colour."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "算：料想，估计。",
+   "en": "suàn: to reckon, to expect."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "陈迹：过去的痕迹，旧事。",
+   "en": "chén jì: traces of the past, old things."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "刘郎：一般认为指唐代诗人刘禹锡。他被贬多年后回到长安，写诗说“前度刘郎今又来”，看到的已是另一番景象。这里词人用来比自己。一说指传说中进山遇仙的刘晨。",
+   "en": "liú láng: usually taken as the Tang poet Liu Yuxi. After many years in exile he came back to Chang'an and wrote that the same Liu had returned, to find everything changed. The poet uses him to stand for himself. Another reading: Liu Chen, a man in a legend who met fairies in the mountains."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "鬓：耳朵旁边的头发。",
+   "en": "bìn: the hair at the temples."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 1,
+   "zh": "况：何况，更不用说。",
+   "en": "kuàng: let alone, all the more."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 5,
+   "zh": "桃花颜色：桃花一样美丽的容颜，指心上的人，也指桃花本身。",
+   "en": "táo huā yán sè: a face as lovely as peach blossom, meaning someone dear; it also means the peach blossoms themselves."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "路边的柳树一棵接一棵，望不到头，",
+   "en": "Willows line the road without end;"
+  },
+  {
+   "zh": "彩画的船无情地载我离开，",
+   "en": "the painted boat heartlessly carries me away;"
+  },
+  {
+   "zh": "我是一个没有根、到处漂泊的人。",
+   "en": "I am a traveller with no roots."
+  },
+  {
+   "zh": "城南的青山还在一路送我，",
+   "en": "The southern hills still go along to see me off,"
+  },
+  {
+   "zh": "可是高高的城墙，已经把送我的人挡在了后面。",
+   "en": "but the tall city walls have cut me off from the people I left."
+  },
+  {
+   "zh": "那里的园林像画一样，溪水碧青，",
+   "en": "The gardens there are like a painting, the streams deep blue-green;"
+  },
+  {
+   "zh": "料想我再回来时，这一切都已成了旧事。",
+   "en": "I reckon that if I come again, all will have become the past."
+  },
+  {
+   "zh": "我这个刘郎的鬓发都已经这样白了，",
+   "en": "If my hair at the temples is already like this,"
+  },
+  {
+   "zh": "更不用说那桃花般的容颜了。",
+   "en": "what then of a face like peach blossom?"
+  }
+ ],
+ "background": {
+  "zh": "历下是济南的古称。晁补之曾在齐州（今山东济南）做地方官，这首词一般认为是他离开那里时写的，具体年份说法不一。他在那里住过一段日子，喜欢那里的山水和园林。坐船离开时，他回头望城，想到再回来时一切都会变样，自己也老了，写下了这首词。",
+  "en": "Lixia is an old name for Jinan. Chao Buzhi once served as a local official in Qizhou, today's Jinan in Shandong. This ci is usually thought to have been written when he left. Sources differ on the exact year. He had lived there for a while and loved its hills, waters and gardens. As he left by boat, he looked back at the city. He thought that if he ever came back, everything would have changed and he himself would be old, and he wrote this poem."
+ },
+ "author_note": {
+  "zh": "晁补之（1053—1110），字无咎，号归来子，济州巨野（今山东巨野）人，北宋文学家。他和黄庭坚、秦观、张耒一起被称为“苏门四学士”，都是苏轼的学生。朝廷党争时他几次被贬，到各地做官，漂泊不定。他的词风接近苏轼，豪放里带着深情。",
+  "en": "Chao Buzhi (1053–1110), styled Wujiu, called himself Guilaizi. He came from Juye in Jizhou, today's Juye in Shandong, and was a Northern Song writer. With Huang Tingjian, Qin Guan and Zhang Lei he was one of the Four Scholars who studied under Su Shi. In the court quarrels of his time he was demoted several times and moved from post to post. His ci are close to Su Shi's style: bold, but with deep feeling."
+ },
+ "appreciation": {
+  "zh": "开头三句连用三个“无”：柳树无穷，画船无情，行人无根。柳树越多，离别的路越长；船不管人心里难过，照样开走；而他自己，就像没有根的浮萍。三句话一气说下来，离别的苦一下子涌上来。接着写青山多情，还一路相送，可城墙把送行的人挡住了，人反而不如山。下片回想那里画一般的园林和碧绿的溪水，又想到再来时都成旧事。最后借刘郎说：我的鬓发都这样了，何况那如桃花的容颜呢？人会老，美好的东西也留不住。",
+  "en": "The ci opens with three lines that each begin with the word for without: willows without end, a boat without feeling, a traveller without roots. The more willows, the longer the road of parting. The boat does not care how he feels and sails on. And he himself is like duckweed with no roots. Said in one breath, the three lines bring the pain of parting rushing in. Next, the green hills are kind and keep seeing him off, but the city walls hide the people who came to say goodbye. People are not as faithful as hills. The second stanza recalls the painted gardens and blue-green streams, and knows they will be the past when he returns. At the end he speaks through Liu Lang: if my hair is already like this, what about a face like peach blossom? People grow old, and lovely things cannot be kept."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "willow",
+   "travel",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

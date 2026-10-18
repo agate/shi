@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>小重山·柳暗花明春事深 · 章良能 — 诗</title>
+    <meta name="description" content="小重山·柳暗花明春事深 · 章良能 — Little Layered Hills: Dark Willows, Bright Flowers, Spring at Its Height by Zhang Liangneng: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci lyric to the tune Xiao Chong Shan, in two stanzas</span><span lang="zh">宋词 · 词·小重山（双调）</span></p>
+        <h1>小重山·柳暗花明春事深</h1>
+        <p class="by">章良能<span class="mono"><span lang="en">Zhang Liangneng · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Little Layered Hills: Dark Willows, Bright Flowers, Spring at Its Height</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>liǔ</i><b>柳</b></span><span class="c gl" data-l="0" data-p="1"><i>àn</i><b>暗</b></span><span class="c gl" data-l="0" data-p="2"><i>huā</i><b>花</b></span><span class="c gl" data-l="0" data-p="3"><i>míng</i><b>明</b></span><span class="c gl" data-l="0" data-p="4"><i>chūn</i><b>春</b></span><span class="c gl" data-l="0" data-p="5"><i>shì</i><b>事</b></span><span class="c gl" data-l="0" data-p="6"><i>shēn</i><b>深</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>xiǎo</i><b>小</b></span><span class="c gl" data-l="1" data-p="1"><i>lán</i><b>阑</b></span><span class="c" data-l="1" data-p="2"><i>hóng</i><b>红</b></span><span class="c gl rd" data-l="1" data-p="3"><i>sháo</i><b>芍</b></span><span class="c gl" data-l="1" data-p="4"><i>yào</i><b>药</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>yǐ</i><b>已</b></span><span class="c gl" data-l="2" data-p="1"><i>chōu</i><b>抽</b></span><span class="c gl" data-l="2" data-p="2"><i>zān</i><b>簪</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>yǔ</i><b>雨</b></span><span class="c gl" data-l="3" data-p="1"><i>yú</i><b>余</b></span><span class="c gl" data-l="3" data-p="2"><i>fēng</i><b>风</b></span><span class="c gl" data-l="3" data-p="3"><i>ruǎn</i><b>软</b></span><span class="c gl" data-l="3" data-p="4"><i>suì</i><b>碎</b></span><span class="c gl" data-l="3" data-p="5"><i>míng</i><b>鸣</b></span><span class="c gl" data-l="3" data-p="6"><i>qín</i><b>禽</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>chí</i><b>迟</b></span><span class="c gl" data-l="4" data-p="1"><i>chí</i><b>迟</b></span><span class="c gl" data-l="4" data-p="2"><i>rì</i><b>日</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>yóu</i><b>犹</b></span><span class="c gl" data-l="5" data-p="1"><i>dài</i><b>带</b></span><span class="c gl" data-l="5" data-p="2"><i>yì</i><b>一</b></span><span class="c gl rd" data-l="5" data-p="3"><i>fēn</i><b>分</b></span><span class="c gl" data-l="5" data-p="4"><i>yīn</i><b>阴</b></span></p><p class="ln brk"><span class="c gl" data-l="6" data-p="0"><i>wǎng</i><b>往</b></span><span class="c gl" data-l="6" data-p="1"><i>shì</i><b>事</b></span><span class="c" data-l="6" data-p="2"><i>mò</i><b>莫</b></span><span class="c gl" data-l="6" data-p="3"><i>chén</i><b>沉</b></span><span class="c gl" data-l="6" data-p="4"><i>yín</i><b>吟</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>shēn</i><b>身</b></span><span class="c gl" data-l="7" data-p="1"><i>xián</i><b>闲</b></span><span class="c gl" data-l="7" data-p="2"><i>shí</i><b>时</b></span><span class="c gl" data-l="7" data-p="3"><i>xù</i><b>序</b></span><span class="c" data-l="7" data-p="4"><i>hǎo</i><b>好</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>qiě</i><b>且</b></span><span class="c gl" data-l="8" data-p="1"><i>dēng</i><b>登</b></span><span class="c gl" data-l="8" data-p="2"><i>lín</i><b>临</b></span></p><p class="ln"><span class="c gl" data-l="9" data-p="0"><i>jiù</i><b>旧</b></span><span class="c gl" data-l="9" data-p="1"><i>yóu</i><b>游</b></span><span class="c gl" data-l="9" data-p="2"><i>wú</i><b>无</b></span><span class="c gl rd" data-l="9" data-p="3"><i>chù</i><b>处</b></span><span class="c gl" data-l="9" data-p="4"><i>bù</i><b>不</b></span><span class="c gl" data-l="9" data-p="5"><i>kān</i><b>堪</b></span><span class="c gl" data-l="9" data-p="6"><i>xún</i><b>寻</b></span></p><p class="ln"><span class="c" data-l="10" data-p="0"><i>wú</i><b>无</b></span><span class="c" data-l="10" data-p="1"><i>xún</i><b>寻</b></span><span class="c" data-l="10" data-p="2"><i>chù</i><b>处</b></span></p><p class="ln"><span class="c gl" data-l="11" data-p="0"><i>wéi</i><b>惟</b></span><span class="c gl" data-l="11" data-p="1"><i>yǒu</i><b>有</b></span><span class="c gl rd" data-l="11" data-p="2"><i>shào</i><b>少</b></span><span class="c gl" data-l="11" data-p="3"><i>nián</i><b>年</b></span><span class="c gl" data-l="11" data-p="4"><i>xīn</i><b>心</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus uses older character forms in &quot;after the rain&quot; and &quot;brooding&quot;. Today&#x27;s simplified editions write them with the modern forms, with the same meaning. We use the modern forms.</p><p lang="zh">语料作“雨馀”“沈吟”，是旧字形。现在通行的简体本写作“雨余”“沉吟”，意思相同。这里用通行写法。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">柳暗花明春事深</span><span lang="en">Dark willows, bright flowers: spring is at its height.</span><span lang="zh">柳树浓绿，花儿鲜艳，春天已经到了最浓的时候。</span></li><li><span class="o">小阑红芍药</span><span lang="en">By the little railing the red peonies</span><span lang="zh">小栏杆边的红芍药，</span></li><li><span class="o">已抽簪</span><span lang="en">have already put out buds like hairpins.</span><span lang="zh">已经抽出了像簪子一样的花苞。</span></li><li><span class="o">雨余风软碎鸣禽</span><span lang="en">After the rain the wind is soft, and birds chirp in little notes.</span><span lang="zh">雨后风儿柔和，鸟儿叫声细碎。</span></li><li><span class="o">迟迟日</span><span lang="en">The slow spring sun</span><span lang="zh">春天的太阳慢慢地走，</span></li><li><span class="o">犹带一分阴</span><span lang="en">still carries a touch of cloud.</span><span lang="zh">还带着一点点阴云。</span></li><li class="brk"><span class="o">往事莫沉吟</span><span lang="en">Do not brood over the past.</span><span lang="zh">过去的事，不要再反复去想了。</span></li><li><span class="o">身闲时序好</span><span lang="en">I am free, and the season is fine,</span><span lang="zh">我身子清闲，季节又正好，</span></li><li><span class="o">且登临</span><span lang="en">so for now I will climb up and take in the view.</span><span lang="zh">姑且登高去看看风景。</span></li><li><span class="o">旧游无处不堪寻</span><span lang="en">The places I used to visit can all still be found.</span><span lang="zh">从前游玩过的地方，没有一处找不到。</span></li><li><span class="o">无寻处</span><span lang="en">What cannot be found</span><span lang="zh">找不到的，</span></li><li><span class="o">惟有少年心</span><span lang="en">is only the heart I had when I was young.</span><span lang="zh">只有年轻时的那颗心。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>柳暗花明<span class="mono">liǔ àn huā míng</span></dt><dd><span lang="en">liǔ àn huā míng: the willows are thick and dark green, the flowers bright.</span><span lang="zh">柳暗花明：柳树长得浓密，颜色深绿；花开得鲜艳明亮。</span></dd></div><div><dt>春事深<span class="mono">chūn shì shēn</span></dt><dd><span lang="en">chūn shì shēn: spring is at its fullest. Chūn shì means the sights and doings of spring.</span><span lang="zh">春事深：春天已经到了最浓的时候。春事，春天里的景物和活动。</span></dd></div><div><dt>小阑<span class="mono">xiǎo lán</span></dt><dd><span lang="en">xiǎo lán: a small railing.</span><span lang="zh">小阑：小栏杆。</span></dd></div><div><dt>芍药<span class="mono">sháo yào</span></dt><dd><span lang="en">sháo yào: the herbaceous peony, with big, lovely flowers in late spring.</span><span lang="zh">芍药：一种花，花朵大而美，春末夏初开放。</span></dd></div><div><dt>抽簪<span class="mono">chōu zān</span></dt><dd><span lang="en">chōu zān: to put out buds, long and slender like a woman&#x27;s hairpin.</span><span lang="zh">抽簪：抽出花苞，花苞又细又长，像女子头上的簪子。</span></dd></div><div><dt>雨余<span class="mono">yǔ yú</span></dt><dd><span lang="en">yǔ yú: after the rain.</span><span lang="zh">雨余：雨后。</span></dd></div><div><dt>风软<span class="mono">fēng ruǎn</span></dt><dd><span lang="en">fēng ruǎn: the wind is soft.</span><span lang="zh">风软：风很柔和。</span></dd></div><div><dt>碎鸣禽<span class="mono">suì míng qín</span></dt><dd><span lang="en">suì míng qín: birds chirping in little broken notes.</span><span lang="zh">碎鸣禽：鸟儿叽叽喳喳，叫声细碎。</span></dd></div><div><dt>迟迟日<span class="mono">chí chí rì</span></dt><dd><span lang="en">chí chí rì: the slow spring sun; the days grow long and the sun seems to move slowly.</span><span lang="zh">迟迟日：春天的太阳，白天变长了，太阳好像走得很慢。</span></dd></div><div><dt>犹带<span class="mono">yóu dài</span></dt><dd><span lang="en">yóu dài: still carrying.</span><span lang="zh">犹带：还带着。</span></dd></div><div><dt>一分阴<span class="mono">yì fēn yīn</span></dt><dd><span lang="en">yī fēn yīn: a touch of cloud.</span><span lang="zh">一分阴：一点点阴云。</span></dd></div><div><dt>往事<span class="mono">wǎng shì</span></dt><dd><span lang="en">wǎng shì: things of the past.</span><span lang="zh">往事：过去的事。</span></dd></div><div><dt>沉吟<span class="mono">chén yín</span></dt><dd><span lang="en">chén yín: to brood, to turn over and over in the mind.</span><span lang="zh">沉吟：反复地想，犹豫不决。</span></dd></div><div><dt>身闲<span class="mono">shēn xián</span></dt><dd><span lang="en">shēn xián: free of duties, at leisure.</span><span lang="zh">身闲：身上没有事务，很清闲。</span></dd></div><div><dt>时序<span class="mono">shí xù</span></dt><dd><span lang="en">shí xù: the season.</span><span lang="zh">时序：季节、时令。</span></dd></div><div><dt>登临<span class="mono">dēng lín</span></dt><dd><span lang="en">dēng lín: to climb up and take in the view.</span><span lang="zh">登临：登高游览。</span></dd></div><div><dt>旧游<span class="mono">jiù yóu</span></dt><dd><span lang="en">jiù yóu: places one used to visit.</span><span lang="zh">旧游：从前游玩过的地方。</span></dd></div><div><dt>无处不堪寻<span class="mono">wú chù bù kān xún</span></dt><dd><span lang="en">wú chù bù kān xún: there is no place that cannot be found; the old places are all still there. Kān means can.</span><span lang="zh">无处不堪寻：没有一处是找不到的，意思是旧地都还在。堪，可以。</span></dd></div><div><dt>惟有<span class="mono">wéi yǒu</span></dt><dd><span lang="en">wéi yǒu: only.</span><span lang="zh">惟有：只有。</span></dd></div><div><dt>少年心<span class="mono">shào nián xīn</span></dt><dd><span lang="en">shào nián xīn: the heart and high spirits of youth.</span><span lang="zh">少年心：年轻时的心情和兴致。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>芍<span class="mono">sháo</span></dt><dd><span lang="en">This character is read sháo; sháo yào is the herbaceous peony.</span><span lang="zh">“芍”读 sháo，“芍药”是一种花。</span></dd></div><div><dt>分<span class="mono">fēn</span></dt><dd><span lang="en">Here this character is read fēn; yī fēn means a little bit.</span><span lang="zh">“分”在这里读 fēn，“一分”是一点点的意思。</span></dd></div><div><dt>处<span class="mono">chù</span></dt><dd><span lang="en">Here this character is read chù, meaning place.</span><span lang="zh">“处”在这里读 chù，是地方的意思。</span></dd></div><div><dt>少<span class="mono">shào</span></dt><dd><span lang="en">Here this character is read shào, meaning young, not shǎo.</span><span lang="zh">“少年”的“少”读 shào，是年轻的意思，不读 shǎo。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric is about the feelings of a spring outing. Seeing spring at its fullest, the poet tells himself to stop thinking about the past and to go out and climb up for the view while he is free. But when he reaches the places he used to visit, the scenery is all still there, while he no longer has the heart of his youth. The year it was written is not known. From what it says, it seems to come from his middle years or later.</p><p lang="zh">这首词写春天出游时的感慨。词人看到春意正浓，劝自己不要再想过去的事，趁着清闲去登高游玩。可是走到从前去过的地方，景物都还在，自己却已经没有了年轻时的心情。这首词写于哪一年已经不清楚，从词意看，应是他中年以后的作品。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Zhang Liangneng lived in the Southern Song; his birth year is not known. After passing the top civil exam he served as an official, and under Emperor Ningzong he rose to be an assistant chief minister. Very few of his lyrics survive. This one, to the tune Xiao Chong Shan, is the best known, and its last lines are often quoted.</p><p lang="zh">章良能，南宋人，生年不详，考中进士后做官，宋宁宗时官至参知政事，也就是副宰相。他留下来的词很少，这首《小重山》是最有名的一首，最后几句常被人引用。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half is a bright spring picture. The willows are green and the flowers red, the peonies have put out buds, the wind is soft after the rain, the birds are chirping, the sun moves slowly, and there is a thin cloud in the sky. Everything feels pleasant. In the second half he tells himself not to dwell on the past and to go up for the view while he has time. He goes, and the old places can all still be found. Then comes the turn: what cannot be found is only the heart of his youth. The scenery has not changed; he has. The lighter the opening feels, the more this last line stings.</p><p lang="zh">上半首是一幅明亮的春景：柳绿花红，芍药抽出了花苞，雨后风软，鸟儿叽叽喳喳，太阳慢慢走，天上还有一点薄云。一切都很舒服。下半首他劝自己：别想往事了，趁着有空，去登高吧。他去了，从前的地方一处处都还找得到。最后笔锋一转：找不到的，只有那颗少年心。景物没变，变的是人。前面写得越轻快，最后这一句就越让人心里一酸。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/hexinlang-songhubanghengdaizhifuxinzhou/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>贺新郎·送胡邦衡待制赴新州</b></a><a href="../../p/yanqingdou-lianlihaitang/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>宴清都·连理海棠</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["柳", "liǔ"], ["暗", "àn"], ["花", "huā"], ["明", "míng"], ["春", "chūn"], ["事", "shì"], ["深", "shēn"]], [["小", "xiǎo"], ["阑", "lán"], ["红", "hóng"], ["芍", "sháo"], ["药", "yào"]], [["已", "yǐ"], ["抽", "chōu"], ["簪", "zān"]], [["雨", "yǔ"], ["余", "yú"], ["风", "fēng"], ["软", "ruǎn"], ["碎", "suì"], ["鸣", "míng"], ["禽", "qín"]], [["迟", "chí"], ["迟", "chí"], ["日", "rì"]], [["犹", "yóu"], ["带", "dài"], ["一", "yì"], ["分", "fēn"], ["阴", "yīn"]], [["往", "wǎng"], ["事", "shì"], ["莫", "mò"], ["沉", "chén"], ["吟", "yín"]], [["身", "shēn"], ["闲", "xián"], ["时", "shí"], ["序", "xù"], ["好", "hǎo"]], [["且", "qiě"], ["登", "dēng"], ["临", "lín"]], [["旧", "jiù"], ["游", "yóu"], ["无", "wú"], ["处", "chù"], ["不", "bù"], ["堪", "kān"], ["寻", "xún"]], [["无", "wú"], ["寻", "xún"], ["处", "chù"]], [["惟", "wéi"], ["有", "yǒu"], ["少", "shào"], ["年", "nián"], ["心", "xīn"]]], "glosses": [{"line": 0, "start": 0, "end": 4, "zh": "柳暗花明：柳树长得浓密，颜色深绿；花开得鲜艳明亮。", "en": "liǔ àn huā míng: the willows are thick and dark green, the flowers bright."}, {"line": 0, "start": 4, "end": 7, "zh": "春事深：春天已经到了最浓的时候。春事，春天里的景物和活动。", "en": "chūn shì shēn: spring is at its fullest. Chūn shì means the sights and doings of spring."}, {"line": 1, "start": 0, "end": 2, "zh": "小阑：小栏杆。", "en": "xiǎo lán: a small railing."}, {"line": 1, "start": 3, "end": 5, "zh": "芍药：一种花，花朵大而美，春末夏初开放。", "en": "sháo yào: the herbaceous peony, with big, lovely flowers in late spring."}, {"line": 2, "start": 1, "end": 3, "zh": "抽簪：抽出花苞，花苞又细又长，像女子头上的簪子。", "en": "chōu zān: to put out buds, long and slender like a woman's hairpin."}, {"line": 3, "start": 0, "end": 2, "zh": "雨余：雨后。", "en": "yǔ yú: after the rain."}, {"line": 3, "start": 2, "end": 4, "zh": "风软：风很柔和。", "en": "fēng ruǎn: the wind is soft."}, {"line": 3, "start": 4, "end": 7, "zh": "碎鸣禽：鸟儿叽叽喳喳，叫声细碎。", "en": "suì míng qín: birds chirping in little broken notes."}, {"line": 4, "start": 0, "end": 3, "zh": "迟迟日：春天的太阳，白天变长了，太阳好像走得很慢。", "en": "chí chí rì: the slow spring sun; the days grow long and the sun seems to move slowly."}, {"line": 5, "start": 0, "end": 2, "zh": "犹带：还带着。", "en": "yóu dài: still carrying."}, {"line": 5, "start": 2, "end": 5, "zh": "一分阴：一点点阴云。", "en": "yī fēn yīn: a touch of cloud."}, {"line": 6, "start": 0, "end": 2, "zh": "往事：过去的事。", "en": "wǎng shì: things of the past."}, {"line": 6, "start": 3, "end": 5, "zh": "沉吟：反复地想，犹豫不决。", "en": "chén yín: to brood, to turn over and over in the mind."}, {"line": 7, "start": 0, "end": 2, "zh": "身闲：身上没有事务，很清闲。", "en": "shēn xián: free of duties, at leisure."}, {"line": 7, "start": 2, "end": 4, "zh": "时序：季节、时令。", "en": "shí xù: the season."}, {"line": 8, "start": 1, "end": 3, "zh": "登临：登高游览。", "en": "dēng lín: to climb up and take in the view."}, {"line": 9, "start": 0, "end": 2, "zh": "旧游：从前游玩过的地方。", "en": "jiù yóu: places one used to visit."}, {"line": 9, "start": 2, "end": 7, "zh": "无处不堪寻：没有一处是找不到的，意思是旧地都还在。堪，可以。", "en": "wú chù bù kān xún: there is no place that cannot be found; the old places are all still there. Kān means can."}, {"line": 11, "start": 0, "end": 2, "zh": "惟有：只有。", "en": "wéi yǒu: only."}, {"line": 11, "start": 2, "end": 5, "zh": "少年心：年轻时的心情和兴致。", "en": "shào nián xīn: the heart and high spirits of youth."}], "readings": [{"line": 1, "pos": 3, "zh": "“芍”读 sháo，“芍药”是一种花。", "en": "This character is read sháo; sháo yào is the herbaceous peony.", "char": "芍", "pinyin": "sháo"}, {"line": 5, "pos": 3, "zh": "“分”在这里读 fēn，“一分”是一点点的意思。", "en": "Here this character is read fēn; yī fēn means a little bit.", "char": "分", "pinyin": "fēn"}, {"line": 9, "pos": 3, "zh": "“处”在这里读 chù，是地方的意思。", "en": "Here this character is read chù, meaning place.", "char": "处", "pinyin": "chù"}, {"line": 11, "pos": 2, "zh": "“少年”的“少”读 shào，是年轻的意思，不读 shǎo。", "en": "Here this character is read shào, meaning young, not shǎo.", "char": "少", "pinyin": "shào"}], "speak": ["柳暗花明春事深", "小阑红芍药", "已抽簪", "雨余风软碎鸣禽", "迟迟日", "犹带义分阴", "往事莫沉吟", "身闲时序好", "且登临", "旧游无搐不堪寻", "无寻处", "惟有少年心"], "speakTitle": "小重山，柳暗花明春事深。章良能。", "sample": "柳暗花明春事深"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

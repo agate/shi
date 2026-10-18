@@ -1,0 +1,201 @@
+{
+ "id": "e4f16516-db22-4a20-90cb-917c66c4afbd",
+ "kind": "shi",
+ "title": "鸟鸣涧",
+ "title_en": "Birdsong in the Ravine",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "涧",
+    "jiàn"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "人闲：人很清闲，心里很安静，没有杂事打扰。",
+   "en": "rén xián: a person at leisure, with a calm mind and nothing to bother him."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "桂花：这里一般认为是春天开花的一种桂树。也有人说是指月光，因为传说月亮里有桂树。",
+   "en": "guì huā: osmanthus flowers. It is usually taken as a kind of osmanthus that blooms in spring. Some say it means moonlight, since legend puts an osmanthus tree on the moon."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "空：空旷，静悄悄的，好像什么都没有。",
+   "en": "kōng: empty and still, as if nothing were there."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "惊：惊动，吓了一跳。",
+   "en": "jīng: to startle."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "时：时而，不时地。",
+   "en": "shí: now and then."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "涧：两座山之间的小溪。",
+   "en": "jiàn: a stream running between two hills, a ravine."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "人很清闲，静得能感到桂花轻轻飘落，",
+   "en": "I am at ease, and I can sense the osmanthus flowers drifting down;"
+  },
+  {
+   "zh": "夜那么静，春天的山显得空空荡荡。",
+   "en": "the night is so still, the spring hills seem empty."
+  },
+  {
+   "zh": "月亮升起来，惊动了山里栖息的鸟儿，",
+   "en": "The moon rises and startles the birds in the hills,"
+  },
+  {
+   "zh": "它们不时在春天的山涧中鸣叫几声。",
+   "en": "and now and then they call out in the spring ravine."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是王维《皇甫岳云溪杂题五首》中的第一首。皇甫岳是王维的朋友，云溪是他的别墅所在的地方。王维为那里的五处景物各写了一首小诗，《鸟鸣涧》就是写一条山涧的春夜。这组诗具体写于哪一年，说法不一。",
+  "en": "This is the first of Wang Wei's five poems for Huangfu Yue's Cloud Creek. Huangfu Yue was Wang Wei's friend, and Cloud Creek was where his country house stood. Wang Wei wrote a short poem for each of five spots there. \"Birdsong in the Ravine\" is about a mountain stream on a spring night. Sources differ on the exact year the poems were written."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），字摩诘，唐代大诗人，也是画家和音乐家。他信佛，喜欢安静的山水，被称为“诗佛”。苏轼说他“诗中有画，画中有诗”。他的山水诗常常写得又静又空，这首就是代表。",
+  "en": "Wang Wei (701–761; some say 699–761), also called Mojie, was a great Tang poet, and a painter and musician as well. He was a Buddhist and loved quiet landscapes, so he is called the Buddha of Poetry. Su Shi said there are paintings in his poems and poems in his paintings. His landscape poems are often deeply still and empty, and this one is a perfect example."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是“静”，却用了很多“动”。桂花落下，本来轻得没有声音，诗人却感觉到了，可见人心多静、夜多静。山里空空荡荡，好像什么都没有。忽然月亮升起，月光一照，鸟儿以为天亮了，被惊醒，在山涧里叫了几声。月光照进来没有声音，却能惊醒鸟儿，说明山里静到了极点。几声鸟叫过后，山里反而显得更静了。这就是“以动写静”。读的时候，不妨闭上眼睛，想象自己坐在春夜的山里，听那几声鸟鸣。",
+  "en": "This poem is about stillness, yet it is full of small movements. Osmanthus flowers falling make almost no sound, yet the poet senses them. That tells us how calm his heart is and how quiet the night is. The hills feel empty, as if nothing were there. Then the moon rises. Its light shines in, the birds wake as if it were morning, and they call a few times in the ravine. Moonlight makes no sound, yet it wakes the birds, so the hills must be utterly silent. After the few calls, the hills feel even quieter than before. This is using movement to show stillness. Try closing your eyes and picturing yourself in the hills on a spring night, hearing those few bird calls."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "night",
+   "moon",
+   "bird",
+   "mountain",
+   "stillness"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,477 @@
+{
+ "id": "ci-51f448cc6c0c",
+ "kind": "ci",
+ "title": "鹊桥仙·华灯纵博",
+ "title_en": "To the Tune Que Qiao Xian: Gambling Under Bright Lamps",
+ "author": "陆游",
+ "author_en": "Lu You",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "纵",
+    "zòng"
+   ],
+   [
+    "博",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "雕",
+    "diāo"
+   ],
+   [
+    "鞍",
+    "ān"
+   ],
+   [
+    "驰",
+    "chí"
+   ],
+   [
+    "射",
+    "shè"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "豪",
+    "háo"
+   ],
+   [
+    "举",
+    "jǔ"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "侯",
+    "hóu"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "父",
+    "fǔ"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "尺",
+    "chǐ"
+   ]
+  ],
+  [
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "篷",
+    "péng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "扇",
+    "shàn"
+   ]
+  ],
+  [
+   [
+    "占",
+    "zhàn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "蘋",
+    "pín"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "属",
+    "shǔ"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "必",
+    "bì"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "赐",
+    "cì"
+   ],
+   [
+    "与",
+    "yǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "这里用通行本。原始资料末句作“又何必、君恩赐与”，通行本作“又何必、官家赐与”，意思相近，“官家”是宋代对皇帝的称呼。“蘋洲”原始资料作“苹洲”，是繁简转换的结果，这里的“蘋”指一种水草，不是苹果。",
+  "en": "This follows the common text. The source's last line has \"the emperor's favor\"; the common text has \"the emperor\" (a Song word for the ruler). The meaning is close. The source also writes the water plant in the fourth-to-last line with the simplified character used for apple, a slip of machine conversion; the plant is meant."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 6,
+   "char": "父",
+   "pinyin": "fǔ",
+   "zh": "渔父的“父”指老年男子，读 fǔ，不读父亲的 fù。",
+   "en": "In \"old fisherman\" this character means an old man, read fǔ, not fù as in father."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "扇",
+   "pinyin": "shàn",
+   "zh": "扇，量词，一扇两扇，读 shàn。",
+   "en": "Read shàn, as a counting word for panels."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "占",
+   "pinyin": "zhàn",
+   "zh": "占断，全部占有，读 zhàn。",
+   "en": "Read zhàn, meaning to take all for oneself."
+  },
+  {
+   "line": 8,
+   "pos": 4,
+   "char": "属",
+   "pinyin": "shǔ",
+   "zh": "属，归于，读 shǔ。",
+   "en": "Read shǔ, meaning to belong to."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "华灯：灯火辉煌的彩灯。",
+   "en": "huá dēng: bright, splendid lamps."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "纵博：尽情地赌博游戏。",
+   "en": "zòng bó: gambling and playing games to one's heart's content."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "雕鞍：雕着花纹的马鞍，代指骏马。",
+   "en": "diāo ān: a carved saddle, standing for a fine horse."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "驰射：骑马奔跑着射箭。",
+   "en": "chí shè: shooting arrows while galloping."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "豪举：豪迈的举动。",
+   "en": "háo jǔ: bold, heroic deeds."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "酒徒：一起喝酒的人。这里带点看不起的意思，指那些平庸的同伴。",
+   "en": "jiǔ tú: drinking companions. Here it is a little scornful: ordinary fellows."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "一一取封侯：一个个都当了大官。封侯，封为侯爵，指做大官。",
+   "en": "yī yī qǔ fēng hóu: one by one they became great lords. Fēng hóu means to be made a marquis, a high title."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "渔父：打鱼的老人。",
+   "en": "yú fǔ: an old fisherman."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "低篷：低矮的船篷。篷，船上挡风雨的棚子。",
+   "en": "dī péng: a low canopy. Péng is the cover on a boat that keeps off wind and rain."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "占断：全部占有。",
+   "en": "zhàn duàn: to have all of it."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "蘋洲：长满蘋草的水中小洲。蘋，一种水草。",
+   "en": "pín zhōu: an islet covered in water clover. Pín is a water plant."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "镜湖：在今浙江绍兴，陆游的家乡附近。",
+   "en": "jìng hú: Mirror Lake, near Shaoxing in Zhejiang, close to Lu You's home."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "元自：本来就。元，同“原”。",
+   "en": "yuán zì: by nature, from the start."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "闲人：没有官职、清闲的人。",
+   "en": "xián rén: a person with no office, free and at leisure."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 7,
+   "zh": "官家赐与：皇帝赏赐。唐代贺知章告老还乡，唐玄宗把镜湖的一角赐给他。陆游反用这个故事。",
+   "en": "guān jiā cì yǔ: given by the emperor. When the Tang poet He Zhizhang retired, Emperor Xuanzong gave him a part of Mirror Lake. Lu You turns this story around."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在灯火辉煌下尽情赌博，",
+   "en": "Gambling to our hearts' content under bright lamps,"
+  },
+  {
+   "zh": "骑着骏马奔驰射箭，",
+   "en": "galloping on carved saddles and shooting arrows:"
+  },
+  {
+   "zh": "当年那些豪迈的事，还有谁记得？",
+   "en": "who still remembers the bold deeds of those years?"
+  },
+  {
+   "zh": "一起喝酒的伙伴一个个都做了大官，",
+   "en": "My drinking friends, one by one, have become great lords,"
+  },
+  {
+   "zh": "只有我独自离开，做了江边打鱼的老头。",
+   "en": "while I alone have gone off to be an old fisherman by the river."
+  },
+  {
+   "zh": "一只八尺长的小船，",
+   "en": "A light boat, eight feet long,"
+  },
+  {
+   "zh": "三扇低矮的船篷，",
+   "en": "a low canopy of three panels,"
+  },
+  {
+   "zh": "长满蘋草的小洲上的烟雨，全都归我一个人。",
+   "en": "and all the mist and rain over the islets of water clover belong to me."
+  },
+  {
+   "zh": "镜湖本来就属于清闲的人，",
+   "en": "Mirror Lake has always belonged to those at leisure."
+  },
+  {
+   "zh": "又何必要皇帝来赏赐呢！",
+   "en": "Why should it need to be a gift from the emperor?"
+  }
+ ],
+ "background": {
+  "zh": "陆游四十多岁时曾在南郑（今陕西汉中）的军队里做事，那里靠近抗金前线，他过了一段骑马射箭、热血豪迈的日子。后来他多次被罢官。一般认为这首词写于淳熙年间，他被罢官后住在家乡山阴（今浙江绍兴）镜湖边的时候。回想当年，再看眼前，他写下了这首词。",
+  "en": "In his late forties Lu You served in the army at Nanzheng, today's Hanzhong in Shaanxi, near the front line against the Jin. There he lived a bold life of riding and shooting. Later he was dismissed from office more than once. This lyric is usually dated to the Chunxi years (1174–1189), when, out of office, he was living by Mirror Lake in his home town, Shanyin, today's Shaoxing. Thinking back on those days and looking at his life now, he wrote this lyric."
+ },
+ "author_note": {
+  "zh": "陆游（1125—1210），号放翁，南宋大诗人。他一生都想收复被金国占领的北方，却总是得不到重用，几次被罢官回乡。他的诗词里常有报国无门的悲愤，这首词表面上写渔父的闲适，底下藏着的正是这种不平。",
+  "en": "Lu You (1125–1210), who called himself Fangweng, was a great poet of the Southern Song. All his life he wanted to win back the north, which the Jin had taken, but he was never given an important role and was sent home several times. His poems often carry the anger of a man who cannot serve his country. On the surface this lyric is about a fisherman's easy life, but underneath lies that same sense of unfairness."
+ },
+ "appreciation": {
+  "zh": "上片先回忆：灯火下尽情游戏，骑马奔驰射箭，多么豪迈。可“谁记”两个字一下子把热闹打碎了：没人记得了。当年喝酒的伙伴都做了大官，只有自己成了江边的渔父，对比很强烈。下片写渔父的生活：小船八尺，船篷三扇，满湖烟雨都归自己，看起来很自在。最后两句最有意思：贺知章的镜湖是皇帝赏的，而我说，镜湖本来就属于闲人，用不着谁赏。这话听起来洒脱，其实带着倔强和不平。表面写闲适，心里却是英雄无用武之地的悲凉。",
+  "en": "The first stanza looks back. Games under bright lamps, galloping and shooting: how bold it was! Then two words, \"who remembers\", break the scene: no one does. His old drinking friends have all become great lords, and he alone is a fisherman by the river. The contrast is sharp. The second stanza shows the fisherman's life: a boat eight feet long, a canopy of three panels, and all the mist and rain on the lake his own. It looks free and easy. The last two lines are the most striking. He Zhizhang's piece of Mirror Lake was a gift from the emperor. But Lu You says the lake has always belonged to people at leisure, and needs no one's gift. It sounds carefree, but it is stubborn and bitter too. On the surface is an easy life; beneath it is the sadness of a hero with nothing to do."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "recluse",
+   "fisherman",
+   "ambition",
+   "lake"
+  ]
+ },
+ "uncertain": []
+}

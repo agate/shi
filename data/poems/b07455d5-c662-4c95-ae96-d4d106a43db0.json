@@ -1,0 +1,345 @@
+{
+ "id": "b07455d5-c662-4c95-ae96-d4d106a43db0",
+ "kind": "shi",
+ "title": "题李凝幽居",
+ "title_en": "Written at Li Ning's Secluded Home",
+ "author": "贾岛",
+ "author_en": "Jia Dao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "并",
+    "bìng"
+   ]
+  ],
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "园",
+    "yuán"
+   ]
+  ],
+  [
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "僧",
+    "sēng"
+   ],
+   [
+    "敲",
+    "qiāo"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "根",
+    "gēn"
+   ]
+  ],
+  [
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "负",
+    "fù"
+   ],
+   [
+    "言",
+    "yán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还来”是回来、再来的意思，读 huán。",
+   "en": "Huán lái means to come back, so the character is read huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "闲居：清闲的住处。",
+   "en": "xián jū: a quiet home."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "少邻并：很少有邻居。邻并，邻居。",
+   "en": "shǎo lín bìng: few neighbors nearby."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "草径：长满野草的小路。",
+   "en": "cǎo jìng: a little path overgrown with grass."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "荒园：荒凉的园子。",
+   "en": "huāng yuán: a wild, untended garden."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "僧：和尚。这里是诗人自己，贾岛年轻时当过和尚。",
+   "en": "sēng: a monk. Here it is the poet himself, who was a monk when young."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "分野色：桥两边的田野景色被分开了。",
+   "en": "fēn yě sè: the bridge divides the colors of the fields on either side."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "云根：古人认为云是从山石中生出来的，所以把石头叫作“云根”。",
+   "en": "yún gēn: \"cloud roots\". People long ago thought clouds grew out of rocks, so they called stones cloud roots."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 5,
+   "zh": "移石动云根：一说是云影在石头上移动，好像石头在动；一说是诗人移动了脚下的石头。",
+   "en": "yí shí dòng yún gēn: one reading is that cloud shadows move over the rocks so the rocks seem to move; another is that the poet moves a stone as he walks."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "暂去：暂时离开。",
+   "en": "zàn qù: to leave for a while."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "幽期：再来隐居、一起游玩的约定。",
+   "en": "yōu qī: a promise to come back to this quiet place."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "不负言：不会违背诺言。",
+   "en": "bù fù yán: I will not break my word."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "朋友在这里清闲地住着，周围很少有邻居；",
+   "en": "My friend lives here quietly, with few neighbors around."
+  },
+  {
+   "zh": "一条长满野草的小路，通进荒凉的园子。",
+   "en": "A grassy path leads into a wild garden."
+  },
+  {
+   "zh": "鸟儿在池塘边的树上睡了，",
+   "en": "Birds roost in the trees beside the pond,"
+  },
+  {
+   "zh": "我这个和尚，在月光下敲着他的门。",
+   "en": "and I, a monk, knock at his door under the moon."
+  },
+  {
+   "zh": "走过小桥，看见桥两边田野的景色不同；",
+   "en": "Crossing the bridge, I see the fields split into different colors."
+  },
+  {
+   "zh": "云影移动，好像山石也跟着在动。",
+   "en": "Clouds drift by, and the rocks beneath them seem to move."
+  },
+  {
+   "zh": "我暂时离开，还会回到这里，",
+   "en": "I am leaving for now, but I will come back here."
+  },
+  {
+   "zh": "一起隐居的约定，我决不会失信。",
+   "en": "I will keep my promise to return to this quiet place."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写贾岛去拜访朋友李凝，李凝不在家，他就在门上题了这首诗。李凝是谁，生平已经不清楚，大概是一位隐士。关于“僧敲月下门”有一个有名的传说：贾岛骑着驴，一直在想用“推”字还是“敲”字，不知不觉撞上了韩愈的车队。韩愈想了想说，用“敲”字好。“推敲”这个词就是这样来的。不过这个故事是后人记下来的，未必完全是真的。",
+  "en": "In this poem Jia Dao goes to visit his friend Li Ning, but finds him out, so he writes the poem at his door. We no longer know who Li Ning was; he was probably a hermit. There is a famous story about the line \"a monk knocks at the door under the moon\". Riding his donkey, Jia Dao kept trying to choose between \"push\" and \"knock\", and without noticing he bumped into the procession of the official Han Yu. Han Yu thought for a moment and said \"knock\" was better. That is where the Chinese word tuī qiāo, \"push and knock\", meaning to weigh one's words carefully, comes from. But the story was written down later and may not be wholly true."
+ },
+ "author_note": {
+  "zh": "贾岛（779—843），字浪仙，唐代诗人。他年轻时出家当和尚，法号无本，后来还俗参加科举，但一直不太得志。他写诗非常认真，一个字一个字地反复琢磨，自己说“两句三年得，一吟双泪流”。人们把他和孟郊并称“郊寒岛瘦”。",
+  "en": "Jia Dao (779–843) was a Tang poet. As a young man he became a Buddhist monk, then later returned to ordinary life to sit the imperial exams, but he never did well. He worked very hard on his poems, weighing every word. He once said it took him three years to get two lines right. People paired him with the poet Meng Jiao, calling Meng's poems \"cold\" and Jia's \"lean\"."
+ },
+ "appreciation": {
+  "zh": "这首诗最出名的是“鸟宿池边树，僧敲月下门”两句。夜很静，鸟都睡了，月光下，一个和尚轻轻敲门。用“敲”字，就有了一点声音，“笃笃”几下，反而让夜显得更安静了。如果用“推”，就没有这个效果。五、六句写回去路上的景色：过了桥，田野的颜色不一样了；云在飘，山石好像也在动。最后两句说：我会再来，约定不会忘。整首诗清幽安静，写出了隐居生活的美好。",
+  "en": "The most famous lines are the third and fourth. The night is still. The birds are asleep. Under the moon, a monk knocks softly at a door. The word \"knock\" adds a small sound, a few taps, and that makes the night feel even quieter. The word \"push\" would not do this. Lines five and six show the way back. After the bridge, the fields change color. Clouds drift, and the rocks seem to move with them. The last two lines say: I will come again, and I will not forget my promise. The whole poem is quiet and calm, and shows how lovely a hermit's life can be."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "night",
+   "moon",
+   "hermit",
+   "friendship",
+   "visit"
+  ]
+ },
+ "uncertain": []
+}

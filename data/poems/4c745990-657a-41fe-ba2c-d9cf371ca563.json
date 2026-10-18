@@ -1,0 +1,354 @@
+{
+ "id": "4c745990-657a-41fe-ba2c-d9cf371ca563",
+ "kind": "shi",
+ "title": "贼平后送人北归",
+ "title_en": "Seeing a Friend Off North After the Rebels Are Crushed",
+ "author": "司空曙",
+ "author_en": "Sikong Shu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "垒",
+    "lěi"
+   ]
+  ],
+  [
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "禽",
+    "qín"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "颜",
+    "yán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“北还”是回北方的意思，读 huán。",
+   "en": "Běi huán means to return north, so the character is read huán."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "宿",
+   "pinyin": "sù",
+   "zh": "“宿”是住宿、停留的意思，读 sù。",
+   "en": "Here it means to stay for the night, read sù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "世乱：天下大乱，指安史之乱。",
+   "en": "shì luàn: the world in chaos, meaning the An Lushan Rebellion."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "同南去：我们一起逃到南方。",
+   "en": "tóng nán qù: we fled south together."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "时清：天下太平了。",
+   "en": "shí qīng: peace has come again."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "独北还：只有你一个人回北方去。",
+   "en": "dú běi huán: only you go back north."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "他乡：别的地方，不是自己的家乡。",
+   "en": "tā xiāng: a place that is not one's home."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "旧国：故乡。",
+   "en": "jiù guó: one's old home."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "残垒：打仗留下的、破破烂烂的营垒和工事。",
+   "en": "cán lěi: the broken forts and walls left from the war."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "故关：旧时的关口。",
+   "en": "gù guān: an old mountain pass with a gate."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "寒禽：寒天里的鸟。",
+   "en": "hán qín: birds in the cold season."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "衰草：枯黄的草。",
+   "en": "shuāi cǎo: withered, yellow grass."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "愁颜：发愁的脸。",
+   "en": "chóu yán: a sad face."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天下大乱的时候，我们一起逃到南方；",
+   "en": "When the world fell into chaos, we fled south together."
+  },
+  {
+   "zh": "如今天下太平了，你却一个人回北方。",
+   "en": "Now that peace has come, you alone go back north."
+  },
+  {
+   "zh": "在他乡，我们的头发都已经白了；",
+   "en": "In this strange land our hair has turned white."
+  },
+  {
+   "zh": "回到故乡，你会看见熟悉的青山。",
+   "en": "Back home, you will see the green hills you knew."
+  },
+  {
+   "zh": "路上，清晨的月亮照着残破的营垒，",
+   "en": "On the road, the dawn moon will shine on broken forts,"
+  },
+  {
+   "zh": "夜里，满天星星陪你住在旧关口。",
+   "en": "and at night you will sleep at old passes under crowded stars."
+  },
+  {
+   "zh": "寒天的鸟和枯黄的草，",
+   "en": "Cold-weather birds and withered grass"
+  },
+  {
+   "zh": "一路上处处陪着你发愁的脸。",
+   "en": "will keep your sad face company all the way."
+  }
+ ],
+ "background": {
+  "zh": "“贼”指安史之乱的叛军。755年安禄山、史思明起兵叛乱，北方打了八年仗，很多人逃到南方避难，诗人和这位朋友也是这样。763年叛乱平定后，朋友要回北方的家乡，诗人却留在南方，于是写诗送别。这位朋友是谁，已经不知道了。",
+  "en": "The rebels in the title are the forces of the An Lushan Rebellion. In 755 An Lushan and Shi Siming rose up, and war raged in the north for eight years. Many people fled south, the poet and this friend among them. After the rebellion was put down in 763, the friend set off for his northern home, while the poet stayed in the south and wrote this farewell poem. Who the friend was is no longer known."
+ },
+ "author_note": {
+  "zh": "司空曙，唐代诗人，“大历十才子”之一。大历是唐代宗的年号，那时有十位诗人很有名，他是其中之一。他经历过安史之乱，曾经在南方避难，诗里常写离别和乱世的伤感。",
+  "en": "Sikong Shu was a Tang poet, one of the Ten Talents of the Dali era, a group of ten famous poets under Emperor Daizong. He lived through the An Lushan Rebellion and took refuge in the south for a time. His poems often deal with partings and the sadness of war-torn times."
+ },
+ "appreciation": {
+  "zh": "开头两句对得很巧：乱的时候“同”去，太平了却“独”回。一个“同”一个“独”，说出了朋友分别的难过。第三、四句说，在外面熬白了头，你终于能回去看家乡的青山了，又高兴又心酸。后面四句是诗人想象朋友一路上的样子：月亮照着打仗留下的破营垒，星星陪他睡在旧关口，路边全是冷天的鸟和枯草。战争虽然结束了，到处还是伤痕。这份愁，既是朋友的，也是诗人自己的。",
+  "en": "The first two lines balance beautifully. In chaos they left together; in peace one returns alone. Together and alone: those two words carry the pain of parting. Lines three and four say: we grew old and gray far from home, and now at last you can see your home hills again, which is both happy and sad. The last four lines imagine the friend's road: the moon over broken forts, stars above old passes, cold birds and dead grass everywhere. The war is over, but its scars are everywhere. The sorrow belongs to the friend, and to the poet too."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "war",
+   "friendship",
+   "homesick"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,346 @@
+{
+ "id": "9380d4f6-e19d-4ff1-8309-07f4ede69f7c",
+ "kind": "shi",
+ "title": "北青萝",
+ "title_en": "North Green Vine",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "崦",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "茅",
+    "máo"
+   ],
+   [
+    "屋",
+    "wū"
+   ],
+   [
+    "访",
+    "fǎng"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "僧",
+    "sēng"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "层",
+    "céng"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "敲",
+    "qiāo"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "磬",
+    "qìng"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "藤",
+    "téng"
+   ]
+  ],
+  [
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "界",
+    "jiè"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "宁",
+    "nìng"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "憎",
+    "zēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "宁",
+   "pinyin": "nìng",
+   "zh": "宁：岂、难道、何必的意思，读 nìng。",
+   "en": "Here it means \"why should\" or \"how could\", so it is read nìng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "残阳：快要落山的太阳。",
+   "en": "cán yáng: the setting sun."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "崦：崦嵫山，古代传说中太阳落下去的山。这里泛指太阳落下的山。",
+   "en": "yān: Mount Yanzi, where the sun was said to set in old legends. Here it means the hills the sun sinks behind."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "孤僧：独自住在山里的和尚。",
+   "en": "gū sēng: a monk living alone in the hills."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "人何在：人在哪里呢？",
+   "en": "rén hé zài: where is he?"
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "路几层：山路弯弯，穿过一层又一层的云。",
+   "en": "lù jǐ céng: the winding path passes through layer after layer of cloud."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "初夜：天刚黑的时候。",
+   "en": "chū yè: early night, just after dark."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "磬：寺庙里敲的一种乐器，用石头或铜做成，念经时敲它。",
+   "en": "qìng: a chime of stone or bronze that monks strike when they chant."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "一枝藤：一根藤做的拐杖。",
+   "en": "yī zhī téng: a walking stick made of vine."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "世界微尘里：佛教的说法，整个大世界也不过像一粒小小的灰尘。",
+   "en": "shì jiè wēi chén lǐ: a Buddhist idea that the whole great world is no bigger than a speck of dust."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "吾：我。",
+   "en": "wú: I, me."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "爱与憎：喜欢和讨厌。",
+   "en": "ài yǔ zēng: love and hate."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夕阳向西落到了山后，",
+   "en": "The setting sun sinks behind the western hills,"
+  },
+  {
+   "zh": "我到茅草屋里去拜访一位独居的僧人。",
+   "en": "as I go to a grass hut to visit a lone monk."
+  },
+  {
+   "zh": "落叶满地，人在哪里呢？",
+   "en": "Fallen leaves everywhere, but where is he?"
+  },
+  {
+   "zh": "寒冷的云雾里，山路弯弯，有好几层。",
+   "en": "Through cold clouds the path winds up, layer on layer."
+  },
+  {
+   "zh": "天刚黑，他独自敲着磬念经；",
+   "en": "At dusk he strikes the chime alone,"
+  },
+  {
+   "zh": "又悠闲地靠着一根藤杖。",
+   "en": "then leans at ease on a vine-wood staff."
+  },
+  {
+   "zh": "这个大世界也不过是一粒微尘，",
+   "en": "This whole world is just a speck of dust,"
+  },
+  {
+   "zh": "我又何必去计较喜欢和讨厌呢？",
+   "en": "so why should I cling to love and hate?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗写诗人在傍晚上山，拜访一位独居的僧人。北青萝在哪里，说法不一。一说在王屋山一带，李商隐年轻时曾在那附近的玉阳山学道。诗写于哪一年，也不清楚。诗人在僧人的茅屋里待到天黑，听着磬声，心里忽然平静下来，写下了这首诗。",
+  "en": "In this poem the poet climbs a hill at dusk to visit a monk who lives alone. Where North Green Vine was is not agreed. One view puts it near Mount Wangwu; as a young man Li Shangyin studied Daoism on nearby Mount Yuyang. The year is not known either. The poet stays at the monk's hut until dark, listens to the chime, and suddenly feels his heart grow calm. Then he writes this poem."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人，和杜牧并称“小李杜”。他一生卷在朝廷两派的争斗里，做官很不顺，心里常常苦闷。他的诗大多写得含蓄深情，这首写访僧的诗却很清淡。",
+  "en": "Li Shangyin (about 813–about 858) was a great late Tang poet, named together with Du Mu as the \"Little Li and Du\". All his life he was caught in fights between two factions at court, so his career went badly and he was often unhappy. Most of his poems are veiled and full of feeling, but this one about visiting a monk is plain and calm."
+ },
+ "appreciation": {
+  "zh": "这首诗像一次慢慢走进山里的旅程。第一句是傍晚，太阳落山；第二句说明来意，要去看一位孤僧。三四句写找人：满地落叶，不见人影，只有寒云和弯弯的山路。这里没有直接写僧人，却让人感到他住得多么偏远、多么清静。五六句才写到僧人：天黑了，他一个人敲磬，又闲闲地靠着藤杖。最后两句是诗人的领悟：整个世界都小得像一粒灰尘，我还有什么好爱、好恨的呢？他平时有很多烦恼，在这一刻好像都放下了。",
+  "en": "This poem is like a slow walk deep into the hills. The first line is dusk, with the sun going down. The second says why he has come: to see a lone monk. Lines three and four are about searching. Fallen leaves cover the ground, no one is in sight, there are only cold clouds and a winding path. The monk is not described, yet we feel how far away and how peaceful his home is. Only lines five and six show the monk. Night has come, he strikes the chime alone, then leans calmly on his staff. The last two lines are what the poet comes to see. The whole world is as small as a speck of dust, so what is there to love or hate? He usually has many worries, but in this moment he seems to let them all go."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "buddhism",
+   "mountain",
+   "evening",
+   "calm"
+  ]
+ },
+ "uncertain": []
+}

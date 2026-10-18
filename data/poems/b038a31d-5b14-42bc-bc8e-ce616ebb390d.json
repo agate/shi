@@ -1,0 +1,206 @@
+{
+ "id": "b038a31d-5b14-42bc-bc8e-ce616ebb390d",
+ "kind": "shi",
+ "title": "咏鹅",
+ "title_en": "Ode to the Goose",
+ "author": "骆宾王",
+ "author_en": "Luo Binwang",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "鹅",
+    "é"
+   ],
+   [
+    "鹅",
+    "é"
+   ],
+   [
+    "鹅",
+    "é"
+   ]
+  ],
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "项",
+    "xiàng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "歌",
+    "gē"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "毛",
+    "máo"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "掌",
+    "zhǎng"
+   ],
+   [
+    "拨",
+    "bō"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "“曲”是“弯曲”的意思，读 qū，不读 qǔ（歌曲）。",
+   "en": "Here this character means \"bent, curved\", so it is read qū, not qǔ (a song)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "鹅鹅鹅：模仿鹅的叫声，也像小孩子看见鹅时高兴地喊。",
+   "en": "é é é: like the goose's own cry, and also like a child happily calling out on seeing a goose."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "曲项：弯着脖子。项，脖子。",
+   "en": "qū xiàng: bending its neck. Xiàng means neck."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "向天歌：朝着天空叫，好像在唱歌。",
+   "en": "xiàng tiān gē: calling up to the sky, as if singing."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "浮：漂在水面上。",
+   "en": "fú: to float on the water."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "掌：鹅的脚掌，脚趾间有蹼，可以划水。",
+   "en": "zhǎng: the goose's webbed feet, which it uses to paddle."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "拨：划，拨动。",
+   "en": "bō: to push, to paddle."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "清波：清清的水波。",
+   "en": "qīng bō: clear ripples."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "鹅！鹅！鹅！",
+   "en": "Goose! Goose! Goose!"
+  },
+  {
+   "zh": "弯着脖子，朝着天空高声歌唱。",
+   "en": "It bends its neck and sings up to the sky."
+  },
+  {
+   "zh": "洁白的羽毛漂在碧绿的水面上，",
+   "en": "Its white feathers float on the green water,"
+  },
+  {
+   "zh": "红红的脚掌拨动着清清的水波。",
+   "en": "and its red feet paddle the clear ripples."
+  }
+ ],
+ "background": {
+  "zh": "相传这首诗是骆宾王七岁时写的。传说有客人来家里，指着池塘里的鹅让他作诗，他随口就念出了这首诗。这个故事是后人传下来的，不一定可靠，但这首诗确实写出了孩子眼中的鹅，读起来天真有趣。",
+  "en": "Legend says Luo Binwang wrote this poem when he was seven. A guest came to his home, pointed at the geese in the pond, and asked him to make a poem. He said this one right away. The story was passed down later and may not be true, but the poem really does show a goose through a child's eyes, and it reads with a child's fresh delight."
+ },
+ "author_note": {
+  "zh": "骆宾王，唐代初年的诗人，和王勃、杨炯、卢照邻一起被称为“初唐四杰”。他从小就很有才华，有“神童”之称。后来他参加徐敬业起兵反对武则天，写了有名的檄文；起兵失败后，他下落不明。",
+  "en": "Luo Binwang was an early Tang poet. With Wang Bo, Yang Jiong and Lu Zhaolin he is one of the \"Four Talents of the Early Tang\". He was gifted from childhood and was called a child prodigy. Later he joined Xu Jingye's uprising against Empress Wu Zetian and wrote a famous call to arms. After the uprising failed, no one knows what became of him."
+ },
+ "appreciation": {
+  "zh": "这首诗像小朋友第一次看见鹅时的样子。开头三个“鹅”字，又像鹅的叫声，又像孩子兴奋地喊，一下子就把我们带到池塘边。第二句写鹅弯着长脖子朝天叫，好像在唱歌，有声音也有动作。后两句写颜色：白羽毛、绿池水、红脚掌、清水波，一句里有两种颜色，对比鲜明，像一幅彩色的画。“浮”写鹅在水面上安安静静，“拨”写脚掌在水下忙个不停，一静一动，写得活灵活现。",
+  "en": "This poem is like a child seeing a goose for the first time. The three \"goose!\" words at the start sound like the bird's cry and also like an excited child shouting. At once we are standing by the pond. The second line shows the goose bending its long neck and calling to the sky, as if singing, with both sound and movement. The last two lines are about color: white feathers, green water, red feet, clear ripples. Each line holds two colors side by side, bright as a painting. \"Float\" shows the goose calm on top of the water. \"Paddle\" shows its feet busy underneath. One still, one moving, and the goose comes alive."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "animal",
+   "goose",
+   "childhood",
+   "color"
+  ]
+ },
+ "uncertain": []
+}

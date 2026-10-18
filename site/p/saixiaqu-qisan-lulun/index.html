@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>塞下曲·其三 · 卢纶 — 诗</title>
+    <meta name="description" content="塞下曲·其三 · 卢纶 — Frontier Song, No. 3 by Lu Lun: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character quatrain</span><span lang="zh">唐诗 · 五言绝句</span></p>
+        <h1>塞下曲·其三</h1>
+        <p class="by">卢纶<span class="mono"><span lang="en">Lu Lun · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Frontier Song, No. 3</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>yuè</i><b>月</b></span><span class="c gl" data-l="0" data-p="1"><i>hēi</i><b>黑</b></span><span class="c" data-l="0" data-p="2"><i>yàn</i><b>雁</b></span><span class="c" data-l="0" data-p="3"><i>fēi</i><b>飞</b></span><span class="c" data-l="0" data-p="4"><i>gāo</i><b>高</b></span></p><p class="ln"><span class="c gl rd" data-l="1" data-p="0"><i>chán</i><b>单</b></span><span class="c gl" data-l="1" data-p="1"><i>yú</i><b>于</b></span><span class="c" data-l="1" data-p="2"><i>yè</i><b>夜</b></span><span class="c gl" data-l="1" data-p="3"><i>dùn</i><b>遁</b></span><span class="c gl" data-l="1" data-p="4"><i>táo</i><b>逃</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yù</i><b>欲</b></span><span class="c gl" data-l="2" data-p="1"><i>jiāng</i><b>将</b></span><span class="c gl" data-l="2" data-p="2"><i>qīng</i><b>轻</b></span><span class="c gl rd" data-l="2" data-p="3"><i>qí</i><b>骑</b></span><span class="c gl" data-l="2" data-p="4"><i>zhú</i><b>逐</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>dà</i><b>大</b></span><span class="c" data-l="3" data-p="1"><i>xuě</i><b>雪</b></span><span class="c gl" data-l="3" data-p="2"><i>mǎn</i><b>满</b></span><span class="c gl" data-l="3" data-p="3"><i>gōng</i><b>弓</b></span><span class="c gl" data-l="3" data-p="4"><i>dāo</i><b>刀</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">月黑雁飞高</span><span lang="en">On a moonless night, the wild geese fly high;</span><span lang="zh">没有月亮的黑夜，大雁飞得很高，</span></li><li><span class="o">单于夜遁逃</span><span lang="en">the enemy chief slips away under cover of dark.</span><span lang="zh">敌人的首领趁着夜色偷偷逃跑。</span></li><li><span class="o">欲将轻骑逐</span><span lang="en">Our general is about to lead light horsemen in pursuit,</span><span lang="zh">将军正要带领轻骑兵去追赶，</span></li><li><span class="o">大雪满弓刀</span><span lang="en">and heavy snow covers their bows and swords.</span><span lang="zh">一场大雪落下，盖满了弓和刀。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>月黑<span class="mono">yuè hēi</span></dt><dd><span lang="en">yuè hēi: no moonlight, a pitch-dark night.</span><span lang="zh">月黑：没有月光，夜色漆黑。</span></dd></div><div><dt>单于<span class="mono">chán yú</span></dt><dd><span lang="en">chán yú: the title of the Xiongnu chief, used here for the enemy leader.</span><span lang="zh">单于：匈奴首领的称呼，这里借来指敌人的首领。</span></dd></div><div><dt>遁逃<span class="mono">dùn táo</span></dt><dd><span lang="en">dùn táo: to slip away, to flee secretly.</span><span lang="zh">遁逃：偷偷地逃走。</span></dd></div><div><dt>欲<span class="mono">yù</span></dt><dd><span lang="en">yù: to want to, to be about to.</span><span lang="zh">欲：想要，正要。</span></dd></div><div><dt>将<span class="mono">jiāng</span></dt><dd><span lang="en">jiāng: to lead.</span><span lang="zh">将：率领，带着。</span></dd></div><div><dt>轻骑<span class="mono">qīng qí</span></dt><dd><span lang="en">qīng qí: light, fast cavalry.</span><span lang="zh">轻骑：轻装快速的骑兵。</span></dd></div><div><dt>逐<span class="mono">zhú</span></dt><dd><span lang="en">zhú: to chase.</span><span lang="zh">逐：追赶。</span></dd></div><div><dt>满弓刀<span class="mono">mǎn gōng dāo</span></dt><dd><span lang="en">mǎn gōng dāo: covering the bows and swords.</span><span lang="zh">满弓刀：落满了弓和刀。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>单<span class="mono">chán</span></dt><dd><span lang="en">Chányú was the title of the chief of the Xiongnu and other northern peoples. Here the first character is read chán, not dān.</span><span lang="zh">单于是古代匈奴等民族对首领的称呼，这里的“单”读 chán，不读 dān。</span></dd></div><div><dt>骑<span class="mono">qí</span></dt><dd><span lang="en">Here this character means mounted soldiers. In old times this meaning was read jì; today it is always read qí.</span><span lang="zh">骑，这里指骑马的士兵。古代这个意思读 jì，现在统一读 qí。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This is the third of Lu Lun&#x27;s six &quot;Replying to Minister Zhang&#x27;s Frontier Songs&quot;. Replying here means writing a poem in answer to someone else&#x27;s. Minister was a high official title, and this Minister Zhang may have been Zhang Yanshang. The poem shows a snowy night: the enemy flees in the dark, and the Tang army gets ready to chase them. Our corpus also lists the poem under Qian Qi, but it is generally credited to Lu Lun.</p><p lang="zh">这是卢纶《和张仆射塞下曲》六首中的第三首。“和”读 hè，是写诗回应别人的诗；仆射是一种大官，这位张仆射一说是张延赏。诗里写一个下大雪的夜晚，敌人趁黑逃跑，唐军准备追击。我们所用的古诗资料把这首诗也收在钱起名下，但一般认为作者是卢纶。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Lu Lun was a Tang poet, one of the Ten Talents of the Dali era. His exact dates are not known; he lived in the second half of the eighth century. He served in the army and saw the snow and wind of the frontier and the lives of soldiers. His frontier poems are short and strong. This one and the one that begins with dark woods and startled grass are both in school textbooks.</p><p lang="zh">卢纶，唐代诗人，“大历十才子”之一，生卒年不能确定，大约生活在八世纪后半期。他在军中做过官，见过边塞的风雪和将士的生活。他的边塞诗写得短小有力，这一首和“林暗草惊风”都被选进了课本。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first line sets the scene: the night is so dark there is no moon, and the geese fly high, startled, as if something is moving. The second line gives the reason: the enemy chief is escaping in the dark. The third line shows our army&#x27;s spirit: the general is about to lead light horsemen after him. The last line does not tell us whether they catch him or how they fight. It gives only one picture: heavy snow falling, quickly covering bows and swords. It is bitterly cold and the snow is thick, yet the soldiers do not flinch. The poem stops at the moment before they ride out and leaves the chase to our imagination, tense and bold.</p><p lang="zh">第一句写环境：夜黑得看不见月亮，大雁受惊高飞，好像有什么动静。第二句点出原因：敌人首领趁黑逃跑了。第三句写我军的气势：将军马上要带轻骑兵追上去。最后一句不写追上没有，也不写怎么打，只写一个画面：大雪纷纷落下，转眼盖满了弓和刀。天那么冷，雪那么大，将士们却毫不退缩。诗停在出发前的一刻，留给我们去想象后面的追击，紧张又豪迈。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/zaiyuyongchan/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>在狱咏蝉</b></a><a href="../../p/guyan/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>孤雁</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["月", "yuè"], ["黑", "hēi"], ["雁", "yàn"], ["飞", "fēi"], ["高", "gāo"]], [["单", "chán"], ["于", "yú"], ["夜", "yè"], ["遁", "dùn"], ["逃", "táo"]], [["欲", "yù"], ["将", "jiāng"], ["轻", "qīng"], ["骑", "qí"], ["逐", "zhú"]], [["大", "dà"], ["雪", "xuě"], ["满", "mǎn"], ["弓", "gōng"], ["刀", "dāo"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "月黑：没有月光，夜色漆黑。", "en": "yuè hēi: no moonlight, a pitch-dark night."}, {"line": 1, "start": 0, "end": 2, "zh": "单于：匈奴首领的称呼，这里借来指敌人的首领。", "en": "chán yú: the title of the Xiongnu chief, used here for the enemy leader."}, {"line": 1, "start": 3, "end": 5, "zh": "遁逃：偷偷地逃走。", "en": "dùn táo: to slip away, to flee secretly."}, {"line": 2, "start": 0, "end": 1, "zh": "欲：想要，正要。", "en": "yù: to want to, to be about to."}, {"line": 2, "start": 1, "end": 2, "zh": "将：率领，带着。", "en": "jiāng: to lead."}, {"line": 2, "start": 2, "end": 4, "zh": "轻骑：轻装快速的骑兵。", "en": "qīng qí: light, fast cavalry."}, {"line": 2, "start": 4, "end": 5, "zh": "逐：追赶。", "en": "zhú: to chase."}, {"line": 3, "start": 2, "end": 5, "zh": "满弓刀：落满了弓和刀。", "en": "mǎn gōng dāo: covering the bows and swords."}], "readings": [{"line": 1, "pos": 0, "char": "单", "pinyin": "chán", "zh": "单于是古代匈奴等民族对首领的称呼，这里的“单”读 chán，不读 dān。", "en": "Chányú was the title of the chief of the Xiongnu and other northern peoples. Here the first character is read chán, not dān."}, {"line": 2, "pos": 3, "char": "骑", "pinyin": "qí", "zh": "骑，这里指骑马的士兵。古代这个意思读 jì，现在统一读 qí。", "en": "Here this character means mounted soldiers. In old times this meaning was read jì; today it is always read qí."}], "speak": ["月黑雁飞高", "单于夜遁逃", "欲将轻骑逐", "大雪满弓刀"], "speakTitle": "塞下曲，其三。卢纶。", "sample": "月黑雁飞高"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

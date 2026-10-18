@@ -1,0 +1,358 @@
+{
+ "id": "fdc07d9f-95b8-45f7-b1b3-9d272b3416a4",
+ "kind": "shi",
+ "title": "秋日登吴公台上寺远眺",
+ "title_en": "Gazing Afar from the Temple on Wugong Terrace on an Autumn Day",
+ "author": "刘长卿",
+ "author_en": "Liu Changqing",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "摇",
+    "yáo"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "寺",
+    "sì"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "峰",
+    "fēng"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "垒",
+    "lěi"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "磬",
+    "qìng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "惆",
+    "chóu"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "今",
+    "jīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料第二句作“秋日望乡心”，第三句作“野寺人来少”，第四句作“云峰水隔深”。通行本作“秋入望乡心”“野寺来人少”“云峰隔水深”，这里用通行本。完整的诗题是《秋日登吴公台上寺远眺，寺即陈将吴明彻战场》。",
+  "en": "In the corpus, line two reads \"qiū rì wàng xiāng xīn\", line three \"yě sì rén lái shǎo\", and line four \"yún fēng shuǐ gé shēn\". The common text has \"qiū rù\", \"lái rén\" and \"gé shuǐ\", which are used here. The full title adds: the temple stands on the old battlefield of Wu Mingche, a general of the Chen dynasty."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "朝：这里读 cháo，意思是朝代。",
+   "en": "cháo: here it means a dynasty, so it is read cháo, not zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "古台：指吴公台，在今天江苏扬州。南朝陈的将军吴明彻攻打这里时，曾在旧台上加高修筑，所以叫吴公台。",
+   "en": "gǔ tái: the old terrace, Wugong Terrace, in today's Yangzhou, Jiangsu. Wu Mingche, a general of the Chen dynasty, built it up higher when he attacked the city, so it was named after him."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "摇落：秋风吹来，草木凋零，叶子纷纷落下。",
+   "en": "yáo luò: in the autumn wind, plants wither and leaves fall."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "望乡心：想望故乡的心情。",
+   "en": "wàng xiāng xīn: the feeling of longing for home."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "野寺：建在荒野里的寺庙，指台上的寺。",
+   "en": "yě sì: a temple out in the wilds, here the temple on the terrace."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "云峰：高耸入云的山峰。",
+   "en": "yún fēng: mountain peaks rising into the clouds."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "依：依傍，靠着。",
+   "en": "yī: to lean on, to rest against."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "旧垒：从前打仗时修的营垒，就是军营的土墙。",
+   "en": "jiù lěi: old earthworks, the walls of an army camp from past battles."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "寒磬：寺里清冷的磬声。磬是寺庙里敲的一种乐器，声音清亮。",
+   "en": "hán qìng: the cold sound of a temple chime. A qìng is a struck instrument used in temples, with a clear ringing sound."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "空林：叶子落光、显得空荡荡的树林。",
+   "en": "kōng lín: an empty wood, its leaves all fallen."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "惆怅：伤感，失落。",
+   "en": "chóu chàng: sad and lost."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "南朝：东晋以后在南方先后建立的宋、齐、梁、陈四个朝代。",
+   "en": "nán cháo: the Southern Dynasties, the four states of Song, Qi, Liang and Chen that ruled the south one after another after the Eastern Jin."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "独至今：只有长江一直流到今天。",
+   "en": "dú zhì jīn: only the Yangtze still flows on to this day."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "草木凋零以后，我登上这座古台，",
+   "en": "After the leaves have fallen, I climb this old terrace."
+  },
+  {
+   "zh": "秋色勾起了我想念家乡的心。",
+   "en": "Autumn stirs my longing for home."
+  },
+  {
+   "zh": "荒野里的寺庙，来的人很少；",
+   "en": "Few people come to this temple in the wilds."
+  },
+  {
+   "zh": "隔着河水，高入云中的山峰显得更加幽深。",
+   "en": "Across the water, peaks in the clouds look deep and far."
+  },
+  {
+   "zh": "夕阳斜照，靠在旧时的营垒上；",
+   "en": "The setting sun leans on the old army walls."
+  },
+  {
+   "zh": "清冷的磬声，回荡在空寂的树林里。",
+   "en": "The cold chime rings through the empty woods."
+  },
+  {
+   "zh": "想起南朝的往事，让人伤感，",
+   "en": "Thinking of the Southern Dynasties fills me with sorrow."
+  },
+  {
+   "zh": "只有长江，从古到今一直流淌。",
+   "en": "Only the Yangtze has flowed on until today."
+  }
+ ],
+ "background": {
+  "zh": "吴公台在今天江苏扬州。南朝陈的将军吴明彻曾在这里攻城打仗，台上后来建了寺庙。一个秋天，刘长卿登上这座台，远远望去，看到的是荒寺、旧营垒和空树林，想起了南朝的兴亡，也想起了自己的家乡。一般认为这首诗写于安史之乱以后他在江南、淮南一带漂泊的时候，具体年份不能确定。",
+  "en": "Wugong Terrace is in today's Yangzhou, Jiangsu. Wu Mingche, a general of the Chen dynasty in the Southern Dynasties, once fought here, and a temple was later built on the terrace. One autumn Liu Changqing climbed it and looked far out. He saw a lonely temple, old army walls and empty woods. He thought of the rise and fall of the Southern Dynasties, and of his own home. The poem is usually placed in the years after the An Lushan Rebellion, when he wandered in the lands south of the Yangtze and the Huai, but the exact year is not known."
+ },
+ "author_note": {
+  "zh": "刘长卿（约726—约790），唐代诗人，特别擅长写五言诗，自称“五言长城”，意思是自己的五言诗像长城一样坚固。他一生两次被贬，常常在外漂泊，所以诗里多写秋天、夕阳、远山这些冷清的景色，带着淡淡的忧伤。",
+  "en": "Liu Changqing (about 726 to about 790) was a Tang poet who excelled at five-character verse. He called himself the Great Wall of five-character poetry, meaning his poems were as strong as the Great Wall. He was demoted twice and spent much of his life far from home, so his poems often show cold, quiet scenes like autumn, sunset and distant hills, touched with a gentle sadness."
+ },
+ "appreciation": {
+  "zh": "这首诗是“登高怀古”：爬到高处，想起古代的事。开头就是秋天，叶子落了，诗人也想家了。中间四句是他远望看到的景：寺庙冷清，很少有人来；隔着河，山峰藏在云里；夕阳照在当年打仗留下的营垒上；寺里的磬声在空林中回响。这些画面都很安静，甚至有点冷，好像当年的刀光剑影都被时间吹散了。最后两句点明心事：南朝那些朝代一个接一个地灭亡，人和事都不在了，只有长江还在不停地流。江水永远不变，人间却变了又变，让人觉得非常惆怅。",
+  "en": "This is a poem of climbing high and thinking of the past. It opens in autumn: the leaves have fallen and the poet misses home. The middle four lines show what he sees from afar. The temple is quiet and few people come. Across the river the peaks hide in the clouds. The setting sun shines on army walls left from old battles. The temple chime echoes through the empty woods. Every picture is still, even a little cold, as if the clash of swords long ago has been blown away by time. The last two lines say what is on his mind. The Southern Dynasties fell one after another, and their people and deeds are gone. Only the Yangtze keeps flowing. The river never changes while the human world keeps changing, and that fills him with sorrow."
+ },
+ "famous_lines": [
+  4,
+  5,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "homesick",
+   "temple",
+   "river",
+   "sunset"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,249 @@
+{
+ "id": "6e080f93-6e4f-4afb-ba86-757dbdcbc9a8",
+ "kind": "shi",
+ "title": "山亭夏日",
+ "title_en": "A Summer Day at the Mountain Pavilion",
+ "author": "高骈",
+ "author_en": "Gao Pian",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "夏",
+    "xià"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "倒",
+    "dào"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "塘",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "晶",
+    "jīng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "架",
+    "jià"
+   ],
+   [
+    "蔷",
+    "qiáng"
+   ],
+   [
+    "薇",
+    "wēi"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里的底本第三句作“水精帘”。水精就是水晶，古人常写作“水精”。现在通行本和课本多作“水晶帘”，意思一样。",
+  "en": "Our source text writes the third line with shuǐ jīng in an old spelling. It is the old way of writing \"crystal\". Most current editions and textbooks use the modern spelling. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 6,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "这里是“长短”的长，读 cháng，指夏天白天的时间长。",
+   "en": "Here it means long, as in long and short, so it is read cháng: the summer days are long."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "阴浓：树荫很浓密。阴，树荫。",
+   "en": "yīn nóng: the shade is thick. Yīn here means the shade of trees."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "夏日长：夏天白天很长。",
+   "en": "xià rì cháng: summer days are long."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "楼台：楼房和高台。",
+   "en": "lóu tái: tall buildings and raised terraces."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "倒影：东西映在水里的影子，是倒过来的。",
+   "en": "dào yǐng: a reflection in the water, which is upside down."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 3,
+   "zh": "水晶帘：用水晶串成的帘子，形容帘子晶莹透亮。一说是比喻池塘的水面，微风吹过，水面像帘子一样晃动。",
+   "en": "shuǐ jīng lián: a curtain of crystal beads, or a curtain that shines like crystal. Some read it as a picture of the pond's surface, which ripples like a curtain when the breeze blows."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "满架蔷薇：花架上爬满了蔷薇。蔷薇是一种带刺的爬藤花，初夏开花，很香。",
+   "en": "mǎn jià qiáng wēi: the trellis is covered with roses. Qiáng wēi is a climbing rose with thorns. It blooms in early summer and smells sweet."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "一院香：整个院子都是香的。",
+   "en": "yī yuàn xiāng: the whole courtyard is fragrant."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "绿树长得茂密，树荫浓浓的，夏天的白天显得特别长。",
+   "en": "The green trees are thick with shade, and the summer day seems very long."
+  },
+  {
+   "zh": "楼台的倒影，映进了池塘里。",
+   "en": "The buildings and terraces are mirrored upside down in the pond."
+  },
+  {
+   "zh": "水晶帘轻轻晃动，原来是起了微风。",
+   "en": "The crystal curtain sways a little. A light breeze has begun to blow."
+  },
+  {
+   "zh": "满架的蔷薇花开了，香气飘满了整个院子。",
+   "en": "The trellis is full of roses in bloom, and their scent fills the whole courtyard."
+  }
+ ],
+ "background": {
+  "zh": "这首诗具体写于什么时候、什么地方，已经说不清楚了。高骈是晚唐的一位武将，一生大部分时间都在带兵打仗，但他也喜欢写诗。题目里的“山亭”，就是山里的亭子，也可以指建在山边的园林。诗人在一个长长的夏日里，看着园子里的树、楼台、池塘和花，写下了这首清凉的小诗。",
+  "en": "No one knows for sure when or where this poem was written. Gao Pian was a general of the late Tang. He spent most of his life leading armies, but he also loved to write poems. The \"mountain pavilion\" in the title is a pavilion in the hills, or a garden built at the foot of a hill. On a long summer day the poet looked at the trees, buildings, pond and flowers of the garden, and wrote this cool little poem."
+ },
+ "author_note": {
+  "zh": "高骈（821—887），字千里，晚唐名将。他出身将门，镇守过西川、淮南等地，曾经打退南诏的进攻。他虽然是武将，却爱好诗文，《全唐诗》收了他一卷诗。晚年他迷信求仙，后来被部下杀害。",
+  "en": "Gao Pian (821–887) was a famous general of the late Tang. He came from a family of soldiers and guarded regions such as Xichuan and Huainan. He once drove back an attack by the kingdom of Nanzhao. Though he was a soldier, he loved poetry, and a whole chapter of his poems survives in the Complete Tang Poems. In old age he became obsessed with seeking immortality, and in the end he was killed by his own officers."
+ },
+ "appreciation": {
+  "zh": "这首诗写夏天，却让人觉得很凉快。第一句是绿：树荫浓浓的，把太阳挡在外面。第二句是影：楼台倒映在池塘里，水里也有一座楼。第三句是动：帘子轻轻一晃，诗人才发现起风了。风是看不见的，诗人用帘子的晃动把它写了出来。最后一句是香：风一吹，满架蔷薇的香味飘满了院子。诗人用眼睛看、用身体感觉、用鼻子闻，把一个安静、悠闲的夏日写得有色有影，有风有香。",
+  "en": "This poem is about summer, yet it makes us feel cool. The first line is about green: the thick shade keeps the sun out. The second is about reflection: the buildings appear upside down in the pond, as if there were a second building in the water. The third is about movement: the curtain sways, and only then does the poet notice a breeze. Wind cannot be seen, so the poet shows it through the swaying curtain. The last line is about scent: the breeze carries the smell of roses all over the courtyard. With his eyes, his skin and his nose, the poet gives a quiet, lazy summer day its colors, reflections, breeze and fragrance."
+ },
+ "famous_lines": [
+  0,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "garden",
+   "flowers",
+   "leisure",
+   "breeze"
+  ]
+ },
+ "uncertain": []
+}

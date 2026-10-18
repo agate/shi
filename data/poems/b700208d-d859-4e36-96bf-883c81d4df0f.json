@@ -1,0 +1,354 @@
+{
+ "id": "b700208d-d859-4e36-96bf-883c81d4df0f",
+ "kind": "shi",
+ "title": "谷口书斋寄杨补阙",
+ "title_en": "From My Study at the Valley Mouth, to Remonstrator Yang",
+ "author": "钱起",
+ "author_en": "Qian Qi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "泉",
+    "quán"
+   ],
+   [
+    "壑",
+    "hè"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "茅",
+    "máo"
+   ],
+   [
+    "茨",
+    "cí"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "霞",
+    "xiá"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "薜",
+    "bì"
+   ],
+   [
+    "帷",
+    "wéi"
+   ]
+  ],
+  [
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "早",
+    "zǎo"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "童",
+    "tóng"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ],
+   [
+    "萝",
+    "luó"
+   ],
+   [
+    "径",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料第七句作“扫萝迳”，“迳”是“径”的异体字，通行本作“径”。",
+  "en": "The corpus writes the seventh line with a variant form of jìng (path). The common text uses the standard form."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "泉壑：泉水和山沟。壑，山谷、山沟。",
+   "en": "quán hè: springs and gullies. Hè means a valley or ravine."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "带：围绕着。",
+   "en": "dài: to wrap around, like a belt."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "茅茨：用茅草盖屋顶的房子，这里指诗人的书斋。",
+   "en": "máo cí: a hut with a thatched roof of grass. Here it is the poet's study."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "薜帷：薜荔（一种爬藤植物）从墙上垂下来，像一道帘子。帷，帐子、帘子。",
+   "en": "bì wéi: creepers called bìlì hanging down the wall like a curtain. Wéi means a curtain."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "怜：爱，喜欢。",
+   "en": "lián: to love, to be fond of."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "闲：悠闲。",
+   "en": "xián: idle, at ease."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 2,
+   "zh": "鹭：白鹭，一种腿长、羽毛白的水鸟。",
+   "en": "lù: the egret, a white water bird with long legs."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "栖：鸟停下来歇息、过夜。",
+   "en": "qī: for a bird to settle down to rest or roost."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "迟：晚。山里冷清，秋花落得更晚。",
+   "en": "chí: late. In the quiet hills, the autumn flowers fall even later."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "家童：家里的小仆人。",
+   "en": "jiā tóng: a young servant of the household."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "萝径：长满藤萝的小路。",
+   "en": "luó jìng: a little path overgrown with vines."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "故人：老朋友，这里指杨补阙。",
+   "en": "gù rén: an old friend. Here it means Yang."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "期：约定。",
+   "en": "qī: to make an appointment."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "泉水和山谷环绕着我的茅屋，",
+   "en": "Springs and gullies wrap around my thatched hut,"
+  },
+  {
+   "zh": "云霞从薜荔垂成的帘子边升起。",
+   "en": "and clouds rise beside the curtain of hanging creepers."
+  },
+  {
+   "zh": "竹子在新雨过后最可爱，",
+   "en": "The bamboo is loveliest just after fresh rain,"
+  },
+  {
+   "zh": "山在夕阳照着的时候最美。",
+   "en": "and the hills are most beautiful in the setting sun."
+  },
+  {
+   "zh": "悠闲的白鹭总是早早回来歇息，",
+   "en": "The idle egrets always come home early to roost,"
+  },
+  {
+   "zh": "秋天的花在这里落得更晚。",
+   "en": "and the autumn flowers here fall later still."
+  },
+  {
+   "zh": "家里的小仆人在打扫长满藤萝的小路，",
+   "en": "My young servant is sweeping the vine-covered path,"
+  },
+  {
+   "zh": "因为昨天我已经和老朋友约好了。",
+   "en": "because yesterday I made a date with my old friend."
+  }
+ ],
+ "background": {
+  "zh": "这是钱起写给朋友杨补阙的一首诗。补阙是唐代的一种官，专门给皇帝提意见、指出错误。这位杨补阙叫什么名字，已经不清楚了。谷口是山谷的出口，钱起在那里有一间读书的小屋（书斋）。谷口具体在哪里，说法不一。诗里写书斋四周的秋景，最后说已经约好朋友，正在打扫小路等他来，其实是邀请杨补阙来这里做客。",
+  "en": "Qian Qi wrote this poem for his friend Yang, a remonstrator. A remonstrator was a Tang official whose job was to give advice to the emperor and point out his mistakes. Yang's full name is no longer known. A valley mouth is where a valley opens out, and Qian Qi had a small study there. Where exactly it was is not agreed. The poem describes the autumn scenery around the study. At the end it says a date has been made and the path is being swept, which is really an invitation for Yang to come and visit."
+ },
+ "author_note": {
+  "zh": "钱起，字仲文，吴兴（今浙江湖州）人，唐代中期诗人，天宝年间考中进士。他是“大历十才子”之一，就是唐代宗大历年间很有名的十位诗人。他特别擅长写山水和隐居生活，风格清新秀丽。他的名句“曲终人不见，江上数峰青”很受人喜爱。",
+  "en": "Qian Qi, also called Zhongwen, came from Wuxing, today's Huzhou in Zhejiang. He was a mid-Tang poet who passed the imperial exam in the Tianbao years. He was one of the Ten Talents of the Dali era, ten poets famous during the reign of Emperor Daizong. He was especially good at writing about hills, rivers and quiet country life, in a fresh and graceful style. His lines about a song ending, no one in sight, and a few green peaks on the river are much loved."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅山中书斋图。泉水、山沟围着茅屋，云霞在藤萝边升起，好像住在画里。中间四句最妙：竹子刚被雨洗过，绿得发亮；山在夕阳下一片金红；白鹭悠闲，早早回巢；秋花开得久，落得晚。诗人用“怜”“爱”两个字，好像竹和山也有感情。这里安静、干净，连时间都走得慢。最后两句不直接说“请你来”，只说小童在扫路，因为昨天约了老朋友。主人的热情，全藏在这个小动作里。",
+  "en": "This poem is like a painting of a study in the hills. Springs and gullies circle the hut, and clouds rise by the vines, as if the poet lived inside a picture. The middle four lines are the best. The bamboo shines green, freshly washed by rain. The hills glow gold and red in the evening sun. The egrets, at ease, go home early. The autumn flowers last long and fall late. The poet uses the words love and fond, as if the bamboo and hills had feelings too. Everything is quiet and clean, and even time seems to move slowly. The last two lines never say \"please come\". They only say the servant is sweeping the path because of yesterday's date with an old friend. The host's warm welcome is hidden in this small action."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "reclusion",
+   "friendship",
+   "landscape",
+   "invitation"
+  ]
+ },
+ "uncertain": []
+}

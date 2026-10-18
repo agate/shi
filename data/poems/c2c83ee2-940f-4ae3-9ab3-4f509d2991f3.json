@@ -1,0 +1,380 @@
+{
+ "id": "c2c83ee2-940f-4ae3-9ab3-4f509d2991f3",
+ "kind": "shi",
+ "title": "奉济驿重送严公四韵",
+ "title_en": "At Fengji Post Station, Seeing Lord Yan Off Again: Four Rhymes",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "把",
+    "bǎ"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "行",
+    "xíng"
+   ]
+  ],
+  [
+   [
+    "列",
+    "liè"
+   ],
+   [
+    "郡",
+    "jùn"
+   ],
+   [
+    "讴",
+    "ōu"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "惜",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "荣",
+    "róng"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "养",
+    "yǎng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料第三句“杯”作“桮”，是“杯”的旧写法，通行本作“杯”。",
+  "en": "The corpus writes bēi (cup) in the third line with an old variant form. The common text uses the standard form."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重把”是再一次举杯，“重”读 chóng，意思是“又、再”，不读 zhòng。",
+   "en": "Chóng bǎ means to raise the cup again. Here the character means again and is read chóng, not zhòng."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "行",
+   "pinyin": "xíng",
+   "zh": "“同行”是一起走，“行”读 xíng，不读 háng。它和“情、荣、生”押韵。",
+   "en": "Tóng xíng means walking together, so the character is read xíng, not háng. It rhymes with qíng, róng and shēng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "远送：送了很远的路。",
+   "en": "yuǎn sòng: to see someone off over a long way."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "空：白白地，徒然。",
+   "en": "kōng: in vain, for nothing."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "复情：又一次充满情意。青山好像也舍不得，但留不住人，所以说“空”。",
+   "en": "fù qíng: to feel affection once more. The green hills seem sad to see him go too, but they cannot keep him, so it is in vain."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "几时：什么时候。",
+   "en": "jǐ shí: when."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "杯重把：再一次一起举杯喝酒。",
+   "en": "bēi chóng bǎ: to raise our cups together again."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "同行：一起走。",
+   "en": "tóng xíng: to walk together."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "列郡：各个州郡，指严武管辖的剑南一带各地。",
+   "en": "liè jùn: the many prefectures, meaning all the places Yan Wu governed in Jiannan."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "讴歌：唱歌赞美。",
+   "en": "ōu gē: to sing in praise."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "惜：舍不得。",
+   "en": "xī: to be sorry to lose."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "三朝：三个皇帝在位的时期，指唐玄宗、肃宗、代宗三朝。",
+   "en": "sān cháo: three reigns, those of Emperors Xuanzong, Suzong and Daizong."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "出入：出京做地方官，入京在朝廷做官。",
+   "en": "chū rù: going out to govern the provinces and coming in to serve at court."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "荣：荣耀，光彩。",
+   "en": "róng: honour, glory."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "江村：江边的村子，指杜甫在成都浣花溪边的草堂。",
+   "en": "jiāng cūn: the riverside village, meaning Du Fu's thatched cottage by the Huanhua Stream in Chengdu."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "寂寞：孤单冷清。",
+   "en": "jì mò: lonely and quiet."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "残生：剩下的人生，晚年。",
+   "en": "cán shēng: what is left of one's life, old age."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "送了你这么远，就在这里分别吧，",
+   "en": "I have come a long way with you, and here we part."
+  },
+  {
+   "zh": "青山也满怀情意，却白白留不住你。",
+   "en": "The green hills are full of feeling too, but they cannot keep you."
+  },
+  {
+   "zh": "什么时候我们还能再一起举杯？",
+   "en": "When will we ever raise our cups together again?"
+  },
+  {
+   "zh": "昨天夜里，我们还在月光下同行。",
+   "en": "Only last night we walked together under the moon."
+  },
+  {
+   "zh": "各州的百姓都歌颂你，舍不得你走；",
+   "en": "All the prefectures sing your praises and are sorry to see you go."
+  },
+  {
+   "zh": "你在三朝出京入朝，一直很荣耀。",
+   "en": "Through three reigns you have served in the provinces and at court with honour."
+  },
+  {
+   "zh": "我回到江边的村子，",
+   "en": "Now I go back alone to my riverside village,"
+  },
+  {
+   "zh": "只能孤孤单单地度过余生了。",
+   "en": "to spend the rest of my life in loneliness."
+  }
+ ],
+ "background": {
+  "zh": "严公就是严武，当时是成都尹兼剑南节度使，管理四川一带。他和杜甫是老朋友，在成都时很照顾杜甫。宝应元年（762年），严武被召回长安。杜甫舍不得，一直把他送到绵州（今四川绵阳）的奉济驿（驿是古代供人换马、歇脚的驿站）。杜甫之前已经写过一首送严武的诗，所以这首叫“重送”。“四韵”指全诗押四个韵，也就是八句。",
+  "en": "Lord Yan was Yan Wu, then governor of Chengdu and military commander of Jiannan, in charge of the Sichuan area. He was an old friend of Du Fu and looked after him well in Chengdu. In 762 Yan Wu was called back to Chang'an. Du Fu could not bear to part, and went with him all the way to Fengji post station in Mianzhou, today's Mianyang in Sichuan. A post station was a stop where travellers changed horses and rested. Du Fu had already written one poem to see Yan Wu off, so this one is called \"seeing off again\". Four rhymes means the poem has four rhyming lines, eight lines in all."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。安史之乱以后，他带着家人漂泊到成都，在浣花溪边盖了草堂。严武镇守成都时，常常帮助他，还推荐他做官，两人感情很深。严武一走，杜甫在成都就少了最重要的依靠。",
+  "en": "Du Fu (712–770) was a great Tang poet, often called the Sage of Poetry. After the An Lushan Rebellion he drifted with his family to Chengdu and built a thatched cottage by the Huanhua Stream. While Yan Wu governed Chengdu, he often helped Du Fu and even recommended him for a post. They were very close. When Yan Wu left, Du Fu lost the most important support he had in Chengdu."
+ },
+ "appreciation": {
+  "zh": "这首诗写送别，感情一层比一层深。开头说送了很远，终于要分手了，连青山都好像依依不舍。接着问：什么时候还能一起喝酒？昨天晚上我们还在月光下一起走呢。这一问一忆，让人更觉得离别突然。第五、六句换了口气，称赞严武受百姓爱戴，三朝都很荣耀，这是为朋友高兴。最后两句又回到自己：朋友走了，我只能一个人回到江边小村，孤单地过完余生。朋友的风光和自己的冷清放在一起，离别的苦就更明显了。",
+  "en": "This farewell poem grows deeper with each pair of lines. First, he has come a long way, and now they must finally part. Even the green hills seem reluctant to let go. Then he asks: when will we drink together again? Only last night we walked side by side in the moonlight. The question and the memory make the parting feel sudden. Lines five and six change tone. He praises Yan Wu, loved by the people and honoured through three reigns. He is glad for his friend. The last two lines return to himself. With his friend gone, he will go back alone to his riverside village and live out his days in loneliness. Setting the friend's glory beside his own loneliness makes the pain of parting even sharper."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "loneliness",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

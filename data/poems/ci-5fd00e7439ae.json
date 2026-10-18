@@ -1,0 +1,911 @@
+{
+ "id": "ci-5fd00e7439ae",
+ "kind": "ci",
+ "title": "紫萸香慢·近重阳",
+ "title_en": "To the Tune of Zi Yu Xiang Man: Near the Double Ninth",
+ "author": "姚云文",
+ "author_en": "Yao Yunwen",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调慢词",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ],
+  [
+   [
+    "偏",
+    "piān"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "绝",
+    "jué"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暄",
+    "xuān"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "未",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "羁",
+    "jī"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "感",
+    "gǎn"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "漉",
+    "lù"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "插",
+    "chā"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "座",
+    "zuò"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "兵",
+    "bīng"
+   ]
+  ],
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "肯",
+    "kěn"
+   ]
+  ],
+  [
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "平",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "楸",
+    "qiū"
+   ],
+   [
+    "走",
+    "zǒu"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "雕",
+    "diāo"
+   ],
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "笮",
+    "zé"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "评",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "萸",
+    "yú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "赐",
+    "cì"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "陵",
+    "líng"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "乌",
+    "wū"
+   ],
+   [
+    "纱",
+    "shā"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "要",
+    "yào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "星",
+    "xīng"
+   ]
+  ],
+  [
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "涕",
+    "tì"
+   ],
+   [
+    "零",
+    "líng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  13
+ ],
+ "text_note": {
+  "zh": "语料库作“又忆洒酒插花人”，通行本作“漉酒”，用的是陶渊明用头巾滤酒的典故。语料库“雕弓”后一字是缺字符号，通行本多作“笮”。",
+  "en": "The corpus has a different first character in the phrase about wine in the line about the man who strained wine; the common text has lù, strain, which points to the story of Tao Yuanming. In the line about the carved bow, the corpus has a broken placeholder where one character is missing; most common texts give zé there."
+ },
+ "readings": [
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "胜",
+   "pinyin": "shèng",
+   "zh": "不胜，承受不了。“胜”古音读 shēng，现在一般读 shèng。",
+   "en": "Bù shèng means unable to bear. In old times this character was read shēng here; today it is usually read shèng."
+  },
+  {
+   "line": 14,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还醒，醉了又醒过来，“还”读 huán（回到）。也有人读 hái。",
+   "en": "Here the word means to come back to being sober, so the character is read huán. Some people read it hái."
+  },
+  {
+   "line": 18,
+   "pos": 2,
+   "char": "笮",
+   "pinyin": "zé",
+   "zh": "这个字各本写法不一，读音也有分歧，这里按 zé 注音。",
+   "en": "Editions write this character in different ways, and its reading is debated. Here it is given as zé."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "重阳：农历九月初九重阳节，有登高、赏菊、插茱萸的风俗。",
+   "en": "chóng yáng: the Double Ninth Festival, on the ninth day of the ninth lunar month. People climb high places, admire chrysanthemums and wear dogwood."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "偏：偏偏，常常。",
+   "en": "piān: just, as it happens; often."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "绝怜：非常喜爱。",
+   "en": "jué lián: to love very much."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "暄明：晴朗暖和。",
+   "en": "xuān míng: sunny and warm."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "秋香：秋天的花香，这里指菊花。",
+   "en": "qiū xiāng: autumn fragrance; here, chrysanthemums."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "浓未：浓了没有，开得盛不盛。",
+   "en": "nóng wèi: has it grown strong yet? that is, are the flowers in full bloom?"
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "携客：带着客人。",
+   "en": "xié kè: to take friends along."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "羁怀：漂泊在外的人的心情。羁，在外地停留。",
+   "en": "jī huái: the feelings of someone far from home."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "荒台：荒凉的高台。重阳要登高，所以写到台。",
+   "en": "huāng tái: a deserted terrace. People climb high on the Double Ninth, so a terrace is mentioned."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 4,
+   "zh": "不胜情：受不了心里的感情。",
+   "en": "bù shèng qíng: to be overcome by feelings."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "尊前：酒杯前，指饮酒的时候。尊，酒杯。",
+   "en": "zūn qián: before the wine cup, that is, while drinking."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "漉酒：滤酒。传说陶渊明用自己的头巾滤酒，滤完又戴回头上。",
+   "en": "lù jiǔ: to strain wine. Legend says Tao Yuanming strained wine through his own headcloth and then put it back on."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 7,
+   "zh": "插花人：重阳节把菊花、茱萸插在头上的人。这里指从前一起过节的朋友。",
+   "en": "chā huā rén: someone who wears flowers in the hair on the Double Ninth. Here it means old friends who once shared the festival."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "老兵：东晋谢奕爱喝酒，曾把桓温叫作“老兵”。这里借指能一起畅饮的老朋友。",
+   "en": "lǎo bīng: old soldier. Xie Yi of the Eastern Jin, who loved to drink, once called Huan Wen an old soldier. Here it means an old drinking friend."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "凄情：凄凉的心情。",
+   "en": "qī qíng: a sad, cold feeling."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "浅醉还醒：喝得微醉，很快又醒了。",
+   "en": "qiǎn zuì huán xǐng: a little drunk, and soon sober again."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "愁不肯与诗平：愁太多，写进诗里也平息不了。",
+   "en": "chóu bù kěn yǔ shī píng: the sorrow is too great to be calmed by writing poems."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 5,
+   "zh": "长楸走马：在高大的楸树间骑马奔驰。曹植诗里有“走马长楸间”，写贵族少年的游乐。",
+   "en": "cháng qiū zǒu mǎ: racing horses among tall catalpa trees. A poem by Cao Zhi has this phrase, about the pastimes of rich young men."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "雕弓笮柳：拿着雕花的弓射柳枝。射柳是古代的一种比赛。",
+   "en": "diāo gōng zé liǔ: shooting at willow branches with a carved bow. Shooting willows was an old contest."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "休评：不要再说了。",
+   "en": "xiū píng: say no more about it."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "紫萸：茱萸，一种有香气的植物，结红紫色的果子。重阳节人们把它佩戴在身上。",
+   "en": "zǐ yú: dogwood, a fragrant plant with reddish-purple berries. People wore it on the Double Ninth."
+  },
+  {
+   "line": 20,
+   "start": 4,
+   "end": 6,
+   "zh": "传赐：皇帝派人赏给大臣。宋代重阳节，朝廷有赏赐茱萸、菊花的习惯。",
+   "en": "chuán cì: sent as a gift from the emperor. At the Song court, officials were given dogwood and chrysanthemums on the Double Ninth."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 3,
+   "zh": "汉家陵：汉朝皇帝的陵墓，这里借指宋朝皇帝的陵墓，暗写国家已经灭亡。",
+   "en": "hàn jiā líng: the tombs of the Han emperors. Here they stand for the Song emperors' tombs, a quiet hint that the Song had fallen."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 1,
+   "zh": "尽：任凭，随它去。",
+   "en": "jìn: let it, never mind if."
+  },
+  {
+   "line": 23,
+   "start": 1,
+   "end": 3,
+   "zh": "乌纱：黑色纱做的帽子。这里用孟嘉重阳节帽子被风吹落的典故。",
+   "en": "wū shā: a black gauze hat. This recalls the story of Meng Jia, whose hat blew off at a Double Ninth feast."
+  },
+  {
+   "line": 26,
+   "start": 0,
+   "end": 2,
+   "zh": "华发：花白的头发。",
+   "en": "huá fà: grey hair."
+  },
+  {
+   "line": 26,
+   "start": 4,
+   "end": 6,
+   "zh": "星星：头发斑白，像点点星光。",
+   "en": "xīng xīng: hair flecked with white, like specks of starlight."
+  },
+  {
+   "line": 27,
+   "start": 2,
+   "end": 4,
+   "zh": "涕零：眼泪落下来。",
+   "en": "tì líng: tears falling."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "快到重阳节了，",
+   "en": "The Double Ninth is near,"
+  },
+  {
+   "zh": "偏偏总是刮风下雨，",
+   "en": "and yet it is so often wind and rain,"
+  },
+  {
+   "zh": "所以特别喜爱今天这样晴朗暖和。",
+   "en": "so I love this sunny, warm day all the more."
+  },
+  {
+   "zh": "问一问菊花开得浓不浓，",
+   "en": "I ask whether the chrysanthemums are in full bloom,"
+  },
+  {
+   "zh": "打算带着客人，",
+   "en": "and plan to take my friends"
+  },
+  {
+   "zh": "一起走出西城。",
+   "en": "out through the west gate."
+  },
+  {
+   "zh": "我正因为漂泊在外而满怀感触，",
+   "en": "Far from home, I am already full of feelings,"
+  },
+  {
+   "zh": "怕登上荒凉的高台，",
+   "en": "and I fear that on the high, deserted terrace"
+  },
+  {
+   "zh": "心里会更加受不了。",
+   "en": "I will be even more overcome."
+  },
+  {
+   "zh": "对着酒杯，",
+   "en": "Facing the wine cup,"
+  },
+  {
+   "zh": "又想起当年滤酒插花的朋友。",
+   "en": "I remember the friends who strained wine and wore flowers."
+  },
+  {
+   "zh": "只是如今座上，",
+   "en": "But at this table now"
+  },
+  {
+   "zh": "已经没有那些老酒友了。",
+   "en": "there are no old drinking friends left."
+  },
+  {
+   "zh": "心情凄凉。",
+   "en": "A sad, cold feeling."
+  },
+  {
+   "zh": "喝得微醉，又很快醒了。",
+   "en": "I get a little drunk and soon wake again."
+  },
+  {
+   "zh": "愁太多，",
+   "en": "The sorrow will not"
+  },
+  {
+   "zh": "写诗也平复不了。",
+   "en": "be calmed by poems."
+  },
+  {
+   "zh": "还记得当年在楸树间骑马奔驰，",
+   "en": "I remember racing horses among the tall catalpas"
+  },
+  {
+   "zh": "拿着雕弓射柳枝，",
+   "en": "and shooting willow branches with a carved bow,"
+  },
+  {
+   "zh": "那些往事不要再提了。",
+   "en": "but let us say no more of those days."
+  },
+  {
+   "zh": "从前朝廷在重阳赏下一枝茱萸，",
+   "en": "Once the court sent a sprig of dogwood on the Double Ninth,"
+  },
+  {
+   "zh": "如今还有谁能在梦里，",
+   "en": "but who now, even in dreams,"
+  },
+  {
+   "zh": "回到先帝的陵墓前？",
+   "en": "can reach the emperors' tombs?"
+  },
+  {
+   "zh": "就让我的乌纱帽，",
+   "en": "Let my black gauze hat"
+  },
+  {
+   "zh": "随风吹走吧，",
+   "en": "blow away on the wind;"
+  },
+  {
+   "zh": "要让老天知道，",
+   "en": "I want heaven to know"
+  },
+  {
+   "zh": "我的头发已经这样花白了。",
+   "en": "how grey and sparse my hair has become."
+  },
+  {
+   "zh": "唱完这首歌，眼泪落了下来。",
+   "en": "When the song is over, my tears fall."
+  }
+ ],
+ "background": {
+  "zh": "这首词写重阳节前的一个晴天，词人想出城赏菊登高，却勾起满腹心事。姚云文生活在南宋末年，经历了南宋灭亡。词中说朝廷赏赐茱萸的旧事、梦里难到“汉家陵”，一般认为是在怀念故国。具体写作年份不清楚。",
+  "en": "This ci is set on a sunny day just before the Double Ninth. The poet wants to go out of the city to see chrysanthemums and climb high, but the outing stirs up many sad thoughts. Yao Yunwen lived at the end of the Southern Song and saw it fall. The ci recalls how the court once gave out dogwood, and says no one can reach the emperors' tombs even in dreams. It is usually read as longing for the lost dynasty. The exact year it was written is not known."
+ },
+ "author_note": {
+  "zh": "姚云文，字圣瑞，江西高安人，南宋咸淳年间考中进士。宋朝灭亡后，他在元朝做过管理地方学校的官。留下来的词不多，这首《紫萸香慢》被收进了《宋词三百首》，是他最有名的作品。",
+  "en": "Yao Yunwen, also called Shengrui, came from Gao'an in Jiangxi. He passed the highest civil exam in the Xianchun years of the late Southern Song. After the Song fell, he served the Yuan as an official in charge of local schools. Few of his ci survive. This one was included in the famous collection Three Hundred Song Ci and is his best-known work."
+ },
+ "appreciation": {
+  "zh": "词从天气写起：重阳前常常风雨，今天难得晴朗，词人高兴地想去赏菊。可一转念，他是漂泊在外的人，怕登高更伤心。举起酒杯，想起从前一起喝酒插花的朋友，如今都不在了。下阕先是三个短句：凄情、浅醉还醒、愁写不平，节奏急促，像一声声叹气。接着回忆年轻时骑马射柳的快乐，却马上说“前事休评”。朝廷赏茱萸的日子已经过去，连梦里也回不到先帝的陵墓。最后他干脆让帽子随风吹走，让老天看看他的白发。一个本该欢乐的节日，写出了亡国之人深深的悲哀。",
+  "en": "The ci begins with the weather. Before the Double Ninth it is often windy and rainy, so a sunny day is rare, and the poet happily plans to go and see the chrysanthemums. But then he remembers he is far from home, and fears that climbing high will make him sadder. Raising his cup, he thinks of the friends who once drank and wore flowers with him; they are all gone. The second stanza opens with three short lines: a sad feeling, drunk and then sober, sorrow no poem can calm. The quick rhythm sounds like sigh after sigh. He then recalls the joys of youth, racing horses and shooting willows, but at once says: say no more. The days when the court gave out dogwood are over, and he cannot reach the emperors' tombs even in a dream. At last he lets his hat blow away and asks heaven to look at his grey hair. A festival meant for joy becomes a picture of deep grief for a fallen country."
+ },
+ "famous_lines": [
+  25,
+  26,
+  27
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "fallen-dynasty",
+   "old-age",
+   "friendship",
+   "nostalgia"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "lines",
+   "zh": "“雕弓笮柳”的“笮”字，各种版本写法不一（语料库此处缺字），读音也有不同说法，这里的字形和读音 zé 有待核对。",
+   "en": "In the line about the carved bow, editions write the third character differently (the corpus has a missing character there), and its reading is debated. The character used here and its reading zé need checking."
+  }
+ ]
+}

@@ -1,0 +1,834 @@
+{
+ "id": "ci-8d02f2101cdb",
+ "kind": "ci",
+ "title": "澡兰香·淮安重午",
+ "title_en": "To the Tune Zao Lan Xiang: Double Fifth in Huai'an",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（慢词，双调）",
+  "en": "ci lyric, long form in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "系",
+    "jì"
+   ],
+   [
+    "腕",
+    "wàn"
+   ]
+  ],
+  [
+   [
+    "巧",
+    "qiǎo"
+   ],
+   [
+    "篆",
+    "zhuàn"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "簪",
+    "zān"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "绀",
+    "gàn"
+   ],
+   [
+    "纱",
+    "shā"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "觉",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "瓶",
+    "píng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "井",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "箑",
+    "shà"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ]
+  ],
+  [
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "约",
+    "yuē"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "写",
+    "xiě"
+   ],
+   [
+    "榴",
+    "liú"
+   ],
+   [
+    "裙",
+    "qún"
+   ]
+  ],
+  [
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "绡",
+    "xiāo"
+   ],
+   [
+    "褪",
+    "tuì"
+   ],
+   [
+    "萼",
+    "è"
+   ]
+  ],
+  [
+   [
+    "黍",
+    "shǔ"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "汀",
+    "tīng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "箬",
+    "ruò"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "唱",
+    "chàng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "调",
+    "diào"
+   ]
+  ],
+  [
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "抑",
+    "yì"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "招",
+    "zhāo"
+   ]
+  ],
+  [
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "魄",
+    "pò"
+   ]
+  ],
+  [
+   [
+    "薰",
+    "xūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "乳",
+    "rǔ"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "黄",
+    "huáng"
+   ]
+  ],
+  [
+   [
+    "午",
+    "wǔ"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "澡",
+    "zǎo"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "幕",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "拟",
+    "nǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "翦",
+    "jiǎn"
+   ],
+   [
+    "菖",
+    "chāng"
+   ],
+   [
+    "蒲",
+    "pú"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "酌",
+    "zhuó"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "蟾",
+    "chán"
+   ]
+  ],
+  [
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "原始资料“菖浦”应作“菖蒲”，“一屡”应作“一缕”，都是错字，这里改正。“沈魄”的“沈”是“沉”的古写，这里写作“沉”。有的版本“烟箬”作“烟蒻”。",
+  "en": "The source text has two wrong characters: the pu of chāng pú (calamus) and the lǚ of yī lǚ (one thread); both are corrected here. The chén of chén pò (sunken soul) is written in its old form in the source; the modern form is used here. Some editions write the ruò of yān ruò with a different character of the same sound."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "系",
+   "pinyin": "jì",
+   "zh": "“系腕”是把丝线绑在手腕上，“系”读 jì。",
+   "en": "In jì wàn (tie around the wrist) the character means to tie a knot and is read jì."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "“睡觉”在这里是睡醒的意思，“觉”读 jué，不读 jiào。",
+   "en": "Here shuì jué means waking up from sleep, so the second character is read jué, not jiào."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "“少年”的“少”读 shào。",
+   "en": "In shào nián (youth) it is read shào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "盘丝系腕：把彩色丝线绕起来系在手腕上。这是端午的风俗，叫“长命缕”，用来求平安。",
+   "en": "pán sī jì wàn: winding colored silk threads around the wrist. It is a Double Fifth custom called the long-life thread, worn for good luck."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "巧篆垂簪：发簪上挂着刻有精巧篆文的小符。也是端午的装饰。",
+   "en": "qiǎo zhuàn chuí zān: a little charm carved with fine old-style writing hangs from a hairpin, another Double Fifth decoration."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "玉隐绀纱：像玉一样的人，隐在深青色的纱帐里。绀，深青带红的颜色。",
+   "en": "yù yǐn gàn shā: a woman fair as jade, half hidden behind dark blue gauze. Gàn is a deep blue with a hint of red."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "睡觉：睡醒。",
+   "en": "shuì jué: waking up."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "银瓶露井：在露天的井边用银瓶打水。",
+   "en": "yín píng lù jǐng: drawing water with a silver jar at an open-air well."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "彩箑：彩色的扇子。箑，扇子。",
+   "en": "cǎi shà: a painted fan. Shà means fan."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "云窗：雕着云纹的窗子，指女子的房间。",
+   "en": "yún chuāng: a window carved with cloud patterns, meaning a woman's room."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "依约：隐隐约约，记不太清。",
+   "en": "yī yuē: faint and blurry, half remembered."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 4,
+   "zh": "写榴裙：在她石榴红的裙子上题字。古代有王献之在羊欣白绢裙上写字的故事。",
+   "en": "xiě liú qún: writing words on her skirt, red as a pomegranate. There is an old story of the calligrapher Wang Xianzhi writing on Yang Xin's white silk skirt."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 6,
+   "zh": "红绡褪萼：红色的丝绸褪了颜色，像花瓣凋落只剩花萼。比喻美好的人和事已经消逝。",
+   "en": "hóng xiāo tuì è: the red silk has faded, like a flower whose petals have fallen. It means the lovely person and the happy times are gone."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "黍梦：黄粱梦。传说有人在煮小米饭的时候做了一场梦，梦里过完了一生，醒来饭还没熟。比喻人生像一场短梦。",
+   "en": "shǔ mèng: the millet dream. A man dreamed a whole lifetime while millet was cooking, and woke before it was done. It means life is a short dream."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "汀洲：水中的小块陆地。",
+   "en": "tīng zhōu: small islands of land in the water."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "烟箬：烟雾里的箬竹叶。箬叶宽大，可以用来包粽子。",
+   "en": "yān ruò: bamboo leaves in the mist. These wide leaves are used to wrap zongzi."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 6,
+   "zh": "江南古调：江南流传的古老曲子，这里指悼念屈原的歌。",
+   "en": "jiāng nán gǔ diào: old songs of the south, here songs that mourn Qu Yuan."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "怨抑难招：满怀怨恨委屈的魂魄，很难招回来。",
+   "en": "yuàn yì nán zhāo: a soul full of grief and wrong is hard to call back."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "楚江沉魄：沉在楚江里的魂魄，指投汨罗江而死的屈原。",
+   "en": "chǔ jiāng chén pò: the soul sunk in the Chu river, meaning Qu Yuan, who drowned himself in the Miluo River."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "薰风：初夏温暖的南风。",
+   "en": "xūn fēng: the warm south wind of early summer."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "燕乳：燕子孵出、喂养小燕子。",
+   "en": "yàn rǔ: swallows hatching and feeding their young."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "暗雨梅黄：梅子黄了，下起阴沉沉的雨，就是江南的梅雨季。",
+   "en": "àn yǔ méi huáng: the plums turn yellow and dark rain falls: the plum-rain season of the south."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "澡兰：用兰草煮的水洗澡。古人端午有“浴兰汤”的风俗。",
+   "en": "zǎo lán: bathing in water boiled with orchid herbs, an old Double Fifth custom."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 6,
+   "zh": "帘幕：门窗上挂的帘子和帷幕。",
+   "en": "lián mù: curtains and hangings over doors and windows."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "秦楼：心爱女子住的楼。",
+   "en": "qín lóu: the house where the beloved woman lives."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 2,
+   "zh": "拟：打算，料想。",
+   "en": "nǐ: to expect, to think that."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 2,
+   "zh": "翦：同“剪”。",
+   "en": "jiǎn: the same as the usual word for cutting."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "菖蒲：一种水边的草，叶子像剑。端午时人们把它挂在门上，或泡成菖蒲酒喝。",
+   "en": "chāng pú: calamus, a waterside plant with sword-like leaves. At the Double Fifth people hang it on doors or soak it in wine to drink."
+  },
+  {
+   "line": 19,
+   "start": 4,
+   "end": 6,
+   "zh": "自酌：自己一个人倒酒喝。",
+   "en": "zì zhuó: pouring wine and drinking alone."
+  },
+  {
+   "line": 20,
+   "start": 1,
+   "end": 3,
+   "zh": "怅望：失落地远望。",
+   "en": "chàng wàng: gazing into the distance, feeling lost."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "新蟾：新月。传说月亮里有蟾蜍，所以用“蟾”代指月亮。",
+   "en": "xīn chán: the new moon. Legend says a toad lives in the moon, so the toad stands for the moon."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 4,
+   "zh": "天角：天边的角落，指很远的地方。",
+   "en": "tiān jiǎo: a corner of the sky, a very faraway place."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她把彩丝绕在手腕上，",
+   "en": "She wound colored silk threads around her wrist,"
+  },
+  {
+   "zh": "发簪上挂着精巧的篆文小符，",
+   "en": "a finely carved charm hung from her hairpin,"
+  },
+  {
+   "zh": "像玉一样的人藏在青纱帐里，刚刚睡醒。",
+   "en": "and she, fair as jade, woke from a nap behind dark blue gauze."
+  },
+  {
+   "zh": "井边用银瓶打水，",
+   "en": "A silver jar at the open well,"
+  },
+  {
+   "zh": "云纹窗下摇着彩扇，",
+   "en": "a painted fan by the cloud-carved window:"
+  },
+  {
+   "zh": "少年时的这些往事，只剩隐隐约约的记忆。",
+   "en": "these things of my young days are only a blurry memory now."
+  },
+  {
+   "zh": "因为那时候，",
+   "en": "Because back then"
+  },
+  {
+   "zh": "我曾在她石榴红的裙上题字，",
+   "en": "I wrote words on her pomegranate-red skirt,"
+  },
+  {
+   "zh": "如今那红绡褪了色，像花瓣落尽，叫人伤心。",
+   "en": "it hurts to see the red silk faded, like a flower with its petals gone."
+  },
+  {
+   "zh": "人生像一场黄粱梦，岁月渐渐老去，",
+   "en": "Life is a millet dream, and the years grow old,"
+  },
+  {
+   "zh": "只见水中小洲上，箬叶笼在烟雾里。",
+   "en": "while bamboo leaves stand in the mist on the little islands."
+  },
+  {
+   "zh": "不要再唱江南那些古老的曲子了，",
+   "en": "Do not sing those old southern songs again:"
+  },
+  {
+   "zh": "满怀怨恨的魂魄很难招回来，",
+   "en": "a soul so full of grief is hard to call back,"
+  },
+  {
+   "zh": "那沉在楚江里的屈原的魂。",
+   "en": "the soul of Qu Yuan sunk in the Chu river."
+  },
+  {
+   "zh": "温暖的南风吹着，小燕子正被喂养，",
+   "en": "The warm south wind blows, and swallows feed their young,"
+  },
+  {
+   "zh": "梅子黄了，阴雨绵绵，",
+   "en": "the plums turn yellow in the dark, steady rain."
+  },
+  {
+   "zh": "中午时她对着镜子，在帘幕里用兰汤沐浴。",
+   "en": "At noon, behind the curtains, by her mirror, she bathes in orchid water."
+  },
+  {
+   "zh": "我想她在自己的楼里，",
+   "en": "I think of her in her house:"
+  },
+  {
+   "zh": "也料想我会回去，",
+   "en": "she too must expect me to come home,"
+  },
+  {
+   "zh": "该会剪下菖蒲，独自喝酒吧。",
+   "en": "and she will cut calamus and drink alone."
+  },
+  {
+   "zh": "我只能失落地远望，",
+   "en": "All I can do is gaze far away, feeling lost,"
+  },
+  {
+   "zh": "那一弯细细的新月，",
+   "en": "at the thin thread of the new moon,"
+  },
+  {
+   "zh": "跟着我到了天边。",
+   "en": "which follows me to the corner of the sky."
+  }
+ ],
+ "background": {
+  "zh": "题目里的“重午”就是端午节，农历五月初五。“淮安”是今天江苏的淮安。题目说明这首词是作者在淮安过端午时写的。他想起从前和一位女子一起过端午的情景，那时的欢乐已经过去，人也分开了。一说这位女子是他在苏州时的姬妾。作者具体哪一年在淮安，现在说不清楚。",
+  "en": "The chóng wǔ in the title is the Double Fifth, the Dragon Boat Festival on the fifth day of the fifth lunar month. Huai'an is today's Huai'an in Jiangsu. The title tells us the poet wrote this while spending the festival in Huai'an. He remembers spending the festival with a woman in the past. Those happy days are over, and they have parted. One view says she was his concubine from his years in Suzhou. We do not know which year he was in Huai'an."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，四明（今浙江宁波）人，南宋词人。他一生没有做官，长期在苏州、杭州一带给官员做幕僚。他的词用字华丽，意思跳跃，画面一个接一个，有时不容易读懂。他写了很多怀念旧日恋人的词，这首也是其中之一。",
+  "en": "Wu Wenying (about 1200 to about 1260), who called himself Mengchuang, came from Siming, today's Ningbo in Zhejiang. He was a Southern Song lyric poet. He never held office and spent many years as an adviser to officials around Suzhou and Hangzhou. His lyrics use rich words and jump from picture to picture, so they can be hard to follow. He wrote many lyrics remembering a lost love, and this is one of them."
+ },
+ "appreciation": {
+  "zh": "这首词把端午的风俗和思念交织在一起。开头一连串画面：手腕上的彩丝、簪上的小符、纱帐里刚醒的女子、井边的银瓶、窗下的彩扇。这些都是从前端午的美好回忆，可作者说只剩“依约”，记不清了。曾在她的红裙上题字，如今红绡褪色，人也不在了。下片写今天的端午：不要唱悼念屈原的古调，那只会更伤心。他想象远方的她也在过节，用兰汤沐浴，剪菖蒲独自喝酒，也在盼他回去。最后只有一弯新月跟着他到天边。新月很细，像一根线，把相隔很远的两个人轻轻连在一起。",
+  "en": "This lyric weaves Double Fifth customs together with longing. It opens with a string of pictures: silk threads on a wrist, a charm on a hairpin, a woman just awake behind gauze, a silver jar at the well, a painted fan by the window. They are sweet memories of a festival long ago, but the poet says they are only blurry now. He once wrote on her red skirt; now the red silk has faded and she is gone. The second stanza is about this year's festival. Do not sing the old songs for Qu Yuan, he says, they only make the sadness worse. He pictures her far away keeping the festival too: bathing in orchid water, cutting calamus, drinking alone, and waiting for him. At the end only a thin new moon follows him to the sky's edge. The moon is as thin as a thread, and it seems to tie the two faraway people gently together."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [
+   "duanwu"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "memory",
+   "love",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

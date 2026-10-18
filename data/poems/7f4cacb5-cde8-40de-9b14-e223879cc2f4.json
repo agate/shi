@@ -1,0 +1,391 @@
+{
+ "id": "7f4cacb5-cde8-40de-9b14-e223879cc2f4",
+ "kind": "shi",
+ "title": "留别王维",
+ "title_en": "A Parting Poem for Wang Wei",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "竟",
+    "jìng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "待",
+    "dài"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "违",
+    "wéi"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "假",
+    "jiǎ"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "所",
+    "suǒ"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "守",
+    "shǒu"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "扉",
+    "fēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库题目作《留别王侍御维》，正文末联作“秪应守索寞”。通行本题作《留别王维》，正文作“只应守寂寞”。“秪”和“只”意思相同。",
+  "en": "The corpus gives the title as \"A Parting Poem for Censor Wang Wei\", and the seventh line with two different characters for \"only\" and \"lonely\". Common editions use the shorter title and the more usual characters. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝朝：天天。这里的“朝”是早晨的意思，读 zhāo。",
+   "en": "Here zhāo zhāo means every day. The character means morning, so it is read zhāo."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "同上，读 zhāo。",
+   "en": "As above, read zhāo."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还：回去，读 huán。",
+   "en": "Here it means to go back, so it is read huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "寂寂：冷冷清清，没人理会。",
+   "en": "jì jì: quiet and lonely, with no one paying attention."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "竟何待：到底还在等什么呢？",
+   "en": "jìng hé dài: what am I still waiting for, after all?"
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "朝朝：每天。",
+   "en": "zhāo zhāo: every day."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "空自归：白白地一个人回来，什么也没得到。",
+   "en": "kōng zì guī: to come back alone, empty-handed."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 4,
+   "zh": "寻芳草：去找长满香草的地方，比喻回家乡去隐居。",
+   "en": "xún fāng cǎo: to look for fragrant grass. It stands for going home to live quietly away from the world."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "违：分开，离别。",
+   "en": "wéi: to part, to leave."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "故人：老朋友，这里指王维。",
+   "en": "gù rén: an old friend, here Wang Wei."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "当路：当权的人，在朝廷里掌权的人。",
+   "en": "dāng lù: those in power at court."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "相假：帮助我，提拔我。假，借助、给予。",
+   "en": "xiāng jiǎ: to help me, to lift me up. Jiǎ means to lend a hand."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "知音：真正懂你的朋友。古时伯牙弹琴，只有钟子期听得懂，后来就把知心朋友叫知音。",
+   "en": "zhī yīn: a friend who truly understands you. In an old story, only Zhong Ziqi understood Bo Ya's music, so a close friend is called a zhī yīn, \"one who knows the tune\"."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "世所稀：世上很少有。",
+   "en": "shì suǒ xī: rare in this world."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "只应：只能，只好。",
+   "en": "zhǐ yīng: can only, have no choice but to."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "守寂寞：守着冷清的日子。",
+   "en": "shǒu jì mò: to live a quiet, lonely life."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 2,
+   "zh": "掩：关上。",
+   "en": "yǎn: to close."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "故园扉：老家的门。扉，门。",
+   "en": "gù yuán fēi: the door of my old home. Fēi means door."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "冷冷清清的，我到底还在等什么？",
+   "en": "Lonely and ignored, what am I still waiting for?"
+  },
+  {
+   "zh": "天天出门，天天空着手回来。",
+   "en": "Every day I go out, and every day I come back empty-handed."
+  },
+  {
+   "zh": "我想回家乡去，过安静的日子，",
+   "en": "I want to go home and live quietly among the fragrant grass,"
+  },
+  {
+   "zh": "只可惜要和老朋友你分别。",
+   "en": "but it pains me to part from you, my old friend."
+  },
+  {
+   "zh": "朝廷里当权的人，谁肯帮我一把？",
+   "en": "Who among the men in power will lend me a hand?"
+  },
+  {
+   "zh": "真正懂我的朋友，世上实在太少。",
+   "en": "True friends who understand me are rare in this world."
+  },
+  {
+   "zh": "我只好守着冷清的日子，",
+   "en": "I can only keep to my quiet, lonely life,"
+  },
+  {
+   "zh": "回去关上老家的门。",
+   "en": "go back, and close the door of my old home."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然四十岁左右到长安考进士，没有考中。他在长安住了一段时间，想找机会做官，也没有成功。在这期间，他和王维成了好朋友。离开长安回襄阳老家之前，他写了这首诗送给王维，说出自己的失望和对朋友的不舍。一般认为写于开元十七年（729年）前后。",
+  "en": "When Meng Haoran was about forty, he went to Chang'an to take the top civil service exam, and failed. He stayed in the capital for a while hoping for a post, but that failed too. During this time he became close friends with Wang Wei. Before he left Chang'an to go home to Xiangyang, he wrote this poem for Wang Wei. It tells of his disappointment and how hard it was to leave his friend. It is usually dated to around 729."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），襄阳人，唐代著名的山水田园诗人，和王维并称“王孟”。他一生没有做过官，大部分时间在家乡隐居，也到各地游历。李白很佩服他，写过“吾爱孟夫子”。",
+  "en": "Meng Haoran (689–740) came from Xiangyang. He was a famous Tang poet of hills, rivers and farm life, and is often named together with Wang Wei. He never held office. He spent most of his life living quietly at home, with some long journeys. Li Bai admired him and wrote, \"I love Master Meng.\""
+ },
+ "appreciation": {
+  "zh": "这首诗说话很直白，像在对好朋友诉苦。开头两句是问自己：天天这样等，到底在等什么？“朝朝空自归”写出了一次次碰壁的样子。三四句写心里的矛盾：想回家，又舍不得朋友。五六句是全诗最痛的地方：当权的人没人帮忙，懂我的人又这么少。这两句也是在感谢王维，因为王维就是那个少有的知音。最后诗人决定回去关上家门，过冷清的日子。语气平静，可是里面藏着很深的委屈。",
+  "en": "This poem speaks very plainly, like pouring out your troubles to a close friend. The first two lines are a question to himself: waiting like this every day, what am I waiting for? \"Every day I come back empty-handed\" shows him hitting one wall after another. Lines three and four show a pull in two directions: he wants to go home, but he does not want to leave his friend. Lines five and six hurt the most. No one in power will help, and people who understand him are so few. These lines also thank Wang Wei, because Wang Wei is that rare true friend. In the end the poet decides to go home and close his door on a lonely life. The voice is calm, but deep hurt lies underneath."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "friendship",
+   "disappointment",
+   "retreat"
+  ]
+ },
+ "uncertain": []
+}

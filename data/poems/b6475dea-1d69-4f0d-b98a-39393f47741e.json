@@ -1,0 +1,495 @@
+{
+ "id": "b6475dea-1d69-4f0d-b98a-39393f47741e",
+ "kind": "shi",
+ "title": "无题二首·其二",
+ "title_en": "Untitled, No. 2 of Two",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "帷",
+    "wéi"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "堂",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "原",
+    "yuán"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "姑",
+    "gū"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "本",
+    "běn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "郎",
+    "láng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "菱",
+    "líng"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "弱",
+    "ruò"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "了",
+    "liǎo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "益",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "妨",
+    "fáng"
+   ],
+   [
+    "惆",
+    "chóu"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重帷”是一层又一层的帷幕，“重”读 chóng，不读 zhòng。",
+   "en": "Here the character means layer upon layer, so it is read chóng, not zhòng."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“居处”在这里指住的地方，“处”读 chù。也有人读 chǔ。",
+   "en": "Here the word means the place where she lives, so this character is read chù. Some read it chǔ."
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "“谁教”是“谁让”的意思，“教”现在读 jiào。古时这个意思也读平声 jiāo。",
+   "en": "Here the character means to make or let, and is read jiào today. In older usage this sense was also read with a level tone, jiāo."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "了",
+   "pinyin": "liǎo",
+   "zh": "“了无”是一点也没有，“了”读 liǎo，不读 le。",
+   "en": "Here the character means not at all, so it is read liǎo, not le."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "重帷：一层又一层的帷幕。",
+   "en": "chóng wéi: layer upon layer of curtains."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "深下：低低地垂下来，把屋子遮得严严实实。",
+   "en": "shēn xià: hanging low, shutting the room in completely."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "莫愁堂：莫愁是古代乐府诗里一位女子的名字，这里借指诗中女子住的房间。",
+   "en": "mò chóu táng: Mochou is the name of a young woman in old folk songs; here it means the room of the woman in the poem."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "清宵：清冷寂静的夜晚。",
+   "en": "qīng xiāo: a cool, quiet night."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "细细长：慢慢地、长长地过去，形容睡不着时夜特别长。",
+   "en": "xì xì cháng: passing slowly, on and on; when you cannot sleep, the night feels endless."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "神女：巫山神女。传说楚王梦见她，和她相会。",
+   "en": "shén nǚ: the goddess of Mount Wu. Legend says a king of Chu met her in a dream."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "生涯：生活，经历。",
+   "en": "shēng yá: a life, what one has been through."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "小姑：古代民歌《青溪小姑曲》里的女子，歌里说她独自住着，没有情郎。",
+   "en": "xiǎo gū: the young woman in an old folk song about Qingxi, who lives alone with no lover."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 7,
+   "zh": "郎：女子对心上人的称呼。",
+   "en": "láng: what a young woman calls the man she loves."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "风波：风浪。",
+   "en": "fēng bō: wind and waves."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 4,
+   "zh": "不信：不顾，不管。",
+   "en": "bù xìn: does not care about, pays no heed to."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "菱枝：菱角的茎，又细又软。",
+   "en": "líng zhī: the stem of the water chestnut, thin and soft."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "月露：月光下的露水。",
+   "en": "yuè lù: dew under the moon."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 4,
+   "zh": "教：让，使。",
+   "en": "jiào: to let, to make."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "桂叶：桂树的叶子。",
+   "en": "guì yè: the leaves of the cassia tree."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "直道：即使说，就算。",
+   "en": "zhí dào: even if one says."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "了无：一点也没有。",
+   "en": "liǎo wú: none at all."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "未妨：不妨，又有什么关系。",
+   "en": "wèi fáng: there is no harm in, why not."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "惆怅：伤感，失落。",
+   "en": "chóu chàng: sad and lost."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "清狂：痴情，近乎发狂，被人看作傻。",
+   "en": "qīng kuáng: lovesick to the point of seeming foolish."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一层层帷幕低低垂下，遮住了她的房间，",
+   "en": "Layer upon layer of curtains hang low around her room;"
+  },
+  {
+   "zh": "躺下以后，清冷的夜晚慢慢地，长长地过去。",
+   "en": "after she lies down, the cool, quiet night drags slowly on."
+  },
+  {
+   "zh": "像巫山神女那样的相会，原来只是一场梦，",
+   "en": "A meeting like the goddess's with the king was only ever a dream;"
+  },
+  {
+   "zh": "像青溪小姑那样，她本来就独自一人，没有情郎。",
+   "en": "like the girl of Qingxi, she has always lived alone, with no one to love."
+  },
+  {
+   "zh": "风浪不管菱枝多么柔弱，照样拍打它，",
+   "en": "The wind and waves care nothing for how frail the water chestnut stems are;"
+  },
+  {
+   "zh": "月光下的露水，谁又能让桂叶飘香呢？",
+   "en": "and who will let the moonlit dew make the cassia leaves fragrant?"
+  },
+  {
+   "zh": "就算说相思一点用处也没有，",
+   "en": "Even if longing for love does no good at all,"
+  },
+  {
+   "zh": "也不妨一直伤感下去，就当是痴情吧。",
+   "en": "there is no harm in staying sad; call it being foolishly in love."
+  }
+ ],
+ "background": {
+  "zh": "李商隐写过许多首《无题》诗，题目不说写什么，内容多是爱情和心事。这是同题两首中的第二首，写一位独居女子在长夜里的思念和苦闷。写作时间不能确定。有人认为这首诗另有寄托，借女子的遭遇写诗人自己不被重用的苦闷，但这只是一种理解。",
+  "en": "Li Shangyin wrote many poems called Untitled. The title does not say what they are about; most are about love and hidden feelings. This is the second of a pair, about a woman living alone, longing and troubled through a long night. We do not know when it was written. Some readers think it has a hidden meaning, using the woman's story to speak of the poet's own failure to win a good post, but this is only one reading."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），字义山，晚唐诗人。他的诗辞藻华美，常用典故，意思含蓄，不容易一下读懂。他一生夹在朝廷两派官员的争斗中间，一直不得志。他的《无题》诗最有名，写情深而含蓄，一千多年来让人反复品读。",
+  "en": "Li Shangyin (about 813 to about 858), also called Yishan, was a late Tang poet. His poems use rich words and many old stories, and their meaning is hidden, so they are not easy to grasp at once. All his life he was caught between two quarreling groups of officials at court and never did well. His Untitled poems are his most famous; their deep, quiet feeling has been read again and again for over a thousand years."
+ },
+ "appreciation": {
+  "zh": "开头两句先搭好一个场景：厚厚的帷幕垂下来，屋里一个人躺着，睡不着，夜好像永远过不完。“细细长”三个字，把时间写得像一根拉不断的丝。中间四句用了两个传说：神女的相会只是一场梦，小姑本来就没有情郎。接着又用两个比喻：菱枝那么弱，风浪却不放过它；桂叶想要飘香，却没有谁来帮它。这些都在说她的孤单和无助。最后两句最见深情：明知道想念一点用也没有，还是要想下去，哪怕被人说成傻。这种明知无望还不肯放手的心情，正是这首诗最打动人的地方。",
+  "en": "The first two lines set the scene. Heavy curtains hang down, and someone lies alone in the room, unable to sleep; the night seems never to end. The words xì xì cháng make time feel like a thin thread that will not break. The middle four lines use two old stories: the goddess's meeting was only a dream, and the girl of Qingxi never had a lover. Then come two pictures: the water chestnut stem is so frail, yet the waves will not spare it; the cassia leaves want to give off scent, but no one helps them. All of this speaks of her loneliness and helplessness. The last two lines show the deepest feeling. She knows longing does no good, yet she will go on longing, even if people call her foolish. This refusal to let go, even without hope, is what moves readers most."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "night",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

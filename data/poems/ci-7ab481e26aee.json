@@ -1,0 +1,826 @@
+{
+ "id": "ci-7ab481e26aee",
+ "kind": "ci",
+ "title": "江神子慢·玉台挂秋月",
+ "title_en": "Jiang Shen Zi Man: An Autumn Moon Hangs Over the Jade Stand",
+ "author": "田为",
+ "author_en": "Tian Wei",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "铅",
+    "qiān"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "傅",
+    "fù"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "姿",
+    "zī"
+   ],
+   [
+    "洁",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "莲",
+    "lián"
+   ],
+   [
+    "衬",
+    "chèn"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "凌",
+    "líng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "袜",
+    "wà"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "难",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "减",
+    "jiǎn"
+   ]
+  ],
+  [
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "宽",
+    "kuān"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "切",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "呜",
+    "wū"
+   ],
+   [
+    "咽",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "蟾",
+    "chán"
+   ],
+   [
+    "迥",
+    "jiǒng"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "圆",
+    "yuán"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "缺",
+    "quē"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "伊",
+    "yī"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "惹",
+    "rě"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "鸯",
+    "yāng"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "语料库最后一句写作“馀香”，“馀”是“余”的旧写法，通行本简体作“余香”，这里用“余”。语料库词牌作“江神子慢”，又名“江城子慢”。原词没有题目，这里用首句作题。",
+  "en": "In the second-to-last line the corpus uses an old form of the character yú (lingering); the usual simplified text uses the common form, followed here. The tune name is also known as Jiang Cheng Zi Man. The lyric has no title, so its first line is used."
+ },
+ "readings": [
+  {
+   "line": 11,
+   "pos": 0,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "“那堪”的“那”同“哪”，意思是“怎么”，一般读 nǎ。",
+   "en": "Here nǎ means \"how\", the same as the word for \"which\", and is usually read nǎ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "玉台挂秋月：玉做的梳妆台上挂着圆镜，像一轮秋月。一说是比喻女子的脸像秋月一样明亮。",
+   "en": "yù tái guà qiū yuè: a round mirror hangs on the jade dressing stand, like an autumn moon. Another view: it compares the woman's face to the bright autumn moon."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "铅素浅：脸上只搽了淡淡的白粉。铅，古代化妆用的白粉。",
+   "en": "qiān sù qiǎn: only a light layer of white face powder. Qiān was a white powder used for makeup in old times."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "傅：同“敷”，搽、抹。",
+   "en": "fù: to put on, to dab on."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "梅花傅香雪：她的脸像梅花上敷了一层香香的白雪，又白又香。一说指额上画的梅花妆。",
+   "en": "méi huā fù xiāng xuě: her face is like plum blossom dusted with fragrant snow, white and sweet. Another view: it means plum-blossom makeup painted on her brow."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "冰姿：像冰一样洁白的样子。",
+   "en": "bīng zī: a look as pure and white as ice."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "金莲：古人称女子的小脚。",
+   "en": "jīn lián: golden lotus, an old name for a woman's small feet."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "凌波：在水波上轻轻走，形容女子步子轻盈。出自曹植《洛神赋》“凌波微步，罗袜生尘”。",
+   "en": "líng bō: stepping lightly over the waves, describing a woman's graceful walk. It comes from Cao Zhi's \"Rhapsody on the Goddess of the Luo River\"."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "罗袜：丝织的袜子。",
+   "en": "luó wà: silk stockings."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "孤鸿：一只孤单的大雁。古人说大雁能传书信。",
+   "en": "gū hóng: a lone wild goose. People of old said wild geese could carry letters."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "行人：出远门的人，指她想念的人。",
+   "en": "xíng rén: a person on a long journey, here the one she misses."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "音信绝：一点消息也没有了。",
+   "en": "yīn xìn jué: no news at all."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 6,
+   "zh": "对语犹难：就算面对面，也很难说清楚。",
+   "en": "duì yǔ yóu nán: even face to face it would be hard to say."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "那堪：怎么能够、哪里受得了。",
+   "en": "nǎ kān: how could one, how could one bear to."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 6,
+   "zh": "红销翠减：红色和绿色都褪了，比喻人憔悴、不再美丽。",
+   "en": "hóng xiāo cuì jiǎn: red and green both fading, meaning she grows thin and loses her looks."
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 5,
+   "zh": "衣宽金缕：金线绣的衣服变宽松了，说明人瘦了。",
+   "en": "yī kuān jīn lǚ: her gold-threaded dress has grown loose, showing she has grown thin."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "轻别：轻易地分别。",
+   "en": "qīng bié: parting too easily."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "情切：感情深，心里急切。",
+   "en": "qíng qiè: deep and urgent feeling."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "消魂：伤心得像魂都没了。",
+   "en": "xiāo hún: so sad it feels as if your soul is melting away."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "画角：古代军中吹的号角，外面有彩绘，傍晚会吹响。",
+   "en": "huà jiǎo: a painted horn blown in army camps in old times, often at dusk."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "呜咽：低低的、像哭一样的声音。",
+   "en": "wū yè: a low sound like sobbing."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "银蟾：月亮。传说月亮里有蟾蜍，所以这样叫。",
+   "en": "yín chán: the moon. Legend says a toad lives in the moon, so it was called the silver toad."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 3,
+   "zh": "迥：遥远。",
+   "en": "jiǒng: far away."
+  },
+  {
+   "line": 22,
+   "start": 1,
+   "end": 2,
+   "zh": "伊：他，指她想念的人。",
+   "en": "yī: he, the one she misses."
+  },
+  {
+   "line": 22,
+   "start": 4,
+   "end": 6,
+   "zh": "余香：留下来的香气。",
+   "en": "yú xiāng: lingering fragrance."
+  },
+  {
+   "line": 23,
+   "start": 1,
+   "end": 4,
+   "zh": "鸳鸯结：一种成对打的结，象征夫妻、恋人在一起。",
+   "en": "yuān yāng jié: a paired knot, a sign of lovers or a couple staying together."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "玉梳妆台上的圆镜，像挂着一轮秋月。",
+   "en": "On the jade dressing stand the round mirror hangs like an autumn moon."
+  },
+  {
+   "zh": "她脸上淡淡地搽着粉，",
+   "en": "Her face has only a light touch of powder,"
+  },
+  {
+   "zh": "脸庞像梅花敷上了香雪。",
+   "en": "and her face is like plum blossom dusted with fragrant snow."
+  },
+  {
+   "zh": "姿容像冰一样洁白。",
+   "en": "She looks as pure as ice."
+  },
+  {
+   "zh": "小脚穿着",
+   "en": "Her small feet are set off"
+  },
+  {
+   "zh": "小巧的丝袜，走起来轻盈得像踏着水波。",
+   "en": "by tiny silk stockings, and she walks as lightly as over waves."
+  },
+  {
+   "zh": "雨刚刚停了。",
+   "en": "The rain has just stopped."
+  },
+  {
+   "zh": "楼外一只孤雁的叫声越来越远，",
+   "en": "Outside the tower, the cry of a lone goose fades away;"
+  },
+  {
+   "zh": "在远山的那一边，",
+   "en": "beyond the far hills,"
+  },
+  {
+   "zh": "远行的人一点消息也没有了。",
+   "en": "the traveler has sent no word at all."
+  },
+  {
+   "zh": "这份愁苦，就算面对面也难说出口，",
+   "en": "This sorrow is hard to speak even face to face,"
+  },
+  {
+   "zh": "哪里还能写成书信寄过去说清楚？",
+   "en": "so how could it be put into a letter and sent?"
+  },
+  {
+   "zh": "让我脸色憔悴，容颜消减，",
+   "en": "It has made my looks fade and wither;"
+  },
+  {
+   "zh": "只觉得金线绣的衣服都变宽了，",
+   "en": "I find my gold-threaded dress has grown loose,"
+  },
+  {
+   "zh": "全是因为当初轻易地分别。",
+   "en": "all because we parted so lightly."
+  },
+  {
+   "zh": "这份感情太深太急切。",
+   "en": "The feeling is too deep, too urgent."
+  },
+  {
+   "zh": "最伤心的时候，",
+   "en": "The saddest moment of all"
+  },
+  {
+   "zh": "是黄昏画角吹响的时候，",
+   "en": "is at dusk, when the painted horn is blown,"
+  },
+  {
+   "zh": "那声音像在哭泣。",
+   "en": "its sound like sobbing."
+  },
+  {
+   "zh": "院子里的花都落光了，春天走了。",
+   "en": "The courtyard flowers have all fallen; spring is gone."
+  },
+  {
+   "zh": "月亮高高地挂在远处，",
+   "en": "The silver moon hangs far away,"
+  },
+  {
+   "zh": "无情地圆了又缺。",
+   "en": "heartlessly growing full and then waning again."
+  },
+  {
+   "zh": "我恨他，不像那留下的香气，",
+   "en": "I resent him, for he is not like the lingering scent"
+  },
+  {
+   "zh": "还能缠在鸳鸯结上不走。",
+   "en": "that still clings to the lovers' knot."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一位女子思念远方的心上人。写作的时间和具体的事情都不清楚。作者田为是北宋末年的音乐家，在朝廷管音乐的大晟府任职，所以他的词很讲究音律。这首词后来被选进《宋词三百首》。",
+  "en": "This lyric is about a woman missing her beloved far away. When it was written and what happened are not known. The poet, Tian Wei, was a musician at the end of the Northern Song. He served in the Dasheng Office, which ran music at court, so his lyrics pay close attention to sound and tune. It was later chosen for the \"Three Hundred Song Lyrics\"."
+ },
+ "author_note": {
+  "zh": "田为，字不伐，北宋末年人，生卒年不详。他擅长弹琵琶，懂音乐，在宋徽宗时的大晟府做过管音乐的官。他留下来的词不多，大多写男女相思，语言细腻、音调和谐。",
+  "en": "Tian Wei, whose courtesy name was Bufa, lived at the end of the Northern Song; his birth and death years are unknown. He was skilled at the pipa and knew music well, and held a music post in the Dasheng Office under Emperor Huizong. Few of his lyrics survive. Most are about lovers missing each other, with delicate words and smooth music."
+ },
+ "appreciation": {
+  "zh": "上半首先画出一位美丽的女子：明镜像秋月，淡淡的妆，脸像带雪的梅花，脚步轻盈。可是这么美的人却很孤单。雨停了，孤雁飞远了，远方的人一点消息都没有。心里的话太多，见面都说不清，写信更说不出。下半首写她因为思念变得消瘦，衣服都宽了。黄昏的画角声像哭，花落了，春天走了，月亮圆了又缺，就是不见人回来。最后一句很特别：她恨那个人，还不如衣服上留下的香气，至少香气还肯缠在鸳鸯结上。用一缕香来比人，把“想念又埋怨”的心情写得又真又细。",
+  "en": "The first half paints a beautiful woman: a mirror like the autumn moon, light makeup, a face like plum blossom in snow, and a light step. Yet this lovely person is lonely. The rain stops, the lone goose flies off, and there is no word from the one far away. There is so much in her heart that it would be hard to say face to face, and even harder to write. The second half tells how missing him has made her thin, so her dress hangs loose. At dusk the horn sounds like weeping, the flowers fall, spring leaves, and the moon waxes and wanes, but he never comes back. The last line is special. She resents him for being worse than the scent left on her clothes, for at least the scent still clings to the lovers' knot. By comparing a person to a wisp of fragrance, it shows the feeling of missing and blaming someone at once, truly and finely."
+ },
+ "famous_lines": [
+  19,
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "loneliness",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

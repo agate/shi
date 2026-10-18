@@ -1,0 +1,408 @@
+{
+ "id": "2769113d-0cac-4e67-83cb-0c10685f8381",
+ "kind": "shi",
+ "title": "春宿左省",
+ "title_en": "A Spring Night on Duty at the Chancellery",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "掖",
+    "yè"
+   ],
+   [
+    "垣",
+    "yuán"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "啾",
+    "jiū"
+   ],
+   [
+    "啾",
+    "jiū"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "户",
+    "hù"
+   ],
+   [
+    "动",
+    "dòng"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "傍",
+    "bàng"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "霄",
+    "xiāo"
+   ],
+   [
+    "多",
+    "duō"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "寝",
+    "qǐn"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "钥",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "珂",
+    "kē"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "数",
+    "shuò"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "何",
+    "hé"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "掖",
+   "pinyin": "yè",
+   "zh": "读 yè，“掖垣”指宫墙两旁。“掖”和“腋”意思相通，指旁边。",
+   "en": "Read yè; yè yuán means the side walls of the palace, like the sides of a body."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "过",
+   "pinyin": "guò",
+   "zh": "现在读 guò。这首诗押“过、多、珂、何”，古代这里读平声，和这几个字押韵。",
+   "en": "Read guò today. The poem rhymes it with duō, kē and hé; in old times it was read in a level tone here, so it rhymed."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "傍",
+   "pinyin": "bàng",
+   "zh": "读 bàng，意思是“靠近”。",
+   "en": "Read bàng, meaning \"close to\"."
+  },
+  {
+   "line": 4,
+   "pos": 4,
+   "char": "钥",
+   "pinyin": "yuè",
+   "zh": "“金钥”指锁和钥匙，书面语读 yuè。口语“钥匙”读 yào。",
+   "en": "In jīn yuè, meaning lock and key, the literary reading is yuè. In the everyday word for key it is yào."
+  },
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "读 zhāo，“明朝”就是明天早上。",
+   "en": "Read zhāo; míng zhāo means tomorrow morning."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "数",
+   "pinyin": "shuò",
+   "zh": "读 shuò，意思是“多次、屡次”。",
+   "en": "Read shuò, meaning \"again and again\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "隐：隐没，看不清了。天黑了，花也看不清。",
+   "en": "yǐn: to fade from sight. As night falls, the flowers can no longer be seen."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "掖垣：皇宫旁边的墙，这里指宫中的门下省，杜甫当时在那里做官。门下省在宫殿东边，也叫左省。",
+   "en": "yè yuán: the walls at the side of the palace. Here it means the Chancellery inside the palace, where Du Fu worked. It was on the east side, so it was also called the Left Office."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "啾啾：鸟叫声。",
+   "en": "jiū jiū: the sound of birds chirping."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "栖鸟过：回窝歇息的鸟飞过。",
+   "en": "qī niǎo guò: birds flying past on their way back to roost."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "万户：皇宫里成千上万的门户。",
+   "en": "wàn hù: the thousands of doors and windows of the palace."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "动：闪动。星光映照，门窗好像在闪动。",
+   "en": "dòng: to flicker. Under the starlight the doors and windows seem to twinkle."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "九霄：天的最高处，这里也指高高的皇宫。",
+   "en": "jiǔ xiāo: the highest heavens, here also the tall palace."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "多：月光显得特别多、特别亮。",
+   "en": "duō: the moonlight seems to be extra plentiful and bright."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "不寝：不睡觉。",
+   "en": "bù qǐn: not sleeping."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "金钥：宫门的锁和钥匙。开宫门时会发出声响。",
+   "en": "jīn yuè: the lock and key of the palace gate, which make a sound when the gate opens."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "因风：因为听到风声。",
+   "en": "yīn fēng: because of the sound of the wind."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "玉珂：马笼头上的玉饰，走起来叮当响。这里想的是官员骑马来上早朝的声音。",
+   "en": "yù kē: jade ornaments on a horse's bridle that jingle as it walks. He imagines the sound of officials riding in for the morning court."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "封事：密封起来交给皇帝的奏章。",
+   "en": "fēng shì: a sealed report sent to the emperor."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "夜如何：夜里到什么时候了。出自《诗经》“夜如何其”。",
+   "en": "yè rú hé: how late is the night? It echoes a line in the Book of Songs."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "黄昏时，宫墙边的花渐渐看不清了，",
+   "en": "At dusk the flowers by the palace walls fade from sight;"
+  },
+  {
+   "zh": "回巢的鸟儿啾啾叫着飞过。",
+   "en": "chirping birds fly past on their way to roost."
+  },
+  {
+   "zh": "星光照着皇宫的千门万户，闪闪发亮；",
+   "en": "Starlight falls on the thousand palace doors, and they twinkle;"
+  },
+  {
+   "zh": "高高的宫殿靠近天空，月光显得格外明亮。",
+   "en": "the high halls are close to the sky, and the moonlight seems brighter than ever."
+  },
+  {
+   "zh": "我睡不着，听着开宫门的锁钥声；",
+   "en": "I cannot sleep, listening for the sound of the gate's lock and key;"
+  },
+  {
+   "zh": "风一吹，又好像听见官员上朝的马铃声。",
+   "en": "with each gust of wind I seem to hear the jingle of horses coming to court."
+  },
+  {
+   "zh": "明天早上我有密封的奏章要上奏，",
+   "en": "Tomorrow morning I have a sealed report for the emperor,"
+  },
+  {
+   "zh": "所以一次次地问：现在夜里几点了？",
+   "en": "so again and again I ask: how late is the night now?"
+  }
+ ],
+ "background": {
+  "zh": "唐肃宗乾元元年（758年）春天，杜甫在朝廷做左拾遗。左拾遗是一种谏官，负责给皇帝提意见，属于门下省，门下省又叫左省。这首诗写的是他在左省值夜班的一个晚上。第二天早上他要上奏章，心里很重视，一夜都睡不着。",
+  "en": "In the spring of 758, Du Fu served at court as a Left Reminder, an official whose job was to give the emperor advice. He belonged to the Chancellery, also called the Left Office. This poem describes one night when he was on duty there. The next morning he was to hand in a report, and he took it so seriously that he could not sleep all night."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），字子美，唐代大诗人，被称为“诗圣”。他一生想为国家做事，但真正在朝中做官的时间很短。安史之乱后他投奔唐肃宗，被任命为左拾遗。这首诗写出了他做官时认真负责的样子。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. All his life he wanted to serve his country, but he spent only a short time as an official at court. After the An Lushan Rebellion he went to join Emperor Suzong and was made a Left Reminder. This poem shows how careful and dutiful he was in that job."
+ },
+ "appreciation": {
+  "zh": "这首诗按时间顺序写一个晚上。先是黄昏：花看不清了，鸟儿回巢。接着是深夜：星光照着宫门，月亮又大又亮，皇宫显得庄严安静。“星临万户动，月傍九霄多”是名句，一个“动”字，一个“多”字，把星光闪烁、月光满天写活了。后面写诗人睡不着：听锁钥声，听风声，总以为天快亮了。最后说出原因：明早有奏章要上，所以一次次问夜里几点了。我们能看到一个认真、紧张又有点激动的杜甫。",
+  "en": "The poem follows one night in order. First dusk: the flowers fade and birds go back to their nests. Then deep night: starlight falls on the palace doors, the moon is big and bright, and the palace feels grand and still. \"Starlight falls on ten thousand doors and they move; the moon is near the high heavens and is more\" is a famous couplet. The words \"move\" and \"more\" bring the twinkling stars and the flood of moonlight to life. Then the poet cannot sleep. He listens for the lock and key, listens to the wind, and keeps thinking dawn has come. Finally he gives the reason: he has a report to hand in tomorrow morning, so he keeps asking how late it is. We see a Du Fu who is serious, nervous and a little excited."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "night",
+   "court",
+   "duty",
+   "stars",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

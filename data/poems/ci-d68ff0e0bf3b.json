@@ -1,0 +1,885 @@
+{
+ "id": "ci-d68ff0e0bf3b",
+ "kind": "ci",
+ "title": "贺新郎·篆缕销金鼎",
+ "title_en": "To the Tune He Xin Lang: Incense Smoke Curls Away in the Golden Burner",
+ "author": "李玉",
+ "author_en": "Li Yu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·贺新郎（双调）",
+  "en": "ci lyric to the tune He Xin Lang, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "篆",
+    "zhuàn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "鼎",
+    "dǐng"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "午",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "静",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "孙",
+    "sūn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "糁",
+    "sǎn"
+   ],
+   [
+    "径",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "腾",
+    "téng"
+   ],
+   [
+    "腾",
+    "téng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "透",
+    "tòu"
+   ]
+  ],
+  [
+   [
+    "镇",
+    "zhèn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "聊",
+    "liáo"
+   ],
+   [
+    "殢",
+    "tì"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "病",
+    "bìng"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "忺",
+    "xiān"
+   ],
+   [
+    "整",
+    "zhěng"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "省",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "息",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "倩",
+    "qiàn"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "栏",
+    "lán"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "定",
+    "dìng"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "瓶",
+    "píng"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "井",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "嘶",
+    "sī"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "暗",
+    "àn"
+   ]
+  ],
+  [
+   [
+    "枉",
+    "wǎng"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "梧",
+    "wú"
+   ],
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "鸾",
+    "luán"
+   ],
+   [
+    "镜",
+    "jìng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "原始文本是机器从繁体转成简体的，“醉沉沉”“瓶沉金井”的“沉”被错转成了“沈”；“殢酒”的“殢”写成了异体字“𣨼”。这里按通行本改正。",
+  "en": "The corpus text was converted from traditional to simplified characters by machine. In \"drowsy with wine\" and \"the jar sinks in the well\", the character for \"sink\" was wrongly turned into the surname Shen. The character in \"lingering over wine\" appears in a rare variant form. These are corrected here to follow the common text."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "殢",
+   "pinyin": "tì",
+   "zh": "“殢”读 tì，意思是沉溺、被缠住。",
+   "en": "This rare character is read tì and means to be stuck in, to wallow in."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "“厌厌”这里同“恹恹”，是没精神的样子，读 yān yān。",
+   "en": "Here the doubled character means listless, the same as another word read yān yān, so it is read yān, not yàn."
+  },
+  {
+   "line": 10,
+   "pos": 5,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重省”是再一次回想，“重”读 chóng。",
+   "en": "In \"think back again\", this character means \"again\" and is read chóng."
+  },
+  {
+   "line": 10,
+   "pos": 6,
+   "char": "省",
+   "pinyin": "xǐng",
+   "zh": "“省”这里是回想、反省，读 xǐng。",
+   "en": "Here this character means to reflect on, so it is read xǐng, not shěng."
+  },
+  {
+   "line": 16,
+   "pos": 1,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "“骑”指骑的马，现在统一读 qí；古代作名词时读 jì。",
+   "en": "This character here means a horse being ridden. It is read qí today; in old usage the noun was read jì."
+  },
+  {
+   "line": 17,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "“教”这里是让、使的意思，读 jiào。",
+   "en": "Here this character means \"to make (someone do)\", read jiào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "篆缕：香炉里升起的细烟，弯弯曲曲像篆字。篆，一种古老的字体，笔画弯曲。",
+   "en": "zhuàn lǚ: thin threads of incense smoke curling like seal script. Zhuàn is an old style of writing with curving strokes."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "销金鼎：在金色的香炉里慢慢烧完。金鼎，铜做的香炉。",
+   "en": "xiāo jīn dǐng: burning away in the golden burner. Jīn dǐng is a bronze incense burner."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "醉沉沉：喝醉了，昏昏沉沉。",
+   "en": "zuì chén chén: heavy and drowsy with wine."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 7,
+   "zh": "庭阴转午：院子里树的影子移动，已经到了中午。",
+   "en": "tíng yīn zhuǎn wǔ: the shade in the courtyard has moved round; it is already noon."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "画堂：装饰华美的屋子。",
+   "en": "huà táng: a beautifully decorated hall."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "芳草王孙：《楚辞》里说“王孙游兮不归，春草生兮萋萋”，后来用“王孙”指在外远游、迟迟不回的人。这里指她想念的那个人。",
+   "en": "fāng cǎo wáng sūn: an old poem says \"The young lord travels and does not come home, while the spring grass grows thick.\" After that, wáng sūn came to mean someone far away who does not return. Here it is the man she misses."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "惟有：只有。",
+   "en": "wéi yǒu: only."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "糁径：撒满了小路。糁，散落。",
+   "en": "sǎn jìng: scattered all over the path. Sǎn means to scatter."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "腾腾：迷迷糊糊的样子。",
+   "en": "téng téng: hazy, half awake."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "春醒：春天里从醉中、梦中醒来。",
+   "en": "chūn xǐng: waking up from wine and dreams in spring."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "残红：凋落的花。",
+   "en": "cán hóng: fallen, fading flowers."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "春已透：春天已经很深，快要过去了。",
+   "en": "chūn yǐ tòu: spring is already deep, nearly over."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "镇：整天，总是。",
+   "en": "zhèn: all day long, always."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "殢酒：被酒缠住，喝得太多。",
+   "en": "tì jiǔ: lost in wine, drinking too much."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 8,
+   "zh": "厌厌病：没精打采，像生了病一样。",
+   "en": "yān yān bìng: listless, as if ill."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "云鬓：像云一样浓密的头发。",
+   "en": "yún bìn: hair as thick and soft as clouds."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "未忺整：不想梳理。忺，想要，乐意。",
+   "en": "wèi xiān zhěng: not in the mood to tidy it. Xiān means to feel like doing."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 7,
+   "zh": "休重省：不要再去回想。休，不要。",
+   "en": "xiū chóng xǐng: do not think back on it again. Xiū means don't."
+  },
+  {
+   "line": 11,
+   "start": 3,
+   "end": 7,
+   "zh": "寻消问息：到处打听消息。",
+   "en": "xún xiāo wèn xī: asking everywhere for news."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "断鸿难倩：离群的孤雁也很难托它带信。古人传说大雁能传书信。倩，请人帮忙。",
+   "en": "duàn hóng nán qiàn: even a lone wild goose cannot be asked to carry a letter. People once believed wild geese could carry letters. Qiàn means to ask someone's help."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 6,
+   "zh": "凭栏：靠着栏杆。",
+   "en": "píng lán: leaning on the railing."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "归期：回来的日子。",
+   "en": "guī qī: the day of return."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 7,
+   "zh": "瓶沉金井：打水的瓶子沉到井底，绳子断了。白居易的诗里用它比喻男女分离、感情断绝。金井，井栏装饰华美的井。",
+   "en": "píng chén jīn jǐng: the water jar sinks to the bottom of the well when the rope breaks. Bai Juyi used this picture for lovers parted for good. Jīn jǐng is a well with a fine railing."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "嘶骑：嘶叫的马，指他骑马回来。",
+   "en": "sī qí: a neighing horse, meaning him riding home."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 6,
+   "zh": "银烛：明亮的蜡烛。",
+   "en": "yín zhú: a bright candle."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 3,
+   "zh": "枉教人：白白让人。",
+   "en": "wǎng jiào rén: making me, all for nothing,"
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 8,
+   "zh": "立尽梧桐影：站到梧桐树的影子都移走了，指站了很久很久。",
+   "en": "lì jìn wú tóng yǐng: stand until the shadow of the paulownia tree has moved away, that is, stand for a very long time."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 3,
+   "zh": "鸾镜：背面刻着鸾鸟的镜子。传说鸾鸟看见镜中自己的影子，以为是同伴，悲鸣而死，所以鸾镜常带孤单的意思。",
+   "en": "luán jìng: a mirror with a luan bird carved on the back. Legend says a luan bird saw itself in a mirror, took it for a mate, and cried until it died. So the mirror suggests loneliness."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "金色香炉里，弯弯的香烟慢慢烧完了。",
+   "en": "In the golden burner the curling incense smoke burns away."
+  },
+  {
+   "zh": "我醉得昏昏沉沉，院子里的树影已经移到了中午，",
+   "en": "I am heavy with wine; the courtyard shade has moved round to noon."
+  },
+  {
+   "zh": "华美的屋子里静悄悄的，没有一点人声。",
+   "en": "The painted hall is quiet, no one stirring."
+  },
+  {
+   "zh": "像王孙一样远游的他，不知道在哪里？",
+   "en": "Where is he now, the wanderer who never comes home?"
+  },
+  {
+   "zh": "只有杨花，撒满了小路。",
+   "en": "Only willow down lies scattered over the path."
+  },
+  {
+   "zh": "靠着玉枕，我迷迷糊糊地从春天的醉梦里醒来。",
+   "en": "On the jade pillow I slowly wake, hazy, from a spring drunken sleep."
+  },
+  {
+   "zh": "帘子外面落花满地，春天已经快过完了，",
+   "en": "Outside the curtain the flowers have fallen; spring is nearly gone."
+  },
+  {
+   "zh": "我整天无聊，被酒缠着，没精打采像生了病。",
+   "en": "All day I am weary, lost in wine, listless as if ill."
+  },
+  {
+   "zh": "浓密的头发乱了，",
+   "en": "My cloud of hair is tangled,"
+  },
+  {
+   "zh": "也不想去梳理。",
+   "en": "and I do not feel like fixing it."
+  },
+  {
+   "zh": "江南的往事，不要再去回想了。",
+   "en": "Do not think again of those old days south of the river."
+  },
+  {
+   "zh": "我走遍天涯打听他的消息，",
+   "en": "I have asked for news of him to the ends of the earth,"
+  },
+  {
+   "zh": "连离群的孤雁也没法托它带信。",
+   "en": "but not even a lone wild goose will carry my letter."
+  },
+  {
+   "zh": "月光洒满西楼，我靠着栏杆站了很久，",
+   "en": "Moonlight fills the west tower; I lean on the railing a long time."
+  },
+  {
+   "zh": "他回来的日子还是没有定下。",
+   "en": "Still the day of his return is not set."
+  },
+  {
+   "zh": "我又怕，我们的感情会像沉进井底的瓶子一样断了。",
+   "en": "And I fear our love will sink like a jar to the bottom of the well."
+  },
+  {
+   "zh": "听不到他骑马回来的马叫声，蜡烛也快烧完暗下去了，",
+   "en": "No neighing horse comes, and the silver candle grows dim."
+  },
+  {
+   "zh": "白白让我站到梧桐树影都移走了。",
+   "en": "All for nothing I stand until the paulownia's shadow is gone."
+  },
+  {
+   "zh": "有谁来陪我？",
+   "en": "Who will keep me company"
+  },
+  {
+   "zh": "只能对着那面孤单的鸾镜。",
+   "en": "as I face the lonely luan-bird mirror?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首闺怨词，就是写女子在家中思念远方爱人的词。上片写春末一天从中午到醒来的慵懒愁闷，下片写打听不到消息、盼人不归的焦急和孤单。作者李玉生平事迹不详，这首词因为被选进《宋词三百首》才广为人知。写作时间和背景都没有记载。",
+  "en": "This is a boudoir lament: a lyric about a woman at home missing her lover far away. The first stanza shows a late spring day, from drowsy noon to waking, full of idleness and gloom. The second shows her anxious search for news and her loneliness as he fails to return. Almost nothing is known about the poet Li Yu. The lyric became widely known because it was chosen for the anthology Three Hundred Song Lyrics. When and why it was written is not recorded."
+ },
+ "author_note": {
+  "zh": "李玉是宋代词人，生平事迹几乎没有留下记载，连他生活在哪个年代都说不清。一般认为他传下来的词只有这一首。他和南唐后主李煜不是一个人，名字读音相近，不要弄混。",
+  "en": "Li Yu was a Song dynasty lyric writer. Almost nothing is recorded about his life; we cannot even say exactly when he lived. This is usually thought to be his only surviving lyric. He is not the same person as Li Yu, the last ruler of the Southern Tang, whose name sounds similar."
+ },
+ "appreciation": {
+  "zh": "这首词像一部慢镜头的短片。镜头从香炉里一缕缕的烟开始，人醉着，院子很静，只有杨花铺满小路。她醒来，看见帘外落花，知道春天要走了，头发乱了也懒得梳。下片镜头拉远：她到处打听，连大雁都不肯帮她带信。夜里月亮照满西楼，她靠着栏杆一直等，等到蜡烛暗了、树影移走，那匹马还是没来。最后一问“谁伴我”，只剩她对着一面镜子。全词没有一个字说“想”，可每个画面里都是想念。",
+  "en": "This lyric is like a short film in slow motion. The camera starts on threads of incense smoke. She is drunk, the courtyard is still, and willow down covers the path. She wakes, sees the fallen flowers outside the curtain, knows spring is leaving, and cannot be bothered to comb her messy hair. In the second stanza the camera pulls back. She asks for news everywhere, but not even a wild goose will carry her letter. At night the moon fills the west tower. She leans on the railing and waits, until the candle dims and the tree's shadow moves away, and still the horse does not come. The last question, who will keep me company, leaves her alone with a mirror. The word \"miss\" never appears, yet every picture is full of missing him."
+ },
+ "famous_lines": [
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

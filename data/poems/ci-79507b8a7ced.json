@@ -1,0 +1,894 @@
+{
+ "id": "ci-79507b8a7ced",
+ "kind": "ci",
+ "title": "八归·秋江带雨",
+ "title_en": "Ba Gui: The Autumn River Carries the Rain",
+ "author": "史达祖",
+ "author_en": "Shi Dazu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "萦",
+    "yíng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "瞰",
+    "kàn"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "独",
+    "dú"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "蓑",
+    "suō"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "秀",
+    "xiù"
+   ],
+   [
+    "句",
+    "jù"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "续",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "图",
+    "tú"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "岸",
+    "àn"
+   ]
+  ],
+  [
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "屋",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "属",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "樵",
+    "qiáo"
+   ],
+   [
+    "村",
+    "cūn"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "竞",
+    "jìng"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "竹",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "持",
+    "chí"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "慰",
+    "wèi"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "目",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "鞭",
+    "biān"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "篙",
+    "gāo"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "赖",
+    "lài"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "舒",
+    "shū"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "眺",
+    "tiào"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "乔",
+    "qiáo"
+   ],
+   [
+    "木",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "奈",
+    "nài"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "际",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "彻",
+    "chè"
+   ],
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "足",
+    "zú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "“诗思”的“思”是名词，指写诗的思路，古代读 sì。现在一般读 sī。",
+   "en": "Here the word means the flow of thought for a poem, a noun, which in old times was read sì. Today it is usually read sī."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "带雨：江上下着雨。",
+   "en": "dài yǔ: carrying rain, with rain falling on the river."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "萦水：江水围绕着沙滩流。萦，环绕。",
+   "en": "yíng shuǐ: the water winds around the sandbank. Yíng means to wind around."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "瞰：从高处往下看。",
+   "en": "kàn: to look down from a height."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "画阁：装饰华美的楼阁。",
+   "en": "huà gé: a finely decorated tower room."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "烟蓑：烟雨中穿着蓑衣的渔人。蓑，用草编成的雨衣。",
+   "en": "yān suō: a fisherman in a straw raincoat in the misty rain. Suō is a raincoat woven from grass."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "散响：零零散散的声音，指渔人划船、说话等的声响。",
+   "en": "sàn xiǎng: scattered sounds, such as the fisherman rowing or calling."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "诗思：写诗的思路、灵感。",
+   "en": "shī sī: the flow of thought for writing a poem."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "乱鸥：乱飞的海鸥。",
+   "en": "luàn ōu: gulls flying every which way."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "秀句：好的诗句。",
+   "en": "xiù jù: a fine line of poetry."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 7,
+   "zh": "冷眼尽归图画上：静静地看，眼前的一切都像一幅画。",
+   "en": "lěng yǎn jìn guī tú huà shàng: looking on calmly, everything before his eyes becomes a painting."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "微茫：模模糊糊，看不清。",
+   "en": "wēi máng: faint and blurry."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "云屋：云雾里的房屋。",
+   "en": "yún wū: houses in the clouds and mist."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "半属：大半是。",
+   "en": "bàn shǔ: mostly belonging to, mostly."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "渔市樵村：卖鱼的集市和砍柴人住的村子。樵，砍柴。",
+   "en": "yú shì qiáo cūn: fish markets and woodcutters' villages. Qiáo means to cut firewood."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "竞然竹：争着烧竹子做饭。然，同“燃”，烧。",
+   "en": "jìng rán zhú: racing to burn bamboo for cooking. Rán here means to burn."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "须信：要相信。",
+   "en": "xū xìn: you must believe."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "风流：潇洒有才情的样子。",
+   "en": "fēng liú: carefree and talented."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "凭持酒：靠着拿起酒杯喝酒。",
+   "en": "píng chí jiǔ: relying on holding up a cup of wine."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "心目：心里和眼里。",
+   "en": "xīn mù: heart and eyes."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "一鞭南陌：骑着马，在南边的路上挥一鞭。陌，田间小路，泛指道路。",
+   "en": "yī biān nán mò: riding along the southern road with a crack of the whip. Mò is a path between fields, here any road."
+  },
+  {
+   "line": 16,
+   "start": 1,
+   "end": 2,
+   "zh": "篙：撑船用的长竹竿。",
+   "en": "gāo: a long bamboo pole for pushing a boat."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "官渡：官府设的渡口。",
+   "en": "guān dù: a public ferry crossing set up by the government."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "赖有：幸亏有。",
+   "en": "lài yǒu: luckily there is."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 6,
+   "zh": "歌眉舒绿：唱歌女子画着黛绿色的眉毛，眉头舒展开来，露出笑容。",
+   "en": "gē méi shū lǜ: the singing girl's dark green painted brows smooth out into a smile."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "眺远：往远处看。",
+   "en": "tiào yuǎn: to look into the distance."
+  },
+  {
+   "line": 19,
+   "start": 5,
+   "end": 7,
+   "zh": "乔木：高大的树。",
+   "en": "qiáo mù: tall trees."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 7,
+   "zh": "闲愁挂乔木：愁像挂在高树上一样，越望越多。",
+   "en": "xián chóu guà qiáo mù: sorrow seems to hang on the tall trees, growing as he gazes."
+  },
+  {
+   "line": 20,
+   "start": 1,
+   "end": 3,
+   "zh": "难奈：难以忍受。",
+   "en": "nán nài: hard to bear."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "天际：天边，很远的地方。",
+   "en": "tiān jì: the edge of the sky, very far away."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 2,
+   "zh": "望彻：望穿，一直望到尽头。",
+   "en": "wàng chè: to gaze all the way to the end."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 4,
+   "zh": "淮山：淮河一带的山。",
+   "en": "huái shān: the hills along the Huai River."
+  },
+  {
+   "line": 23,
+   "start": 3,
+   "end": 5,
+   "zh": "雁足：大雁的脚。古代传说大雁脚上能绑书信，所以“雁足”指书信。",
+   "en": "yàn zú: a wild goose's foot. Old stories say letters were tied to geese's feet, so it means letters."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋天的江上下着雨，",
+   "en": "Rain falls on the autumn river;"
+  },
+  {
+   "zh": "江水绕着寒冷的沙滩，",
+   "en": "the water winds round the cold sand;"
+  },
+  {
+   "zh": "我在画阁上往下看，一个人发愁。",
+   "en": "from the painted tower I look down, sad and alone."
+  },
+  {
+   "zh": "烟雨中渔人零散的声响惊动了我写诗的思路，",
+   "en": "Scattered sounds of fishermen in the misty rain break my thoughts of a poem,"
+  },
+  {
+   "zh": "又被乱飞的鸥鸟带走了，",
+   "en": "and the scattered gulls carry them off,"
+  },
+  {
+   "zh": "好句子再也接不上。",
+   "en": "so the fine lines will not come."
+  },
+  {
+   "zh": "静静看去，眼前的一切都成了画，",
+   "en": "Looking on calmly, all I see becomes a painting."
+  },
+  {
+   "zh": "我辨认着对岸",
+   "en": "I make out, across the river,"
+  },
+  {
+   "zh": "云雾里模模糊糊的房屋。",
+   "en": "houses faint in the clouds."
+  },
+  {
+   "zh": "想来大多是",
+   "en": "They must mostly be"
+  },
+  {
+   "zh": "渔人的集市、砍柴人的村子，",
+   "en": "fish markets and woodcutters' villages,"
+  },
+  {
+   "zh": "天快黑了，家家争着烧竹子做饭。",
+   "en": "where, as dusk comes, every home hurries to burn bamboo for supper."
+  },
+  {
+   "zh": "要相信我的潇洒还没有老去，",
+   "en": "Believe that my carefree spirit has not grown old;"
+  },
+  {
+   "zh": "靠着手中的酒，",
+   "en": "with wine in hand,"
+  },
+  {
+   "zh": "安慰这凄凉的心和眼。",
+   "en": "I comfort my lonely heart and eyes."
+  },
+  {
+   "zh": "骑马走过南边的路，",
+   "en": "A crack of the whip down the southern road,"
+  },
+  {
+   "zh": "撑船过了几次官渡，",
+   "en": "a few pushes of the pole at the ferry,"
+  },
+  {
+   "zh": "幸亏有唱歌的女子舒展眉头，让人开心。",
+   "en": "and luckily a singing girl smooths her painted brows to cheer me."
+  },
+  {
+   "zh": "只是匆匆往远处一望，",
+   "en": "But with just one hurried look into the distance,"
+  },
+  {
+   "zh": "就觉得闲愁像挂满了高高的树。",
+   "en": "I feel idle sorrow hanging all over the tall trees."
+  },
+  {
+   "zh": "真是难以忍受，",
+   "en": "It is truly hard to bear:"
+  },
+  {
+   "zh": "老朋友远在天边，",
+   "en": "my old friend is at the edge of the sky;"
+  },
+  {
+   "zh": "我望穿了淮河一带的山，",
+   "en": "I gaze until the Huai hills end,"
+  },
+  {
+   "zh": "相思却没有大雁传来书信。",
+   "en": "but no goose brings a letter of longing."
+  }
+ ],
+ "background": {
+  "zh": "这首词写在一个秋天的雨中，作者在江边的楼阁上远望，想念远方的老朋友。写作的时间、地点和这位朋友是谁，都已经不清楚了。词里提到“淮山”，可见朋友大概在淮河一带。词里先写秋江雨景，再写自己的愁，最后才说出对朋友的思念。",
+  "en": "This lyric was written on a rainy autumn day. The poet looks out from a tower by the river and misses an old friend far away. When and where it was written, and who the friend was, are no longer known. It mentions the Huai hills, so the friend was probably somewhere along the Huai River. The lyric first paints the rainy autumn river, then the poet's own sorrow, and only at the end his longing for the friend."
+ },
+ "author_note": {
+  "zh": "史达祖，号梅溪，南宋词人，生卒年不详。他多次考试都没考中，后来在权臣韩侂胄手下做管文书的官。韩侂胄失败后，他也被处罚，流放外地。他的词很会写景物，写得细致传神，咏燕子的《双双燕》最有名。",
+  "en": "Shi Dazu, also called Meixi, was a Southern Song lyric writer; his birth and death years are unknown. He failed the imperial exams several times and later became a clerk for the powerful minister Han Tuozhou. When Han fell, Shi was punished and sent into exile. His lyrics paint scenes in fine, lively detail. His most famous is \"Shuang Shuang Yan\", about a pair of swallows."
+ },
+ "appreciation": {
+  "zh": "上半首像一个人站在楼上看风景：秋雨落在江上，水绕着沙滩，渔人的声音、乱飞的鸥鸟打断了他写诗的念头。他干脆不写了，静静地看，对岸的房屋若隐若现，傍晚家家烧竹子做饭，像一幅淡淡的水墨画。下半首写心情：他告诉自己还没老，喝点酒，听听歌，也能高兴一点。可是一往远处望，愁绪就像挂满了大树。最后才说出真正的心事：老朋友在遥远的淮河那边，望了又望，连一封信都没有。整首词先写景，再写愁，越来越深。",
+  "en": "The first half is like someone standing in a tower watching the view. Autumn rain falls on the river, water winds round the sand, and the sounds of fishermen and the wheeling gulls break his thoughts of a poem. So he stops writing and just watches. Houses across the river appear and fade, and at dusk every home burns bamboo to cook, like a pale ink painting. The second half is about his feelings. He tells himself he is not old yet; with a little wine and a song, he can cheer up. But as soon as he looks into the distance, sorrow seems to hang all over the trees. Only at the end does he say what is really on his mind: his old friend is far away by the Huai River. He gazes and gazes, but not even a letter comes. The lyric moves from scene to sorrow, deeper and deeper."
+ },
+ "famous_lines": [
+  21,
+  22,
+  23
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "friendship",
+   "rain",
+   "river"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "text",
+   "zh": "第十四句语料库作“凭持酒”，只有三个字。按八归的格律这里应该是四个字，有的版本可能作“凭持尊酒”，未能核实通行本的写法。",
+   "en": "Line fourteen in the corpus has only three characters. The tune pattern suggests four here, and some editions may read \"píng chí zūn jiǔ\" (holding a cup of wine). The usual text could not be checked."
+  }
+ ]
+}

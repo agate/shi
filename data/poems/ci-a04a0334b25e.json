@@ -1,0 +1,548 @@
+{
+ "id": "ci-a04a0334b25e",
+ "kind": "ci",
+ "title": "青玉案·一年春事都来几",
+ "title_en": "Green Jade Table: How Much Is a Year's Spring",
+ "author": "无名氏",
+ "author_en": "Anonymous",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "song lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "几",
+    "jǐ"
+   ]
+  ],
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "了",
+    "le"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "之",
+    "zhī"
+   ],
+   [
+    "二",
+    "èr"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "嫣",
+    "yān"
+   ],
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "幕",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "憔",
+    "qiáo"
+   ],
+   [
+    "悴",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "买",
+    "mǎi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "载",
+    "zài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "市",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "似",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "李",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "枉",
+    "wǎng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "表",
+    "biǎo"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "据",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": {
+  "zh": "原始资料只题词牌“青玉案”，这里按首句加题。“又争似家山见桃李”一句，通行本在“又争似”后断开，这里分成两行。",
+  "en": "The source gives only the tune name, Qingyu'an; the first line is added here as the title. In the line comparing the capital with home, common editions pause after the words \"how could it compare\", so that line is split into two here."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "都",
+   "pinyin": "dōu",
+   "zh": "“都来”是“总共、算起来”的意思，这里按今天的习惯读 dōu。",
+   "en": "Dōu lái means \"all told\"; it is read dōu here, as is usual today."
+  },
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "了",
+   "pinyin": "le",
+   "zh": "这里是语气词，读 le。也有人在诗词里读 liǎo。",
+   "en": "Here it is a grammar word, read le. Some read it liǎo in poetry."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "载",
+   "pinyin": "zài",
+   "zh": "这里是“用车船装着”的意思，读 zài。",
+   "en": "Here it means to carry, so it is read zài."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "春事：春天的景色和种种乐事。",
+   "en": "chūn shì: the sights and pleasures of spring."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "都来几：总共能有多少。都来，总共、算起来。",
+   "en": "dōu lái jǐ: how much is there in all?"
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 3,
+   "zh": "三之二：三分之二。",
+   "en": "sān zhī èr: two out of three parts."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "绿暗红嫣：绿叶浓密得发暗，红花开得正艳。嫣，鲜艳。",
+   "en": "lǜ àn hóng yān: leaves so thick they look dark, and red flowers in full bloom."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "浑可事：全都是平常的事，不值得在意。浑，全；可事，小事。一说是“都还可以”。",
+   "en": "hún kě shì: all of it is ordinary, nothing to care about. Another view: it is all fine."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "帘幕：门窗上挂的帘子和帷幕。",
+   "en": "lián mù: curtains and hangings at doors and windows."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "憔悴：又瘦又没精神。",
+   "en": "qiáo cuì: thin, pale and worn out."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "载酒：带着酒。",
+   "en": "zài jiǔ: carrying wine along."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "长安市：长安的街市，这里借指京城。",
+   "en": "Cháng'ān shì: the markets of Chang'an, here meaning the capital in general."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "争似：怎么比得上。争，怎么。",
+   "en": "zhēng sì: how could it compare with. Zhēng means how."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "家山：家乡。",
+   "en": "jiā shān: home, one's native hills."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "不枉：难怪，怪不得。",
+   "en": "bù wǎng: no wonder."
+  },
+  {
+   "line": 10,
+   "start": 5,
+   "end": 7,
+   "zh": "客泪：在外漂泊的人流的眼泪。",
+   "en": "kè lèi: the tears of someone far from home."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "难表：难以表达。",
+   "en": "nán biǎo: hard to express."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "无据：没有凭据，靠不住。",
+   "en": "wú jù: with nothing to go on; it cannot be relied on."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 5,
+   "zh": "惟有归来是：只有回家才是对的。",
+   "en": "wéi yǒu guī lái shì: only going home is right."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一年里的春光，总共能有多少？",
+   "en": "How much spring is there in a year, all told?"
+  },
+  {
+   "zh": "早已过去了",
+   "en": "Already gone by"
+  },
+  {
+   "zh": "三分之二。",
+   "en": "are two parts out of three."
+  },
+  {
+   "zh": "绿叶浓密、红花鲜艳，全都是平常景象，",
+   "en": "Thick dark leaves and bright red flowers are nothing special now."
+  },
+  {
+   "zh": "绿杨环绕的庭院里，",
+   "en": "In a courtyard ringed by green willows,"
+  },
+  {
+   "zh": "暖风吹着帘幕，",
+   "en": "where warm wind stirs the curtains,"
+  },
+  {
+   "zh": "有一个人又瘦又憔悴。",
+   "en": "there is someone thin and worn."
+  },
+  {
+   "zh": "在京城的街上买花、带酒游玩，",
+   "en": "Buying flowers and carrying wine through the markets of the capital,"
+  },
+  {
+   "zh": "又怎么比得上",
+   "en": "how could that compare"
+  },
+  {
+   "zh": "在家乡看桃花李花开放？",
+   "en": "with seeing peach and plum blossoms at home?"
+  },
+  {
+   "zh": "难怪东风一吹，我这个异乡人就流泪。",
+   "en": "No wonder the east wind brings tears to a traveler's eyes."
+  },
+  {
+   "zh": "相思之情难以说出来，",
+   "en": "This longing is hard to put into words,"
+  },
+  {
+   "zh": "梦里回家又靠不住，",
+   "en": "and dreams of home cannot be trusted;"
+  },
+  {
+   "zh": "只有真的回去才是对的。",
+   "en": "only really going home is right."
+  }
+ ],
+ "background": {
+  "zh": "这首词的作者没有留下名字，写作时间也不清楚。从词里看，写的是一个离家在外、住在京城的人。暮春时节，春天已经过了大半，京城里虽然有花有酒，他却越来越想家，最后下定决心：只有回家才好。",
+  "en": "The author of this lyric left no name, and we do not know when it was written. From the words, it is about someone living far from home in the capital. It is late spring, and most of the season is gone. The capital has flowers and wine, yet he misses home more and more. In the end he makes up his mind: only going home will do."
+ },
+ "author_note": {
+  "zh": "“无名氏”的意思是不知道作者是谁。宋代很多词在民间和文人之间传唱，抄来抄去，作者的名字就丢了。这首词被收进了《宋词三百首》，说明它写得很好，流传很广。",
+  "en": "\"Anonymous\" means we do not know who wrote it. In the Song dynasty many lyrics were sung and copied among ordinary people and scholars, and the authors' names got lost along the way. This one was chosen for Three Hundred Song Lyrics, which shows it was well written and widely known."
+ },
+ "appreciation": {
+  "zh": "开头像在算账：一年的春天能有多少？已经过去三分之二了。一句算术题，把时间溜走的着急写了出来。院子里绿杨、暖风、帘幕，景色很美，却有一个人瘦得憔悴，美景反而让人更孤单。下半首拿京城和家乡比：京城再热闹，也比不上家乡的桃花李花。东风一吹，眼泪就下来了。最后三句一层层推：心里的话说不出，梦里回家又不算数，那就只有真的回去。结尾干脆利落，读来让人心头一热。",
+  "en": "It opens like doing sums: how much spring is in a year? Two thirds of it are already gone. A little arithmetic shows the worry of time slipping away. In the courtyard there are green willows, warm wind and curtains. It is lovely, yet someone there is thin and worn, and the beauty only makes him lonelier. The second half compares the capital with home. However lively the capital is, it cannot match the peach and plum blossoms at home. When the east wind blows, the tears come. The last three lines build step by step: the longing cannot be spoken, dreams of home do not count, so the only answer is to really go home. The ending is short and firm, and it warms the heart."
+ },
+ "famous_lines": [
+  13
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "longing",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

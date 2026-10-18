@@ -1,0 +1,279 @@
+{
+ "id": "31cc87f3-da0f-421d-8674-8753530077e2",
+ "kind": "shi",
+ "title": "送别",
+ "title_en": "Farewell",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "饮",
+    "yìn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "所",
+    "suǒ"
+   ],
+   [
+    "之",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "陲",
+    "chuí"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "饮",
+   "pinyin": "yìn",
+   "zh": "“饮君酒”的“饮”读 yìn，意思是给人喝、请人喝。",
+   "en": "Here this character is read yìn, meaning to give someone a drink."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "饮君酒：请你喝酒。饮，使……喝。",
+   "en": "yìn jūn jiǔ: to give you wine to drink."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "何所之：到哪里去。之，往、去。",
+   "en": "hé suǒ zhī: where are you going? Zhī here means to go."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "不得意：不如意，不顺心，指做官不顺利、不被重用。",
+   "en": "bù dé yì: things did not go his way; he was not given a good post."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "归卧：回去隐居。卧，躺下，这里指隐居。",
+   "en": "guī wò: to go back and live in retreat. Wò, to lie down, here means to live quietly away from the world."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "南山：终南山，在长安（今陕西西安）南边。",
+   "en": "nán shān: the Zhongnan Mountains, south of Chang'an, today's Xi'an."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "陲：边，旁边。",
+   "en": "chuí: the edge, the foot of a mountain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "但去：只管去吧。",
+   "en": "dàn qù: just go."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "莫复问：我不再多问了。",
+   "en": "mò fù wèn: I will ask no more."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "无尽时：没有完的时候。",
+   "en": "wú jìn shí: never ending."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我下马请你喝一杯酒，",
+   "en": "I get off my horse and offer you wine,"
+  },
+  {
+   "zh": "问你要到哪里去。",
+   "en": "and ask where you are going."
+  },
+  {
+   "zh": "你说自己很不如意，",
+   "en": "You say things have not gone your way,"
+  },
+  {
+   "zh": "要回到终南山脚下去隐居。",
+   "en": "and you will go home to live quietly at the foot of the southern mountains."
+  },
+  {
+   "zh": "那你只管去吧，我不再多问了，",
+   "en": "Then just go. I will ask no more."
+  },
+  {
+   "zh": "山里的白云飘啊飘，永远没有尽头。",
+   "en": "The white clouds there drift on and never end."
+  }
+ ],
+ "background": {
+  "zh": "这是王维送一位朋友去隐居的诗。朋友是谁，诗里没有说，后人也已经不知道了。诗用问答的形式写成：先请朋友喝酒，再问他去哪里，朋友说自己不得意，要回终南山隐居。王维自己也在终南山一带住过，对这种生活很熟悉，所以最后用“白云无尽时”来安慰朋友。",
+  "en": "In this poem Wang Wei sees off a friend who is going off to live in retreat. The poem does not say who the friend was, and no one knows now. It is written as questions and answers. First he offers his friend wine, then asks where he is going. The friend says things have gone badly and he will go back to the Zhongnan Mountains to live quietly. Wang Wei himself had lived near those mountains and knew that life well. So at the end he comforts his friend with the endless white clouds."
+ },
+ "author_note": {
+  "zh": "王维（701？—761），字摩诘，唐代大诗人，也是画家和音乐家。他信佛，晚年在终南山下的辋川过着半官半隐的生活。他的诗清淡自然，常写山水和白云，苏轼说他“诗中有画”。",
+  "en": "Wang Wei (701?–761) was a great Tang poet, and also a painter and musician. He was a Buddhist. In later life he lived half as an official and half as a hermit at Wangchuan, below the Zhongnan Mountains. His poems are calm and natural, often about hills, water and white clouds. Su Shi said there were \"paintings in his poems\"."
+ },
+ "appreciation": {
+  "zh": "这首诗只有三十个字，却像一段对话录音。“我”下马敬酒，问朋友去哪；朋友说不如意，要去南山。接下来本来有很多话可以说：安慰、劝说、替他抱不平。可王维只说了一句“但去莫复问”，你就去吧，我不问了。这是最懂朋友的人才说得出的话。最后一句不讲道理，只给一幅画：山里白云悠悠，永远飘不完。白云代表自由、安静，比人间的得失长久得多。读到这里，失意的心好像也被白云轻轻托住了。",
+  "en": "This poem has only thirty characters, but it is like a recording of a conversation. The speaker gets off his horse, offers wine and asks where his friend is going. The friend says life has gone badly and he will go to the southern mountains. There is a lot one could say next: comfort, advice, anger on his behalf. But Wang Wei says only: just go, I will ask no more. Only someone who truly understands a friend could say that. The last line gives no reasons, only a picture: white clouds drifting in the mountains, never ending. The clouds stand for freedom and peace, which last far longer than worldly success or failure. Reading it, a disappointed heart feels gently held up by the clouds."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "hermit",
+   "clouds",
+   "mountain"
+  ]
+ },
+ "uncertain": []
+}

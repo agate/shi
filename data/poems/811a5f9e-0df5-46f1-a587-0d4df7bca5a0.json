@@ -1,0 +1,455 @@
+{
+ "id": "811a5f9e-0df5-46f1-a587-0d4df7bca5a0",
+ "kind": "shi",
+ "title": "无题四首·其二",
+ "title_en": "Untitled, No. 2 of Four",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "飒",
+    "sà"
+   ],
+   [
+    "飒",
+    "sà"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "芙",
+    "fú"
+   ],
+   [
+    "蓉",
+    "róng"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "雷",
+    "léi"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "蟾",
+    "chán"
+   ],
+   [
+    "啮",
+    "niè"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "烧",
+    "shāo"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "入",
+    "rù"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "虎",
+    "hǔ"
+   ],
+   [
+    "牵",
+    "qiān"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "汲",
+    "jí"
+   ],
+   [
+    "井",
+    "jǐng"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ],
+  [
+   [
+    "贾",
+    "jiǎ"
+   ],
+   [
+    "氏",
+    "shì"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "韩",
+    "hán"
+   ],
+   [
+    "掾",
+    "yuàn"
+   ],
+   [
+    "少",
+    "shào"
+   ]
+  ],
+  [
+   [
+    "宓",
+    "fú"
+   ],
+   [
+    "妃",
+    "fēi"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "魏",
+    "wèi"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "才",
+    "cái"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "灰",
+    "huī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库本“锁”写作“鏁”，是“锁”的异体字，意思一样。",
+  "en": "The corpus writes suo (lock) with an old variant character. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 6,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "这里是“年轻”的意思，读 shào，不读 shǎo。",
+   "en": "Here it means \"young\", so it is read shào, not shǎo (few)."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "宓",
+   "pinyin": "fú",
+   "zh": "“宓妃”是传说中洛水的女神，这里的“宓”读 fú。“宓”作姓时读 mì。",
+   "en": "In the name of the river goddess Fu Fei this character is read fú. As a surname it is read mì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "飒飒：风声。",
+   "en": "sa sa: the sound of the wind."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "芙蓉塘：长满荷花的池塘。",
+   "en": "fu rong tang: a pond full of lotus flowers."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "轻雷：远处轻轻的雷声。一说指车子驶过的声音，像雷声一样。",
+   "en": "qing lei: soft thunder far away. Another reading says it is the rumble of a passing carriage."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "金蟾：做成蟾蜍（癞蛤蟆）样子的金色香炉。",
+   "en": "jin chan: a golden incense burner shaped like a toad."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "啮锁：咬着锁。香炉的盖子上有个像锁一样的鼻钮，看起来像蟾蜍咬着锁。",
+   "en": "nie suo: biting a lock. The burner's lid has a lock-like knob, so the toad seems to bite it."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "烧香入：香烟从缝里飘进去，指点上香。",
+   "en": "shao xiang ru: incense is lit and its smoke drifts in."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "玉虎：井上辘轳（打水用的转轮）上做成老虎样子的装饰。",
+   "en": "yu hu: a jade-coloured tiger ornament on the winch used to draw water from a well."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "牵丝：拉着井绳。“丝”和“思”同音，暗指思念。",
+   "en": "qian si: pulling the well rope. Si (silk, rope) sounds like si (longing), hinting at love."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "汲井：从井里打水。",
+   "en": "ji jing: draw water from a well."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "贾氏窥帘：晋代贾充的女儿在帘子后面偷看父亲的属官韩寿，爱上了他，后来两人结了婚。",
+   "en": "Jia shi kui lian: in the Jin dynasty, the daughter of the official Jia Chong peeked through a curtain at her father's young aide Han Shou, fell in love, and later married him."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "韩掾：指韩寿。掾，古代官员手下的属官。",
+   "en": "Han yuan: Han Shou. A yuan was an aide working under an official."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "宓妃留枕：传说曹植爱慕甄氏，甄氏死后，曹丕把她的枕头给了曹植。曹植后来写《洛神赋》，把她比作洛水女神宓妃。",
+   "en": "Fu Fei liu zhen: legend says Cao Zhi loved Lady Zhen. After she died, Cao Pi gave him her pillow. Cao Zhi later wrote a famous piece about the goddess of the Luo River, Fu Fei, who is linked to her."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "魏王：指曹植，他被封为东阿王、陈王，因为是魏国王族，所以叫魏王。",
+   "en": "Wei wang: the Prince of Wei, meaning Cao Zhi, a prince of the state of Wei."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "春心：对爱情的向往。",
+   "en": "chun xin: the heart's longing for love."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 7,
+   "zh": "莫共花争发：不要和春花一起争着开放。",
+   "en": "mo gong hua zheng fa: do not race the spring flowers to bloom."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 7,
+   "zh": "一寸相思一寸灰：每一点思念，最后都化成一点灰烬。像香一样，烧一寸，就成一寸灰。",
+   "en": "yi cun xiang si yi cun hui: every inch of longing turns into an inch of ash, like a stick of incense that becomes ash as it burns."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "东风飒飒地吹，细雨飘来了，",
+   "en": "The east wind sighs, and a fine rain drifts in,"
+  },
+  {
+   "zh": "荷花塘外传来轻轻的雷声。",
+   "en": "and beyond the lotus pond comes soft thunder."
+  },
+  {
+   "zh": "金蟾香炉咬着锁，香烟飘了进去，",
+   "en": "The golden toad burner bites its lock, and incense smoke drifts inside;"
+  },
+  {
+   "zh": "玉虎辘轳拉着井绳，把水打了上来。",
+   "en": "the jade tiger winch pulls its rope and draws water up from the well."
+  },
+  {
+   "zh": "贾家女儿隔着帘子偷看，是因为韩寿年轻英俊，",
+   "en": "The Jia girl peeked through the curtain because Han Shou was young and handsome;"
+  },
+  {
+   "zh": "宓妃留下枕头，是因为爱慕曹植的才华。",
+   "en": "Fu Fei left her pillow because she loved the Prince of Wei's talent."
+  },
+  {
+   "zh": "想要爱情的心啊，不要和春花一起争着开放，",
+   "en": "Heart that longs for love, do not race the spring flowers to bloom,"
+  },
+  {
+   "zh": "每一寸相思，最后都化成一寸灰。",
+   "en": "for every inch of longing turns into an inch of ash."
+  }
+ ],
+ "background": {
+  "zh": "李商隐写过好几首题为《无题》的诗，这是其中一组四首里的第二首。“无题”就是不愿意直接说出题目。这首诗写一位深闺女子对爱情的渴望和失望。写作时间不能确定。有人认为诗里写的是真实的恋情，也有人认为诗人借女子的口吻，写自己在仕途上的失意。",
+  "en": "Li Shangyin wrote several poems called \"Untitled\". This is the second in a set of four. \"Untitled\" means the poet did not want to state the subject openly. The poem shows a young woman shut away at home, longing for love and then losing hope. We do not know when it was written. Some think it describes a real love affair. Others think the poet speaks through a woman's voice about his own failures in his career."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐诗人，和杜牧合称“小李杜”。他的诗词句华美，喜欢用典故，感情细腻，意思常常藏得很深。他的《无题》诗特别有名，很多句子到今天还被人引用。",
+  "en": "Li Shangyin (about 813 to about 858) was a late Tang poet. He and Du Mu are called the Lesser Li and Du. His poems are richly worded, full of old stories, and gentle in feeling, and their meaning is often hidden deep. His \"Untitled\" poems are especially famous, and many lines are still quoted today."
+ },
+ "appreciation": {
+  "zh": "开头是春天的细雨和轻雷，像心里慢慢起了波澜。接着写香炉和水井，这些都是女子每天看到的东西，安静又孤单，“丝”又和“思”同音，处处带着思念。第五、六句用了两个古代爱情故事：一个结局美满，一个只留下遗憾。女子想要爱情，却得不到。最后两句最动人：她劝自己的心不要像春花一样急着开放，因为思念越多，痛苦就越多，就像点燃的香，烧一寸就变成一寸灰。把看不见的相思写成看得见的灰，这是全诗最有名的地方。",
+  "en": "The poem opens with fine spring rain and soft thunder, like feelings slowly stirring. Next come the incense burner and the well, things the woman sees every day, quiet and lonely. The word for rope, si, sounds like the word for longing, so longing is everywhere. Lines five and six use two old love stories: one ends happily, the other leaves only regret. She wants love but cannot have it. The last two lines are the most moving. She tells her heart not to bloom in a hurry like the spring flowers, because the more you long, the more you hurt, just as a burning stick of incense turns to ash inch by inch. Turning invisible longing into ash you can see is what makes this poem famous."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

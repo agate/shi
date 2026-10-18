@@ -1,0 +1,463 @@
+{
+ "id": "ci-95d1958edae5",
+ "kind": "ci",
+ "title": "虞美人·曲阑干外天如水",
+ "title_en": "The Beauty Yu: Beyond the Winding Rail the Sky Is Like Water",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·虞美人（双调）",
+  "en": "ci lyric to the tune Yu Mei Ren, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "比",
+    "bǐ"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "圆",
+    "yuán"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "改",
+    "gǎi"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "懒",
+    "lǎn"
+   ],
+   [
+    "调",
+    "tiáo"
+   ],
+   [
+    "弦",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "“长”在这里同“常”，是“常常”的意思，读 cháng。",
+   "en": "Cháng here means often, the same as another character for often."
+  },
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”在这里是“穿”的意思，读 zhuó，同“着装”的“着”。",
+   "en": "Zhuó here means to wear, as in putting on clothes."
+  },
+  {
+   "line": 6,
+   "pos": 5,
+   "char": "调",
+   "pinyin": "tiáo",
+   "zh": "“调弦”是调整琴弦、弹琴，“调”读 tiáo。",
+   "en": "Tiáo xián means to tune the strings and play, so tiáo is the reading here."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "曲阑干：弯弯曲曲的栏杆。",
+   "en": "qū lán gān: a winding railing."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "天如水：夜空清凉明净，像水一样。",
+   "en": "tiān rú shuǐ: the night sky is cool and clear, like water."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "还曾倚：还曾经靠在那里。倚，靠着。",
+   "en": "hái céng yǐ: once again leaned there. Yǐ means to lean on."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "初将：当初把……",
+   "en": "chū jiāng: at first, took ... and ..."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "佳期：美好的日子，这里指和心上人约定相会的日子。",
+   "en": "jiā qī: a happy day, here the day set to meet one's love."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "长向：常常在……",
+   "en": "cháng xiàng: often, at ..."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "罗衣：丝绸做的衣服。",
+   "en": "luó yī: clothes of silk."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "著破：穿破了。",
+   "en": "zhuó pò: worn until it tears."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "前香在：以前留下的香气还在。",
+   "en": "qián xiāng zài: the old fragrance still lingers."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "旧意：从前的情意。",
+   "en": "jiù yì: old love, the feelings of the past."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "谁教改：谁能让它改变呢？意思是不会改。教，使、让。",
+   "en": "shuí jiào gǎi: who could make it change? It means it never will. Jiào means to make or let."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "一春：整整一个春天。",
+   "en": "yī chūn: a whole spring."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "离恨：因为分离而生的愁苦。",
+   "en": "lí hèn: the sorrow of being apart."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "懒调弦：懒得调弦弹琴，没有心思弹。",
+   "en": "lǎn tiáo xián: too listless to tune the strings and play."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "闲泪：无缘无故流下的泪，其实是忍不住的伤心泪。",
+   "en": "xián lèi: idle tears, tears with no clear reason, really tears she cannot hold back."
+  },
+  {
+   "line": 7,
+   "start": 6,
+   "end": 8,
+   "zh": "宝筝：精美的筝。筝是一种有很多弦的弹拨乐器。",
+   "en": "bǎo zhēng: a fine zheng, a plucked instrument with many strings."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "弯弯的栏杆外面，夜空像水一样清凉，",
+   "en": "Beyond the winding rail, the night sky is clear as water;"
+  },
+  {
+   "zh": "昨天夜里我还曾靠在那里。",
+   "en": "only last night I leaned there again."
+  },
+  {
+   "zh": "当初我把圆圆的明月比作相会的日子，",
+   "en": "At first I took the full moon as the sign of our meeting day,"
+  },
+  {
+   "zh": "所以常常在月圆的时候，盼着你回来。",
+   "en": "so I often watched for your return when the moon was round."
+  },
+  {
+   "zh": "丝衣穿破了，从前的香气还在，",
+   "en": "The silk dress is worn through, yet the old scent remains;"
+  },
+  {
+   "zh": "旧日的情意，谁能让它改变呢？",
+   "en": "who could make my old love change?"
+  },
+  {
+   "zh": "整个春天满是离愁，我懒得调弦弹琴，",
+   "en": "All spring, full of the pain of parting, I have no heart to tune the strings;"
+  },
+  {
+   "zh": "只有两行忍不住的眼泪，落在宝筝前。",
+   "en": "there are only two lines of idle tears, fallen before the zheng."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一位女子在等远方的人回来。她和心上人约好，像月亮圆的时候那样团圆，可是月亮圆了一次又一次，人还没有回来。词里没有说具体的人和事，也说不清写在哪一年。晏几道的许多词都是替女子说话，写她们的思念和忠贞，这首也是这样。",
+  "en": "This ci is about a woman waiting for someone far away to come back. She and her love had hoped to be together again, the way the moon becomes whole. But the moon has grown round again and again, and he has still not returned. The ci names no person or event, and we cannot tell what year it was written. Many of Yan Jidao's ci speak for women, telling of their longing and faithfulness, and this is one of them."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），号小山，北宋词人，是宰相晏殊的第七个儿子。他出身富贵，后来家道中落，只做过小官，性格又清高耿直。他的词多写相思和旧日的欢乐，感情真挚，语言清丽，和父亲合称“二晏”。",
+  "en": "Yan Jidao (about 1038 to about 1110), also called Xiaoshan, was a Northern Song ci poet and the seventh son of the chief minister Yan Shu. He was born into wealth, but his family later declined, and he only held small posts. He was proud and upright. His ci are mostly about longing and lost happy days, sincere in feeling and fresh in language. He and his father are known together as the Two Yans."
+ },
+ "appreciation": {
+  "zh": "开头很安静：栏杆外的夜空像水一样清凉，她昨夜又在那里靠了很久。为什么靠着？因为她把月圆当作团圆的日子，每到月圆就盼人回来，可每一次都落空。下片写她的心：丝衣穿破了，香气还在，就像她的情意，再久也不会变。可是等待太苦，一整个春天她都没心思弹筝，只是坐在筝前默默流泪。“闲泪”两个字说得轻，好像不值一提，其实是说不出口的伤心。",
+  "en": "The opening is quiet. Beyond the railing the night sky is cool like water, and last night she leaned there for a long time again. Why? Because she had taken the full moon as the day of reunion. Every full moon she hoped he would come back, and every time she was let down. The second stanza shows her heart. The silk dress is worn through, but the scent remains, just like her love, which will not change however long it lasts. But waiting is hard. All spring she has had no heart to play, and only sits before the zheng with silent tears. The words idle tears sound light, as if they do not matter, but they hide a sorrow she cannot put into words."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "moon",
+   "love",
+   "waiting"
+  ]
+ },
+ "uncertain": []
+}

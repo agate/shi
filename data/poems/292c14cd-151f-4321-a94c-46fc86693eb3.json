@@ -1,0 +1,359 @@
+{
+ "id": "292c14cd-151f-4321-a94c-46fc86693eb3",
+ "kind": "shi",
+ "title": "秋日赴阙题潼关驿楼",
+ "title_en": "Written on the Tongguan Post Tower on an Autumn Journey to the Capital",
+ "author": "许浑",
+ "author_en": "Xu Hun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "瓢",
+    "piáo"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "华",
+    "huà"
+   ]
+  ],
+  [
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "条",
+    "tiáo"
+   ]
+  ],
+  [
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "迥",
+    "jiǒng"
+   ]
+  ],
+  [
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "遥",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "樵",
+    "qiáo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料库写作“疎雨”，“疎”是“疏”的异体字，通行本写作“疏”。",
+  "en": "The corpus uses an old variant form of the character shū (sparse); common editions use the standard form."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "华",
+   "pinyin": "huà",
+   "zh": "读 huà，“太华”就是华山，山名读 huà。",
+   "en": "Read huà; tài huà is Mount Hua, and the mountain's name is read huà."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "萧萧：风吹树叶的声音。",
+   "en": "xiāo xiāo: the rustling of leaves in the wind."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "长亭：古代路边供人歇脚、送别的亭子。",
+   "en": "cháng tíng: a roadside pavilion where travellers rested and friends said goodbye."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "一瓢：一瓢酒，形容酒不多。",
+   "en": "yī piáo: one ladle of wine, just a little."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "残云：零零散散的云。",
+   "en": "cán yún: scattered, leftover clouds."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "太华：华山，在潼关西边，今天陕西华阴。",
+   "en": "tài huà: Mount Hua, west of Tongguan, in today's Huayin, Shaanxi."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "疏雨：稀稀落落的小雨。",
+   "en": "shū yǔ: a light, scattered rain."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "中条：中条山，在潼关东北，黄河对岸，今天山西南部。",
+   "en": "zhōng tiáo: the Zhongtiao Mountains, northeast of Tongguan across the Yellow River, in southern Shanxi."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "迥：远。",
+   "en": "jiǒng: far."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "河：黄河。",
+   "en": "hé: the Yellow River."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "帝乡：皇帝住的地方，指京城长安。",
+   "en": "dì xiāng: where the emperor lives, the capital Chang'an."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "犹自：仍然，还是。",
+   "en": "yóu zì: still."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "渔樵：打鱼和砍柴，代指在山水间隐居的生活。",
+   "en": "yú qiáo: fishing and cutting wood, standing for a quiet hermit's life among hills and rivers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "傍晚，秋风吹得红叶沙沙作响，",
+   "en": "In the evening, red leaves rustle in the autumn wind;"
+  },
+  {
+   "zh": "我在长亭里喝了一瓢酒。",
+   "en": "at the roadside pavilion I drink a ladle of wine."
+  },
+  {
+   "zh": "零散的云飘回了华山，",
+   "en": "Scattered clouds drift back to Mount Hua;"
+  },
+  {
+   "zh": "稀疏的雨洒过了中条山。",
+   "en": "a light rain passes over the Zhongtiao Mountains."
+  },
+  {
+   "zh": "树木的颜色随着山势伸向远方，",
+   "en": "The colors of the trees stretch far away with the hills;"
+  },
+  {
+   "zh": "黄河的涛声一路流向遥远的大海。",
+   "en": "the roar of the Yellow River flows on toward the distant sea."
+  },
+  {
+   "zh": "明天就要到京城了，",
+   "en": "Tomorrow I will reach the capital,"
+  },
+  {
+   "zh": "我心里却还梦着打鱼砍柴的日子。",
+   "en": "yet I still dream of a life of fishing and cutting wood."
+  }
+ ],
+ "background": {
+  "zh": "“赴阙”就是到京城去。许浑在一个秋天前往长安，途中经过潼关，住在驿站里，登上驿楼写下这首诗，题在楼上。潼关在今天陕西潼关县，是进长安的要道，南边是华山，北边隔着黄河是中条山。这次去京城的具体年份说不清楚。",
+  "en": "Fù què means going to the capital. One autumn, Xu Hun travelled to Chang'an. On the way he passed Tongguan, stayed at the post station, climbed its tower and wrote this poem on its wall. Tongguan, in today's Shaanxi, was the main gateway to Chang'an. Mount Hua lies to its south, and across the Yellow River to the north lie the Zhongtiao Mountains. We do not know the exact year of this trip."
+ },
+ "author_note": {
+  "zh": "许浑（约791—约858），字用晦，晚唐诗人。他特别擅长写律诗，对仗工整，又爱写水、写雨，有人说“许浑千首湿”。他做过地方官，常常想回乡隐居。这首诗里那种“快到京城却想着隐居”的心情，在他的诗里很常见。",
+  "en": "Xu Hun (about 791–about 858) was a late Tang poet. He was very good at regulated verse with neat paired lines, and he loved writing about water and rain, so people joked that his thousand poems were all wet. He served as a local official and often wished to go home and live in retreat. The feeling in this poem, nearing the capital but dreaming of a quiet life, is common in his work."
+ },
+ "appreciation": {
+  "zh": "开头写秋天傍晚，红叶沙沙响，诗人在长亭里喝一点酒，有些冷清。中间四句是全诗最精彩的部分，写的是从潼关驿楼上看到的大景色：南边的华山，北边的中条山，远去的树林，奔流入海的黄河。云在动，雨在动，河水也在动，画面又大又远。最后两句一转：明天就到京城了，按说该高兴，诗人却还梦着打鱼砍柴的隐居生活。这说明他对做官并不那么热心，心里更向往山水之间的自由。",
+  "en": "The poem opens on an autumn evening: red leaves rustle, and the poet drinks a little wine at a roadside pavilion. It feels a bit lonely. The middle four lines are the best part. They show the grand view from the post tower at Tongguan: Mount Hua to the south, the Zhongtiao Mountains to the north, forests stretching away, and the Yellow River rushing to the sea. The clouds move, the rain moves, the river moves, and the scene is vast and far. The last two lines turn: tomorrow he reaches the capital and should be glad, yet he still dreams of fishing and cutting wood. It shows he is not very eager to be an official. His heart longs for the freedom of hills and rivers."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "mountains",
+   "river",
+   "hermit",
+   "autumn-leaves"
+  ]
+ },
+ "uncertain": []
+}

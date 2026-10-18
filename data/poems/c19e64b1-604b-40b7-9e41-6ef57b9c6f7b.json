@@ -1,0 +1,361 @@
+{
+ "id": "c19e64b1-604b-40b7-9e41-6ef57b9c6f7b",
+ "kind": "shi",
+ "title": "别房太尉墓",
+ "title_en": "Farewell at the Tomb of Grand Defender Fang",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "役",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "驻",
+    "zhù"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "坟",
+    "fén"
+   ]
+  ],
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "土",
+    "tǔ"
+   ]
+  ],
+  [
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "棋",
+    "qí"
+   ],
+   [
+    "陪",
+    "péi"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "傅",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "剑",
+    "jiàn"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "徐",
+    "xú"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ],
+  [
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "闻",
+    "wén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料里“棋”作“碁”，“剑”作“劒”，“莺”作“鸎”，都是旧写法（异体字），通行本写作“棋”“剑”“莺”，意思一样。",
+  "en": "The corpus uses old variant forms of the characters for qí (board game), jiàn (sword) and yīng (oriole). The common text uses the standard forms. The meaning is the same."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "他乡：外乡，不是自己家乡的地方。",
+   "en": "tā xiāng: a place far from one's home town."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "复：又。",
+   "en": "fù: again."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "行役：因为公事或生活所迫在外奔走。",
+   "en": "xíng yì: travelling about, driven by duty or need."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "驻马：让马停下来。",
+   "en": "zhù mǎ: to stop one's horse."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "孤坟：孤零零的坟墓，指房琯的墓。",
+   "en": "gū fén: a lonely grave, meaning Fang Guan's tomb."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "近泪无干土：在坟边流泪，泪水把身边的泥土都打湿了，没有一块是干的。",
+   "en": "jìn lèi wú gān tǔ: weeping beside the grave, the tears soak the earth nearby until no dry patch is left."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "断云：一片片散开、断开的云。",
+   "en": "duàn yún: broken clouds, scattered in pieces."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "对棋：面对面下棋。",
+   "en": "duì qí: to sit facing each other over a board game."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "谢傅：东晋宰相谢安，死后被追赠太傅。传说前方打仗时，他和客人下棋，捷报送到，他神色不变。这里用谢安比房琯，说自己当年曾陪房琯下棋。",
+   "en": "xiè fù: Xie An, a prime minister of the Eastern Jin, given the title Grand Tutor after he died. Legend says he was playing a board game with a guest during a great battle, and when news of victory came he stayed perfectly calm. Here Xie An stands for Fang Guan, and Du Fu says he once kept Fang company over the board."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "把剑：拿着剑。",
+   "en": "bǎ jiàn: holding a sword."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "觅徐君：春秋时吴国的季札出使经过徐国，徐国国君很喜欢他的剑，季札心里决定送给他。等他回来，徐君已经死了，季札就把剑挂在徐君墓旁的树上。这里说自己对房琯的情义不变。",
+   "en": "mì xú jūn: looking for the Lord of Xu. In the Spring and Autumn period, Ji Zha of Wu passed through the state of Xu, and its lord loved his sword. Ji Zha silently decided to give it to him. When he came back, the lord had died, so Ji Zha hung the sword on a tree by his tomb. Du Fu means his loyalty to Fang Guan has not changed though Fang is gone."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "唯：只。",
+   "en": "wéi: only."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "莺：黄莺，叫声好听的鸟。",
+   "en": "yīng: the oriole, a bird with a lovely song."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "送客：送别客人，这里的客人指杜甫自己。",
+   "en": "sòng kè: to see off a guest. The guest is Du Fu himself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我在异乡又要四处奔走了，",
+   "en": "Far from home, I must take to the road again."
+  },
+  {
+   "zh": "停下马来，向这座孤零零的坟告别。",
+   "en": "I stop my horse to say goodbye to this lonely grave."
+  },
+  {
+   "zh": "我的眼泪洒下，身边的泥土没有一处是干的；",
+   "en": "My tears fall until there is no dry earth around me,"
+  },
+  {
+   "zh": "低低的天空上，飘着一片片断开的云。",
+   "en": "and in the low sky hang broken clouds."
+  },
+  {
+   "zh": "当年我曾像陪谢安那样，陪您下棋；",
+   "en": "Once I kept you company over the board, as guests did with Xie An."
+  },
+  {
+   "zh": "如今我像季札那样拿着剑，却再也找不到您了。",
+   "en": "Now, like Ji Zha with his sword, I come to find you, but you are gone."
+  },
+  {
+   "zh": "只看见林中的花纷纷飘落，",
+   "en": "All I see are the flowers falling in the woods,"
+  },
+  {
+   "zh": "只听见黄莺的啼声，好像在为我送行。",
+   "en": "and all I hear are orioles singing, as if to see me off."
+  }
+ ],
+ "background": {
+  "zh": "房太尉就是房琯，唐肃宗时做过宰相。757年他被罢免宰相，杜甫上书替他说话，惹怒了肃宗，差点被治罪，后来也被贬出朝廷。763年房琯在阆州（今四川阆中）病死，死后被追赠太尉。第二年（764年），杜甫要离开阆州，特地来到房琯墓前告别，写下了这首诗。",
+  "en": "Grand Defender Fang was Fang Guan, a prime minister under Emperor Suzong. In 757 he was removed from office. Du Fu wrote to the emperor to defend him, which made Suzong angry. Du Fu was nearly punished, and later he too was sent away from court. In 763 Fang Guan died of illness in Langzhou, today's Langzhong in Sichuan, and was given the title Grand Defender after his death. The next year, 764, Du Fu was about to leave Langzhou. He came to Fang's tomb to say goodbye and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他为人重情重义。为了替房琯说话，他丢掉了在朝廷做官的前途，可他从来没有后悔。房琯死后，他写过好几首诗祭奠和怀念他，这首是在墓前告别时写的。",
+  "en": "Du Fu (712–770) was a great Tang poet, often called the Sage of Poetry. He was deeply loyal to his friends. Speaking up for Fang Guan cost him his career at court, but he never regretted it. After Fang died, Du Fu wrote several poems to mourn and remember him. This one was written while saying goodbye at his tomb."
+ },
+ "appreciation": {
+  "zh": "开头说自己在异乡漂泊，又要上路了，临走前停下马来，跟老朋友的孤坟告别。“近泪无干土，低空有断云”是名句：泪水多得把泥土都打湿了，天低低地压着，云也断成一片片，好像天地都在陪他伤心。接着用两个典故：谢安下棋，说房琯有大臣的风度；季札挂剑，说自己对朋友的情义到死也不变。最后不再说话，只写花在落、莺在叫。一切都那么安静，花落和鸟叫反而让人更觉得冷清。悲伤没有说完，就留在这片春天的树林里了。",
+  "en": "The poem begins with Du Fu wandering far from home, about to set off again. Before leaving, he stops his horse to bid farewell to his old friend's lonely grave. The lines about no dry earth and broken clouds are famous. His tears soak the ground, the sky hangs low and the clouds are torn apart, as if heaven and earth shared his grief. Then come two old stories. Xie An playing his calm board game shows Fang Guan's greatness as a minister. Ji Zha hanging his sword shows Du Fu's loyalty, which does not end even with death. At the end he says nothing more. He only shows flowers falling and orioles singing. Everything is so quiet that the falling petals and birdsong make it feel even lonelier. The sorrow is not spoken in full. It stays behind in the spring woods."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mourning",
+   "friendship",
+   "farewell",
+   "loyalty"
+  ]
+ },
+ "uncertain": []
+}

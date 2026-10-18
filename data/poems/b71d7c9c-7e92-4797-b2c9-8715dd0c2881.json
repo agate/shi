@@ -1,0 +1,356 @@
+{
+ "id": "b71d7c9c-7e92-4797-b2c9-8715dd0c2881",
+ "kind": "shi",
+ "title": "与诸子登岘山",
+ "title_en": "Climbing Mount Xian with Friends",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "代",
+    "dài"
+   ],
+   [
+    "谢",
+    "xiè"
+   ]
+  ],
+  [
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "今",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "辈",
+    "bèi"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "泽",
+    "zé"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "羊",
+    "yáng"
+   ],
+   [
+    "公",
+    "gōng"
+   ],
+   [
+    "碑",
+    "bēi"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "读",
+    "dú"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "襟",
+    "jīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料第七句作“羊公碑字在”，通行本（如《唐诗三百首》）作“羊公碑尚在”，这里用通行本。",
+  "en": "The corpus has the seventh line say the characters on Lord Yang's stele remain. The common text, as in Three Hundred Tang Poems, says the stele still stands. This page follows the common text."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "人事：人间的事情。",
+   "en": "rén shì: the affairs of people in the world."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "代谢：新的代替旧的，像季节轮换一样。",
+   "en": "dài xiè: the new replacing the old, like the seasons taking turns."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "往来：过去和将来，一来一去的时光。",
+   "en": "wǎng lái: going and coming, the passing of time."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "胜迹：有名的古迹，这里指岘山上的古迹。",
+   "en": "shèng jì: famous historic sites. Here, the ones on Mount Xian."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "我辈：我们这些人。",
+   "en": "wǒ bèi: people like us."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "复：又。",
+   "en": "fù: again."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "登临：登山游览，爬到高处往远看。",
+   "en": "dēng lín: to climb up high and look out into the distance."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "鱼梁：鱼梁洲，汉水中的一片沙洲，在岘山附近。",
+   "en": "yú liáng: Yuliang Isle, a sandbar in the Han River near Mount Xian."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "梦泽：云梦泽，古代楚地的大湖泽，在今天湖北一带。",
+   "en": "mèng zé: Yunmeng Marsh, a huge lake and marshland of ancient Chu, in today's Hubei."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "羊公碑：西晋的羊祜镇守襄阳时，对百姓很好。他死后，百姓在岘山上为他立了一块碑，看到碑的人都会流泪，所以又叫“堕泪碑”。",
+   "en": "yáng gōng bēi: Lord Yang's stele. Yang Hu of the Western Jin governed Xiangyang and was kind to the people. After he died, they set up a stone tablet for him on Mount Xian. People wept when they saw it, so it was also called the Stele of Falling Tears."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 4,
+   "zh": "尚：还。",
+   "en": "shàng: still."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 2,
+   "zh": "罢：完，结束。",
+   "en": "bà: to finish."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "襟：衣服的前胸部分。",
+   "en": "jīn: the front of a robe."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "人间的事情总是新旧交替，",
+   "en": "Human affairs are always changing, the new replacing the old."
+  },
+  {
+   "zh": "时光一来一去，就成了古往今来的历史。",
+   "en": "Time comes and goes, and so the past and present are made."
+  },
+  {
+   "zh": "江山留下了许多有名的古迹，",
+   "en": "The rivers and mountains keep their famous sites,"
+  },
+  {
+   "zh": "今天我们又来登山游览。",
+   "en": "and today we come to climb and look out once again."
+  },
+  {
+   "zh": "水位下降，鱼梁洲露出了浅滩；",
+   "en": "The water has fallen, and Yuliang Isle shows its shallows."
+  },
+  {
+   "zh": "天气寒冷，远处的云梦泽显得更加深远。",
+   "en": "The weather is cold, and far-off Yunmeng Marsh looks deep and vast."
+  },
+  {
+   "zh": "羊公的碑还立在这里，",
+   "en": "Lord Yang's stele still stands here."
+  },
+  {
+   "zh": "读完碑文，泪水打湿了衣襟。",
+   "en": "When I finish reading it, tears wet the front of my robe."
+  }
+ ],
+ "background": {
+  "zh": "岘山在襄阳（今湖北襄阳）城南，靠着汉水。孟浩然就是襄阳人，岘山是他家乡的名山。山上有西晋名臣羊祜的“堕泪碑”。羊祜当年也常登岘山，还感叹说，自古以来登这座山的贤人多得很，可都已经消失了，没人知道。孟浩然和几位朋友一起登上岘山，看到羊公碑，想起这些往事，写下了这首诗。具体写于哪一年，已经不清楚了。",
+  "en": "Mount Xian is just south of Xiangyang, in today's Hubei, beside the Han River. Meng Haoran was from Xiangyang, so this was a famous hill of his home town. On it stood the Stele of Falling Tears for Yang Hu, a great minister of the Western Jin. Yang Hu often climbed Mount Xian too. He once sighed that countless wise men had climbed this hill since ancient times, and all had vanished without a trace. Meng Haoran climbed the hill with some friends, saw the stele, remembered these old stories and wrote this poem. Which year he wrote it is no longer known."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），襄阳人，唐代著名的山水田园诗人，和王维并称“王孟”。他年轻时隐居在家乡的鹿门山，四十岁左右去长安考进士，没有考中，一生基本没有做官。因为一辈子在家乡附近生活，他对襄阳的山水和古迹特别熟悉，也特别有感情。",
+  "en": "Meng Haoran (689–740) was from Xiangyang. He was a famous Tang poet of landscapes and country life, often named together with Wang Wei. As a young man he lived quietly on Mount Lumen near his home. Around the age of forty he went to Chang'an to take the imperial exam, but failed, and he never really held office. Because he spent most of his life near home, he knew the hills, rivers and old sites of Xiangyang very well, and loved them deeply."
+ },
+ "appreciation": {
+  "zh": "开头两句像一句人生道理：世上的事总在变，一代代人来了又走，就成了历史。接着说，江山还在，古迹还在，而我们又来登山了，就像当年的羊祜一样。中间两句写眼前的冬景：水退了，沙洲露出浅滩；天冷了，远处的大湖泽显得更深更远，一片苍茫。最后看到羊公碑，想到羊祜那么好的人也早已不在，自己却一事无成，不知道以后会不会有人记得，于是忍不住流下泪来。全诗由道理到景物，再到眼泪，把古今之叹写得自然又深沉。",
+  "en": "The first two lines sound like a lesson about life. The world keeps changing. Generation after generation comes and goes, and that becomes history. Then the poet says the land and the old sites are still here, and now we have come to climb, just as Yang Hu did long ago. The middle lines paint a winter scene. The water has gone down, showing the shallows of the sandbar. The air is cold, and the great marsh far away looks deeper and wider, grey and endless. At last the poet sees Lord Yang's stele. Even a man as good as Yang Hu is long gone, while the poet himself has achieved nothing. Will anyone remember him? He cannot hold back his tears. The poem moves from a thought, to a scene, to tears, and its sigh over past and present feels natural and deep."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "climbing",
+   "time",
+   "nostalgia"
+  ]
+ },
+ "uncertain": []
+}

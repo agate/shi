@@ -1,0 +1,349 @@
+{
+ "id": "83dcb67c-ccbc-4592-b232-368a6b5275ce",
+ "kind": "shi",
+ "title": "赋得暮雨送李胄",
+ "title_en": "On the Set Theme \"Evening Rain\", Seeing Off Li Zhou",
+ "author": "韦应物",
+ "author_en": "Wei Yingwu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "建",
+    "jiàn"
+   ],
+   [
+    "业",
+    "yè"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "重",
+    "zhòng"
+   ]
+  ],
+  [
+   [
+    "冥",
+    "míng"
+   ],
+   [
+    "冥",
+    "míng"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "浦",
+    "pǔ"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "含",
+    "hán"
+   ],
+   [
+    "滋",
+    "zī"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "襟",
+    "jīn"
+   ],
+   [
+    "比",
+    "bǐ"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "丝",
+    "sī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "楚江：长江。南京一带古时属于楚国，所以这样叫。",
+   "en": "chǔ jiāng: the Yangtze River. The Nanjing area once belonged to the old state of Chu, hence the name."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "微雨：小雨，毛毛雨。",
+   "en": "wēi yǔ: light rain, drizzle."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "建业：今天的江苏南京，三国时吴国的都城叫建业。",
+   "en": "jiàn yè: today's Nanjing in Jiangsu. It was called Jianye when it was the capital of Wu in the Three Kingdoms period."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "暮钟：傍晚寺庙里敲的钟。",
+   "en": "mù zhōng: the evening bell rung at temples."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "漠漠：雨雾迷蒙、看不清的样子。",
+   "en": "mò mò: misty and blurred, hard to see through."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "帆来重：船帆被雨打湿，显得沉重，船走得很慢。",
+   "en": "fān lái zhòng: the sails come in heavy, soaked with rain, and the boats move slowly."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "冥冥：天色昏暗的样子。",
+   "en": "míng míng: dark and dim."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "鸟去迟：鸟的翅膀沾了雨，飞得很慢。",
+   "en": "niǎo qù chí: the birds fly off slowly, their wings wet with rain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "海门：长江入海的地方。",
+   "en": "hǎi mén: the Sea Gate, where the Yangtze flows into the sea."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "浦树：江边的树。浦，水边。",
+   "en": "pǔ shù: trees on the riverbank. Pǔ means a shore."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "含滋：含着水汽，湿润润的。",
+   "en": "hán zī: holding moisture, soaked and dripping."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "沾襟：泪水打湿了衣襟。襟，衣服胸前的部分。",
+   "en": "zhān jīn: tears wetting the front of the robe. Jīn is the front of a garment."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "比散丝：好比散乱的丝线，指雨丝。西晋张协写过“密雨如散丝”。",
+   "en": "bǐ sàn sī: like scattered threads, meaning threads of rain. The Western Jin poet Zhang Xie once wrote, \"thick rain like scattered silk.\""
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长江笼罩在蒙蒙细雨里，",
+   "en": "The Yangtze lies wrapped in fine rain,"
+  },
+  {
+   "zh": "正是建业城响起晚钟的时候。",
+   "en": "just as the evening bells ring out in Jianye."
+  },
+  {
+   "zh": "雨雾迷蒙，船帆湿透了，慢慢驶来；",
+   "en": "Through the mist come sails, heavy with rain;"
+  },
+  {
+   "zh": "天色昏暗，鸟儿飞得很迟缓。",
+   "en": "in the dark sky the birds fly slowly away."
+  },
+  {
+   "zh": "长江入海的地方太深太远，看不见；",
+   "en": "The river's mouth at the sea is too deep and far to see;"
+  },
+  {
+   "zh": "远处江边的树木，湿漉漉地含着水汽。",
+   "en": "the trees on the far shore drip with moisture."
+  },
+  {
+   "zh": "送别朋友，我的情意没有尽头，",
+   "en": "Seeing you off, my feelings have no end;"
+  },
+  {
+   "zh": "眼泪打湿衣襟，就像这纷乱的雨丝。",
+   "en": "tears wet my robe, like these scattered threads of rain."
+  }
+ ],
+ "background": {
+  "zh": "“赋得”是古人的一种写诗方式：大家聚会时先定一个题目，再按题目写诗。这首诗的题目就是“暮雨”，又用来送别朋友李胄。题目中的人名一作“李曹”。诗里写的是建业，也就是今天南京一带的长江边。李胄是谁、诗写于哪一年，现在都不清楚。",
+  "en": "\"Fu de\" was a way of writing poems in old times. At a gathering, a theme was set first, and then everyone wrote a poem on it. Here the theme was \"Evening Rain\", and the poem was also used to see off a friend, Li Zhou. Some editions give the friend's name as Li Cao. The poem is set on the Yangtze at Jianye, today's Nanjing. We no longer know who Li Zhou was, or in what year the poem was written."
+ },
+ "author_note": {
+  "zh": "韦应物（约737—约791），长安人，唐代诗人。他年轻时在宫里做侍卫，很放纵；后来发愤读书，做过滁州、江州、苏州的刺史，所以人们也叫他“韦苏州”。他的诗清淡安静，很会写山水景物。",
+  "en": "Wei Yingwu (about 737–about 791) came from Chang'an. As a young man he was a palace guard and lived wildly. Later he threw himself into study and served as governor of Chuzhou, Jiangzhou and Suzhou, so he is also called Wei Suzhou. His poems are calm and quiet, and he was very good at painting landscapes in words."
+ },
+ "appreciation": {
+  "zh": "这首诗的题目是“暮雨”，所以几乎每一句都在写雨，却很少直接用“雨”字。第一句是江上的小雨，第二句是傍晚的钟声，一下子把时间和地点都交代了。三四句最妙：船帆因为湿了才“重”，鸟因为湿了才“迟”，没说雨，却处处是雨。五六句把眼光放远：江口看不见，远树湿漉漉的，一片迷茫，就像离别时心里的空落。最后两句才说到送别：我的眼泪和雨丝混在一起，分不清哪是雨，哪是泪。",
+  "en": "The theme of this poem is \"Evening Rain\", so nearly every line is about rain, yet the word itself hardly appears. The first line gives the drizzle on the river, and the second gives the evening bell, setting the time and place at once. Lines three and four are the cleverest. The sails are \"heavy\" because they are wet, and the birds are \"slow\" because they are wet. Rain is never named, but it is everywhere. Lines five and six look into the distance. The river mouth cannot be seen, and the far trees drip. Everything is blurry, like the empty feeling of saying goodbye. Only the last two lines speak of the parting: my tears mix with the threads of rain, and you cannot tell which is which."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "rain",
+   "river",
+   "evening"
+  ]
+ },
+ "uncertain": []
+}

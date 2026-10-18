@@ -1,0 +1,439 @@
+{
+ "id": "8cefa67f-2b9a-4e13-8158-4d38cbfb331b",
+ "kind": "shi",
+ "title": "长沙过贾谊宅",
+ "title_en": "Passing Jia Yi's House in Changsha",
+ "author": "刘长卿",
+ "author_en": "Liu Changqing",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "谪",
+    "zhé"
+   ],
+   [
+    "宦",
+    "huàn"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "悲",
+    "bēi"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "恩",
+    "ēn"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "薄",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "吊",
+    "diào"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "摇",
+    "yáo"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 6,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“恩薄”是恩情少，书面词语里读 bó。",
+   "en": "In en bo (little favour), a written expression, it is read bó."
+  },
+  {
+   "line": 7,
+   "pos": 6,
+   "char": "涯",
+   "pinyin": "yá",
+   "zh": "现在读 yá。这首诗押的是古代的“支”韵，“涯”在古音里和“迟、悲、时、知”同韵，有人读作 yí 来押韵。",
+   "en": "Today it is read yá. The poem rhymes on an old rhyme group, and in old pronunciation this word rhymed with chi, bei, shi and zhi; some readers say yí to keep the rhyme."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "谪宦：被降职、贬到远方做官。",
+   "en": "zhe huan: being demoted and sent to serve far away."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "栖迟：停留、住下来。",
+   "en": "qi chi: to stay, to linger."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "楚客：客居楚地的人，这里指贾谊。贾谊是西汉初年很有才华的年轻大臣，受到排挤，被贬到长沙做长沙王的老师，住了三年多。长沙古时属于楚国。",
+   "en": "Chu ke: a guest in the land of Chu, here meaning Jia Yi. He was a brilliant young minister of the early Western Han who was pushed aside by rivals and sent to Changsha as tutor to its king, staying over three years. Changsha once belonged to the state of Chu."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "人去后：贾谊离开以后。",
+   "en": "ren qu hou: after Jia Yi was gone."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "空见：只看见。",
+   "en": "kong jian: see only."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "汉文：汉文帝，西汉的皇帝，历史上说他是个好皇帝。",
+   "en": "Han Wen: Emperor Wen of Han, remembered as a good emperor."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "有道：治国有方，是个明君。",
+   "en": "you dao: ruling wisely."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "恩犹薄：对贾谊的恩情还是很少。",
+   "en": "en you bo: still showed Jia Yi little favour."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "湘水：湘江，流经长沙。",
+   "en": "Xiang shui: the Xiang River, which flows through Changsha."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "吊岂知：贾谊路过湘江时写文章祭吊屈原，可是屈原哪里知道呢？",
+   "en": "diao qi zhi: Jia Yi wrote a piece mourning Qu Yuan at the Xiang River, but how could Qu Yuan know?"
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "寂寂：冷清、安静。",
+   "en": "ji ji: quiet and lonely."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "摇落：草木凋零，叶子落下。",
+   "en": "yao luo: plants withering and leaves falling."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "怜君：同情你。君，指贾谊，也暗指诗人自己。",
+   "en": "lian jun: I pity you. You means Jia Yi, and quietly the poet himself."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "天涯：天边，极远的地方。",
+   "en": "tian ya: the edge of the sky, the farthest place."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你被贬官，在这里住了三年，",
+   "en": "Demoted and sent away, you stayed here for three years;"
+  },
+  {
+   "zh": "千秋万代只留下你这位楚地客人的悲伤。",
+   "en": "for all the ages, only the sorrow of this guest in Chu remains."
+  },
+  {
+   "zh": "人走了以后，我独自在秋草里寻找你的足迹，",
+   "en": "Long after you left, I search alone through the autumn grass,"
+  },
+  {
+   "zh": "只看见寒冷的树林里，太阳正在西斜。",
+   "en": "and in the cold woods I see only the sun sinking low."
+  },
+  {
+   "zh": "汉文帝是个明君，对你的恩情还是那样少，",
+   "en": "Emperor Wen was a wise ruler, yet he showed you so little favour;"
+  },
+  {
+   "zh": "湘水无情，你祭吊屈原，他哪里知道？",
+   "en": "the Xiang River has no feeling: you mourned Qu Yuan, but how could he know?"
+  },
+  {
+   "zh": "江山一片冷清，草木凋零，",
+   "en": "Here, where rivers and hills lie silent and the leaves fall,"
+  },
+  {
+   "zh": "可怜你，为了什么事被贬到这天边来？",
+   "en": "I pity you: what brought you to this edge of the world?"
+  }
+ ],
+ "background": {
+  "zh": "刘长卿一生两次被贬。这首诗是他在贬谪时路过长沙写的。具体是哪一次，说法不一：一说是第一次被贬南巴途中，一说是唐代宗大历年间第二次被贬的时候。长沙有西汉贾谊的旧宅。贾谊很有才华，却被贬到长沙。刘长卿也是因为被人诬陷而遭贬，看到贾谊的故居，觉得两人命运相似，写下这首诗。",
+  "en": "Liu Changqing was demoted and sent away twice in his life. He wrote this poem while passing through Changsha during an exile. Which exile is not agreed: one view says the first, on the way south to Nanba; another says the second, in the Dali years under Emperor Daizong. Changsha had the old house of Jia Yi of the Western Han. Jia Yi was gifted, yet he too was sent away to Changsha. Liu Changqing had also been falsely accused and punished. Seeing Jia Yi's old home, he felt their fates were alike and wrote this poem."
+ },
+ "author_note": {
+  "zh": "刘长卿（约726—约790），唐代诗人，特别擅长写五言诗，被称为“五言长城”。他做官时性格刚直，得罪了人，两次被贬。所以他的诗里常有失意、孤独的情绪。",
+  "en": "Liu Changqing (about 726 to about 790) was a Tang poet. He was especially good at five-character poems and was called the Great Wall of Five-Character Verse. As an official he was upright and blunt, offended powerful people, and was demoted and sent away twice. So his poems often carry a lonely, disappointed mood."
+ },
+ "appreciation": {
+  "zh": "这首诗表面写贾谊，其实也在写诗人自己。秋草、寒林、斜阳，处处冷清，就像贾谊当年的处境，也像诗人现在的心情。第五句很巧妙：连汉文帝这样的明君都对贾谊这么冷淡，那么当今的皇帝呢？话没说完，意思却很明白。第六句说湘水无情，贾谊吊屈原，屈原听不到；今天诗人吊贾谊，贾谊也听不到。最后一问“何事到天涯”，既是问贾谊，也是问自己，满是委屈和不平。",
+  "en": "On the surface the poem is about Jia Yi, but it is also about the poet. Autumn grass, cold woods and a low sun make everything bleak, like Jia Yi's life back then and the poet's mood now. Line five is clever. If even a wise ruler like Emperor Wen treated Jia Yi so coldly, what about the emperor of today? He does not finish the thought, but the meaning is clear. Line six says the river has no feeling: Jia Yi mourned Qu Yuan, who could not hear him, and now the poet mourns Jia Yi, who cannot hear either. The last question, \"What brought you to this edge of the world?\", is asked of Jia Yi and of himself, full of hurt and a sense of injustice."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "history",
+   "loneliness",
+   "injustice"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,498 @@
+{
+ "id": "ci-3257970fd336",
+ "kind": "ci",
+ "title": "蝶恋花·送春",
+ "title_en": "Butterflies Love Flowers: Seeing Spring Off",
+ "author": "朱淑真",
+ "author_en": "Zhu Shuzhen",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "系",
+    "xì"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "住",
+    "zhù"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "絮",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "川",
+    "chuān"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "宇",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "做",
+    "zuò"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "第四句通行本作“犹自风前飘柳絮”，语料作“独自风前飘柳絮”。这里用通行本。",
+  "en": "In the fourth line the common text has yóu zì, \"still\", where the corpus has dú zì, \"alone\". We follow the common text."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "zh": "“系”在这里读 xì，是拴住、绑住的意思。",
+   "en": "Here this character is read xì, meaning to tie or fasten.",
+   "char": "系",
+   "pinyin": "xì"
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "zh": "“少”在这里读 shǎo，意思是稍微、一会儿，不读 shào。",
+   "en": "Here this character is read shǎo, meaning a little while, not shào.",
+   "char": "少",
+   "pinyin": "shǎo"
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "zh": "“还”在这里读 hái，意思是仍然、还是。",
+   "en": "Here this character is read hái, meaning still, all the same.",
+   "char": "还",
+   "pinyin": "hái"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "垂杨：垂柳，枝条长长地垂下来。",
+   "en": "chuí yáng: weeping willows, with long hanging branches."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "千万缕：成千上万根柳条，像一缕缕丝线。",
+   "en": "qiān wàn lǚ: thousands of willow strands, like threads."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "欲系：想要拴住。",
+   "en": "yù xì: to want to tie down."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "青春：这里指春天。",
+   "en": "qīng chūn: here it means springtime."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "少住：稍微停留一会儿。",
+   "en": "shǎo zhù: to stay a little while."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "犹自：仍然、还在。",
+   "en": "yóu zì: still, even now."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "柳絮：柳树的种子，带着白色绒毛，春末随风飘飞。",
+   "en": "liǔ xù: willow fluff, the willow's seeds with white down that fly in the wind in late spring."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "随春且看：跟着春天去，看看它到底回到哪里。且，姑且、暂且。",
+   "en": "suí chūn qiě kàn: to follow spring for now and see where it goes. Qiě means for the time being."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "绿满山川：山山水水都是一片绿，已是初夏的样子。",
+   "en": "lǜ mǎn shān chuān: hills and rivers all green, as in early summer."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "杜宇：杜鹃鸟，又叫子规。传说是古代蜀国国王杜宇死后变的，叫声很悲，像在说“不如归去”。",
+   "en": "dù yǔ: the cuckoo. Legend says an ancient king of Shu named Du Yu turned into this bird after he died. Its cry is mournful and sounds like \"better to go home\"."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "便做：即使，就算是。",
+   "en": "biàn zuò: even if."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "莫也：难道也……",
+   "en": "mò yě: could it be that... too?"
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "愁人苦：为人的苦而发愁。",
+   "en": "chóu rén kǔ: to grieve over people's sorrow."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "把酒：端着酒杯。",
+   "en": "bǎ jiǔ: holding a cup of wine."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 3,
+   "zh": "却：反而，偏偏。",
+   "en": "què: instead, of all things."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "潇潇：形容风雨声，雨下得又急又密。",
+   "en": "xiāo xiāo: the sound of wind and rain, a heavy, steady rain."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "楼外的垂柳，垂下千万根柳条，",
+   "en": "Outside the tower the weeping willows hang down in thousands of strands."
+  },
+  {
+   "zh": "我想用它们拴住春天，",
+   "en": "I want to use them to tie spring down,"
+  },
+  {
+   "zh": "春天只停了一会儿，还是走了。",
+   "en": "but spring stayed only a little while and left all the same."
+  },
+  {
+   "zh": "柳絮还在风中飘着，",
+   "en": "The willow fluff still drifts before the wind,"
+  },
+  {
+   "zh": "好像要跟着春天，去看看它回到哪里。",
+   "en": "as if following spring to see where it goes home."
+  },
+  {
+   "zh": "山川一片碧绿，耳边传来杜鹃的叫声。",
+   "en": "Green fills the hills and rivers, and I hear the cuckoo cry."
+  },
+  {
+   "zh": "就算杜鹃是无情的鸟，",
+   "en": "Even if the cuckoo has no feelings,"
+  },
+  {
+   "zh": "难道它也在为人的愁苦而悲啼吗？",
+   "en": "could it be grieving for my sorrow too?"
+  },
+  {
+   "zh": "我端起酒杯送别春天，春天却一句话也不说。",
+   "en": "I raise my cup to see spring off, but spring says not a word."
+  },
+  {
+   "zh": "到了黄昏，偏偏又下起了潇潇的雨。",
+   "en": "And at dusk, of all things, a heavy rain begins to fall."
+  }
+ ],
+ "background": {
+  "zh": "这是一首送春词，写春天离去时的不舍。朱淑真一生婚姻不顺，心里常有说不出的愁，所以她写春天的离去，也带着对自己青春流逝的感伤。这首词具体写于哪一年已经不清楚。她的许多作品在她死后被烧掉，留下来的由后人收进《断肠词》。",
+  "en": "This is a lyric about seeing spring off, about not wanting it to leave. Zhu Shuzhen's marriage was unhappy, and she often carried a sorrow she could not speak of. So when she writes about spring leaving, she is also grieving her own youth slipping away. The year it was written is not known. Many of her works were burned after her death. What survives was later gathered into a book called Duanchang Ci, Lyrics of a Broken Heart."
+ },
+ "author_note": {
+  "zh": "朱淑真，号幽栖居士，宋代有名的女词人，一般认为是钱塘（今浙江杭州）人。她的生平记载很少，生卒年也不清楚。据说她婚姻不幸福，一生抑郁。她的诗词感情细腻，多写孤独和愁苦，后人常把她和李清照相提并论。",
+  "en": "Zhu Shuzhen, who called herself the Hermit of Quiet Dwelling, was a well-known woman poet of the Song dynasty, usually said to come from Qiantang, today's Hangzhou. Very little is recorded about her life, and her dates are not known. It is said her marriage was unhappy and she lived in sorrow. Her poems are tender and often about loneliness and grief. People often mention her alongside Li Qingzhao."
+ },
+ "appreciation": {
+  "zh": "这首词把春天当成一个要走的朋友。开头很有想象力：楼外有千万根柳条，她想用柳条把春天拴住，可春天只停了一下，还是走了。柳絮在风里飘，好像舍不得春天，要跟着去看看它到底回哪里。下半首，山川全绿了，杜鹃在叫。她说，杜鹃就算无情，难道也在为人发愁吗？最后她端着酒为春天送行，春天一句话也不说，黄昏时却下起了雨。这场雨，像是春天的回答，也像是她的眼泪。",
+  "en": "This lyric treats spring like a friend who is about to leave. The opening is full of imagination. Outside the tower hang thousands of willow strands, and she wants to use them to tie spring down. But spring stays only a moment and goes anyway. The willow fluff drifts in the wind, as if it cannot bear to part with spring and wants to follow it home. In the second half the hills and rivers are all green, and the cuckoo is crying. She asks: even if the cuckoo has no feelings, is it grieving for people too? At the end she raises a cup to see spring off. Spring says nothing, but at dusk the rain begins to fall. The rain seems like spring's answer, and also like her tears."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell-to-spring",
+   "willow",
+   "cuckoo",
+   "rain",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

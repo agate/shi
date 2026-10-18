@@ -1,0 +1,470 @@
+{
+ "id": "ci-048ba572a421",
+ "kind": "ci",
+ "title": "踏莎行·祖席离歌",
+ "title_en": "Treading on Sedge: Farewell Songs at the Parting Feast",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·踏莎行（双调）",
+  "en": "ci lyric to the tune Ta Suo Xing, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "祖",
+    "zǔ"
+   ],
+   [
+    "席",
+    "xí"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "歌",
+    "gē"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "宴",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "面",
+    "miàn"
+   ]
+  ],
+  [
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "匹",
+    "pǐ"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "嘶",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "棹",
+    "zhào"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "消",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "遍",
+    "biàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "祖席：送别时摆的酒席。古人出远门前要祭路神，叫“祖”，后来送行的酒宴也叫祖席。",
+   "en": "zǔ xí: a farewell feast. In old times people made an offering to the god of roads before a journey, called zǔ, so a send-off feast was named after it."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "离歌：送别时唱的歌。",
+   "en": "lí gē: songs sung at a parting."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "长亭：古时路边供行人歇脚的亭子，常常在这里送别。",
+   "en": "cháng tíng: a roadside pavilion where travelers rested. People often said goodbye there."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "香尘：车马走过扬起的尘土。说它“香”，是一种美称。",
+   "en": "xiāng chén: the dust kicked up by the cart and horses. Calling it fragrant is just a pretty way of speaking."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "已隔：已经被尘土隔开，看不清了。",
+   "en": "yǐ gé: already cut off by the dust, hard to see."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "犹回面：还在回头张望。犹，还；回面，回过头来。",
+   "en": "yóu huí miàn: still turning back to look. Yóu means still; huí miàn means turning one's face back."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "居人：留下来的人，就是送行的人。",
+   "en": "jū rén: the one who stays behind, the one seeing someone off."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "映林嘶：马在树林那边嘶叫，人影被树林遮着，时隐时现。",
+   "en": "yìng lín sī: the horse neighs among the trees, half hidden and half seen."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "行人：出远门的人。",
+   "en": "xíng rén: the one leaving on the journey."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "去棹：远去的船。棹，划船的桨，这里代指船。",
+   "en": "qù zhào: the boat going away. Zhào is an oar, and here it stands for the boat."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "依波转：顺着水波转弯，渐渐看不见了。",
+   "en": "yī bō zhuǎn: following the waves around the bend, slowly out of sight."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "画阁：有彩画装饰的楼阁。",
+   "en": "huà gé: a painted, decorated upper room."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "魂消：伤心得像丢了魂一样。",
+   "en": "hún xiāo: so sad it is as if one's soul has melted away."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "目断：望到眼睛看不见的地方为止，望穿了眼。",
+   "en": "mù duàn: looking until the eyes can see no farther."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "只送：只是送着，好像什么也留不住。",
+   "en": "zhǐ sòng: only seeing it off, as if nothing can be kept."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "平波：平静的水面。",
+   "en": "píng bō: the calm surface of the water."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "天涯地角：天的边上、地的尽头，指非常远的地方。",
+   "en": "tiān yá dì jiǎo: the edge of the sky and the corner of the earth, meaning the farthest places."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "寻思遍：想遍了，思念跟着去到每一个地方。寻思，想念、琢磨。",
+   "en": "xún sī biàn: thinking of every place. The longing follows the traveler everywhere. Xún sī means to think over, to miss."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "送别的酒席上唱起离别的歌，",
+   "en": "At the farewell feast, parting songs are sung,"
+  },
+  {
+   "zh": "在长亭摆下告别的宴席。",
+   "en": "a goodbye banquet laid out at the roadside pavilion."
+  },
+  {
+   "zh": "扬起的尘土已经把人隔开，他还在回头张望。",
+   "en": "The rising dust already comes between us, yet he still turns back to look."
+  },
+  {
+   "zh": "送行人骑的马在树林边嘶叫，",
+   "en": "The horse of the one staying behind neighs by the trees,"
+  },
+  {
+   "zh": "远行人坐的船顺着水波转弯远去。",
+   "en": "while the traveler's boat follows the waves around the bend and away."
+  },
+  {
+   "zh": "在彩画的楼阁里伤心得失了魂，",
+   "en": "In the painted room, the heart is broken;"
+  },
+  {
+   "zh": "登上高楼望到看不见为止。",
+   "en": "from the tall tower, one looks until the eyes can go no farther."
+  },
+  {
+   "zh": "夕阳只是照着平静的水面一直伸向远方。",
+   "en": "The setting sun only lights the calm water stretching far away."
+  },
+  {
+   "zh": "没有尽头的，是这离别的愁苦，",
+   "en": "What has no end at all is the sorrow of parting;"
+  },
+  {
+   "zh": "思念跟着他，想遍了天涯海角。",
+   "en": "the longing goes everywhere, to the ends of the earth."
+  }
+ ],
+ "background": {
+  "zh": "这是一首写送别的词，具体写给谁、写在哪一年，已经说不清了。上片写分别的那一刻：酒席散了，车马扬起尘土，船也顺水走远。下片写人走以后，留下的人登楼远望。一说下片写的是一位在家等候的女子，也有人认为写的就是送行的词人自己。",
+  "en": "This ci is about seeing someone off. We no longer know who it was for or what year it was written. The first stanza shows the moment of parting: the feast ends, the horses raise dust, and the boat drifts away on the water. The second stanza shows what happens after: the one left behind climbs a tower to look into the distance. One reading says the second stanza is about a woman waiting at home. Others think it is the poet himself, who saw his friend off."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），北宋词人，做官做到宰相。他从小就是有名的“神童”，十几岁就被推荐进朝廷。他的词温和雅致，常写闲愁和离别，不用激烈的词句，愁也写得很含蓄。他的儿子晏几道也是著名词人。",
+  "en": "Yan Shu (991–1055) was a Northern Song ci poet who rose to be chief minister. As a boy he was a famous child prodigy and was sent to the court in his early teens. His ci are gentle and graceful. He often wrote about quiet sadness and parting, without strong words, keeping his feelings soft and hidden. His son Yan Jidao was also a famous ci poet."
+ },
+ "appreciation": {
+  "zh": "这首词像一组慢慢拉远的镜头。先是酒席、歌声，人还在眼前；接着车马扬尘，人已经看不清，却还在回头；然后马在林边叫，船在水上转弯，两个人越离越远。到了下片，镜头停在高楼上：人望了又望，只看见夕阳照着平静的水面一直铺向远方。最后两句把愁说透了：这份离愁没有尽头，心跟着那个人走遍了天涯海角。景越远，情越长。",
+  "en": "This ci is like a camera slowly pulling back. First we see the feast and hear the songs, and the friend is still close. Then the dust rises and he can hardly be seen, but he still looks back. Then a horse neighs by the trees and a boat turns a bend in the river, and the two drift farther and farther apart. In the second stanza the camera stops on a tall tower. Someone looks and looks, but sees only the setting sun on the calm water reaching into the distance. The last two lines say it plainly: this sorrow of parting has no end, and the heart follows him to the ends of the earth. The farther the scene goes, the longer the feeling grows."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "parting",
+   "river",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

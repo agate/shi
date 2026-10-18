@@ -1,0 +1,489 @@
+{
+ "id": "f540f519-e3c4-41c2-b299-f1d255977705",
+ "kind": "shi",
+ "title": "宿府",
+ "title_en": "A Night at Headquarters",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "幕",
+    "mù"
+   ],
+   [
+    "府",
+    "fǔ"
+   ],
+   [
+    "井",
+    "jǐng"
+   ],
+   [
+    "梧",
+    "wú"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "蜡",
+    "là"
+   ],
+   [
+    "炬",
+    "jù"
+   ],
+   [
+    "残",
+    "cán"
+   ]
+  ],
+  [
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "看",
+    "kàn"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "荏",
+    "rěn"
+   ],
+   [
+    "苒",
+    "rǎn"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "条",
+    "tiáo"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "难",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "伶",
+    "líng"
+   ],
+   [
+    "俜",
+    "pīng"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "强",
+    "qiǎng"
+   ],
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "息",
+    "xī"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "安",
+    "ān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "现在读 kàn。古代这里读平声，和“寒、残、难、安”押韵，今音可读 kān。",
+   "en": "Read kàn today. In old times it was a level-tone word here, rhyming with hán, cán, nán and ān; some read it kān."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "强",
+   "pinyin": "qiǎng",
+   "zh": "“勉强”的意思，读 qiǎng。",
+   "en": "Meaning reluctantly, read qiǎng."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "宿",
+   "pinyin": "sù",
+   "zh": "住宿、过夜，读 sù。",
+   "en": "Meaning to stay the night, read sù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "清秋：天气清爽的秋天。",
+   "en": "qīng qiū: clear, crisp autumn."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "幕府：将军办公的地方。这里指剑南节度使严武的官署。",
+   "en": "mù fǔ: a general's headquarters. Here, the office of Yan Wu, military governor of the Sichuan region."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "井梧：井边的梧桐树。",
+   "en": "jǐng wú: the parasol tree beside the well."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "江城：江边的城，指成都。",
+   "en": "jiāng chéng: the river city, meaning Chengdu."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "蜡炬残：蜡烛快要烧完了。",
+   "en": "là jù cán: the candle has almost burned down."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "永夜：长夜，整整一夜。",
+   "en": "yǒng yè: the long night, all night through."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "角声：军中号角的声音。",
+   "en": "jiǎo shēng: the sound of the army horn."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "悲自语：悲凉的号角声像在自言自语。",
+   "en": "bēi zì yǔ: the sad horn seems to be talking to itself."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "中天：天空正中。",
+   "en": "zhōng tiān: the middle of the sky."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "好谁看：这么好，有谁来看呢？",
+   "en": "hǎo shuí kàn: so lovely, but who is there to see it?"
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "风尘：战乱。",
+   "en": "fēng chén: war, the wind and dust of fighting."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "荏苒：时间一点点过去。",
+   "en": "rěn rǎn: time slipping by little by little."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "音书绝：亲友的书信断了。",
+   "en": "yīn shū jué: letters from family and friends have stopped coming."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "关塞：关口和边塞，这里指回家的路上要经过的关口。",
+   "en": "guān sài: mountain passes and frontier posts, here the passes on the road home."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "萧条：冷落荒凉。",
+   "en": "xiāo tiáo: bleak and empty."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "忍：忍受。",
+   "en": "rěn: to bear, to endure."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "伶俜：孤单漂泊的样子。",
+   "en": "líng pīng: lonely and drifting."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "十年事：从安史之乱开始到这时，大约十年。",
+   "en": "shí nián shì: the roughly ten years from the start of the An Lushan rebellion to this time."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "强移：勉强搬来。强，勉强。",
+   "en": "qiǎng yí: to move here reluctantly. Qiǎng means against one's will."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 7,
+   "zh": "栖息一枝安：像鸟儿只在一根树枝上暂且安身。出自《庄子》：小鸟在深林里做窝，不过占一根树枝。",
+   "en": "qī xī yī zhī ān: like a small bird resting on just one branch. It comes from the old book Zhuangzi: a little bird nesting in a deep forest needs only one branch."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清冷的秋天，幕府井边的梧桐带着寒意，",
+   "en": "In clear autumn, the parasol tree by the well at headquarters feels cold."
+  },
+  {
+   "zh": "我独自住在江城，蜡烛快要烧完了。",
+   "en": "Alone I spend the night in the river city, and the candle burns low."
+  },
+  {
+   "zh": "长夜里号角声声，悲凉得像在自言自语；",
+   "en": "All night the horn sounds, sad as if talking to itself."
+  },
+  {
+   "zh": "天空正中的月色这么好，又有谁来看呢？",
+   "en": "The moon in the middle of the sky is lovely, but who is there to look?"
+  },
+  {
+   "zh": "战乱中时光流逝，亲友的音信断绝了；",
+   "en": "War goes on and time slips by, and letters no longer come."
+  },
+  {
+   "zh": "关塞冷落荒凉，回乡的路太难走。",
+   "en": "The passes are bleak and empty, and the road home is hard."
+  },
+  {
+   "zh": "十年来孤单漂泊的苦，我都已经忍过来了，",
+   "en": "I have already borne ten years of lonely wandering,"
+  },
+  {
+   "zh": "如今勉强来到这里，像鸟儿找一根树枝暂且安身。",
+   "en": "and now, half against my will, I have come here, like a bird that rests on a single branch."
+  }
+ ],
+ "background": {
+  "zh": "唐代宗广德二年（764年），杜甫的老朋友严武担任剑南节度使，推荐杜甫做他幕府里的参谋，杜甫就在成都的幕府里工作。幕府事情多，规矩严，同事之间也不太融洽，杜甫常常住在府里，心情很不好。一个秋夜，他独自住在幕府，写下了这首诗。",
+  "en": "In 764, Du Fu's old friend Yan Wu became military governor of the Sichuan region. He made Du Fu an adviser at his headquarters, so Du Fu went to work there in Chengdu. The work was busy, the rules were strict, and he did not get along well with some colleagues. He often had to stay overnight at headquarters, and he was unhappy. One autumn night, alone there, he wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。安史之乱以后，他带着家人四处漂泊，从陕西、甘肃一路到了四川。他在成都住了好几年，靠朋友帮助生活。在严武幕府只待了几个月，他就辞职回到草堂。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. After the An Lushan rebellion he wandered with his family from Shaanxi and Gansu all the way to Sichuan. He lived in Chengdu for several years with help from friends. He stayed at Yan Wu's headquarters for only some months before resigning and going back to his thatched cottage."
+ },
+ "appreciation": {
+  "zh": "开头两句就把人带进一个冷清的秋夜：井边梧桐带着寒气，一个人守着快烧完的蜡烛。第三、四句是名句，句式很特别，要这样读：“永夜角声——悲——自语，中天月色——好——谁看”。号角声很悲，却只能自己对自己说；月色很好，却没人一起看。一个“悲”，一个“好”，都落到孤独上。后四句说出原因：打仗多年，家人音信不通，回乡的路又难走，十年漂泊都熬过来了，如今只好像小鸟一样，暂时在这里找一根树枝落脚。语气平静，心里却很苦。",
+  "en": "The first two lines bring us into a cold, lonely autumn night: the parasol tree by the well is chilly, and a man sits alone by a candle that is nearly gone. The third and fourth lines are famous. Their rhythm is unusual and reads like this: \"all night the horn, so sad, talks to itself; in mid-sky the moon, so lovely, but who looks?\" The horn is sad, yet can only talk to itself. The moon is lovely, yet no one shares it. The sad and the lovely both end in loneliness. The last four lines give the reasons. Years of war, no letters from family, a hard road home. He has endured ten years of wandering, and now, like a small bird, he can only rest on one branch for a while. His tone is calm, but his heart is full of pain."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "loneliness",
+   "war",
+   "moon",
+   "homesick"
+  ]
+ },
+ "uncertain": []
+}

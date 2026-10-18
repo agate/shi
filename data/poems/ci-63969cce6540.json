@@ -1,0 +1,923 @@
+{
+ "id": "ci-63969cce6540",
+ "kind": "ci",
+ "title": "夏云峰·天阔云高",
+ "title_en": "To the Tune Xia Yun Feng: The Sky Is Wide, the Clouds Are High",
+ "author": "仲殊",
+ "author_en": "Zhongshu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "阔",
+    "kuò"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "晕",
+    "yùn"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "嫩",
+    "nèn"
+   ]
+  ],
+  [
+   [
+    "悔",
+    "huǐ"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "旋",
+    "xuán"
+   ],
+   [
+    "占",
+    "zhàn"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "芳",
+    "fāng"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "沉",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "慵",
+    "yōng"
+   ],
+   [
+    "困",
+    "kùn"
+   ]
+  ],
+  [
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "韶",
+    "sháo"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "斗",
+    "dòu"
+   ],
+   [
+    "损",
+    "sǔn"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "品",
+    "pǐn"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "怀",
+    "huái"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "全",
+    "quán"
+   ],
+   [
+    "近",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "态",
+    "tài"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "莱",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "纵",
+    "zòng"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "则",
+    "zé"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "闷",
+    "mèn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": {
+  "zh": "这首词不常见，没有课本版本，这里基本按原始资料。原始资料“终羞人间”的“间”，按押韵（韵脚是晕、嫩、恨、困、问、信、闷等）应是“问”，很可能是繁体“問”“間”相近造成的误字，这里改作“问”。“馀芳”“馀香”按现在的简体写作“余芳”“余香”，“阴沈”写作“阴沉”。下片第一句有的版本作“却几日阴沉”。",
+  "en": "This lyric is not in textbooks, so the source text is mostly kept. In line 16 the source has \"world\", but the rhyme calls for \"ask\", which looks very similar in traditional script, so this text uses \"ask\". Three characters are written in today's standard simplified forms. Some editions begin the second stanza with a different first character (\"but\" instead of \"all\")."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "晕",
+   "pinyin": "yùn",
+   "zh": "晕，太阳周围的光圈，读 yùn。",
+   "en": "Read yùn, a halo of light around the sun."
+  },
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "却",
+   "pinyin": "què",
+   "zh": "过却：过去了。“却”放在动词后，读 què。",
+   "en": "After a verb it means \"away\", read què."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "旋",
+   "pinyin": "xuán",
+   "zh": "旋，很快、随即，读 xuán。",
+   "en": "Read xuán, meaning soon, right away."
+  },
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "占",
+   "pinyin": "zhàn",
+   "zh": "占，占有、享有，读 zhàn。",
+   "en": "Read zhàn, meaning to take, to enjoy."
+  },
+  {
+   "line": 11,
+   "pos": 5,
+   "char": "斗",
+   "pinyin": "dòu",
+   "zh": "斗，这里指眉头紧紧皱在一起，读 dòu。",
+   "en": "Read dòu here, of eyebrows drawn tight together."
+  },
+  {
+   "line": 15,
+   "pos": 0,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "厌厌：同“恹恹”，没精神的样子，读 yān yān。",
+   "en": "Read yān yān, meaning listless, low in spirits."
+  },
+  {
+   "line": 15,
+   "pos": 1,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "厌厌，第二个字也读 yān。",
+   "en": "The second character is also read yān."
+  },
+  {
+   "line": 16,
+   "pos": 0,
+   "char": "争",
+   "pinyin": "zhēng",
+   "zh": "争，同“怎”，怎么，读 zhēng。",
+   "en": "Read zhēng; in old lyrics it means \"how\"."
+  },
+  {
+   "line": 17,
+   "pos": 2,
+   "char": "了",
+   "pinyin": "le",
+   "zh": "这里读 le。也有人读 liǎo，表示“完全忘掉”。",
+   "en": "Read le here. Some read it liǎo, meaning \"forget completely\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "溪横：溪水横着流过。",
+   "en": "xī héng: a stream runs across the view."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "轻晕：淡淡的光圈。",
+   "en": "qīng yùn: a faint halo of light."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "闲阶：没有人来往的台阶。",
+   "en": "xián jiē: quiet steps where no one walks."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "杨花：柳絮，春末柳树飘出的白色绒毛。",
+   "en": "yáng huā: willow fluff, the white down that floats from willows in late spring."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "朱门：红漆的大门，指富贵人家。",
+   "en": "zhū mén: red-painted gates, the home of a rich family."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 7,
+   "zh": "莺声犹嫩：黄莺的叫声还很稚嫩。莺，黄莺，一种叫声好听的鸟。",
+   "en": "yīng shēng yóu nèn: the orioles' songs still sound young. Yīng is the oriole, a bird with a sweet song."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 7,
+   "zh": "过却清明：清明节已经过去了。",
+   "en": "guò què qīng míng: the Qingming festival has gone by."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "余芳：剩下的花，残春的美好。",
+   "en": "yú fāng: the last flowers, what is left of spring."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "幽恨：藏在心里的愁恨。",
+   "en": "yōu hèn: a hidden sorrow."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "连宵慵困：一连几夜都懒洋洋、没精神。宵，夜。",
+   "en": "lián xiāo yōng kùn: night after night, tired and listless. Xiāo means night."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "韶华：美好的春光。",
+   "en": "sháo huá: the lovely days of spring."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 7,
+   "zh": "闲斗损：无缘无故把眉头皱得紧紧的。损，表示程度很深。",
+   "en": "xián dòu sǔn: brows knitted hard for no clear reason. Sǔn shows how much."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 5,
+   "zh": "乍品得情怀：刚刚体会到那份感情。乍，刚刚。",
+   "en": "zhà pǐn dé qíng huái: just beginning to taste that feeling. Zhà means just now."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "看承：看待、照顾。",
+   "en": "kàn chéng: to treat, to care for."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "全近：十分亲近。",
+   "en": "quán jìn: very close."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 7,
+   "zh": "无非自许：只是自己心里认定了。许，答应、认定。",
+   "en": "wú fēi zì xǔ: only a promise made in one's own heart."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 7,
+   "zh": "终羞人问：总是怕别人问起，觉得难为情。",
+   "en": "zhōng xiū rén wèn: always shy when others ask."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "争知道：怎么知道，哪里想得到。",
+   "en": "zhēng zhī dào: who would have thought?"
+  },
+  {
+   "line": 16,
+   "start": 5,
+   "end": 7,
+   "zh": "蓬莱：传说中海上的仙山。这里指梦中和心上人相会的美好地方。",
+   "en": "péng lái: Penglai, a fairy island in old legends. Here, the lovely place where one meets the loved one in dreams."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 5,
+   "zh": "余香：留下的香气，比喻对那个人的回忆。",
+   "en": "yú xiāng: a lingering scent, standing for memories of that person."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "时传音信：不时传来消息。",
+   "en": "shí chuán yīn xìn: news comes now and then."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 1,
+   "zh": "纵：即使。",
+   "en": "zòng: even if."
+  },
+  {
+   "line": 19,
+   "start": 3,
+   "end": 5,
+   "zh": "莺花：黄莺和花，代指春天。",
+   "en": "yīng huā: orioles and flowers, meaning spring."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 2,
+   "zh": "也则：也只是。",
+   "en": "yě zé: still only."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天空辽阔，白云高高，",
+   "en": "The sky is wide, the clouds are high."
+  },
+  {
+   "zh": "溪水横流，伸向远方。",
+   "en": "A stream runs across, its water reaching far."
+  },
+  {
+   "zh": "傍晚的太阳带着凉意，周围有一圈淡淡的光晕。",
+   "en": "The evening sun turns chilly, with a faint halo around it."
+  },
+  {
+   "zh": "没人走的台阶静悄悄，柳絮渐渐少了，",
+   "en": "The quiet steps are still; the willow fluff grows thin."
+  },
+  {
+   "zh": "红色的大门关着，黄莺的叫声还很稚嫩。",
+   "en": "The red gates are shut; the orioles' songs still sound young."
+  },
+  {
+   "zh": "后悔清明节匆匆就过去了，",
+   "en": "I regret how fast Qingming went by."
+  },
+  {
+   "zh": "刚刚赶上享受剩下的春花，",
+   "en": "I had only just begun to enjoy the last flowers"
+  },
+  {
+   "zh": "这一切就已经变成了心底的愁恨。",
+   "en": "when it all became a hidden sorrow."
+  },
+  {
+   "zh": "这几天总是阴沉沉的，",
+   "en": "These few days have all been gray,"
+  },
+  {
+   "zh": "一连几夜都懒洋洋、没精神。",
+   "en": "and night after night I feel heavy and tired."
+  },
+  {
+   "zh": "起床一看，美好的春光全没了。",
+   "en": "I get up, and the lovely spring is gone."
+  },
+  {
+   "zh": "愁怨爬上两道眉毛，无缘无故皱得紧紧的。",
+   "en": "Sorrow climbs into my brows and knits them tight for no reason."
+  },
+  {
+   "zh": "刚刚体会到那份感情，",
+   "en": "I had just begun to taste that feeling,"
+  },
+  {
+   "zh": "彼此相待十分亲近。",
+   "en": "and we treated each other with such closeness."
+  },
+  {
+   "zh": "那深深的情意，只是自己心里认定了；",
+   "en": "That deep love was only a promise in my own heart."
+  },
+  {
+   "zh": "那恹恹的心事，总怕别人问起。",
+   "en": "That heavy heart was always shy of others' questions."
+  },
+  {
+   "zh": "哪里想得到，在梦里那仙山一样的地方，",
+   "en": "Who would have thought that from the fairy island of my dreams,"
+  },
+  {
+   "zh": "正要忘掉那留下的香气时，",
+   "en": "just as I was about to forget the lingering scent,"
+  },
+  {
+   "zh": "又不时传来消息。",
+   "en": "news would come now and then?"
+  },
+  {
+   "zh": "即使留得住黄莺和春花，",
+   "en": "Even if the orioles and flowers could stay,"
+  },
+  {
+   "zh": "东风却不肯停下，",
+   "en": "the east wind will not stop,"
+  },
+  {
+   "zh": "眼前也只有愁闷罢了。",
+   "en": "and before my eyes there is only sorrow."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是暮春时节，清明刚过，花快落完了，人心里生出的伤春之情，下片又写对一个人的思念。这首词具体写于什么时候、为谁而写，已经不清楚了。词牌“夏云峰”是曲调的名字，和词的内容没有关系。这首词收在近人编的《宋词三百首》里。",
+  "en": "This lyric is set in late spring, just after Qingming, when the flowers are nearly gone. It is about the sadness of spring passing, and the second stanza adds longing for someone. When and for whom it was written is no longer known. The tune name, Xia Yun Feng (\"Summer Cloud Peaks\"), is just the name of the melody and has nothing to do with the content. The lyric is included in the modern anthology Three Hundred Song Lyrics."
+ },
+ "author_note": {
+  "zh": "仲殊，北宋僧人，俗姓张，名挥，安州（今湖北安陆）人。他出家以后住过苏州、杭州的寺庙，和苏轼有来往。他虽然是和尚，却很会写词，词风细腻柔美，常写春景和男女之间的感情。",
+  "en": "Zhongshu was a Buddhist monk of the Northern Song. His family name was Zhang and his given name Hui, and he came from Anzhou, today's Anlu in Hubei. As a monk he lived in temples in Suzhou and Hangzhou, and he knew Su Shi. Though a monk, he wrote fine lyrics, soft and delicate, often about spring scenes and love."
+ },
+ "appreciation": {
+  "zh": "上片先画一幅暮春的画：天高云远，溪水长流，夕阳带着凉意。台阶上没人，柳絮快飘完了；红门关着，只有黄莺在叫。诗人后悔清明过得太快，刚想抓住最后的春天，它就变成了心里的遗憾。下片转到心事：一连几天阴天，人没精神，起床时春天已经走了，眉头不由得皱起来。原来他心里还想着一个人，那份感情藏得很深，怕别人问。正想忘掉，偏偏又有消息传来。最后说：就算春天留得住，风也不会停，眼前还是满满的愁。景和情交织在一起，春天的消逝和感情的难舍相互映照。",
+  "en": "The first stanza paints late spring. The sky is high, the clouds far off, the stream flows on, and the evening sun turns chilly. No one is on the steps, and the willow fluff is almost gone. The red gates are shut, and only the orioles sing. The poet regrets that Qingming went by so fast. Just as he tries to hold on to the last of spring, it turns into a sorrow in his heart. The second stanza turns inward. Days of gray sky leave him tired. When he gets up, spring has gone, and his brows knit by themselves. In fact he is thinking of someone. That love is hidden deep, and he is shy when people ask. Just as he is about to forget, news arrives again. At last he says: even if spring could stay, the wind will not stop, and there is still only sorrow before his eyes. Scene and feeling are woven together; the passing of spring mirrors a love that is hard to let go."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "longing",
+   "love",
+   "sorrow"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "lines",
+   "zh": "这首词版本少，原始资料有误字。“终羞人问”是按押韵从“人间”改的；下片首字“都”有的版本作“却”，没有找到可靠的通行本核对。",
+   "en": "Few editions of this lyric exist and the source has errors. \"Ask\" in line 16 is a correction made from the rhyme. The first character of the second stanza differs between editions. No reliable standard text was available to check."
+  },
+  {
+   "field": "appreciation",
+   "zh": "下片“看承全近”“深深态无非自许”等句意思不好确定，说话人是男是女、写的是谁，也有不同理解，这里的翻译和赏析只是一种读法。",
+   "en": "Several lines in the second stanza are hard to pin down, and it is unclear whether the speaker is a man or a woman, or whom the lyric is about. The translation and appreciation here are only one reading."
+  },
+  {
+   "field": "author_note",
+   "zh": "仲殊的生平资料不多，籍贯、俗名等依据宋人笔记，可能不完全准确。",
+   "en": "Little is known about Zhongshu's life. His home town and lay name come from Song notebooks and may not be fully accurate."
+  }
+ ]
+}

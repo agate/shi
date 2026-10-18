@@ -1,0 +1,245 @@
+{
+ "id": "52598ca7-8d4b-40c4-9814-e82a51ec379d",
+ "kind": "shi",
+ "title": "浪淘沙（其一）",
+ "title_en": "Waves Washing Sand (No. 1)",
+ "author": "刘禹锡",
+ "author_en": "Liu Yuxi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "沙",
+    "shā"
+   ]
+  ],
+  [
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "淘",
+    "táo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "簸",
+    "bǒ"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "牵",
+    "qiān"
+   ],
+   [
+    "牛",
+    "niú"
+   ],
+   [
+    "织",
+    "zhī"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "曲：这里是“弯曲”的意思，读 qū，不读 qǔ。",
+   "en": "qū: here it means \"bend\", so it is read qū, not qǔ."
+  },
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "簸",
+   "pinyin": "bǒ",
+   "zh": "簸：这里是“颠簸、扬起”的意思，读 bǒ。",
+   "en": "bǒ: here it means to toss and shake, read bǒ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "九曲：很多道弯。九，表示多，不是正好九个。",
+   "en": "jiǔ qū: many bends. \"Nine\" just means many, not exactly nine."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "万里沙：黄河从很远的地方流来，一路带着大量泥沙。",
+   "en": "wàn lǐ shā: the Yellow River flows from far away, carrying huge amounts of sand and mud."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "浪淘风簸：被浪冲洗，被风吹得上下翻动。淘，冲洗；簸，颠簸、扬动。",
+   "en": "làng táo fēng bǒ: washed by the waves and tossed by the wind. Táo means to wash; bǒ means to toss up and down."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "自天涯：从天边来。天涯，天的尽头，非常远的地方。",
+   "en": "zì tiān yá: from the edge of the sky, from very far away."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "银河：夜空中一条白茫茫的星带。古人传说黄河和天上的银河是相通的。",
+   "en": "yín hé: the Milky Way, the pale band of stars in the night sky. People in old times said the Yellow River was linked to the Milky Way."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 6,
+   "zh": "牵牛织女：牛郎和织女，神话里住在银河两岸的一对夫妻，也是两颗星的名字。",
+   "en": "qiān niú zhī nǚ: the Cowherd and the Weaver Girl, a couple in an old myth who live on the two banks of the Milky Way. They are also the names of two stars."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "弯弯曲曲的黄河，带着万里泥沙，",
+   "en": "The Yellow River, with its many bends, carries sand for ten thousand li."
+  },
+  {
+   "zh": "被浪冲洗，被风翻卷，从天边奔流而来。",
+   "en": "Washed by waves and tossed by wind, it comes from the edge of the sky."
+  },
+  {
+   "zh": "现在就让我顺着黄河直上银河，",
+   "en": "Now let me ride it straight up to the Milky Way,"
+  },
+  {
+   "zh": "一起到牛郎和织女的家里去做客。",
+   "en": "And go together to the home of the Cowherd and the Weaver Girl."
+  }
+ ],
+ "background": {
+  "zh": "《浪淘沙》本来是唐代民间的一种曲子，刘禹锡用它写了九首诗，这是第一首。古代有个传说：黄河和天上的银河相连，有人坐着木筏顺水而上，一直漂到了天河，见到了牛郎和织女。诗人借这个传说写黄河。这组诗具体写于什么时候，说法不一。",
+  "en": "\"Waves Washing Sand\" was a folk tune of the Tang. Liu Yuxi wrote nine poems to it, and this is the first. An old legend says the Yellow River is joined to the Milky Way in the sky. Someone once rode a raft up the river and floated all the way to the river of stars, where he met the Cowherd and the Weaver Girl. The poet uses this legend to write about the Yellow River. Scholars disagree about when the set was written."
+ },
+ "author_note": {
+  "zh": "刘禹锡（772—842），唐代诗人，和白居易是好朋友，被称为“诗豪”。他因为参加改革，被贬到偏远的地方二十多年，却一直很乐观。他喜欢学习民歌，写了很多清新好懂的诗，比如《竹枝词》和这组《浪淘沙》。",
+  "en": "Liu Yuxi (772–842) was a Tang poet and a close friend of Bai Juyi. People called him the Hero of Poetry. Because he took part in a reform, he was sent away to remote places for over twenty years, yet he stayed cheerful. He loved folk songs and wrote many fresh, easy poems in their style, such as his \"Bamboo Branch Songs\" and this set."
+ },
+ "appreciation": {
+  "zh": "前两句写黄河的样子：弯弯曲曲，带着万里的泥沙，被风浪推着，从天边滚滚而来。你可以想象站在河边，看见浑黄的河水从很远的地方涌过来。后两句忽然飞上了天：既然黄河从天边来，那就顺着它一直往上，去银河，去牛郎织女家里看看。这个想象又大胆又好玩，好像诗人在说：我不怕路远，我要去最远最美的地方。整首诗气势很大，又带着民歌的轻快。",
+  "en": "The first two lines show the Yellow River: bending again and again, carrying sand for ten thousand li, pushed by wind and waves, rolling in from the edge of the sky. Picture yourself on the bank, watching the muddy yellow water rush in from far away. Then the last two lines suddenly fly into the sky. If the river comes from the sky's edge, why not follow it all the way up to the Milky Way and visit the Cowherd and the Weaver Girl? The idea is bold and playful, as if the poet were saying, \"I am not afraid of the long road. I want to go to the farthest, loveliest place.\" The poem feels grand, and light like a folk song."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "yellow-river",
+   "river",
+   "legend",
+   "stars"
+  ]
+ },
+ "uncertain": []
+}

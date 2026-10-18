@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>阮郎归·旧香残粉似当初 · 晏几道 — 诗</title>
+    <meta name="description" content="阮郎归·旧香残粉似当初 · 晏几道 — Ruan Lang Gui: The Old Scent and Faded Powder Are as Before by Yan Jidao: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>阮郎归·旧香残粉似当初</h1>
+        <p class="by">晏几道<span class="mono"><span lang="en">Yan Jidao · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Ruan Lang Gui: The Old Scent and Faded Powder Are as Before</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>jiù</i><b>旧</b></span><span class="c gl" data-l="0" data-p="1"><i>xiāng</i><b>香</b></span><span class="c gl" data-l="0" data-p="2"><i>cán</i><b>残</b></span><span class="c gl" data-l="0" data-p="3"><i>fěn</i><b>粉</b></span><span class="c gl" data-l="0" data-p="4"><i>sì</i><b>似</b></span><span class="c gl" data-l="0" data-p="5"><i>dāng</i><b>当</b></span><span class="c gl" data-l="0" data-p="6"><i>chū</i><b>初</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>rén</i><b>人</b></span><span class="c gl" data-l="1" data-p="1"><i>qíng</i><b>情</b></span><span class="c gl" data-l="1" data-p="2"><i>hèn</i><b>恨</b></span><span class="c gl" data-l="1" data-p="3"><i>bù</i><b>不</b></span><span class="c gl" data-l="1" data-p="4"><i>rú</i><b>如</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yī</i><b>一</b></span><span class="c gl" data-l="2" data-p="1"><i>chūn</i><b>春</b></span><span class="c" data-l="2" data-p="2"><i>yóu</i><b>犹</b></span><span class="c" data-l="2" data-p="3"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="2" data-p="4"><i>shù</i><b>数</b></span><span class="c gl rd" data-l="2" data-p="5"><i>háng</i><b>行</b></span><span class="c gl" data-l="2" data-p="6"><i>shū</i><b>书</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>qiū</i><b>秋</b></span><span class="c" data-l="3" data-p="1"><i>lái</i><b>来</b></span><span class="c" data-l="3" data-p="2"><i>shū</i><b>书</b></span><span class="c" data-l="3" data-p="3"><i>gèng</i><b>更</b></span><span class="c gl" data-l="3" data-p="4"><i>shū</i><b>疏</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>qīn</i><b>衾</b></span><span class="c gl" data-l="4" data-p="1"><i>fèng</i><b>凤</b></span><span class="c" data-l="4" data-p="2"><i>lěng</i><b>冷</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>zhěn</i><b>枕</b></span><span class="c gl" data-l="5" data-p="1"><i>yuān</i><b>鸳</b></span><span class="c" data-l="5" data-p="2"><i>gū</i><b>孤</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="6" data-p="1"><i>cháng</i><b>肠</b></span><span class="c gl" data-l="6" data-p="2"><i>dài</i><b>待</b></span><span class="c gl" data-l="6" data-p="3"><i>jiǔ</i><b>酒</b></span><span class="c gl" data-l="6" data-p="4"><i>shū</i><b>舒</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>mèng</i><b>梦</b></span><span class="c gl" data-l="7" data-p="1"><i>hún</i><b>魂</b></span><span class="c gl" data-l="7" data-p="2"><i>zòng</i><b>纵</b></span><span class="c gl" data-l="7" data-p="3"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="7" data-p="4"><i>yě</i><b>也</b></span><span class="c gl" data-l="7" data-p="5"><i>chéng</i><b>成</b></span><span class="c gl" data-l="7" data-p="6"><i>xū</i><b>虚</b></span></p><p class="ln"><span class="c gl rd" data-l="8" data-p="0"><i>nǎ</i><b>那</b></span><span class="c gl" data-l="8" data-p="1"><i>kān</i><b>堪</b></span><span class="c gl" data-l="8" data-p="2"><i>hé</i><b>和</b></span><span class="c gl" data-l="8" data-p="3"><i>mèng</i><b>梦</b></span><span class="c gl" data-l="8" data-p="4"><i>wú</i><b>无</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">旧香残粉似当初</span><span lang="en">The old scent and the leftover powder are just as they were,</span><span lang="zh">旧日的香气、剩下的脂粉，还和当初一样，</span></li><li><span class="o">人情恨不如</span><span lang="en">but sadly his feelings have not lasted as well.</span><span lang="zh">可恨的是人的情意反倒比不上它们。</span></li><li><span class="o">一春犹有数行书</span><span lang="en">All spring there were still a few short letters,</span><span lang="zh">整个春天，还能收到几封短短的信，</span></li><li><span class="o">秋来书更疏</span><span lang="en">but now that autumn has come, they are even rarer.</span><span lang="zh">到了秋天，信就更少了。</span></li><li class="brk"><span class="o">衾凤冷</span><span lang="en">The phoenix quilt is cold,</span><span lang="zh">绣着凤凰的被子冰凉，</span></li><li><span class="o">枕鸳孤</span><span lang="en">the mandarin-duck pillow lies alone,</span><span lang="zh">绣着鸳鸯的枕头孤单，</span></li><li><span class="o">愁肠待酒舒</span><span lang="en">and my sad heart waits for wine to ease it.</span><span lang="zh">满心的忧愁，只能靠酒来稍稍放开。</span></li><li><span class="o">梦魂纵有也成虚</span><span lang="en">Even if we meet in a dream, it all turns to nothing,</span><span lang="zh">就算在梦里相见，醒来也是一场空，</span></li><li><span class="o">那堪和梦无</span><span lang="en">and how can I bear it, now that not even the dream will come?</span><span lang="zh">更让人受不了的是，现在连梦都做不成了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>旧香残粉<span class="mono">jiù xiāng cán fěn</span></dt><dd><span lang="en">jiù xiāng cán fěn: the old perfume and leftover face powder, things from the past. One reading says it is the scent and powder left on letters and clothes.</span><span lang="zh">旧香残粉：他留下的旧香气、她用剩的脂粉，都是从前的东西。一说指信纸、衣物上留下的香和粉。</span></dd></div><div><dt>似当初<span class="mono">sì dāng chū</span></dt><dd><span lang="en">sì dāng chū: just as they were at first.</span><span lang="zh">似当初：和当初一样。</span></dd></div><div><dt>人情恨不如<span class="mono">rén qíng hèn bù rú</span></dt><dd><span lang="en">rén qíng hèn bù rú: the sad thing is that his feelings cannot match them; they have faded.</span><span lang="zh">人情恨不如：可恨的是人的情意反倒比不上这些东西，变淡了。</span></dd></div><div><dt>一春<span class="mono">yī chūn</span></dt><dd><span lang="en">yì chūn: the whole spring.</span><span lang="zh">一春：整个春天。</span></dd></div><div><dt>数行书<span class="mono">shù háng shū</span></dt><dd><span lang="en">shù háng shū: a letter of a few lines.</span><span lang="zh">数行书：几行字的信。</span></dd></div><div><dt>疏<span class="mono">shū</span></dt><dd><span lang="en">shū: few and far between. Here, his letters come even less often.</span><span lang="zh">疏：稀少。这里说来信更少了。</span></dd></div><div><dt>衾凤<span class="mono">qīn fèng</span></dt><dd><span lang="en">qīn fèng: a quilt embroidered with phoenixes. Qīn is a quilt.</span><span lang="zh">衾凤：绣着凤凰的被子。衾，被子。</span></dd></div><div><dt>枕鸳<span class="mono">zhěn yuān</span></dt><dd><span lang="en">zhěn yuān: a pillow embroidered with mandarin ducks. These ducks always go in pairs, yet now the pillow lies alone.</span><span lang="zh">枕鸳：绣着鸳鸯的枕头。鸳鸯总是成双成对，现在枕头却是孤零零的。</span></dd></div><div><dt>愁肠<span class="mono">chóu cháng</span></dt><dd><span lang="en">chóu cháng: a heart full of sorrow, literally &quot;sad insides&quot;.</span><span lang="zh">愁肠：满是忧愁的心。</span></dd></div><div><dt>待酒舒<span class="mono">dài jiǔ shū</span></dt><dd><span lang="en">dài jiǔ shū: needs wine to loosen it a little. Shū means to ease, to unfold.</span><span lang="zh">待酒舒：要靠喝酒才能放开一点。舒，舒展。</span></dd></div><div><dt>梦魂<span class="mono">mèng hún</span></dt><dd><span lang="en">mèng hún: meeting in dreams. People then believed the soul could travel out in a dream to meet someone.</span><span lang="zh">梦魂：在梦里相见。古人认为做梦时魂会飞出去和人相会。</span></dd></div><div><dt>纵有也成虚<span class="mono">zòng yǒu yě chéng xū</span></dt><dd><span lang="en">zòng yǒu yě chéng xū: even if such a dream comes, it turns to nothing on waking. Zòng means even if.</span><span lang="zh">纵有也成虚：就算梦见了，醒来也是一场空。纵，即使。</span></dd></div><div><dt>那堪<span class="mono">nǎ kān</span></dt><dd><span lang="en">nǎ kān: how could one bear it.</span><span lang="zh">那堪：哪能受得了。</span></dd></div><div><dt>和梦无<span class="mono">hé mèng wú</span></dt><dd><span lang="en">hé mèng wú: not even a dream is left. Hé here means &quot;even&quot;.</span><span lang="zh">和梦无：连梦也没有了。和，连。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>行<span class="mono">háng</span></dt><dd><span lang="en">shù háng shū: a few lines of writing. Here the character means a line, read háng.</span><span lang="zh">数行书：几行字，“行”是一行一行的行，读 háng。</span></dd></div><div><dt>那<span class="mono">nǎ</span></dt><dd><span lang="en">nǎ kān: how could one bear it. Here the character is used for &quot;how&quot;, read nǎ.</span><span lang="zh">那堪：哪能受得了。这里的“那”就是“哪”，读 nǎ。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This is a ci about longing. It is usually read in the voice of a woman missing her love far away: the things he left are still here, but his heart has changed and his letters grow fewer. Some think Yan Jidao used a woman&#x27;s voice to show his own longing for a past love. The year it was written is not known.</p><p lang="zh">这是一首写相思的词，一般读作一位女子思念远方的心上人：东西还在，人却变了心，信越来越少。也有人认为是晏几道借女子的口吻写自己对旧日恋人的怀念。这首词写于哪一年，已经说不清了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Jidao (about 1038 to about 1110), also called Xiaoshan, was the youngest son of the chief minister Yan Shu. Father and son are known together as &quot;the two Yans&quot;. His family later fell on hard times. He was proud and would not flatter powerful people, so he never got far in office. He was best at writing about longing and memories, in lines that are sincere and sad.</p><p lang="zh">晏几道（约1038—约1110），字叔原，号小山，是宰相晏殊的小儿子，人们把父子俩并称“二晏”。他家后来败落，他自己性格清高，不愿巴结权贵，一生不得志。他最会写相思和怀旧，词句真挚又伤感。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The sorrow in this ci grows layer by layer. First the things are set against the person: the scent and powder are as they were, but his feelings have faded. Then the letters: in spring a few lines still came, and by autumn even fewer. The second half is night. The phoenix quilt is cold, the duck pillow is lonely, and only wine can ease her heart. The last two lines hurt the most. She could at least meet him in a dream, even if waking left her empty. But now not even the dream will come. From letters to fewer letters, from dreams to no dreams at all, her hope is taken away bit by bit. The words are simple, yet they show the pain of waiting completely.</p><p lang="zh">这首词的愁是一层一层加深的。先是东西和人比：香和粉还和从前一样，人的情意却淡了。再是信：春天还有几行字，秋天就更少了。下片写夜晚：凤凰被子冷，鸳鸯枕头孤单，只好喝酒解愁。最后两句最让人心酸：本来还能在梦里见一见，虽然醒来是空的；可现在，连梦都没有了。从“有信”到“信少”，从“有梦”到“连梦也无”，希望一点点被拿走。语言很平常，却把等待的苦写得很透。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/xingxiangzi-shuhuai/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>行香子·述怀</b></a><a href="../../p/moyuer-donggaoyuju/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>摸鱼儿·东皋寓居</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["旧", "jiù"], ["香", "xiāng"], ["残", "cán"], ["粉", "fěn"], ["似", "sì"], ["当", "dāng"], ["初", "chū"]], [["人", "rén"], ["情", "qíng"], ["恨", "hèn"], ["不", "bù"], ["如", "rú"]], [["一", "yī"], ["春", "chūn"], ["犹", "yóu"], ["有", "yǒu"], ["数", "shù"], ["行", "háng"], ["书", "shū"]], [["秋", "qiū"], ["来", "lái"], ["书", "shū"], ["更", "gèng"], ["疏", "shū"]], [["衾", "qīn"], ["凤", "fèng"], ["冷", "lěng"]], [["枕", "zhěn"], ["鸳", "yuān"], ["孤", "gū"]], [["愁", "chóu"], ["肠", "cháng"], ["待", "dài"], ["酒", "jiǔ"], ["舒", "shū"]], [["梦", "mèng"], ["魂", "hún"], ["纵", "zòng"], ["有", "yǒu"], ["也", "yě"], ["成", "chéng"], ["虚", "xū"]], [["那", "nǎ"], ["堪", "kān"], ["和", "hé"], ["梦", "mèng"], ["无", "wú"]]], "glosses": [{"line": 0, "start": 0, "end": 4, "zh": "旧香残粉：他留下的旧香气、她用剩的脂粉，都是从前的东西。一说指信纸、衣物上留下的香和粉。", "en": "jiù xiāng cán fěn: the old perfume and leftover face powder, things from the past. One reading says it is the scent and powder left on letters and clothes."}, {"line": 0, "start": 4, "end": 7, "zh": "似当初：和当初一样。", "en": "sì dāng chū: just as they were at first."}, {"line": 1, "start": 0, "end": 5, "zh": "人情恨不如：可恨的是人的情意反倒比不上这些东西，变淡了。", "en": "rén qíng hèn bù rú: the sad thing is that his feelings cannot match them; they have faded."}, {"line": 2, "start": 0, "end": 2, "zh": "一春：整个春天。", "en": "yì chūn: the whole spring."}, {"line": 2, "start": 4, "end": 7, "zh": "数行书：几行字的信。", "en": "shù háng shū: a letter of a few lines."}, {"line": 3, "start": 4, "end": 5, "zh": "疏：稀少。这里说来信更少了。", "en": "shū: few and far between. Here, his letters come even less often."}, {"line": 4, "start": 0, "end": 2, "zh": "衾凤：绣着凤凰的被子。衾，被子。", "en": "qīn fèng: a quilt embroidered with phoenixes. Qīn is a quilt."}, {"line": 5, "start": 0, "end": 2, "zh": "枕鸳：绣着鸳鸯的枕头。鸳鸯总是成双成对，现在枕头却是孤零零的。", "en": "zhěn yuān: a pillow embroidered with mandarin ducks. These ducks always go in pairs, yet now the pillow lies alone."}, {"line": 6, "start": 0, "end": 2, "zh": "愁肠：满是忧愁的心。", "en": "chóu cháng: a heart full of sorrow, literally \"sad insides\"."}, {"line": 6, "start": 2, "end": 5, "zh": "待酒舒：要靠喝酒才能放开一点。舒，舒展。", "en": "dài jiǔ shū: needs wine to loosen it a little. Shū means to ease, to unfold."}, {"line": 7, "start": 0, "end": 2, "zh": "梦魂：在梦里相见。古人认为做梦时魂会飞出去和人相会。", "en": "mèng hún: meeting in dreams. People then believed the soul could travel out in a dream to meet someone."}, {"line": 7, "start": 2, "end": 7, "zh": "纵有也成虚：就算梦见了，醒来也是一场空。纵，即使。", "en": "zòng yǒu yě chéng xū: even if such a dream comes, it turns to nothing on waking. Zòng means even if."}, {"line": 8, "start": 0, "end": 2, "zh": "那堪：哪能受得了。", "en": "nǎ kān: how could one bear it."}, {"line": 8, "start": 2, "end": 5, "zh": "和梦无：连梦也没有了。和，连。", "en": "hé mèng wú: not even a dream is left. Hé here means \"even\"."}], "readings": [{"line": 2, "pos": 5, "char": "行", "pinyin": "háng", "zh": "数行书：几行字，“行”是一行一行的行，读 háng。", "en": "shù háng shū: a few lines of writing. Here the character means a line, read háng."}, {"line": 8, "pos": 0, "char": "那", "pinyin": "nǎ", "zh": "那堪：哪能受得了。这里的“那”就是“哪”，读 nǎ。", "en": "nǎ kān: how could one bear it. Here the character is used for \"how\", read nǎ."}], "speak": ["旧香残粉嗣当初", "人情恨不如", "一春犹有数航书", "秋来书更疏", "衾凤冷", "枕鸳孤", "愁肠待酒舒", "梦魂纵有也成虚", "那堪和梦无"], "speakTitle": "阮郎归，旧香残粉似当初。晏几道。", "sample": "旧香残粉似当初"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

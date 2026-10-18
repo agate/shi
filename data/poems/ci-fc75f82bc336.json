@@ -1,0 +1,436 @@
+{
+ "id": "ci-fc75f82bc336",
+ "kind": "ci",
+ "title": "鹧鸪天·代人赋",
+ "title_en": "Partridge Sky: Written on Someone's Behalf",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "温",
+    "wēn"
+   ],
+   [
+    "柔",
+    "róu"
+   ]
+  ],
+  [
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "底",
+    "dǐ"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "遮",
+    "zhē"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "频",
+    "pín"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "由",
+    "yóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "“教”在这里是“让、使”的意思，现在课本读 jiào。按词的格律这里应是平声，古代读 jiāo。",
+   "en": "Here it means \"to let, to make\", and today's textbooks read it jiào. The tune's pattern needs a level tone here, so in old times it was read jiāo."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重上：再一次登上，“重”读 chóng。",
+   "en": "In chóng shàng, to climb again, it is read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "晚日：傍晚的太阳。",
+   "en": "wǎn rì: the evening sun."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "寒鸦：天冷时的乌鸦。",
+   "en": "hán yā: crows in the cold."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "柳塘：长着柳树的池塘。",
+   "en": "liǔ táng: a pond lined with willows."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "却温柔：却显得温柔可爱。却，反而。",
+   "en": "què wēn róu: yet looks soft and gentle. Què means yet, on the other hand."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "若教：如果让。",
+   "en": "ruò jiào: if it were made so that."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "眼底：眼前。",
+   "en": "yǎn dǐ: before one's eyes."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "离恨：离别的愁苦。",
+   "en": "lí hèn: the pain of parting."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "白头：白头发，指人愁老了。",
+   "en": "bái tóu: white hair, meaning growing old from sorrow."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "肠已断：肠子都断了，形容伤心到极点。",
+   "en": "cháng yǐ duàn: the gut is already broken, meaning heartbroken."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "情知：明明知道。",
+   "en": "qíng zhī: to know full well."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "频倚：一次又一次地靠着。",
+   "en": "pín yǐ: leaning again and again."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "不自由：由不得自己，控制不住。",
+   "en": "bù zì yóu: unable to help oneself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夕阳下，寒鸦乱飞，到处是一片愁绪。",
+   "en": "Under the evening sun, cold crows fly about, and everything looks sad."
+  },
+  {
+   "zh": "柳树环绕的池塘刚刚绿了，却显得那么温柔。",
+   "en": "Yet the willow pond, just turned green, looks soft and gentle."
+  },
+  {
+   "zh": "如果让人眼前没有离别的痛苦，",
+   "en": "If people never had to face the pain of parting,"
+  },
+  {
+   "zh": "我不相信世上会有人愁白了头。",
+   "en": "I don't believe anyone in the world would turn white-haired."
+  },
+  {
+   "zh": "肠子都要断了，",
+   "en": "My heart is breaking,"
+  },
+  {
+   "zh": "眼泪怎么也止不住。",
+   "en": "and my tears will not stop."
+  },
+  {
+   "zh": "因为想念，又一次登上了小红楼。",
+   "en": "Missing you, I climb the little red tower once again."
+  },
+  {
+   "zh": "明明知道望出去都被青山挡住了，",
+   "en": "I know full well the hills block my view,"
+  },
+  {
+   "zh": "还是一次次靠着栏杆往远处望，控制不住自己。",
+   "en": "yet I lean on the railing again and again, unable to help myself."
+  }
+ ],
+ "background": {
+  "zh": "题目“代人赋”，意思是替别人写的，词里用一位女子的口吻写她对远方的人的思念。写作年代不清楚，一般认为是辛弃疾罢官闲居江西时期的作品。一说词人借女子的离愁，也寄托了自己的心事。",
+  "en": "The title means \"written on someone's behalf\". The lyric speaks in the voice of a woman missing someone far away. We do not know the year; it is usually placed in the years when Xin Qiji, out of office, lived in Jiangxi. One view says that through the woman's sorrow at parting, the poet also hints at his own feelings."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他出生在被金国占领的北方，年轻时参加抗金起义，后来回到南宋。他一心想收复北方，却长期得不到重用，中年以后多次被罢官，在江西乡下闲住了很多年。他的词豪放有力，也有写得很细腻温柔的。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song poet. He was born in the north, which the Jin had taken. As a young man he joined an uprising against the Jin and then came south to the Song. He wanted with all his heart to win back the north, but he was seldom given real power. From middle age he was dismissed again and again, and lived for many years in the Jiangxi countryside. Most of his lyrics are bold and strong, but some are soft and delicate."
+ },
+ "appreciation": {
+  "zh": "开头两句一愁一柔：夕阳寒鸦让人发愁，柳塘新绿却很温柔。美好的春景反而让人更难过。接下来两句是全词最有名的：如果世上没有离别，人就不会愁白了头。这是一句很朴素的话，却说出了很多人的心声。下片写她的样子：肠断、泪流，一次次登上红楼远望。最后她自己也知道，青山早把视线挡住了，什么也看不见，可还是忍不住倚着栏杆看。明知没用还要去做，这才是最深的相思。",
+  "en": "The first two lines set sadness beside softness. The evening sun and cold crows are sad, but the green willow pond is gentle. The lovely spring view only makes her sadder. The next two lines are the most famous: if there were no partings in the world, no one would grow white-haired from sorrow. It is a very plain thought, yet it speaks for many people. The second half shows her: heartbroken and in tears, she climbs the red tower again and again to look into the distance. She knows the hills have blocked the view long ago and she will see nothing. Still she cannot stop leaning on the railing to look. To keep doing something you know is useless is the deepest kind of longing."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "parting",
+   "love",
+   "tower"
+  ]
+ },
+ "uncertain": []
+}

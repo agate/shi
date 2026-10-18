@@ -1,0 +1,521 @@
+{
+ "id": "ci-f3d7ed3f30b5",
+ "kind": "ci",
+ "title": "蝶恋花·梦入江南烟水路",
+ "title_en": "Butterflies Love Flowers: In a Dream I Entered the Misty Waterways of the South",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "遇",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "惆",
+    "chóu"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "误",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "尺",
+    "chǐ"
+   ],
+   [
+    "素",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "鱼",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "了",
+    "liǎo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "据",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "缓",
+    "huǎn"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "筝",
+    "zhēng"
+   ],
+   [
+    "柱",
+    "zhù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "语料作“浮雁沈鱼”，“沈”是“沉”的旧写法。现在通行本写作“沉”。这里用通行写法。",
+  "en": "The corpus writes \"sinking fish\" with an older form of the character for sink. Today's editions use the modern form, which we follow."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "zh": "“觉”在这里读 jué，“觉来”是睡醒的意思，不读 jiào。",
+   "en": "Here this character is read jué; jué lái means on waking, not jiào.",
+   "char": "觉",
+   "pinyin": "jué"
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "zh": "“了”在这里读 liǎo，“终了”是到底、始终的意思，不读 le。",
+   "en": "Here this character is read liǎo; zhōng liǎo means in the end, after all, not le.",
+   "char": "了",
+   "pinyin": "liǎo"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "江南：长江下游以南的地方，水多，风景秀美。",
+   "en": "jiāng nán: the land south of the lower Yangtze, full of water and lovely scenery."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "烟水路：雾气笼罩的水路。",
+   "en": "yān shuǐ lù: misty waterways."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "行尽：走遍。",
+   "en": "xíng jìn: to walk all over."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "离人：分别了的人，这里指他思念的那个人。",
+   "en": "lí rén: the one who has parted, here the person he misses."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "消魂：伤心得像丢了魂一样。",
+   "en": "xiāo hún: so sad it is as if one's soul were melting away."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "无说处：没有地方可以诉说。",
+   "en": "wú shuō chù: no one to tell."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "觉来：睡醒以后。",
+   "en": "jué lái: after waking."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "惆怅：失意、伤感。",
+   "en": "chóu chàng: disappointed and sad."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "消魂误：梦里那番伤心，原来是白白的一场。误，落空、白费。",
+   "en": "xiāo hún wù: all that heartbreak in the dream came to nothing. Wù means wasted, in vain."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "欲尽此情：想把这份感情全部说出来。",
+   "en": "yù jìn cǐ qíng: to want to pour out all this feeling."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "书：写。",
+   "en": "shū: to write."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "尺素：书信。古人在一尺来长的白绢上写信。",
+   "en": "chǐ sù: a letter. People of old wrote letters on white silk about a foot long."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "浮雁沉鱼：古人说大雁和鲤鱼能传送书信。可是大雁飞远了，鱼沉到水底了，信送不出去。",
+   "en": "fú yàn chén yú: people of old said wild geese and carp could carry letters. But the geese have flown far and the fish have sunk, so the letter cannot be sent."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "终了：到底，始终。",
+   "en": "zhōng liǎo: in the end, after all."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "凭据：可以依靠的东西，这里指能把信送到的办法。",
+   "en": "píng jù: something to rely on, here a way to get the letter there."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 2,
+   "zh": "倚：靠着，这里指和着、伴着。",
+   "en": "yǐ: to lean on, here to sing along with."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "缓弦：放松了的琴弦，弹出的声音低沉缓慢。",
+   "en": "huǎn xián: loosened strings, which give a low, slow sound."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "别绪：离别的愁绪。",
+   "en": "bié xù: the sorrow of parting."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "断肠：形容伤心到极点。",
+   "en": "duàn cháng: \"broken bowels\", the deepest grief."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "移破：把……移遍了。",
+   "en": "yí pò: to move again and again, all the way."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "秦筝柱：秦筝上支撑琴弦的小柱子，移动它可以调音。秦筝是一种弦乐器，就是古筝。",
+   "en": "qín zhēng zhù: the little bridges under the strings of the zheng zither; moving them changes the pitch. The Qin zheng is the zither still called guzheng today."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我在梦里来到江南，走在雾气迷蒙的水路上，",
+   "en": "In a dream I came to the south, along misty waterways."
+  },
+  {
+   "zh": "走遍了整个江南，",
+   "en": "I walked all over the south"
+  },
+  {
+   "zh": "也没有遇到那个分别的人。",
+   "en": "but never met the one I had parted from."
+  },
+  {
+   "zh": "梦里伤心得失魂落魄，却没有地方诉说；",
+   "en": "In my sleep I was heartbroken, with no one to tell."
+  },
+  {
+   "zh": "醒来更加惆怅，原来梦里的伤心也是一场空。",
+   "en": "Waking, I felt worse: even that heartbreak in the dream was for nothing."
+  },
+  {
+   "zh": "我想把这份感情全都写进书信里，",
+   "en": "I want to pour all this feeling into a letter,"
+  },
+  {
+   "zh": "可是大雁飞远了，鱼儿沉下去了，",
+   "en": "but the geese have flown off and the fish have sunk,"
+  },
+  {
+   "zh": "到底没有办法把信送到。",
+   "en": "and in the end there is no way to send it."
+  },
+  {
+   "zh": "我只好和着低缓的琴弦，唱出离别的愁绪，",
+   "en": "So I sing my sorrow of parting to slow, loosened strings,"
+  },
+  {
+   "zh": "伤心到极点，把秦筝的弦柱都移遍了。",
+   "en": "and in my deepest grief I move every bridge of the zither."
+  }
+ ],
+ "background": {
+  "zh": "这是一首写相思的词。词人在梦里到江南去找分别的人，却怎么也找不到；醒来想写信，又没有办法寄出去，只好弹筝唱歌来排解。晏几道很多词都在怀念从前相识的歌女和朋友，这首写的是谁、写于哪一年，已经不清楚。",
+  "en": "This lyric is about longing. In a dream the poet goes south to look for someone he has parted from, but cannot find them. On waking he wants to write a letter, but has no way to send it, so he plays the zither and sings to ease his heart. Many of Yan Jidao's lyrics miss singers and friends he once knew. We no longer know who this one is about or the year it was written."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是宰相词人晏殊的小儿子。他年轻时过着富贵的生活，常和朋友饮酒听歌。后来家道中落，一生只做过小官。他的词多写离别和对旧日欢聚的怀念，感情真，语言美，有《小山词》。",
+  "en": "Yan Jidao (about 1038 to about 1110), also called Xiaoshan, was the youngest son of Yan Shu, a prime minister and poet. When young he lived in wealth, often drinking and listening to songs with friends. Later his family fell on hard times, and he only ever held small posts. His lyrics are mostly about partings and missing the happy gatherings of the past. Their feeling is true and their words are beautiful. His collection is called Xiaoshan Ci."
+ },
+ "appreciation": {
+  "zh": "这首词一层比一层深。先是做梦：梦里走遍了江南，还是没见到她。梦里已经很伤心了，醒来更伤心，因为连梦里的伤心都是白费。再想写信，可大雁和鱼都帮不上忙，信寄不出去。最后只能弹筝唱歌，把弦柱移来移去，一首接一首地弹，心里的苦还是放不下。从梦到醒，从写信到弹琴，每一条路都走不通，思念就这样一点点加重。",
+  "en": "This lyric goes deeper layer by layer. First comes the dream: he walks all over the south and still does not see her. The dream is already sad, and waking is sadder, because even the sorrow in the dream was wasted. Then he wants to write, but neither geese nor fish can help, so the letter cannot be sent. In the end he can only play the zither and sing, moving the bridges back and forth, playing one tune after another, and still the pain will not let go. From dream to waking, from letter to music, every road is closed, and his longing grows heavier bit by bit."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "dream",
+   "letter",
+   "music",
+   "jiangnan"
+  ]
+ },
+ "uncertain": []
+}

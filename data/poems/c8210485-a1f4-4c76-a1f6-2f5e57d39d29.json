@@ -1,0 +1,232 @@
+{
+ "id": "c8210485-a1f4-4c76-a1f6-2f5e57d39d29",
+ "kind": "shi",
+ "title": "塞下曲·其三",
+ "title_en": "Frontier Song, No. 3",
+ "author": "卢纶",
+ "author_en": "Lu Lun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "黑",
+    "hēi"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "单",
+    "chán"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "遁",
+    "dùn"
+   ],
+   [
+    "逃",
+    "táo"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "逐",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "刀",
+    "dāo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "单",
+   "pinyin": "chán",
+   "zh": "单于是古代匈奴等民族对首领的称呼，这里的“单”读 chán，不读 dān。",
+   "en": "Chányú was the title of the chief of the Xiongnu and other northern peoples. Here the first character is read chán, not dān."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "骑，这里指骑马的士兵。古代这个意思读 jì，现在统一读 qí。",
+   "en": "Here this character means mounted soldiers. In old times this meaning was read jì; today it is always read qí."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "月黑：没有月光，夜色漆黑。",
+   "en": "yuè hēi: no moonlight, a pitch-dark night."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "单于：匈奴首领的称呼，这里借来指敌人的首领。",
+   "en": "chán yú: the title of the Xiongnu chief, used here for the enemy leader."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "遁逃：偷偷地逃走。",
+   "en": "dùn táo: to slip away, to flee secretly."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "欲：想要，正要。",
+   "en": "yù: to want to, to be about to."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "将：率领，带着。",
+   "en": "jiāng: to lead."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "轻骑：轻装快速的骑兵。",
+   "en": "qīng qí: light, fast cavalry."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "逐：追赶。",
+   "en": "zhú: to chase."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "满弓刀：落满了弓和刀。",
+   "en": "mǎn gōng dāo: covering the bows and swords."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "没有月亮的黑夜，大雁飞得很高，",
+   "en": "On a moonless night, the wild geese fly high;"
+  },
+  {
+   "zh": "敌人的首领趁着夜色偷偷逃跑。",
+   "en": "the enemy chief slips away under cover of dark."
+  },
+  {
+   "zh": "将军正要带领轻骑兵去追赶，",
+   "en": "Our general is about to lead light horsemen in pursuit,"
+  },
+  {
+   "zh": "一场大雪落下，盖满了弓和刀。",
+   "en": "and heavy snow covers their bows and swords."
+  }
+ ],
+ "background": {
+  "zh": "这是卢纶《和张仆射塞下曲》六首中的第三首。“和”读 hè，是写诗回应别人的诗；仆射是一种大官，这位张仆射一说是张延赏。诗里写一个下大雪的夜晚，敌人趁黑逃跑，唐军准备追击。我们所用的古诗资料把这首诗也收在钱起名下，但一般认为作者是卢纶。",
+  "en": "This is the third of Lu Lun's six \"Replying to Minister Zhang's Frontier Songs\". Replying here means writing a poem in answer to someone else's. Minister was a high official title, and this Minister Zhang may have been Zhang Yanshang. The poem shows a snowy night: the enemy flees in the dark, and the Tang army gets ready to chase them. Our corpus also lists the poem under Qian Qi, but it is generally credited to Lu Lun."
+ },
+ "author_note": {
+  "zh": "卢纶，唐代诗人，“大历十才子”之一，生卒年不能确定，大约生活在八世纪后半期。他在军中做过官，见过边塞的风雪和将士的生活。他的边塞诗写得短小有力，这一首和“林暗草惊风”都被选进了课本。",
+  "en": "Lu Lun was a Tang poet, one of the Ten Talents of the Dali era. His exact dates are not known; he lived in the second half of the eighth century. He served in the army and saw the snow and wind of the frontier and the lives of soldiers. His frontier poems are short and strong. This one and the one that begins with dark woods and startled grass are both in school textbooks."
+ },
+ "appreciation": {
+  "zh": "第一句写环境：夜黑得看不见月亮，大雁受惊高飞，好像有什么动静。第二句点出原因：敌人首领趁黑逃跑了。第三句写我军的气势：将军马上要带轻骑兵追上去。最后一句不写追上没有，也不写怎么打，只写一个画面：大雪纷纷落下，转眼盖满了弓和刀。天那么冷，雪那么大，将士们却毫不退缩。诗停在出发前的一刻，留给我们去想象后面的追击，紧张又豪迈。",
+  "en": "The first line sets the scene: the night is so dark there is no moon, and the geese fly high, startled, as if something is moving. The second line gives the reason: the enemy chief is escaping in the dark. The third line shows our army's spirit: the general is about to lead light horsemen after him. The last line does not tell us whether they catch him or how they fight. It gives only one picture: heavy snow falling, quickly covering bows and swords. It is bitterly cold and the snow is thick, yet the soldiers do not flinch. The poem stops at the moment before they ride out and leaves the chase to our imagination, tense and bold."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "snow",
+   "war",
+   "night",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

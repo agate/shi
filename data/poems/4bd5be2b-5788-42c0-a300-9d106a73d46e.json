@@ -1,0 +1,283 @@
+{
+ "id": "4bd5be2b-5788-42c0-a300-9d106a73d46e",
+ "kind": "shi",
+ "title": "子夜吴歌·夏歌",
+ "title_en": "Midnight Song of Wu: Summer",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "菡",
+    "hàn"
+   ],
+   [
+    "萏",
+    "dàn"
+   ],
+   [
+    "发",
+    "fā"
+   ],
+   [
+    "荷",
+    "hé"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "施",
+    "shī"
+   ],
+   [
+    "采",
+    "cǎi"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "隘",
+    "ài"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "耶",
+    "yé"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料题目作《相和歌辞·子夜四时歌四首·夏歌》，通行本题作《子夜吴歌·夏歌》。语料第四句作“若邪”，通行本写作“若耶”，指的是同一条溪，这里用“若耶”。",
+  "en": "The corpus title is \"Xianghe Song Lyrics: Midnight Songs of the Four Seasons, Summer\". The common title is \"Midnight Song of Wu: Summer\". In line four the corpus writes the stream's name Ruoye with a different second character; the common text uses the usual one, as here."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "耶",
+   "pinyin": "yé",
+   "zh": "耶：若耶是溪名，现在读 ruò yé。古音和“花、家”押韵。",
+   "en": "yé: Ruoye is the name of a stream, read ruò yé today. In older pronunciation it rhymed with huā and jiā."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "镜湖：湖名，在今天浙江绍兴，湖水平静得像镜子一样。",
+   "en": "jìng hú: Mirror Lake, in today's Shaoxing, Zhejiang, its water as still as a mirror."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "三百里：形容湖面很大。",
+   "en": "sān bǎi lǐ: three hundred li, a way of saying the lake is very big."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "菡萏：荷花的花苞，也指荷花。",
+   "en": "hàn dàn: lotus buds, or lotus flowers."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "发：开放。",
+   "en": "fā: to open, to bloom."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "西施：春秋时越国有名的美女，传说她曾在若耶溪边浣纱。",
+   "en": "xī shī: Xi Shi, a famous beauty of the state of Yue in the Spring and Autumn period. Legend says she washed silk by the Ruoye Stream."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "隘：狭窄，这里指挤满了人。",
+   "en": "ài: narrow; here it means packed with people."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "若耶：若耶溪，在今天绍兴南边，流入镜湖。",
+   "en": "ruò yé: the Ruoye Stream, south of today's Shaoxing, flowing into Mirror Lake."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "回舟不待月：不等月亮升起，就掉转船头回去了。",
+   "en": "huí zhōu bù dài yuè: she turns her boat back without waiting for the moon to rise."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "越王家：越王的宫里。传说西施后来被召进越王勾践的宫中。",
+   "en": "yuè wáng jiā: the palace of the King of Yue. Legend says Xi Shi was later called into the palace of Goujian, King of Yue."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "镜湖方圆三百里，",
+   "en": "Mirror Lake stretches three hundred li around."
+  },
+  {
+   "zh": "湖上的荷花苞都开成了荷花。",
+   "en": "Its lotus buds have opened into flowers."
+  },
+  {
+   "zh": "五月里，西施来湖上采莲，",
+   "en": "In the fifth month, Xi Shi comes to pick lotus."
+  },
+  {
+   "zh": "看她的人挤满了若耶溪。",
+   "en": "So many come to look that the Ruoye Stream is crowded."
+  },
+  {
+   "zh": "她不等月亮升起，就掉转船头，",
+   "en": "Without waiting for the moon, she turns her boat around"
+  },
+  {
+   "zh": "回到越王的宫里去了。",
+   "en": "and goes back to the palace of the King of Yue."
+  }
+ ],
+ "background": {
+  "zh": "《子夜吴歌》是李白仿照南方民歌写的一组诗，共四首，分别写春、夏、秋、冬。这首写夏天，借用了西施的传说。镜湖和若耶溪都在今天的浙江绍兴，那里古时属于越国。传说西施是越国的美女，曾在若耶溪边浣纱，后来进了越王的宫。诗人想象她五月在湖上采莲的样子。这组诗具体写于哪一年，已经不清楚了。",
+  "en": "The Midnight Songs of Wu are a set of four poems Li Bai wrote in the style of southern folk songs, one for each season. This one is about summer and borrows the legend of Xi Shi. Mirror Lake and the Ruoye Stream are both in today's Shaoxing, Zhejiang, once part of the state of Yue. Legend says Xi Shi was a beauty of Yue who washed silk by the Ruoye Stream and was later taken into the King of Yue's palace. The poet imagines her picking lotus on the lake in the fifth month. The year the set was written is not known."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代最有名的诗人之一，人称“诗仙”。他很喜欢学习民歌，把老的乐府诗题拿来重新写。《子夜吴歌》本来是南方吴地的民歌，李白按春、夏、秋、冬各写了一首，语言像民歌一样明白好懂，感情却很深。",
+  "en": "Li Bai (701 to 762) is one of the most famous Tang poets, called the Immortal of Poetry. He loved folk songs and often rewrote old song titles in his own way. The Midnight Songs of Wu began as folk songs of the Wu region in the south. Li Bai wrote one for each season: spring, summer, autumn and winter. The words are as plain as a folk song, but the feeling runs deep."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅热闹的夏日图画。先是一个大大的镜头：三百里的镜湖，开满了荷花。然后镜头拉近：美丽的西施划着小船来采莲。诗人没有直接写她有多美，而是写看她的人太多，把若耶溪都挤满了。人越多，越说明她美。最后她不等月亮出来，就划船回越王宫里去了，留下岸上的人还在张望。荷花美，人更美；可是来得匆匆，去得也匆匆，让人觉得又惊艳又有点不舍。",
+  "en": "This poem is like a lively summer painting. First comes a wide view: Mirror Lake, three hundred li across, covered in lotus flowers. Then the view moves closer: the lovely Xi Shi rows her little boat out to pick lotus. The poet never tells us how beautiful she is. Instead he says so many people come to look that the Ruoye Stream is jammed. The bigger the crowd, the more beautiful she must be. In the end she does not wait for the moon. She rows back to the King of Yue's palace, leaving the crowd on the bank still gazing. The lotus is lovely, and she is lovelier still. But she comes and goes so quickly that we are left amazed, and a little sorry to see her go."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lotus",
+   "beauty",
+   "lake",
+   "legend"
+  ]
+ },
+ "uncertain": []
+}

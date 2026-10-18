@@ -1,0 +1,865 @@
+{
+ "id": "ci-ff4a9fdf858d",
+ "kind": "ci",
+ "title": "摸鱼儿·对西风",
+ "title_en": "To the Tune Mo Yu Er: Facing the West Wind",
+ "author": "朱嗣发",
+ "author_en": "Zhu Sifa",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·摸鱼儿（双调）",
+  "en": "ci lyric to the tune Mo Yu Er, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "摇",
+    "yáo"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "碧",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "参",
+    "cēn"
+   ],
+   [
+    "差",
+    "cī"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "鸯",
+    "yāng"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "的",
+    "dí"
+   ],
+   [
+    "的",
+    "dí"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "盟",
+    "méng"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "誓",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "织",
+    "zhī"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "文",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "碎",
+    "suì"
+   ]
+  ],
+  [
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "蒂",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "奈",
+    "nài"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "覆",
+    "fù"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "翻",
+    "fān"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "宽",
+    "kuān"
+   ],
+   [
+    "分",
+    "fèn"
+   ],
+   [
+    "窄",
+    "zhǎi"
+   ]
+  ],
+  [
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "簪",
+    "zān"
+   ],
+   [
+    "脆",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "压",
+    "yā"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "坠",
+    "zhuì"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "寐",
+    "mèi"
+   ]
+  ],
+  [
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "枉",
+    "wǎng"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "碎",
+    "suì"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "左",
+    "zuǒ"
+   ],
+   [
+    "计",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "悔",
+    "huǐ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "荆",
+    "jīng"
+   ],
+   [
+    "钗",
+    "chāi"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "修",
+    "xiū"
+   ],
+   [
+    "竹",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "翠",
+    "cuì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "参",
+   "pinyin": "cēn",
+   "zh": "“参差”读 cēn cī，意思是长短不齐、纷乱。",
+   "en": "This pair of characters, meaning uneven or tangled, is read cēn cī."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "的",
+   "pinyin": "dí",
+   "zh": "“的的”是确确实实、清清楚楚的意思，一般读 dí dí；也有人读 dì dì。",
+   "en": "This doubled character means truly, clearly. It is usually read dí dí; some read it dì dì."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”这里是附着、安上的意思，读 zhuó。",
+   "en": "Here this character means to attach, so it is read zhuó."
+  },
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "分",
+   "pinyin": "fèn",
+   "zh": "“分”这里是缘分、命分，读 fèn。",
+   "en": "Here this character means fate or one's lot, so it is read fèn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 7,
+   "zh": "鬓摇烟碧：鬓角的头发在风里飘动，乌青得像一缕烟。",
+   "en": "bìn yáo yān bì: the hair at her temples sways in the wind, dark as a wisp of blue-green smoke."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "参差：纷纷乱乱。一说是“差不多、转眼之间”的意思。",
+   "en": "cēn cī: jumbled and scattered. Another reading takes it as \"almost, in a blink\"."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "前事流水：从前的事都像流水一样过去了。",
+   "en": "qián shì liú shuǐ: the past has all flowed away like water."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "鸳鸯结：罗带打成的同心结。鸳鸯总是成对出现，象征夫妻相爱。",
+   "en": "yuān yāng jié: a love knot tied in a silk sash. Mandarin ducks always swim in pairs, so they stand for a loving couple."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "的的：确确实实，清清楚楚。",
+   "en": "dí dí: truly and clearly."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 6,
+   "zh": "镜盟钗誓：对着镜子、拿着金钗许下的誓言。古代男女常用镜子、钗子作为定情信物。",
+   "en": "jìng méng chāi shì: vows made over a mirror and a hairpin. In old times lovers often gave each other mirrors and hairpins as tokens of love."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "浑不记：全都不记得了。浑，全，简直。这里说那个男子把誓言全忘了。",
+   "en": "hún bù jì: has quite forgotten. Hún means completely. It is the man who has forgotten the vows."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 8,
+   "zh": "漫手织回文：白白地亲手织回文诗。前秦苏蕙思念丈夫，把诗织在锦缎上，正读反读都能成诗，叫回文诗。漫，徒然，白白地。",
+   "en": "màn shǒu zhī huí wén: weaving a palindrome poem by hand, all in vain. In the Former Qin, Su Hui missed her husband and wove a poem into brocade that could be read forwards and backwards. Màn means for nothing."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "几度：好几次。",
+   "en": "jǐ dù: several times."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "安花著蒂：把落下的花重新安回花蒂上。比喻想挽回已经破裂的感情。",
+   "en": "ān huā zhuó dì: putting a fallen flower back on its stem. It means trying to mend a broken love."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "奈：无奈，怎奈。",
+   "en": "nài: but alas, there is nothing to be done."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 5,
+   "zh": "雨覆云翻：翻手为云，覆手为雨，比喻人心反复无常。",
+   "en": "yǔ fù yún fān: turning the hand brings clouds, turning it back brings rain. It means a fickle heart."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "情宽分窄：感情很深，缘分却很浅。",
+   "en": "qíng kuān fèn zhǎi: the love was wide, but the fate was narrow."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 5,
+   "zh": "石上玉簪脆：白居易诗里写在石头上磨玉簪，簪快磨成时却从中间断了。比喻爱情半路破灭。",
+   "en": "shí shàng yù zān cuì: Bai Juyi wrote of grinding a jade hairpin on a stone, only for it to snap in the middle just as it was nearly done. It means love broken halfway."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "朱楼：红色的楼，指女子住的地方。",
+   "en": "zhū lóu: a red tower, where she lives."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 6,
+   "zh": "愁压空云欲坠：愁绪重得好像把天上的云都压得要掉下来。",
+   "en": "chóu yā kōng yún yù zhuì: her sorrow is so heavy it seems to press the clouds down from the sky."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "月痕：淡淡的月光。",
+   "en": "yuè hén: faint moonlight."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 6,
+   "zh": "无寐：睡不着。寐，睡。",
+   "en": "wú mèi: unable to sleep. Mèi means sleep."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 7,
+   "zh": "阴晴也只随天意：天阴天晴，都只能由老天决定。比喻聚散离合由不得自己。",
+   "en": "yīn qíng yě zhǐ suí tiān yì: cloud or sunshine is up to heaven alone. Meeting and parting are out of our hands."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "枉了：白白地。",
+   "en": "wǎng le: all for nothing."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "玉消香碎：比喻女子憔悴消瘦，青春和美貌被折磨坏了。",
+   "en": "yù xiāo xiāng suì: jade melting and fragrance shattered, meaning a woman wasting away, her youth and beauty worn out."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 2,
+   "zh": "且：姑且，暂且。",
+   "en": "qiě: for now."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 10,
+   "zh": "长门青草春风泪：汉武帝的陈皇后失宠，被冷落在长门宫，宫前长满青草，她在春风里流泪。",
+   "en": "cháng mén qīng cǎo chūn fēng lèi: Empress Chen of Emperor Wu of Han lost his favor and was left alone in the Changmen Palace, where grass grew thick and she wept in the spring wind."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "左计：错误的打算。",
+   "en": "zuǒ jì: a wrong plan, a mistake."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "荆钗：用荆条做的发钗，是穷人家女子戴的。这里指嫁给平凡人家，过朴素的日子。",
+   "en": "jīng chāi: a hairpin made of a thorny twig, worn by poor women. Here it means marrying into a plain family and living simply."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "修竹：高高的竹子。修，长。",
+   "en": "xiū zhú: tall bamboo. Xiū means long."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 5,
+   "zh": "倚寒翠：靠着清冷的翠竹。化用杜甫《佳人》“天寒翠袖薄，日暮倚修竹”。",
+   "en": "yǐ hán cuì: leaning on cold green bamboo. It echoes Du Fu's poem \"The Beauty\": \"Her green sleeves are thin in the cold; at dusk she leans on the tall bamboo.\""
+  }
+ ],
+ "translation": [
+  {
+   "zh": "对着西风，鬓发飘动，乌青得像轻烟，",
+   "en": "Facing the west wind, the hair at my temples sways like dark green smoke."
+  },
+  {
+   "zh": "从前的事纷纷乱乱，都像流水一样过去了。",
+   "en": "The past, all in a jumble, has flowed away like water."
+  },
+  {
+   "zh": "紫色丝罗带上打着鸳鸯同心结，",
+   "en": "On a purple silk sash we tied a mandarin-duck love knot."
+  },
+  {
+   "zh": "对着镜子、拿着钗子发过的誓，清清楚楚。",
+   "en": "Our vows over the mirror and the hairpin were clear and true."
+  },
+  {
+   "zh": "他全都忘了，我白白地亲手织着回文诗，",
+   "en": "He has forgotten them all; in vain I weave palindrome poems by hand,"
+  },
+  {
+   "zh": "好几次心都快碎了。",
+   "en": "and many times my heart has nearly broken."
+  },
+  {
+   "zh": "我想把落下的花重新安回花蒂上，",
+   "en": "I try to put the fallen flower back on its stem,"
+  },
+  {
+   "zh": "怎奈他的心像云雨一样翻来覆去，",
+   "en": "but alas, his heart turns like clouds and rain."
+  },
+  {
+   "zh": "感情很深，缘分却太浅，",
+   "en": "The love was deep, but our fate was thin,"
+  },
+  {
+   "zh": "就像石头上磨的玉簪，一下就断了。",
+   "en": "like a jade hairpin on the whetstone, it snapped."
+  },
+  {
+   "zh": "红楼外面，",
+   "en": "Outside the red tower,"
+  },
+  {
+   "zh": "愁绪重得好像把天上的云都压得要掉下来。",
+   "en": "sorrow weighs so heavy the clouds seem about to fall."
+  },
+  {
+   "zh": "淡淡的月光还照着睡不着的我。",
+   "en": "Faint moonlight still shines on me, sleepless."
+  },
+  {
+   "zh": "天阴天晴，都只能由老天决定，",
+   "en": "Cloud or clear sky, it is all up to heaven,"
+  },
+  {
+   "zh": "白白让我憔悴消瘦。",
+   "en": "and I have wasted away for nothing."
+  },
+  {
+   "zh": "你姑且喝醉吧。",
+   "en": "You, just get drunk for now."
+  },
+  {
+   "zh": "你没看见吗？长门宫前青草萋萋，陈皇后在春风里流泪。",
+   "en": "Have you not seen Empress Chen at the Changmen Palace, weeping in the spring wind among green grass?"
+  },
+  {
+   "zh": "当初一时打错了主意，",
+   "en": "Once, for a moment, I chose wrong."
+  },
+  {
+   "zh": "后悔没有早早戴上荆钗，嫁个平凡人家，",
+   "en": "I regret I did not take a simple twig hairpin and a plain life sooner,"
+  },
+  {
+   "zh": "在傍晚的天色里，守着高高的竹子，",
+   "en": "and at dusk, by tall bamboo,"
+  },
+  {
+   "zh": "白了头也靠着清冷的翠竹过日子。",
+   "en": "grown white-haired, lean on the cold green stalks."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一个被抛弃的女子。她和爱人曾经许下誓言，可是对方变了心，她怎么挽回也没有用，最后后悔当初没有选择平凡朴素的生活。一说作者借这个女子，寄托了宋朝灭亡以后自己的悲痛和不肯出来做官的心志。写作的具体时间没有记载。",
+  "en": "This lyric is about a woman who has been abandoned. She and her lover once made vows, but he changed his heart, and nothing she did could win him back. In the end she regrets not choosing a plain, simple life. Another reading says the poet uses this woman to express his own grief after the fall of the Song, and his refusal to serve the new rulers. When it was written is not recorded."
+ },
+ "author_note": {
+  "zh": "朱嗣发是宋末元初的人，留下的生平资料很少。据说宋朝灭亡以后，元朝想请他做官，他不肯去。他传下来的词很少，这首因为被选进《宋词三百首》而出名。",
+  "en": "Zhu Sifa lived at the end of the Song and the start of the Yuan. Little is recorded about his life. It is said that after the Song fell, the Yuan rulers offered him a post and he refused. Very few of his lyrics survive; this one is known because it was chosen for the anthology Three Hundred Song Lyrics."
+ },
+ "appreciation": {
+  "zh": "这首词里，一个女子在西风中回想往事。紫罗带上的同心结，镜子和钗子前的誓言，她都记得清清楚楚，可对方全忘了。她想把落花安回枝头，就像想把碎了的玉簪接起来，可是做不到。下片到了夜里，愁重得像要把云压下来，月光照着她睡不着。她劝自己：天阴天晴由不得人，喝醉吧。最后她说：要是早点过粗布荆钗的日子，到老靠着竹子，也比现在好。这里用了很多旧故事，读起来有点难，但心情很清楚：深深的失望，和一点倔强。",
+  "en": "In this lyric a woman stands in the west wind remembering. She clearly remembers the love knot on the purple sash and the vows over mirror and hairpin, but he has forgotten them all. She wants to put the fallen flower back on the branch, like mending a snapped jade hairpin, but it cannot be done. In the second stanza it is night. Her sorrow is so heavy it seems to press the clouds down, and the moonlight finds her awake. She tells herself that cloud or sun is up to heaven, so just get drunk. At last she says: if only I had chosen a plain life sooner, leaning on bamboo into old age, it would have been better than this. Many old stories make it hard to read, but the feeling is clear: deep disappointment, with a touch of stubborn pride."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "regret",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

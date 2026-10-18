@@ -1,0 +1,220 @@
+{
+ "id": "5bcc5f16-f5f4-4a49-bce5-f26630de8c4d",
+ "kind": "shi",
+ "title": "池上",
+ "title_en": "On the Pond",
+ "author": "白居易",
+ "author_en": "Bai Juyi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "娃",
+    "wá"
+   ],
+   [
+    "撑",
+    "chēng"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "艇",
+    "tǐng"
+   ]
+  ],
+  [
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "莲",
+    "lián"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "藏",
+    "cáng"
+   ],
+   [
+    "踪",
+    "zōng"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "萍",
+    "píng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "小娃：小孩子。",
+   "en": "xiǎo wá: a small child."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "撑：用长竹竿抵住水底，把船推着走。",
+   "en": "chēng: to push a boat along by pressing a long pole against the bottom of the water."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "小艇：小船。",
+   "en": "xiǎo tǐng: a little boat."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "偷采：偷偷地摘。",
+   "en": "tōu cǎi: to pick secretly."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "白莲：白色的莲花。",
+   "en": "bái lián: white lotus flowers."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "不解：不懂得，不知道。",
+   "en": "bù jiě: did not know how to."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "藏踪迹：把自己的行踪藏起来。踪迹，走过留下的痕迹。",
+   "en": "cáng zōng jì: to hide one's tracks. Zōng jì are the marks you leave behind where you go."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "浮萍：浮在水面上的一种小草，叶子圆圆的、小小的，常常铺满一池。",
+   "en": "fú píng: duckweed, a tiny plant with little round leaves that floats on water and often covers a whole pond."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "一道开：浮萍被小船分开，露出一条水路。",
+   "en": "yī dào kāi: the duckweed is pushed apart by the boat, leaving a clear line of water."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一个小孩子撑着一条小船，",
+   "en": "A small child pushes a little boat along,"
+  },
+  {
+   "zh": "偷偷摘了白莲花回来。",
+   "en": "coming back with white lotus picked in secret."
+  },
+  {
+   "zh": "他不知道要把自己的踪迹藏好，",
+   "en": "He does not know how to hide his tracks:"
+  },
+  {
+   "zh": "水面的浮萍上留下了一条被船划开的水路。",
+   "en": "on the duckweed, the boat has left a clear open trail."
+  }
+ ],
+ "background": {
+  "zh": "《池上》一共两首，这是第二首，收在小学语文课本里。一般认为是白居易晚年住在洛阳时写的。那时他官职清闲，常在家里的池塘边散步、看风景。夏天莲花开了，他看见一个小孩偷偷撑船去摘莲花，觉得很有趣，就把这件小事写成了诗。",
+  "en": "\"On the Pond\" is a set of two poems, and this is the second. It is taught in primary school. It is usually thought to come from Bai Juyi's later years, when he lived in Luoyang. His official post then was light, and he often walked by the pond at home and enjoyed the view. In summer, when the lotus bloomed, he saw a child secretly pushing a boat out to pick lotus flowers. He found it charming and turned this little event into a poem."
+ },
+ "author_note": {
+  "zh": "白居易（772—846），字乐天，号香山居士，唐代大诗人。他写诗讲究通俗易懂，传说写好诗要先念给不识字的老婆婆听，听得懂才算好。他晚年住在洛阳，写了很多闲适的小诗，《池上》就是其中一首，语言简单得像说话。",
+  "en": "Bai Juyi (772–846), also called Letian, was a great Tang poet. He wanted his poems to be plain and easy to understand. Legend says he read each new poem to an old woman who could not read, and only kept it if she understood. In his later years he lived in Luoyang and wrote many relaxed little poems. \"On the Pond\" is one of them, with words as simple as talking."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅有趣的小漫画。一个小孩撑着小船，偷偷去摘白莲花。“偷采”两个字说明他是瞒着大人去的，心里一定有点紧张，又有点得意。可是他毕竟是个孩子，只顾着摘花，没想到要藏好自己。小船划过，水面上的浮萍被分开，留下一条清清楚楚的水路，好像在告诉大家：“有人来过这里！”诗人没有批评他，反而带着笑意看着这一切。天真的孩子、白白的莲花、绿绿的浮萍，组成了一个快乐的夏日画面。",
+  "en": "This poem is like a funny little cartoon. A child pushes a small boat out to pick white lotus flowers in secret. The words \"picked in secret\" tell us he went without the grown-ups knowing. He must feel a bit nervous and a bit proud. But he is only a child. He thinks only of the flowers and never thinks of hiding himself. Where the boat passes, the duckweed parts and leaves a clear trail on the water, as if to tell everyone, \"Someone was here!\" The poet does not scold him. He watches it all with a smile. An innocent child, white lotus and green duckweed make a happy summer picture."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "children",
+   "lotus",
+   "pond",
+   "boat",
+   "playful"
+  ]
+ },
+ "uncertain": []
+}

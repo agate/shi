@@ -1,0 +1,375 @@
+{
+ "id": "fe966059-d9e0-41b0-8776-ff745cf877bc",
+ "kind": "shi",
+ "title": "晚晴",
+ "title_en": "Clear Skies at Evening",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "俯",
+    "fǔ"
+   ],
+   [
+    "夹",
+    "jiā"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "夏",
+    "xià"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "清",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "重",
+    "zhòng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "并",
+    "bìng"
+   ],
+   [
+    "添",
+    "tiān"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "迥",
+    "jiǒng"
+   ]
+  ],
+  [
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "注",
+    "zhù"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "越",
+    "yuè"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "巢",
+    "cháo"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "体",
+    "tǐ"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "zhòng",
+   "zh": "重：这里读 zhòng，意思是看重、珍惜，不读 chóng。",
+   "en": "zhòng: here it means to value, to treasure, so it is read zhòng, not chóng."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "干：这里读 gān，意思是干燥，不读 gàn。",
+   "en": "gān: here it means dry, so it is read gān, not gàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "深居：住在幽静偏僻的地方。",
+   "en": "shēn jū: to live in a quiet, out-of-the-way place."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "俯：低头往下看。",
+   "en": "fǔ: to look down."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "夹城：在城墙外面另外加筑的一道城墙。",
+   "en": "jiā chéng: an extra wall built outside the main city wall."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "犹清：还是清爽宜人。犹，还。",
+   "en": "yóu qīng: still fresh and clear. Yóu means still."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "天意：老天爷的心意。",
+   "en": "tiān yì: the will of heaven."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "怜：爱惜，同情。",
+   "en": "lián: to pity, to care for."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "幽草：长在阴暗地方的小草。",
+   "en": "yōu cǎo: small grass growing in a shady, hidden place."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "晚晴：傍晚雨后放晴。",
+   "en": "wǎn qíng: the sky clearing at evening after rain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "并添：更增加了。",
+   "en": "bìng tiān: adds even more."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "高阁迥：在高楼上看得更远。迥，远。",
+   "en": "gāo gé jiǒng: from the tall tower one can see farther. Jiǒng means far."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "微注：夕阳的余光淡淡地照进来。注，流进、照进。",
+   "en": "wēi zhù: the last sunlight pours in softly. Zhù means to flow in, to shine in."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "越鸟：南方的鸟。越，泛指南方，诗人这时住在桂林。",
+   "en": "yuè niǎo: birds of the south. Yuè here means the far south; the poet was living in Guilin."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "巢干：鸟窝被晒干了。",
+   "en": "cháo gān: the nest has dried out."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "体更轻：身子显得更轻快。",
+   "en": "tǐ gèng qīng: their bodies feel lighter than ever."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我住在幽静的地方，往下能看到夹城，",
+   "en": "I live in a quiet place, looking down on the city's outer wall."
+  },
+  {
+   "zh": "春天过去了，初夏依然清爽。",
+   "en": "Spring is gone, yet early summer is still fresh and clear."
+  },
+  {
+   "zh": "老天好像怜惜那些长在暗处的小草，",
+   "en": "Heaven seems to pity the grass growing in the shade,"
+  },
+  {
+   "zh": "人间也特别珍惜傍晚雨后的晴天。",
+   "en": "and people treasure the clear sky that comes at evening."
+  },
+  {
+   "zh": "登上高楼，视野更加辽远；",
+   "en": "From the tall tower, the view stretches even farther."
+  },
+  {
+   "zh": "夕阳的余光淡淡地照进来，小窗格外明亮。",
+   "en": "The last soft sunlight flows in, and the little window glows bright."
+  },
+  {
+   "zh": "南方的鸟儿，等窝晒干了以后，",
+   "en": "When the nests of the southern birds have dried out,"
+  },
+  {
+   "zh": "飞回家去，身子也显得更轻快了。",
+   "en": "they fly home, their bodies lighter than before."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗写于唐宣宗大中二年（848年）初夏。那时李商隐在桂林，给桂管观察使郑亚做幕僚，也就是帮地方长官处理文书的助手。他在朝廷里受到排挤，才远到南方来。一个下了很久雨的傍晚，天忽然放晴，他看到小草、夕阳和归鸟，心里一亮，写下了这首诗。",
+  "en": "This poem is usually dated to early summer 848. Li Shangyin was then in Guilin, working as an aide to Zheng Ya, the regional governor, helping him with his papers. He had been pushed aside at court and so had come far south. One evening, after a long spell of rain, the sky suddenly cleared. Seeing the grass, the sunset and the birds flying home, he felt his heart lift and wrote this poem."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人，和杜牧并称“小李杜”。他夹在朝廷里两派官员的争斗中间，一辈子不得志，到处给人做幕僚。他的诗大多深情含蓄，带着忧伤。这首《晚晴》却难得地透出明亮和欣喜。",
+  "en": "Li Shangyin (about 813 to about 858) was a great poet of the late Tang, named together with Du Mu as the Little Li and Du. Caught between two rival groups of officials at court, he never got ahead and spent his life working as an aide for others. Most of his poems are tender, subtle and sad. This one, unusually, shines with brightness and joy."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是雨后傍晚忽然放晴的那一刻。“天意怜幽草，人间重晚晴”是全诗最有名的两句。长在暗处的小草，平时晒不到太阳，老天却在傍晚给了它一点阳光，好像特别疼爱它。诗人自己也像这棵小草，在不起眼的地方，受过很多委屈，所以他格外珍惜这来得晚的晴天。后来人们常用这两句，比喻珍惜晚年的美好时光，或者感激迟来的好运。后面写高楼望远、小窗明亮，最后写鸟窝干了，鸟儿飞回去身子更轻，其实也是诗人自己心情变轻松了。",
+  "en": "This poem catches the moment when the sky suddenly clears on an evening after rain. Its two most famous lines say that heaven pities the grass in the shade and people treasure the late clear sky. Grass in a dark corner seldom sees the sun, yet heaven gives it a little light at evening, as if it loves it most. The poet is like that grass: living in a humble place after much unfair treatment, so he treasures this late sunshine all the more. Later readers use these lines to mean treasuring the good years of old age, or being grateful for good luck that comes late. Then he shows the far view from the tower and the bright little window. At the end, the nests are dry and the birds fly home feeling lighter. That lightness is the poet's own heart."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "sunset",
+   "rain",
+   "hope",
+   "birds"
+  ]
+ },
+ "uncertain": []
+}

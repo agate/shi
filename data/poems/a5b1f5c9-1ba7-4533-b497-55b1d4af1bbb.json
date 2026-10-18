@@ -1,0 +1,374 @@
+{
+ "id": "a5b1f5c9-1ba7-4533-b497-55b1d4af1bbb",
+ "kind": "shi",
+ "title": "终南山",
+ "title_en": "The Zhongnan Mountains",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "乙",
+    "yǐ"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "都",
+    "dū"
+   ]
+  ],
+  [
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "隅",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "合",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "霭",
+    "ǎi"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "无",
+    "wú"
+   ]
+  ],
+  [
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "峰",
+    "fēng"
+   ],
+   [
+    "变",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "众",
+    "zhòng"
+   ],
+   [
+    "壑",
+    "hè"
+   ],
+   [
+    "殊",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "投",
+    "tóu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "宿",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "樵",
+    "qiáo"
+   ],
+   [
+    "夫",
+    "fū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "都",
+   "pinyin": "dū",
+   "zh": "“天都”是天帝住的地方，“都”读 dū。",
+   "en": "Tiān dū is the city where the Lord of Heaven lives, so the character is read dū, not dōu."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "今天一般读 kàn。按律诗的平仄，这里应是平声，古音读 kān。",
+   "en": "Today it is usually read kàn. By the tone rules of regulated verse this spot needs a level tone, so in old reading it was kān."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“人处”是有人住的地方，“处”读 chù。",
+   "en": "Rén chù means a place where people live, so the character is read chù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "太乙：终南山的别名，在今天陕西西安的南面。",
+   "en": "tài yǐ: another name for the Zhongnan Mountains, south of today's Xi'an."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "天都：天帝住的地方。这里说山很高，好像快挨到天了。也有人认为指唐朝的都城长安。",
+   "en": "tiān dū: the city of the Lord of Heaven. The line means the mountain is so high it almost reaches the sky. Some think it means the capital, Chang'an."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "连山：山连着山。",
+   "en": "lián shān: mountain after mountain in a chain."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "海隅：海边。这是夸张，说山脉很长，一直连到海边。",
+   "en": "hǎi yú: the edge of the sea. This is an exaggeration: the range seems to run all the way to the sea."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "回望合：回头看，白云在身后合拢成一片。",
+   "en": "huí wàng hé: looking back, the white clouds have closed together behind me."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "青霭：山中青色的雾气。",
+   "en": "qīng ǎi: blue-gray mist in the mountains."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "入看无：走进去看，雾气又不见了。",
+   "en": "rù kàn wú: walk into it and look, and the mist is gone."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "分野：古人把天上的星区和地上的地区一一对应，叫作分野。",
+   "en": "fēn yě: the old idea that each region of the sky matches a region of the land below."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "中峰变：以中间的主峰为界，两边的分野都不一样了，说明山非常大。",
+   "en": "zhōng fēng biàn: on either side of the central peak, the matching star region changes. That is how huge the mountain is."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "众壑：许多山谷。壑，山沟、山谷。",
+   "en": "zhòng hè: the many valleys. Hè is a gully or valley."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "殊：不同。",
+   "en": "shū: different."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "投：投宿，找地方住下。",
+   "en": "tóu: to look for a place to stay the night."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "樵夫：上山砍柴的人。",
+   "en": "qiáo fū: a woodcutter."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "高高的终南山，快要挨到天帝住的地方了；",
+   "en": "The tall Zhongnan Mountains nearly touch the city of Heaven."
+  },
+  {
+   "zh": "山连着山，一直延伸到海边。",
+   "en": "Peak after peak, they stretch to the edge of the sea."
+  },
+  {
+   "zh": "回头一看，白云已经在身后合成一片；",
+   "en": "I look back, and the white clouds have closed together behind me."
+  },
+  {
+   "zh": "青色的雾气远看有，走近了却不见了。",
+   "en": "The blue mist I saw ahead is gone when I walk into it."
+  },
+  {
+   "zh": "中间的主峰一隔，两边就分属不同的星区；",
+   "en": "The central peak divides the land under different stars."
+  },
+  {
+   "zh": "山谷众多，有的阴，有的晴，各不相同。",
+   "en": "In the many valleys, some lie in shadow and some in sun."
+  },
+  {
+   "zh": "想找个有人家的地方过夜，",
+   "en": "Wanting to find a home where I can spend the night,"
+  },
+  {
+   "zh": "我隔着溪水，向砍柴的人打听。",
+   "en": "I call across the stream to ask a woodcutter."
+  }
+ ],
+ "background": {
+  "zh": "终南山在唐朝都城长安的南边，山势高大，连绵很远，当时有很多人在山里隐居。王维中年以后曾在终南山一带隐居过，常在山中游玩。这首诗写的是他游终南山时看到的景象。一般认为写于开元末或天宝初年，具体时间不能确定。",
+  "en": "The Zhongnan Mountains lie south of the Tang capital, Chang'an. They are tall and run a very long way, and many people lived there as hermits. In his middle years Wang Wei lived for a time in the Zhongnan area and often wandered in the hills. This poem shows what he saw on one of his trips there. It is usually dated to around 740, but the exact time is not certain."
+ },
+ "author_note": {
+  "zh": "王维（一说701—761），唐代大诗人，也是画家。他最擅长写山水，人们说他的诗“诗中有画”。这首《终南山》就像一幅大山水画，有远景，有近景，还有人物，很能看出他画家的眼光。",
+  "en": "Wang Wei (701–761 by one account) was a great Tang poet and also a painter. He was best at writing about mountains and rivers, and people say his poems hold paintings. This poem is like a large landscape painting, with a far view, a near view and even a small figure in it. It shows a painter's eye."
+ },
+ "appreciation": {
+  "zh": "这首诗用短短四十个字，写出了一座大山。前两句从远处看：山高得快挨着天，长得一直连到海边，这是夸张，让人感到山的雄伟。三、四句写人在山里走：回头看，白云合拢了；往前走，雾气又消失了，山里的景色变来变去，非常神秘。五、六句又从高处看：一座主峰就把天地分开，山谷里有的阴有的晴。最后两句忽然出现一个小小的人，隔着水问樵夫哪里能住。大山和小人一比，山就显得更大了。",
+  "en": "In just forty characters this poem shows a whole mountain range. The first two lines look from far away. The mountain is so high it almost touches the sky, and so long it reaches the sea. This is exaggeration, and it makes us feel how grand the mountains are. Lines three and four walk inside the mountains. Look back, and the clouds close up. Walk ahead, and the mist disappears. The scenery keeps changing, full of mystery. Lines five and six look from up high. One main peak splits the land, and among the valleys some are shady and some sunny. In the last two lines a tiny person suddenly appears, calling across the water to a woodcutter to ask where to stay. Next to that small person, the mountain seems even bigger."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountains",
+   "clouds",
+   "nature",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

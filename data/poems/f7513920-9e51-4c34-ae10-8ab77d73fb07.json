@@ -1,0 +1,255 @@
+{
+ "id": "f7513920-9e51-4c34-ae10-8ab77d73fb07",
+ "kind": "shi",
+ "title": "蜂",
+ "title_en": "The Bee",
+ "author": "罗隐",
+ "author_en": "Luo Yin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "论",
+    "lùn"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "尖",
+    "jiān"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "占",
+    "zhàn"
+   ]
+  ],
+  [
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "蜜",
+    "mì"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "辛",
+    "xīn"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "甜",
+    "tián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "尽是“全、都”的意思，读 jìn。",
+   "en": "Here it means \"all\", read jìn."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "占",
+   "pinyin": "zhàn",
+   "zh": "现在一般读 zhàn。这首诗用“尖、甜”押韵，古时这里的“占”读平声，所以有人读 zhān。",
+   "en": "Today it is usually read zhàn. The poem rhymes with jiān and tián, and in old times this word was read in the level tone here, so some people read it zhān."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "为是“替、给”的意思，读 wèi。",
+   "en": "Here it means \"for\", read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "不论：不管，无论。",
+   "en": "bù lùn: no matter whether."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "山尖：山顶。",
+   "en": "shān jiān: the top of a mountain."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "无限风光：数不清的美丽景色，这里指开满花的地方。",
+   "en": "wú xiàn fēng guāng: endless beautiful views; here, all the places full of flowers."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "尽被占：全都被蜜蜂占了。意思是哪里有花，哪里就有蜜蜂。",
+   "en": "jìn bèi zhàn: all taken over by the bees. Wherever there are flowers, there are bees."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "采得：采到。",
+   "en": "cǎi dé: having gathered."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "辛苦：劳累，吃苦。",
+   "en": "xīn kǔ: hard work, toil."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "不管是平地，还是高高的山顶，",
+   "en": "Whether on flat land or high on the mountain tops,"
+  },
+  {
+   "zh": "只要有美丽的花，就全被蜜蜂占满了。",
+   "en": "wherever there are lovely flowers, the bees are there."
+  },
+  {
+   "zh": "它们采遍了百花，酿成了蜂蜜以后，",
+   "en": "After they gather from a hundred flowers and turn it into honey,"
+  },
+  {
+   "zh": "这样辛苦是为了谁？这样的甜又给了谁？",
+   "en": "for whom did they work so hard? For whom is all that sweetness?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是小小的蜜蜂。写作的具体年份不清楚。罗隐生活在唐朝末年，社会很乱，老百姓辛辛苦苦干活，收获却常常被别人拿走。很多人认为，诗人借蜜蜂来同情那些辛苦劳动却享受不到成果的人，也讽刺那些不劳而获的人。",
+  "en": "This poem is about the little bee. The exact year it was written is not known. Luo Yin lived at the end of the Tang, a time of great disorder. Ordinary people worked hard, but others often took what they produced. Many readers think the poet uses the bee to show sympathy for people who work hard but do not get to enjoy the results, and to mock those who take without working."
+ },
+ "author_note": {
+  "zh": "罗隐（833—910），唐朝末年的诗人。他很有才华，却去考了十几次进士都没有考中。他的诗文常常讽刺社会上不公平的事，说话直接，语言通俗，有不少句子后来成了大家常说的话。",
+  "en": "Luo Yin (833–910) was a poet at the end of the Tang. He was very gifted, yet he failed the top civil service exam more than ten times. His poems often mock the unfairness he saw in society. He wrote plainly and directly, and quite a few of his lines became everyday sayings."
+ },
+ "appreciation": {
+  "zh": "前两句写蜜蜂飞得多远多广：平地上有，山顶上也有，哪里有花，哪里就有它们，好像整个春天的美景都是它们的。第三句一转，写它们一朵一朵地采花，终于酿成了蜜。最后一句连问两个“为谁”，问得人心里一动：蜜蜂这么辛苦，可是甜甜的蜜，大多被别人拿走了。诗里没有一句大道理，只是看着蜜蜂发问，却让人想到那些默默劳动的人。读完以后，我们也会更珍惜别人的辛苦。",
+  "en": "The first two lines show how far and wide the bees fly: on flat land and on mountain tops, wherever there are flowers, there they are. It is as if all of spring's beauty belongs to them. The third line turns: flower by flower they gather, and at last they make honey. The last line asks \"for whom?\" twice, and it touches the heart. The bees work so hard, but most of the sweet honey is taken by others. The poem preaches nothing. It just watches the bees and asks a question, and that makes us think of people who work quietly for others. After reading it, we may value other people's hard work a little more."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "bee",
+   "flowers",
+   "hard-work",
+   "satire"
+  ]
+ },
+ "uncertain": []
+}

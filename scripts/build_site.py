@@ -17,6 +17,7 @@ import re
 import shutil
 import sqlite3
 import sys
+from collections import defaultdict
 
 from pypinyin import Style, lazy_pinyin, pinyin
 from pypinyin.pinyin_dict import pinyin_dict
@@ -303,7 +304,7 @@ def poem_page(p, nav_prev, nav_next, base):
   <body class="has-bar">{nav(base)}
     <main class="wrap">
       <article class="poem" style="--size:{size}px">
-        <p class="mono">{bi(f"No. {p['rank']} · {kind_en} · {p['form']['en']}", f"第 {p['rank']} 首 · {kind_zh} · {p['form']['zh']}")}</p>
+        <p class="mono">{bi(f"No. {p['rank']} · {kind_en} · {p['form']['en']}", f"第 {p['rank']} 首 · {kind_zh} · {p['form']['zh']}") if p['rank'] else bi(f"{kind_en} · {p['form']['en']}", f"{kind_zh} · {p['form']['zh']}")}</p>
         <h1>{e(p["title"])}</h1>
         <p class="by">{e(p["author"])}<span class="mono">{bi(f"{p['author_en']} · {dyn_en}", dyn_zh)}</span></p>
         <p class="en-title mono" lang="en">{e(p["title_en"])}</p>
@@ -352,7 +353,7 @@ def stub_page(c, base):
 def home_page(published, catalog, stats, base):
     def items(kind):
         rows = []
-        for p in sorted((x for x in published if x["kind"] == kind), key=lambda x: x["rank"]):
+        for p in sorted((x for x in published if x["kind"] == kind and x["rank"]), key=lambda x: x["rank"]):
             first = "".join(c[0] for c in p["lines"][0])
             rows.append(f'<li><a href="{base}p/{p["slug"]}/"><span class="rk mono">{p["rank"]:03d}</span>'
                         f'<span class="tt">{e(p["title"])}<small>{e(p["author"])}</small></span>'
@@ -435,40 +436,66 @@ def not_found(base):
 
 # --- Data ---
 
-def load_published():
+def load_ranks():
+    """Rank of each of the top 100 Tang shi and top 100 Song ci."""
     with open(os.path.join(ROOT, "data/catalog/ranking.json"), encoding="utf-8") as f:
         ranking = json.load(f)
-    rank = {s["id"]: s["rank"] for k in ("shi", "ci") for s in ranking[k] if s["selected"]}
+    return {s["id"]: s["rank"] for k in ("shi", "ci") for s in ranking[k] if s["selected"]}
+
+
+def load_published(catalog, rank):
+    """Close readings of catalog poems that pass validation and have no open question."""
+    in_catalog = {c["id"] for c in catalog}
     published, pending = [], []
     for path in sorted(glob.glob(os.path.join(ROOT, "data/poems/*.json"))):
         with open(path, encoding="utf-8") as f:
             p = json.load(f)
+        if p["id"] not in in_catalog:
+            continue  # an excluded duplicate (data/curation/catalog-exclude.json)
         errs = check(path)
-        if errs or p.get("uncertain") or p["id"] not in rank:
+        if errs or p.get("uncertain"):
             pending.append((p, errs))
             continue
-        p["rank"] = rank[p["id"]]
+        p["rank"] = rank.get(p["id"])
         sandhi(p)
         published.append(p)
-    names = {s["id"]: f'{s["author"]}《{s["title"]}》' for k in ("shi", "ci") for s in ranking[k]}
-    missing = [f"{names[i]} (`{i}`)" for i in rank if not os.path.exists(os.path.join(ROOT, f"data/poems/{i}.json"))]
+    missing = [f'{c["author"]}《{c["title"]}》 (`{c["id"]}`)' for c in catalog
+               if not os.path.exists(os.path.join(ROOT, f'data/poems/{c["id"]}.json'))]
     return published, pending, missing
 
 
-def load_catalog(db):
+def load_catalog(db, prefer):
+    """Every poem in the anthologies and curated lists, one copy each. When the corpus holds
+    a poem twice, the copy in `prefer` (the top 200) wins."""
     rows = db.execute(
         f"""SELECT p.id, p.kind, p.dynasty, p.author, p.title, p.text FROM poems p
             WHERE p.id IN (SELECT poem_id FROM lists WHERE list IN ({','.join('?' * len(CATALOG_LISTS))}))
-               OR p.id LIKE 'sup-%'""", CATALOG_LISTS).fetchall()
-    seen, out = set(), []
+               OR p.id LIKE 'sup-%'
+               OR p.id IN ({','.join('?' * len(prefer))})""", (*CATALOG_LISTS, *prefer)).fetchall()
+    def written(pid):
+        return os.path.exists(os.path.join(ROOT, f"data/poems/{pid}.json"))
+
+    # Prefer the top-200 copy, then a copy that already has a close reading.
+    rows.sort(key=lambda r: (r[0] not in prefer, not written(r[0]), r[0]))
+    with open(os.path.join(ROOT, "data/curation/catalog-exclude.json"), encoding="utf-8") as f:
+        excluded = {x["id"] for x in json.load(f)["exclude"]}
+    kept, out = defaultdict(list), []
     for pid, kind, dyn, author, title, text in rows:
-        key = (author, "".join(HAN.findall(text))[:8])
-        if key in seen:
+        if pid in excluded:
             continue
-        seen.add(key)
+        opening = "".join(HAN.findall(text))[:14]
+        # Variant copies differ by a character or two, so compare openings loosely.
+        if any(same_opening(opening, o) for o in kept[author]):
+            continue
+        kept[author].append(opening)
         out.append({"id": pid, "kind": kind, "dynasty": dyn, "author": author,
                     "title": TITLE_PREFIX.sub("", title).strip(), "text": text})
     return out
+
+
+def same_opening(a, b):
+    n = min(len(a), len(b))
+    return n > 0 and sum(x == y for x, y in zip(a, b)) / n >= 0.7
 
 
 def write(path, text):
@@ -479,13 +506,12 @@ def write(path, text):
 
 def main():
     db = sqlite3.connect(DB)
-    published, pending, missing = load_published()
-    catalog = load_catalog(db)
+    rank = load_ranks()
+    catalog = load_catalog(db, set(rank))
+    write(os.path.join(ROOT, "data/catalog/catalog.json"), json.dumps(
+        [{k: c[k] for k in ("id", "kind", "author", "title")} for c in catalog], ensure_ascii=False, indent=1))
+    published, pending, missing = load_published(catalog, rank)
     by_id = {p["id"]: p for p in published}
-    # Close readings replace their corpus entry; keep catalog order stable.
-    catalog_ids = {c["id"] for c in catalog}
-    catalog += [{"id": p["id"], "kind": p["kind"], "dynasty": p["dynasty"], "author": p["author"],
-                 "title": p["title"], "text": ""} for p in published if p["id"] not in catalog_ids]
 
     for d in ("p", "assets"):
         shutil.rmtree(os.path.join(SITE, d), ignore_errors=True)
@@ -494,13 +520,16 @@ def main():
         shutil.copy(os.path.join(SRC, name), os.path.join(SITE, "assets", name))
 
     taken = set()
-    for p in sorted(published, key=lambda x: (x["kind"] != "shi", x["rank"])):
+    def order(p):
+        return (p["kind"] != "shi", p["rank"] is None, p["rank"] or 0, p["id"])
+
+    for p in sorted(published, key=order):
         p["slug"] = slugify(p["title"], p["author"], taken)
     for c in catalog:
         c["slug"] = by_id[c["id"]]["slug"] if c["id"] in by_id else slugify(c["title"], c["author"], taken)
 
     for kind in ("shi", "ci"):
-        seq = sorted((p for p in published if p["kind"] == kind), key=lambda x: x["rank"])
+        seq = sorted((p for p in published if p["kind"] == kind), key=order)
         for i, p in enumerate(seq):
             write(os.path.join(SITE, "p", p["slug"], "index.html"),
                   poem_page(p, seq[i - 1] if i else None, seq[i + 1] if i + 1 < len(seq) else None, "../../"))
@@ -514,7 +543,7 @@ def main():
         title = p["title"] if p else c["title"]
         text = " ".join("".join(x[0] for x in l) for l in p["lines"]) if p else " ".join(
             "".join(HAN.findall(s)) for s in re.split(r"[，。？！；：\n]", c["text"]) if HAN.search(s))
-        search.append({"s": c["slug"], "t": title, "a": c["author"], "k": c["kind"], "r": p["rank"] if p else 0,
+        search.append({"s": c["slug"], "t": title, "a": c["author"], "k": c["kind"], "r": (p["rank"] or 0) if p else 0,
                        "d": 1 if p else 0, "x": text, "tp": plain(title.replace("·", "")),
                        "ti": initials(title), "ap": plain(c["author"]), "ai": initials(c["author"])})
     write(os.path.join(SITE, "data/search.json"), json.dumps(search, ensure_ascii=False, separators=(",", ":")))

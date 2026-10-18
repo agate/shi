@@ -1,0 +1,263 @@
+{
+ "id": "231ffdfc-9391-4da4-94e8-e7e9da35925d",
+ "kind": "shi",
+ "title": "送沈子福归江东",
+ "title_en": "Seeing Shen Zifu Off Home to Jiangdong",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "罟",
+    "gǔ"
+   ],
+   [
+    "师",
+    "shī"
+   ],
+   [
+    "荡",
+    "dàng"
+   ],
+   [
+    "桨",
+    "jiǎng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "圻",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库题目作《送沈子归江东》。通行本题目多作《送沈子福归江东》，也有写作《送沈子福之江东》的。正文相同，只是“唯有”有的版本写作“惟有”，意思一样。",
+  "en": "The corpus title leaves out the friend's full name. Common editions call the poem \"Seeing Shen Zifu Off Home to Jiangdong\"; some use a slightly different word for \"going to\". The poem text is the same; some editions write \"only\" (wéi) with a variant character of the same meaning."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "圻",
+   "pinyin": "qí",
+   "zh": "圻：读 qí，意思是弯曲的河岸。",
+   "en": "This character is read qí here, meaning a curving riverbank."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "渡头：渡口，坐船过河的地方。",
+   "en": "dù tóu: a ferry landing, where people take boats across the river."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "行客：出门在外的人，这里指过路的旅客。",
+   "en": "xíng kè: travellers passing through."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "稀：少。",
+   "en": "xī: few."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "罟师：打鱼的人，这里指船夫。罟，渔网。",
+   "en": "gǔ shī: a fisherman, here the boatman. Gǔ means a fishing net."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "荡桨：划桨。",
+   "en": "dàng jiǎng: to row with the oars."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "临圻：地名，大约在今天江苏一带，是朋友要去的地方。一说是指靠近弯弯河岸的地方。",
+   "en": "lín qí: a place name, probably in today's Jiangsu, where the friend was going. Another reading says it simply means a curving shore ahead."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "相思：思念朋友的心情。",
+   "en": "xiāng sī: missing someone dear."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "江南江北：长江南岸和北岸，到处。",
+   "en": "jiāng nán jiāng běi: both banks of the Yangtze, south and north, that is, everywhere."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 6,
+   "zh": "君：你，对朋友的尊称。",
+   "en": "jūn: you, a polite word for a friend."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "杨柳青青的渡口，来往的客人很少。",
+   "en": "At the ferry landing among the willows, few travellers come and go."
+  },
+  {
+   "zh": "船夫划着桨，载着你向临圻驶去。",
+   "en": "The boatman pulls his oars and heads for Linqi."
+  },
+  {
+   "zh": "只有我对你的思念，就像这满眼的春色，",
+   "en": "Only my longing for you is like the spring colors all around:"
+  },
+  {
+   "zh": "从江南到江北，一路陪着你回家。",
+   "en": "south of the river and north of it, it goes with you all the way home."
+  }
+ ],
+ "background": {
+  "zh": "这是王维送别朋友的诗。朋友叫沈子福，要坐船回江东，也就是长江下游的江南一带。沈子福是谁，生平已经不清楚了。诗里写到杨柳和春色，可以知道是在春天的渡口分别的。具体写于哪一年，也不清楚。",
+  "en": "Wang Wei wrote this to see off a friend named Shen Zifu, who was taking a boat home to Jiangdong, the land along the lower Yangtze. Nothing more is known about who Shen Zifu was. The willows and spring colors tell us they parted at a ferry landing in spring. We do not know the year it was written."
+ },
+ "author_note": {
+  "zh": "王维（701？—761），盛唐诗人，也是画家，信佛，被称为“诗佛”。苏轼说他“诗中有画，画中有诗”。他写过很多送别诗，最有名的是《送元二使安西》。他的送别诗不哭不喊，常常用景物把情意说出来。",
+  "en": "Wang Wei (701? to 761) was a High Tang poet and painter, and a devoted Buddhist, called the Buddha of Poetry. Su Shi said his poems hold paintings and his paintings hold poems. He wrote many farewell poems; the most famous is \"Seeing Off Yuan Er on a Mission to Anxi\". His farewells do not weep or cry out. He lets the scenery carry the feeling."
+ },
+ "appreciation": {
+  "zh": "前两句写分别的场面：杨柳边的渡口很冷清，船夫已经划桨，朋友就要走了。后两句是全诗最妙的地方。思念本来看不见、摸不着，诗人却说它像春色。春色铺满了江南江北，到处都是；我的思念也一样，铺满你回家的整条路。朋友走到哪里，看见春天，就像看见我的心意。这个比喻新鲜又温暖，让离别不那么伤心。",
+  "en": "The first two lines set the scene. The ferry landing by the willows is quiet. The boatman is already rowing, and the friend is leaving. The last two lines are the best part. Longing cannot be seen or touched, yet the poet says it is like the color of spring. Spring covers both banks of the river, everywhere you look. So does his longing, all along his friend's road home. Wherever the friend goes, seeing spring will be like seeing the poet's heart. The comparison is fresh and warm, and it makes the parting less sad."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "river",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

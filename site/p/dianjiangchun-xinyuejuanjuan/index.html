@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>点绛唇·新月娟娟 · 汪藻 — 诗</title>
+    <meta name="description" content="点绛唇·新月娟娟 · 汪藻 — Dian Jiang Chun: The Thin New Moon by Wang Zao: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>点绛唇·新月娟娟</h1>
+        <p class="by">汪藻<span class="mono"><span lang="en">Wang Zao · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Dian Jiang Chun: The Thin New Moon</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>xīn</i><b>新</b></span><span class="c" data-l="0" data-p="1"><i>yuè</i><b>月</b></span><span class="c gl" data-l="0" data-p="2"><i>juān</i><b>娟</b></span><span class="c gl" data-l="0" data-p="3"><i>juān</i><b>娟</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>yè</i><b>夜</b></span><span class="c" data-l="1" data-p="1"><i>hán</i><b>寒</b></span><span class="c" data-l="1" data-p="2"><i>jiāng</i><b>江</b></span><span class="c" data-l="1" data-p="3"><i>jìng</i><b>静</b></span><span class="c" data-l="1" data-p="4"><i>shān</i><b>山</b></span><span class="c gl" data-l="1" data-p="5"><i>xián</i><b>衔</b></span><span class="c gl rd" data-l="1" data-p="6"><i>dǒu</i><b>斗</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>qǐ</i><b>起</b></span><span class="c" data-l="2" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="2" data-p="2"><i>sāo</i><b>搔</b></span><span class="c gl" data-l="2" data-p="3"><i>shǒu</i><b>首</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>méi</i><b>梅</b></span><span class="c gl" data-l="3" data-p="1"><i>yǐng</i><b>影</b></span><span class="c gl" data-l="3" data-p="2"><i>héng</i><b>横</b></span><span class="c gl" data-l="3" data-p="3"><i>chuāng</i><b>窗</b></span><span class="c gl" data-l="3" data-p="4"><i>shòu</i><b>瘦</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>hǎo</i><b>好</b></span><span class="c gl" data-l="4" data-p="1"><i>gè</i><b>个</b></span><span class="c gl" data-l="4" data-p="2"><i>shuāng</i><b>霜</b></span><span class="c gl" data-l="4" data-p="3"><i>tiān</i><b>天</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>xián</i><b>闲</b></span><span class="c gl" data-l="5" data-p="1"><i>què</i><b>却</b></span><span class="c gl" data-l="5" data-p="2"><i>chuán</i><b>传</b></span><span class="c gl" data-l="5" data-p="3"><i>bēi</i><b>杯</b></span><span class="c gl" data-l="5" data-p="4"><i>shǒu</i><b>手</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>jūn</i><b>君</b></span><span class="c" data-l="6" data-p="1"><i>zhī</i><b>知</b></span><span class="c" data-l="6" data-p="2"><i>fǒu</i><b>否</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>luàn</i><b>乱</b></span><span class="c gl" data-l="7" data-p="1"><i>yā</i><b>鸦</b></span><span class="c" data-l="7" data-p="2"><i>tí</i><b>啼</b></span><span class="c" data-l="7" data-p="3"><i>hòu</i><b>后</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>guī</i><b>归</b></span><span class="c gl rd" data-l="8" data-p="1"><i>xìng</i><b>兴</b></span><span class="c gl" data-l="8" data-p="2"><i>nóng</i><b>浓</b></span><span class="c gl" data-l="8" data-p="3"><i>yú</i><b>于</b></span><span class="c gl" data-l="8" data-p="4"><i>jiǔ</i><b>酒</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">Some versions read nóng rú jiǔ (as strong as wine) instead of nóng yú jiǔ (stronger than wine). The meaning is the same: the wish to go home is as strong as wine.</p><p lang="zh">“归兴浓于酒”，有的版本作“归兴浓如酒”，意思一样，都是说想家的心比酒还浓。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">新月娟娟</span><span lang="en">A thin new moon, slim and lovely.</span><span lang="zh">一弯新月细细的，十分美丽。</span></li><li><span class="o">夜寒江静山衔斗</span><span lang="en">The night is cold and the river is still. The Big Dipper hangs low, as if the hill holds it in its mouth.</span><span lang="zh">夜里很冷，江面很静，北斗星低低地挂在山头，好像被山含在嘴里。</span></li><li><span class="o">起来搔首</span><span lang="en">I cannot sleep, so I get up and scratch my head.</span><span lang="zh">我睡不着，起身挠挠头。</span></li><li><span class="o">梅影横窗瘦</span><span lang="en">The shadow of the plum tree falls across the window, thin and bony.</span><span lang="zh">梅花的影子斜斜地映在窗上，又细又瘦。</span></li><li class="brk"><span class="o">好个霜天</span><span lang="en">Such a fine frosty night,</span><span lang="zh">多好的一个霜夜啊，</span></li><li><span class="o">闲却传杯手</span><span lang="en">yet my hand that should pass the wine cup lies idle. No one is here to drink with me.</span><span lang="zh">可是我这只传杯劝酒的手却闲着，没人陪我喝酒。</span></li><li><span class="o">君知否</span><span lang="en">Do you know?</span><span lang="zh">你知道吗？</span></li><li><span class="o">乱鸦啼后</span><span lang="en">After the crows have cawed and settled,</span><span lang="zh">在乌鸦乱叫过后，</span></li><li><span class="o">归兴浓于酒</span><span lang="en">my wish to go home is stronger than wine.</span><span lang="zh">我想回家的心情，比酒还要浓。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>娟娟<span class="mono">juān juān</span></dt><dd><span lang="en">juān juān: lovely. Here it describes the thin new moon, slim and pretty.</span><span lang="zh">娟娟：美好的样子。这里形容弯弯的新月又细又美。</span></dd></div><div><dt>衔斗<span class="mono">xián dǒu</span></dt><dd><span lang="en">xián dǒu: xián means to hold in the mouth. The hill seems to hold the Big Dipper in its mouth: the stars hang low just above the hilltop.</span><span lang="zh">衔斗：衔，用嘴含着。山好像用嘴含着北斗星，意思是北斗星低低地挂在山顶上。</span></dd></div><div><dt>搔首<span class="mono">sāo shǒu</span></dt><dd><span lang="en">sāo shǒu: to scratch one&#x27;s head, as people do when they feel restless or troubled.</span><span lang="zh">搔首：用手挠头。人心里烦闷、拿不定主意的时候，常会挠头。</span></dd></div><div><dt>梅影横窗瘦<span class="mono">méi yǐng héng chuāng shòu</span></dt><dd><span lang="en">méi yǐng héng chuāng shòu: the shadow of the plum branches lies across the window, thin and bony.</span><span lang="zh">梅影横窗瘦：梅花枝条的影子斜斜地映在窗上，又细又瘦。</span></dd></div><div><dt>好个霜天<span class="mono">hǎo gè shuāng tiān</span></dt><dd><span lang="en">hǎo gè shuāng tiān: what a fine frosty night.</span><span lang="zh">好个霜天：多好的一个下霜的夜晚啊。</span></dd></div><div><dt>闲却<span class="mono">xián què</span></dt><dd><span lang="en">xián què: left idle, with nothing to do.</span><span lang="zh">闲却：闲着，空着没用。</span></dd></div><div><dt>传杯手<span class="mono">chuán bēi shǒu</span></dt><dd><span lang="en">chuán bēi shǒu: the hand that passes the wine cup. Leaving it idle means there is no one to drink with.</span><span lang="zh">传杯手：传递酒杯、互相劝酒的手。闲却传杯手，就是没有人一起喝酒。</span></dd></div><div><dt>乱鸦<span class="mono">luàn yā</span></dt><dd><span lang="en">luàn yā: a noisy flock of crows.</span><span lang="zh">乱鸦：成群乱叫的乌鸦。</span></dd></div><div><dt>归兴<span class="mono">guī xìng</span></dt><dd><span lang="en">guī xìng: the wish to go home.</span><span lang="zh">归兴：想回家的心情。</span></dd></div><div><dt>浓于酒<span class="mono">nóng yú jiǔ</span></dt><dd><span lang="en">nóng yú jiǔ: stronger than wine.</span><span lang="zh">浓于酒：比酒还浓。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>斗<span class="mono">dǒu</span></dt><dd><span lang="en">Here the character means the Big Dipper, so it is read dǒu, not dòu as in fighting.</span><span lang="zh">这里指北斗星，读 dǒu，不读打斗的 dòu。</span></dd></div><div><dt>兴<span class="mono">xìng</span></dt><dd><span lang="en">Guī xìng is the wish to go home. The character is read xìng, as in xìngqù (interest).</span><span lang="zh">归兴是想回家的兴致，读 xìng，和“兴趣”的“兴”一样。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">We do not know exactly when or where this poem was written. From the poem itself, it is a cold winter night. The poet is far from home, cannot sleep, and misses home. One view says Wang Zao wrote it when things were going badly for him as an official, and the noisy crows may hint at petty people at court. Who wrote it is also debated. One view says it was Su Guo, the son of Su Shi, but most anthologies give it to Wang Zao.</p><p lang="zh">这首词写作的时间和地点不详。从词里看，是一个寒冷的冬夜，词人在外地，睡不着觉，想念家乡。一说是汪藻在官场不得意时写的，词里的“乱鸦”可能暗指朝中那些吵吵嚷嚷的小人。这首词的作者也有争议，一说是苏轼的儿子苏过写的，一般选本署名汪藻。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Zao (1079–1154) came from Dexing in today&#x27;s Jiangxi. He was a writer at the end of the Northern Song and the start of the Southern Song. He was best at a kind of prose built on matched pairs of phrases, and he wrote many of the court&#x27;s official orders in the early Southern Song. Very few of his song lyrics survive, and this one is the best known.</p><p lang="zh">汪藻（1079—1154），字彦章，饶州德兴（今江西德兴）人，北宋末、南宋初的文人。他最擅长写骈文，就是讲究对仗的文章，南宋初年朝廷的很多诏书都出自他的手。他留下来的词很少，这首《点绛唇》是最有名的一首。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half is a cold, quiet night scene: a thin new moon, a chilly night, a still river, and the Big Dipper hanging low. The poet cannot sleep. He gets up and scratches his head, and sees the plum tree&#x27;s shadow on the window, thin and bony. The word thin describes the shadow, but it also hints at the lonely man. In the second half he says that on such a fine frosty night he should be drinking with friends, but no one is there. At the end he asks: do you know? After the crows have cawed, my wish to go home is stronger than wine. Wine makes you drunker the more you drink, and homesickness grows deeper the more you think. Picture a man at a cold window, looking at the moon, wanting only to go home.</p><p lang="zh">上阕是一幅冷清的夜景：弯弯的新月，寒冷的夜，安静的江，低低的北斗星。词人睡不着，起来挠头，看见梅花的影子映在窗上，又细又瘦。这个“瘦”字，既写梅影，也像在写人的孤单。下阕说，这么好的霜夜，本该和朋友喝酒，可是身边没有人。最后他问：你知道吗？乌鸦乱叫之后，我想回家的心，比酒还浓。用酒来比思乡，酒越喝越醉，思乡也越想越深。读的时候，可以想象一个人站在冷冷的窗前，望着月亮，心里只想回家。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/fengrusong-yichunzhangfeimaihuaqian/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>风入松·一春长费买花钱</b></a><a href="../../p/zhegutian-yuanxiyousuomeng/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>鹧鸪天·元夕有所梦</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["新", "xīn"], ["月", "yuè"], ["娟", "juān"], ["娟", "juān"]], [["夜", "yè"], ["寒", "hán"], ["江", "jiāng"], ["静", "jìng"], ["山", "shān"], ["衔", "xián"], ["斗", "dǒu"]], [["起", "qǐ"], ["来", "lái"], ["搔", "sāo"], ["首", "shǒu"]], [["梅", "méi"], ["影", "yǐng"], ["横", "héng"], ["窗", "chuāng"], ["瘦", "shòu"]], [["好", "hǎo"], ["个", "gè"], ["霜", "shuāng"], ["天", "tiān"]], [["闲", "xián"], ["却", "què"], ["传", "chuán"], ["杯", "bēi"], ["手", "shǒu"]], [["君", "jūn"], ["知", "zhī"], ["否", "fǒu"]], [["乱", "luàn"], ["鸦", "yā"], ["啼", "tí"], ["后", "hòu"]], [["归", "guī"], ["兴", "xìng"], ["浓", "nóng"], ["于", "yú"], ["酒", "jiǔ"]]], "glosses": [{"line": 0, "start": 2, "end": 4, "zh": "娟娟：美好的样子。这里形容弯弯的新月又细又美。", "en": "juān juān: lovely. Here it describes the thin new moon, slim and pretty."}, {"line": 1, "start": 5, "end": 7, "zh": "衔斗：衔，用嘴含着。山好像用嘴含着北斗星，意思是北斗星低低地挂在山顶上。", "en": "xián dǒu: xián means to hold in the mouth. The hill seems to hold the Big Dipper in its mouth: the stars hang low just above the hilltop."}, {"line": 2, "start": 2, "end": 4, "zh": "搔首：用手挠头。人心里烦闷、拿不定主意的时候，常会挠头。", "en": "sāo shǒu: to scratch one's head, as people do when they feel restless or troubled."}, {"line": 3, "start": 0, "end": 5, "zh": "梅影横窗瘦：梅花枝条的影子斜斜地映在窗上，又细又瘦。", "en": "méi yǐng héng chuāng shòu: the shadow of the plum branches lies across the window, thin and bony."}, {"line": 4, "start": 0, "end": 4, "zh": "好个霜天：多好的一个下霜的夜晚啊。", "en": "hǎo gè shuāng tiān: what a fine frosty night."}, {"line": 5, "start": 0, "end": 2, "zh": "闲却：闲着，空着没用。", "en": "xián què: left idle, with nothing to do."}, {"line": 5, "start": 2, "end": 5, "zh": "传杯手：传递酒杯、互相劝酒的手。闲却传杯手，就是没有人一起喝酒。", "en": "chuán bēi shǒu: the hand that passes the wine cup. Leaving it idle means there is no one to drink with."}, {"line": 7, "start": 0, "end": 2, "zh": "乱鸦：成群乱叫的乌鸦。", "en": "luàn yā: a noisy flock of crows."}, {"line": 8, "start": 0, "end": 2, "zh": "归兴：想回家的心情。", "en": "guī xìng: the wish to go home."}, {"line": 8, "start": 2, "end": 5, "zh": "浓于酒：比酒还浓。", "en": "nóng yú jiǔ: stronger than wine."}], "readings": [{"line": 1, "pos": 6, "char": "斗", "pinyin": "dǒu", "zh": "这里指北斗星，读 dǒu，不读打斗的 dòu。", "en": "Here the character means the Big Dipper, so it is read dǒu, not dòu as in fighting."}, {"line": 8, "pos": 1, "char": "兴", "pinyin": "xìng", "zh": "归兴是想回家的兴致，读 xìng，和“兴趣”的“兴”一样。", "en": "Guī xìng is the wish to go home. The character is read xìng, as in xìngqù (interest)."}], "speak": ["新月娟娟", "夜寒江静山衔抖", "起来搔首", "梅影横窗瘦", "好个霜天", "闲却传杯手", "君知否", "乱鸦啼后", "归性浓于酒"], "speakTitle": "点绛唇，新月娟娟。汪藻。", "sample": "新月娟娟"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

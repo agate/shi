@@ -1,0 +1,256 @@
+{
+ "id": "146f2975-7439-4e91-b13f-d9f1128ecd4b",
+ "kind": "shi",
+ "title": "寄扬州韩绰判官",
+ "title_en": "To Han Chuo, Judge in Yangzhou",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "凋",
+    "diāo"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "教",
+    "jiāo"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "箫",
+    "xiāo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文第二句作“秋尽江南草木凋”。通行本多作“草未凋”，说的是江南到了深秋草木还没有枯萎。",
+  "en": "In the corpus, line 2 says the plants have withered. Most common editions say the grass has not yet withered, meaning that in the south the plants stay green even in late autumn."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "教",
+   "pinyin": "jiāo",
+   "zh": "教在这里读 jiāo，意思是教人吹箫。一说是“让、使”的意思，也读 jiāo。",
+   "en": "Here this character is read jiāo, meaning to teach someone to play the flute. Another view takes it as to have someone play, also read jiāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "隐隐：模模糊糊，看不太清楚。",
+   "en": "yǐn yǐn: faint and hazy."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "迢迢：水流很长很远的样子。",
+   "en": "tiáo tiáo: long and far, as a river stretching away."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "秋尽：秋天快过完了。",
+   "en": "qiū jìn: autumn nearly over."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "凋：草木枯萎、凋落。",
+   "en": "diāo: plants withering."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "二十四桥：扬州的名胜。一说扬州城里原有二十四座桥；一说是一座桥的名字，又叫红药桥。",
+   "en": "Twenty-Four Bridges: a famous sight of Yangzhou. One view says the city had twenty-four bridges; another says it was the name of a single bridge."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "玉人：像玉一样美的人。一说指韩绰，是开玩笑的说法；一说指扬州的歌女。",
+   "en": "yù rén: a person as fair as jade. One view says it means Han Chuo himself, said in jest; another says the singing girls of Yangzhou."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "何处：在哪里。",
+   "en": "hé chù: where."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "吹箫：吹奏箫。箫是一种竖着吹的竹管乐器。",
+   "en": "chuī xiāo: to play the xiao, a bamboo flute held upright."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "青山隐隐约约，江水悠悠流向远方，",
+   "en": "Green hills are faint and hazy, the river flows far away,"
+  },
+  {
+   "zh": "秋天快过完了，江南的草木还没有凋零。",
+   "en": "autumn is almost over, yet the grass of the south has not withered."
+  },
+  {
+   "zh": "在二十四桥的明月之夜，",
+   "en": "On a moonlit night by the Twenty-Four Bridges,"
+  },
+  {
+   "zh": "你这位美人，正在哪里教人吹箫呢？",
+   "en": "where are you, fair one, teaching someone to play the flute?"
+  }
+ ],
+ "background": {
+  "zh": "杜牧年轻时在扬州做过几年官，在淮南节度使的府里做事，韩绰是他的同事，做判官，就是帮长官处理公务的官员。后来杜牧离开扬州，到了秋天想起老朋友和扬州的繁华，就写了这首诗寄给韩绰。写作的具体年份说法不一。",
+  "en": "When young, Du Mu worked for some years in Yangzhou, in the office of the regional governor. Han Chuo was his colleague there, a judge who helped the governor with official business. Later Du Mu left Yangzhou. One autumn, missing his old friend and the bright life of the city, he wrote this poem and sent it to Han Chuo. Sources differ on the exact year."
+ },
+ "author_note": {
+  "zh": "杜牧（803—约852），晚唐诗人，和李商隐并称“小李杜”。他在扬州的日子过得很潇洒，写了不少和扬州有关的诗，比如“十年一觉扬州梦”。他的绝句清新俊爽，很受人喜爱。",
+  "en": "Du Mu (803 to about 852) was a late Tang poet, named with Li Shangyin as the Little Li and Du. His years in Yangzhou were carefree, and he wrote many poems about the city, such as the line about waking from a ten-year dream of Yangzhou. His quatrains are fresh and graceful, and readers love them."
+ },
+ "appreciation": {
+  "zh": "前两句写远远想象中的江南：青山若隐若现，江水弯弯绕绕流得很远。北方已经冷了，江南到了深秋，草木还是绿的。这里有诗人对江南的怀念。后两句一转，问起老朋友：月亮照着二十四桥，这么美的夜晚，你在哪里吹箫作乐呢？语气轻松，像朋友之间开玩笑，又透出羡慕和想念。月光、小桥、箫声放在一起，画面清冷又柔美，让人一读就记住了扬州的月夜。",
+  "en": "The first two lines picture the south from far away. Green hills come and go in the haze, and the river winds into the distance. The north is already cold, but in the south the plants are still green in late autumn. We can feel the poet missing the south. The last two lines turn to his friend: the moon shines on the Twenty-Four Bridges, and on such a lovely night, where are you playing the flute? The tone is light, like a friend teasing a friend, with a touch of envy and longing. Moonlight, little bridges and the sound of a flute make a cool, gentle picture. One reading is enough to remember a moonlit night in Yangzhou."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "moon",
+   "jiangnan",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,253 @@
+{
+ "id": "9154fc22-5e19-45b7-a506-435298bb26fc",
+ "kind": "shi",
+ "title": "台城",
+ "title_en": "Taicheng",
+ "author": "韦庄",
+ "author_en": "Wei Zhuang",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "霏",
+    "fēi"
+   ],
+   [
+    "霏",
+    "fēi"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "齐",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "六",
+    "liù"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "啼",
+    "tí"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "笼",
+    "lǒng"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "堤",
+    "dī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "笼",
+   "pinyin": "lǒng",
+   "zh": "“笼”表示笼罩时，现在一般读 lǒng；也有人读 lóng。",
+   "en": "When lóng means to veil or cover, it is usually read lǒng today; some people read it lóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "霏霏：雨下得又细又密的样子。",
+   "en": "fēi fēi: rain falling fine and thick."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "江草齐：江边的草长得又密又整齐，说明春天已经很深了。",
+   "en": "jiāng cǎo qí: the grass by the river has grown thick and even, a sign that spring is well along."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "六朝：东吴、东晋、宋、齐、梁、陈六个朝代，它们都把都城建在今天的南京。",
+   "en": "liù cháo: the Six Dynasties, Eastern Wu, Eastern Jin, Song, Qi, Liang and Chen, which all made today's Nanjing their capital."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "空啼：白白地叫。人事都变了，鸟儿还在叫，好像什么都不知道。",
+   "en": "kōng tí: crying in vain. Everything human has changed, yet the birds still sing as if they knew nothing."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "台城：六朝时的宫城，在今天南京玄武湖边上。到了唐代，早已荒废了。",
+   "en": "tái chéng: Taicheng, the palace city of the Six Dynasties, by Xuanwu Lake in today's Nanjing. By the Tang it had long fallen into ruin."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "依旧：还是像从前一样。",
+   "en": "yī jiù: still the same as before."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "烟笼：像烟雾一样笼罩着。远看一排排柳树，绿得像一层薄雾。",
+   "en": "yān lǒng: veiled as if by mist. Seen from afar, the rows of willows look like a thin green haze."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "十里堤：很长的河堤，种满了柳树。",
+   "en": "shí lǐ dī: a very long embankment, lined with willows."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "江上细雨蒙蒙，江边的春草长得又密又齐。",
+   "en": "Fine rain drifts over the river, and the riverside grass grows thick and even."
+  },
+  {
+   "zh": "六个朝代的繁华就像一场梦，只有鸟儿还在白白地叫。",
+   "en": "The glory of the Six Dynasties has passed like a dream; only the birds still cry, for nothing."
+  },
+  {
+   "zh": "最没有感情的，是台城的柳树，",
+   "en": "The most heartless of all are the willows of Taicheng,"
+  },
+  {
+   "zh": "它们还像从前一样，绿得像烟雾，笼罩着十里长堤。",
+   "en": "still, as before, veiling the long embankment in green mist."
+  }
+ ],
+ "background": {
+  "zh": "台城在金陵，就是今天的江苏南京。六朝的皇帝都住在这里，当年非常热闹。可是这些朝代一个接一个地灭亡了，到唐代，台城只剩下一片荒凉。韦庄生活在晚唐，那时唐朝也已经乱得快要撑不住了。他来到金陵，看到台城旧址，写下这首诗。一般认为写于他在江南漫游的时候，具体年份不能确定。",
+  "en": "Taicheng was in Jinling, today's Nanjing in Jiangsu. The emperors of the Six Dynasties lived there, and it was once full of life. But those dynasties fell one after another, and by the Tang, Taicheng was only a lonely ruin. Wei Zhuang lived in the late Tang, when the Tang itself was falling apart. He came to Jinling, saw the site of Taicheng, and wrote this poem. It is usually thought to date from his years of travel in the south, but the exact year is not known."
+ },
+ "author_note": {
+  "zh": "韦庄（约836—910），晚唐诗人、词人。他经历过黄巢之乱，写过长诗《秦妇吟》，记下了战乱中百姓的苦。他也在江南住过很多年。后来他到了四川，在前蜀做了宰相。他亲眼见过一个朝代走向衰落，所以对“兴亡”特别有感触。",
+  "en": "Wei Zhuang (about 836–910) was a late Tang poet and writer of song lyrics. He lived through the Huang Chao rebellion and wrote a long poem, \"Lament of the Lady of Qin\", about the suffering of ordinary people in the war. He also lived in the south for many years. Later he went to Sichuan and became chief minister of the state of Former Shu. He had watched a dynasty decline with his own eyes, so the rise and fall of dynasties moved him deeply."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是“物是人非”：景物还在，人和事都变了。第一句是一幅春雨图，江雨细细，青草茂盛，很美，也有点朦胧。第二句一下子想到六朝：那么多繁华，都像梦一样过去了，鸟儿却还在叫，好像什么都不知道。后两句最妙。诗人说柳树“无情”，因为它不管朝代怎么变，每年春天照样长得绿绿的，像烟一样笼着长堤。其实不是柳树无情，是诗人自己太伤心了。他看着六朝的兴亡，也在担心眼前的唐朝。",
+  "en": "This poem is about how places stay while people and times change. The first line is a picture of spring rain: fine rain on the river, lush green grass, beautiful and a little hazy. The second line jumps to the Six Dynasties. All that splendor has passed like a dream, yet the birds still sing as if nothing had happened. The last two lines are the best. The poet calls the willows heartless, because no matter how dynasties change, every spring they turn green again and veil the long embankment like mist. Really, it is not that the willows have no heart. It is that the poet's own heart is so sad. Looking at the fall of the Six Dynasties, he is also worried about the Tang in front of him."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "willow",
+   "rain",
+   "nanjing"
+  ]
+ },
+ "uncertain": []
+}

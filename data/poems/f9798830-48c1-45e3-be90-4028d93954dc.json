@@ -1,0 +1,446 @@
+{
+ "id": "f9798830-48c1-45e3-be90-4028d93954dc",
+ "kind": "shi",
+ "title": "感遇十二首·其四",
+ "title_en": "Stirred by What I Meet, No. 4",
+ "author": "张九龄",
+ "author_en": "Zhang Jiuling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "潢",
+    "huáng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "敢",
+    "gǎn"
+   ],
+   [
+    "顾",
+    "gù"
+   ]
+  ],
+  [
+   [
+    "侧",
+    "cè"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ]
+  ],
+  [
+   [
+    "巢",
+    "cháo"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "矫",
+    "jiǎo"
+   ],
+   [
+    "矫",
+    "jiǎo"
+   ],
+   [
+    "珍",
+    "zhēn"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "巅",
+    "diān"
+   ]
+  ],
+  [
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "丸",
+    "wán"
+   ],
+   [
+    "惧",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "美",
+    "měi"
+   ],
+   [
+    "服",
+    "fú"
+   ],
+   [
+    "患",
+    "huàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "指",
+    "zhǐ"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "逼",
+    "bī"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "恶",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "冥",
+    "míng"
+   ],
+   [
+    "冥",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "弋",
+    "yì"
+   ],
+   [
+    "者",
+    "zhě"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "所",
+    "suǒ"
+   ],
+   [
+    "慕",
+    "mù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "恶",
+   "pinyin": "wù",
+   "zh": "这里的“恶”是讨厌、憎恨的意思，读 wù，不读 è。",
+   "en": "Here the character means to hate, so it is read wù, not è."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "孤鸿：一只孤单的大雁。诗人用它比喻自己。",
+   "en": "gū hóng: a lone wild goose. The poet uses it to stand for himself."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "海上来：从大海那边飞来，指从很远、很宽广的地方来。",
+   "en": "hǎi shàng lái: flying in from the sea, that is, from somewhere vast and far."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "池潢：池塘。潢，积水的小池。和大海比，池塘又小又浅。",
+   "en": "chí huáng: ponds and pools. Next to the sea, they are small and shallow."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "不敢顾：连看都不敢看一眼，更不敢停留。顾，回头看。",
+   "en": "bù gǎn gù: not daring even to glance at them, let alone stop there. Gù means to look back at."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "侧见：从旁边看见。",
+   "en": "cè jiàn: seeing from one side."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "翠鸟：羽毛青绿色、很漂亮的小鸟。",
+   "en": "cuì niǎo: kingfishers, small birds with bright blue-green feathers."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "三珠树：古书《山海经》里说的神树，叶子都像珍珠。这里比喻很高、很贵重的地方。",
+   "en": "sān zhū shù: a magic tree in the old book Classic of Mountains and Seas, whose leaves were all like pearls. Here it stands for a high and precious place."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "矫矫：高高在上、很神气的样子。",
+   "en": "jiǎo jiǎo: perched up high, looking proud."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "珍木巅：珍贵的树的顶上。巅，顶端。",
+   "en": "zhēn mù diān: the top of a precious tree. Diān is the very top."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "得无：难道不……吗？",
+   "en": "dé wú: \"surely ... don't you?\""
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "金丸：用弹弓打鸟的金属弹丸。",
+   "en": "jīn wán: a metal pellet shot from a slingshot to hit birds."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "美服：漂亮的衣服，这里指翠鸟美丽的羽毛。",
+   "en": "měi fú: fine clothes, here the kingfishers' beautiful feathers."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "患人指：怕被人指指点点、被人盯上。患，担心。",
+   "en": "huàn rén zhǐ: fearing that people will point at you and mark you out. Huàn means to worry about."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "高明：地位又高又显赫。",
+   "en": "gāo míng: a place high and in plain sight."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "逼神恶：会招来鬼神的憎恨。古人认为太高太满的人，连鬼神都讨厌。逼，招致；恶，憎恨。",
+   "en": "bī shén wù: brings on the hatred of the gods. People then believed that even the spirits dislike those who climb too high. Wù means to hate."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "冥冥：高远的天空，远到看不清。",
+   "en": "míng míng: the high, far sky, too distant to see clearly."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "弋者：打鸟的猎人。弋，用系着绳子的箭射鸟。",
+   "en": "yì zhě: a bird hunter. Yì means shooting birds with an arrow tied to a cord."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "何所慕：还能打什么主意呢？意思是猎人拿我没办法。慕，想得到。",
+   "en": "hé suǒ mù: what can he hope to get? That is, the hunter can do nothing to me. Mù means to want."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一只孤单的大雁从大海上飞来，",
+   "en": "A lone wild goose flies in from the sea,"
+  },
+  {
+   "zh": "对小小的池塘看都不敢看一眼。",
+   "en": "and does not dare even to glance at the little ponds."
+  },
+  {
+   "zh": "它从旁边看见一对翠鸟，",
+   "en": "From the side it sees a pair of kingfishers"
+  },
+  {
+   "zh": "把窝搭在神奇的三珠树上。",
+   "en": "nesting in the magic Pearl Tree."
+  },
+  {
+   "zh": "它们高高地站在珍贵的树顶上，很神气，",
+   "en": "They perch proudly at the top of the precious tree."
+  },
+  {
+   "zh": "难道就不怕被人用金弹丸打下来吗？",
+   "en": "Are they not afraid of being shot down by a metal pellet?"
+  },
+  {
+   "zh": "穿得太漂亮，就怕被人指指点点；",
+   "en": "Those dressed too finely fear being pointed out;"
+  },
+  {
+   "zh": "站得太高太显眼，连鬼神都会讨厌。",
+   "en": "those who stand too high and bright draw the hatred of the gods."
+  },
+  {
+   "zh": "如今我飞翔在高远的天空里，",
+   "en": "Now I fly in the high, far sky,"
+  },
+  {
+   "zh": "打鸟的猎人又能拿我怎么样呢？",
+   "en": "so what can the bird hunter hope to get from me?"
+  }
+ ],
+ "background": {
+  "zh": "张九龄做过唐玄宗的宰相，后来被奸臣李林甫排挤。开元二十四年（736年）他被罢免宰相，第二年被贬到荆州（今湖北荆州）做官。《感遇》十二首一般认为就是他在荆州时写的。这一首借鸟说事：一说那对高高在上的翠鸟，暗指当时得势的李林甫等人；孤鸿是诗人自己。",
+  "en": "Zhang Jiuling was once chief minister to Emperor Xuanzong, but he was pushed out by the scheming minister Li Linfu. In 736 he lost his post, and the next year he was sent down to an office in Jingzhou, in today's Hubei. The twelve poems \"Stirred by What I Meet\" are usually thought to date from his time there. This one talks about birds to make a point. One reading says the proud kingfishers stand for Li Linfu and others in power at the time, while the lone goose is the poet himself."
+ },
+ "author_note": {
+  "zh": "张九龄（678—740），广东韶关人，唐玄宗时的名相，为人正直，敢说真话。他也是有名的诗人，“海上生明月，天涯共此时”就是他写的。他的《感遇》诗常借花草鸟兽，说出自己的品格和对官场的看法。",
+  "en": "Zhang Jiuling (678–740) came from Shaoguan in Guangdong. He was a well-known chief minister under Emperor Xuanzong, honest and willing to speak the truth. He was also a fine poet; he wrote the famous lines about the bright moon rising over the sea. His \"Stirred by What I Meet\" poems often use plants, birds and beasts to show his own character and his view of court life."
+ },
+ "appreciation": {
+  "zh": "这首诗像一个小寓言。大雁从大海那样宽广的地方飞来，看不上小池塘，表示诗人心胸大，不在乎小名小利。翠鸟呢，羽毛漂亮，又住在最高最贵重的树上，看起来风光，其实很危险：太显眼，就会被猎人盯上。诗人由此说出一个道理：穿得太华丽、爬得太高，容易招来别人的忌恨。最后大雁飞进高远的天空，猎人的箭再也够不着它。诗人被贬了，但他并不慌，反而觉得远离争斗更安全、更自在。语气平静，却很有骨气。",
+  "en": "This poem is like a little fable. The goose comes from somewhere as wide as the sea and has no interest in little ponds. This shows the poet's big heart: he does not care about small gains. The kingfishers have beautiful feathers and live on the highest, most precious tree. They look grand, but they are in danger: being so easy to see, they draw the hunter's aim. From this the poet draws a lesson. Dress too finely or climb too high, and others will come to hate you. In the end the goose flies off into the far sky, where no hunter's arrow can reach it. The poet has been sent away, but he is not afraid. He feels safer and freer far from the fighting. The tone is calm, yet full of quiet pride."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "birds",
+   "fable",
+   "officialdom",
+   "integrity",
+   "exile"
+  ]
+ },
+ "uncertain": []
+}

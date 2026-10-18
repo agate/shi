@@ -1,0 +1,260 @@
+{
+ "id": "a8617715-ad59-4da8-8071-e9aeb1760e6a",
+ "kind": "shi",
+ "title": "金缕衣",
+ "title_en": "The Gold-Thread Robe",
+ "author": "无名氏",
+ "author_en": "Anonymous",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "折",
+    "zhé"
+   ],
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "折",
+    "zhé"
+   ],
+   [
+    "枝",
+    "zhī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "少：这里读 shào，“少年”是年轻的时候，不读 shǎo。",
+   "en": "This character here is read shào: shào nián means youth. It is not shǎo, \"few\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "劝君：劝你。君，对人的尊称。",
+   "en": "quàn jūn: I urge you. Jūn is a polite word for \"you\"."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "莫惜：不要爱惜，不要太看重。",
+   "en": "mò xī: do not treasure, do not care too much about."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "金缕衣：用金线织成的华丽衣服，比喻荣华富贵。缕，线。",
+   "en": "jīn lǚ yī: a fine robe woven with gold thread. It stands for wealth and glory. Lǚ means thread."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "惜取：珍惜。取，语气词，没有实际意思。",
+   "en": "xī qǔ: to cherish. Qǔ here just adds force and has no meaning of its own."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "少年时：年轻的时光。",
+   "en": "shào nián shí: the days of youth."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "堪折：可以折。堪，可以，能够。",
+   "en": "kān zhé: ready to be picked. Kān means can, may."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "直须：就应该，尽管去。",
+   "en": "zhí xū: you should just go ahead."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "莫待：不要等到。",
+   "en": "mò dài: do not wait until."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "空折枝：白白地折下一根光秃秃的树枝。空，白白地。",
+   "en": "kōng zhé zhī: to break off a bare branch for nothing. Kōng means in vain."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我劝你不要太看重华丽的金缕衣，",
+   "en": "I urge you not to care so much for a robe of gold thread."
+  },
+  {
+   "zh": "我劝你一定要珍惜年轻的时光。",
+   "en": "I urge you to treasure the days of your youth."
+  },
+  {
+   "zh": "花开了，可以折的时候就赶快折，",
+   "en": "When the flowers bloom and are ready to pick, pick them."
+  },
+  {
+   "zh": "不要等到花谢了，只能白白折一根空树枝。",
+   "en": "Don't wait until the flowers are gone, and break off an empty branch for nothing."
+  }
+ ],
+ "background": {
+  "zh": "这是唐代流行的一首歌词，作者已经不知道是谁了。杜牧在《杜秋娘诗》里写到，歌女杜秋娘曾在酒席上唱过这首《金缕衣》。后来《唐诗三百首》把它放在杜秋娘的名下，所以很多人以为是她写的，其实她多半只是唱它的人。一说是当时人们传唱的民间歌曲。",
+  "en": "This was a popular song lyric in the Tang dynasty, and no one knows who wrote it. In his poem about Du Qiuniang, Du Mu wrote that this singing girl once sang \"The Gold-Thread Robe\" at a feast. Later the famous collection \"Three Hundred Tang Poems\" listed it under her name, so many people think she wrote it. Most likely she was only the singer. Another view says it was a folk song that people of the time all sang."
+ },
+ "author_note": {
+  "zh": "作者不详。和这首诗连在一起的杜秋娘，是唐代金陵（今江苏南京）的一位歌女，十五岁时被镇海节度使李锜收为妾，后来进入皇宫。她一生起起落落，晚年孤苦。她唱这首歌的故事，因为杜牧的诗流传了下来。",
+  "en": "The writer is unknown. The name linked to this poem, Du Qiuniang, was a singing girl from Jinling, today's Nanjing. At fifteen she became a concubine of the regional governor Li Qi, and later entered the imperial palace. Her life had many ups and downs, and she was poor and alone in old age. The story of her singing this song survived because of Du Mu's poem."
+ },
+ "appreciation": {
+  "zh": "这首诗像一个过来人在耐心地劝你。前两句用“劝君”开头，说了两遍：不要只看重金银衣服，要看重年轻的时光。衣服坏了可以再做，青春过去了就再也回不来。后两句换了一个比方：花开的时候，就去折；等花谢了，你手里只剩一根光秃秃的树枝。你可以想象一个人站在树下，看着枝头空空，后悔自己来晚了。整首诗话说得很直白，节奏像歌一样反复，读几遍就记住了。它告诉我们：好的时机不会一直等你。",
+  "en": "This poem is like an older person kindly giving you advice. The first two lines both begin with \"I urge you\". Don't care only about fine robes; care about your young years. A robe can be made again, but once youth is gone it never comes back. The last two lines use a picture. When the flowers are in bloom, go and pick them. If you wait until they fall, all you get is a bare branch. Imagine someone standing under a tree, looking at the empty branches, sorry that they came too late. The words are very plain, and the lines repeat like a song, so you remember them after a few readings. The message: a good chance will not wait for you forever."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "youth",
+   "time",
+   "flowers",
+   "advice"
+  ]
+ },
+ "uncertain": []
+}

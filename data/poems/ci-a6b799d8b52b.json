@@ -1,0 +1,789 @@
+{
+ "id": "ci-a6b799d8b52b",
+ "kind": "ci",
+ "title": "月下笛·万里孤云",
+ "title_en": "To the Tune Yue Xia Di: A Lone Cloud Ten Thousand Miles",
+ "author": "张炎",
+ "author_en": "Zhang Yan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（慢词，双调）",
+  "en": "ci lyric, long form in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "昌",
+    "chāng"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "略",
+    "lüè"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "第",
+    "dì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "衾",
+    "qīn"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "张",
+    "zhāng"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "鹭",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "旅",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "良",
+    "liáng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "洒",
+    "sǎ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "曲",
+    "qū"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "袖",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "“谩”这里同“漫”，意思是徒然、白白地，读 màn。读 mán 时是欺骗的意思，和这里不同。",
+   "en": "Here the character means the same as màn, in vain, and is read màn. Read mán it means to deceive, which is not the sense here."
+  },
+  {
+   "line": 8,
+   "pos": 4,
+   "char": "悄",
+   "pinyin": "qiǎo",
+   "zh": "“凄悄”是凄凉寂静，“悄”读 qiǎo。",
+   "en": "In qī qiǎo (cold and silent) it is read qiǎo."
+  },
+  {
+   "line": 17,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重洒”是再一次洒，“重”读 chóng。",
+   "en": "In chóng sǎ (to shed again) it means again and is read chóng."
+  },
+  {
+   "line": 18,
+   "pos": 2,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "“杜曲”是地名，“曲”读 qū。",
+   "en": "Dù qū is a place name, and the second character is read qū."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "孤云：一片孤单的云，作者用来比自己四处漂泊。",
+   "en": "gū yún: a lone cloud. The poet uses it for himself, drifting everywhere."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "清游：清静的游历。",
+   "en": "qīng yóu: a quiet journey."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: old friends."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "经行：走过。",
+   "en": "jīng xíng: to walk along, to pass by."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "连昌：连昌宫，唐代的一座皇家行宫，唐朝衰落后荒废了。这里借指南宋都城临安的宫殿。",
+   "en": "lián chāng: Lianchang Palace, a Tang royal palace that fell into ruin when the Tang declined. Here it stands for the palaces of Lin'an, the Southern Song capital."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "约略：大概。",
+   "en": "yuē lüè: roughly, about."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "第一是：最……的是。",
+   "en": "dì yī shì: the most ... of all is."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 1,
+   "zh": "谩：白白地。",
+   "en": "màn: in vain."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "惊回：被惊醒。",
+   "en": "jīng huí: startled awake."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "凄悄：凄凉寂静。",
+   "en": "qī qiǎo: cold and silent."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "拥衾：裹着被子。衾，被子。",
+   "en": "yōng qīn: wrapped in a quilt. Qīn means quilt."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "张绪：南朝齐的名士，风度潇洒，皇帝曾夸柳树风流可爱，像张绪年轻的时候。作者用他来比自己。",
+   "en": "zhāng xù: Zhang Xu, a graceful gentleman of the Southern Qi. The emperor once said the willows were as charming as Zhang Xu in his youth. The poet compares himself to him."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "归何暮：为什么回来得这么晚。",
+   "en": "guī hé mù: why come home so late?"
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 3,
+   "zh": "零落：凋落，散落。这里指老朋友们死的死、散的散。",
+   "en": "líng luò: to fall and scatter. Here, old friends who have died or gone away."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "依依：恋恋不舍的样子。",
+   "en": "yī yī: lingering, reluctant to leave."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "断桥：杭州西湖上的一座桥。",
+   "en": "duàn qiáo: the Broken Bridge on West Lake in Hangzhou."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "鸥鹭：海鸥和白鹭，水边的鸟。",
+   "en": "ōu lù: gulls and egrets, waterside birds."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "倦旅：走累了的旅人。",
+   "en": "juàn lǚ: a weary traveler."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 6,
+   "zh": "良苦：非常痛苦。良，很。",
+   "en": "liáng kǔ: very bitter. Liáng here means very."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 7,
+   "zh": "西州泪：东晋谢安死后，他的外甥羊昙再也不走西州门。一次喝醉了误走到那里，痛哭而去。后来用“西州泪”表示怀念死去的亲友。",
+   "en": "xī zhōu lèi: tears at Xizhou. After Xie An of the Eastern Jin died, his nephew Yang Tan never again passed the Xizhou gate. Once, drunk, he walked there by mistake and wept bitterly. The phrase came to mean grief for a loved one who has died."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "杜曲：唐代长安城南的地方，许多大户人家住在那里。这里借指临安旧日的名门人家。",
+   "en": "dù qū: a place south of Tang Chang'an where many great families lived. Here it stands for the old noble families of Lin'an."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "在否：还在不在。",
+   "en": "zài fǒu: still there or not."
+  },
+  {
+   "line": 20,
+   "start": 1,
+   "end": 3,
+   "zh": "翠袖：绿色的衣袖，指女子。杜甫《佳人》写过：“天寒翠袖薄，日暮倚修竹。”",
+   "en": "cuì xiù: green sleeves, meaning a woman. Du Fu's poem \"The Fair Lady\" has her in thin green sleeves in the cold, leaning on tall bamboo at dusk."
+  },
+  {
+   "line": 22,
+   "start": 4,
+   "end": 6,
+   "zh": "那树：那一棵树。",
+   "en": "nà shù: that one tree."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我像一片孤云，飘在万里之外，",
+   "en": "Like a lone cloud ten thousand miles away,"
+  },
+  {
+   "zh": "清静的游历越走越远，",
+   "en": "my quiet journey takes me farther and farther."
+  },
+  {
+   "zh": "老朋友们在哪里呢？",
+   "en": "Where are my old friends now?"
+  },
+  {
+   "zh": "在寒冷的窗下做梦，",
+   "en": "Dreaming by a cold window,"
+  },
+  {
+   "zh": "还记得从前走过的那些路。",
+   "en": "I still remember the roads I used to walk."
+  },
+  {
+   "zh": "旧日宫殿那里，大概已经没剩几棵柳树了。",
+   "en": "At the old palace, I suppose, few willows are left."
+  },
+  {
+   "zh": "最难受的是，",
+   "en": "Hardest of all"
+  },
+  {
+   "zh": "听不得夜里的雨声。",
+   "en": "is listening to the rain at night."
+  },
+  {
+   "zh": "白白地被惊醒，四下凄凉寂静，",
+   "en": "I wake with a start for nothing, into cold silence,"
+  },
+  {
+   "zh": "只能和烛影相对，",
+   "en": "and face only the candle's shadow,"
+  },
+  {
+   "zh": "裹着被子，又能和谁说话？",
+   "en": "wrapped in my quilt. Who is there to talk to?"
+  },
+  {
+   "zh": "我像当年的张绪，",
+   "en": "Like Zhang Xu of old,"
+  },
+  {
+   "zh": "为什么回来得这么晚？",
+   "en": "why have I come back so late?"
+  },
+  {
+   "zh": "老朋友已经零落了一大半，",
+   "en": "Half of my friends have fallen away;"
+  },
+  {
+   "zh": "只有断桥边的鸥鹭，还恋恋不舍地留着。",
+   "en": "only the gulls and egrets by the Broken Bridge still linger."
+  },
+  {
+   "zh": "我这个在天涯走累了的旅人，",
+   "en": "A weary traveler at the edge of the world,"
+  },
+  {
+   "zh": "这时候心里非常痛苦。",
+   "en": "my heart is very bitter now."
+  },
+  {
+   "zh": "只怕又要像羊昙那样，为故人洒泪，",
+   "en": "I only fear I will shed tears again, as Yang Tan did for those he lost,"
+  },
+  {
+   "zh": "想问问那些名门旧宅，",
+   "en": "and I want to ask about the great old houses:"
+  },
+  {
+   "zh": "那里的人家还在不在？",
+   "en": "are the families still there?"
+  },
+  {
+   "zh": "只怕那穿着绿袖的佳人，",
+   "en": "I fear that the lady in green sleeves,"
+  },
+  {
+   "zh": "在这寒冷的天气里，",
+   "en": "in this bitter cold,"
+  },
+  {
+   "zh": "还倚着那棵梅花树等待。",
+   "en": "is still leaning against that plum tree, waiting."
+  }
+ ],
+ "background": {
+  "zh": "这首词写在南宋灭亡以后。原词前面有一段小序，大意是：作者独自在万竹山中游玩，门前落满树叶，心里很愁，生出了国家灭亡的悲伤；当时他住在甬东的积翠山舍。甬东在今天浙江宁波一带。南宋都城临安（今杭州）是作者的家乡，词中的“连昌”“断桥”“杜曲”都和旧都有关。具体写作年份说不清楚。",
+  "en": "This lyric was written after the fall of the Southern Song. The original has a short preface before it. It says, roughly, that the poet was wandering alone in the Wanzhu Mountains, fallen leaves covered his doorstep, and in his sorrow he felt grief for his lost country. At the time he was staying at a mountain house called Jicui in Yongdong, around today's Ningbo in Zhejiang. The old capital Lin'an, today's Hangzhou, was the poet's home, and the old palace, the Broken Bridge and the great houses in the poem all point to it. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "张炎（1248—约1320），字叔夏，号玉田，南宋末年的词人。他是南宋名将张俊的后代，家里原来非常富贵。南宋灭亡后，家道败落，他四处漂泊，生活困苦。他的词写得清雅，常写亡国之痛和漂泊之苦。他还写了一本讲作词方法的书，叫《词源》。",
+  "en": "Zhang Yan (1248 to about 1320) was a lyric poet at the end of the Southern Song. He was a descendant of the famous general Zhang Jun, and his family had once been very rich and powerful. After the Song fell, the family was ruined, and he wandered from place to place in hardship. His lyrics are clear and elegant, often about the pain of a lost country and a life on the road. He also wrote a book on how to write lyrics, called Ci Yuan, \"The Sources of Ci\"."
+ },
+ "appreciation": {
+  "zh": "这首词表面写思念老朋友，深处写亡国的痛。上片作者把自己比作万里孤云，梦里还在走旧日的路。旧宫殿柳树稀少，说明都城已经荒凉。夜里听雨被惊醒，四周冷冷清清，只有烛影陪着他，想说话也没人听。下片用了好几个典故：张绪说自己回来太晚，西州泪说朋友已经不在，杜曲问旧日人家是否还在。最后一句最动人：天寒地冻，那位翠袖佳人还倚着梅花树。这个画面又冷又美，好像在说，总还有人守着旧日的情义，不肯改变。",
+  "en": "On the surface this lyric misses old friends; underneath it is grief for a fallen country. In the first stanza the poet calls himself a lone cloud far away, still walking the old roads in his dreams. Few willows are left at the old palace, which tells us the capital has fallen into ruin. At night the rain wakes him, all is cold and still, and only the candle's shadow keeps him company. There is no one to talk to. The second stanza uses several old stories. Zhang Xu says he has come back too late. The tears at Xizhou say his friends are gone. The great houses make him ask who is still there. The last line is the most moving: in the freezing cold, the lady in green sleeves still leans against the plum tree. The picture is cold and beautiful. It seems to say that some people still hold on to old loyalties and will not change."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "fallen-country",
+   "friendship",
+   "travel",
+   "nostalgia",
+   "plum-blossom"
+  ]
+ },
+ "uncertain": []
+}

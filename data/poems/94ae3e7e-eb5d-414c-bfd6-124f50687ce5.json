@@ -1,0 +1,357 @@
+{
+ "id": "94ae3e7e-eb5d-414c-bfd6-124f50687ce5",
+ "kind": "shi",
+ "title": "江乡故人偶集客舍",
+ "title_en": "Meeting Old Friends from the River Country by Chance at an Inn",
+ "author": "戴叔伦",
+ "author_en": "Dai Shulun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "满",
+    "mǎn"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "阙",
+    "què"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "重",
+    "chóng"
+   ]
+  ],
+  [
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "逢",
+    "féng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "鹊",
+    "què"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "覆",
+    "fù"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "虫",
+    "chóng"
+   ]
+  ],
+  [
+   [
+    "羁",
+    "jī"
+   ],
+   [
+    "旅",
+    "lǚ"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "畏",
+    "wèi"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库题目作《客夜与故人偶集》，第六句作“露草覆寒蛩”。《唐诗三百首》等通行本题作《江乡故人偶集客舍》，第六句作“露草覆寒虫”，“蛩”换成了意思相近的“虫”。",
+  "en": "The corpus titles the poem \"Meeting Old Friends by Chance on a Night Away\", and its sixth line uses a word meaning \"cricket\". The Three Hundred Tang Poems and other common editions use the title given here, and in that line the more general word \"insect\", with nearly the same meaning."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重：层、道，读 chóng。",
+   "en": "Here it means layers, so it is read chóng."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还：又、再一次。一般读 huán，一说读 hái。",
+   "en": "Here it means once again. It is usually read huán; some read it hái."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "天秋：已经是秋天了。",
+   "en": "tiān qiū: autumn has come."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "又满：月亮又圆了，说明又过了一个月。",
+   "en": "yòu mǎn: the moon is full again, so another month has gone by."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "城阙：城门和城楼，这里指京城。",
+   "en": "chéng què: city gates and towers, here meaning the capital."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "千重：一层又一层，形容夜色很深，也形容京城很大。",
+   "en": "qiān chóng: a thousand layers. It shows how deep the night is and how vast the city."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "江南会：像以前在江南那样相聚。",
+   "en": "jiāng nán huì: a gathering like the ones we had in the south."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "翻疑：反而怀疑。翻，反而。",
+   "en": "fān yí: instead I wonder. Fān means on the contrary."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "暗鹊：躲在黑暗里的喜鹊。",
+   "en": "àn què: magpies hidden in the dark."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "覆寒虫：带露水的草遮盖着秋天的虫子。覆，遮盖；寒虫，秋天天冷时鸣叫的虫，比如蟋蟀。",
+   "en": "fù hán chóng: the dewy grass covers the cold insects. Fù means to cover; hán chóng are insects like crickets that chirp in the cold of autumn."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "羁旅：长期在外地做客、漂泊。",
+   "en": "jī lǚ: living as a guest far from home for a long time."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "长堪醉：真该多喝几杯，喝个痛快。堪，值得、可以。",
+   "en": "cháng kān zuì: well worth getting drunk over, again and again. Kān means it is worth it."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "畏晓钟：怕听到天亮时的钟声，因为天一亮就要分别。",
+   "en": "wèi xiǎo zhōng: dreading the dawn bell, because at daybreak we must part."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "又到了秋天，月亮又圆了；",
+   "en": "It is autumn, and the moon is full once more;"
+  },
+  {
+   "zh": "京城的夜色深深，城楼一层又一层。",
+   "en": "night lies deep over the many-layered city."
+  },
+  {
+   "zh": "我们又像在江南时那样相聚，",
+   "en": "Once again we gather as we did in the south,"
+  },
+  {
+   "zh": "反而让人怀疑是在梦里相逢。",
+   "en": "until I wonder if we have met in a dream."
+  },
+  {
+   "zh": "风吹树枝，惊动了暗处的喜鹊；",
+   "en": "Wind in the branches startles hidden magpies;"
+  },
+  {
+   "zh": "带露的野草，遮盖着凄凉鸣叫的秋虫。",
+   "en": "dewy grass covers the shivering autumn insects."
+  },
+  {
+   "zh": "在外漂泊的人，真该多喝几杯；",
+   "en": "For travellers far from home, this is worth getting drunk over;"
+  },
+  {
+   "zh": "我们互相挽留，最怕听到天亮的钟声。",
+   "en": "we keep each other here, dreading the bell at dawn."
+  }
+ ],
+ "background": {
+  "zh": "戴叔伦是江南人。这首诗写他在外地做客时，偶然遇到了几位江南的老朋友，大家聚在客店里喝酒说话。诗中“城阙”一般理解为京城长安。诗写于哪一年，现在不清楚。秋天的月夜，远在他乡见到老友，又惊又喜，又舍不得分开，诗人就写下了这首诗。",
+  "en": "Dai Shulun came from the south of the Yangtze. This poem tells how, while away from home, he met some old friends from the south by chance, and they gathered at an inn to drink and talk. The \"city gates\" in the poem are usually taken to mean the capital, Chang'an. We do not know the year. On an autumn night under the moon, meeting old friends far from home, he felt surprise, joy, and a wish not to part, and wrote this poem."
+ },
+ "author_note": {
+  "zh": "戴叔伦（732—789），润州金坛（今江苏）人，唐代诗人。他做过地方官，为官清廉，很关心百姓。他的诗多写旅途和送别，感情真挚。",
+  "en": "Dai Shulun (732–789) came from Jintan in Runzhou, in today's Jiangsu. He was a Tang poet who served as a local official, known for being honest and caring about ordinary people. His poems are often about journeys and farewells, and their feeling is sincere."
+ },
+ "appreciation": {
+  "zh": "第一句说秋天到了，月亮又圆了。一个“又”字，说明诗人在外已经很久了。第二句写京城的夜，城楼一层层，又深又冷。三四句最动人：几个老朋友又像在江南那样聚在一起，可是大家漂泊太久，这次见面太意外，反而怀疑是在做梦。这种又惊又喜、不敢相信的心情，很多人都有过。五六句写窗外：风惊动了喜鹊，秋虫躲在带露的草丛里，夜越来越深，越来越凉。最后两句说：在外漂泊的人，难得这样聚一次，就喝个痛快吧，只怕天一亮，钟声一响，又要各自分开了。",
+  "en": "The first line says autumn is here and the moon is full again. The word \"again\" tells us the poet has been away a long time. The second line shows night in the capital, its towers layer on layer, deep and cold. Lines three and four are the most moving. A few old friends gather as they did back in the south, but they have drifted so long and the meeting is so sudden that they wonder if it is a dream. Many people know that feeling of joy so surprising you can hardly believe it. Lines five and six look outside. Wind startles the magpies, insects hide in the dewy grass, and the night grows deeper and colder. The last two lines say: people far from home rarely meet like this, so let us drink our fill. Our only fear is that when dawn comes and the bell rings, we must each go our own way again."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "reunion",
+   "moon",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

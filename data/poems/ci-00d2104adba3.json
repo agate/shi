@@ -1,0 +1,482 @@
+{
+ "id": "ci-00d2104adba3",
+ "kind": "ci",
+ "title": "夜游宫·人去西楼雁杳",
+ "title_en": "Night Journey to the Palace: She Has Left the West Tower",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·夜游宫",
+  "en": "ci to the tune Ye You Gong"
+ },
+ "lines": [
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "杳",
+    "yǎo"
+   ]
+  ],
+  [
+   [
+    "叙",
+    "xù"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "觉",
+    "jiào"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "澹",
+    "dàn"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "乌",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ]
+  ],
+  [
+   [
+    "话",
+    "huà"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "了",
+    "liǎo"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "蛩",
+    "qióng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "早",
+    "zǎo"
+   ]
+  ],
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "织",
+    "zhī"
+   ],
+   [
+    "就",
+    "jiù"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "娘",
+    "niáng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "灯",
+    "dēng"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "觉",
+   "pinyin": "jiào",
+   "zh": "“一觉”是睡一觉，“觉”读 jiào，不读 jué。",
+   "en": "Here it means a sleep, so it is read jiào, not jué."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "了",
+   "pinyin": "liǎo",
+   "zh": "“未了”是没有说完，“了”读 liǎo，不读 le。",
+   "en": "Here it means not finished, read liǎo, not le."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "西楼：词人和恋人从前相会的地方。",
+   "en": "xī lóu: the west tower, where the poet and his love used to meet."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "雁杳：大雁飞得没有了踪影。古人说大雁能传信，这里是说连书信也断了。",
+   "en": "yàn yǎo: the wild geese have vanished. People said geese carried letters, so this means no more letters come."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "叙别梦：在梦里诉说离别后的思念。",
+   "en": "xù bié mèng: to pour out, in a dream, how much they missed each other."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "扬州一觉：借用杜牧“十年一觉扬州梦”的诗句，意思是往事像一场梦。",
+   "en": "yáng zhōu yī jiào: a borrowing from Du Mu's line about ten years in Yangzhou passing like a dream; the past feels like a single dream."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "澹：淡，轻薄。",
+   "en": "dàn: pale and thin."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "楚山：南方的山。这里泛指远处的山。",
+   "en": "chǔ shān: the hills of Chu, meaning far southern hills in general."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "啼乌：清晨啼叫的乌鸦。",
+   "en": "tí wū: crows cawing at dawn."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "话未了：话还没有说完。",
+   "en": "huà wèi liǎo: the talk is not yet finished."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "蛩：蟋蟀。",
+   "en": "qióng: a cricket."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "织就：织成。蟋蟀又叫“促织”，所以说它的叫声好像在织东西。",
+   "en": "zhī jiù: woven. The cricket was also called the hurry-up-and-weave insect, so its chirping is said to weave."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "霜丝：像霜一样白的头发。",
+   "en": "shuāng sī: hair as white as frost."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "萧娘：唐宋诗词里常用来称呼所爱的女子。",
+   "en": "xiāo niáng: Lady Xiao, a common name in Tang and Song poems for a beloved woman."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "长安：本是唐朝的都城，这里借指南宋的都城临安，也就是今天的杭州。",
+   "en": "cháng ān: Chang'an, the old Tang capital; here it stands for the Southern Song capital Lin'an, today's Hangzhou."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "几人老：有几个人像我这样，对着秋灯一天天变老。",
+   "en": "jǐ rén lǎo: how many people grow old like this, facing an autumn lamp."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她离开了西楼，大雁也飞得无影无踪，书信断了。",
+   "en": "She has left the west tower, and the geese are gone; no letters come."
+  },
+  {
+   "zh": "我在梦里和她诉说离别的心事，",
+   "en": "In a dream I tell her how I have missed her,"
+  },
+  {
+   "zh": "往事就像扬州的一场梦。",
+   "en": "and the past is like one long dream of Yangzhou."
+  },
+  {
+   "zh": "醒来时云很淡，星星稀疏，远山已经发亮。",
+   "en": "I wake: thin clouds, a few stars, dawn on the far hills."
+  },
+  {
+   "zh": "梦里我听着乌鸦啼叫，",
+   "en": "In the dream I heard the crows caw"
+  },
+  {
+   "zh": "和她站在河上的桥边，",
+   "en": "as we stood on the bridge over the river,"
+  },
+  {
+   "zh": "话还没有说完。",
+   "en": "and our talk was not yet done."
+  },
+  {
+   "zh": "雨声之外，蟋蟀早早地叫了起来，",
+   "en": "Beyond the rain, the crickets start to chirp early."
+  },
+  {
+   "zh": "它们细细地织呀织，",
+   "en": "Thread by thread they weave"
+  },
+  {
+   "zh": "不知给我织出了多少白发。",
+   "en": "who knows how many frost-white hairs."
+  },
+  {
+   "zh": "这些话说给她听，她也不会知道。",
+   "en": "If I told her all this, she would never know."
+  },
+  {
+   "zh": "在京城里，",
+   "en": "Here in the capital,"
+  },
+  {
+   "zh": "对着秋夜的孤灯，",
+   "en": "facing a lonely autumn lamp,"
+  },
+  {
+   "zh": "有几个人像我这样老去呢？",
+   "en": "how many grow old as I do?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首写梦的词。词人梦见和分别的恋人在河桥边说话，话还没说完就醒了。醒来已是秋天的清晨，下着雨，蟋蟀在叫。词中说“向长安”，一般理解为他当时在南宋都城临安。词人思念的这位女子是谁，学者有不同说法，一说是他在苏州时的姬妾，现在无法确定。",
+  "en": "This is a poem about a dream. The poet dreams he is talking with the woman he has parted from, by a bridge over a river, and wakes before they finish. It is an autumn dawn, rain is falling and crickets chirp. The words toward Chang'an are usually taken to mean he was in Lin'an, the Southern Song capital. Scholars disagree about who the woman was. One view says she was a companion of his from his years in Suzhou, but this cannot be settled."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，南宋词人。他一生没有做过大官，长期在苏州、杭州一带给官员做幕僚。他的词用词华丽，意思跳跃，像梦一样难以捉摸。他写了很多怀念旧日恋人的词，这首就是其中之一。",
+  "en": "Wu Wenying (about 1200 to about 1260), also called Mengchuang, meaning Dream Window, was a Southern Song ci poet. He never held high office and spent many years as an aide to officials around Suzhou and Hangzhou. His words are rich and his thoughts leap about, so his poems feel as hard to grasp as dreams. He wrote many poems missing a past love, and this is one."
+ },
+ "appreciation": {
+  "zh": "这首词像一场梦和梦醒后的发呆。上阕开头，人走了，信也断了，只能在梦里相见。梦里两人站在河桥边，听着乌鸦叫，说着离别的话，可“话未了”，梦就醒了，只剩下淡云疏星和发亮的远山。话没说完，是最让人遗憾的地方。下阕写醒来后的秋天。雨还在下，蟋蟀叫个不停。词人觉得蟋蟀好像在“织”他的白头发，这个想象又新奇又心酸。他想把这份思念告诉她，可她根本不会知道。最后对着一盏秋灯，问有几个人像自己这样慢慢变老。梦里的温暖和醒后的冷清放在一起，让孤独显得更深。",
+  "en": "This poem is like a dream, and then the blank stare after waking. In the first half, she is gone and the letters have stopped, so they can meet only in dreams. In the dream they stand on a bridge, hear the crows, and talk about their parting. But the talk is not finished when he wakes, and all that is left are thin clouds, a few stars and the brightening hills. Words left unsaid are the saddest part. The second half is the autumn after waking. Rain falls and the crickets keep chirping. The poet imagines the crickets are weaving his white hair, an idea both fresh and heartbreaking. He wants to tell her how he misses her, but she will never know. At last, facing an autumn lamp, he asks how many grow old as he does. Setting the warm dream beside the cold waking makes his loneliness feel deeper."
+ },
+ "famous_lines": [
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "dream",
+   "love",
+   "longing",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

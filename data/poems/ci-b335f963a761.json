@@ -1,0 +1,770 @@
+{
+ "id": "ci-b335f963a761",
+ "kind": "ci",
+ "title": "天香·烟络横林",
+ "title_en": "Tian Xiang: Mist Wraps the Woods",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《天香》，双调九十六字。贺铸给这首词另起名《伴云来》",
+  "en": "ci to the tune Tian Xiang, 96 characters in two stanzas. He Zhu also gave it his own name, Ban Yun Lai (Coming with the Clouds)"
+ },
+ "lines": [
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "络",
+    "luò"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "照",
+    "zhào"
+   ]
+  ],
+  [
+   [
+    "迤",
+    "yǐ"
+   ],
+   [
+    "逦",
+    "lǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "栊",
+    "lóng"
+   ]
+  ],
+  [
+   [
+    "蛩",
+    "qióng"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "机",
+    "jī"
+   ],
+   [
+    "杼",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "妇",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "齐",
+    "qí"
+   ],
+   [
+    "应",
+    "yìng"
+   ],
+   [
+    "和",
+    "hè"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "砧",
+    "zhēn"
+   ],
+   [
+    "杵",
+    "chǔ"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "宦",
+    "huàn"
+   ]
+  ],
+  [
+   [
+    "骎",
+    "qīn"
+   ],
+   [
+    "骎",
+    "qīn"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "负",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "谓",
+    "wèi"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "以",
+    "yǐ"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "付",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "骖",
+    "cān"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "樯",
+    "qiáng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "晤",
+    "wù"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "赖",
+    "lài"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "语料库作“山沈远照”“逦迤黄昏钟鼓”“已春相付”“客墙南浦”。通行本作“山沉远照”“迤逦黄昏钟鼓”“以春相付”“客樯南浦”。“沈”在古书里常就是“沉”；“墙”是繁简转换时把“樯”（船上的桅杆）弄错了。",
+  "en": "The corpus text differs in four places. The common text reads chén (to sink) for an older form of the same word, yǐ lǐ in the usual order, yǐ (with) instead of yǐ (already), and qiáng meaning a ship's mast, where the corpus has a look-alike character meaning a wall, a slip from machine conversion."
+ },
+ "readings": [
+  {
+   "line": 17,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还将梦去”的“还”这里读 hái，意思是又、再。一说读 huán，意思是把梦送回去。",
+   "en": "Here this character is read hái, meaning \"again, also\". Another reading takes it as huán, \"to send back\", that is, carrying the dream home."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "烟络：烟雾像网一样缠绕着。络，网，这里是缠绕。",
+   "en": "yān luò: mist winds around like a net. Luò is a net, here meaning to wrap around."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "横林：横着铺开的一片树林。",
+   "en": "héng lín: a stretch of woods lying across the view."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "山沉远照：远处的夕阳慢慢落到山后面去了。照，阳光，这里指夕阳。",
+   "en": "shān chén yuǎn zhào: the far-off evening sun sinks behind the hills. Zhào is sunlight, here the setting sun."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "迤逦：连绵不断，一阵接一阵。",
+   "en": "yǐ lǐ: going on and on, one after another."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "钟鼓：古时城里和寺庙在傍晚敲钟打鼓报时。",
+   "en": "zhōng gǔ: bells and drums. In old times, towns and temples struck them at dusk to mark the hour."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "帘栊：挂着帘子的窗户。栊，窗格子。",
+   "en": "lián lóng: a window hung with a curtain. Lóng is the window lattice."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "蛩：蟋蟀。",
+   "en": "qióng: a cricket."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "机杼：织布机。杼，织布时来回穿线的梭子。蟋蟀叫起来，像在催人赶快织布做冬衣。",
+   "en": "jī zhù: a loom. Zhù is the shuttle that carries the thread back and forth. The crickets' chirping seems to urge women to weave cloth for winter clothes."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "共苦：一同苦于、一起受着。",
+   "en": "gòng kǔ: to suffer together."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "风露：秋天的冷风和露水。",
+   "en": "fēng lù: the cold wind and dew of autumn."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "思妇：想念远方丈夫的妻子。",
+   "en": "sī fù: a wife who misses her husband far away."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "应和：互相呼应，你响我也响。",
+   "en": "yìng hè: to answer one another, one sound echoing another."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "砧杵：捣衣用的石板和木棒。古时女子秋夜捣洗布料，给远方的人做寒衣，这声音常让人想家。",
+   "en": "zhēn chǔ: the stone block and wooden club for beating cloth. On autumn nights women beat cloth to make warm clothes for loved ones far away, and the sound often made travelers homesick."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "天涯：天边，指离家很远的地方。",
+   "en": "tiān yá: the edge of the sky, a place very far from home."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "倦宦：做官做厌倦了、在外奔波很累的人，这里是作者自己。",
+   "en": "juàn huàn: an official tired of his post and his travels, here the poet himself."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "骎骎：马跑得很快的样子，这里比喻时间过得飞快。",
+   "en": "qīn qīn: the look of a horse galloping fast, here time rushing by."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 6,
+   "zh": "岁华行暮：一年的好时光快要过完了，也暗指人渐渐老了。",
+   "en": "suì huá xíng mù: the year's good days are nearly over. It also hints that the poet is getting old."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 6,
+   "zh": "酒狂自负：喝了酒就狂放，对自己的才能很自信。",
+   "en": "jiǔ kuáng zì fù: wild with wine and sure of his own gifts."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "东君：司春之神，春天的主人。",
+   "en": "dōng jūn: the lord of spring, the god in charge of springtime."
+  },
+  {
+   "line": 11,
+   "start": 3,
+   "end": 7,
+   "zh": "以春相付：把春天交给我。意思是以为大好时光、美好前程都属于自己。",
+   "en": "yǐ chūn xiāng fù: handing spring over to me. He thought all the good times and a bright future belonged to him."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "征骖：远行时拉车的马。骖，驾在车两边的马。",
+   "en": "zhēng cān: horses pulling a cart on a long journey. Cān are the horses on the two sides of a team."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 6,
+   "zh": "北道：北方的路。",
+   "en": "běi dào: the roads of the north."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "客樯：旅客坐的船。樯，船上的桅杆。",
+   "en": "kè qiáng: a traveler's boat. Qiáng is a ship's mast."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "南浦：南边的水边，古诗里常指送别的地方。",
+   "en": "nán pǔ: the southern shore. In old poems it often means a place of parting."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "幽恨：藏在心里的愁怨。",
+   "en": "yōu hèn: a sorrow hidden deep in the heart."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "晤语：见面谈心。",
+   "en": "wù yǔ: to meet and talk heart to heart."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 1,
+   "zh": "赖：幸亏，依靠。",
+   "en": "lài: luckily, thanks to."
+  },
+  {
+   "line": 15,
+   "start": 5,
+   "end": 8,
+   "zh": "旧游处：从前一起游玩过的地方，也指从前一起游玩的人。",
+   "en": "jiù yóu chù: the places where we once spent time together, and also the people from those days."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "好伴云来：正好陪着云彩一起来。",
+   "en": "hǎo bàn yún lái: may it come along with the clouds."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 4,
+   "zh": "还将梦去：又把我的梦带走，带到那旧地去。将，带着。",
+   "en": "hái jiāng mèng qù: and carry my dream away again, back to that old place. Jiāng means to take along."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "烟雾像网一样缠绕着横铺的树林，",
+   "en": "Mist wraps the woods that stretch across the view like a net."
+  },
+  {
+   "zh": "远处的夕阳沉到了山后，",
+   "en": "The far-off evening sun sinks behind the hills."
+  },
+  {
+   "zh": "黄昏的钟声鼓声一阵接着一阵。",
+   "en": "At dusk the bells and drums sound on and on."
+  },
+  {
+   "zh": "烛光照在挂着帘子的窗上，",
+   "en": "Candlelight shines on the curtained windows."
+  },
+  {
+   "zh": "蟋蟀叫着，像在催人织布，",
+   "en": "Crickets chirp as if urging the looms to work."
+  },
+  {
+   "zh": "人和虫一起受着清秋的冷风寒露。",
+   "en": "People and crickets alike suffer the cold wind and dew of clear autumn."
+  },
+  {
+   "zh": "睡不着的思妇们，",
+   "en": "Wives who cannot sleep, missing their husbands,"
+  },
+  {
+   "zh": "一齐捣着衣，砧杵声此起彼伏。",
+   "en": "beat cloth together, the thuds of their clubs echoing one another."
+  },
+  {
+   "zh": "这声音惊动了远在天涯、厌倦做官的我，",
+   "en": "The sound startles me, a weary official at the far edge of the world,"
+  },
+  {
+   "zh": "时光飞快，一年又快到头了。",
+   "en": "and the year rushes on like a galloping horse toward its end."
+  },
+  {
+   "zh": "当年我爱喝酒，狂放又自信，",
+   "en": "In those years I was wild with wine and sure of myself."
+  },
+  {
+   "zh": "以为春神已经把整个春天都交给了我。",
+   "en": "I thought the lord of spring had handed all of spring to me."
+  },
+  {
+   "zh": "后来却骑着马在北方的路上漂泊，",
+   "en": "Later I drifted on the northern roads behind my horses,"
+  },
+  {
+   "zh": "又坐着客船到了南方的水边。",
+   "en": "and sailed in travelers' boats to southern shores."
+  },
+  {
+   "zh": "心里的愁怨，没有人可以当面诉说。",
+   "en": "There is no one I can meet and tell my hidden sorrow to."
+  },
+  {
+   "zh": "幸亏明月还认得我们从前游玩的地方，",
+   "en": "Luckily the bright moon still knows the places we once enjoyed."
+  },
+  {
+   "zh": "愿它陪着云彩一起来，",
+   "en": "May it come along with the clouds,"
+  },
+  {
+   "zh": "再把我的梦带回那个地方去。",
+   "en": "and carry my dream back there again."
+  }
+ ],
+ "background": {
+  "zh": "这首词是贺铸写秋夜思归的作品，具体写在哪一年，已经说不清了。词里的“我”是一个在外地做官、奔波多年的人。上片写他在一个秋天的黄昏，听到钟鼓、蟋蟀和捣衣声，觉得一年又要过去；下片回想年轻时的意气，再写这些年南北漂泊，最后把思念寄托在明月和梦里。贺铸喜欢给词牌另起名字，这首《天香》因为最后一句，又叫《伴云来》。",
+  "en": "This ci by He Zhu is about longing for home on an autumn night. The exact year it was written is no longer known. The speaker is an official who has served and traveled away from home for many years. The first stanza shows one autumn evening: he hears bells and drums, crickets, and women beating cloth, and feels another year slipping away. The second stanza remembers how proud he was when young, then the years of drifting north and south, and ends by trusting his longing to the moon and to dreams. He Zhu liked to give his tunes new names. Because of its last lines, this Tian Xiang is also called Ban Yun Lai, Coming with the Clouds."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，北宋词人。他长得高大，性格豪爽，却一辈子只做小官，常年在各地奔走。他的词既有豪放的，也有细腻深情的，最有名的是《青玉案》里的“梅子黄时雨”。这首词里的倦宦之感，正是他自己经历的写照。",
+  "en": "He Zhu (1052–1125) was a ci poet of the Northern Song. He was tall and bold by nature, but all his life he held only small posts and moved from place to place. His ci can be bold or tender. His most famous line is about \"rain when the plums turn yellow\" in his Qing Yu An. The weariness of an official far from home in this poem reflects his own life."
+ },
+ "appreciation": {
+  "zh": "上片像一部用声音拍成的短片。先是远景：烟雾缠着树林，太阳落山，钟鼓声慢慢传来。再拉近到窗前：烛光、蟋蟀，最后是满城此起彼伏的捣衣声。这些声音都在提醒人：秋深了，该准备寒衣了，远方的人该回家了。于是“惊动天涯倦宦”，一个疲惫的旅人被惊醒。下片转到回忆：年轻时以为整个春天都是自己的，后来却南来北往，一事无成。心事没人可说，只好去求月亮。月亮认得旧地，就请它伴着云来，再把梦带回去。结尾轻轻的，却让人觉得更孤单。",
+  "en": "The first stanza is like a short film made of sounds. It starts far away: mist around the woods, the sun going down, bells and drums drifting in. Then it moves close to the window: candlelight, crickets, and at last the thuds of women beating cloth all over town. Every sound says the same thing: autumn is deep, winter clothes must be made, and people far away should come home. So the weary traveler is startled awake. The second stanza turns to memory. When young he thought all of spring was his. Later he went north and south and got nowhere. With no one to talk to, he turns to the moon. The moon knows the old places, so he asks it to come with the clouds and carry his dream back. The ending is gentle, yet it makes him seem even more alone."
+ },
+ "famous_lines": [
+  15,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "travel",
+   "moon",
+   "dream",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

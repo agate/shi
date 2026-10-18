@@ -1,0 +1,343 @@
+{
+ "id": "ci-28418fdbacab",
+ "kind": "ci",
+ "title": "浣溪沙·门隔花深梦旧游",
+ "title_en": "Huan Xi Sha: Behind the Flowers, Dreaming of Old Days",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "钩",
+    "gōu"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "堕",
+    "duò"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "含",
+    "hán"
+   ],
+   [
+    "羞",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "门隔花深：门被深深的花丛隔开。",
+   "en": "mén gé huā shēn: the gate is hidden behind deep flowers."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "旧游：从前去过的地方，也指从前一起游玩的人。",
+   "en": "jiù yóu: a place one used to visit, or the people one used to spend time with."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "夕阳无语：夕阳默默的，不说话。",
+   "en": "xī yáng wú yǔ: the setting sun is silent."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "玉纤：像玉一样白嫩的细手指，指女子的手。",
+   "en": "yù xiān: slender fingers as white as jade; a woman's hand."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "香动：香气随着动作飘过来。",
+   "en": "xiāng dòng: a fragrance drifts as she moves."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "帘钩：挂帘子用的钩子。",
+   "en": "lián gōu: the hook that holds up a curtain."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "落絮：飘落的柳絮，就是柳树种子上白白的绒毛。",
+   "en": "luò xù: falling willow catkins, the white fluff on willow seeds."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "堕泪：掉眼泪。",
+   "en": "duò lèi: to shed tears."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "行云：飘动的云。",
+   "en": "xíng yún: drifting clouds."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "月含羞：月亮躲在云后，好像害羞一样。",
+   "en": "yuè hán xiū: the moon hides behind the clouds, as if shy."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "临夜：到了夜里。",
+   "en": "lín yè: as night comes on."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "冷于秋：比秋天还冷。",
+   "en": "lěng yú qiū: colder than autumn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "隔着深深的花丛，那扇门里，是我梦里回到的旧地。",
+   "en": "Behind deep flowers stands the gate I return to in my dream."
+  },
+  {
+   "zh": "夕阳默默不语，归来的燕子也带着愁。",
+   "en": "The setting sun says nothing, and the returning swallows look sad."
+  },
+  {
+   "zh": "她白嫩的手轻轻拉动小小的帘钩，香气飘了过来。",
+   "en": "Her slender white hand moves the little curtain hook, and a fragrance drifts out."
+  },
+  {
+   "zh": "柳絮静静地飘落，好像春天在掉眼泪。",
+   "en": "Willow catkins fall without a sound, as if spring were shedding tears."
+  },
+  {
+   "zh": "飘过的云投下影子，月亮躲在后面，像是害羞。",
+   "en": "Drifting clouds cast shadows, and the moon hides behind them, as if shy."
+  },
+  {
+   "zh": "夜里的春风，吹在身上比秋天还冷。",
+   "en": "At night the east wind of spring feels colder than autumn."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是一个梦。词人在梦里回到从前去过的地方，又见到了从前的恋人。醒来以后，只觉得春夜的风格外冷。一般认为这是吴文英怀念旧日恋人的作品，一说那位女子是他在苏州时的爱人，后来离开了他，但具体是谁、何时所写，都不能确定。",
+  "en": "This poem is about a dream. In the dream the poet goes back to a place he once knew and sees the woman he once loved. When he wakes, the spring night wind feels very cold. It is usually read as Wu Wenying missing a lost love. One view says she was a woman he loved in Suzhou who later left him, but who she was and when he wrote this cannot be known for sure."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），字君特，号梦窗，四明（今浙江宁波）人，南宋词人。他一生没有做过大官，常在别人的府里做幕僚，就是帮忙出主意、写文书的人。他的词用字精美，画面跳跃，像一块块拼起来的碎锦，读起来要多想一想。",
+  "en": "Wu Wenying (about 1200 to about 1260), known as Mengchuang, came from Siming, today's Ningbo in Zhejiang. He was a Southern Song writer of song lyrics. He never held a high post. He mostly worked on the staffs of officials, giving advice and writing documents. His lyrics use rich, carefully chosen words, and their pictures jump from one to the next like pieces of brocade sewn together, so they take some thought to read."
+ },
+ "appreciation": {
+  "zh": "第一句就说“梦旧游”，所以后面的画面都像在梦里，朦朦胧胧的：花丛挡着门，夕阳不说话，燕子也发愁。接着，一只白嫩的手拉动帘钩，香气飘过来——她好像就在眼前，可是我们看不清她的脸。下阕最有名：柳絮无声地落下，像春天在流泪；月亮躲在云后，像在害羞。泪是词人的泪，羞也像那女子的羞。最后一句把梦打醒：春夜的风，比秋天还冷。春天本来是暖的，冷的是他的心。",
+  "en": "The first line says he is dreaming of the old days, so every picture after it feels hazy, like a dream. Flowers block the gate, the sunset is silent, and even the swallows look sad. Then a slender white hand moves the curtain hook, and a fragrance drifts out. She seems to be right there, yet we never see her face. The second half is the most famous part. Willow catkins fall without a sound, as if spring were crying. The moon hides behind the clouds, as if shy. The tears are really the poet's, and the shyness seems to be the woman's. The last line wakes us from the dream: the spring night wind is colder than autumn. Spring should be warm. What is cold is his heart."
+ },
+ "famous_lines": [
+  3,
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "dream",
+   "love",
+   "memory",
+   "moon",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

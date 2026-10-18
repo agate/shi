@@ -1,0 +1,477 @@
+{
+ "id": "c18b9273-a4d2-493b-8320-5025f2d174f7",
+ "kind": "shi",
+ "title": "又呈吴郎",
+ "title_en": "Again to Mr. Wu",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "扑",
+    "pū"
+   ],
+   [
+    "枣",
+    "zǎo"
+   ],
+   [
+    "任",
+    "rèn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "邻",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "食",
+    "shí"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "妇",
+    "fù"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "宁",
+    "nìng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "惧",
+    "jù"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "亲",
+    "qīn"
+   ]
+  ],
+  [
+   [
+    "即",
+    "jí"
+   ],
+   [
+    "防",
+    "fáng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "虽",
+    "suī"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "插",
+    "chā"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "篱",
+    "lí"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "真",
+    "zhēn"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "诉",
+    "sù"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "求",
+    "qiú"
+   ],
+   [
+    "贫",
+    "pín"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "巾",
+    "jīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本第四句作“只缘恐惧转须亲”，第六句作“便插疏篱却甚真”。这里的底本作“祗缘”“使插疎篱”。“祗”在这里和“只”意思一样；“使插”是“便插”的异文；“疎”是“疏”的异体字。",
+  "en": "The commonly taught text has zhǐ yuán, only because, in line four, and biàn chā shū lí, then putting up a thin fence, in line six. The source text writes the first of these with an old character of the same meaning, uses shǐ, to make, in place of biàn, and writes the word for thin in a variant form."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“不为”是“不是因为”，“为”读 wèi，不读 wéi。",
+   "en": "Here the character means because of, so it is read wèi, not wéi."
+  },
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "宁",
+   "pinyin": "nìng",
+   "zh": "“宁有此”的“宁”是“难道、怎么会”的意思，读 nìng，不读 níng。",
+   "en": "Here the character means how could, so it is read nìng, not níng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "堂前：草堂前面。",
+   "en": "táng qián: in front of the thatched house."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "扑枣：用竹竿打枣子。",
+   "en": "pū zǎo: to knock dates down from the tree with a bamboo pole."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "任：听凭，随便她。",
+   "en": "rèn: to let someone do as they like."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "西邻：西边的邻居，指一位贫穷的老妇人。",
+   "en": "xī lín: the neighbor to the west, a poor old woman."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "不为困穷：要不是因为穷得没办法。",
+   "en": "bù wèi kùn qióng: if not for being desperately poor."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "宁有此：怎么会做这种事呢。",
+   "en": "nìng yǒu cǐ: how would she ever do such a thing?"
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "只缘：只因为。",
+   "en": "zhǐ yuán: only because."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "恐惧：害怕。这里指老妇人怕被责怪。",
+   "en": "kǒng jù: fear; here, the old woman's fear of being scolded."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "转须亲：反而更应该对她亲切。",
+   "en": "zhuǎn xū qīn: all the more you should be kind to her."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "即：一见就，立刻。",
+   "en": "jí: at once, as soon as."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 4,
+   "zh": "防远客：提防你这个远方来的客人。远客，指吴郎。",
+   "en": "fáng yuǎn kè: to be wary of you, the newcomer from far away. The newcomer is Mr. Wu."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "多事：多心，想得太多。",
+   "en": "duō shì: worrying too much, being oversensitive."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "便插疏篱：你一来就插上稀疏的篱笆。",
+   "en": "biàn chā shū lí: as soon as you came, you put up a thin fence."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "甚真：太当真了，好像真的要防她。",
+   "en": "shèn zhēn: far too serious, as if you really meant to keep her out."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "诉：诉说，告诉。",
+   "en": "sù: to tell, to complain."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "征求：官府征收赋税。",
+   "en": "zhēng qiú: the government taking taxes."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "贫到骨：穷到骨头里，一无所有。",
+   "en": "pín dào gǔ: poor to the bone, with nothing left."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "戎马：战马，指战争。",
+   "en": "róng mǎ: war horses, meaning war."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "泪盈巾：眼泪湿透了手巾。",
+   "en": "lèi yíng jīn: tears soaking the handkerchief."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "草堂前的枣树，就随西边的邻居来打枣吧，",
+   "en": "Let the neighbor to the west knock down the dates in front of the house;"
+  },
+  {
+   "zh": "她是个没有饭吃、也没有儿女的老妇人。",
+   "en": "she is a woman with no food and no children."
+  },
+  {
+   "zh": "要不是穷得没办法，她怎么会来打别人家的枣？",
+   "en": "If she were not so desperately poor, how would she ever do this?"
+  },
+  {
+   "zh": "正因为她心里害怕，我们反而更要对她亲切。",
+   "en": "Just because she is afraid, we should be all the kinder to her."
+  },
+  {
+   "zh": "她一见你就提防你这个外来人，虽然是她多心了，",
+   "en": "She grew wary of you, the newcomer, though she worried too much;"
+  },
+  {
+   "zh": "可你一来就插上篱笆，也未免太当真了。",
+   "en": "but putting up a fence as soon as you came was taking it far too seriously."
+  },
+  {
+   "zh": "她早就诉说过，官府的税把她逼得穷到了骨头里，",
+   "en": "She has told me how the taxes have left her poor to the bone;"
+  },
+  {
+   "zh": "想到天下战乱不停，我的眼泪就湿透了手巾。",
+   "en": "and when I think of the endless war, my tears soak my handkerchief."
+  }
+ ],
+ "background": {
+  "zh": "唐代宗大历二年（767），杜甫住在夔州的瀼西草堂，草堂前有几棵枣树，西边一位贫穷的老妇人常来打枣，杜甫从不阻拦。后来杜甫搬到东屯，把草堂让给一位姓吴的亲戚住。吴郎来了以后插上篱笆，防人打枣。杜甫知道后，写了这首诗劝他。因为之前已经写过一首诗给吴郎，所以题目叫“又呈”。",
+  "en": "In 767 Du Fu lived in a thatched house at Rangxi in Kuizhou. There were date trees in front, and a poor old woman from the west often came to knock down dates; Du Fu never stopped her. Later he moved to Dongtun and let a relative named Wu live in the house. Mr. Wu put up a fence to keep people from taking the dates. When Du Fu heard, he wrote this poem to talk him out of it. He had already sent Mr. Wu one poem, so this one is called Again to Mr. Wu."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他自己也很穷，一生经历战乱，所以特别能体会穷苦百姓的难处。这首诗写的是一件邻里小事，却能看出他对普通人的同情和体贴。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He was poor himself and lived through years of war, so he truly understood the hardships of poor people. This poem is about a small matter between neighbors, but it shows his deep sympathy and care for ordinary people."
+ },
+ "appreciation": {
+  "zh": "这首诗像一封写给亲戚的信，说话很温和。杜甫没有直接批评吴郎，而是先讲自己的做法：枣树就让西邻随便打吧。接着讲理由：她没吃的，没儿女，要不是太穷，怎么会来打枣？她已经很害怕了，我们更要对她好一点。然后才轻轻地提到篱笆：她防着你，是她多心；可你插上篱笆，也太认真了。一句护着老妇人，一句照顾吴郎的面子。最后两句把眼光放大：老妇人穷，是因为官府收税；百姓苦，是因为战乱不停。一件打枣的小事，连着整个国家的苦难。杜甫的眼泪，是为一个人流的，也是为天下人流的。",
+  "en": "This poem is like a gentle letter to a relative. Du Fu does not scold Mr. Wu directly. First he says what he himself did: just let the neighbor take the dates. Then he gives the reasons. She has no food and no children; if she were not so poor, why would she come? She is already afraid, so we should be all the kinder. Only then does he mention the fence, softly. She was wary of you, and that was her worrying too much; but your fence takes it far too seriously. One line protects the old woman, the next spares Mr. Wu's feelings. The last two lines widen the view. She is poor because of the taxes; the people suffer because the war never ends. A small matter of dates is tied to the suffering of the whole country. Du Fu's tears are for one woman, and for everyone."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "kindness",
+   "poverty",
+   "neighbor",
+   "war"
+  ]
+ },
+ "uncertain": []
+}

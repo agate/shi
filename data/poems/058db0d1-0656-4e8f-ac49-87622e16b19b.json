@@ -1,0 +1,333 @@
+{
+ "id": "058db0d1-0656-4e8f-ac49-87622e16b19b",
+ "kind": "shi",
+ "title": "题大庾岭北驿",
+ "title_en": "Written at the Post Station North of Dayu Ridge",
+ "author": "宋之问",
+ "author_en": "Song Zhiwen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "殊",
+    "shū"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "已",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "瘴",
+    "zhàng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "陇",
+    "lǒng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "梅",
+    "méi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“明朝”是明天早上，“朝”读 zhāo，不读 cháo。",
+   "en": "Míng zhāo means tomorrow morning, so this is read zhāo, not cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "阳月：农历十月。",
+   "en": "yáng yuè: the tenth month of the old Chinese calendar."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "传闻：听人说。",
+   "en": "chuán wén: people say, it is said."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "至此回：飞到这里就往回飞。传说北方的大雁南飞，到大庾岭就不再往南了。",
+   "en": "zhì cǐ huí: on reaching here, they turn back. Legend says wild geese flying south stop at Dayu Ridge and go no farther."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "殊未已：还远远没有结束。殊，很、极。",
+   "en": "shū wèi yǐ: still far from over. Shū means very."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 2,
+   "zh": "昏：昏暗。",
+   "en": "hūn: dim, dark."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "瘴：瘴气，南方山林里湿热的雾气，古人认为会让人生病。",
+   "en": "zhàng: a hot, damp mist in southern forests. People long ago thought it made you ill."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "明朝：明天早上。",
+   "en": "míng zhāo: tomorrow morning."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "望乡处：回头眺望家乡的地方，指岭头。",
+   "en": "wàng xiāng chù: the spot where you look back toward home, here the top of the ridge."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "陇头梅：山岭上的梅花。陇头，这里指岭头。大庾岭上梅花很多，所以又叫梅岭。",
+   "en": "lǒng tóu méi: plum blossoms on the ridge. Here lǒng tóu means the top of the ridge. Dayu Ridge has so many plum trees that it is also called Plum Ridge."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "十月里，大雁往南飞，",
+   "en": "In the tenth month the wild geese fly south;"
+  },
+  {
+   "zh": "听说飞到这里就回头了。",
+   "en": "they say that here they turn back."
+  },
+  {
+   "zh": "可我的路还远远没有走完，",
+   "en": "But my journey is far from over."
+  },
+  {
+   "zh": "哪一天才能再回家呢？",
+   "en": "On what day will I come home again?"
+  },
+  {
+   "zh": "江水平静，潮水刚刚退去；",
+   "en": "The river is still; the tide has just gone out."
+  },
+  {
+   "zh": "林子昏暗，瘴气久久不散。",
+   "en": "The woods are dim, and the fever mist will not lift."
+  },
+  {
+   "zh": "明天早上，在岭上回望家乡的地方，",
+   "en": "Tomorrow morning, where I look back toward home,"
+  },
+  {
+   "zh": "我应该会看到岭头的梅花吧。",
+   "en": "I shall surely see the plum blossoms on the ridge."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗是唐中宗神龙元年（705年）宋之问被贬时写的。他因为依附武则天的宠臣张易之兄弟，被贬到岭南的泷州，路过大庾岭北面的驿站时写下了这首诗。大庾岭在今天江西和广东交界的地方，古人把它看作中原和岭南的分界。",
+  "en": "This poem is usually dated to 705, when Song Zhiwen was sent away in disgrace. He had sided with the Zhang brothers, favorites of Empress Wu Zetian, so he was banished to Longzhou, far in the south. On the way he stopped at a post station north of Dayu Ridge and wrote this poem. A post station was a rest stop for travelers and messengers. Dayu Ridge lies where today's Jiangxi and Guangdong meet. People long ago saw it as the line between the heartland and the far south."
+ },
+ "author_note": {
+  "zh": "宋之问（约656—712），唐代初期诗人，和沈佺期齐名，人称“沈宋”。他们对律诗的格式定型有很大贡献。宋之问很有才华，但为人常被后人批评。他晚年再次被流放，最后被赐死。",
+  "en": "Song Zhiwen (about 656–712) was an early Tang poet. He was as famous as Shen Quanqi, and the two were called \"Shen and Song\". They did much to set the rules of regulated verse. Song Zhiwen was very gifted, but later people often criticized his character. Late in life he was banished again, and in the end he was ordered to die."
+ },
+ "appreciation": {
+  "zh": "诗一开头就拿大雁和自己比：大雁飞到这里就能回家，可我还得往更远的南方走，不知哪天才能回来。人不如雁，这份伤心一下子就出来了。中间两句写眼前的景：潮水退了，江面安静；林子昏暗，瘴气不散。这些景物又冷清又让人害怕，正像他前途渺茫的心情。最后他想象明天登上岭头回望家乡，只能看到满山梅花。梅花本来美丽，在这里却让人更想家。",
+  "en": "The poem opens by comparing the poet with the geese. The geese can turn back home here, but he must go even farther south and does not know when he can return. A man worse off than a bird: the sadness comes at once. The middle lines show the scene before him. The tide has gone out and the river is still. The woods are dark and the fever mist hangs on. The scene is lonely and frightening, just like his feeling about an unknown future. At the end he pictures climbing the ridge tomorrow and looking back toward home, seeing only plum blossoms. Plum blossoms are lovely, but here they only make him miss home more."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "homesick",
+   "geese",
+   "plum",
+   "journey"
+  ]
+ },
+ "uncertain": []
+}

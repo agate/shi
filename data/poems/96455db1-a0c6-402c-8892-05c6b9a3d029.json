@@ -1,0 +1,233 @@
+{
+ "id": "96455db1-a0c6-402c-8892-05c6b9a3d029",
+ "kind": "shi",
+ "title": "秋夜寄邱员外",
+ "title_en": "To Qiu the Official on an Autumn Night",
+ "author": "韦应物",
+ "author_en": "Wei Yingwu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "属",
+    "zhǔ"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "步",
+    "bù"
+   ],
+   [
+    "咏",
+    "yǒng"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里用通行文本。第三句通行本多作“空山松子落”，另有版本作“山空松子落”，意思相近。题目通行作《秋夜寄邱员外》，原题作《秋夜寄丘二十二员外》，“丘”“邱”是同一个姓。",
+  "en": "This uses the common text. Line three usually reads kōng shān sōng zǐ luò, \"in the empty hills pine cones fall\"; another version has shān kōng, \"the hills are empty\", with almost the same meaning. The usual title names the friend Qiu the Official; the original title calls him Qiu the Twenty-second, Official. The two written forms of Qiu are the same surname."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "属",
+   "pinyin": "zhǔ",
+   "zh": "属：这里是“正当、恰好是”的意思，读 zhǔ，不读 shǔ。",
+   "en": "Here it means \"just at, happening to be\", so it is read zhǔ, not shǔ."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "子",
+   "pinyin": "zǐ",
+   "zh": "松子：这里“子”指果实、种子，读 zǐ，不读轻声。",
+   "en": "In sōng zǐ (pine seeds) the character means seed or fruit and keeps its full tone zǐ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "怀君：想念你。君，指邱员外。",
+   "en": "huái jūn: thinking of you. Jūn here is Qiu the Official."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "属：正当，恰好是。",
+   "en": "zhǔ: just at, happening to be."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "散步：随意走走。",
+   "en": "sàn bù: to take a stroll."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "咏：吟诗，轻声念诗。",
+   "en": "yǒng: to chant a poem softly."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "凉天：凉爽的秋夜天气。",
+   "en": "liáng tiān: the cool autumn night."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "松子：松树的果实，松果里的种子。",
+   "en": "sōng zǐ: pine seeds, from pine cones."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "幽人：隐居的人，这里指邱员外。",
+   "en": "yōu rén: a person living quietly in seclusion, here Qiu the Official."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "应：应该，大概。",
+   "en": "yīng: probably, must be."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "正是秋天的夜晚，我想念着你，",
+   "en": "On this autumn night I am thinking of you."
+  },
+  {
+   "zh": "一边散步，一边吟诵这凉爽的秋夜。",
+   "en": "I take a stroll and chant poems in the cool night air."
+  },
+  {
+   "zh": "你那里空寂的山中，松子正一颗颗落下，",
+   "en": "In your empty hills, pine seeds must be dropping one by one;"
+  },
+  {
+   "zh": "隐居的你，应该也还没有睡吧。",
+   "en": "you, the hermit there, are probably not asleep yet either."
+  }
+ ],
+ "background": {
+  "zh": "邱员外就是丘丹，他排行二十二，做过员外郎（一种官职），后来到临平山（在今浙江杭州一带）隐居学道。韦应物和他是好朋友，常常写诗来往。一般认为，这首诗是韦应物在苏州做刺史（一个州的长官）时写的。一个秋天的夜晚，他想念远方的朋友，写了这首诗寄给他。",
+  "en": "Qiu the Official was Qiu Dan. He was twenty-second among his cousins and had held the post of yuanwailang, an official title. Later he went to live as a hermit on Linping Mountain, near today's Hangzhou in Zhejiang, to study the Dao. Wei Yingwu and he were good friends and often sent each other poems. The poem is usually thought to date from Wei Yingwu's time as governor of Suzhou. On an autumn night he missed his faraway friend and wrote this poem to send him."
+ },
+ "author_note": {
+  "zh": "韦应物（约737—约792），唐代诗人，长安人。他年轻时做过唐玄宗的侍卫，性格豪放，后来发奋读书，变得清静淡泊。他做过苏州刺史，所以人们也叫他“韦苏州”。他的诗清新淡雅，特别擅长写山水和安静的心情。",
+  "en": "Wei Yingwu (about 737–about 792) was a Tang poet from Chang'an. As a young man he served as a guard to Emperor Xuanzong and was wild and carefree. Later he threw himself into study and became calm and modest. He served as governor of Suzhou, so people also called him \"Wei of Suzhou\". His poems are fresh and gentle, and he was especially good at landscapes and quiet moods."
+ },
+ "appreciation": {
+  "zh": "这首诗分成两半。前两句写自己：秋夜凉凉的，我一边散步一边念诗，心里想着你。后两句写朋友：我想象你住的空山里，松子轻轻地落下来，你大概也和我一样，还没睡着。松子落地的声音很小很小，只有特别安静的地方才听得到，这一下就让人感到山里有多静。诗人和朋友隔得很远，却在同一个秋夜里互相想念。全诗没有一个“想”字是写得很重的，却处处都是淡淡的思念，像秋夜的风一样清凉。",
+  "en": "The poem falls into two halves. The first two lines are about the poet himself: the autumn night is cool, and he strolls and chants poems while thinking of his friend. The last two lines are about the friend: he pictures pine seeds softly falling in the empty hills where his friend lives, and guesses the friend is still awake, just like him. A falling pine seed makes a tiny sound that you can hear only somewhere very quiet, so this one detail shows how still the mountains are. The two friends are far apart, yet on the same autumn night each thinks of the other. Nothing is said loudly, but gentle longing fills every line, cool and clear like the autumn night wind."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "missing",
+   "night",
+   "mountain",
+   "hermit"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,284 @@
+{
+ "id": "974914ee-1fc0-4952-a863-820bad2e4065",
+ "kind": "shi",
+ "title": "为有",
+ "title_en": "Because There Is",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ]
+  ],
+  [
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "端",
+    "duān"
+   ],
+   [
+    "嫁",
+    "jià"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "龟",
+    "guī"
+   ],
+   [
+    "婿",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "辜",
+    "gū"
+   ],
+   [
+    "负",
+    "fù"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "衾",
+    "qīn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "朝",
+    "cháo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "第三句底本作“壻”，是“婿”的异体字，这里写作通行的“婿”。",
+  "en": "In line three the source text uses an old variant form of xù (husband); the common form is used here."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为”在这里是“因为”的意思，读 wèi。",
+   "en": "Here wèi means because, so it is read wèi."
+  },
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "“早朝”指上朝，“朝”读 cháo，不读 zhāo。",
+   "en": "Zǎo cháo means attending court, so the character is read cháo, not zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "为有：因为有。题目就是取第一句开头两个字。",
+   "en": "wèi yǒu: because there is. The title is just the first two words of the poem."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "云屏：画着云母花纹、或镶着云母的屏风，非常华美。",
+   "en": "yún píng: a fine screen decorated with mica, a shiny stone."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "无限娇：非常美丽可爱的人，这里指屏风后面的妻子。",
+   "en": "wú xiàn jiāo: endlessly lovely; here, the young wife behind the screen."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "凤城：京城，这里指长安。",
+   "en": "fèng chéng: the Phoenix City, a name for the capital, here Chang'an."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "寒尽：冬天的寒冷过去了。",
+   "en": "hán jìn: the cold of winter is over."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "春宵：春天的夜晚。",
+   "en": "chūn xiāo: a spring night."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "无端：没来由地，不料。带着一点埋怨的语气。",
+   "en": "wú duān: for no good reason, unexpectedly; said with a touch of complaint."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "金龟婿：做大官的丈夫。唐代武则天时，三品以上的大官要佩戴金龟作装饰。",
+   "en": "jīn guī xù: a husband who is a high official. In the time of Wu Zetian, officials of the third rank and above wore golden tortoise ornaments."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "辜负：对不起，白白浪费了。",
+   "en": "gū fù: to let down, to waste."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "香衾：香香的被子。衾，被子。",
+   "en": "xiāng qīn: a sweet-scented quilt. Qīn means quilt."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "事早朝：去上早朝。事，从事、去做；早朝，大臣清早进宫见皇帝、商量国事。",
+   "en": "shì zǎo cháo: to go to the morning court. Shì means to attend to; zǎo cháo is the early meeting where ministers saw the emperor."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "云母屏风后面，有一位非常美丽的妻子，",
+   "en": "Behind the mica screen lives a lovely young wife,"
+  },
+  {
+   "zh": "京城的寒冬过去了，她却害怕春天的夜晚。",
+   "en": "and now that the capital's winter is over, she dreads the spring nights."
+  },
+  {
+   "zh": "真不该嫁给一个佩金龟的大官做丈夫，",
+   "en": "Why did she ever marry a husband with a golden tortoise?"
+  },
+  {
+   "zh": "他辜负了温暖的香被，天不亮就起身去上早朝。",
+   "en": "He leaves the warm, sweet quilt behind to go to the morning court before dawn."
+  }
+ ],
+ "background": {
+  "zh": "这首诗借一位年轻妻子的口气，埋怨丈夫做大官，每天天不亮就得去上早朝。唐代大臣上朝很早，常常半夜就要起身。春天夜短，她更觉得两人在一起的时间太少。一般认为是李商隐住在长安时写的，具体年份不清楚。也有人认为诗里藏着诗人自己的感慨，但没有定论。",
+  "en": "This poem speaks in the voice of a young wife who complains that her husband is a high official and must go to the morning court before dawn every day. Tang ministers went to court very early, often rising in the middle of the night. Spring nights are short, so she feels they have even less time together. It is usually thought to have been written while Li Shangyin lived in Chang'an, but the year is not known. Some readers think the poet hid his own feelings in it, but there is no agreement."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人。他很会写细腻的感情，常常把话说得含蓄，让人慢慢体会。他有很多诗用开头两个字做题目，像《锦瑟》，这首《为有》也是这样，标题本身没有特别的意思。",
+  "en": "Li Shangyin (about 813–858) was a great late Tang poet. He was very good at writing delicate feelings and often spoke indirectly, letting readers discover the meaning slowly. Many of his poems take their first two words as the title, like \"The Inlaid Zither\". \"Because There Is\" is one of these, so the title itself has no special meaning."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是一位贵族少妇的小烦恼。第一句先写她的美和生活的华丽：云母屏风，无限娇美。第二句有点奇怪：冬天过去了，春天来了，她却说“怕春宵”。为什么？后两句给出答案：她嫁了一个做大官的丈夫，丈夫每天天不亮就要离开温暖的被窝去上朝，春夜那么短，两人刚刚团聚就又要分开。“无端”两个字，带着撒娇似的埋怨。别人羡慕她嫁得好，她自己却觉得冷清。诗人用很轻的笔调，写出了荣华背后的寂寞。",
+  "en": "This poem is about a small worry of a noble young wife. The first line shows her beauty and her rich life: a mica screen, endless loveliness. The second line is a little strange. Winter is gone and spring has come, yet she says she dreads the spring nights. Why? The last two lines answer. She married a high official, and every day before dawn he must leave the warm quilt to go to court. The spring nights are so short that they part again just after being together. The words wú duān carry a pouting kind of complaint. Others envy her fine marriage, but she feels lonely. With a light touch, the poet shows the loneliness behind wealth and rank."
+ },
+ "famous_lines": [
+  2
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "marriage",
+   "night",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

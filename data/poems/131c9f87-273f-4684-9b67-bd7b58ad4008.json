@@ -1,0 +1,493 @@
+{
+ "id": "131c9f87-273f-4684-9b67-bd7b58ad4008",
+ "kind": "shi",
+ "title": "筹笔驿",
+ "title_en": "Choubi Post Station",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "猿",
+    "yuán"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "畏",
+    "wèi"
+   ],
+   [
+    "简",
+    "jiǎn"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "护",
+    "hù"
+   ],
+   [
+    "储",
+    "chǔ"
+   ],
+   [
+    "胥",
+    "xū"
+   ]
+  ],
+  [
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "令",
+    "lìng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "将",
+    "jiàng"
+   ],
+   [
+    "挥",
+    "huī"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "笔",
+    "bǐ"
+   ]
+  ],
+  [
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "降",
+    "xiáng"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "走",
+    "zǒu"
+   ],
+   [
+    "传",
+    "zhuàn"
+   ],
+   [
+    "车",
+    "chē"
+   ]
+  ],
+  [
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "乐",
+    "yuè"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "原",
+    "yuán"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "忝",
+    "tiǎn"
+   ]
+  ],
+  [
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "张",
+    "zhāng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "命",
+    "mìng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "如",
+    "rú"
+   ]
+  ],
+  [
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "祠",
+    "cí"
+   ],
+   [
+    "庙",
+    "miào"
+   ]
+  ],
+  [
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "父",
+    "fǔ"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "余",
+    "yú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库本第二句作“常为”，第五句作“终不忝”；现在通行的《唐诗三百首》本作“长为”“原不忝”，也有本子作“真不忝”。意思基本相同。这里用通行本。",
+  "en": "The database text has a different character for cháng in line two, and zhōng bù tiǎn in line five. The common Three Hundred Tang Poems text reads cháng wèi and yuán bù tiǎn, and some editions read zhēn bù tiǎn. The meaning is about the same. This page follows the common text."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "为是“替、给”的意思，读 wèi。",
+   "en": "Here it means for or on behalf of, so it is read wèi."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "将",
+   "pinyin": "jiàng",
+   "zh": "上将指大将，“将”读 jiàng。",
+   "en": "Here it means a general, so it is read jiàng."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "降",
+   "pinyin": "xiáng",
+   "zh": "降王是投降的君王，“降”读 xiáng。",
+   "en": "Here it means to surrender, so it is read xiáng."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "传",
+   "pinyin": "zhuàn",
+   "zh": "传车是驿站的车，“传”读 zhuàn。",
+   "en": "Here it means a post-station carriage, so it is read zhuàn."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "乐",
+   "pinyin": "yuè",
+   "zh": "乐指战国名将乐毅，作姓读 yuè。",
+   "en": "Here it is the surname of the general Yue Yi, read yuè."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "父",
+   "pinyin": "fǔ",
+   "zh": "梁父吟的“父”读 fǔ。",
+   "en": "In this song title the character is read fǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "犹疑：好像还在。这里说猿和鸟好像还在害怕。",
+   "en": "yóu yí: as if still. Here, the apes and birds seem still to be afraid."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "简书：写在竹简上的文书，这里指诸葛亮的军令。",
+   "en": "jiǎn shū: writing on bamboo strips. Here, Zhuge Liang's army orders."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "储胥：军营外的篱笆、栅栏。",
+   "en": "chǔ xū: the fences and barriers around an army camp."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "徒令：白白地让。",
+   "en": "tú lìng: in vain made, for nothing."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "上将：大将，这里指诸葛亮。",
+   "en": "shàng jiàng: the top general. Here, Zhuge Liang."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "挥神笔：挥动神奇的笔，指出谋划策、调兵遣将。",
+   "en": "huī shén bǐ: wielding a wonderful brush, that is, making brilliant plans and giving orders."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "降王：投降的君王，指蜀国后主刘禅。",
+   "en": "xiáng wáng: a ruler who surrendered. Here, Liu Shan, the last ruler of Shu."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "走传车：坐着驿站的车被送走。刘禅投降后被押送到洛阳。",
+   "en": "zǒu zhuàn chē: being sent off in a post-station carriage. After he surrendered, Liu Shan was taken away to Luoyang."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "管乐：管仲和乐毅，春秋战国时有名的宰相和大将。诸葛亮年轻时常把自己比作他们。",
+   "en": "guǎn yuè: Guan Zhong and Yue Yi, a famous minister and a famous general of ancient times. As a young man, Zhuge Liang often compared himself to them."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "不忝：不羞愧，配得上。",
+   "en": "bù tiǎn: not unworthy, fully equal to."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "关张：关羽和张飞，蜀国的两员大将。",
+   "en": "guān zhāng: Guan Yu and Zhang Fei, two great generals of Shu."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "无命：命不好，指他们都死得早，死于非命。",
+   "en": "wú mìng: had bad luck. Both died early and violently."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "欲何如：又能怎么样呢？",
+   "en": "yù hé rú: what could be done?"
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "他年：往年，以前。这里指诗人以前到过成都。",
+   "en": "tā nián: in a past year. Here, a time when the poet had been to Chengdu before."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "锦里：成都的别称，诸葛亮的祠庙就在那里。",
+   "en": "jǐn lǐ: another name for Chengdu, where Zhuge Liang's shrine stands."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "梁父吟：一首古歌的名字，诸葛亮出山前喜欢吟唱它。这里指诗人在祠庙前作的诗。",
+   "en": "liáng fǔ yín: the name of an old song that Zhuge Liang loved to chant. Here it stands for the poem Li Shangyin wrote at the shrine."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "恨有余：遗憾没有尽头。",
+   "en": "hèn yǒu yú: the regret goes on without end."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "这里的猿猴和鸟儿，好像到现在还害怕诸葛亮严明的军令。",
+   "en": "The apes and birds here still seem to fear Zhuge Liang's strict army orders."
+  },
+  {
+   "zh": "风云也好像一直在守护着他当年的军营。",
+   "en": "The wind and clouds seem always to guard the fences of his old camp."
+  },
+  {
+   "zh": "可惜白白让这位大将挥动神笔、出谋划策。",
+   "en": "Yet it was all in vain that this great general wielded his wonderful brush."
+  },
+  {
+   "zh": "最后还是看到投降的后主坐着驿车被押走。",
+   "en": "In the end the ruler who surrendered was carted away in a post-station carriage."
+  },
+  {
+   "zh": "诸葛亮的才能，本来就不比管仲、乐毅差。",
+   "en": "Zhuge Liang's talent was truly equal to that of Guan Zhong and Yue Yi."
+  },
+  {
+   "zh": "可关羽、张飞都早早死了，他又能怎么样呢？",
+   "en": "But Guan Yu and Zhang Fei died before their time, so what could he do?"
+  },
+  {
+   "zh": "往年我在成都经过他的祠庙。",
+   "en": "Years ago in Chengdu I passed by his shrine."
+  },
+  {
+   "zh": "吟完一首《梁父吟》，心里的遗憾还是没有尽头。",
+   "en": "I chanted a Liangfu song there, and the regret still had no end."
+  }
+ ],
+ "background": {
+  "zh": "筹笔驿在今天四川广元北边，是古代路边的一个驿站。传说诸葛亮带兵北伐时，曾在这里驻军、筹划军事，所以叫“筹笔驿”。李商隐晚年在梓州做幕僚，一般认为他是在往返四川和长安的路上经过这里，想起诸葛亮的一生，写下了这首诗。",
+  "en": "Choubi Post Station was a roadside station north of today's Guangyuan in Sichuan. Legend says Zhuge Liang camped here and made his war plans while leading armies north, so it was named the Station of Planning with the Brush. In his later years Li Shangyin worked as an aide in Zizhou, in Sichuan. He is generally thought to have passed this station on a journey between Sichuan and Chang'an. Remembering Zhuge Liang's life, he wrote this poem."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐诗人，和杜牧合称“小李杜”。他的诗用典多，意思含蓄。他一生被卷进朝廷的派系斗争，很不得志，所以写起诸葛亮“有才却无法成功”的遗憾，也带着自己的感慨。",
+  "en": "Li Shangyin (about 813–about 858) was a late Tang poet. He and Du Mu are called the Little Li and Du. His poems use many old stories and hint at their meaning rather than saying it outright. All his life he was caught in fights between court factions and never got ahead. So when he writes of Zhuge Liang's talent that could not win, he is also sighing about himself."
+ },
+ "appreciation": {
+  "zh": "开头写得很神奇：几百年过去了，猿猴和鸟儿还怕诸葛亮的军令，风云还在守护他的营寨，可见他治军多么严明，威名多么久远。第三、四句一下子转折：他再会谋划又怎样，最后后主还是投降了。“徒令”和“终见”两个词，把遗憾说得很重。第五、六句说原因：诸葛亮的才能足够，可惜关羽、张飞早死，他独木难支。最后两句回到自己：我以前在成都拜过他的祠庙，吟诗凭吊，遗憾却说不完。全诗先扬后抑，赞美里满是叹息。",
+  "en": "The opening is almost magical. Hundreds of years have passed, yet the apes and birds still fear Zhuge Liang's orders, and the wind and clouds still guard his camp. This shows how strict his army was and how long his fame has lasted. Lines three and four suddenly turn. However well he planned, the last ruler of Shu still surrendered in the end. The words for \"in vain\" and \"in the end\" make the regret weigh heavy. Lines five and six give the reason. Zhuge Liang had talent enough, but Guan Yu and Zhang Fei died early, and one man alone could not hold everything up. The last two lines come back to the poet. He once visited the shrine in Chengdu and wrote a poem there, but the regret never ends. The poem first lifts the hero high, then lets him fall, and the praise is full of sighs."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "hero",
+   "regret",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

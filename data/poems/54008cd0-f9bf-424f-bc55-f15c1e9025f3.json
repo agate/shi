@@ -1,0 +1,247 @@
+{
+ "id": "54008cd0-f9bf-424f-bc55-f15c1e9025f3",
+ "kind": "shi",
+ "title": "赠别二首·其一",
+ "title_en": "Parting Gift (No. 1 of 2)",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "娉",
+    "pīng"
+   ],
+   [
+    "娉",
+    "pīng"
+   ],
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "余",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "豆",
+    "dòu"
+   ],
+   [
+    "蔻",
+    "kòu"
+   ],
+   [
+    "梢",
+    "shāo"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "初",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "如",
+    "rú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原始文本第一句的“褭褭”是“袅袅”的异体字，这里写作通行的“袅袅”。",
+  "en": "In the first line the source writes niǎo niǎo, \"slender and graceful\", in an old variant form. The standard form is used here."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "娉娉袅袅：形容女子身材苗条、走路轻盈好看的样子。",
+   "en": "pīng pīng niǎo niǎo: slender and graceful, light in the way she moves."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "十三余：十三岁多一点。",
+   "en": "shí sān yú: a little over thirteen years old."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "豆蔻：一种植物，初春开花，花苞含在叶子中间还没完全开。后来人们用“豆蔻年华”指十三四岁的少女。",
+   "en": "dòu kòu: cardamom, a plant that blooms in early spring, its buds still tucked among the leaves. Later people used \"cardamom years\" to mean a girl of thirteen or fourteen."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "梢头：枝头。",
+   "en": "shāo tóu: the tip of the branch."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "二月初：农历二月初，早春，豆蔻花刚要开的时候。",
+   "en": "èr yuè chū: early in the second lunar month, early spring, just as the cardamom begins to bloom."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "扬州路：扬州城里的街道。扬州在今天的江苏，唐朝时非常繁华。",
+   "en": "Yángzhōu lù: the streets of Yangzhou, a city in today's Jiangsu that was very rich and lively in the Tang."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "卷上珠帘：卷起珠帘，指珠帘后面的那些美丽女子。珠帘，用珠子穿成的帘子。",
+   "en": "juǎn shàng zhū lián: rolling up the bead curtains, meaning the pretty young women behind them. A bead curtain is made of strings of beads."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "总不如：全都比不上她。",
+   "en": "zǒng bù rú: none of them can compare with her."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她身姿轻盈美好，才十三岁多一点，",
+   "en": "Slender and graceful, she is just past thirteen,"
+  },
+  {
+   "zh": "就像二月初枝头上含苞的豆蔻花。",
+   "en": "Like a cardamom bud on the branch in early spring."
+  },
+  {
+   "zh": "春风吹过十里长的扬州街道，",
+   "en": "Along ten li of Yangzhou's streets in the spring breeze,"
+  },
+  {
+   "zh": "珠帘后面的美人一个个看过去，都比不上她。",
+   "en": "Of all the beauties behind the bead curtains, none can compare with her."
+  }
+ ],
+ "background": {
+  "zh": "杜牧年轻时在扬州做过几年官，在淮南节度使的府里管文书。一般认为，835年他要离开扬州去长安做官，写了两首诗送给一位相熟的歌女，这是第一首。唐朝的扬州是全国最繁华的城市之一，杜牧在那里留下了很多诗。",
+  "en": "When Du Mu was young, he worked for a few years in Yangzhou, handling documents in the office of the regional governor. It is usually said that in 835, as he was leaving Yangzhou for a post in Chang'an, he wrote two poems for a young singer he knew well. This is the first. Tang Yangzhou was one of the richest, liveliest cities in the land, and Du Mu wrote many poems there."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），唐代后期的诗人，字牧之。人们把他和李商隐合称“小李杜”。他最擅长写七言绝句，语言清新漂亮，比如《山行》《清明》都很有名。他在扬州的经历，让他写了不少关于这座城市的诗。",
+  "en": "Du Mu (803–852) was a poet of the late Tang. He and Li Shangyin are called the Little Li and Du. He was best at seven-character quatrains, fresh and lovely in language, such as the famous \"Mountain Walk\" and \"Qingming\". His years in Yangzhou gave him many poems about that city."
+ },
+ "appreciation": {
+  "zh": "这首诗写离别，却一个“别”字也没有，只是在夸一个人有多美。第一句写她的样子：轻轻巧巧，才十三岁多。第二句用一个比喻：她像二月初枝头的豆蔻花，还没完全开放，又嫩又新鲜。后两句换个角度：扬州十里长街，春风吹拂，珠帘后有那么多美人，可是没有一个比得上她。越说她好，越能感到诗人舍不得离开。“豆蔻年华”这个词，就是从这首诗来的。",
+  "en": "This is a parting poem, but it never says \"goodbye\". It only tells how lovely someone is. The first line shows her: light and graceful, just past thirteen. The second line uses a picture: she is like a cardamom bud on the branch in early spring, not yet fully open, soft and fresh. The last two lines look another way. Along Yangzhou's ten li of streets in the spring breeze, there are so many beauties behind the bead curtains, yet none is as lovely as she is. The more he praises her, the more we feel how hard it is for him to leave. The phrase \"cardamom years\", meaning a girl's early teens, comes from this poem."
+ },
+ "famous_lines": [
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "yangzhou",
+   "beauty"
+  ]
+ },
+ "uncertain": []
+}

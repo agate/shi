@@ -1,0 +1,256 @@
+{
+ "id": "1f28ab03-8388-4a2f-8c4f-3ce47789e221",
+ "kind": "shi",
+ "title": "桃花溪",
+ "title_en": "Peach Blossom Creek",
+ "author": "张旭",
+ "author_en": "Zhang Xu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "矶",
+    "jī"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "船",
+    "chuán"
+   ]
+  ],
+  [
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文的“谿”是“溪”的另一种写法，意思一样。现在通行本写作“溪”，题目也写作《桃花溪》。",
+  "en": "The corpus text writes the word for \"creek\" (xī) with an older variant character. It means the same thing. Today's common editions use the usual form, in the title too."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "尽日：读 jìn，意思是一整天。",
+   "en": "In jìn rì (all day long), the character is read jìn here."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "隐隐：看不太清楚，若有若无的样子。",
+   "en": "yǐn yǐn: faint, hard to see clearly."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "飞桥：高高架在空中的桥，远看像飞起来一样。",
+   "en": "fēi qiáo: a high bridge that seems to fly through the air."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "野烟：山野里的云雾。",
+   "en": "yě yān: mist and haze over the wild hills."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "石矶：水边突出来的大石头。",
+   "en": "shí jī: a large rock jutting out at the water's edge."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "西畔：西边。畔，旁边。",
+   "en": "xī pàn: the west side. Pàn means side or bank."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "尽日：整天，一天到晚。",
+   "en": "jìn rì: all day long."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "洞：指陶渊明《桃花源记》里的山洞。渔人从这个洞走进去，看到了与世隔绝的桃花源。",
+   "en": "dòng: the cave in Tao Yuanming's story \"Peach Blossom Spring\". A fisherman went through it and found a hidden, peaceful village."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "何处边：在哪里，在哪一边。",
+   "en": "hé chù biān: where, on which side."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "山野的云雾里，一座高高的桥若隐若现。",
+   "en": "Through the mist over the wild hills, a high bridge can just be seen."
+  },
+  {
+   "zh": "我站在石矶的西边，问那打鱼的船家。",
+   "en": "Standing west of the rock by the water, I call out to a fishing boat."
+  },
+  {
+   "zh": "桃花整天随着流水漂下来，",
+   "en": "\"Peach petals float down on the stream all day long,"
+  },
+  {
+   "zh": "那个通向桃花源的山洞，在清清溪水的哪一边呢？",
+   "en": "so where along this clear creek is the cave to the Peach Blossom Spring?\""
+  }
+ ],
+ "background": {
+  "zh": "桃花溪在今天湖南桃源县的桃源山下。人们相信，陶渊明《桃花源记》里写的就是这一带。故事里，一个渔人顺着开满桃花的溪水走，钻进一个山洞，找到了一个人人安乐的村子，后来却再也找不到了。诗人来到这里，想起这个故事，写下这首诗。写作时间不清楚。一说这首诗其实是宋代蔡襄写的，题目叫《度南涧》。",
+  "en": "Peach Blossom Creek is at the foot of Taoyuan Mountain, in today's Taoyuan County, Hunan. People believed this was the place in Tao Yuanming's story \"Peach Blossom Spring\". In the story, a fisherman follows a creek lined with peach trees, goes through a cave, and finds a village where everyone lives in peace. Later, no one can find it again. The poet came here, remembered the story, and wrote this poem. We do not know when. Some scholars think the poem was really written by Cai Xiang of the Song dynasty, under another title."
+ },
+ "author_note": {
+  "zh": "张旭，盛唐时人，生卒年不详，是有名的书法家，最擅长草书，被称为“草圣”。他爱喝酒，杜甫把他写进《饮中八仙歌》。他留下的诗很少，这首写得像一幅山水画，正像出自一位懂得笔墨的书画家之手。",
+  "en": "Zhang Xu lived in the High Tang; his exact dates are unknown. He was a famous calligrapher, best at wild cursive script, and was called the Sage of Cursive. He loved wine, and Du Fu put him in his poem about eight great drinkers. Only a few of his poems survive. This one reads like a landscape painting, fitting for a man who knew brush and ink so well."
+ },
+ "appreciation": {
+  "zh": "前两句是一幅远景：云雾里，一座高桥若隐若现，像在仙境。诗人站在水边的大石头旁，向渔船打听。后两句是他问的话：桃花瓣整天顺着溪水漂下来，那个通往桃花源的山洞到底在哪儿？问题问出来了，渔人怎么回答，诗里没有说。这样留下一片空白，让读者自己去想。也许桃花源根本找不到，也许它就藏在那片云雾后面。诗很短，却让人觉得又美又有点神秘。",
+  "en": "The first two lines paint a far-off view. In the mist, a high bridge comes and goes, as if in a fairyland. The poet stands by a rock at the water and calls to a fishing boat. The last two lines are his question: peach petals float down the creek all day, so where is the cave that leads to the Peach Blossom Spring? The question is asked, but the poem never tells us the fisherman's answer. That blank space is left for us to fill. Maybe the hidden village can never be found. Maybe it is just behind the mist. The poem is short, but it feels both lovely and a little mysterious."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "landscape",
+   "peach-blossom",
+   "utopia",
+   "mist"
+  ]
+ },
+ "uncertain": []
+}

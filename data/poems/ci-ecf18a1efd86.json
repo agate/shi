@@ -1,0 +1,405 @@
+{
+ "id": "ci-ecf18a1efd86",
+ "kind": "ci",
+ "title": "惜分飞·富阳僧舍作别语赠妓琼芳",
+ "title_en": "Sorrow at Parting: Farewell Words for Qiongfang, Written at a Monastery in Fuyang",
+ "author": "毛滂",
+ "author_en": "Mao Pang",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "峰",
+    "fēng"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "聚",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "取",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "觑",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "付",
+    "fù"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料第五句作“短雨残云”，通行本多作“断雨残云”。语料把“更无言语空相觑”“断魂分付潮回去”各分成两句，这里按通行的读法各合成一句。",
+  "en": "In the fifth line the corpus has \"short rain\" where most common editions have \"broken rain\". The corpus also splits the fourth and eighth lines in two; here each is kept as one line, as usually printed."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 5,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "著露：沾着露水，“著”是附着的意思，读 zhuó。",
+   "en": "In \"with dew on it\" the character means to cling to, and is read zhuó."
+  },
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "阑干：这里形容眼泪纵横流淌的样子，读 lán gān。",
+   "en": "Here lán gān describes tears streaming down in every direction."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝朝暮暮：每天早晨和傍晚，“朝”读 zhāo。",
+   "en": "In zhāo zhāo mù mù, every morning and evening, it is read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "阑干：眼泪纵横流淌的样子。",
+   "en": "lán gān: tears streaming every which way."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "花著露：像花朵沾着露水。",
+   "en": "huā zhuó lù: like a flower with dew on it."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "眉峰碧聚：画成青绿色的眉毛紧紧皱在一起，像聚拢的山峰。古代女子用青黛画眉。",
+   "en": "méi fēng bì jù: her brows, painted blue-green, knit tightly together like gathered peaks. Women of old painted their brows with dark blue-green paint."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "平分取：两个人平分。",
+   "en": "píng fēn qǔ: shared equally between the two."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "相觑：互相看着。觑，看。",
+   "en": "xiāng qù: looking at each other. Qù means to look."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "断雨残云：下断了的雨，残留的云，比喻男女的情缘断了。",
+   "en": "duàn yǔ cán yún: broken rain and leftover clouds, an image for love that has been cut off."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "无意绪：没有心思，什么都提不起劲。",
+   "en": "wú yì xù: no heart for anything."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "朝朝暮暮：每天从早到晚。",
+   "en": "zhāo zhāo mù mù: every morning and every evening."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "断魂：伤心到了极点的心魂。",
+   "en": "duàn hún: a soul broken with grief."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "分付：交给，托付。同“吩咐”。",
+   "en": "fēn fù: to hand over, to entrust."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "潮回去：让江潮带回去。富阳在富春江边，江潮能一直流到杭州。",
+   "en": "cháo huí qù: let the river tide carry it back. Fuyang is on the Fuchun River, whose tide reaches Hangzhou."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你的眼泪纵横流淌，像花朵沾着露水。",
+   "en": "Your tears run down every which way, like dew on a flower."
+  },
+  {
+   "zh": "愁得青黛画的眉毛紧紧皱在一起。",
+   "en": "Sorrow knits your painted brows together like gathered peaks."
+  },
+  {
+   "zh": "这份离别的痛苦，我们两人平分吧。",
+   "en": "Let us share this pain of parting equally."
+  },
+  {
+   "zh": "再也说不出一句话，只能空空地互相看着。",
+   "en": "No words are left; we can only look at each other in vain."
+  },
+  {
+   "zh": "情缘像下断的雨、残留的云，我做什么都没心思，",
+   "en": "Our love is like broken rain and leftover clouds; I have no heart for anything."
+  },
+  {
+   "zh": "从早到晚，都是一个人的寂寞。",
+   "en": "Morning after morning, evening after evening, I am lonely."
+  },
+  {
+   "zh": "今夜我在深山里，",
+   "en": "Tonight, deep in the mountains,"
+  },
+  {
+   "zh": "只好把这颗伤透的心，托付给江潮带回你身边。",
+   "en": "I can only give my broken heart to the tide, to carry it back to you."
+  }
+ ],
+ "background": {
+  "zh": "毛滂在杭州做法曹（管司法的小官）时，和一位叫琼芳的歌女感情很深。任期满了，他离开杭州，走到富阳，住在一座寺院里，写下这首词寄给她。相传后来苏轼在宴会上听到有人唱这首词，问是谁写的，得知是自己手下的毛滂，就说：手下有这样的词人我却不知道，是我的错。于是派人把他追了回来。这个故事出自后人的笔记，未必完全可靠。",
+  "en": "While Mao Pang served as a judicial clerk in Hangzhou, he grew very close to a singer named Qiongfang. When his term ended he left Hangzhou. Reaching Fuyang, he stayed at a monastery and wrote this lyric for her. A story says Su Shi later heard it sung at a banquet and asked who wrote it. When he learned it was Mao Pang, a man on his own staff, he said it was his fault for not knowing such a poet worked under him, and sent people to bring Mao Pang back. The story comes from later notes and may not be fully reliable."
+ },
+ "author_note": {
+  "zh": "毛滂，字泽民，衢州江山（今属浙江）人，北宋词人，生卒年说法不一。他做过一些地方小官，和苏轼等人有来往。他的词清新自然，感情真挚，这首《惜分飞》是他最有名的作品。",
+  "en": "Mao Pang came from Jiangshan in Quzhou, in today's Zhejiang. He was a Northern Song lyric poet, and accounts of his dates differ. He held several minor local posts and knew Su Shi and his circle. His lyrics are fresh and natural, with sincere feeling. This lyric is his most famous work."
+ },
+ "appreciation": {
+  "zh": "上片写分别那一刻。她的眼泪像花上的露水，眉头紧锁像聚拢的山峰。词人说：这份痛苦我们平分吧。可两个人谁也说不出话，只能呆呆地对看，越是不说话，越显得难过。下片写别后。情缘断了，什么都提不起劲，早早晚晚都是寂寞。最后两句写今夜：他在深山的寺院里，心已经碎了，只好托江潮把这颗心带回去。江潮会回去，人却回不去，想象新奇，又让人心疼。",
+  "en": "The first half is the moment of parting. Her tears are like dew on a flower; her brows knit like gathered peaks. The poet says: let us share this pain equally. But neither can speak, and they just look at each other. The silence makes the sorrow plainer. The second half is after they part. Love is cut off, he has no heart for anything, and every morning and evening is lonely. The last two lines are tonight. Deep in the mountains at the monastery, his heart is broken, so he asks the river tide to carry it back. The tide can return, but he cannot. The idea is fresh, and it hurts to read."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "tears",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

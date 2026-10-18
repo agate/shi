@@ -1,0 +1,499 @@
+{
+ "id": "ci-0d41c6de2058",
+ "kind": "ci",
+ "title": "蝶恋花·醉别西楼醒不记",
+ "title_en": "Butterflies Love Flowers: Drunk, I Left the West Tower",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "记",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "聚",
+    "jù"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "真",
+    "zhēn"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "易",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "睡",
+    "shuì"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "展",
+    "zhǎn"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "翠",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "字",
+    "zì"
+   ]
+  ],
+  [
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "行",
+    "háng"
+   ]
+  ],
+  [
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "计",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "替",
+    "tì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "zh": "“散”在这里读 sàn，意思是分开，不读 sǎn。",
+   "en": "Here this character is read sàn, meaning to part, not sǎn.",
+   "char": "散",
+   "pinyin": "sàn"
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "zh": "“还”在这里读 hái，意思是仍然、依旧。",
+   "en": "Here this character is read hái, meaning still.",
+   "char": "还",
+   "pinyin": "hái"
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "zh": "“行行”在这里读 háng háng，指一行一行的字，不读 xíng。",
+   "en": "Here the doubled character is read háng háng, meaning line after line of writing, not xíng.",
+   "char": "行",
+   "pinyin": "háng"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "西楼：西边的楼，这里指当年和朋友、歌女一起饮酒告别的地方。",
+   "en": "xī lóu: the west tower, here the place where he once drank and said goodbye to friends and singers."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "醒不记：酒醒以后，什么都记不起来了。",
+   "en": "xǐng bù jì: after sobering up, he could not remember a thing."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "春梦秋云：春天的梦很短，秋天的云很快就散。比喻欢聚像梦和云一样，来得快，去得也快。",
+   "en": "chūn mèng qiū yún: a spring dream is short and autumn clouds soon drift apart. Happy times come and go just as fast."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "聚散：相聚和分离。",
+   "en": "jù sàn: meeting and parting."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "斜月半窗：西斜的月亮照进半边窗户，说明已是深夜。",
+   "en": "xié yuè bàn chuāng: the sinking moon lights half the window, so it is late at night."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "还少睡：还是睡不着。",
+   "en": "hái shǎo shuì: still he can hardly sleep."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "画屏：画着图画的屏风。屏风是放在床边或屋里挡风、隔开空间的板子。",
+   "en": "huà píng: a painted screen. A screen is a standing panel by the bed or in a room that blocks the wind and divides the space."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "闲展：静静地展开着。闲，没人理会、空空的。",
+   "en": "xián zhǎn: spread open with no one looking at it."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "吴山翠：屏风上画的江南青山。吴，指江南一带。翠，青绿色。",
+   "en": "wú shān cuì: the green hills of the south painted on the screen. Wu means the land south of the Yangtze."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "衣上酒痕：衣服上留着当年喝酒时洒下的酒渍。",
+   "en": "yī shàng jiǔ hén: wine stains left on his clothes from those old parties."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "诗里字：当时写下的诗句。",
+   "en": "shī lǐ zì: the words of poems written at that time."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "点点行行：酒痕一点一点，诗句一行一行。",
+   "en": "diǎn diǎn háng háng: the wine stains spot by spot, the poems line by line."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "凄凉：冷清、悲伤。",
+   "en": "qī liáng: lonely and sad."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "自怜：自己可怜自己。",
+   "en": "zì lián: to feel sorry for oneself."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "无好计：想不出好办法。",
+   "en": "wú hǎo jì: no good plan, no way out."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 3,
+   "zh": "空：白白地。",
+   "en": "kōng: in vain, for nothing."
+  },
+  {
+   "line": 9,
+   "start": 5,
+   "end": 7,
+   "zh": "垂泪：流眼泪。这里写蜡烛燃烧时流下的蜡油，像眼泪一样。",
+   "en": "chuí lèi: to shed tears. Here it means the wax that drips from a burning candle, like tears."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "当年在西楼喝醉了告别，酒醒后什么都记不得了。",
+   "en": "I said goodbye at the west tower, drunk; when I sobered up I remembered nothing."
+  },
+  {
+   "zh": "人生就像春天的梦、秋天的云，",
+   "en": "Life is like a spring dream, like autumn clouds:"
+  },
+  {
+   "zh": "相聚和分离，实在太容易了。",
+   "en": "coming together and parting are far too easy."
+  },
+  {
+   "zh": "西斜的月亮照着半边窗户，我还是睡不着，",
+   "en": "The sinking moon lights half the window, and still I cannot sleep."
+  },
+  {
+   "zh": "画屏静静地展开，上面是青翠的江南山水。",
+   "en": "The painted screen stands open, showing the green hills of the south."
+  },
+  {
+   "zh": "衣服上的酒痕，诗里的字句，",
+   "en": "The wine stains on my clothes, the words in my poems,"
+  },
+  {
+   "zh": "一点点，一行行，",
+   "en": "spot by spot, line by line,"
+  },
+  {
+   "zh": "全是凄凉的心意。",
+   "en": "all carry a lonely sadness."
+  },
+  {
+   "zh": "红蜡烛可怜自己，也没有好办法，",
+   "en": "The red candle pities itself; it has no way out either."
+  },
+  {
+   "zh": "只能在寒夜里白白地替人流泪。",
+   "en": "In the cold night it can only shed tears for me, all for nothing."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是离别以后的怀念。晏几道年轻时常在朋友家里饮酒听歌，和几位歌女相熟。后来朋友病的病、走的走，歌女们也流散四方，这些欢聚就再也没有了。词里的“西楼”就是当年饮酒告别的地方。具体写于哪一年，已经不清楚。",
+  "en": "This lyric is about missing people after a parting. When Yan Jidao was young, he often drank and listened to songs at friends' homes, and knew several singers well. Later his friends fell ill or moved away, and the singers scattered, so those happy gatherings never came back. The west tower in the lyric is where he once drank and said goodbye. The exact year it was written is not known."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是宰相词人晏殊的小儿子。他年轻时过着富贵的生活，常和朋友饮酒听歌。后来家道中落，一生只做过小官。他的词多写离别和对旧日欢聚的怀念，感情真，语言美，有《小山词》。",
+  "en": "Yan Jidao (about 1038 to about 1110), also called Xiaoshan, was the youngest son of Yan Shu, a prime minister and poet. When young he lived in wealth, often drinking and listening to songs with friends. Later his family fell on hard times, and he only ever held small posts. His lyrics are mostly about partings and missing the happy gatherings of the past. Their feeling is true and their words are beautiful. His collection is called Xiaoshan Ci."
+ },
+ "appreciation": {
+  "zh": "开头一句很特别：分别那天喝醉了，醒来什么都不记得。好像不在乎，其实是太伤心，不愿去想。接着他说，人生的聚散就像春梦和秋云，转眼就没了。夜里月亮西斜，他还睡不着，只看见屏风上的江南青山，屋里冷冷清清。下半首他低头看衣服上的酒痕，翻出当年的诗句，每一点、每一行都是凄凉。最后他不说自己哭，却说红蜡烛在替他流泪。蜡烛也没办法，只能白白地哭。把自己的伤心交给一根蜡烛，读起来更让人难过。",
+  "en": "The opening is unusual: he was drunk on the day of parting and remembers nothing. It sounds careless, but really he is too sad to want to think about it. Then he says that meeting and parting in life are like a spring dream and autumn clouds, gone in a blink. Late at night, with the moon sinking, he still cannot sleep. He only sees the southern hills painted on the screen, and the room feels cold and empty. In the second half he looks at the wine stains on his clothes and the poems from those days. Every spot and every line is sad. At the end he does not say that he cries. He says the red candle cries for him. The candle has no way out either and can only weep for nothing. Handing his sorrow to a candle makes it even more moving."
+ },
+ "famous_lines": [
+  1,
+  2,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "memory",
+   "night",
+   "candle",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

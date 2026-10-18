@@ -1,0 +1,984 @@
+{
+ "id": "ci-6204cbf683c5",
+ "kind": "ci",
+ "title": "兰陵王·丙子送春",
+ "title_en": "Lan Ling Wang: Seeing Spring Off in the Bingzi Year",
+ "author": "刘辰翁",
+ "author_en": "Liu Chenweng",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《兰陵王》，三叠一百三十字",
+  "en": "ci to the tune Lan Ling Wang, 130 characters in three stanzas"
+ },
+ "lines": [
+  [
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "遣",
+    "qiǎn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "絮",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "荒",
+    "huāng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "箭",
+    "jiàn"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "鹃",
+    "juān"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "凋",
+    "diāo"
+   ],
+   [
+    "土",
+    "tǔ"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "咸",
+    "xián"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "屡",
+    "lǚ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "顾",
+    "gù"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "令",
+    "lìng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "庾",
+    "yǔ"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "赋",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "苏",
+    "sū"
+   ],
+   [
+    "堤",
+    "dī"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "国",
+    "guó"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "孺",
+    "rú"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10,
+  19
+ ],
+ "text_note": {
+  "zh": "最后一句，这里用的整理本作“共夜雨”，通行本作“共夜语”，意思是一起在夜里说话。“语”和全词的韵脚相押，前面又已经有“风和雨”，这里照通行本。",
+  "en": "The edition used here ends with \"together in the night rain\". The common text has a word sounding the same, meaning \"talking together at night\". That word fits the rhyme of the whole ci, and rain has already appeared a few lines earlier, so this page follows the common text."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "甚",
+   "pinyin": "shèn",
+   "zh": "“甚意绪”的“甚”是“什么”的意思。诗词里一般读 shèn；按现代字典，表示“什么”时也读 shén。",
+   "en": "In shèn yì xù this character means \"what\". In poetry it is usually read shèn; modern dictionaries also give shén for this meaning."
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "“斗转”是北斗星转了方向，读 dǒu，不是“战斗”的 dòu。",
+   "en": "Dǒu zhuǎn means the Big Dipper has turned, so this character is read dǒu, not dòu as in \"to fight\"."
+  },
+  {
+   "line": 27,
+   "pos": 2,
+   "char": "子",
+   "pinyin": "zǐ",
+   "zh": "“孺子”读 rú zǐ，“子”不读轻声。",
+   "en": "Rú zǐ, \"child\", is read with a full third tone on this character, not a light tone."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "人间无路：人间已经没有春天可走的路了，意思是春天一去不回。",
+   "en": "rén jiān wú lù: there is no road left for spring in the human world; it is gone for good."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "秋千：荡秋千是古人春天常玩的游戏。",
+   "en": "qiū qiān: a swing. Playing on swings was a favourite spring pastime in old times."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "谁遣：是谁让。遣，派、让。",
+   "en": "shuí qiǎn: who sent, who made. Qiǎn means to send."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "暗南浦：把南边的水岸弄得昏暗。南浦，古诗里常指送别的地方。",
+   "en": "àn nán pǔ: darkening the southern shore. Nán pǔ is a place of farewell in old poems."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "依依：舍不得离开的样子。",
+   "en": "yī yī: clinging, unwilling to part."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "甚意绪：是什么样的心情。意绪，心情、心思。",
+   "en": "shèn yì xù: what kind of feeling. Yì xù means mood, thoughts."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "漫忆：随意地、徒然地回想。",
+   "en": "màn yì: to recall, idly and in vain."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 6,
+   "zh": "海门飞絮：海口上飞舞的柳絮。海门，江河入海的地方。一说暗指南宋的两个小王子从海上逃到南方。",
+   "en": "hǎi mén fēi xù: catkins flying at the river mouth. Hǎi mén is where a river meets the sea. Some read it as a hint at two young Song princes who fled south by sea."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "乱鸦：乱飞乱叫的乌鸦。",
+   "en": "luàn yā: crows flying and cawing in confusion."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "斗转城荒：北斗星转了方向，城也荒了。意思是时势全变了，京城已经残破。",
+   "en": "dǒu zhuǎn chéng huāng: the Big Dipper has turned and the city lies in ruins, meaning the times have changed and the capital is wrecked."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "试灯：元宵节前，先把花灯挂起来点一点，试试看。",
+   "en": "shì dēng: trying out the lanterns before the Lantern Festival."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 3,
+   "zh": "最谁苦：谁最苦。",
+   "en": "zuì shuí kǔ: who suffers most."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 5,
+   "zh": "箭雁沉边：被箭射中的大雁，落在遥远的边地。比喻被抓到北方去的人。",
+   "en": "jiàn yàn chén biān: a wild goose struck by an arrow falls in the far frontier. It stands for people carried off to the north."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "梁燕无主：屋梁上的燕子没有了主人。比喻家破人散、无处可依的百姓。",
+   "en": "liáng yàn wú zhǔ: the swallows on the roof beams have lost their master. It stands for people whose homes are gone."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "杜鹃：一种鸟。传说古代蜀国的国王死后变成杜鹃，叫声非常悲伤。",
+   "en": "dù juān: the cuckoo. Legend says an ancient king of Shu became a cuckoo after death, and its call is full of grief."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "长门：长门宫，汉武帝的陈皇后失宠后住的冷清宫殿，这里借指冷落的宫廷。",
+   "en": "cháng mén: the Changmen Palace, where Empress Chen lived alone after Emperor Wu of Han lost interest in her. Here it stands for a deserted palace."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 5,
+   "zh": "玉树凋土：宫里像玉一样美的树木凋零，落进尘土里。",
+   "en": "yù shù diāo tǔ: the jade-like trees of the palace wither and fall into the dust."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "泪盘如露：汉武帝造过一个铜人，手捧盘子接露水。后来铜人被拆走，传说它流下了眼泪。这里是说眼泪像盘里的露水。",
+   "en": "lèi pán rú lù: Emperor Wu of Han built a bronze immortal holding a plate to catch dew. When it was later carted away, legend says it wept. Here the tears are like the dew in the plate."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 7,
+   "zh": "咸阳送客屡回顾：在咸阳道上被送走，一次次回头张望。这句借用唐代李贺写铜人离开长安的诗，比喻被押走的人舍不得故国。",
+   "en": "xián yáng sòng kè lǚ huí gù: sent off along the Xianyang road, looking back again and again. It borrows from a Tang poem by Li He about the bronze immortal leaving Chang'an, and stands for captives unwilling to leave their homeland."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 5,
+   "zh": "斜日未能度：夕阳好像也停住了，迟迟走不过去。",
+   "en": "xié rì wèi néng dù: even the setting sun seems stuck, unable to move on."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 3,
+   "zh": "尚来否：还会再来吗？",
+   "en": "shàng lái fǒu: will it come again?"
+  },
+  {
+   "line": 21,
+   "start": 1,
+   "end": 5,
+   "zh": "江令恨别：一般认为指南朝的江淹，他写过有名的《恨赋》和《别赋》；一说指陈朝的江总，国家灭亡后去了北方。",
+   "en": "jiāng lìng hèn bié: usually taken to mean Jiang Yan of the Southern Dynasties, who wrote famous pieces on regret and on parting. Some say it means Jiang Zong of the Chen dynasty, who went north after his country fell."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 4,
+   "zh": "庾信愁赋：庾信是南北朝时的文人，出使北方后被扣留，再也没能回到南方，写了很多思念故国的文章。赋，一种文体。",
+   "en": "yǔ xìn chóu fù: Yu Xin was a writer of the Southern and Northern Dynasties. Sent north as an envoy, he was kept there and never returned south, and wrote much about missing his homeland. A fù is a kind of rhymed essay."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 2,
+   "zh": "苏堤：杭州西湖上的一条长堤，是苏轼在杭州做官时修的。",
+   "en": "sū dī: the Su Causeway across West Lake in Hangzhou, built when Su Shi was an official there."
+  },
+  {
+   "line": 23,
+   "start": 2,
+   "end": 4,
+   "zh": "尽日：整天。",
+   "en": "jìn rì: all day long."
+  },
+  {
+   "line": 24,
+   "start": 1,
+   "end": 5,
+   "zh": "神游故国：在梦里或想象中回到故国。",
+   "en": "shén yóu gù guó: travelling back to the old homeland in dreams or in the mind."
+  },
+  {
+   "line": 25,
+   "start": 0,
+   "end": 4,
+   "zh": "花记前度：花还记得我上一次来时的样子。前度，上一次。",
+   "en": "huā jì qián dù: the flowers still remember my last visit. Qián dù means last time."
+  },
+  {
+   "line": 26,
+   "start": 2,
+   "end": 4,
+   "zh": "流落：漂泊在外，无家可归。",
+   "en": "liú luò: drifting far from home."
+  },
+  {
+   "line": 27,
+   "start": 1,
+   "end": 3,
+   "zh": "孺子：小孩子。一说指词人的儿子。",
+   "en": "rú zǐ: a child. Some think it means the poet's own son."
+  },
+  {
+   "line": 28,
+   "start": 0,
+   "end": 3,
+   "zh": "共夜语：在夜里一起说说话。",
+   "en": "gòng yè yǔ: to talk together at night."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "送春天离去，",
+   "en": "I see spring off;"
+  },
+  {
+   "zh": "春天走了，人间再也没有它的路。",
+   "en": "spring is gone, and there is no road left for it in this world."
+  },
+  {
+   "zh": "秋千外面，",
+   "en": "Beyond the swings"
+  },
+  {
+   "zh": "芳草一直连到天边，",
+   "en": "the green grass stretches to the sky;"
+  },
+  {
+   "zh": "是谁让风沙遮暗了南边的水岸？",
+   "en": "who sent the wind and sand to darken the southern shore?"
+  },
+  {
+   "zh": "恋恋不舍，这是怎样的心情？",
+   "en": "Clinging, unwilling to part: what is this feeling?"
+  },
+  {
+   "zh": "只能徒然地回想海口上飞舞的柳絮。",
+   "en": "In vain I recall the catkins flying at the river mouth."
+  },
+  {
+   "zh": "乌鸦乱飞而过，",
+   "en": "Crows fly past in confusion;"
+  },
+  {
+   "zh": "北斗转了方向，城已荒凉，",
+   "en": "the Dipper has turned, the city lies waste,"
+  },
+  {
+   "zh": "再也看不见当年元宵前试灯的地方。",
+   "en": "and the place where we tried out the festival lanterns is gone."
+  },
+  {
+   "zh": "春天走了，",
+   "en": "Spring is gone:"
+  },
+  {
+   "zh": "谁最苦？",
+   "en": "who suffers most?"
+  },
+  {
+   "zh": "是中箭的大雁落在遥远的边地，",
+   "en": "The wild geese struck by arrows, fallen in the far frontier;"
+  },
+  {
+   "zh": "是梁上的燕子没有了主人。",
+   "en": "the swallows on the beams with no master left."
+  },
+  {
+   "zh": "杜鹃的悲啼里，冷落的宫殿到了黄昏。",
+   "en": "Amid the cuckoo's cries, dusk falls on the deserted palace."
+  },
+  {
+   "zh": "想到宫里的玉树凋落成土，",
+   "en": "I think of the jade trees of the palace withered into dust,"
+  },
+  {
+   "zh": "铜人的泪水像盘里的露珠。",
+   "en": "and the bronze immortal's tears like dew in its plate."
+  },
+  {
+   "zh": "在咸阳道上被送走的人，一次次回头，",
+   "en": "Those sent off down the Xianyang road look back again and again,"
+  },
+  {
+   "zh": "连夕阳也好像停住，走不过去。",
+   "en": "and even the setting sun seems unable to move on."
+  },
+  {
+   "zh": "春天走了，",
+   "en": "Spring is gone:"
+  },
+  {
+   "zh": "还会再来吗？",
+   "en": "will it ever come again?"
+  },
+  {
+   "zh": "就像江淹为离别而写下愁恨，",
+   "en": "It is like Jiang Yan grieving over parting,"
+  },
+  {
+   "zh": "就像庾信在北方写下愁苦的赋。",
+   "en": "like Yu Xin writing his sorrows in the north."
+  },
+  {
+   "zh": "西湖的苏堤上，整天都是风和雨。",
+   "en": "On the Su Causeway, wind and rain go on all day."
+  },
+  {
+   "zh": "可叹我只能在梦里回到故国，",
+   "en": "Alas, I can return to my homeland only in my mind,"
+  },
+  {
+   "zh": "那里的花还记得我上次来过。",
+   "en": "where the flowers still remember my last visit."
+  },
+  {
+   "zh": "人这一生漂泊流落，",
+   "en": "In this drifting life,"
+  },
+  {
+   "zh": "只能看着孩子，",
+   "en": "I can only look to my child"
+  },
+  {
+   "zh": "和他在夜里说说话。",
+   "en": "and talk with him through the night."
+  }
+ ],
+ "background": {
+  "zh": "丙子年就是1276年。这一年，元军攻进南宋的都城临安（今杭州），小皇帝宋恭帝和太后等人投降，被押往北方。南宋虽然还有人在南方抵抗，但大局已定。刘辰翁在这年春天写下这首词，题目是“送春”，送走的却不只是春天，更是自己的国家。词里“试灯”“长门”“咸阳送客”“苏堤”，都在暗暗写临安的陷落和被押北去的人。",
+  "en": "The Bingzi year was 1276. That year the Yuan army entered Lin'an (today's Hangzhou), the Southern Song capital. The child emperor, Emperor Gong, and the empress dowager surrendered and were taken north. Some Song loyalists fought on in the south, but the outcome was clear. Liu Chenweng wrote this ci that spring. Its title says \"seeing spring off\", but what he is seeing off is his country. The lantern trials, the deserted palace, the travellers sent down the Xianyang road and the Su Causeway all quietly point to the fall of Lin'an and the people carried north."
+ },
+ "author_note": {
+  "zh": "刘辰翁（1232—1297），字会孟，号须溪，庐陵（今江西吉安）人，南宋末年的词人。他考进士时，在答卷里得罪了当权的贾似道，名次被排在后面。他只做过一些小官。南宋灭亡以后，他不肯去元朝做官，隐居起来，写了很多怀念故国的词。他的儿子刘将孙也是文人。",
+  "en": "Liu Chenweng (1232–1297), also called Huimeng and Xuxi, came from Luling, today's Ji'an in Jiangxi. He was a ci poet of the last years of the Southern Song. In the court exam his answer offended the powerful minister Jia Sidao, so he was ranked low. He held only a few small posts. After the Song fell he refused to serve the Yuan, lived in retirement, and wrote many ci mourning his lost country. His son Liu Jiangsun was also a writer."
+ },
+ "appreciation": {
+  "zh": "这首词分三段，每段都从“春去”开始，像一声声叹气。第一段写眼前：芳草连天，风沙却把南浦遮暗；乌鸦乱飞，城已荒凉，当年元宵试灯的热闹再也看不到了。第二段问“谁最苦”：中箭的大雁、没主人的燕子、黄昏的宫殿、流泪的铜人、一路回头的被押者，一个比一个让人心酸。第三段问春天“还来吗”，用江淹、庾信这些离乡亡国的人来比自己；苏堤上整天风雨，只能在梦里回到故国。最后只剩一个画面：漂泊的老人和孩子，在夜里低声说话。春天是会回来的，可失去的国家回不来了。这就是这首词最深的悲哀。",
+  "en": "The ci has three parts, and each begins with \"spring is gone\", like a sigh repeated. The first part shows what is in front of him: green grass to the sky, yet wind and sand darken the southern shore; crows fly in confusion, the city is in ruins, and the bright lantern nights are gone. The second part asks who suffers most: the goose hit by an arrow, the swallows with no master, the palace at dusk, the weeping bronze immortal, the captives who keep looking back. Each image is sadder than the last. The third part asks whether spring will come again. He compares himself to Jiang Yan and Yu Xin, men who lost their homes and countries. Wind and rain beat on the Su Causeway all day, and he can return home only in his mind. In the end there is one picture left: a drifting old man and a child, talking softly at night. Spring will return, but the lost country will not. That is the deepest grief of this ci."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "spring",
+   "fallen-country",
+   "grief",
+   "history"
+  ]
+ },
+ "uncertain": []
+}

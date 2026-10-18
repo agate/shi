@@ -1,0 +1,306 @@
+{
+ "id": "35319d7e-9cf6-43b0-bfa3-991cf82a49f9",
+ "kind": "shi",
+ "title": "子夜吴歌·冬歌",
+ "title_en": "Midnight Song of Wu: Winter",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "驿",
+    "yì"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "袍",
+    "páo"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "抽",
+    "chōu"
+   ],
+   [
+    "针",
+    "zhēn"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "剪",
+    "jiǎn"
+   ],
+   [
+    "刀",
+    "dāo"
+   ]
+  ],
+  [
+   [
+    "裁",
+    "cái"
+   ],
+   [
+    "缝",
+    "féng"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "洮",
+    "táo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料题目作《相和歌辞·子夜四时歌四首·冬歌》，通行本题作《子夜吴歌·冬歌》，文字相同。",
+  "en": "The corpus title is \"Xianghe Song Lyrics: Midnight Songs of the Four Seasons, Winter\". The common title is \"Midnight Song of Wu: Winter\". The text is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝：这里读 zhāo，意思是早晨。明朝就是明天早上。",
+   "en": "zhāo: here it means morning, so it is read zhāo, not cháo. Míng zhāo means tomorrow morning."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "那：这里同“哪”，表示反问，读 nǎ。也有人读 nà。",
+   "en": "nǎ: here it means how, asking a question that expects no, so it is read nǎ. Some read it nà."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "缝",
+   "pinyin": "féng",
+   "zh": "缝：这里是动词“缝制”，读 féng。",
+   "en": "féng: here it is the verb \"to sew\", so it is read féng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "明朝：明天早上。",
+   "en": "míng zhāo: tomorrow morning."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "驿使：在驿站之间传送公文、包裹的差人，有点像古代的邮递员。",
+   "en": "yì shǐ: a courier who carried letters and parcels between post stations, a bit like a mail carrier long ago."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "发：出发。",
+   "en": "fā: to set out."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "絮征袍：往出征穿的棉袍里絮棉花。絮，往衣服里铺棉花。征袍，出征将士穿的袍子。",
+   "en": "xù zhēng páo: to pad a soldier's robe with cotton. Xù means to stuff padding into clothes; zhēng páo is the robe worn by a soldier on campaign."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "素手：白净的手，指女子的手。",
+   "en": "sù shǒu: pale, delicate hands, a woman's hands."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "那堪：怎么受得了。",
+   "en": "nǎ kān: how can one bear it?"
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "把：拿，握。",
+   "en": "bǎ: to hold, to grip."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "裁缝：裁剪和缝制。",
+   "en": "cái féng: to cut and sew."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "寄远道：寄到遥远的地方去。",
+   "en": "jì yuǎn dào: to send far away."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "临洮：地名，在今天甘肃，唐代是西北边防的地方，这里泛指丈夫守边的地方。",
+   "en": "lín táo: Lintao, a place in today's Gansu, on the northwest frontier in Tang times. Here it stands for wherever her husband is guarding the border."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "明天一早，送信的驿使就要出发了，",
+   "en": "Tomorrow morning the courier sets out."
+  },
+  {
+   "zh": "她连夜给出征的丈夫赶絮棉袍。",
+   "en": "All night she pads a warm robe for her husband at war."
+  },
+  {
+   "zh": "白净的手抽针引线，冻得冰凉，",
+   "en": "Her pale hands pull the needle, and they are icy cold."
+  },
+  {
+   "zh": "又怎么握得住冰冷的剪刀？",
+   "en": "How can she bear to hold the freezing scissors?"
+  },
+  {
+   "zh": "裁好缝好，寄往遥远的边关，",
+   "en": "She cuts and sews it and sends it far away."
+  },
+  {
+   "zh": "要过多少天，才能送到临洮呢？",
+   "en": "How many days until it reaches Lintao?"
+  }
+ ],
+ "background": {
+  "zh": "《子夜吴歌》是李白仿照南方民歌写的一组诗，共四首，分别写春、夏、秋、冬。这首写冬天。唐代常常派兵守卫西北边疆，士兵的家人要自己给他们做冬衣，再托人送去。诗里的女子听说驿使明天一早就要出发，连夜赶做棉袍。这组诗具体写于哪一年，已经不清楚了。",
+  "en": "The Midnight Songs of Wu are a set of four poems Li Bai wrote in the style of southern folk songs, one for each season. This one is about winter. In the Tang dynasty, soldiers were often sent to guard the northwest frontier, and their families had to make their winter clothes and send them along. The woman in the poem hears that the courier leaves at dawn, so she works all night on a padded robe. The year the set was written is not known."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代最有名的诗人之一，人称“诗仙”。他很喜欢学习民歌，把老的乐府诗题拿来重新写。《子夜吴歌》本来是南方吴地的民歌，李白按春、夏、秋、冬各写了一首，语言像民歌一样明白好懂，感情却很深。",
+  "en": "Li Bai (701 to 762) is one of the most famous Tang poets, called the Immortal of Poetry. He loved folk songs and often rewrote old song titles in his own way. The Midnight Songs of Wu began as folk songs of the Wu region in the south. Li Bai wrote one for each season: spring, summer, autumn and winter. The words are as plain as a folk song, but the feeling runs deep."
+ },
+ "appreciation": {
+  "zh": "这首诗只有六句，却像一个小小的冬夜镜头。灯下，一位女子在赶活：明早驿使就走了，错过这一次，丈夫就要在边关挨冻。夜里太冷了，她的手抽针都觉得冰，握剪刀更是冷得受不了。可她还是一针一线地缝完了。最后一句她问：要走几天，才能送到临洮呢？这一问里有担心，怕衣服到得太晚；也有思念，丈夫离她那么远。诗人没写一个“想”字，可是她手上的冷、心里的急，我们都能感觉到。",
+  "en": "This poem has only six lines, yet it is like a small scene on a winter night. By the lamp a woman is rushing to finish her work. The courier leaves in the morning. If she misses him, her husband will freeze at the border. The night is so cold that even pulling the needle chills her hands, and holding the scissors is almost too much to bear. Still, she sews it stitch by stitch until it is done. In the last line she asks how many days it will take to reach Lintao. In that question there is worry that the robe will arrive too late, and longing for a husband so far away. The poet never says she misses him, but we can feel the cold in her hands and the hurry in her heart."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "war",
+   "longing",
+   "family",
+   "frontier"
+  ]
+ },
+ "uncertain": []
+}

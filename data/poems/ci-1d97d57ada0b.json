@@ -1,0 +1,436 @@
+{
+ "id": "ci-1d97d57ada0b",
+ "kind": "ci",
+ "title": "少年游·并刀如水",
+ "title_en": "Shao Nian You: The Bingzhou Knife Gleams Like Water",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "并",
+    "bīng"
+   ],
+   [
+    "刀",
+    "dāo"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "盐",
+    "yán"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "橙",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "幄",
+    "wò"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "温",
+    "wēn"
+   ]
+  ],
+  [
+   [
+    "兽",
+    "shòu"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "调",
+    "tiáo"
+   ],
+   [
+    "笙",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "宿",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "更",
+    "gēng"
+   ]
+  ],
+  [
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "滑",
+    "huá"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "浓",
+    "nóng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "行",
+    "xíng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": {
+  "zh": "这里用通行本。第五句语料库作“兽烟不断”，通行本多作“兽香不断”。",
+  "en": "This uses the commonly printed text. In line five the corpus has 'beast smoke' where most editions have 'beast incense'."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "并",
+   "pinyin": "bīng",
+   "zh": "并刀：并州出产的刀。并州是古地名，这里读 bīng。",
+   "en": "Bīng dāo is a knife from Bingzhou, an old place name, so the first character is read bīng, not bìng."
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "调",
+   "pinyin": "tiáo",
+   "zh": "调笙：吹笙、调好笙的音。调读 tiáo。",
+   "en": "In tiáo shēng (to tune and play the sheng pipes), the first character is read tiáo, not diào."
+  },
+  {
+   "line": 6,
+   "pos": 5,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "谁行：谁那里，是宋代的口语，行读 háng。",
+   "en": "Shuí háng means 'at whose place', a phrase from Song spoken language, so the second character is read háng, not xíng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "并刀：并州（今山西太原一带）出产的刀，以锋利出名。",
+   "en": "bīng dāo: a knife from Bingzhou, around today's Taiyuan in Shanxi, famous for being sharp."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "如水：像水一样明亮发光。",
+   "en": "rú shuǐ: bright and gleaming like water."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "吴盐：吴地（今江苏、浙江一带）出产的盐，又细又白。古人吃橙子时蘸一点盐。",
+   "en": "wú yán: salt from the Wu region, around today's Jiangsu and Zhejiang, fine and white. People then dipped oranges in a little salt."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "纤手：细嫩的手，指女子的手。",
+   "en": "xiān shǒu: slender hands, a woman's hands."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "破新橙：切开新摘的橙子。",
+   "en": "pò xīn chéng: cutting open a freshly picked orange."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "锦幄：用丝织品做的帐子。",
+   "en": "jǐn wò: a curtain made of silk brocade."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "兽香：兽形香炉里烧着的香。",
+   "en": "shòu xiāng: incense burning in a burner shaped like an animal."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "笙：一种用很多竹管做成的乐器，用嘴吹。",
+   "en": "shēng: a mouth organ made of many bamboo pipes."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "谁行：谁那里。",
+   "en": "shuí háng: at whose place."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "三更：半夜，大约晚上十一点到一点。古人把一夜分成五更。",
+   "en": "sān gēng: the third watch, around midnight, about 11 p.m. to 1 a.m. Old Chinese split the night into five watches."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "休去：别走了。",
+   "en": "xiū qù: don't go."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "直是：真是，实在是。",
+   "en": "zhí shì: truly, really."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "并州的刀明亮得像水，",
+   "en": "The Bingzhou knife gleams like water,"
+  },
+  {
+   "zh": "吴地的盐比雪还白，",
+   "en": "the Wu salt is whiter than snow,"
+  },
+  {
+   "zh": "她用纤细的手切开新摘的橙子。",
+   "en": "and her slender hands cut open a fresh orange."
+  },
+  {
+   "zh": "丝绸帐子里刚刚暖和起来，",
+   "en": "Inside the silk curtains it has just grown warm,"
+  },
+  {
+   "zh": "兽形香炉的香烟不断飘出，",
+   "en": "incense curls without end from the animal-shaped burner,"
+  },
+  {
+   "zh": "两人面对面坐着吹笙。",
+   "en": "and the two sit face to face, playing the sheng."
+  },
+  {
+   "zh": "她低声问：今晚你到哪里住？",
+   "en": "In a low voice she asks: where will you stay tonight?"
+  },
+  {
+   "zh": "城楼上已经打过三更了。",
+   "en": "From the city wall, the third watch has already sounded."
+  },
+  {
+   "zh": "路上霜很厚，马会打滑，",
+   "en": "The frost is thick and the horse will slip."
+  },
+  {
+   "zh": "还不如别走了，",
+   "en": "You had better not go,"
+  },
+  {
+   "zh": "外面实在是没有什么人走了。",
+   "en": "for there is hardly anyone out on the road."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一对男女在冬夜相聚的情景，写作的时间和地点已经无法确定。南宋张端义的《贵耳集》里有个故事，说周邦彦在名妓李师师家，宋徽宗忽然来了，他躲起来听到两人的话，就写成了这首词。不过后人考证，这个故事和事实对不上，多半是编的，不能当真。",
+  "en": "This lyric shows a man and a woman together on a winter night. When and where it was written cannot be fixed. A Southern Song book by Zhang Duanyi tells a story: Zhou Bangyan was at the house of the famous singer Li Shishi when Emperor Huizong suddenly arrived. He hid, overheard their talk, and turned it into this lyric. Later scholars showed the story does not fit the facts. It was most likely made up and should not be taken as true."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，北宋末年的词人。他精通音乐，曾在朝廷管音乐的机构大晟府任职，创作了不少新曲调。他的词用字讲究，音律精细，对南宋词人影响很大。",
+  "en": "Zhou Bangyan (1056–1121) was a lyric poet of the late Northern Song. He knew music deeply and worked in the court's music office, where he wrote many new tunes. His lyrics choose every word with care and follow the music closely. He had a great influence on Southern Song lyric poets."
+ },
+ "appreciation": {
+  "zh": "上片像一组慢镜头：明亮的刀，雪白的盐，纤细的手切开橙子；帐子里暖暖的，香烟不断，两人对坐吹笙。没有一个“爱”字，却处处是温暖和亲密。下片全是女子的话。她低声问：今晚去哪里住？已经三更了。接着她找理由：霜太厚，马会滑，路上没人，不如别走了。她不直接说“留下来”，只是替他担心路不好走，一片深情就藏在这些体贴的话里。词写得含蓄，细节真实，读来像亲眼看见一样。",
+  "en": "The first half is like a slow-motion film. A bright knife, snow-white salt, slender hands cutting an orange. Inside the curtains it is warm, incense keeps rising, and two people sit face to face playing music. The word love never appears, yet warmth and closeness are everywhere. The second half is all the woman's words. In a low voice she asks where he will stay tonight; it is already midnight. Then she gives reasons: the frost is thick, the horse will slip, no one is on the road, better not go. She never says 'stay'. She only worries that the road is bad, and her deep feeling hides inside that care. The lyric is gentle and true to life, as if we were watching the scene ourselves."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "night",
+   "farewell"
+  ]
+ },
+ "uncertain": []
+}

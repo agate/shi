@@ -1,0 +1,384 @@
+{
+ "id": "ci-d0391721af42",
+ "kind": "ci",
+ "title": "清平乐·留人不住",
+ "title_en": "Qing Ping Yue: He Would Not Stay",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《清平乐》，双调四十六字",
+  "en": "ci to the tune Qing Ping Yue, 46 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "棹",
+    "zhào"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "涛",
+    "tāo"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "青",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "寄",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "凭",
+    "píng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "留人不住：想留他，却留不住。",
+   "en": "liú rén bù zhù: trying to make him stay, but he will not."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "解：解开，这里指解开拴船的绳子，开船。",
+   "en": "jiě: to untie, here to untie the boat's rope and set off."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "兰舟：用木兰树做的船，是对船的美称。",
+   "en": "lán zhōu: a boat of magnolia wood, a fine name for a boat."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "一棹：划一下桨，这里指船一路划去。棹，船桨。",
+   "en": "yī zhào: a stroke of the oar, here the boat rowing on. Zhào means oar."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "碧涛：碧绿的波浪。",
+   "en": "bì tāo: green-blue waves."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "过尽：全都经过了。",
+   "en": "guò jìn: passing all of them."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "晓莺：清晨啼叫的黄莺。",
+   "en": "xiǎo yīng: orioles singing at dawn."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "渡头：渡口，坐船过河或上船的地方。",
+   "en": "dù tóu: the ferry landing, where people board boats."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "离情：离别时的感情。",
+   "en": "lí qíng: the feelings of parting."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "锦书：书信，特指情人之间的信。传说前秦时苏蕙把思念丈夫的诗织在锦缎上寄给他。",
+   "en": "jǐn shū: a letter, especially between lovers. Legend says a woman named Su Hui wove a poem of longing for her husband into brocade and sent it to him."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "休寄：不要寄了。休，不要。",
+   "en": "xiū jì: do not send. Xiū means do not."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "画楼：装饰着彩画的楼，这里是她住的地方。",
+   "en": "huà lóu: a painted tower, here where she lives."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "云雨：指男女之间的欢爱，这里指两人在一起时的情意和誓言。",
+   "en": "yún yǔ: clouds and rain, an old way of speaking of love between a man and a woman; here the love and promises they shared."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "无凭：靠不住，不可相信。",
+   "en": "wú píng: not to be relied on."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "想留他，却怎么也留不住，",
+   "en": "I tried to make him stay, but could not;"
+  },
+  {
+   "zh": "他喝醉了，解开船缆，就这样走了。",
+   "en": "drunk, he untied his magnolia boat and left."
+  },
+  {
+   "zh": "小船划过碧绿的波浪，沿着春天的水路远去，",
+   "en": "His oar takes him over blue-green waves along the spring river,"
+  },
+  {
+   "zh": "经过一处又一处清晨黄莺啼叫的地方。",
+   "en": "past every place where the dawn orioles sing."
+  },
+  {
+   "zh": "渡口的杨柳一片青青，",
+   "en": "At the ferry landing the willows are fresh and green;"
+  },
+  {
+   "zh": "每一根枝条、每一片叶子，都是离别的情意。",
+   "en": "every branch and every leaf is the sorrow of parting."
+  },
+  {
+   "zh": "从今以后，不必再寄情书来了，",
+   "en": "From now on, do not bother to send love letters;"
+  },
+  {
+   "zh": "画楼里的情意和誓言，原来都是靠不住的。",
+   "en": "the love and promises of the painted tower were never to be trusted."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一个女子在春天的渡口送别心上人。她想留他留不住，他喝醉了就开船走了。她站在渡口，看着船越走越远，心里又伤心又怨恨。写作的具体时间不清楚。晏几道的词常借女子的口吻写离别和相思，一般认为这首也是这样。",
+  "en": "This ci shows a woman seeing off the man she loves at a ferry landing in spring. She wants him to stay but cannot keep him. Drunk, he sets off in his boat. She stands at the landing watching the boat go farther and farther away, both heartbroken and bitter. We do not know exactly when it was written. Yan Jidao often wrote about parting and longing in a woman's voice, and this ci is usually read that way too."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是北宋宰相晏殊的小儿子。他出身富贵，后来家道中落，一生只做过小官，性格孤傲又痴情。他的词多写爱情、离别和回忆，语言清丽，感情真挚。人们把他和父亲并称“二晏”。",
+  "en": "Yan Jidao (about 1038 to about 1110), styled Shuyuan, also called Xiaoshan, was the youngest son of the Northern Song chief minister Yan Shu. He was born rich, but his family later declined and he only ever held small posts. He was proud and deeply loving. His ci are mostly about love, parting and memories, in clear words with true feeling. People call him and his father the Two Yans."
+ },
+ "appreciation": {
+  "zh": "开头四个字“留人不住”，一下子把场面摆出来：怎么挽留都没用。他醉醺醺地解开船走了，船在碧绿的春水里越划越远，经过一处处黄莺啼叫的地方。春光越美，越显得她孤单。下片写她留在渡口，杨柳青青，好像每根枝条、每片叶子都写满了离愁。最后两句是气话：以后别再寄信来了，当初的情意原来都靠不住。嘴上说不要，其实是因为太在乎。这种又爱又怨的心情，写得很真。",
+  "en": "The opening words, he would not stay, set the scene at once: nothing she does can keep him. Drunk, he unties the boat and goes. The boat rows farther and farther over the green spring water, past one place after another where orioles sing. The lovelier the spring, the lonelier she seems. The second stanza leaves her at the landing. The willows are green, and every branch and every leaf seems full of the pain of parting. The last two lines are words said in anger: don't send me any more letters; the love we had was never to be trusted. She says she wants nothing, but only because she cares so much. This mix of love and resentment feels very real."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "willow",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

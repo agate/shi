@@ -1,0 +1,275 @@
+{
+ "id": "a7f425de-143b-493d-bb51-13e27c68e871",
+ "kind": "shi",
+ "title": "赠别二首·其二",
+ "title_en": "Parting Gift (Second of Two)",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "樽",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "成",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "蜡",
+    "là"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "替",
+    "tì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料里第二句作“尊前”，通行本多写作“樽前”。“尊”是“樽”的古字，都指酒杯，意思一样。",
+  "en": "The source text writes the cup in line two with the older form of the character. Most common editions use the later form. Both mean a wine cup, so the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "似",
+   "pinyin": "sì",
+   "zh": "似：这里读 sì，是“好像”的意思。“似的”里才读 shì。",
+   "en": "This character here is read sì, meaning \"to seem\". It is read shì only in the word shìde."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "多情：感情很深。",
+   "en": "duō qíng: full of deep feeling."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "却似：却好像。",
+   "en": "què sì: and yet it seems."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "总无情：完全没有感情一样。",
+   "en": "zǒng wú qíng: as if there were no feeling at all."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "唯觉：只觉得。",
+   "en": "wéi jué: only feel that."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "樽前：酒杯前，就是在送别的酒席上。樽，古代的酒杯。",
+   "en": "zūn qián: before the wine cups, that is, at the farewell dinner. A zūn is an old wine cup."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "笑不成：想笑却笑不出来。",
+   "en": "xiào bù chéng: trying to smile, but no smile comes."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "有心：蜡烛有烛芯；也指人有心意。一语双关。",
+   "en": "yǒu xīn: a candle has a wick, called xīn; xīn also means heart. So it means both \"has a wick\" and \"has a heart\"."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "还：还，也。",
+   "en": "hái: still, also."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "惜别：舍不得分别。",
+   "en": "xī bié: sad to part, not wanting to say goodbye."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "垂泪：流泪。蜡烛燃烧时流下的蜡油，看起来像眼泪。",
+   "en": "chuí lèi: to shed tears. The wax running down a burning candle looks like tears."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "天明：天亮。",
+   "en": "tiān míng: daybreak."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "心里感情越深，表面上反而像什么感情都没有。",
+   "en": "The deeper my love, the more it looks as if I feel nothing at all."
+  },
+  {
+   "zh": "只觉得在离别的酒席上，怎么也笑不出来。",
+   "en": "At the farewell table, I only find I cannot smile."
+  },
+  {
+   "zh": "蜡烛好像也有一颗心，舍不得我们分别，",
+   "en": "Even the candle seems to have a heart and is sad to see us part."
+  },
+  {
+   "zh": "替我们流着眼泪，一直流到天亮。",
+   "en": "It weeps for us, on and on, until the sky grows light."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这两首诗写于唐文宗大和九年（835年）。那时杜牧在扬州做官，要离开扬州去长安。他在扬州时和一位年轻的歌女感情很好，临走时写了这两首诗送给她。第一首夸她美丽，这一首写分别那天晚上的难过。",
+  "en": "These two poems are usually dated to 835. Du Mu was serving in Yangzhou and was about to leave for the capital, Chang'an. In Yangzhou he had grown close to a young singing girl. Before leaving, he wrote these two poems for her. The first praises her beauty. This one tells of the sadness of their last night together."
+ },
+ "author_note": {
+  "zh": "杜牧（803—约852），字牧之，晚唐诗人，和李商隐并称“小李杜”。他的七言绝句写得特别好，语言清新，感情真。他年轻时在扬州住过好几年，留下了不少写扬州和离别的诗。",
+  "en": "Du Mu (803–about 852), also called Muzhi, was a late Tang poet. He and Li Shangyin are known together as the \"Little Li and Du\". He was especially good at seven-character quatrains, with fresh words and true feeling. As a young man he lived in Yangzhou for several years and left many poems about the city and about parting."
+ },
+ "appreciation": {
+  "zh": "第一句很奇怪：感情越深，看起来越像没感情。其实这是真话。人难过到极点，反而说不出话，也做不出表情。第二句接着写：在酒席上想笑一笑，让对方别太伤心，可就是笑不出来。后两句诗人不再写自己，转去写桌上的蜡烛。蜡烛有“芯”，就像有“心”；它燃烧时流下蜡油，就像在流泪。蜡烛整夜陪着他们，替他们哭到天亮。人哭不出来，蜡烛替人哭，这样写比直接说“我很伤心”更让人难忘。",
+  "en": "The first line sounds strange: the deeper the love, the more it looks like no love at all. But it is true. When people are very sad, they often cannot speak or even show it on their faces. The second line goes on: at the farewell dinner he wants to smile, so she will not be too sad, but he just cannot. In the last two lines the poet stops talking about himself and turns to the candle on the table. A candle has a wick, which in Chinese sounds like heart. As it burns, wax runs down like tears. The candle stays with them all night and cries for them until morning. The people cannot cry, so the candle cries for them. This stays in the mind longer than simply saying \"I am very sad\"."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "night",
+   "candle"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,354 @@
+{
+ "id": "7e1be9c9-fa2f-44c2-a6bc-3edcece745fe",
+ "kind": "shi",
+ "title": "夜泊牛渚怀古",
+ "title_en": "Mooring at Niuzhu at Night, Thinking of the Past",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "牛",
+    "niú"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "军",
+    "jūn"
+   ]
+  ],
+  [
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "咏",
+    "yǒng"
+   ]
+  ],
+  [
+   [
+    "斯",
+    "sī"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "闻",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "席",
+    "xí"
+   ]
+  ],
+  [
+   [
+    "枫",
+    "fēng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "纷",
+    "fēn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝：这里是早晨的意思，读 zhāo，不读 cháo。",
+   "en": "Here the character means morning, so it is read zhāo, not cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "牛渚：山名，在今天安徽马鞍山市，山脚伸进长江的地方叫采石矶。",
+   "en": "niú zhǔ: Niuzhu Mountain, in today's Ma'anshan in Anhui. The rocky point where it reaches into the Yangtze is called Caishi Rock."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "西江：从南京往上游去的一段长江，古人叫它西江。",
+   "en": "xī jiāng: the West River, the old name for the stretch of the Yangtze upstream from Nanjing."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "无片云：连一片云也没有。",
+   "en": "wú piàn yún: not even one bit of cloud."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "空忆：白白地想念。想也没用，那个人已经不在了。",
+   "en": "kōng yì: to remember in vain. Thinking of him does no good, because he is long gone."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "谢将军：东晋的谢尚，做过镇西将军，曾在牛渚驻守。他有一天夜里在江上听见袁宏在船中吟诗，非常欣赏，请他过来一直谈到天亮。袁宏从此出了名。",
+   "en": "xiè jiāng jūn: General Xie, that is Xie Shang of the Eastern Jin, who was stationed at Niuzhu. One night on the river he heard a poor young man, Yuan Hong, reciting his own poems on a boat. He loved them, invited Yuan over and talked with him till dawn. After that Yuan Hong became famous."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "余：我。",
+   "en": "yú: I, me."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "高咏：放声吟诗。",
+   "en": "gāo yǒng: to recite poems out loud."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "斯人：这个人，指谢将军那样懂诗、爱才的人。",
+   "en": "sī rén: that man, meaning someone like General Xie who loved poems and talent."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "不可闻：听不到了。意思是再也没有那样的人来听我的诗。",
+   "en": "bù kě wén: cannot hear. It means there is no one like him left to hear my poems."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "明朝：明天早上。",
+   "en": "míng zhāo: tomorrow morning."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "挂帆席：挂起船帆，开船走。帆席，用草席做的帆。",
+   "en": "guà fān xí: to hoist the sail and leave. Fān xí is a sail woven like a mat."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "纷纷：又多又乱地落下。",
+   "en": "fēn fēn: falling thick and fast."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夜里，船停在西江边的牛渚山下，",
+   "en": "At night my boat is moored below Niuzhu on the West River."
+  },
+  {
+   "zh": "青色的天空上，一片云也没有。",
+   "en": "The blue sky has not a single cloud."
+  },
+  {
+   "zh": "我走上船头，望着秋天的月亮，",
+   "en": "I step onto the deck and look at the autumn moon,"
+  },
+  {
+   "zh": "白白地想念起当年的谢将军。",
+   "en": "and think, in vain, of General Xie long ago."
+  },
+  {
+   "zh": "我也能像袁宏那样放声吟诗，",
+   "en": "I too can recite fine poems out loud,"
+  },
+  {
+   "zh": "可是像谢将军那样的人，再也听不到了。",
+   "en": "but a man like him is no longer here to hear them."
+  },
+  {
+   "zh": "明天早上，我就要挂起船帆离开，",
+   "en": "Tomorrow morning I will hoist my sail and go,"
+  },
+  {
+   "zh": "只有岸边的枫叶，纷纷地落下。",
+   "en": "while maple leaves fall thick along the shore."
+  }
+ ],
+ "background": {
+  "zh": "李白年轻时在长江一带漫游，有一次夜里把船停在牛渚山下。这里正是东晋谢尚听袁宏吟诗的地方。袁宏本来家里很穷，靠帮人运货过日子，因为谢尚赏识，后来做了官，很有名。李白想到这个故事，觉得自己也有才华，却没有人来欣赏，就写了这首诗。具体写于哪一年，说法不一。",
+  "en": "When Li Bai was young he travelled along the Yangtze. One night he moored his boat below Niuzhu Mountain. This was the very place where Xie Shang of the Eastern Jin had once heard Yuan Hong reciting poems. Yuan Hong was poor and made a living hauling goods. Because Xie Shang valued him, he later became an official and grew famous. Li Bai thought of this story. He felt he had talent too, but no one to recognise it, so he wrote this poem. Sources disagree on the exact year."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，人称“诗仙”。他性格豪放，自信很有才能，一心想得到赏识，做一番大事。可是他一生不太得志。他晚年常在当涂一带生活，最后也死在那里，离牛渚很近。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. He was bold and sure of his own talent, and longed for someone to see it so he could do great things. But for most of his life he did not get his chance. In his last years he often lived around Dangtu, near Niuzhu, and he died there."
+ },
+ "appreciation": {
+  "zh": "这首诗前两句写夜景：江水，月光，天上没有一丝云，又干净又空旷。接着诗人登上船头看月，忽然想起几百年前在这里发生的故事：一位将军在月夜里听见一个穷书生吟诗，就和他成了知己。诗人说：“我也能吟诗啊，可惜那样的人再也没有了。”这里有骄傲，也有孤单。最后两句不再说心事，只写明天要走，岸边枫叶纷纷落下。秋天的落叶就像他说不出口的失落。这首诗虽然是律诗，中间却不讲究对仗，读起来像随口说话，自然流畅。",
+  "en": "The first two lines paint the night: the river, the moonlight, and a sky without a single cloud, clean and wide open. Then the poet steps up to look at the moon and suddenly remembers a story from hundreds of years before. On a moonlit night right here, a general heard a poor scholar reciting poems, and the two became true friends. The poet says, \"I can recite poems too, but there is no one like him anymore.\" There is pride here, and loneliness too. The last two lines stop talking about feelings. They only say he will leave tomorrow, and the maple leaves fall thick along the shore. The autumn leaves are like the sadness he cannot put into words. Though it is a regulated poem, its middle lines skip the usual matched pairs, so it reads as smoothly as talking."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "moon",
+   "river",
+   "loneliness",
+   "talent"
+  ]
+ },
+ "uncertain": []
+}

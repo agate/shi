@@ -1,0 +1,383 @@
+{
+ "id": "c836e52f-2346-4a3e-84bb-97514b17faf6",
+ "kind": "shi",
+ "title": "孤雁",
+ "title_en": "The Lone Wild Goose",
+ "author": "崔涂",
+ "author_en": "Cui Tu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "尔",
+    "ěr"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "之",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "失",
+    "shī"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "渚",
+    "zhǔ"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "随",
+    "suí"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "必",
+    "bì"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "矰",
+    "zēng"
+   ],
+   [
+    "缴",
+    "zhuó"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "疑",
+    "yí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料题目作“孤雁 二”（崔涂写过两首《孤雁》，这是第二首），文字作“几行归去尽，片影独何之”“寒塘独下迟”“关月冷遥随”。这里用《唐诗三百首》的通行本：“几行归塞尽，念尔独何之”“寒塘欲下迟”“关月冷相随”。",
+  "en": "The corpus titles this \"The Lone Wild Goose, No. 2\", since Cui Tu wrote two poems with this title. Its text reads \"rows flying away\" and \"a single shadow\" in the first two lines, \"alone\" in the fourth and \"follows from afar\" in the sixth. This page follows the common text of Three Hundred Tang Poems: \"rows returning to the frontier\", \"I think of you\", \"wants to land\" and \"follows along\"."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "“几行”是几排大雁，“行”读 háng，不读 xíng。",
+   "en": "Jǐ háng means several rows of geese, so the character is read háng, not xíng."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "缴",
+   "pinyin": "zhuó",
+   "zh": "“矰缴”的“缴”读 zhuó，指系在箭上的丝绳，不读 jiǎo（上缴）。",
+   "en": "In zēng zhuó the second character is read zhuó, meaning the silk cord tied to an arrow. It is not jiǎo (to hand in)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "几行：几排，指成群的大雁。",
+   "en": "jǐ háng: several rows, meaning flocks of geese."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "归塞：飞回北方的边塞。",
+   "en": "guī sài: to fly back to the northern frontier."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "尽：完，都飞走不见了。",
+   "en": "jìn: all gone, flown out of sight."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "念：想到，惦记。",
+   "en": "niàn: to think of, to worry about."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "尔：你，指这只孤雁。",
+   "en": "ěr: you, meaning the lone goose."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "何之：到哪里去。之，往、去。",
+   "en": "hé zhī: where to go. Zhī means to go."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "相呼失：在暮雨中呼唤同伴，却和它们失散了。",
+   "en": "xiāng hū shī: calling to its companions in the evening rain, yet losing them."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "寒塘：冷清的池塘。",
+   "en": "hán táng: a cold, lonely pond."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "欲下迟：想落下来歇一歇，又犹犹豫豫不敢落。",
+   "en": "yù xià chí: wanting to land and rest, yet hesitating, afraid to come down."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "渚：水中的小块陆地。",
+   "en": "zhǔ: a small islet in the water."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "暗度：在昏暗中飞过去。",
+   "en": "àn dù: to fly past in the gloom."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "关月：关塞上空的月亮。",
+   "en": "guān yuè: the moon over the frontier passes."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "未必：不一定。",
+   "en": "wèi bì: not necessarily."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "矰缴：古代射鸟用的短箭，箭上系着丝绳。这里指猎人的暗害。",
+   "en": "zēng zhuó: a short arrow with a silk cord tied to it, used long ago to shoot birds. Here it means a hunter's hidden danger."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "自可疑：自己就会疑神疑鬼，提心吊胆。",
+   "en": "zì kě yí: it is bound to feel uneasy and fearful by itself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一行行大雁都飞回北方边塞去了，",
+   "en": "Row after row of geese have flown back north to the frontier."
+  },
+  {
+   "zh": "我惦记着你，孤单的一只要飞到哪里去？",
+   "en": "I wonder about you, all alone: where will you go?"
+  },
+  {
+   "zh": "在傍晚的雨里呼唤同伴，却和它们走散了；",
+   "en": "Calling in the evening rain, you have lost your companions."
+  },
+  {
+   "zh": "想落到冷清的池塘上，又迟迟不敢落下。",
+   "en": "You want to land on the cold pond, but hesitate to come down."
+  },
+  {
+   "zh": "沿着小洲边低垂的云，你在昏暗中飞过；",
+   "en": "Under the low clouds by the islets, you fly on in the gloom,"
+  },
+  {
+   "zh": "关塞上清冷的月亮，一路陪着你。",
+   "en": "and only the cold moon over the passes follows you."
+  },
+  {
+   "zh": "你不一定会碰上猎人的箭，",
+   "en": "You may not meet a hunter's arrow,"
+  },
+  {
+   "zh": "可是独自飞行，总免不了提心吊胆。",
+   "en": "but flying alone, you cannot help being afraid."
+  }
+ ],
+ "background": {
+  "zh": "崔涂是晚唐诗人，一生大多在外漂泊，到过巴蜀、湖湘、秦陇等许多地方。他写过两首《孤雁》，这是比较有名的一首。诗里那只和雁群失散、独自飞行的大雁，一般认为就是诗人自己的影子。这首诗具体写于哪一年、在哪里写的，已经不清楚了。",
+  "en": "Cui Tu was a late Tang poet who spent most of his life wandering far from home, in Sichuan, Hunan, the northwest and many other places. He wrote two poems called \"The Lone Wild Goose\", and this is the better known. The goose that has lost its flock and flies on alone is usually seen as a picture of the poet himself. When and where he wrote it is no longer known."
+ },
+ "author_note": {
+  "zh": "崔涂，字礼山，晚唐诗人，唐僖宗光启四年（888年）考中进士。他一生漂泊，常年在外，诗里多写旅途的孤单和思乡的愁苦。他的《除夜有怀》里“乱山残雪夜，孤烛异乡人”两句很有名，和这首《孤雁》的心情很像。",
+  "en": "Cui Tu, also called Lishan, was a late Tang poet who passed the imperial exam in 888. He wandered all his life, always far from home, and his poems often tell of lonely journeys and homesickness. His lines about a night of wild hills and leftover snow, and a lone candle for a man in a strange land, are famous, and they share the mood of this poem."
+ },
+ "appreciation": {
+  "zh": "这首诗从头到尾只写一只大雁，却写得非常细。雁群都飞走了，只剩它一只，不知道去哪儿。傍晚下着雨，它大声呼唤同伴，却没有回应；看到冷清的池塘，想下去歇歇，又害怕，迟迟不敢落。它贴着低低的云飞，只有天上的冷月跟着它。最后诗人安慰它：也不一定会碰到猎人的箭，可一个人飞，心里总是不安。读到这里，我们会发现，诗人写的是雁，也是自己：一个远离家乡、无依无靠的人，在世上孤零零地漂泊，时时提心吊胆。",
+  "en": "From start to finish this poem is about one goose, drawn in fine detail. The flock has flown away, and only it is left, not knowing where to go. It is evening, and raining. It calls loudly to its companions, but no one answers. It sees a cold pond and wants to rest, but it is afraid and keeps putting off landing. It flies close under the low clouds, with only the cold moon following. At the end the poet comforts it: you may not meet a hunter's arrow, but flying alone, you will always feel uneasy. By now we see that the poet is writing about the goose and about himself: a man far from home, with no one to lean on, drifting alone through the world, always on edge."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wild-goose",
+   "loneliness",
+   "wandering",
+   "homesick"
+  ]
+ },
+ "uncertain": []
+}

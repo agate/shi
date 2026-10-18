@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>孤雁 · 崔涂 — 诗</title>
+    <meta name="description" content="孤雁 · 崔涂 — The Lone Wild Goose by Cui Tu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character regulated verse</span><span lang="zh">唐诗 · 五言律诗</span></p>
+        <h1>孤雁</h1>
+        <p class="by">崔涂<span class="mono"><span lang="en">Cui Tu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">The Lone Wild Goose</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>jǐ</i><b>几</b></span><span class="c gl rd" data-l="0" data-p="1"><i>háng</i><b>行</b></span><span class="c gl" data-l="0" data-p="2"><i>guī</i><b>归</b></span><span class="c gl" data-l="0" data-p="3"><i>sài</i><b>塞</b></span><span class="c gl" data-l="0" data-p="4"><i>jìn</i><b>尽</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>niàn</i><b>念</b></span><span class="c gl" data-l="1" data-p="1"><i>ěr</i><b>尔</b></span><span class="c" data-l="1" data-p="2"><i>dú</i><b>独</b></span><span class="c gl" data-l="1" data-p="3"><i>hé</i><b>何</b></span><span class="c gl" data-l="1" data-p="4"><i>zhī</i><b>之</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>mù</i><b>暮</b></span><span class="c" data-l="2" data-p="1"><i>yǔ</i><b>雨</b></span><span class="c gl" data-l="2" data-p="2"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="2" data-p="3"><i>hū</i><b>呼</b></span><span class="c gl" data-l="2" data-p="4"><i>shī</i><b>失</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>hán</i><b>寒</b></span><span class="c gl" data-l="3" data-p="1"><i>táng</i><b>塘</b></span><span class="c gl" data-l="3" data-p="2"><i>yù</i><b>欲</b></span><span class="c gl" data-l="3" data-p="3"><i>xià</i><b>下</b></span><span class="c gl" data-l="3" data-p="4"><i>chí</i><b>迟</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>zhǔ</i><b>渚</b></span><span class="c" data-l="4" data-p="1"><i>yún</i><b>云</b></span><span class="c" data-l="4" data-p="2"><i>dī</i><b>低</b></span><span class="c gl" data-l="4" data-p="3"><i>àn</i><b>暗</b></span><span class="c gl" data-l="4" data-p="4"><i>dù</i><b>度</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>guān</i><b>关</b></span><span class="c gl" data-l="5" data-p="1"><i>yuè</i><b>月</b></span><span class="c" data-l="5" data-p="2"><i>lěng</i><b>冷</b></span><span class="c" data-l="5" data-p="3"><i>xiāng</i><b>相</b></span><span class="c" data-l="5" data-p="4"><i>suí</i><b>随</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>wèi</i><b>未</b></span><span class="c gl" data-l="6" data-p="1"><i>bì</i><b>必</b></span><span class="c" data-l="6" data-p="2"><i>féng</i><b>逢</b></span><span class="c gl" data-l="6" data-p="3"><i>zēng</i><b>矰</b></span><span class="c gl rd" data-l="6" data-p="4"><i>zhuó</i><b>缴</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>gū</i><b>孤</b></span><span class="c" data-l="7" data-p="1"><i>fēi</i><b>飞</b></span><span class="c gl" data-l="7" data-p="2"><i>zì</i><b>自</b></span><span class="c gl" data-l="7" data-p="3"><i>kě</i><b>可</b></span><span class="c gl" data-l="7" data-p="4"><i>yí</i><b>疑</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus titles this &quot;The Lone Wild Goose, No. 2&quot;, since Cui Tu wrote two poems with this title. Its text reads &quot;rows flying away&quot; and &quot;a single shadow&quot; in the first two lines, &quot;alone&quot; in the fourth and &quot;follows from afar&quot; in the sixth. This page follows the common text of Three Hundred Tang Poems: &quot;rows returning to the frontier&quot;, &quot;I think of you&quot;, &quot;wants to land&quot; and &quot;follows along&quot;.</p><p lang="zh">语料题目作“孤雁 二”（崔涂写过两首《孤雁》，这是第二首），文字作“几行归去尽，片影独何之”“寒塘独下迟”“关月冷遥随”。这里用《唐诗三百首》的通行本：“几行归塞尽，念尔独何之”“寒塘欲下迟”“关月冷相随”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">几行归塞尽</span><span lang="en">Row after row of geese have flown back north to the frontier.</span><span lang="zh">一行行大雁都飞回北方边塞去了，</span></li><li><span class="o">念尔独何之</span><span lang="en">I wonder about you, all alone: where will you go?</span><span lang="zh">我惦记着你，孤单的一只要飞到哪里去？</span></li><li><span class="o">暮雨相呼失</span><span lang="en">Calling in the evening rain, you have lost your companions.</span><span lang="zh">在傍晚的雨里呼唤同伴，却和它们走散了；</span></li><li><span class="o">寒塘欲下迟</span><span lang="en">You want to land on the cold pond, but hesitate to come down.</span><span lang="zh">想落到冷清的池塘上，又迟迟不敢落下。</span></li><li><span class="o">渚云低暗度</span><span lang="en">Under the low clouds by the islets, you fly on in the gloom,</span><span lang="zh">沿着小洲边低垂的云，你在昏暗中飞过；</span></li><li><span class="o">关月冷相随</span><span lang="en">and only the cold moon over the passes follows you.</span><span lang="zh">关塞上清冷的月亮，一路陪着你。</span></li><li><span class="o">未必逢矰缴</span><span lang="en">You may not meet a hunter&#x27;s arrow,</span><span lang="zh">你不一定会碰上猎人的箭，</span></li><li><span class="o">孤飞自可疑</span><span lang="en">but flying alone, you cannot help being afraid.</span><span lang="zh">可是独自飞行，总免不了提心吊胆。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>几行<span class="mono">jǐ háng</span></dt><dd><span lang="en">jǐ háng: several rows, meaning flocks of geese.</span><span lang="zh">几行：几排，指成群的大雁。</span></dd></div><div><dt>归塞<span class="mono">guī sài</span></dt><dd><span lang="en">guī sài: to fly back to the northern frontier.</span><span lang="zh">归塞：飞回北方的边塞。</span></dd></div><div><dt>尽<span class="mono">jìn</span></dt><dd><span lang="en">jìn: all gone, flown out of sight.</span><span lang="zh">尽：完，都飞走不见了。</span></dd></div><div><dt>念<span class="mono">niàn</span></dt><dd><span lang="en">niàn: to think of, to worry about.</span><span lang="zh">念：想到，惦记。</span></dd></div><div><dt>尔<span class="mono">ěr</span></dt><dd><span lang="en">ěr: you, meaning the lone goose.</span><span lang="zh">尔：你，指这只孤雁。</span></dd></div><div><dt>何之<span class="mono">hé zhī</span></dt><dd><span lang="en">hé zhī: where to go. Zhī means to go.</span><span lang="zh">何之：到哪里去。之，往、去。</span></dd></div><div><dt>相呼失<span class="mono">xiāng hū shī</span></dt><dd><span lang="en">xiāng hū shī: calling to its companions in the evening rain, yet losing them.</span><span lang="zh">相呼失：在暮雨中呼唤同伴，却和它们失散了。</span></dd></div><div><dt>寒塘<span class="mono">hán táng</span></dt><dd><span lang="en">hán táng: a cold, lonely pond.</span><span lang="zh">寒塘：冷清的池塘。</span></dd></div><div><dt>欲下迟<span class="mono">yù xià chí</span></dt><dd><span lang="en">yù xià chí: wanting to land and rest, yet hesitating, afraid to come down.</span><span lang="zh">欲下迟：想落下来歇一歇，又犹犹豫豫不敢落。</span></dd></div><div><dt>渚<span class="mono">zhǔ</span></dt><dd><span lang="en">zhǔ: a small islet in the water.</span><span lang="zh">渚：水中的小块陆地。</span></dd></div><div><dt>暗度<span class="mono">àn dù</span></dt><dd><span lang="en">àn dù: to fly past in the gloom.</span><span lang="zh">暗度：在昏暗中飞过去。</span></dd></div><div><dt>关月<span class="mono">guān yuè</span></dt><dd><span lang="en">guān yuè: the moon over the frontier passes.</span><span lang="zh">关月：关塞上空的月亮。</span></dd></div><div><dt>未必<span class="mono">wèi bì</span></dt><dd><span lang="en">wèi bì: not necessarily.</span><span lang="zh">未必：不一定。</span></dd></div><div><dt>矰缴<span class="mono">zēng zhuó</span></dt><dd><span lang="en">zēng zhuó: a short arrow with a silk cord tied to it, used long ago to shoot birds. Here it means a hunter&#x27;s hidden danger.</span><span lang="zh">矰缴：古代射鸟用的短箭，箭上系着丝绳。这里指猎人的暗害。</span></dd></div><div><dt>自可疑<span class="mono">zì kě yí</span></dt><dd><span lang="en">zì kě yí: it is bound to feel uneasy and fearful by itself.</span><span lang="zh">自可疑：自己就会疑神疑鬼，提心吊胆。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>行<span class="mono">háng</span></dt><dd><span lang="en">Jǐ háng means several rows of geese, so the character is read háng, not xíng.</span><span lang="zh">“几行”是几排大雁，“行”读 háng，不读 xíng。</span></dd></div><div><dt>缴<span class="mono">zhuó</span></dt><dd><span lang="en">In zēng zhuó the second character is read zhuó, meaning the silk cord tied to an arrow. It is not jiǎo (to hand in).</span><span lang="zh">“矰缴”的“缴”读 zhuó，指系在箭上的丝绳，不读 jiǎo（上缴）。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Cui Tu was a late Tang poet who spent most of his life wandering far from home, in Sichuan, Hunan, the northwest and many other places. He wrote two poems called &quot;The Lone Wild Goose&quot;, and this is the better known. The goose that has lost its flock and flies on alone is usually seen as a picture of the poet himself. When and where he wrote it is no longer known.</p><p lang="zh">崔涂是晚唐诗人，一生大多在外漂泊，到过巴蜀、湖湘、秦陇等许多地方。他写过两首《孤雁》，这是比较有名的一首。诗里那只和雁群失散、独自飞行的大雁，一般认为就是诗人自己的影子。这首诗具体写于哪一年、在哪里写的，已经不清楚了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Cui Tu, also called Lishan, was a late Tang poet who passed the imperial exam in 888. He wandered all his life, always far from home, and his poems often tell of lonely journeys and homesickness. His lines about a night of wild hills and leftover snow, and a lone candle for a man in a strange land, are famous, and they share the mood of this poem.</p><p lang="zh">崔涂，字礼山，晚唐诗人，唐僖宗光启四年（888年）考中进士。他一生漂泊，常年在外，诗里多写旅途的孤单和思乡的愁苦。他的《除夜有怀》里“乱山残雪夜，孤烛异乡人”两句很有名，和这首《孤雁》的心情很像。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">From start to finish this poem is about one goose, drawn in fine detail. The flock has flown away, and only it is left, not knowing where to go. It is evening, and raining. It calls loudly to its companions, but no one answers. It sees a cold pond and wants to rest, but it is afraid and keeps putting off landing. It flies close under the low clouds, with only the cold moon following. At the end the poet comforts it: you may not meet a hunter&#x27;s arrow, but flying alone, you will always feel uneasy. By now we see that the poet is writing about the goose and about himself: a man far from home, with no one to lean on, drifting alone through the world, always on edge.</p><p lang="zh">这首诗从头到尾只写一只大雁，却写得非常细。雁群都飞走了，只剩它一只，不知道去哪儿。傍晚下着雨，它大声呼唤同伴，却没有回应；看到冷清的池塘，想下去歇歇，又害怕，迟迟不敢落。它贴着低低的云飞，只有天上的冷月跟着它。最后诗人安慰它：也不一定会碰到猎人的箭，可一个人飞，心里总是不安。读到这里，我们会发现，诗人写的是雁，也是自己：一个远离家乡、无依无靠的人，在世上孤零零地漂泊，时时提心吊胆。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/saixiaqu-qisan-lulun/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>塞下曲·其三</b></a><a href="../../p/suwangchanglingyinju/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>宿王昌龄隐居</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["几", "jǐ"], ["行", "háng"], ["归", "guī"], ["塞", "sài"], ["尽", "jìn"]], [["念", "niàn"], ["尔", "ěr"], ["独", "dú"], ["何", "hé"], ["之", "zhī"]], [["暮", "mù"], ["雨", "yǔ"], ["相", "xiāng"], ["呼", "hū"], ["失", "shī"]], [["寒", "hán"], ["塘", "táng"], ["欲", "yù"], ["下", "xià"], ["迟", "chí"]], [["渚", "zhǔ"], ["云", "yún"], ["低", "dī"], ["暗", "àn"], ["度", "dù"]], [["关", "guān"], ["月", "yuè"], ["冷", "lěng"], ["相", "xiāng"], ["随", "suí"]], [["未", "wèi"], ["必", "bì"], ["逢", "féng"], ["矰", "zēng"], ["缴", "zhuó"]], [["孤", "gū"], ["飞", "fēi"], ["自", "zì"], ["可", "kě"], ["疑", "yí"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "几行：几排，指成群的大雁。", "en": "jǐ háng: several rows, meaning flocks of geese."}, {"line": 0, "start": 2, "end": 4, "zh": "归塞：飞回北方的边塞。", "en": "guī sài: to fly back to the northern frontier."}, {"line": 0, "start": 4, "end": 5, "zh": "尽：完，都飞走不见了。", "en": "jìn: all gone, flown out of sight."}, {"line": 1, "start": 0, "end": 1, "zh": "念：想到，惦记。", "en": "niàn: to think of, to worry about."}, {"line": 1, "start": 1, "end": 2, "zh": "尔：你，指这只孤雁。", "en": "ěr: you, meaning the lone goose."}, {"line": 1, "start": 3, "end": 5, "zh": "何之：到哪里去。之，往、去。", "en": "hé zhī: where to go. Zhī means to go."}, {"line": 2, "start": 2, "end": 5, "zh": "相呼失：在暮雨中呼唤同伴，却和它们失散了。", "en": "xiāng hū shī: calling to its companions in the evening rain, yet losing them."}, {"line": 3, "start": 0, "end": 2, "zh": "寒塘：冷清的池塘。", "en": "hán táng: a cold, lonely pond."}, {"line": 3, "start": 2, "end": 5, "zh": "欲下迟：想落下来歇一歇，又犹犹豫豫不敢落。", "en": "yù xià chí: wanting to land and rest, yet hesitating, afraid to come down."}, {"line": 4, "start": 0, "end": 1, "zh": "渚：水中的小块陆地。", "en": "zhǔ: a small islet in the water."}, {"line": 4, "start": 3, "end": 5, "zh": "暗度：在昏暗中飞过去。", "en": "àn dù: to fly past in the gloom."}, {"line": 5, "start": 0, "end": 2, "zh": "关月：关塞上空的月亮。", "en": "guān yuè: the moon over the frontier passes."}, {"line": 6, "start": 0, "end": 2, "zh": "未必：不一定。", "en": "wèi bì: not necessarily."}, {"line": 6, "start": 3, "end": 5, "zh": "矰缴：古代射鸟用的短箭，箭上系着丝绳。这里指猎人的暗害。", "en": "zēng zhuó: a short arrow with a silk cord tied to it, used long ago to shoot birds. Here it means a hunter's hidden danger."}, {"line": 7, "start": 2, "end": 5, "zh": "自可疑：自己就会疑神疑鬼，提心吊胆。", "en": "zì kě yí: it is bound to feel uneasy and fearful by itself."}], "readings": [{"line": 0, "pos": 1, "char": "行", "pinyin": "háng", "zh": "“几行”是几排大雁，“行”读 háng，不读 xíng。", "en": "Jǐ háng means several rows of geese, so the character is read háng, not xíng."}, {"line": 6, "pos": 4, "char": "缴", "pinyin": "zhuó", "zh": "“矰缴”的“缴”读 zhuó，指系在箭上的丝绳，不读 jiǎo（上缴）。", "en": "In zēng zhuó the second character is read zhuó, meaning the silk cord tied to an arrow. It is not jiǎo (to hand in)."}], "speak": ["几航归赛晋", "念尔独何之", "暮雨相呼失", "寒塘欲下迟", "渚云低暗度", "关月冷相随", "未必逢矰浊", "孤飞自可疑"], "speakTitle": "孤雁。崔涂。", "sample": "几行归塞尽"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

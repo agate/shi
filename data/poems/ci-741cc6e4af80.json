@@ -1,0 +1,874 @@
+{
+ "id": "ci-741cc6e4af80",
+ "kind": "ci",
+ "title": "贺新郎·赋琵琶",
+ "title_en": "He Xin Lang: On the Pipa",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "尾",
+    "wěi"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "拨",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "霓",
+    "ní"
+   ],
+   [
+    "裳",
+    "cháng"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "罢",
+    "bà"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "番",
+    "fān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "浔",
+    "xún"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "舸",
+    "gě"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "堆",
+    "duī"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "昭",
+    "zhāo"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "没",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "辽",
+    "liáo"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "驿",
+    "yì"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "琐",
+    "suǒ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "拢",
+    "lǒng"
+   ],
+   [
+    "慢",
+    "màn"
+   ],
+   [
+    "捻",
+    "niǎn"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "睫",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "推",
+    "tuī"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "含",
+    "hán"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "抹",
+    "mǒ"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "哀",
+    "āi"
+   ],
+   [
+    "彻",
+    "chè"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "灭",
+    "miè"
+   ]
+  ],
+  [
+   [
+    "贺",
+    "hè"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "定",
+    "dìng"
+   ],
+   [
+    "场",
+    "chǎng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "息",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "呜",
+    "wū"
+   ],
+   [
+    "咽",
+    "yè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "古籍本里写作“轻拢慢拈”“沈香亭”。通行本作“轻拢慢捻”，和白居易《琵琶行》的写法一样；“沈香亭”就是“沉香亭”，“沈”在这里是“沉”的古写，机器转换时没有改过来。",
+  "en": "The old edition reads niān (a different character for \"pinch\") and writes the Chenxiang Pavilion with an old form of chén. Common editions use the same character niǎn as Bai Juyi's \"Song of the Pipa\", and the modern form of chén; the old form was not changed when the text was converted by machine."
+ },
+ "readings": [
+  {
+   "line": 13,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "还：又、再，现在一般读 hái。一说读 huán，是“回转”的意思。",
+   "en": "Here it means \"again\" and is usually read hái today. Some read it huán, meaning to turn back."
+  },
+  {
+   "line": 14,
+   "pos": 1,
+   "char": "抹",
+   "pinyin": "mǒ",
+   "zh": "抹：弹琵琶的一种指法，读 mǒ。",
+   "en": "A way of plucking the pipa, read mǒ."
+  },
+  {
+   "line": 19,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "为：因为、为了这个，读 wèi。",
+   "en": "Meaning \"because of this\", read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "凤尾：琵琶的尾部，做成凤尾的样子。",
+   "en": "fèng wěi: the end of the pipa, shaped like a phoenix tail."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "龙香拨：用龙香柏木做的拨子。拨子是弹琵琶用的小片。传说杨贵妃的琵琶就配着这种拨子。",
+   "en": "lóng xiāng bō: a plectrum made of fragrant cypress wood. A plectrum is the small piece used to pluck the strings. Legend says Yang Guifei's pipa had one."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "开元：唐玄宗的年号，是唐朝最繁荣的时候。",
+   "en": "kāi yuán: the reign name of Emperor Xuanzong of Tang, the richest years of the dynasty."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 6,
+   "zh": "霓裳曲：《霓裳羽衣曲》，唐玄宗时宫里有名的乐舞。",
+   "en": "ní cháng qǔ: the \"Rainbow Skirt and Feather Coat\" music, a famous court dance of Xuanzong's time."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "罢：结束、停了。",
+   "en": "bà: to end, to stop."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "几番风月：过了多少年。风月，清风明月，指岁月。",
+   "en": "jǐ fān fēng yuè: how many years have passed. Fēng yuè, wind and moon, stands for the passing years."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "浔阳江头客：指白居易。他被贬到江州，在浔阳江边送客，听一位女子弹琵琶，写了《琵琶行》。",
+   "en": "xún yáng jiāng tóu kè: the guest by the Xunyang River, meaning Bai Juyi. Demoted to Jiangzhou, he was seeing off a friend by the river when he heard a woman play the pipa, and wrote \"Song of the Pipa\"."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "画舸：装饰得很漂亮的船。",
+   "en": "huà gě: a painted boat."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "亭亭：高高直立的样子。",
+   "en": "tíng tíng: standing tall and straight."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "待发：等着出发。",
+   "en": "dài fā: waiting to set off."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "出塞：走出边塞，指王昭君远嫁匈奴。",
+   "en": "chū sài: going out past the frontier, meaning Wang Zhaojun sent north to marry the Xiongnu ruler."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 7,
+   "zh": "黄云堆雪：边塞黄沙漫天，积雪成堆。",
+   "en": "huáng yún duī xuě: on the frontier, yellow dust fills the sky and snow lies in heaps."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "昭阳：汉代的昭阳殿，这里代指汉朝皇宫。",
+   "en": "zhāo yáng: the Zhaoyang Hall of the Han palace, standing for the Han court."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 8,
+   "zh": "孤鸿没：一只孤单的大雁飞远，看不见了。",
+   "en": "gū hóng mò: a lone wild goose flies off and disappears."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "弦解语：琴弦好像懂得说话，能弹出人的心事。解，懂得、会。",
+   "en": "xián jiě yǔ: the strings seem able to speak, playing out what is in the heart. Jiě means to know how."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "辽阳：今辽宁一带，古时是边防的地方。",
+   "en": "liáo yáng: around today's Liaoning, a frontier post in old times."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "驿使：送信的人。",
+   "en": "yì shǐ: a messenger who carried letters."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 7,
+   "zh": "音尘绝：一点消息都没有了。",
+   "en": "yīn chén jué: no news at all."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "琐窗：刻着连环花纹的窗子。",
+   "en": "suǒ chuāng: a window carved with linked patterns."
+  },
+  {
+   "line": 11,
+   "start": 3,
+   "end": 7,
+   "zh": "轻拢慢捻：弹琵琶的指法，轻轻按弦，慢慢揉弦。出自白居易《琵琶行》。",
+   "en": "qīng lǒng màn niǎn: ways of playing the pipa, pressing the strings lightly and rolling them slowly. The words come from Bai Juyi's \"Song of the Pipa\"."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "盈睫：挂满了睫毛。",
+   "en": "yíng jié: filling the eyelashes."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "推手、却手：古人说，手向前推着弹叫“琵”，向后收回来弹叫“琶”，琵琶就是这么得名的。却，退、往回。",
+   "en": "tuī shǒu, què shǒu: people of old said that plucking with the hand moving forward was called pí, and moving back was called pá; that is how the pipa got its name. Què means back."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "梁州：曲子名，也写作“凉州”，是唐代流行的大曲。",
+   "en": "liáng zhōu: the name of a tune, also written as Liangzhou, a popular long piece in Tang times."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "哀彻：悲哀到了极点。",
+   "en": "āi chè: sad to the utmost."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 7,
+   "zh": "云飞烟灭：像云飘散、烟消失一样，什么都没有留下。",
+   "en": "yún fēi yān miè: like clouds drifting off and smoke vanishing, nothing remains."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "贺老：贺怀智，唐玄宗时弹琵琶的名手。",
+   "en": "hè lǎo: old He, that is He Huaizhi, a famous pipa player in Xuanzong's time."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "定场：一弹琵琶，全场就安静下来。",
+   "en": "dìng chǎng: to make the whole hall fall silent by playing."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 4,
+   "zh": "沉香亭：唐朝宫里的亭子，唐玄宗和杨贵妃常在那里赏牡丹。",
+   "en": "chén xiāng tíng: the Agarwood Pavilion in the Tang palace, where Xuanzong and Yang Guifei often admired peonies."
+  },
+  {
+   "line": 17,
+   "start": 5,
+   "end": 8,
+   "zh": "繁华歇：热闹繁华都结束了。",
+   "en": "fán huá xiē: all the splendor has ended."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 3,
+   "zh": "呜咽：低声哭泣。",
+   "en": "wū yè: to sob quietly."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "这把琵琶，尾部雕着凤凰，配着龙香柏木的拨子。",
+   "en": "This pipa has a phoenix-tail end and a plectrum of fragrant cypress."
+  },
+  {
+   "zh": "自从开元年间《霓裳羽衣曲》停了以后，",
+   "en": "Since the Rainbow Skirt music of the Kaiyuan years fell silent,"
+  },
+  {
+   "zh": "已经过去了多少年。",
+   "en": "how many years have passed!"
+  },
+  {
+   "zh": "最苦的是浔阳江边的白居易，",
+   "en": "Saddest of all was the guest by the Xunyang River,"
+  },
+  {
+   "zh": "他的船高高停着，等着出发。",
+   "en": "his painted boat standing tall, waiting to sail."
+  },
+  {
+   "zh": "还记得王昭君出塞，黄沙满天，雪积成堆。",
+   "en": "I remember Zhaojun going past the frontier, yellow dust in the sky and snow in heaps."
+  },
+  {
+   "zh": "她在马上带着离愁，走了三万里，",
+   "en": "On horseback she carried her sorrow thirty thousand miles,"
+  },
+  {
+   "zh": "回头望汉宫，只见一只孤雁越飞越远，消失了。",
+   "en": "looking back at the Han palace, where a lone goose flew off and vanished."
+  },
+  {
+   "zh": "琴弦好像会说话，",
+   "en": "The strings seem able to speak,"
+  },
+  {
+   "zh": "可心里的恨很难说清。",
+   "en": "yet the sorrow is hard to put into words."
+  },
+  {
+   "zh": "丈夫在辽阳守边，送信的人再也没来过。",
+   "en": "Her husband guards Liaoyang, and no messenger brings word anymore."
+  },
+  {
+   "zh": "她在寒冷的雕花窗下，轻轻按弦，慢慢揉弦，",
+   "en": "By a cold carved window she presses and rolls the strings softly,"
+  },
+  {
+   "zh": "泪珠挂满了睫毛。",
+   "en": "tears hanging on her lashes."
+  },
+  {
+   "zh": "手往前推，满含深情，又往回收，",
+   "en": "Her hand pushes forward, full of feeling, then pulls back again,"
+  },
+  {
+   "zh": "一曲《梁州》，悲哀到了极点。",
+   "en": "and one stroke of the Liangzhou tune is sorrow itself."
+  },
+  {
+   "zh": "千年的往事，都像云烟一样散去了。",
+   "en": "The stories of a thousand years have drifted off like cloud and smoke."
+  },
+  {
+   "zh": "能让满场安静的贺怀智，早已没有消息，",
+   "en": "He Huaizhi, whose playing hushed the hall, is long gone without a trace,"
+  },
+  {
+   "zh": "想来沉香亭北的繁华也早已结束了。",
+   "en": "and the splendor north of the Agarwood Pavilion must have ended long ago."
+  },
+  {
+   "zh": "琵琶弹到这里，",
+   "en": "When the playing reaches this point,"
+  },
+  {
+   "zh": "不由得低声哭泣起来。",
+   "en": "one cannot help but sob."
+  }
+ ],
+ "background": {
+  "zh": "这是一首“咏物词”，就是借写一样东西来抒发感情。题目“赋琵琶”，意思是写琵琶。辛弃疾把和琵琶有关的历史故事串在一起：杨贵妃的琵琶、白居易的《琵琶行》、王昭君出塞、思妇弹琵琶、贺怀智的演奏。写作时间不详。一般认为，词人借盛唐繁华的消失，感叹北宋旧都失去、国家衰落。",
+  "en": "This is a lyric about an object, using one thing to pour out feelings. The title means \"writing about the pipa\". Xin Qiji strings together stories from history linked to the pipa: Yang Guifei's pipa, Bai Juyi's \"Song of the Pipa\", Wang Zhaojun going past the frontier, a lonely wife playing the pipa, and the master player He Huaizhi. The date is unknown. It is usually read as a lament: through the lost splendor of the high Tang, the poet mourns the lost northern capital and his country's decline."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），南宋大词人，年轻时在北方抗金，一生想收复中原，却常被闲置。他的词多半豪放，但这首写得婉转哀伤。他很会用典故，也就是借古人古事说今天的感受，这首词几乎每一句都有来历。",
+  "en": "Xin Qiji (1140–1207) was a great lyric poet of the Southern Song. As a young man he fought the Jin in the north, and all his life he hoped to win back the central lands, but he was often left without a post. Most of his lyrics are bold, but this one is soft and sorrowful. He was a master of allusion, using old stories to speak of present feelings; almost every line here has a source."
+ },
+ "appreciation": {
+  "zh": "这首词像一场琵琶独奏，一段一段奏出不同的悲伤。开头从杨贵妃的琵琶说起，盛唐的歌舞早就停了。然后是白居易在江边听琵琶，王昭君在马上弹琵琶远去，一个是贬官的苦，一个是远嫁的苦。下片写一个女子在寒窗下弹琴，丈夫远在边疆，音信全无，她边弹边流泪。最后说贺怀智、沉香亭都不见了，千年往事像云烟散去。弹到这里，人也哭了。每个故事都和琵琶有关，又都是离别和失去。读的时候，可以想象琵琶声一阵急一阵慢，越弹越悲。",
+  "en": "This lyric is like a pipa solo, playing one sorrow after another. It begins with Yang Guifei's pipa: the songs and dances of the high Tang stopped long ago. Then comes Bai Juyi hearing the pipa by the river, and Wang Zhaojun playing it on horseback as she goes far away: one the pain of exile, the other the pain of a far-off marriage. The second stanza shows a woman playing by a cold window. Her husband is on the distant frontier with no news, and she weeps as she plays. At the end, He Huaizhi and the Agarwood Pavilion are gone, and a thousand years of stories have drifted off like smoke. Playing to this point, the player sobs too. Every story is tied to the pipa, and every one is about parting and loss. As you read, imagine the music now fast, now slow, growing sadder and sadder."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "music",
+   "history",
+   "grief",
+   "object"
+  ]
+ },
+ "uncertain": []
+}

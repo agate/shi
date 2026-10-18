@@ -1,0 +1,771 @@
+{
+ "id": "ci-a4ccf5367e96",
+ "kind": "ci",
+ "title": "瑞鹤仙·湿云黏雁影",
+ "title_en": "To the Tune Rui He Xian: Wet Clouds Cling to the Wild Geese",
+ "author": "陆叡",
+ "author_en": "Lu Rui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "黏",
+    "nián"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "迷",
+    "mí"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "绪",
+    "xù"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "整",
+    "zhěng"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "买",
+    "mǎi"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "暝",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "悰",
+    "cóng"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "省",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "境",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "迥",
+    "jiǒng"
+   ]
+  ],
+  [
+   [
+    "盟",
+    "méng"
+   ],
+   [
+    "鸾",
+    "luán"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "跨",
+    "kuà"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "程",
+    "chéng"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "准",
+    "zhǔn"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "翦",
+    "jiǎn"
+   ]
+  ],
+  [
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "惹",
+    "rě"
+   ],
+   [
+    "得",
+    "dé"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "教",
+    "jiāo"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "参",
+    "cēn"
+   ],
+   [
+    "差",
+    "cī"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "染",
+    "rǎn"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "剩",
+    "shèng"
+   ],
+   [
+    "粉",
+    "fěn"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "菱",
+    "líng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ],
+   [
+    "损",
+    "sǔn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "省",
+   "pinyin": "xǐng",
+   "zh": "这里是“回想、醒悟”的意思，读 xǐng，不读 shěng。",
+   "en": "Here it means \"to recall, to realize\", so it is read xǐng, not shěng."
+  },
+  {
+   "line": 9,
+   "pos": 1,
+   "char": "合",
+   "pinyin": "hé",
+   "zh": "合，这里是“应该”的意思，读 hé。",
+   "en": "Here it means \"ought to\", read hé."
+  },
+  {
+   "line": 17,
+   "pos": 2,
+   "char": "教",
+   "pinyin": "jiāo",
+   "zh": "这里是“让、使”的意思，古诗词里多读 jiāo。",
+   "en": "Here it means \"to let, to make\"; in old poems it is usually read jiāo."
+  },
+  {
+   "line": 18,
+   "pos": 0,
+   "char": "参",
+   "pinyin": "cēn",
+   "zh": "“参差”读 cēn cī，是长短不齐、高低不一的样子。",
+   "en": "In this word it is read cēn cī, meaning uneven."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "湿云黏雁影：低低的湿云好像粘住了大雁的影子。黏，粘住。",
+   "en": "shī yún nián yàn yǐng: low, wet clouds seem to stick to the shapes of the wild geese. Nián means to stick."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "征路：远行的路。",
+   "en": "zhēng lù: the road of a long journey."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "离绪难整：离别的心情乱糟糟，理不清。",
+   "en": "lí xù nán zhěng: the feelings of parting are tangled and cannot be sorted out."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "光景：时光，这里指美好的日子。",
+   "en": "guāng jǐng: time, here meaning happy days."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "疏钟：稀稀落落的钟声。",
+   "en": "shū zhōng: a bell ringing now and then."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 4,
+   "zh": "暝：天黑，傍晚。",
+   "en": "míng: dusk, when it grows dark."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "花悰：在花前的欢乐。悰，快乐。",
+   "en": "huā cóng: the joy we had among the flowers. Cóng means joy."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "暗省：心里悄悄回想。",
+   "en": "àn xǐng: quietly recalling in one's heart."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "行云：飘走的云。古代传说巫山神女早上化作云，这里借指远去的心上人。",
+   "en": "xíng yún: drifting clouds. In an old legend a goddess turned into morning clouds, so clouds stand for the loved one who has gone."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "也合：也应该。",
+   "en": "yě hé: still ought to."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "寄将：寄来。将，用在动词后面，没有实在意思。",
+   "en": "jì jiāng: to send. Jiāng after a verb adds no real meaning."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "孤迥：孤单，又离得很远。迥，远。",
+   "en": "gū jiǒng: lonely and far away. Jiǒng means far."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "盟鸾：像鸾凤一样结下的誓约。鸾，传说中的神鸟，常比喻相爱的人。",
+   "en": "méng luán: a vow made like a pair of luán birds. The luán is a magic bird in legends, a sign of lovers."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "跨鹤程高：骑着仙鹤，飞得又高又远。说对方离得太远，难以追上。",
+   "en": "kuà hè chéng gāo: riding a crane, flying high and far. The loved one is too far away to reach."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "后期无准：下次见面的日子说不准。",
+   "en": "hòu qī wú zhǔn: no one can say when we will meet again."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "情丝待翦：想剪断情丝，就是想把这份感情放下。翦，同“剪”。",
+   "en": "qíng sī dài jiǎn: wanting to cut the threads of love, that is, to let the feeling go."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 1,
+   "zh": "翻：反而。",
+   "en": "fān: instead, on the contrary."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "天教：老天让。",
+   "en": "tiān jiāo: heaven lets."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 6,
+   "zh": "残朱剩粉：剩下的胭脂和香粉，这里指她留下的痕迹。",
+   "en": "cán zhū shèng fěn: leftover rouge and face powder, the traces she left behind."
+  },
+  {
+   "line": 20,
+   "start": 1,
+   "end": 3,
+   "zh": "菱花：镜子。古代铜镜背面常刻着菱花，所以叫菱花镜。",
+   "en": "líng huā: a mirror. Old bronze mirrors often had water-chestnut flowers carved on the back."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "瘦损：瘦了，憔悴了。",
+   "en": "shòu sǔn: grown thin and worn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "湿漉漉的云低低的，好像粘住了大雁的影子。",
+   "en": "Wet clouds hang low, as if stuck to the shapes of the wild geese."
+  },
+  {
+   "zh": "望着远行的路，愁得一片迷茫，",
+   "en": "Gazing down the long road, I am lost in sorrow,"
+  },
+  {
+   "zh": "离别的心情乱糟糟，理不清楚。",
+   "en": "and my feelings of parting are too tangled to sort out."
+  },
+  {
+   "zh": "我愿意花千金买回美好的时光，",
+   "en": "I would pay a thousand pieces of gold to buy back happy days,"
+  },
+  {
+   "zh": "可是只有稀落的钟声催来天亮，",
+   "en": "but there are only scattered bells calling up the dawn,"
+  },
+  {
+   "zh": "乱叫的乌鸦啼来黄昏。",
+   "en": "and crows cawing in the dusk."
+  },
+  {
+   "zh": "我悄悄回想在花前的欢乐，",
+   "en": "Quietly I recall our joy among the flowers."
+  },
+  {
+   "zh": "那么多的情意，只能在梦里相逢。",
+   "en": "With so much love between us, we can meet only in dreams."
+  },
+  {
+   "zh": "即使你像飘走的云一样，再也不回来，",
+   "en": "Even if you, like a drifting cloud, never come back,"
+  },
+  {
+   "zh": "也应该寄个音信给我。",
+   "en": "you ought at least to send me word."
+  },
+  {
+   "zh": "我孤单单的，离你又远。",
+   "en": "I am lonely, and you are far."
+  },
+  {
+   "zh": "我们像鸾凤一样许下的誓约还在心里，",
+   "en": "The vow we made like a pair of magic birds is still in my heart,"
+  },
+  {
+   "zh": "可你像骑着仙鹤，飞得又高又远，",
+   "en": "but you seem to ride a crane, flying high and far,"
+  },
+  {
+   "zh": "下次见面的日子说不准。",
+   "en": "and no one knows when we will meet again."
+  },
+  {
+   "zh": "我想把情丝剪断，",
+   "en": "I want to cut the threads of love,"
+  },
+  {
+   "zh": "反而惹起了",
+   "en": "but that only stirs up"
+  },
+  {
+   "zh": "从前的遗憾。",
+   "en": "the old regrets."
+  },
+  {
+   "zh": "只怕老天让哪个地方，",
+   "en": "I fear that heaven will let, somewhere,"
+  },
+  {
+   "zh": "那一对飞得高高低低的燕子，",
+   "en": "a pair of swallows flitting high and low"
+  },
+  {
+   "zh": "身上还沾着她留下的胭脂香粉。",
+   "en": "still carry a trace of her rouge and powder."
+  },
+  {
+   "zh": "我对着镜子，像对她说说相思，",
+   "en": "Facing the mirror, I tell it of my longing,"
+  },
+  {
+   "zh": "看看我们谁更憔悴。",
+   "en": "to see which of us has grown thinner."
+  }
+ ],
+ "background": {
+  "zh": "这是一首写离别相思的词。和心爱的人分开以后，作者看着远去的路，听着早晚的钟声和鸦叫，想起从前花前的欢乐，只能在梦里相见。他想放下这份感情，却越想越难过。这首词写于什么时候、思念的是谁，都没有留下记载。词里有些句子的意思也有不同的理解。",
+  "en": "This lyric is about longing after parting. After leaving the one he loves, the poet gazes at the far road and hears the bells and crows of morning and evening. He remembers their happy days among the flowers, and now they can meet only in dreams. He tries to let the feeling go, but the more he tries, the sadder he grows. No record tells when it was written or whom he missed, and some lines are read in different ways."
+ },
+ "author_note": {
+  "zh": "陆叡，字景思，号云西，会稽（今浙江绍兴）人，是南宋后期的词人，生卒年不详。他考中过进士，做过官，但生平留下的记载不多，流传下来的词也只有几首。这首《瑞鹤仙》被收进了《宋词三百首》。",
+  "en": "Lu Rui, also called Jingsi and Yunxi, came from Kuaiji, today's Shaoxing in Zhejiang. He wrote lyrics in the late Southern Song; his dates are unknown. He passed the imperial exam and served as an official, but little is recorded of his life, and only a few of his lyrics survive. This one was chosen for Three Hundred Song Lyrics."
+ },
+ "appreciation": {
+  "zh": "开头一句就很特别：云又低又湿，好像把大雁的影子都粘住了。雁飞不动，人的心也沉甸甸的。他说愿意花千金买回好时光，可是时间只会一天天过去：早上钟声催天亮，晚上乌鸦叫天黑。过去的欢乐只能在梦里重温，他甚至埋怨：你就算不回来，也该捎个信呀。下阕更苦：誓言还在，人却像骑鹤飞走一样远。想剪断情丝，反而勾起旧恨。他还怕哪对燕子身上沾着她的胭脂，又惹他想起她。最后他对着镜子说相思，想看看两个人谁更瘦。这一问很傻，也很真，让人感到他的思念有多深。",
+  "en": "The first line is striking: the clouds are so low and wet they seem to stick to the shapes of the wild geese. The geese can hardly fly, and the poet's heart feels just as heavy. He says he would pay a thousand pieces of gold to buy back good times, but time only slips away: bells call up the dawn, crows caw in the dusk. Past joys come back only in dreams, and he even complains: even if you never return, you should at least send word. The second stanza is harder still. The vow remains, but she is as far as someone flown off on a crane. He tries to cut the threads of love and only stirs up old regrets. He even fears some pair of swallows will carry a trace of her rouge and remind him of her again. At the end he speaks his longing to the mirror, wondering which of them has grown thinner. The question is a little foolish and very true, and it shows how deeply he misses her."
+ },
+ "famous_lines": [
+  0
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "parting",
+   "dream"
+  ]
+ },
+ "uncertain": []
+}

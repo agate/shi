@@ -1,0 +1,805 @@
+{
+ "id": "ci-9caf9087f1da",
+ "kind": "ci",
+ "title": "翠楼吟·月冷龙沙",
+ "title_en": "To the Tune Cui Lou Yin: The Moon Is Cold on the Desert Sands",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调（自度曲）",
+  "en": "ci, long two-stanza lyric, to a tune the poet composed himself"
+ },
+ "lines": [
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "沙",
+    "shā"
+   ]
+  ],
+  [
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "虎",
+    "hǔ"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "酺",
+    "pú"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "赐",
+    "cì"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "部",
+    "bù"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "毡",
+    "zhān"
+   ],
+   [
+    "幕",
+    "mù"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "吹",
+    "chuī"
+   ]
+  ],
+  [
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "峙",
+    "zhì"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "栏",
+    "lán"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "萦",
+    "yíng"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "檐",
+    "yán"
+   ],
+   [
+    "牙",
+    "yá"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "翠",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "姝",
+    "shū"
+   ],
+   [
+    "丽",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "宜",
+    "yí"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "词",
+    "cí"
+   ],
+   [
+    "仙",
+    "xiān"
+   ]
+  ],
+  [
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹤",
+    "hè"
+   ]
+  ],
+  [
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "戏",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "梯",
+    "tī"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "仗",
+    "zhàng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "祓",
+    "fú"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "气",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "霁",
+    "jì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "语料库本“仗酒袯清愁”的“袯”是繁简转换时的错字，通行本作“祓”（fú，除去）。",
+  "en": "The corpus text writes this character in line 19 with the clothing radical, a slip from machine conversion. The common text uses fú, written with the spirit radical, meaning to drive away."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 6,
+   "char": "吹",
+   "pinyin": "chuī",
+   "zh": "现在读 chuī。“歌吹”是名词，指歌声和乐器声，古时候这里读去声 chuì，和“赐、峙、翠”押韵。",
+   "en": "Today it is read chuī. Here gē chuī is a noun meaning songs and wind music, and in old times it was read chuì, rhyming with cì, zhì and cuì."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "“胡部曲”是乐曲，读 qǔ。",
+   "en": "Here it means a piece of music, so it is read qǔ."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "“栏曲”是栏杆弯曲的地方，读 qū。",
+   "en": "Lán qū means the bends of a railing, so it is read qū."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "龙沙：原指塞外的白龙堆沙漠，后来泛指北方边地。",
+   "en": "lóng shā: Dragon Sands, first a desert beyond the northern frontier, later any far border land."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "虎落：用竹子、木头编成的篱笆，挡在城外或军营外，用来防守。",
+   "en": "hǔ luò: a fence of bamboo or wood set up outside a town or camp for defence."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "尘轻：尘土很少，说边境上没有打仗。",
+   "en": "chén qīng: little dust in the air, meaning there is no fighting on the border."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "汉酺：汉朝皇帝遇到喜事，会特许百姓聚在一起喝酒吃饭，叫“赐酺”。这里借汉朝说宋朝。酺，大家聚饮。",
+   "en": "hàn pú: when a Han emperor had good news, he let the people gather to feast and drink. Here the Han stands for the Song. Pú means a public feast."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "新翻：新编的，按旧调改写的新曲。",
+   "en": "xīn fān: newly arranged, a new song made from an old tune."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "胡部曲：从西北少数民族地区传来的音乐。",
+   "en": "hú bù qǔ: music that came from the peoples of the northwest."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "毡幕：用毛毡做的帐篷，这里指军营。",
+   "en": "zhān mù: tents made of felt, here the army camp."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "元戎：军队的主帅。",
+   "en": "yuán róng: the chief commander of the army."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "歌吹：歌声和吹奏乐器的声音。",
+   "en": "gē chuī: singing and the sound of wind instruments."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "层楼高峙：一层层的高楼高高地耸立着。这里指武昌新修好的安远楼。峙，直立。",
+   "en": "céng lóu gāo zhì: a tower of many floors stands tall. It is the newly built Anyuan Tower in Wuchang. Zhì means to stand upright."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 5,
+   "zh": "栏曲萦红：红色的栏杆弯弯绕绕。萦，环绕。",
+   "en": "lán qū yíng hóng: red railings winding round. Yíng means to wind about."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "檐牙飞翠：翠绿的屋檐角像牙齿一样向上翘起，好像要飞起来。",
+   "en": "yán yá fēi cuì: the green eave corners curl up like teeth, as if about to fly."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "姝丽：美丽。姝，美女。",
+   "en": "shū lì: beautiful. Shū means a lovely woman."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "粉香吹下：楼上美人身上脂粉的香气被风吹下来。",
+   "en": "fěn xiāng chuī xià: the scent of the ladies' face powder drifts down on the wind."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "词仙：写诗词的仙人，指才华极高的诗人。",
+   "en": "cí xiān: an immortal of verse, a poet of the highest gifts."
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 5,
+   "zh": "素云黄鹤：白云和黄鹤。武昌有黄鹤楼，传说有仙人骑黄鹤在这里飞走。",
+   "en": "sù yún huáng hè: white clouds and a yellow crane. Wuchang has the Yellow Crane Tower, where legend says an immortal flew away on a yellow crane."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "游戏：游玩，一起尽兴地玩。",
+   "en": "yóu xì: to play and enjoy oneself together."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "玉梯：像玉一样漂亮的楼梯，指高楼。",
+   "en": "yù tī: jade-like stairs, meaning the tall tower."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "凝望：目不转睛地望着。",
+   "en": "níng wàng: gazing without moving one's eyes."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "萋萋：草长得很茂盛的样子。",
+   "en": "qī qī: thick and lush, said of grass."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 4,
+   "zh": "天涯情味：离家很远、漂泊在外的滋味。",
+   "en": "tiān yá qíng wèi: what it feels like to be far from home."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "仗酒：靠着喝酒。仗，依靠。",
+   "en": "zhàng jiǔ: relying on wine. Zhàng means to rely on."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 5,
+   "zh": "祓清愁：把冷冷的忧愁赶走。祓，古代除去灾祸的仪式，这里是“消除”的意思。",
+   "en": "fú qīng chóu: to drive away cold sorrow. Fú was an old ritual for washing away bad luck; here it means to clear away."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "花销英气：在美人和花丛中，把年轻时的豪气慢慢消磨掉了。销，消磨。",
+   "en": "huā xiāo yīng qì: among flowers and pretty singers, the bold spirit of youth wears away. Xiāo means to wear down."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "西山：武昌城西边的山。",
+   "en": "xī shān: the hills west of Wuchang."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 4,
+   "zh": "秋霁：雨后放晴的秋日天空，这里指清清朗朗的晴空。霁，雨停天晴。",
+   "en": "qiū jì: an autumn sky clearing after rain, here a clear, bright sky. Jì means clearing after rain."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月光冷冷地照着北方边地的沙漠，",
+   "en": "The moon is cold on the far desert sands,"
+  },
+  {
+   "zh": "边防的篱笆外尘土轻扬，没有战事。",
+   "en": "and only light dust rises by the border fences: there is no war."
+  },
+  {
+   "zh": "今年朝廷刚刚下令，让百姓聚会饮酒庆祝。",
+   "en": "This year the court has just granted the people a feast."
+  },
+  {
+   "zh": "新编的胡乐曲子，",
+   "en": "New tunes from the northwest are played,"
+  },
+  {
+   "zh": "从军营帐篷里传来主帅宴会上的歌声乐声。",
+   "en": "and from the felt tents come the songs and pipes of the commander's party."
+  },
+  {
+   "zh": "一层层的高楼高高耸立，",
+   "en": "A tower of many floors stands tall."
+  },
+  {
+   "zh": "看那红色的栏杆弯弯绕绕，",
+   "en": "See the red railings winding round,"
+  },
+  {
+   "zh": "翠绿的屋檐角高高翘起，像要飞走。",
+   "en": "and the green eave corners curling up as if to fly."
+  },
+  {
+   "zh": "楼上的女子个个美丽，",
+   "en": "The ladies in the tower are lovely,"
+  },
+  {
+   "zh": "脂粉的香气随风飘下来，",
+   "en": "the scent of their powder floats down,"
+  },
+  {
+   "zh": "夜里冷，风细细地吹。",
+   "en": "the night is cold, and the breeze is soft."
+  },
+  {
+   "zh": "这个地方，",
+   "en": "This place"
+  },
+  {
+   "zh": "应该有词仙来住，",
+   "en": "ought to have an immortal poet,"
+  },
+  {
+   "zh": "驾着白云，骑着黄鹤，",
+   "en": "riding white clouds and a yellow crane,"
+  },
+  {
+   "zh": "和你一起游玩。",
+   "en": "to come and play with you."
+  },
+  {
+   "zh": "我在高楼上久久地望着远方，",
+   "en": "From the tall tower I gaze far away for a long time,"
+  },
+  {
+   "zh": "叹那茂盛的芳草，一直绵延到千里之外。",
+   "en": "and sigh at the lush fragrant grass stretching a thousand miles."
+  },
+  {
+   "zh": "这就是漂泊在外的滋味。",
+   "en": "This is how it feels to be far from home."
+  },
+  {
+   "zh": "只能靠喝酒来赶走冷冷的忧愁，",
+   "en": "I can only lean on wine to drive away my cold sorrow,"
+  },
+  {
+   "zh": "在花丛美人中消磨掉年轻时的豪气。",
+   "en": "and let flowers and singers wear away the bold spirit of my youth."
+  },
+  {
+   "zh": "西山的外面，",
+   "en": "Beyond the western hills,"
+  },
+  {
+   "zh": "傍晚我又卷起帘子，",
+   "en": "when evening comes, I roll up the curtain again"
+  },
+  {
+   "zh": "看见满帘清朗的晴空。",
+   "en": "and see a whole curtain of clear sky after rain."
+  }
+ ],
+ "background": {
+  "zh": "姜夔在词前写了一段小序。宋孝宗淳熙十三年（1186）冬天，武昌的安远楼修好了，他和朋友刘去非等人一起去庆祝，自己作了这支曲子。那一年朝廷下令赐酺，一说是为了庆贺太上皇宋高宗八十岁生日。当时边境暂时太平，可北方的土地还在金国手里。姜夔一个人漂泊在外，登楼远望，心里有说不出的愁。",
+  "en": "Jiang Kui wrote a short preface before this lyric. In the winter of 1186, the Anyuan Tower in Wuchang was finished. He went with his friend Liu Qufei and others to celebrate, and composed this tune himself. That year the court granted the people a feast; one view says it was to mark the eightieth birthday of the retired emperor Gaozong. The border was quiet for now, but the north was still held by the Jin. Far from home, Jiang Kui climbed the tower, gazed into the distance, and felt a sorrow he could not put into words."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），字尧章，号白石道人，鄱阳（今江西鄱阳）人。他一辈子没有做官，靠朋友接济，到处漂泊。他精通音乐，很多词都是自己作曲，词谱旁边还标着音符，这首《翠楼吟》就是他自己创作的曲子。他的词清冷空灵，像冬天的月光。",
+  "en": "Jiang Kui (about 1155–about 1221), also called Baishi Daoren, came from Poyang in Jiangxi. He never held office, lived on the help of friends, and wandered all his life. He was a fine musician who composed many of his own tunes and even wrote the notes beside the words. Cui Lou Yin is one of the tunes he made himself. His lyrics are cool and airy, like moonlight in winter."
+ },
+ "appreciation": {
+  "zh": "上阕写热闹。边境没有战事，朝廷赐酺，军营里奏着新曲，新楼又高又漂亮，红栏杆，绿屋檐，楼上美人的粉香随风飘下。可是一句“夜寒风细”，就让热闹里透出一丝冷。下阕转到诗人自己。他说这么好的楼，应该有仙人骑着黄鹤来玩，可他只是一个漂泊的人。他久久望着远方，芳草一直铺到天边，那就是“天涯情味”。只好借酒消愁，年轻时的豪气也一点点磨掉了。最后他卷起帘子，看见西山外一片清朗的晴空。愁没有说破，却留在那片干净的天色里。",
+  "en": "The first stanza is full of life. The border is at peace, the court grants a feast, new music plays in the army camp, and the new tower is tall and fine, with red railings and green eaves, while the scent of the ladies' powder drifts down. But the words \"the night is cold and the breeze is soft\" let a little chill into all this fun. The second stanza turns to the poet himself. Such a fine tower, he says, should have an immortal riding a yellow crane, but he is only a wanderer. He gazes far off, and the fragrant grass runs all the way to the sky. That is the taste of being far from home. He can only drown his sorrow in wine, and the boldness of his youth wears away bit by bit. At last he rolls up the curtain and sees a clear sky beyond the western hills. He never names his sorrow; he leaves it in that clean, bright sky."
+ },
+ "famous_lines": [
+  17,
+  18,
+  19
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "tower",
+   "wandering",
+   "sorrow",
+   "frontier"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,383 @@
+{
+ "id": "263b4a33-fd51-47e1-b49a-d84dd99a2e0f",
+ "kind": "shi",
+ "title": "送梓州李使君",
+ "title_en": "Seeing Off Governor Li of Zizhou",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "壑",
+    "hè"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "参",
+    "cān"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "鹃",
+    "juān"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "杪",
+    "miǎo"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "泉",
+    "quán"
+   ]
+  ],
+  [
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "输",
+    "shū"
+   ],
+   [
+    "橦",
+    "tóng"
+   ],
+   [
+    "布",
+    "bù"
+   ]
+  ],
+  [
+   [
+    "巴",
+    "bā"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "讼",
+    "sòng"
+   ],
+   [
+    "芋",
+    "yù"
+   ],
+   [
+    "田",
+    "tián"
+   ]
+  ],
+  [
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "翁",
+    "wēng"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "授",
+    "shòu"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "敢",
+    "gǎn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "贤",
+    "xián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "参",
+   "pinyin": "cān",
+   "zh": "“参天”读 cān，意思是高入天空。",
+   "en": "In cān tiān it is read cān, meaning to reach up into the sky."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "读 chóng，“百重”就是一层又一层。",
+   "en": "Read chóng; bǎi chóng means layer upon layer."
+  },
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "橦",
+   "pinyin": "tóng",
+   "zh": "读 tóng，指橦树，也就是木棉一类的树。",
+   "en": "Read tóng, a kind of kapok tree."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "壑：山谷。",
+   "en": "hè: a valley."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "参天：高到天上。",
+   "en": "cān tiān: reaching up to the sky."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "杜鹃：一种鸟，叫声很响，蜀地（今四川）很多。",
+   "en": "dù juān: the cuckoo, a bird with a loud call, common in Shu, today's Sichuan."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "树杪：树梢。",
+   "en": "shù miǎo: the tops of the trees."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "百重泉：一道又一道的泉水瀑布。下过雨，远看好像泉水从树梢上流下来。",
+   "en": "bǎi chóng quán: stream after stream of falling water. After the rain, from far away the waterfalls seem to pour from the treetops."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "汉女：当地的汉族妇女。",
+   "en": "hàn nǚ: the local Han women."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "输：交纳，交税。",
+   "en": "shū: to hand over as tax."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "橦布：用橦树的花絮织成的布，是蜀地的特产。",
+   "en": "tóng bù: cloth woven from the fluff of the tong tree, a local product of Shu."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "巴人：巴地的人。巴在今天四川东部和重庆一带。",
+   "en": "bā rén: people of Ba, today's eastern Sichuan and Chongqing."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "讼芋田：为了种芋头的田地打官司。",
+   "en": "sòng yù tián: going to court over taro fields."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "文翁：西汉时的蜀郡太守，在蜀地办学校，教化百姓，很受敬重。",
+   "en": "wén wēng: Wen Weng, a Western Han governor of Shu who set up schools and taught the people. He was greatly respected."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "翻：重新，再一次发扬。",
+   "en": "fān: to start again, to revive."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "教授：教育、教化百姓。",
+   "en": "jiào shòu: to teach and guide the people."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "倚先贤：依靠前人的功劳。先贤，指文翁。",
+   "en": "yǐ xiān xián: to lean on the good work of those before. The worthy man before is Wen Weng."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "千万条山谷里，大树高耸入云；",
+   "en": "In ten thousand valleys the trees rise to the sky;"
+  },
+  {
+   "zh": "千座山上，到处响着杜鹃的叫声。",
+   "en": "on a thousand hills the cuckoos call."
+  },
+  {
+   "zh": "山里下了一整夜的雨，",
+   "en": "It rained all night in the mountains,"
+  },
+  {
+   "zh": "树梢上好像挂着一道道泉水。",
+   "en": "and from the treetops hang stream after stream of falling water."
+  },
+  {
+   "zh": "那里的妇女用橦布交税，",
+   "en": "The women there pay their taxes in tong cloth;"
+  },
+  {
+   "zh": "巴地的人常为芋田打官司。",
+   "en": "the people of Ba go to court over taro fields."
+  },
+  {
+   "zh": "你要像文翁那样重新办好教化，",
+   "en": "Like Wen Weng, you should bring teaching back to life,"
+  },
+  {
+   "zh": "不要只靠前人留下的功绩。",
+   "en": "and not just lean on what the worthy man before you did."
+  }
+ ],
+ "background": {
+  "zh": "这是王维送别朋友李使君去梓州上任时写的诗。使君是对州里最高长官（刺史）的尊称。梓州在今天四川三台一带。李使君是谁，名字已经说不准，一说是李叔明。诗人没有去过那里，却想象出蜀地的山水和风土人情，最后勉励朋友做个好官。",
+  "en": "Wang Wei wrote this poem to see off his friend Li, who was going to Zizhou to take up a post as governor. Zizhou was around today's Santai in Sichuan. We cannot be sure who Governor Li was; one view says he was Li Shuming. Wang Wei had not been there himself, but he imagined the mountains, rivers and local life of Shu, and ended by urging his friend to be a good official."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），字摩诘，盛唐著名诗人，也是画家和音乐家。他特别擅长写山水，苏轼说他“诗中有画，画中有诗”。这首送别诗的前四句就像一幅山水画，可以看出他画家的眼光。",
+  "en": "Wang Wei (701–761; some say 699–761) was a famous high Tang poet, and also a painter and musician. He was especially good at mountains and rivers. Su Shi said of him: \"in his poems there are paintings, and in his paintings there are poems.\" The first four lines of this farewell poem are like a landscape painting, showing a painter's eye."
+ },
+ "appreciation": {
+  "zh": "前四句是全诗最有名的地方。先写满山大树高入云天，到处是杜鹃的叫声，有画面也有声音。接着写山中下了一夜的雨，第二天远远望去，一层层的泉水瀑布好像从树梢上挂下来。这是只有站在远处、站在高处才能看到的奇景。后四句写当地的风俗：妇女交橦布，百姓为芋田打官司。最后用文翁办学的故事勉励朋友：要自己用心治理，不要只靠前人的名声。全诗由景到人，由想象到嘱咐，写得既美又真诚。",
+  "en": "The first four lines are the most famous. First come huge trees reaching the sky and cuckoos calling everywhere, a picture with sound. Then it rains all night, and the next day, seen from far away, layers of waterfalls seem to hang down from the treetops. Only someone looking from a distance and a height could see such a wonder. The next lines show local customs: women pay taxes in cloth, and people go to court over taro fields. At the end, the poet uses the story of Wen Weng and his schools to encourage his friend: govern with your own effort, do not just rely on the fame of those before you. The poem moves from scenery to people, from imagining to advice, and it is both beautiful and sincere."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "mountains",
+   "rain",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,284 @@
+{
+ "id": "79e7ec6e-0d6c-4f95-8181-4671c42e1faf",
+ "kind": "shi",
+ "title": "月夜",
+ "title_en": "Moonlit Night",
+ "author": "刘方平",
+ "author_en": "Liu Fangping",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "偏",
+    "piān"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "虫",
+    "chóng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "透",
+    "tòu"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "纱",
+    "shā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "这里指古代夜里计时的单位“更”，读 gēng。",
+   "en": "Here it is a watch of the night, an old unit of night time, so it is read gēng."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "北斗、南斗是星名，读 dǒu。",
+   "en": "Běi dǒu and nán dǒu are names of star groups, so it is read dǒu."
+  },
+  {
+   "line": 1,
+   "pos": 5,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "南斗的斗也读 dǒu，不读 dòu。",
+   "en": "The dǒu of nán dǒu is also read dǒu, not dòu."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "现在课本读 xié。古音读 xiá，和“家、纱”押韵。",
+   "en": "Textbooks today read it xié. The old reading was xiá, which rhymes with jiā and shā."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "更深：夜深了。古代把一夜分成五更。",
+   "en": "gēng shēn: deep in the night. In old times the night was divided into five watches."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 7,
+   "zh": "月色半人家：月亮已经偏西，月光只照亮了人家院子的一半，另一半在阴影里。",
+   "en": "yuè sè bàn rén jiā: the moon has sunk to the west, so its light covers only half of each courtyard, and the other half is in shadow."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "北斗：北斗七星，七颗星排成勺子的样子。",
+   "en": "běi dǒu: the Big Dipper, seven stars in the shape of a ladle."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "阑干：横斜的样子。",
+   "en": "lán gān: lying slanted across the sky."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "南斗：南斗六星，在南边的天空，也像一把勺子。",
+   "en": "nán dǒu: the Southern Dipper, six stars in the southern sky, also shaped like a ladle."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "偏知：偏偏感觉到、才知道，带有出乎意料的意思。",
+   "en": "piān zhī: to sense, to my surprise; to notice for the first time."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "春气：春天的气息。",
+   "en": "chūn qì: the breath of spring."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "新透：第一次穿过。新，刚刚；透，穿过。",
+   "en": "xīn tòu: coming through for the first time. Xīn means just now; tòu means to pass through."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "绿窗纱：绿色的窗纱。",
+   "en": "lǜ chuāng shā: green gauze on the window."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夜深了，月亮偏西，月光只照亮了人家院子的一半。",
+   "en": "Late at night the moon hangs low, lighting only half of each courtyard."
+  },
+  {
+   "zh": "北斗星横在天上，南斗星也斜了。",
+   "en": "The Big Dipper lies across the sky, and the Southern Dipper has tilted."
+  },
+  {
+   "zh": "今夜我偏偏感觉到，春天的气息变暖了，",
+   "en": "Tonight, to my surprise, I sense that spring air has turned warm,"
+  },
+  {
+   "zh": "因为虫子的叫声，第一次透过绿色的窗纱传了进来。",
+   "en": "for the chirp of insects comes through the green window gauze for the first time."
+  }
+ ],
+ "background": {
+  "zh": "这首诗具体写于什么时候已经不清楚了。题目这里的底本作《夜月》，通行本多作《月夜》。诗写的是早春的一个深夜：月亮偏西，星星横斜，天气刚刚转暖，虫子开始叫了。刘方平一生隐居，没有做官，过着安静的生活，所以能留意到这样细小的变化。",
+  "en": "It is not known when this poem was written. Our source text titles it \"Night Moon\", but most editions call it \"Moonlit Night\". It shows a late night in early spring. The moon has sunk to the west, the stars lie slanted, the air has just turned warm, and insects have begun to chirp. Liu Fangping lived quietly as a recluse and never held office, so he could notice small changes like these."
+ },
+ "author_note": {
+  "zh": "刘方平，生卒年不详，洛阳人，大约生活在唐玄宗天宝年间前后。他一生没有做官，隐居在颍水、汝水一带，和诗人皇甫冉等是朋友。他擅长写景，诗风清新细腻，还会画画。《春怨》也是他的名作。",
+  "en": "Liu Fangping's birth and death years are not known. He came from Luoyang and lived around the Tianbao years of Emperor Xuanzong. He never took office and lived as a recluse near the Ying and Ru rivers, and was friends with poets such as Huangfu Ran. He was good at describing scenes in a fresh, delicate style, and he could also paint. \"Spring Sorrow\" is another well-known poem of his."
+ },
+ "appreciation": {
+  "zh": "前两句是一幅安静的夜景：月光只照亮半个院子，天上的北斗、南斗都斜了，说明夜已经很深。后两句最妙。春天什么时候来的？诗人不是看见的，而是听见的：窗外的虫子开始叫了，声音第一次透过窗纱传进屋里。虫子最先感到天气变暖，诗人从虫声里也感到了春天。一个“新”字，说明这是今年第一次听到；一个“透”字，让人觉得春天的暖意也跟着钻进了屋子。整首诗静静的，却充满了春天刚刚醒来的生气。",
+  "en": "The first two lines are a quiet night scene. The moonlight covers only half of the courtyard, and both Dippers have tilted, so the night is already deep. The last two lines are the best. How does the poet know spring has come? He does not see it, he hears it. Insects outside have begun to chirp, and for the first time their voices come through the window gauze. Insects feel the warmth first, and through them the poet feels spring too. The word \"first\" tells us it is the first time this year. The word \"through\" makes us feel that spring's warmth slips into the room along with the sound. The whole poem is quiet, yet full of the life of a spring that has just woken up."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "night",
+   "stars",
+   "insects"
+  ]
+ },
+ "uncertain": []
+}

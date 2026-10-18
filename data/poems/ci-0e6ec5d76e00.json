@@ -1,0 +1,776 @@
+{
+ "id": "ci-0e6ec5d76e00",
+ "kind": "ci",
+ "title": "应天长·条风布暖",
+ "title_en": "Ying Tian Chang: The Spring Wind Spreads Warmth",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《应天长》，双调",
+  "en": "ci to the tune Ying Tian Chang, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "条",
+    "tiáo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "布",
+    "bù"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "霏",
+    "fēi"
+   ],
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "食",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "社",
+    "shè"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "闭",
+    "bì"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "寂",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "院",
+    "yuàn"
+   ],
+   [
+    "芸",
+    "yún"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "狼",
+    "láng"
+   ],
+   [
+    "藉",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "邂",
+    "xiè"
+   ],
+   [
+    "逅",
+    "hòu"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ]
+  ],
+  [
+   [
+    "郊",
+    "jiāo"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "驻",
+    "zhù"
+   ],
+   [
+    "油",
+    "yóu"
+   ],
+   [
+    "壁",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "烛",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "侯",
+    "hóu"
+   ],
+   [
+    "宅",
+    "zhái"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "强",
+    "qiǎng"
+   ],
+   [
+    "载",
+    "zài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "识",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "这里用通行本。资料库原文“池台”作“池塘”，“沉沉”作“沈沈”（“沈”是“沉”的古写），“五侯”误作“五候”，“强载酒”作“强带酒”。",
+  "en": "This is the commonly printed text. The source text has chí táng (pond) for chí tái (ponds and terraces), an old way of writing chén chén, a miswritten character in wǔ hóu, and dài jiǔ (carry wine) for zài jiǔ (bring wine along)."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "沉",
+   "pinyin": "chén",
+   "zh": "“沉沉”形容夜色深暗。原文写作“沈沈”，“沈”在这里就是“沉”，读 chén，不读姓氏的 shěn。",
+   "en": "Chén chén describes a deep, dark night. The old text writes it with a character that is also the surname Shěn, but here it means 'deep' and is read chén."
+  },
+  {
+   "line": 18,
+   "pos": 0,
+   "char": "强",
+   "pinyin": "qiǎng",
+   "zh": "“强”在这里是“勉强”的意思，读 qiǎng，不读 qiáng。",
+   "en": "Here the character means 'forcing oneself', so it is read qiǎng, not qiáng."
+  },
+  {
+   "line": 10,
+   "pos": 3,
+   "char": "藉",
+   "pinyin": "jí",
+   "zh": "“狼藉”的“藉”读 jí，意思是乱七八糟。读 jiè 时是“慰藉”的意思。",
+   "en": "In láng jí (a mess) this character is read jí. Read jiè, it means comfort."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "条风：春天的风。古人说立春时吹来的风叫条风。",
+   "en": "tiáo fēng: the spring wind. Old books say this wind starts to blow at the beginning of spring."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "布暖：把暖意散布开来。",
+   "en": "bù nuǎn: spreads warmth all around."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "霏雾：飘飘洒洒的薄雾。",
+   "en": "fēi wù: a thin, drifting mist."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "弄晴：在晴光里飘来飘去，好像在逗弄晴天。",
+   "en": "nòng qíng: playing in the sunshine, drifting about in the clear weather."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "池台：池塘和亭台，指园林。",
+   "en": "chí tái: ponds and terraces, that is, a garden."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "夜堂：夜里的厅堂。",
+   "en": "yè táng: the hall at night."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "沉沉：深沉、昏暗的样子。",
+   "en": "chén chén: deep and dark."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "寒食：寒食节，在清明节前一两天。这一天按风俗不生火，只吃冷的食物。",
+   "en": "hán shí: the Cold Food Festival, a day or two before Qingming. By custom no fires were lit that day and people ate cold food."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "梁间燕：在屋梁上做窝的燕子。",
+   "en": "liáng jiān yàn: swallows nesting on the roof beams."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "社客：燕子。古人在春天和秋天各有一个祭土地神的日子，叫“社日”。燕子大约春社时飞来，秋社时飞走，像按时来的客人，所以叫社客。",
+   "en": "shè kè: guests of the shè days, meaning swallows. In spring and autumn people held a day to honour the earth god, called the shè day. Swallows come around the spring one and leave around the autumn one, like guests who keep to a timetable."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "愁寂：又发愁又冷清。",
+   "en": "chóu jì: sad and lonely."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "芸香：一种有香味的草。这里指从隔壁院子飘来的花草香气。",
+   "en": "yún xiāng: a sweet-smelling herb. Here it means the scent of plants drifting over from the next courtyard."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "狼藉：乱七八糟的样子。这里指落花铺满一地。",
+   "en": "láng jí: a mess. Here, fallen petals scattered all over the ground."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "那回：那一次。",
+   "en": "nà huí: that time."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "邂逅：没有约好，偶然遇见。",
+   "en": "xiè hòu: to meet by chance, without planning to."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 5,
+   "zh": "驻油壁：停下油壁车。油壁车是车厢涂了油漆的漂亮小车，古时多是女子坐的。",
+   "en": "zhù yóu bì: stopping the painted carriage. A yóu bì carriage had lacquered walls, and was usually ridden by women."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "汉宫传烛：寒食节过后，皇宫里点起新火，把蜡烛分送给亲近的大臣。这句借用唐代韩翃《寒食》“日暮汉宫传蜡烛”的诗意。",
+   "en": "hàn gōng chuán zhú: after the Cold Food Festival, the palace lit new fires and sent candles to favoured officials. The line borrows from the Tang poem 'Cold Food Day' by Han Hong."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 5,
+   "zh": "五侯宅：权贵人家的大宅子。汉朝曾在同一天封了五个皇亲为侯，后来用“五侯”泛指有权有势的人。",
+   "en": "wǔ hóu zhái: the mansions of the powerful. A Han emperor once made five of his in-laws lords on the same day, so 'the five lords' came to mean the rich and powerful."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 3,
+   "zh": "迷路陌：草长得太密，把小路都遮住了，让人认不清路。陌，田间小路。",
+   "en": "mí lù mò: the grass is so thick it hides the paths. Mò means a path between fields."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 3,
+   "zh": "强载酒：勉强打起精神，带上酒。",
+   "en": "qiǎng zài jiǔ: forcing himself to cheer up and bringing wine along."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "前迹：从前留下的踪迹，旧时走过的地方。",
+   "en": "qián jì: traces of the past, the places he once went."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "市桥：城里集市边的桥。",
+   "en": "shì qiáo: a bridge by the town market."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 2,
+   "zh": "犹自：仍然，还是。",
+   "en": "yóu zì: still."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春风吹来，把暖意洒满人间，",
+   "en": "The spring wind blows and spreads warmth everywhere."
+  },
+  {
+   "zh": "薄雾在晴光里轻轻飘动，",
+   "en": "Thin mist drifts and plays in the sunshine."
+  },
+  {
+   "zh": "园子里的池塘亭台，到处都是春天的颜色。",
+   "en": "The ponds and terraces of the garden are full of spring colour."
+  },
+  {
+   "zh": "可这正是一个没有月亮的夜晚，厅堂里黑黑的，",
+   "en": "But tonight there is no moon, and the hall is dark."
+  },
+  {
+   "zh": "寒食节的夜，又深又暗。",
+   "en": "The night of the Cold Food Festival is deep and gloomy."
+  },
+  {
+   "zh": "屋梁上的燕子，",
+   "en": "The swallows on the roof beams,"
+  },
+  {
+   "zh": "是春社前就飞来的老客人，",
+   "en": "old guests who came back before the spring shè day,"
+  },
+  {
+   "zh": "好像在笑我关着门，又愁又孤单。",
+   "en": "seem to laugh at me, shut indoors, sad and alone."
+  },
+  {
+   "zh": "乱纷纷的花已经开过了，",
+   "en": "The tangled blossoms have had their day."
+  },
+  {
+   "zh": "隔壁院子飘来草木的香气，",
+   "en": "A sweet scent drifts from the next courtyard,"
+  },
+  {
+   "zh": "落花满地，乱成一片。",
+   "en": "and fallen petals lie scattered all over the ground."
+  },
+  {
+   "zh": "我一直记得那一次，",
+   "en": "I have always remembered that time"
+  },
+  {
+   "zh": "我们没有约定，却偶然遇见，",
+   "en": "when we met by chance, without planning to,"
+  },
+  {
+   "zh": "城外，你的油壁车停了下来。",
+   "en": "and your painted carriage stopped outside the city."
+  },
+  {
+   "zh": "如今又看到寒食过后，宫里分送蜡烛，",
+   "en": "Now again I see the palace sending out candles after Cold Food Day,"
+  },
+  {
+   "zh": "轻烟飘进权贵们的大宅。",
+   "en": "and their light smoke drifting into the mansions of the great."
+  },
+  {
+   "zh": "青青的野草，",
+   "en": "The green, green grass"
+  },
+  {
+   "zh": "长得把小路都遮住了。",
+   "en": "has grown so thick it hides the paths."
+  },
+  {
+   "zh": "我勉强带上酒，",
+   "en": "I force myself to bring some wine,"
+  },
+  {
+   "zh": "细细寻找从前的踪迹。",
+   "en": "and search carefully for traces of the past."
+  },
+  {
+   "zh": "集市边的小桥远远的，",
+   "en": "The market bridge is far away,"
+  },
+  {
+   "zh": "柳树下的那户人家，",
+   "en": "and the household under the willows"
+  },
+  {
+   "zh": "还认得我。",
+   "en": "still knows who I am."
+  }
+ ],
+ "background": {
+  "zh": "这首词写寒食节前后的心情，具体写作年份不清楚。上阕写眼前：春色正好，可寒食的夜晚没有月亮，作者一个人关着门发愁。下阕回忆从前在城外偶然遇见一位女子，她坐着油壁车停下来和他相会。如今又到寒食，他带着酒去寻找旧地。词里借用了唐诗里寒食节“传蜡烛”的典故。",
+  "en": "This ci is about how the poet felt around the Cold Food Festival. We do not know the year it was written. The first stanza shows the present: spring is lovely, but on this moonless festival night he sits alone behind a closed door. The second stanza looks back to a chance meeting outside the city with a woman, whose painted carriage stopped there. Now the festival has come round again, and he takes wine and goes to look for the old places. The poem borrows the Tang image of the palace sending out candles after the festival."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，北宋著名词人。他非常懂音乐，曾经在朝廷管音乐的机构大晟府任职，自己也创作了不少新曲调。他的词用字讲究，结构精巧，常常把眼前和回忆交织在一起写，这首词就是这样。",
+  "en": "Zhou Bangyan (1056–1121) was a famous Northern Song writer of ci. He knew music deeply, worked in the court's music office, and wrote many new tunes himself. His ci are carefully worded and cleverly built. He often weaves the present and memories together, as he does here."
+ },
+ "appreciation": {
+  "zh": "这首词像两幅画对照着看。第一幅是现在：外面春光明媚，屋里却黑沉沉的，没有月亮，梁上的燕子叽叽喳喳，好像在笑话这个关着门发愁的人。门外落花满地，春天快要过去了。第二幅是回忆：城外的路上，一辆漂亮的小车停下，两个人偶然相遇。然后镜头又回到现在：同样是寒食，草长得把路都遮住了，他勉强带着酒去找旧地方。最后一句最耐人寻味：柳树下的人家还认得他。人家认得他，可他想见的那个人呢？词里没有说，留下了长长的惆怅。",
+  "en": "This ci is like two pictures set side by side. The first is now. Outside, spring is bright, but indoors it is dark and moonless. The swallows chatter on the beams as if laughing at the lonely man behind the closed door. Petals lie all over the ground; spring is nearly gone. The second picture is a memory. On a road outside the city, a pretty carriage stops, and two people meet by chance. Then we come back to now. It is the same festival. The grass has hidden the paths, and he forces himself to take wine and look for the old places. The last line stays with you: the household under the willows still knows him. They know him, but what about the person he hoped to see? The poem does not say, and that silence leaves a long, quiet sadness."
+ },
+ "famous_lines": [
+  5,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "hanshi"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "love",
+   "loneliness",
+   "swallow"
+  ]
+ },
+ "uncertain": []
+}

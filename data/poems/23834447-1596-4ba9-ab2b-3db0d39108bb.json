@@ -1,0 +1,449 @@
+{
+ "id": "23834447-1596-4ba9-ab2b-3db0d39108bb",
+ "kind": "shi",
+ "title": "曲江二首·其二",
+ "title_en": "Qujiang, Two Poems: No. 2",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "典",
+    "diǎn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "每",
+    "měi"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "债",
+    "zhài"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "有",
+    "yǒu"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "七",
+    "qī"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "蛱",
+    "jiá"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "见",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "蜻",
+    "qīng"
+   ],
+   [
+    "蜓",
+    "tíng"
+   ],
+   [
+    "款",
+    "kuǎn"
+   ],
+   [
+    "款",
+    "kuǎn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ]
+  ],
+  [
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "违",
+    "wéi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "朝回是“上朝回来”，“朝”读 cháo。",
+   "en": "Here it means coming back from court, so it is read cháo."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "尽醉是“喝个大醉”，“尽”读 jìn。",
+   "en": "Here it means to drink until fully drunk, so it is read jìn."
+  },
+  {
+   "line": 4,
+   "pos": 6,
+   "char": "见",
+   "pinyin": "xiàn",
+   "zh": "见在这里同“现”，是“出现、露出来”的意思，读 xiàn。",
+   "en": "Here it means to appear, so it is read xiàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "朝回：上朝回来。",
+   "en": "cháo huí: coming back from the morning court."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "典：典当，把东西押给当铺换钱。",
+   "en": "diǎn: to pawn, to leave something at a pawnshop in exchange for money."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "江头：曲江边。曲江是长安城东南的一处风景名胜。",
+   "en": "jiāng tóu: the bank of Qujiang, a famous scenic lake in the southeast of Chang'an."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "酒债：喝酒欠下的钱。",
+   "en": "jiǔ zhài: money owed for wine."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "寻常：平常，到处都是。古代八尺叫“寻”，十六尺叫“常”，所以“寻常”也能和下句的数字“七十”对上。",
+   "en": "xún cháng: ordinary, found everywhere. In old times eight feet was one xún and sixteen feet one cháng, so the word also matches the number seventy in the next line."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "行处：走到的地方。",
+   "en": "xíng chù: the places one goes."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "古来稀：自古以来就很少。后来人们把七十岁叫“古稀”。",
+   "en": "gǔ lái xī: rare since ancient times. Later, age seventy came to be called gǔ xī."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "蛱蝶：蝴蝶。",
+   "en": "jiá dié: butterflies."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "深深见：在花丛深处时隐时现。",
+   "en": "shēn shēn xiàn: now seen, now hidden, deep among the flowers."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "款款：慢悠悠、轻轻的样子。",
+   "en": "kuǎn kuǎn: slowly and gently."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "传语：传话，捎个话。",
+   "en": "chuán yǔ: to send a message."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "风光：春天的美景。",
+   "en": "fēng guāng: the beautiful spring scenery."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "共流转：一起流连、相伴。",
+   "en": "gòng liú zhuǎn: to linger and move along together."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "相违：违背、错过。",
+   "en": "xiāng wéi: to go against, to miss each other."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "每天上朝回来，我都把春天的衣服拿去典当。",
+   "en": "Every day after court, I pawn my spring clothes."
+  },
+  {
+   "zh": "天天在曲江边喝得大醉才回家。",
+   "en": "Every day I come home from the riverside thoroughly drunk."
+  },
+  {
+   "zh": "欠下的酒钱，走到哪儿都有，这很平常。",
+   "en": "I owe for wine wherever I go; that is nothing unusual."
+  },
+  {
+   "zh": "人活到七十岁，自古以来就很少。",
+   "en": "But living to seventy has been rare since ancient times."
+  },
+  {
+   "zh": "蝴蝶在花丛深处穿来穿去，时隐时现。",
+   "en": "Butterflies weave through the flowers, glimpsed deep among them."
+  },
+  {
+   "zh": "蜻蜓点着水面，慢悠悠地飞着。",
+   "en": "Dragonflies touch the water and fly slowly on."
+  },
+  {
+   "zh": "我想捎句话给这春光：让我们一起相伴吧。",
+   "en": "I send a word to the spring: let us stay together a while."
+  },
+  {
+   "zh": "就算只能短暂地欣赏，也不要错过呀。",
+   "en": "Even if we can enjoy each other only briefly, let us not miss it."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写于唐肃宗乾元元年（758年）暮春，杜甫在长安做左拾遗，是给皇帝提意见的小官。安史之乱还没有平定，他因为替房琯说话，被皇帝冷落，心里很苦闷。不久他就被贬到华州。他常到曲江边喝酒，写下了两首《曲江》，这是第二首。",
+  "en": "This poem was written in late spring of 758. Du Fu was in Chang'an as a Reminder of the Left, a minor official whose job was to advise the emperor. The An Lushan Rebellion was still not put down. Because he had spoken up for the minister Fang Guan, the emperor had turned cold to him, and he felt gloomy. Soon after he was sent away to a post in Huazhou. He often went to drink by Qujiang and wrote two poems called \"Qujiang\". This is the second."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他的诗大多沉重，忧国忧民。这首诗却写得轻快，有蝴蝶有蜻蜓，可在轻快后面，藏着他做官不得志、只能借酒消愁的苦闷。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. Most of his poems are heavy with worry for the nation and its people. This one sounds light, with butterflies and dragonflies. But behind the lightness lies his gloom at a career going nowhere, which he could only drown in wine."
+ },
+ "appreciation": {
+  "zh": "开头很出人意料：一个朝廷官员，天天当掉衣服去喝酒，喝醉才回家。为什么？三、四句给了答案：欠酒钱是平常事，可人能活到七十岁的很少，不如及时享受。“人生七十古来稀”从此成了名句，“古稀”也成了七十岁的代称。五、六句是写景名句：蝴蝶在花深处时隐时现，蜻蜓点水慢慢飞，一个“深深”，一个“款款”，写得又细又美。最后诗人对春光说：咱们一起待一会儿吧，别错过。表面是爱春，心里是失意，读来又轻又苦。",
+  "en": "The opening is surprising. A court official pawns his clothes every day to buy wine and comes home drunk. Why? Lines three and four answer. Owing for wine is normal, but few people live to seventy, so we should enjoy life while we can. The line about seventy being rare became famous, and gǔ xī became a name for age seventy. Lines five and six are famous scenery lines. Butterflies appear and vanish deep among the flowers, and dragonflies dip at the water and drift slowly. The doubled words shēn shēn and kuǎn kuǎn make the picture delicate and lovely. At the end the poet speaks to the spring: stay with me a little while, let us not miss each other. On the surface he loves spring; underneath he is disappointed. The poem feels light and bitter at once."
+ },
+ "famous_lines": [
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wine",
+   "time",
+   "insects",
+   "frustration",
+   "spring-scenery"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,297 @@
+{
+ "id": "ae660471-84bc-4a58-a438-005b8a99c3c1",
+ "kind": "shi",
+ "title": "赤壁",
+ "title_en": "Red Cliff",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "折",
+    "zhé"
+   ],
+   [
+    "戟",
+    "jǐ"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "铁",
+    "tiě"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "销",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "磨",
+    "mó"
+   ],
+   [
+    "洗",
+    "xǐ"
+   ],
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "朝",
+    "cháo"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "周",
+    "zhōu"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "便",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "雀",
+    "què"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "乔",
+    "qiáo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料把这首诗放在李商隐名下，课本和通行本都作杜牧的诗。资料第一句作“沈沙”，“沈”是“沉”的古写法，课本写作“沉沙”。",
+  "en": "The source lists this poem under Li Shangyin, but textbooks and common editions give it to Du Mu. The source also writes \"sunk\" in line one with an old form of the character; textbooks use the modern form. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "朝：这里读 cháo，“前朝”是以前的朝代，不读 zhāo。",
+   "en": "This character here is read cháo: qián cháo means a past dynasty. It is not zhāo, \"morning\"."
+  },
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "便",
+   "pinyin": "biàn",
+   "zh": "便：这里读 biàn，是“方便”的意思，不读 pián。",
+   "en": "This character here is read biàn, meaning convenience or help. It is not pián."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "折戟：折断的戟。戟是古代一种兵器，长杆头上装着枪尖和月牙形的刃。",
+   "en": "zhé jǐ: a broken halberd. A jǐ was an old weapon: a long pole with a spear point and a curved blade."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "沉沙：埋在沙子里。",
+   "en": "chén shā: sunk in the sand."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "销：熔化，这里指锈烂、消失。",
+   "en": "xiāo: to melt away; here, to rust away."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "自将：自己拿起来。将，拿、把。",
+   "en": "zì jiāng: picking it up myself. Jiāng means to take."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "磨洗：磨光、洗净。",
+   "en": "mó xǐ: to polish and wash."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "认前朝：认出这是前朝的东西。前朝，这里指三国时代。",
+   "en": "rèn qián cháo: to see that it comes from an earlier age, here the Three Kingdoms."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "东风：东边吹来的风。赤壁之战时，周瑜借着东风用火攻打败了曹操。",
+   "en": "dōng fēng: the east wind. At the Battle of Red Cliff, Zhou Yu used an east wind to send fire against Cao Cao's ships and won."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "不与：不给。",
+   "en": "bù yǔ: not give."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "周郎：周瑜，东吴的大将，二十四岁就当了将领，人们叫他“周郎”。",
+   "en": "zhōu láng: Zhou Yu, the great general of Wu. He became a commander at twenty-four, so people called him the young Master Zhou."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 7,
+   "zh": "便：方便，帮助。",
+   "en": "biàn: help, a convenient chance."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "铜雀：铜雀台，曹操在邺城（今河北临漳）建的高台，里面住着他的姬妾和歌女。",
+   "en": "tóng què: the Bronze Sparrow Terrace, a tall building Cao Cao put up in Ye, today's Linzhang in Hebei. His concubines and singing girls lived there."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "春深：春意正浓，这里也暗指被深深地关着。",
+   "en": "chūn shēn: deep in spring; it also hints at being locked away deep inside."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "二乔：东吴的两位美女，大乔嫁给孙策，小乔嫁给周瑜。",
+   "en": "èr qiáo: the two Qiao sisters, famous beauties of Wu. The elder married Sun Ce; the younger married Zhou Yu."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一支折断的铁戟埋在沙里，还没有锈烂。",
+   "en": "A broken iron halberd lies sunk in the sand, not yet rusted away."
+  },
+  {
+   "zh": "我拿起来磨光洗净，认出它是三国时的旧物。",
+   "en": "I pick it up, polish and wash it, and see it is from the Three Kingdoms."
+  },
+  {
+   "zh": "要是东风不给周瑜帮忙，",
+   "en": "If the east wind had not helped Young Master Zhou,"
+  },
+  {
+   "zh": "那么到了春深时节，大乔和小乔就会被曹操关进铜雀台了。",
+   "en": "then deep in spring the two Qiao sisters would have been locked in Cao Cao's Bronze Sparrow Terrace."
+  }
+ ],
+ "background": {
+  "zh": "公元208年，孙权和刘备联手，在赤壁用火攻大败曹操，这就是有名的赤壁之战。一般认为，杜牧是在黄州（今湖北黄冈）做刺史时写了这首诗，黄州也有一个叫赤壁的地方。他在江边捡到一支古代的断戟，想起了这场大战。一说他游的并不是真正打仗的地方。",
+  "en": "In 208, Sun Quan and Liu Bei joined forces and crushed Cao Cao at Red Cliff by setting his fleet on fire. This is the famous Battle of Red Cliff. It is usually thought that Du Mu wrote this poem while governor of Huangzhou, today's Huanggang in Hubei, which also has a place called Red Cliff. He found an old broken halberd by the river, and it made him think of the great battle. Another view says the spot he visited was not the real battlefield."
+ },
+ "author_note": {
+  "zh": "杜牧（803—约852），晚唐诗人，和李商隐并称“小李杜”。他从小读兵书，喜欢谈论历史和打仗的道理，写过不少咏史诗。他看历史常有自己的想法，喜欢从意想不到的角度去写，这首《赤壁》就是一个例子。",
+  "en": "Du Mu (803–about 852) was a late Tang poet, known with Li Shangyin as the \"Little Li and Du\". He read books on warfare from a young age, liked to talk about history and strategy, and wrote many poems about the past. He often had his own views of history and liked to come at it from a surprising angle. \"Red Cliff\" is one example."
+ },
+ "appreciation": {
+  "zh": "诗从一件小东西开始：一支断戟。它在沙里埋了六百多年，还没烂掉。诗人把它磨洗干净，一下子就和三国连上了。后两句是诗人的大胆想象：赤壁之战能赢，全靠那阵东风。要是没有东风，周瑜就输了，东吴也完了，连大乔小乔都会被抢去关在铜雀台里。诗人不说国家灭亡，只说两个女子的命运，用小事写大事，读起来又新鲜又有味道。这里也有一点感慨：成功有时要靠运气。",
+  "en": "The poem starts with one small thing: a broken halberd. It has lain in the sand for more than six hundred years and still has not rotted. When the poet polishes it, it links him straight back to the Three Kingdoms. The last two lines are a bold \"what if\". The victory at Red Cliff depended on that east wind. Without it, Zhou Yu would have lost, Wu would have fallen, and even the Qiao sisters would have been carried off and locked in Cao Cao's terrace. The poet does not talk about a kingdom falling. He talks about the fate of two women. Using a small story to tell a big one makes the poem fresh and fun to read. There is also a sigh in it: success sometimes depends on luck."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "war",
+   "three-kingdoms",
+   "wind"
+  ]
+ },
+ "uncertain": []
+}

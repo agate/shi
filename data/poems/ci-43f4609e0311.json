@@ -1,0 +1,503 @@
+{
+ "id": "ci-43f4609e0311",
+ "kind": "ci",
+ "title": "临江仙·高咏楚词酬午日",
+ "title_en": "Immortal by the River: Chanting the Songs of Chu Aloud for the Duanwu Festival",
+ "author": "陈与义",
+ "author_en": "Chen Yuyi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·临江仙（双调）",
+  "en": "ci lyric to the tune Lin Jiang Xian, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "咏",
+    "yǒng"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "词",
+    "cí"
+   ],
+   [
+    "酬",
+    "chóu"
+   ],
+   [
+    "午",
+    "wǔ"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "序",
+    "xù"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ]
+  ],
+  [
+   [
+    "榴",
+    "liú"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "裙",
+    "qún"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "矣",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "葵",
+    "kuí"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "东",
+    "dōng"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "同",
+    "tóng"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "浇",
+    "jiāo"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "第七句通行本作“戎葵凝笑墙东”，语料误作“戌葵”。戎葵就是蜀葵，是一种花。这里用通行本。",
+  "en": "In the seventh line the common text has róng kuí, the hollyhock; the corpus mistakenly has a look-alike character that makes no sense here. We follow the common text."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "zh": "“似”在这里读 sì，“不似”是不像的意思。",
+   "en": "Here this character is read sì; bù sì means not like.",
+   "char": "似",
+   "pinyin": "sì"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "高咏：高声吟诵。",
+   "en": "gāo yǒng: to chant aloud."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "楚词：就是《楚辞》，战国时楚国诗人屈原等人写的诗歌。",
+   "en": "chǔ cí: the Songs of Chu, poems by Qu Yuan of the state of Chu and others in the Warring States period."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "酬：这里是过、度过的意思，用吟诗来过节。",
+   "en": "chóu: here, to mark or celebrate, by chanting poems."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "午日：端午节，农历五月初五。传说是为纪念投江而死的屈原。",
+   "en": "wǔ rì: the Duanwu Festival on the fifth day of the fifth lunar month, said to honour Qu Yuan, who drowned himself in a river."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "天涯：天边，这里指远离家乡的地方。",
+   "en": "tiān yá: the edge of the sky, here far from home."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "节序：节日和季节。",
+   "en": "jié xù: festivals and seasons."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "匆匆：很快地过去。",
+   "en": "cōng cōng: passing quickly."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "榴花：石榴花，五月开，颜色火红。",
+   "en": "liú huā: pomegranate flowers, which bloom fiery red in the fifth month."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "舞裙：跳舞的人穿的裙子。这里想起从前太平时节过端午的热闹。",
+   "en": "wǔ qún: dancers' skirts. He is remembering the lively festivals of peaceful years."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "歌罢：吟唱完了。",
+   "en": "gē bà: when the singing is over."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "满帘风：风吹满了帘子。",
+   "en": "mǎn lián fēng: the wind fills the curtains."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "万事一身：经历了许许多多的事，只剩下孤零零一个人。",
+   "en": "wàn shì yī shēn: after countless troubles, he is left all alone."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "伤老矣：感叹自己已经老了。矣，语气词，相当于“了”。",
+   "en": "shāng lǎo yǐ: grieving that he has grown old. Yǐ is a word that ends the sentence, like \"now\"."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "戎葵：蜀葵，一种夏天开的花，花朵大，颜色鲜艳。",
+   "en": "róng kuí: the hollyhock, a summer flower with big, bright blooms."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "凝笑：花开着，好像在静静地微笑。",
+   "en": "níng xiào: the flowers bloom as if smiling quietly."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "深浅：酒倒得多和少。",
+   "en": "shēn qiǎn: how full the cup is poured."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "试浇：试着把酒洒下去。",
+   "en": "shì jiāo: to try pouring wine out."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "今夕：今天晚上。",
+   "en": "jīn xī: tonight."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "湘中：湘江一带，在今湖南。屈原投水的汨罗江就流进湘江一带。",
+   "en": "xiāng zhōng: the Xiang River region in today's Hunan. The Miluo River, where Qu Yuan drowned, flows into the waters there."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我高声吟诵《楚辞》，来过这个端午节。",
+   "en": "I chant the Songs of Chu aloud to mark the Duanwu Festival."
+  },
+  {
+   "zh": "漂泊在天涯，节日一个个匆匆过去。",
+   "en": "Wandering far from home, I watch the festivals hurry by."
+  },
+  {
+   "zh": "石榴花再红，也比不上当年舞裙的红。",
+   "en": "However red the pomegranate flowers, they are not as red as the dancers' skirts of old."
+  },
+  {
+   "zh": "没有人懂得我的心意。",
+   "en": "No one understands what I feel."
+  },
+  {
+   "zh": "唱完了，只有风吹满了帘子。",
+   "en": "When the song is over, only the wind fills the curtains."
+  },
+  {
+   "zh": "经历了万般事情，只剩我一个人，感叹自己老了。",
+   "en": "After countless troubles I am alone, and I grieve that I have grown old."
+  },
+  {
+   "zh": "墙东边的蜀葵花，静静地开着，好像在微笑。",
+   "en": "East of the wall the hollyhocks bloom, as if quietly smiling."
+  },
+  {
+   "zh": "杯里的酒，倒得多少，和去年一样。",
+   "en": "The wine in my cup is poured just as it was last year."
+  },
+  {
+   "zh": "我试着把酒洒进桥下的流水，",
+   "en": "I try pouring it into the water under the bridge,"
+  },
+  {
+   "zh": "希望今晚它能流到湘江，去祭奠屈原。",
+   "en": "hoping that tonight it will reach the Xiang River, an offering to Qu Yuan."
+  }
+ ],
+ "background": {
+  "zh": "北宋末年，金兵攻破都城汴京，陈与义一路向南逃难，后来流落到湖南一带。这首词是他在异乡过端午节时写的，一般认为作于南宋建炎年间（约1129—1130年）。端午节本来是纪念屈原的节日，屈原也是一位忠心爱国、却被迫流落的人。陈与义吟着屈原的诗，想到国家和自己的遭遇，写下了这首词。",
+  "en": "At the end of the Northern Song, the Jin army took the capital, Bianjing. Chen Yuyi fled south and ended up wandering in what is now Hunan. He wrote this lyric while spending the Duanwu Festival far from home, usually dated to about 1129 or 1130. Duanwu honours Qu Yuan, a loyal poet who loved his country but was driven into exile. Chanting Qu Yuan's poems, Chen Yuyi thought of his country and his own fate, and wrote this lyric."
+ },
+ "author_note": {
+  "zh": "陈与义（1090—1139，一说1138年去世），字去非，号简斋，洛阳人，北宋末、南宋初的诗人。他早年诗名很大，金兵南下后四处逃难，诗风变得沉郁，常写国家的苦难。后来他到南宋朝廷做官，做到参知政事。他的词留下来的不多，但很有名。",
+  "en": "Chen Yuyi (1090–1139; some say he died in 1138), also called Jianzhai, was from Luoyang and lived at the end of the Northern Song and the start of the Southern Song. He was a famous poet when young. After the Jin army invaded he fled from place to place, and his poems became deep and sorrowful, often about the suffering of his country. Later he served the Southern Song court and rose to be an assistant chief minister. Few of his lyrics survive, but they are well known."
+ },
+ "appreciation": {
+  "zh": "开头一句就有气势：在他乡过端午，他不吃粽子、不看龙舟，而是高声吟诵屈原的诗。可是越吟越孤独：节日匆匆过去，石榴花再红，也比不上从前太平时舞裙的红。没人懂他，唱完只剩一帘风。下半首他叹自己老了，墙边的蜀葵却在静静微笑，花不懂人的愁。酒和去年一样，人和国家却都变了。最后他把酒洒进桥下的水，希望今晚流到湘江，敬给屈原。一个流落的人，隔着一千多年，向另一个流落的人致意。",
+  "en": "The opening line is bold. Spending Duanwu far from home, he does not eat rice dumplings or watch dragon boats; he chants Qu Yuan's poems aloud. But the more he chants, the lonelier he feels. The festivals hurry by, and however red the pomegranate flowers, they cannot match the dancers' skirts of the peaceful past. No one understands him; when the song ends, there is only wind in the curtains. In the second half he sighs that he has grown old, while the hollyhocks by the wall quietly smile. Flowers do not know human sorrow. The wine is the same as last year, but he and his country have changed. At last he pours wine into the water under the bridge, hoping it will reach the Xiang River tonight as an offering to Qu Yuan. One exile, across more than a thousand years, salutes another."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [
+   "duanwu"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "qu-yuan",
+   "exile",
+   "old-age",
+   "homeland",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

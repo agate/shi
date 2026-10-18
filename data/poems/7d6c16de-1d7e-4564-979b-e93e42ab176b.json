@@ -1,0 +1,274 @@
+{
+ "id": "7d6c16de-1d7e-4564-979b-e93e42ab176b",
+ "kind": "shi",
+ "title": "十五夜望月寄杜郎中",
+ "title_en": "Gazing at the Moon on the Fifteenth Night, for Langzhong Du",
+ "author": "王建",
+ "author_en": "Wang Jian",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "鸦",
+    "yā"
+   ]
+  ],
+  [
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里的底本最后一句作“不知秋思在谁家”。现在课本和通行本作“不知秋思落谁家”。“落”字更有动感，好像秋思会像月光一样落下来。",
+  "en": "In our source text the last line uses zài (to be at). Current textbooks and editions use luò (to fall on), which feels more alive, as if longing could fall like moonlight."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "这里是“全、都”的意思，读 jìn。",
+   "en": "Here it means all, everyone, so it is read jìn."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "现在课本读 sī。古时“秋思”的思作名词，读去声 sì。",
+   "en": "Textbooks today read it sī. In old times, when it meant a feeling (a noun), it was read sì."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "课本读 shuí，口语也读 shéi。",
+   "en": "Textbooks read it shuí; in speech it is also said shéi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "中庭：庭院中间。",
+   "en": "zhōng tíng: the middle of the courtyard."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "地白：月光照在地上，地面白白的。",
+   "en": "dì bái: the ground looks white in the moonlight."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "树栖鸦：乌鸦歇在树上睡了。栖，鸟停在树上休息。",
+   "en": "shù qī yā: crows roost in the trees. Qī means a bird resting on a branch."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "冷露：秋夜里冰凉的露水。",
+   "en": "lěng lù: cold dew of an autumn night."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "湿桂花：打湿了桂花。一说指月亮里传说中的桂树。",
+   "en": "shī guì huā: wets the osmanthus flowers. Some think it means the osmanthus tree that legend places on the moon."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "人尽望：人们都在看月亮。尽，全、都。",
+   "en": "rén jìn wàng: everyone is gazing at the moon. Jìn means all."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "秋思：秋天里思念的心情。",
+   "en": "qiū sī: the longing that comes with autumn."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "落谁家：落在谁的家里，也就是谁最思念亲友。",
+   "en": "luò shuí jiā: falls on whose home, that is, who is longing most for loved ones."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "庭院里月光照得地面一片雪白，乌鸦在树上歇着。",
+   "en": "In the courtyard the ground is white with moonlight, and crows roost in the trees."
+  },
+  {
+   "zh": "冰凉的露水悄悄地打湿了桂花。",
+   "en": "Cold dew silently wets the osmanthus flowers."
+  },
+  {
+   "zh": "今天晚上月亮这么明亮，人们都在抬头赏月，",
+   "en": "Tonight the moon is so bright that everyone looks up at it,"
+  },
+  {
+   "zh": "不知道那满怀的秋思，会落到谁的家里。",
+   "en": "and I wonder on whose home the longing of autumn will fall."
+  }
+ ],
+ "background": {
+  "zh": "“十五夜”指农历八月十五，也就是中秋节的晚上。中秋月圆，是家人团聚的日子。诗人在这一夜望着月亮，想起了远方的朋友，写了这首诗寄给他。“郎中”是官名，这位杜郎中是谁，一说是杜元颖，但没有定论。这首诗具体写于哪一年也不清楚。",
+  "en": "\"The fifteenth night\" means the fifteenth of the eighth lunar month, the night of the Mid-Autumn Festival. The moon is full then, and families gather together. That night the poet gazed at the moon, thought of a friend far away, and sent him this poem. Langzhong was a title for a kind of official. Who this Langzhong Du was is not certain; one view says Du Yuanying. The year is not known either."
+ },
+ "author_note": {
+  "zh": "王建，中唐诗人，生卒年说法不一，大约生活在八世纪后期到九世纪前期。他出身贫寒，做过县丞、司马等小官。他擅长写乐府诗，常写百姓的辛苦，和张籍并称“张王乐府”。他还写过一百首《宫词》，描写宫中的生活。",
+  "en": "Wang Jian was a poet of the middle Tang. Sources give different years for his life, roughly the late eighth to the early ninth century. He came from a poor family and held only small posts. He was good at yuefu, poems in the style of folk songs, and often wrote about the hard lives of ordinary people. People paired him with Zhang Ji as \"the yuefu of Zhang and Wang\". He also wrote a hundred \"Palace Poems\" about life inside the palace."
+ },
+ "appreciation": {
+  "zh": "前两句写中秋夜的庭院，非常安静：月光把地面照得像下了霜，乌鸦睡了，露水悄悄打湿桂花。“无声”两个字，让人感到夜深了，也有点凉。后两句从自己写到天下人：今晚人人都在看月亮，可是谁的思念最深呢？诗人没有直接说“我想你”，而是轻轻地问一句“不知秋思落谁家”。其实，最想念朋友的人，正是诗人自己。这种不说破的写法，让思念显得更深、更长。",
+  "en": "The first two lines show the courtyard on Mid-Autumn night, very quiet. The moonlight makes the ground look frosted, the crows are asleep, and dew silently wets the osmanthus. The word \"silently\" makes us feel the night is deep and a little cold. The last two lines move from the poet to everyone: tonight all people are looking at the moon, but whose longing is the deepest? The poet does not say \"I miss you\". He only asks softly on whose home the longing will fall. In truth, the one who misses his friend most is the poet himself. By not saying it straight out, he makes the longing feel deeper and longer."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "midautumn"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "friendship",
+   "longing",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

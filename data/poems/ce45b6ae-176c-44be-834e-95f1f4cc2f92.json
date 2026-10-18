@@ -1,0 +1,248 @@
+{
+ "id": "ce45b6ae-176c-44be-834e-95f1f4cc2f92",
+ "kind": "shi",
+ "title": "题乌江亭",
+ "title_en": "Written at the Wujiang Pavilion",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "败",
+    "bài"
+   ],
+   [
+    "兵",
+    "bīng"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "包",
+    "bāo"
+   ],
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "耻",
+    "chǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "男",
+    "nán"
+   ],
+   [
+    "儿",
+    "ér"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "弟",
+    "dì"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "俊",
+    "jùn"
+   ]
+  ],
+  [
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "土",
+    "tǔ"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "兵家：带兵打仗的人。",
+   "en": "bīng jiā: people who lead armies in war."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "事不期：事情难以预料。期，预料。",
+   "en": "shì bù qī: things cannot be predicted. Qī means to expect or foresee."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "包羞忍耻：忍受失败带来的羞愧和耻辱。",
+   "en": "bāo xiū rěn chǐ: to bear the shame and disgrace of defeat."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "男儿：真正的男子汉。",
+   "en": "nán ér: a real man."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "江东：长江下游南岸一带，是项羽当年起兵的地方。",
+   "en": "jiāng dōng: the land south of the lower Yangtze, where Xiang Yu first raised his army."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "子弟：年轻人。",
+   "en": "zǐ dì: young men."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "才俊：有才能的人。",
+   "en": "cái jùn: talented people."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "卷土重来：卷起尘土又打回来，比喻失败以后重新聚起力量再来。",
+   "en": "juǎn tǔ chóng lái: to come charging back in a cloud of dust. It means to gather strength again after a defeat and return."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "未可知：说不定，难以知道。",
+   "en": "wèi kě zhī: no one can tell, it might well happen."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "打仗是胜是败，连兵家也难以预料。",
+   "en": "Even those who lead armies cannot tell whether a battle will be won or lost."
+  },
+  {
+   "zh": "能忍受失败的羞耻，才是真正的男子汉。",
+   "en": "A real man is one who can bear the shame of defeat."
+  },
+  {
+   "zh": "江东的年轻人里，有才能的人很多。",
+   "en": "Among the young men east of the river, there were many talented people."
+  },
+  {
+   "zh": "如果项羽回去重整旗鼓，说不定还能打回来。",
+   "en": "If Xiang Yu had gone back to rebuild his army, who knows, he might have come back to win."
+  }
+ ],
+ "background": {
+  "zh": "乌江亭在今天安徽和县东北的乌江边。秦朝末年，项羽和刘邦争夺天下。项羽在垓下大败，一路逃到乌江边。亭长劝他渡江回江东，他却说没脸再见江东父老，最后在这里自杀了。很多年后，杜牧路过乌江亭，想起这段历史，写下了这首诗。具体是哪一年写的，说法不一。",
+  "en": "The Wujiang Pavilion stood by the Wujiang River, northeast of today's He County in Anhui. At the end of the Qin dynasty, Xiang Yu and Liu Bang fought to rule the land. Xiang Yu was badly beaten at Gaixia and fled to the Wujiang River. The local officer urged him to cross back to his home east of the river. But he said he was too ashamed to face the elders there, and he took his own life on the spot. Many centuries later, Du Mu passed the pavilion, thought of this history, and wrote this poem. Sources disagree on the year."
+ },
+ "author_note": {
+  "zh": "杜牧（803—约852），字牧之，唐代后期诗人，和李商隐合称“小李杜”。他关心国家大事，爱读兵书，还给《孙子兵法》作过注解。他特别擅长七言绝句，常常借古代的事发表自己的看法，这首诗就是一例。",
+  "en": "Du Mu (803–c. 852), also called Muzhi, was a late Tang poet. He and Li Shangyin are together called the Little Li and Du. He cared about the affairs of the state, loved books on warfare, and even wrote notes on Sunzi's Art of War. He was especially good at seven-character quatrains and often used events from the past to give his own views, as in this poem."
+ },
+ "appreciation": {
+  "zh": "很多人写项羽，都夸他宁死不屈，是个英雄。杜牧却说出了不一样的看法。第一句讲道理：打仗有胜有败，谁也说不准。第二句说，能忍住失败的羞耻，才算真男儿。言下之意是，项羽自杀并不值得。后两句设想：江东人才那么多，如果他回去重整队伍，也许还能卷土重来。诗里有惋惜，也有批评，劝人不要因为一次失败就放弃。“卷土重来”后来成了常用的成语。宋代王安石写过同题的诗，看法正好相反，认为项羽已失人心，回去也没用。",
+  "en": "Many poets praised Xiang Yu as a hero who chose death over surrender. Du Mu offered a different view. The first line states a plain truth: in war there are wins and losses, and no one can be sure. The second line says that only a man who can bear the shame of defeat is truly a man. This hints that Xiang Yu's death was not worth it. The last two lines imagine another ending: there were so many talented people back home, and if he had gone back to rebuild his army, he might have come back to win. The poem holds both pity and criticism, and it urges us not to give up after one defeat. The phrase juǎn tǔ chóng lái later became a common idiom. In the Song dynasty, Wang Anshi wrote a poem with the same title that argued the opposite: Xiang Yu had lost the people's support, so going back would not have helped."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "hero",
+   "war",
+   "perseverance"
+  ]
+ },
+ "uncertain": []
+}

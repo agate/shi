@@ -1,0 +1,259 @@
+{
+ "id": "0c7f80dd-29e4-4c72-b4b5-f967aa52b51a",
+ "kind": "shi",
+ "title": "渔歌子",
+ "title_en": "Song of the Fisherman",
+ "author": "张志和",
+ "author_en": "Zhang Zhihe",
+ "dynasty": "tang",
+ "form": {
+  "zh": "词（渔歌子）",
+  "en": "lyric to the tune Yu Ge Zi"
+ },
+ "lines": [
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "鳜",
+    "guì"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "肥",
+    "féi"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "箬",
+    "ruò"
+   ],
+   [
+    "笠",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "蓑",
+    "suō"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文写作“青篛笠”。“篛”是“箬”的异体字，课本写作“箬”，意思一样。",
+  "en": "The corpus writes the bamboo-leaf hat with a variant form of the character ruò. Textbooks use the standard form. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "塞是多音字。这里是山名，读 sài。",
+   "en": "This character has several readings. Here it is part of a mountain's name and is read sài."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "西塞山：山名。一般认为在今浙江湖州西边。一说在今湖北黄石。",
+   "en": "Xisai Mountain: a mountain, usually placed west of today's Huzhou in Zhejiang. Another view puts it near Huangshi in Hubei."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "白鹭：一种白色的水鸟，腿和脖子都很长。",
+   "en": "bái lù: the egret, a white water bird with long legs and a long neck."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "桃花流水：桃花开的时候，春天涨起来的河水，水上漂着花瓣。",
+   "en": "táo huā liú shuǐ: the spring flood that comes when peach trees bloom, with petals floating on it."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "鳜鱼：一种淡水鱼，肉很鲜美，俗称“桂鱼”。",
+   "en": "guì yú: the mandarin fish, a freshwater fish with tasty meat."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 3,
+   "zh": "箬笠：用箬竹叶或竹篾编的斗笠，可以挡雨遮阳。",
+   "en": "ruò lì: a wide hat woven from bamboo leaves or strips, to keep off rain and sun."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "蓑衣：用草或棕毛编成的雨衣。",
+   "en": "suō yī: a raincoat woven from straw or palm fiber."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "斜风：斜着吹来的风，这里指微风。",
+   "en": "xié fēng: wind blowing at a slant; here a light breeze."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "不须归：不用回家，也不想回家。须，需要。",
+   "en": "bù xū guī: no need to go home, and no wish to. Xū means need."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "西塞山前，白鹭在天上飞。",
+   "en": "In front of Xisai Mountain, egrets are flying."
+  },
+  {
+   "zh": "桃花盛开，春水上涨，鳜鱼长得正肥。",
+   "en": "Peach trees bloom, the spring river runs high, and the mandarin fish are fat."
+  },
+  {
+   "zh": "渔翁戴着青色的箬笠，",
+   "en": "The fisherman wears a green bamboo-leaf hat"
+  },
+  {
+   "zh": "披着绿色的蓑衣，",
+   "en": "and a green straw raincoat."
+  },
+  {
+   "zh": "在斜风细雨里钓鱼，用不着回家。",
+   "en": "In the slanting wind and fine rain, he has no need to go home."
+  }
+ ],
+ "background": {
+  "zh": "张志和是唐代的隐士，在江湖上钓鱼为乐。一般认为，唐代宗大历年间（约774年），书法家颜真卿在湖州做官，张志和去拜访他，大家一起唱和，张志和写了五首《渔歌子》，这是第一首。据说这首词很快传开，连日本的天皇也学着写过。",
+  "en": "Zhang Zhihe was a Tang hermit who loved to fish on the rivers and lakes. It is usually said that around 774, when the calligrapher Yan Zhenqing was an official in Huzhou, Zhang came to visit him. The friends wrote songs back and forth, and Zhang wrote five Songs of the Fisherman. This is the first. It is said the song spread quickly, and even an emperor of Japan wrote songs in the same style."
+ },
+ "author_note": {
+  "zh": "张志和，唐代诗人，年轻时做过官，后来辞官不做，住在江湖上，自称“烟波钓徒”，意思是在烟雾水波里钓鱼的人。他钓鱼常常不放鱼饵，不是为了鱼，而是喜欢那份自在。这首词写的就是他自己的生活。",
+  "en": "Zhang Zhihe was a Tang poet. He was an official when young, but later quit and lived on the waters. He called himself the Angler of Mist and Waves. It is said he often fished without bait, because he did not care about the fish. He loved the freedom. This song is about his own life."
+ },
+ "appreciation": {
+  "zh": "这首词像一幅色彩明亮的画。远处是青山，天上飞着雪白的鹭鸟；岸边是粉红的桃花，水里游着肥美的鳜鱼。再看画中的人：青色的斗笠，绿色的蓑衣，坐在小船上钓鱼。这时下起了细雨，吹来了斜风，换了别人早就躲回家了，渔翁却说“不须归”。他觉得风雨里的江湖正好，一点也不想走。短短二十七个字，有山、有水、有鸟、有鱼、有人，写出了自由自在、热爱自然的心情。",
+  "en": "This song is like a bright, colorful painting. Far away is a green mountain, with snow-white egrets in the sky. On the bank are pink peach blossoms, and in the water swim fat fish. Then look at the man in the picture: a green hat, a green raincoat, fishing from a small boat. A fine rain starts, and a slanting wind blows. Anyone else would hurry home, but the fisherman says there is no need. He thinks the river in the rain is just right and does not want to leave. In only twenty-seven characters there are mountains, water, birds, fish and a man, and a heart that is free and loves nature."
+ },
+ "famous_lines": [
+  0,
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "fishing",
+   "nature",
+   "freedom",
+   "rain",
+   "hermit"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,233 @@
+{
+ "id": "9a4d3eae-fe01-46c7-a28b-8b518614a508",
+ "kind": "shi",
+ "title": "和张仆射塞下曲·其四",
+ "title_en": "Frontier Songs in Reply to Minister Zhang, No. 4",
+ "author": "卢纶",
+ "author_en": "Lu Lun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "幕",
+    "mù"
+   ],
+   [
+    "敞",
+    "chǎng"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "筵",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "羌",
+    "qiāng"
+   ],
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "贺",
+    "hè"
+   ],
+   [
+    "劳",
+    "láo"
+   ],
+   [
+    "旋",
+    "xuán"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "甲",
+    "jiǎ"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "雷",
+    "léi"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "川",
+    "chuān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "和",
+   "pinyin": "hé",
+   "zh": "这里的“和”是“连同、带着”的意思，读 hé。",
+   "en": "Here this character means \"together with, still wearing\", so it is read hé."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "野幕：在野外搭起的大帐篷。",
+   "en": "yě mù: big tents put up out in the open."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "敞：摆开，敞开。",
+   "en": "chǎng: to lay out, to open wide."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "琼筵：像美玉一样珍贵的酒席，指丰盛的宴会。琼，美玉。",
+   "en": "qióng yán: a feast as fine as jade, a rich banquet. Qióng means fine jade."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "羌戎：西北边地的少数民族，这里指归附唐朝的各族人。",
+   "en": "qiāng róng: peoples of the northwest border. Here, the peoples who had joined the Tang side."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "贺：祝贺。",
+   "en": "hè: to congratulate."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "劳旋：慰劳打了胜仗回来的将士。劳，慰劳；旋，凯旋，胜利归来。",
+   "en": "láo xuán: to reward the soldiers coming home in victory. Láo means to thank and reward; xuán means to return in triumph."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "和：连同，带着。",
+   "en": "hé: together with, still wearing."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "金甲：金属做的铠甲，打仗时穿的护身衣。",
+   "en": "jīn jiǎ: metal armor, the hard suit soldiers wear in battle."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "雷鼓：鼓声像打雷一样响。一说“雷鼓”是一种八面的大鼓。",
+   "en": "léi gǔ: drums as loud as thunder. Another reading says it is a large eight-sided drum."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "山川：山和河，这里指整片大地。",
+   "en": "shān chuān: mountains and rivers, meaning the whole land."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在野外搭起大帐篷，摆开丰盛的酒席。",
+   "en": "Out in the open, under big tents, a rich feast is laid out."
+  },
+  {
+   "zh": "边地各族的人都来祝贺，慰劳胜利归来的将士。",
+   "en": "The border peoples come to cheer and reward the soldiers back from victory."
+  },
+  {
+   "zh": "将士们喝醉了，穿着铠甲就跳起舞来。",
+   "en": "Drunk with joy, the soldiers dance in their armor."
+  },
+  {
+   "zh": "鼓声像打雷一样，震动了山山水水。",
+   "en": "The drums roar like thunder and shake the mountains and rivers."
+  }
+ ],
+ "background": {
+  "zh": "卢纶写过一组《塞下曲》，共六首，是和一位张仆射的诗。“和”就是照着别人的诗写一首来回应。仆射是很高的官名。这位张仆射是谁，说法不一，一说是张延赏，一说是张建封。六首诗写边塞军营里的生活：发令、射猎、追敌、庆功等。这是第四首，写打了胜仗以后的庆功宴。",
+  "en": "Lu Lun wrote a set of six \"Frontier Songs\" in reply to poems by a Minister Zhang. To write \"in reply\" means to answer someone's poem with one of your own. \"Minister\" here stands for a very high office. Who this Zhang was is not agreed. One view says Zhang Yanshang, another says Zhang Jianfeng. The six poems show army life on the border: giving orders, hunting, chasing the enemy, and celebrating. This is the fourth. It shows the feast after a victory."
+ },
+ "author_note": {
+  "zh": "卢纶，唐代诗人，“大历十才子”之一。他曾在军中做过幕僚，就是给将军出主意、写文书的人，亲眼见过边塞军营的生活。所以他写的《塞下曲》有声有色，很有气势。",
+  "en": "Lu Lun was a Tang poet, one of the \"Ten Talents of the Dali Era\". He once worked on a general's staff, giving advice and writing documents, so he saw border army life with his own eyes. That is why his Frontier Songs feel so lively and strong."
+ },
+ "appreciation": {
+  "zh": "前三首写打仗，这一首写庆功，气氛一下子热闹起来。第一句是一幅大场面：旷野上帐篷连成一片，酒席摆得满满的。第二句写边地各族的人也来祝贺，说明这一仗打得好，大家都高兴。第三句最传神：将士们连铠甲都来不及脱，喝醉了就跳起舞来，豪爽极了。最后一句用声音收尾，鼓声像雷，好像连山河都跟着震动。读的时候，可以想象自己站在篝火旁，听见咚咚的鼓声，看见满身铠甲的士兵在跳舞。",
+  "en": "The earlier poems in the set are about fighting. This one is about celebrating, and the mood turns loud and happy. The first line paints a wide scene: tents spread across the open land, and tables full of food and wine. The second line shows the border peoples coming to cheer too, so the victory was a great one and everyone is glad. The third line is the most vivid. The soldiers do not even take off their armor. They get drunk and start to dance, bold and carefree. The last line ends with sound. The drums boom like thunder, and the mountains and rivers seem to shake along. As you read, picture yourself by a campfire, hearing the drums and watching soldiers dance in their armor."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "victory",
+   "feast"
+  ]
+ },
+ "uncertain": []
+}

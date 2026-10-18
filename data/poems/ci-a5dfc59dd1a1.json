@@ -1,0 +1,371 @@
+{
+ "id": "ci-a5dfc59dd1a1",
+ "kind": "ci",
+ "title": "浣溪沙·淡荡春光寒食天",
+ "title_en": "Huan Xi Sha: Soft Spring Light on the Cold Food Day",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "荡",
+    "dàng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "食",
+    "shí"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "炉",
+    "lú"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "钿",
+    "diàn"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "斗",
+    "dòu"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "绵",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": {
+  "zh": "底本“沉水”作“沈水”，“沈”是“沉”的古字；底本“江梅”误作“江海”。这里按通行本改正。",
+  "en": "The source text writes chén (to sink) with an old form of the character, and has jiāng hǎi (river and sea) where the common text has jiāng méi (river plum), a copying slip. Both are corrected here to the common text."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "钿",
+   "pinyin": "diàn",
+   "zh": "“花钿”读 huā diàn，指女子头上的花形首饰。",
+   "en": "In huā diàn (a flower-shaped hair ornament) the character is read diàn."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "斗",
+   "pinyin": "dòu",
+   "zh": "“斗草”是一种比赛的游戏，“斗”读 dòu。",
+   "en": "In dòu cǎo (a grass contest game) the character is read dòu, meaning to compete."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "淡荡：柔和、舒缓的样子，形容春光暖暖的、软软的。",
+   "en": "dàn dàng: soft and gentle; spring light that feels mild and easy."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "寒食：寒食节，在清明节前一两天。古时这一天不生火做饭，只吃冷的食物。",
+   "en": "hán shí: the Cold Food Festival, a day or two before Qingming. In old times people lit no fires that day and ate only cold food."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "玉炉：精美的香炉。",
+   "en": "yù lú: a fine incense burner."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "沉水：沉香，一种很名贵的香料，放进水里会沉下去，所以叫沉水。",
+   "en": "chén shuǐ: agarwood, a costly incense. It sinks in water, so it was called sink-in-water."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "袅残烟：剩下的一缕香烟轻轻地往上飘。袅，烟气缭绕上升的样子。",
+   "en": "niǎo cán yān: the last thread of incense smoke curls gently upward. Niǎo describes smoke winding up."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "梦回：从梦里醒来。",
+   "en": "mèng huí: to wake from a dream."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "山枕：中间低、两头高的枕头，样子像山。",
+   "en": "shān zhěn: a pillow high at both ends and low in the middle, shaped like hills."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "隐花钿：头上的花钿藏在枕边。一说是花钿压在枕上。花钿，女子头上的花形首饰。",
+   "en": "yǐn huā diàn: her flower ornament lies hidden by the pillow; another reading says it is pressed into the pillow. A huā diàn is a flower-shaped hair ornament."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "海燕：燕子。古人以为燕子是从海上飞来的。",
+   "en": "hǎi yàn: swallows. People of old thought swallows flew in from over the sea."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "斗草：古时女孩子的游戏，比谁采的花草多、种类奇，或者用草茎互相拉，看谁的先断。",
+   "en": "dòu cǎo: an old game for girls: comparing who picked more and rarer plants, or hooking grass stems together and pulling to see whose broke first."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "江梅：江边的梅花，一种野梅。",
+   "en": "jiāng méi: plum trees by the river, a kind of wild plum."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "柳生绵：柳树长出了柳絮。绵，像棉花一样的柳絮。",
+   "en": "liǔ shēng mián: the willow puts out catkins. Mián means fluff like cotton."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "疏雨：稀稀落落的小雨。",
+   "en": "shū yǔ: a light, scattered rain."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春光柔和暖洋洋，正是寒食节的天气。",
+   "en": "Soft, gentle spring light: it is the Cold Food Festival."
+  },
+  {
+   "zh": "精美的香炉里，沉香快烧完了，只剩一缕轻烟袅袅上升。",
+   "en": "In the fine burner the agarwood is nearly gone, and a last thread of smoke curls up."
+  },
+  {
+   "zh": "我从梦中醒来，头上的花钿还藏在山形的枕头边。",
+   "en": "I wake from a dream, my flower ornament still hidden by the hill-shaped pillow."
+  },
+  {
+   "zh": "燕子还没有飞回来，姑娘们已经在玩斗草的游戏了。",
+   "en": "The swallows have not come back yet, but the girls are already playing the grass game."
+  },
+  {
+   "zh": "江边的梅花已经开过了，柳树长出了白白的柳絮。",
+   "en": "The river plums have finished blooming, and the willows are putting out catkins."
+  },
+  {
+   "zh": "黄昏时下起稀疏的小雨，打湿了院子里的秋千。",
+   "en": "At dusk a light rain falls and wets the swing."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是寒食节的一天，一位少女在闺房里午睡醒来，看到的春日景色。一般认为这是李清照早年的作品，那时她还是少女，或者刚刚出嫁，生活安逸，词里的情绪轻轻的、淡淡的，还没有后来那种深深的悲伤。具体写作年份不详。",
+  "en": "This poem shows a day at the Cold Food Festival. A young woman wakes from a nap in her room and looks at the spring scene outside. It is usually thought to be an early work of Li Qingzhao, from when she was a girl or newly married and life was easy. Its feelings are light and gentle, without the deep sorrow of her later poems. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，济南章丘人，宋代最有名的女词人。她早年生活幸福，词写得活泼清新；后来金兵南下，丈夫去世，她流落江南，词风变得十分悲凉。这首词属于她早期的作品。",
+  "en": "Li Qingzhao (1084–about 1155) came from Zhangqiu near Jinan. She was the most famous woman writer of song lyrics in the Song dynasty. Her early life was happy, and her lyrics then were lively and fresh. Later the Jin army invaded, her husband died, and she drifted in the south, so her style turned very sad. This poem is one of her early works."
+ },
+ "appreciation": {
+  "zh": "这首词像一个慢慢的春日午后。开头是暖暖的春光，香炉里的香快烧完了，一缕轻烟慢慢往上飘，屋里静悄悄的。少女刚从梦中醒来，花钿还落在枕边。下阕她看向外面：燕子还没回来，别的姑娘已经在玩斗草；梅花开过了，柳絮飘起来了。最后一句最美：黄昏时下起小雨，把秋千打湿了。秋千空着，没人荡，只有雨。春天正好，却带着一点说不出的寂寞和慵懒。",
+  "en": "This poem is like a slow spring afternoon. It opens with warm spring light. The incense in the burner is nearly gone, and a thread of smoke drifts up. The room is very quiet. The young woman has just woken from a dream, and her flower ornament is still by the pillow. In the second half she looks outside. The swallows are not back yet, and other girls are already playing the grass game. The plum blossoms are over, and willow catkins are floating. The last line is the loveliest: at dusk a light rain falls and wets the swing. The swing is empty, no one is on it, only the rain. Spring is at its best, yet there is a quiet loneliness and laziness she cannot quite name."
+ },
+ "famous_lines": [
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "hanshi"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "spring",
+   "girlhood",
+   "rain",
+   "swing",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

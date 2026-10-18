@@ -1,0 +1,827 @@
+{
+ "id": "ci-3f0e0534af3a",
+ "kind": "ci",
+ "title": "石州引·薄雨收寒",
+ "title_en": "Shi Zhou Yin: A Light Rain Takes the Cold Away",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《石州引》（又名《石州慢》），双调",
+  "en": "ci to the tune Shi Zhou Yin (also called Shi Zhou Man), in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "黄",
+    "huáng"
+   ]
+  ],
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "漫",
+    "màn"
+   ]
+  ],
+  [
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "鸦",
+    "yā"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "恰",
+    "qià"
+   ],
+   [
+    "而",
+    "ér"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "歌",
+    "gē"
+   ]
+  ],
+  [
+   [
+    "顿",
+    "dùn"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "杳",
+    "yǎo"
+   ],
+   [
+    "杳",
+    "yǎo"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "方",
+    "fāng"
+   ],
+   [
+    "寸",
+    "cùn"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "芭",
+    "bā"
+   ],
+   [
+    "蕉",
+    "jiāo"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "展",
+    "zhǎn"
+   ],
+   [
+    "丁",
+    "dīng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "枉",
+    "wǎng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "厌",
+    "yān"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "这里用通行本。资料库原文和通行本有好几处不同：“收寒”作“初寒”，“才黄”作“缠黄”，“水漫”作“水际”，“消尽”作“销尽”，“出关”作“初关”，“轻别”作“清别”，“新愁”作“清愁”。其中“缠黄”“初关”读不通，应是传抄错误。",
+  "en": "This is the commonly printed text. The source text differs in several places: 'first cold' for 'takes the cold away', a different word for 'just turning yellow', 'water's edge' for 'water spreading', another way of writing xiāo, a different word in 'came out through the pass', qīng (clear) for qīng (light) in the parting line, and 'clear sorrow' for 'new sorrow'. Two of these readings make no sense and are probably copying mistakes."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄雨”是小雨的意思。“薄”在书面词语里读 bó，口语里形容东西不厚时读 báo。",
+   "en": "Bó yǔ means a light rain. In written words like this the character is read bó; in everyday speech, meaning 'thin', it is báo."
+  },
+  {
+   "line": 20,
+   "pos": 1,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "“厌厌”同“恹恹”，是没精神、病恹恹的样子，读 yān yān，不读 yàn。",
+   "en": "Here the doubled character means the same as 'listless, drooping', and is read yān yān, not yàn."
+  },
+  {
+   "line": 20,
+   "pos": 2,
+   "char": "厌",
+   "pinyin": "yān",
+   "zh": "第二个“厌”也读 yān。",
+   "en": "The second one is also read yān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "收寒：把寒气收走了。",
+   "en": "shōu hán: takes the cold away."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "斜照：斜斜照来的阳光，指傍晚的太阳。",
+   "en": "xié zhào: slanting sunlight, the evening sun."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "弄晴：在晴光里摆弄，显出晴朗的样子。",
+   "en": "nòng qíng: playing with the clear light, showing off the fine weather."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "空阔：空旷开阔。",
+   "en": "kōng kuò: open and wide."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "长亭：古时路边供人歇脚、送别的亭子。",
+   "en": "cháng tíng: a roadside pavilion where travellers rested and said goodbye."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "才黄：柳树刚刚发芽，颜色嫩黄。",
+   "en": "cái huáng: the willow buds have only just come out, pale yellow."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "一枝先折：古人送别时折柳枝相赠。远行的人先折下一枝柳。",
+   "en": "yī zhī xiān zhé: people gave willow twigs at partings. The traveller is the first to break one off."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "烟横水漫：雾气横在水面，春水涨满漫开。",
+   "en": "yān héng shuǐ màn: mist lies across the water, and the spring flood spreads wide."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "映带：互相映衬。",
+   "en": "yìng dài: setting each other off."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "归鸦：傍晚飞回巢的乌鸦。",
+   "en": "guī yā: crows flying home at dusk."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "龙沙：塞外的沙漠，泛指北方边塞。",
+   "en": "lóng shā: the deserts beyond the Great Wall, meaning the northern frontier."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "出关：走出关口，指离开去远方。",
+   "en": "chū guān: going out through the pass, setting off for far places."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "而今：如今。",
+   "en": "ér jīn: now."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "将发：将要出发的时候。",
+   "en": "jiāng fā: when I was about to leave."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "画楼：装饰华美的楼。",
+   "en": "huà lóu: a beautifully painted building."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "芳酒：香醇的美酒。",
+   "en": "fāng jiǔ: fragrant, fine wine."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "红泪：女子的眼泪。传说三国时有个女子离家时用玉壶接泪，泪水都染成了红色。",
+   "en": "hóng lèi: red tears, a woman's tears. A legend says a girl leaving home caught her tears in a jade jar, and they turned red."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "清歌：清亮的歌声。",
+   "en": "qīng gē: a clear singing voice."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "顿成：一下子就变成。",
+   "en": "dùn chéng: suddenly became."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "轻别：轻易地分别了。",
+   "en": "qīng bié: parting too easily."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "经年：过了一年又一年，很久了。",
+   "en": "jīng nián: a year or more, a long time."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "杳杳：遥远、看不见的样子。",
+   "en": "yǎo yǎo: far off and out of sight."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "音尘：音信，消息。",
+   "en": "yīn chén: news, letters."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "方寸：心。古人认为心只有一寸见方那么大。",
+   "en": "fāng cùn: the heart. People thought the heart was about an inch square."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "几许：多少。",
+   "en": "jǐ xǔ: how much."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 7,
+   "zh": "芭蕉不展丁香结：芭蕉的新叶卷着不展开，丁香的花苞紧紧结着。比喻愁闷解不开。这句直接借用了唐代李商隐《代赠》里的诗句。",
+   "en": "bā jiāo bù zhǎn dīng xiāng jié: the new banana leaf stays rolled up, and the lilac buds stay tightly knotted, like sorrow that will not loosen. The line is borrowed directly from the Tang poet Li Shangyin."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 1,
+   "zh": "枉：白白地。",
+   "en": "wǎng: in vain."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 3,
+   "zh": "望断：望到看不见为止。",
+   "en": "wàng duàn: gazing until nothing more can be seen."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 3,
+   "zh": "两厌厌：两个人都没精打采。",
+   "en": "liǎng yān yān: both of us listless and drooping."
+  },
+  {
+   "line": 20,
+   "start": 3,
+   "end": 5,
+   "zh": "风月：清风明月，指美好的景色。",
+   "en": "fēng yuè: breeze and moon, meaning lovely scenery."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一阵小雨把寒气收走了，",
+   "en": "A light rain takes the cold away,"
+  },
+  {
+   "zh": "傍晚的斜阳照出晴朗的天色，",
+   "en": "and the slanting evening sun shows off the clear sky."
+  },
+  {
+   "zh": "春意显得空旷开阔。",
+   "en": "Spring feels wide and open."
+  },
+  {
+   "zh": "长亭边的柳树刚刚泛出嫩黄，",
+   "en": "By the farewell pavilion the willows have just turned pale yellow,"
+  },
+  {
+   "zh": "远行的人先折下了一枝。",
+   "en": "and the far traveller is the first to break off a twig."
+  },
+  {
+   "zh": "雾气横在水面，春水漫开，",
+   "en": "Mist lies across the water as the spring flood spreads,"
+  },
+  {
+   "zh": "映衬着几点归巢的乌鸦，",
+   "en": "set off by a few crows flying home,"
+  },
+  {
+   "zh": "东风把边塞沙漠上的雪都吹化了。",
+   "en": "and the east wind has melted all the snow on the frontier sands."
+  },
+  {
+   "zh": "还记得我出关来的时候，",
+   "en": "I still remember when I came out through the pass:"
+  },
+  {
+   "zh": "正是现在这样的时节。",
+   "en": "it was just this time of year."
+  },
+  {
+   "zh": "将要出发时，",
+   "en": "When I was about to leave,"
+  },
+  {
+   "zh": "在画楼里喝着美酒，",
+   "en": "we drank fine wine in the painted house."
+  },
+  {
+   "zh": "她流着泪，唱着清亮的歌，",
+   "en": "She wept and sang in a clear voice,"
+  },
+  {
+   "zh": "一下子就这样轻易分别了。",
+   "en": "and suddenly, too easily, we were parted."
+  },
+  {
+   "zh": "如今已经过了一年多，",
+   "en": "Now more than a year has gone by,"
+  },
+  {
+   "zh": "她远远地没了消息，音信几乎断绝。",
+   "en": "she is far away, and almost no news comes."
+  },
+  {
+   "zh": "想知道我心里，",
+   "en": "If you want to know my heart,"
+  },
+  {
+   "zh": "一共有多少新的愁绪？",
+   "en": "how much new sorrow it holds:"
+  },
+  {
+   "zh": "就像芭蕉叶卷着不展开，丁香花苞紧紧结着。",
+   "en": "it is like the banana leaf that will not unroll, the lilac bud tightly knotted."
+  },
+  {
+   "zh": "我白白地望着天边，直到望不见，",
+   "en": "In vain I gaze to the edge of the sky,"
+  },
+  {
+   "zh": "两个人对着清风明月，都没精打采。",
+   "en": "and we two, under the same breeze and moon, both droop with sadness."
+  }
+ ],
+ "background": {
+  "zh": "这首词写和一位女子分别后的思念。据宋人笔记记载，贺铸曾经和一位女子相爱，分别很久后，她寄来一首诗，里面有“深恩纵似丁香结，难展芭蕉一寸心”的句子，贺铸就写了这首词回应。这只是一种说法。上阕写早春的景色，想起去年此时出发；下阕回忆离别的酒宴，诉说一年来音信断绝的愁苦。",
+  "en": "This ci is about missing a woman after parting from her. According to a Song dynasty notebook, He Zhu once loved a woman, and long after they parted she sent him a poem. In it she compared her love to a knotted lilac bud and a banana leaf that cannot unroll. He wrote this ci in reply. That is only one account. The first stanza paints early spring and recalls setting out at this time a year ago. The second remembers the farewell feast and tells of a year of sorrow with almost no news."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，号庆湖遗老，北宋词人。他长得很丑，性格却豪爽，人称“贺鬼头”。他的词既有豪放的，也有柔婉的。他写过“梅子黄时雨”的名句，所以又被叫作“贺梅子”。他很会借用和改写前人的诗句，这首词里就用了李商隐的诗。",
+  "en": "He Zhu (1052–1125) was a Northern Song ci poet. He was said to be very ugly but bold and open-hearted, and was nicknamed He the Ghost-Head. His ci can be bold or tender. A famous line of his about rain when the plums turn yellow earned him the name He Plum. He was good at borrowing and reshaping older poets' lines, as he does with Li Shangyin here."
+ },
+ "appreciation": {
+  "zh": "上阕像一幅早春傍晚的画：小雨刚停，斜阳照着，柳树才发出嫩黄，水上烟雾，几只乌鸦飞回巢。可这幅画在作者眼里是“离别图”：长亭、折柳，都是送别的东西。他忽然想起，去年出发正是这个时候。下阕回到离别那一刻：美酒、眼泪、歌声，一下子就分开了。一年过去，音信全无。最妙的是“芭蕉不展丁香结”：把看不见的愁，变成看得见的植物——卷着的芭蕉叶，打着结的丁香花苞。最后一句“两厌厌风月”，说的是两个人隔着天涯，对着同样的风月，一样没精神。",
+  "en": "The first stanza is like a picture of an early spring evening. The rain has just stopped, the sun slants low, the willows are pale yellow, mist lies on the water, and a few crows fly home. But to the poet it is a picture of parting. The pavilion and the broken willow twig are both things of farewell. He suddenly remembers that he set out at exactly this time last year. The second stanza goes back to that moment: wine, tears, a song, and then they were apart. A year has passed with no news. The finest line turns invisible sorrow into plants you can see: a banana leaf that will not unroll, a lilac bud tied in a knot. The last line says the two of them, at opposite ends of the sky, face the same breeze and moon and droop with the same sadness."
+ },
+ "famous_lines": [
+  16,
+  17,
+  18
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "longing",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

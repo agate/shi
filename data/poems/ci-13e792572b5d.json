@@ -1,0 +1,435 @@
+{
+ "id": "ci-13e792572b5d",
+ "kind": "ci",
+ "title": "思远人·红叶黄花秋意晚",
+ "title_en": "Thinking of the One Far Away: Red Leaves, Yellow Flowers, Late Autumn",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "尽",
+    "jǐn"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "得",
+    "dé"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "滴",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "就",
+    "jiù"
+   ],
+   [
+    "砚",
+    "yàn"
+   ],
+   [
+    "旋",
+    "xuán"
+   ],
+   [
+    "研",
+    "yán"
+   ],
+   [
+    "墨",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "写",
+    "xiě"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "弹",
+   "pinyin": "tán",
+   "zh": "这里是“弹落、洒下”的意思，读 tán，不读 dàn。",
+   "en": "Here it means to flick away or shed, so it is read tán, not dàn."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "旋",
+   "pinyin": "xuán",
+   "zh": "这里是“随即、马上”的意思，一般读 xuán。也有人读 xuàn。",
+   "en": "Here it means \"right away\", usually read xuán. Some people read it xuàn."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "这里按“变成”的意思读 wéi。一说是“因此、为了这个”，读 wèi。",
+   "en": "Read wéi here, meaning \"to become\". Another view takes it as \"because of this\", read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "黄花：菊花。",
+   "en": "huáng huā: chrysanthemums."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "秋意晚：秋天已经深了。",
+   "en": "qiū yì wǎn: autumn is already late."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "行客：出远门的人，这里指她思念的人。",
+   "en": "xíng kè: a traveller far from home, here the one she misses."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "归鸿：飞回来的大雁。古人说大雁能帮人传信。",
+   "en": "guī hóng: wild geese flying back. People in old times said geese could carry letters."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "无信：没有带来消息。",
+   "en": "wú xìn: bringing no news."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "寄书得：能把信寄出去。得，能够。",
+   "en": "jì shū dé: to be able to send a letter. Dé here means can."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "泪弹不尽：眼泪擦也擦不完，弹也弹不完。",
+   "en": "lèi tán bù jìn: tears that can never all be wiped or flicked away."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "临窗滴：靠着窗子往下滴。",
+   "en": "lín chuāng dī: dripping down by the window."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "就砚：用砚台接着眼泪。就，凑近、靠近。砚，磨墨用的石台。",
+   "en": "jiù yàn: catching the tears with the inkstone. Jiù means to bring close; yàn is the stone used to grind ink."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "旋研墨：马上就用泪水磨墨。旋，随即。研，磨。",
+   "en": "xuán yán mò: grinding ink with the tears right away. Xuán means at once; yán means to grind."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "别来：分别以后。",
+   "en": "bié lái: since we parted."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "红笺：写信用的红色信纸。",
+   "en": "hóng jiān: red letter paper."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "为无色：变得没有颜色了。眼泪把红纸打湿，颜色也褪了。",
+   "en": "wéi wú sè: losing its colour. The tears soak the red paper until its colour fades."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "红叶黄花，秋天已经深了，",
+   "en": "Red leaves, yellow flowers: autumn is growing late,"
+  },
+  {
+   "zh": "我想念着远在千里之外的游子。",
+   "en": "and I think of the traveller a thousand miles away."
+  },
+  {
+   "zh": "天上的云都飞过去了，",
+   "en": "The flying clouds have all drifted past,"
+  },
+  {
+   "zh": "飞回来的大雁也没带来他的消息，",
+   "en": "and the returning geese bring no news of him."
+  },
+  {
+   "zh": "我的信又能寄到哪里去呢？",
+   "en": "Where can I send a letter?"
+  },
+  {
+   "zh": "眼泪弹也弹不完，靠着窗子往下滴，",
+   "en": "Tears I cannot stop drip down by the window."
+  },
+  {
+   "zh": "我拿砚台接住眼泪，随即用它来磨墨。",
+   "en": "I catch them in my inkstone and grind ink with them at once."
+  },
+  {
+   "zh": "渐渐写到分别以后，",
+   "en": "Slowly I write about the time since we parted,"
+  },
+  {
+   "zh": "写到感情最深的地方，",
+   "en": "and when I reach the deepest of my feelings,"
+  },
+  {
+   "zh": "红色的信纸都被泪水湿得褪了颜色。",
+   "en": "the red letter paper has lost its colour in my tears."
+  }
+ ],
+ "background": {
+  "zh": "这首词借一位女子的口吻，写深秋时她思念远方的人。红叶黄花，秋意已浓，她想写信，却不知道寄到哪里，只能流着泪写。一般认为“思远人”这个词牌是晏几道自己创制的，名字就来自词里“千里念行客”的意思。具体写于哪一年，没有记载。",
+  "en": "This lyric speaks in the voice of a woman who misses someone far away in late autumn. Red leaves and yellow flowers show that autumn is deep. She wants to write to him but does not know where to send it, so she can only write with tears. Most people think Yan Jidao made up this tune himself, and that its name, \"Thinking of the One Far Away\", comes from the poem's own words about missing the traveller. The year it was written is not recorded."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，抚州临川（今江西抚州）人，是宰相、词人晏殊的小儿子。他出身富贵，后来家道中落，一生只做过小官。他的词集叫《小山词》，多写相思和离别，感情真，写得细，常有让人心酸的小细节。",
+  "en": "Yan Jidao (about 1038 to about 1110), also called Shuyuan and Xiaoshan, came from Linchuan in today's Fuzhou, Jiangxi. He was the youngest son of the chief minister and poet Yan Shu. Born into wealth, he saw his family decline and held only small posts all his life. His collection is called \"Lyrics of Xiaoshan\". It is mostly about longing and parting, full of true feeling and small, heartbreaking details."
+ },
+ "appreciation": {
+  "zh": "这首词很短，却有一个让人忘不掉的画面：一个人边哭边写信。上阕写秋天的思念：红叶黄花，秋深了；云飞走了，大雁回来了，却没有他的消息，信也不知道往哪里寄。下阕最动人：眼泪止不住地落在窗前，她干脆拿砚台接住眼泪，用泪水来磨墨。越写越伤心，写到最深情的地方，眼泪把红色的信纸都泡得褪了色。古人用“红笺为无色”说泪多，说情深，没有一个“愁”字，却比说一百遍“我想你”还感人。",
+  "en": "This lyric is short, but it holds a picture no one forgets: someone crying while writing a letter. The first stanza is about missing him in autumn. Red leaves and yellow flowers show autumn is deep. The clouds have flown off and the geese have come back, yet there is no news of him, and she does not know where to send a letter. The second stanza is the most moving. Her tears will not stop falling by the window, so she catches them in her inkstone and grinds her ink with them. The more she writes, the sadder she gets. When she reaches her deepest feelings, the tears soak the red paper until its colour fades. The poet never uses the word \"sorrow\", yet the faded red paper says more than saying \"I miss you\" a hundred times."
+ },
+ "famous_lines": [
+  5,
+  6,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "letter",
+   "love",
+   "autumn"
+  ]
+ },
+ "uncertain": []
+}

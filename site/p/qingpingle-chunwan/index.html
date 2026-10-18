@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>清平乐·春晚 · 王安国 — 诗</title>
+    <meta name="description" content="清平乐·春晚 · 王安国 — Qing Ping Yue: Late Spring by Wang Anguo: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>清平乐·春晚</h1>
+        <p class="by">王安国<span class="mono"><span lang="en">Wang Anguo · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Qing Ping Yue: Late Spring</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>liú</i><b>留</b></span><span class="c gl" data-l="0" data-p="1"><i>chūn</i><b>春</b></span><span class="c gl" data-l="0" data-p="2"><i>bú</i><b>不</b></span><span class="c gl" data-l="0" data-p="3"><i>zhù</i><b>住</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>fèi</i><b>费</b></span><span class="c gl" data-l="1" data-p="1"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="1" data-p="2"><i>yīng</i><b>莺</b></span><span class="c gl" data-l="1" data-p="3"><i>ér</i><b>儿</b></span><span class="c gl" data-l="1" data-p="4"><i>yǔ</i><b>语</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>mǎn</i><b>满</b></span><span class="c" data-l="2" data-p="1"><i>dì</i><b>地</b></span><span class="c gl" data-l="2" data-p="2"><i>cán</i><b>残</b></span><span class="c gl" data-l="2" data-p="3"><i>hóng</i><b>红</b></span><span class="c gl" data-l="2" data-p="4"><i>gōng</i><b>宫</b></span><span class="c gl" data-l="2" data-p="5"><i>jǐn</i><b>锦</b></span><span class="c gl" data-l="2" data-p="6"><i>wū</i><b>污</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>zuó</i><b>昨</b></span><span class="c" data-l="3" data-p="1"><i>yè</i><b>夜</b></span><span class="c gl" data-l="3" data-p="2"><i>nán</i><b>南</b></span><span class="c gl" data-l="3" data-p="3"><i>yuán</i><b>园</b></span><span class="c" data-l="3" data-p="4"><i>fēng</i><b>风</b></span><span class="c" data-l="3" data-p="5"><i>yǔ</i><b>雨</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>xiǎo</i><b>小</b></span><span class="c gl" data-l="4" data-p="1"><i>lián</i><b>怜</b></span><span class="c gl" data-l="4" data-p="2"><i>chū</i><b>初</b></span><span class="c gl" data-l="4" data-p="3"><i>shàng</i><b>上</b></span><span class="c gl" data-l="4" data-p="4"><i>pí</i><b>琵</b></span><span class="c gl" data-l="4" data-p="5"><i>pá</i><b>琶</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>xiǎo</i><b>晓</b></span><span class="c gl" data-l="5" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="5" data-p="2"><i>sī</i><b>思</b></span><span class="c gl" data-l="5" data-p="3"><i>rào</i><b>绕</b></span><span class="c gl" data-l="5" data-p="4"><i>tiān</i><b>天</b></span><span class="c gl" data-l="5" data-p="5"><i>yá</i><b>涯</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>bù</i><b>不</b></span><span class="c" data-l="6" data-p="1"><i>kěn</i><b>肯</b></span><span class="c gl" data-l="6" data-p="2"><i>huà</i><b>画</b></span><span class="c gl" data-l="6" data-p="3"><i>táng</i><b>堂</b></span><span class="c gl" data-l="6" data-p="4"><i>zhū</i><b>朱</b></span><span class="c gl" data-l="6" data-p="5"><i>hù</i><b>户</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="7" data-p="1"><i>fēng</i><b>风</b></span><span class="c gl" data-l="7" data-p="2"><i>zì</i><b>自</b></span><span class="c gl" data-l="7" data-p="3"><i>zài</i><b>在</b></span><span class="c gl" data-l="7" data-p="4"><i>yáng</i><b>杨</b></span><span class="c gl" data-l="7" data-p="5"><i>huā</i><b>花</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus gives only the tune name, and its last line ends with &quot;pear blossom&quot;. Common editions, such as Three Hundred Song Ci, add the title &quot;Late Spring&quot; and end the last line with &quot;willow catkins&quot;.</p><p lang="zh">语料只题词牌“清平乐”，最后一句作“春风自在梨花”。通行本（如《宋词三百首》）题作“清平乐·春晚”，末句作“春风自在杨花”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">留春不住</span><span lang="en">Spring cannot be made to stay,</span><span lang="zh">春天留也留不住，</span></li><li><span class="o">费尽莺儿语</span><span lang="en">though the orioles have used up all their song begging it.</span><span lang="zh">黄莺费尽了口舌，也没能挽留它。</span></li><li><span class="o">满地残红宫锦污</span><span lang="en">Fallen petals cover the ground like soiled palace brocade,</span><span lang="zh">满地都是落花，像华美的锦缎被弄脏了，</span></li><li><span class="o">昨夜南园风雨</span><span lang="en">left by last night&#x27;s wind and rain in the south garden.</span><span lang="zh">那是昨夜南园里的一场风雨。</span></li><li class="brk"><span class="o">小怜初上琵琶</span><span lang="en">The singing girl has just begun to play her pipa;</span><span lang="zh">歌女刚刚弹起琵琶，</span></li><li><span class="o">晓来思绕天涯</span><span lang="en">by daybreak her thoughts have drifted to the ends of the earth.</span><span lang="zh">天亮时，思绪已经飘到了天边。</span></li><li><span class="o">不肯画堂朱户</span><span lang="en">The willow catkins will not drift into painted halls behind red doors;</span><span lang="zh">杨花不肯飞进富贵人家的画堂红门，</span></li><li><span class="o">春风自在杨花</span><span lang="en">they float free and easy on the spring wind.</span><span lang="zh">只在春风里自由自在地飘荡。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>留春不住<span class="mono">liú chūn bú zhù</span></dt><dd><span lang="en">liú chūn bú zhù: trying to make spring stay, but it will not.</span><span lang="zh">留春不住：想把春天留下，却留不住。</span></dd></div><div><dt>费尽莺儿语<span class="mono">fèi jìn yīng ér yǔ</span></dt><dd><span lang="en">fèi jìn yīng ér yǔ: the orioles sing on and on, as if they have used up all their words begging spring to stay.</span><span lang="zh">费尽莺儿语：黄莺叫个不停，好像费尽了口舌在挽留春天。</span></dd></div><div><dt>残红<span class="mono">cán hóng</span></dt><dd><span lang="en">cán hóng: fallen petals, literally &quot;leftover red&quot;.</span><span lang="zh">残红：落下来的花瓣。</span></dd></div><div><dt>宫锦污<span class="mono">gōng jǐn wū</span></dt><dd><span lang="en">gōng jǐn wū: like fine palace brocade that has been soiled. Gōng jǐn was the best silk brocade, woven for the palace.</span><span lang="zh">宫锦污：像宫里织的华美锦缎被弄脏了。宫锦，皇宫里用的上等锦缎。</span></dd></div><div><dt>南园<span class="mono">nán yuán</span></dt><dd><span lang="en">nán yuán: the garden to the south.</span><span lang="zh">南园：南边的园子。</span></dd></div><div><dt>小怜<span class="mono">xiǎo lián</span></dt><dd><span lang="en">xiǎo lián: the name of a consort of the old Northern Qi court who played the pipa. Here it stands for a singing girl who plays the pipa.</span><span lang="zh">小怜：本来是古代北齐一位会弹琵琶的妃子的名字，这里借指弹琵琶的歌女。</span></dd></div><div><dt>初上琵琶<span class="mono">chū shàng pí pá</span></dt><dd><span lang="en">chū shàng pí pá: just beginning to play the pipa, a plucked lute.</span><span lang="zh">初上琵琶：刚刚弹起琵琶。</span></dd></div><div><dt>晓来<span class="mono">xiǎo lái</span></dt><dd><span lang="en">xiǎo lái: at daybreak.</span><span lang="zh">晓来：天亮的时候。</span></dd></div><div><dt>思绕天涯<span class="mono">sī rào tiān yá</span></dt><dd><span lang="en">sī rào tiān yá: thoughts drifting to the edge of the sky. Tiān yá means the end of the world, somewhere very far.</span><span lang="zh">思绕天涯：思绪飘到了天边。天涯，天的尽头，很远的地方。</span></dd></div><div><dt>画堂朱户<span class="mono">huà táng zhū hù</span></dt><dd><span lang="en">huà táng zhū hù: painted halls and red-lacquered doors, that is, the homes of the rich and powerful.</span><span lang="zh">画堂朱户：画着彩画的厅堂，涂着红漆的大门，指富贵人家。</span></dd></div><div><dt>自在<span class="mono">zì zài</span></dt><dd><span lang="en">zì zài: free and easy.</span><span lang="zh">自在：自由自在。</span></dd></div><div><dt>杨花<span class="mono">yáng huā</span></dt><dd><span lang="en">yáng huā: willow catkins, the fluffy white seeds that drift everywhere on the wind in late spring.</span><span lang="zh">杨花：柳絮，柳树的种子带着白色的绒毛，春末随风到处飘。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This ci shows the scene and mood at the very end of spring. After a night of wind and rain, the garden is covered in fallen flowers, and spring cannot be held back. At the end, the willow catkins refuse to enter the homes of the rich and float freely on the wind. This is usually read as showing the poet&#x27;s own refusal to seek favor from the powerful. The year it was written is not known.</p><p lang="zh">这首词写春天快要结束时的景色和心情。一夜风雨，园中花落满地，春天留不住了。词的最后借杨花不进富贵人家、只在春风里自由飘荡，一般认为寄托了词人不愿攀附权贵的性格。这首词写于哪一年，已经说不清了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Anguo (1028–1074) was a Northern Song scholar and the younger brother of the statesman Wang Anshi. He was gifted and upright. When his brother pushed through his great reforms, Wang Anguo did not fully agree and even told him so to his face. Only a few of his ci survive, and this one is the most famous.</p><p lang="zh">王安国（1028—1074），字平甫，北宋人，是王安石的弟弟。他很有才学，性格正直。哥哥王安石推行变法时，他并不完全赞同，还曾当面提出意见。他留下的词不多，这首《清平乐》是最有名的一首。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half shows spring leaving. It opens helplessly: spring will not stay, and even the orioles singing so long cannot keep it. Then look at the ground: after a night of wind and rain, fallen flowers cover the garden like lovely brocade that has been soiled, beautiful and sad at once. The second half turns to people. A singing girl plays her pipa, and by daybreak her thoughts have wandered far away, with a spring sadness she cannot speak. The last two lines are the most famous. The willow catkins will not fly into the painted halls of the rich; they would rather drift freely on the spring wind. Catkins have no will of their own, yet the poet says they &quot;will not&quot;, as if they had backbone. He is really talking about himself: better to be free than to flatter others.</p><p lang="zh">上片写春天走了。开头就很无奈：春天留不住，连黄莺叫了那么久也没用。接着看地上：一夜风雨，落花铺满了园子，像漂亮的锦缎被弄脏了，又美又可惜。下片写人。歌女弹起琵琶，到天亮时，心思已经飘到很远的地方，春愁无处可说。最后两句最有名：杨花不肯飞进那些画堂红门的富贵人家，宁愿在春风里自由自在地飘。杨花本来是没有主意的东西，词人却说它“不肯”，好像它也有骨气。这其实是词人在说自己：宁可自在，也不去讨好别人。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/jinlvge-peilvzhaixianshengcanglangkanmei/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>金缕歌·陪履斋先生沧浪看梅</b></a><a href="../../p/yujingqiu-yanshuikuo/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>玉京秋·烟水阔</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["留", "liú"], ["春", "chūn"], ["不", "bú"], ["住", "zhù"]], [["费", "fèi"], ["尽", "jìn"], ["莺", "yīng"], ["儿", "ér"], ["语", "yǔ"]], [["满", "mǎn"], ["地", "dì"], ["残", "cán"], ["红", "hóng"], ["宫", "gōng"], ["锦", "jǐn"], ["污", "wū"]], [["昨", "zuó"], ["夜", "yè"], ["南", "nán"], ["园", "yuán"], ["风", "fēng"], ["雨", "yǔ"]], [["小", "xiǎo"], ["怜", "lián"], ["初", "chū"], ["上", "shàng"], ["琵", "pí"], ["琶", "pá"]], [["晓", "xiǎo"], ["来", "lái"], ["思", "sī"], ["绕", "rào"], ["天", "tiān"], ["涯", "yá"]], [["不", "bù"], ["肯", "kěn"], ["画", "huà"], ["堂", "táng"], ["朱", "zhū"], ["户", "hù"]], [["春", "chūn"], ["风", "fēng"], ["自", "zì"], ["在", "zài"], ["杨", "yáng"], ["花", "huā"]]], "glosses": [{"line": 0, "start": 0, "end": 4, "zh": "留春不住：想把春天留下，却留不住。", "en": "liú chūn bú zhù: trying to make spring stay, but it will not."}, {"line": 1, "start": 0, "end": 5, "zh": "费尽莺儿语：黄莺叫个不停，好像费尽了口舌在挽留春天。", "en": "fèi jìn yīng ér yǔ: the orioles sing on and on, as if they have used up all their words begging spring to stay."}, {"line": 2, "start": 2, "end": 4, "zh": "残红：落下来的花瓣。", "en": "cán hóng: fallen petals, literally \"leftover red\"."}, {"line": 2, "start": 4, "end": 7, "zh": "宫锦污：像宫里织的华美锦缎被弄脏了。宫锦，皇宫里用的上等锦缎。", "en": "gōng jǐn wū: like fine palace brocade that has been soiled. Gōng jǐn was the best silk brocade, woven for the palace."}, {"line": 3, "start": 2, "end": 4, "zh": "南园：南边的园子。", "en": "nán yuán: the garden to the south."}, {"line": 4, "start": 0, "end": 2, "zh": "小怜：本来是古代北齐一位会弹琵琶的妃子的名字，这里借指弹琵琶的歌女。", "en": "xiǎo lián: the name of a consort of the old Northern Qi court who played the pipa. Here it stands for a singing girl who plays the pipa."}, {"line": 4, "start": 2, "end": 6, "zh": "初上琵琶：刚刚弹起琵琶。", "en": "chū shàng pí pá: just beginning to play the pipa, a plucked lute."}, {"line": 5, "start": 0, "end": 2, "zh": "晓来：天亮的时候。", "en": "xiǎo lái: at daybreak."}, {"line": 5, "start": 2, "end": 6, "zh": "思绕天涯：思绪飘到了天边。天涯，天的尽头，很远的地方。", "en": "sī rào tiān yá: thoughts drifting to the edge of the sky. Tiān yá means the end of the world, somewhere very far."}, {"line": 6, "start": 2, "end": 6, "zh": "画堂朱户：画着彩画的厅堂，涂着红漆的大门，指富贵人家。", "en": "huà táng zhū hù: painted halls and red-lacquered doors, that is, the homes of the rich and powerful."}, {"line": 7, "start": 2, "end": 4, "zh": "自在：自由自在。", "en": "zì zài: free and easy."}, {"line": 7, "start": 4, "end": 6, "zh": "杨花：柳絮，柳树的种子带着白色的绒毛，春末随风到处飘。", "en": "yáng huā: willow catkins, the fluffy white seeds that drift everywhere on the wind in late spring."}], "readings": [], "speak": ["留春不住", "费晋莺儿语", "满地残红宫锦污", "昨夜南园风雨", "小怜初上琵琶", "晓来思绕天涯", "不肯画堂朱户", "春风自在杨花"], "speakTitle": "清平乐，春晚。王安国。", "sample": "留春不住"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

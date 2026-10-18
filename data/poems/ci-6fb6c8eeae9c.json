@@ -1,0 +1,817 @@
+{
+ "id": "ci-6fb6c8eeae9c",
+ "kind": "ci",
+ "title": "瑞鹤仙·晴丝牵绪乱",
+ "title_en": "To the Tune Rui He Xian: Floating Threads Tangle My Thoughts",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "牵",
+    "qiān"
+   ],
+   [
+    "绪",
+    "xù"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "蕙",
+    "huì"
+   ],
+   [
+    "盼",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "惹",
+    "rě"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "根",
+    "gēn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "畔",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ],
+   [
+    "萦",
+    "yíng"
+   ],
+   [
+    "销",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "衫",
+    "shān"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "翦",
+    "jiǎn"
+   ]
+  ],
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "浪",
+    "làng"
+   ]
+  ],
+  [
+   [
+    "缺",
+    "quē"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "扇",
+    "shàn"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "拚",
+    "pàn"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "钿",
+    "diàn"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "挑",
+    "tiǎo"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "写",
+    "xiě"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "忍",
+    "rěn"
+   ]
+  ],
+  [
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "幅",
+    "fú"
+   ],
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "剩",
+    "shèng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "莱",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "语料库“拚分钿”作“拌分钿”，“拌”在这里是“拚”的借用写法，意思是舍得，这里写作“拚”。其余文字照语料库。",
+  "en": "The corpus writes the word for \"willing to give up\" in the line about splitting the hair ornament with a borrowed character. Here it is written with the usual character for that meaning, read pàn. The rest follows the corpus."
+ },
+ "readings": [
+  {
+   "line": 8,
+   "pos": 1,
+   "char": "争",
+   "pinyin": "zhēng",
+   "zh": "争，这里同“怎”，意思是“怎么”，读 zhēng。",
+   "en": "Here it stands for \"how\" and is read zhēng."
+  },
+  {
+   "line": 9,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "这里是“再一次”的意思，读 chóng。",
+   "en": "Here it means \"again\", so it is read chóng."
+  },
+  {
+   "line": 16,
+   "pos": 0,
+   "char": "拚",
+   "pinyin": "pàn",
+   "zh": "拚，这里是“舍得、豁出去”的意思，读 pàn，不读 pīn。",
+   "en": "Here it means \"to be willing to give up\", so it is read pàn, not pīn."
+  },
+  {
+   "line": 16,
+   "pos": 2,
+   "char": "钿",
+   "pinyin": "diàn",
+   "zh": "钿，这里指首饰，读 diàn，不读 tián。",
+   "en": "Here it means a hair ornament, so it is read diàn, not tián."
+  },
+  {
+   "line": 18,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "这里是“仍然”的意思，读 hái。也有人读古音 huán。",
+   "en": "Here it means \"still\", read hái. Some people use the older reading huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "晴丝：晴天里飘在空中的细丝，是虫子吐出来的游丝。",
+   "en": "qíng sī: fine threads floating in the air on sunny days, spun by tiny insects."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "牵绪乱：牵动心思，让人心里乱糟糟的。绪，心绪、心思。",
+   "en": "qiān xù luàn: tugging at the mind and tangling one's thoughts. Xù means thoughts and feelings."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "沧江：江水青绿，所以叫沧江。",
+   "en": "cāng jiāng: a blue-green river."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "暗：使……变暗。杨柳茂密，把园子遮得暗暗的。",
+   "en": "àn: to darken. The thick willows shade the garden."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "吴苑：春秋时吴国的宫苑，在今天的苏州。这里指苏州的园林。",
+   "en": "wú yuàn: the royal gardens of the old state of Wu, in today's Suzhou. Here it means the gardens of Suzhou."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "旗亭：挂着酒旗的楼，就是酒楼。",
+   "en": "qí tíng: a building with a wine flag outside, that is, a tavern."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "河桥：河上的桥，古人常在这里送别。",
+   "en": "hé qiáo: a bridge over a river, where people in old times often said goodbye."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "兰情蕙盼：像兰花一样的情意，像蕙草一样的眼神。兰、蕙都是香草，用来比喻她的温柔美好。盼，看、眼神。",
+   "en": "lán qíng huì pàn: feelings like orchids, glances like huì grass. Both are sweet-smelling plants, used to praise her gentle beauty. Pàn means a look."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "春根：春天的尽头，暮春。",
+   "en": "chūn gēn: the root of spring, meaning the very end of spring."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "酒畔：酒杯旁边，喝酒的时候。",
+   "en": "jiǔ pàn: beside the wine cup, while drinking."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "争知：怎么知道。",
+   "en": "zhēng zhī: how could anyone know."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "吟骨：作诗人的身子骨，指诗人自己。",
+   "en": "yín gǔ: the bones of a poet, meaning the poet himself."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "萦销：被愁缠绕，一天天消瘦。",
+   "en": "yíng xiāo: wrapped in sorrow and growing thinner day by day."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "重翦：重新剪裁。人瘦了，旧衣服太宽，要改小。翦，同“剪”。",
+   "en": "chóng jiǎn: cutting again. He has grown thin, so his old robe is too big and must be made smaller."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "凄断：伤心到了极点。",
+   "en": "qī duàn: sad beyond words."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "流红：随水漂流的落花。",
+   "en": "liú hóng: fallen red petals carried by the water."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "留燕：留住燕子。燕子飞走了，借指她离开了。",
+   "en": "liú yàn: keeping the swallow. The swallow has flown, which stands for her leaving."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "歌尘凝扇：她唱歌时拿的扇子上积满了灰尘。说她走了，再没人唱歌。",
+   "en": "gē chén níng shàn: dust has settled on the fan she held while singing. She is gone, and no one sings now."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "凭信：拿来作证明的信物。",
+   "en": "píng xìn: a token given as proof of love."
+  },
+  {
+   "line": 16,
+   "start": 1,
+   "end": 3,
+   "zh": "分钿：把金首饰分成两半，各拿一半作纪念。白居易《长恨歌》里有“钗擘黄金合分钿”。",
+   "en": "fēn diàn: splitting a gold hair ornament in two, each keeping half. The idea comes from Bai Juyi's \"Song of Everlasting Sorrow\"."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "挑灯：把灯芯挑亮。",
+   "en": "tiǎo dēng: lifting the lamp wick to make the light brighter."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "还依：仍然、还是。",
+   "en": "hái yī: still, even so."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "笺幅：写信用的纸。",
+   "en": "jiān fú: a sheet of letter paper."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 6,
+   "zh": "偷和泪卷：偷偷地连着眼泪一起卷起来。和，连同。",
+   "en": "tōu hé lèi juǎn: secretly rolling it up together with the tears. Hé means together with."
+  },
+  {
+   "line": 20,
+   "start": 1,
+   "end": 5,
+   "zh": "残云剩雨：剩下的一点云、一点雨，借指残留的情意。",
+   "en": "cán yún shèng yǔ: the last bits of cloud and rain, standing for the love that is left."
+  },
+  {
+   "line": 20,
+   "start": 5,
+   "end": 7,
+   "zh": "蓬莱：传说海上的仙山。这里借指她现在住的、遥远得够不着的地方。",
+   "en": "péng lái: Penglai, a fairy mountain in the sea in old legends. Here it means the far, unreachable place where she now is."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "晴天里飘着的游丝，把我的心思牵得乱乱的。",
+   "en": "Threads floating in the sunny air tangle my thoughts."
+  },
+  {
+   "zh": "面对青绿的江水和西斜的太阳，",
+   "en": "Facing the blue-green river and the setting sun,"
+  },
+  {
+   "zh": "花瓣纷飞，她已经走远。",
+   "en": "petals fly, and she is far away."
+  },
+  {
+   "zh": "垂柳把苏州的园子遮得暗暗的。",
+   "en": "Drooping willows shade the gardens of Suzhou."
+  },
+  {
+   "zh": "酒楼上的烟冷冷清清，",
+   "en": "The smoke over the tavern is cold,"
+  },
+  {
+   "zh": "送别的河桥上吹着暖风。",
+   "en": "and a warm wind blows on the bridge where we parted."
+  },
+  {
+   "zh": "想起她兰花一样的情意，蕙草一样的眼神，",
+   "en": "I think of her love, sweet as orchids, and her glances, soft as huì grass,"
+  },
+  {
+   "zh": "在暮春时节、在酒杯旁，总惹起我的相思。",
+   "en": "and at spring's end, beside my wine, they stir up my longing."
+  },
+  {
+   "zh": "又有谁知道，我这作诗的人被愁缠住，一天天消瘦，",
+   "en": "Who knows that I, the poet, wrapped in sorrow, grow thinner day by day,"
+  },
+  {
+   "zh": "渐渐要把旧衣衫重新剪小。",
+   "en": "until I must cut my old robe smaller again?"
+  },
+  {
+   "zh": "伤心到了极点。",
+   "en": "My heart is broken."
+  },
+  {
+   "zh": "落花随着千层波浪漂走，",
+   "en": "Fallen petals drift on a thousand waves,"
+  },
+  {
+   "zh": "残缺的月亮照着孤零零的楼，",
+   "en": "a broken moon shines on a lonely tower,"
+  },
+  {
+   "zh": "燕子总是留不住。",
+   "en": "and the swallow can never be kept."
+  },
+  {
+   "zh": "她唱歌时拿的扇子上积满了灰尘。",
+   "en": "Dust has settled on the fan she held to sing."
+  },
+  {
+   "zh": "我想找一件信物，",
+   "en": "I want to send her a token,"
+  },
+  {
+   "zh": "舍得把金首饰分成两半送给她。",
+   "en": "and I would gladly split a gold hair ornament in two."
+  },
+  {
+   "zh": "我试着挑亮灯想写信，",
+   "en": "I lift the lamp wick and try to write,"
+  },
+  {
+   "zh": "却还是不忍心下笔，",
+   "en": "but still I cannot bear to,"
+  },
+  {
+   "zh": "只好偷偷把信纸和眼泪一起卷起来。",
+   "en": "so I secretly roll up the paper, tears and all."
+  },
+  {
+   "zh": "把这一点残存的情意寄到她遥远的仙山，",
+   "en": "I send the last of my love, like leftover cloud and rain, to her far fairy isle,"
+  },
+  {
+   "zh": "她也应该会在梦里见到我吧。",
+   "en": "and surely she will see me in her dreams."
+  }
+ ],
+ "background": {
+  "zh": "吴文英年轻时在苏州住过十来年。一般认为他在苏州有一位相爱的女子，后来她离开了他，他写了很多词怀念她。这首词写暮春时节，在苏州的园林、酒楼和河桥边，想起分别的人，写下满心的相思。具体写在哪一年，已经说不清楚。词里的人和事，也有不同的理解。",
+  "en": "As a young man, Wu Wenying lived in Suzhou for about ten years. Most people think he loved a woman there who later left him, and he wrote many lyrics remembering her. This one is set at the end of spring. Among the gardens, taverns and river bridges of Suzhou, he thinks of the one who left and pours out his longing. The exact year is unknown, and people read the story behind it in different ways."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，四明（今浙江宁波）人。他一生没有做官，靠给官员当幕僚过日子，幕僚就是在官员手下帮忙办事的人。他的词用字华丽，画面跳来跳去，像一块块拼起来的锦缎，很美，但不太好懂。",
+  "en": "Wu Wenying (about 1200 to about 1260), also called Mengchuang, came from Siming, today's Ningbo in Zhejiang. He never held an official post. He lived by working as an assistant to officials. His lyrics use rich, colourful words, and their pictures jump from one to the next like pieces of brocade sewn together. They are beautiful but not easy to follow."
+ },
+ "appreciation": {
+  "zh": "这首词的画面一个接一个跳出来，要慢慢拼起来看。上阕是暮春的苏州：空中飘着细细的游丝，江上太阳西斜，花在飞，人已走远。酒楼冷清，河桥上吹着暖风，那里正是当年分别的地方。想到她的温柔，相思就停不下来，人也瘦得衣服都要改小。下阕更伤心：落花随水漂走，月亮缺了，燕子飞走了，她唱歌用的扇子落满了灰。他想写信，想送她一半首饰作信物，可提起笔又写不下去，只能偷偷把信纸连着眼泪一起卷起来。最后他只好寄希望于梦：她在遥远的地方，也许会在梦里见到他。整首词没有一句直说“我很想你”，却处处都是想念。",
+  "en": "The pictures in this lyric jump out one after another, and we have to piece them together slowly. The first stanza is Suzhou at the end of spring. Fine threads float in the air, the sun sinks over the river, petals fly, and she is far away. The tavern is quiet, and a warm wind blows on the bridge where they once said goodbye. Thinking of her gentleness, his longing will not stop, and he grows so thin his clothes must be taken in. The second stanza is even sadder. Petals float away, the moon is broken, the swallow has flown, and dust covers the fan she sang with. He wants to write to her, and to send half a hair ornament as a token. But when he picks up the brush he cannot go on. He can only roll up the paper with his tears. In the end he puts his hope in dreams: far away, perhaps she will see him in her sleep. Not one line says \"I miss you\" outright, yet missing her is everywhere."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "parting",
+   "spring"
+  ]
+ },
+ "uncertain": []
+}

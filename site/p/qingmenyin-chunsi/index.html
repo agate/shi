@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>青门引·春思 · 张先 — 诗</title>
+    <meta name="description" content="青门引·春思 · 张先 — Qing Men Yin: Spring Thoughts by Zhang Xian: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci lyric</span><span lang="zh">宋词 · 词</span></p>
+        <h1>青门引·春思</h1>
+        <p class="by">张先<span class="mono"><span lang="en">Zhang Xian · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Qing Men Yin: Spring Thoughts</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>zhà</i><b>乍</b></span><span class="c gl" data-l="0" data-p="1"><i>nuǎn</i><b>暖</b></span><span class="c gl rd" data-l="0" data-p="2"><i>huán</i><b>还</b></span><span class="c gl" data-l="0" data-p="3"><i>qīng</i><b>轻</b></span><span class="c gl" data-l="0" data-p="4"><i>lěng</i><b>冷</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>fēng</i><b>风</b></span><span class="c" data-l="1" data-p="1"><i>yǔ</i><b>雨</b></span><span class="c" data-l="1" data-p="2"><i>wǎn</i><b>晚</b></span><span class="c" data-l="1" data-p="3"><i>lái</i><b>来</b></span><span class="c gl" data-l="1" data-p="4"><i>fāng</i><b>方</b></span><span class="c gl" data-l="1" data-p="5"><i>dìng</i><b>定</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>tíng</i><b>庭</b></span><span class="c gl" data-l="2" data-p="1"><i>xuān</i><b>轩</b></span><span class="c" data-l="2" data-p="2"><i>jì</i><b>寂</b></span><span class="c" data-l="2" data-p="3"><i>mò</i><b>寞</b></span><span class="c" data-l="2" data-p="4"><i>jìn</i><b>近</b></span><span class="c gl" data-l="2" data-p="5"><i>qīng</i><b>清</b></span><span class="c gl" data-l="2" data-p="6"><i>míng</i><b>明</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>cán</i><b>残</b></span><span class="c gl" data-l="3" data-p="1"><i>huā</i><b>花</b></span><span class="c gl rd" data-l="3" data-p="2"><i>zhòng</i><b>中</b></span><span class="c gl" data-l="3" data-p="3"><i>jiǔ</i><b>酒</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>yòu</i><b>又</b></span><span class="c" data-l="4" data-p="1"><i>shì</i><b>是</b></span><span class="c gl" data-l="4" data-p="2"><i>qù</i><b>去</b></span><span class="c gl" data-l="4" data-p="3"><i>nián</i><b>年</b></span><span class="c gl" data-l="4" data-p="4"><i>bìng</i><b>病</b></span></p><p class="ln brk"><span class="c" data-l="5" data-p="0"><i>lóu</i><b>楼</b></span><span class="c" data-l="5" data-p="1"><i>tóu</i><b>头</b></span><span class="c gl" data-l="5" data-p="2"><i>huà</i><b>画</b></span><span class="c gl" data-l="5" data-p="3"><i>jiǎo</i><b>角</b></span><span class="c" data-l="5" data-p="4"><i>fēng</i><b>风</b></span><span class="c" data-l="5" data-p="5"><i>chuī</i><b>吹</b></span><span class="c" data-l="5" data-p="6"><i>xǐng</i><b>醒</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>rù</i><b>入</b></span><span class="c" data-l="6" data-p="1"><i>yè</i><b>夜</b></span><span class="c gl rd" data-l="6" data-p="2"><i>chóng</i><b>重</b></span><span class="c gl" data-l="6" data-p="3"><i>mén</i><b>门</b></span><span class="c" data-l="6" data-p="4"><i>jìng</i><b>静</b></span></p><p class="ln"><span class="c gl rd" data-l="7" data-p="0"><i>nǎ</i><b>那</b></span><span class="c gl" data-l="7" data-p="1"><i>kān</i><b>堪</b></span><span class="c" data-l="7" data-p="2"><i>gèng</i><b>更</b></span><span class="c" data-l="7" data-p="3"><i>bèi</i><b>被</b></span><span class="c" data-l="7" data-p="4"><i>míng</i><b>明</b></span><span class="c" data-l="7" data-p="5"><i>yuè</i><b>月</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>gé</i><b>隔</b></span><span class="c" data-l="8" data-p="1"><i>qiáng</i><b>墙</b></span><span class="c" data-l="8" data-p="2"><i>sòng</i><b>送</b></span><span class="c" data-l="8" data-p="3"><i>guò</i><b>过</b></span><span class="c gl" data-l="8" data-p="4"><i>qiū</i><b>秋</b></span><span class="c gl" data-l="8" data-p="5"><i>qiān</i><b>千</b></span><span class="c gl" data-l="8" data-p="6"><i>yǐng</i><b>影</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">乍暖还轻冷</span><span lang="en">The weather has just turned warm, yet a light chill remains.</span><span lang="zh">天气刚刚暖和，又带着一点轻寒。</span></li><li><span class="o">风雨晚来方定</span><span lang="en">The wind and rain only stopped toward evening.</span><span lang="zh">风雨到了傍晚才停。</span></li><li><span class="o">庭轩寂寞近清明</span><span lang="en">Qingming is near, and the courtyard is lonely and still.</span><span lang="zh">清明快到了，院子里冷冷清清。</span></li><li><span class="o">残花中酒</span><span lang="en">Facing the fading flowers, I drank too much,</span><span lang="zh">对着将谢的花，我喝醉了酒，</span></li><li><span class="o">又是去年病</span><span lang="en">and fell into the same sickness as last year.</span><span lang="zh">又犯了去年一样的老毛病。</span></li><li class="brk"><span class="o">楼头画角风吹醒</span><span lang="en">The horn on the tower, carried by the wind, woke me from my drunken sleep.</span><span lang="zh">城楼上的号角声被风吹来，把我惊醒。</span></li><li><span class="o">入夜重门静</span><span lang="en">Night came, and behind the many gates all was quiet.</span><span lang="zh">夜深了，一道道门都静悄悄的。</span></li><li><span class="o">那堪更被明月</span><span lang="en">How can I bear it? The bright moon, on top of everything,</span><span lang="zh">哪里受得了，明月偏偏又</span></li><li><span class="o">隔墙送过秋千影</span><span lang="en">sends the shadow of a swing over the wall.</span><span lang="zh">把墙那边秋千的影子送了过来。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>乍暖还轻冷<span class="mono">zhà nuǎn huán qīng lěng</span></dt><dd><span lang="en">zhà nuǎn huán qīng lěng: just turned warm, yet still a little cold. Zhà means just now.</span><span lang="zh">乍暖还轻冷：天气刚暖和，又有点冷。乍，刚刚。</span></dd></div><div><dt>方定<span class="mono">fāng dìng</span></dt><dd><span lang="en">fāng dìng: only just calmed down.</span><span lang="zh">方定：才停下来。</span></dd></div><div><dt>庭轩<span class="mono">tíng xuān</span></dt><dd><span lang="en">tíng xuān: the courtyard and its open halls.</span><span lang="zh">庭轩：院子和有窗的长廊、小屋。</span></dd></div><div><dt>清明<span class="mono">qīng míng</span></dt><dd><span lang="en">qīng míng: the Qingming Festival in spring, when people sweep graves and go out to enjoy the green.</span><span lang="zh">清明：清明节，在春天，人们扫墓、踏青。</span></dd></div><div><dt>残花<span class="mono">cán huā</span></dt><dd><span lang="en">cán huā: flowers about to fall.</span><span lang="zh">残花：快要谢的花。</span></dd></div><div><dt>中酒<span class="mono">zhòng jiǔ</span></dt><dd><span lang="en">zhòng jiǔ: drunk and feeling ill from it.</span><span lang="zh">中酒：喝醉了酒，醉后难受。</span></dd></div><div><dt>去年病<span class="mono">qù nián bìng</span></dt><dd><span lang="en">qù nián bìng: last year&#x27;s illness, the same spring sadness and drinking as the year before.</span><span lang="zh">去年病：和去年一样的毛病，指每到春末就伤感、借酒消愁。</span></dd></div><div><dt>画角<span class="mono">huà jiǎo</span></dt><dd><span lang="en">huà jiǎo: a painted horn blown in army camps in old times, with a sad sound.</span><span lang="zh">画角：古代军中吹的号角，外面画着彩色花纹，声音哀伤。</span></dd></div><div><dt>重门<span class="mono">chóng mén</span></dt><dd><span lang="en">chóng mén: gate after gate.</span><span lang="zh">重门：一道又一道的门。</span></dd></div><div><dt>那堪<span class="mono">nǎ kān</span></dt><dd><span lang="en">nǎ kān: how can one bear it.</span><span lang="zh">那堪：哪里受得了。</span></dd></div><div><dt>秋千影<span class="mono">qiū qiān yǐng</span></dt><dd><span lang="en">qiū qiān yǐng: the shadow of a swing.</span><span lang="zh">秋千影：秋千的影子。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>还<span class="mono">huán</span></dt><dd><span lang="en">Here the character means &#x27;still, again&#x27;. It is usually read huán; some read hái.</span><span lang="zh">还：又、仍然。这里一般读 huán，也有人读 hái。</span></dd></div><div><dt>中<span class="mono">zhòng</span></dt><dd><span lang="en">In zhòng jiǔ (to be overcome by wine), the first character means &#x27;to be struck&#x27; and is read zhòng, not zhōng.</span><span lang="zh">中酒：喝醉了酒，像“中毒”的“中”，读 zhòng。</span></dd></div><div><dt>重<span class="mono">chóng</span></dt><dd><span lang="en">In chóng mén (layer upon layer of gates), the first character is read chóng, not zhòng.</span><span lang="zh">重门：一层又一层的门，重读 chóng。</span></dd></div><div><dt>那<span class="mono">nǎ</span></dt><dd><span lang="en">Nǎ kān means &#x27;how can one bear it&#x27;. The first character stands for &#x27;how&#x27; and is usually read nǎ; some read nà.</span><span lang="zh">那堪：哪里受得了。那同“哪”，一般读 nǎ，也有人读 nà。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric shows a night near the end of spring, around Qingming. The year and place it was written are no longer known. Zhang Xian was famous for writing about shadows and was nicknamed Three-Shadow Zhang. The line about a swing&#x27;s shadow coming over the wall is another of his famous shadow lines. In old times, young women often played on swings around Qingming, so the shadow makes one think of the girl who swung there.</p><p lang="zh">这首词写春天将尽、清明前后的一个夜晚。写作的具体年份和地点已经说不清了。张先擅长写“影”，有人称他“张三影”，这首词里“隔墙送过秋千影”也是写影的名句。秋千是古代女子在清明前后常玩的，墙那边的秋千影，让人想起荡秋千的人。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Zhang Xian (990–1078) was a Northern Song lyric poet who lived into his late eighties. He lived around the same time as Liu Yong. His lyrics paint scenes in fine detail, and he was especially good at shadows. Because of three famous lines about shadows, people called him Three-Shadow Zhang.</p><p lang="zh">张先（990—1078），字子野，北宋词人，活到八十多岁。他和柳永差不多同时，写过很多慢词。他的词写景细腻，特别会写影子，因为“云破月来花弄影”等三句写影的名句，被人叫作“张三影”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poet writes a spring sadness that is hard to name. The weather is warm then cold, the rain stops only at evening, and the courtyard is empty. He gets drunk facing the fading flowers and knows this is last year&#x27;s sickness again; every late spring it is the same. The second half is at night. The wind carries a horn&#x27;s call, he wakes, and all around is silence. The last two lines are the finest. The bright moon sends the swing&#x27;s shadow over the wall. The swing is still there, but where is the girl who swung on it? The poet never says whom he misses. He shows only a shadow, and all his longing and loneliness are inside it.</p><p lang="zh">词人写的是一种说不清的春愁。天气忽冷忽热，风雨到晚上才停，院子里空空的。他对着残花喝醉，心里明白：这又是去年的老毛病，每年春末都这样。下片写夜里：风把号角声吹来，他醒了，四周一片安静。最后两句最妙：明月偏偏把墙那边秋千的影子送过来。秋千还在，荡秋千的人在哪里？词人没说想谁，只写一个影子，那份思念和寂寞就都在影子里了。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/dujiangyun-shanyinjiukeyizaifengchunhuiyixihangmiaoranchousi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>渡江云·山阴久客一再逢春回忆西杭渺然愁思</b></a><a href="../../p/dianjiangchun-cubaqiuqian/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>点绛唇·蹴罢秋千</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["乍", "zhà"], ["暖", "nuǎn"], ["还", "huán"], ["轻", "qīng"], ["冷", "lěng"]], [["风", "fēng"], ["雨", "yǔ"], ["晚", "wǎn"], ["来", "lái"], ["方", "fāng"], ["定", "dìng"]], [["庭", "tíng"], ["轩", "xuān"], ["寂", "jì"], ["寞", "mò"], ["近", "jìn"], ["清", "qīng"], ["明", "míng"]], [["残", "cán"], ["花", "huā"], ["中", "zhòng"], ["酒", "jiǔ"]], [["又", "yòu"], ["是", "shì"], ["去", "qù"], ["年", "nián"], ["病", "bìng"]], [["楼", "lóu"], ["头", "tóu"], ["画", "huà"], ["角", "jiǎo"], ["风", "fēng"], ["吹", "chuī"], ["醒", "xǐng"]], [["入", "rù"], ["夜", "yè"], ["重", "chóng"], ["门", "mén"], ["静", "jìng"]], [["那", "nǎ"], ["堪", "kān"], ["更", "gèng"], ["被", "bèi"], ["明", "míng"], ["月", "yuè"]], [["隔", "gé"], ["墙", "qiáng"], ["送", "sòng"], ["过", "guò"], ["秋", "qiū"], ["千", "qiān"], ["影", "yǐng"]]], "glosses": [{"line": 0, "start": 0, "end": 5, "zh": "乍暖还轻冷：天气刚暖和，又有点冷。乍，刚刚。", "en": "zhà nuǎn huán qīng lěng: just turned warm, yet still a little cold. Zhà means just now."}, {"line": 1, "start": 4, "end": 6, "zh": "方定：才停下来。", "en": "fāng dìng: only just calmed down."}, {"line": 2, "start": 0, "end": 2, "zh": "庭轩：院子和有窗的长廊、小屋。", "en": "tíng xuān: the courtyard and its open halls."}, {"line": 2, "start": 5, "end": 7, "zh": "清明：清明节，在春天，人们扫墓、踏青。", "en": "qīng míng: the Qingming Festival in spring, when people sweep graves and go out to enjoy the green."}, {"line": 3, "start": 0, "end": 2, "zh": "残花：快要谢的花。", "en": "cán huā: flowers about to fall."}, {"line": 3, "start": 2, "end": 4, "zh": "中酒：喝醉了酒，醉后难受。", "en": "zhòng jiǔ: drunk and feeling ill from it."}, {"line": 4, "start": 2, "end": 5, "zh": "去年病：和去年一样的毛病，指每到春末就伤感、借酒消愁。", "en": "qù nián bìng: last year's illness, the same spring sadness and drinking as the year before."}, {"line": 5, "start": 2, "end": 4, "zh": "画角：古代军中吹的号角，外面画着彩色花纹，声音哀伤。", "en": "huà jiǎo: a painted horn blown in army camps in old times, with a sad sound."}, {"line": 6, "start": 2, "end": 4, "zh": "重门：一道又一道的门。", "en": "chóng mén: gate after gate."}, {"line": 7, "start": 0, "end": 2, "zh": "那堪：哪里受得了。", "en": "nǎ kān: how can one bear it."}, {"line": 8, "start": 4, "end": 7, "zh": "秋千影：秋千的影子。", "en": "qiū qiān yǐng: the shadow of a swing."}], "readings": [{"line": 0, "pos": 2, "char": "还", "pinyin": "huán", "zh": "还：又、仍然。这里一般读 huán，也有人读 hái。", "en": "Here the character means 'still, again'. It is usually read huán; some read hái."}, {"line": 3, "pos": 2, "char": "中", "pinyin": "zhòng", "zh": "中酒：喝醉了酒，像“中毒”的“中”，读 zhòng。", "en": "In zhòng jiǔ (to be overcome by wine), the first character means 'to be struck' and is read zhòng, not zhōng."}, {"line": 6, "pos": 2, "char": "重", "pinyin": "chóng", "zh": "重门：一层又一层的门，重读 chóng。", "en": "In chóng mén (layer upon layer of gates), the first character is read chóng, not zhòng."}, {"line": 7, "pos": 0, "char": "那", "pinyin": "nǎ", "zh": "那堪：哪里受得了。那同“哪”，一般读 nǎ，也有人读 nà。", "en": "Nǎ kān means 'how can one bear it'. The first character stands for 'how' and is usually read nǎ; some read nà."}], "speak": ["乍暖桓轻冷", "风雨晚来方定", "庭轩寂寞近清明", "残花仲酒", "又是去年病", "楼头画角风吹醒", "入夜崇门静", "那堪更被明月", "隔墙送过秋千影"], "speakTitle": "青门引，春思。张先。", "sample": "乍暖还轻冷"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

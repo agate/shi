@@ -1,0 +1,422 @@
+{
+ "id": "ci-e26a10bcad2a",
+ "kind": "ci",
+ "title": "朝中措·平山堂",
+ "title_en": "Chao Zhong Cuo: Pingshan Hall",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "槛",
+    "jiàn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "种",
+    "zhòng"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "章",
+    "zhāng"
+   ],
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "守",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "挥",
+    "huī"
+   ],
+   [
+    "毫",
+    "háo"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "字",
+    "zì"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "少",
+    "shào"
+   ]
+  ],
+  [
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "翁",
+    "wēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料只题词牌“朝中措”，通行本题作“朝中措·平山堂”。语料第七句作“千锺”，简体通行本写作“千钟”，意思一样。",
+  "en": "The corpus gives only the tune name; common editions add the title \"Pingshan Hall\". In line seven the corpus uses an older form of the character zhōng (a wine cup); simplified editions use the common form, with the same meaning."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "槛",
+   "pinyin": "jiàn",
+   "zh": "阑槛：栏杆。“槛”指栏杆时读 jiàn；“门槛”的“槛”才读 kǎn。",
+   "en": "lán jiàn: a railing. The character is read jiàn when it means railing; it is read kǎn only in the word for doorsill."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "种",
+   "pinyin": "zhòng",
+   "zh": "手种：亲手种下，“种”是动作，读 zhòng。",
+   "en": "shǒu zhòng: planted with one's own hands. Here it is the action of planting, read zhòng."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "年少：年轻的时候，读 shào。",
+   "en": "nián shào: when one is young, read shào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "平山：平山堂，欧阳修在扬州做官时在城外蜀冈上修的厅堂。站在堂上，江南的远山好像和堂一样高，所以叫“平山”。",
+   "en": "píng shān: Pingshan Hall, which Ouyang Xiu built on a hill outside Yangzhou when he served there. From the hall, the far hills south of the river seem level with it, so it was named \"Level with the Hills\"."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "阑槛：栏杆。",
+   "en": "lán jiàn: a railing."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "倚晴空：栏杆好像靠在晴朗的天空上，说平山堂很高。",
+   "en": "yǐ qíng kōng: the railing seems to lean against the clear sky, showing how high the hall stands."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "有无中：远山若隐若现，好像有，又好像没有。",
+   "en": "yǒu wú zhōng: the far hills are faint, now there, now not."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "手种：亲手种下。",
+   "en": "shǒu zhòng: planted with my own hands."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 6,
+   "zh": "几度春风：过了几个春天。",
+   "en": "jǐ dù chūn fēng: how many spring winds have passed, that is, how many years."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "文章太守：文章写得好的太守。太守，一个州的长官。这里指要去扬州做官的朋友刘敞，一说也是欧阳修说自己。",
+   "en": "wén zhāng tài shǒu: a governor who writes fine prose. A tài shǒu was the head of a prefecture. Here it means his friend Liu Chang, who was going to govern Yangzhou. Another reading says Ouyang Xiu also means himself."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "挥毫：拿起毛笔写字。毫，毛笔。",
+   "en": "huī háo: to wield the brush and write. Háo is a writing brush."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "千钟：一千杯。钟，古代的酒器。这是夸张，说酒量大。",
+   "en": "qiān zhōng: a thousand cups. A zhōng was an old wine vessel. It is an exaggeration for a huge capacity for wine."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "直须：就应该，正应当。",
+   "en": "zhí xū: one really should."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "尊前：酒杯前，就是喝酒的时候。尊，酒杯。",
+   "en": "zūn qián: before the wine cup, that is, while drinking. Zūn is a wine cup."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "看取：看看。取，助词，没有实在意思。",
+   "en": "kàn qǔ: take a look. Qǔ adds no meaning of its own here."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "衰翁：衰老的老头儿，欧阳修说自己。",
+   "en": "shuāi wēng: a worn-out old man, the poet speaking of himself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "平山堂的栏杆好像靠在晴朗的天空上，",
+   "en": "The railings of Pingshan Hall seem to lean against the clear sky;"
+  },
+  {
+   "zh": "远处的山色若有若无。",
+   "en": "the far hills are faint, now there, now gone."
+  },
+  {
+   "zh": "堂前那棵垂柳是我亲手种的，",
+   "en": "I planted the weeping willow in front of the hall with my own hands;"
+  },
+  {
+   "zh": "分别以后，它已经吹过几回春风了？",
+   "en": "since I left, how many spring winds have blown through it?"
+  },
+  {
+   "zh": "你这位会写文章的太守，",
+   "en": "You, the governor who writes so well,"
+  },
+  {
+   "zh": "一下笔就能写上万字，",
+   "en": "can write ten thousand words at a stroke"
+  },
+  {
+   "zh": "一喝酒就能喝下千杯。",
+   "en": "and drink a thousand cups at a sitting."
+  },
+  {
+   "zh": "要寻欢作乐，就该趁年轻的时候，",
+   "en": "If you want to enjoy life, do it while you are young;"
+  },
+  {
+   "zh": "你看看酒杯前我这个衰老的老头儿吧。",
+   "en": "just look at me, a worn-out old man before the wine cup."
+  }
+ ],
+ "background": {
+  "zh": "宋仁宗嘉祐元年（1056年），欧阳修的朋友刘敞要去扬州做太守，欧阳修写了这首词为他送行。八年前，欧阳修自己在扬州做官，在城外修了平山堂，还亲手在堂前种了柳树。如今朋友要去那里，他想起旧地，写下了这首词。这一年他五十岁左右，所以自称“衰翁”。",
+  "en": "In 1056, Ouyang Xiu's friend Liu Chang was about to become governor of Yangzhou, and Ouyang wrote this ci to see him off. Eight years earlier Ouyang himself had served in Yangzhou. He built Pingshan Hall outside the city and planted a willow in front of it with his own hands. Now that his friend was going there, he remembered the place and wrote this. He was about fifty that year, so he calls himself \"a worn-out old man\"."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），号醉翁，晚年又号六一居士，北宋文学家，“唐宋八大家”之一。他写过有名的《醉翁亭记》。他做官多年，几次被贬，但性格豁达。他的词有的婉转，有的像这首一样豪放潇洒。",
+  "en": "Ouyang Xiu (1007–1072), also called the Old Drunkard, was a great Northern Song writer and one of the Eight Masters of Tang and Song prose. He wrote the famous \"Pavilion of the Old Drunkard\". He served in office for many years and was sent away several times, but he stayed open-hearted. Some of his ci are tender, while others, like this one, are bold and free."
+ },
+ "appreciation": {
+  "zh": "上片写平山堂。栏杆靠着晴空，可见堂很高；远山若有若无，画面开阔又朦胧。“山色有无中”是借用王维的诗句，用在这里非常自然。接着写他亲手种的柳树，问分别后过了几个春天，怀念之情就在这一问里。下片转向朋友：写文章一挥就是万字，喝酒一喝就是千杯，一个才华横溢、豪爽潇洒的太守跃然纸上。最后两句半开玩笑：快乐要趁年轻，你看我，已经是个老头儿了。笑里带着感慨，也带着对朋友的祝福。",
+  "en": "The first half shows Pingshan Hall. The railing leans against the clear sky, so the hall must be high. The far hills are faint, now there, now gone, and the view is wide and misty. \"Now there, now gone\" is borrowed from a line by Wang Wei, and it fits perfectly. Then he thinks of the willow he planted himself and asks how many springs have passed since he left. His longing is all in that question. The second half turns to his friend: ten thousand words with one sweep of the brush, a thousand cups at one sitting. A gifted, bold, carefree governor jumps off the page. The last two lines are half a joke: enjoy life while you are young; look at me, already an old man. There is a sigh inside the laugh, and good wishes for his friend too."
+ },
+ "famous_lines": [
+  1,
+  4,
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "willow",
+   "youth",
+   "aging"
+  ]
+ },
+ "uncertain": []
+}

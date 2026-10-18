@@ -1,0 +1,886 @@
+{
+ "id": "ci-be18c0a94299",
+ "kind": "ci",
+ "title": "贺新郎·乳燕飞华屋",
+ "title_en": "He Xin Lang: Young Swallows Fly in the Fine House",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "乳",
+    "rǔ"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "屋",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "悄",
+    "qiǎo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "午",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "浴",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "绡",
+    "xiāo"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "团",
+    "tuán"
+   ],
+   [
+    "扇",
+    "shàn"
+   ]
+  ],
+  [
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "玉",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "熟",
+    "shú"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "推",
+    "tuī"
+   ],
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "枉",
+    "wǎng"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "曲",
+    "qū"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "敲",
+    "qiāo"
+   ],
+   [
+    "竹",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "榴",
+    "liú"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "吐",
+    "tǔ"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "巾",
+    "jīn"
+   ],
+   [
+    "蹙",
+    "cù"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "蕊",
+    "ruǐ"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "独",
+    "dú"
+   ]
+  ],
+  [
+   [
+    "秾",
+    "nóng"
+   ],
+   [
+    "艳",
+    "yàn"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "取",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "束",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "被",
+    "bèi"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "触",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "簌",
+    "sù"
+   ],
+   [
+    "簌",
+    "sù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  13
+ ],
+ "text_note": {
+  "zh": "语料库最后一句作“两蔌蔌”，通行本作“两簌簌”。“簌簌”是形容眼泪不停往下掉的样子，这里用通行本。",
+  "en": "In the last line the corpus writes sù sù with a character meaning vegetables. The usual text uses the character meaning tears falling one after another. This page follows the usual text."
+ },
+ "readings": [
+  {
+   "line": 10,
+   "pos": 4,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "这里的“曲”是“深处、弯弯曲曲的地方”，读 qū，不是“歌曲”的 qǔ。也有人理解成“瑶台的曲子”，那就读 qǔ。",
+   "en": "Here qū means a deep, winding corner, so it is read qū, not qǔ as in \"song\". Some readers take it as \"a song of the jade terrace\", which would be read qǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "乳燕：刚出生不久的小燕子。",
+   "en": "rǔ yàn: young swallows, just hatched."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "华屋：漂亮讲究的房子。",
+   "en": "huá wū: a fine, beautiful house."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "悄无人：静悄悄的，一个人也没有。",
+   "en": "qiǎo wú rén: all quiet, with no one around."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "桐阴转午：梧桐树的影子移动着，时间到了中午。",
+   "en": "tóng yīn zhuǎn wǔ: the shade of the parasol tree moves round as it turns noon."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "晚凉新浴：傍晚天凉了，她刚洗过澡。",
+   "en": "wǎn liáng xīn yù: it is cool in the evening, and she has just bathed."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 2,
+   "zh": "弄：拿在手里玩。",
+   "en": "nòng: to play with something in your hand."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "生绡：没有煮过的生丝织成的薄绸，很白很轻。",
+   "en": "shēng xiāo: thin silk woven from raw silk, very white and light."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "团扇：圆形的扇子。",
+   "en": "tuán shàn: a round fan."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 6,
+   "zh": "扇手一时似玉：白扇子和她的手一样洁白，都像白玉。",
+   "en": "shàn shǒu yī shí sì yù: the white fan and her hand look the same, both like white jade."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "渐困倚：慢慢困了，靠着东西。",
+   "en": "jiàn kùn yǐ: slowly getting sleepy and leaning against something."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "清熟：睡得很安稳、很香。",
+   "en": "qīng shú: sleeping soundly and peacefully."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "绣户：装饰华美的门窗，指女子的房间。",
+   "en": "xiù hù: a finely decorated door, meaning a woman's room."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "枉教人：白白地让人。枉，白白地。",
+   "en": "wǎng jiào rén: making someone, all for nothing. Wǎng means in vain."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "瑶台：神话里神仙住的玉做的高台。",
+   "en": "yáo tái: in old stories, a tall jade terrace where immortals live."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 3,
+   "zh": "又却是：原来又是。",
+   "en": "yòu què shì: it turns out to be, once again."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "风敲竹：风吹动竹子发出的声音，听起来像有人敲门。",
+   "en": "fēng qiāo zhú: the wind knocking the bamboo, which sounds like someone at the door."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "半吐：花刚开了一半。",
+   "en": "bàn tǔ: a flower half open."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "红巾蹙：石榴花的花瓣皱皱的，像一条揉皱的红丝巾。蹙，皱起来。",
+   "en": "hóng jīn cù: the crinkled pomegranate petals look like a crumpled red silk scarf. Cù means wrinkled."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "浮花：轻浮、早开早落的花。",
+   "en": "fú huā: showy flowers that bloom early and fall early."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "浪蕊：随便乱开的花。和“浮花”意思差不多。",
+   "en": "làng ruǐ: flowers that bloom carelessly, much like fú huā."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "幽独：安静孤单的样子。这里说石榴花晚开，陪伴孤独的她。",
+   "en": "yōu dú: quiet and alone. Here the late pomegranate flower keeps the lonely woman company."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "秾艳：颜色浓、很艳丽。",
+   "en": "nóng yàn: rich in color and very bright."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 7,
+   "zh": "细看取：仔细地看。取，语气词，没有实在意思。",
+   "en": "xì kàn qǔ: look closely. Qǔ here just adds tone and has no real meaning."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 6,
+   "zh": "芳心千重似束：花心里花瓣一层一层，像被捆紧了一样。也比喻她心里有重重的心事。",
+   "en": "fāng xīn qiān chóng sì shù: the heart of the flower has layer on layer of petals, as if tied tight. It also stands for the layers of worry in her heart."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "秋风惊绿：秋风一吹，花落了，只剩下绿叶。",
+   "en": "qiū fēng jīng lǜ: the autumn wind blows, the flowers fall, and only green leaves are left."
+  },
+  {
+   "line": 21,
+   "start": 3,
+   "end": 4,
+   "zh": "君：你，这里指她。也有人认为是她等的那个人。",
+   "en": "jūn: you. Here it means her. Some think it means the person she is waiting for."
+  },
+  {
+   "line": 21,
+   "start": 5,
+   "end": 7,
+   "zh": "向此：到这里来。",
+   "en": "xiàng cǐ: to come here."
+  },
+  {
+   "line": 22,
+   "start": 4,
+   "end": 7,
+   "zh": "不忍触：不忍心去碰。",
+   "en": "bù rěn chù: cannot bear to touch it."
+  },
+  {
+   "line": 23,
+   "start": 1,
+   "end": 3,
+   "zh": "粉泪：女子的眼泪。古代女子脸上搽粉，所以这样说。",
+   "en": "fěn lèi: a woman's tears. Women in old times powdered their faces, so tears were \"powdered\"."
+  },
+  {
+   "line": 24,
+   "start": 0,
+   "end": 3,
+   "zh": "两簌簌：花瓣和眼泪一起簌簌地往下落。簌簌，纷纷落下的样子。",
+   "en": "liǎng sù sù: petals and tears both fall, one after another. Sù sù describes things falling steadily."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "小燕子在漂亮的房子边飞来飞去。",
+   "en": "Young swallows fly around the fine house."
+  },
+  {
+   "zh": "四下静悄悄的，没有一个人。",
+   "en": "All is quiet, with no one around."
+  },
+  {
+   "zh": "梧桐的树影慢慢移动，已经到了中午。",
+   "en": "The shade of the parasol tree moves round; it is noon."
+  },
+  {
+   "zh": "傍晚天凉，她刚刚洗完澡。",
+   "en": "In the cool of evening, she has just bathed."
+  },
+  {
+   "zh": "她手里拿着一把白绸做的圆扇子。",
+   "en": "In her hand she holds a round fan of white silk."
+  },
+  {
+   "zh": "扇子和手一样白，都像美玉。",
+   "en": "The fan and her hand are both as white as jade."
+  },
+  {
+   "zh": "她渐渐困了，靠在那里，",
+   "en": "Slowly she grows sleepy and leans back,"
+  },
+  {
+   "zh": "一个人睡得很香。",
+   "en": "and sleeps soundly, all alone."
+  },
+  {
+   "zh": "帘子外面是谁来推门？",
+   "en": "Who is that, pushing the door outside the curtain?"
+  },
+  {
+   "zh": "白白地让人",
+   "en": "For nothing at all, it"
+  },
+  {
+   "zh": "从瑶台仙境的美梦里惊醒。",
+   "en": "wakes her from a dream deep in the immortals' jade terrace."
+  },
+  {
+   "zh": "原来又是",
+   "en": "It turns out, once again,"
+  },
+  {
+   "zh": "风吹得竹子沙沙作响。",
+   "en": "to be only the wind knocking the bamboo."
+  },
+  {
+   "zh": "石榴花半开着，像一条皱起来的红丝巾。",
+   "en": "The pomegranate flower is half open, like a crumpled red silk scarf."
+  },
+  {
+   "zh": "等到那些轻浮的花",
+   "en": "When all the showy flowers"
+  },
+  {
+   "zh": "都落尽了，",
+   "en": "have fallen,"
+  },
+  {
+   "zh": "它才来陪伴孤独的你。",
+   "en": "it comes to keep you company in your loneliness."
+  },
+  {
+   "zh": "仔细看看这一枝艳丽的花，",
+   "en": "Look closely at this one bright branch:"
+  },
+  {
+   "zh": "花心里一层一层，像捆紧的心事。",
+   "en": "its heart is layer on layer, tied tight like secret worries."
+  },
+  {
+   "zh": "又怕被",
+   "en": "And yet I fear"
+  },
+  {
+   "zh": "秋风一吹，只剩绿叶。",
+   "en": "the autumn wind will blow, leaving only green leaves."
+  },
+  {
+   "zh": "如果等到你来到这里，",
+   "en": "If you wait until you come here,"
+  },
+  {
+   "zh": "对着花，端着酒，都不忍心去碰它。",
+   "en": "facing the flower with wine, you will not bear to touch it."
+  },
+  {
+   "zh": "你的眼泪",
+   "en": "Your tears"
+  },
+  {
+   "zh": "和落花一起纷纷往下掉。",
+   "en": "and the falling petals both drop, one after another."
+  }
+ ],
+ "background": {
+  "zh": "这首词写在什么时候、为谁写的，没有确切的说法。宋代有一个故事说，苏轼在杭州做官时，有一位叫秀兰的歌女参加宴会迟到了，苏轼为她写了这首词。但宋代就有人指出这个故事不可信。现在一般认为，这首词借一位孤独美丽的女子和晚开的石榴花，寄托作者自己的心情。",
+  "en": "No one knows for sure when this lyric was written or for whom. A Song dynasty story says that when Su Shi was an official in Hangzhou, a singing girl named Xiulan came late to a party, and he wrote this lyric for her. But even in the Song dynasty, people said the story could not be trusted. Today it is usually read as using a lonely, beautiful woman and a late-blooming pomegranate flower to carry the poet's own feelings."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画样样都好。他的词常常豪放开阔，但也有像这首一样细腻柔美的作品。他一生几次被贬官，心里有不少不被理解的孤独。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great Northern Song writer. He was good at poems, lyrics, essays, calligraphy and painting. His lyrics are often bold and broad, but some, like this one, are soft and delicate. He was sent away from court several times, and knew the loneliness of not being understood."
+ },
+ "appreciation": {
+  "zh": "上半首像一部慢镜头：夏天的中午，燕子飞，树影移，屋里一个刚洗完澡的女子拿着白扇子，慢慢睡着了。忽然好像有人推门，她从美梦里醒来，结果只是风吹竹子。这一点小小的失望，写出了她在等人，心里很孤单。下半首写石榴花。别的花早就开过、落了，只有它晚开，陪着孤独的人。可是它也会被秋风吹落。最后写人和花一起落泪。花就是人，人就是花，美丽却没人懂得珍惜。很多人认为，这里也有苏轼自己不被理解的心情。",
+  "en": "The first half is like a slow-motion film. On a summer noon, swallows fly and tree shadows move. In the house, a woman who has just bathed holds a white fan and slowly falls asleep. Suddenly it seems someone pushes the door, and she wakes from a sweet dream. But it is only the wind in the bamboo. This small letdown shows that she is waiting for someone and feels lonely. The second half is about the pomegranate flower. Other flowers bloomed and fell long ago; only it blooms late, keeping a lonely person company. Yet it too will be blown away by the autumn wind. At the end, the woman and the flower shed tears together. The flower is the woman, and the woman is the flower: beautiful, yet no one treasures them. Many readers feel Su Shi's own loneliness of not being understood is in it too."
+ },
+ "famous_lines": [
+  0,
+  13
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "loneliness",
+   "flowers",
+   "waiting",
+   "beauty"
+  ]
+ },
+ "uncertain": []
+}

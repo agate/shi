@@ -1,0 +1,484 @@
+{
+ "id": "3410e7ce-df3a-4ab8-bea3-7f681661b240",
+ "kind": "shi",
+ "title": "无题（昨夜星辰昨夜风）",
+ "title_en": "Untitled (Last Night's Stars, Last Night's Wind)",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "辰",
+    "chén"
+   ],
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "东",
+    "dōng"
+   ]
+  ],
+  [
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "翼",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "灵",
+    "líng"
+   ],
+   [
+    "犀",
+    "xī"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "通",
+    "tōng"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "座",
+    "zuò"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "钩",
+    "gōu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "曹",
+    "cáo"
+   ],
+   [
+    "射",
+    "shè"
+   ],
+   [
+    "覆",
+    "fù"
+   ],
+   [
+    "蜡",
+    "là"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "嗟",
+    "jiē"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "应",
+    "yìng"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "走",
+    "zǒu"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "类",
+    "lèi"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "蓬",
+    "péng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原题《无题二首》，这是第一首。语料作“射复”，是繁简转换的错误，应为“射覆”（一种猜物游戏）。语料末句作“类断蓬”，通行本多作“类转蓬”，意思差不多，都是说像随风飘转的蓬草。",
+  "en": "The original title is \"Two Untitled Poems\"; this is the first. The corpus has the wrong character for fu in she fu, a slip from the machine conversion; the game is she fu, guessing a hidden object. The corpus ends with lei duan peng (like broken tumbleweed); most common editions read lei zhuan peng (like turning tumbleweed). The meaning is almost the same: a weed blown about by the wind."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "应",
+   "pinyin": "yìng",
+   "zh": "应官：去官府报到、上班。这里读 yìng，不读 yīng。",
+   "en": "ying guan: to report for duty at the office. Here it is read yìng, not yīng."
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "覆",
+   "pinyin": "fù",
+   "zh": "射覆的“覆”读 fù，意思是盖住。",
+   "en": "In she fu, the second character is read fù and means to cover."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "星辰：星星。",
+   "en": "xīng chén: the stars."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "画楼：有彩绘装饰的楼。",
+   "en": "huà lóu: a painted, decorated hall."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "西畔：西边。",
+   "en": "xī pàn: the west side."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "桂堂：用桂木建的厅堂，指漂亮的厅堂。",
+   "en": "guì táng: a hall built of cassia wood, meaning a fine hall."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "彩凤：彩色的凤凰。",
+   "en": "cǎi fèng: a colorful phoenix."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "双飞翼：一对能飞的翅膀。",
+   "en": "shuāng fēi yì: a pair of wings for flying."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "灵犀：古人说犀牛角中间有一条白线，从头通到尾，用来比喻两个人心意相通。",
+   "en": "líng xī: people in old times said a rhinoceros horn has a white line running from end to end. It stands for two hearts that understand each other."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "一点通：一下子就能明白对方的心意。",
+   "en": "yī diǎn tōng: to understand each other at once."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "隔座：隔着座位。",
+   "en": "gé zuò: across the seats."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "送钩：藏钩，一种酒席上的游戏。一个人把钩子藏在手里，传来传去，让别人猜在谁手里。",
+   "en": "sòng gōu: hide the hook, a party game. A small hook is passed from hand to hand, and others guess who holds it."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "春酒：春天喝的酒。",
+   "en": "chūn jiǔ: spring wine."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "分曹：分成几组。曹，组、队。",
+   "en": "fēn cáo: to split into teams. Cáo means a group."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "射覆：一种猜物游戏。把东西盖在碗下面，让人猜是什么。",
+   "en": "shè fù: a guessing game. Something is hidden under a bowl, and people guess what it is."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "蜡灯：蜡烛。",
+   "en": "là dēng: candles."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "嗟余：可叹我。嗟，叹息。",
+   "en": "jiē yú: alas for me. Jiē is a sigh."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "听鼓：听到报晓的鼓声。古代官员听到鼓声就要去上班。",
+   "en": "tīng gǔ: hearing the dawn drum. In old times, officials went to work when the drum sounded."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "应官：去官府报到上班。",
+   "en": "yìng guān: to report for duty."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "走马：骑马跑。",
+   "en": "zǒu mǎ: to ride a horse."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "兰台：秘书省的别称，是管理图书文件的官署。李商隐曾在这里做官。",
+   "en": "lán tái: another name for the Palace Library office, which kept books and records. Li Shangyin once worked there."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "类转蓬：像随风飘转的蓬草。类，像；蓬，一种草，干了会被风吹着到处滚。",
+   "en": "lèi zhuǎn péng: like a tumbleweed blown around. Lèi means like; péng is a plant that dries and rolls about in the wind."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "昨天夜里，星光闪闪，微风轻轻吹。",
+   "en": "Last night, the stars were shining and a soft wind blew."
+  },
+  {
+   "zh": "就在画楼的西边、桂堂的东边。",
+   "en": "It was west of the painted hall, east of the cassia hall."
+  },
+  {
+   "zh": "我身上没有彩凤那样的翅膀，不能飞到你身边。",
+   "en": "I have no phoenix wings to fly to your side."
+  },
+  {
+   "zh": "可我们的心像灵犀一样，一点就通。",
+   "en": "But our hearts are joined, like the line in a rhinoceros horn, and understand each other at once."
+  },
+  {
+   "zh": "隔着座位玩藏钩的游戏，春酒喝得人身上暖暖的。",
+   "en": "Across the seats we played hide the hook, and the spring wine made us warm."
+  },
+  {
+   "zh": "分组玩猜物的游戏，蜡烛的光红红的。",
+   "en": "In teams we played the guessing game, under the red glow of candles."
+  },
+  {
+   "zh": "可叹我听到报晓的鼓声，就得去官府上班。",
+   "en": "Alas, when I hear the dawn drum, I must go to work."
+  },
+  {
+   "zh": "骑马去兰台，就像一棵被风吹着乱转的蓬草。",
+   "en": "I ride to the library office, like a tumbleweed spun by the wind."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是一个夜晚的宴会。诗人在宴会上见到一位心爱的人，两人隔着座位，不能说话，却心意相通。第二天一早，他又不得不去上班。诗里说“走马兰台”，兰台就是秘书省，所以一般认为是李商隐在秘书省做官时写的。一说写于开成四年（839年）前后。诗里的那个人是谁，没有人知道。",
+  "en": "This poem is about a party one night. At the party the poet saw someone he loved. They sat apart and could not talk, yet they understood each other. Early the next morning, he had to go to work again. The poem says he rode to lan tai, the Palace Library office, so it is usually thought he wrote it while working there. One view dates it to around 839. No one knows who the person in the poem was."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），字义山，号玉谿生，晚唐诗人，和杜牧并称“小李杜”。他一生在朝廷的党派争斗中受到排挤，做官很不得意。他写了很多以《无题》为题的诗，写爱情和思念，写得美丽又朦胧，常常让人猜不透真正的意思。",
+  "en": "Li Shangyin (about 813 to about 858) was a poet of the late Tang. He and Du Mu are called the Little Li and Du. All his life he was caught between quarreling groups at court, and his career went badly. He wrote many poems called \"Untitled\" about love and longing. They are beautiful and misty, and people often cannot be sure what they really mean."
+ },
+ "appreciation": {
+  "zh": "诗一开头就重复“昨夜”，好像诗人在一遍遍回想那个晚上：星星、微风、画楼、桂堂，都还在眼前。第二联最有名：身体不能像凤凰一样飞到对方身边，心却早已相通。这两句一个说“不能”，一个说“能”，又苦又甜。第三联写宴会上热闹的游戏，酒暖灯红，可越热闹，越显出两人不能说话的寂寞。最后一联突然回到现实：鼓声一响，就得骑马去上班，自己像一棵被风吹着乱滚的蓬草，身不由己。美好的回忆和无奈的生活放在一起，让人读了心里酸酸的。",
+  "en": "The poem opens by repeating \"last night\", as if the poet is going over that evening again and again: the stars, the breeze, the painted hall, the cassia hall are still before his eyes. The second couplet is the most famous. His body cannot fly to the other person like a phoenix, but their hearts are already joined. One line says \"cannot\", the other says \"can\", and together they are bitter and sweet. The third couplet shows the lively games at the party, the warm wine and red candles. The livelier the party, the lonelier it feels that the two cannot speak. The last couplet drops back to real life. When the drum sounds, he must ride off to work, like a tumbleweed rolled about by the wind, with no control over his life. A lovely memory next to a life he cannot change leaves the reader with an aching heart."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "night",
+   "banquet"
+  ]
+ },
+ "uncertain": []
+}

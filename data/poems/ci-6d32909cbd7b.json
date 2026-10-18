@@ -1,0 +1,833 @@
+{
+ "id": "ci-6d32909cbd7b",
+ "kind": "ci",
+ "title": "过秦楼·水浴清蟾",
+ "title_en": "Guo Qin Lou: The Moon Bathes in Water",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "浴",
+    "yù"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "蟾",
+    "chán"
+   ]
+  ],
+  [
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "喧",
+    "xuān"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ]
+  ],
+  [
+   [
+    "巷",
+    "xiàng"
+   ],
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "井",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "扑",
+    "pū"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "萤",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "惹",
+    "rě"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "扇",
+    "shàn"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "阑",
+    "lán"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "箭",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "瞬",
+    "shùn"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "怯",
+    "qiè"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "梳",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "镜",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "懒",
+    "lǎn"
+   ],
+   [
+    "趁",
+    "chèn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "匀",
+    "yún"
+   ],
+   [
+    "染",
+    "rǎn"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "溽",
+    "rù"
+   ]
+  ],
+  [
+   [
+    "虹",
+    "hóng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "滋",
+    "zī"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "架",
+    "jià"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "变",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "憀",
+    "liáo"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "伊",
+    "yī"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "减",
+    "jiǎn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "淹",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "荀",
+    "xún"
+   ],
+   [
+    "倩",
+    "qiàn"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "稀",
+    "xī"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "点",
+    "diǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "原文“梦沈书远”的“沈”是“沉”的古写法，这里写作“沉”。“无憀”有的本子写作“无聊”，意思一样。",
+  "en": "The source writes the word for sinking in mèng chén shū yuǎn with an old form of the character; here we use the modern one. Some editions write wú liáo with a different second character; the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "“更”在这里读 gēng，指夜里的时辰，古人把一夜分成五更。",
+   "en": "Here it is read gēng, a watch of the night. People of old split the night into five watches."
+  },
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "吹",
+   "pinyin": "chuī",
+   "zh": "“吹”在这里指风，是名词。古时作名词读 chuì，现在一般读 chuī。",
+   "en": "Here the character means wind, a noun. In old times the noun was read chuì; today it is usually read chuī."
+  },
+  {
+   "line": 22,
+   "pos": 4,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "“数点”是几点，“数”读 shù。",
+   "en": "Shù diǎn means a few dots, so the character is read shù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "水浴清蟾：清亮的月亮倒映在水里，好像在水中洗澡。蟾，传说月亮里有蟾蜍，所以用蟾代指月亮。",
+   "en": "shuǐ yù qīng chán: the clear moon is reflected in the water, as if bathing in it. Chán is a toad; legend says one lives in the moon, so it stands for the moon."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "叶喧凉吹：凉风吹来，树叶沙沙作响。吹，这里指风。",
+   "en": "yè xuān liáng chuī: a cool wind blows and the leaves rustle. Chuī here means wind."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "巷陌：街巷，小路。",
+   "en": "xiàng mò: lanes and streets."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "初断：刚刚停下来。",
+   "en": "chū duàn: has just stopped."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "露井：没有盖子、露在外面的井。",
+   "en": "lù jǐng: an open well with no cover."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "流萤：飞来飞去的萤火虫。",
+   "en": "liú yíng: fireflies flitting about."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 6,
+   "zh": "惹破画罗轻扇：扑萤火虫时，把画着图案的丝绸小扇子弄破了。罗，一种轻薄的丝织品。",
+   "en": "rě pò huà luó qīng shàn: while catching fireflies, she tore her light fan of painted silk. Luó is a thin, light silk."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "凭阑：靠着栏杆。阑，同“栏”。",
+   "en": "píng lán: leaning on the railing."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "立残更箭：一直站到更漏快尽，也就是站了大半夜。更箭，古代计时器漏壶里标着时刻的箭杆。",
+   "en": "lì cán gēng jiàn: standing until the night-clock ran low, nearly all night. The gēng jiàn was the marked rod in an ancient water clock."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 5,
+   "zh": "年华一瞬：时光一眨眼就过去了。",
+   "en": "nián huá yī shùn: the years pass in the blink of an eye."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "梦沉书远：梦里也见不到，书信也断了。沉，沉没、没有消息。",
+   "en": "mèng chén shū yuǎn: she does not appear even in dreams, and letters no longer come."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "空见说：只是听别人说起。空，白白地。",
+   "en": "kōng jiàn shuō: only hearing others say."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 7,
+   "zh": "鬓怯琼梳：头发变得稀少，怕用玉梳梳头。鬓，耳边的头发。琼，美玉。",
+   "en": "bìn qiè qióng shū: her hair has thinned, so she dreads the jade comb. Bìn is the hair by the ears; qióng is fine jade."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "容销金镜：镜子里的容颜一天天消瘦。",
+   "en": "róng xiāo jīn jìng: in the bright mirror her face grows thinner day by day."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "趁时匀染：跟着时兴的样子化妆打扮。匀染，均匀地搽粉画眉。",
+   "en": "chèn shí yún rǎn: making up her face in the fashion of the day. Yún rǎn means evenly applying powder and color."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "梅风地溽：梅雨季节吹着风，地面又湿又闷。溽，潮湿闷热。",
+   "en": "méi fēng dì rù: in the plum-rain season the wind blows and the ground is damp and muggy. Rù means humid."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "虹雨苔滋：夏天下雨，雨后出彩虹，青苔越长越多。滋，生长。",
+   "en": "hóng yǔ tái zī: summer rain brings rainbows, and moss spreads. Zī means to grow."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 4,
+   "zh": "一架舞红：一架子在风中摆动的红花，一般认为是蔷薇。",
+   "en": "yī jià wǔ hóng: a trellis of red flowers swaying in the wind, usually thought to be roses."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "无憀：没有依靠，心里空落落的。同“无聊”。",
+   "en": "wú liáo: empty and lost, with nothing to lean on."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 2,
+   "zh": "伊：她。",
+   "en": "yī: she, her."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 6,
+   "zh": "才减江淹：像江淹那样才华减退了。江淹是南朝文学家，传说他晚年写不出好文章，人称“江郎才尽”。",
+   "en": "cái jiǎn jiāng yān: his talent has faded like Jiang Yan's. Jiang Yan was a writer of the Southern Dynasties; legend says he lost his gift in old age."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "情伤荀倩：像荀粲那样为爱情伤心。荀粲，字奉倩，三国时人，妻子死后他悲伤过度，不久也死了。",
+   "en": "qíng shāng xún qiàn: heartbroken like Xun Can, also called Fengqian, of the Three Kingdoms. After his wife died, he grieved so deeply that he soon died too."
+  },
+  {
+   "line": 21,
+   "start": 1,
+   "end": 3,
+   "zh": "明河：银河。",
+   "en": "míng hé: the Milky Way."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 6,
+   "zh": "稀星数点：稀稀落落的几颗星星。",
+   "en": "xī xīng shù diǎn: a few scattered stars."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清亮的月亮倒映在水里，像在水中洗澡。",
+   "en": "The clear moon bathes in the water."
+  },
+  {
+   "zh": "凉风吹来，树叶沙沙地响。",
+   "en": "A cool wind blows and the leaves rustle."
+  },
+  {
+   "zh": "街巷里的马蹄声刚刚停下。",
+   "en": "The sound of horses in the lanes has just died away."
+  },
+  {
+   "zh": "那时她悠闲地靠在井边，",
+   "en": "Back then she leaned at ease by the open well,"
+  },
+  {
+   "zh": "笑着去扑飞舞的萤火虫，",
+   "en": "laughing as she chased the fireflies,"
+  },
+  {
+   "zh": "把画着花样的丝绸小扇都弄破了。",
+   "en": "and tore her light fan of painted silk."
+  },
+  {
+   "zh": "如今人声安静，夜已深了，我还靠着栏杆，",
+   "en": "Now all is quiet, the night is deep, and I still lean on the railing."
+  },
+  {
+   "zh": "心里发愁，不想回去睡觉，",
+   "en": "Too sad to go back to sleep,"
+  },
+  {
+   "zh": "一直站到更漏快尽。",
+   "en": "I stand until the night-clock runs low."
+  },
+  {
+   "zh": "感叹时光一眨眼就过去了，",
+   "en": "I sigh that the years pass in a blink."
+  },
+  {
+   "zh": "如今她远在千里之外，",
+   "en": "Now she is a thousand miles away."
+  },
+  {
+   "zh": "梦里见不到，书信也断了。",
+   "en": "She does not come in dreams, and her letters have stopped."
+  },
+  {
+   "zh": "只是听人说，她的头发稀了，怕用玉梳梳头，",
+   "en": "I only hear others say her hair has thinned and she dreads the jade comb,"
+  },
+  {
+   "zh": "镜子里的脸一天天瘦下去，",
+   "en": "her face in the mirror grows thinner,"
+  },
+  {
+   "zh": "也渐渐懒得跟着时兴打扮了。",
+   "en": "and she no longer cares to make up in the latest fashion."
+  },
+  {
+   "zh": "梅雨时节，风吹得地面又湿又闷，",
+   "en": "In the plum-rain season the wind is damp and the ground is muggy."
+  },
+  {
+   "zh": "夏雨过后出了彩虹，青苔越长越多，",
+   "en": "After summer rain and rainbows, the moss grows thick."
+  },
+  {
+   "zh": "一架子随风摆动的红花，全都凋谢变了样。",
+   "en": "The trellis of red flowers that danced in the wind has all faded."
+  },
+  {
+   "zh": "谁会相信我这样空虚无聊，",
+   "en": "Who would believe how empty I feel?"
+  },
+  {
+   "zh": "为了她，我的才华像江淹一样减退，",
+   "en": "For her, my talent has faded like Jiang Yan's,"
+  },
+  {
+   "zh": "像荀倩一样为情伤心。",
+   "en": "and my heart is broken like Xun Fengqian's."
+  },
+  {
+   "zh": "只有在银河的影子下面，",
+   "en": "Only beneath the shadow of the Milky Way,"
+  },
+  {
+   "zh": "我还在看那稀稀落落的几颗星星。",
+   "en": "I still gaze at a few scattered stars."
+  }
+ ],
+ "background": {
+  "zh": "这是一首怀念旧日恋人的词。词里写了一个夏夜：词人独自靠着栏杆，想起从前和她在井边扑萤火虫的快乐时光，又想到如今两人相隔千里，音信断绝。这首词写在什么时候、怀念的是谁，已经说不清了。一说是周邦彦早年在汴京（今河南开封）的经历。",
+  "en": "This is a ci about missing a past love. It shows a summer night. The poet leans alone on a railing. He remembers the happy days when she chased fireflies by the well. Now they are a thousand miles apart, and no letters come. We no longer know when it was written or whom he missed. One view links it to his early years in Bianjing, today's Kaifeng in Henan."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，钱塘（今浙江杭州）人，北宋词人。他精通音乐，曾主管朝廷的音乐机构大晟府，自己作了不少新曲调。他的词用字讲究，结构细密，常常在过去和现在之间来回切换，这首词就是一个例子。",
+  "en": "Zhou Bangyan (1056–1121), also called Qingzhen Jushi, came from Qiantang, today's Hangzhou. He was a Northern Song ci poet who knew music well. He once ran the court music office, the Dashengfu, and wrote many new tunes. His words are carefully chosen and his structure is tight. He often jumps between past and present, as this ci does."
+ },
+ "appreciation": {
+  "zh": "这首词像在翻一本相册。第一页是夏夜：月亮在水里洗澡，凉风吹得树叶沙沙响，街上的马蹄声刚停。第二页是回忆：她靠在井边，笑着扑萤火虫，连扇子都扑破了，多么活泼可爱。第三页回到现在：词人一个人站到深夜，叹时光飞快，人在千里外，连梦都做不到。下半首想象她那边：头发稀了，人瘦了，也懒得打扮。再看眼前，梅雨来了又走，红花全谢了，日子一天天过去。最后他说自己才华减了、心也伤了，只能抬头看银河边几颗稀落的星星。开头的热闹和结尾的冷清放在一起，思念就更深了。",
+  "en": "This ci is like flipping through a photo album. The first page is a summer night: the moon bathes in the water, the cool wind rustles the leaves, and the horses in the street have just gone quiet. The second page is a memory: she leans by the well, laughing as she chases fireflies, so eager that she tears her fan. The third page is now: the poet stands alone until late at night, sighing that time flies and she is far away, beyond even his dreams. The second stanza imagines her side: her hair thins, she grows thin, and she no longer dresses up. Back in front of him, the plum rains come and go, the red flowers fade, and the days slip by. At the end he says his talent and his heart are both worn down. All he can do is look up at a few stars by the Milky Way. The lively start and the lonely end, side by side, make the longing deeper."
+ },
+ "famous_lines": [
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "memory",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

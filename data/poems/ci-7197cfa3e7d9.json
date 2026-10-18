@@ -1,0 +1,790 @@
+{
+ "id": "ci-7197cfa3e7d9",
+ "kind": "ci",
+ "title": "一萼红·古城阴",
+ "title_en": "Yi E Hong: In the Shade of the Old City",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "萼",
+    "è"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "宜",
+    "yí"
+   ],
+   [
+    "簪",
+    "zān"
+   ]
+  ],
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "胶",
+    "jiāo"
+   ]
+  ],
+  [
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "腰",
+    "yāo"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沉",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "藤",
+    "téng"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "竹",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "禽",
+    "qín"
+   ]
+  ],
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "泉",
+    "quán"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "榭",
+    "xiè"
+   ]
+  ],
+  [
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "荡",
+    "dàng"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "户",
+    "hù"
+   ],
+   [
+    "黏",
+    "nián"
+   ],
+   [
+    "鸡",
+    "jī"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "簇",
+    "cù"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "序",
+    "xù"
+   ],
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "寻",
+    "xún"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "雅",
+    "yǎ"
+   ],
+   [
+    "集",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "袅",
+    "niǎo"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "金",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "鞍",
+    "ān"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "原文“云意还又沈沈”的“沈”是“沉”的古写法，这里写作“沉”。“黏鸡”有的本子写作“粘鸡”，意思一样。",
+  "en": "The source writes the word for heavy clouds with an old form of the character for sinking; here we use the modern one. Some editions write nián jī with a different first character; the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还又”的“还”读 hái，意思是仍然。下阕“还袅”的“还”也读 hái。",
+   "en": "Here it is read hái, meaning still. The same goes for hái niǎo later on."
+  },
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "簪",
+   "pinyin": "zān",
+   "zh": "“簪”读 zān，这里作动词，意思是插在头发上。",
+   "en": "Read zān. Here it is a verb: to pin in the hair."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "古城阴：古城墙的背阴处。这里的古城指长沙。",
+   "en": "gǔ chéng yīn: the shady side of the old city wall, in Changsha."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "官梅：官府园子里种的梅树。",
+   "en": "guān méi: plum trees grown in a government garden."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "几许：几多，若干。",
+   "en": "jǐ xǔ: some, a number of."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "红萼未宜簪：红色的花苞还没开，不能摘来插在头上。萼，花朵外面包着的绿色小片，这里指花苞。",
+   "en": "hóng è wèi yí zān: the red buds have not opened, so they cannot yet be pinned in the hair. È is the little green cup around a flower; here it means the bud."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "冰胶：冰冻得结结实实，像粘住了一样。",
+   "en": "bīng jiāo: frozen hard, as if glued."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "墙腰雪老：墙半腰的积雪已经放了很久，变得又旧又硬。",
+   "en": "qiáng yāo xuě lǎo: the snow halfway up the wall has lain there long and grown old."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "云意：云的样子，像要下雪下雨。",
+   "en": "yún yì: the look of the clouds, as if more snow or rain will come."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "沉沉：又低又暗、很沉重的样子。",
+   "en": "chén chén: low, dark and heavy."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 7,
+   "zh": "翠藤共闲穿径竹：青绿的藤和小路边的竹子交缠在一起，人悠闲地从中间穿过去。一说是和同游的人一起悠闲地穿过竹间小路。",
+   "en": "cuì téng gòng xián chuān jìng zhú: green vines tangle with the bamboo by the path, and we stroll through. Another reading: walking at ease with friends along the bamboo path."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 8,
+   "zh": "卧沙禽：卧在沙滩上的水鸟。",
+   "en": "wò shā qín: water birds resting on the sand."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "野老林泉：山野老人隐居的树林和泉水。",
+   "en": "yě lǎo lín quán: the woods and springs where country hermits live."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "故王台榭：从前诸侯王留下的高台和亭阁。一般认为指长沙的定王台，是汉代长沙定王刘发修的。",
+   "en": "gù wáng tái xiè: the terraces and pavilions of a former prince. Usually taken as the Dingwang Terrace in Changsha, built by Liu Fa, the Han-dynasty Prince Ding of Changsha."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "登临：登高游览。",
+   "en": "dēng lín: to climb up and look out."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "南去北来：一会儿往南，一会儿往北，到处奔波。",
+   "en": "nán qù běi lái: going south, coming north, always on the move."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 5,
+   "zh": "荡湘云楚水：在湘江、楚地的云水之间飘荡。",
+   "en": "dàng xiāng yún chǔ shuǐ: drifting among the clouds and waters of the Xiang River and the land of Chu."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "目极：望到眼睛能看到的最远处。",
+   "en": "mù jí: looking as far as the eye can see."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "朱户黏鸡：红漆大门上贴着画的鸡。古时正月有在门上贴画鸡的风俗。",
+   "en": "zhū hù nián jī: a painted rooster pasted on a red door. In old times people did this in the first month of the year."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "金盘簇燕：精美的盘子里堆满彩纸剪的燕子。古时立春有剪彩燕的风俗。簇，聚在一起。",
+   "en": "jīn pán cù yàn: a fine plate heaped with swallows cut from colored paper or silk, an old custom at the start of spring. Cù means clustered."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 6,
+   "zh": "时序侵寻：季节和年月一点点地过去。侵寻，渐渐推移。",
+   "en": "shí xù qīn xún: the seasons and years slipping by little by little."
+  },
+  {
+   "line": 17,
+   "start": 5,
+   "end": 7,
+   "zh": "雅集：文人朋友聚在一起饮酒作诗。",
+   "en": "yǎ jí: a gathering of friends to drink and write poems."
+  },
+  {
+   "line": 18,
+   "start": 4,
+   "end": 8,
+   "zh": "袅万丝金：垂下千万条金黄的嫩柳丝，轻轻摆动。袅，细长柔软地摆动。",
+   "en": "niǎo wàn sī jīn: ten thousand golden willow threads swaying softly. Niǎo means to sway gently."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "归鞍：回家的马。鞍，马鞍，代指马。",
+   "en": "guī ān: the horse that carries one home. Ān is a saddle."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在古城墙背阴的地方，",
+   "en": "In the shade of the old city wall,"
+  },
+  {
+   "zh": "有几株官府种的梅树，",
+   "en": "there are some plum trees in the official garden."
+  },
+  {
+   "zh": "红色的花苞还没开，不能摘来插在头上。",
+   "en": "Their red buds have not opened; they cannot yet be pinned in the hair."
+  },
+  {
+   "zh": "池塘的水面冻得结结实实，",
+   "en": "The pond is frozen hard,"
+  },
+  {
+   "zh": "墙半腰的雪积了很久，",
+   "en": "the snow halfway up the wall has lain there long,"
+  },
+  {
+   "zh": "天上的云还是又低又沉。",
+   "en": "and the clouds still hang low and heavy."
+  },
+  {
+   "zh": "绿藤缠着小路边的竹子，我们悠闲地穿过去，",
+   "en": "Green vines twine with the bamboo by the path, and we stroll through."
+  },
+  {
+   "zh": "渐渐有了说笑声，惊起了卧在沙滩上的水鸟。",
+   "en": "Our talk and laughter grow, and startle the water birds resting on the sand."
+  },
+  {
+   "zh": "山野老人的林泉，",
+   "en": "The woods and springs of country hermits,"
+  },
+  {
+   "zh": "古代诸侯王的台榭，",
+   "en": "the terraces of a prince of long ago,"
+  },
+  {
+   "zh": "都好像在呼唤我登高游览。",
+   "en": "all seem to call me to climb and look out."
+  },
+  {
+   "zh": "我一会儿往南，一会儿往北，到底为了什么？",
+   "en": "Going south, coming north, what is it all for?"
+  },
+  {
+   "zh": "在湘江和楚地的云水间飘荡，",
+   "en": "Drifting among the clouds and waters of Xiang and Chu,"
+  },
+  {
+   "zh": "望到最远处，心里只有伤心。",
+   "en": "I look as far as I can see, and my heart aches."
+  },
+  {
+   "zh": "红门上贴着画鸡，",
+   "en": "Painted roosters are pasted on red doors,"
+  },
+  {
+   "zh": "金盘里堆着彩燕，",
+   "en": "colored swallows are heaped on golden plates,"
+  },
+  {
+   "zh": "我只能白白感叹，时光一点点溜走。",
+   "en": "and I can only sigh in vain as the seasons slip away."
+  },
+  {
+   "zh": "记得曾和朋友们在西楼聚会，",
+   "en": "I remember the gathering we once had in the West Tower."
+  },
+  {
+   "zh": "想来那里的垂柳，还在摆动着万条金丝。",
+   "en": "I imagine its weeping willows still sway with ten thousand golden threads."
+  },
+  {
+   "zh": "等我骑马回到那里的时候，",
+   "en": "By the time my horse brings me back there,"
+  },
+  {
+   "zh": "只怕春天已经很深了。",
+   "en": "I fear spring will already be far gone."
+  }
+ ],
+ "background": {
+  "zh": "这首词前面原有一段小序。序里说：丙午年（1186年）人日，也就是正月初七，姜夔客居长沙，住在别驾（州里的副长官）的观政堂。堂边有池塘、竹林和几十株官梅。他穿着木屐在苔藓上走，兴致很高，又登上定王台，渡过湘江，进了岳麓山。玩得尽兴之后，悲伤涌上心来，就带着醉意写下这首词。",
+  "en": "This ci comes with a short preface. It says that on Renri, the seventh day of the first month, in 1186, Jiang Kui was a guest in Changsha, staying at the hall of a deputy prefect. By the hall were a pond, bamboo and dozens of plum trees. He walked over the moss in wooden clogs, full of delight. Then he climbed the Dingwang Terrace, crossed the Xiang River and went into Mount Yuelu. When the fun was over, sadness came, and half drunk, he wrote this ci."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），字尧章，号白石道人，鄱阳（今江西鄱阳）人，南宋词人，也是音乐家。他一生没有做官，靠朋友接济，在各地漂泊。他常常自己作曲填词，词风清冷空灵。这首词里“南去北来”的感叹，正是他漂泊生活的写照。",
+  "en": "Jiang Kui (about 1155–about 1221), also called Baishi Daoren, came from Poyang in today's Jiangxi. He was a Southern Song ci poet and a composer. He never held office, lived on the help of friends, and drifted from place to place. He often wrote both the music and the words, in a cool, airy style. His sigh about going south and coming north is a picture of that wandering life."
+ },
+ "appreciation": {
+  "zh": "上半首是一幅早春小景：古城墙下，梅花只有红红的花苞；池塘结着冰，墙上的雪还没化，天上的云沉甸甸的，冷清极了。可是一群人穿过竹林小路，说说笑笑，把沙滩上的鸟都惊飞了，画面一下子热闹起来。山林、古台都在召唤，游兴正浓。下半首突然转向：“南去北来何事？”词人问自己，这样到处漂泊为了什么？看着湘江的云水，只觉得伤心。门上的画鸡、盘里的彩燕，都在提醒他新年到了，时光又过去一截。他想起远方朋友的西楼，那里的柳树该发芽了，可等他回去，春天恐怕已经过了大半。从游玩的快乐到思乡的惆怅，转得自然，也很真实。",
+  "en": "The first stanza is a small picture of early spring. Under the old city wall the plum trees have only red buds. The pond is frozen, the snow on the wall has not melted, and the clouds hang heavy. It feels cold and lonely. Then a group of friends strolls through the bamboo path, laughing, and startles the birds off the sand. Suddenly the scene comes alive. The woods and the old terrace call to them, and the fun is at its height. The second stanza turns sharply. Going south, coming north, what for? the poet asks himself. Looking at the clouds and water of the Xiang, he only feels sad. The painted roosters and paper swallows remind him that a new year has come and more time is gone. He thinks of the West Tower where his friends are; its willows must be budding. But by the time he gets back, spring may be half over. The turn from the joy of an outing to the ache of missing home feels natural and true."
+ },
+ "famous_lines": [
+  11,
+  19,
+  20
+ ],
+ "tags": {
+  "seasons": [
+   "spring",
+   "winter"
+  ],
+  "festivals": [
+   "spring-festival"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "plum",
+   "travel",
+   "homesick",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

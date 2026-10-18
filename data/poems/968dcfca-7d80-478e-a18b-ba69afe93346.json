@@ -1,0 +1,221 @@
+{
+ "id": "968dcfca-7d80-478e-a18b-ba69afe93346",
+ "kind": "shi",
+ "title": "秋浦歌十七首·其十五",
+ "title_en": "Songs of Qiupu, No. 15",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "丈",
+    "zhàng"
+   ]
+  ],
+  [
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "发",
+   "pinyin": "fà",
+   "zh": "白发：头发的“发”读 fà，不读 fā。",
+   "en": "In bái fà (white hair), the character for hair is read fà, not fā."
+  },
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "似",
+   "pinyin": "sì",
+   "zh": "似个：像这样。“似”读 sì，不读 shì。",
+   "en": "In sì gè (like this), it is read sì, not shì."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长：这里是长短的“长”，读 cháng，不读 zhǎng。",
+   "en": "Here it means long, so it is read cháng, not zhǎng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "三千丈：形容非常非常长，是夸张的说法。丈是古代长度单位，一丈大约三米多。",
+   "en": "sān qiān zhàng: three thousand zhang, meaning extremely long. It is a huge exaggeration. A zhang was an old unit of about three metres."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "缘：因为。",
+   "en": "yuán: because of."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "似个：像这样。",
+   "en": "sì gè: like this, this much."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "明镜：明亮的镜子。",
+   "en": "míng jìng: a bright mirror."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "何处：哪里，从什么地方。",
+   "en": "hé chù: where, from where."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "秋霜：秋天的白霜，这里比喻白头发。",
+   "en": "qiū shuāng: autumn frost, here a picture for white hair."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我的白发足有三千丈长，",
+   "en": "My white hair is three thousand zhang long,"
+  },
+  {
+   "zh": "只因为我的忧愁也有这么长。",
+   "en": "because my sorrow is just as long."
+  },
+  {
+   "zh": "我不知道在这明亮的镜子里，",
+   "en": "I do not know how, in this bright mirror,"
+  },
+  {
+   "zh": "从哪里沾上了这满头的秋霜。",
+   "en": "my head came to be covered with autumn frost."
+  }
+ ],
+ "background": {
+  "zh": "秋浦是唐代的一个县，在今天安徽池州一带，因为境内有秋浦河而得名。李白晚年曾到秋浦游历，写了《秋浦歌》一组十七首，这是第十五首。一般认为写于天宝末年，具体年份说法不一。那时李白离开长安已经多年，政治上的理想没能实现，年纪也大了，心里有说不出的愁苦。",
+  "en": "Qiupu was a county in the Tang dynasty, in today's Chizhou area in Anhui, named after the Qiupu River. In his later years Li Bai travelled there and wrote a set of seventeen \"Songs of Qiupu\". This is the fifteenth. It is usually dated to the last years of the Tianbao era, though the exact year is debated. By then Li Bai had left Chang'an years before. His dream of serving the country had not come true, he was growing old, and he carried a sorrow he could hardly put into words."
+ },
+ "author_note": {
+  "zh": "李白（701—762），字太白，号青莲居士，唐代大诗人，被称为“诗仙”。他的诗想象大胆，常常用夸张的说法，比如“飞流直下三千尺”。他曾在长安为皇帝写诗，但不受重用，后来离开长安，四处漂泊。这首诗里的“白发三千丈”，就是他夸张手法的有名例子。",
+  "en": "Li Bai (701–762), also called Taibai, was a great Tang poet known as the Immortal of Poetry. His poems are full of bold imagination and he often exaggerated, as in \"the flying stream plunges three thousand feet\". He once wrote poems for the emperor in Chang'an but was never given real power. Later he left and wandered from place to place. \"White hair three thousand zhang long\" in this poem is one of the most famous examples of his exaggeration."
+ },
+ "appreciation": {
+  "zh": "第一句就吓人一跳：白发有三千丈长！谁的头发能长到这么长？第二句马上给出答案：因为愁也有这么长。愁是看不见的，诗人把它变成了看得见的白头发，让我们一下子感觉到他的愁有多深、多长。后两句写他照镜子：镜子里的人满头白发，像落了一层秋霜，他吃惊地问：这霜是从哪里来的？其实他心里知道，是多年的愁苦让头发变白了。这一问，把突然发现自己老了的惊讶和难过都写了出来。夸张大胆，却一点也不假，因为感情是真的。",
+  "en": "The first line is startling: white hair three thousand zhang long! Whose hair could grow that long? The second line gives the answer at once: because the sorrow is that long too. Sorrow cannot be seen, so the poet turns it into white hair that can. We feel at once how deep and long his sorrow is. The last two lines show him looking in a mirror. The man in it has hair as white as autumn frost, and he asks in surprise: where did this frost come from? Deep down he knows that years of grief have turned his hair white. This one question holds both the shock and the sadness of suddenly seeing that you have grown old. The exaggeration is bold, yet it does not feel false, because the feeling is real."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "sorrow",
+   "aging",
+   "mirror",
+   "exaggeration"
+  ]
+ },
+ "uncertain": []
+}

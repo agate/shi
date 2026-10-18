@@ -1,0 +1,894 @@
+{
+ "id": "ci-fa2079fde0ae",
+ "kind": "ci",
+ "title": "霜叶飞·重九",
+ "title_en": "Frost Leaves Flying: The Double Ninth",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调慢词",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "荐",
+    "jiàn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "噀",
+    "xùn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "纵",
+    "zòng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "勒",
+    "lè"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "迅",
+    "xùn"
+   ],
+   [
+    "羽",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "吊",
+    "diào"
+   ],
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "古",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "蹋",
+    "tà"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "屏",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "咽",
+    "yè"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "蝉",
+    "chán"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "蛮",
+    "mán"
+   ],
+   [
+    "素",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "聊",
+    "liáo"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "杯",
+    "bēi"
+   ]
+  ],
+  [
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "蠹",
+    "dù"
+   ],
+   [
+    "管",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "阕",
+    "què"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "慵",
+    "yōng"
+   ],
+   [
+    "赋",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "蟾",
+    "chán"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "篱",
+    "lí"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "蛩",
+    "qióng"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "飙",
+    "biāo"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "乌",
+    "wū"
+   ],
+   [
+    "纱",
+    "shā"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "茱",
+    "zhū"
+   ],
+   [
+    "萸",
+    "yú"
+   ],
+   [
+    "看",
+    "kàn"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "勒",
+   "pinyin": "lè",
+   "zh": "勒在这里读 lè，玉勒是马笼头。用绳子捆紧的“勒紧”才读 lēi。",
+   "en": "Here this character is read lè; yù lè is a jade-trimmed bridle. It is read lēi only when it means to tie tight."
+  },
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "咽在这里读 yè，是声音堵住、哽咽的意思，不读吞咽的 yàn。",
+   "en": "Here this character is read yè, a voice choking off, not yàn, to swallow."
+  },
+  {
+   "line": 17,
+   "pos": 5,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "现在一般读 kàn。这句化用杜甫的诗“醉把茱萸仔细看”，在杜甫诗里“看”押平声韵，读 kān。",
+   "en": "Usually read kàn today. The line borrows from Du Fu's \"drunk, I hold the dogwood and look at it closely\", where this character rhymes and is read kān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "断烟：一缕一缕、时断时续的烟。",
+   "en": "duàn yān: wisps of mist that break and drift."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "离绪：分别以后的愁思。",
+   "en": "lí xù: the sad thoughts left after parting."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "关心事：牵动心里的往事。",
+   "en": "guān xīn shì: old memories that tug at the heart."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "霜树：经过霜打、叶子变红的树。",
+   "en": "shuāng shù: trees touched by frost, their leaves turned red."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "荐：献上、供奉。",
+   "en": "jiàn: to offer up."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "黄花：菊花。重阳节有赏菊的习俗。",
+   "en": "huáng huā: chrysanthemums, which people admire at the Double Ninth."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 2,
+   "zh": "噀：喷洒。",
+   "en": "xùn: to spray."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "纵：放开，任由。",
+   "en": "zòng: to let loose."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "玉勒：装饰着玉的马笼头，这里指骑马。",
+   "en": "yù lè: a jade-trimmed bridle; here, riding horses."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "迅羽：飞得很快的鸟，指打猎用的鹰。",
+   "en": "xùn yǔ: swift wings; the hawks used in hunting."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 4,
+   "zh": "吊：凭吊，到古迹前怀念古人。",
+   "en": "diào: to visit an old site and remember the past."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "荒台：荒废的高台。一般认为指戏马台，古人重阳节登高的地方。",
+   "en": "huāng tái: a ruined terrace. It is usually taken as the Horse-Riding Terrace, where people of old climbed on the Double Ninth."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "蹋：同“踏”，走。",
+   "en": "tà: the same as \"to tread\", to walk."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "南屏：南屏山，在杭州西湖边。",
+   "en": "nán píng: Nanping Hill, by West Lake in Hangzhou."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "彩扇：歌女跳舞唱歌时拿的彩色扇子，这里指唱歌的女子。",
+   "en": "cǎi shàn: the painted fan a singing girl held; here, the singer herself."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 7,
+   "zh": "寒蝉倦梦：秋天的蝉声低弱，人醉得昏昏欲睡。",
+   "en": "hán chán juàn mèng: autumn cicadas fading, and the poet drowsy with wine."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "蛮素：唐代诗人白居易有两位歌女，叫小蛮和樊素。这里借指诗人心爱的女子。",
+   "en": "mán sù: the Tang poet Bai Juyi had two singing girls, Xiaoman and Fansu. Here the names stand for the woman the poet loved."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 1,
+   "zh": "聊：姑且，随便。",
+   "en": "liáo: just, for now."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "旧节：年年都有的老节日，这里指重阳节。",
+   "en": "jiù jié: the old festival that comes every year, here the Double Ninth."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "传杯：互相传着酒杯喝酒。",
+   "en": "chuán bēi: passing the wine cup around."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "尘笺：落满灰尘的信纸。",
+   "en": "chén jiān: writing paper covered in dust."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "蠹管：被虫子蛀了的毛笔。蠹，蛀虫。",
+   "en": "dù guǎn: a writing brush eaten by insects. Dù is a bookworm."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "断阕：没写完的词。",
+   "en": "duàn què: a lyric left unfinished."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 6,
+   "zh": "慵赋：懒得再写。慵，懒。",
+   "en": "yōng fù: too weary to write. Yōng means listless."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "小蟾：弯弯的新月。传说月亮里有蟾蜍，所以用蟾代指月亮。",
+   "en": "xiǎo chán: a thin new moon. Legend puts a toad in the moon, so the toad stands for the moon."
+  },
+  {
+   "line": 13,
+   "start": 5,
+   "end": 7,
+   "zh": "东篱：东边的篱笆，种菊花的地方。陶渊明有诗“采菊东篱下”。",
+   "en": "dōng lí: the eastern fence where chrysanthemums grow, from Tao Yuanming's line about picking them there."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "残蛩：深秋快要叫不动的蟋蟀。",
+   "en": "cán qióng: crickets of late autumn, their chirping almost gone."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 4,
+   "zh": "缘：因为。",
+   "en": "yuán: because of."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "惊飙：突然刮起的狂风。",
+   "en": "jīng biāo: a sudden gust of wind."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 3,
+   "zh": "从：任凭，随它。",
+   "en": "cóng: let it, never mind."
+  },
+  {
+   "line": 16,
+   "start": 4,
+   "end": 6,
+   "zh": "乌纱：黑色的纱帽。古代有个故事：晋朝的孟嘉在重阳节登山，风把他的帽子吹掉了，他也不在意。",
+   "en": "wū shā: a black gauze hat. An old story tells how Meng Jia lost his hat to the wind on a Double Ninth climb and did not even notice."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 1,
+   "zh": "漫：随意，姑且。",
+   "en": "màn: idly, just."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "细将：仔细地拿着。",
+   "en": "xì jiāng: holding carefully."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 5,
+   "zh": "茱萸：一种有香气的植物。重阳节人们插茱萸，说可以避邪。",
+   "en": "zhū yú: a fragrant plant that people wore on the Double Ninth to keep away harm."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 2,
+   "zh": "约：约定。",
+   "en": "yuē: to make a promise to meet."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "翠微：青翠的山腰，这里指重阳登高的山。",
+   "en": "cuì wēi: green mountain slopes, here the hills climbed on the Double Ninth."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一缕缕断续的烟雾，像我分别后的愁思。",
+   "en": "Wisps of broken mist, like the sad thoughts left after parting."
+  },
+  {
+   "zh": "勾起心里的往事。",
+   "en": "They stir up old memories."
+  },
+  {
+   "zh": "夕阳的红光，隐在经霜的红树里。",
+   "en": "The red of the setting sun hides among frost-reddened trees."
+  },
+  {
+   "zh": "我用半壶清水供着菊花，",
+   "en": "With half a jug of clear water I offer up chrysanthemums,"
+  },
+  {
+   "zh": "菊香被西风秋雨吹散，四处飘洒。",
+   "en": "and their scent is sprayed about by the west wind and rain."
+  },
+  {
+   "zh": "别人纵马放鹰，去郊外游猎。",
+   "en": "Others ride out with loose reins and let their swift hawks fly."
+  },
+  {
+   "zh": "可是谁会去凄凉的古台，怀念从前的人呢？",
+   "en": "But who will go to the lonely old terrace to remember the past?"
+  },
+  {
+   "zh": "还记得那年我醉了，走在南屏山上，",
+   "en": "I remember walking drunk on Nanping Hill,"
+  },
+  {
+   "zh": "她的歌声在扇子后面停住，秋蝉低鸣，我困倦欲睡，",
+   "en": "her song choked off behind the painted fan, the autumn cicadas faint, and I was drowsy,"
+  },
+  {
+   "zh": "竟没有留意身边心爱的人。",
+   "en": "and I hardly noticed the woman I loved beside me."
+  },
+  {
+   "zh": "如今只好对着老节日，随便喝几杯酒。",
+   "en": "Now I can only face the old festival and pass the cup."
+  },
+  {
+   "zh": "信纸落满灰尘，毛笔被虫蛀了，",
+   "en": "My paper is dusty, my brush eaten by worms,"
+  },
+  {
+   "zh": "没写完的词，一年了也懒得写下去。",
+   "en": "and the unfinished lyric has waited a year; I am too weary to write."
+  },
+  {
+   "zh": "一弯新月的斜影移过东边种菊花的篱笆，",
+   "en": "The slanting light of the thin moon moves across the eastern fence,"
+  },
+  {
+   "zh": "夜晚很冷，只剩几只蟋蟀还在低声叫着。",
+   "en": "the night is cold, and a few last crickets murmur."
+  },
+  {
+   "zh": "我早早白了头发，是因为有千丝万缕的愁。",
+   "en": "My hair turned white early, from ten thousand strands of sorrow."
+  },
+  {
+   "zh": "任凭狂风把我的帽子卷走吧。",
+   "en": "Let the sudden wind carry off my black hat."
+  },
+  {
+   "zh": "我姑且仔细地看看手里的茱萸，",
+   "en": "I just look closely at the dogwood in my hand,"
+  },
+  {
+   "zh": "只盼着约好明年，",
+   "en": "and hope only to promise that next year"
+  },
+  {
+   "zh": "还到那青山高处去登高。",
+   "en": "we will climb high again to the green hills."
+  }
+ ],
+ "background": {
+  "zh": "重九就是农历九月初九重阳节。古人这一天要登高、赏菊、插茱萸、喝酒。这首词是吴文英在重阳节写的，回忆起从前和一位心爱的女子在杭州南屏山喝酒的情景。一般认为词里怀念的是他已经去世或已经分开的爱人，但她是谁、这首词写在哪一年，都说不清楚。",
+  "en": "The Double Ninth is the festival on the ninth day of the ninth lunar month. People used to climb hills, admire chrysanthemums, wear dogwood and drink wine that day. Wu Wenying wrote this lyric on that festival. He remembers drinking on Nanping Hill in Hangzhou with a woman he loved. She is usually taken to be a lover who had died or left him, but who she was, and which year he wrote this, are not known."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，南宋词人。他一辈子没有做大官，常在苏州、杭州一带给官员做门客。他的词用字华丽，意思跳来跳去，像梦一样，不太好懂。他写了很多怀念旧日爱人的词，这首也是其中之一。",
+  "en": "Wu Wenying (about 1200–about 1260), also called Mengchuang, was a Southern Song ci poet. He never held high office and often lived as a guest of officials around Suzhou and Hangzhou. His lyrics use rich words and jump from image to image like a dream, so they are not easy to follow. Many of them mourn a lost love, and this is one."
+ },
+ "appreciation": {
+  "zh": "这首词把节日的热闹和心里的冷清放在一起。别人在重阳节骑马打猎、登高游玩，诗人却只供着半壶水里的菊花，看着夕阳和红叶发呆。上片后半突然跳回过去：那年在南屏山上喝醉了，她拿着彩扇唱歌，他却迷迷糊糊没有珍惜。下片回到现在：笔也坏了，纸也脏了，词一年都写不完；夜里只有新月、篱笆和快没声音的蟋蟀。他说头发是愁白的，帽子被风吹走也不管了。最后他拿着茱萸，只能盼望明年再去登高。可那时她还会在吗？词没有说，留下一片空空的伤感。",
+  "en": "This lyric sets the noise of a festival beside a cold, quiet heart. Others ride out to hunt and climb on the Double Ninth. The poet only sets chrysanthemums in half a jug of water and stares at the sunset and red leaves. Late in the first stanza he suddenly jumps back in time. That year on Nanping Hill he was drunk, she sang behind her painted fan, and he was too dazed to treasure the moment. The second stanza returns to now. His brush is broken, his paper dusty, and a lyric has gone unfinished for a year. At night there are only the new moon, the fence and a few fading crickets. He says sorrow turned his hair white, and he does not care if the wind steals his hat. At last, dogwood in hand, he can only hope to climb again next year. Will she be there? The lyric does not say, and leaves an empty ache behind."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "lost-love",
+   "chrysanthemum",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

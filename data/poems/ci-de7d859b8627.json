@@ -1,0 +1,535 @@
+{
+ "id": "ci-de7d859b8627",
+ "kind": "ci",
+ "title": "江城子·西城杨柳弄春柔",
+ "title_en": "Jiang Cheng Zi: Willows of the West City Play with Soft Spring",
+ "author": "秦观",
+ "author_en": "Qin Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《江城子》，双调七十字",
+  "en": "ci to the tune Jiang Cheng Zi, 70 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "柔",
+    "róu"
+   ]
+  ],
+  [
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "忧",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "系",
+    "xì"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "韶",
+    "sháo"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "留",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "悠",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "做",
+    "zuò"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "系",
+   "pinyin": "xì",
+   "zh": "“系”这里是拴、绑的意思，读 xì。",
+   "en": "Here this character means to tie, and is read xì."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“曾为”是曾经替我，“为”读 wèi。",
+   "en": "Céng wèi means once did it for me, so this character is read wèi."
+  },
+  {
+   "line": 8,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“不为少年留”是不为年轻人停留，“为”读 wèi。",
+   "en": "Bù wèi shào nián liú means does not stay for the young, so this character is read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "西城：城的西边。一说指北宋都城汴京（今河南开封）西郊。",
+   "en": "xī chéng: the west side of the city. One view says it is the western outskirts of Bianjing, the Northern Song capital, today's Kaifeng in Henan."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "弄春柔：柳枝在春风里轻轻摆动，显出柔美的样子。",
+   "en": "nòng chūn róu: willow branches sway gently in the spring wind, soft and lovely."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "离忧：离别的忧愁。",
+   "en": "lí yōu: the sorrow of parting."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "多情：指情意深厚的人，也可以理解成有情的杨柳。",
+   "en": "duō qíng: someone full of tender feeling; it can also mean the caring willows."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "系归舟：把回来的船拴在岸边的柳树上。",
+   "en": "xì guī zhōu: tying the returning boat to a willow on the bank."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "碧野朱桥：碧绿的原野，红色的小桥。",
+   "en": "bì yě zhū qiáo: green fields and a red bridge."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "当日事：当年发生的事。",
+   "en": "dāng rì shì: what happened in those days."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "水空流：河水白白地流着。",
+   "en": "shuǐ kōng liú: the water flows on for nothing."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "韶华：美好的时光，青春。",
+   "en": "sháo huá: the lovely days of youth."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "悠悠：长久不断的样子。",
+   "en": "yōu yōu: long and endless."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "几时休：什么时候才能停止。",
+   "en": "jǐ shí xiū: when will it ever stop?"
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "便做：即使，就算。",
+   "en": "biàn zuò: even if."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "西城的杨柳在春风里轻柔地摆动，",
+   "en": "In the west city, willows sway softly in spring,"
+  },
+  {
+   "zh": "勾起了我离别的忧愁，",
+   "en": "Stirring up the sorrow of parting,"
+  },
+  {
+   "zh": "眼泪怎么也止不住。",
+   "en": "And my tears cannot be held back."
+  },
+  {
+   "zh": "还记得那位多情的人，",
+   "en": "I still remember the one so full of feeling,"
+  },
+  {
+   "zh": "曾经为我把归来的船拴在柳树上。",
+   "en": "Who once tied my returning boat to the willows."
+  },
+  {
+   "zh": "绿色的原野，红色的小桥，那些往日的事情还在眼前，",
+   "en": "Green fields and a red bridge, those days are still before my eyes,"
+  },
+  {
+   "zh": "可是人已经不见了，",
+   "en": "But the one I loved is gone,"
+  },
+  {
+   "zh": "只有河水白白地流着。",
+   "en": "And only the river flows on in vain."
+  },
+  {
+   "zh": "美好的青春不会为年轻人停留，",
+   "en": "Lovely youth will not stay for the young;"
+  },
+  {
+   "zh": "这遗憾绵绵不断，",
+   "en": "This regret goes on and on,"
+  },
+  {
+   "zh": "什么时候才能停止？",
+   "en": "When will it ever end?"
+  },
+  {
+   "zh": "在柳絮飞舞、落花纷纷的时候，我登上了高楼。",
+   "en": "In the season of flying catkins and falling flowers, I climb the tower."
+  },
+  {
+   "zh": "即使整条春江都变成我的眼泪，",
+   "en": "Even if the whole spring river were made of my tears,"
+  },
+  {
+   "zh": "也流不完，",
+   "en": "It could not carry away"
+  },
+  {
+   "zh": "我心中这么多的愁。",
+   "en": "All of my sorrow."
+  }
+ ],
+ "background": {
+  "zh": "这首词写词人在暮春时节重回旧地，想起当年和心爱的人在这里相会、分别，如今人已不见，只剩他一个人伤感。一般认为写于宋哲宗绍圣元年（1094年）前后，当时秦观因为朝廷里的党派斗争，被贬出京城，离开汴京前写下了这首词。一说写作时间另有不同。",
+  "en": "In this lyric the poet returns to an old place in late spring. He remembers meeting and parting from someone he loved here. Now that person is gone, and only he is left with his sorrow. It is usually dated to around 1094. At that time Qin Guan was sent away from the capital because of fights between court factions, and he wrote this lyric before leaving Bianjing. Other views give a different date."
+ },
+ "author_note": {
+  "zh": "秦观（1049—1100），字少游，号淮海居士，扬州高邮（今属江苏）人。他是苏轼的学生，“苏门四学士”之一。他在政治上很不顺利，一次次被贬到远方。他的词感情细腻，语言柔美，最擅长写离别和愁思，是婉约派的代表词人。",
+  "en": "Qin Guan (1049–1100), known as the Lay Buddhist of Huaihai, came from Gaoyou near Yangzhou, in today's Jiangsu. He was a student of Su Shi and one of the Four Scholars of Su's circle. His career went badly, and he was sent to faraway posts again and again. His lyrics are tender and soft in language, and he was best at writing about parting and sorrow. He is a leading poet of the gentle, delicate style of ci."
+ },
+ "appreciation": {
+  "zh": "开头写春天的杨柳，柔柔地摆动，本来很美，却一下子勾起了离愁，眼泪止不住。因为他想起了从前：也是在这样的柳树边，那个多情的人曾为他系住归来的小船。绿野、红桥都还在，人却不在了，只有河水白白流着。下片从个人的离别扩大到时光：青春不会为谁停留，遗憾没有尽头。在柳絮纷飞、落花满地的时候登上高楼，愁就更多了。最后三句是全词的高潮：就算整条春江都是我的眼泪，也流不完我的愁。用江水比愁，又用眼泪比江水，夸张却真实，让人一读就记住。",
+  "en": "It opens with spring willows swaying softly. The scene is lovely, yet it stirs his grief at once, and his tears will not stop. That is because he remembers the past. By willows just like these, the one who loved him once tied up his returning boat. The green fields and red bridge are still here, but that person is not, and the river flows on for nothing. The second stanza widens from one parting to time itself. Youth stays for no one, and regret never ends. Climbing a tower while catkins fly and petals fall only adds to the sorrow. The last three lines are the peak: even if the whole spring river were my tears, it could not carry away all my sorrow. He compares sorrow to a river, and the river to tears. It is an exaggeration, but it feels true, and once you read it you remember it."
+ },
+ "famous_lines": [
+  12,
+  13,
+  14
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "willow",
+   "sorrow",
+   "youth"
+  ]
+ },
+ "uncertain": []
+}

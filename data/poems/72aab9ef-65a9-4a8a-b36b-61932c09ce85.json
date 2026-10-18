@@ -1,0 +1,216 @@
+{
+ "id": "72aab9ef-65a9-4a8a-b36b-61932c09ce85",
+ "kind": "shi",
+ "title": "听弹琴",
+ "title_en": "Listening to the Qin",
+ "author": "刘长卿",
+ "author_en": "Liu Changqing",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "泠",
+    "líng"
+   ],
+   [
+    "泠",
+    "líng"
+   ],
+   [
+    "七",
+    "qī"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "调",
+    "diào"
+   ],
+   [
+    "虽",
+    "suī"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "爱",
+    "ài"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "弹",
+    "tán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里用《唐诗三百首》的通行文本，第一句作“七弦”。另有版本作“七丝”，意思一样，都是指琴的七根弦。",
+  "en": "This uses the common text from Three Hundred Tang Poems, where line one says qī xián, \"seven strings\". Another version says qī sī, \"seven silk threads\". Both mean the seven strings of the qin."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "调",
+   "pinyin": "diào",
+   "zh": "调：这里指曲调，读 diào，不读 tiáo。",
+   "en": "Here it means a tune, so it is read diào, not tiáo."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "弹",
+   "pinyin": "tán",
+   "zh": "弹：这里是弹奏乐器，读 tán，不读 dàn。",
+   "en": "Here it means to play an instrument, so it is read tán, not dàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "泠泠：形容声音清脆、清凉，像流水的声音。",
+   "en": "líng líng: a clear, cool sound, like running water."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "七弦：古琴有七根弦，这里就指古琴。古琴是一种很古老的弹拨乐器，放在桌上弹。",
+   "en": "qī xián: seven strings. The qin, or guqin, has seven strings, so this means the qin itself. It is a very old plucked instrument played lying flat on a table."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "松风寒：像风吹松林那样清冷的声音。古琴曲里有一首叫《风入松》，这里也暗含这个曲名。",
+   "en": "sōng fēng hán: a cool sound like wind through pines. There is an old qin piece called \"Wind Through the Pines\", and the line hints at it."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "古调：古老的曲调。",
+   "en": "gǔ diào: old tunes."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "虽自爱：虽然我自己很喜欢。",
+   "en": "suī zì ài: although I love them myself."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "今人：现在的人。",
+   "en": "jīn rén: people of today."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "七根琴弦上传来清亮的声音，",
+   "en": "From the seven strings comes a clear, cool sound."
+  },
+  {
+   "zh": "我静静地听，好像寒风吹过松林。",
+   "en": "I listen quietly; it is like a cold wind through the pines."
+  },
+  {
+   "zh": "这古老的曲调，我自己虽然很喜欢，",
+   "en": "These old tunes, though I love them myself,"
+  },
+  {
+   "zh": "可如今的人大多已经不弹了。",
+   "en": "most people today no longer play."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写诗人听人弹古琴时的感受。唐代时，从西域传来的新乐器和新曲子很流行，比如琵琶，大家都爱听热闹的新音乐，弹古琴的人越来越少。有的版本题目作《弹琴》。写作时间不清楚。很多人认为，诗人借古琴没人弹，说的是自己品格高、却不被世人赏识。",
+  "en": "This poem tells how the poet felt while listening to someone play the qin. In the Tang dynasty, new instruments and new music from the west, such as the pipa, were very popular. People loved the lively new music, and fewer and fewer people played the qin. Some versions title the poem simply \"Playing the Qin\". We do not know when it was written. Many readers think the poet uses the forgotten qin to speak about himself: a person of fine character whom the world does not value."
+ },
+ "author_note": {
+  "zh": "刘长卿，字文房，唐代诗人，生卒年说法不一。他擅长五言诗，被称为“五言长城”。他做官不顺，两次被贬，性格又刚直，常常觉得自己不被人理解。这首诗里“今人多不弹”的叹息，也带着他自己的这种心情。",
+  "en": "Liu Changqing, also called Wenfang, was a Tang poet; sources disagree about when he was born and died. He was a master of five-character poems and was called \"the Great Wall of five-character verse\". His career went badly: he was twice sent away to lower posts, and he was proud and upright, so he often felt nobody understood him. The sigh in this poem that \"most people today no longer play\" carries that feeling of his own."
+ },
+ "appreciation": {
+  "zh": "前两句写琴声。“泠泠”像清清的流水，“松风寒”像风吹过松林，又凉又静。我们仿佛能看到一个人安安静静地坐着，闭上眼睛听琴。后两句忽然一转：这么好听的古曲，我很喜欢，可现在的人都不弹了。热闹的新音乐把老琴声挤到了角落。诗人不只是在说音乐，也是在说自己：一个坚持老派、清高的人，在热闹的世界里显得孤单。整首诗很短，琴声清冷，心情也有点冷清和寂寞。",
+  "en": "The first two lines describe the music. \"Líng líng\" is like clear running water, and \"cold wind in the pines\" is cool and still. We can almost see someone sitting quietly with eyes closed, listening. Then the last two lines turn: I love these beautiful old tunes, but people today do not play them. Lively new music has pushed the old sound into a corner. The poet is not only talking about music but also about himself: a person who holds to old, pure ways feels alone in a noisy world. The poem is very short. The music is cool and clear, and the mood is a little cold and lonely too."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "music",
+   "qin",
+   "loneliness",
+   "unappreciated"
+  ]
+ },
+ "uncertain": []
+}

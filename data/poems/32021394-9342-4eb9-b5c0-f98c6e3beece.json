@@ -1,0 +1,438 @@
+{
+ "id": "32021394-9342-4eb9-b5c0-f98c6e3beece",
+ "kind": "shi",
+ "title": "钱塘湖春行",
+ "title_en": "A Spring Walk by Qiantang Lake",
+ "author": "白居易",
+ "author_en": "Bai Juyi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "寺",
+    "sì"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "贾",
+    "jiǎ"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "西",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "脚",
+    "jiǎo"
+   ],
+   [
+    "低",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "啄",
+    "zhuó"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "泥",
+    "ní"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "没",
+    "mò"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "蹄",
+    "tí"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "足",
+    "zú"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "堤",
+    "dī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库本题作《钱唐湖春行》，“钱唐”是古写法；现在通行写作《钱塘湖春行》。钱塘湖就是杭州西湖。",
+  "en": "The database title uses an old way of writing Qiantang; today it is commonly written another way. Qiantang Lake is West Lake in Hangzhou."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "贾",
+   "pinyin": "jiǎ",
+   "zh": "贾亭的“贾”是姓，读 jiǎ。",
+   "en": "Here it is a surname, read jiǎ."
+  },
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "没",
+   "pinyin": "mò",
+   "zh": "没在这里是“盖住、遮没”的意思，读 mò。",
+   "en": "Here it means to cover up, so it is read mò."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "孤山寺：西湖孤山上的一座寺庙。孤山在里湖和外湖之间。",
+   "en": "gū shān sì: a temple on Solitary Hill in West Lake. The hill sits between the inner and outer parts of the lake."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "贾亭：唐朝一位姓贾的杭州长官在西湖边修的亭子。",
+   "en": "jiǎ tíng: a pavilion by West Lake built by a Tang governor of Hangzhou surnamed Jia."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "水面初平：春天湖水涨起来，刚好和岸差不多平。",
+   "en": "shuǐ miàn chū píng: in spring the lake water has risen until it is nearly level with the banks."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "云脚低：云垂得很低，好像碰到了水面。",
+   "en": "yún jiǎo dī: the clouds hang low, as if touching the water."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "早莺：早春的黄莺。",
+   "en": "zǎo yīng: orioles of early spring."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "暖树：向阳的、晒得到太阳的树。",
+   "en": "nuǎn shù: trees in the sun, warmed by its light."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "新燕：刚从南方飞回来的燕子。",
+   "en": "xīn yàn: swallows just back from the south."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "啄春泥：用嘴衔泥巴来筑窝。",
+   "en": "zhuó chūn ní: picking up mud in their beaks to build nests."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "乱花：开得五颜六色、到处都是的花。",
+   "en": "luàn huā: flowers of every color blooming everywhere."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "迷人眼：让人眼花缭乱。",
+   "en": "mí rén yǎn: dazzling the eyes."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "没马蹄：刚好盖住马蹄。没，遮没。",
+   "en": "mò mǎ tí: just deep enough to cover a horse's hooves."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "行不足：走也走不够，看也看不够。",
+   "en": "xíng bù zú: cannot walk there enough, cannot get enough of it."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "白沙堤：就是白堤，西湖东边的一条长堤。它在白居易来杭州以前就有了，不是他修的那条堤。",
+   "en": "bái shā dī: the Bai Causeway, a long bank on the east side of West Lake. It was there before Bai Juyi came to Hangzhou; it is not the dike he built."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我走在孤山寺的北边、贾亭的西边。",
+   "en": "I walk north of Solitary Hill Temple and west of Jia Pavilion."
+  },
+  {
+   "zh": "湖水刚涨到和岸一样平，白云低低地垂在水面上。",
+   "en": "The lake has just risen level with its banks, and the clouds hang low over the water."
+  },
+  {
+   "zh": "好几处早来的黄莺，争着飞上向阳的树。",
+   "en": "In several places early orioles vie for the sunny trees."
+  },
+  {
+   "zh": "不知谁家新来的燕子，正在衔泥筑巢。",
+   "en": "Whose new swallows are those, pecking at the spring mud?"
+  },
+  {
+   "zh": "五颜六色的花开得越来越多，快要让人看花了眼。",
+   "en": "Wild blossoms are about to dazzle the eye."
+  },
+  {
+   "zh": "浅浅的春草，刚刚能盖住马蹄。",
+   "en": "The short spring grass is just tall enough to hide a horse's hooves."
+  },
+  {
+   "zh": "我最爱湖的东边，怎么走也走不够。",
+   "en": "I love the east side of the lake best and can never walk it enough."
+  },
+  {
+   "zh": "绿色的杨柳树荫下，是那条白沙堤。",
+   "en": "There, in the shade of green willows, runs the White Sand Causeway."
+  }
+ ],
+ "background": {
+  "zh": "唐穆宗长庆二年（822年），白居易到杭州做刺史，也就是杭州的最高长官。这首诗一般认为写于长庆三年或四年的早春。钱塘湖就是今天的西湖。白居易骑着马沿着湖边走，看到早春的景色，写下了这首诗。他在杭州时还修筑过湖堤，蓄水灌田。",
+  "en": "In 822, Bai Juyi went to Hangzhou as its prefect, the top official of the city. This poem is generally dated to early spring in 823 or 824. Qiantang Lake is today's West Lake. Bai Juyi rode his horse along the lakeside, saw the early spring scenery, and wrote this poem. While in Hangzhou he also built a dike on the lake to store water for the farm fields."
+ },
+ "author_note": {
+  "zh": "白居易（772—846），唐代大诗人，字乐天。他的诗明白好懂，据说连不识字的老奶奶都能听懂。他在杭州做官时很喜欢西湖，离开后还写诗怀念，说“未能抛得杭州去，一半勾留是此湖”。",
+  "en": "Bai Juyi (772–846), also called Letian, was a great Tang poet. His poems are so clear that, it is said, even an old woman who could not read understood them. While serving in Hangzhou he loved West Lake. After he left he still wrote poems missing it, saying that half of what held him to Hangzhou was this lake."
+ },
+ "appreciation": {
+  "zh": "这首诗像跟着诗人骑马游湖。开头告诉我们他在哪里：孤山寺北、贾亭西。抬眼一看，湖水满满的，白云低低的。接着是早春的小生命：黄莺抢着站到晒太阳的树上，燕子忙着衔泥做窝。“几处”“谁家”说明春天才刚开始，还不是到处都热闹。然后看地上：花渐渐多起来，草才刚刚盖过马蹄，一个“渐”、一个“才”，把早春写得特别准。最后说他最爱湖东的白沙堤，绿柳成荫，怎么走都走不够。全诗轻快明亮，满是喜悦。",
+  "en": "This poem is like riding around the lake with the poet. It begins by telling us where he is: north of the temple, west of the pavilion. He looks up: the lake is full, and the clouds hang low. Then come the small creatures of early spring. Orioles rush to perch on sunny trees, and swallows busily carry mud for their nests. The words \"in several places\" and \"whose\" show that spring has only just begun; it is not yet lively everywhere. Then he looks down. The flowers are slowly growing more, and the grass is only just covering the hooves. The words for \"slowly\" and \"only just\" catch early spring exactly. At the end he says he loves the White Sand Causeway on the east side best, shaded by green willows, and can never ride it enough. The whole poem is light, bright and full of joy."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lake",
+   "birds",
+   "flowers",
+   "spring-scenery",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

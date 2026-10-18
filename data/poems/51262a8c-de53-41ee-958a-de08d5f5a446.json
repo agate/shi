@@ -1,0 +1,252 @@
+{
+ "id": "51262a8c-de53-41ee-958a-de08d5f5a446",
+ "kind": "shi",
+ "title": "集灵台·其二",
+ "title_en": "The Terrace of Gathered Spirits (No. 2)",
+ "author": "张祜",
+ "author_en": "Zhang Hu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "虢",
+    "guó"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "承",
+    "chéng"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ],
+   [
+    "恩",
+    "ēn"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "嫌",
+    "xián"
+   ],
+   [
+    "脂",
+    "zhī"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "污",
+    "wū"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ],
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "尊",
+    "zūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原始文本第三句的“汚”是“污”的异体字，这里写作通行的“污”。",
+  "en": "In the third line the source writes the character for wū, \"to spoil\", in an old variant form. The standard form is used here."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "朝：这里是“朝见”，就是去见皇帝，读 cháo，不读 zhāo。",
+   "en": "cháo: here it means to go and see the emperor, so it is read cháo, not zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "虢国夫人：杨贵妃的姐姐，被唐玄宗封为虢国夫人。",
+   "en": "Guóguó fūrén: the Lady of Guo, an elder sister of Yang Guifei, given this title by Emperor Xuanzong."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "承主恩：受到皇帝的宠爱。主，指皇帝唐玄宗。",
+   "en": "chéng zhǔ ēn: to enjoy the emperor's favor. Zhǔ is the emperor, Xuanzong."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "平明：天刚亮的时候。",
+   "en": "píng míng: at dawn."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "却嫌：反而嫌弃。",
+   "en": "què xián: instead she disliked."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "脂粉：胭脂和香粉，化妆用的东西。",
+   "en": "zhī fěn: rouge and face powder, used for makeup."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "污颜色：弄脏了她的好容貌。颜色，这里指脸色、容貌。",
+   "en": "wū yán sè: to spoil her looks. Yán sè here means her face."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "淡扫蛾眉：只把眉毛淡淡地画一画。蛾眉，女子细长弯弯的眉毛，像蚕蛾的触须。",
+   "en": "dàn sǎo é méi: just lightly brushing her eyebrows. É méi are a woman's long, curved eyebrows, shaped like a moth's feelers."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "朝至尊：去朝见皇帝。至尊，最尊贵的人，指皇帝。",
+   "en": "cháo zhì zūn: to go before the emperor. Zhì zūn, \"the most honored one\", means the emperor."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "虢国夫人深受皇帝的宠爱，",
+   "en": "The Lady of Guo enjoyed the emperor's favor."
+  },
+  {
+   "zh": "天刚亮，她就骑着马直接进了宫门。",
+   "en": "At dawn she rode her horse straight through the palace gate."
+  },
+  {
+   "zh": "她反而嫌胭脂香粉会弄脏自己的美貌，",
+   "en": "She even felt that rouge and powder would spoil her beauty,"
+  },
+  {
+   "zh": "只淡淡地画了画眉毛，就去见皇帝。",
+   "en": "So she only lightly brushed her brows, and went to see the emperor."
+  }
+ ],
+ "background": {
+  "zh": "集灵台是唐玄宗在骊山华清宫里修的一座殿台，用来祭祀神仙。杨贵妃得宠以后，她的几个姐姐也都被封为夫人，非常骄横。虢国夫人仗着皇帝的宠爱，可以骑着马随便出入宫门。张祜写了两首《集灵台》，第二首就写她。这首诗一说是杜甫所作，题为《虢国夫人》，但一般选本归在张祜名下。",
+  "en": "The Terrace of Gathered Spirits was a hall Emperor Xuanzong built at the Huaqing Palace on Mount Li, for worshipping immortals. After Yang Guifei won the emperor's favor, her elder sisters were also given noble titles and grew very proud. Trusting in the emperor's favor, the Lady of Guo could ride her horse in and out of the palace as she liked. Zhang Hu wrote two poems on this terrace, and the second is about her. One view says Du Fu wrote it, under the title \"The Lady of Guo\", but most anthologies give it to Zhang Hu."
+ },
+ "author_note": {
+  "zh": "张祜（约785—约849），唐代诗人。他一生没有做过什么大官，喜欢四处游历，写了很多关于宫廷和历史的诗。他的《宫词》里“故国三千里，深宫二十年”非常有名。他写宫中人物，常常话不多，却带着讽刺。",
+  "en": "Zhang Hu (about 785–849) was a Tang poet. He never held an important post and liked to travel. He wrote many poems about the palace and about history. His \"Palace Song\", with the lines \"home three thousand li away, twenty years in the deep palace\", is very famous. When he wrote about people at court, he used few words, but they often carried a sting."
+ },
+ "appreciation": {
+  "zh": "这首诗表面上在夸虢国夫人：她长得美，美到不用化妆。可仔细读，就能读出讽刺。按规矩，进宫要很恭敬，可她天一亮就骑着马直闯宫门。见皇帝本该好好打扮，她却只淡淡画一下眉毛，好像在说：我不打扮也比别人好看。一个“却嫌”，把她的骄傲和得意都写出来了。诗人没有一句骂她，只是把她的样子画出来，读的人自然明白皇帝的宠爱有多过分。",
+  "en": "On the surface the poem praises the Lady of Guo: she is so beautiful she needs no makeup. But read closely and you hear mockery. By the rules, people had to enter the palace with great respect. Yet she rides her horse right through the gate at dawn. Meeting the emperor, one should dress with care. Yet she only brushes her brows a little, as if to say, \"Even without makeup I am lovelier than anyone.\" The words \"she even disliked\" show all her pride. The poet never scolds her. He just paints her picture, and readers can see for themselves how far the emperor's favor had gone."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "satire",
+   "beauty"
+  ]
+ },
+ "uncertain": []
+}

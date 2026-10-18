@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>长相思·其二 · 李白 — 诗</title>
+    <meta name="description" content="长相思·其二 · 李白 — Endless Longing, No. 2 by Li Bai: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · yuefu song with lines of mixed length</span><span lang="zh">唐诗 · 乐府·杂言</span></p>
+        <h1>长相思·其二</h1>
+        <p class="by">李白<span class="mono"><span lang="en">Li Bai · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Endless Longing, No. 2</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>rì</i><b>日</b></span><span class="c gl" data-l="0" data-p="1"><i>sè</i><b>色</b></span><span class="c gl" data-l="0" data-p="2"><i>yù</i><b>欲</b></span><span class="c gl" data-l="0" data-p="3"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="0" data-p="4"><i>huā</i><b>花</b></span><span class="c gl" data-l="0" data-p="5"><i>hán</i><b>含</b></span><span class="c gl" data-l="0" data-p="6"><i>yān</i><b>烟</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>yuè</i><b>月</b></span><span class="c" data-l="1" data-p="1"><i>míng</i><b>明</b></span><span class="c gl" data-l="1" data-p="2"><i>yù</i><b>欲</b></span><span class="c gl" data-l="1" data-p="3"><i>sù</i><b>素</b></span><span class="c" data-l="1" data-p="4"><i>chóu</i><b>愁</b></span><span class="c" data-l="1" data-p="5"><i>bù</i><b>不</b></span><span class="c" data-l="1" data-p="6"><i>mián</i><b>眠</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>zhào</i><b>赵</b></span><span class="c gl" data-l="2" data-p="1"><i>sè</i><b>瑟</b></span><span class="c" data-l="2" data-p="2"><i>chū</i><b>初</b></span><span class="c" data-l="2" data-p="3"><i>tíng</i><b>停</b></span><span class="c gl" data-l="2" data-p="4"><i>fèng</i><b>凤</b></span><span class="c gl" data-l="2" data-p="5"><i>huáng</i><b>凰</b></span><span class="c gl" data-l="2" data-p="6"><i>zhù</i><b>柱</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>shǔ</i><b>蜀</b></span><span class="c gl" data-l="3" data-p="1"><i>qín</i><b>琴</b></span><span class="c" data-l="3" data-p="2"><i>yù</i><b>欲</b></span><span class="c" data-l="3" data-p="3"><i>zòu</i><b>奏</b></span><span class="c gl" data-l="3" data-p="4"><i>yuān</i><b>鸳</b></span><span class="c gl" data-l="3" data-p="5"><i>yāng</i><b>鸯</b></span><span class="c gl" data-l="3" data-p="6"><i>xián</i><b>弦</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>cǐ</i><b>此</b></span><span class="c rd" data-l="4" data-p="1"><i>qǔ</i><b>曲</b></span><span class="c gl" data-l="4" data-p="2"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="4" data-p="3"><i>yì</i><b>意</b></span><span class="c" data-l="4" data-p="4"><i>wú</i><b>无</b></span><span class="c" data-l="4" data-p="5"><i>rén</i><b>人</b></span><span class="c rd" data-l="4" data-p="6"><i>chuán</i><b>传</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>yuàn</i><b>愿</b></span><span class="c" data-l="5" data-p="1"><i>suí</i><b>随</b></span><span class="c" data-l="5" data-p="2"><i>chūn</i><b>春</b></span><span class="c" data-l="5" data-p="3"><i>fēng</i><b>风</b></span><span class="c" data-l="5" data-p="4"><i>jì</i><b>寄</b></span><span class="c gl rd" data-l="5" data-p="5"><i>yān</i><b>燕</b></span><span class="c gl" data-l="5" data-p="6"><i>rán</i><b>然</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>yì</i><b>忆</b></span><span class="c" data-l="6" data-p="1"><i>jūn</i><b>君</b></span><span class="c gl" data-l="6" data-p="2"><i>tiáo</i><b>迢</b></span><span class="c gl" data-l="6" data-p="3"><i>tiáo</i><b>迢</b></span><span class="c" data-l="6" data-p="4"><i>gé</i><b>隔</b></span><span class="c" data-l="6" data-p="5"><i>qīng</i><b>青</b></span><span class="c" data-l="6" data-p="6"><i>tiān</i><b>天</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>xī</i><b>昔</b></span><span class="c" data-l="7" data-p="1"><i>shí</i><b>时</b></span><span class="c gl" data-l="7" data-p="2"><i>héng</i><b>横</b></span><span class="c gl" data-l="7" data-p="3"><i>bō</i><b>波</b></span><span class="c gl" data-l="7" data-p="4"><i>mù</i><b>目</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>jīn</i><b>今</b></span><span class="c" data-l="8" data-p="1"><i>zuò</i><b>作</b></span><span class="c gl" data-l="8" data-p="2"><i>liú</i><b>流</b></span><span class="c gl" data-l="8" data-p="3"><i>lèi</i><b>泪</b></span><span class="c gl" data-l="8" data-p="4"><i>quán</i><b>泉</b></span></p><p class="ln"><span class="c" data-l="9" data-p="0"><i>bú</i><b>不</b></span><span class="c" data-l="9" data-p="1"><i>xìn</i><b>信</b></span><span class="c gl" data-l="9" data-p="2"><i>qiè</i><b>妾</b></span><span class="c gl" data-l="9" data-p="3"><i>cháng</i><b>肠</b></span><span class="c gl" data-l="9" data-p="4"><i>duàn</i><b>断</b></span></p><p class="ln"><span class="c" data-l="10" data-p="0"><i>guī</i><b>归</b></span><span class="c" data-l="10" data-p="1"><i>lái</i><b>来</b></span><span class="c gl rd" data-l="10" data-p="2"><i>kàn</i><b>看</b></span><span class="c gl" data-l="10" data-p="3"><i>qǔ</i><b>取</b></span><span class="c" data-l="10" data-p="4"><i>míng</i><b>明</b></span><span class="c" data-l="10" data-p="5"><i>jìng</i><b>镜</b></span><span class="c" data-l="10" data-p="6"><i>qián</i><b>前</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The source titles it &quot;Miscellaneous Songs: Endless Longing, Three Poems, No. 2&quot;; the shorter usual title is used here. Common editions such as Three Hundred Tang Poems differ from the source in a few words. In line 1 the source has &quot;the daylight is gone&quot; where they have &quot;is almost gone&quot;. In lines 8 and 9 the source has slightly different words for &quot;once&quot; and &quot;has become&quot;, with the same meaning. The common text is used here.</p><p lang="zh">原始资料题作“杂曲歌辞·长相思三首·二”，这里按通行的说法题作“长相思·其二”。通行本（如《唐诗三百首》）与原始资料有几处不同：第一句原作“日色已尽”，通行本作“日色欲尽”；第八、九句原作“昔日横波目，今成流泪泉”，通行本作“昔时横波目，今作流泪泉”。这里从通行本。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">日色欲尽花含烟</span><span lang="en">The daylight is nearly gone, and the flowers are wrapped in mist.</span><span lang="zh">太阳快落山了，花儿被暮色的雾气笼罩，</span></li><li><span class="o">月明欲素愁不眠</span><span lang="en">The moon grows white as silk, and I am too sad to sleep.</span><span lang="zh">月光像白绢一样，我心里发愁，睡不着觉。</span></li><li><span class="o">赵瑟初停凤凰柱</span><span lang="en">I have just stopped playing the se with its phoenix bridges,</span><span lang="zh">刚刚停下弹奏刻着凤凰的赵瑟，</span></li><li><span class="o">蜀琴欲奏鸳鸯弦</span><span lang="en">and now I want to play the paired strings of the qin.</span><span lang="zh">又想拨动蜀琴上成双的琴弦。</span></li><li><span class="o">此曲有意无人传</span><span lang="en">This tune is full of feeling, but no one will carry it,</span><span lang="zh">这曲子里满含情意，却没有人替我传送，</span></li><li><span class="o">愿随春风寄燕然</span><span lang="en">so I wish it could ride the spring wind to faraway Mount Yanran.</span><span lang="zh">但愿它随着春风，送到远方的燕然山。</span></li><li><span class="o">忆君迢迢隔青天</span><span lang="en">I miss you, but you are far away, beyond the blue sky.</span><span lang="zh">想念你，你却远在天的那一边。</span></li><li><span class="o">昔时横波目</span><span lang="en">These eyes that once shone like rippling water</span><span lang="zh">从前那双水波一样明亮的眼睛，</span></li><li><span class="o">今作流泪泉</span><span lang="en">have now become springs of tears.</span><span lang="zh">如今成了流泪的泉眼。</span></li><li><span class="o">不信妾肠断</span><span lang="en">If you do not believe my heart is broken,</span><span lang="zh">你要是不相信我伤心欲绝，</span></li><li><span class="o">归来看取明镜前</span><span lang="en">come home and look at me in front of the bright mirror.</span><span lang="zh">回来到明镜前看一看我吧。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>日色欲尽<span class="mono">rì sè yù jìn</span></dt><dd><span lang="en">rì sè yù jìn: the daylight is almost gone.</span><span lang="zh">日色欲尽：太阳的光快要没了，天快黑了。</span></dd></div><div><dt>花含烟<span class="mono">huā hán yān</span></dt><dd><span lang="en">huā hán yān: the flowers are wrapped in evening mist.</span><span lang="zh">花含烟：花被傍晚的雾气笼罩着。</span></dd></div><div><dt>欲素<span class="mono">yù sù</span></dt><dd><span lang="en">yù sù: the moonlight is turning white as silk. Sù is plain white silk.</span><span lang="zh">欲素：月光白得像白绢一样。素，白色的绸子。</span></dd></div><div><dt>赵瑟<span class="mono">zhào sè</span></dt><dd><span lang="en">Zhào sè: the se, a zither with many strings. People of the old state of Zhao were said to play it well.</span><span lang="zh">赵瑟：瑟是一种多弦的乐器。传说古代赵国人擅长弹瑟。</span></dd></div><div><dt>凤凰柱<span class="mono">fèng huáng zhù</span></dt><dd><span lang="en">fèng huáng zhù: string bridges carved with phoenixes.</span><span lang="zh">凤凰柱：刻着凤凰的弦柱。</span></dd></div><div><dt>蜀琴<span class="mono">shǔ qín</span></dt><dd><span lang="en">Shǔ qín: the qin, a seven-string zither. Shu, today&#x27;s Sichuan, was said to make fine ones.</span><span lang="zh">蜀琴：琴是一种七弦乐器。传说古代蜀地（今天的四川）出好琴。</span></dd></div><div><dt>鸳鸯弦<span class="mono">yuān yāng xián</span></dt><dd><span lang="en">yuān yāng xián: strings in pairs. Mandarin ducks always go in pairs, so they stand for a loving couple.</span><span lang="zh">鸳鸯弦：成双成对的琴弦。鸳鸯总是成对出现，这里比喻夫妻相爱。</span></dd></div><div><dt>有意<span class="mono">yǒu yì</span></dt><dd><span lang="en">yǒu yì: full of feeling.</span><span lang="zh">有意：含着情意。</span></dd></div><div><dt>燕然<span class="mono">yān rán</span></dt><dd><span lang="en">Yān rán: Mount Yanran, in today&#x27;s Mongolia, here meaning the far frontier where her husband is.</span><span lang="zh">燕然：燕然山，在今天的蒙古国境内，这里指丈夫远在边塞的地方。</span></dd></div><div><dt>迢迢<span class="mono">tiáo tiáo</span></dt><dd><span lang="en">tiáo tiáo: far, far away.</span><span lang="zh">迢迢：遥远的样子。</span></dd></div><div><dt>横波目<span class="mono">héng bō mù</span></dt><dd><span lang="en">héng bō mù: eyes as bright and lively as rippling water.</span><span lang="zh">横波目：眼睛像流动的水波一样明亮动人。</span></dd></div><div><dt>流泪泉<span class="mono">liú lèi quán</span></dt><dd><span lang="en">liú lèi quán: tears flowing like a spring that never stops.</span><span lang="zh">流泪泉：眼泪像泉水一样不停地流。</span></dd></div><div><dt>妾<span class="mono">qiè</span></dt><dd><span lang="en">qiè: a humble word a woman used for herself in old times, meaning &quot;I&quot;.</span><span lang="zh">妾：古代女子谦虚地称自己，就是“我”。</span></dd></div><div><dt>肠断<span class="mono">cháng duàn</span></dt><dd><span lang="en">cháng duàn: heartbroken, sad beyond words.</span><span lang="zh">肠断：形容伤心到了极点。</span></dd></div><div><dt>看取<span class="mono">kàn qǔ</span></dt><dd><span lang="en">kàn qǔ: take a look. Qǔ adds no meaning here.</span><span lang="zh">看取：看看。取，助词，没有实际意思。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>曲<span class="mono">qǔ</span></dt><dd><span lang="en">Here it means a tune, so it is read qǔ.</span><span lang="zh">这里是“曲子”的意思，读 qǔ。</span></dd></div><div><dt>传<span class="mono">chuán</span></dt><dd><span lang="en">Here it means to pass on, so it is read chuán.</span><span lang="zh">这里是“传送”的意思，读 chuán。</span></dd></div><div><dt>燕<span class="mono">yān</span></dt><dd><span lang="en">In the mountain name Yanran it is read yān.</span><span lang="zh">“燕然”是山名，读 yān。</span></dd></div><div><dt>看<span class="mono">kàn</span></dt><dd><span lang="en">Kàn qǔ just means &quot;take a look&quot;; here it is read kàn.</span><span lang="zh">“看取”就是看看，这里读 kàn。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem also uses the old yuefu title &quot;Endless Longing&quot;. A woman misses her husband far away at the frontier. Mount Yanran was on the northern frontier where wars were fought long ago, so it is usually read that her husband is a soldier there. We do not know when it was written. One view is that it also carries Li Bai&#x27;s own feelings: talent left unused, and longing for the court.</p><p lang="zh">这首诗也是用乐府旧题《长相思》写的，写一位女子思念远在边塞的丈夫。燕然山在北方边塞，是古代打仗的地方，所以一般理解为她的丈夫在那里从军。写作时间不清楚。一说诗里也寄托着李白自己怀才不遇、思念朝廷的心情。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. He wrote several poems titled &quot;Endless Longing&quot;, and this one speaks in a woman&#x27;s voice. He was good at showing the feelings of a wife left at home, and these lines are soft and delicate, very different from his usual bold style.</p><p lang="zh">李白（701—762），唐代大诗人，人称“诗仙”。他写过好几首《长相思》，这一首是用女子的口气写的。他很会写思妇的心情，诗句柔和细腻，和他平时豪放的诗风很不一样。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">It moves from evening into night. The sun sets, the flowers sink into mist, the moon grows whiter, and she cannot sleep. She tries music to ease her sorrow. She has just finished on the se, then turns to the qin. Phoenixes and mandarin ducks both come in pairs, yet she is alone. No one can carry the feeling in her tune, so she asks the spring wind to take it to Mount Yanran. The last lines move us most. Those eyes, once bright as rippling water, have become springs of tears. She says: if you do not believe how sad I am, come home and see me in the mirror. It is not a cry, but a hurt and stubborn line that makes your heart ache for her.</p><p lang="zh">开头是傍晚到夜里：太阳落了，花在雾里，月亮越来越白，她却睡不着。她想用音乐解愁，刚弹完瑟，又去弹琴，“凤凰”“鸳鸯”都是成双的，偏偏她是一个人。曲子里的心意没人送，她只好请春风带到燕然山。最后几句最动人：从前那双水波一样的眼睛，现在成了泪泉。她说，你不信我有多伤心，就回来看看镜子里的我吧。这不是哭喊，而是一句又委屈又倔强的话，让人心疼。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/xiazhongnanshanguohusishanrensuzhijiu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>下终南山过斛斯山人宿置酒</b></a><a href="../../p/suwumiao/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>苏武庙</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["日", "rì"], ["色", "sè"], ["欲", "yù"], ["尽", "jìn"], ["花", "huā"], ["含", "hán"], ["烟", "yān"]], [["月", "yuè"], ["明", "míng"], ["欲", "yù"], ["素", "sù"], ["愁", "chóu"], ["不", "bù"], ["眠", "mián"]], [["赵", "zhào"], ["瑟", "sè"], ["初", "chū"], ["停", "tíng"], ["凤", "fèng"], ["凰", "huáng"], ["柱", "zhù"]], [["蜀", "shǔ"], ["琴", "qín"], ["欲", "yù"], ["奏", "zòu"], ["鸳", "yuān"], ["鸯", "yāng"], ["弦", "xián"]], [["此", "cǐ"], ["曲", "qǔ"], ["有", "yǒu"], ["意", "yì"], ["无", "wú"], ["人", "rén"], ["传", "chuán"]], [["愿", "yuàn"], ["随", "suí"], ["春", "chūn"], ["风", "fēng"], ["寄", "jì"], ["燕", "yān"], ["然", "rán"]], [["忆", "yì"], ["君", "jūn"], ["迢", "tiáo"], ["迢", "tiáo"], ["隔", "gé"], ["青", "qīng"], ["天", "tiān"]], [["昔", "xī"], ["时", "shí"], ["横", "héng"], ["波", "bō"], ["目", "mù"]], [["今", "jīn"], ["作", "zuò"], ["流", "liú"], ["泪", "lèi"], ["泉", "quán"]], [["不", "bú"], ["信", "xìn"], ["妾", "qiè"], ["肠", "cháng"], ["断", "duàn"]], [["归", "guī"], ["来", "lái"], ["看", "kàn"], ["取", "qǔ"], ["明", "míng"], ["镜", "jìng"], ["前", "qián"]]], "glosses": [{"line": 0, "start": 0, "end": 4, "zh": "日色欲尽：太阳的光快要没了，天快黑了。", "en": "rì sè yù jìn: the daylight is almost gone."}, {"line": 0, "start": 4, "end": 7, "zh": "花含烟：花被傍晚的雾气笼罩着。", "en": "huā hán yān: the flowers are wrapped in evening mist."}, {"line": 1, "start": 2, "end": 4, "zh": "欲素：月光白得像白绢一样。素，白色的绸子。", "en": "yù sù: the moonlight is turning white as silk. Sù is plain white silk."}, {"line": 2, "start": 0, "end": 2, "zh": "赵瑟：瑟是一种多弦的乐器。传说古代赵国人擅长弹瑟。", "en": "Zhào sè: the se, a zither with many strings. People of the old state of Zhao were said to play it well."}, {"line": 2, "start": 4, "end": 7, "zh": "凤凰柱：刻着凤凰的弦柱。", "en": "fèng huáng zhù: string bridges carved with phoenixes."}, {"line": 3, "start": 0, "end": 2, "zh": "蜀琴：琴是一种七弦乐器。传说古代蜀地（今天的四川）出好琴。", "en": "Shǔ qín: the qin, a seven-string zither. Shu, today's Sichuan, was said to make fine ones."}, {"line": 3, "start": 4, "end": 7, "zh": "鸳鸯弦：成双成对的琴弦。鸳鸯总是成对出现，这里比喻夫妻相爱。", "en": "yuān yāng xián: strings in pairs. Mandarin ducks always go in pairs, so they stand for a loving couple."}, {"line": 4, "start": 2, "end": 4, "zh": "有意：含着情意。", "en": "yǒu yì: full of feeling."}, {"line": 5, "start": 5, "end": 7, "zh": "燕然：燕然山，在今天的蒙古国境内，这里指丈夫远在边塞的地方。", "en": "Yān rán: Mount Yanran, in today's Mongolia, here meaning the far frontier where her husband is."}, {"line": 6, "start": 2, "end": 4, "zh": "迢迢：遥远的样子。", "en": "tiáo tiáo: far, far away."}, {"line": 7, "start": 2, "end": 5, "zh": "横波目：眼睛像流动的水波一样明亮动人。", "en": "héng bō mù: eyes as bright and lively as rippling water."}, {"line": 8, "start": 2, "end": 5, "zh": "流泪泉：眼泪像泉水一样不停地流。", "en": "liú lèi quán: tears flowing like a spring that never stops."}, {"line": 9, "start": 2, "end": 3, "zh": "妾：古代女子谦虚地称自己，就是“我”。", "en": "qiè: a humble word a woman used for herself in old times, meaning \"I\"."}, {"line": 9, "start": 3, "end": 5, "zh": "肠断：形容伤心到了极点。", "en": "cháng duàn: heartbroken, sad beyond words."}, {"line": 10, "start": 2, "end": 4, "zh": "看取：看看。取，助词，没有实际意思。", "en": "kàn qǔ: take a look. Qǔ adds no meaning here."}], "readings": [{"line": 4, "pos": 1, "char": "曲", "pinyin": "qǔ", "zh": "这里是“曲子”的意思，读 qǔ。", "en": "Here it means a tune, so it is read qǔ."}, {"line": 4, "pos": 6, "char": "传", "pinyin": "chuán", "zh": "这里是“传送”的意思，读 chuán。", "en": "Here it means to pass on, so it is read chuán."}, {"line": 5, "pos": 5, "char": "燕", "pinyin": "yān", "zh": "“燕然”是山名，读 yān。", "en": "In the mountain name Yanran it is read yān."}, {"line": 10, "pos": 2, "char": "看", "pinyin": "kàn", "zh": "“看取”就是看看，这里读 kàn。", "en": "Kàn qǔ just means \"take a look\"; here it is read kàn."}], "speak": ["日色欲晋花含烟", "月明欲素愁不眠", "赵瑟初停凤凰柱", "蜀琴欲奏鸳鸯弦", "此龋有意无人传", "愿随春风寄阉然", "忆君迢迢隔青天", "昔时横波目", "今作流泪泉", "不信妾肠断", "归来看取明镜前"], "speakTitle": "长相思，其二。李白。", "sample": "日色欲尽花含烟"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

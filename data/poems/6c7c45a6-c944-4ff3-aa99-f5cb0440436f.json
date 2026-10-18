@@ -1,0 +1,922 @@
+{
+ "id": "6c7c45a6-c944-4ff3-aa99-f5cb0440436f",
+ "kind": "shi",
+ "title": "赠卫八处士",
+ "title_en": "For Wei the Eighth, a Gentleman at Home",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "参",
+    "shēn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "商",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "夕",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "光",
+    "guāng"
+   ]
+  ],
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "壮",
+    "zhuàng"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "各",
+    "gè"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "苍",
+    "cāng"
+   ]
+  ],
+  [
+   [
+    "访",
+    "fǎng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "鬼",
+    "guǐ"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "热",
+    "rè"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "焉",
+    "yān"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "载",
+    "zǎi"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "堂",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "婚",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "行",
+    "háng"
+   ]
+  ],
+  [
+   [
+    "怡",
+    "yí"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "敬",
+    "jìng"
+   ],
+   [
+    "父",
+    "fù"
+   ],
+   [
+    "执",
+    "zhí"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "方",
+    "fāng"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "答",
+    "dá"
+   ],
+   [
+    "乃",
+    "nǎi"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "已",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "驱",
+    "qū"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "浆",
+    "jiāng"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "剪",
+    "jiǎn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "韭",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "炊",
+    "chuī"
+   ],
+   [
+    "间",
+    "jiàn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "粱",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "主",
+    "zhǔ"
+   ],
+   [
+    "称",
+    "chēng"
+   ],
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "难",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "举",
+    "jǔ"
+   ],
+   [
+    "累",
+    "lěi"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "觞",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "觞",
+    "shāng"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "感",
+    "gǎn"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "岳",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "茫",
+    "máng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原始文本第十五、十六句作“问荅乃未已，儿女罗酒浆”。“荅”是“答”的旧写法。通行本作“问答乃未已，驱儿罗酒浆”，这里用通行本。也有的本子作“问答未及已”。",
+  "en": "In the corpus, lines fifteen and sixteen use an old way of writing dá (to answer), and line sixteen says \"the sons and daughters set out wine\". The usual text says \"he sends the children to set out wine\", which is followed here. Some editions also word line fifteen a little differently."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "参",
+   "pinyin": "shēn",
+   "zh": "参：这里指参星，读 shēn，不读 cān。",
+   "en": "Here the character means the star Shen and is read shēn, not cān."
+  },
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "少壮：年轻力壮。“少”读 shào，意思是年轻。",
+   "en": "In shào zhuàng (young and strong), the character means young and is read shào, not shǎo."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重上：再一次来到。“重”读 chóng，意思是再。",
+   "en": "In chóng shàng (to come again), the character means again and is read chóng, not zhòng."
+  },
+  {
+   "line": 11,
+   "pos": 4,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "成行：排成一行，形容儿女很多。“行”读 háng。",
+   "en": "In chéng háng (standing in a row), the character means a row and is read háng, not xíng."
+  },
+  {
+   "line": 17,
+   "pos": 2,
+   "char": "间",
+   "pinyin": "jiàn",
+   "zh": "间：掺杂、夹杂，读 jiàn。",
+   "en": "Here the character means mixed in and is read jiàn, not jiān."
+  },
+  {
+   "line": 19,
+   "pos": 2,
+   "char": "累",
+   "pinyin": "lěi",
+   "zh": "累：接连，读 lěi。",
+   "en": "Here the character means one after another and is read lěi, not lèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "不相见：见不到面。",
+   "en": "bù xiāng jiàn: not to see each other."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "动：动不动，常常。",
+   "en": "dòng: often, all too easily."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "参与商：参星和商星，两颗星一个在西、一个在东，此起彼落，永远不会同时出现在天上。比喻亲友难以见面。",
+   "en": "shēn yǔ shāng: the stars Shen and Shang. One rises in the west and one in the east, and they never appear in the sky at the same time. They stand for friends who can never meet."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "今夕复何夕：今晚是个什么样的晚上啊！表示又惊又喜。",
+   "en": "jīn xī fù hé xī: what a night this is! It shows surprise and joy."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "少壮：年轻力壮的时候。",
+   "en": "shào zhuàng: the years of youth and strength."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "鬓发：耳朵旁边的头发，也泛指头发。",
+   "en": "bìn fà: the hair by the ears, or hair in general."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "苍：灰白色。",
+   "en": "cāng: grey, greying."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "访旧：打听老朋友的消息。",
+   "en": "fǎng jiù: asking after old friends."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "半为鬼：一半已经死了。",
+   "en": "bàn wéi guǐ: half of them have become ghosts, that is, died."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "热中肠：心里一阵发热，非常难过。中肠，内心。",
+   "en": "rè zhōng cháng: a burning feeling inside, deep pain. Zhōng cháng means one's insides, the heart."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "焉知：哪里想到。",
+   "en": "yān zhī: who would have thought."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 5,
+   "zh": "载：年。",
+   "en": "zǎi: year."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "君子堂：您的家。君子，对卫八的尊称。",
+   "en": "jūn zǐ táng: your hall, your home. Jūn zǐ is a polite way to address Wei."
+  },
+  {
+   "line": 11,
+   "start": 3,
+   "end": 5,
+   "zh": "成行：排成一排，形容孩子多。",
+   "en": "chéng háng: lined up in a row, meaning there are many children."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "怡然：高高兴兴、和和气气的样子。",
+   "en": "yí rán: cheerful and friendly."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "父执：父亲的朋友。",
+   "en": "fù zhí: a friend of one's father."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 5,
+   "zh": "乃未已：还没有完。",
+   "en": "nǎi wèi yǐ: had not yet finished."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "驱儿：叫孩子们去。",
+   "en": "qū ér: sending the children off."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 5,
+   "zh": "罗酒浆：摆上酒和饮料。罗，摆开。",
+   "en": "luó jiǔ jiāng: to set out wine and drinks. Luó means to lay out."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 5,
+   "zh": "剪春韭：去割春天的韭菜。韭菜春天最嫩。",
+   "en": "jiǎn chūn jiǔ: to cut spring chives. Chives are most tender in spring."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "新炊：刚煮好的饭。",
+   "en": "xīn chuī: freshly cooked rice."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 5,
+   "zh": "间黄粱：里面掺着黄米。黄粱，黄小米。",
+   "en": "jiàn huáng liáng: mixed with yellow millet."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "主称：主人说。",
+   "en": "zhǔ chēng: the host says."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 5,
+   "zh": "累十觞：一连喝了十杯。觞，酒杯。",
+   "en": "lěi shí shāng: ten cups one after another. Shāng is a wine cup."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 5,
+   "zh": "故意长：老朋友的情意深长。故意，旧日的情谊。",
+   "en": "gù yì cháng: the long, deep feeling of an old friendship. Gù yì here means old friendship, not \"on purpose\"."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 5,
+   "zh": "隔山岳：被高山隔开，指又要分别。",
+   "en": "gé shān yuè: to be cut off by mountains, that is, to part again."
+  },
+  {
+   "line": 23,
+   "start": 2,
+   "end": 5,
+   "zh": "两茫茫：两个人的前途都看不清，不知道以后会怎样。",
+   "en": "liǎng máng máng: for both of us the future is a blur; no one knows what will happen."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "人活在世上，朋友之间难得见面，",
+   "en": "In this life, friends so rarely meet;"
+  },
+  {
+   "zh": "常常像参星和商星一样，此起彼落。",
+   "en": "we are often like the stars Shen and Shang, one rising as the other sets."
+  },
+  {
+   "zh": "今晚是个多么难得的晚上啊，",
+   "en": "What a night tonight is,"
+  },
+  {
+   "zh": "我们能一起坐在这灯光下。",
+   "en": "that we can sit together in this lamplight!"
+  },
+  {
+   "zh": "年轻力壮的日子能有多久？",
+   "en": "How long do the years of youth last?"
+  },
+  {
+   "zh": "如今我们的头发都已经花白了。",
+   "en": "Already the hair on both our heads is grey."
+  },
+  {
+   "zh": "打听老朋友，一半已经不在人世，",
+   "en": "I ask about old friends: half of them are dead."
+  },
+  {
+   "zh": "我忍不住惊叫，心里一阵发烫。",
+   "en": "I cry out in shock, my heart burning inside."
+  },
+  {
+   "zh": "哪里想到，隔了二十年，",
+   "en": "Who would have thought that after twenty years"
+  },
+  {
+   "zh": "我还能再来到您的家里。",
+   "en": "I would step into your hall once more?"
+  },
+  {
+   "zh": "当年分别时您还没有成家，",
+   "en": "When we parted, you were not yet married;"
+  },
+  {
+   "zh": "现在儿女已经一排一排了。",
+   "en": "now your sons and daughters stand in a row."
+  },
+  {
+   "zh": "他们高高兴兴地招呼父亲的老朋友，",
+   "en": "Cheerfully they greet their father's old friend"
+  },
+  {
+   "zh": "问我是从哪里来的。",
+   "en": "and ask me where I have come from."
+  },
+  {
+   "zh": "问来答去，话还没说完，",
+   "en": "Before the questions and answers are done,"
+  },
+  {
+   "zh": "您就叫孩子们摆上了酒。",
+   "en": "you send the children to set out the wine."
+  },
+  {
+   "zh": "冒着夜雨去割来春天的韭菜，",
+   "en": "In the night rain they cut spring chives,"
+  },
+  {
+   "zh": "刚煮的饭里掺着黄米。",
+   "en": "and the fresh-cooked rice is mixed with yellow millet."
+  },
+  {
+   "zh": "主人说见一面真不容易，",
+   "en": "The host says it is hard for us to meet,"
+  },
+  {
+   "zh": "一举杯就连着喝了十杯。",
+   "en": "and raising his cup, he drinks ten in a row."
+  },
+  {
+   "zh": "喝了十杯我也没有醉，",
+   "en": "Even after ten cups I am not drunk,"
+  },
+  {
+   "zh": "只是感激您待老朋友的情意这样深长。",
+   "en": "only moved by how deep and long your old friendship runs."
+  },
+  {
+   "zh": "明天我们又要被高山隔开，",
+   "en": "Tomorrow mountains will stand between us again,"
+  },
+  {
+   "zh": "以后的事，我们俩谁也说不清。",
+   "en": "and what the world holds for either of us, no one can tell."
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为写于唐肃宗乾元二年（759年）的春天。那时安史之乱还没有平息，杜甫在华州做一个小官，从洛阳返回华州的路上，顺路看望了老朋友卫八。卫八姓卫，在家里排行第八，是一位没有做官的读书人，所以叫“处士”。他的生平已经不清楚了。两人分别了二十年，乱世中重逢，杜甫写下了这首诗。",
+  "en": "This poem is usually dated to the spring of 759. The An Lushan Rebellion, a huge civil war, was still going on. Du Fu held a small post in Huazhou. On the way back there from Luoyang, he stopped to see his old friend Wei the Eighth. Wei was his surname, and he was the eighth child in his family. He was an educated man who never took office, which is what chǔ shì means. Nothing else is known about him. The two had been apart for twenty years, and they met again in a time of war."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被人称为“诗圣”。他一生经历了安史之乱，到处奔波，见过太多的离别和死亡。所以他写朋友重逢，既有欢喜，也有说不出的心酸。他的诗常常用最平常的家常事，写出最深的感情。",
+  "en": "Du Fu (712–770) was a great Tang poet, often called the Sage of Poetry. He lived through the An Lushan Rebellion and was always on the move, seeing far too many partings and deaths. So when he writes about meeting a friend again, there is joy, and also a sadness hard to put into words. His poems often use the plainest everyday things to show the deepest feelings."
+ },
+ "appreciation": {
+  "zh": "这首诗像一段老朋友见面的录像。开头先叹气：人和人见一面，就像东西两颗星，很难碰上。所以今晚能一起坐在灯下，简直不敢相信。接着是又惊又悲：头发都白了，老朋友死了一半。然后画面变得暖起来：当年没结婚的朋友，现在孩子一大群，围着客人问东问西；主人冒着夜雨去割韭菜，煮新饭，一口气喝下十杯酒。这些家常的小事，最能看出真感情。最后一句又把人拉回现实：明天一别，又不知何年再见。一夜的欢聚，夹在两段茫茫的离别中间，更显得珍贵。",
+  "en": "This poem is like a home video of two old friends meeting. It begins with a sigh: people meet as rarely as two stars on opposite sides of the sky. So sitting together under a lamp tonight feels too good to be true. Then come shock and grief: their hair is grey, and half their old friends are dead. Then the picture grows warm. The friend who was single back then now has a crowd of children, who gather round the guest and ask him questions. The host goes out in the night rain to cut chives, cooks fresh rice, and drinks ten cups straight. Small, homely things like these show true feeling best. The last line pulls us back to the real world: after tomorrow, who knows when they will meet again? One night of joy sits between two long, unknown partings, and that makes it all the more precious."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3,
+  16,
+  17,
+  23
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "reunion",
+   "parting",
+   "war"
+  ]
+ },
+ "uncertain": []
+}

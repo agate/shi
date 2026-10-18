@@ -1,0 +1,214 @@
+{
+ "id": "04970036-9dd8-4ad6-9193-4ac9731ad381",
+ "kind": "shi",
+ "title": "悯农（其一）",
+ "title_en": "Pity the Farmers (I)",
+ "author": "李绅",
+ "author_en": "Li Shen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古绝",
+  "en": "five-character old-style quatrain"
+ },
+ "lines": [
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "种",
+    "zhòng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "粒",
+    "lì"
+   ],
+   [
+    "粟",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "颗",
+    "kē"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "田",
+    "tián"
+   ]
+  ],
+  [
+   [
+    "农",
+    "nóng"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "饿",
+    "è"
+   ],
+   [
+    "死",
+    "sǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料库题目作《古风二首》其一，课本题作《悯农》。第二句语料库作“秋成万颗子”，课本作“秋收万颗子”，这里按课本。",
+  "en": "The corpus titles this the first of Two Old-Style Poems; the textbook calls it Min Nong, Pity the Farmers. In line two the corpus has \"autumn ripens\" where the textbook has \"autumn harvests\"; this page follows the textbook."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "种",
+   "pinyin": "zhòng",
+   "zh": "“种”作动词，是播种、种植，读 zhòng。",
+   "en": "As a verb, to plant, this character is read zhòng."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "子",
+   "pinyin": "zǐ",
+   "zh": "“子”在这里是种子、粮食颗粒，读 zǐ，不读轻声。",
+   "en": "Here this character means grains or seeds, and is read zǐ with its full tone."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "粟：小米，这里泛指粮食的种子。",
+   "en": "sù: millet, here standing for grain seed in general."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "万颗子：成千上万颗粮食。",
+   "en": "wàn kē zǐ: ten thousand grains."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "四海：全国各地。古人认为中国四面都是海。",
+   "en": "sì hǎi: the four seas, meaning the whole country. People long ago thought the land was surrounded by sea."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "闲田：没有种庄稼的空地。",
+   "en": "xián tián: idle fields, land left unplanted."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "犹：仍然、还是。",
+   "en": "yóu: still, even so."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天种下一粒种子，",
+   "en": "In spring a farmer plants one seed of grain."
+  },
+  {
+   "zh": "秋天就能收获成千上万颗粮食。",
+   "en": "In autumn he harvests ten thousand grains."
+  },
+  {
+   "zh": "全国各地没有一块荒着的田地，",
+   "en": "Across the land, not one field is left unplanted,"
+  },
+  {
+   "zh": "种田的农民却还是会饿死。",
+   "en": "yet the farmers still starve to death."
+  }
+ ],
+ "background": {
+  "zh": "李绅写过两首《悯农》，这是第一首，另一首就是“锄禾日当午”。悯是同情、怜悯的意思。一般认为这两首诗是李绅年轻时写的。那时农民辛辛苦苦种地，粮食收得很多，可是大部分要交租交税，被官府和地主拿走了，自己反而吃不饱。诗人看到这种不公平，写下了这首诗。",
+  "en": "Li Shen wrote two poems called Pity the Farmers. This is the first; the other is the famous one about hoeing in the noon sun. Mǐn means to feel sorry for someone. Both poems are usually thought to have been written when Li Shen was young. In those days farmers worked hard and grew plenty of grain, but most of it went to rent and taxes, taken by officials and landlords. The farmers themselves did not have enough to eat. The poet saw how unfair this was and wrote the poem."
+ },
+ "author_note": {
+  "zh": "李绅（772—846），字公垂，无锡（今江苏无锡）人，唐代诗人。他考中进士后做官，后来一直做到宰相。他和元稹、白居易是好朋友，一起提倡写反映百姓生活的“新乐府”诗。他的《悯农》两首流传最广，几乎每个中国孩子都会背。",
+  "en": "Li Shen (772–846), also called Gongchui, came from Wuxi in today's Jiangsu. He was a Tang poet who passed the top exam, became an official and later rose to chief minister. He was friends with Yuan Zhen and Bai Juyi, and together they promoted new yuefu poems about the lives of ordinary people. His two Pity the Farmers poems are his best known; almost every Chinese child can recite them."
+ },
+ "appreciation": {
+  "zh": "这首诗只有二十个字，却像一道让人吃惊的算术题。第一句和第二句：一粒种子，变成一万颗粮食，收成真好。第三句：天下的田都种满了，没有一块空着。照这样算，大家应该都吃得饱。可是第四句的答案是：种粮食的农民，还是饿死了。前三句越是丰收，最后一句就越让人震惊。粮食去了哪里？诗人没有说，却让读的人自己去想。这首诗告诉我们，粮食来之不易，也让人看到了当时社会的不公平。",
+  "en": "This poem has only twenty characters, but it works like a shocking math problem. Lines one and two: one seed becomes ten thousand grains, a great harvest. Line three: every field in the land is planted, not one is empty. By this sum, everyone should have plenty to eat. But the answer in line four is: the farmers who grew the grain still starve. The richer the harvest in the first three lines, the more shocking the last one is. Where did all the grain go? The poet does not say. He lets the reader think about it. The poem reminds us how hard food is to grow, and shows how unfair society was back then."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring",
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farmers",
+   "harvest",
+   "injustice",
+   "food"
+  ]
+ },
+ "uncertain": []
+}

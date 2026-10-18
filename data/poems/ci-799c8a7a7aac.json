@@ -1,0 +1,481 @@
+{
+ "id": "ci-799c8a7a7aac",
+ "kind": "ci",
+ "title": "鹧鸪天·桂花",
+ "title_en": "Partridge Sky: Osmanthus",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "体",
+    "tǐ"
+   ],
+   [
+    "性",
+    "xìng"
+   ],
+   [
+    "柔",
+    "róu"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "迹",
+    "jì"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "留",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "第",
+    "dì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "定",
+    "dìng"
+   ],
+   [
+    "妒",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "菊",
+    "jú"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "羞",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "冠",
+    "guàn"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "骚",
+    "sāo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "煞",
+    "shà"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "“菊应羞”的“应”是“应该、想必”的意思，读 yīng。",
+   "en": "Here the character means surely, must be, and is read yīng."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "冠",
+   "pinyin": "guàn",
+   "zh": "“冠中秋”的“冠”是“位居第一”的意思，读 guàn，不读 guān（帽子）。",
+   "en": "Here the character means to rank first, so it is read guàn, not guān (a hat)."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "煞",
+   "pinyin": "shà",
+   "zh": "“可煞”的“煞”是“很、极”的意思，读 shà。",
+   "en": "Here the character means very, and is read shà."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "暗淡：颜色不鲜艳。",
+   "en": "àn dàn: dull, not bright in color."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "轻黄：淡淡的黄色。",
+   "en": "qīng huáng: a pale yellow."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "体性柔：样子和性情都很温柔。",
+   "en": "tǐ xìng róu: gentle in form and in nature."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "情疏迹远：性情淡泊，长在深山远处，不和人亲近。",
+   "en": "qíng shū jì yuǎn: aloof by nature and growing in far-off places, keeping apart from people."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "只香留：只把香气留给人间。",
+   "en": "zhǐ xiāng liú: only its fragrance is left for people."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "何须：何必、哪里需要。",
+   "en": "hé xū: why should it need?"
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 6,
+   "zh": "浅碧深红：浅绿、深红，指别的花鲜艳的颜色。",
+   "en": "qiǎn bì shēn hóng: pale green and deep red, the bright colors of other flowers."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "自是：本来就是。",
+   "en": "zì shì: is already, by its very nature."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "第一流：最好的一等。",
+   "en": "dì yī liú: the very first rank, the best."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "定妒：一定会嫉妒。",
+   "en": "dìng dù: will surely be jealous."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "应羞：想必会害羞，自愧不如。",
+   "en": "yīng xiū: must feel shy and ashamed, knowing it cannot compare."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "画阑：有彩绘的栏杆。",
+   "en": "huà lán: a painted railing."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "冠中秋：在中秋时节的花里位居第一。",
+   "en": "guàn zhōng qiū: first among all the flowers of mid-autumn."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "骚人：诗人，这里指写《离骚》的屈原。",
+   "en": "sāo rén: a poet; here it means Qu Yuan, who wrote Li Sao."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "可煞：真是、实在是。",
+   "en": "kě shà: truly, really."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "无情思：没有情意、缺少眼光。",
+   "en": "wú qíng sī: lacking feeling, lacking a good eye."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "何事：为什么。",
+   "en": "hé shì: why?"
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "不见收：没有被收进去。",
+   "en": "bù jiàn shōu: was not included."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "桂花颜色淡淡的，浅浅的黄，样子和性情都很温柔。",
+   "en": "The osmanthus is a pale, soft yellow, gentle in form and nature."
+  },
+  {
+   "zh": "它性情淡泊，长在远离人的地方，只把香气留给人间。",
+   "en": "It keeps apart and grows far from people, leaving only its fragrance behind."
+  },
+  {
+   "zh": "何必要有浅绿深红那样鲜艳的颜色？",
+   "en": "Why should it need bright colors like pale green or deep red?"
+  },
+  {
+   "zh": "它本来就是花中最好的一等。",
+   "en": "By its nature it is already the finest of all flowers."
+  },
+  {
+   "zh": "梅花一定会嫉妒，",
+   "en": "The plum blossom must be jealous,"
+  },
+  {
+   "zh": "菊花想必也会害羞。",
+   "en": "and the chrysanthemum must feel ashamed."
+  },
+  {
+   "zh": "它在画栏边开放，是中秋时节最美的花。",
+   "en": "Blooming by the painted railing, it is the best flower of mid-autumn."
+  },
+  {
+   "zh": "那位写《离骚》的诗人，实在是太没有眼光了，",
+   "en": "The poet of Li Sao truly had no eye for it."
+  },
+  {
+   "zh": "为什么当年不把桂花写进他的诗里呢？",
+   "en": "Why did he not put the osmanthus in his poem back then?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏桂花的词，具体写作时间不能确定，一说是李清照前期的作品。桂花在秋天开放，花很小，颜色淡黄，却香气浓郁。屈原在《离骚》里写了许多香花香草，用来比喻美好的品德。李清照觉得桂花这么好，却没有得到应有的重视，于是在词的结尾替桂花“打抱不平”。",
+  "en": "This lyric praises the osmanthus. We do not know exactly when it was written; one view is that it comes from Li Qingzhao's earlier years. The osmanthus blooms in autumn. Its flowers are tiny and pale yellow, but its scent is very strong. In Li Sao, Qu Yuan wrote about many fragrant flowers and herbs, using them to stand for good character. Li Qingzhao felt the osmanthus was so fine but had not been given its due, so at the end she speaks up for it."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她出身书香门第，从小就有才华，和丈夫赵明诚一起收藏金石书画。她前期的词清新活泼，后期经历国破家亡，词变得深沉哀伤。这首词写得自信爽朗，带着她特有的性格。",
+  "en": "Li Qingzhao (1084–about 1155), who called herself the Lay Buddhist of Yi'an, was the most famous woman lyric poet of the Song. She grew up in a family of scholars, showed talent early, and collected old bronzes, stone rubbings, books and paintings with her husband Zhao Mingcheng. Her early lyrics are fresh and lively; later, after losing her country and her husband, her lyrics became deep and sad. This one is confident and bright, full of her own spirit."
+ },
+ "appreciation": {
+  "zh": "词人一开头就写桂花不起眼的样子：颜色淡，花又小，还爱长在远处。可是她马上说，桂花不需要鲜艳的颜色，它“自是花中第一流”。这句话说得很有底气，好像是在夸花，也像是在说一个人：真正好的东西，靠的是内在的香，不是外表的艳。下半首更有趣，她说梅花会嫉妒，菊花会害羞，甚至连屈原都被她“批评”了一下，怪他没把桂花写进诗里。读起来像是一个聪明、自信的人在替朋友说话，轻松又可爱。",
+  "en": "The poet starts by showing how plain the osmanthus looks: pale in color, tiny, and fond of growing far away. But at once she says it does not need bright colors, because it is already the finest of flowers. She says this with great confidence. It praises a flower, and it also seems to describe a person: truly good things win with their inner fragrance, not with bright looks. The second half is even more fun. She says the plum blossom will be jealous and the chrysanthemum ashamed, and she even scolds Qu Yuan a little for leaving the osmanthus out of his poem. It reads like a clever, confident person standing up for a friend, light and charming."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "midautumn"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "osmanthus",
+   "flowers",
+   "character",
+   "praise"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,499 @@
+{
+ "id": "ci-2acb12890773",
+ "kind": "ci",
+ "title": "蝶恋花·卷絮风头寒欲尽",
+ "title_en": "Butterflies Love Flowers: The Wind Rolls the Catkins, the Cold Nearly Gone",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "坠",
+    "zhuì"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "阵",
+    "zhèn"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "添",
+    "tiān"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "困",
+    "kùn"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "减",
+    "jiǎn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "恼",
+    "nǎo"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "寸",
+    "cùn"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "近",
+    "jìn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "zh": "“卷”在这里读 juǎn，是卷起、吹卷的意思。",
+   "en": "Here this character is read juǎn, meaning to roll up or whirl.",
+   "char": "卷",
+   "pinyin": "juǎn"
+  },
+  {
+   "line": 0,
+   "pos": 3,
+   "zh": "“风头”的“头”在这里读本调 tóu，指风势、风口，不读轻声。",
+   "en": "Here this character is read in its full tone, tóu, meaning the force of the wind, not in the neutral tone.",
+   "char": "头",
+   "pinyin": "tóu"
+  },
+  {
+   "line": 5,
+   "pos": 5,
+   "zh": "“处”在这里读 chù，是地方的意思。",
+   "en": "Here this character is read chù, meaning place.",
+   "char": "处",
+   "pinyin": "chù"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "卷絮：风把柳絮卷起来。柳絮是柳树的种子，带着白色的绒毛，春末到处飘飞。",
+   "en": "juǎn xù: the wind whirls up willow fluff. Willow fluff is the willow's seeds with white down, flying everywhere in late spring."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "风头：风势，风刮来的地方。",
+   "en": "fēng tóu: the force of the wind, where it blows from."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "寒欲尽：春寒快要过去了。",
+   "en": "hán yù jìn: the spring chill is almost gone."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "坠粉飘红：花瓣纷纷落下、飘飞。粉、红，都指花。",
+   "en": "zhuì fěn piāo hóng: petals falling and drifting. Pink and red both mean flowers."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "香成阵：落花的香气一阵一阵飘来。",
+   "en": "xiāng chéng zhèn: the scent of fallen flowers comes in gusts."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "残酒困：前一次喝的酒还没醒透，人昏昏沉沉。",
+   "en": "cán jiǔ kùn: the drowsy, heavy feeling left from wine drunk before."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "不减：没有减少。",
+   "en": "bù jiǎn: not any less."
+  },
+  {
+   "line": 4,
+   "start": 6,
+   "end": 7,
+   "zh": "恨：这里是遗憾、愁苦，不是仇恨。",
+   "en": "hèn: here it means sorrow and longing, not hatred."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "蝶去莺飞：蝴蝶走了，黄莺也飞了，春天快结束了。",
+   "en": "dié qù yīng fēi: the butterflies are gone and the orioles have flown; spring is nearly over."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "无处问：没有地方去打听。",
+   "en": "wú chù wèn: there is nowhere to ask for news."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "隔水：隔着一条河。",
+   "en": "gé shuǐ: across the water."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "望断：一直望，望到看不见为止。",
+   "en": "wàng duàn: to gaze until one can see no more."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "双鱼信：书信。古诗里说远方的客人送来“双鲤鱼”，里面藏着信，后来就用双鱼代指书信。",
+   "en": "shuāng yú xìn: a letter. An old poem tells of a guest bringing a pair of carp with a letter hidden inside, so a pair of fish came to mean a letter."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "恼乱：心里烦乱。",
+   "en": "nǎo luàn: upset and troubled."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "层波：一层层的水波，这里比喻眼睛，眼神像流动的水波。",
+   "en": "céng bō: ripples, here a picture of the eyes, whose glance moves like rippling water."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "横一寸：眼睛横着，只有一寸长。形容眼睛小巧，也写出愁眉愁眼的样子。",
+   "en": "héng yī cùn: the eyes lie level, only an inch long. It pictures small, pretty eyes, here clouded with worry."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "只与：只是和……",
+   "en": "zhǐ yǔ: only, just with."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "风卷着柳絮，春寒快要过去了。",
+   "en": "The wind whirls the willow fluff; the spring chill is nearly gone."
+  },
+  {
+   "zh": "花瓣纷纷飘落，",
+   "en": "Petals fall and drift,"
+  },
+  {
+   "zh": "每天都有一阵阵花香。",
+   "en": "and every day their scent comes in gusts."
+  },
+  {
+   "zh": "新喝的酒又添上了旧酒的困倦，",
+   "en": "New wine adds to the drowsiness of the old,"
+  },
+  {
+   "zh": "今年春天的愁，一点也不比去年少。",
+   "en": "and this spring's sorrow is no less than last spring's."
+  },
+  {
+   "zh": "蝴蝶走了，黄莺飞了，没有地方去打听消息。",
+   "en": "The butterflies are gone, the orioles have flown; there is nowhere to ask for news."
+  },
+  {
+   "zh": "隔着河水，站在高楼上，",
+   "en": "From a high tower across the water"
+  },
+  {
+   "zh": "望穿了眼睛，也等不到一封书信。",
+   "en": "I gaze until I can see no more, but no letter comes."
+  },
+  {
+   "zh": "愁得眼波乱转，",
+   "en": "My eyes are clouded and troubled."
+  },
+  {
+   "zh": "夕阳一点点落下，离黄昏越来越近了。",
+   "en": "The setting sun sinks, drawing nearer and nearer to dusk."
+  }
+ ],
+ "background": {
+  "zh": "这是一首写暮春怀人的词。词里的人在春天快结束的时候，一边喝酒解愁，一边登上高楼，等远方的人来信，却一直等不到。词中说话的人可能是一位思念远人的女子，也可能是词人自己。写作的年份和具体对象已经不清楚。",
+  "en": "This lyric is about missing someone in late spring. As spring nears its end, the speaker drinks to ease the sorrow and climbs a high tower to wait for a letter from someone far away. But no letter comes. The speaker may be a woman missing a loved one, or the poet himself. The year it was written and the person it is about are not known."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是宰相词人晏殊的小儿子。他年轻时过着富贵的生活，常和朋友饮酒听歌。后来家道中落，一生只做过小官。他的词多写离别和对旧日欢聚的怀念，感情真，语言美，有《小山词》。",
+  "en": "Yan Jidao (about 1038 to about 1110), also called Xiaoshan, was the youngest son of Yan Shu, a prime minister and poet. When young he lived in wealth, often drinking and listening to songs with friends. Later his family fell on hard times, and he only ever held small posts. His lyrics are mostly about partings and missing the happy gatherings of the past. Their feeling is true and their words are beautiful. His collection is called Xiaoshan Ci."
+ },
+ "appreciation": {
+  "zh": "上半首先画春末的景：风卷柳絮，落花满地，香气一阵阵飘来。景很美，可美的东西正在消失。人呢，喝了新酒，旧酒还没醒，一年一年的春愁一点也没少。下半首写等待：蝴蝶走了，黄莺飞了，连打听消息的地方都没有。隔着河，站在高楼上，望得眼睛都酸了，信还是没来。最后一句很安静：夕阳慢慢落下，天就要黑了。一天的等待又落空，心里的愁却随着黄昏越来越浓。",
+  "en": "The first half paints the end of spring. The wind whirls willow fluff, fallen petals cover the ground, and their scent comes in gusts. The scene is lovely, but the lovely things are passing away. As for the person, new wine is piled on old wine not yet slept off, and the spring sorrow is no less than the year before. The second half is about waiting. The butterflies have gone, the orioles have flown, and there is nowhere even to ask for news. Standing in a high tower across the water, the speaker gazes until their eyes ache, but no letter comes. The last line is quiet: the sun sinks slowly, and night is coming. Another day of waiting ends in nothing, and the sorrow deepens with the dusk."
+ },
+ "famous_lines": [
+  3,
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "late-spring",
+   "letter",
+   "dusk",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

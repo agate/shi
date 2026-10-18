@@ -1,0 +1,461 @@
+{
+ "id": "41d292d2-b752-4c30-8b6b-7b7380f2f9bd",
+ "kind": "shi",
+ "title": "春思",
+ "title_en": "Spring Thoughts",
+ "author": "皇甫冉",
+ "author_en": "Huangfu Ran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "邑",
+    "yì"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "堆",
+    "duī"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "千",
+    "qiān"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "住",
+    "zhù"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "机",
+    "jī"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "论",
+    "lùn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "窦",
+    "dòu"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "骑",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "返",
+    "fǎn"
+   ],
+   [
+    "旆",
+    "pèi"
+   ],
+   [
+    "勒",
+    "lè"
+   ],
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库把这首诗放在刘长卿名下，题作《赋得》；《唐诗三百首》等通行本作皇甫冉《春思》，这里从通行本。资料库第四句的“心”字带方括号，是整理时补上的字；第八句“斾”是“旆”的异体字，通行本作“旆”。",
+  "en": "The corpus lists this poem under Liu Changqing with the title Fu De. Common editions such as Three Hundred Tang Poems give it as Spring Thoughts by Huangfu Ran, and this page follows them. In line four the corpus puts the character xīn (heart) in brackets, a character filled in by editors. In line eight the corpus uses a variant form of pèi (banner); common editions use the standard form."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 6,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "按统一规定读 qí。“车骑”是将军的称号，旧读 jū jì。",
+   "en": "Read qí by the convention used here. Chē qí is a general's title, and its old reading was jū jì."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "“燕然”是山名，“燕”读 yān，不读燕子的 yàn。",
+   "en": "Yān rán is the name of a mountain, so yān is the reading here, not yàn as in swallow."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "莺啼燕语：黄莺在唱，燕子在叫，是春天的声音。",
+   "en": "yīng tí yàn yǔ: orioles singing and swallows chattering, the sounds of spring."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "报新年：告诉人们新的一年、新的春天来了。",
+   "en": "bào xīn nián: announcing that a new year and a new spring have come."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "马邑：古代地名，在今山西朔州，是边塞要地。",
+   "en": "mǎ yì: Mayi, an old place in today's Shuozhou, Shanxi, an important frontier post."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "龙堆：白龙堆，西域的一片沙漠，在今新疆罗布泊一带。",
+   "en": "lóng duī: the White Dragon Mounds, a desert in the far west, near Lop Nur in today's Xinjiang."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "路几千：路有几千里远。",
+   "en": "lù jǐ qiān: the road is thousands of li long."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "层城：城墙一层层的高城，指京城。",
+   "en": "céng chéng: a city of layered walls, meaning the capital."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "汉苑：汉朝的皇家园林，这里借指唐朝京城的宫苑。唐诗常用“汉”代指唐。",
+   "en": "hàn yuàn: the imperial park of Han. Here it stands for the Tang palace gardens; Tang poems often say Han when they mean Tang."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "胡天：北方边塞外的天空，指丈夫守边的地方。",
+   "en": "hú tiān: the sky beyond the northern frontier, where her husband guards the border."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "机中锦字：织布机上织出的锦字书信。前秦时苏蕙把思念丈夫的回文诗织在锦缎上寄给他，后来“锦字”就指妻子寄给丈夫的信。",
+   "en": "jī zhōng jǐn zì: words woven on the loom. Long ago Su Hui wove a poem of longing into brocade and sent it to her husband, so woven words came to mean a wife's letter to her husband."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "论长恨：诉说长久的愁怨。",
+   "en": "lùn cháng hèn: telling of a long sorrow."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "笑独眠：花枝好像在笑她一个人独自睡觉。",
+   "en": "xiào dú mián: the flowering branches seem to laugh at her for sleeping alone."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "为问：请问、替我问一问。",
+   "en": "wèi wèn: may I ask, please ask for me."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "元戎：主帅。",
+   "en": "yuán róng: the commander in chief."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "窦车骑：东汉车骑将军窦宪。这里借他来称呼当时带兵的主帅。",
+   "en": "dòu chē qí: Dou Xian, a general of the Eastern Han with the title General of Chariots and Horse. Here his name stands for the commander of the poet's own day."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "返旆：把军旗调回来，就是收兵回家。旆，一种旗子。",
+   "en": "fǎn pèi: to turn the banners back, that is, to bring the army home. Pèi is a kind of flag."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "勒燕然：在燕然山刻石记功。东汉窦宪大败北匈奴，登上燕然山（在今蒙古国），刻石纪念胜利。勒，刻。",
+   "en": "lè yān rán: to carve a record on Mount Yanran. Dou Xian defeated the Northern Xiongnu, climbed Mount Yanran in today's Mongolia, and had the victory carved in stone. Lè means to carve."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "黄莺歌唱，燕子呢喃，告诉人们新春到了，",
+   "en": "Orioles sing and swallows chatter, telling of the new spring;"
+  },
+  {
+   "zh": "可是去马邑、龙堆的路，有几千里远。",
+   "en": "but the road to Mayi and the Dragon Mounds is thousands of li long."
+  },
+  {
+   "zh": "我的家住在京城，靠近皇家的园林，",
+   "en": "My home is in the walled capital, beside the palace gardens;"
+  },
+  {
+   "zh": "我的心却跟着明月，飞到了胡地的天空。",
+   "en": "my heart follows the bright moon to the frontier sky."
+  },
+  {
+   "zh": "我在织机上织出锦字，诉说长久的愁怨，",
+   "en": "On the loom I weave words in brocade, telling my long sorrow;"
+  },
+  {
+   "zh": "楼上的花枝好像在笑我一个人独睡。",
+   "en": "the blossoms by the tower seem to laugh at me sleeping alone."
+  },
+  {
+   "zh": "请替我问问那位像窦宪一样的主帅：",
+   "en": "Please ask the commander, our General Dou, for me:"
+  },
+  {
+   "zh": "什么时候才能打完胜仗，刻石燕然，收兵回来？",
+   "en": "when will he win, carve his name on Mount Yanran, and bring the banners home?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗写一位住在京城的女子，在春天思念远在边塞打仗的丈夫。唐代边境常有战事，很多男子被派去守边，一去好几年，家里的妻子只能写信、等待，这样的诗叫“闺怨诗”。诗写在哪一年已经不清楚。《唐诗三百首》把它作为皇甫冉的作品，资料库里却放在刘长卿名下，作者有不同说法。",
+  "en": "This poem is about a woman living in the capital who, in spring, misses her husband fighting far away on the frontier. In the Tang dynasty there were often wars at the borders. Many men were sent to guard them for years, and their wives at home could only write letters and wait. Poems like this are called boudoir laments. We do not know what year it was written. Three Hundred Tang Poems gives it to Huangfu Ran, but the corpus places it under Liu Changqing, so the authorship is told in different ways."
+ },
+ "author_note": {
+  "zh": "皇甫冉（约717—约770），字茂政，润州丹阳（今属江苏）人，唐代诗人。他考中进士，做过右补阙等官。他和弟弟皇甫曾都以写诗出名。他的诗清新流畅，常写离别和思念。",
+  "en": "Huangfu Ran (about 717 to about 770) came from Danyang in Runzhou, in today's Jiangsu. He was a Tang poet who passed the imperial exam and held posts such as Remonstrator of the Right. He and his younger brother Huangfu Zeng were both known for their poems. His verse is fresh and smooth and often about parting and longing."
+ },
+ "appreciation": {
+  "zh": "第一句很热闹：黄莺唱、燕子叫，春天来了。第二句一下子冷了：丈夫在几千里外的边塞。热闹的春天，反而让人更孤单。三四句一个在京城，一个心飞到胡天，明月把两地连在一起。五六句写她的日子：织锦写信，诉说愁苦；楼上的花开得正好，却像在笑她独自睡觉。花本来无情，是她心里太苦，才觉得连花都在笑。最后两句她直接发问：将军什么时候打完仗，让大家回家？思念里也带着对战争的埋怨。",
+  "en": "The first line is lively: orioles sing, swallows chatter, spring has come. The second line turns cold at once: her husband is on a frontier thousands of li away. A lively spring only makes her lonelier. In the third and fourth lines, she is in the capital while her heart flies to the frontier sky, and the bright moon joins the two places. The fifth and sixth lines show her days. She weaves letters into brocade to tell her sorrow. The blossoms by the tower are at their best, yet seem to laugh at her sleeping alone. Flowers have no feelings; it is her own pain that makes even them seem to mock her. In the last two lines she asks outright: when will the general finish the war and let everyone come home? Her longing carries a complaint against the war too."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "longing",
+   "war",
+   "moon"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "作者有不同说法：《唐诗三百首》作皇甫冉《春思》，资料库作刘长卿《赋得》。请核对。",
+   "en": "The author is disputed: Three Hundred Tang Poems gives Huangfu Ran, Spring Thoughts, while the corpus gives Liu Changqing, Fu De. Please check."
+  }
+ ]
+}

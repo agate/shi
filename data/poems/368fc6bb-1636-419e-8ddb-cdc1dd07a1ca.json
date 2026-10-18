@@ -1,0 +1,355 @@
+{
+ "id": "368fc6bb-1636-419e-8ddb-cdc1dd07a1ca",
+ "kind": "shi",
+ "title": "新年作",
+ "title_en": "Written at the New Year",
+ "author": "刘长卿",
+ "author_en": "Liu Changqing",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "切",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "潸",
+    "shān"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "先",
+    "xiān"
+   ]
+  ],
+  [
+   [
+    "岭",
+    "lǐng"
+   ],
+   [
+    "猿",
+    "yuán"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "旦",
+    "dàn"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "傅",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文作“澘然”“岭猨”。“澘”是“潸”的异体字，“猨”是“猿”的异体字，通行本写作“潸然”“岭猿”。资料库把作者题为宋之问，通行的《唐诗三百首》题为刘长卿。",
+  "en": "The corpus text writes two characters in older variant forms; the common editions use the standard forms for shān (tears) and yuán (ape). The corpus names the poet as Song Zhiwen, while the well-known anthology Three Hundred Tang Poems names Liu Changqing."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "乡心：想念家乡的心。",
+   "en": "xiāng xīn: the heart that misses home."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "新岁：新的一年。",
+   "en": "xīn suì: the new year."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "切：急切，强烈。",
+   "en": "qiè: strong, urgent."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "天畔：天边，指离家极远的地方。",
+   "en": "tiān pàn: the edge of the sky, a place very far from home."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "潸然：流泪的样子。",
+   "en": "shān rán: with tears running down."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "居人下：处在别人下面，指官职低，被贬作小官。",
+   "en": "jū rén xià: to sit below others, that is, to hold a low post after being sent away in disgrace."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "在客先：春天比我这个客人先回去了。客，离家在外的人，指诗人自己。",
+   "en": "zài kè xiān: spring goes home before the traveler. Kè, a guest, means the poet himself, living far from home."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "岭猿：五岭山中的猿猴。五岭在今天湖南、江西和广东、广西交界的地方。",
+   "en": "lǐng yuán: apes in the Five Ranges, the mountains on the border of today's Hunan, Jiangxi, Guangdong and Guangxi."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "旦暮：早晨和傍晚。",
+   "en": "dàn mù: morning and evening."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "风烟：风和雾气。",
+   "en": "fēng yān: wind and mist."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "长沙傅：指西汉的贾谊。他被贬去长沙，做长沙王的老师（太傅），在那里过了好几年。",
+   "en": "cháng shā fù: Jia Yi of the Han dynasty. He was sent away to Changsha to be the tutor of the local prince, and stayed there for years."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "又几年：又要过多少年呢？",
+   "en": "yòu jǐ nián: how many more years will it be?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "新年到了，想家的心更加急切。",
+   "en": "The new year comes, and my longing for home grows stronger."
+  },
+  {
+   "zh": "我独自在天边，忍不住流下眼泪。",
+   "en": "Alone at the edge of the sky, I cannot hold back my tears."
+  },
+  {
+   "zh": "人已经老了，却还要做个低下的小官。",
+   "en": "I am old now, yet I still sit below others in a lowly post."
+  },
+  {
+   "zh": "春天都回来了，我这个客人还回不去。",
+   "en": "Spring has gone home before me, the traveler."
+  },
+  {
+   "zh": "从早到晚，陪着我的只有山里的猿猴。",
+   "en": "From morning to night, only the mountain apes keep me company."
+  },
+  {
+   "zh": "江边的柳树和我一起经受风吹雾绕。",
+   "en": "The willows by the river share the wind and mist with me."
+  },
+  {
+   "zh": "我已经像当年被贬到长沙的贾谊一样，",
+   "en": "I am already like Jia Yi, sent away to Changsha long ago."
+  },
+  {
+   "zh": "从今以后，还要在这里待多少年呢？",
+   "en": "From now on, how many more years must I stay here?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为是刘长卿被贬到南方时写的。唐肃宗时，他被贬为南巴尉，南巴在今天的广东茂名一带，离家非常远。过新年本该团圆，他却一个人待在岭南，想家想得流泪，就写下了这首诗。一说这首诗是宋之问被贬岭南时写的，作者有争议。",
+  "en": "This poem is usually thought to have been written when Liu Changqing was sent away to the south. Under Emperor Suzong he was demoted to a small post in Nanba, near today's Maoming in Guangdong, very far from home. New Year is a time for families to be together, but he was alone south of the mountains. Missing home, he wept and wrote this poem. Another view says Song Zhiwen wrote it during his own exile in the south, so the author is disputed."
+ },
+ "author_note": {
+  "zh": "刘长卿，唐代诗人，最擅长写五言诗，被人称为“五言长城”。他性格刚直，得罪过人，一生两次被贬到远方。所以他的诗里常常有漂泊、思乡和不得志的愁苦，这首诗就是这样。",
+  "en": "Liu Changqing was a Tang poet best known for five-character poems, so good that people called him the Great Wall of five-character verse. He was proud and blunt, offended powerful people, and was sent far away twice. His poems are often full of wandering, homesickness and the sorrow of a career gone wrong, just like this one."
+ },
+ "appreciation": {
+  "zh": "别人过年欢欢喜喜，诗人却在天边流泪。第三、四句很巧：人在变老，官却越做越小；春天能按时回来，人却回不了家。连春天都比他先到家，这种对比让人心酸。五、六句写眼前的景：早晚只听见猿猴叫，江边的柳树在风和雾里摇。这些景物好像成了他唯一的伙伴，越显得孤单。最后他想起被贬长沙的贾谊，问自己还要熬多少年。这个问题没有答案，留下长长的叹息。",
+  "en": "Everyone else enjoys the New Year, but the poet weeps at the edge of the sky. Lines three and four are clever. He grows older, yet his post grows lower. Spring returns right on time, but he cannot go home. Even spring gets home before him, and that contrast is painful. Lines five and six show the scene: apes crying morning and night, willows swaying in wind and mist. These become his only companions, which makes him seem even more alone. At the end he thinks of Jia Yi, exiled to Changsha, and asks how many more years he must wait. The question has no answer. It leaves a long sigh."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "spring-festival"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "exile",
+   "new-year",
+   "aging"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "作者有争议：资料库题为宋之问，《唐诗三百首》等通行本题为刘长卿。本文按刘长卿写背景，需要核实。",
+   "en": "The author is disputed. The corpus names Song Zhiwen; Three Hundred Tang Poems and most common editions name Liu Changqing. The background here follows Liu Changqing and needs checking."
+  }
+ ]
+}

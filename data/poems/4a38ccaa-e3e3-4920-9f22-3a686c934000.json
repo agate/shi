@@ -1,0 +1,259 @@
+{
+ "id": "4a38ccaa-e3e3-4920-9f22-3a686c934000",
+ "kind": "shi",
+ "title": "不第后赋菊",
+ "title_en": "On the Chrysanthemum, After Failing the Exam",
+ "author": "黄巢",
+ "author_en": "Huang Chao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "八",
+    "bā"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "杀",
+    "shā"
+   ]
+  ],
+  [
+   [
+    "冲",
+    "chōng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "阵",
+    "zhèn"
+   ],
+   [
+    "透",
+    "tòu"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "甲",
+    "jiǎ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "待到：等到。",
+   "en": "dài dào: wait until."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "九月八：农历九月初八，重阳节（九月初九）的前一天。重阳节有赏菊花的风俗。写“八”不写“九”，是为了和“杀、甲”押韵。",
+   "en": "jiǔ yuè bā: the eighth day of the ninth lunar month, the day before the Double Ninth Festival, when people go out to enjoy chrysanthemums. The poet says \"eighth\" instead of \"ninth\" so that it rhymes with the other lines."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "我花：指菊花。诗人把菊花当成自己。",
+   "en": "wǒ huā: \"my flower\", the chrysanthemum. The poet treats it as himself."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "杀：凋零、枯萎。这里说别的花都谢了。",
+   "en": "shā: here it means to wither. All the other flowers have faded."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "冲天：直冲到天上，形容气势极大。",
+   "en": "chōng tiān: shooting up to the sky, very strong and bold."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "香阵：一阵阵的花香，像排好队的军队一样。",
+   "en": "xiāng zhèn: waves of scent, lined up like ranks of soldiers."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "透：穿过，渗透到每个地方。",
+   "en": "tòu: to soak through, to reach everywhere."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "长安：唐朝的都城，在今天的陕西西安。",
+   "en": "Cháng'ān: the Tang capital, today's Xi'an in Shaanxi."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "尽：全，都。",
+   "en": "jìn: all, everywhere."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "黄金甲：金黄色的铠甲。铠甲是古代士兵打仗时穿的护身衣。这里比喻金黄色的菊花。",
+   "en": "huáng jīn jiǎ: golden armor. Armor is the hard suit soldiers wore in battle. Here it stands for the golden chrysanthemums."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "等到秋天九月初八这一天，",
+   "en": "Wait until autumn comes, the eighth day of the ninth month:"
+  },
+  {
+   "zh": "我的菊花一开，别的花就全都凋谢了。",
+   "en": "When my flower blooms, all the other flowers will wither."
+  },
+  {
+   "zh": "冲天的花香像军队一样，涌满整个长安城，",
+   "en": "Its sky-high scent, like an army, will sweep through Chang'an,"
+  },
+  {
+   "zh": "满城都是菊花，好像人人披上了金黄的铠甲。",
+   "en": "And the whole city will be dressed in golden armor."
+  }
+ ],
+ "background": {
+  "zh": "黄巢年轻时去长安参加科举考试，没有考中。“不第”就是考试落榜。传说他落榜后写了这首诗，借菊花说出自己的心事。这首诗记载在后代的书里，具体写于哪一年已经不清楚。后来黄巢领导了唐末的大规模起义，在880年攻进了长安。",
+  "en": "When Huang Chao was young, he went to Chang'an to take the imperial exam and failed. \"Bu di\" means failing the exam. The story goes that he wrote this poem afterward, using the chrysanthemum to speak his mind. The poem was recorded in later books, and the exact year is not known. Later Huang Chao led a huge uprising at the end of the Tang, and in 880 his army took Chang'an."
+ },
+ "author_note": {
+  "zh": "黄巢（？—884），唐朝末年人，家里做贩卖私盐的生意。他读过书，几次考科举都没考中。后来他起兵反唐，带领农民军打下了洛阳和长安，还在长安称帝。他留下来的诗很少，但首首都有一股豪气。",
+  "en": "Huang Chao (died 884) lived at the end of the Tang. His family traded in salt without a license. He studied and took the imperial exam several times, but never passed. Later he rose up against the Tang and led a peasant army that took Luoyang and Chang'an, where he declared himself emperor. Few of his poems survive, but each one is full of daring."
+ },
+ "appreciation": {
+  "zh": "一般写菊花的诗，都说它安静、清高，像个隐士。这首诗完全不一样。菊花在这里像一位将军：它要等到九月才开，可它一开，别的花就全都败下阵来。后两句更大胆：菊花的香气像军队一样冲上天，冲进长安城，满城的菊花像士兵穿上了金色的铠甲。你可以想象整座城都变成金黄色，香气扑面而来。诗人落榜了，却一点也不灰心，反而说出了要改变天下的志向。",
+  "en": "Most poems about the chrysanthemum call it quiet and pure, like a hermit. This poem is completely different. Here the flower is like a general. It waits until the ninth month to bloom, but when it does, all the other flowers are beaten. The last two lines are even bolder. Its scent charges up to the sky and into Chang'an like an army, and the flowers fill the city like soldiers in golden armor. Picture the whole city turning gold, with the scent rushing at you. The poet has failed the exam, yet he does not lose heart. Instead he speaks of a dream to change the whole world."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "chrysanthemum",
+   "ambition",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

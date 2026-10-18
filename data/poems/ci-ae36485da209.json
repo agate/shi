@@ -1,0 +1,781 @@
+{
+ "id": "ci-ae36485da209",
+ "kind": "ci",
+ "title": "高阳台·除夜",
+ "title_en": "Gao Yang Tai: New Year's Eve",
+ "author": "韩疁",
+ "author_en": "Han Liu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "频",
+    "pín"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "签",
+    "qiān"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "燃",
+    "rán"
+   ],
+   [
+    "绛",
+    "jiàng"
+   ],
+   [
+    "蜡",
+    "là"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "衮",
+    "gǔn"
+   ],
+   [
+    "衮",
+    "gǔn"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "饯",
+    "jiàn"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "迎",
+    "yíng"
+   ],
+   [
+    "新",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "刻",
+    "kè"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "惯",
+    "guàn"
+   ],
+   [
+    "通",
+    "tōng"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "侵",
+    "qīn"
+   ]
+  ],
+  [
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "尊",
+    "zūn"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "吟",
+    "yín"
+   ]
+  ],
+  [
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "娃",
+    "wá"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "了",
+    "le"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "蜂",
+    "fēng"
+   ],
+   [
+    "腰",
+    "yāo"
+   ],
+   [
+    "簇",
+    "cù"
+   ],
+   [
+    "翠",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "股",
+    "gǔ"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "金",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "勾",
+    "gōu"
+   ],
+   [
+    "引",
+    "yǐn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "禁",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "逞",
+    "chěng"
+   ],
+   [
+    "艳",
+    "yàn"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "赢",
+    "yíng"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "恣",
+    "zì"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "台",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "底本作者只写了一个“韩”字，因为作者名字里的“疁”字很少见，在流传中丢掉了。这首词一般认为是南宋韩疁所作。底本题目只有词牌，通行本题作“除夜”。“重燃”有的本子写作“重然”，“然”是“燃”的本字，意思一样。",
+  "en": "Our source gives the author only as \"Han\", because the rare second character of his name was lost. The lyric is generally given to Han Liu of the Southern Song. The source gives only the tune name; common editions add the title \"New Year's Eve\". Some editions write the word for \"burn\" in line two with an older form of the character. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 14,
+   "pos": 5,
+   "char": "禁",
+   "pinyin": "jīn",
+   "zh": "“难禁”是“受不住”，“禁”读 jīn，不读 jìn。这里也和“心、阴、侵、吟、金、今、林”押韵。",
+   "en": "\"Nán jīn\" means \"hard to bear\", so the character is read jīn, not jìn. It also rhymes with the other line endings here."
+  },
+  {
+   "line": 15,
+   "pos": 2,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "“那有”就是“哪有”，“那”读 nǎ。",
+   "en": "Here \"nǎ yǒu\" means \"how could there be\", so the character is read nǎ."
+  },
+  {
+   "line": 14,
+   "pos": 3,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "“芳思”的“思”现在读 sī。古时“思”当名词用时多读 sì。",
+   "en": "In \"fāng sī\" the character is read sī today. In old times, when it was a noun, it was often read sì."
+  },
+  {
+   "line": 10,
+   "pos": 6,
+   "char": "了",
+   "pinyin": "le",
+   "zh": "句末的“了”现在多读 le；一说当“完毕”讲，读 liǎo。",
+   "en": "The last character is usually read le today. Another view takes it as \"finished\" and reads it liǎo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "频听：一次又一次地听。",
+   "en": "pín tīng: to hear again and again."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "银签：古代计时的漏壶里用来标记时间的签子，这里指报时的声音。",
+   "en": "yín qiān: the silver markers in an old water clock that showed the hours. Here it means the sound of the hours being called."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "绛蜡：红色的蜡烛。绛，深红色。",
+   "en": "jiàng là: red candles. Jiàng means deep red."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "年华：时光，岁月。",
+   "en": "nián huá: time, the years."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "衮衮：接连不断，像水一样滚滚流走。",
+   "en": "gǔn gǔn: on and on without stopping, rolling away like water."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "饯旧迎新：送走旧年，迎来新年。饯，摆酒送别。",
+   "en": "jiàn jiù yíng xīn: to see off the old year and welcome the new. Jiàn means a farewell feast."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "能消几刻：还能剩下多少时间。",
+   "en": "néng xiāo jǐ kè: how much time is still left?"
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "可惯：哪里还习惯。",
+   "en": "kě guàn: how could I still be used to it?"
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "通宵：一整夜。",
+   "en": "tōng xiāo: all night long."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "待不眠：想要不睡觉，指守岁。除夕夜一家人不睡，等着新年到来，叫守岁。",
+   "en": "dài bù mián: wanting to stay awake. On New Year's Eve families stayed up all night to wait for the new year."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "寒侵：寒气往身上钻。",
+   "en": "hán qīn: the cold creeping into the body."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "掩清尊：盖上酒杯，不再喝了。尊，酒杯。",
+   "en": "yǎn qīng zūn: to cover the wine cup and stop drinking. Zūn is a wine vessel."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "微吟：小声地吟诗。",
+   "en": "wēi yín: to chant poems softly."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "邻娃：邻居家的女孩。",
+   "en": "lín wá: the girl next door."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 6,
+   "zh": "试春妆：试着打扮迎接春天的妆容。",
+   "en": "shì chūn zhuāng: trying on her spring look, dressing up for the new season."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 5,
+   "zh": "蜂腰簇翠：一说指细细的腰上簇拥着翠绿的饰物；一说“蜂腰”是蜂形的头饰。翠，翠鸟羽毛做的饰品。",
+   "en": "fēng yāo cù cuì: one reading is a slim waist decked with green ornaments. Another says fēng yāo is a hair ornament shaped like a bee. Cuì means ornaments made of kingfisher feathers."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "燕股横金：头上横插着燕尾形的金钗。燕股，钗分成两股，像燕子的尾巴。",
+   "en": "yàn gǔ héng jīn: a gold hairpin set across the hair, shaped like a swallow's tail. The pin has two prongs, like the two halves of a swallow's tail."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "勾引东风：把春风招引过来。东风，春风。",
+   "en": "gōu yǐn dōng fēng: to call the spring wind over. The east wind is the spring wind."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "芳思难禁：春天的心思挡也挡不住。芳思，对春天美好的情思。",
+   "en": "fāng sī nán jīn: spring feelings that cannot be held back."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "朱颜：红润年轻的容貌。",
+   "en": "zhū yán: a rosy young face."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "逞艳游：尽情地去春游。逞，尽情、放开。",
+   "en": "chěng yàn yóu: to go out and enjoy the bright spring freely."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 7,
+   "zh": "赢取如今：抓住现在的好时光。",
+   "en": "yíng qǔ rú jīn: to make the most of the present."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 3,
+   "zh": "恣登临：尽情地登高游览。恣，任意、尽情。",
+   "en": "zì dēng lín: to climb heights and look around as much as one likes."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "迟日：春天白天变长，太阳走得慢，叫迟日。",
+   "en": "chí rì: the slow sun of spring, when the days grow long."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一次又一次听见报时的声音，",
+   "en": "Again and again I hear the hours being called,"
+  },
+  {
+   "zh": "又点上新的红蜡烛，",
+   "en": "and light new red candles once more."
+  },
+  {
+   "zh": "时光滚滚流走，真叫人心惊。",
+   "en": "The years roll away, and it startles my heart."
+  },
+  {
+   "zh": "送走旧年，迎来新年，",
+   "en": "Seeing off the old year, welcoming the new,"
+  },
+  {
+   "zh": "这一年还能剩下几刻？",
+   "en": "how many moments of this year are left?"
+  },
+  {
+   "zh": "人老了，哪里还受得了整夜喝酒，",
+   "en": "Now that I am old, how can I drink all night?"
+  },
+  {
+   "zh": "想不睡守岁，又怕寒气侵身。",
+   "en": "I want to stay up, but I fear the cold creeping in."
+  },
+  {
+   "zh": "干脆盖上酒杯，",
+   "en": "So I cover my wine cup."
+  },
+  {
+   "zh": "多谢梅花，",
+   "en": "Thank you, plum blossoms,"
+  },
+  {
+   "zh": "陪我轻轻吟诗。",
+   "en": "for keeping me company as I softly chant."
+  },
+  {
+   "zh": "邻家的姑娘已经试好了迎春的妆，",
+   "en": "The girl next door has already tried on her spring finery,"
+  },
+  {
+   "zh": "翠绿的饰物簇拥着细腰，",
+   "en": "green ornaments clustered at her slender waist,"
+  },
+  {
+   "zh": "燕尾形的金钗横插在头上。",
+   "en": "and a swallow-tail gold pin across her hair."
+  },
+  {
+   "zh": "她们把春风都招引来了，",
+   "en": "They call the spring wind over,"
+  },
+  {
+   "zh": "可见春天的心思谁也挡不住。",
+   "en": "for no one can hold back the feelings of spring."
+  },
+  {
+   "zh": "年轻的容貌哪能年年都好？",
+   "en": "How can a young face stay lovely year after year?"
+  },
+  {
+   "zh": "不如尽情去游春，抓住眼前的时光。",
+   "en": "Better to go out and enjoy the spring, and seize the present."
+  },
+  {
+   "zh": "尽情地登高望远吧：",
+   "en": "Climb up high and look as much as you like:"
+  },
+  {
+   "zh": "看那残雪还留在楼台上，",
+   "en": "at the last snow on the towers and terraces,"
+  },
+  {
+   "zh": "看那春日慢慢照着园林。",
+   "en": "and the slow spring sun over the gardens."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是除夕夜守岁。除夕是一年的最后一个晚上，古人有点蜡烛、喝酒、整夜不睡等新年的习俗，叫守岁。韩疁的生平记载很少，这首词写于哪一年、在什么地方，都不清楚。词里写了一个老人守岁时的感慨，也写了新春就要到来的喜气。",
+  "en": "This lyric is about staying up on New Year's Eve. That is the last night of the year. People lit candles, drank wine and stayed awake all night to wait for the new year. Very little is known about Han Liu's life, so we do not know the year or the place of this lyric. It shows an old man's feelings as he stays up, and also the joy of the coming spring."
+ },
+ "author_note": {
+  "zh": "韩疁，字子耕，号萧闲，南宋词人。他的生平事迹记载很少，生卒年也不清楚，留下来的词不多。这首《高阳台·除夜》被选进了《宋词三百首》，是他最有名的作品。",
+  "en": "Han Liu, courtesy name Zigeng, pen name Xiaoxian, was a Southern Song lyric poet. Little is recorded about his life, his dates are unknown, and only a few of his lyrics survive. This one was chosen for the anthology Three Hundred Song Lyrics and is his best-known work."
+ },
+ "appreciation": {
+  "zh": "上片是一个老人在除夕夜守岁。他一遍遍听报时，一次次换蜡烛，越听越觉得时间跑得快，心里一惊：一年又过去了。他想像年轻时那样通宵喝酒，又受不住寒冷，只好放下酒杯，和梅花作伴，小声吟诗。气氛有点冷清。下片忽然热闹起来：邻家姑娘已经打扮好了，头上插着金钗，好像把春风都招来了。诗人从她们身上看到了春天，也想通了：青春不会年年都有，不如趁现在出去走走，登上高处，看残雪还没化完、春日已经变长的园林。从冷到暖，从叹老到迎春，读来很有新年的味道。",
+  "en": "The first stanza shows an old man staying up on New Year's Eve. He hears the hours called again and again and keeps changing the candles. The more he listens, the faster time seems to run, and he is startled: another year is gone. He would like to drink all night as he did when young, but he cannot stand the cold. So he puts down his cup and chants softly, with only the plum blossoms for company. The mood is a little lonely. Then the second stanza grows lively. The girls next door are already dressed up, with gold pins in their hair, as if they had called the spring wind over. In them the poet sees spring, and he makes up his mind. Youth does not come every year, so go out now. Climb high and look at the gardens, where the last snow has not melted and the spring days are already growing long. The lyric moves from cold to warm, from sighing about age to welcoming spring. It truly feels like New Year."
+ },
+ "famous_lines": [
+  2,
+  15,
+  16
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [
+   "new-year-eve"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "new-year",
+   "time",
+   "old-age",
+   "plum-blossom"
+  ]
+ },
+ "uncertain": []
+}

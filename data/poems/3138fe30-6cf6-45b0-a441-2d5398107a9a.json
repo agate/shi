@@ -1,0 +1,338 @@
+{
+ "id": "3138fe30-6cf6-45b0-a441-2d5398107a9a",
+ "kind": "shi",
+ "title": "云阳馆与韩绅宿别",
+ "title_en": "Parting with Han Shen after a Night at the Yunyang Inn",
+ "author": "司空曙",
+ "author_en": "Sikong Shu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "川",
+    "chuān"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "各",
+    "gè"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "传",
+    "chuán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "读 zhāo，“明朝”就是明天早上。",
+   "en": "Read zhāo; míng zhāo means tomorrow morning."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: an old friend."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "江海别：在江海边分别，也指分别后各自漂泊在遥远的地方。",
+   "en": "jiāng hǎi bié: parting by rivers and seas, and then wandering far apart."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "几度：好几次，这里指过了好几年。",
+   "en": "jǐ dù: several times, here meaning several years have passed."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "乍见：忽然见到。",
+   "en": "zhà jiàn: to see suddenly."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "翻疑梦：反而怀疑是在做梦。翻，反而。",
+   "en": "fān yí mèng: on the contrary, wondering if it is a dream. Fān means \"instead\"."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "各问年：互相问对方多大年纪了。",
+   "en": "gè wèn nián: each asking the other's age."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "暗浮烟：夜色里，竹林上飘着一层水汽，像烟一样。",
+   "en": "àn fú yān: in the dark, a mist floats over the bamboo like smoke."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 5,
+   "zh": "恨：遗憾，难过。这里不是“仇恨”。",
+   "en": "hèn: sorrow, regret. Here it does not mean hatred."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "离杯：分别时喝的酒。",
+   "en": "lí bēi: the farewell cup of wine."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "惜共传：珍惜地互相传着酒杯喝。",
+   "en": "xī gòng chuán: passing the cup back and forth, treasuring each moment."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "老朋友，自从在江海边分别，",
+   "en": "Old friend, since we parted by the rivers and seas,"
+  },
+  {
+   "zh": "隔着山山水水，已经好几年了。",
+   "en": "mountains and rivers have kept us apart for years."
+  },
+  {
+   "zh": "忽然见面，反而怀疑是在做梦；",
+   "en": "Meeting so suddenly, we wonder if it is a dream;"
+  },
+  {
+   "zh": "我们互相伤感，彼此问起年龄。",
+   "en": "sad together, we ask each other's age."
+  },
+  {
+   "zh": "一盏孤灯冷冷地照着窗外的雨，",
+   "en": "A lone lamp shines coldly on the rain;"
+  },
+  {
+   "zh": "被雨打湿的竹林在夜色里飘着烟雾。",
+   "en": "mist drifts darkly over the wet bamboo."
+  },
+  {
+   "zh": "更让人难过的是明天早上又要分别，",
+   "en": "Worse still is the sorrow of parting tomorrow morning,"
+  },
+  {
+   "zh": "所以今夜珍惜地互相传着酒杯。",
+   "en": "so tonight we treasure the farewell cup we pass between us."
+  }
+ ],
+ "background": {
+  "zh": "司空曙和老朋友韩绅分别多年，在云阳的一家客馆里偶然相遇，住了一夜，第二天又要分手，于是写下这首诗。云阳在今天陕西泾阳一带。韩绅是谁，一说是韩愈的叔父韩绅卿，但并不确定。具体写作年份也不清楚。",
+  "en": "Sikong Shu had been apart from his old friend Han Shen for years. They happened to meet at an inn in Yunyang, spent one night there, and had to part again the next day, so he wrote this poem. Yunyang was around today's Jingyang in Shaanxi. One view says Han Shen was Han Shenqing, an uncle of Han Yu, but this is not certain. The exact year is also unknown."
+ },
+ "author_note": {
+  "zh": "司空曙，字文明（一说字文初），中唐诗人，是“大历十才子”之一。“大历”是唐代宗的年号，这十位诗人当时很有名。他的诗多写离别和羁旅，感情真挚，语言朴素，这首就是他的代表作。",
+  "en": "Sikong Shu was a mid Tang poet, one of the \"Ten Talents of the Dali Era\". Dali was the reign name of Emperor Daizong, and these ten poets were famous at that time. His poems are often about parting and travel, with sincere feelings and plain words. This is his best-known work."
+ },
+ "appreciation": {
+  "zh": "这首诗写了一次相聚又分别的全过程。前两句写分别太久。第三、四句写见面，是全诗最动人的地方：好不容易见到了，反而不敢相信，以为是在做梦；互相问年龄，因为都老了，都不敢认了。这种感觉很多人都有过。第五、六句写夜景：孤灯、冷雨、湿竹、夜雾，一片冷清，就像两个人心里的伤感。最后说明天又要分别，所以今晚格外珍惜这杯酒。刚刚重逢又要离开，喜悦和悲伤交织在一起。",
+  "en": "This poem shows a whole meeting and parting. The first two lines tell how long they were apart. Lines three and four describe the meeting, the most moving part. After so long, they can hardly believe it and think it is a dream. They ask each other's age because both have grown old and are hard to recognize. Many people have felt this. Lines five and six show the night: a lone lamp, cold rain, wet bamboo, night mist. It is bleak and quiet, like the sadness in their hearts. At the end, they must part again tomorrow, so tonight the wine is extra precious. They have only just met and must leave again, and joy and sorrow are mixed together."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "reunion",
+   "farewell",
+   "rain",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

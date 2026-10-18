@@ -1,0 +1,413 @@
+{
+ "id": "ci-4a0c5333d17e",
+ "kind": "ci",
+ "title": "霜天晓角·梅",
+ "title_en": "Shuang Tian Xiao Jiao: Plum Blossoms",
+ "author": "范成大",
+ "author_en": "Fan Chengda",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《霜天晓角》，双调四十三字",
+  "en": "ci to the tune Shuang Tian Xiao Jiao, 43 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "威",
+    "wēi"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "脉",
+    "mò"
+   ],
+   [
+    "脉",
+    "mò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "淡",
+    "dàn"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "原始资料第二句作“一夜春折威”，字的顺序颠倒了。通行本作“一夜春威折”，这里用通行本。",
+  "en": "In the source corpus the last two characters of line two are swapped. Common editions read chun wei zhe, \"spring's chill is broken\", which is used here."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "脉",
+   "pinyin": "mò",
+   "zh": "“脉脉”读 mò mò，形容默默含情的样子，不读 mài。",
+   "en": "Doubled here, this character is read mò mò, meaning quietly full of feeling, not mài as in pulse."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "脉",
+   "pinyin": "mò",
+   "zh": "同上，读 mò。",
+   "en": "As above, read mò."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "“两行”的“行”读 háng，意思是一排、一列。",
+   "en": "In liang hang this character is read háng, meaning a row or a line."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "晚晴：傍晚天放晴了。",
+   "en": "wǎn qíng: the sky clears in the evening."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "风歇：风停了。",
+   "en": "fēng xiē: the wind dies down."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "春威折：早春的寒气被打退了。春威，指初春时冷得厉害的那股劲。折，折断，减弱。",
+   "en": "chūn wēi zhé: the cold of early spring is broken. Chūn wēi means the bite of early spring's cold; zhé means to snap or weaken."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "脉脉：默默地、含着情意的样子。",
+   "en": "mò mò: silently, full of feeling."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "花疏：梅花开得稀稀落落。",
+   "en": "huā shū: the plum flowers are few and scattered."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "天淡：天色清淡。",
+   "en": "tiān dàn: the sky is pale and clear."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "云来去：云飘来又飘走。",
+   "en": "yún lái qù: clouds drift by."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 6,
+   "zh": "数枝雪：几枝像雪一样白的梅花。",
+   "en": "shù zhī xuě: a few branches of plum flowers as white as snow."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "胜绝：美到了极点。胜，美好；绝，到顶了。",
+   "en": "shèng jué: beautiful beyond compare. Shèng means fine; jué means to the utmost."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "愁亦绝：愁也到了极点。亦，也。",
+   "en": "chóu yì jué: the sorrow too is at its height. Yì means also."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "谁共说：能和谁一起说呢？",
+   "en": "shuí gòng shuō: who is there to share it with?"
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "惟有：只有。",
+   "en": "wéi yǒu: only."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "低雁：飞得很低的大雁。",
+   "en": "dī yàn: wild geese flying low."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 3,
+   "zh": "倚：靠着。",
+   "en": "yǐ: to lean on."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "画楼：装饰着彩画的楼。",
+   "en": "huà lóu: a painted tower."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "傍晚天晴了，风也停了。",
+   "en": "In the evening the sky clears and the wind dies down."
+  },
+  {
+   "zh": "一夜之间，早春的寒气退去了。",
+   "en": "In one night the cold of early spring has broken."
+  },
+  {
+   "zh": "梅花稀疏，默默含情，天色清淡，",
+   "en": "The plum flowers are sparse and silent, full of feeling, under a pale sky;"
+  },
+  {
+   "zh": "云飘来飘去，露出几枝雪白的梅花。",
+   "en": "clouds drift past, and a few branches bloom white as snow."
+  },
+  {
+   "zh": "美极了。",
+   "en": "It is beautiful beyond words."
+  },
+  {
+   "zh": "可心里的愁也到了极点。",
+   "en": "And the sorrow is just as deep."
+  },
+  {
+   "zh": "这份心情能和谁说呢？",
+   "en": "Who is there to tell of this feeling?"
+  },
+  {
+   "zh": "只有那两行低飞的大雁，",
+   "en": "Only the two lines of low-flying geese"
+  },
+  {
+   "zh": "知道有人在月下靠着画楼的栏杆。",
+   "en": "know that someone leans on the painted tower in the moonlight."
+  }
+ ],
+ "background": {
+  "zh": "这首词通行本题作“梅”，写早春傍晚到夜里赏梅的情景。风停天晴，寒气退去，几枝白梅在淡淡的天色里开着。词人觉得美到了极点，心里却也愁到了极点。他为什么愁，词里没有说，一般理解为思念远方的人。写作的具体时间和地点不清楚。",
+  "en": "In common editions this ci is titled Plum Blossoms. It shows a scene of looking at plum flowers from an early spring evening into the night. The wind stops, the sky clears and the cold eases. A few branches of white plum bloom against the pale sky. The poet finds it beautiful beyond words, yet his sorrow is just as deep. The poem does not say why he is sad. It is usually read as missing someone far away. We do not know exactly when or where it was written."
+ },
+ "author_note": {
+  "zh": "范成大（1126—1193），字致能，号石湖居士，苏州吴县人，南宋诗人。他做过大官，还曾出使金国，在敌人面前不肯低头。晚年他回到家乡石湖隐居，写了很多描写农村生活的田园诗。他的词清新秀丽，写景细腻。",
+  "en": "Fan Chengda (1126–1193), styled Zhineng, called himself the Lay Buddhist of Stone Lake. He came from Wu County near Suzhou and was a Southern Song poet. He held high office and once went as an envoy to the Jin state, where he would not bow to the enemy. In old age he retired to Stone Lake at home and wrote many poems about country life. His ci are fresh and graceful, with finely drawn scenes."
+ },
+ "appreciation": {
+  "zh": "上片是一幅淡淡的画：傍晚天晴，风停了，冷意退了。天色很淡，梅花开得很少，云一飘过，露出几枝像雪一样白的花。“脉脉”两个字，让梅花好像也有了心事。下片突然说“胜绝，愁亦绝”：景色美到极点，愁也到极点。越美的东西，越让人想起没能在身边一起看的人。可这份心情没人可说，只有天上低低飞过的两行大雁，知道有个人在月光下靠着画楼。从傍晚写到月出，人一直站在那里，孤单就这样一点点显出来。",
+  "en": "The first stanza is a soft, pale painting. In the evening the sky clears, the wind stops and the cold eases. The sky is pale, the plum flowers are few, and as a cloud passes, a few branches show white as snow. The word mò mò makes the flowers seem to have feelings of their own. Then the second stanza says suddenly: beautiful beyond words, and sorrow just as deep. The more lovely a sight is, the more it reminds us of the person who is not here to see it. But there is no one to tell. Only the two lines of geese flying low know that someone leans on the painted tower in the moonlight. From evening until the moon is up, the person stands there, and the loneliness shows little by little."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "plum-blossom",
+   "loneliness",
+   "moon",
+   "wild-geese"
+  ]
+ },
+ "uncertain": []
+}

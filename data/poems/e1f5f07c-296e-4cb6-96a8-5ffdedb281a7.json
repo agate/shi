@@ -1,0 +1,266 @@
+{
+ "id": "e1f5f07c-296e-4cb6-96a8-5ffdedb281a7",
+ "kind": "shi",
+ "title": "自遣",
+ "title_en": "Consoling Myself",
+ "author": "罗隐",
+ "author_en": "Luo Yin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "即",
+    "jí"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "失",
+    "shī"
+   ],
+   [
+    "即",
+    "jí"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "亦",
+    "yì"
+   ],
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "悠",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“今朝”是今天的意思，朝读 zhāo，不读 cháo。",
+   "en": "Jīn zhāo means today, so the character is read zhāo, not cháo."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "同上，“今朝”的朝读 zhāo。",
+   "en": "Same as above: in jīn zhāo it is read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "得：得意，事情顺心。",
+   "en": "dé: when things go well."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "即：就。",
+   "en": "jí: then."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "高歌：放声唱歌。",
+   "en": "gāo gē: to sing out loud."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "失：失意，事情不顺心。",
+   "en": "shī: when things go badly."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "休：罢了，算了。",
+   "en": "xiū: let it go, forget it."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "恨：遗憾，不如意的事。",
+   "en": "hèn: regret, things that did not turn out as hoped."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "亦：也。",
+   "en": "yì: also."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "悠悠：一般解释为长久、没有尽头；也有人理解为随它去、不放在心上。",
+   "en": "yōu yōu: usually explained as long and endless. Some read it as letting things drift and not taking them to heart."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "今朝：今天。",
+   "en": "jīn zhāo: today."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "顺心的时候就放声高歌，不顺心就算了。",
+   "en": "When things go well, I sing out loud; when they go badly, I let it go."
+  },
+  {
+   "zh": "愁也多，恨也多，就让它们去吧。",
+   "en": "So many worries, so many regrets, they go on and on, so let them be."
+  },
+  {
+   "zh": "今天有酒，今天就喝个痛快。",
+   "en": "If there is wine today, today I will drink my fill."
+  },
+  {
+   "zh": "明天有了忧愁，明天再去发愁。",
+   "en": "If worry comes tomorrow, tomorrow I will worry."
+  }
+ ],
+ "background": {
+  "zh": "罗隐年轻时就很有才名，可是参加科举考试十几次，一直没有考中，后人说他“十上不第”。他心里有很多不平和苦闷。“自遣”的意思是自己给自己排解忧愁。这首诗写出了他在失意中自我安慰的心情。具体写于哪一年，已经无法确定。",
+  "en": "Luo Yin was known for his talent from a young age. Yet he took the imperial exams more than ten times and never passed. Later people said he tried ten times and failed every time. He felt bitter and frustrated. The title means easing one's own sorrow. This poem shows him trying to comfort himself after his setbacks. We cannot tell what year it was written."
+ },
+ "author_note": {
+  "zh": "罗隐（833—910），字昭谏，晚唐诗人，新城（今浙江杭州富阳）人。他本名罗横，因为多次考试不中，才改名叫罗隐。他的诗文常常讽刺社会，说话很直。晚年他投奔吴越王钱镠，在那里做官。",
+  "en": "Luo Yin (833–910), also called Zhaojian, was a late Tang poet from Xincheng, today's Fuyang in Hangzhou, Zhejiang. His original given name was Heng; he changed it to Yin, meaning hidden, after failing the exams again and again. His poems and essays often mocked the society of his time and spoke very bluntly. In old age he joined Qian Liu, the King of Wuyue, and served as an official there."
+ },
+ "appreciation": {
+  "zh": "这首诗读起来像顺口溜，一个意思翻来覆去地说：想开点，别发愁。第一句说，顺心就唱，不顺心就算。第二句说，愁和恨再多，也随它去。后两句最有名：今天有酒，今天就喝醉；明天来了愁，明天再愁。句子里“今朝”“明日”“愁”都重复出现，读起来轻快好记。可是仔细想想，一个人要这样反复劝自己“别愁”，说明他心里其实愁得很深。这是失意的人苦中作乐的话。今天人们常用“今朝有酒今朝醉”形容只顾眼前、不想以后，这和诗里的苦涩味道不太一样。",
+  "en": "This poem reads like a jingle, saying one thing over and over: cheer up, do not worry. The first line says, sing when things go well, let it go when they do not. The second says, however many worries and regrets there are, let them be. The last two lines are the most famous: if there is wine today, get drunk today; if worry comes tomorrow, worry tomorrow. The words for today, tomorrow and worry repeat, so the lines are light and easy to remember. But think about it: if a man has to keep telling himself not to worry, his worries must run very deep. These are the words of a disappointed man finding a little joy in hard times. Today people often quote the third line to describe someone who lives only for the moment and does not think ahead, which misses the bitter taste of the poem."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wine",
+   "worry",
+   "frustration",
+   "self-consolation"
+  ]
+ },
+ "uncertain": []
+}

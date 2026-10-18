@@ -1,0 +1,733 @@
+{
+ "id": "ci-8928257604f6",
+ "kind": "ci",
+ "title": "烛影摇红·上元有怀",
+ "title_en": "Zhu Ying Yao Hong: Thoughts on the Lantern Festival",
+ "author": "张抡",
+ "author_en": "Zhang Lun",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《烛影摇红》，双调九十六字",
+  "en": "ci to the tune Zhu Ying Yao Hong, 96 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "阙",
+    "què"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "奉",
+    "fèng"
+   ],
+   [
+    "宸",
+    "chén"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "侍",
+    "shì"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "宴",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ]
+  ],
+  [
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "阆",
+    "làng"
+   ],
+   [
+    "苑",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "揭",
+    "jiē"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "管",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "驰",
+    "chí"
+   ],
+   [
+    "隙",
+    "xì"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "恍",
+    "huǎng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "瞬",
+    "shùn"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "换",
+    "huàn"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "泣",
+    "qì"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "臣",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "惆",
+    "chóu"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "胥",
+    "xū"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "短",
+    "duǎn"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "灯",
+    "dēng"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "阙",
+   "pinyin": "què",
+   "zh": "“阙”在这里读 què，指宫门前的高楼。",
+   "en": "Here this character is read què, meaning the tall towers in front of a palace gate."
+  },
+  {
+   "line": 5,
+   "pos": 5,
+   "char": "阆",
+   "pinyin": "làng",
+   "zh": "“阆苑”的“阆”读 làng。",
+   "en": "In làng yuàn this character is read làng."
+  },
+  {
+   "line": 14,
+   "pos": 0,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "“谩”在这里读 màn，同“漫”，意思是徒然、白白地。不读 mán（欺骗）。",
+   "en": "Here this character is read màn, the same as màn meaning in vain. It is not read mán (to deceive)."
+  },
+  {
+   "line": 14,
+   "pos": 4,
+   "char": "胥",
+   "pinyin": "xū",
+   "zh": "“华胥”的“胥”读 xū。",
+   "en": "In huá xū this character is read xū."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "双阙：宫门两边对称的两座高楼，代指皇宫。",
+   "en": "shuāng què: the twin towers on either side of a palace gate; they stand for the palace."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "中天：高高地立在半空中。",
+   "en": "zhōng tiān: rising high into the middle of the sky."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "凤楼十二：传说神仙住在十二座玉楼里，这里形容宫中楼阁又多又美。",
+   "en": "fèng lóu shí èr: legend says immortals lived in twelve jade towers; here it means the many fine buildings of the palace."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "春寒浅：初春的寒意已经很淡。",
+   "en": "chūn hán qiǎn: the chill of early spring is already light."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "元夜：正月十五元宵节的夜晚，也叫上元节，家家看灯。",
+   "en": "yuán yè: the night of the fifteenth of the first month, the Lantern Festival, when everyone goes out to see the lanterns."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "奉宸游：陪着皇帝出游。宸，皇帝住的地方，代指皇帝。",
+   "en": "fèng chén yóu: accompanying the emperor on an outing. Chén is the emperor's palace, and so the emperor himself."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "瑶池宴：传说西王母在瑶池请神仙吃饭。这里比喻皇宫里的宴会。",
+   "en": "yáo chí yàn: legend says the Queen Mother of the West held feasts for the immortals at the Jade Pool. Here it means a banquet in the palace."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "尽卷：全都卷起来。",
+   "en": "jìn juǎn: all rolled up."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "拥群仙：周围簇拥着一群神仙，比喻宫里的贵人。",
+   "en": "yōng qún xiān: surrounded by crowds of immortals, meaning the noble people of the court."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 7,
+   "zh": "蓬壶阆苑：蓬壶是海上仙山，阆苑是神仙住的园林。这里比喻皇宫像仙境。",
+   "en": "péng hú làng yuàn: Penghu is an island of the immortals in the sea, and Langyuan is their garden. Here they mean the palace is like fairyland."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "五云：五彩的祥云，也指皇帝住的地方。",
+   "en": "wǔ yún: five-coloured lucky clouds, also a way of saying the emperor's home."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "揭天丝管：音乐声响得好像要掀开天空。揭，掀起；丝管，弦乐和管乐。",
+   "en": "jiē tiān sī guǎn: music so loud it seemed to lift the sky. Jiē means to lift; sī guǎn are string and wind instruments."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "驰隙流年：时间像白马从缝隙前跑过一样飞快。流年，像流水一样逝去的年华。",
+   "en": "chí xì liú nián: the years rush by like a white horse glimpsed through a crack. Liú nián means time flowing away like water."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "恍如：好像。",
+   "en": "huǎng rú: just as if."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 7,
+   "zh": "星霜换：星辰转了一圈，霜又下了一次，就是过了一年。",
+   "en": "xīng shuāng huàn: the stars have turned once and the frost has come again, that is, a year has passed."
+  },
+  {
+   "line": 11,
+   "start": 5,
+   "end": 7,
+   "zh": "孤臣：孤单、失意的臣子，作者自指。",
+   "en": "gū chén: a lonely, out-of-favour official; the poet means himself."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "长安：汉唐的都城，这里代指京城。",
+   "en": "cháng ān: the capital of Han and Tang, used here for the capital city."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "尘缘：和人世的牵挂，这里指对往事的留恋。",
+   "en": "chén yuán: ties to the human world; here, clinging to the past."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 6,
+   "zh": "华胥梦：传说黄帝白天睡觉，梦见到了一个叫华胥的美好国度。后来用来指美梦。",
+   "en": "huá xū mèng: legend says the Yellow Emperor dreamed in a daytime nap that he visited a perfect land called Huaxu. It came to mean a beautiful dream."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "幽恨：藏在心底的愁恨。",
+   "en": "yōu hèn: sorrow hidden deep in the heart."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "宫门前两座高楼耸入半空，",
+   "en": "The twin palace towers rise into the sky;"
+  },
+  {
+   "zh": "宫中许多华美的楼阁里，春寒已经很淡了。",
+   "en": "in the twelve phoenix towers the spring chill is faint."
+  },
+  {
+   "zh": "去年元宵夜，我陪着皇帝出游，",
+   "en": "Last year on the Lantern Festival night I went out with the emperor,"
+  },
+  {
+   "zh": "曾在仙境一般的宫宴上侍奉。",
+   "en": "and served at a feast like that of the Jade Pool."
+  },
+  {
+   "zh": "玉石宫殿的珠帘全都卷了起来，",
+   "en": "In the jade halls every pearl curtain was rolled up;"
+  },
+  {
+   "zh": "贵人们像群仙一样，簇拥在仙境般的宫苑里。",
+   "en": "like immortals the nobles crowded the fairyland gardens."
+  },
+  {
+   "zh": "在五彩祥云的深处，",
+   "en": "Deep among the five-coloured clouds,"
+  },
+  {
+   "zh": "在千万支蜡烛的光里，",
+   "en": "in the light of ten thousand candles,"
+  },
+  {
+   "zh": "乐声响得好像要掀开天空。",
+   "en": "the strings and pipes seemed to lift the sky."
+  },
+  {
+   "zh": "时光像快马跑过缝隙一样飞逝，",
+   "en": "The years rush past like a horse glimpsed through a crack;"
+  },
+  {
+   "zh": "恍惚间一眨眼，又是一年过去了。",
+   "en": "in a blink, it seems, a whole year has turned."
+  },
+  {
+   "zh": "今晚，谁会想到我这个独自流泪的孤臣？",
+   "en": "Tonight, who thinks of this lonely official in tears?"
+  },
+  {
+   "zh": "回头望去，京城已经那么遥远。",
+   "en": "I look back, and the capital is so far away."
+  },
+  {
+   "zh": "难道是我对往事的牵挂还没有断？",
+   "en": "Is it that my ties to the past are not yet broken?"
+  },
+  {
+   "zh": "白白地惆怅，那场美梦实在太短。",
+   "en": "In vain I grieve that the lovely dream was so short."
+  },
+  {
+   "zh": "满怀深深的愁恨，",
+   "en": "My heart is full of hidden sorrow;"
+  },
+  {
+   "zh": "只有几点寒冷的灯火，",
+   "en": "there are only a few cold lamps"
+  },
+  {
+   "zh": "和几声北归大雁的叫声。",
+   "en": "and the cries of a few geese flying home."
+  }
+ ],
+ "background": {
+  "zh": "上元节就是正月十五元宵节，宋代皇宫里这一夜张灯结彩，皇帝会出来看灯，宴请近臣。张抡曾在南宋宫中做近臣。词里说，去年元宵夜他还陪着皇帝游赏，今年却远离京城，独自对着寒灯。一般就这样理解，写的是今昔对比的失落。一说这首词借元宵旧事，怀念北宋的繁华和故都。",
+  "en": "The Shangyuan festival is the Lantern Festival on the fifteenth of the first month. In the Song, the palace was hung with lanterns that night; the emperor came out to see them and gave a feast for his close officials. Zhang Lun served at the Southern Song court as one of these officials. In the poem, last year at the festival he was with the emperor, but this year he is far from the capital, alone before a cold lamp. It is usually read as a poem about loss, setting then against now. Some think it uses the old festival to mourn the glory of the Northern Song and its lost capital."
+ },
+ "author_note": {
+  "zh": "张抡，字才甫，号莲社居士，南宋词人，生卒年不详。他在宋高宗、宋孝宗时做过皇帝身边的官，常常陪皇帝游宴，写过不少应制的词，有《莲社词》。这首词写宫中元宵的热闹和后来的冷清，正和他熟悉宫廷生活的经历相合。",
+  "en": "Zhang Lun was a Southern Song ci poet whose birth and death years are not known. Under the emperors Gaozong and Xiaozong he served close to the throne and often went with the emperor to feasts and outings, writing ci for these occasions. His collection is called the Lotus Society Ci. This poem's picture of the bright palace festival and the cold loneliness after it fits his long experience of court life."
+ },
+ "appreciation": {
+  "zh": "上片写回忆，一片辉煌：高高的宫阙，十二座凤楼，珠帘全卷，人像神仙，万支蜡烛照亮五色云，音乐响得要掀开天。作者用了许多神仙的说法，把宫中元宵写得像仙境。下片一下子冷下来：时间飞快，一年过去，今晚只剩孤臣一人流泪，回头看京城已经很远。他问自己，是不是还放不下过去？可那场美梦太短了。结尾只有几点寒灯、几声归雁，和上片的万烛、丝管正好相反。越热闹的回忆，越显出眼前的冷清。",
+  "en": "The first stanza is a dazzling memory: tall palace towers, twelve phoenix halls, every pearl curtain rolled up, people like immortals, ten thousand candles lighting the five-coloured clouds, and music loud enough to lift the sky. The poet uses many fairy-tale words, so the palace festival looks like fairyland. The second stanza turns suddenly cold. Time has flown, a year is gone, and tonight there is only a lonely official in tears, with the capital far behind him. He asks himself whether he still cannot let go of the past; but the lovely dream was so short. The poem ends with a few cold lamps and a few cries of geese, the exact opposite of the ten thousand candles and the music before. The brighter the memory, the colder the present feels."
+ },
+ "famous_lines": [
+  15,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "palace",
+   "loneliness",
+   "lantern"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "background",
+   "zh": "这首词具体写于什么时候、作者为什么离开京城，都没有可靠的记载；写的是南宋宫中还是借以怀念北宋，也有不同看法。",
+   "en": "There is no reliable record of when this poem was written or why the poet was away from the capital; readers also differ on whether it describes the Southern Song court or uses it to mourn the Northern Song."
+  },
+  {
+   "field": "author_note",
+   "zh": "张抡的生平记载很少，“曾在高宗、孝宗时做近臣”等细节需要核对。",
+   "en": "Very little is recorded about Zhang Lun's life; details such as his serving close to the throne under Gaozong and Xiaozong should be checked."
+  }
+ ]
+}

@@ -1,0 +1,807 @@
+{
+ "id": "ci-cf8b0c7a9120",
+ "kind": "ci",
+ "title": "玉蝴蝶·晚雨未摧宫树",
+ "title_en": "To the Tune of Yu Hu Die: The Evening Rain Has Not Yet Broken the Palace Trees",
+ "author": "史达祖",
+ "author_en": "Shi Dazu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·玉蝴蝶（双调九十九字）",
+  "en": "ci lyric to the tune Yu Hu Die (two stanzas, 99 characters)"
+ },
+ "lines": [
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "摧",
+    "cuī"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "抱",
+    "bào"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "蝉",
+    "chán"
+   ]
+  ],
+  [
+   [
+    "短",
+    "duǎn"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "禁",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "俱",
+    "jù"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "欢",
+    "huān"
+   ]
+  ],
+  [
+   [
+    "土",
+    "tǔ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "甃",
+    "zhòu"
+   ]
+  ],
+  [
+   [
+    "虫",
+    "chóng"
+   ],
+   [
+    "网",
+    "wǎng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "端",
+    "duān"
+   ]
+  ],
+  [
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "蛄",
+    "gū"
+   ],
+   [
+    "搅",
+    "jiǎo"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "团",
+    "tuán"
+   ],
+   [
+    "扇",
+    "shàn"
+   ]
+  ],
+  [
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "莲",
+    "lián"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "笛",
+    "dí"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "娘",
+    "niáng"
+   ],
+   [
+    "悬",
+    "xuán"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "强",
+    "qiǎng"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "致",
+    "zhì"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "暄",
+    "xuān"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "袖",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "婵",
+    "chán"
+   ],
+   [
+    "娟",
+    "juān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "资料库的词牌写作“玉胡蝶·玉蝴蝶”，“胡蝶”是“蝴蝶”的旧写法，这里统一作“玉蝴蝶”。正文和通行本相同。",
+  "en": "The database gives the tune name in two forms, one using an old way of writing \"butterfly\". Here it is simply \"Yu Hu Die\". The text itself is the same as the common text."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 6,
+   "char": "禁",
+   "pinyin": "jīn",
+   "zh": "难禁：这里“禁”读 jīn，意思是承受、忍受，和“不禁”的“禁”一样。",
+   "en": "In nán jīn this character is read jīn, meaning to bear or endure, as in bù jīn."
+  },
+  {
+   "line": 16,
+   "pos": 3,
+   "char": "强",
+   "pinyin": "qiǎng",
+   "zh": "强：这里读 qiǎng，意思是勉强。",
+   "en": "Read qiǎng here, meaning to force oneself."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 4,
+   "zh": "摧：摧毁，打落。",
+   "en": "cuī: to break, to knock down."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "宫树：宫苑里的树。",
+   "en": "gōng shù: trees in a palace garden."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可爱，也带着叫人心疼的意思。",
+   "en": "kě lián: lovely, and also pitiful."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "闲叶：稀稀落落、闲挂在枝上的叶子。",
+   "en": "xián yè: a few idle leaves left hanging on the branches."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "凉蝉：秋天的蝉，叫声凄凉。",
+   "en": "liáng chán: an autumn cicada with a cold, sad cry."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "短景归秋：白天变短，到了秋天。景，日光。",
+   "en": "duǎn jǐng guī qiū: the days grow short and autumn comes. Jǐng here means daylight."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "吟思：作诗的心思。",
+   "en": "yín sī: the mood for writing poems."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "愁边：愁绪里。",
+   "en": "chóu biān: the edge of sorrow, that is, sorrow itself."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "漏：漏壶，古代用滴水来计时的器具。这里指夜里的时间。",
+   "en": "lòu: a water clock, an old tool that told time by dripping water. Here it means the hours of the night."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 7,
+   "zh": "梦魂难禁：梦里的魂受不住这长夜的孤单。",
+   "en": "mèng hún nán jīn: the dreaming soul cannot bear the long, lonely night."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 7,
+   "zh": "风月俱寒：风和月都变得寒冷了。",
+   "en": "fēng yuè jù hán: wind and moon have both turned cold."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "幽欢：私下里的欢会，指当年和心爱的人在一起的快乐。",
+   "en": "yōu huān: quiet joy together, the happy times once spent with a loved one."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "土花：苔藓。",
+   "en": "tǔ huā: moss."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "庭甃：院子里用砖砌的井壁或地面。",
+   "en": "tíng zhòu: the brick wall of a well, or brick paving, in a courtyard."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "虫网：蜘蛛网。",
+   "en": "chóng wǎng: spider webs."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "无端：没有来由，平白无故。",
+   "en": "wú duān: for no reason at all."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "啼蛄：鸣叫的蝼蛄。蝼蛄是一种夜里叫的小虫。",
+   "en": "tí gū: a chirping mole cricket, a small insect that calls at night."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "搅夜：搅乱了夜晚的安静。",
+   "en": "jiǎo yè: to disturb the quiet night."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "恨随团扇：团扇是圆形的扇子，夏天用，秋天就被丢在一边。汉代班婕妤用团扇比喻失宠的女子。这里说怨恨像秋天的团扇一样。",
+   "en": "hèn suí tuán shàn: a round fan is used in summer and put away in autumn. In the Han dynasty, Lady Ban compared a woman who had lost favour to such a fan. Here sorrow comes like the fan set aside in autumn."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "苦近秋莲：苦得就像秋天的莲子心。",
+   "en": "kǔ jìn qiū lián: as bitter as the heart of an autumn lotus seed."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "当楼：对着楼。",
+   "en": "dāng lóu: facing the tower."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "谢娘：古代常用来称呼心爱的女子或歌女。",
+   "en": "xiè niáng: an old way to name a beloved woman or a singing girl."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "悬泪：眼泪挂在脸上。",
+   "en": "xuán lèi: tears hanging on the face."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 3,
+   "zh": "故园晚：老家已是晚秋时节。",
+   "en": "gù yuán wǎn: at home it is already late autumn."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 7,
+   "zh": "强留诗酒：勉强靠作诗喝酒打发日子。",
+   "en": "qiǎng liú shī jiǔ: forcing oneself to get by with poems and wine."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 7,
+   "zh": "不致寒暄：没有带来问候的书信。寒暄，问冷问暖。传说大雁能传信。",
+   "en": "bú zhì hán xuān: brings no greeting. Hán xuān means asking about cold and warmth. Geese were said to carry letters."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "苍烟：青灰色的烟雾。",
+   "en": "cāng yān: grey-blue mist."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "楚香罗袖：带着香气的丝绸衣袖，指那位女子。",
+   "en": "chǔ xiāng luó xiù: scented silk sleeves, standing for the woman."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "婵娟：美好的样子，这里指美人。",
+   "en": "chán juān: lovely and graceful, here a beautiful woman."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "傍晚的雨还没打落宫苑的树叶，",
+   "en": "The evening rain has not yet stripped the palace trees."
+  },
+  {
+   "zh": "可怜那些稀稀落落的叶子，",
+   "en": "Poor idle leaves,"
+  },
+  {
+   "zh": "还抱着秋天的寒蝉。",
+   "en": "still holding the cold autumn cicadas."
+  },
+  {
+   "zh": "白天变短了，秋天到了，",
+   "en": "The days grow short and autumn has come."
+  },
+  {
+   "zh": "作诗的心思又连上了愁绪。",
+   "en": "My mood for poems runs into sorrow again."
+  },
+  {
+   "zh": "夜开始变长，梦魂受不住这孤单，",
+   "en": "The nights begin to lengthen, and my dreaming soul cannot bear it."
+  },
+  {
+   "zh": "人渐渐老了，风和月也都冷了。",
+   "en": "I grow old, and wind and moon turn cold."
+  },
+  {
+   "zh": "想起当年的欢会，",
+   "en": "I think of our happy times,"
+  },
+  {
+   "zh": "如今院里的砖上长满青苔，",
+   "en": "and now the courtyard bricks are thick with moss,"
+  },
+  {
+   "zh": "栏杆上结满了蛛网。",
+   "en": "and spider webs cover the railings."
+  },
+  {
+   "zh": "平白无故地，",
+   "en": "For no reason at all,"
+  },
+  {
+   "zh": "蝼蛄的叫声搅乱了夜晚，",
+   "en": "the mole crickets disturb the night."
+  },
+  {
+   "zh": "怨恨像秋天被丢下的团扇，",
+   "en": "Sorrow comes like a fan put away in autumn,"
+  },
+  {
+   "zh": "苦得像秋天的莲子心。",
+   "en": "bitter as the heart of an autumn lotus."
+  },
+  {
+   "zh": "有人对着楼吹起笛子，",
+   "en": "A flute plays facing the tower;"
+  },
+  {
+   "zh": "她挂着泪站在风里。",
+   "en": "she stands in the wind with tears on her face."
+  },
+  {
+   "zh": "老家已是晚秋，我勉强靠诗酒打发日子；",
+   "en": "At home autumn is late; I make do with poems and wine."
+  },
+  {
+   "zh": "新来的大雁飞得那么远，也没带来一句问候。",
+   "en": "The new geese fly far off and bring no word of greeting."
+  },
+  {
+   "zh": "隔着青灰色的烟雾，",
+   "en": "Beyond the grey mist,"
+  },
+  {
+   "zh": "穿着香袖罗衣的她，",
+   "en": "she in her scented silk sleeves,"
+  },
+  {
+   "zh": "有谁陪伴着这位美人呢？",
+   "en": "who is there to keep that lovely woman company?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写秋天的愁思。词人看到秋雨、寒蝉、长夜，想到自己渐渐老去，又想起当年和心爱的女子欢聚的地方，如今已经长满青苔、结满蛛网。下阕想象她在风中流泪，自己在异乡只能靠诗酒打发日子，连书信也收不到。具体写于哪一年，那位女子是谁，现在都不清楚。",
+  "en": "This lyric is about sorrow in autumn. The poet sees autumn rain, cold cicadas and long nights, and feels himself growing old. He remembers the place where he was happy with the woman he loved; now it is covered in moss and spider webs. In the second stanza he imagines her crying in the wind, while he, far from home, gets by on poems and wine and receives no letters. We do not know the year it was written or who the woman was."
+ },
+ "author_note": {
+  "zh": "史达祖，字邦卿，号梅溪，汴（今河南开封）人，南宋词人，生卒年不详。他没考中进士，后来在权臣韩侂胄手下做文书。韩侂胄被杀后，他受牵连被流放，晚年很不得意。他的词描写细致，善于写景物，秋天的衰败景象常和他自己的失意连在一起。",
+  "en": "Shi Dazu, also called Bangqing or Meixi, came from Bian, today's Kaifeng in Henan. He was a Southern Song lyric poet; his birth and death years are not known. He never passed the top state exam and later worked as a secretary for the powerful minister Han Tuozhou. When Han was killed, Shi was punished and sent into exile, and his last years were unhappy. His lyrics describe things in fine detail, and fading autumn scenes are often tied to his own disappointment."
+ },
+ "appreciation": {
+  "zh": "上阕从秋景写起：晚雨还没打落树叶，稀疏的叶子上还趴着寒蝉，白天越来越短，夜越来越长。词人把自己写进秋天：梦魂受不住，人慢慢变老，连风和月都冷了。他想起当年的欢会，眼前却只有青苔和蛛网，热闹和冷落对比，叫人心酸。下阕一开头用“无端”两字，好像在抱怨：蝼蛄为什么偏偏这时叫？接着用团扇、秋莲这些秋天的东西比喻愁苦。然后镜头转到远方的她，挂着泪站在风中。词人自己在异乡强打精神，大雁飞过也带不来消息。最后一问“谁伴婵娟”，既是心疼她，也是在说自己的孤单。整首词处处是秋声秋色，愁意一层比一层深。",
+  "en": "The first stanza starts with autumn: the evening rain has not yet knocked down the leaves, cold cicadas still cling to the few that are left, the days shorten and the nights lengthen. The poet puts himself into autumn: his dreaming soul cannot bear it, he grows old, and even wind and moon turn cold. He remembers their happy times, but all he sees is moss and spider webs. The contrast between then and now is heartbreaking. The second stanza opens with \"for no reason\", as if he were complaining: why must the mole crickets call just now? Then he uses autumn things, the put-away fan and the bitter lotus, to picture his sorrow. The view moves to her far away, standing in the wind with tears on her face. He himself forces his spirits up in a strange place, and the geese bring no news. The last question, \"who keeps her company\", shows his care for her and also his own loneliness. Autumn sounds and colours fill the whole lyric, and the sadness deepens layer by layer."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "autumn-sorrow",
+   "longing",
+   "aging",
+   "cicada"
+  ]
+ },
+ "uncertain": []
+}

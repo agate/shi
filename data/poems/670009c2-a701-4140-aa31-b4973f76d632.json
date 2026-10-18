@@ -1,0 +1,466 @@
+{
+ "id": "670009c2-a701-4140-aa31-b4973f76d632",
+ "kind": "shi",
+ "title": "隋宫",
+ "title_en": "The Sui Palace",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "泉",
+    "quán"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "霞",
+    "xiá"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "芜",
+    "wú"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "玺",
+    "xǐ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "腐",
+    "fǔ"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "萤",
+    "yíng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ]
+  ],
+  [
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "鸦",
+    "yā"
+   ]
+  ],
+  [
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "陈",
+    "chén"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "宜",
+    "yí"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "角",
+   "pinyin": "jiǎo",
+   "zh": "“日角”的“角”读 jiǎo。",
+   "en": "In ri jiao, this character is read jiǎo."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "“应是”是应该是、大概是，读 yīng。",
+   "en": "Here it means probably, and is read yīng."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重问”是再问一次，读 chóng，不读 zhòng。",
+   "en": "Here it means to ask again, so it is read chóng, not zhòng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "紫泉：紫渊，长安附近的一条河，这里指长安。唐高祖叫李渊，为了避开皇帝的名字，改“渊”为“泉”。",
+   "en": "zǐ quán: the Purple Spring, really the Purple Deep, a river near Chang'an. Here it means Chang'an. The first Tang emperor was named Li Yuan, so the word for deep was changed to spring to avoid his name."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "锁烟霞：被云雾锁住，意思是宫殿空着没人住。",
+   "en": "suǒ yān xiá: locked in mist and clouds, meaning the palaces stood empty."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "芜城：广陵，就是今天江苏扬州。南朝鲍照写过《芜城赋》，后来就用芜城指扬州。",
+   "en": "wú chéng: the Ruined City, Guangling, today's Yangzhou in Jiangsu. The poet Bao Zhao wrote a famous piece about it, so the name stuck."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "帝家：皇帝的家，就是都城。",
+   "en": "dì jiā: the emperor's home, the capital."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "玉玺：皇帝用的玉印，代表皇位。",
+   "en": "yù xǐ: the emperor's jade seal, a sign of the throne."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "不缘：如果不是因为。",
+   "en": "bù yuán: if it were not because."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "日角：额头中间的骨头隆起像太阳，古人认为这是当皇帝的面相。这里指唐高祖李渊。",
+   "en": "rì jiǎo: a bump in the middle of the forehead shaped like the sun. People in old times thought it marked a future emperor. Here it means Li Yuan, the first Tang emperor."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "锦帆：用锦缎做的船帆。隋炀帝坐着装饰华丽的龙船游扬州，船帆都用锦缎做。",
+   "en": "jǐn fān: sails made of brocade. Emperor Yang of Sui toured Yangzhou in grand dragon boats with brocade sails."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "天涯：天边，极远的地方。",
+   "en": "tiān yá: the edge of the sky, the farthest places."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "于今：到现在。",
+   "en": "yú jīn: until now."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 7,
+   "zh": "腐草无萤火：古人以为萤火虫是腐烂的草变的。隋炀帝曾经让人收集了很多萤火虫，晚上游山时放出来照亮山谷。现在连萤火虫都没有了。",
+   "en": "fǔ cǎo wú yíng huǒ: people in old times believed fireflies grew out of rotting grass. Emperor Yang had huge numbers of fireflies gathered and set free at night to light up the hills on his outings. Now not even fireflies are left."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "终古：长久，一直。",
+   "en": "zhōng gǔ: forever, all along."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "垂杨：垂柳。隋炀帝开运河，在河堤上种了很多柳树。",
+   "en": "chuí yáng: weeping willows. Emperor Yang dug the Grand Canal and planted willows all along its banks."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "暮鸦：黄昏时的乌鸦。",
+   "en": "mù yā: crows at dusk."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "陈后主：陈叔宝，南朝陈的最后一个皇帝，只顾玩乐，被隋朝灭掉了。",
+   "en": "chén hòu zhǔ: Chen Shubao, the last ruler of the Chen dynasty. He cared only for pleasure and was conquered by the Sui."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "岂宜：怎么好意思，哪里应该。",
+   "en": "qǐ yí: how could one dare."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "后庭花：《玉树后庭花》，陈后主作的歌曲，后人把它看作亡国之音。传说隋炀帝曾梦见陈后主，还请他的宠妃跳了这支舞。",
+   "en": "hòu tíng huā: \"Flowers in the Rear Court\", a song by Chen Shubao, later seen as the music of a lost kingdom. Legend says Emperor Yang once dreamed of meeting him and asked his favorite consort to dance to it."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长安的宫殿被云雾锁住，空空地没人住，",
+   "en": "The palaces of Chang'an stood locked in mist and cloud, empty,"
+  },
+  {
+   "zh": "隋炀帝还想把扬州当作新的都城。",
+   "en": "while the emperor wanted to make Yangzhou his capital."
+  },
+  {
+   "zh": "如果不是皇位落到了唐高祖手里，",
+   "en": "If the jade seal had not passed to the man born to be emperor,"
+  },
+  {
+   "zh": "那锦帆龙船大概会一直游到天边去。",
+   "en": "his brocade-sailed boats would probably have sailed to the ends of the earth."
+  },
+  {
+   "zh": "到现在，腐草里再也飞不出萤火虫，",
+   "en": "Now no fireflies rise from the rotting grass,"
+  },
+  {
+   "zh": "只有河堤上的垂柳，永远落着黄昏的乌鸦。",
+   "en": "and only crows at dusk perch forever in the weeping willows."
+  },
+  {
+   "zh": "隋炀帝在地下如果遇见陈后主，",
+   "en": "If he meets Chen Shubao under the earth,"
+  },
+  {
+   "zh": "难道还好意思再请他唱《后庭花》吗？",
+   "en": "how could he dare ask again for \"Flowers in the Rear Court\"?"
+  }
+ ],
+ "background": {
+  "zh": "隋宫指隋炀帝在江都（今扬州）修建的行宫。隋炀帝杨广喜欢游玩，三次乘龙船下扬州，劳民伤财，最后在扬州被部下杀死，隋朝也很快灭亡。李商隐借这段历史，讽刺只顾享乐、不管百姓的皇帝，也是在提醒当时的唐朝统治者。这首诗写于哪一年，已经不能确定。",
+  "en": "The Sui Palace means the travel palaces Emperor Yang of Sui built at Jiangdu, today's Yangzhou. Emperor Yang, Yang Guang, loved pleasure trips. Three times he sailed to Yangzhou in dragon boats, wasting the people's money and labor. In the end he was killed by his own men in Yangzhou, and the Sui fell soon after. Li Shangyin uses this history to mock rulers who care only for pleasure and not for their people, and to warn the Tang rulers of his own day. The year it was written cannot be fixed."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），字义山，晚唐诗人。除了无题诗，他还写了很多咏史诗，借古代的事情说当时的事。他用典故很多，常常一句里藏着一个故事，《隋宫》就是这样。",
+  "en": "Li Shangyin (about 813 to about 858) was a poet of the late Tang. Besides his untitled poems, he wrote many poems on history, using old events to talk about his own times. He used many allusions, and often a single line hides a whole story. \"The Sui Palace\" is like that."
+ },
+ "appreciation": {
+  "zh": "这首诗句句写隋炀帝，却没有一句骂他，讽刺都藏在故事里。开头说他放着长安的宫殿不住，偏要去扬州；接着说，要不是唐朝得了天下，他的龙船恐怕要游到天边去，玩起来没完没了。第三联最有名：当年他放萤火虫照山谷，现在腐草里一只萤火虫也没有；当年河堤上种的柳树还在，却只有黄昏的乌鸦落在上面。热闹变成了冷清。最后诗人开了个玩笑：他在地下见到同样因为玩乐亡国的陈后主，还好意思再请人家唱《后庭花》吗？笑里带着冷冷的警告。",
+  "en": "Every line is about Emperor Yang, yet not one line curses him. The mockery hides inside the stories. The poem begins by saying he left the palaces of Chang'an empty and insisted on going to Yangzhou. Then it says that if the Tang had not taken the throne, his boats might have sailed on to the ends of the earth, his fun never ending. The third couplet is the most famous. Back then he set fireflies loose to light the hills; now not a single firefly rises from the grass. The willows he planted along the canal are still there, but only crows sit in them at dusk. Noise and glitter have turned to silence. At the end the poet makes a joke. If, under the earth, he meets Chen Shubao, who also lost his kingdom to pleasure, would he dare ask him for that song again? The joke carries a cold warning."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "satire",
+   "ruins",
+   "emperor"
+  ]
+ },
+ "uncertain": []
+}

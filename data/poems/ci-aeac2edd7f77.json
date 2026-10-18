@@ -1,0 +1,365 @@
+{
+ "id": "ci-aeac2edd7f77",
+ "kind": "ci",
+ "title": "生查子·元夕戏陈敬叟",
+ "title_en": "Sheng Zha Zi: Teasing Chen Jingsou on Lantern Night",
+ "author": "刘克庄",
+ "author_en": "Liu Kezhuang",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "夺",
+    "duó"
+   ],
+   [
+    "霁",
+    "jì"
+   ],
+   [
+    "华",
+    "huá"
+   ]
+  ],
+  [
+   [
+    "戏",
+    "xì"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "同",
+    "tóng"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "味",
+    "wèi"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "眉",
+    "méi"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "拜",
+    "bài"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "华",
+   "pinyin": "huá",
+   "zh": "“霁华”的“华”指光彩，读 huá，不读 huā。",
+   "en": "In jì huá (clear moonlight) the character means brightness and is read huá, not huā."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "发",
+   "pinyin": "fā",
+   "zh": "“明发”指天亮，“发”读 fā。",
+   "en": "In míng fā (daybreak) the character is read fā."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "繁灯：又多又亮的花灯。",
+   "en": "fán dēng: many bright lanterns."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "夺：压过，盖过。",
+   "en": "duó: to outshine, to overpower."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "霁华：雨雪停后明亮的月光。霁，雨雪停止，天放晴。",
+   "en": "jì huá: the bright moonlight after rain or snow clears. Jì means the sky clearing."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "戏鼓：演戏时敲的锣鼓。",
+   "en": "xì gǔ: the drums beaten for a show or play."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "侵明发：一直响到天亮。侵，渐渐接近；明发，天刚亮。",
+   "en": "qīn míng fā: go on until dawn. Qīn means to creep toward; míng fā means daybreak."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "物色：景色，眼前的样子。",
+   "en": "wù sè: the scenery, how things look."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "情味：心里的感受和兴致。",
+   "en": "qíng wèi: one's feelings and mood."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "中年别：到了中年就不一样了。别，不同。",
+   "en": "zhōng nián bié: different now in middle age. Bié here means different."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "浅画镜中眉：对着镜子，淡淡地画眉毛。",
+   "en": "qiǎn huà jìng zhōng méi: facing the mirror, she lightly paints her brows."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 5,
+   "zh": "深拜楼西月：对着楼西边的月亮，深深地下拜，在心里许愿。",
+   "en": "shēn bài lóu xī yuè: she bows deeply to the moon west of the tower, making a silent wish."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "市声：街市上的喧闹声。",
+   "en": "shì shēng: the noise of the streets and market."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "愁时节：让人发愁的时候。",
+   "en": "chóu shí jié: a time that brings sorrow."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "满街的花灯，把雨后明亮的月光都比下去了。",
+   "en": "Lanterns crowd the streets and outshine the clear moonlight."
+  },
+  {
+   "zh": "演戏的锣鼓声，一直响到天快亮。",
+   "en": "The drums of the shows go on until nearly dawn."
+  },
+  {
+   "zh": "眼前的景色，和从前一模一样，",
+   "en": "The sights are just the same as in the old days,"
+  },
+  {
+   "zh": "可是到了中年，心里的滋味已经不同了。",
+   "en": "but in middle age the feeling is not the same."
+  },
+  {
+   "zh": "她对着镜子，淡淡地画好眉毛，",
+   "en": "Facing the mirror, she lightly paints her brows,"
+  },
+  {
+   "zh": "又对着楼西边的月亮，深深地下拜。",
+   "en": "then bows deeply to the moon west of the tower."
+  },
+  {
+   "zh": "人群散了，街上的喧闹声也停了，",
+   "en": "The crowds go home, and the street noise dies away."
+  },
+  {
+   "zh": "渐渐到了让人发愁的时候。",
+   "en": "Slowly the hour of sorrow comes."
+  }
+ ],
+ "background": {
+  "zh": "元夕就是正月十五元宵节的夜晚，家家户户挂花灯、看灯会。陈敬叟是刘克庄的朋友。题目里的“戏”是开玩笑的意思。一般理解为：这一夜陈敬叟不在家，刘克庄跟他开玩笑，想象他家中的妻子正对月下拜，盼他回来。一说下阕写的是陈敬叟的意中人。写作年份不详。",
+  "en": "Yuanxi is the night of the fifteenth day of the first lunar month, the Lantern Festival, when every home hangs lanterns and people go out to see them. Chen Jingsou was a friend of Liu Kezhuang. The word xì in the title means teasing. It is usually read like this: Chen was away from home that night, and Liu teased him by imagining his wife at home bowing to the moon and longing for him to return. Another view says the second half is about a woman Chen loved. The year is not known."
+ },
+ "author_note": {
+  "zh": "刘克庄（1187—1269），字潜夫，号后村，莆田（今福建莆田）人，南宋后期的大词人。他很佩服辛弃疾，很多词写国家大事，豪迈有力。这首小词却写得轻松风趣，可以看到他细腻、温和的另一面。",
+  "en": "Liu Kezhuang (1187–1269), known as Houcun, came from Putian in today's Fujian. He was a major writer of song lyrics in the late Southern Song. He admired Xin Qiji, and many of his lyrics deal with the fate of the country in a bold, strong voice. This small poem, though, is light and playful, and shows his gentle, delicate side."
+ },
+ "appreciation": {
+  "zh": "上阕写元宵夜的热闹：花灯多得把月光都盖过了，锣鼓一直敲到天亮。可是词人话锋一转：景色和从前一样，到了中年，感受却不同了。年轻时看灯只觉得开心，中年人看灯，心里多了些说不清的东西。下阕画面换到一个女子身上：她淡淡地画好眉，对着月亮深深一拜，在心里许下心愿。一个“浅”，一个“深”，画眉是浅的，心事却是深的。最后人散了，街上安静了，热闹过后，愁也来了。",
+  "en": "The first half shows the bustle of Lantern Night. There are so many lanterns that they outshine the moon, and the drums go on until dawn. Then the poet turns: the sights are the same as before, but in middle age the feeling is different. When young, you just enjoy the lanterns. In middle age, you feel something you cannot quite name. The second half turns to a woman. She lightly paints her brows, bows deeply to the moon, and makes a silent wish. One word is light and one is deep: the makeup is light, but the longing is deep. At the end the crowds leave and the streets go quiet. After the noise, sorrow arrives."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "lantern",
+   "middle-age",
+   "moon",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

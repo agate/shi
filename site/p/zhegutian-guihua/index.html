@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>鹧鸪天·桂花 · 李清照 — 诗</title>
+    <meta name="description" content="鹧鸪天·桂花 · 李清照 — Partridge Sky: Osmanthus by Li Qingzhao: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci (song lyric)</span><span lang="zh">宋词 · 词</span></p>
+        <h1>鹧鸪天·桂花</h1>
+        <p class="by">李清照<span class="mono"><span lang="en">Li Qingzhao · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Partridge Sky: Osmanthus</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>àn</i><b>暗</b></span><span class="c gl" data-l="0" data-p="1"><i>dàn</i><b>淡</b></span><span class="c gl" data-l="0" data-p="2"><i>qīng</i><b>轻</b></span><span class="c gl" data-l="0" data-p="3"><i>huáng</i><b>黄</b></span><span class="c gl" data-l="0" data-p="4"><i>tǐ</i><b>体</b></span><span class="c gl" data-l="0" data-p="5"><i>xìng</i><b>性</b></span><span class="c gl" data-l="0" data-p="6"><i>róu</i><b>柔</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>qíng</i><b>情</b></span><span class="c gl" data-l="1" data-p="1"><i>shū</i><b>疏</b></span><span class="c gl" data-l="1" data-p="2"><i>jì</i><b>迹</b></span><span class="c gl" data-l="1" data-p="3"><i>yuǎn</i><b>远</b></span><span class="c gl" data-l="1" data-p="4"><i>zhǐ</i><b>只</b></span><span class="c gl" data-l="1" data-p="5"><i>xiāng</i><b>香</b></span><span class="c gl" data-l="1" data-p="6"><i>liú</i><b>留</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>hé</i><b>何</b></span><span class="c gl" data-l="2" data-p="1"><i>xū</i><b>须</b></span><span class="c gl" data-l="2" data-p="2"><i>qiǎn</i><b>浅</b></span><span class="c gl" data-l="2" data-p="3"><i>bì</i><b>碧</b></span><span class="c gl" data-l="2" data-p="4"><i>shēn</i><b>深</b></span><span class="c gl" data-l="2" data-p="5"><i>hóng</i><b>红</b></span><span class="c" data-l="2" data-p="6"><i>sè</i><b>色</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>zì</i><b>自</b></span><span class="c gl" data-l="3" data-p="1"><i>shì</i><b>是</b></span><span class="c" data-l="3" data-p="2"><i>huā</i><b>花</b></span><span class="c" data-l="3" data-p="3"><i>zhōng</i><b>中</b></span><span class="c gl" data-l="3" data-p="4"><i>dì</i><b>第</b></span><span class="c gl" data-l="3" data-p="5"><i>yī</i><b>一</b></span><span class="c gl" data-l="3" data-p="6"><i>liú</i><b>流</b></span></p><p class="ln brk"><span class="c" data-l="4" data-p="0"><i>méi</i><b>梅</b></span><span class="c gl" data-l="4" data-p="1"><i>dìng</i><b>定</b></span><span class="c gl" data-l="4" data-p="2"><i>dù</i><b>妒</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>jú</i><b>菊</b></span><span class="c gl rd" data-l="5" data-p="1"><i>yīng</i><b>应</b></span><span class="c gl" data-l="5" data-p="2"><i>xiū</i><b>羞</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>huà</i><b>画</b></span><span class="c gl" data-l="6" data-p="1"><i>lán</i><b>阑</b></span><span class="c" data-l="6" data-p="2"><i>kāi</i><b>开</b></span><span class="c" data-l="6" data-p="3"><i>chù</i><b>处</b></span><span class="c gl rd" data-l="6" data-p="4"><i>guàn</i><b>冠</b></span><span class="c gl" data-l="6" data-p="5"><i>zhōng</i><b>中</b></span><span class="c gl" data-l="6" data-p="6"><i>qiū</i><b>秋</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>sāo</i><b>骚</b></span><span class="c gl" data-l="7" data-p="1"><i>rén</i><b>人</b></span><span class="c gl" data-l="7" data-p="2"><i>kě</i><b>可</b></span><span class="c gl rd" data-l="7" data-p="3"><i>shà</i><b>煞</b></span><span class="c gl" data-l="7" data-p="4"><i>wú</i><b>无</b></span><span class="c gl" data-l="7" data-p="5"><i>qíng</i><b>情</b></span><span class="c gl" data-l="7" data-p="6"><i>sī</i><b>思</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>hé</i><b>何</b></span><span class="c gl" data-l="8" data-p="1"><i>shì</i><b>事</b></span><span class="c" data-l="8" data-p="2"><i>dāng</i><b>当</b></span><span class="c" data-l="8" data-p="3"><i>nián</i><b>年</b></span><span class="c gl" data-l="8" data-p="4"><i>bú</i><b>不</b></span><span class="c gl" data-l="8" data-p="5"><i>jiàn</i><b>见</b></span><span class="c gl" data-l="8" data-p="6"><i>shōu</i><b>收</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">暗淡轻黄体性柔</span><span lang="en">The osmanthus is a pale, soft yellow, gentle in form and nature.</span><span lang="zh">桂花颜色淡淡的，浅浅的黄，样子和性情都很温柔。</span></li><li><span class="o">情疏迹远只香留</span><span lang="en">It keeps apart and grows far from people, leaving only its fragrance behind.</span><span lang="zh">它性情淡泊，长在远离人的地方，只把香气留给人间。</span></li><li><span class="o">何须浅碧深红色</span><span lang="en">Why should it need bright colors like pale green or deep red?</span><span lang="zh">何必要有浅绿深红那样鲜艳的颜色？</span></li><li><span class="o">自是花中第一流</span><span lang="en">By its nature it is already the finest of all flowers.</span><span lang="zh">它本来就是花中最好的一等。</span></li><li class="brk"><span class="o">梅定妒</span><span lang="en">The plum blossom must be jealous,</span><span lang="zh">梅花一定会嫉妒，</span></li><li><span class="o">菊应羞</span><span lang="en">and the chrysanthemum must feel ashamed.</span><span lang="zh">菊花想必也会害羞。</span></li><li><span class="o">画阑开处冠中秋</span><span lang="en">Blooming by the painted railing, it is the best flower of mid-autumn.</span><span lang="zh">它在画栏边开放，是中秋时节最美的花。</span></li><li><span class="o">骚人可煞无情思</span><span lang="en">The poet of Li Sao truly had no eye for it.</span><span lang="zh">那位写《离骚》的诗人，实在是太没有眼光了，</span></li><li><span class="o">何事当年不见收</span><span lang="en">Why did he not put the osmanthus in his poem back then?</span><span lang="zh">为什么当年不把桂花写进他的诗里呢？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>暗淡<span class="mono">àn dàn</span></dt><dd><span lang="en">àn dàn: dull, not bright in color.</span><span lang="zh">暗淡：颜色不鲜艳。</span></dd></div><div><dt>轻黄<span class="mono">qīng huáng</span></dt><dd><span lang="en">qīng huáng: a pale yellow.</span><span lang="zh">轻黄：淡淡的黄色。</span></dd></div><div><dt>体性柔<span class="mono">tǐ xìng róu</span></dt><dd><span lang="en">tǐ xìng róu: gentle in form and in nature.</span><span lang="zh">体性柔：样子和性情都很温柔。</span></dd></div><div><dt>情疏迹远<span class="mono">qíng shū jì yuǎn</span></dt><dd><span lang="en">qíng shū jì yuǎn: aloof by nature and growing in far-off places, keeping apart from people.</span><span lang="zh">情疏迹远：性情淡泊，长在深山远处，不和人亲近。</span></dd></div><div><dt>只香留<span class="mono">zhǐ xiāng liú</span></dt><dd><span lang="en">zhǐ xiāng liú: only its fragrance is left for people.</span><span lang="zh">只香留：只把香气留给人间。</span></dd></div><div><dt>何须<span class="mono">hé xū</span></dt><dd><span lang="en">hé xū: why should it need?</span><span lang="zh">何须：何必、哪里需要。</span></dd></div><div><dt>浅碧深红<span class="mono">qiǎn bì shēn hóng</span></dt><dd><span lang="en">qiǎn bì shēn hóng: pale green and deep red, the bright colors of other flowers.</span><span lang="zh">浅碧深红：浅绿、深红，指别的花鲜艳的颜色。</span></dd></div><div><dt>自是<span class="mono">zì shì</span></dt><dd><span lang="en">zì shì: is already, by its very nature.</span><span lang="zh">自是：本来就是。</span></dd></div><div><dt>第一流<span class="mono">dì yī liú</span></dt><dd><span lang="en">dì yī liú: the very first rank, the best.</span><span lang="zh">第一流：最好的一等。</span></dd></div><div><dt>定妒<span class="mono">dìng dù</span></dt><dd><span lang="en">dìng dù: will surely be jealous.</span><span lang="zh">定妒：一定会嫉妒。</span></dd></div><div><dt>应羞<span class="mono">yīng xiū</span></dt><dd><span lang="en">yīng xiū: must feel shy and ashamed, knowing it cannot compare.</span><span lang="zh">应羞：想必会害羞，自愧不如。</span></dd></div><div><dt>画阑<span class="mono">huà lán</span></dt><dd><span lang="en">huà lán: a painted railing.</span><span lang="zh">画阑：有彩绘的栏杆。</span></dd></div><div><dt>冠中秋<span class="mono">guàn zhōng qiū</span></dt><dd><span lang="en">guàn zhōng qiū: first among all the flowers of mid-autumn.</span><span lang="zh">冠中秋：在中秋时节的花里位居第一。</span></dd></div><div><dt>骚人<span class="mono">sāo rén</span></dt><dd><span lang="en">sāo rén: a poet; here it means Qu Yuan, who wrote Li Sao.</span><span lang="zh">骚人：诗人，这里指写《离骚》的屈原。</span></dd></div><div><dt>可煞<span class="mono">kě shà</span></dt><dd><span lang="en">kě shà: truly, really.</span><span lang="zh">可煞：真是、实在是。</span></dd></div><div><dt>无情思<span class="mono">wú qíng sī</span></dt><dd><span lang="en">wú qíng sī: lacking feeling, lacking a good eye.</span><span lang="zh">无情思：没有情意、缺少眼光。</span></dd></div><div><dt>何事<span class="mono">hé shì</span></dt><dd><span lang="en">hé shì: why?</span><span lang="zh">何事：为什么。</span></dd></div><div><dt>不见收<span class="mono">bú jiàn shōu</span></dt><dd><span lang="en">bù jiàn shōu: was not included.</span><span lang="zh">不见收：没有被收进去。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>应<span class="mono">yīng</span></dt><dd><span lang="en">Here the character means surely, must be, and is read yīng.</span><span lang="zh">“菊应羞”的“应”是“应该、想必”的意思，读 yīng。</span></dd></div><div><dt>冠<span class="mono">guàn</span></dt><dd><span lang="en">Here the character means to rank first, so it is read guàn, not guān (a hat).</span><span lang="zh">“冠中秋”的“冠”是“位居第一”的意思，读 guàn，不读 guān（帽子）。</span></dd></div><div><dt>煞<span class="mono">shà</span></dt><dd><span lang="en">Here the character means very, and is read shà.</span><span lang="zh">“可煞”的“煞”是“很、极”的意思，读 shà。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric praises the osmanthus. We do not know exactly when it was written; one view is that it comes from Li Qingzhao&#x27;s earlier years. The osmanthus blooms in autumn. Its flowers are tiny and pale yellow, but its scent is very strong. In Li Sao, Qu Yuan wrote about many fragrant flowers and herbs, using them to stand for good character. Li Qingzhao felt the osmanthus was so fine but had not been given its due, so at the end she speaks up for it.</p><p lang="zh">这是一首咏桂花的词，具体写作时间不能确定，一说是李清照前期的作品。桂花在秋天开放，花很小，颜色淡黄，却香气浓郁。屈原在《离骚》里写了许多香花香草，用来比喻美好的品德。李清照觉得桂花这么好，却没有得到应有的重视，于是在词的结尾替桂花“打抱不平”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Qingzhao (1084–about 1155), who called herself the Lay Buddhist of Yi&#x27;an, was the most famous woman lyric poet of the Song. She grew up in a family of scholars, showed talent early, and collected old bronzes, stone rubbings, books and paintings with her husband Zhao Mingcheng. Her early lyrics are fresh and lively; later, after losing her country and her husband, her lyrics became deep and sad. This one is confident and bright, full of her own spirit.</p><p lang="zh">李清照（1084—约1155），号易安居士，宋代最有名的女词人。她出身书香门第，从小就有才华，和丈夫赵明诚一起收藏金石书画。她前期的词清新活泼，后期经历国破家亡，词变得深沉哀伤。这首词写得自信爽朗，带着她特有的性格。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poet starts by showing how plain the osmanthus looks: pale in color, tiny, and fond of growing far away. But at once she says it does not need bright colors, because it is already the finest of flowers. She says this with great confidence. It praises a flower, and it also seems to describe a person: truly good things win with their inner fragrance, not with bright looks. The second half is even more fun. She says the plum blossom will be jealous and the chrysanthemum ashamed, and she even scolds Qu Yuan a little for leaving the osmanthus out of his poem. It reads like a clever, confident person standing up for a friend, light and charming.</p><p lang="zh">词人一开头就写桂花不起眼的样子：颜色淡，花又小，还爱长在远处。可是她马上说，桂花不需要鲜艳的颜色，它“自是花中第一流”。这句话说得很有底气，好像是在夸花，也像是在说一个人：真正好的东西，靠的是内在的香，不是外表的艳。下半首更有趣，她说梅花会嫉妒，菊花会害羞，甚至连屈原都被她“批评”了一下，怪他没把桂花写进诗里。读起来像是一个聪明、自信的人在替朋友说话，轻松又可爱。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/shuying-xunmeibujian/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>疏影·寻梅不见</b></a><a href="../../p/jiangshenziman-yutaiguaqiuyue/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>江神子慢·玉台挂秋月</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["暗", "àn"], ["淡", "dàn"], ["轻", "qīng"], ["黄", "huáng"], ["体", "tǐ"], ["性", "xìng"], ["柔", "róu"]], [["情", "qíng"], ["疏", "shū"], ["迹", "jì"], ["远", "yuǎn"], ["只", "zhǐ"], ["香", "xiāng"], ["留", "liú"]], [["何", "hé"], ["须", "xū"], ["浅", "qiǎn"], ["碧", "bì"], ["深", "shēn"], ["红", "hóng"], ["色", "sè"]], [["自", "zì"], ["是", "shì"], ["花", "huā"], ["中", "zhōng"], ["第", "dì"], ["一", "yī"], ["流", "liú"]], [["梅", "méi"], ["定", "dìng"], ["妒", "dù"]], [["菊", "jú"], ["应", "yīng"], ["羞", "xiū"]], [["画", "huà"], ["阑", "lán"], ["开", "kāi"], ["处", "chù"], ["冠", "guàn"], ["中", "zhōng"], ["秋", "qiū"]], [["骚", "sāo"], ["人", "rén"], ["可", "kě"], ["煞", "shà"], ["无", "wú"], ["情", "qíng"], ["思", "sī"]], [["何", "hé"], ["事", "shì"], ["当", "dāng"], ["年", "nián"], ["不", "bú"], ["见", "jiàn"], ["收", "shōu"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "暗淡：颜色不鲜艳。", "en": "àn dàn: dull, not bright in color."}, {"line": 0, "start": 2, "end": 4, "zh": "轻黄：淡淡的黄色。", "en": "qīng huáng: a pale yellow."}, {"line": 0, "start": 4, "end": 7, "zh": "体性柔：样子和性情都很温柔。", "en": "tǐ xìng róu: gentle in form and in nature."}, {"line": 1, "start": 0, "end": 4, "zh": "情疏迹远：性情淡泊，长在深山远处，不和人亲近。", "en": "qíng shū jì yuǎn: aloof by nature and growing in far-off places, keeping apart from people."}, {"line": 1, "start": 4, "end": 7, "zh": "只香留：只把香气留给人间。", "en": "zhǐ xiāng liú: only its fragrance is left for people."}, {"line": 2, "start": 0, "end": 2, "zh": "何须：何必、哪里需要。", "en": "hé xū: why should it need?"}, {"line": 2, "start": 2, "end": 6, "zh": "浅碧深红：浅绿、深红，指别的花鲜艳的颜色。", "en": "qiǎn bì shēn hóng: pale green and deep red, the bright colors of other flowers."}, {"line": 3, "start": 0, "end": 2, "zh": "自是：本来就是。", "en": "zì shì: is already, by its very nature."}, {"line": 3, "start": 4, "end": 7, "zh": "第一流：最好的一等。", "en": "dì yī liú: the very first rank, the best."}, {"line": 4, "start": 1, "end": 3, "zh": "定妒：一定会嫉妒。", "en": "dìng dù: will surely be jealous."}, {"line": 5, "start": 1, "end": 3, "zh": "应羞：想必会害羞，自愧不如。", "en": "yīng xiū: must feel shy and ashamed, knowing it cannot compare."}, {"line": 6, "start": 0, "end": 2, "zh": "画阑：有彩绘的栏杆。", "en": "huà lán: a painted railing."}, {"line": 6, "start": 4, "end": 7, "zh": "冠中秋：在中秋时节的花里位居第一。", "en": "guàn zhōng qiū: first among all the flowers of mid-autumn."}, {"line": 7, "start": 0, "end": 2, "zh": "骚人：诗人，这里指写《离骚》的屈原。", "en": "sāo rén: a poet; here it means Qu Yuan, who wrote Li Sao."}, {"line": 7, "start": 2, "end": 4, "zh": "可煞：真是、实在是。", "en": "kě shà: truly, really."}, {"line": 7, "start": 4, "end": 7, "zh": "无情思：没有情意、缺少眼光。", "en": "wú qíng sī: lacking feeling, lacking a good eye."}, {"line": 8, "start": 0, "end": 2, "zh": "何事：为什么。", "en": "hé shì: why?"}, {"line": 8, "start": 4, "end": 7, "zh": "不见收：没有被收进去。", "en": "bù jiàn shōu: was not included."}], "readings": [{"line": 5, "pos": 1, "char": "应", "pinyin": "yīng", "zh": "“菊应羞”的“应”是“应该、想必”的意思，读 yīng。", "en": "Here the character means surely, must be, and is read yīng."}, {"line": 6, "pos": 4, "char": "冠", "pinyin": "guàn", "zh": "“冠中秋”的“冠”是“位居第一”的意思，读 guàn，不读 guān（帽子）。", "en": "Here the character means to rank first, so it is read guàn, not guān (a hat)."}, {"line": 7, "pos": 3, "char": "煞", "pinyin": "shà", "zh": "“可煞”的“煞”是“很、极”的意思，读 shà。", "en": "Here the character means very, and is read shà."}], "speak": ["暗淡轻黄体性柔", "情疏迹远只香留", "何须浅碧深红色", "自是花中第伊流", "梅定妒", "菊应羞", "画阑开处惯中秋", "骚人可煞无情思", "何事当年不见收"], "speakTitle": "鹧鸪天，桂花。李清照。", "sample": "暗淡轻黄体性柔"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

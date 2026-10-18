@@ -1,0 +1,270 @@
+{
+ "id": "7191c0c6-7b3a-47cb-9fe6-1ef51857319a",
+ "kind": "shi",
+ "title": "秋思",
+ "title_en": "Autumn Thoughts",
+ "author": "张籍",
+ "author_en": "Zhang Ji",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "重",
+    "chóng"
+   ]
+  ],
+  [
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "发",
+    "fā"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "封",
+    "fēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里的底本作“欲作归书意万重”“忽恐匆匆说不尽”。现在课本和通行本作“欲作家书意万重”“复恐匆匆说不尽”。归书、家书都是寄回家的信；“忽恐”是忽然担心，“复恐”是又担心，意思相近。",
+  "en": "Our source text has guī shū (a letter home) in line two and hū kǒng (suddenly afraid) in line three. Current textbooks and editions have jiā shū (a family letter) and fù kǒng (afraid again). The meanings are close."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "这里是“层、重叠”的意思，读 chóng。意万重，心意有千层万层。",
+   "en": "Here it means layers, so it is read chóng. Yì wàn chóng: feelings in ten thousand layers."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "行",
+   "pinyin": "xíng",
+   "zh": "行人，指出门赶路的人，读 xíng。",
+   "en": "Xíng rén means a traveler, so it is read xíng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "洛阳：唐朝的东都，在今天的河南洛阳。",
+   "en": "luò yáng: Luoyang, the eastern capital of the Tang, in today's Henan."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "见秋风：看到秋风吹起，意思是秋天到了。",
+   "en": "jiàn qiū fēng: to see the autumn wind rise, that is, autumn has come."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "家书：写给家里的信。",
+   "en": "jiā shū: a letter to one's family."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "意万重：心里的意思有千层万层，想说的话非常多。",
+   "en": "yì wàn chóng: thoughts in ten thousand layers, far too much to say."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "复恐：又担心。",
+   "en": "fù kǒng: to worry again."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "说不尽：没有说完。",
+   "en": "shuō bù jìn: not said completely."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "行人：这里指要出远门、帮忙捎信的人。",
+   "en": "xíng rén: here, the traveler who will carry the letter."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "临发：快要出发的时候。",
+   "en": "lín fā: just as he is about to set off."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "开封：把已经封好的信拆开。",
+   "en": "kāi fēng: to open a letter that has already been sealed."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在洛阳城里，又看到秋风吹起来了。",
+   "en": "In the city of Luoyang, I see the autumn wind rise again."
+  },
+  {
+   "zh": "想写一封家信，心里的话却有千言万语。",
+   "en": "I want to write a letter home, but there are a thousand things I want to say."
+  },
+  {
+   "zh": "又担心写得太匆忙，有些话没说完，",
+   "en": "I worry that I wrote in a hurry and left something unsaid,"
+  },
+  {
+   "zh": "捎信的人快要出发时，我又把信拆开再看一看。",
+   "en": "so just as the traveler is about to leave, I open the letter once more."
+  }
+ ],
+ "background": {
+  "zh": "张籍的老家在南方，他长年在外地做客、做官。这首诗写的是他住在洛阳时，秋天到了，想给家里写信的情景，具体哪一年已经说不清楚。古时候没有邮局，寄信常常要托出远门的人顺路捎带。一封信要走很久才能到家，所以每一封家书都格外珍贵。",
+  "en": "Zhang Ji's home was in the south, but for many years he lived far away as a guest or an official. This poem shows him in Luoyang when autumn comes and he wants to write home. The exact year is not known. In those days there was no post office. People usually asked a traveler going that way to carry a letter. A letter took a long time to arrive, so every letter home was precious."
+ },
+ "author_note": {
+  "zh": "张籍（约766—约830），字文昌，中唐诗人。他是韩愈的学生，也是朋友，做过国子司业等官。他擅长写乐府诗，常写老百姓的生活，和王建并称“张王乐府”。他的诗语言朴素，却很能打动人心。",
+  "en": "Zhang Ji (about 766 to about 830) was a poet of the middle Tang. He was a student and friend of Han Yu, and held posts such as deputy head of the imperial academy. He was good at yuefu, poems in the style of folk songs, and often wrote about ordinary people's lives. People paired him with Wang Jian as \"the yuefu of Zhang and Wang\". His words are plain, but they touch the heart."
+ },
+ "appreciation": {
+  "zh": "这首诗没有一个“想”字，却处处都是想家。第一句，秋风一吹，在外的人就想起了家。第二句，提起笔来，想说的话太多，不知从哪儿说起。最妙的是后两句：信已经封好了，捎信的人马上要走了，诗人忽然又担心少写了什么，赶紧把信拆开再看一遍。这个小动作很多人都有过，写得真实又细致。一个拆信的动作，就把满心的牵挂写了出来。",
+  "en": "The poem never says \"I miss home\", yet every line is full of it. In the first line, the autumn wind blows, and a man far from home thinks of his family. In the second, he picks up his brush, but there is so much to say that he does not know where to begin. The last two lines are the best part. The letter is sealed and the traveler is about to leave, when the poet suddenly fears he has left something out and hurries to open it again. Many people have done this little thing, and the poet catches it truly and carefully. One small act of opening a letter shows how much he cares."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "letter",
+   "family"
+  ]
+ },
+ "uncertain": []
+}

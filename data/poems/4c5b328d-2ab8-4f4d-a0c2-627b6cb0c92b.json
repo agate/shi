@@ -1,0 +1,257 @@
+{
+ "id": "4c5b328d-2ab8-4f4d-a0c2-627b6cb0c92b",
+ "kind": "shi",
+ "title": "金陵图",
+ "title_en": "Pictures of Jinling",
+ "author": "韦庄",
+ "author_en": "Wei Zhuang",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "谓",
+    "wèi"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "成",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "逐",
+    "zhú"
+   ],
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "六",
+    "liù"
+   ],
+   [
+    "幅",
+    "fú"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "看：现在读 kàn。按格律这个位置要用平声，古代这里读平声，近似 kān。",
+   "en": "kàn: read kàn today. The meter needs a level tone here, and in old times it was read with a level tone, close to kān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "谁谓：谁说。",
+   "en": "shuí wèi: who says."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "伤心：这里指让人伤心的景象和心情。",
+   "en": "shāng xīn: here, sad scenes and sad feelings."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "画不成：画不出来。",
+   "en": "huà bù chéng: cannot be painted."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "画人：画家。",
+   "en": "huà rén: painters."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 7,
+   "zh": "心逐世人情：心思跟着一般人的喜好走。逐，追随。意思是画家只爱画大家喜欢看的热闹、好看的东西。",
+   "en": "xīn zhú shì rén qíng: their minds follow what ordinary people like. Zhú means to follow. Painters only paint the bright, pleasant things people want to see."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "六幅：六幅画。",
+   "en": "liù fú: six paintings."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "南朝事：南朝的往事。南朝是宋、齐、梁、陈四个朝代，都把都城建在金陵。金陵就是今天的江苏南京。",
+   "en": "nán cháo shì: stories of the Southern Dynasties. These were four dynasties, Song, Qi, Liang and Chen, all with their capital at Jinling, today's Nanjing in Jiangsu."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "老木：老树。",
+   "en": "lǎo mù: old trees."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "故城：旧城，指金陵古城。",
+   "en": "gù chéng: the old city, Jinling."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "谁说让人伤心的情景画不出来？",
+   "en": "Who says sorrow cannot be painted?"
+  },
+  {
+   "zh": "只是画家的心思总跟着世人的喜好走。",
+   "en": "It is only that painters follow what the world likes to see."
+  },
+  {
+   "zh": "你看这六幅画南朝往事的图，",
+   "en": "Look at these six paintings of the Southern Dynasties:"
+  },
+  {
+   "zh": "老树和寒冷的云，布满了这座古城。",
+   "en": "Old trees and cold clouds fill the ancient city."
+  }
+ ],
+ "background": {
+  "zh": "金陵是六朝古都，那些朝代一个接一个繁华过，又一个接一个灭亡了。韦庄生活在唐朝末年，国家一天天衰落。他看到一组画金陵南朝旧事的六幅画，画里不是热闹的宫殿，而是老树、寒云和冷清的古城，心里很受触动，就写了这首诗。具体写于哪一年已经不清楚。",
+  "en": "Jinling was the capital of six dynasties. One after another they flourished and then fell. Wei Zhuang lived at the end of the Tang, when the country was getting weaker every day. He saw a set of six paintings of old Jinling. They did not show busy palaces, but old trees, cold clouds and a lonely ancient city. He was deeply moved and wrote this poem. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "韦庄（约836—910），唐末五代的诗人和词人。他经历过黄巢起义、长安被攻破，写过长诗《秦妇吟》记录战乱。他的词也很有名，是花间派的重要作者。他写金陵的诗常常借古人的兴亡，感叹唐朝的衰落。",
+  "en": "Wei Zhuang (about 836–910) was a poet and ci writer of the late Tang and the Five Dynasties. He lived through Huang Chao's uprising and the fall of Chang'an, and wrote a long poem, \"Lament of the Lady of Qin\", about the war. His ci are famous too; he was a key writer of the Huajian school. His poems about Jinling often use the rise and fall of old dynasties to grieve over the Tang's decline."
+ },
+ "appreciation": {
+  "zh": "诗一开头就像在和人争论：谁说伤心是画不出来的？其实不是画不出来，是画家不愿意画，因为大家都喜欢看漂亮、热闹的画。可眼前这六幅画不一样。画上只有老树、寒云和空荡荡的古城，看一眼就觉得冷清、伤感。南朝那么多繁华的朝代，最后只剩下这些。诗人在说画，也在说他自己的时代：唐朝也在一天天走向灭亡。最后一句只写景，不说一个“愁”字，却让人看到满纸的伤心。",
+  "en": "The poem opens like an argument: who says sorrow cannot be painted? In fact it can be. Painters just do not want to, because people like pretty, lively pictures. But these six paintings are different. They show only old trees, cold clouds and an empty ancient city. One look and you feel the chill and the sadness. So many grand dynasties ruled here, and this is all that is left. The poet is talking about the paintings, and also about his own time: the Tang, too, was falling day by day. The last line only shows a scene and never says \"sad\", yet the whole picture is full of sorrow."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "painting",
+   "nanjing",
+   "decline"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,512 @@
+{
+ "id": "7950a49f-f51d-4926-9d1e-e5f76b153829",
+ "kind": "shi",
+ "title": "酬郭给事",
+ "title_en": "A Reply to Secretary Guo",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "霭",
+    "ǎi"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "晖",
+    "huī"
+   ]
+  ],
+  [
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "李",
+    "lǐ"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "禁",
+    "jìn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "舍",
+    "shè"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "省",
+    "shěng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "吏",
+    "lì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "晨",
+    "chén"
+   ],
+   [
+    "摇",
+    "yáo"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "佩",
+    "pèi"
+   ],
+   [
+    "趋",
+    "qū"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "殿",
+    "diàn"
+   ]
+  ],
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "奉",
+    "fèng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "拜",
+    "bài"
+   ],
+   [
+    "琐",
+    "suǒ"
+   ],
+   [
+    "闱",
+    "wéi"
+   ]
+  ],
+  [
+   [
+    "强",
+    "qiǎng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料首句作“余辉”，通行本多作“余晖”，都是夕阳的光。语料第三句作“疎钟”，“疎”是“疏”的异体字。",
+  "en": "The corpus has a different character for hui (light) in line one; most common editions use the one for sunlight. Both mean the evening glow. In line three the corpus uses an old variant form of shu (sparse); the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "舍",
+   "pinyin": "shè",
+   "zh": "“官舍”指官署的房子，读 shè，不读 shě。",
+   "en": "Here it means a building, an office, so it is read shè, not shě."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "省",
+   "pinyin": "shěng",
+   "zh": "“省中”的“省”是官署名，读 shěng。",
+   "en": "Here it is the name of a government department, read shěng."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "强",
+   "pinyin": "qiǎng",
+   "zh": "“强欲”是勉强想要，读 qiǎng，不读 qiáng。",
+   "en": "Here it means forcing oneself, so it is read qiǎng, not qiáng."
+  },
+  {
+   "line": 6,
+   "pos": 5,
+   "char": "那",
+   "pinyin": "nà",
+   "zh": "“无那”就是“无奈”。现在多读 nà；也有人读 nuó。",
+   "en": "Wu na means helpless, the same as wu nai. Today it is usually read nà; some read it nuó."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "“朝衣”是上朝穿的官服，读 cháo。",
+   "en": "Here it means the court, so it is read cháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "洞门：一道接一道相通的门。",
+   "en": "dòng mén: gates opening one after another in a row."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "霭：笼罩。",
+   "en": "ǎi: to wrap in a soft glow."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "余晖：傍晚太阳的余光。",
+   "en": "yú huī: the last light of the setting sun."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "阴阴：树荫浓密的样子。",
+   "en": "yīn yīn: thick with shade."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "柳絮：柳树的种子，带着白色的绒毛，像棉花一样随风飘。",
+   "en": "liǔ xù: willow catkins, seeds with white fluff that float in the wind like cotton."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "禁里：皇宫里。",
+   "en": "jìn lǐ: inside the palace."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "疏钟：稀稀落落的钟声。",
+   "en": "shū zhōng: a bell ringing now and then."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "官舍：官员办公的地方。",
+   "en": "guān shè: the offices."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "省中：门下省里。门下省是朝廷的一个重要部门，给事中就在这里做事。",
+   "en": "shěng zhōng: inside the Chancellery, an important department of the court where secretaries like Guo worked."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "吏人稀：办事的小官们都走了，剩下的人很少。",
+   "en": "lì rén xī: the clerks have gone home and few are left."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "玉佩：官员身上挂的玉饰，走路时会发出响声。",
+   "en": "yù pèi: jade pendants worn by officials, which jingle as they walk."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "趋：小步快走，表示恭敬。",
+   "en": "qū: to walk with quick, small steps to show respect."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "金殿：皇帝上朝的大殿。",
+   "en": "jīn diàn: the golden hall where the emperor held court."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 2,
+   "zh": "奉：恭敬地捧着。",
+   "en": "fèng: to hold up respectfully."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "天书：皇帝的诏书。",
+   "en": "tiān shū: the emperor's written orders."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "琐闱：刻着连环花纹的宫门，这里指门下省。",
+   "en": "suǒ wéi: palace gates carved with linked-ring patterns. Here it means the Chancellery."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "强欲：勉强想要。",
+   "en": "qiǎng yù: to try hard to want to."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "从君：跟随您。",
+   "en": "cóng jūn: to follow you."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "无那老：无奈自己老了。",
+   "en": "wú nà lǎo: helpless against old age."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "卧病：生病躺着。",
+   "en": "wò bìng: lying ill in bed."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "解朝衣：脱下官服，意思是辞官。",
+   "en": "jiě cháo yī: to take off the court robe, meaning to resign."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一道道宫门和高高的楼阁，笼罩在夕阳的余光里。",
+   "en": "Rows of gates and tall halls are wrapped in the evening glow."
+  },
+  {
+   "zh": "桃树李树一片浓荫，柳絮在空中飞舞。",
+   "en": "Peach and plum trees cast thick shade, and willow catkins fly."
+  },
+  {
+   "zh": "宫里传来稀疏的钟声，官署里天色已晚，",
+   "en": "Bells ring now and then in the palace, and evening comes to the offices."
+  },
+  {
+   "zh": "门下省里只有鸟在叫，办事的人都走得差不多了。",
+   "en": "In the Chancellery only birds sing, and few clerks remain."
+  },
+  {
+   "zh": "您早晨挂着玉佩，快步走进金殿，",
+   "en": "In the morning, jade pendants swinging, you hurry into the golden hall."
+  },
+  {
+   "zh": "傍晚捧着皇帝的诏书，回到门下省。",
+   "en": "In the evening you carry the emperor's orders back to the Chancellery."
+  },
+  {
+   "zh": "我很想跟着您一起做事，无奈已经老了，",
+   "en": "I would like to follow you, but I cannot help being old,"
+  },
+  {
+   "zh": "打算借着生病，脱下官服辞官回家。",
+   "en": "so I plan to use my illness as a reason to take off my court robe."
+  }
+ ],
+ "background": {
+  "zh": "郭给事是一位姓郭的给事中，名字已经不清楚了。给事中是门下省的官员，负责审读诏书。郭给事先写了一首诗送给王维，王维写了这首诗回答他，题目里的“酬”就是用诗回答的意思。诗里写的是春天傍晚的宫廷，夸郭给事勤勉，最后说自己老了，想辞官。一般认为是王维晚年在朝廷做官时写的，具体年份不清楚。",
+  "en": "Secretary Guo was a court secretary surnamed Guo; his full name is no longer known. Such secretaries worked in the Chancellery and checked the emperor's orders. Guo first sent Wang Wei a poem, and Wang Wei wrote this one in reply. The word chou in the title means to answer a poem with a poem. It shows the palace on a spring evening, praises Guo's hard work, and ends by saying the poet is old and wants to resign. It is usually thought to have been written in Wang Wei's later years while he served at court, but the year is not known."
+ },
+ "author_note": {
+  "zh": "王维（701？—761），字摩诘，唐代大诗人、画家，被称为“诗佛”。他做官做到尚书右丞，可心里一直向往山林中安静的生活，信奉佛教，晚年常住在辋川别墅。这首诗最后说想辞官，正是他这种心情的写照。",
+  "en": "Wang Wei (701? to 761) was a great Tang poet and painter, called the Buddha of Poetry. He rose to be a high minister, yet in his heart he always longed for a quiet life in the hills. He was a Buddhist, and in his later years he often stayed at his country house at Wangchuan. The wish to resign at the end of this poem shows exactly that feeling."
+ },
+ "appreciation": {
+  "zh": "前两句是一幅春天傍晚的画：宫门楼阁染着夕阳，桃李成荫，柳絮飘飞。三四句写宫里的安静：钟声稀稀落落，鸟儿在叫，人都散了。这种安静也在夸郭给事：他做事清廉认真，官署里没有吵闹。五六句写郭给事一天的忙碌，早上进金殿，傍晚捧诏书，又庄重又辛苦。最后两句是王维自己的心里话：我很想跟着您，可是老了，还是借病辞官吧。语气客气，却能感到他对官场已经厌倦，心早已飞向山林了。",
+  "en": "The first two lines are a picture of a spring evening. The gates and halls glow in the sunset, peach and plum trees cast shade, and willow catkins drift. The next two lines show how quiet the palace is. The bell rings now and then, birds sing, and everyone has gone. This quiet also praises Guo: he is honest and careful, so his office has no noise or fuss. Lines five and six show Guo's busy day: into the golden hall in the morning, carrying the emperor's orders in the evening, dignified and hardworking. The last two lines are Wang Wei's own words from the heart: I would like to follow you, but I am old, so I will leave office because of illness. He says it politely, but you can feel he is tired of court life, and his heart has already flown to the hills."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "reply",
+   "old-age",
+   "retirement"
+  ]
+ },
+ "uncertain": []
+}

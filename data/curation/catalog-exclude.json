@@ -1,0 +1,16 @@
+{
+  "_note": "Catalog entries dropped because the corpus holds the same poem under a second author. The commonly taught attribution is kept; its close reading discusses the dispute.",
+  "exclude": [
+    {"id": "162eb552-a496-4979-87e2-e441847d4e6f", "poem": "孙革《访羊尊师》", "kept": "贾岛《寻隐者不遇》"},
+    {"id": "19340af6-e25d-41c8-90fc-b465d9be1134", "poem": "朱斌《登楼》", "kept": "王之涣《登鹳雀楼》"},
+    {"id": "ae660471-84bc-4a58-a438-005b8a99c3c1", "poem": "李商隐《赤壁》", "kept": "杜牧《赤壁》"},
+    {"id": "a6c85d29-ad02-4f54-a347-63800213a7b4", "poem": "王建《故行宫》", "kept": "元稹《行宫》"},
+    {"id": "1d6885a4-d11e-4428-80a8-fcf75d7a41aa", "poem": "周朴《春宫怨》", "kept": "杜荀鹤《春宫怨》 (唐诗三百首)"},
+    {"id": "41d292d2-b752-4c30-8b6b-7b7380f2f9bd", "poem": "刘长卿《赋得》", "kept": "皇甫冉《春思》 (唐诗三百首)"},
+    {"id": "f1320c1f-949a-4cbe-ad23-4806878632c5", "poem": "杨敬述《婆罗门》", "kept": "李益《夜上受降城闻笛》"},
+    {"id": "b67ddf05-43fb-4859-a1a9-34f95d45aabf", "poem": "韦应物《和晋陵陆丞早春游望》", "kept": "杜审言《和晋陵陆丞早春游望》 (唐诗三百首)"},
+    {"id": "ci-1667ea4a7d51", "poem": "王安石《清平乐·留春不住》", "kept": "王安国《清平乐·春晚》 (宋词三百首)"},
+    {"id": "ci-ac18a1f15b9a", "poem": "苏过《点绛唇·新月娟娟》", "kept": "汪藻《点绛唇·新月娟娟》 (宋词三百首)"},
+    {"id": "ci-8436e570fd1d", "poem": "欧阳修《蝶恋花·独倚危楼风细细》", "kept": "柳永《蝶恋花·伫倚危楼风细细》"}
+  ]
+}

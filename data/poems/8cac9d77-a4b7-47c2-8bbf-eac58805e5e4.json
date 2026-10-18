@@ -1,0 +1,214 @@
+{
+ "id": "8cac9d77-a4b7-47c2-8bbf-eac58805e5e4",
+ "kind": "shi",
+ "title": "风",
+ "title_en": "Wind",
+ "author": "李峤",
+ "author_en": "Li Qiao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "尺",
+    "chǐ"
+   ],
+   [
+    "浪",
+    "làng"
+   ]
+  ],
+  [
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "竿",
+    "gān"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "斜：现在课本读 xié。古音读 xiá，和“花”押韵。",
+   "en": "Today's textbooks read it xié. In old pronunciation it was xiá, which rhymes with huā (\"flowers\")."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "解：能够，会。",
+   "en": "jiě: can, be able to."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "落：使……落下，吹落。",
+   "en": "luò: to make fall, to blow down."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "三秋：秋天的第三个月，就是农历九月，深秋。",
+   "en": "sān qiū: the third month of autumn, the ninth lunar month, late autumn."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "二月：农历二月，早春。",
+   "en": "èr yuè: the second lunar month, early spring."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "千尺：形容非常高。尺是古代的长度单位。",
+   "en": "qiān chǐ: a thousand feet, meaning very high. Chǐ is an old unit of length."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "万竿：成千上万根竹子。竿，竹竿。",
+   "en": "wàn gān: ten thousand bamboo stems, meaning a great many."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "斜：歪斜，倾斜。",
+   "en": "xié: slanting, leaning to one side."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "它能吹落深秋的树叶，",
+   "en": "It can blow down the leaves of late autumn,"
+  },
+  {
+   "zh": "也能吹开早春的花朵。",
+   "en": "and it can open the flowers of early spring."
+  },
+  {
+   "zh": "它刮过江面，掀起千尺高的大浪；",
+   "en": "Crossing the river, it raises waves a thousand feet high;"
+  },
+  {
+   "zh": "它吹进竹林，让成千上万根竹子都歪斜了。",
+   "en": "entering the bamboo, it bends ten thousand stems aside."
+  }
+ ],
+ "background": {
+  "zh": "这是一首咏物诗，咏物诗就是专门描写一样东西的诗。李峤写过很多咏物诗，题目常常只有一个字，比如《风》《月》《雪》。这首诗通篇没有出现“风”字，却句句写风，像一个谜语，谜底就是题目。它现在收在小学语文课本里。具体写作时间不清楚。",
+  "en": "This is a poem about one thing, a kind of poem that describes a single object. Li Qiao wrote many such poems, often with one-word titles like \"Wind\", \"Moon\" and \"Snow\". The word \"wind\" never appears in this poem, yet every line is about the wind. It is like a riddle whose answer is the title. It is now taught in primary school. We do not know exactly when it was written."
+ },
+ "author_note": {
+  "zh": "李峤（约645—约714），字巨山，赵州（今河北一带）人，唐代初年的诗人，做过宰相。他和苏味道等人一起被称为“文章四友”。他很擅长写咏物诗，写了一百多首，题目多是一个字，《风》就是其中最有名的一首。",
+  "en": "Li Qiao (about 645–about 714), also called Jushan, came from Zhaozhou, in today's Hebei. He was a poet of the early Tang and once served as chief minister. He and Su Weidao and two others were known as the \"Four Literary Friends\". He was very good at poems about objects and wrote more than a hundred, most with one-word titles. \"Wind\" is the most famous of them."
+ },
+ "appreciation": {
+  "zh": "风是看不见、摸不着的，怎么写呢？诗人很聪明，他不写风本身，只写风做了什么。秋天，它把树叶吹落；春天，它把花吹开；在江上，它掀起高高的浪；在竹林里，它把竹子吹弯。我们读的时候，就能“看见”风了。前两句写时间，一秋一春，说明风一年四季都在；后两句写地点，一江一竹，说明风到处都有力量。四句都是对仗，整整齐齐，读起来很有节奏，就像一个谜语，等你说出谜底：“风！”",
+  "en": "Wind cannot be seen or touched, so how do you write about it? The poet is clever. He does not describe the wind itself, only what it does. In autumn it blows the leaves down. In spring it blows the flowers open. On the river it lifts tall waves. In the bamboo grove it bends the stems. As we read, we can \"see\" the wind. The first two lines are about time, autumn and spring, showing the wind is there all year. The last two lines are about places, river and bamboo, showing its power everywhere. The lines pair up neatly and have a strong rhythm. It is like a riddle, waiting for you to call out the answer: \"Wind!\""
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wind",
+   "nature",
+   "riddle",
+   "object"
+  ]
+ },
+ "uncertain": []
+}

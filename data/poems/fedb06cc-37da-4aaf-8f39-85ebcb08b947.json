@@ -1,0 +1,363 @@
+{
+ "id": "fedb06cc-37da-4aaf-8f39-85ebcb08b947",
+ "kind": "shi",
+ "title": "早秋",
+ "title_en": "Early Autumn",
+ "author": "许浑",
+ "author_en": "Xu Hun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "瑟",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "萝",
+    "luó"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "萤",
+    "yíng"
+   ],
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "拂",
+    "fú"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "河",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "密",
+    "mì"
+   ]
+  ],
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "多",
+    "duō"
+   ]
+  ],
+  [
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料是《早秋三首》的第一首，文字作“残萤委玉露，早鴈拂银河”“自觉老烟波”。《唐诗三百首》等通行本题作《早秋》，作“残萤栖玉露，早雁拂金河”“自觉洞庭波”，这里用通行本。",
+  "en": "The corpus gives this as the first of three poems titled \"Early Autumn\", with the words \"wěi yù lù\", \"fú yín hé\" and \"lǎo yān bō\". The common text, as in Three Hundred Tang Poems, is titled simply \"Early Autumn\" and reads \"qī yù lù\", \"fú jīn hé\" and \"dòng tíng bō\", which are used here."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "遥夜：长夜。",
+   "en": "yáo yè: the long night."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "泛清瑟：飘荡着清亮的瑟声。瑟是一种古代的弦乐器，有点像古筝。",
+   "en": "fàn qīng sè: the clear sound of a se drifts through the air. The se is an old stringed instrument, a bit like a zither."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "西风：秋风。",
+   "en": "xī fēng: the west wind, the autumn wind."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "翠萝：绿色的藤萝。",
+   "en": "cuì luó: green climbing vines."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "残萤：秋天剩下不多的萤火虫。",
+   "en": "cán yíng: the few fireflies left in autumn."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "栖：停留，歇在上面。",
+   "en": "qī: to rest on, to perch."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "玉露：像玉一样晶莹的露水。",
+   "en": "yù lù: dew as clear and bright as jade."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "拂：轻轻擦过。",
+   "en": "fú: to brush lightly past."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "金河：银河。古人认为秋天属金，所以秋天的银河叫金河。",
+   "en": "jīn hé: the Milky Way. People long ago linked autumn with metal, so the autumn Milky Way was called the Metal River."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "晓还密：清晨看去，树叶还很茂密。还，仍然。",
+   "en": "xiǎo hái mì: at dawn the leaves still look thick. Hái means still."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "晴更多：天晴了，远处的山显得更多、更清楚。",
+   "en": "qíng gèng duō: in the clear weather, more distant hills come into view."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "淮南一叶下：《淮南子》里说，看到一片叶子落下，就知道一年快要过完了。这里说看到一片落叶就感到秋天来了。",
+   "en": "huái nán yī yè xià: the old book Huainanzi says that when you see one leaf fall, you know the year is drawing to a close. Here one falling leaf tells the poet autumn has come."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "自觉：自然就感觉到。",
+   "en": "zì jué: to feel it at once, of itself."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "洞庭波：洞庭湖上的秋波。屈原《湘夫人》里有“洞庭波兮木叶下”，写秋风吹起湖波、树叶飘落。",
+   "en": "dòng tíng bō: the autumn waves on Dongting Lake. Qu Yuan's poem \"The Lady of the Xiang\" pictures the autumn wind raising waves on Dongting Lake as leaves fall."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "漫长的秋夜里，飘荡着清亮的瑟声，",
+   "en": "Through the long night, the clear notes of a se drift by."
+  },
+  {
+   "zh": "西风吹起，绿色的藤萝沙沙作响。",
+   "en": "The west wind rises and stirs the green vines."
+  },
+  {
+   "zh": "剩下的几只萤火虫，歇在晶莹的露水上；",
+   "en": "The last few fireflies rest on dew as bright as jade."
+  },
+  {
+   "zh": "早到的大雁，从银河边上飞过。",
+   "en": "Early wild geese brush past the Milky Way."
+  },
+  {
+   "zh": "清晨看去，高高的树叶子还很茂密；",
+   "en": "At dawn the tall trees are still thick with leaves."
+  },
+  {
+   "zh": "天晴了，远处的山显得更多。",
+   "en": "In the clear air, more far hills come into view."
+  },
+  {
+   "zh": "看到一片树叶落下，",
+   "en": "When I see a single leaf fall,"
+  },
+  {
+   "zh": "我自然就感到洞庭湖上秋波已起。",
+   "en": "I feel at once the autumn waves rising on Dongting Lake."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写初秋的景色和感受。诗人从长夜里的瑟声和西风写起，一直写到第二天清晨的高树和远山，最后从一片落叶感到秋天真的来了。诗里用了两个古书里的典故，一个来自《淮南子》，一个来自屈原的《湘夫人》。这首诗具体写于何时、何地，已经不清楚了。",
+  "en": "This poem shows the sights and feelings of early autumn. It begins with the sound of a se and the west wind on a long night, moves to the tall trees and distant hills the next morning, and ends with a single falling leaf that tells the poet autumn has truly come. It borrows from two old books: the Huainanzi and Qu Yuan's poem \"The Lady of the Xiang\". When and where it was written is no longer known."
+ },
+ "author_note": {
+  "zh": "许浑（约791—约858），晚唐诗人，做过县令、刺史等官。他最擅长写律诗，诗里特别喜欢写水、雨和山色，有“许浑千首湿”的说法，意思是他的诗总是湿漉漉的。他有一个诗集叫《丁卯集》。",
+  "en": "Xu Hun (about 791 to about 858) was a late Tang poet who served as a county magistrate and a prefect. He was best at regulated verse and loved to write about water, rain and the colors of hills. People joked that a thousand poems by Xu Hun are all wet. His collection is called the Dingmao Collection."
+ },
+ "appreciation": {
+  "zh": "这首诗像是在一点一点地寻找秋天。夜里，先是听到：清冷的瑟声，西风吹动藤萝。再是看到：萤火虫只剩几只，停在露水上；大雁已经从天上飞过。到了早晨，树叶还很密，好像夏天还没走；可天变得又高又晴，远山一座座都露了出来。最后，一片叶子落下，诗人一下子明白：秋天真的来了。他想起屈原写的洞庭湖秋波，心里也泛起了淡淡的秋思。诗里没有大声说悲伤，只是用声音、光亮和落叶，让人慢慢感到季节在变。",
+  "en": "This poem feels like searching for autumn bit by bit. At night the poet first hears it: the cool notes of a se, and the west wind in the vines. Then he sees it: only a few fireflies are left, resting on the dew, and wild geese are already crossing the sky. In the morning the trees are still thick with leaves, as if summer has not left. But the sky is high and clear, and hill after hill appears in the distance. At last a single leaf falls, and he knows at once that autumn is here. He remembers Qu Yuan's autumn waves on Dongting Lake, and a gentle autumn mood rises in his heart. The poem never cries out in sadness. It uses sounds, light and a falling leaf to let you feel the season turning."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [
+   "liqiu"
+  ],
+  "themes": [
+   "autumn",
+   "night",
+   "wind",
+   "geese"
+  ]
+ },
+ "uncertain": []
+}

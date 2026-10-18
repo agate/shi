@@ -1,0 +1,617 @@
+{
+ "id": "ci-65ce3324ea2e",
+ "kind": "ci",
+ "title": "祝英台近·晚春",
+ "title_en": "Zhu Ying Tai Jin: Late Spring",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调，77字",
+  "en": "ci lyric in two stanzas, 77 characters"
+ },
+ "lines": [
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "分",
+    "fēn"
+   ]
+  ],
+  [
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "管",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "倩",
+    "qiàn"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "觑",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "卜",
+    "bǔ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "簪",
+    "zān"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "数",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "帐",
+    "zhàng"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "哽",
+    "gěng"
+   ],
+   [
+    "咽",
+    "yè"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": {
+  "zh": "语料库词牌作《祝英台令》，通行本作《祝英台近》，是同一个词牌的两个名字，题目是“晚春”。语料库“花卜心期”“呜咽梦中语”“将愁归去”，通行本多作“花卜归期”“哽咽梦中语”“带将愁去”，这里按通行本。这首词各本文字出入较多，比如“倩谁唤、流莺声住”有的本子作“更谁劝、啼莺声住”。",
+  "en": "The corpus names the tune Zhu Ying Tai Ling; the common text calls it Zhu Ying Tai Jin, two names for the same tune, with the subtitle Late Spring. In three places the corpus has slightly different words (the date in her heart, sobbing, taking the sorrow home); this page follows the common text: the day of his return, choking, and carrying the sorrow away. Editions of this lyric differ a good deal; for example, line eight is sometimes worded as \"who will persuade the crying orioles to stop\"."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "倩",
+   "pinyin": "qiàn",
+   "zh": "“倩”在这里是请、托别人做事的意思，读 qiàn。",
+   "en": "Here this character means to ask someone to do something for you. It is read qiàn."
+  },
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "觑",
+   "pinyin": "qù",
+   "zh": "“觑”是看、瞧，读 qù。",
+   "en": "This character means to look closely. It is read qù."
+  },
+  {
+   "line": 9,
+   "pos": 3,
+   "char": "卜",
+   "pinyin": "bǔ",
+   "zh": "“卜”是占卜、算卦，读 bǔ。",
+   "en": "This character means to tell fortunes, and is read bǔ."
+  },
+  {
+   "line": 10,
+   "pos": 4,
+   "char": "数",
+   "pinyin": "shǔ",
+   "zh": "“重数”是重新数一遍，“数”作动词读 shǔ。",
+   "en": "Chóng shǔ means to count again; as a verb this character is read shǔ."
+  },
+  {
+   "line": 12,
+   "pos": 1,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "“哽咽”是哭得说不出话，“咽”读 yè。",
+   "en": "Gěng yè means sobbing so hard you cannot speak, and this character is read yè."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "宝钗分：把头上的钗子分成两半，一人一半。古代恋人分别时，常这样留作纪念。",
+   "en": "bǎo chāi fēn: splitting a hairpin in two, one half each. Lovers in old times did this as a keepsake when they parted."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "桃叶渡：南京秦淮河边的渡口。传说东晋王献之在这里送别心爱的女子桃叶。这里泛指送别的地方。",
+   "en": "táo yè dù: Peach Leaf Ferry, on the Qinhuai River in Nanjing. Legend says Wang Xianzhi saw off his beloved Peach Leaf here. It stands for a place of parting."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "烟柳：笼着雾气的柳树。",
+   "en": "yān liǔ: willows wrapped in mist."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "南浦：南边的水边，古诗词里常用来指送别的地方。",
+   "en": "nán pǔ: the southern shore, often used in poems for the place where people say goodbye."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "层楼：高楼。",
+   "en": "céng lóu: a tall tower."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "十日九风雨：十天里有九天刮风下雨。",
+   "en": "shí rì jiǔ fēng yǔ: wind and rain on nine days out of ten."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "飞红：飘落的花瓣。",
+   "en": "fēi hóng: flying red, falling petals."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "倩：请，托。",
+   "en": "qiàn: to ask someone to do something."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "流莺：飞来飞去、叫个不停的黄莺。",
+   "en": "liú yīng: orioles flitting about and singing."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "鬓边觑：看看插在鬓角边的花。觑，看。",
+   "en": "bìn biān qù: looking at the flower tucked by her temple. Qù means to look."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 6,
+   "zh": "花卜归期：用花瓣来算他哪天回来，一般是数花瓣的数目。",
+   "en": "huā bǔ guī qī: using flower petals to guess the day he will come back, usually by counting them."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 2,
+   "zh": "簪：插戴在头上。",
+   "en": "zān: to pin in the hair."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "罗帐：用丝织品做的床帐。",
+   "en": "luó zhàng: silk bed curtains."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "哽咽：哭得喉咙堵住，说不出话。",
+   "en": "gěng yè: crying so hard that the throat chokes and words will not come."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "不解：不懂得。",
+   "en": "bù jiě: does not know how to."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "带将：带着。将，助词。",
+   "en": "dài jiāng: to carry along. Jiāng here is a helper word."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我们分开了宝钗，各拿一半，",
+   "en": "We split the precious hairpin in two,"
+  },
+  {
+   "zh": "在桃叶渡口分别，",
+   "en": "and parted at Peach Leaf Ferry."
+  },
+  {
+   "zh": "如烟的柳树让南浦一片昏暗。",
+   "en": "Misty willows darken the southern shore."
+  },
+  {
+   "zh": "我害怕登上高楼，",
+   "en": "I am afraid to climb the tall tower,"
+  },
+  {
+   "zh": "因为十天里有九天都是风雨。",
+   "en": "for nine days out of ten bring wind and rain."
+  },
+  {
+   "zh": "花瓣一片片飘落，让人伤心欲绝，",
+   "en": "Petals fall piece by piece, breaking my heart,"
+  },
+  {
+   "zh": "却没有一个人来管。",
+   "en": "and no one cares to stop them."
+  },
+  {
+   "zh": "又能请谁去叫黄莺停止啼叫呢？",
+   "en": "Whom can I ask to make the orioles stop singing?"
+  },
+  {
+   "zh": "我看看鬓边插的花，",
+   "en": "I look at the flower beside my temple,"
+  },
+  {
+   "zh": "想用花瓣来算他哪天回来，",
+   "en": "and try to count its petals to guess when he will return."
+  },
+  {
+   "zh": "刚把花插上，又摘下来重新数一遍。",
+   "en": "I have just pinned it back, and then I take it down to count again."
+  },
+  {
+   "zh": "丝绸帐子里，灯光昏暗，",
+   "en": "Inside the silk curtains, the lamp is dim,"
+  },
+  {
+   "zh": "我在梦里哭着说话：",
+   "en": "and I sob and speak in my dream:"
+  },
+  {
+   "zh": "“是春天把愁带来的，",
+   "en": "\"It was spring that brought this sorrow here."
+  },
+  {
+   "zh": "现在春天回到哪里去了？",
+   "en": "Now where has spring gone?"
+  },
+  {
+   "zh": "却不懂得把愁也一起带走。”",
+   "en": "Yet it does not know to take the sorrow with it.\""
+  }
+ ],
+ "background": {
+  "zh": "这首词用一位女子的口气，写她在晚春时节思念远方的爱人。风雨不停，花瓣乱飞，她盼着爱人回来，连做梦都在哭。辛弃疾大多写豪迈的爱国词，这首却写得婉转细腻。有人认为词里另有寄托，借女子的愁表达自己对国事的忧虑，但这只是一种说法。写作时间不详。",
+  "en": "This lyric speaks in the voice of a woman who misses her far-away love in late spring. The wind and rain do not stop, and petals fly everywhere. She longs for him to come back and even cries in her dreams. Xin Qiji mostly wrote bold, patriotic lyrics, but this one is soft and delicate. Some readers think it hides another meaning, using the woman's sorrow to show his worry about the country, but that is only one view. When it was written is not known."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，历城（今山东济南）人，南宋最有名的词人之一，和苏轼并称“苏辛”。他年轻时在北方起兵抗金，后来南归，一生想收复失地，却常常不被重用。他的词大多豪放激昂，但也能写这样温柔细腻的作品。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, came from Licheng, today's Jinan in Shandong. He was one of the most famous lyric poets of the Southern Song, often paired with Su Shi. As a young man he raised troops in the north to fight the Jin invaders, then came south. All his life he hoped to win back the lost land, but he was often given no real power. Most of his lyrics are bold and fiery, yet he could also write tender, delicate pieces like this one."
+ },
+ "appreciation": {
+  "zh": "上片写分别后的愁。分钗、渡口、烟柳，都是离别的画面。她不敢上楼远望，因为天天风雨，花落了一地，没人管，黄莺还叫个不停，更让人心烦。下片写一个很可爱的小动作：她拿下鬓边的花，一瓣一瓣地数，想算出爱人哪天回来；刚插回去，又不放心，拿下来再数一遍。这个细节把盼望写得活灵活现。夜里灯光昏暗，她在梦里哽咽着埋怨春天：是你把愁带来的，你走了，怎么不把愁也带走呢？这句话说得有点孩子气，却正是真心话。",
+  "en": "The first stanza is about the sorrow after parting. The split hairpin, the ferry and the misty willows are all pictures of saying goodbye. She dares not climb the tower to look far off, because every day brings wind and rain. Petals cover the ground and no one stops them, and the orioles keep singing, which only makes it worse. The second stanza has a lovely little action. She takes the flower from her hair and counts the petals one by one to work out when he will return. She pins it back, but cannot quite believe it, so she takes it down and counts again. This detail makes her longing feel alive. At night, under the dim lamp, she sobs in her dream and blames spring: you brought the sorrow, so why didn't you take it with you when you left? It sounds a little childish, but it is exactly what she truly feels."
+ },
+ "famous_lines": [
+  3,
+  4,
+  13,
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "late-spring",
+   "falling-flowers"
+  ]
+ },
+ "uncertain": []
+}

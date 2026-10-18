@@ -1,0 +1,471 @@
+{
+ "id": "9c955427-5806-4e78-949e-0cff513bc8e7",
+ "kind": "shi",
+ "title": "酬乐天扬州初逢席上见赠",
+ "title_en": "Answering Bai Juyi's Poem Given Me at Our First Meeting in Yangzhou",
+ "author": "刘禹锡",
+ "author_en": "Liu Yuxi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "巴",
+    "bā"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "弃",
+    "qì"
+   ],
+   [
+    "置",
+    "zhì"
+   ],
+   [
+    "身",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "笛",
+    "dí"
+   ],
+   [
+    "赋",
+    "fù"
+   ]
+  ],
+  [
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "烂",
+    "làn"
+   ],
+   [
+    "柯",
+    "kē"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "侧",
+    "cè"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "长",
+    "zhǎng"
+   ],
+   [
+    "精",
+    "jīng"
+   ],
+   [
+    "神",
+    "shén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库本“笛”写作“篴”，“沉”写作“沈”，都是古代的写法。课本作“笛”“沉”。",
+  "en": "The corpus writes di (flute) and chen (sink) with older forms of the characters. The textbook uses the modern forms."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "头",
+   "pinyin": "tóu",
+   "zh": "“前头”在这里读 qián tóu，诗里“头”不读轻声。",
+   "en": "In qian tou (in front) the second syllable keeps its full tone in the poem: tóu."
+  },
+  {
+   "line": 6,
+   "pos": 6,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "这里是“歌曲”的意思，读 qǔ。",
+   "en": "Here it means \"a song\", so it is read qǔ."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "长",
+   "pinyin": "zhǎng",
+   "zh": "这里是“增长、振作”的意思，读 zhǎng，不读 cháng。",
+   "en": "Here it means \"to boost, to lift\", so it is read zhǎng, not cháng (long)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "巴山楚水：指四川、湖南、湖北一带。刘禹锡被贬后，在朗州、夔州等地做官，这些地方古时属于巴国和楚国。",
+   "en": "Ba shan Chu shui: the hills of Ba and rivers of Chu, meaning the lands of today's Sichuan, Chongqing, Hunan and Hubei, where Liu Yuxi served in exile."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "凄凉地：冷清荒凉的地方。",
+   "en": "qi liang di: bleak and lonely places."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "二十三年：从805年被贬，到826年冬天回来，前后大约二十三年。",
+   "en": "er shi san nian: twenty-three years. He was sent away in 805 and came back at the end of 826, about twenty-three years in all."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "弃置身：被朝廷丢在一边、不被任用的人。",
+   "en": "qi zhi shen: a man cast aside, left unused by the court."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "怀旧：怀念老朋友。",
+   "en": "huai jiu: missing old friends."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "空吟：白白地吟诵，没有用。",
+   "en": "kong yin: reciting in vain."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "闻笛赋：指向秀的《思旧赋》。向秀的好友嵇康被杀，向秀路过嵇康旧居，听到邻居吹笛，写下这篇赋怀念他。这里说刘禹锡的老朋友很多已经去世了。",
+   "en": "wen di fu: the piece about hearing a flute, Xiang Xiu's poem Remembering Old Friends. After his friend Xi Kang was killed, Xiang Xiu passed his old home, heard a neighbour playing a flute, and wrote it. Here it means many of Liu Yuxi's old friends are dead."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "翻似：反而像。",
+   "en": "fan si: instead, rather like."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "烂柯人：传说晋朝王质进山砍柴，看两个童子下棋，一局没下完，斧头柄已经烂了。回到村里，同时代的人都已经死了。这里说自己离开太久，回来后人事全变了。",
+   "en": "lan ke ren: the man whose axe handle rotted. Legend says Wang Zhi of the Jin went to cut wood and watched two boys play chess. Before the game ended, his axe handle had rotted away. Back in his village, everyone he knew was gone. Here it means he has been away so long that everything has changed."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "沉舟：沉没的船。",
+   "en": "chen zhou: a sunken boat."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "侧畔：旁边。",
+   "en": "ce pan: beside."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "病树：生病枯萎的树。诗人用沉舟、病树比喻自己。",
+   "en": "bing shu: a sick, withered tree. The poet uses the sunken boat and the sick tree for himself."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "万木春：成千上万棵树都迎来了春天，长得生机勃勃。",
+   "en": "wan mu chun: ten thousand trees greeting the spring, full of life."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 4,
+   "zh": "君：指白居易，字乐天。",
+   "en": "jun: you, meaning Bai Juyi, also called Letian."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "歌一曲：指白居易在酒席上写给他的诗《醉赠刘二十八使君》。",
+   "en": "ge yi qu: a song, meaning the poem Bai Juyi gave him at the feast."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "暂凭：暂且借着。",
+   "en": "zan ping: for now, relying on."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "长精神：振作精神。",
+   "en": "zhang jing shen: to lift one's spirits."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在巴山楚水那些荒凉的地方，",
+   "en": "In the bleak lands of Ba's hills and Chu's rivers,"
+  },
+  {
+   "zh": "我被朝廷丢弃了二十三年。",
+   "en": "I was cast aside for twenty-three years."
+  },
+  {
+   "zh": "怀念老朋友，只能白白地吟诵《思旧赋》，",
+   "en": "Missing old friends, I can only recite the flute poem in vain;"
+  },
+  {
+   "zh": "回到家乡，反倒像那个斧柄烂掉的王质，人事都变了。",
+   "en": "coming home, I am like the man whose axe handle rotted: everything has changed."
+  },
+  {
+   "zh": "沉船的旁边，有千万只帆船驶过，",
+   "en": "Beside the sunken boat, a thousand sails go by;"
+  },
+  {
+   "zh": "枯病的树前面，万千树木迎来了春天。",
+   "en": "in front of the sick tree, ten thousand trees burst into spring."
+  },
+  {
+   "zh": "今天听你为我唱了这首诗，",
+   "en": "Today, hearing the song you sang for me,"
+  },
+  {
+   "zh": "暂且借这杯酒，振作起精神来。",
+   "en": "let me lift my spirits with this cup of wine."
+  }
+ ],
+ "background": {
+  "zh": "唐顺宗永贞元年（805年），刘禹锡参加政治改革失败，被贬到外地，以后长期在朗州、连州、夔州、和州等偏远的地方做官。唐敬宗宝历二年（826年）冬天，他从和州回洛阳，在扬州遇到了白居易。酒席上，白居易写了《醉赠刘二十八使君》送他，同情他的遭遇。刘禹锡就写了这首诗来回答。“酬”就是用诗回赠。",
+  "en": "In 805 Liu Yuxi took part in a political reform that failed, and he was sent away. For years afterwards he served in remote places such as Langzhou, Lianzhou, Kuizhou and Hezhou. In the winter of 826 he was travelling from Hezhou back to Luoyang and met Bai Juyi in Yangzhou. At a feast, Bai Juyi wrote him a poem full of sympathy for his hard fate. Liu Yuxi answered with this poem. The word chou in the title means to reply with a poem."
+ },
+ "author_note": {
+  "zh": "刘禹锡（772—842），唐代诗人，人称“诗豪”。他一生被贬多年，却很少消沉，诗里常有乐观、倔强的精神。他和白居易是好朋友，两人经常写诗唱和。这首诗选入了统编版初中语文课本。",
+  "en": "Liu Yuxi (772–842) was a Tang poet nicknamed the Hero of Poetry. He spent many years in exile but rarely lost heart, and his poems often show an upbeat, stubborn spirit. He and Bai Juyi were good friends who often traded poems. This poem is in China's current middle school textbooks."
+ },
+ "appreciation": {
+  "zh": "前四句写的是苦：二十三年在荒凉的地方，老朋友死了，回来以后一切都变了，像个陌生人。可第五、六句一下子亮了起来：一只船沉了，旁边还有千帆驶过；一棵树病了，前面还有万木逢春。白居易同情他，他却说：我个人的不幸不算什么，世界还在向前走，新的事物一直在生长。最后两句说，听了你的诗，喝了这杯酒，我要重新振作。全诗从伤感走向乐观，“沉舟侧畔千帆过，病树前头万木春”也成了鼓舞人的名句。",
+  "en": "The first four lines are about hardship: twenty-three years in bleak places, old friends dead, and coming home to find everything changed, like a stranger. Then lines five and six suddenly light up. One boat has sunk, but a thousand sails still pass beside it. One tree is sick, but ten thousand trees in front of it greet the spring. Bai Juyi felt sorry for him, but he answers: my own bad luck is nothing; the world keeps moving forward, and new things keep growing. The last two lines say that after hearing your poem and drinking this cup, I will lift my spirits again. The poem moves from sorrow to hope, and the lines about the sunken boat and the sick tree have become famous words of encouragement."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "exile",
+   "hope",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

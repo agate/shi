@@ -1,0 +1,357 @@
+{
+ "id": "f0cd6afd-c89d-4fc3-b214-bcbf63042e8e",
+ "kind": "shi",
+ "title": "喜外弟卢纶见宿",
+ "title_en": "Glad My Cousin Lu Lun Stays the Night",
+ "author": "司空曙",
+ "author_en": "Sikong Shu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "邻",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "业",
+    "yè"
+   ],
+   [
+    "贫",
+    "pín"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "以",
+    "yǐ"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "愧",
+    "kuì"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "频",
+    "pín"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "分",
+    "fèn"
+   ]
+  ],
+  [
+   [
+    "况",
+    "kuàng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "蔡",
+    "cài"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "亲",
+    "qīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库的文字第五句作“沈”，“沈”在古书里常当“沉”用，这里按通行本写作“沉”。",
+  "en": "The source text writes the word chén, sunk, in line five with an old character that was often used for it; this page uses the common modern form."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "分",
+   "pinyin": "fèn",
+   "zh": "“有分”是有缘分、有情分，“分”读 fèn，不读 fēn。",
+   "en": "Here it means a bond of friendship, so it is read fèn, not fēn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "四无邻：四周没有邻居。",
+   "en": "sì wú lín: no neighbors on any side."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "荒居：荒凉破旧的住处。",
+   "en": "huāng jū: a bleak, run-down home."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "旧业：家里原有的产业。贫：穷。旧业贫：家产本来就少，日子很穷。",
+   "en": "jiù yè pín: jiù yè is the family's property; pín means poor. There was little to begin with, and life is poor."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "白头人：头发白了的人，指诗人自己。",
+   "en": "bái tóu rén: a white-haired man, meaning the poet himself."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "以我：因为我。",
+   "en": "yǐ wǒ: because I."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "独沉久：一个人长期沉沦、不得志。沉，沉沦，在低处起不来。",
+   "en": "dú chén jiǔ: sunk low for a long time, alone and without success."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "愧君：对你感到惭愧。君，你，指卢纶。",
+   "en": "kuì jūn: I feel ashamed before you. Jūn means you, here Lu Lun."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "相见频：常常来看我。频，次数多。",
+   "en": "xiāng jiàn pín: you come to see me often. Pín means frequent."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "平生：一向，平时。",
+   "en": "píng shēng: always, all along."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "有分（fèn）：有情分、有缘分。",
+   "en": "yǒu fèn: to share a bond of friendship."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "况是：何况是。",
+   "en": "kuàng shì: what is more, all the more since."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "蔡家亲：晋代名将羊祜是东汉蔡邕的外孙，和蔡家是亲戚。这里借来说两人是表亲。",
+   "en": "cài jiā qīn: kin of the Cai family. The Jin general Yang Hu was the grandson of Cai Yong through his mother, so he was kin to the Cai family. The phrase is borrowed to say the two poets are cousins."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "安静的夜里，四周没有邻居，",
+   "en": "On a quiet night, with no neighbors anywhere around,"
+  },
+  {
+   "zh": "我住在荒凉的屋子里，家里本来就穷。",
+   "en": "I live in a bleak old house, with little left of the family's means."
+  },
+  {
+   "zh": "雨中，黄叶在树上飘零；",
+   "en": "In the rain, a tree of yellow leaves;"
+  },
+  {
+   "zh": "灯下，坐着我这个白发老人。",
+   "en": "under the lamp, a white-haired man."
+  },
+  {
+   "zh": "因为我一个人长久地沉沦不得志，",
+   "en": "Because I have been sunk low and alone for so long,"
+  },
+  {
+   "zh": "你还这样常来看我，真让我惭愧。",
+   "en": "I am ashamed that you still come to see me so often."
+  },
+  {
+   "zh": "我们平时就有很深的情分，",
+   "en": "We have always shared a close bond,"
+  },
+  {
+   "zh": "何况我们还是表亲呢。",
+   "en": "and what is more, we are cousins."
+  }
+ ],
+ "background": {
+  "zh": "卢纶是司空曙的表弟，“外弟”就是表弟。两人都是“大历十才子”之一，交情很深。司空曙晚年过得很穷，住处冷清。一个下雨的夜里，卢纶来看他，还留下来住了一晚。“见宿”就是来我这里住。司空曙又高兴又感动，写下了这首诗。具体年份不详。",
+  "en": "Lu Lun was Sikong Shu's younger cousin. Both were among the Ten Talents of the Dali era, and they were close friends. In his later years Sikong Shu was very poor and lived in a lonely place. One rainy night Lu Lun came to visit and stayed overnight. Sikong Shu was happy and moved, and wrote this poem. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "司空曙，字文明（一说字文初），唐代诗人，“大历十才子”之一。“大历十才子”是唐代宗大历年间很有名的十位诗人。他做官不顺，生活清贫，诗多写自己的孤独和亲友之间的情谊，语言朴素，感情真挚。",
+  "en": "Sikong Shu, also called Wenming (some say Wenchu), was a Tang poet and one of the Ten Talents of the Dali era, ten well-known poets of the reign of Emperor Daizong. His career went badly and he lived in poverty. His poems are mostly about his own loneliness and the bonds between family and friends, in plain words with true feeling."
+ },
+ "appreciation": {
+  "zh": "前四句写自己的孤苦。“雨中黄叶树，灯下白头人”是千古名句：雨里一棵黄叶树，灯下一个白头人，没有一个动词，只是把两个画面放在一起。黄叶快要落了，人也老了，树和人一样凄凉，读来让人心里一酸。后四句写表弟来访：我这样落魄，你还常来看我，真是惭愧。最后说我们本来就情谊深厚，更何况是亲戚。前面越冷清，后面的亲情就显得越温暖，就像寒夜里点起了一盏灯。",
+  "en": "The first four lines show the poet's lonely, hard life. The lines about the tree and the man are among the most famous in Chinese poetry. A tree of yellow leaves in the rain; a white-haired man under the lamp. There is no verb at all, just two pictures side by side. The leaves are about to fall, and the man is old; tree and man are equally sad, and it makes the reader's heart ache. The last four lines are about the cousin's visit. \"I have fallen so low, yet you still come to see me; I feel ashamed.\" Then he says they were always close, and family too. The colder the first half, the warmer the family love in the second, like a lamp lit on a cold night."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "family",
+   "friendship",
+   "rain",
+   "old-age",
+   "poverty"
+  ]
+ },
+ "uncertain": []
+}

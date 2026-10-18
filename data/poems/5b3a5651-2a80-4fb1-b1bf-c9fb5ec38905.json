@@ -1,0 +1,372 @@
+{
+ "id": "5b3a5651-2a80-4fb1-b1bf-c9fb5ec38905",
+ "kind": "shi",
+ "title": "初发扬子寄元大校书",
+ "title_en": "Setting Out from Yangzi, Sent to Collator Yuan the Eldest",
+ "author": "韦应物",
+ "author_en": "Wei Yingwu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "亲",
+    "qīn"
+   ],
+   [
+    "爱",
+    "ài"
+   ]
+  ],
+  [
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "雾",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "棹",
+    "zhào"
+   ],
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "广",
+    "guǎng"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "遇",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "沿",
+    "yán"
+   ],
+   [
+    "洄",
+    "huí"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "这里是“再”的意思，现在一般读 hái。也有人读 huán。",
+   "en": "Here it means again, and today it is usually read hái. Some read it huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "凄凄：心里难过、凄凉的样子。",
+   "en": "qī qī: sad and lonely."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "去亲爱：离开亲爱的朋友。去，离开。",
+   "en": "qù qīn ài: to leave dear friends. Qù here means to leave."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "泛泛：船在水上漂着、晃着的样子。",
+   "en": "fàn fàn: a boat drifting and rocking on the water."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "烟雾：江面上的雾气，远看像烟。",
+   "en": "yān wù: mist over the river, which looks like smoke from far away."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "归棹：回去的船。棹，划船的桨，这里指船。",
+   "en": "guī zhào: the boat going home. Zhào is an oar, and here stands for the boat."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "洛阳人：要回洛阳去的人，就是诗人自己。",
+   "en": "luò yáng rén: the person going back to Luoyang, that is, the poet himself."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "残钟：越来越弱、快要听不见的钟声。",
+   "en": "cán zhōng: the last, fading sounds of a bell."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "广陵：就是扬州，朋友元大还留在那里。",
+   "en": "guǎng líng: Yangzhou, where his friend Yuan stays behind."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "今朝：今天。",
+   "en": "jīn zhāo: today."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "此为别：在这里分别。",
+   "en": "cǐ wéi bié: to part here."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "还相遇：再见面。还，再。",
+   "en": "hái xiāng yù: to meet again. Hái means again."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "世事：人世间的事情。",
+   "en": "shì shì: the things that happen in a person's life."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "波上舟：波浪上的小船。",
+   "en": "bō shàng zhōu: a little boat on the waves."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "沿洄：顺水往下走，或者逆水往上走。沿，顺流而下；洄，逆流而上。",
+   "en": "yán huí: going down with the current or up against it. Yán is downstream, huí is upstream."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "安得住：怎么能停得下来。安，怎么。",
+   "en": "ān dé zhù: how could it ever stop? Ān means how."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我心里凄凉，离开了亲爱的朋友，",
+   "en": "Sad at heart, I leave my dear friend,"
+  },
+  {
+   "zh": "小船漂漂荡荡，驶进了江上的烟雾。",
+   "en": "and my little boat drifts off into the river mist."
+  },
+  {
+   "zh": "我坐着回程的船，要回洛阳去，",
+   "en": "I am on a boat heading home to Luoyang,"
+  },
+  {
+   "zh": "广陵的树林里，还传来渐渐消失的钟声。",
+   "en": "while from the trees of Guangling come the last sounds of a bell."
+  },
+  {
+   "zh": "今天就在这里分别了，",
+   "en": "Today we part here."
+  },
+  {
+   "zh": "不知道将来在什么地方才能再见面。",
+   "en": "Who knows where we will ever meet again?"
+  },
+  {
+   "zh": "人世间的事，就像波浪上的小船，",
+   "en": "The things of this world are like a boat on the waves:"
+  },
+  {
+   "zh": "顺流也好，逆流也好，怎么能停得下来呢？",
+   "en": "going down the stream or up against it, how could it ever stop?"
+  }
+ ],
+ "background": {
+  "zh": "扬子，指扬子津，是长江北岸的一个渡口，在今天江苏扬州南边。元大，姓元，在家里排行老大，名字已经不清楚了。校书，就是校书郎，在朝廷里负责校对书籍的小官。这首诗是韦应物从扬子津坐船出发、回洛阳的时候，写给留在广陵（扬州）的朋友元大的。具体写在哪一年，说法不一。",
+  "en": "Yangzi here means the Yangzi ferry, a crossing on the north bank of the Yangtze, south of today's Yangzhou in Jiangsu. Yuan the Eldest was a man surnamed Yuan, the oldest son of his family; his full name is no longer known. A collator was a minor court official who checked and corrected books. Wei Yingwu wrote this poem as he set off by boat from the Yangzi ferry to go back to Luoyang. He sent it to his friend Yuan, who stayed behind in Guangling, that is, Yangzhou. Sources differ on the year."
+ },
+ "author_note": {
+  "zh": "韦应物，唐代诗人，生于737年前后，长安人。他年轻时当过唐玄宗的侍卫，后来认真读书，做过苏州刺史，所以人们也叫他“韦苏州”。他的诗平淡、安静，常写山水和田园，带着淡淡的忧伤，人们常把他和王维、孟浩然等人放在一起说。",
+  "en": "Wei Yingwu was a Tang poet from Chang'an, born around 737. As a young man he served as a guard of Emperor Xuanzong. Later he studied hard and became governor of Suzhou, so people also called him Wei Suzhou. His poems are plain and quiet. He often wrote about hills, rivers and farm life, with a light touch of sadness. People often name him together with Wang Wei and Meng Haoran."
+ },
+ "appreciation": {
+  "zh": "开头两句，诗人的心是凄凉的，小船也漂进了一片烟雾里，人和景都迷迷蒙蒙。三、四句写得最好：诗人坐在往洛阳去的船上，回头看广陵，只见一片树林，还隐隐听到钟声。树越来越远，钟声越来越弱，离朋友也越来越远。五、六句直接说出担心：这一别，不知哪里才能再见。最后两句由自己想到人生：人就像波浪上的小船，顺流逆流，由不得自己，停也停不下来。全诗不说“想你”，可是一路都是不舍。",
+  "en": "In the first two lines the poet feels sad, and his boat drifts into a cloud of mist, so both the man and the view are blurred. Lines three and four are the finest. Sitting on the boat bound for Luoyang, he looks back at Guangling. He sees only trees, and faintly hears a bell. The trees grow farther away, the bell grows fainter, and his friend is left farther behind. Lines five and six say his worry out loud: after this parting, where will they ever meet again? The last two lines turn from himself to life itself. A person is like a little boat on the waves, carried up and down the stream, unable to stop. The poem never says \"I will miss you\", yet every line is full of not wanting to let go."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "river",
+   "boat"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,730 @@
+{
+ "id": "ci-048a8cd00677",
+ "kind": "ci",
+ "title": "水调歌头·秋色渐将晚",
+ "title_en": "Shui Diao Ge Tou: Autumn Is Growing Late",
+ "author": "叶梦得",
+ "author_en": "Ye Mengde",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《水调歌头》，双调九十五字",
+  "en": "ci to the tune Shui Diao Ge Tou, 95 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "户",
+    "hù"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "映",
+    "yìng"
+   ]
+  ],
+  [
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "欹",
+    "qī"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "翁",
+    "wēng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "拚",
+    "pàn"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "华",
+    "huá"
+   ]
+  ],
+  [
+   [
+    "徙",
+    "xǐ"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "净",
+    "jìng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "霞",
+    "xiá"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "昔",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "荡",
+    "dàng"
+   ]
+  ],
+  [
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ]
+  ],
+  [
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "本",
+    "běn"
+   ],
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "冉",
+    "rǎn"
+   ],
+   [
+    "冉",
+    "rǎn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "雁",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "笳",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "谈",
+    "tán"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "沙",
+    "shā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "语料库作“微路绕敧斜”，通行本作“欹斜”。“敧”和“欹”是同一个字的不同写法，意思是倾斜。",
+  "en": "In the fourth line the corpus uses a variant form of the character qī (slanting). The common text uses the usual form. They are the same word."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "“斜”现在读 xié。古音读 xiá，和“花、霞、涯、家、笳、沙”押韵。",
+   "en": "Today this character is read xié. In old times it was read xiá, rhyming with huā, xiá, yá, jiā and shā in this poem."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "拚",
+   "pinyin": "pàn",
+   "zh": "“拚却”的“拚”读 pàn，意思是豁出去、甘愿舍弃。",
+   "en": "In pàn què this character is read pàn, meaning to give something up willingly."
+  },
+  {
+   "line": 12,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重扫”的“重”读 chóng，意思是重新、再一次。",
+   "en": "Here this character is read chóng, meaning \"again\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "渐将晚：渐渐快到深秋了。",
+   "en": "jiàn jiāng wǎn: little by little it is getting late in the season."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "霜信：霜要来的消息。",
+   "en": "shuāng xìn: news that frost is coming."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "黄花：菊花。",
+   "en": "huáng huā: chrysanthemums."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "深映：在树木掩映之中，显得很幽深。",
+   "en": "shēn yìng: half hidden among trees, deep and quiet."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "微路：小路。",
+   "en": "wēi lù: a narrow path."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "欹斜：歪歪斜斜，弯弯曲曲。",
+   "en": "qī xié: slanting and winding."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "为问：请问。",
+   "en": "wèi wèn: may I ask."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "山翁：山里的老人，这里是作者自称。",
+   "en": "shān wēng: the old man of the hills, the poet speaking of himself."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "坐看：眼睁睁地看着。",
+   "en": "zuò kàn: to sit and watch, to look on helplessly."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "流年轻度：时光轻易地流过去。",
+   "en": "liú nián qīng dù: the years slip by so easily."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "鬓双华：两边的鬓发都白了。华，花白。",
+   "en": "bìn shuāng huá: the hair at both temples has turned white. Huá means gray-white."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "徙倚：走来走去，有时停下倚靠着。",
+   "en": "xǐ yǐ: to wander back and forth, now and then leaning on something."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "沧海：大海。作者住的地方靠近太湖，这里可能指浩大的湖水。",
+   "en": "cāng hǎi: the vast sea. The poet lived near Lake Tai, so it may mean the great lake."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "平昔：从前，往日。",
+   "en": "píng xī: in the past, in former days."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "三径：院子里的小路。东晋陶渊明辞官回家，写过“三径就荒，松菊犹存”，后来“三径”就指隐居的家园。",
+   "en": "sān jìng: the three garden paths. When Tao Yuanming of the Eastern Jin quit office and went home, he wrote that his three paths had gone wild but his pines and chrysanthemums were still there. Since then the phrase means a retired man's home."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 5,
+   "zh": "本吾家：本来就是我的家。",
+   "en": "běn wú jiā: were always my home."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "冉冉：慢慢移动的样子。",
+   "en": "rǎn rǎn: moving slowly."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "边马：边境上的战马。",
+   "en": "biān mǎ: warhorses on the border."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "胡笳：北方民族吹的一种乐器，声音悲凉。",
+   "en": "hú jiā: a reed pipe of the northern peoples, with a mournful sound."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 5,
+   "zh": "东山老：东晋的谢安。他曾隐居东山，后来出来做官，指挥东晋军队在淝水之战中打败了北方的前秦大军。",
+   "en": "dōng shān lǎo: the old man of the Eastern Hills, Xie An of the Eastern Jin. He lived in retirement at the Eastern Hills, later took office, and led the Eastern Jin to defeat the huge northern army of Former Qin at the Battle of the Fei River."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 5,
+   "zh": "谈笑静胡沙：说说笑笑之间就平定了北方的战乱。这句化用李白“但用东山谢安石，为君谈笑静胡沙”。胡沙，北方敌人扬起的风沙，指战乱。",
+   "en": "tán xiào jìng hú shā: calming the northern storm while chatting and laughing. It borrows a line from Li Bai praising Xie An. Hú shā, dust raised by northern raiders, means war."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋色渐渐深了，",
+   "en": "Autumn is slowly growing late."
+  },
+  {
+   "zh": "霜要来的消息，菊花最先报告了。",
+   "en": "The chrysanthemums are first to bring news of the frost."
+  },
+  {
+   "zh": "矮矮的窗户、低低的门，藏在树荫深处，",
+   "en": "Small windows and low doors lie deep among the trees,"
+  },
+  {
+   "zh": "一条小路弯弯曲曲地绕着房子。",
+   "en": "and a narrow path winds crookedly around the house."
+  },
+  {
+   "zh": "请问我这山中老人在做什么？",
+   "en": "May I ask what this old man of the hills is doing?"
+  },
+  {
+   "zh": "只是坐看时光轻易地流走，",
+   "en": "Just sitting and watching the years slip away,"
+  },
+  {
+   "zh": "甘愿让两鬓都变白。",
+   "en": "willing to let the hair at both temples turn white."
+  },
+  {
+   "zh": "走来走去，倚着栏杆眺望大水，",
+   "en": "I wander about, lean on the rail and gaze at the great water."
+  },
+  {
+   "zh": "天空明净，水面映着明亮的晚霞。",
+   "en": "The sky is clear, and the water shines with bright evening clouds."
+  },
+  {
+   "zh": "想起从前，",
+   "en": "I think of the past:"
+  },
+  {
+   "zh": "白白地四处漂泊，",
+   "en": "drifting about for nothing,"
+  },
+  {
+   "zh": "走遍了天涯。",
+   "en": "all the way to the ends of the earth."
+  },
+  {
+   "zh": "如今回来，重新打扫院里的小路，",
+   "en": "Now I have come home and swept my garden paths again;"
+  },
+  {
+   "zh": "松树竹子本来就是我的家。",
+   "en": "pines and bamboo were always my home."
+  },
+  {
+   "zh": "只恨悲凉的秋风常常吹起，",
+   "en": "But I hate how the mournful wind keeps rising,"
+  },
+  {
+   "zh": "云间新来的大雁慢慢飞过，",
+   "en": "new geese slowly crossing among the clouds,"
+  },
+  {
+   "zh": "边境上的战马对着胡笳声悲鸣。",
+   "en": "and warhorses on the border crying at the sound of northern pipes."
+  },
+  {
+   "zh": "谁能像东山的谢安那样，",
+   "en": "Who can be like Xie An of the Eastern Hills,"
+  },
+  {
+   "zh": "说说笑笑就平定北方的战乱？",
+   "en": "who calmed the northern wars while chatting and laughing?"
+  }
+ ],
+ "background": {
+  "zh": "一般认为这首词是叶梦得晚年退居湖州卞山时写的。通行本前有小序，说九月十五日和客人在西园练习射箭，他刚好生病，不能射。那时北方已被金国占领，宋朝南渡，战事不断。他虽然住在山里，过着隐居的日子，看到秋风、新雁，还是想到边境的战火，心里放不下国事。",
+  "en": "This ci is usually thought to date from Ye Mengde's old age, when he had retired to Mount Bian near Huzhou. The common text has a short preface. It says that on the fifteenth day of the ninth month he and some guests practiced archery in the west garden, but he happened to be ill and could not shoot. By then the north had fallen to the Jin, the Song court had fled south, and fighting went on. Though he lived quietly in the hills, the autumn wind and the new geese still made him think of the war on the border. He could not stop caring about the country."
+ },
+ "author_note": {
+  "zh": "叶梦得（1077—1148），字少蕴，号石林居士，南北宋之交的词人和学者。他做过大官，南渡后还担任过守卫江防的要职。他的词早年清丽，晚年变得开阔豪迈，常写对国事的忧虑。",
+  "en": "Ye Mengde (1077–1148), who called himself the Layman of Stone Forest, was a ci poet and scholar who lived as the Northern Song gave way to the Southern Song. He held high office, and after the move south he had important posts defending the Yangtze. His early ci are fresh and graceful; his later ones grow broad and bold, often worried about the nation."
+ },
+ "appreciation": {
+  "zh": "上片像是一个老人在山居里自问自答。秋深了，菊花开了，小屋藏在树荫里，小路弯弯，看起来很安静。他问自己在干什么，答案是：坐看时光流走，任凭头发变白。登高一看，天净水明，晚霞满湖，景色开阔。下片先回想半生漂泊，再说如今回到松竹之间，好像终于安顿了。可是一阵悲风，几只新雁，边马的嘶鸣和胡笳声，又把他拉回到国家的战乱中。最后他想起谢安：谁能像他一样谈笑间平定敌人？这一问里，有对英雄的向往，也有自己年老多病、无能为力的叹息。",
+  "en": "The first stanza is like an old man in his hill home asking and answering himself. Autumn is deep, the chrysanthemums are out, the little house hides among trees, the path winds. It all looks peaceful. What is he doing? Just watching time go by and letting his hair turn white. Then he looks out: clear sky, bright water, a lake full of sunset. The view is wide. The second stanza first remembers half a life of drifting, then says that now, among pines and bamboo, he has finally settled. But a sad wind, a few new geese, the cry of border horses and the sound of northern pipes pull him back to the nation's war. At last he thinks of Xie An: who could defeat the enemy while laughing, as he did? In that question there is longing for a hero, and a sigh that he himself is old, ill and unable to help."
+ },
+ "famous_lines": [
+  17,
+  18
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "retirement",
+   "old-age",
+   "war",
+   "history"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "background",
+   "zh": "写作时间、地点（晚年退居湖州卞山）和小序内容（九月十五日西园习射）是根据记忆写的，需要核对原本。",
+   "en": "The time and place (his retirement at Mount Bian near Huzhou) and the preface (archery in the west garden on the fifteenth of the ninth month) are written from memory and should be checked against the original."
+  }
+ ]
+}

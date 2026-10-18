@@ -1,0 +1,989 @@
+{
+ "id": "ci-b84271f5c1d9",
+ "kind": "ci",
+ "title": "浪淘沙慢·晓阴重",
+ "title_en": "Waves Washing Sand, Slow Tune: Heavy Gloom at Dawn",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（长调，三叠）",
+  "en": "ci lyric (long tune, three stanzas)"
+ },
+ "lines": [
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "重",
+    "zhòng"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "凋",
+    "diāo"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "堞",
+    "dié"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "脂",
+    "zhī"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "帐",
+    "zhàng"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "阕",
+    "què"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "拂",
+    "fú"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "揽",
+    "lǎn"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "亲",
+    "qīn"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "切",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "清",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "耿",
+    "gěng"
+   ],
+   [
+    "耿",
+    "gěng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "咽",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "嗟",
+    "jiē"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "忘",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "竭",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "取",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "纹",
+    "wén"
+   ],
+   [
+    "衾",
+    "qīn"
+   ],
+   [
+    "叠",
+    "dié"
+   ]
+  ],
+  [
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "环",
+    "huán"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "顿",
+    "dùn"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "敲",
+    "qiāo"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "缺",
+    "quē"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "馀",
+    "yú"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "梨",
+    "lí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9,
+  18
+ ],
+ "text_note": {
+  "zh": "原始资料开头作“昼阴重”，第六句作“堪缆结”。通行本（如《宋词三百首》）作“晓阴重”“堪揽结”，写的是清晨送别，用手揽住柳条，这里从通行本。",
+  "en": "The source text begins with zhòu (daytime) and has lǎn meaning \"cable\" in line 6. Common editions such as Three Hundred Song Lyrics have xiǎo (dawn) and lǎn meaning \"to gather in the hand\": a farewell at dawn, gathering willow twigs. The common text is used here."
+ },
+ "readings": [
+  {
+   "line": 12,
+   "pos": 7,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "咽：这里是哭泣时声音堵住、断断续续的意思，读 yè（呜咽），不读 yān 或 yàn。",
+   "en": "yè: here it means a sobbing, choked sound, as in crying. It is read yè, not yān or yàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "晓阴重：清晨天色阴沉沉的。",
+   "en": "xiǎo yīn zhòng: the dawn sky is heavy and gloomy."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "凋：使草木枯萎。",
+   "en": "diāo: to make plants wither."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "城堞：城墙上一个个凹凸的矮墙，就是城垛。",
+   "en": "chéng dié: the notched low walls on top of a city wall, the battlements."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "南陌：城南的道路。",
+   "en": "nán mò: the road south of the city."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "脂车：给车轴抹上油，准备出发。",
+   "en": "zhī chē: greasing the axle, making the cart ready to go."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "帐饮：在城外搭起帐篷，摆酒送别。",
+   "en": "zhàng yǐn: a farewell drink in a tent set up outside the city."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "乍阕：刚刚结束。",
+   "en": "zhà què: has just ended."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "拂面：轻轻擦过脸。",
+   "en": "fú miàn: brushing lightly against the face."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 8,
+   "zh": "堪揽结：柳条长得可以用手揽住、打成结了。古人送别时常折柳相赠。",
+   "en": "kān lǎn jié: the willow twigs are long enough to gather in the hand and tie. People in old times broke off willow twigs as a parting gift."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "掩红泪：捂着脸流泪。红泪指女子的眼泪，泪水沾着胭脂。",
+   "en": "yǎn hóng lèi: hiding her tears. \"Red tears\" are a woman's tears, tinged with rouge."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "亲折：亲手折柳。",
+   "en": "qīn zhé: breaking off the willow with her own hands."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "汉浦：汉水边。传说有人在汉水边遇到两位仙女，仙女送他玉佩，转眼就不见了。这里借指和心上人分别。",
+   "en": "hàn pǔ: the bank of the Han River. Legend says a man met two fairy maidens there; they gave him jade pendants and then vanished. Here it stands for parting from a loved one."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "离鸿：离群飞走的大雁，比喻远去的人。",
+   "en": "lí hóng: a wild goose that has flown away, meaning the person who left."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 8,
+   "zh": "去何许：去了哪里。",
+   "en": "qù hé xǔ: where has it gone."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "经时：过了很久。",
+   "en": "jīng shí: after a long time."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "信音绝：一点消息都没有了。",
+   "en": "xìn yīn jué: all news has stopped."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "情切：思念得非常急切。",
+   "en": "qíng qiè: the longing is very strong."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "望中：放眼望去。",
+   "en": "wàng zhōng: as far as the eye can see."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "耿耿：心里不安，睡不着。",
+   "en": "gěng gěng: restless, unable to sleep."
+  },
+  {
+   "line": 12,
+   "start": 5,
+   "end": 7,
+   "zh": "寒漏：寒夜里的漏壶。漏壶是古代用滴水计时的工具。",
+   "en": "hán lòu: the water clock on a cold night. A water clock told time by dripping water."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 1,
+   "zh": "嗟：叹息。",
+   "en": "jiē: to sigh."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "唯是轻别：只有那次轻易的离别（最难忘）。",
+   "en": "wéi shì qīng bié: only that parting, made so lightly (is hardest to forget)."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "翠尊：碧绿色的酒杯。",
+   "en": "cuì zūn: a green jade wine cup."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "未竭：酒还没喝完。",
+   "en": "wèi jié: the wine is not yet finished."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 5,
+   "zh": "凭断云留取：请那片残云帮忙留住。凭，请、托。",
+   "en": "píng duàn yún liú qǔ: asking the broken clouds to hold it back. Píng means to ask or rely on."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "罗带光销：丝绸衣带失去了光彩。",
+   "en": "luó dài guāng xiāo: the silk sash has lost its shine."
+  },
+  {
+   "line": 18,
+   "start": 4,
+   "end": 7,
+   "zh": "纹衾叠：绣花被子叠着，没人盖了。",
+   "en": "wén qīn dié: the patterned quilt lies folded, unused."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "连环解：玉连环被解开了。传说战国时齐国王后用锤子把一个玉连环敲开。这里比喻两人的感情断了。",
+   "en": "lián huán jiě: the jade linked rings are undone. Legend says a queen of Qi broke apart a set of jade linked rings with a hammer. Here it means the bond between two people is broken."
+  },
+  {
+   "line": 19,
+   "start": 5,
+   "end": 7,
+   "zh": "顿歇：一下子消散了。",
+   "en": "dùn xiē: suddenly gone."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 3,
+   "zh": "怨歌永：长长地唱着哀怨的歌。",
+   "en": "yuàn gē yǒng: singing a sad song over and over."
+  },
+  {
+   "line": 20,
+   "start": 3,
+   "end": 8,
+   "zh": "琼壶敲尽缺：玉壶都被敲出了缺口。传说东晋王敦每次喝了酒就唱歌，用如意敲唾壶打拍子，把壶口都敲缺了。",
+   "en": "qióng hú qiāo jìn quē: the jade pot is chipped from being struck. Legend says Wang Dun of the Eastern Jin, after drinking, beat time on a pot as he sang, until its rim was all chipped."
+  },
+  {
+   "line": 21,
+   "start": 3,
+   "end": 7,
+   "zh": "不与人期：不跟人约定，说走就走。",
+   "en": "bù yǔ rén qī: makes no promise to anyone, just leaves."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 3,
+   "zh": "弄夜色：在夜色里摆弄、飘舞。",
+   "en": "nòng yè sè: playing about in the night."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 2,
+   "zh": "空馀：只剩下。",
+   "en": "kōng yú: only leaves behind."
+  },
+  {
+   "line": 23,
+   "start": 4,
+   "end": 7,
+   "zh": "梨花雪：落了满地的梨花，白得像雪。",
+   "en": "lí huā xuě: fallen pear blossoms covering the ground, white as snow."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清晨，天色阴沉沉的，",
+   "en": "At dawn the sky hangs heavy and gray."
+  },
+  {
+   "zh": "寒霜打枯了岸边的草，",
+   "en": "Frost has withered the grass along the bank."
+  },
+  {
+   "zh": "雾气遮住了城头的城垛。",
+   "en": "Fog hides the battlements of the city wall."
+  },
+  {
+   "zh": "城南路上，抹好油的车正等着出发，",
+   "en": "On the south road, the greased cart waits to leave."
+  },
+  {
+   "zh": "东门外帐篷里的送别酒刚刚喝完。",
+   "en": "The farewell drink in the tent by the east gate has just ended."
+  },
+  {
+   "zh": "垂下的杨柳正轻拂着脸，长得可以揽在手里打结。",
+   "en": "Hanging willows brush our faces, long enough to gather and tie."
+  },
+  {
+   "zh": "她捂着流泪的脸，亲手折下柳枝送我。",
+   "en": "Hiding her tears, she broke off a willow twig for me with her own jade-white hands."
+  },
+  {
+   "zh": "想起那像离群大雁一样远去的人，如今到了哪里？",
+   "en": "I think of the one who flew away like a lost goose. Where are you now?"
+  },
+  {
+   "zh": "过了这么久，一点消息也没有。",
+   "en": "So much time has passed, and no word has come."
+  },
+  {
+   "zh": "思念真是急切。",
+   "en": "How deep the longing."
+  },
+  {
+   "zh": "放眼望去，地那么远，天那么宽。",
+   "en": "All I see is far-off land and endless sky."
+  },
+  {
+   "zh": "对着冰冷的露水和清冷的风，",
+   "en": "Facing cold dew and a chill wind,"
+  },
+  {
+   "zh": "在没人的地方，我睡不着，听寒夜的漏壶滴水，像在呜咽。",
+   "en": "alone where no one comes, I lie awake while the water clock drips like sobbing."
+  },
+  {
+   "zh": "唉，世上的事难忘的很多，",
+   "en": "Ah, many things are hard to forget,"
+  },
+  {
+   "zh": "最难忘的还是那次轻易的离别。",
+   "en": "but hardest of all is that parting, made so lightly."
+  },
+  {
+   "zh": "绿玉杯里的酒还没喝完，",
+   "en": "The wine in the green cup is not yet gone."
+  },
+  {
+   "zh": "我想请天上的残云帮我留住",
+   "en": "I would ask the broken clouds to hold back"
+  },
+  {
+   "zh": "西楼上那一弯残月。",
+   "en": "the fading moon above the west tower."
+  },
+  {
+   "zh": "丝绸衣带没了光彩，绣花被子叠着没人盖。",
+   "en": "The silk sash has lost its shine; the patterned quilt lies folded and unused."
+  },
+  {
+   "zh": "玉连环已经解开，旧日的香气一下子散尽了。",
+   "en": "The jade rings are broken apart; the old fragrance is suddenly gone."
+  },
+  {
+   "zh": "我长长地唱着哀怨的歌，把玉壶都敲出了缺口。",
+   "en": "I sing my sad song on and on, till the jade pot is chipped from beating time."
+  },
+  {
+   "zh": "恨春天说走就走，不跟人约定一声，",
+   "en": "I resent the spring for leaving without a word to anyone."
+  },
+  {
+   "zh": "它在夜色里随意飘舞，",
+   "en": "It plays about in the night,"
+  },
+  {
+   "zh": "只留下满地像雪一样的梨花。",
+   "en": "and leaves only pear blossoms on the ground, like snow."
+  }
+ ],
+ "background": {
+  "zh": "这首词写离别和相思，具体写作时间和写给谁都不清楚。词分三段：第一段回忆当初清晨在城外分别的情景；第二段写分别以后，一个人在夜里思念，睡不着；第三段写旧日的东西都失去了光彩，感情好像也断了，只剩下对春天离去的怨恨。它是周邦彦长调中很有代表性的一首。",
+  "en": "This lyric is about parting and longing. We do not know exactly when it was written or for whom. It has three parts. The first recalls the parting outside the city one dawn. The second shows the speaker alone at night after the parting, longing and unable to sleep. The third says the old keepsakes have lost their shine and the bond seems broken, leaving only resentment as spring slips away. It is one of the most typical of Zhou Bangyan's long lyrics."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，钱塘（今浙江杭州）人，北宋词人。他精通音乐，曾经主管朝廷的音乐机构大晟府，自己也能写新曲。他的词结构严密，讲究格律，用词精美，常常把写景、回忆和眼前的感受一层层交织在一起，后人称他为词中的“集大成者”。",
+  "en": "Zhou Bangyan (1056–1121), courtesy name Meicheng, was a Northern Song lyric poet from Qiantang, today's Hangzhou. He was an expert in music. He once ran the court music office, the Dasheng Bureau, and wrote new tunes himself. His lyrics are tightly built, careful about meter, and richly worded. He often weaves scenery, memory and present feeling together layer by layer. Later readers saw him as the master who brought the art of the ci to its peak."
+ },
+ "appreciation": {
+  "zh": "第一段像一段慢镜头：阴天、霜草、浓雾，车子准备出发，送别酒刚喝完，她捂着泪亲手折柳。画面又冷又湿，正配着离别时的难过。第二段一下子跳到分别之后：天地那么大，人却不知道在哪里；夜里没人，只听见漏壶一滴一滴，像在哭。他想让残云留住残月，其实是想留住那一夜的时光。第三段用了好几个小东西：褪色的衣带、叠好的被子、解开的连环、散掉的香气，一样样告诉我们，这段感情回不去了。最后怨春天说走就走，满地梨花白得像雪，美丽又凄凉，让人久久难忘。",
+  "en": "The first part is like slow motion. A gray sky, frosted grass, thick fog, a cart about to leave, the farewell wine just drunk, and she breaks off a willow twig while hiding her tears. The scene is cold and damp, just like the sadness of parting. The second part jumps to after the parting. The world is so wide, yet he does not know where she is. At night no one is near; he hears only the water clock dripping, drop by drop, as if it were crying. He wants the clouds to hold back the fading moon. What he really wants is to hold on to that night. The third part uses small things: a faded sash, a folded quilt, broken rings, a scent that has faded. One by one they tell us this love cannot come back. At the end he blames spring for leaving without a word. Pear blossoms cover the ground, white as snow, lovely and sad at once, and hard to forget."
+ },
+ "famous_lines": [
+  21,
+  22,
+  23
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "longing",
+   "love",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

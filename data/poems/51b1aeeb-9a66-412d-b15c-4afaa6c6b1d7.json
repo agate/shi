@@ -1,0 +1,378 @@
+{
+ "id": "51b1aeeb-9a66-412d-b15c-4afaa6c6b1d7",
+ "kind": "shi",
+ "title": "渔翁",
+ "title_en": "The Old Fisherman",
+ "author": "柳宗元",
+ "author_en": "Liu Zongyuan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言古诗",
+  "en": "seven-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "翁",
+    "wēng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "傍",
+    "bàng"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "岩",
+    "yán"
+   ],
+   [
+    "宿",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "汲",
+    "jí"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "燃",
+    "rán"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "竹",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "欸",
+    "ǎi"
+   ],
+   [
+    "乃",
+    "nǎi"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "际",
+    "jì"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "岩",
+    "yán"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逐",
+    "zhú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "欸",
+   "pinyin": "ǎi",
+   "zh": "“欸乃”现在课本读 ǎi nǎi，是摇橹的声音，也指渔夫的船歌。一说读 ǎo ǎi。",
+   "en": "The word is read ǎi nǎi in today's textbooks. It is the sound of an oar, and also a boatman's song. Some read it ǎo ǎi."
+  },
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "傍",
+   "pinyin": "bàng",
+   "zh": "“傍”在这里读 bàng，意思是靠着、挨着。",
+   "en": "Here it is read bàng, meaning next to or close by."
+  },
+  {
+   "line": 0,
+   "pos": 6,
+   "char": "宿",
+   "pinyin": "sù",
+   "zh": "“宿”在这里读 sù，意思是过夜。",
+   "en": "Here it is read sù, meaning to stay the night."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "渔翁：打鱼的老人。",
+   "en": "yú wēng: an old fisherman."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 4,
+   "zh": "傍：靠着，挨着。",
+   "en": "bàng: next to, close by."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "西岩：西边的山崖。一般认为指永州的西山。",
+   "en": "xī yán: the cliffs to the west. Usually taken to mean the Western Hills of Yongzhou."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "宿：过夜，睡觉。",
+   "en": "sù: to stay the night."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "晓：天刚亮的时候。",
+   "en": "xiǎo: dawn, when the sky is just getting light."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "汲：打水，取水。",
+   "en": "jí: to draw water."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "清湘：清清的湘江水。湘江流过永州。",
+   "en": "qīng xiāng: the clear water of the Xiang River, which flows through Yongzhou."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "楚竹：楚地的竹子。永州古时属于楚地。",
+   "en": "chǔ zhú: bamboo of Chu. Yongzhou was part of the old land of Chu."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "烟销：烟雾散了。销，消散。",
+   "en": "yān xiāo: the mist has cleared. Xiāo means to melt away."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "欸乃：摇橹的声音，也指渔夫唱的船歌。",
+   "en": "ǎi nǎi: the creak of an oar, or a boatman's song."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "天际：天边。",
+   "en": "tiān jì: the edge of the sky."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "下中流：顺着江水的中间向下游漂去。",
+   "en": "xià zhōng liú: drifting downstream in the middle of the river."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "无心：没有什么心思，自由自在、随意的样子。陶渊明有“云无心以出岫”的句子。",
+   "en": "wú xīn: without any purpose, drifting freely. The poet Tao Yuanming wrote that clouds leave the hills without any purpose."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "相逐：互相追逐，一朵跟着一朵。",
+   "en": "xiāng zhú: chasing one another."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夜里，老渔翁靠着西边的山崖睡觉。",
+   "en": "At night the old fisherman sleeps by the western cliffs."
+  },
+  {
+   "zh": "天亮了，他打来清清的湘江水，点起楚地的竹子烧火做饭。",
+   "en": "At dawn he draws clear water from the Xiang River and burns Chu bamboo to cook."
+  },
+  {
+   "zh": "烟雾散了，太阳出来了，却看不见他的人影。",
+   "en": "The mist clears and the sun comes up, but he is nowhere to be seen."
+  },
+  {
+   "zh": "只听见“欸乃”一声摇橹，青山绿水一下子都亮了起来。",
+   "en": "Only one creak of the oar is heard, and the hills and water turn bright green."
+  },
+  {
+   "zh": "回头望去，他的小船已经在天边，顺着江水漂下去了。",
+   "en": "Looking back, his boat is already at the edge of the sky, drifting down the middle of the river."
+  },
+  {
+   "zh": "山崖上，白云随意地飘着，一朵追着一朵。",
+   "en": "Above the cliffs, white clouds drift freely, chasing one another."
+  }
+ ],
+ "background": {
+  "zh": "唐顺宗时，柳宗元参加了王叔文等人的改革，也就是“永贞革新”。改革很快失败了，他在805年被贬到永州（今湖南永州）做司马，一个没有实权的小官。他在永州住了十年左右。这首诗一般认为写于永州时期。他常在山水里游玩，借山水排解心里的苦闷，也写下了很多山水诗文。",
+  "en": "Under Emperor Shunzong, Liu Zongyuan joined a reform led by Wang Shuwen and others, known as the Yongzhen Reform. It soon failed. In 805 he was sent away to Yongzhou, in today's Hunan, as a minor official with no real power. He lived there for about ten years. This poem is usually thought to come from those years. He often wandered in the hills and rivers to ease his sadness, and wrote many poems and essays about them."
+ },
+ "author_note": {
+  "zh": "柳宗元（773—819），字子厚，唐代文学家，“唐宋八大家”之一，人称“柳河东”。他被贬永州后，写了著名的《永州八记》和《江雪》等作品。他笔下的渔翁，常常带着他自己的影子：孤独、清高，又想要自由。",
+  "en": "Liu Zongyuan (773–819) was a Tang writer, one of the Eight Great Prose Masters of Tang and Song. After he was sent to Yongzhou, he wrote the famous Eight Records of Yongzhou and the poem \"River Snow\". The fishermen in his poems often carry his own shadow: lonely, proud, and longing to be free."
+ },
+ "appreciation": {
+  "zh": "这首诗像一段短短的电影。夜里，渔翁睡在山崖下；天亮了，他打水、烧竹子做饭，炊烟升起来。镜头一转，烟散了，太阳出来，人却不见了。正奇怪的时候，忽然传来一声摇橹声，满眼的山和水一下子绿得发亮。原来渔翁早已划船走了。最后，小船漂到天边，山上只剩白云自由地飘。整首诗没有一个“我”字，却让人觉得自在、清静，又有一点孤单。宋代苏轼很喜欢这首诗，但他觉得最后两句可以删掉，后来很多人也在争论这两句该不该留。",
+  "en": "This poem is like a short film. At night the fisherman sleeps under the cliffs. At dawn he draws water, burns bamboo and cooks, and smoke rises. Then the scene changes: the mist clears, the sun comes up, and the man is gone. Just as we wonder where he went, the creak of an oar is heard, and all the hills and water turn a shining green. He has already rowed away. At the end the little boat drifts to the edge of the sky, and only white clouds float freely over the cliffs. The poet never says \"I\", yet we feel free, quiet and a little lonely. The Song poet Su Shi loved this poem, but thought the last two lines could be cut. People have argued ever since about whether they should stay."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "fisherman",
+   "nature",
+   "river",
+   "solitude",
+   "freedom"
+  ]
+ },
+ "uncertain": []
+}

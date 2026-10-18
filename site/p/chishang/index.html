@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>池上 · 白居易 — 诗</title>
+    <meta name="description" content="池上 · 白居易 — On the Pond by Bai Juyi: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character quatrain</span><span lang="zh">唐诗 · 五言绝句</span></p>
+        <h1>池上</h1>
+        <p class="by">白居易<span class="mono"><span lang="en">Bai Juyi · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">On the Pond</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>xiǎo</i><b>小</b></span><span class="c gl" data-l="0" data-p="1"><i>wá</i><b>娃</b></span><span class="c gl" data-l="0" data-p="2"><i>chēng</i><b>撑</b></span><span class="c gl" data-l="0" data-p="3"><i>xiǎo</i><b>小</b></span><span class="c gl" data-l="0" data-p="4"><i>tǐng</i><b>艇</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>tōu</i><b>偷</b></span><span class="c gl" data-l="1" data-p="1"><i>cǎi</i><b>采</b></span><span class="c gl" data-l="1" data-p="2"><i>bái</i><b>白</b></span><span class="c gl" data-l="1" data-p="3"><i>lián</i><b>莲</b></span><span class="c" data-l="1" data-p="4"><i>huí</i><b>回</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>bù</i><b>不</b></span><span class="c gl" data-l="2" data-p="1"><i>jiě</i><b>解</b></span><span class="c gl" data-l="2" data-p="2"><i>cáng</i><b>藏</b></span><span class="c gl" data-l="2" data-p="3"><i>zōng</i><b>踪</b></span><span class="c gl" data-l="2" data-p="4"><i>jì</i><b>迹</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>fú</i><b>浮</b></span><span class="c gl" data-l="3" data-p="1"><i>píng</i><b>萍</b></span><span class="c gl" data-l="3" data-p="2"><i>yí</i><b>一</b></span><span class="c gl" data-l="3" data-p="3"><i>dào</i><b>道</b></span><span class="c gl" data-l="3" data-p="4"><i>kāi</i><b>开</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">小娃撑小艇</span><span lang="en">A small child pushes a little boat along,</span><span lang="zh">一个小孩子撑着一条小船，</span></li><li><span class="o">偷采白莲回</span><span lang="en">coming back with white lotus picked in secret.</span><span lang="zh">偷偷摘了白莲花回来。</span></li><li><span class="o">不解藏踪迹</span><span lang="en">He does not know how to hide his tracks:</span><span lang="zh">他不知道要把自己的踪迹藏好，</span></li><li><span class="o">浮萍一道开</span><span lang="en">on the duckweed, the boat has left a clear open trail.</span><span lang="zh">水面的浮萍上留下了一条被船划开的水路。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>小娃<span class="mono">xiǎo wá</span></dt><dd><span lang="en">xiǎo wá: a small child.</span><span lang="zh">小娃：小孩子。</span></dd></div><div><dt>撑<span class="mono">chēng</span></dt><dd><span lang="en">chēng: to push a boat along by pressing a long pole against the bottom of the water.</span><span lang="zh">撑：用长竹竿抵住水底，把船推着走。</span></dd></div><div><dt>小艇<span class="mono">xiǎo tǐng</span></dt><dd><span lang="en">xiǎo tǐng: a little boat.</span><span lang="zh">小艇：小船。</span></dd></div><div><dt>偷采<span class="mono">tōu cǎi</span></dt><dd><span lang="en">tōu cǎi: to pick secretly.</span><span lang="zh">偷采：偷偷地摘。</span></dd></div><div><dt>白莲<span class="mono">bái lián</span></dt><dd><span lang="en">bái lián: white lotus flowers.</span><span lang="zh">白莲：白色的莲花。</span></dd></div><div><dt>不解<span class="mono">bù jiě</span></dt><dd><span lang="en">bù jiě: did not know how to.</span><span lang="zh">不解：不懂得，不知道。</span></dd></div><div><dt>藏踪迹<span class="mono">cáng zōng jì</span></dt><dd><span lang="en">cáng zōng jì: to hide one&#x27;s tracks. Zōng jì are the marks you leave behind where you go.</span><span lang="zh">藏踪迹：把自己的行踪藏起来。踪迹，走过留下的痕迹。</span></dd></div><div><dt>浮萍<span class="mono">fú píng</span></dt><dd><span lang="en">fú píng: duckweed, a tiny plant with little round leaves that floats on water and often covers a whole pond.</span><span lang="zh">浮萍：浮在水面上的一种小草，叶子圆圆的、小小的，常常铺满一池。</span></dd></div><div><dt>一道开<span class="mono">yí dào kāi</span></dt><dd><span lang="en">yī dào kāi: the duckweed is pushed apart by the boat, leaving a clear line of water.</span><span lang="zh">一道开：浮萍被小船分开，露出一条水路。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">&quot;On the Pond&quot; is a set of two poems, and this is the second. It is taught in primary school. It is usually thought to come from Bai Juyi&#x27;s later years, when he lived in Luoyang. His official post then was light, and he often walked by the pond at home and enjoyed the view. In summer, when the lotus bloomed, he saw a child secretly pushing a boat out to pick lotus flowers. He found it charming and turned this little event into a poem.</p><p lang="zh">《池上》一共两首，这是第二首，收在小学语文课本里。一般认为是白居易晚年住在洛阳时写的。那时他官职清闲，常在家里的池塘边散步、看风景。夏天莲花开了，他看见一个小孩偷偷撑船去摘莲花，觉得很有趣，就把这件小事写成了诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Bai Juyi (772–846), also called Letian, was a great Tang poet. He wanted his poems to be plain and easy to understand. Legend says he read each new poem to an old woman who could not read, and only kept it if she understood. In his later years he lived in Luoyang and wrote many relaxed little poems. &quot;On the Pond&quot; is one of them, with words as simple as talking.</p><p lang="zh">白居易（772—846），字乐天，号香山居士，唐代大诗人。他写诗讲究通俗易懂，传说写好诗要先念给不识字的老婆婆听，听得懂才算好。他晚年住在洛阳，写了很多闲适的小诗，《池上》就是其中一首，语言简单得像说话。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is like a funny little cartoon. A child pushes a small boat out to pick white lotus flowers in secret. The words &quot;picked in secret&quot; tell us he went without the grown-ups knowing. He must feel a bit nervous and a bit proud. But he is only a child. He thinks only of the flowers and never thinks of hiding himself. Where the boat passes, the duckweed parts and leaves a clear trail on the water, as if to tell everyone, &quot;Someone was here!&quot; The poet does not scold him. He watches it all with a smile. An innocent child, white lotus and green duckweed make a happy summer picture.</p><p lang="zh">这首诗像一幅有趣的小漫画。一个小孩撑着小船，偷偷去摘白莲花。“偷采”两个字说明他是瞒着大人去的，心里一定有点紧张，又有点得意。可是他毕竟是个孩子，只顾着摘花，没想到要藏好自己。小船划过，水面上的浮萍被分开，留下一条清清楚楚的水路，好像在告诉大家：“有人来过这里！”诗人没有批评他，反而带着笑意看着这一切。天真的孩子、白白的莲花、绿绿的浮萍，组成了一个快乐的夏日画面。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/chufayangzijiyuandaxiaoshu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>初发扬子寄元大校书</b></a><a href="../../p/meifanguren/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>没蕃故人</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["小", "xiǎo"], ["娃", "wá"], ["撑", "chēng"], ["小", "xiǎo"], ["艇", "tǐng"]], [["偷", "tōu"], ["采", "cǎi"], ["白", "bái"], ["莲", "lián"], ["回", "huí"]], [["不", "bù"], ["解", "jiě"], ["藏", "cáng"], ["踪", "zōng"], ["迹", "jì"]], [["浮", "fú"], ["萍", "píng"], ["一", "yí"], ["道", "dào"], ["开", "kāi"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "小娃：小孩子。", "en": "xiǎo wá: a small child."}, {"line": 0, "start": 2, "end": 3, "zh": "撑：用长竹竿抵住水底，把船推着走。", "en": "chēng: to push a boat along by pressing a long pole against the bottom of the water."}, {"line": 0, "start": 3, "end": 5, "zh": "小艇：小船。", "en": "xiǎo tǐng: a little boat."}, {"line": 1, "start": 0, "end": 2, "zh": "偷采：偷偷地摘。", "en": "tōu cǎi: to pick secretly."}, {"line": 1, "start": 2, "end": 4, "zh": "白莲：白色的莲花。", "en": "bái lián: white lotus flowers."}, {"line": 2, "start": 0, "end": 2, "zh": "不解：不懂得，不知道。", "en": "bù jiě: did not know how to."}, {"line": 2, "start": 2, "end": 5, "zh": "藏踪迹：把自己的行踪藏起来。踪迹，走过留下的痕迹。", "en": "cáng zōng jì: to hide one's tracks. Zōng jì are the marks you leave behind where you go."}, {"line": 3, "start": 0, "end": 2, "zh": "浮萍：浮在水面上的一种小草，叶子圆圆的、小小的，常常铺满一池。", "en": "fú píng: duckweed, a tiny plant with little round leaves that floats on water and often covers a whole pond."}, {"line": 3, "start": 2, "end": 5, "zh": "一道开：浮萍被小船分开，露出一条水路。", "en": "yī dào kāi: the duckweed is pushed apart by the boat, leaving a clear line of water."}], "readings": [], "speak": ["小娃撑小艇", "偷采白莲回", "不解藏踪迹", "浮萍仪道开"], "speakTitle": "池上。白居易。", "sample": "小娃撑小艇"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

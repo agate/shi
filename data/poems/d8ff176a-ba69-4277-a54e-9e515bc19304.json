@@ -1,0 +1,492 @@
+{
+ "id": "d8ff176a-ba69-4277-a54e-9e515bc19304",
+ "kind": "shi",
+ "title": "雁门太守行",
+ "title_en": "Song of the Governor of Yanmen",
+ "author": "李贺",
+ "author_en": "Li He",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言古诗（乐府）",
+  "en": "seven-character old-style poem (yuefu song)"
+ },
+ "lines": [
+  [
+   [
+    "黑",
+    "hēi"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "压",
+    "yā"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "摧",
+    "cuī"
+   ]
+  ],
+  [
+   [
+    "甲",
+    "jiǎ"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "鳞",
+    "lín"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "脂",
+    "zhī"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "重",
+    "zhòng"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "提",
+    "tí"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "死",
+    "sǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料里第二句作“甲光向月金鳞开”，第四句作“塞上燕支凝夜紫”。现行统编版语文教材作“甲光向日金鳞开”“塞上燕脂凝夜紫”，这里按教材。“燕支”“燕脂”都是胭脂的意思。",
+  "en": "In the source text, the second line says the armor faces the moon, and the fourth line writes the word for rouge with a different second character. Current school textbooks say the armor faces the sun and use the other spelling for rouge. This page follows the textbook. Both spellings mean rouge."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "“燕脂”就是胭脂，这里读 yān。",
+   "en": "Here the word means rouge and is read yān."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "角",
+   "pinyin": "jiǎo",
+   "zh": "号角的“角”，读 jiǎo。",
+   "en": "As in the army horn, read jiǎo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "黑云压城：乌云低低地压在城头上，也比喻敌军来势很凶。",
+   "en": "hēi yún yā chéng: dark clouds pressing down on the city, also a picture of the fierce enemy army closing in."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "欲摧：快要被压垮了。摧，毁坏。",
+   "en": "yù cuī: about to be crushed. Cuī means to break down."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "甲光：铠甲反射的光。铠甲是古代士兵穿的护身衣，用金属片做成。",
+   "en": "jiǎ guāng: light shining off armor. Armor was a soldier's protective suit made of metal plates."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "向日：对着太阳。",
+   "en": "xiàng rì: facing the sun."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "金鳞开：铠甲上的金属片像金色的鱼鳞一样闪闪发光。",
+   "en": "jīn lín kāi: the metal plates of the armor flash like golden fish scales."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "角：号角，古代军中吹的乐器，用来发号令。",
+   "en": "jiǎo: the army horn, blown to give orders."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "塞上：边塞上。",
+   "en": "sài shàng: on the frontier."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "燕脂：就是胭脂，一种红色的颜料。这里形容泥土的颜色，也暗指战士的血迹。",
+   "en": "yān zhī: rouge, a red color. Here it describes the color of the earth, and hints at soldiers' blood."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "凝夜紫：在夜色中凝成了暗紫色。",
+   "en": "níng yè zǐ: thickened into dark purple in the night."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "半卷红旗：把红旗卷起一半，是为了悄悄行军，不让敌人发现。",
+   "en": "bàn juǎn hóng qí: red flags half rolled up, so the army can move quietly without being seen."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 5,
+   "zh": "临：到达、靠近。",
+   "en": "lín: to come near, to reach."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "易水：河名，在今河北易县一带。战国时荆轲在这里告别燕国太子，去刺杀秦王。",
+   "en": "yì shuǐ: a river in today's Yi County, Hebei. In ancient times the hero Jing Ke said farewell here before he set out to kill the King of Qin."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "霜重鼓寒：霜很重，鼓皮又冷又湿。",
+   "en": "shuāng zhòng gǔ hán: the frost is heavy and the drums are cold and damp."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "声不起：鼓声沉闷，敲不响。",
+   "en": "shēng bù qǐ: the drums sound dull and will not ring out."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "报：报答。",
+   "en": "bào: to repay."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "君：君王。",
+   "en": "jūn: the ruler."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "黄金台：战国时燕昭王建的高台，上面放着黄金，用来招请天下人才。这里指君王重用人才的恩情。",
+   "en": "huáng jīn tái: a tall terrace built by King Zhao of Yan in ancient times, with gold placed on it to invite talented people. Here it means the ruler's kindness in trusting good men."
+  },
+  {
+   "line": 6,
+   "start": 6,
+   "end": 7,
+   "zh": "意：心意、恩情。",
+   "en": "yì: kindness, goodwill."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "提携：拿着、握着。",
+   "en": "tí xié: to hold, to carry in the hand."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "玉龙：宝剑。",
+   "en": "yù lóng: a fine sword."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "为君死：为君王去死。",
+   "en": "wèi jūn sǐ: to die for the ruler."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "乌云黑沉沉地压在城头，城墙好像就要被压塌了；",
+   "en": "Dark clouds press on the city, as if the walls will soon break."
+  },
+  {
+   "zh": "战士们的铠甲对着太阳，像金色的鱼鳞一样闪闪发光。",
+   "en": "The soldiers' armor faces the sun, flashing like golden scales."
+  },
+  {
+   "zh": "秋天的景色里，号角声响遍天空；",
+   "en": "In the autumn scene, the call of horns fills the sky."
+  },
+  {
+   "zh": "边塞的泥土像胭脂一样红，在夜色里凝成暗紫色。",
+   "en": "The frontier earth, red as rouge, thickens to purple in the night."
+  },
+  {
+   "zh": "半卷着红旗，援军悄悄来到易水边；",
+   "en": "Red flags half rolled up, the army comes quietly to the Yi River."
+  },
+  {
+   "zh": "霜太重，鼓皮又冷，鼓声怎么也敲不响。",
+   "en": "The frost is heavy, the drums are cold, and their beat will not ring out."
+  },
+  {
+   "zh": "为了报答君王在黄金台上招贤的恩情，",
+   "en": "To repay the ruler's kindness, like the gold on the terrace,"
+  },
+  {
+   "zh": "我手握宝剑，甘愿为君王战死。",
+   "en": "I grip my sword and gladly die for him."
+  }
+ ],
+ "background": {
+  "zh": "《雁门太守行》是乐府旧题，雁门是古代北方的边郡，在今山西北部。李贺借这个老题目写一场边塞战争：敌军围城，守军苦战，援军夜里悄悄赶到，战士们决心报国。这首诗写的是哪一次战事，说法不一，有人认为和唐朝讨伐割据藩镇的战争有关。传说韩愈读了开头两句，非常欣赏，但这个故事未必可靠。",
+  "en": "\"Song of the Governor of Yanmen\" is an old yuefu song title. Yanmen was a frontier region in the far north, in today's northern Shanxi. Li He used this old title to write about a frontier battle: the enemy surrounds a city, the defenders fight hard, help arrives quietly at night, and the soldiers vow to give their lives for their country. Which real battle it describes is debated. Some think it is linked to the Tang wars against rebel regional governors. A story says the great writer Han Yu loved the first two lines when he read them, but the story may not be true."
+ },
+ "author_note": {
+  "zh": "李贺（790—816），字长吉，是唐朝皇族的远房后代。因为父亲名字里有“晋”字，和进士的“进”同音，他被人阻挠，没能参加进士考试。他一生不得志，按旧时的算法只活了二十七岁。他的诗想象奇特，用色浓烈，人称“诗鬼”。",
+  "en": "Li He (790–816), also called Changji, was a distant relative of the Tang royal family. His father's name had a character that sounded like the jin in jinshi, the top exam degree, so people blocked him from taking that exam. He never got ahead, and he lived only twenty-seven years by the old Chinese way of counting age. His poems are full of strange imagination and strong colors, so he is called the Ghost of Poetry."
+ },
+ "appreciation": {
+  "zh": "这首诗最特别的是颜色。黑色的云，金色的甲光，胭脂红的泥土，夜里的暗紫色，半卷的红旗，白白的霜。这些浓烈的颜色放在一起，像一幅很有冲击力的油画，让人一下子感到战场的紧张和悲壮。开头“黑云压城”，压得人喘不过气；接着“甲光向日”，阳光照在铠甲上，战士们士气高昂。后面写夜里援军赶路，霜重鼓哑，处境艰难。最后两句是战士的誓言：为了报答君王的信任，宁愿拿着宝剑战死。全诗从压抑到激昂，读起来热血沸腾。",
+  "en": "What makes this poem special is its colors. Black clouds, golden armor light, rouge-red earth, dark purple in the night, half-rolled red flags, white frost. Put together, these strong colors are like a bold oil painting, and at once you feel the tension and the courage of the battlefield. The opening, dark clouds pressing on the city, makes you hold your breath. Then the armor flashes in the sun, and the soldiers' spirits are high. Next, help hurries through the night, the frost is heavy and the drums are muffled, and things look hard. The last two lines are a soldier's vow: to repay the ruler's trust, he will gladly die with sword in hand. The poem moves from heavy gloom to burning courage, and it stirs your blood."
+ },
+ "famous_lines": [
+  0,
+  1,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "war",
+   "frontier",
+   "loyalty",
+   "courage"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,448 @@
+{
+ "id": "ci-8b2bc8c6af4b",
+ "kind": "ci",
+ "title": "鹧鸪天·化度寺作",
+ "title_en": "Partridge Sky: Written at Huadu Temple",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "阑",
+    "lán"
+   ]
+  ],
+  [
+   [
+    "栖",
+    "qī"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "殷",
+    "yīn"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "窄",
+    "zhǎi"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "宽",
+    "kuān"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "黛",
+    "dài"
+   ],
+   [
+    "澹",
+    "dàn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "阊",
+    "chāng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "屋",
+    "wū"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "间",
+    "jiān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "殷",
+   "pinyin": "yīn",
+   "zh": "殷云：浓重的云，这里读 yīn。殷字表示“深红色”时读 yān，一说这里指被晚霞染红的云。",
+   "en": "Here it is read yīn, meaning thick, heavy clouds. When the character means dark red it is read yān, and one reading takes these as clouds reddened by sunset."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "红衣：红色的衣裳，这里比喻红色的荷花花瓣。",
+   "en": "hóng yī: red clothes; here it means the red petals of lotus flowers."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "倚阑：靠着栏杆。阑，同“栏”。",
+   "en": "yǐ lán: leaning on the railing."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "栖鸦：回巢歇息的乌鸦。",
+   "en": "qī yā: crows going back to their nests to rest."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "殷云：浓厚的云。",
+   "en": "yīn yún: thick, heavy clouds."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "度雨：下过一阵雨。度，经过。",
+   "en": "dù yǔ: a shower passing over."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "疏桐：叶子稀稀落落的梧桐树。",
+   "en": "shū tóng: a wutong tree with thinning leaves."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "宝扇闲：精美的扇子闲放着不用了，因为天凉了。",
+   "en": "bǎo shàn xián: the fine fan lies idle, because the weather has turned cool."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "乡梦窄：回家的梦又短又小，做不长。",
+   "en": "xiāng mèng zhǎi: dreams of home are narrow and short; they never last long."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "水天宽：眼前的江水和天空却又宽又远，表示离家很远。",
+   "en": "shuǐ tiān kuān: but the water and sky in front of him are wide, a sign of how far home is."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "愁黛：发愁时皱着的眉毛。黛，古代女子画眉用的青黑色颜料，也指眉毛。",
+   "en": "chóu dài: sad eyebrows. Dài was the dark paint women used on their brows, and so the brows themselves."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "澹秋山：淡淡的秋山。澹，同“淡”。古人常把眉毛比作远山。",
+   "en": "dàn qiū shān: faint autumn hills. People of old often compared eyebrows to distant hills."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "吴鸿：从吴地（今天苏州一带）飞来或飞去的大雁。古人说大雁能替人送信。",
+   "en": "wú hóng: wild geese of Wu, the area around today's Suzhou. People of old said geese could carry letters."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "好为：请好好地替我。",
+   "en": "hǎo wèi: please, do it for me."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "归信：说自己要回家的信。",
+   "en": "guī xìn: a letter saying he will come home."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "阊门：苏州城西北的城门，这里代指词人在苏州的家。",
+   "en": "chāng mén: Changmen, the northwest gate of Suzhou; here it stands for the poet's home in Suzhou."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "屋数间：几间房子。",
+   "en": "wū shù jiān: a few rooms, a small house."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "池塘里红色的荷花，陪着我靠在栏杆边。",
+   "en": "In the pond the red lotus keeps me company as I lean on the railing."
+  },
+  {
+   "zh": "回巢的乌鸦，总是驮着夕阳飞回来。",
+   "en": "Crows going home to roost always seem to carry the setting sun back with them."
+  },
+  {
+   "zh": "浓云下过一阵雨，稀疏的梧桐叶纷纷飘落。",
+   "en": "Heavy clouds bring a passing shower, and leaves fall from the thinning wutong tree."
+  },
+  {
+   "zh": "明月升起，带来凉意，精美的扇子也闲放不用了。",
+   "en": "The bright moon rises and brings a chill; the fine fan now lies unused."
+  },
+  {
+   "zh": "回家的梦又短又窄，",
+   "en": "My dreams of home are short and narrow,"
+  },
+  {
+   "zh": "眼前的江水和天空却那么宽。",
+   "en": "but the water and sky before me are so wide."
+  },
+  {
+   "zh": "小窗外淡淡的秋山，像她含愁的眉毛。",
+   "en": "Beyond the small window the faint autumn hills look like her sad eyebrows."
+  },
+  {
+   "zh": "吴地的大雁啊，请好好替我捎去要回家的信，",
+   "en": "Wild geese of Wu, please carry my letter home for me,"
+  },
+  {
+   "zh": "送到阊门边，杨柳掩映的那几间小屋。",
+   "en": "to the few small rooms among the willows by Changmen Gate."
+  }
+ ],
+ "background": {
+  "zh": "这首词题目叫“化度寺作”，是吴文英住在化度寺时写的。化度寺的位置，一说在杭州。吴文英在苏州住过十年左右，那里有他牵挂的家和亲人。秋天来了，他客居在外，看着荷花、乌鸦、夕阳和秋山，想起了阊门边的家，就写下这首思乡的词。",
+  "en": "The title says it was written at Huadu Temple, where Wu Wenying was staying. One view places the temple in Hangzhou. Wu Wenying had lived in Suzhou for about ten years, and his home and the people he loved were there. When autumn came he was away from home. Looking at the lotus, the crows, the sunset and the autumn hills, he thought of his home by Changmen Gate and wrote this lyric of homesickness."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，四明（今浙江宁波）人，南宋词人。他一生没有做过大官，长期在别人手下做幕僚（帮忙出主意、写文书的人），常在苏州、杭州一带漂泊。他的词用字讲究，画面很密，像一幅幅精细的画。",
+  "en": "Wu Wenying (about 1200 – about 1260), also called Mengchuang, came from Siming, today's Ningbo in Zhejiang. He was a Southern Song lyric poet. He never held high office. For most of his life he worked as an aide to officials, writing letters and giving advice, and he moved around Suzhou and Hangzhou. His lyrics choose words with great care and pack in many images, like finely detailed paintings."
+ },
+ "appreciation": {
+  "zh": "上片写一天从黄昏到夜晚的景色：池里的红荷陪人倚栏，乌鸦带着夕阳回巢，一阵雨后梧桐落叶，月亮升起，天凉了，扇子也用不着了。鸟都回家了，人却回不去，这是第一层愁。下片说出心事：梦很短，路很远，“窄”和“宽”放在一起，一下子就让人感到家有多远。窗外淡淡的秋山，又像亲人皱着的眉。最后只好托大雁送信，信要送到阊门边那几间小屋，写得具体又温暖，思念也更真切。",
+  "en": "The first half shows one day turning from dusk to night. Red lotus keeps the poet company at the railing. Crows fly home carrying the sunset. After a shower, leaves fall from the wutong tree. The moon rises, the air cools, and the fan is put away. Even the birds go home, but he cannot; that is the first layer of sadness. The second half tells his heart. Dreams are short and the road is long. Putting \"narrow\" next to \"wide\" makes us feel at once how far away home is. The faint hills outside the window look like the frowning brows of someone he loves. In the end he can only ask the wild geese to carry a letter, to a few small rooms by Changmen Gate. The detail is plain and warm, and it makes the longing feel real."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "geese",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

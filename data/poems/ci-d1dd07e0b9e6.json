@@ -1,0 +1,466 @@
+{
+ "id": "ci-d1dd07e0b9e6",
+ "kind": "ci",
+ "title": "南乡子·重九涵辉楼呈徐君猷",
+ "title_en": "Southern Country: For Xu Junyou at Hanhui Tower on the Double Ninth",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·南乡子（双调）",
+  "en": "ci lyric to the tune Nan Xiang Zi, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "降",
+    "jiàng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "鳞",
+    "lín"
+   ],
+   [
+    "鳞",
+    "lín"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "力",
+    "lì"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "力",
+    "lì"
+   ],
+   [
+    "软",
+    "ruǎn"
+   ]
+  ],
+  [
+   [
+    "飕",
+    "sōu"
+   ],
+   [
+    "飕",
+    "sōu"
+   ]
+  ],
+  [
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "帽",
+    "mào"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "恋",
+    "liàn"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "酬",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "词题“重九涵辉楼呈徐君猷”是通行本的题目，资料库只有词牌“南乡子”。",
+  "en": "The title For Xu Junyou at Hanhui Tower on the Double Ninth comes from common editions; the corpus gives only the tune name Nan Xiang Zi."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "“若为”是“怎样、如何”的意思，“为”读 wéi（做），不读 wèi。",
+   "en": "Ruò wéi means how, in what way. Here wéi means to do, so it is not read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "霜降：下霜了，天气转冷。霜降也是二十四节气之一，在重阳节前后。",
+   "en": "shuāng jiàng: frost has fallen and the weather turns cold. It is also the name of one of the twenty-four solar terms, close to the Double Ninth."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "水痕收：秋天水位下降，岸边的水印退下去了。",
+   "en": "shuǐ hén shōu: in autumn the water level drops, and the water marks on the bank shrink back."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "浅碧鳞鳞：浅绿色的江水，波纹像鱼鳞一样一层层的。",
+   "en": "qiǎn bì lín lín: pale green water, with ripples layered like fish scales."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "露远洲：远处江中的沙洲露了出来。",
+   "en": "lù yuǎn zhōu: a far-off sandbar in the river shows above the water."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "酒力渐消：酒劲慢慢退了。",
+   "en": "jiǔ lì jiàn xiāo: the wine slowly wears off."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "风力软：风变得柔和了。",
+   "en": "fēng lì ruǎn: the wind grows soft."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "飕飕：风吹的声音，这里有凉意。",
+   "en": "sōu sōu: the sound of the wind, with a chill in it."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 7,
+   "zh": "破帽多情却恋头：破旧的帽子好像很有感情，舍不得离开头。这里反用了“孟嘉落帽”的故事：东晋孟嘉在重阳宴会上，帽子被风吹落了还不知道。",
+   "en": "pò mào duō qíng què liàn tóu: the old hat seems fond of him and will not leave his head. It turns around an old story: at a Double Ninth feast long ago, the wind blew off Meng Jia's hat and he did not even notice."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "佳节：美好的节日，这里指重阳节。",
+   "en": "jiā jié: a fine festival, here the Double Ninth."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "若为酬：怎样来过这个节日、报答这个节日呢？",
+   "en": "ruò wéi chóu: how should we honor this festival?"
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "但把：只用、只拿。",
+   "en": "dàn bǎ: only take, just use."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "清尊：盛着清酒的酒杯。",
+   "en": "qīng zūn: a cup of clear wine."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "断送秋：打发走秋天，在喝酒中送走秋光。",
+   "en": "duàn sòng qiū: to see autumn off, letting the autumn days pass over wine."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "到头：到最后。",
+   "en": "dào tóu: in the end."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "休休：算了算了，不要再说了。",
+   "en": "xiū xiū: enough, enough, let it go."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "明日黄花：过了重阳节，明天的菊花就不新鲜了。黄花，菊花，重阳节要赏菊。后来“明日黄花”成了成语，比喻过时的事物。",
+   "en": "míng rì huáng huā: after the Double Ninth, tomorrow's chrysanthemums will be past their best. Huáng huā means chrysanthemums, which people admire on this day. Later it became an idiom for things that are out of date."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "霜降以后，江水落下，水痕退了，",
+   "en": "Frost has fallen, the river drops, and the water marks shrink back;"
+  },
+  {
+   "zh": "浅绿的江水泛起鳞片般的波纹，远处的沙洲露了出来。",
+   "en": "the pale green water ripples like fish scales, and a distant sandbar appears."
+  },
+  {
+   "zh": "酒劲渐渐退了，风也变得柔和，",
+   "en": "The wine slowly wears off, and the wind grows soft,"
+  },
+  {
+   "zh": "却还是飕飕地带着凉意，",
+   "en": "yet it still blows with a chill,"
+  },
+  {
+   "zh": "破帽子好像对我很有感情，舍不得离开我的头。",
+   "en": "and my old hat, fond of me, will not leave my head."
+  },
+  {
+   "zh": "这美好的节日该怎样度过呢？",
+   "en": "How should we honor this fine festival?"
+  },
+  {
+   "zh": "只用一杯清酒，送走这秋天吧。",
+   "en": "Let us just send autumn off with a cup of clear wine."
+  },
+  {
+   "zh": "世上万事到最后都是一场梦，",
+   "en": "In the end, everything in the world is a dream;"
+  },
+  {
+   "zh": "算了算了，",
+   "en": "enough, enough."
+  },
+  {
+   "zh": "过了今天，明天的菊花凋谢了，连蝴蝶也要发愁。",
+   "en": "Tomorrow the chrysanthemums will fade, and even the butterflies will grieve."
+  }
+ ],
+ "background": {
+  "zh": "一般认为这首词写于宋神宗元丰五年（1082年）的重阳节。那时苏轼因为“乌台诗案”被贬到黄州（今湖北黄冈），日子很不得意。黄州知州徐君猷对他很照顾。这一天两人在涵辉楼上登高喝酒，苏轼写了这首词送给他。重阳节有登高、饮酒、赏菊的习俗，词里都写到了。",
+  "en": "This ci is usually dated to the Double Ninth festival of 1082. At that time Su Shi had been sent away to Huangzhou, today's Huanggang in Hubei, after the Crow Terrace poetry case, and his life was hard. The governor of Huangzhou, Xu Junyou, treated him kindly. On this day the two climbed Hanhui Tower to drink, and Su Shi wrote this ci for him. On the Double Ninth people climb high places, drink wine and admire chrysanthemums, and all of these appear in the ci."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家。他因为写诗被人告发，差点丢了性命，后来被贬到黄州。在黄州的几年，他种地、交朋友、游山水，学会了看淡得失，写出了很多名作。这首词里“万事到头都是梦”的感叹，就带着那时的心情。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great Northern Song writer. He was accused over his poems, nearly lost his life, and was then sent away to Huangzhou. In his years there he farmed, made friends and roamed the hills and rivers, learning to take gains and losses lightly, and he wrote many famous works. His sigh in this ci that everything in the end is a dream carries the mood of those days."
+ },
+ "appreciation": {
+  "zh": "上片先写登楼看到的秋景：江水落了，浅绿的波纹一层层，远处沙洲露出来，清清爽爽。酒醒了，风吹过来凉凉的，可破帽子偏偏“恋头”，不肯被吹掉。古人孟嘉落帽是风流的佳话，苏轼却说帽子舍不得他，写得又幽默又有点心酸。下片说怎么过节：就喝一杯酒，把秋天送走吧。“万事到头都是梦，休休”，好像看开了，又好像有说不出的苦。最后一句最妙：今天的菊花正好看，过了明天，连蝴蝶都要为它发愁，所以要珍惜眼前。",
+  "en": "The first stanza shows the autumn view from the tower. The river has dropped, pale green ripples spread in layers, and a far sandbar shows, all clean and clear. The wine wears off and the wind blows cool, but the old hat stubbornly clings to his head. Long ago, Meng Jia losing his hat in the wind was a charming story. Su Shi says instead that his hat cannot bear to leave him, which is funny and a little sad at the same time. The second stanza asks how to spend the festival: just drink a cup and send autumn off. Everything ends as a dream, enough, enough. He sounds as if he has let go, yet there is pain he does not say. The last line is the best. Today the chrysanthemums are lovely, but after tomorrow even the butterflies will grieve for them, so enjoy what is here now."
+ },
+ "famous_lines": [
+  7,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [
+   "shuangjiang"
+  ],
+  "themes": [
+   "chrysanthemum",
+   "wine",
+   "life",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

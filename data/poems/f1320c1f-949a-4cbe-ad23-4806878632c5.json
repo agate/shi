@@ -1,0 +1,265 @@
+{
+ "id": "f1320c1f-949a-4cbe-ad23-4806878632c5",
+ "kind": "shi",
+ "title": "夜上受降城闻笛",
+ "title_en": "Hearing a Flute at Night on the Wall of Shouxiang City",
+ "author": "李益",
+ "author_en": "Li Yi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "烽",
+    "fēng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "受",
+    "shòu"
+   ],
+   [
+    "降",
+    "xiáng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "芦",
+    "lú"
+   ],
+   [
+    "管",
+    "guǎn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库里这首诗收作乐府《婆罗门》，作者记为杨敬述，第一句作“回乐峰”。通行本题为《夜上受降城闻笛》，作者李益，第一句作“回乐烽”（烽火台）。",
+  "en": "The corpus files this poem as the song \"Poluomen\" under the name Yang Jingshu, and its first line has the word for \"peak\" instead of \"beacon tower\". The common version is titled \"Hearing a Flute at Night on the Wall of Shouxiang City\", by Li Yi, with \"beacon tower\" in the first line."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "乐",
+   "pinyin": "lè",
+   "zh": "回乐是地名，乐读 lè。",
+   "en": "Huílè is a place name; this character is read lè here."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "降",
+   "pinyin": "xiáng",
+   "zh": "受降是“接受敌人投降”，降读 xiáng，不读 jiàng。",
+   "en": "Shòuxiáng means \"accepting the enemy's surrender\", so this character is read xiáng, not jiàng."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "尽是“全、都”的意思，读 jìn。",
+   "en": "Here it means \"all\", read jìn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "回乐烽：回乐县附近的烽火台。回乐县在今天宁夏灵武一带。烽火台是边境上放烟火报警的高台。",
+   "en": "huí lè fēng: a beacon tower near Huile County, around today's Lingwu in Ningxia. A beacon tower was a high tower on the border where soldiers lit fires to warn of attack."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "沙似雪：月光照着沙地，白得像雪一样。",
+   "en": "shā sì xuě: in the moonlight the sand looks as white as snow."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "受降城：唐朝在西北边境修的城，名叫受降城。这里一般认为指灵州一带的城。",
+   "en": "shòu xiáng chéng: Shouxiang City, a walled town the Tang built on the northwest border. Here it is usually taken to mean a town in the Lingzhou area."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "月如霜：月光冷冷的、白白的，像地上的霜。",
+   "en": "yuè rú shuāng: the moonlight is cold and white, like frost on the ground."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "芦管：用芦苇做的管子乐器，像笛子，声音悲凉。",
+   "en": "lú guǎn: a reed pipe, a flute-like instrument made from a reed, with a sad sound."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "征人：离家出征、守卫边疆的士兵。",
+   "en": "zhēng rén: soldiers sent far from home to guard the border."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "尽望乡：全都望向家乡的方向。",
+   "en": "jìn wàng xiāng: all of them gaze toward home."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "回乐县烽火台前的沙地，在月光下白得像雪。",
+   "en": "Before the beacon tower of Huile, the sand lies white as snow."
+  },
+  {
+   "zh": "受降城外的月光，冷得像一层霜。",
+   "en": "Outside the walls of Shouxiang City, the moonlight is like frost."
+  },
+  {
+   "zh": "不知道是从哪里传来了吹芦管的声音。",
+   "en": "From somewhere, no one knows where, comes the sound of a reed pipe."
+  },
+  {
+   "zh": "这一夜，守边的士兵全都望着家乡的方向。",
+   "en": "All night long, every soldier on the border looks toward home."
+  }
+ ],
+ "background": {
+  "zh": "这是一首边塞诗，写的是唐朝西北边境上守边士兵的思乡之情。李益多年在北方军队里做事，熟悉边塞的生活。具体写作年份不能确定。后来这首诗被配上乐曲《婆罗门》来唱，有的书就把它记在进献这支曲子的杨敬述名下，但一般认为作者是李益。",
+  "en": "This is a frontier poem. It is about the homesickness of soldiers guarding the Tang's northwest border. Li Yi worked in the army in the north for many years and knew frontier life well. The exact year it was written is not known. Later the poem was sung to a tune called \"Poluomen\", and some books list it under Yang Jingshu, the man who presented that tune to the court. But it is generally held to be by Li Yi."
+ },
+ "author_note": {
+  "zh": "李益（746—829），中唐诗人。他年轻时在边塞军中待了很长时间，所以写边塞的诗特别真切。他的七言绝句很有名，当时就被人配上曲子到处传唱。这首诗是他最有名的作品之一。",
+  "en": "Li Yi (746–829) was a poet of the middle Tang. As a young man he spent a long time with armies on the frontier, so his frontier poems feel very real. His seven-character quatrains were famous; people of his time set them to music and sang them everywhere. This is one of his best-known poems."
+ },
+ "appreciation": {
+  "zh": "前两句是一幅冷冷的夜景：沙地像雪，月光像霜，到处是一片白。没有一个“冷”字，却让人觉得浑身发冷，也让人觉得很孤单。第三句忽然传来芦管声，不知从哪里来，飘飘忽忽。最后一句不写声音有多悲，只写听的人：一整夜，所有士兵都望着家乡。一个“尽”字，说明想家的不是一个人，而是每一个人。从看到的景色，到听到的声音，再到心里的想念，一步一步，把思乡写得又静又深。",
+  "en": "The first two lines paint a cold night: the sand is like snow, the moonlight is like frost, and everything is white. The poem never says \"cold\", yet we feel chilled and alone. In the third line a reed pipe suddenly sounds, from nowhere anyone can tell, drifting on the air. The last line does not say how sad the music is. It shows the listeners instead: all night, every soldier looks toward home. The word \"all\" tells us that not one man but every man is homesick. Step by step, from what is seen, to what is heard, to what is felt, the poem makes homesickness quiet and deep."
+ },
+ "famous_lines": [
+  0,
+  1,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "homesick",
+   "moon",
+   "music",
+   "soldier"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>霜天晓角·梅 · 范成大 — 诗</title>
+    <meta name="description" content="霜天晓角·梅 · 范成大 — Shuang Tian Xiao Jiao: Plum Blossoms by Fan Chengda: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Song lyric · ci to the tune Shuang Tian Xiao Jiao, 43 characters in two stanzas</span><span lang="zh">宋词 · 词，词牌《霜天晓角》，双调四十三字</span></p>
+        <h1>霜天晓角·梅</h1>
+        <p class="by">范成大<span class="mono"><span lang="en">Fan Chengda · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Shuang Tian Xiao Jiao: Plum Blossoms</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>wǎn</i><b>晚</b></span><span class="c gl" data-l="0" data-p="1"><i>qíng</i><b>晴</b></span><span class="c gl" data-l="0" data-p="2"><i>fēng</i><b>风</b></span><span class="c gl" data-l="0" data-p="3"><i>xiē</i><b>歇</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>yī</i><b>一</b></span><span class="c" data-l="1" data-p="1"><i>yè</i><b>夜</b></span><span class="c gl" data-l="1" data-p="2"><i>chūn</i><b>春</b></span><span class="c gl" data-l="1" data-p="3"><i>wēi</i><b>威</b></span><span class="c gl" data-l="1" data-p="4"><i>zhé</i><b>折</b></span></p><p class="ln"><span class="c gl rd" data-l="2" data-p="0"><i>mò</i><b>脉</b></span><span class="c gl rd" data-l="2" data-p="1"><i>mò</i><b>脉</b></span><span class="c gl" data-l="2" data-p="2"><i>huā</i><b>花</b></span><span class="c gl" data-l="2" data-p="3"><i>shū</i><b>疏</b></span><span class="c gl" data-l="2" data-p="4"><i>tiān</i><b>天</b></span><span class="c gl" data-l="2" data-p="5"><i>dàn</i><b>淡</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>yún</i><b>云</b></span><span class="c gl" data-l="3" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="3" data-p="2"><i>qù</i><b>去</b></span><span class="c gl" data-l="3" data-p="3"><i>shù</i><b>数</b></span><span class="c gl" data-l="3" data-p="4"><i>zhī</i><b>枝</b></span><span class="c gl" data-l="3" data-p="5"><i>xuě</i><b>雪</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>shèng</i><b>胜</b></span><span class="c gl" data-l="4" data-p="1"><i>jué</i><b>绝</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="5" data-p="1"><i>yì</i><b>亦</b></span><span class="c gl" data-l="5" data-p="2"><i>jué</i><b>绝</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>cǐ</i><b>此</b></span><span class="c" data-l="6" data-p="1"><i>qíng</i><b>情</b></span><span class="c gl" data-l="6" data-p="2"><i>shuí</i><b>谁</b></span><span class="c gl" data-l="6" data-p="3"><i>gòng</i><b>共</b></span><span class="c gl" data-l="6" data-p="4"><i>shuō</i><b>说</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>wéi</i><b>惟</b></span><span class="c gl" data-l="7" data-p="1"><i>yǒu</i><b>有</b></span><span class="c" data-l="7" data-p="2"><i>liǎng</i><b>两</b></span><span class="c rd" data-l="7" data-p="3"><i>háng</i><b>行</b></span><span class="c gl" data-l="7" data-p="4"><i>dī</i><b>低</b></span><span class="c gl" data-l="7" data-p="5"><i>yàn</i><b>雁</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>zhī</i><b>知</b></span><span class="c" data-l="8" data-p="1"><i>rén</i><b>人</b></span><span class="c gl" data-l="8" data-p="2"><i>yǐ</i><b>倚</b></span><span class="c gl" data-l="8" data-p="3"><i>huà</i><b>画</b></span><span class="c gl" data-l="8" data-p="4"><i>lóu</i><b>楼</b></span><span class="c" data-l="8" data-p="5"><i>yuè</i><b>月</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">In the source corpus the last two characters of line two are swapped. Common editions read chun wei zhe, &quot;spring&#x27;s chill is broken&quot;, which is used here.</p><p lang="zh">原始资料第二句作“一夜春折威”，字的顺序颠倒了。通行本作“一夜春威折”，这里用通行本。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">晚晴风歇</span><span lang="en">In the evening the sky clears and the wind dies down.</span><span lang="zh">傍晚天晴了，风也停了。</span></li><li><span class="o">一夜春威折</span><span lang="en">In one night the cold of early spring has broken.</span><span lang="zh">一夜之间，早春的寒气退去了。</span></li><li><span class="o">脉脉花疏天淡</span><span lang="en">The plum flowers are sparse and silent, full of feeling, under a pale sky;</span><span lang="zh">梅花稀疏，默默含情，天色清淡，</span></li><li><span class="o">云来去数枝雪</span><span lang="en">clouds drift past, and a few branches bloom white as snow.</span><span lang="zh">云飘来飘去，露出几枝雪白的梅花。</span></li><li class="brk"><span class="o">胜绝</span><span lang="en">It is beautiful beyond words.</span><span lang="zh">美极了。</span></li><li><span class="o">愁亦绝</span><span lang="en">And the sorrow is just as deep.</span><span lang="zh">可心里的愁也到了极点。</span></li><li><span class="o">此情谁共说</span><span lang="en">Who is there to tell of this feeling?</span><span lang="zh">这份心情能和谁说呢？</span></li><li><span class="o">惟有两行低雁</span><span lang="en">Only the two lines of low-flying geese</span><span lang="zh">只有那两行低飞的大雁，</span></li><li><span class="o">知人倚画楼月</span><span lang="en">know that someone leans on the painted tower in the moonlight.</span><span lang="zh">知道有人在月下靠着画楼的栏杆。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>晚晴<span class="mono">wǎn qíng</span></dt><dd><span lang="en">wǎn qíng: the sky clears in the evening.</span><span lang="zh">晚晴：傍晚天放晴了。</span></dd></div><div><dt>风歇<span class="mono">fēng xiē</span></dt><dd><span lang="en">fēng xiē: the wind dies down.</span><span lang="zh">风歇：风停了。</span></dd></div><div><dt>春威折<span class="mono">chūn wēi zhé</span></dt><dd><span lang="en">chūn wēi zhé: the cold of early spring is broken. Chūn wēi means the bite of early spring&#x27;s cold; zhé means to snap or weaken.</span><span lang="zh">春威折：早春的寒气被打退了。春威，指初春时冷得厉害的那股劲。折，折断，减弱。</span></dd></div><div><dt>脉脉<span class="mono">mò mò</span></dt><dd><span lang="en">mò mò: silently, full of feeling.</span><span lang="zh">脉脉：默默地、含着情意的样子。</span></dd></div><div><dt>花疏<span class="mono">huā shū</span></dt><dd><span lang="en">huā shū: the plum flowers are few and scattered.</span><span lang="zh">花疏：梅花开得稀稀落落。</span></dd></div><div><dt>天淡<span class="mono">tiān dàn</span></dt><dd><span lang="en">tiān dàn: the sky is pale and clear.</span><span lang="zh">天淡：天色清淡。</span></dd></div><div><dt>云来去<span class="mono">yún lái qù</span></dt><dd><span lang="en">yún lái qù: clouds drift by.</span><span lang="zh">云来去：云飘来又飘走。</span></dd></div><div><dt>数枝雪<span class="mono">shù zhī xuě</span></dt><dd><span lang="en">shù zhī xuě: a few branches of plum flowers as white as snow.</span><span lang="zh">数枝雪：几枝像雪一样白的梅花。</span></dd></div><div><dt>胜绝<span class="mono">shèng jué</span></dt><dd><span lang="en">shèng jué: beautiful beyond compare. Shèng means fine; jué means to the utmost.</span><span lang="zh">胜绝：美到了极点。胜，美好；绝，到顶了。</span></dd></div><div><dt>愁亦绝<span class="mono">chóu yì jué</span></dt><dd><span lang="en">chóu yì jué: the sorrow too is at its height. Yì means also.</span><span lang="zh">愁亦绝：愁也到了极点。亦，也。</span></dd></div><div><dt>谁共说<span class="mono">shuí gòng shuō</span></dt><dd><span lang="en">shuí gòng shuō: who is there to share it with?</span><span lang="zh">谁共说：能和谁一起说呢？</span></dd></div><div><dt>惟有<span class="mono">wéi yǒu</span></dt><dd><span lang="en">wéi yǒu: only.</span><span lang="zh">惟有：只有。</span></dd></div><div><dt>低雁<span class="mono">dī yàn</span></dt><dd><span lang="en">dī yàn: wild geese flying low.</span><span lang="zh">低雁：飞得很低的大雁。</span></dd></div><div><dt>倚<span class="mono">yǐ</span></dt><dd><span lang="en">yǐ: to lean on.</span><span lang="zh">倚：靠着。</span></dd></div><div><dt>画楼<span class="mono">huà lóu</span></dt><dd><span lang="en">huà lóu: a painted tower.</span><span lang="zh">画楼：装饰着彩画的楼。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>脉<span class="mono">mò</span></dt><dd><span lang="en">Doubled here, this character is read mò mò, meaning quietly full of feeling, not mài as in pulse.</span><span lang="zh">“脉脉”读 mò mò，形容默默含情的样子，不读 mài。</span></dd></div><div><dt>脉<span class="mono">mò</span></dt><dd><span lang="en">As above, read mò.</span><span lang="zh">同上，读 mò。</span></dd></div><div><dt>行<span class="mono">háng</span></dt><dd><span lang="en">In liang hang this character is read háng, meaning a row or a line.</span><span lang="zh">“两行”的“行”读 háng，意思是一排、一列。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In common editions this ci is titled Plum Blossoms. It shows a scene of looking at plum flowers from an early spring evening into the night. The wind stops, the sky clears and the cold eases. A few branches of white plum bloom against the pale sky. The poet finds it beautiful beyond words, yet his sorrow is just as deep. The poem does not say why he is sad. It is usually read as missing someone far away. We do not know exactly when or where it was written.</p><p lang="zh">这首词通行本题作“梅”，写早春傍晚到夜里赏梅的情景。风停天晴，寒气退去，几枝白梅在淡淡的天色里开着。词人觉得美到了极点，心里却也愁到了极点。他为什么愁，词里没有说，一般理解为思念远方的人。写作的具体时间和地点不清楚。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Fan Chengda (1126–1193), styled Zhineng, called himself the Lay Buddhist of Stone Lake. He came from Wu County near Suzhou and was a Southern Song poet. He held high office and once went as an envoy to the Jin state, where he would not bow to the enemy. In old age he retired to Stone Lake at home and wrote many poems about country life. His ci are fresh and graceful, with finely drawn scenes.</p><p lang="zh">范成大（1126—1193），字致能，号石湖居士，苏州吴县人，南宋诗人。他做过大官，还曾出使金国，在敌人面前不肯低头。晚年他回到家乡石湖隐居，写了很多描写农村生活的田园诗。他的词清新秀丽，写景细腻。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first stanza is a soft, pale painting. In the evening the sky clears, the wind stops and the cold eases. The sky is pale, the plum flowers are few, and as a cloud passes, a few branches show white as snow. The word mò mò makes the flowers seem to have feelings of their own. Then the second stanza says suddenly: beautiful beyond words, and sorrow just as deep. The more lovely a sight is, the more it reminds us of the person who is not here to see it. But there is no one to tell. Only the two lines of geese flying low know that someone leans on the painted tower in the moonlight. From evening until the moon is up, the person stands there, and the loneliness shows little by little.</p><p lang="zh">上片是一幅淡淡的画：傍晚天晴，风停了，冷意退了。天色很淡，梅花开得很少，云一飘过，露出几枝像雪一样白的花。“脉脉”两个字，让梅花好像也有了心事。下片突然说“胜绝，愁亦绝”：景色美到极点，愁也到极点。越美的东西，越让人想起没能在身边一起看的人。可这份心情没人可说，只有天上低低飞过的两行大雁，知道有个人在月光下靠着画楼。从傍晚写到月出，人一直站在那里，孤单就这样一点点显出来。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/yumeiren-luohuayizuofengqianwu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>虞美人·落花已作风前舞</b></a><a href="../../p/cailianling-yuehuashou/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>采莲令·月华收</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["晚", "wǎn"], ["晴", "qíng"], ["风", "fēng"], ["歇", "xiē"]], [["一", "yī"], ["夜", "yè"], ["春", "chūn"], ["威", "wēi"], ["折", "zhé"]], [["脉", "mò"], ["脉", "mò"], ["花", "huā"], ["疏", "shū"], ["天", "tiān"], ["淡", "dàn"]], [["云", "yún"], ["来", "lái"], ["去", "qù"], ["数", "shù"], ["枝", "zhī"], ["雪", "xuě"]], [["胜", "shèng"], ["绝", "jué"]], [["愁", "chóu"], ["亦", "yì"], ["绝", "jué"]], [["此", "cǐ"], ["情", "qíng"], ["谁", "shuí"], ["共", "gòng"], ["说", "shuō"]], [["惟", "wéi"], ["有", "yǒu"], ["两", "liǎng"], ["行", "háng"], ["低", "dī"], ["雁", "yàn"]], [["知", "zhī"], ["人", "rén"], ["倚", "yǐ"], ["画", "huà"], ["楼", "lóu"], ["月", "yuè"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "晚晴：傍晚天放晴了。", "en": "wǎn qíng: the sky clears in the evening."}, {"line": 0, "start": 2, "end": 4, "zh": "风歇：风停了。", "en": "fēng xiē: the wind dies down."}, {"line": 1, "start": 2, "end": 5, "zh": "春威折：早春的寒气被打退了。春威，指初春时冷得厉害的那股劲。折，折断，减弱。", "en": "chūn wēi zhé: the cold of early spring is broken. Chūn wēi means the bite of early spring's cold; zhé means to snap or weaken."}, {"line": 2, "start": 0, "end": 2, "zh": "脉脉：默默地、含着情意的样子。", "en": "mò mò: silently, full of feeling."}, {"line": 2, "start": 2, "end": 4, "zh": "花疏：梅花开得稀稀落落。", "en": "huā shū: the plum flowers are few and scattered."}, {"line": 2, "start": 4, "end": 6, "zh": "天淡：天色清淡。", "en": "tiān dàn: the sky is pale and clear."}, {"line": 3, "start": 0, "end": 3, "zh": "云来去：云飘来又飘走。", "en": "yún lái qù: clouds drift by."}, {"line": 3, "start": 3, "end": 6, "zh": "数枝雪：几枝像雪一样白的梅花。", "en": "shù zhī xuě: a few branches of plum flowers as white as snow."}, {"line": 4, "start": 0, "end": 2, "zh": "胜绝：美到了极点。胜，美好；绝，到顶了。", "en": "shèng jué: beautiful beyond compare. Shèng means fine; jué means to the utmost."}, {"line": 5, "start": 0, "end": 3, "zh": "愁亦绝：愁也到了极点。亦，也。", "en": "chóu yì jué: the sorrow too is at its height. Yì means also."}, {"line": 6, "start": 2, "end": 5, "zh": "谁共说：能和谁一起说呢？", "en": "shuí gòng shuō: who is there to share it with?"}, {"line": 7, "start": 0, "end": 2, "zh": "惟有：只有。", "en": "wéi yǒu: only."}, {"line": 7, "start": 4, "end": 6, "zh": "低雁：飞得很低的大雁。", "en": "dī yàn: wild geese flying low."}, {"line": 8, "start": 2, "end": 3, "zh": "倚：靠着。", "en": "yǐ: to lean on."}, {"line": 8, "start": 3, "end": 5, "zh": "画楼：装饰着彩画的楼。", "en": "huà lóu: a painted tower."}], "readings": [{"line": 2, "pos": 0, "char": "脉", "pinyin": "mò", "zh": "“脉脉”读 mò mò，形容默默含情的样子，不读 mài。", "en": "Doubled here, this character is read mò mò, meaning quietly full of feeling, not mài as in pulse."}, {"line": 2, "pos": 1, "char": "脉", "pinyin": "mò", "zh": "同上，读 mò。", "en": "As above, read mò."}, {"line": 7, "pos": 3, "char": "行", "pinyin": "háng", "zh": "“两行”的“行”读 háng，意思是一排、一列。", "en": "In liang hang this character is read háng, meaning a row or a line."}], "speak": ["晚晴风歇", "一夜春威折", "脉脉花疏天淡", "云来去数枝雪", "胜绝", "愁亦绝", "此情谁共说", "惟有两航低雁", "知人倚画楼月"], "speakTitle": "霜天晓角，梅。范成大。", "sample": "晚晴风歇"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,367 @@
+{
+ "id": "9d33c118-cde9-49af-b572-c43427a10b48",
+ "kind": "shi",
+ "title": "巴山道中除夜书怀",
+ "title_en": "Thoughts on New Year's Eve on the Road through the Ba Mountains",
+ "author": "崔涂",
+ "author_en": "Cui Tu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "递",
+    "dì"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "巴",
+    "bā"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "羁",
+    "jī"
+   ],
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "身",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "异",
+    "yì"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ],
+   [
+    "肉",
+    "ròu"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "僮",
+    "tóng"
+   ],
+   [
+    "仆",
+    "pú"
+   ],
+   [
+    "亲",
+    "qīn"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "漂",
+    "piāo"
+   ],
+   [
+    "泊",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "新",
+    "xīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里用通行本。资料库的原文写作“迢遰”“羇危”，是“迢递”“羁危”的异体写法。第四句资料库作“孤烛异乡春”，通行本作“孤烛异乡人”；第七句“漂泊”有的本子作“飘泊”。这首诗在《唐诗三百首》里题为《除夜有怀》。",
+  "en": "This uses the common text. The corpus writes the first two words with older variant characters of the same words. In line four the corpus ends with \"spring\" where the common text has \"person\". Some editions write \"drifting\" in line seven with a different character. In Three Hundred Tang Poems the title is \"Thoughts on New Year's Eve\"."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "“那”在这里同“哪”，表示反问，读 nǎ。",
+   "en": "Here the character means \"how\", asking a question, so it is read nǎ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "迢递：路又远又长的样子。",
+   "en": "tiáo dì: far and long."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "三巴：巴郡、巴东、巴西三地的合称，大致在今天重庆和四川东部。",
+   "en": "sān bā: the Three Ba, an old name for three areas, roughly today's Chongqing and eastern Sichuan."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "羁危：寄居在外，处境艰难危险。",
+   "en": "jī wēi: living far from home in a hard and risky place."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "乱山：高低不齐、乱七八糟堆在一起的山。",
+   "en": "luàn shān: mountains piled every which way."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "残雪：还没化完的雪。",
+   "en": "cán xuě: snow left over, not yet melted."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "孤烛：一支孤零零的蜡烛。",
+   "en": "gū zhú: a single lonely candle."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "异乡人：在别的地方做客的人，这里是诗人自己。",
+   "en": "yì xiāng rén: a stranger in a far place, here the poet himself."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "骨肉：亲人，父母兄弟等。",
+   "en": "gǔ ròu: \"bone and flesh\", meaning close family."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "转：反而。",
+   "en": "zhuǎn: instead, on the contrary."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "僮仆：仆人，跟随的佣人。",
+   "en": "tóng pú: servants who travel along."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "那堪：哪里受得了。",
+   "en": "nǎ kān: how can one bear it."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "漂泊：像水上的东西一样四处流动，指在外面流浪，没有固定的家。",
+   "en": "piāo bó: drifting like something on water, wandering with no home."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "岁华新：新的一年开始了。岁华，时光、年华。",
+   "en": "suì huá xīn: a new year begins. Suì huá means the years, time itself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "走在三巴地区遥远又漫长的路上，",
+   "en": "On the long, far road through the Three Ba,"
+  },
+  {
+   "zh": "我离家万里，寄身在艰险的异地。",
+   "en": "I am ten thousand li from home, in a hard and risky place."
+  },
+  {
+   "zh": "四周是杂乱的群山，地上还有残雪，又是夜里，",
+   "en": "Mountains crowd all around, old snow lies on the ground, and it is night."
+  },
+  {
+   "zh": "只有一支孤烛，照着我这个异乡人。",
+   "en": "One lonely candle shines on me, a stranger here."
+  },
+  {
+   "zh": "离亲人越来越远，",
+   "en": "I am drifting farther and farther from my family,"
+  },
+  {
+   "zh": "反而和身边的仆人越来越亲近。",
+   "en": "and instead I grow closer to the servants with me."
+  },
+  {
+   "zh": "怎么受得了，正在外面漂泊流浪，",
+   "en": "How can I bear it, still wandering far from home,"
+  },
+  {
+   "zh": "明天又是新的一年了。",
+   "en": "when tomorrow a new year begins?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是除夕夜。除夕就是一年的最后一天，本该全家团圆。崔涂却独自走在巴山的路上，离家很远。巴山在今天四川、重庆一带，山路难走。他在路上过年，心里难受，就写下这首诗抒发心中的感慨。具体写于哪一年，已经不清楚了。",
+  "en": "This poem is about New Year's Eve, the last night of the year, when a family should be together. But Cui Tu was alone on a road through the Ba Mountains, far from home. The Ba Mountains are in today's Sichuan and Chongqing, and the roads there are hard. Spending the New Year on the road, he felt sad and wrote this poem to pour out his feelings. We no longer know the exact year he wrote it."
+ },
+ "author_note": {
+  "zh": "崔涂，晚唐诗人，生卒年不详，一般认为是江南人，光启四年（888年）考中进士。他一生多在外面漂泊，到过巴蜀、湖湘等很多地方，所以诗里常写旅途的孤独和思乡的愁苦。",
+  "en": "Cui Tu was a poet of the late Tang. We do not know when he was born or died. He is usually thought to have come from south of the Yangtze, and he passed the imperial exam in 888. He spent much of his life wandering, to Sichuan, Hunan and many other places. So his poems often tell of loneliness on the road and longing for home."
+ },
+ "appreciation": {
+  "zh": "开头两句说路远、身远：万里之外，处境又难。第三、四句是一幅画：夜里，乱山，残雪，一支孤烛，一个异乡人。没有一个“愁”字，却冷清得让人心酸。第五、六句写得很真：在外面久了，和家人越来越远，倒是天天在一起的仆人成了最亲的人。这是只有长年漂泊的人才有的体会。最后两句点出时间：明天就是新年了，我还在路上。别人在团圆，自己却在流浪，这份孤单就更深了。",
+  "en": "The first two lines say how far the road is and how far he is from home, in a hard place ten thousand li away. Lines three and four paint a picture: night, tangled mountains, old snow, one candle, one stranger. The word \"sad\" never appears, yet the scene is so cold and lonely it hurts. Lines five and six are very true to life. After so long away, he drifts from his family, and the servants he sees every day become the people closest to him. Only someone who has wandered for years would feel this. The last two lines name the time: tomorrow is the New Year, and he is still on the road. Others are together, while he wanders alone, and that makes the loneliness deeper."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [
+   "new-year-eve"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "travel",
+   "loneliness",
+   "new-year"
+  ]
+ },
+ "uncertain": []
+}

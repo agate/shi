@@ -1,0 +1,396 @@
+{
+ "id": "ci-b4793b410417",
+ "kind": "ci",
+ "title": "添字丑奴儿·窗前谁种芭蕉树",
+ "title_en": "Chou Nu Er, Extended: Who Planted the Banana Tree by My Window?",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "种",
+    "zhòng"
+   ],
+   [
+    "芭",
+    "bā"
+   ],
+   [
+    "蕉",
+    "jiāo"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ]
+  ],
+  [
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ]
+  ],
+  [
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "舒",
+    "shū"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "滴",
+    "dī"
+   ],
+   [
+    "霖",
+    "lín"
+   ],
+   [
+    "霪",
+    "yín"
+   ]
+  ],
+  [
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "滴",
+    "dī"
+   ],
+   [
+    "霖",
+    "lín"
+   ],
+   [
+    "霪",
+    "yín"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "损",
+    "sǔn"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "惯",
+    "guàn"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "听",
+    "tīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "语料题目作“添字丑奴儿·采桑子”。《丑奴儿》是《采桑子》的另一个名字，“添字”是说每段的结尾句多加了字。语料第五句写作“馀”，简体通行本写作“余”。",
+  "en": "The corpus title is \"Chou Nu Er, Extended / Cai Sang Zi\". Chou Nu Er is another name for the tune Cai Sang Zi, and \"extended\" means extra characters were added to the last line of each half. In line five the corpus uses an older form of the character yú; simplified editions use the common form."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "种",
+   "pinyin": "zhòng",
+   "zh": "这里的“种”是种植，是动作，读 zhòng，不读 zhǒng。",
+   "en": "Here the character means to plant, an action, so it is read zhòng, not zhǒng."
+  },
+  {
+   "line": 5,
+   "pos": 5,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "三更的“更”是夜里计时的单位，读 gēng。",
+   "en": "In sān gēng the character is a unit of night time, read gēng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "芭蕉：一种叶子很大很宽的植物，长在南方，样子有点像香蕉树。",
+   "en": "bā jiāo: a plant with huge, broad leaves that grows in the south, a bit like a banana tree."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "阴满中庭：芭蕉的绿荫铺满了整个院子。中庭，院子中间。",
+   "en": "yīn mǎn zhōng tíng: the banana tree's shade fills the whole courtyard. Zhōng tíng is the middle of the courtyard."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "叶叶心心：一片片叶子，一个个叶心。芭蕉新叶是卷着从中心长出来的。",
+   "en": "yè yè xīn xīn: leaf after leaf, heart after heart. New banana leaves grow rolled up from the center of the plant."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "舒卷：有的展开，有的卷着。舒，展开。",
+   "en": "shū juǎn: some leaves spread open, some still rolled. Shū means to unfold."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "有余情：好像有说不完的情意。",
+   "en": "yǒu yú qíng: as if full of feelings that never run out."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "三更：半夜，大约晚上十一点到凌晨一点。古人把一夜分成五更。",
+   "en": "sān gēng: the middle of the night, about 11 pm to 1 am. People then split the night into five watches."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "霖霪：下个不停的雨。霖、霪都是久雨的意思。",
+   "en": "lín yín: rain that will not stop. Both characters mean long, steady rain."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "愁损：愁坏了。损，伤害。",
+   "en": "chóu sǔn: worn down by sorrow. Sǔn means to harm."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "北人：北方人，词人自指。她本来住在北方，后来逃难到了南方。",
+   "en": "běi rén: a northerner, the poet herself. She came from the north and fled to the south."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "不惯：不习惯。北方很少这样的雨打芭蕉声。",
+   "en": "bù guàn: not used to it. In the north there was rarely such rain on banana leaves."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "窗前是谁种的芭蕉树？",
+   "en": "Who planted the banana tree outside my window?"
+  },
+  {
+   "zh": "它的绿荫铺满了院子。",
+   "en": "Its shade fills the courtyard."
+  },
+  {
+   "zh": "绿荫铺满了院子。",
+   "en": "Its shade fills the courtyard."
+  },
+  {
+   "zh": "一片片叶子，一个个叶心，",
+   "en": "Leaf after leaf, heart after heart,"
+  },
+  {
+   "zh": "有的展开有的卷着，好像有说不完的情意。",
+   "en": "some open, some rolled, as if full of feelings without end."
+  },
+  {
+   "zh": "半夜里躺在枕上，听着雨声，真让人伤心，",
+   "en": "Lying on my pillow at midnight, the rain breaks my heart,"
+  },
+  {
+   "zh": "雨点滴滴答答，下个不停。",
+   "en": "drip after drip, never stopping."
+  },
+  {
+   "zh": "滴滴答答，下个不停。",
+   "en": "Drip after drip, never stopping."
+  },
+  {
+   "zh": "愁坏了我这个北方来的人，",
+   "en": "It wears me down, a northerner far from home;"
+  },
+  {
+   "zh": "我听不惯，只好起来坐着听。",
+   "en": "I am not used to it, so I get up and sit and listen."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为写于李清照南渡以后。1127年金兵攻破北宋都城，她从北方逃到南方，丈夫赵明诚不久去世，她一个人四处漂泊。南方到处种着芭蕉，夜里雨打芭蕉的声音，让她这个北方人格外想家。具体写于哪一年，已经说不清了。",
+  "en": "This ci is usually thought to date from after Li Qingzhao fled south. In 1127 the Jin army took the Northern Song capital, and she escaped from the north to the south. Her husband Zhao Mingcheng died soon after, and she drifted from place to place alone. Banana trees grow everywhere in the south. The sound of night rain on their leaves made her, a northerner, miss home all the more. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，济南人，宋代最有名的女词人。她前半生生活安稳幸福，词写得活泼明快；后半生国破家亡，四处漂泊，词里多是愁苦。这首词就是她晚年的作品，用一棵芭蕉写出了思乡和孤独。",
+  "en": "Li Qingzhao (1084 to about 1155), also known as the Lay Buddhist Yi'an, came from Jinan. She is the most famous woman writer of ci in the Song dynasty. In the first half of her life she was safe and happy, and her ci were lively and bright. In the second half she lost her country and her home and drifted far away, and her ci turned sad. This is one of her later works, using one banana tree to show homesickness and loneliness."
+ },
+ "appreciation": {
+  "zh": "上片写白天。词人一开口就问：窗前的芭蕉是谁种的？好像在怪它，又好像在惊奇。芭蕉长得很茂盛，绿荫铺满院子，叶子有的展开有的卷着，好像有很多话要说。这里的“叶叶心心”，也像在说词人自己心事重重。下片写夜里。半夜下起雨来，雨点打在芭蕉的大叶子上，滴滴答答，一刻不停。词里把“阴满中庭”“点滴霖霪”各重复一遍，读起来就像雨声一样连绵不断。最后说出心里话：我是北方人，听不惯这种声音，只好起来坐着听。一个“北人”，把她失去家乡的痛全说出来了。",
+  "en": "The first half is daytime. She begins with a question: who planted this banana tree by my window? It sounds half like a complaint, half like surprise. The tree grows thick, its shade fills the courtyard, and its leaves, some open and some rolled, seem to have so much to say. \"Leaf after leaf, heart after heart\" also hints at her own heavy heart. The second half is night. Rain begins at midnight and drums on the big leaves, drip after drip, without a pause. Two lines are each sung twice, so the words keep going like the rain. At the end she says what she feels: I am a northerner, not used to this sound, so I just get up and listen. That one word, \"northerner\", carries all the pain of losing her home."
+ },
+ "famous_lines": [
+  5,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "homesick",
+   "loneliness",
+   "night",
+   "banana-tree"
+  ]
+ },
+ "uncertain": []
+}

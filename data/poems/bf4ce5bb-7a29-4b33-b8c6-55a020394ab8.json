@@ -1,0 +1,260 @@
+{
+ "id": "bf4ce5bb-7a29-4b33-b8c6-55a020394ab8",
+ "kind": "shi",
+ "title": "咏柳",
+ "title_en": "Ode to the Willow",
+ "author": "贺知章",
+ "author_en": "He Zhizhang",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "条",
+    "tiáo"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "绦",
+    "tāo"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "裁",
+    "cái"
+   ],
+   [
+    "出",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "剪",
+    "jiǎn"
+   ],
+   [
+    "刀",
+    "dāo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "课本读 shuí，口语里也常读 shéi。",
+   "en": "Textbooks read it shuí. In everyday speech it is often said shéi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "碧玉：青绿色的美玉，这里比喻柳树嫩绿的颜色。",
+   "en": "bì yù: green jade. Here it stands for the fresh green color of the willow."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "妆成：打扮成。",
+   "en": "zhuāng chéng: dressed up as."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "一树：整棵树，满树。",
+   "en": "yī shù: the whole tree."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "万条：成千上万根柳枝。",
+   "en": "wàn tiáo: thousands and thousands of willow branches."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "丝绦：用丝线编成的带子，这里比喻细长的柳枝。",
+   "en": "sī tāo: ribbons woven from silk thread. Here they stand for the long, thin willow branches."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "细叶：细细小小的柳叶。",
+   "en": "xì yè: the thin little willow leaves."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "裁出：用剪刀剪出来。",
+   "en": "cái chū: cut out with scissors."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "二月：农历二月，正是春天的中间。",
+   "en": "èr yuè: the second month of the lunar calendar, the middle of spring."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "似：好像。",
+   "en": "sì: like, as if."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "高高的柳树像用碧玉打扮出来的一样。",
+   "en": "The tall willow looks as if it were dressed up in green jade."
+  },
+  {
+   "zh": "千万根柳枝垂下来，像绿色的丝带。",
+   "en": "Thousands of branches hang down like green silk ribbons."
+  },
+  {
+   "zh": "不知道这细细的柳叶是谁剪出来的？",
+   "en": "Who cut out these thin little leaves, I wonder?"
+  },
+  {
+   "zh": "原来是二月的春风，它就像一把剪刀。",
+   "en": "It is the spring wind of the second month, sharp as a pair of scissors."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是早春的柳树。春天一到，柳树最先发芽，长出嫩绿的叶子，长长的柳枝垂下来，在风里轻轻摆动。贺知章抓住这个画面，用打比方的办法，把柳树、柳枝和柳叶都写得活灵活现。这首诗具体写于哪一年，已经无法确定。一说是他晚年回到家乡时写的，但没有确切证据。",
+  "en": "This poem is about a willow in early spring. When spring comes, willows are among the first trees to sprout. They grow fresh green leaves, and their long branches hang down and sway in the wind. He Zhizhang caught this picture and used comparisons to bring the tree, its branches and its leaves to life. We cannot be sure what year he wrote it. One view says he wrote it in old age after going back to his hometown, but there is no firm proof."
+ },
+ "author_note": {
+  "zh": "贺知章（659—744），唐代诗人，越州永兴（今浙江杭州萧山）人。他性格豪放，爱喝酒，自号“四明狂客”。他很欣赏李白，称李白为“谪仙人”。八十多岁时他辞官回乡，写下了有名的《回乡偶书》。",
+  "en": "He Zhizhang (659–744) was a Tang poet from Yongxing in Yuezhou, today's Xiaoshan in Hangzhou, Zhejiang. He was bold and free and loved wine, and called himself the Wild Man of Siming. He greatly admired Li Bai and called him an immortal sent down from heaven. In his eighties he left office and went home, and wrote the famous \"Coming Home\"."
+ },
+ "appreciation": {
+  "zh": "这首诗里全是比方。第一句把整棵柳树比成用碧玉打扮的美人，又绿又亮。第二句把垂下的柳枝比成绿色的丝带，让人想到它在风里飘呀飘。第三句忽然提了一个问题：这么细巧的叶子，是谁剪出来的？第四句自己回答：是二月的春风，它像一把剪刀。春风本来看不见、摸不着，诗人却说它会“剪”，好像一位手巧的裁缝。这样一问一答，春天的力量和美丽都变得看得见了。读完这首诗，你走过柳树时，也许会想起那把春风做的剪刀。",
+  "en": "This poem is made of comparisons. The first line compares the whole tree to a beauty dressed in green jade, bright and green. The second line compares the hanging branches to green silk ribbons, so we picture them floating in the breeze. The third line suddenly asks a question: who cut out such fine little leaves? The fourth line answers: the spring wind of the second month, which is like a pair of scissors. We cannot see or touch the spring wind, yet the poet says it can cut, like a skillful tailor. With this question and answer, the power and beauty of spring become something we can see. After reading this poem, when you walk past a willow, you may think of those scissors made of spring wind."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "willow",
+   "spring",
+   "wind",
+   "nature"
+  ]
+ },
+ "uncertain": []
+}

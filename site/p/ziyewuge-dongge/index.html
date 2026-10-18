@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>子夜吴歌·冬歌 · 李白 — 诗</title>
+    <meta name="description" content="子夜吴歌·冬歌 · 李白 — Midnight Song of Wu: Winter by Li Bai: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character old-style poem</span><span lang="zh">唐诗 · 五言古诗</span></p>
+        <h1>子夜吴歌·冬歌</h1>
+        <p class="by">李白<span class="mono"><span lang="en">Li Bai · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Midnight Song of Wu: Winter</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>míng</i><b>明</b></span><span class="c gl rd" data-l="0" data-p="1"><i>zhāo</i><b>朝</b></span><span class="c gl" data-l="0" data-p="2"><i>yì</i><b>驿</b></span><span class="c gl" data-l="0" data-p="3"><i>shǐ</i><b>使</b></span><span class="c gl" data-l="0" data-p="4"><i>fā</i><b>发</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>yī</i><b>一</b></span><span class="c" data-l="1" data-p="1"><i>yè</i><b>夜</b></span><span class="c gl" data-l="1" data-p="2"><i>xù</i><b>絮</b></span><span class="c gl" data-l="1" data-p="3"><i>zhēng</i><b>征</b></span><span class="c gl" data-l="1" data-p="4"><i>páo</i><b>袍</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>sù</i><b>素</b></span><span class="c gl" data-l="2" data-p="1"><i>shǒu</i><b>手</b></span><span class="c" data-l="2" data-p="2"><i>chōu</i><b>抽</b></span><span class="c" data-l="2" data-p="3"><i>zhēn</i><b>针</b></span><span class="c" data-l="2" data-p="4"><i>lěng</i><b>冷</b></span></p><p class="ln"><span class="c gl rd" data-l="3" data-p="0"><i>nǎ</i><b>那</b></span><span class="c gl" data-l="3" data-p="1"><i>kān</i><b>堪</b></span><span class="c gl" data-l="3" data-p="2"><i>bǎ</i><b>把</b></span><span class="c" data-l="3" data-p="3"><i>jiǎn</i><b>剪</b></span><span class="c" data-l="3" data-p="4"><i>dāo</i><b>刀</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>cái</i><b>裁</b></span><span class="c gl rd" data-l="4" data-p="1"><i>féng</i><b>缝</b></span><span class="c gl" data-l="4" data-p="2"><i>jì</i><b>寄</b></span><span class="c gl" data-l="4" data-p="3"><i>yuǎn</i><b>远</b></span><span class="c gl" data-l="4" data-p="4"><i>dào</i><b>道</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>jǐ</i><b>几</b></span><span class="c" data-l="5" data-p="1"><i>rì</i><b>日</b></span><span class="c" data-l="5" data-p="2"><i>dào</i><b>到</b></span><span class="c gl" data-l="5" data-p="3"><i>lín</i><b>临</b></span><span class="c gl" data-l="5" data-p="4"><i>táo</i><b>洮</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus title is &quot;Xianghe Song Lyrics: Midnight Songs of the Four Seasons, Winter&quot;. The common title is &quot;Midnight Song of Wu: Winter&quot;. The text is the same.</p><p lang="zh">语料题目作《相和歌辞·子夜四时歌四首·冬歌》，通行本题作《子夜吴歌·冬歌》，文字相同。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">明朝驿使发</span><span lang="en">Tomorrow morning the courier sets out.</span><span lang="zh">明天一早，送信的驿使就要出发了，</span></li><li><span class="o">一夜絮征袍</span><span lang="en">All night she pads a warm robe for her husband at war.</span><span lang="zh">她连夜给出征的丈夫赶絮棉袍。</span></li><li><span class="o">素手抽针冷</span><span lang="en">Her pale hands pull the needle, and they are icy cold.</span><span lang="zh">白净的手抽针引线，冻得冰凉，</span></li><li><span class="o">那堪把剪刀</span><span lang="en">How can she bear to hold the freezing scissors?</span><span lang="zh">又怎么握得住冰冷的剪刀？</span></li><li><span class="o">裁缝寄远道</span><span lang="en">She cuts and sews it and sends it far away.</span><span lang="zh">裁好缝好，寄往遥远的边关，</span></li><li><span class="o">几日到临洮</span><span lang="en">How many days until it reaches Lintao?</span><span lang="zh">要过多少天，才能送到临洮呢？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>明朝<span class="mono">míng zhāo</span></dt><dd><span lang="en">míng zhāo: tomorrow morning.</span><span lang="zh">明朝：明天早上。</span></dd></div><div><dt>驿使<span class="mono">yì shǐ</span></dt><dd><span lang="en">yì shǐ: a courier who carried letters and parcels between post stations, a bit like a mail carrier long ago.</span><span lang="zh">驿使：在驿站之间传送公文、包裹的差人，有点像古代的邮递员。</span></dd></div><div><dt>发<span class="mono">fā</span></dt><dd><span lang="en">fā: to set out.</span><span lang="zh">发：出发。</span></dd></div><div><dt>絮征袍<span class="mono">xù zhēng páo</span></dt><dd><span lang="en">xù zhēng páo: to pad a soldier&#x27;s robe with cotton. Xù means to stuff padding into clothes; zhēng páo is the robe worn by a soldier on campaign.</span><span lang="zh">絮征袍：往出征穿的棉袍里絮棉花。絮，往衣服里铺棉花。征袍，出征将士穿的袍子。</span></dd></div><div><dt>素手<span class="mono">sù shǒu</span></dt><dd><span lang="en">sù shǒu: pale, delicate hands, a woman&#x27;s hands.</span><span lang="zh">素手：白净的手，指女子的手。</span></dd></div><div><dt>那堪<span class="mono">nǎ kān</span></dt><dd><span lang="en">nǎ kān: how can one bear it?</span><span lang="zh">那堪：怎么受得了。</span></dd></div><div><dt>把<span class="mono">bǎ</span></dt><dd><span lang="en">bǎ: to hold, to grip.</span><span lang="zh">把：拿，握。</span></dd></div><div><dt>裁缝<span class="mono">cái féng</span></dt><dd><span lang="en">cái féng: to cut and sew.</span><span lang="zh">裁缝：裁剪和缝制。</span></dd></div><div><dt>寄远道<span class="mono">jì yuǎn dào</span></dt><dd><span lang="en">jì yuǎn dào: to send far away.</span><span lang="zh">寄远道：寄到遥远的地方去。</span></dd></div><div><dt>临洮<span class="mono">lín táo</span></dt><dd><span lang="en">lín táo: Lintao, a place in today&#x27;s Gansu, on the northwest frontier in Tang times. Here it stands for wherever her husband is guarding the border.</span><span lang="zh">临洮：地名，在今天甘肃，唐代是西北边防的地方，这里泛指丈夫守边的地方。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>朝<span class="mono">zhāo</span></dt><dd><span lang="en">zhāo: here it means morning, so it is read zhāo, not cháo. Míng zhāo means tomorrow morning.</span><span lang="zh">朝：这里读 zhāo，意思是早晨。明朝就是明天早上。</span></dd></div><div><dt>那<span class="mono">nǎ</span></dt><dd><span lang="en">nǎ: here it means how, asking a question that expects no, so it is read nǎ. Some read it nà.</span><span lang="zh">那：这里同“哪”，表示反问，读 nǎ。也有人读 nà。</span></dd></div><div><dt>缝<span class="mono">féng</span></dt><dd><span lang="en">féng: here it is the verb &quot;to sew&quot;, so it is read féng.</span><span lang="zh">缝：这里是动词“缝制”，读 féng。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">The Midnight Songs of Wu are a set of four poems Li Bai wrote in the style of southern folk songs, one for each season. This one is about winter. In the Tang dynasty, soldiers were often sent to guard the northwest frontier, and their families had to make their winter clothes and send them along. The woman in the poem hears that the courier leaves at dawn, so she works all night on a padded robe. The year the set was written is not known.</p><p lang="zh">《子夜吴歌》是李白仿照南方民歌写的一组诗，共四首，分别写春、夏、秋、冬。这首写冬天。唐代常常派兵守卫西北边疆，士兵的家人要自己给他们做冬衣，再托人送去。诗里的女子听说驿使明天一早就要出发，连夜赶做棉袍。这组诗具体写于哪一年，已经不清楚了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Bai (701 to 762) is one of the most famous Tang poets, called the Immortal of Poetry. He loved folk songs and often rewrote old song titles in his own way. The Midnight Songs of Wu began as folk songs of the Wu region in the south. Li Bai wrote one for each season: spring, summer, autumn and winter. The words are as plain as a folk song, but the feeling runs deep.</p><p lang="zh">李白（701—762），唐代最有名的诗人之一，人称“诗仙”。他很喜欢学习民歌，把老的乐府诗题拿来重新写。《子夜吴歌》本来是南方吴地的民歌，李白按春、夏、秋、冬各写了一首，语言像民歌一样明白好懂，感情却很深。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem has only six lines, yet it is like a small scene on a winter night. By the lamp a woman is rushing to finish her work. The courier leaves in the morning. If she misses him, her husband will freeze at the border. The night is so cold that even pulling the needle chills her hands, and holding the scissors is almost too much to bear. Still, she sews it stitch by stitch until it is done. In the last line she asks how many days it will take to reach Lintao. In that question there is worry that the robe will arrive too late, and longing for a husband so far away. The poet never says she misses him, but we can feel the cold in her hands and the hurry in her heart.</p><p lang="zh">这首诗只有六句，却像一个小小的冬夜镜头。灯下，一位女子在赶活：明早驿使就走了，错过这一次，丈夫就要在边关挨冻。夜里太冷了，她的手抽针都觉得冰，握剪刀更是冷得受不了。可她还是一针一线地缝完了。最后一句她问：要走几天，才能送到临洮呢？这一问里有担心，怕衣服到得太晚；也有思念，丈夫离她那么远。诗人没写一个“想”字，可是她手上的冷、心里的急，我们都能感觉到。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/wutizuoyexingchenzuoyefeng/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>无题（昨夜星辰昨夜风）</b></a><a href="../../p/tingdongdadanhujiashengjianjiyufanggeishi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>听董大弹胡笳声兼寄语房给事</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["明", "míng"], ["朝", "zhāo"], ["驿", "yì"], ["使", "shǐ"], ["发", "fā"]], [["一", "yī"], ["夜", "yè"], ["絮", "xù"], ["征", "zhēng"], ["袍", "páo"]], [["素", "sù"], ["手", "shǒu"], ["抽", "chōu"], ["针", "zhēn"], ["冷", "lěng"]], [["那", "nǎ"], ["堪", "kān"], ["把", "bǎ"], ["剪", "jiǎn"], ["刀", "dāo"]], [["裁", "cái"], ["缝", "féng"], ["寄", "jì"], ["远", "yuǎn"], ["道", "dào"]], [["几", "jǐ"], ["日", "rì"], ["到", "dào"], ["临", "lín"], ["洮", "táo"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "明朝：明天早上。", "en": "míng zhāo: tomorrow morning."}, {"line": 0, "start": 2, "end": 4, "zh": "驿使：在驿站之间传送公文、包裹的差人，有点像古代的邮递员。", "en": "yì shǐ: a courier who carried letters and parcels between post stations, a bit like a mail carrier long ago."}, {"line": 0, "start": 4, "end": 5, "zh": "发：出发。", "en": "fā: to set out."}, {"line": 1, "start": 2, "end": 5, "zh": "絮征袍：往出征穿的棉袍里絮棉花。絮，往衣服里铺棉花。征袍，出征将士穿的袍子。", "en": "xù zhēng páo: to pad a soldier's robe with cotton. Xù means to stuff padding into clothes; zhēng páo is the robe worn by a soldier on campaign."}, {"line": 2, "start": 0, "end": 2, "zh": "素手：白净的手，指女子的手。", "en": "sù shǒu: pale, delicate hands, a woman's hands."}, {"line": 3, "start": 0, "end": 2, "zh": "那堪：怎么受得了。", "en": "nǎ kān: how can one bear it?"}, {"line": 3, "start": 2, "end": 3, "zh": "把：拿，握。", "en": "bǎ: to hold, to grip."}, {"line": 4, "start": 0, "end": 2, "zh": "裁缝：裁剪和缝制。", "en": "cái féng: to cut and sew."}, {"line": 4, "start": 2, "end": 5, "zh": "寄远道：寄到遥远的地方去。", "en": "jì yuǎn dào: to send far away."}, {"line": 5, "start": 3, "end": 5, "zh": "临洮：地名，在今天甘肃，唐代是西北边防的地方，这里泛指丈夫守边的地方。", "en": "lín táo: Lintao, a place in today's Gansu, on the northwest frontier in Tang times. Here it stands for wherever her husband is guarding the border."}], "readings": [{"line": 0, "pos": 1, "char": "朝", "pinyin": "zhāo", "zh": "朝：这里读 zhāo，意思是早晨。明朝就是明天早上。", "en": "zhāo: here it means morning, so it is read zhāo, not cháo. Míng zhāo means tomorrow morning."}, {"line": 3, "pos": 0, "char": "那", "pinyin": "nǎ", "zh": "那：这里同“哪”，表示反问，读 nǎ。也有人读 nà。", "en": "nǎ: here it means how, asking a question that expects no, so it is read nǎ. Some read it nà."}, {"line": 4, "pos": 1, "char": "缝", "pinyin": "féng", "zh": "缝：这里是动词“缝制”，读 féng。", "en": "féng: here it is the verb \"to sew\", so it is read féng."}], "speak": ["明朝驿使发", "一夜絮征袍", "素手抽针冷", "那堪把剪刀", "裁缝寄远道", "几日到临洮"], "speakTitle": "子夜吴歌，冬歌。李白。", "sample": "明朝驿使发"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

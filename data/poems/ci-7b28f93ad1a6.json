@@ -1,0 +1,937 @@
+{
+ "id": "ci-7b28f93ad1a6",
+ "kind": "ci",
+ "title": "贺新郎·睡起流莺语",
+ "title_en": "To the Tune of He Xin Lang: Waking to the Orioles' Song",
+ "author": "叶梦得",
+ "author_en": "Ye Mengde",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调，一百一十六字",
+  "en": "ci lyric in two stanzas, 116 characters"
+ },
+ "lines": [
+  [
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "苔",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "房",
+    "fáng"
+   ],
+   [
+    "栊",
+    "lóng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "霭",
+    "ǎi"
+   ]
+  ],
+  [
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "暑",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "侵",
+    "qīn"
+   ]
+  ],
+  [
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "鸾",
+    "luán"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "遽",
+    "jù"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "粘",
+    "zhān"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "葡",
+    "pú"
+   ],
+   [
+    "萄",
+    "tao"
+   ],
+   [
+    "涨",
+    "zhǎng"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "蘋",
+    "pín"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "取",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "阻",
+    "zǔ"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "我",
+    "wǒ"
+   ]
+  ],
+  [
+   [
+    "唱",
+    "chàng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  13
+ ],
+ "text_note": {
+  "zh": "语料库首句作“睡起啼莺语”，第二句作“掩青苔”，第十一句作“尚有乘鸾女”，下阕作“浪黏天”“苹花”。这里按通行本作“流莺”“苍苔”“上有”“粘”“蘋花”。",
+  "en": "The corpus has slightly different words in a few places: a different word for the orioles in the first line, a different word for the green moss, a different first word in the line about the girl riding the phoenix, an older form of the character for sticking to the sky, and a simplified form of the duckweed flower. This page follows the common text in all of them."
+ },
+ "readings": [
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重寻，再一次寻找，“重”读 chóng。",
+   "en": "Here the word means to look for again, so the character is read chóng."
+  },
+  {
+   "line": 14,
+   "pos": 1,
+   "char": "粘",
+   "pinyin": "zhān",
+   "zh": "粘天，粘在天上，“粘”读 zhān。",
+   "en": "Here the word means to stick to the sky, so the character is read zhān."
+  },
+  {
+   "line": 15,
+   "pos": 1,
+   "char": "萄",
+   "pinyin": "tao",
+   "zh": "葡萄，现在一般读 pú tao，“萄”读轻声。",
+   "en": "In the word for grapes, the second character is usually read in the neutral tone today."
+  },
+  {
+   "line": 18,
+   "pos": 2,
+   "char": "蘋",
+   "pinyin": "pín",
+   "zh": "蘋花，一种水草开的白花。“蘋”读 pín，不读 píng。",
+   "en": "This is the white flower of a water plant. The character is read pín, not píng."
+  },
+  {
+   "line": 20,
+   "pos": 3,
+   "char": "与",
+   "pinyin": "yǔ",
+   "zh": "容与，慢悠悠地飘荡，“与”读 yǔ。",
+   "en": "Róng yǔ means drifting slowly; the second character is read yǔ."
+  },
+  {
+   "line": 24,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "为我，替我，“为”读 wèi。",
+   "en": "Here the word means for me, so the character is read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "流莺：飞来飞去的黄莺。",
+   "en": "liú yīng: orioles flitting about."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "掩：遮盖。",
+   "en": "yǎn: to cover."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "苍苔：青绿色的苔藓。",
+   "en": "cāng tái: green moss."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "房栊：窗户，也指房间。栊，窗上的格子。",
+   "en": "fáng lóng: windows, or the rooms. Lóng is the lattice of a window."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "向晚：快到傍晚。",
+   "en": "xiàng wǎn: near evening."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "乱红：纷纷落下的花瓣。",
+   "en": "luàn hóng: petals falling every which way."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "惟有：只有。",
+   "en": "wéi yǒu: only."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "垂杨：垂柳。",
+   "en": "chuí yáng: weeping willows."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "暖霭：暖暖的云气。",
+   "en": "nuǎn ǎi: a warm haze."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "轻暑：微微的暑热，指初夏。",
+   "en": "qīng shǔ: a light summer heat, that is, early summer."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "宝扇：精美的扇子，这里指团扇。",
+   "en": "bǎo shàn: a fine fan, here a round silk fan."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "明月影：团扇圆圆的，像明月一样。",
+   "en": "míng yuè yǐng: the round fan looks like a bright moon."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "暗尘侵：扇子上不知不觉落满了灰尘。",
+   "en": "àn chén qīn: dust has quietly settled on the fan."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 5,
+   "zh": "乘鸾女：扇面上画着骑着鸾鸟的仙女。鸾，传说中像凤凰一样的神鸟。",
+   "en": "chéng luán nǚ: a fairy girl riding a luan bird, painted on the fan. The luan is a magic bird like a phoenix."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "旧恨：过去的伤心事。",
+   "en": "jiù hèn: an old sorrow."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "遽如许：竟然一下子这么多。遽，突然。",
+   "en": "jù rú xǔ: so suddenly, so much. Jù means suddenly."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "梦断：梦醒了。",
+   "en": "mèng duàn: the dream is broken; one wakes up."
+  },
+  {
+   "line": 13,
+   "start": 5,
+   "end": 7,
+   "zh": "江渚：江中的小洲。",
+   "en": "jiāng zhǔ: a small island in the river."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 3,
+   "zh": "浪粘天：远远看去，浪头好像粘到了天上。",
+   "en": "làng zhān tiān: from far away, the waves seem to touch the sky."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "葡萄涨绿：江水涨起来，绿得像葡萄酒。李白有诗把汉水比作新酿的葡萄酒。",
+   "en": "pú tao zhǎng lǜ: the river rises, as green as grape wine. Li Bai once compared the Han River to new grape wine."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 7,
+   "zh": "沧波意：像无边的碧波一样深长的情意。",
+   "en": "cāng bō yì: feelings as deep and endless as the blue-green waves."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "蘋花：一种水草开的白花。古人常采它送给想念的人。",
+   "en": "pín huā: the white flowers of a water plant. People of old often picked them to send to someone they missed."
+  },
+  {
+   "line": 18,
+   "start": 4,
+   "end": 6,
+   "zh": "寄取：寄去。取，语气词。",
+   "en": "jì qǔ: to send. Qǔ here just softens the word."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 3,
+   "zh": "怅望：失落地远望。",
+   "en": "chàng wàng: to gaze into the distance, feeling lost."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "兰舟：船的美称。",
+   "en": "lán zhōu: magnolia boat, a fine name for a boat."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "容与：慢悠悠、停停走走的样子。",
+   "en": "róng yǔ: drifting slowly, stopping and going."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "云帆：远处的船帆，高得像在云里。",
+   "en": "yún fān: a far-off sail that seems to be among the clouds."
+  },
+  {
+   "line": 22,
+   "start": 1,
+   "end": 3,
+   "zh": "孤鸿：一只失群的大雁。",
+   "en": "gū hóng: a lone wild goose."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 2,
+   "zh": "目断：一直望到看不见为止。",
+   "en": "mù duàn: to gaze until one can see no further."
+  },
+  {
+   "line": 25,
+   "start": 1,
+   "end": 3,
+   "zh": "金缕：《金缕曲》，就是这个词牌《贺新郎》的另一个名字；一说指唐代的《金缕衣》，唱的是珍惜青春。",
+   "en": "jīn lǚ: the Golden Thread song, another name for this very tune, He Xin Lang. Another view says it means the Tang song Golden Thread Robe, about not wasting one's youth."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "睡醒起来，听见黄莺在叫。",
+   "en": "I wake and hear the orioles singing."
+  },
+  {
+   "zh": "青苔遮住了地面，",
+   "en": "Green moss covers the ground,"
+  },
+  {
+   "zh": "天快黑了，窗前",
+   "en": "evening is coming to the windows,"
+  },
+  {
+   "zh": "落下无数的花瓣。",
+   "en": "and countless petals have fallen."
+  },
+  {
+   "zh": "残花被风吹光了，也没人看见，",
+   "en": "The wind has blown the last flowers away, and no one saw,"
+  },
+  {
+   "zh": "只有垂柳自己在风中摇摆。",
+   "en": "only the weeping willows dance by themselves."
+  },
+  {
+   "zh": "暖暖的云气慢慢升起，",
+   "en": "Slowly a warm haze rises,"
+  },
+  {
+   "zh": "初夏的微热又回来了。",
+   "en": "and the light heat of early summer returns."
+  },
+  {
+   "zh": "我又找出那把像明月一样圆的团扇，",
+   "en": "I look again for the round fan, like a bright moon;"
+  },
+  {
+   "zh": "上面已经悄悄落满灰尘，",
+   "en": "dust has quietly settled on it,"
+  },
+  {
+   "zh": "扇面上还画着骑鸾鸟的仙女。",
+   "en": "and on it there is still the fairy riding the luan bird."
+  },
+  {
+   "zh": "一下子惊起了往日的伤心事，",
+   "en": "It wakes an old sorrow"
+  },
+  {
+   "zh": "没想到竟然这么多。",
+   "en": "so suddenly, and so much."
+  },
+  {
+   "zh": "梦里回到江南，醒来只见横在江中的小洲。",
+   "en": "In a dream I reached the south of the river; I wake to see an island lying across the stream."
+  },
+  {
+   "zh": "浪头高得像粘到了天上，",
+   "en": "The waves seem to stick to the sky,"
+  },
+  {
+   "zh": "江水涨起来，绿得像葡萄酒，",
+   "en": "the river rises, green as grape wine,"
+  },
+  {
+   "zh": "半空中都是烟雨。",
+   "en": "and mist and rain fill half the sky."
+  },
+  {
+   "zh": "楼前无边的碧波，就像我无尽的情意，",
+   "en": "The endless waves before the tower are like my endless longing."
+  },
+  {
+   "zh": "谁能替我采一枝蘋花寄给她？",
+   "en": "Who will pick the white water flowers and send them to her?"
+  },
+  {
+   "zh": "我只能失落地远望，",
+   "en": "I can only gaze out, lost,"
+  },
+  {
+   "zh": "看着小船慢悠悠地漂荡。",
+   "en": "watching a little boat drift slowly."
+  },
+  {
+   "zh": "万里外的船帆，什么时候才能到来？",
+   "en": "When will a sail from ten thousand miles away arrive?"
+  },
+  {
+   "zh": "我目送一只孤雁飞走，",
+   "en": "I watch a lone goose fly off"
+  },
+  {
+   "zh": "直到被千山挡住，再也看不见。",
+   "en": "until a thousand mountains block it from sight."
+  },
+  {
+   "zh": "有谁能为我",
+   "en": "Who will, for me,"
+  },
+  {
+   "zh": "唱一曲《金缕》？",
+   "en": "sing the Golden Thread song?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春到初夏的时节，一个人睡醒后看到落花满地，找出旧团扇，勾起了往日的伤心事，又思念远在江南的人。叶梦得这首词在当时就很有名。它是为谁、在什么时候写的，没有可靠的记载，一般认为是他早年的作品。",
+  "en": "This ci is set between late spring and early summer. Someone wakes to find fallen petals everywhere, takes out an old round fan, and old sorrows rush back, along with longing for someone far away in the south. This ci by Ye Mengde was already famous in his own time. There is no reliable record of whom it was written for or when; it is usually thought to be an early work."
+ },
+ "author_note": {
+  "zh": "叶梦得（1077—1148），字少蕴，号石林居士，苏州吴县人，生活在北宋末到南宋初。他做过不少大官，学问很好，留下《石林词》《石林诗话》等书。他早年的词清丽婉转，这首就是代表；后来经历战乱，词风变得更加豪迈。",
+  "en": "Ye Mengde (1077–1148), also called Shaoyun, came from Wu County near Suzhou. He lived from the end of the Northern Song into the Southern Song. He held many high posts and was very learned; his books include a collection of ci and a book of talks on poetry. His early ci are graceful and gentle, and this one is a classic example. After living through war, his later style became bolder."
+ },
+ "appreciation": {
+  "zh": "上阕写一个慵懒的傍晚：睡醒听见莺叫，地上青苔，窗前落花，残花被吹光了也没人看见，只有柳条自己在风里摇。这份冷清，就是心里的寂寞。天热了，找出团扇，扇上落满了灰，画着骑鸾鸟的仙女，一下子勾起旧日伤心事。小小一把扇子，让人想到被冷落的过去。下阕视野一下子打开：江水连天，碧绿如酒，烟雨蒙蒙。想采一枝蘋花寄给远方的人，却没人能替自己送去；望着远帆和孤雁，直到被千山挡住。最后问：谁为我唱一曲？把深深的思念和无人可诉的孤独留在空中。",
+  "en": "The first stanza shows a lazy evening. Someone wakes to orioles, green moss on the ground, petals by the window. The last flowers have blown away and no one saw; only the willows sway by themselves. This quiet emptiness is the loneliness inside. As the heat comes, out comes the round fan, now covered in dust, with its painted fairy on a luan bird, and old sorrows rush back. One small fan brings back a whole forgotten past. The second stanza opens wide: the river meets the sky, green as wine, with mist and rain. The speaker wants to send a water flower to someone far away, but no one can carry it. They watch a far sail and a lone goose until the mountains hide it. At the end comes the question: who will sing for me? The deep longing, and the loneliness of having no one to tell, hang in the air."
+ },
+ "famous_lines": [
+  14,
+  15,
+  16
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "loneliness",
+   "river",
+   "fallen-flowers"
+  ]
+ },
+ "uncertain": []
+}

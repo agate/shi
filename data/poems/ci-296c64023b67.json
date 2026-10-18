@@ -1,0 +1,397 @@
+{
+ "id": "ci-296c64023b67",
+ "kind": "ci",
+ "title": "天门谣·登采石峨眉亭",
+ "title_en": "Tian Men Yao: Climbing the Emei Pavilion at Caishi",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "牛",
+    "niú"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "险",
+    "xiǎn"
+   ]
+  ],
+  [
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "七",
+    "qī"
+   ],
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "豪",
+    "háo"
+   ],
+   [
+    "占",
+    "zhàn"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "敛",
+    "liǎn"
+   ]
+  ],
+  [
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "览",
+    "lǎn"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "滟",
+    "yàn"
+   ],
+   [
+    "滟",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "阿",
+    "ā"
+   ],
+   [
+    "滥",
+    "làn"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "槛",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "历",
+    "lì"
+   ],
+   [
+    "历",
+    "lì"
+   ],
+   [
+    "数",
+    "shǔ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "点",
+    "diǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "槛",
+   "pinyin": "jiàn",
+   "zh": "槛：栏杆，读 jiàn。读 kǎn 时是门槛的意思。",
+   "en": "Here the character means a railing and is read jiàn. Read kǎn, it means a doorsill."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "数",
+   "pinyin": "shǔ",
+   "zh": "历历数：一下一下清楚地数着。数是动词，读 shǔ。",
+   "en": "In lì lì shǔ (counting clearly one by one), the last character is a verb and is read shǔ, not shù."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "更点：打更报时的声音，更读 gēng。",
+   "en": "In gēng diǎn (the night-watch beats), the first character is read gēng, not gèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "牛渚：牛渚山，在今安徽马鞍山，山脚伸进长江的部分叫采石矶。",
+   "en": "niú zhǔ: Niuzhu Hill in today's Ma'anshan, Anhui. The rock that juts into the Yangtze below it is Caishi Point."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "天门：天门山，长江两岸两座山对立，像一道门。",
+   "en": "tiān mén: the Heaven's Gate Hills, two hills facing each other across the Yangtze like a gate."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "限南北：把南方和北方隔开。",
+   "en": "xiàn nán běi: dividing the south from the north."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 7,
+   "zh": "七雄豪占：许多英雄豪杰都曾占据这里。七雄，一般认为指在南方建都、靠长江防守的几个朝代；一说泛指历代争雄的势力。",
+   "en": "qī xióng háo zhàn: many strong rulers once held this place. The 'seven powers' are usually taken as the dynasties that ruled the south and relied on the Yangtze for defense; another view says it just means rival powers through history."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "敛：收起，散开。",
+   "en": "liǎn: to gather up and clear away."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "登览：登高观赏。",
+   "en": "dēng lǎn: to climb up and enjoy the view."
+  },
+  {
+   "line": 4,
+   "start": 6,
+   "end": 8,
+   "zh": "滟滟：水波闪闪发光的样子。",
+   "en": "yàn yàn: water sparkling and shimmering."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "塞管：羌笛，一种从西北边塞传来的笛子。",
+   "en": "sài guǎn: a frontier flute from the northwest."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "阿滥：曲子名，就是唐代的《阿滥堆》。",
+   "en": "ā làn: the name of a tune, the Tang song 'A Lan Dui'."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "槛：栏杆。",
+   "en": "jiàn: a railing."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "历历：一个一个清清楚楚。",
+   "en": "lì lì: clearly, one by one."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "西州：古城名，在今江苏南京。这里借指远处的城。",
+   "en": "xī zhōu: an old city in today's Nanjing, here meaning a city far off."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "更点：夜里打更报时的声音。",
+   "en": "gēng diǎn: the beats that told the hours of the night."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "牛渚山和天门山地势险要，",
+   "en": "Niuzhu and the Heaven's Gate Hills stand steep and dangerous,"
+  },
+  {
+   "zh": "把南北隔开，历代英雄都曾在这里争雄占据。",
+   "en": "dividing south from north; many great powers once fought to hold them."
+  },
+  {
+   "zh": "清晨的雾气散了，",
+   "en": "The clear mist lifts,"
+  },
+  {
+   "zh": "我和几个闲人一起登高游览。",
+   "en": "and I climb up with a few idle friends to take in the view."
+  },
+  {
+   "zh": "等到月亮升起，江潮平稳，水波闪闪发光，",
+   "en": "We wait for the moon to rise, the tide to calm, and the waves to shimmer,"
+  },
+  {
+   "zh": "有人轻轻吹起笛子，奏着新的《阿滥》曲。",
+   "en": "while someone softly plays a new 'A Lan' tune on a frontier flute."
+  },
+  {
+   "zh": "风吹满了亭子的栏杆，",
+   "en": "Wind fills the railings of the pavilion,"
+  },
+  {
+   "zh": "我一下一下清楚地数着远处城里传来的更声。",
+   "en": "and I count, one by one, the night-watch beats drifting from the distant city."
+  }
+ ],
+ "background": {
+  "zh": "采石矶在今安徽马鞍山，峨眉亭就建在矶上，从这里可以望见长江两岸的天门山。这里自古是长江上的险要关口。一般认为这首词是贺铸在太平州（今安徽当涂一带）做官时，登上峨眉亭写的，具体年份不能确定。他看到古来兵家必争的险地，如今只剩下他们这些闲人赏月听笛，心里生出很多感慨。",
+  "en": "Caishi Point is in today's Ma'anshan, Anhui. The Emei Pavilion was built on it, and from there one can see the Heaven's Gate Hills on both banks of the Yangtze. Since ancient times it was a key and dangerous pass on the river. This lyric is usually thought to come from the time He Zhu served as an official in Taiping prefecture, near today's Dangtu in Anhui. The exact year is not certain. Looking at a place armies once fought over, now visited only by idle men enjoying the moon and the flute, he was filled with feeling."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，号庆湖遗老，北宋词人。他长得高大，性格豪爽，有侠气，但一生只做过小官。他的词风格多样，既有豪放的，也有深情婉约的，以“梅子黄时雨”的名句被称为“贺梅子”。",
+  "en": "He Zhu (1052–1125) was a Northern Song lyric poet. He was tall, bold and chivalrous, yet held only small posts all his life. His lyrics come in many styles, some bold and some tender. Because of a famous line about rain when the plums turn yellow, he was nicknamed Plum He."
+ },
+ "appreciation": {
+  "zh": "上片开头气势很大：牛渚、天门，地势险要，把南北隔开，历代英雄都在这里争夺过。可是一转，雾散了，来登高的只是“闲人”。古代的刀光剑影和眼前的悠闲放在一起，让人感到时间的力量。下片写夜晚：月亮升起，潮水平了，波光闪闪，有人吹起笛子。风吹满栏杆，词人静静地数着远处城里的更声。他越写得安静，越让人觉得历史已经远去，只剩下江水、明月和更声。",
+  "en": "The first half opens with great force. Niuzhu and Heaven's Gate are steep and dangerous, dividing south from north, and great powers fought over them for ages. Then comes a turn: the mist clears, and those who climb up now are only idle men. Putting old battles beside today's ease makes us feel the power of time. The second half is at night. The moon rises, the tide calms, the waves sparkle, and someone plays a flute. Wind fills the railings, and the poet quietly counts the watch beats from the distant city. The quieter he makes it, the more we feel that history has gone far away, leaving only the river, the moon and the sound of the night watch."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "river",
+   "moon",
+   "climbing",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

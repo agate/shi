@@ -1,0 +1,872 @@
+{
+ "id": "ci-d88e1d6ad483",
+ "kind": "ci",
+ "title": "喜迁莺·晓行",
+ "title_en": "Xi Qian Ying: Setting Out at Dawn",
+ "author": "刘一止",
+ "author_en": "Liu Yizhi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《喜迁莺》，双调",
+  "en": "ci to the tune Xi Qian Ying, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ]
+  ],
+  [
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "惊",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "鸡",
+    "jī"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "觉",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "迤",
+    "yǐ"
+   ],
+   [
+    "逦",
+    "lǐ"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "村",
+    "cūn"
+   ]
+  ],
+  [
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "嘶",
+    "sī"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "薄",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "凝",
+    "níng"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "力",
+    "lì"
+   ],
+   [
+    "冲",
+    "chōng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "弱",
+    "ruò"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "禁",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "染",
+    "rǎn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "京",
+    "jīng"
+   ],
+   [
+    "洛",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "追",
+    "zhuī"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "重",
+    "chóng"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "托",
+    "tuō"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "幌",
+    "huǎng"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ]
+  ],
+  [
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "泊",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "烦",
+    "fán"
+   ],
+   [
+    "恼",
+    "nǎo"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "著",
+    "zhuó"
+   ]
+  ],
+  [
+   [
+    "这",
+    "zhè"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "减",
+    "jiǎn"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "恶",
+    "è"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "角",
+   "pinyin": "jiǎo",
+   "zh": "“角”在这里指号角，读 jiǎo。",
+   "en": "Here this character means a horn and is read jiǎo."
+  },
+  {
+   "line": 5,
+   "pos": 5,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“林薄”是茂密的草木，“薄”读 bó，不读 báo。",
+   "en": "In lín bó, thick woods and bushes, this character is read bó, not báo."
+  },
+  {
+   "line": 8,
+   "pos": 5,
+   "char": "禁",
+   "pinyin": "jīn",
+   "zh": "“不禁”是受不了、忍不住，“禁”读 jīn。",
+   "en": "In bù jīn, cannot bear, this character is read jīn."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重染”是再一次沾上，“重”读 chóng。",
+   "en": "In chóng rǎn, to be stained again, this character is read chóng."
+  },
+  {
+   "line": 11,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“万重”是一层又一层，“重”读 chóng。",
+   "en": "In wàn chóng, layer upon layer, this character is read chóng."
+  },
+  {
+   "line": 17,
+   "pos": 5,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”在这里同“着”，是经受、碰上的意思，读 zhuó。一说读 zháo。",
+   "en": "Here this character means to go through or meet with, and is read zhuó. Some read it zháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "晓光：天刚亮时的光。",
+   "en": "xiǎo guāng: the first light of dawn."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "催角：号角声一阵阵吹起，催人起床上路。",
+   "en": "cuī jiǎo: the horn sounds, urging people to get up and go."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "宿鸟：在树上过夜的鸟。",
+   "en": "sù niǎo: birds roosting for the night."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "未惊：还没被惊醒。",
+   "en": "wèi jīng: not yet woken up."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "先觉：先醒来，这里指先打鸣。",
+   "en": "xiān jué: wake up first; here, crow first."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "迤逦：曲曲折折、连绵不断的样子。",
+   "en": "yǐ lǐ: winding on and on."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "烟村：笼罩在晨雾里的村子。",
+   "en": "yān cūn: a village wrapped in morning mist."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "马嘶：马叫。",
+   "en": "mǎ sī: horses neighing."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "残月：快要落下去的月亮。",
+   "en": "cán yuè: the moon about to set."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "林薄：茂密的树林和草丛。",
+   "en": "lín bó: thick woods and bushes."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "微凝：稍稍结住了，这里指泪水快冻住了。",
+   "en": "wēi níng: slightly frozen; the tears are about to freeze."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "冲寒：抵挡寒冷。",
+   "en": "chōng hán: to fight off the cold."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "犹弱：还是太弱。",
+   "en": "yóu ruò: still too weak."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "倦客：走累了的旅人，指作者自己。",
+   "en": "juàn kè: a tired traveller, the poet himself."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 6,
+   "zh": "悄不禁：实在受不了。悄，很、简直。",
+   "en": "qiǎo bù jīn: really cannot bear it. Qiǎo here means quite, simply."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "风尘：旅途上的风和尘土，也指奔波的辛苦。",
+   "en": "fēng chén: the wind and dust of the road; the hardship of travel."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "京洛：本指洛阳，后来泛指京城。",
+   "en": "jīng luò: first meant Luoyang, later the capital in general."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "追念：回想。",
+   "en": "zhuī niàn: to think back on."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "心事万重：心里的事一层又一层，很多很多。",
+   "en": "xīn shì wàn chóng: worries piled layer on layer."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 2,
+   "zh": "觅：找。",
+   "en": "mì: to look for."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 5,
+   "zh": "孤鸿托：托一只孤雁捎信。古人说大雁能传书信。",
+   "en": "gū hóng tuō: ask a lone wild goose to carry a letter. People of old said geese could carry letters."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "翠幌：绿色的帘幕。",
+   "en": "cuì huǎng: green curtains."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "娇深：心爱的人住在深深的屋里。",
+   "en": "jiāo shēn: the loved one living deep inside the house."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "曲屏：可以折起来的屏风。",
+   "en": "qū píng: a folding screen."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "争念：怎么会想到。争，怎么。",
+   "en": "zhēng niàn: how could she think of. Zhēng here means how."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "岁寒：一年中最冷的时候。",
+   "en": "suì hán: the coldest time of the year."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 6,
+   "zh": "飘泊：到处流浪，没有安定的地方。",
+   "en": "piāo bó: drifting from place to place with no home."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "怨月恨花：对着月亮和花生出的怨恨，指相思的愁。",
+   "en": "yuàn yuè hèn huā: resenting the moon and the flowers; the sorrow of missing someone."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "经著：经历过、尝到过。",
+   "en": "jīng zhuó: to have gone through, to have tasted."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "情味：心里的滋味。",
+   "en": "qíng wèi: the feeling in one's heart."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 3,
+   "zh": "一成：宋代口语，渐渐地。一说是“一下子”。",
+   "en": "yī chéng: a Song-era spoken phrase meaning little by little. Some say it means all at once."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "新来：近来，最近。",
+   "en": "xīn lái: lately."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "还恶：反而更难受了。恶，坏、厉害。",
+   "en": "hái è: has got even worse. È means bad, severe."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天刚亮，号角声就催人起身。",
+   "en": "At first light, the horn urges me to rise."
+  },
+  {
+   "zh": "我听见树上过夜的鸟还没被惊醒，",
+   "en": "I hear the roosting birds have not yet woken,"
+  },
+  {
+   "zh": "邻家的鸡却先叫了起来。",
+   "en": "but the neighbour's rooster crows first."
+  },
+  {
+   "zh": "远处村子连成一片，笼在雾里，",
+   "en": "Villages stretch away, wrapped in mist."
+  },
+  {
+   "zh": "马在嘶叫，人们起身上路，",
+   "en": "Horses neigh and people get up."
+  },
+  {
+   "zh": "快落的月亮还在树林草丛间穿行。",
+   "en": "The setting moon still slips through the thick woods."
+  },
+  {
+   "zh": "脸上的泪痕带着霜，快要冻住了，",
+   "en": "The tear marks on my face, touched with frost, begin to freeze."
+  },
+  {
+   "zh": "喝下的酒想挡住寒气，力气还是太小。",
+   "en": "The wine I drank is too weak to fight the cold."
+  },
+  {
+   "zh": "可叹我这个疲倦的旅人，实在受不了，",
+   "en": "Alas, I, a weary traveller, can hardly bear it,"
+  },
+  {
+   "zh": "又一次沾上了奔波去京城的风尘。",
+   "en": "to take on again the dust of the road to the capital."
+  },
+  {
+   "zh": "回想和她分别以后，",
+   "en": "I think back to the time since we parted."
+  },
+  {
+   "zh": "心事一层又一层，",
+   "en": "My worries pile up, layer on layer,"
+  },
+  {
+   "zh": "想托孤雁捎封信都找不到。",
+   "en": "and I cannot find a lone goose to carry a letter."
+  },
+  {
+   "zh": "她住在绿帘深处，",
+   "en": "She lives deep behind green curtains,"
+  },
+  {
+   "zh": "屏风后面又香又暖，",
+   "en": "warm and fragrant behind a folding screen."
+  },
+  {
+   "zh": "怎会想到我在寒冬里四处漂泊？",
+   "en": "How could she think of me, drifting in the winter cold?"
+  },
+  {
+   "zh": "对月对花生出的相思烦恼，",
+   "en": "The sorrow of longing, felt before the moon and flowers,"
+  },
+  {
+   "zh": "我不是没有尝过。",
+   "en": "is not something I have never tasted."
+  },
+  {
+   "zh": "这种滋味，",
+   "en": "This feeling,"
+  },
+  {
+   "zh": "本希望它慢慢变淡，",
+   "en": "I hoped it would slowly fade,"
+  },
+  {
+   "zh": "没想到最近反而更厉害了。",
+   "en": "but lately it has grown even worse."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一个出门在外的人，天还没亮就动身赶路。题目“晓行”就是清早上路的意思。词里的“京洛”本来指古代的都城，这里泛指京城。具体写于哪一年、去什么地方，现在说不清楚。相传这首词写出来后，在京城里很流行，人们因此叫刘一止“刘晓行”。",
+  "en": "This ci is about a traveller who sets off before dawn. The title, Xiao Xing, means setting out early in the morning. Jing Luo in the poem first meant the old capitals, and here just means the capital. We do not know the year it was written or where the traveller was going. It is said that the ci became very popular in the capital, and people started calling Liu Yizhi \"Liu Xiaoxing\", Liu of the Dawn Journey."
+ },
+ "author_note": {
+  "zh": "刘一止（1078—1161），字行简，湖州归安（今浙江湖州）人，北宋末年考中进士，南宋时做过给事中等官。他为人正直，诗文都写得好。他的词留下来的不多，这首《喜迁莺》是最有名的一首。",
+  "en": "Liu Yizhi (1078–1161) came from Gui'an in Huzhou, in today's Zhejiang. He passed the top civil exam at the end of the Northern Song and later served as an official in the Southern Song. He was known as an upright man and a good writer. Few of his ci survive, and this one is the most famous."
+ },
+ "appreciation": {
+  "zh": "上片写路上的景。号角声催人起床，鸟还在睡，鸡先叫了。远处的村子笼着雾，马在叫，人在动，一弯残月还挂在树林间。脸上的泪痕结了霜，喝下去的酒也挡不住寒气。这些细节让人好像也站在冷冷的清晨里。下片转到心里：他想念家中的人，想托大雁捎信却找不到。家里帘幕温暖，她怎么知道我在寒风里漂泊？最后说，本想这份愁慢慢变淡，没想到最近反而更厉害了。语言很口语，感情却很真。",
+  "en": "The first stanza shows the road. A horn calls people up. The birds are still asleep, but the rooster crows first. Far off, a village sits in mist. Horses neigh, people stir, and a thin moon still hangs among the trees. Tear marks on his face freeze with frost, and the wine he drank cannot keep out the cold. These small details put us in that chilly dawn too. The second stanza turns inward. He misses someone at home and wants a wild goose to carry a letter, but finds none. Her room is warm behind green curtains. How could she know he is wandering in the cold? At last he says he hoped the sadness would slowly fade, but lately it has only grown worse. The words are plain and close to speech, and the feeling is true."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "dawn",
+   "longing",
+   "love"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,266 @@
+{
+ "id": "sup-qingming",
+ "kind": "shi",
+ "title": "清明",
+ "title_en": "Qingming",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "纷",
+    "fēn"
+   ]
+  ],
+  [
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "有",
+    "yǒu"
+   ]
+  ],
+  [
+   [
+    "牧",
+    "mù"
+   ],
+   [
+    "童",
+    "tóng"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "指",
+    "zhǐ"
+   ],
+   [
+    "杏",
+    "xìng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "村",
+    "cūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "行",
+   "pinyin": "xíng",
+   "zh": "行人是“走路的人”，行读 xíng。",
+   "en": "Xíng rén means \"people on the road\", so this character is read xíng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "清明：二十四节气之一，也是传统节日，在每年公历4月5日前后。这一天人们要去给去世的亲人扫墓。",
+   "en": "qīng míng: Qingming, one of the twenty-four solar terms and also a traditional festival, around April 5 each year. On this day people visit and sweep the graves of family members who have died."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "纷纷：多而杂乱的样子，这里形容细雨下个不停。",
+   "en": "fēn fēn: many and thick; here, a fine rain that keeps falling."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "行人：走在路上的人，这里也包括离家在外的人。",
+   "en": "xíng rén: people on the road, including those far from home."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "欲断魂：形容非常伤心、心神不安，好像魂都要离开身体了。",
+   "en": "yù duàn hún: so sad and troubled it is as if the soul might leave the body."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "借问：请问。",
+   "en": "jiè wèn: may I ask."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "酒家：卖酒的店，小酒馆。",
+   "en": "jiǔ jiā: a wine shop, a small tavern."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "牧童：放牛的孩子。",
+   "en": "mù tóng: a boy who herds cattle."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "遥指：指向远处。",
+   "en": "yáo zhǐ: points into the distance."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "杏花村：杏花开放的村子。这里不一定是一个真实的地名。",
+   "en": "xìng huā cūn: a village where apricot trees are in bloom. It is not necessarily a real place name."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清明节这几天，细雨下个不停，",
+   "en": "In the days of Qingming, a fine rain keeps falling;"
+  },
+  {
+   "zh": "路上的行人心里难过极了。",
+   "en": "the people on the road are sad enough to lose their souls."
+  },
+  {
+   "zh": "请问哪里有小酒馆可以歇一歇？",
+   "en": "May I ask where there is a tavern to rest in?"
+  },
+  {
+   "zh": "放牛的孩子指了指远处那个杏花盛开的村子。",
+   "en": "The herd boy points far off to a village among apricot blossoms."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是清明节时的情景。清明前后常下细雨，又是给亲人扫墓的日子，在外赶路的人看到这些，心里更加难过。这首诗不见于杜牧自己的诗集，最早见于宋代的书里，后来宋人编的《千家诗》把它记在杜牧名下。所以一说它不是杜牧写的，但课本上一般写作杜牧。写作年份不清楚。",
+  "en": "This poem shows a scene at Qingming. Around Qingming a fine rain often falls, and it is the time to sweep the graves of loved ones, so a traveler far from home feels even sadder. The poem is not in Du Mu's own collected works. It first appears in books of the Song dynasty, and later the Song anthology \"Poems of a Thousand Poets\" put it under Du Mu's name. So some say it is not by Du Mu, but textbooks usually give him as the author. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），晚唐诗人，字牧之。他和李商隐并称“小李杜”。他的七言绝句写得特别好，语言清新，画面鲜明，常常几笔就把一个场景写活了，比如《山行》《江南春》。",
+  "en": "Du Mu (803–852) was a poet of the late Tang. He and Li Shangyin are called the \"Little Li and Du\", after the great Li Bai and Du Fu. He was especially good at seven-character quatrains. His words are fresh and his pictures are clear, and with a few strokes he could bring a scene to life, as in \"Mountain Walk\" and \"Spring South of the River\"."
+ },
+ "appreciation": {
+  "zh": "第一句写天气：清明时节，细雨一直下。第二句写人：路上的行人又湿又冷，又想起去世的亲人，难过得像丢了魂。第三句一问，心情有了一点变化：找个酒馆歇歇脚，喝口酒暖暖身子吧。最后一句最有画面感：牧童不说话，只是抬手一指，远处的雨雾里，有一片粉白的杏花，杏花里有个村子。诗写到这里就停了，酒馆什么样、行人去没去，都留给我们去想。这首诗读起来很顺口，从古到今，一到清明，大家都会想起它。",
+  "en": "The first line gives the weather: at Qingming, a fine rain keeps falling. The second line gives the people: travelers on the road are wet and cold, and they think of loved ones who have died, so sad they seem to lose their souls. The third line asks a question, and the mood shifts a little: let me find a tavern, rest my feet, and warm up with some wine. The last line is the most vivid. The herd boy says nothing; he just lifts his hand and points. Far off in the misty rain is a cloud of pinkish-white apricot blossoms, and in it, a village. The poem stops there. What the tavern looks like, whether the traveler goes, is left for us to imagine. The poem is easy to say aloud, and for centuries, every Qingming, people have remembered it."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "qingming"
+  ],
+  "solar_terms": [
+   "qingming"
+  ],
+  "themes": [
+   "rain",
+   "festival",
+   "travel",
+   "apricot-blossom"
+  ]
+ },
+ "uncertain": []
+}

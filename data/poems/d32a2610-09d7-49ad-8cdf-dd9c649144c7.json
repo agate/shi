@@ -1,0 +1,391 @@
+{
+ "id": "d32a2610-09d7-49ad-8cdf-dd9c649144c7",
+ "kind": "shi",
+ "title": "风雨",
+ "title_en": "Wind and Rain",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "剑",
+    "jiàn"
+   ],
+   [
+    "篇",
+    "piān"
+   ]
+  ],
+  [
+   [
+    "羁",
+    "jī"
+   ],
+   [
+    "泊",
+    "bó"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "仍",
+    "réng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "弦",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "遭",
+    "zāo"
+   ],
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "俗",
+    "sú"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "良",
+    "liáng"
+   ],
+   [
+    "缘",
+    "yuán"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "丰",
+    "fēng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "千",
+    "qiān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "泊",
+   "pinyin": "bó",
+   "zh": "“羁泊”是漂泊在外，“泊”读 bó，不读 pō。",
+   "en": "Here it means drifting far from home, so it is read bó, not pō."
+  },
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄俗”是浅薄的风气，书面词语里读 bó。",
+   "en": "In the written word bó sú, shallow customs, it is read bó."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "“斗”是量酒的器具、量词，读 dǒu，不读 dòu。",
+   "en": "Here it is a measure for wine, so it is read dǒu, not dòu."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "凄凉：冷清悲伤。",
+   "en": "qī liáng: lonely and sad."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "宝剑篇：唐初郭震写过一首《宝剑篇》，武则天读了很欣赏，提拔了他。诗人用它比自己的诗文，可惜没人赏识。",
+   "en": "bǎo jiàn piān: the \"Song of the Precious Sword\". Early in the Tang, Guo Zhen wrote it, and Empress Wu Zetian liked it so much she promoted him. The poet compares his own writing to it: just as good, but no one notices."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "羁（jī）泊：在外漂泊，回不了家。",
+   "en": "jī bó: wandering far from home, unable to settle."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "穷年：一年到头，也指一辈子。",
+   "en": "qióng nián: all year long; also, all one's life."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "仍：又，还要。",
+   "en": "réng: still, on top of that."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "青楼：这里指富贵人家漂亮的楼房。",
+   "en": "qīng lóu: here, the fine houses of rich families."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "管弦：吹的乐器和弹的乐器，这里指奏乐、宴会。",
+   "en": "guǎn xián: wind and string instruments; here, music and parties."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "新知：新结识的朋友。",
+   "en": "xīn zhī: new friends, people one has just met."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "薄俗：浅薄、势利的社会风气。",
+   "en": "bó sú: shallow, snobbish ways of the world."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "旧好：老朋友。",
+   "en": "jiù hǎo: old friends."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "隔良缘：好的缘分被隔断了，见不着，帮不上。",
+   "en": "gé liáng yuán: the good bond is cut off; they cannot meet or help."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "心断：心里已经不再指望了。",
+   "en": "xīn duàn: the heart has given up hope."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "新丰酒：唐初马周没出名时，住在新丰的旅店里被人冷落，就独自喝酒。后来唐太宗重用了他。诗人说自己连这样的好运都不敢指望了。",
+   "en": "xīn fēng jiǔ: the wine of Xinfeng. Before he was famous, Ma Zhou was ignored at an inn in Xinfeng and drank alone; later Emperor Taizong gave him high office. The poet says he no longer hopes for such luck."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "销愁：消除忧愁。",
+   "en": "xiāo chóu: to drive away sorrow."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "斗几千：一斗酒要几千钱。古诗常说好酒“斗十千”。这里是问：要喝多少钱的酒才能消愁？",
+   "en": "dǒu jǐ qiān: a measure of wine that costs thousands of coins. Old poems say good wine cost ten thousand a measure. Here he asks: how much wine would it take to drown this sorrow?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我写了像《宝剑篇》一样的诗文，却只落得冷清悲凉，",
+   "en": "I wrote words as fine as the \"Song of the Precious Sword\", yet I am left lonely and sad,"
+  },
+  {
+   "zh": "在外漂泊，眼看一年又要到头。",
+   "en": "drifting far from home as another year nears its end."
+  },
+  {
+   "zh": "我像枯黄的树叶，还要遭受风吹雨打，",
+   "en": "Like a yellow leaf, I am still beaten by wind and rain,"
+  },
+  {
+   "zh": "富贵人家的楼里，却照样奏着音乐。",
+   "en": "while in the fine houses of the rich, the music plays on."
+  },
+  {
+   "zh": "新交的朋友，碰上势利的风气，变得冷淡；",
+   "en": "My new friends have turned cold, caught up in the shallow ways of the world;"
+  },
+  {
+   "zh": "老朋友呢，又被隔开，再难相聚。",
+   "en": "my old friends are cut off from me, and we cannot meet."
+  },
+  {
+   "zh": "我不再指望像马周那样在新丰喝酒后交上好运，",
+   "en": "I no longer hope for luck like Ma Zhou's after his wine at Xinfeng;"
+  },
+  {
+   "zh": "只想知道，一斗消愁的酒要花几千钱？",
+   "en": "I only wonder how many thousands a measure of wine would cost to drown my sorrow."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是李商隐在外漂泊、很不得志的时候写的。题目叫《风雨》，不只是写天气，也比喻他人生里遇到的种种打击。具体写于哪一年，说法不一，一说是他晚年在外做幕僚的时候。“幕僚”就是在地方长官手下做事的助手。",
+  "en": "Li Shangyin wrote this poem while drifting from place to place, with no success in his career. The title \"Wind and Rain\" is not only about the weather; it also stands for the hard blows in his life. Scholars disagree about the year. One view says it was late in his life, when he worked as an assistant to officials far from the capital."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人，和杜牧并称“小李杜”。他很有才华，却夹在朝廷两派官员的争斗里，一辈子做小官，四处漂泊。他的诗爱用典故，感情深沉。这首诗用了郭震、马周两个人的故事，说别人有才能得到重用，自己却没有这样的机会。",
+  "en": "Li Shangyin (about 813 to about 858) was a great poet of the late Tang, named together with Du Mu. He was very gifted, but he was caught between two quarrelling groups at court. All his life he held small posts and moved from place to place. His poems often use old stories and carry deep feeling. Here he uses the stories of Guo Zhen and Ma Zhou: talented men who were noticed and promoted, while he never had such a chance."
+ },
+ "appreciation": {
+  "zh": "第一句就点出心事：自己有才华，却没人赏识。中间四句是全诗的中心。“黄叶仍风雨，青楼自管弦”把两样东西放在一起比：一边是风雨里的枯叶，一边是富人家里的音乐。枯叶就是诗人自己，越对比越显得凄凉。接着说朋友：新朋友冷淡，老朋友远离，连可以诉苦的人都没有。最后他想借酒消愁，可是问“斗几千”，好像在说这愁太多，多少酒都消不掉。整首诗像一场下不停的秋雨，又冷又湿，让人感到深深的孤独。",
+  "en": "The first line names his worry: he has talent, but no one values it. The middle four lines are the heart of the poem. A yellow leaf in the wind and rain is set beside music in a rich man's house. The leaf is the poet himself, and the contrast makes him look even sadder. Then he turns to friends: new ones have grown cold, old ones are far away, and there is no one left to talk to. At the end he wants to drink his sorrow away. But asking how many thousands the wine costs sounds like saying the sorrow is too big for any amount of wine. The whole poem feels like an autumn rain that will not stop, cold and wet, full of loneliness."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "frustration",
+   "loneliness",
+   "wine",
+   "wandering"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,280 @@
+{
+ "id": "e4a87504-f9a3-4599-b770-aba4afd3cb04",
+ "kind": "shi",
+ "title": "送元二使安西",
+ "title_en": "Seeing Yuan the Second Off on a Mission to Anxi",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "渭",
+    "wèi"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "浥",
+    "yì"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "尘",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "舍",
+    "shè"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "新",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原文第一句作“谓城”，是转换时的错字，应为“渭城”；第二句末字原文作“春”，现在课本和通行本作“新”。原文题目作《渭城曲》，这首诗后来被谱成乐曲传唱，所以又叫《渭城曲》《阳关曲》，课本题目是《送元二使安西》。",
+  "en": "In the source text, the first character is a wrong character from conversion; it should be the Wei of Weicheng. The last character of the second line in the source means spring, but today's textbooks and standard editions have the character for new. The source title is \"Song of Weicheng\". The poem was later set to music and sung, so it is also called \"Song of Weicheng\" or \"Song of Yangguan\". The textbook title is \"Seeing Yuan the Second Off on a Mission to Anxi\"."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝雨”是早晨的雨，朝读 zhāo，不读 cháo。",
+   "en": "Zhāo yǔ means morning rain, so the character is read zhāo, not cháo."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "舍",
+   "pinyin": "shè",
+   "zh": "“客舍”是旅店，舍读 shè，不读 shě。",
+   "en": "Kè shè means an inn, so the character is read shè, not shě."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "“更尽”是再喝完的意思，更读 gèng，不读 gēng。",
+   "en": "Gèng jìn means drink up one more, so the character is read gèng, not gēng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "渭城：秦朝的咸阳城，汉朝改叫渭城，在今天陕西咸阳东北，长安的西北边。",
+   "en": "wèi chéng: Weicheng, the old Qin city of Xianyang, renamed in the Han dynasty. It lay northeast of today's Xianyang in Shaanxi, northwest of Chang'an."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "朝雨：早晨下的雨。",
+   "en": "zhāo yǔ: morning rain."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "浥：湿润，打湿。",
+   "en": "yì: to moisten, to wet."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "轻尘：路上轻轻的尘土。",
+   "en": "qīng chén: the light dust on the road."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "客舍：旅店。",
+   "en": "kè shè: an inn."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "柳色新：柳树被雨洗过，颜色格外清新。",
+   "en": "liǔ sè xīn: the willows, washed by the rain, look fresh and new."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "更尽：再喝完。",
+   "en": "gèng jìn: drink up one more."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "阳关：古代关口的名字，在今天甘肃敦煌西南，是从内地去西域的必经之路。",
+   "en": "yáng guān: Yangguan Pass, southwest of today's Dunhuang in Gansu, a gate travelers had to pass on the way to the western lands."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: an old friend."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "渭城早晨的一场小雨，打湿了路上的轻尘。",
+   "en": "A morning rain in Weicheng has settled the light dust on the road."
+  },
+  {
+   "zh": "旅店旁边青青的柳树，颜色格外清新。",
+   "en": "By the inn, the green willows look fresh and new."
+  },
+  {
+   "zh": "请你再干了这一杯酒吧，",
+   "en": "Please, my friend, drink up one more cup of wine,"
+  },
+  {
+   "zh": "向西走出阳关，就再也没有老朋友了。",
+   "en": "for once you go west past Yangguan Pass, you will have no old friends."
+  }
+ ],
+ "background": {
+  "zh": "元二姓元，在家族兄弟中排行第二，名字已经不知道了。他要奉命出使安西。安西指安西都护府，是唐朝管理西域的机构，在今天新疆库车一带，离长安非常远。王维到渭城为他送行，写下了这首诗。这首诗后来被谱成乐曲，叫《阳关三叠》，成了送别时常唱的歌。写于哪一年已经无法确定。",
+  "en": "Yuan the Second had the family name Yuan and was the second among his brothers and cousins; his given name is lost. He was being sent on a mission to Anxi. Anxi was the Anxi Protectorate, the Tang office that governed the western lands, around today's Kuqa in Xinjiang, very far from Chang'an. Wang Wei saw him off at Weicheng and wrote this poem. Later it was set to music as \"Three Refrains of Yangguan\" and became a song people sang when saying goodbye. We cannot tell what year it was written."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），字摩诘，盛唐诗人，也是画家和音乐家。苏轼称赞他“诗中有画，画中有诗”。他精通音乐，所以这首送别诗很快就被谱成曲子，在各地传唱。",
+  "en": "Wang Wei (701–761, or by another account 699–761), also called Mojie, was a High Tang poet who was also a painter and musician. Su Shi praised him, saying his poems hold paintings and his paintings hold poems. He knew music well, which helps explain why this farewell poem was soon set to a tune and sung everywhere."
+ },
+ "appreciation": {
+  "zh": "前两句写送别时的景色：早晨下过小雨，路上的尘土被打湿了，旅店旁的柳树被洗得青翠发亮。景色清新明朗，可是“柳”在古代常常和离别连在一起，因为“柳”和“留”读音相近。后两句只写了一个动作：劝朋友再喝一杯。为什么要再喝一杯？因为出了阳关，就是茫茫的大漠，再也见不到老朋友了。诗人没有说“我舍不得你”，可这一杯酒里，装满了不舍和担心。千百年来，人们送别时常常吟唱这首诗。",
+  "en": "The first two lines show the scene of the farewell. A light rain fell in the morning, the dust on the road is settled, and the willows by the inn are washed bright green. The scene is fresh and clear, but in old China the willow was linked with parting, because its name sounds like the word for stay. The last two lines show just one action: urging his friend to drink one more cup. Why one more? Because past Yangguan Pass lies the endless desert, and there will be no old friends there. The poet never says I will miss you, yet that one cup of wine is full of sorrow at parting and worry for his friend. For more than a thousand years, people have sung this poem when saying goodbye."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "wine",
+   "willow",
+   "frontier"
+  ]
+ },
+ "uncertain": []
+}

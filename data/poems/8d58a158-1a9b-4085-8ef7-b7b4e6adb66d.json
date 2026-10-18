@@ -1,0 +1,357 @@
+{
+ "id": "8d58a158-1a9b-4085-8ef7-b7b4e6adb66d",
+ "kind": "shi",
+ "title": "塞下曲四首·其一",
+ "title_en": "Songs Below the Frontier, No. 1 of 4",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "蝉",
+    "chán"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "桑",
+    "sāng"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "芦",
+    "lú"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "并",
+    "bīng"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "皆",
+    "jiē"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "学",
+    "xué"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "侠",
+    "xiá"
+   ],
+   [
+    "儿",
+    "ér"
+   ]
+  ],
+  [
+   [
+    "矜",
+    "jīn"
+   ],
+   [
+    "夸",
+    "kuā"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "骝",
+    "liú"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库正文作“幽幷客”，“幷”是“并”的旧字形。通行本作“幽并客”。",
+  "en": "The corpus writes the fifth line with an old form of the character bìng. Common editions use the standard modern form. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "塞：边塞、边境，读 sài。",
+   "en": "Here it means the frontier, so it is read sài."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "同上，读 sài。",
+   "en": "As above, read sài."
+  },
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "并",
+   "pinyin": "bīng",
+   "zh": "并：这里指古代的并州，读 bīng，不读 bìng。",
+   "en": "Here it is the name of the old region Bingzhou, so it is read bīng, not bìng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "空桑林：叶子落光、空荡荡的桑树林。",
+   "en": "kōng sāng lín: a bare mulberry grove, its leaves gone."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "萧关：古代的关口，在今天宁夏固原东南，是去西北边塞的要道。",
+   "en": "xiāo guān: Xiao Pass, an old pass southeast of today's Guyuan in Ningxia, on the main road to the northwest frontier."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "出塞入塞：走出边关，又走进边关，来来回回。",
+   "en": "chū sài rù sài: going out through the frontier passes and back in again, over and over."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "黄芦草：枯黄的芦苇和野草。",
+   "en": "huáng lú cǎo: withered yellow reeds and grass."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "从来：自古以来。",
+   "en": "cóng lái: since long ago."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "幽并客：幽州和并州的人。幽州在今天北京、河北北部一带，并州在今天山西一带。那里的人以勇敢、善于骑射出名。",
+   "en": "yōu bīng kè: men of Youzhou and Bingzhou. Youzhou was around today's Beijing and northern Hebei, Bingzhou around today's Shanxi. Their people were famous for courage and for riding and shooting."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "尘沙老：在风沙里慢慢老去，指一辈子在边地打仗。",
+   "en": "chén shā lǎo: growing old in the dust and sand, that is, spending a whole life fighting on the frontier."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "游侠儿：到处闯荡、爱打抱不平的年轻人。",
+   "en": "yóu xiá ér: young adventurers who roam around and like to fight for justice."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "矜夸：骄傲地夸耀。",
+   "en": "jīn kuā: to boast proudly."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "紫骝：一种枣红色的好马。",
+   "en": "zǐ liú: a fine chestnut-red horse."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "知了在叶子落光的桑树林里叫着，",
+   "en": "Cicadas shrill in the bare mulberry grove,"
+  },
+  {
+   "zh": "八月里，我走在萧关的路上。",
+   "en": "as I travel the Xiao Pass road in the eighth month."
+  },
+  {
+   "zh": "走出边关，又走进边关，到处都很寒冷，",
+   "en": "Out through the passes and back again, it is cold everywhere,"
+  },
+  {
+   "zh": "满眼都是枯黄的芦苇和野草。",
+   "en": "and withered yellow reeds lie on every side."
+  },
+  {
+   "zh": "自古以来，幽州并州的勇士，",
+   "en": "Since long ago, the brave men of You and Bing"
+  },
+  {
+   "zh": "都在边地的风沙里慢慢老去。",
+   "en": "have all grown old in the dust and sand."
+  },
+  {
+   "zh": "不要学那些到处闯荡的年轻人，",
+   "en": "Do not copy those young adventurers"
+  },
+  {
+   "zh": "骄傲地夸耀自己的骏马有多好。",
+   "en": "who brag about how fine their red horses are."
+  }
+ ],
+ "background": {
+  "zh": "《塞下曲》是乐府旧题，多写边塞的生活和战争。王昌龄年轻时，一般认为在开元年间到过西北边地，亲眼看到边塞的荒凉和士兵的艰苦。这一组诗共四首，这是第一首。诗人借路上看到的景色，说出自己对边塞战争的看法。",
+  "en": "\"Songs Below the Frontier\" is an old ballad title, usually used for poems about life and war on the border. Wang Changling is generally thought to have travelled to the northwest frontier as a young man, in the Kaiyuan years. There he saw for himself how bleak the border was and how hard the soldiers' lives were. This is the first of a set of four poems. Through the scenes along the road, the poet shares what he thinks of frontier war."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），唐代诗人，最擅长写七言绝句，被称为“七绝圣手”。他写了很多有名的边塞诗，比如“秦时明月汉时关”。他一生官做得不大，两次被贬到偏远的地方，最后在战乱中被人杀害。",
+  "en": "Wang Changling (about 698–about 757) was a Tang poet, best at seven-character quatrains and called a master of the form. He wrote many famous frontier poems, such as the one that begins \"The bright moon of Qin, the passes of Han\". He never rose high in office. He was twice sent away to remote posts, and he was killed during the chaos of war."
+ },
+ "appreciation": {
+  "zh": "前四句是一幅秋天边塞的画：知了还在叫，桑林已经空了；路上来来回回，到处又冷又荒，只有枯黄的芦草。这些景色让人觉得冷清和疲惫。五六句说出一个事实：自古以来，那么多勇敢的人来到边地，最后都在风沙里老去，没有几个人能建功回家。最后两句是诗人的劝告：别学那些游侠少年，骑着好马四处夸口，以为打仗很威风。这首诗不写战场，却让人看到战争背后的辛苦和代价。",
+  "en": "The first four lines are a painting of the frontier in autumn. Cicadas still sing, but the mulberry grove is bare. Back and forth along the road it is cold and empty, with only withered yellow reeds. The scene feels lonely and tired. Lines five and six state a hard truth: since ancient times, so many brave men came to the border and in the end grew old in the dust, and few ever came home with glory. The last two lines are the poet's advice: do not be like those young adventurers, riding fine horses and bragging, thinking war is grand. The poem shows no battle, yet it lets us see the hardship and the cost behind war."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "autumn"
+  ]
+ },
+ "uncertain": []
+}

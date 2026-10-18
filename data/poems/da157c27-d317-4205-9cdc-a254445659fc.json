@@ -1,0 +1,380 @@
+{
+ "id": "da157c27-d317-4205-9cdc-a254445659fc",
+ "kind": "shi",
+ "title": "落花",
+ "title_en": "Falling Blossoms",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "竟",
+    "jìng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "参",
+    "cēn"
+   ],
+   [
+    "差",
+    "cī"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "递",
+    "dì"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "晖",
+    "huī"
+   ]
+  ],
+  [
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ]
+  ],
+  [
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "仍",
+    "réng"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "所",
+    "suǒ"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库的文字第四句作“迢遰”，“遰”是“递”的异体字；第六句作“眼穿仍欲归”。这里按《唐诗三百首》通行本作“迢递”“眼穿仍欲稀”。",
+  "en": "In the source text, line four uses an old variant form of the character dì, and line six ends with \"wants to go home\" instead of \"grows fewer\". This page follows the common text of Three Hundred Tang Poems."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "参",
+   "pinyin": "cēn",
+   "zh": "“参差”读 cēn cī，是长短高低不齐的样子。",
+   "en": "In cēn cī, uneven, this character is read cēn, not cān."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "差",
+   "pinyin": "cī",
+   "zh": "“参差”读 cēn cī，“差”在这里读 cī。",
+   "en": "In cēn cī, uneven, this character is read cī, not chà or chā."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "高阁：高高的楼阁。",
+   "en": "gāo gé: a tall pavilion, a high building."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "竟去：竟然都走了，最后都走光了。",
+   "en": "jìng qù: in the end, all gone."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "乱飞：花瓣到处飘落、飞舞。",
+   "en": "luàn fēi: petals flying and falling everywhere."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "参（cēn）差（cī）：长短高低不齐的样子，这里指落花飘得高高低低。",
+   "en": "cēn cī: uneven, high and low; here, the petals drifting at different heights."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "曲陌：弯弯曲曲的小路。",
+   "en": "qū mò: a winding path."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "迢（tiáo）递：遥远的样子，这里指落花飘得很远。",
+   "en": "tiáo dì: far away, stretching into the distance; here, petals drifting far."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "斜晖：傍晚斜照的阳光。",
+   "en": "xié huī: the slanting light of the setting sun."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "肠断：伤心到极点。",
+   "en": "cháng duàn: heartbroken, as sad as one can be."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "未忍扫：舍不得把落花扫掉。",
+   "en": "wèi rěn sǎo: unable to bear sweeping the petals away."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "眼穿：望眼欲穿，眼睛都要望穿了，形容盼望得很急切。",
+   "en": "yǎn chuān: looking so hard the eyes might wear through; longing very much."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "仍欲稀：花还是越来越少了。",
+   "en": "réng yù xī: the blossoms still keep growing fewer."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "芳心：花的心，也指诗人自己爱美、有抱负的心。",
+   "en": "fāng xīn: the heart of the flower; also the poet's own heart, which loves beauty and has hopes."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "向春尽：随着春天一起消失了。",
+   "en": "xiàng chūn jìn: fading away as spring ends."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "沾衣：泪水沾湿了衣裳。",
+   "en": "zhān yī: tears wetting the clothes."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "高楼上的客人最后都走了，",
+   "en": "The guests in the tall pavilion have all gone at last,"
+  },
+  {
+   "zh": "小园子里，花瓣在乱纷纷地飘落。",
+   "en": "and in the little garden, petals fly every which way."
+  },
+  {
+   "zh": "落花高高低低，一直飘到弯弯的小路上，",
+   "en": "High and low, they drift along the winding path,"
+  },
+  {
+   "zh": "飘得远远的，好像在送别夕阳。",
+   "en": "and far away, as if seeing off the setting sun."
+  },
+  {
+   "zh": "我伤心极了，舍不得把落花扫掉；",
+   "en": "Heartbroken, I cannot bear to sweep them away;"
+  },
+  {
+   "zh": "望眼欲穿，花还是越来越少。",
+   "en": "I watch and watch, but still the blossoms grow fewer."
+  },
+  {
+   "zh": "花的心随着春天一起逝去了，",
+   "en": "The flowers' heart has faded with the spring,"
+  },
+  {
+   "zh": "剩下的只有沾湿衣裳的泪水。",
+   "en": "and all that is left is tears wetting my clothes."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写春末花落的景象，也借落花说自己的遭遇。一般认为写在李商隐仕途失意、闲居在家的时候，一说是唐武宗会昌年间他闲居永业的时候，具体年份说法不一。客人散去后，诗人一个人看着满园落花，写下了这首诗。",
+  "en": "This poem describes blossoms falling at the end of spring, and uses them to speak of the poet's own life. It is usually thought to be from a time when Li Shangyin's career had stalled and he was living idle at home. One view places it in the Huichang years of Emperor Wuzong; the exact year is debated. After the guests had left, he stood alone looking at the fallen petals and wrote this poem."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人，和杜牧并称“小李杜”。他很有才华，却一生不得志，夹在朝廷两派官员的争斗里。他写景物时常常寄托自己的心事，读来含蓄深沉。这首诗表面写花，其实写的是他自己美好的心愿落空的伤心。",
+  "en": "Li Shangyin (about 813 to about 858) was a great poet of the late Tang, named together with Du Mu. He was very gifted but never succeeded in his career, caught between two quarrelling groups at court. When he wrote about things in nature, he often hid his own feelings inside them, so his poems are quiet and deep. On the surface this poem is about flowers; underneath, it is about the sadness of his own hopes coming to nothing."
+ },
+ "appreciation": {
+  "zh": "第一句很特别：先写客人走了。热闹散去，人才有心情去看落花，也才觉得冷清。接着写花：在小园里乱飞，一直飘到小路上，飘向远方的夕阳。花在落，太阳也在落，画面又美又让人伤感。后四句写诗人的心：舍不得扫，盼着花留下，花却越来越少。最后说花的心随春天走了，留下的只有眼泪。诗人爱花、惜花，其实也是在可惜自己：他有美好的心愿，却像落花一样，没人珍惜。",
+  "en": "The first line is unusual: it starts with the guests leaving. Only when the party is over does the poet have time to notice the falling petals, and to feel how empty it is. Then come the flowers: flying in the little garden, drifting along the path, floating toward the distant sunset. The blossoms are falling and the sun is setting too, a picture both beautiful and sad. The last four lines are about his heart. He cannot sweep the petals away and wishes the flowers would stay, but they grow fewer and fewer. In the end their heart is gone with the spring, and only tears remain. His pity for the flowers is also pity for himself: he had fine hopes, but like the falling blossoms, no one cared for them."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "flowers",
+   "sunset",
+   "sorrow",
+   "late-spring"
+  ]
+ },
+ "uncertain": []
+}

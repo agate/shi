@@ -1,0 +1,412 @@
+{
+ "id": "ci-c380874e16a7",
+ "kind": "ci",
+ "title": "阮郎归·旧香残粉似当初",
+ "title_en": "Ruan Lang Gui: The Old Scent and Faded Powder Are as Before",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "初",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "如",
+    "rú"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "疏",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "衾",
+    "qīn"
+   ],
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "孤",
+    "gū"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "舒",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "纵",
+    "zòng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "虚",
+    "xū"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "无",
+    "wú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "数行书：几行字，“行”是一行一行的行，读 háng。",
+   "en": "shù háng shū: a few lines of writing. Here the character means a line, read háng."
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "那堪：哪能受得了。这里的“那”就是“哪”，读 nǎ。",
+   "en": "nǎ kān: how could one bear it. Here the character is used for \"how\", read nǎ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "旧香残粉：他留下的旧香气、她用剩的脂粉，都是从前的东西。一说指信纸、衣物上留下的香和粉。",
+   "en": "jiù xiāng cán fěn: the old perfume and leftover face powder, things from the past. One reading says it is the scent and powder left on letters and clothes."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "似当初：和当初一样。",
+   "en": "sì dāng chū: just as they were at first."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 5,
+   "zh": "人情恨不如：可恨的是人的情意反倒比不上这些东西，变淡了。",
+   "en": "rén qíng hèn bù rú: the sad thing is that his feelings cannot match them; they have faded."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "一春：整个春天。",
+   "en": "yì chūn: the whole spring."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "数行书：几行字的信。",
+   "en": "shù háng shū: a letter of a few lines."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "疏：稀少。这里说来信更少了。",
+   "en": "shū: few and far between. Here, his letters come even less often."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "衾凤：绣着凤凰的被子。衾，被子。",
+   "en": "qīn fèng: a quilt embroidered with phoenixes. Qīn is a quilt."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "枕鸳：绣着鸳鸯的枕头。鸳鸯总是成双成对，现在枕头却是孤零零的。",
+   "en": "zhěn yuān: a pillow embroidered with mandarin ducks. These ducks always go in pairs, yet now the pillow lies alone."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "愁肠：满是忧愁的心。",
+   "en": "chóu cháng: a heart full of sorrow, literally \"sad insides\"."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "待酒舒：要靠喝酒才能放开一点。舒，舒展。",
+   "en": "dài jiǔ shū: needs wine to loosen it a little. Shū means to ease, to unfold."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "梦魂：在梦里相见。古人认为做梦时魂会飞出去和人相会。",
+   "en": "mèng hún: meeting in dreams. People then believed the soul could travel out in a dream to meet someone."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 7,
+   "zh": "纵有也成虚：就算梦见了，醒来也是一场空。纵，即使。",
+   "en": "zòng yǒu yě chéng xū: even if such a dream comes, it turns to nothing on waking. Zòng means even if."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "那堪：哪能受得了。",
+   "en": "nǎ kān: how could one bear it."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 5,
+   "zh": "和梦无：连梦也没有了。和，连。",
+   "en": "hé mèng wú: not even a dream is left. Hé here means \"even\"."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "旧日的香气、剩下的脂粉，还和当初一样，",
+   "en": "The old scent and the leftover powder are just as they were,"
+  },
+  {
+   "zh": "可恨的是人的情意反倒比不上它们。",
+   "en": "but sadly his feelings have not lasted as well."
+  },
+  {
+   "zh": "整个春天，还能收到几封短短的信，",
+   "en": "All spring there were still a few short letters,"
+  },
+  {
+   "zh": "到了秋天，信就更少了。",
+   "en": "but now that autumn has come, they are even rarer."
+  },
+  {
+   "zh": "绣着凤凰的被子冰凉，",
+   "en": "The phoenix quilt is cold,"
+  },
+  {
+   "zh": "绣着鸳鸯的枕头孤单，",
+   "en": "the mandarin-duck pillow lies alone,"
+  },
+  {
+   "zh": "满心的忧愁，只能靠酒来稍稍放开。",
+   "en": "and my sad heart waits for wine to ease it."
+  },
+  {
+   "zh": "就算在梦里相见，醒来也是一场空，",
+   "en": "Even if we meet in a dream, it all turns to nothing,"
+  },
+  {
+   "zh": "更让人受不了的是，现在连梦都做不成了。",
+   "en": "and how can I bear it, now that not even the dream will come?"
+  }
+ ],
+ "background": {
+  "zh": "这是一首写相思的词，一般读作一位女子思念远方的心上人：东西还在，人却变了心，信越来越少。也有人认为是晏几道借女子的口吻写自己对旧日恋人的怀念。这首词写于哪一年，已经说不清了。",
+  "en": "This is a ci about longing. It is usually read in the voice of a woman missing her love far away: the things he left are still here, but his heart has changed and his letters grow fewer. Some think Yan Jidao used a woman's voice to show his own longing for a past love. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是宰相晏殊的小儿子，人们把父子俩并称“二晏”。他家后来败落，他自己性格清高，不愿巴结权贵，一生不得志。他最会写相思和怀旧，词句真挚又伤感。",
+  "en": "Yan Jidao (about 1038 to about 1110), also called Xiaoshan, was the youngest son of the chief minister Yan Shu. Father and son are known together as \"the two Yans\". His family later fell on hard times. He was proud and would not flatter powerful people, so he never got far in office. He was best at writing about longing and memories, in lines that are sincere and sad."
+ },
+ "appreciation": {
+  "zh": "这首词的愁是一层一层加深的。先是东西和人比：香和粉还和从前一样，人的情意却淡了。再是信：春天还有几行字，秋天就更少了。下片写夜晚：凤凰被子冷，鸳鸯枕头孤单，只好喝酒解愁。最后两句最让人心酸：本来还能在梦里见一见，虽然醒来是空的；可现在，连梦都没有了。从“有信”到“信少”，从“有梦”到“连梦也无”，希望一点点被拿走。语言很平常，却把等待的苦写得很透。",
+  "en": "The sorrow in this ci grows layer by layer. First the things are set against the person: the scent and powder are as they were, but his feelings have faded. Then the letters: in spring a few lines still came, and by autumn even fewer. The second half is night. The phoenix quilt is cold, the duck pillow is lonely, and only wine can ease her heart. The last two lines hurt the most. She could at least meet him in a dream, even if waking left her empty. But now not even the dream will come. From letters to fewer letters, from dreams to no dreams at all, her hope is taken away bit by bit. The words are simple, yet they show the pain of waiting completely."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "letters",
+   "dream",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

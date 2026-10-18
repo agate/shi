@@ -1,0 +1,357 @@
+{
+ "id": "ci-1bcc0fd43c00",
+ "kind": "ci",
+ "title": "浣溪沙·波面铜花冷不收",
+ "title_en": "Huan Xi Sha: Bronze Bloom on the Cold Water",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "钓",
+    "diào"
+   ],
+   [
+    "理",
+    "lǐ"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "钩",
+    "gōu"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "话",
+    "huà"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "减",
+    "jiǎn"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "梧",
+    "wú"
+   ],
+   [
+    "井",
+    "jǐng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "波面：水面。",
+   "en": "bō miàn: the surface of the water."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "铜花：古代的镜子用铜做成，铜花就是铜镜。这里把平静的水面比作一面铜镜。一说指水面上映出的月影。",
+   "en": "tóng huā: ancient mirrors were made of bronze, so bronze bloom means a bronze mirror. Here the calm water is compared to a bronze mirror. Another reading takes it as the moon's reflection on the water."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "冷不收：冷冷的，没有收起来。镜子用完要收起来，这面“水镜”却一直摆在那里。",
+   "en": "lěng bù shōu: cold and not put away. A mirror is usually put away after use, but this mirror of water just lies there."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "玉人：美丽的人，多指女子。",
+   "en": "yù rén: a lovely person, usually a woman."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "垂钓：钓鱼。",
+   "en": "chuí diào: to fish with a line."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "理纤钩：整理细细的鱼钩。一说“纤钩”是比喻弯弯的新月。",
+   "en": "lǐ xiān gōu: to adjust a slender fishhook. Another reading says the slender hook stands for the thin crescent moon."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "池阁：池塘边的楼阁。",
+   "en": "chí gé: a pavilion beside the pond."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "夜来秋：一夜之间秋天就来了。",
+   "en": "yè lái qiū: overnight, autumn has come."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "话归：燕子叽叽喳喳，好像在商量回南方去。",
+   "en": "huà guī: the swallows chatter, as if talking about flying back south."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "晓别：清晨的分别。",
+   "en": "xiǎo bié: a parting at dawn."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "水花：水里的花，这里指荷花。",
+   "en": "shuǐ huā: flowers in the water; here, lotus flowers."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "红减：红色变少了，花慢慢凋谢。",
+   "en": "hóng jiǎn: the red grows less, as the flowers fade."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "春休：春天结束了。",
+   "en": "chūn xiū: spring is over."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "梧井：井边的梧桐树。古人常在井边种梧桐，梧桐的叶子秋天最先落。",
+   "en": "wú jǐng: the wutong tree by the well. People often planted wutong trees by wells, and their leaves are among the first to fall in autumn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "水面像一面铜镜，冷冷地摆着，没有收起来。",
+   "en": "The water lies like a bronze mirror, cold, never put away."
+  },
+  {
+   "zh": "一位美人在水边垂钓，整理着细细的鱼钩。",
+   "en": "A lovely woman fishes at the water's edge, adjusting her slender hook."
+  },
+  {
+   "zh": "月光照着池边的楼阁，一夜之间秋天来了。",
+   "en": "Moonlight falls on the pavilion by the pond. Overnight, autumn has come."
+  },
+  {
+   "zh": "江上的燕子商量着回南方，天一亮就要分别。",
+   "en": "The river swallows talk of flying home, and at dawn they will part."
+  },
+  {
+   "zh": "水中的荷花红色渐渐褪去，好像春天又一次结束了。",
+   "en": "The red of the lotus fades, as if spring were ending again."
+  },
+  {
+   "zh": "西风吹来，井边的梧桐叶最先发愁。",
+   "en": "The west wind blows, and the wutong leaves by the well are the first to grieve."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是秋天刚到的一个夜晚，具体写作时间和地点不详。词里有美人、有燕子分别、有花朵凋谢，一般认为是借初秋的景色，写对离别和时光流逝的感伤。一说和吴文英怀念旧日恋人有关，但没有确切的证据。",
+  "en": "This poem is set on a night when autumn has just arrived. We do not know exactly when or where it was written. It has a lovely woman, swallows parting, and flowers fading. It is usually read as using early autumn scenes to express sorrow at parting and at time slipping away. One view links it to Wu Wenying's memories of a woman he once loved, but there is no firm proof."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），字君特，号梦窗，四明（今浙江宁波）人，南宋词人。他一生没有做过大官，常在别人的府里做幕僚，就是帮忙出主意、写文书的人。他的词用字精美，画面跳跃，像一块块拼起来的碎锦，读起来要多想一想。",
+  "en": "Wu Wenying (about 1200 to about 1260), known as Mengchuang, came from Siming, today's Ningbo in Zhejiang. He was a Southern Song writer of song lyrics. He never held a high post. He mostly worked on the staffs of officials, giving advice and writing documents. His lyrics use rich, carefully chosen words, and their pictures jump from one to the next like pieces of brocade sewn together, so they take some thought to read."
+ },
+ "appreciation": {
+  "zh": "这首词像一组慢慢切换的镜头。先是平静的水面，冷冷的，像一面没人收起的铜镜；水边有美人垂钓，月亮弯弯地挂着，楼阁在月光里，一夜之间秋天就来了。下阕镜头转向别的东西：燕子要飞走了，清晨就要分别；荷花慢慢褪了颜色，好像春天又走了一回；西风一吹，井边的梧桐叶最先发愁。燕子、荷花、梧桐，都在告诉人：美好的日子要过去了。词人没有直接说自己伤心，可是每一样东西都带着淡淡的愁。",
+  "en": "This poem is like a set of camera shots that change slowly. First comes the calm water, cold, like a bronze mirror no one has put away. A lovely woman fishes at the edge, a thin moon hangs above, and the pavilion stands in the moonlight. Overnight, autumn has come. In the second half the camera turns to other things. The swallows are about to fly off and will part at dawn. The lotus slowly loses its color, as if spring were leaving once more. When the west wind blows, the wutong leaves by the well are the first to grieve. Swallows, lotus and wutong all say the same thing: the good days are passing. The poet never says he is sad, yet everything he shows carries a faint sorrow."
+ },
+ "famous_lines": [
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [
+   "liqiu"
+  ],
+  "themes": [
+   "autumn",
+   "parting",
+   "moon",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

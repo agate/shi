@@ -1,0 +1,274 @@
+{
+ "id": "de747326-60b6-4d83-9a80-ea9dc9faec13",
+ "kind": "shi",
+ "title": "离思五首·其四",
+ "title_en": "Thoughts of Parting, No. 4 of 5",
+ "author": "元稹",
+ "author_en": "Yuan Zhen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "除",
+    "chú"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "巫",
+    "wū"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "次",
+    "cì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "丛",
+    "cóng"
+   ],
+   [
+    "懒",
+    "lǎn"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "顾",
+    "gù"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "修",
+    "xiū"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原文第三句作“嬾”，是“懒”的异体字，现在通行本写作“懒”。",
+  "en": "In the source text, the fifth character of the third line is an old variant form of the character for lazy. Today's standard editions use the common form."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 5,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "这里“为”是“算作、当作”的意思，读 wéi，不读 wèi。",
+   "en": "Here the character means to count as, so it is read wéi, not wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "曾经：曾经到过、见过。",
+   "en": "céng jīng: once having been to, once having seen."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "沧海：大海。",
+   "en": "cāng hǎi: the great sea."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "难为水：别处的水就很难再算得上是水了。",
+   "en": "nán wéi shuǐ: other waters can hardly be called water anymore."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "除却：除了。",
+   "en": "chú què: apart from."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "巫山：在今天重庆和湖北交界的地方。传说巫山神女早上化作美丽的云彩，所以巫山的云被看作最美的云。",
+   "en": "wū shān: Mount Wu, on the border of today's Chongqing and Hubei. Legend says the goddess of Mount Wu turned into lovely clouds each morning, so its clouds were thought the most beautiful."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "取次：随便、匆匆地经过。",
+   "en": "qǔ cì: casually, hurriedly passing by."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "花丛：开满花的地方，这里比喻很多美丽的女子。",
+   "en": "huā cóng: a cluster of flowers. Here it stands for many beautiful women."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "懒回顾：懒得回头看。",
+   "en": "lǎn huí gù: not bothering to look back."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "缘：因为。",
+   "en": "yuán: because of."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "修道：修身养性、学习道理，这里多指学佛或学道。",
+   "en": "xiū dào: to train the mind and follow a spiritual path, here mostly Buddhist or Daoist practice."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 7,
+   "zh": "君：你。一般认为指诗人去世的妻子。",
+   "en": "jūn: you. Usually taken to mean the poet's late wife."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "见过大海的人，再看别处的水，都觉得算不上水了。",
+   "en": "Once you have seen the great sea, no other water seems like water."
+  },
+  {
+   "zh": "除了巫山的云，别处的云都称不上是云。",
+   "en": "Apart from the clouds of Mount Wu, no other clouds seem like clouds."
+  },
+  {
+   "zh": "我从花丛中匆匆走过，懒得回头看一眼。",
+   "en": "I hurry past the flowers and do not bother to look back."
+  },
+  {
+   "zh": "一半是因为我在修道，一半是因为你。",
+   "en": "Half because I follow a spiritual path, and half because of you."
+  }
+ ],
+ "background": {
+  "zh": "元稹二十多岁时娶了韦丛，夫妻感情很好。可是元和四年（809年），韦丛二十七岁就去世了。元稹非常悲痛，写了很多怀念她的诗。《离思》一共五首，一般认为也是怀念韦丛的，这是第四首。一说这组诗是写给他早年的恋人的。",
+  "en": "In his twenties, Yuan Zhen married Wei Cong, and they loved each other deeply. But in 809 Wei Cong died at only twenty-seven. Yuan Zhen was heartbroken and wrote many poems in her memory. \"Thoughts of Parting\" is a set of five poems, usually thought to be in memory of Wei Cong too. This is the fourth. Another view says the set was written for a woman he loved when he was young."
+ },
+ "author_note": {
+  "zh": "元稹（779—831），字微之，唐代诗人。他和白居易是好朋友，两人一起写通俗易懂的新乐府诗，合称“元白”。他写悼念亡妻的诗特别感人，比如《遣悲怀》三首，后人评价很高。",
+  "en": "Yuan Zhen (779–831), also called Weizhi, was a Tang poet. He and Bai Juyi were close friends who together wrote new ballads in plain, easy language, and they are known together as Yuan and Bai. His poems mourning his late wife are especially moving, such as the three poems \"Easing My Grief\", which later readers rank very highly."
+ },
+ "appreciation": {
+  "zh": "前两句用了两个比方：看过大海的人，不会再把小河小溪放在眼里；看过巫山的云，别处的云都不算云。诗人的意思是：我爱过的那个人是最好的，别人再也比不上她。第三句说，就算走过百花丛中，也懒得回头看。最后一句给出原因：一半是因为我在修道，一半是因为你。“半缘君”说得很轻，却最重，因为真正让他心如止水的，是对她的思念。头两句后来常被用来形容对爱情的专一，也用来比喻见过最好的，就看不上一般的。",
+  "en": "The first two lines use two comparisons. Someone who has seen the sea no longer thinks much of small rivers and streams. After the clouds of Mount Wu, no other clouds count as clouds. The poet means that the one he loved was the best, and no one else can ever compare with her. The third line says that even walking through a garden full of flowers, he does not bother to look back. The last line gives the reason: half because he follows a spiritual path, and half because of you. Because of you is said lightly, but it weighs the most, since what has really stilled his heart is his longing for her. The first two lines are often quoted for faithful love, and also to say that once you have seen the best, ordinary things no longer satisfy you."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "mourning",
+   "devotion"
+  ]
+ },
+ "uncertain": []
+}

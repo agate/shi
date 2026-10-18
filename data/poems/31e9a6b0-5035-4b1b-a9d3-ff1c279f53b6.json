@@ -1,0 +1,258 @@
+{
+ "id": "31e9a6b0-5035-4b1b-a9d3-ff1c279f53b6",
+ "kind": "shi",
+ "title": "杂诗",
+ "title_en": "Miscellaneous Poem",
+ "author": "无名氏",
+ "author_en": "Anonymous",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "食",
+    "shí"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "萋",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "麦",
+    "mài"
+   ],
+   [
+    "苗",
+    "miáo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "堤",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "等",
+    "děng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "得",
+    "dé"
+   ]
+  ],
+  [
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "鹃",
+    "juān"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "耳",
+    "ěr"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "啼",
+    "tí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库原文第三句作“早是有家归未得”。《唐诗三百首》等通行本作“等是有家归未得”，这里用通行本。资料库题目是《杂诗》第十三首，通行本只题《杂诗》。",
+  "en": "In the corpus the third line begins with \"already\" (zǎo shì). Common editions such as Three Hundred Tang Poems have \"just the same\" (děng shì), which is used here. The corpus lists it as number thirteen of a set; common editions title it simply \"Miscellaneous Poem\"."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "著：读 zhuó，意思是附着、吹拂到。",
+   "en": "Here the character is read zhuó, meaning to touch or brush against."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "寒食：寒食节，在清明节前一两天。古时这几天不生火做饭，只吃冷的食物。",
+   "en": "hán shí: the Cold Food Festival, a day or two before Qingming. In old times people lit no fires then and ate only cold food."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "萋萋：草长得很茂盛的样子。",
+   "en": "qī qī: thick and lush, said of grass."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "著：吹到，拂着。",
+   "en": "zhuó: to brush against, to touch."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "映堤：柳树的影子映在河堤上。堤，河边挡水的土坝。",
+   "en": "yìng dī: the willows are mirrored along the dike. A dī is an earth bank built beside a river."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "等是：同样是。",
+   "en": "děng shì: just the same, equally."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "归未得：想回去却回不去。",
+   "en": "guī wèi dé: wanting to go home but unable to."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "杜鹃：一种鸟。它的叫声听起来像“不如归去”，所以常常引起人想家。",
+   "en": "dù juān: the cuckoo. Its call was heard as \"better go home\", so it often made people homesick."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "休：不要。",
+   "en": "xiū: do not."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "快到寒食节了，春雨下着，青草长得很茂盛；",
+   "en": "The Cold Food Festival is near; spring rain falls and the grass grows thick."
+  },
+  {
+   "zh": "春风拂过麦苗，柳树的影子映在河堤上。",
+   "en": "The breeze brushes the young wheat, and willows are mirrored along the dike."
+  },
+  {
+   "zh": "我和别人一样有家，却回不去，",
+   "en": "Like everyone, I have a home, yet I cannot go back;"
+  },
+  {
+   "zh": "杜鹃啊，不要再在我耳边叫了。",
+   "en": "cuckoo, do not cry beside my ear."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是唐代一位不知名的人写的，收在《唐诗三百首》里。诗写的是寒食节前后，正是春雨绵绵、草绿麦青的时候。按照风俗，寒食和清明要回家扫墓、和家人团聚，可诗人漂泊在外，回不了家，所以格外想家。具体写于什么时候、在什么地方，都不清楚。",
+  "en": "This poem was written by an unknown person of the Tang dynasty and is included in Three Hundred Tang Poems. It is set around the Cold Food Festival, when spring rain falls and the grass and wheat are green. By custom, people went home at Cold Food and Qingming to sweep their family graves and be with their families. The poet is far away and cannot go home, so he misses it all the more. We do not know when or where it was written."
+ },
+ "author_note": {
+  "zh": "“无名氏”就是不知道名字的作者。唐代留下了很多这样的诗，作者的名字早就找不到了，诗却因为写得好，一直流传下来。这首诗写的是普通游子的心情，所以不管是谁写的，读起来都很亲切。",
+  "en": "\"Anonymous\" means we do not know the writer's name. Many Tang poems are like this: the author's name was lost long ago, but the poem was good enough to be passed down. This one shows the feelings of an ordinary traveller far from home, so whoever wrote it, it still feels close to us."
+ },
+ "appreciation": {
+  "zh": "前两句是一幅春景：细雨、青草、麦苗、柳树和河堤，到处都是生机。可这么美的景色，诗人却高兴不起来，因为寒食节快到了，别人都回家团聚，他却回不去。第三句说出心里话：我也有家呀，可就是回不去。第四句最打动人。杜鹃的叫声好像在说“不如归去”，诗人听了更难受，只好请它别叫了。其实鸟儿哪里管人的心事？这一句又无奈又可怜。",
+  "en": "The first two lines paint spring: fine rain, green grass, young wheat, willows and the river dike, full of life. But the poet cannot enjoy this lovely scene. The Cold Food Festival is near, and others are going home to their families, but he cannot. The third line says what is in his heart: I have a home too, but I just cannot get back. The fourth line is the most moving. The cuckoo's call seems to say \"better go home\", which only hurts more, so he begs it to stop. Of course the bird does not care about his feelings. The line is helpless and sad at once."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "hanshi"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "rain",
+   "cuckoo",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

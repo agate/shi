@@ -1,0 +1,234 @@
+{
+ "id": "b7d50789-e0d5-4291-8014-eddf65a124df",
+ "kind": "shi",
+ "title": "瑶瑟怨",
+ "title_en": "Lament of the Jade Zither",
+ "author": "温庭筠",
+ "author_en": "Wen Tingyun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "簟",
+    "diàn"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "床",
+    "chuáng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "成",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "冰簟：凉得像冰一样的竹席。簟，竹席。",
+   "en": "bīng diàn: a bamboo mat as cool as ice. Diàn is a woven bamboo mat."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "银床：装饰华美的床。",
+   "en": "yín chuáng: a silver bed, a finely decorated bed."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "梦不成：睡不着，做不成梦。",
+   "en": "mèng bù chéng: cannot fall asleep, cannot dream."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "碧天如水：青蓝色的夜空像水一样清澈。",
+   "en": "bì tiān rú shuǐ: the blue sky is as clear as water."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "潇湘：潇水和湘水，在今天的湖南。传说大雁南飞，到湖南衡阳就停下了。",
+   "en": "xiāo xiāng: the Xiao and Xiang rivers, in today's Hunan. Legend says wild geese flying south stop at Hengyang in Hunan."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "十二楼：传说中神仙住的楼，这里指女子住的华美楼阁。",
+   "en": "shí èr lóu: the Twelve Towers, where immortals live in legend. Here it means the fine rooms where the woman lives."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "自明：自顾自地明亮，好像不管人的心事。",
+   "en": "zì míng: shines on by itself, as if it does not care how anyone feels."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "躺在冰凉的竹席和华美的床上，怎么也睡不着。",
+   "en": "On a cool bamboo mat and a fine bed, she cannot fall asleep."
+  },
+  {
+   "zh": "夜空碧蓝，像水一样清，几缕薄云轻轻飘着。",
+   "en": "The blue night sky is as clear as water, with a few light clouds."
+  },
+  {
+   "zh": "大雁的叫声越来越远，向潇湘那边飞去了。",
+   "en": "The cries of the wild geese fade into the distance, heading for the Xiao and Xiang rivers."
+  },
+  {
+   "zh": "只有月亮，自顾自地照着她住的高楼。",
+   "en": "Over her tall tower, the moon shines on, all by itself."
+  }
+ ],
+ "background": {
+  "zh": "瑶瑟是用美玉装饰的瑟，瑟是一种古代的弦乐器。古人常用瑟声表达哀怨，传说湘水的女神就喜欢弹瑟，诗里的“潇湘”也和这个传说有关。这首诗写一个女子在秋夜里想念远方的人，整夜睡不着。具体写于什么时候、写的是谁，已经不清楚了。",
+  "en": "A yáo sè is a zither decorated with jade. The sè was an old string instrument, and people often used its sound to express sorrow. Legend says the goddess of the Xiang River loved to play it, which is why the Xiao and Xiang rivers appear in the poem. The poem shows a woman on an autumn night missing someone far away and lying awake all night. When it was written and whom it is about are not known."
+ },
+ "author_note": {
+  "zh": "温庭筠（约812—约866），晚唐诗人、词人，和李商隐并称“温李”。他才思敏捷，相传叉手八次就能写成一篇赋，人称“温八叉”。他的词写得很美，被看作“花间派”的开山人物。这首诗也有他词里那种细腻、安静的味道。",
+  "en": "Wen Tingyun (about 812–about 866) was a late Tang poet and lyric writer, often named together with Li Shangyin. He was very quick. Legend says he could finish a long rhymed essay in the time it took to fold his hands eight times. His lyrics are very beautiful, and he is seen as the founder of the \"Among the Flowers\" school. This poem has the same delicate, quiet feeling as his lyrics."
+ },
+ "appreciation": {
+  "zh": "这首诗题目里有“怨”，诗里却一个“怨”字也没有，只是一幅接一幅的画。先是床上：竹席冰凉，女子睡不着。再看窗外：天空像水一样清，云很轻。接着是声音：大雁叫着往南飞，越飞越远。最后是月亮，静静地照着她的楼。大雁能飞到远方，人却只能留在这里；月亮那么亮，却不懂她的心事。凉、清、远、静，这些感觉加在一起，就是她说不出口的哀怨。读的时候要慢一点，像在看一个安静的秋夜。",
+  "en": "The title has the word \"lament\" in it, but the poem never uses it. It is just one picture after another. First the bed: the bamboo mat is cool, and she cannot sleep. Then outside the window: the sky is clear as water, the clouds are light. Then a sound: wild geese cry as they fly south, farther and farther away. Last, the moon, quietly shining on her tower. The geese can fly far away, but she has to stay. The moon is so bright, yet it does not understand her. Cool, clear, far, still: add these feelings together and you have the sorrow she cannot put into words. Read it slowly, as if you were watching a quiet autumn night."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "night",
+   "moon",
+   "geese"
+  ]
+ },
+ "uncertain": []
+}

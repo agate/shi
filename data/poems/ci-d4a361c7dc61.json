@@ -1,0 +1,822 @@
+{
+ "id": "ci-d4a361c7dc61",
+ "kind": "ci",
+ "title": "庆宫春·双桨莼波",
+ "title_en": "To the Tune Qing Gong Chun: Twin Oars on Waters of Water Shield",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（慢词，双调）",
+  "en": "ci lyric, long form in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "桨",
+    "jiǎng"
+   ],
+   [
+    "莼",
+    "chún"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "蓑",
+    "suō"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "盟",
+    "méng"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ]
+  ],
+  [
+   [
+    "翩",
+    "piān"
+   ],
+   [
+    "翩",
+    "piān"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "背",
+    "bèi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "末",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "荡",
+    "dàng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "黛",
+    "dài"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "压",
+    "yā"
+   ]
+  ],
+  [
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "婆",
+    "pó"
+   ],
+   [
+    "娑",
+    "suō"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "答",
+    "dá"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "虹",
+    "hóng"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "引",
+    "yǐn"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "兴",
+    "xìng"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "遏",
+    "è"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "想",
+    "xiǎng"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "珰",
+    "dāng"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "袜",
+    "wà"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ]
+  ],
+  [
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "霎",
+    "shà"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "原始资料的词牌写作“庆宫春・高阳台”，这首词的词牌就是《庆宫春》，这里用通行的“庆宫春·双桨莼波”。原文“政凝想”的“政”古时通“正”，这里按通行写法作“正”。原词前面还有一段很长的小序，这里没有收录。",
+  "en": "The source gives the tune title with an extra tune name added. The tune of this lyric is Qing Gong Chun, so the usual title, tune plus first line, is used here. The source writes the zhèng of zhèng níng xiǎng with an old character that was used for the same word; the usual modern character is used here. The original also has a long preface, which is not included."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还过木末”是说鸥鸟又飞回树梢那边去，这里读 huán。一说读 hái，是“又、仍然”的意思。",
+   "en": "Here the gulls fly back over the treetops, so the character is read huán. Another view reads it hái, meaning still or again."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重见”是再一次见到，“重”读 chóng。",
+   "en": "In chóng jiàn (to see again) it is read chóng."
+  },
+  {
+   "line": 13,
+   "pos": 1,
+   "char": "子",
+   "pinyin": "zǐ",
+   "zh": "“老子”这里是作者自称，意思是“我这个老头儿”，读 lǎo zǐ。口语里自称“老子”时常读轻声 lǎo zi。",
+   "en": "Here lǎo zǐ is how the poet calls himself, \"this old man\". In everyday speech the second syllable is often said in the neutral tone."
+  },
+  {
+   "line": 17,
+   "pos": 1,
+   "char": "兴",
+   "pinyin": "xìng",
+   "zh": "“此兴”是这种兴致，“兴”读 xìng。",
+   "en": "In cǐ xìng (this mood of delight) it is read xìng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "双桨：一对船桨，指小船。",
+   "en": "shuāng jiǎng: a pair of oars, meaning a small boat."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "莼波：长着莼菜的水波。莼菜是江南水里的一种植物，叶子浮在水面上。",
+   "en": "chún bō: waves where water shield grows. Water shield is a southern water plant whose leaves float on the surface."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "一蓑：一件蓑衣。蓑衣是用草或棕编的雨衣。",
+   "en": "yī suō: a straw raincoat, woven from grass or palm fiber."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "松雨：落在松树间的雨。",
+   "en": "sōng yǔ: rain falling through the pines."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "暮愁：傍晚时的愁绪。",
+   "en": "mù chóu: the sorrow that comes at dusk."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "空阔：空旷开阔的天地。",
+   "en": "kōng kuò: the wide open sky and land."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "盟鸥：和鸥鸟结盟，做朋友。古人用这个说法表示愿意隐居水边，过闲散的生活。",
+   "en": "méng ōu: gulls one has made a pact of friendship with. Old poets used it to mean wishing to live a free life by the water."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "翩翩：轻快飞舞的样子。",
+   "en": "piān piān: flying lightly and gracefully."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "背人：背对着人，避开人。",
+   "en": "bèi rén: turning away from people."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "木末：树梢。",
+   "en": "mù mò: the tops of the trees."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "那回：那一次，指五年前那个除夕夜。",
+   "en": "nà huí: that time, meaning the New Year's Eve five years before."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "荡云雪：船在云雾和雪中划过。",
+   "en": "dàng yún xuě: the boat pushing through cloud and snow."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "依约：隐隐约约。",
+   "en": "yī yuē: faintly, dimly."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "眉山：像女子眉毛一样的远山。",
+   "en": "méi shān: far hills shaped like a woman's eyebrows."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "黛痕：青黑色的痕迹。黛，女子画眉用的青黑色颜料。",
+   "en": "dài hén: dark blue-black marks. Dài is the dark color women used to paint their eyebrows."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "采香径：苏州灵岩山下的一条小路。相传春秋时吴王让宫女在这里采香草。",
+   "en": "cǎi xiāng jìng: the Fragrance-Picking Path below Lingyan Hill in Suzhou. Legend says the King of Wu sent palace women there to pick fragrant herbs."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "婆娑：随意起舞、自由自在的样子。",
+   "en": "pó suō: dancing freely, carefree."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "自歌谁答：自己唱歌，有谁来应和呢。",
+   "en": "zì gē shuí dá: I sing alone; who will sing back?"
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "垂虹：垂虹桥，在今江苏苏州吴江，是一座很长的桥。",
+   "en": "chuí hóng: the Chuihong Bridge, a very long bridge in Wujiang, Suzhou, Jiangsu."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "引去：离开，远去。",
+   "en": "yǐn qù: to go away, to leave."
+  },
+  {
+   "line": 17,
+   "start": 5,
+   "end": 6,
+   "zh": "遏：阻止，压住。",
+   "en": "è: to stop, to hold back."
+  },
+  {
+   "line": 19,
+   "start": 1,
+   "end": 3,
+   "zh": "凝想：出神地想。",
+   "en": "níng xiǎng: lost in thought."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "明珰素袜：明亮的玉耳坠和白色的袜子，指一位美丽的女子。这是借用曹植《洛神赋》里写洛水女神的话。",
+   "en": "míng dāng sù wà: bright jade earrings and white silk socks, meaning a lovely woman. The words come from Cao Zhi's rhapsody on the goddess of the Luo River."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "安在：在哪里。",
+   "en": "ān zài: where is she?"
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 4,
+   "zh": "阑干：栏杆，这里指垂虹桥上的栏杆。",
+   "en": "lán gān: a railing, here the railing of the Chuihong Bridge."
+  },
+  {
+   "line": 23,
+   "start": 2,
+   "end": 4,
+   "zh": "一霎：一会儿，很短的时间。",
+   "en": "yī shà: a moment, a very short time."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一双船桨划过长着莼菜的水波，",
+   "en": "Twin oars cut through waters full of water shield,"
+  },
+  {
+   "zh": "披着一件蓑衣，松林间落着雨，",
+   "en": "I wear a straw raincoat as rain falls through the pines,"
+  },
+  {
+   "zh": "傍晚的愁绪渐渐铺满了空旷的天地。",
+   "en": "and the sorrow of dusk slowly fills the wide sky."
+  },
+  {
+   "zh": "我呼唤和我结盟的鸥鸟，",
+   "en": "I call to my old friends the gulls;"
+  },
+  {
+   "zh": "它们轻盈地飞着，好像要落下来，",
+   "en": "they flutter lightly, as if about to land,"
+  },
+  {
+   "zh": "却又背着人，飞回树梢那边去了。",
+   "en": "then turn away and fly back over the treetops."
+  },
+  {
+   "zh": "那一次我回去的时候，",
+   "en": "That time when I went home,"
+  },
+  {
+   "zh": "小船在云雾和雪中穿行，",
+   "en": "my boat pushed through clouds and snow,"
+  },
+  {
+   "zh": "一只孤舟在夜里出发。",
+   "en": "a lone boat setting off at night."
+  },
+  {
+   "zh": "今天再次见到，叫人伤心的是，",
+   "en": "Seeing it again now breaks my heart:"
+  },
+  {
+   "zh": "隐隐约约，远山像女子的眉毛，",
+   "en": "faint far hills like a woman's eyebrows,"
+  },
+  {
+   "zh": "青黑的山影低低地压在水面上。",
+   "en": "their dark shapes pressing low over the water."
+  },
+  {
+   "zh": "采香径里春寒料峭，",
+   "en": "On the Fragrance-Picking Path the early spring is cold;"
+  },
+  {
+   "zh": "我这个老头儿随意起舞，",
+   "en": "this old man dances as he pleases,"
+  },
+  {
+   "zh": "自己唱歌，有谁来应和？",
+   "en": "and sings alone. Who will sing back?"
+  },
+  {
+   "zh": "在垂虹桥上向西望去，",
+   "en": "From the Chuihong Bridge I look west,"
+  },
+  {
+   "zh": "真想飘飘然远远离去，",
+   "en": "longing to drift lightly far away;"
+  },
+  {
+   "zh": "这种兴致，我一辈子都压不住。",
+   "en": "all my life I could never hold this urge back."
+  },
+  {
+   "zh": "酒醒了，水波已经远去，",
+   "en": "When the wine wears off, the waves have rolled far away,"
+  },
+  {
+   "zh": "我正出神地想着，",
+   "en": "and I am lost in thought"
+  },
+  {
+   "zh": "那戴着明珰、穿着白袜的美人。",
+   "en": "of a lovely woman with bright earrings and white silk socks."
+  },
+  {
+   "zh": "如今她在哪里呢？",
+   "en": "Where is she now?"
+  },
+  {
+   "zh": "只有桥上的栏杆，",
+   "en": "Only the bridge railing"
+  },
+  {
+   "zh": "陪伴我短短的一会儿。",
+   "en": "keeps me company, for one short moment."
+  }
+ ],
+ "background": {
+  "zh": "原词前面有一段长序。大意是：绍熙二年（1191）除夕，作者告别范成大，从苏州回湖州，雪后夜里经过垂虹桥，写过一首诗。五年以后的冬天，他和几位朋友同坐一条船去无锡，路过吴松，半夜一起在垂虹桥上散步。天寒地冻，星光和渔火交错，他就写了这首词，改了十多天才定稿。词里的“那回归去”，说的就是五年前那一次。",
+  "en": "The original has a long preface before it. Roughly, it says this. On New Year's Eve of 1191 the poet said goodbye to Fan Chengda and went home from Suzhou to Huzhou. After a snowfall he passed the Chuihong Bridge at night and wrote a poem. Five years later, in winter, he and a few friends shared a boat to Wuxi. Passing Wusong, they walked together on the Chuihong Bridge at midnight. It was freezing, and starlight mixed with the lights of fishing boats. He wrote this lyric there and spent more than ten days revising it. \"That time when I went home\" in the lyric means the trip five years before."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），字尧章，号白石道人，南宋词人，也是音乐家。他一生没有做官，靠朋友接济生活，常在江湖间漂泊。他精通音律，能自己作曲。他的词清冷雅致，常写江南的山水和孤独的心情，和范成大等名人交往很深。",
+  "en": "Jiang Kui (about 1155 to about 1221), who called himself the Daoist of White Stone, was a Southern Song lyric poet and also a musician. He never held office, lived on the help of friends, and spent his life drifting around the lakes and rivers of the south. He knew music deeply and composed his own tunes. His lyrics are cool, clear and refined, often about southern landscapes and a lonely heart. He was close friends with famous men such as Fan Chengda."
+ },
+ "appreciation": {
+  "zh": "这首词把五年前和五年后的两次经过垂虹桥叠在一起写。开头是小船、蓑衣、松间雨，傍晚的愁慢慢铺满天地。连老朋友鸥鸟都背着人飞走了，更显得孤单。接着想起五年前那个雪夜，孤舟夜发，如今远山依旧像眉毛，人却伤心。下片作者自称“老子”，在寒风里跳舞唱歌，却没人应和，很洒脱，也很寂寞。他站在桥上西望，想飘然远去，这种念头一辈子都压不住。最后酒醒了，想起那位美丽的女子，一说指当年同船的歌女小红。可人在哪里呢？只有栏杆陪了他一会儿。整首词清冷空阔，像一幅淡淡的水墨画。",
+  "en": "This lyric lays two crossings of the Chuihong Bridge on top of each other, five years apart. It opens with a small boat, a straw raincoat and rain in the pines, while the sorrow of dusk slowly fills the sky. Even his old friends the gulls turn away and fly off, which makes him feel lonelier. Then he remembers that snowy night five years ago, the lone boat setting off. The far hills still look like eyebrows, but his heart aches. In the second stanza he calls himself \"this old man\" and dances and sings in the cold wind, yet no one answers. He is free and easy, and also very lonely. Standing on the bridge looking west, he longs to drift far away, an urge he has never been able to stop. At last, as the wine wears off, he thinks of a lovely woman. One view says she is Xiaohong, the singer who shared his boat on the earlier trip. But where is she? Only the railing keeps him company for a moment. The whole lyric is cool and wide open, like a pale ink painting."
+ },
+ "famous_lines": [],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "solitude",
+   "memory",
+   "river",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

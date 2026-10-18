@@ -1,0 +1,251 @@
+{
+ "id": "2161a569-6250-4886-9500-2168821b62be",
+ "kind": "shi",
+ "title": "瑶池",
+ "title_en": "The Jasper Pool",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "阿",
+    "ā"
+   ],
+   [
+    "母",
+    "mǔ"
+   ],
+   [
+    "绮",
+    "qǐ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "哀",
+    "āi"
+   ]
+  ],
+  [
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "骏",
+    "jùn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "穆",
+    "mù"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重：这里读 chóng，意思是再、又。",
+   "en": "Here the character is read chóng, meaning \"again\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "瑶池：神话里西王母住的地方，在昆仑山上。",
+   "en": "yáo chí: the Jasper Pool, home of the Queen Mother of the West in myth, on Mount Kunlun."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "阿母：指西王母，神话里的女神。",
+   "en": "ā mǔ: \"Mother\", meaning the Queen Mother of the West, a goddess in myth."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "绮窗：雕着花纹、装饰很美的窗子。",
+   "en": "qǐ chuāng: a beautifully carved and decorated window."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "黄竹歌：传说周穆王路上遇到大风雪，看见百姓受冻，作了一首《黄竹》诗来哀叹他们。",
+   "en": "huáng zhú gē: the Yellow Bamboo song. Legend says King Mu met a snowstorm on his way, saw people freezing, and made this song in pity."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "动地哀：悲伤的歌声震动大地。",
+   "en": "dòng dì āi: so sad it shook the ground."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "八骏：周穆王的八匹好马。骏，跑得快的好马。",
+   "en": "bā jùn: King Mu's eight fine horses. Jùn means a swift, strong horse."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "穆王：周穆王，西周的一位国王。传说他驾着八骏西行，在瑶池见到西王母。",
+   "en": "mù wáng: King Mu of Zhou. Legend says he drove his eight horses west and met the Queen Mother at the Jasper Pool."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "何事：为什么。",
+   "en": "hé shì: why."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "瑶池边，西王母推开了华美的窗子，",
+   "en": "By the Jasper Pool, the Queen Mother opens her lovely carved window."
+  },
+  {
+   "zh": "只听见《黄竹》的歌声，悲哀得震动大地。",
+   "en": "All she hears is the Yellow Bamboo song, so sad it shakes the earth."
+  },
+  {
+   "zh": "穆王的八匹骏马一天能跑三万里，",
+   "en": "King Mu's eight fine horses could run thirty thousand li in a day,"
+  },
+  {
+   "zh": "他为什么没有再回来呢？",
+   "en": "so why has he never come back?"
+  }
+ ],
+ "background": {
+  "zh": "古书《穆天子传》里有个故事：周穆王驾着八匹骏马向西走，在瑶池和西王母一起喝酒。分别时西王母唱歌，问他还能不能再来，穆王答应三年后回来，却再也没来。这首诗借这个故事来写。一般认为它是在讽刺唐代皇帝迷信神仙、想长生不老。具体写于哪一年不清楚。",
+  "en": "An old book tells a story. King Mu of Zhou drove his eight horses west and drank with the Queen Mother of the West at the Jasper Pool. When they parted, she sang and asked if he would come again. He promised to return in three years, but he never did. This poem builds on that story. It is usually read as mocking Tang emperors who believed in gods and wanted to live forever. We do not know the exact year it was written."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐大诗人，和杜牧一起被称为“小李杜”。他的诗用词华美，爱用典故，也就是古书里的故事，意思常常藏得很深。他写过好几首借古代帝王求仙来讽刺当时的诗，这首是其中有名的一首。",
+  "en": "Li Shangyin (about 813 to about 858) was a great poet of the late Tang. He and Du Mu are called the \"Little Li and Du\". His poems use rich words and many allusions, which are stories from old books, so the meaning is often hidden deep. He wrote several poems that use old kings seeking immortality to poke at his own times, and this is one of the best known."
+ },
+ "appreciation": {
+  "zh": "诗从西王母这边写起。她打开窗子，等着穆王，可传来的只有悲伤的《黄竹》歌声。第三句故意说：八匹马一天能跑三万里，路再远也不难。第四句接着问：那他为什么不回来？答案诗人没有说，但读者都明白：穆王早就死了。连见过神仙的国王也逃不过死，求仙又有什么用？诗人不直接骂，只轻轻一问，讽刺反而更有力。",
+  "en": "The poem starts from the goddess's side. She opens her window and waits for King Mu, but all that comes is the sad Yellow Bamboo song. The third line says, on purpose, that his horses could run thirty thousand li a day, so distance is no problem. The fourth line then asks: so why does he not come back? The poet gives no answer, but every reader knows it: King Mu died long ago. Even a king who met a goddess could not escape death, so what good is chasing immortality? The poet does not scold. He just asks one gentle question, and the mockery hits harder."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "myth",
+   "satire",
+   "immortality"
+  ]
+ },
+ "uncertain": []
+}

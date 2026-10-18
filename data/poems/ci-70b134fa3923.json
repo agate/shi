@@ -1,0 +1,454 @@
+{
+ "id": "ci-70b134fa3923",
+ "kind": "ci",
+ "title": "鹧鸪天·西都作",
+ "title_en": "Zhe Gu Tian: Written in the Western Capital",
+ "author": "朱敦儒",
+ "author_en": "Zhu Dunru",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "都",
+    "dū"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "郎",
+    "láng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "付",
+    "fù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "批",
+    "pī"
+   ],
+   [
+    "给",
+    "gěi"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "支",
+    "zhī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "券",
+    "quàn"
+   ]
+  ],
+  [
+   [
+    "累",
+    "lěi"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "章",
+    "zhāng"
+   ]
+  ],
+  [
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "首",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "觞",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "着",
+    "zhuó"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "侯",
+    "hóu"
+   ],
+   [
+    "王",
+    "wáng"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "阙",
+    "què"
+   ],
+   [
+    "慵",
+    "yōng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "插",
+    "chā"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "这里用通行本。语料库第二、三、四句作“天教懒慢带疏狂”“曾批给露支风敕，累奏留云借月章”，是另一种版本，意思差不多。",
+  "en": "This uses the commonly printed text. The corpus has another version of lines two to four, with a few different words (lazy and slow instead of handed over; dew instead of rain; a decree instead of a permit; presented instead of sent up). The meaning is much the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "教：这里是“让、使”的意思，现在一般读 jiào。古诗词里这个意思常读平声 jiāo。",
+   "en": "Here the character means 'to let, to make'. Today it is usually read jiào. In old poems this sense was often read in the level tone, jiāo."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "累",
+   "pinyin": "lěi",
+   "zh": "累：一次又一次，读 lěi。",
+   "en": "Here the character means 'again and again' and is read lěi, not lèi."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "着",
+   "pinyin": "zhuó",
+   "zh": "着眼：用眼睛去看、放在眼里。着读 zhuó。",
+   "en": "In zhuó yǎn (to set one's eyes on), the first character is read zhuó, not zhe."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "清都：神话里天帝住的宫殿。",
+   "en": "qīng dū: in old myths, the palace where the Lord of Heaven lives."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "山水郎：管理山水的官。词人开玩笑说自己是天上派来管山水的。",
+   "en": "shān shuǐ láng: an official in charge of mountains and rivers. The poet jokes that Heaven sent him to look after them."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "分付：交给、给予。",
+   "en": "fēn fù: to hand over, to give."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "疏狂：不拘礼节，自由放纵。",
+   "en": "shū kuáng: free and wild, not caring about rules."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "批：在公文上写下批准的意见。",
+   "en": "pī: to write approval on an official paper."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "给雨支风券：调派风雨的凭证。",
+   "en": "gěi yǔ zhī fēng quàn: a permit for handing out rain and sending out wind."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "上：向上呈交，递给皇帝或天帝。",
+   "en": "shàng: to send up a paper to the ruler."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "留云借月章：请求留住白云、借来明月的奏章。",
+   "en": "liú yún jiè yuè zhāng: a request to keep the clouds and borrow the moon."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "觞：古代的酒杯。",
+   "en": "shāng: an ancient wine cup."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "几曾：哪里曾经，意思是从来没有。",
+   "en": "jǐ céng: when ever? It means never."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "侯王：王侯贵族，有权有势的人。",
+   "en": "hóu wáng: lords and princes, people with power."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "玉楼金阙：玉做的楼、金做的宫门，指天上的宫殿，也暗指朝廷。",
+   "en": "yù lóu jīn què: towers of jade and gates of gold, the palaces of Heaven, also hinting at the emperor's court."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "慵：懒，不想。",
+   "en": "yōng: too lazy to, not wanting to."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 1,
+   "zh": "且：暂且，姑且。",
+   "en": "qiě: for now, for the time being."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我是天宫里管山水的官，",
+   "en": "I am the keeper of mountains and rivers in the Palace of Heaven,"
+  },
+  {
+   "zh": "老天爷给了我一副不受拘束的性子。",
+   "en": "and Heaven gave me a free and wild nature."
+  },
+  {
+   "zh": "我曾经批过调派风雨的公文，",
+   "en": "I have signed permits to hand out rain and send out wind,"
+  },
+  {
+   "zh": "也一次次递上留住白云、借来明月的奏章。",
+   "en": "and again and again sent up requests to keep the clouds and borrow the moon."
+  },
+  {
+   "zh": "我写诗上万首，",
+   "en": "I have written ten thousand poems,"
+  },
+  {
+   "zh": "喝酒上千杯，",
+   "en": "and drunk a thousand cups of wine."
+  },
+  {
+   "zh": "哪里曾正眼看过那些王侯？",
+   "en": "When did I ever look twice at lords and princes?"
+  },
+  {
+   "zh": "就算是玉楼金殿，我也懒得回去，",
+   "en": "Even towers of jade and gates of gold, I am too lazy to go back to them."
+  },
+  {
+   "zh": "暂且插上梅花，醉在洛阳城里。",
+   "en": "For now I will wear plum blossoms in my hair and stay drunk in Luoyang."
+  }
+ ],
+ "background": {
+  "zh": "西都就是洛阳。北宋时，洛阳是西京，所以叫西都。朱敦儒是洛阳人，年轻时住在那里，不肯去做官。一般认为这首词是他早年在洛阳时写的，用开玩笑的口气说明自己的志向：只爱山水诗酒，不想和权贵打交道。",
+  "en": "The Western Capital is Luoyang. In the Northern Song, Luoyang was the western capital. Zhu Dunru came from Luoyang and lived there when young, refusing to take office. This lyric is usually thought to come from those early years. In a joking voice he states his wish: he loves only mountains, rivers, poems and wine, and wants nothing to do with powerful people."
+ },
+ "author_note": {
+  "zh": "朱敦儒（1081—1159），字希真，号岩壑，洛阳人，宋代词人。他早年过着隐士一样的生活，多次推辞朝廷的召请。北宋灭亡后他逃到南方，后来做过官。他的词语言平易，像说话一样自然。",
+  "en": "Zhu Dunru (1081–1159) was a Song lyric poet from Luoyang. When young he lived like a hermit and turned down the court's calls more than once. After the Northern Song fell he fled south and later did serve as an official. His lyrics use plain words and sound as natural as speech."
+ },
+ "appreciation": {
+  "zh": "这首词像一个人在大声介绍自己。开头就说：我是天上管山水的官，天生就爱自由。接着他编了一套好玩的“工作”：批风雨的公文，写留云借月的奏章。风、雨、云、月都归他管，可见他有多爱大自然。下片说诗写了上万首，酒喝了上千杯，从来不把王侯放在眼里。最后，连天上的玉楼金殿他都懒得回去，只想插着梅花醉在洛阳。整首词又潇洒又幽默，让人看到一个不愿被名利捆住的人。",
+  "en": "This lyric is like a man loudly introducing himself. He starts: I am Heaven's keeper of mountains and rivers, born to love freedom. Then he invents a playful job for himself: signing papers for wind and rain, and sending up requests to keep the clouds and borrow the moon. Wind, rain, clouds and moon are all his to manage, which shows how much he loves nature. In the second half he says he has written ten thousand poems and drunk a thousand cups, and never cared about lords and princes. In the end he is too lazy even to return to the jade towers of Heaven. He only wants to wear plum blossoms and stay drunk in Luoyang. The whole lyric is carefree and funny. It shows a man who will not be tied down by fame or money."
+ },
+ "famous_lines": [
+  6,
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "freedom",
+   "hermit",
+   "wine",
+   "nature",
+   "plum-blossom"
+  ]
+ },
+ "uncertain": []
+}

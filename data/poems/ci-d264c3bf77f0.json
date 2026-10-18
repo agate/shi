@@ -1,0 +1,346 @@
+{
+ "id": "ci-d264c3bf77f0",
+ "kind": "ci",
+ "title": "生查子·关山魂梦长",
+ "title_en": "Sheng Zha Zi: Long Are the Dreams Across Mountain Passes",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·生查子",
+  "en": "ci to the tune Sheng Zha Zi"
+ },
+ "lines": [
+  [
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "青",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "纱",
+    "shā"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ]
+  ],
+  [
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "真",
+    "zhēn"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "难",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "关山：关口和山岭，指路途遥远、隔着重重山关。",
+   "en": "guān shān: mountain passes and ranges; a long road with many mountains in between."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "魂梦长：在梦里走了很远很远的路去找对方。",
+   "en": "hún mèng cháng: in dreams the soul travels a long, long way to find the loved one."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "鱼雁：古人传说鱼和大雁都能帮人传递书信，所以用“鱼雁”代指书信。",
+   "en": "yú yàn: fish and geese. Old stories said both could carry letters, so the words came to mean letters."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "音尘：音信、消息。",
+   "en": "yīn chén: news, word from someone."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "两鬓（bìn）：脸两旁靠近耳朵的头发。",
+   "en": "liǎng bìn: the hair on both sides of the face, near the ears."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "可怜：可爱，让人疼惜。青：黑色。可怜青：两鬓还是乌黑的，人还年轻。",
+   "en": "kě lián qīng: kě lián here means lovely, dear; qīng means black. The hair is still black; the person is still young."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "只为：只是因为。",
+   "en": "zhǐ wèi: only because."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "相思：想念远方的人。",
+   "en": "xiāng sī: missing someone far away."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "归梦：梦里回到家。",
+   "en": "guī mèng: going home in a dream."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "碧纱窗：糊着绿纱的窗子，这里指心上人住的房间。",
+   "en": "bì shā chuāng: a window covered with green gauze; here, the room of the loved one."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "人人：宋代口语里对亲爱的人的称呼，就像“亲爱的”。",
+   "en": "rén rén: in Song-dynasty speech, a loving name for a dear one, like \"my dear\"."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "真个：真的，实在。",
+   "en": "zhēn gè: truly, really."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "隔着重重关山，我在梦里走了很远的路。",
+   "en": "Across many mountain passes, my dreams travel a long way."
+  },
+  {
+   "zh": "可是你的书信、消息却那么少。",
+   "en": "Yet letters and news from you are so few."
+  },
+  {
+   "zh": "我两鬓的头发本来还那么黑，",
+   "en": "The hair at my temples was still so black,"
+  },
+  {
+   "zh": "只因为想你，人就变老了。",
+   "en": "and only from missing you, I have grown old."
+  },
+  {
+   "zh": "梦里我回到了你那绿纱窗前，",
+   "en": "In a dream I come back to your green-gauze window,"
+  },
+  {
+   "zh": "把心里话说给亲爱的你听：",
+   "en": "and tell you, my dear, what is in my heart:"
+  },
+  {
+   "zh": "分别真的太难受了，",
+   "en": "Being apart is truly hard;"
+  },
+  {
+   "zh": "怎么也比不上相聚的好。",
+   "en": "nothing is as good as being together."
+  }
+ ],
+ "background": {
+  "zh": "这首词收在晏几道的词集《小山词》里，写一个在远方的人思念家中的爱人。写作时间不详。另有一首几乎一样的词被题为王观所作，只有几个字不同，比如“鱼雁音尘”作“塞雁音书”，“只为”作“一夜”。一般选本把它算作晏几道的作品。词牌“生查子”的“查”读 zhā。",
+  "en": "This ci is in Yan Jidao's collection, Xiaoshan Ci. It is about someone far from home who misses the one he loves. When it was written is not known. An almost identical ci is also given to Wang Guan, with a few words changed. Most anthologies give it to Yan Jidao. In the tune name Sheng Zha Zi, the middle word is read zhā."
+ },
+ "author_note": {
+  "zh": "晏几道，字叔原，号小山，北宋词人，是宰相晏殊的小儿子，和父亲一起被称为“二晏”。他家道中落后，一生不得志，词里多写相思、离别和对往日的怀念，感情真挚，语言清丽。这首词用的都是口语，很能看出他直白深情的一面。",
+  "en": "Yan Jidao, also called Shuyuan and Xiaoshan, was a Northern Song ci poet. He was the youngest son of the chief minister Yan Shu, and the two are called \"the two Yans\". After his family's fortunes fell, he never did well in life. His ci are mostly about love, parting and missing the past, with true feeling and clear, lovely words. This ci, written in plain speech, shows his direct and tender side."
+ },
+ "appreciation": {
+  "zh": "上片写远方的思念：路远，只能在梦里去找；信少，连鱼和雁都不帮忙。“两鬓可怜青，只为相思老”是全词最动人的地方，头发明明还黑，人却因为想念而老了，把想念的苦说得很真切。下片写梦：梦里回到爱人的窗前，说的话非常简单，就是“分开真难受，还是在一起好”。可这一切只是梦，醒来还是分离，读来更让人心酸。没有华丽的词，像普通人说的大白话，反而让人觉得真诚可信。",
+  "en": "The first half is about missing someone far away. The road is long, so he can only look for her in dreams. Letters are few; even the fish and geese do not help. The most moving lines are about his hair: it is still black, yet missing her has made him old. They make the pain of longing feel real. The second half is a dream. He comes back to her window and says something very simple: being apart is hard, being together is better. But it is only a dream; when he wakes they are still apart, and that makes it sadder. There are no fancy words. It sounds like ordinary talk, and that is why it feels honest."
+ },
+ "famous_lines": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "separation",
+   "dream"
+  ]
+ },
+ "uncertain": []
+}

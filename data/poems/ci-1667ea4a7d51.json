@@ -1,0 +1,400 @@
+{
+ "id": "ci-1667ea4a7d51",
+ "kind": "ci",
+ "title": "清平乐·春晚",
+ "title_en": "Qing Ping Yue: Late Spring",
+ "author": "王安国",
+ "author_en": "Wang Anguo",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《清平乐》，双调四十六字",
+  "en": "ci to the tune Qing Ping Yue, 46 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "费",
+    "fèi"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "污",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "琵",
+    "pí"
+   ],
+   [
+    "琶",
+    "pá"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "肯",
+    "kěn"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "原始资料把这首词记在王安石名下。今天通行的《宋词三百首》《全宋词》等书，一般把它记为王安石的弟弟王安国的作品，题目作“春晚”。词的文字没有不同。",
+  "en": "The source corpus lists this ci under Wang Anshi. Today's common editions, such as Three Hundred Song Ci and the Complete Song Ci, usually give it to his younger brother Wang Anguo, with the title Late Spring. The words of the poem are the same."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "留春：把春天留住，不让它走。",
+   "en": "liú chūn: to keep spring from leaving."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "费尽：用尽了，花光了力气。",
+   "en": "fèi jìn: to use up completely."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "莺儿语：黄莺的叫声。好像黄莺一直在叫，想劝春天留下。",
+   "en": "yīng ér yǔ: the singing of orioles, as if they kept begging spring to stay."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "残红：凋落的花瓣。",
+   "en": "cán hóng: fallen flower petals."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "宫锦：皇宫里专用的、织着花纹的漂亮丝绸。这里用来比满地花瓣。",
+   "en": "gōng jǐn: fine patterned silk made for the palace. Here it stands for the carpet of petals."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 7,
+   "zh": "污：弄脏了。花瓣被雨打进泥里，像华丽的丝绸被弄脏。",
+   "en": "wū: soiled. The petals beaten into the mud look like rich silk made dirty."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "南园：南边的花园，泛指家里的园子。",
+   "en": "nán yuán: the south garden, simply the garden of the house."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "小怜：本来是北齐时一位很会弹琵琶的女子冯小怜。这里借指弹琵琶的年轻歌女。",
+   "en": "xiǎo lián: Feng Xiaolian, a woman of the Northern Qi famous for playing the pipa. Here it means a young singing girl who plays the pipa."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "初上：刚刚拿起来弹。",
+   "en": "chū shàng: just beginning to play."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "琵琶：一种抱在怀里、用手指弹的弦乐器。",
+   "en": "pí pá: a plucked string instrument held upright in the lap."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "晓来：天亮以来，早上。",
+   "en": "xiǎo lái: since dawn, in the morning."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "思绕天涯：心思飘到很远很远的地方。天涯，天边。",
+   "en": "sī rào tiān yá: one's thoughts wander to the far ends of the earth. Tiān yá means the edge of the sky."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 6,
+   "zh": "画堂朱户：画着彩画的厅堂，涂着红漆的大门，指富贵人家。",
+   "en": "huà táng zhū hù: painted halls and red-lacquered doors, the homes of the rich."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "自在：自由自在，想去哪就去哪。",
+   "en": "zì zài: free and easy, going wherever it likes."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "杨花：柳絮，柳树的种子带着白色的绒毛，春末随风乱飞。",
+   "en": "yáng huā: willow down, the white fluffy seeds that float on the wind in late spring."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天留不住了。",
+   "en": "Spring cannot be made to stay."
+  },
+  {
+   "zh": "黄莺叫了又叫，也是白费力气。",
+   "en": "The orioles sing and sing, all in vain."
+  },
+  {
+   "zh": "满地落花，像华美的丝绸被泥水弄脏。",
+   "en": "Fallen petals cover the ground, like palace silk soiled in the mud."
+  },
+  {
+   "zh": "那是昨夜南园的一场风雨打落的。",
+   "en": "Last night wind and rain swept the south garden."
+  },
+  {
+   "zh": "年轻的歌女刚刚弹起琵琶。",
+   "en": "A young singing girl has just begun to play the pipa."
+  },
+  {
+   "zh": "从早上起，她的心思就飘到了遥远的天边。",
+   "en": "Since dawn her thoughts have drifted to the ends of the earth."
+  },
+  {
+   "zh": "杨花不肯飞进富贵人家的画堂红门，",
+   "en": "The willow down will not drift into painted halls behind red doors;"
+  },
+  {
+   "zh": "宁愿在春风里自由自在地飘。",
+   "en": "it would rather float free in the spring wind."
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春，就是春天快结束的时候。一夜风雨，花都落了，词人心里生出惜春的感伤。写作的具体时间和地点不清楚。原始资料把它记在王安石名下，今天通行的本子大多认为是他弟弟王安国写的，也有书记作王安石。最后两句写杨花不肯进富贵人家，常被看作词人自己不愿攀附权贵的心意。",
+  "en": "This ci is about late spring, when the season is nearly over. After a night of wind and rain the flowers have all fallen, and the poet feels sad to see spring go. We do not know exactly when or where it was written. The source corpus puts it under Wang Anshi. Most common editions today say his younger brother Wang Anguo wrote it, though some books still give it to Wang Anshi. The last two lines, about willow down that will not enter rich homes, are often read as the poet's own wish not to cling to the powerful."
+ },
+ "author_note": {
+  "zh": "王安国（1028—1074），字平甫，北宋人，是改革家王安石的弟弟。他很有才学，但对哥哥推行的新法有不同看法。他性格耿直，不肯讨好有权势的人，后来被罢官回家。他留下的词很少，这首是最有名的一首。",
+  "en": "Wang Anguo (1028–1074), styled Pingfu, lived in the Northern Song. He was the younger brother of the reformer Wang Anshi. He was very learned, but he did not agree with all of his brother's new laws. He was honest and would not flatter powerful people, and he was later sent home from office. Few of his ci survive, and this is the most famous."
+ },
+ "appreciation": {
+  "zh": "上片写春天走了。黄莺叫个不停，像在苦苦挽留，可春天还是走了。满地花瓣被雨打进泥里，像漂亮的丝绸弄脏了，让人心疼。原因只有一句：昨夜南园风雨。下片换了画面。一个年轻歌女抱起琵琶，一早上心思就飞到了天边，她也被春天的离去勾起了心事。最后两句最妙：杨花不肯飘进富贵人家的门里，偏要在春风里自由地飞。写的是杨花，也像一个人清高、自在的样子。",
+  "en": "The first stanza shows spring leaving. The orioles sing on and on, as if pleading with it, but spring goes anyway. Petals beaten into the mud look like lovely silk gone dirty, and it hurts to see. The cause is given in one line: last night's wind and rain in the south garden. The second stanza changes the picture. A young singing girl takes up her pipa, and all morning her mind has flown far away. Spring's going has stirred her heart too. The last two lines are the best. The willow down will not float into the doors of the rich; it would rather fly freely in the spring wind. It is about willow down, but it also looks like a person who is proud, clean and free."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "fallen-flowers",
+   "freedom",
+   "music"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "author",
+   "zh": "原始资料记作王安石，本文按通行本改记为王安国。请核对作者归属。",
+   "en": "The source corpus gives Wang Anshi; this file follows common editions and gives Wang Anguo. Please confirm the attribution."
+  }
+ ]
+}

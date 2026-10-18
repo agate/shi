@@ -1,0 +1,273 @@
+{
+ "id": "7066e611-faa5-427c-8fce-e0bf10c55416",
+ "kind": "shi",
+ "title": "出塞",
+ "title_en": "Out to the Frontier",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "将",
+    "jiàng"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里的底本出自《乐府诗集》里的《杂曲歌辞·盖罗缝》，没有署名，文字是“万里征人尚未还。但愿龙庭神将在，不教胡马渡阴山”。这首诗通行的是王昌龄《出塞》（二首其一），课本里也是这个版本，作“万里长征人未还。但使龙城飞将在，不教胡马度阴山”。",
+  "en": "Our source text comes from an unsigned song in the Yuefu Collection, with a few different words in lines two to four. The widely known version, also used in textbooks, is Wang Changling's \"Out to the Frontier\" (the first of two poems). That is the text given here."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "这里是“回来”的意思，读 huán。",
+   "en": "Here it means to come back, so it is read huán."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "将",
+   "pinyin": "jiàng",
+   "zh": "这里指将军，读 jiàng。",
+   "en": "Here it means a general, so it is read jiàng."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "这里是“让、使”的意思，现在一般读 jiào。一说按古音读 jiāo（平声）。",
+   "en": "Here it means to let or to allow. Today it is usually read jiào. Some read it jiāo, following the old level tone."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 7,
+   "zh": "秦时明月汉时关：秦汉时的明月，秦汉时的边关。这是一种前后互相补充的写法（互文），意思是月亮和关塞从秦汉时起就在这里了。",
+   "en": "qín shí míng yuè hàn shí guān: the bright moon and the frontier pass of the Qin and Han. The two halves fill each other in: both the moon and the pass have been here since Qin and Han times, nearly a thousand years before."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "关：边关，修在边境上的关口和城堡。",
+   "en": "guān: a frontier pass, a gate and fort built on the border."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "万里长征：到万里以外的边疆去打仗。征，出征。",
+   "en": "wàn lǐ cháng zhēng: marching ten thousand li away to fight on the border. Zhēng means to go to war."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "人未还：去的人还没有回来。",
+   "en": "rén wèi huán: the men who went have not come back."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "但使：只要。",
+   "en": "dàn shǐ: if only, as long as."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 6,
+   "zh": "龙城飞将：一般认为指汉朝名将李广，匈奴人怕他，叫他“飞将军”。龙城，一说指李广驻守过的卢龙城一带，一说泛指边关重镇。",
+   "en": "lóng chéng fēi jiàng: usually taken to mean Li Guang, a famous Han general. The Xiongnu feared him and called him the Flying General. Lóng chéng is said by some to be the Lulong area he guarded, and by others to stand for the border forts in general."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "胡马：北方游牧民族的骑兵。",
+   "en": "hú mǎ: the horsemen of the nomad peoples of the north."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "度阴山：越过阴山。阴山在今天内蒙古中部，汉朝时是北方的天然屏障。",
+   "en": "dù yīn shān: to cross the Yin Mountains, in the middle of today's Inner Mongolia. In Han times they were a natural wall in the north."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "还是秦汉时的那轮明月，还是秦汉时的那座边关。",
+   "en": "The same bright moon as in Qin times, the same frontier pass as in Han times."
+  },
+  {
+   "zh": "到万里外打仗的人，到现在还没有回来。",
+   "en": "The men who marched ten thousand li away have still not come home."
+  },
+  {
+   "zh": "只要龙城的飞将军李广还在，",
+   "en": "If only the Flying General of Longcheng were still here,"
+  },
+  {
+   "zh": "就绝不会让敌人的骑兵越过阴山。",
+   "en": "no enemy horsemen would ever be allowed across the Yin Mountains."
+  }
+ ],
+ "background": {
+  "zh": "《出塞》是乐府的老题目，专写边疆打仗的事。王昌龄年轻时到过西北边塞，一般认为这首诗就写在那段时间。那时边境上常有战事，很多士兵离家万里，多年回不了家。诗人望着边关的明月，想起秦汉以来的战争，写下了这首诗。它在流传中也被编成歌曲，所以有的书里收作无名氏的《盖罗缝》，文字稍有不同。",
+  "en": "\"Out to the Frontier\" is an old song title for poems about war on the border. As a young man Wang Changling traveled to the northwest frontier, and this poem is usually thought to come from that time. Fighting on the border was common then, and many soldiers were far from home for years. Looking at the moon over the pass, the poet thought of the wars since Qin and Han times and wrote this poem. It was also sung as a song, so some books keep it as an unsigned song with a few words changed."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），字少伯，盛唐诗人。他特别擅长写七言绝句，被人称为“七绝圣手”。他写了很多边塞诗，写出了士兵的辛苦和守卫国家的豪气。《芙蓉楼送辛渐》“一片冰心在玉壶”也是他的名作。",
+  "en": "Wang Changling (about 698 to about 757) was a poet of the high Tang. He was so good at seven-character quatrains that people called him the Master of the Seven-Character Quatrain. He wrote many frontier poems about the hardship of soldiers and their pride in guarding the land. \"Seeing Off Xin Jian at Furong Tower\", with its line about a heart as pure as ice in a jade pot, is another famous poem of his."
+ },
+ "appreciation": {
+  "zh": "第一句只有七个字，却装下了一千年。月亮还是秦汉的月亮，关还是秦汉的关，可是从那时到现在，边境上的仗一直没停过。第二句写士兵离家万里，一直回不来，这是千百年来许多家庭的痛。后两句诗人发出一个愿望：要是有李广那样的好将军就好了，敌人的马就不敢越过阴山。这里有对和平的盼望，也有对守边将领的不满。全诗又悲壮又雄浑，明代人李攀龙把它推为唐人七言绝句的第一名。",
+  "en": "The first line has only seven characters, yet it holds a thousand years. The moon is the same moon as in Qin and Han times, the pass the same pass, and in all that time the fighting on the border has never stopped. The second line tells of soldiers ten thousand li from home who never return, a pain shared by countless families over the centuries. The last two lines are a wish: if only there were a great general like Li Guang, the enemy's horses would not dare cross the Yin Mountains. There is longing for peace here, and also quiet disappointment with the generals of the day. The poem is both sad and grand. Li Panlong, a Ming writer, called it the finest seven-character quatrain of the Tang."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "moon",
+   "history",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

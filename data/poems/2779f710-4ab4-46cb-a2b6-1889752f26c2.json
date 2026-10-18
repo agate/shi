@@ -1,0 +1,376 @@
+{
+ "id": "2779f710-4ab4-46cb-a2b6-1889752f26c2",
+ "kind": "shi",
+ "title": "寄左省杜拾遗",
+ "title_en": "To Reminder Du of the Left Office",
+ "author": "岑参",
+ "author_en": "Cen Shen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "联",
+    "lián"
+   ],
+   [
+    "步",
+    "bù"
+   ],
+   [
+    "趋",
+    "qū"
+   ],
+   [
+    "丹",
+    "dān"
+   ],
+   [
+    "陛",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "曹",
+    "cáo"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "微",
+    "wēi"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "仗",
+    "zhàng"
+   ],
+   [
+    "入",
+    "rù"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "惹",
+    "rě"
+   ],
+   [
+    "御",
+    "yù"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "羡",
+    "xiàn"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "圣",
+    "shèng"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "阙",
+    "quē"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "谏",
+    "jiàn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "发",
+   "pinyin": "fà",
+   "zh": "读 fà，“白发”就是白头发。",
+   "en": "Read fà; bái fà means white hair."
+  },
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "读 cháo，“圣朝”指朝廷、朝代。",
+   "en": "Read cháo; shèng cháo means the sacred court, the reigning dynasty."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "阙",
+   "pinyin": "quē",
+   "zh": "读 quē，同“缺”，意思是缺失、过错。读 què 时指宫门。",
+   "en": "Read quē, the same as the word for \"lacking\", meaning a fault. Read què it means a palace gate."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "联步：并排走，一起走。",
+   "en": "lián bù: walking side by side."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "趋：小步快走，是古代见皇帝时表示恭敬的走法。",
+   "en": "qū: to walk with quick small steps, a respectful way to approach the emperor."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "丹陛：宫殿前涂成红色的台阶，代指朝廷。",
+   "en": "dān bì: the red-painted steps in front of the palace hall, standing for the court."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "分曹：分属不同的官署。杜甫在门下省，岑参在中书省。",
+   "en": "fēn cáo: belonging to different offices. Du Fu was in the Chancellery, Cen Shen in the Secretariat."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "限：隔开。",
+   "en": "xiàn: to be kept apart."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "紫微：本来是星名，这里指中书省，岑参在那里做官。",
+   "en": "zǐ wēi: the name of a star, here meaning the Secretariat, where Cen Shen worked."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "天仗：皇帝的仪仗队。",
+   "en": "tiān zhàng: the emperor's honor guard."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "惹：沾上。",
+   "en": "rě: to pick up, to carry on oneself."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "御香：皇宫里烧的香。",
+   "en": "yù xiāng: the incense burned in the palace."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "青云：高高的天空，也比喻高官显位。",
+   "en": "qīng yún: the blue clouds high above, also a picture of high rank."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "阙事：缺失、做错的事。",
+   "en": "quē shì: faults, things done wrong."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "谏书：给皇帝提意见的奏章。",
+   "en": "jiàn shū: written advice to the emperor."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "稀：少。",
+   "en": "xī: few."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我们一起快步走上红色的宫阶，",
+   "en": "Together we hurry up the red palace steps,"
+  },
+  {
+   "zh": "却分在不同的官署，被中书省隔开。",
+   "en": "but we work in different offices, kept apart."
+  },
+  {
+   "zh": "清早跟着皇帝的仪仗进宫，",
+   "en": "At dawn we follow the emperor's guard into the palace;"
+  },
+  {
+   "zh": "傍晚带着一身御香回家。",
+   "en": "at dusk we go home carrying the palace incense on our robes."
+  },
+  {
+   "zh": "头发白了，看见花落就伤心；",
+   "en": "With white hair, I grieve to see the flowers fall;"
+  },
+  {
+   "zh": "望着青云，羡慕鸟儿高高飞起。",
+   "en": "looking at the high clouds, I envy the birds that soar."
+  },
+  {
+   "zh": "圣明的朝廷没有什么过错，",
+   "en": "The wise court has no faults,"
+  },
+  {
+   "zh": "所以我觉得要写的谏书越来越少。",
+   "en": "so I find I write fewer and fewer letters of advice."
+  }
+ ],
+ "background": {
+  "zh": "唐肃宗乾元元年（758年），岑参在中书省做右补阙，杜甫在门下省做左拾遗。两人都是谏官，每天一同上朝，但在不同的官署办公。岑参写了这首诗送给杜甫，杜甫也回了一首《奉答岑参补阙见赠》。",
+  "en": "In 758, Cen Shen was a Right Rectifier in the Secretariat, and Du Fu was a Left Reminder in the Chancellery. Both were officials who gave the emperor advice. They went to court together every day but worked in different offices. Cen Shen wrote this poem for Du Fu, and Du Fu wrote one back in reply."
+ },
+ "author_note": {
+  "zh": "岑参（约715—770），唐代诗人，最有名的是边塞诗，比如《白雪歌送武判官归京》。他曾两次到西北边疆军中任职。这首诗写的是朝中生活，风格和他的边塞诗很不一样，含蓄而有深意。",
+  "en": "Cen Shen (about 715–770) was a Tang poet best known for frontier poems, such as \"Song of White Snow\". He served twice with the army on the northwest frontier. This poem is about life at court, and its style is very different from his frontier poems: quiet, with hidden meaning."
+ },
+ "appreciation": {
+  "zh": "前四句写两人的日常：一起上朝，分开办公，早上跟着仪仗进宫，晚上带着御香回家，看起来很体面。第五、六句情绪一转：头发已经白了，看见花落就伤感；抬头看鸟儿飞上青云，心里很羡慕。这里有年华老去、志向难伸的苦闷。最后两句说朝廷没有过错，所以谏书少了。表面是在称赞朝廷，一般认为这是反话：其实是说提了意见也没有用。把牢骚说得这么委婉，是这首诗耐读的地方。",
+  "en": "The first four lines show their daily life: going to court together, working apart, entering the palace at dawn behind the honor guard, going home at dusk smelling of palace incense. It all looks grand. Lines five and six change the mood. His hair is already white, and falling flowers make him sad. He looks up at birds flying into the high clouds and envies them. Here is the pain of growing old with his hopes unfulfilled. The last two lines say the court has no faults, so there is little advice to write. On the surface this praises the court. It is usually read as irony: in fact, giving advice does no good. Putting a complaint so gently is what makes this poem worth rereading."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "court",
+   "friendship",
+   "aging",
+   "irony"
+  ]
+ },
+ "uncertain": []
+}

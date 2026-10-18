@@ -1,0 +1,842 @@
+{
+ "id": "ci-08e0182d7174",
+ "kind": "ci",
+ "title": "金缕歌·陪履斋先生沧浪看梅",
+ "title_en": "To the Tune Jin Lü Ge: Viewing Plum Blossoms at Canglang with Master Lüzhai",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·金缕歌（即贺新郎，双调）",
+  "en": "ci lyric to the tune Jin Lü Ge (another name for He Xin Lang), two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "乔",
+    "qiáo"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "气",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "访",
+    "fǎng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "兴",
+    "xīng"
+   ],
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "陈",
+    "chén"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "追",
+    "zhuī"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "战",
+    "zhàn"
+   ],
+   [
+    "舰",
+    "jiàn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "悭",
+    "qiān"
+   ],
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "便",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "旋",
+    "xuán"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "筑",
+    "zhù"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "表",
+    "biǎo"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "鹤",
+    "hè"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "溅",
+    "jiàn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "遨",
+    "áo"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "簇",
+    "cù"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "队",
+    "duì"
+   ]
+  ],
+  [
+   [
+    "步",
+    "bù"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "坞",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "未",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "唱",
+    "chàng"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "发",
+    "fā"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "梢",
+    "shāo"
+   ],
+   [
+    "冻",
+    "dòng"
+   ],
+   [
+    "蕊",
+    "ruǐ"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "昔",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "原始文本题目只有词牌“金缕歌”和别名“贺新郎”，没有题目；通行本有题“陪履斋先生沧浪看梅”，这里用通行本。原始文本“重唱梅边新度曲”的“新”误作“吸”，“后不如今今非昔”少了一个“今”字，这里都按通行本补正。",
+  "en": "The corpus gives only the tune name and its other name, He Xin Lang, with no title. Common editions add the title \"Viewing Plum Blossoms at Canglang with Master Lüzhai\", followed here. The corpus also has a wrong character in place of \"new\" in \"sing again the new tune by the plums\", and drops one \"now\" from \"the future will not match now, and now is not the past\". Both are corrected here from the common text."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "便",
+   "pinyin": "biàn",
+   "zh": "“借便”是给方便，“便”读 biàn。",
+   "en": "In \"lend a helping hand\", this character means convenience and is read biàn."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "旋",
+   "pinyin": "xuán",
+   "zh": "“旋”这里是随即、不久的意思，读 xuán。",
+   "en": "Here this character means \"soon after\", and is read xuán."
+  },
+  {
+   "line": 13,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重唱”是再唱一遍，“重”读 chóng。",
+   "en": "In \"sing again\", this character means \"again\" and is read chóng."
+  },
+  {
+   "line": 17,
+   "pos": 6,
+   "char": "浪",
+   "pinyin": "làng",
+   "zh": "“沧浪”读 cāng làng。",
+   "en": "The name Canglang is read cāng làng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "乔木：高大的树。",
+   "en": "qiáo mù: tall old trees."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "生云气：树高得好像冒出了云雾。",
+   "en": "shēng yún qì: so tall that clouds and mist seem to rise from them."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 5,
+   "zh": "中兴英雄：指南宋名将韩世忠。中兴，国家衰落后重新振兴。沧浪亭在南宋时曾是韩世忠的住宅。",
+   "en": "zhōng xīng yīng xióng: the hero of the revival, meaning the Southern Song general Han Shizhong. Zhōng xīng means a country rising again after decline. The Canglang Pavilion garden was once his home."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "陈迹：旧迹，过去留下的痕迹。",
+   "en": "chén jì: old traces left from the past."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "暗追前事：心里默默回想从前的事。",
+   "en": "àn zhuī qián shì: silently thinking back on the past."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 7,
+   "zh": "战舰东风悭借便：韩世忠曾在黄天荡用大战船围困金兵，后来金兵趁没有风、大船开不动，用火攻逃走了。悭，吝啬。意思是东风不肯帮忙，不像赤壁之战时东风帮了周瑜。",
+   "en": "zhàn jiàn dōng fēng qiān jiè biàn: Han Shizhong once trapped the Jin army at Huangtiandang with big warships. But on a windless day the ships could not move, and the Jin escaped by setting them on fire. Qiān means stingy. The east wind would not help, unlike at the Battle of Red Cliffs, where it helped Zhou Yu."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 6,
+   "zh": "梦断神州故里：收复北方故土的梦想破灭了。神州，指中原。",
+   "en": "mèng duàn shén zhōu gù lǐ: the dream of winning back the old northern homeland was broken. Shén zhōu here means the Central Plains."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "小筑：建一座小园子。",
+   "en": "xiǎo zhù: to build a small garden home."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 7,
+   "zh": "吴宫闲地：苏州古代吴王宫殿一带的空地。",
+   "en": "wú gōng xián dì: idle land around the old palaces of the kings of Wu, in Suzhou."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 7,
+   "zh": "华表月明归夜鹤：传说丁令威学道成仙，化成仙鹤飞回家乡，停在城门的华表上，感叹城还是那座城，人却都换了。华表，立在宫殿、城门前的石柱。",
+   "en": "huá biǎo yuè míng guī yè hè: legend says Ding Lingwei became an immortal, turned into a crane and flew home. He perched on the stone pillar at the city gate and sighed that the city was the same but the people were all gone. Huá biǎo is a carved stone pillar before a palace or gate."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 8,
+   "zh": "花竹今如此：当年的花和竹子，现在成了这个样子。",
+   "en": "huā zhú jīn rú cǐ: the flowers and bamboo of those days have come to this."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "溅清泪：像洒下的眼泪。",
+   "en": "jiàn qīng lèi: like tears splashing down."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "遨头：本指宋代成都太守春天出游，后来泛指地方长官出游。这里指吴潜。",
+   "en": "áo tóu: first the name for the governor of Chengdu leading spring outings in the Song; later any local governor on an outing. Here it means Wu Qian."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 7,
+   "zh": "小簇行春队：带着一小队人出来春游。簇，聚在一起。",
+   "en": "xiǎo cù xíng chūn duì: leading a small party out to enjoy spring. Cù means to gather."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "苍苔：青色的苔藓。",
+   "en": "cāng tái: green moss."
+  },
+  {
+   "line": 11,
+   "start": 5,
+   "end": 7,
+   "zh": "别坞：别处的小山坳。坞，四面高中间低的地方。",
+   "en": "bié wù: another little hollow. Wù is a low spot ringed by higher ground."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "开未：开了没有。",
+   "en": "kāi wèi: open yet or not."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "新度曲：新写的曲子。",
+   "en": "xīn dù qǔ: a newly composed tune."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "寒梢冻蕊：寒冷的枝头，冻住的花苞。",
+   "en": "hán shāo dòng ruǐ: cold branch tips and frozen buds."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "东君：传说中管春天的神。",
+   "en": "dōng jūn: the god of spring."
+  },
+  {
+   "line": 15,
+   "start": 5,
+   "end": 7,
+   "zh": "同意：心意相同，都盼着春天快来。",
+   "en": "tóng yì: of one mind, both hoping spring will come soon."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 7,
+   "zh": "后不如今今非昔：以后不如现在，现在又不如从前。说国势一天不如一天。",
+   "en": "hòu bù rú jīn jīn fēi xī: the future will not match the present, and the present is not the past. The country is getting worse day by day."
+  },
+  {
+   "line": 17,
+   "start": 5,
+   "end": 8,
+   "zh": "沧浪水：沧浪亭边的水。沧浪亭是苏州的名园。",
+   "en": "cāng làng shuǐ: the water by the Canglang Pavilion, a famous garden in Suzhou."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "寄残醉：把这份恨托付给还没醒透的醉意。",
+   "en": "jì cán zuì: entrust it to what is left of the drunkenness."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "高大的老树好像冒出了云雾。",
+   "en": "The tall old trees seem to breathe out clouds."
+  },
+  {
+   "zh": "我来寻访中兴英雄韩世忠留下的旧迹，",
+   "en": "I come to visit the old traces of the hero of the revival,"
+  },
+  {
+   "zh": "心里默默回想从前的事。",
+   "en": "and quietly think back on the past."
+  },
+  {
+   "zh": "那时东风太吝啬，不肯帮他的战舰一把，",
+   "en": "Back then the east wind was too stingy to help his warships,"
+  },
+  {
+   "zh": "收复中原故土的梦想就这样破灭了。",
+   "en": "and the dream of winning back the homeland was broken."
+  },
+  {
+   "zh": "不久，他就在吴宫旧地上建了这座小园子。",
+   "en": "Soon after, he built this little garden on the idle land of the old Wu palaces."
+  },
+  {
+   "zh": "月光下，仙鹤飞回来停在华表上，",
+   "en": "Under the moon a crane flies home to the stone pillar,"
+  },
+  {
+   "zh": "感叹当年的花和竹子，如今成了这个样子。",
+   "en": "and sighs that the flowers and bamboo of those days have come to this."
+  },
+  {
+   "zh": "枝头上的露水，",
+   "en": "The dew on the branches"
+  },
+  {
+   "zh": "好像洒下的清泪。",
+   "en": "splashes down like clear tears."
+  },
+  {
+   "zh": "吴潜先生带着一小队人出来春游，",
+   "en": "Our governor leads a small party out to greet the spring."
+  },
+  {
+   "zh": "我们踩着青苔，去寻找幽静的小山坳，",
+   "en": "We tread the green moss, seeking quiet hollows,"
+  },
+  {
+   "zh": "问一问梅花开了没有。",
+   "en": "asking if the plum blossoms are open yet."
+  },
+  {
+   "zh": "在梅树边，再唱一遍新写的曲子，",
+   "en": "By the plum trees we sing again a newly made tune,"
+  },
+  {
+   "zh": "催寒冷枝头上冻住的花苞快快开放。",
+   "en": "urging the frozen buds on the cold branches to bloom."
+  },
+  {
+   "zh": "我们的心意，和春神一样，都盼着春天。",
+   "en": "Our hearts are one with the god of spring."
+  },
+  {
+   "zh": "可是以后不如现在，现在又不如从前，",
+   "en": "But the future will not match now, and now is not the past."
+  },
+  {
+   "zh": "两个人相对无言，望着沧浪亭边的水。",
+   "en": "Two men face each other in silence by the Canglang water."
+  },
+  {
+   "zh": "怀着这份遗恨，",
+   "en": "Holding this sorrow,"
+  },
+  {
+   "zh": "只好把它交给还没醒透的醉意。",
+   "en": "we leave it to what remains of our drunkenness."
+  }
+ ],
+ "background": {
+  "zh": "履斋先生是南宋大臣吴潜，号履斋，主张抗击外敌。沧浪亭是苏州的名园，南宋时曾是抗金名将韩世忠的住宅。早春时节，吴文英陪吴潜到沧浪亭看梅花，想起韩世忠抗金却没能收复北方，又看到南宋国势越来越弱，写下了这首词。一般认为当时吴潜在苏州做地方长官，具体年份说法不一。",
+  "en": "Master Lüzhai was Wu Qian, a Southern Song minister who wanted to fight back against foreign invaders. The Canglang Pavilion is a famous garden in Suzhou; in the Southern Song it was once the home of Han Shizhong, a great general against the Jin. In early spring Wu Wenying went with Wu Qian to see the plum blossoms there. He thought of how Han Shizhong fought the Jin but could not win back the north, and saw the Southern Song growing weaker. So he wrote this lyric. Wu Qian is usually thought to have been the governor in Suzhou then; the exact year is disputed."
+ },
+ "author_note": {
+  "zh": "吴文英，号梦窗，南宋后期的词人，生卒年不详。他一生没有做官，长期在苏州、杭州一带给官员做幕僚，也就是帮忙办事的客人。他的词用字讲究，画面很密，常常要细读才懂。这首词少见地写到了国家大事。",
+  "en": "Wu Wenying, also called Mengchuang, was a lyric writer of the late Southern Song; his exact dates are unknown. He never held office and spent much of his life around Suzhou and Hangzhou as an aide to officials. His lyrics use carefully chosen words and dense images, and often need slow reading. This one, unusually for him, is about the fate of the country."
+ },
+ "appreciation": {
+  "zh": "这首词一半是游园，一半是叹国事。上片在沧浪亭里转：老树高得冒云气，这里曾住着英雄韩世忠。他差一点就打败了金兵，可东风不帮忙，梦想破灭，只好在苏州修个园子住下。月夜仙鹤归来的故事，说的是人事全变了。枝头的露水，像替英雄流的泪。下片转到眼前：大家春游，踏着青苔找梅花，唱歌催花开，盼着春天。可是春天会来，国家的好日子却回不来了。最后两人对着沧浪水，一句话也说不出，只能借酒消愁。",
+  "en": "Half of this lyric is a garden walk, half is a sigh for the country. The first stanza moves through the Canglang garden. The old trees are so tall clouds seem to rise from them, and the hero Han Shizhong once lived here. He nearly beat the Jin army, but the east wind would not help. His dream broke, and he settled down to build a garden in Suzhou. The story of the crane coming home on a moonlit night says that everything about the people has changed. Dew on the branches is like tears for the hero. The second stanza turns to the present. The party goes out in spring, treading moss to look for plum blossoms, singing to hurry the flowers, longing for spring. But while spring will come, the country's good days will not. At the end two men face the Canglang water, unable to say a word, and can only drown their sorrow in wine."
+ },
+ "famous_lines": [
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "plum",
+   "history",
+   "hero",
+   "patriotism"
+  ]
+ },
+ "uncertain": []
+}

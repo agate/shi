@@ -1,0 +1,442 @@
+{
+ "id": "ci-293ed3acf267",
+ "kind": "ci",
+ "title": "玉楼春·东风又作无情计",
+ "title_en": "Jade Tower Spring: Again the East Wind Plays Its Heartless Trick",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "计",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "艳",
+    "yàn"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "遮",
+    "zhē"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "错",
+    "cuò"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "费",
+    "fèi"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "盏",
+    "zhǎn"
+   ],
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还似”的“还”是“仍然”的意思，读 hái，不读 huán。",
+   "en": "Here the character means still, so it is read hái, not huán."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "“看尽”的“尽”是“完、到头”的意思，读 jìn。",
+   "en": "Here the character means to the very end, so it is read jìn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "东风：春天的风。",
+   "en": "dōng fēng: the east wind, the wind of spring."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 7,
+   "zh": "作无情计：打着无情的主意，说春风狠心地要把花吹落。",
+   "en": "zuò wú qíng jì: to make a heartless plan; the spring wind seems cruel enough to blow the flowers down."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "艳粉娇红：粉色、红色的鲜艳花朵，这里指花瓣。",
+   "en": "yàn fěn jiāo hóng: bright pink and pretty red, meaning the flower petals."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "碧楼：漆成青绿色的楼。",
+   "en": "bì lóu: a building painted blue-green."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "帘影：门窗上帘子的影子。",
+   "en": "lián yǐng: the shadow of the curtain."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 6,
+   "zh": "遮：挡住。",
+   "en": "zhē: to block, to shut out."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 7,
+   "zh": "似去年今日意：和去年这一天的心情一样。",
+   "en": "sì qù nián jīn rì yì: the same feeling as on this very day last year."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "错管：不该管却去管了，白白操心。",
+   "en": "cuò guǎn: to worry about something you should not, all for nothing."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "春残事：春天快要过去这件事。",
+   "en": "chūn cán shì: the matter of spring coming to an end."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "登临：登上高处，向远处看。",
+   "en": "dēng lín: to climb up high and look far."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "费泪：流了许多眼泪。",
+   "en": "fèi lèi: to spend many tears."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "金盏：金色的酒杯，泛指精美的酒杯。",
+   "en": "jīn zhǎn: a golden wine cup, any fine wine cup."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "直须深：一定要把酒斟得满满的。",
+   "en": "zhí xū shēn: the cup must be filled to the brim."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "能几醉：还能醉上几回呢。",
+   "en": "néng jǐ zuì: how many more times can I get drunk?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春风又打起了无情的主意，",
+   "en": "Again the spring wind makes its heartless plan,"
+  },
+  {
+   "zh": "把粉的、红的花瓣吹得满地都是。",
+   "en": "and blows pink and red petals all over the ground."
+  },
+  {
+   "zh": "青绿色的楼上，帘子的影子挡不住忧愁，",
+   "en": "In the blue-green tower, the curtain's shadow cannot keep out my sorrow,"
+  },
+  {
+   "zh": "还和去年今天的心情一模一样。",
+   "en": "which feels just the same as on this day last year."
+  },
+  {
+   "zh": "谁知道我白白操心春天将尽这件事，",
+   "en": "Who knows that I fret, for nothing, about spring coming to an end?"
+  },
+  {
+   "zh": "每到一处登高望远，都曾为它流泪。",
+   "en": "Wherever I climbed up high to look far, I shed tears for it."
+  },
+  {
+   "zh": "这时候金杯里的酒一定要斟满，",
+   "en": "Now the golden cup must be filled to the brim,"
+  },
+  {
+   "zh": "等到看完落花，还能醉上几回呢？",
+   "en": "for by the time the last flowers fall, how many more times can I get drunk?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春落花时的伤感，具体写作时间不能确定。晏几道出身宰相家庭，年轻时过着富贵的生活。父亲晏殊去世后，家道慢慢衰落，他的日子越来越不如意。所以他的词里常常有对往事的怀念和对时光流逝的叹息。这首词从风吹落花写起，写到登高流泪，最后以饮酒收尾，正是这种惜春伤时的心情。",
+  "en": "This lyric is about the sadness of falling flowers in late spring. We do not know exactly when it was written. Yan Jidao grew up in the family of a chief minister and lived in wealth when young. After his father Yan Shu died, the family slowly declined and his life grew harder. So his lyrics often miss the past and sigh over passing time. This one starts with the wind blowing the flowers down, moves to tears shed on high places, and ends with wine. It shows that feeling of loving spring and grieving as it goes."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—1110），号小山，是晏殊的第七个儿子，和父亲合称“二晏”。他性格清高，不肯讨好有权势的人，晚年生活贫困。他的词多写相思、离别和对往日欢乐的回忆，感情真挚，语言清丽，有《小山词》传世。",
+  "en": "Yan Jidao (about 1038–1110), also called Xiaoshan, was the seventh son of Yan Shu; father and son are called the Two Yans. He was proud and would not flatter powerful people, and he was poor in his later years. His lyrics are mostly about longing, parting and memories of happy days. They are sincere and clear and fresh in language. His collection is called Xiaoshan Ci."
+ },
+ "appreciation": {
+  "zh": "开头说春风“又作无情计”，一个“又”字，说明这样的事年年都有，词人年年都伤心。满地的粉红花瓣很美，却是被风吹落的，美里带着可惜。帘子挡得住阳光，却挡不住愁，这愁和去年今天一模一样。下半首词人自嘲：春天要走，谁也留不住，我却白白为它操心，到处登高流泪。最后他想通了，不如把酒杯斟满，趁花还没落完多醉几回，因为这样的机会已经不多了。表面是劝自己喝酒，其实是更深的不舍。",
+  "en": "At the start, the spring wind makes its heartless plan again. The word again tells us this happens every year, and every year the poet is sad. The ground covered with pink and red petals is beautiful, but the wind blew them down, so the beauty comes with regret. A curtain can block the sun, but not sorrow, and this sorrow is just like last year's. In the second half the poet laughs at himself. No one can keep spring from leaving, yet he worries about it for nothing and cries on every high place. At last he decides to fill the cup and get drunk a few more times before the flowers are all gone, because such chances are few. On the surface he is telling himself to drink. Underneath, he cannot bear to let spring go."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "falling-flowers",
+   "late-spring",
+   "wine",
+   "sorrow",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

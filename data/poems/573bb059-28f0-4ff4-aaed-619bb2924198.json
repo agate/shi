@@ -1,0 +1,261 @@
+{
+ "id": "573bb059-28f0-4ff4-aaed-619bb2924198",
+ "kind": "shi",
+ "title": "江畔独步寻花·其六",
+ "title_en": "Walking Alone by the River in Search of Flowers (No. 6)",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "娘",
+    "niáng"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "蹊",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "朵",
+    "duǒ"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "朵",
+    "duǒ"
+   ],
+   [
+    "压",
+    "yā"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "低",
+    "dī"
+   ]
+  ],
+  [
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "戏",
+    "xì"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "恰",
+    "qià"
+   ],
+   [
+    "恰",
+    "qià"
+   ],
+   [
+    "啼",
+    "tí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 6,
+   "char": "蹊",
+   "pinyin": "xī",
+   "zh": "蹊：小路，现在课本读 xī。“蹊跷”的“蹊”才读 qī。",
+   "en": "xī: a small path. Textbooks read it xī here; it is read qī only in the word qī qiāo, \"strange\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "黄四娘：杜甫在成都的邻居。“四娘”是说她在家里排行第四。",
+   "en": "Huáng Sìniáng: Du Fu's neighbor in Chengdu. \"Fourth lady\" means she was the fourth child in her family."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "蹊：小路。",
+   "en": "xī: a small path."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "压枝低：花太多，把树枝都压弯了。",
+   "en": "yā zhī dī: so many flowers that the branches bend down."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "留连：舍不得离开。",
+   "en": "liú lián: lingering, not wanting to leave."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "戏蝶：玩耍的蝴蝶。",
+   "en": "xì dié: playful butterflies."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "时时：时常，不停地。",
+   "en": "shí shí: again and again, all the time."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "自在：自由自在，无拘无束。",
+   "en": "zì zài: free and easy."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "娇莺：可爱的黄莺。黄莺是一种叫声好听的鸟。",
+   "en": "jiāo yīng: a lovely oriole, a bird with a sweet song."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "恰恰：形容鸟叫的声音，像“恰恰、恰恰”。一说是“正好”的意思，指正好在这时叫起来。",
+   "en": "qià qià: the sound of the bird's call. Another reading says it means \"just then\": the bird sings right at that moment."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "黄四娘家门前的小路上，开满了鲜花，",
+   "en": "The path by Huang Siniang's house is full of flowers."
+  },
+  {
+   "zh": "成千上万朵花，把树枝都压弯了。",
+   "en": "Thousands and thousands of blossoms weigh the branches down."
+  },
+  {
+   "zh": "贪玩的蝴蝶舍不得离开，不停地飞舞，",
+   "en": "Playful butterflies linger and dance on and on,"
+  },
+  {
+   "zh": "自由自在的黄莺，“恰恰”地唱个不停。",
+   "en": "And carefree orioles sing, qià qià, sweet and clear."
+  }
+ ],
+ "background": {
+  "zh": "经历了多年战乱和漂泊，杜甫来到成都，在浣花溪边盖了一座草堂，生活总算安定下来。一般认为，761年春天，他一个人沿着江边散步赏花，一路写了七首绝句，这是第六首。黄四娘是他的邻居，她家门前花开得特别好。",
+  "en": "After years of war and wandering, Du Fu came to Chengdu and built a thatched cottage by Washing Flower Creek. At last his life was settled. It is usually said that in the spring of 761 he walked alone along the river enjoying the flowers, and wrote seven quatrains along the way. This is the sixth. Huang Siniang was his neighbor, and the flowers by her house were especially fine."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他的诗大多写战乱和百姓的苦难，读起来很沉重。在成都草堂的几年，是他一生中难得的安稳日子，所以这时候他写了不少轻松、明快的小诗。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. Most of his poems are about war and the suffering of ordinary people, and they feel heavy. His few years at the thatched cottage in Chengdu were a rare peaceful time in his life, so he wrote many light, cheerful little poems then."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅热闹的春天的画。先看小路：两边开满了花。再看树枝：千朵万朵，把枝条都压弯了。然后画面动起来：蝴蝶围着花飞来飞去，舍不得走；黄莺在树上自由自在地唱歌。有颜色，有动作，还有声音。“千朵万朵”“时时”“恰恰”这些重复的词，读起来像儿歌一样轻快。平时愁眉苦脸的杜甫，这一回心情好极了，我们读着也跟着开心起来。",
+  "en": "This poem is like a lively spring painting. First look at the path: flowers on both sides. Then the branches: thousands of blossoms bending them low. Then the picture starts to move. Butterflies flit around the flowers and do not want to leave. Orioles sing freely in the trees. There is color, movement and sound. The repeated words, \"thousands upon thousands\", \"again and again\", \"qià qià\", make it bounce like a nursery rhyme. Du Fu was usually full of worry, but this time he was in a wonderful mood, and reading it makes us happy too."
+ },
+ "famous_lines": [
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "flowers",
+   "butterfly",
+   "birds",
+   "joy"
+  ]
+ },
+ "uncertain": []
+}

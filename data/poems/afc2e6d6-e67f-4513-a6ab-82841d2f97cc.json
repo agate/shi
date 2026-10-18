@@ -1,0 +1,276 @@
+{
+ "id": "afc2e6d6-e67f-4513-a6ab-82841d2f97cc",
+ "kind": "shi",
+ "title": "寄人",
+ "title_en": "To Someone",
+ "author": "张泌",
+ "author_en": "Zhang Bi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "廊",
+    "láng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "斜：现在课本读 xié。古音读 xiá，和“家、花”押韵。",
+   "en": "This character is read xié in today's textbooks. In old pronunciation it was xiá, which rhymes with jiā and huā."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "曲：这里读 qū，是“弯弯曲曲”的意思，不读 qǔ（歌曲）。",
+   "en": "This character here is read qū, meaning winding. It is not qǔ, \"song\"."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "为：这里读 wèi，是“替、给”的意思。",
+   "en": "This character here is read wèi, meaning \"for\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "别梦：分别以后做的梦。",
+   "en": "bié mèng: a dream after parting."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "依依：恋恋不舍的样子。",
+   "en": "yī yī: lingering, not wanting to let go."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "谢家：指所爱的女子的家。唐诗里常用“谢娘”“谢家”指心爱的女子和她的住处。",
+   "en": "xiè jiā: the Xie house, that is, the home of the woman he loves. Tang poems often use \"Xie\" to stand for a beloved girl and her home."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "回合：回环曲折，绕来绕去。",
+   "en": "huí hé: winding round and round."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "曲阑：弯弯曲曲的栏杆。阑，同“栏”。",
+   "en": "qū lán: a winding railing. Lán is the same as railing."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "斜：倾斜，这里形容栏杆随着走廊弯来弯去。",
+   "en": "xié: slanting; the railing bends along with the walkway."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "春庭：春天的庭院。",
+   "en": "chūn tíng: the courtyard in spring."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "犹：还，仍然。",
+   "en": "yóu: still."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "离人：分别的人，这里指诗人自己。",
+   "en": "lí rén: the one who is parted, here the poet himself."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "分别以后，我在梦里恋恋不舍，又回到了你的家。",
+   "en": "After we parted, a lingering dream took me back to your home."
+  },
+  {
+   "zh": "小小的走廊绕来绕去，弯弯的栏杆还是从前的样子。",
+   "en": "The little walkway still winds about, with its slanting, curving rail."
+  },
+  {
+   "zh": "最多情的只有春天庭院里的月亮，",
+   "en": "Only the moon over the spring courtyard still cares,"
+  },
+  {
+   "zh": "它还在为我这个分别的人，照着地上的落花。",
+   "en": "still shining on the fallen flowers for me, the one who left."
+  }
+ ],
+ "background": {
+  "zh": "诗题叫《寄人》，就是写给某个人的诗。一般认为，这是诗人写给一位从前相爱、后来分开的女子的。两人分别后不能再见面，诗人就把思念写在诗里，寄给对方。具体是写给谁、写于什么时候，现在已经不知道了。",
+  "en": "The title means \"To Someone\", a poem sent to a particular person. It is usually thought he wrote it to a woman he once loved but had to part from. They could no longer meet, so he put his longing into a poem and sent it to her. Who she was and when it was written are no longer known."
+ },
+ "author_note": {
+  "zh": "张泌，晚唐五代时的诗人和词人，生平不太清楚。一说他后来在南唐做官。他的诗留下来的不多，词有几首收进了《花间集》。这首《寄人》被选进了《唐诗三百首》，是他最有名的作品。",
+  "en": "Zhang Bi was a poet and lyric writer of the late Tang and the Five Dynasties. Little is known about his life. One view says he later served as an official in the Southern Tang. Few of his poems survive, and some of his lyrics are in the collection \"Among the Flowers\". This poem was chosen for \"Three Hundred Tang Poems\" and is his best-known work."
+ },
+ "appreciation": {
+  "zh": "这首诗从一个梦开始。醒着见不到她，只好在梦里去找她。梦里的一切都那么清楚：小小的走廊绕来绕去，弯弯的栏杆斜斜地伸着，全是从前两人一起走过的地方。可是梦里没有写见到她，好像人已经不在了。后两句写月亮：春天的院子里，月光照着满地落花。诗人说，只有月亮最多情，还在替他照着。月亮记得，那么人呢？这样问而不说破，思念和埋怨都藏在里面，读来又美又伤感。",
+  "en": "The poem begins with a dream. He cannot see her while awake, so he looks for her in a dream. Everything in the dream is clear: the little walkway winding about, the curving rail slanting along, all places they once walked together. But the dream never says he finds her. It is as if she is no longer there. The last two lines turn to the moon. In the spring courtyard, moonlight falls on the fallen flowers covering the ground. The poet says only the moon still cares, still shining there for him. The moon remembers, but what about her? He asks without saying it. Longing and a quiet hurt are both hidden inside, which makes the poem beautiful and sad."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "dream",
+   "moon",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,376 @@
+{
+ "id": "f4301f96-e872-4eae-aa51-0d12328059d1",
+ "kind": "shi",
+ "title": "送李端",
+ "title_en": "Seeing Off Li Duan",
+ "author": "卢纶",
+ "author_en": "Lu Lun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "遍",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "悲",
+    "bēi"
+   ]
+  ],
+  [
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "早",
+    "zǎo"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "难",
+    "nàn"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "掩",
+    "yǎn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "少：这里读 shào，意思是年少、小时候，不读 shǎo。",
+   "en": "shào: here it means young, as a child, so it is not read shǎo (few)."
+  },
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "为：这里读 wéi，意思是做、当。",
+   "en": "wéi: here it means to be, to become, so it is read wéi, not wèi."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "难",
+   "pinyin": "nàn",
+   "zh": "难：这里读 nàn，意思是灾难、苦难，不读 nán。",
+   "en": "nàn: here it means trouble or disaster, so it is read nàn, not nán (hard)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "故关：老关口，旧城关。一说指故乡。",
+   "en": "gù guān: the old border pass or city gate. Another reading says it means the home town."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "衰草：枯黄的草。",
+   "en": "shuāi cǎo: dry, withered grass."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "自堪悲：本来就让人伤心。堪，能够、值得。",
+   "en": "zì kān bēi: is sad enough in itself. Kān means can, is worth."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "路出寒云外：远去的路一直伸到寒冷的云外面。",
+   "en": "lù chū hán yún wài: the road runs out beyond the cold clouds."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "暮雪：傍晚下的雪。",
+   "en": "mù xuě: snow falling at dusk."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "少孤：小时候就失去了父亲。",
+   "en": "shào gū: lost his father as a child."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "为客：在外地做客，离开家乡漂泊。",
+   "en": "wéi kè: to live as a guest far from home, to wander."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "多难：经历了很多苦难。这里指安史之乱后的战乱年代。",
+   "en": "duō nàn: having gone through many troubles. It points to the years of war after the An Lushan Rebellion."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "识君迟：认识你太晚了。君，你，指李端。",
+   "en": "shí jūn chí: met you too late. Jūn means you, here Li Duan."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "掩泪：捂着脸流泪，擦着眼泪。",
+   "en": "yǎn lèi: to hide one's tears, to wipe them away."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "空相向：只能白白地互相望着。空，白白地。",
+   "en": "kōng xiāng xiàng: can only look at each other in vain. Kōng means in vain."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "风尘：风吹尘土，比喻乱世和漂泊奔波的生活。",
+   "en": "fēng chén: wind and dust, a picture of troubled times and a life on the road."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "何处期：在哪里才能再相会呢。期，约定相见。",
+   "en": "hé chù qī: where can we meet again? Qī means to plan to meet."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "老关口外，枯黄的草铺满了大地，",
+   "en": "Outside the old pass, withered grass covers the ground."
+  },
+  {
+   "zh": "这时候分别，本来就让人伤心。",
+   "en": "To part at a time like this is sad enough in itself."
+  },
+  {
+   "zh": "你要走的路，伸向寒云的外面；",
+   "en": "Your road runs out beyond the cold clouds."
+  },
+  {
+   "zh": "我独自回来时，正赶上傍晚下雪。",
+   "en": "I come back alone just as the evening snow falls."
+  },
+  {
+   "zh": "我从小没了父亲，很早就在外漂泊；",
+   "en": "I lost my father young and left home early to wander."
+  },
+  {
+   "zh": "经历了很多苦难，才认识你，可惜太晚了。",
+   "en": "Through many hard years I met you, but I met you too late."
+  },
+  {
+   "zh": "我们擦着眼泪，只能白白地互相望着，",
+   "en": "Wiping our tears, we can only look at each other in vain."
+  },
+  {
+   "zh": "在这风尘乱世里，哪里才能再见面呢？",
+   "en": "In this world of wind and dust, where will we ever meet again?"
+  }
+ ],
+ "background": {
+  "zh": "这是卢纶送别朋友李端时写的诗，诗题一作《李端公》。卢纶和李端都是唐代宗大历年间有名的诗人，被称为“大历十才子”。那时安史之乱刚过去不久，天下还不太平，很多人四处漂泊。两个好朋友在冬天的关口分别，天冷草枯，傍晚又下起雪来。这首诗具体写于哪一年，已经说不清楚了。",
+  "en": "This is a poem Lu Lun wrote when seeing off his friend Li Duan. The title is also given as \"Li Duangong\". Lu Lun and Li Duan were both well-known poets of the Dali years under Emperor Daizong, counted among the \"Ten Talents of the Dali Era\". The An Lushan Rebellion had only just ended, the land was still unsettled, and many people wandered from place to place. The two friends parted at a pass in winter, with cold air, dead grass, and snow falling at dusk. The exact year of the poem is no longer known."
+ },
+ "author_note": {
+  "zh": "卢纶（约739—约799），唐代诗人，“大历十才子”之一。他小时候就失去了父亲，又碰上安史之乱，长期在外奔波，考进士也多次没考中。所以诗里“少孤为客早，多难识君迟”两句，正是他自己真实的经历。",
+  "en": "Lu Lun (about 739 to about 799) was a Tang poet, one of the \"Ten Talents of the Dali Era\". He lost his father as a child, then lived through the An Lushan Rebellion, spent many years on the road, and failed the official exam several times. So the lines about losing his father young and meeting his friend too late come straight from his own life."
+ },
+ "appreciation": {
+  "zh": "开头先画出一幅冷清的画：旧关口，满地枯草，正是让人伤感的分别时刻。接着两句一去一回：朋友的路越走越远，消失在寒云外；诗人自己一个人回来，天已经黑了，雪也下起来了。读到这里，你能感到那种又冷又孤单的滋味。后面四句转向心里话：我从小没有父亲，早早出门漂泊，吃了很多苦，好不容易才遇到你这样的知己，可惜认识得太晚，现在又要分开。最后两人只能流着泪对望，不知道在这乱世里，哪一天、在哪里才能再见。全诗没有一句大喊大叫，却越读越让人心酸。",
+  "en": "The poem opens with a bleak picture: an old pass, withered grass everywhere, a sad moment of parting. The next two lines show one person going and one coming back. The friend's road stretches far away and vanishes beyond the cold clouds. The poet comes home alone as night falls and snow begins. You can feel how cold and lonely it is. The last four lines turn to what is in his heart. He lost his father as a child, left home early, and went through many hardships. At last he found a true friend, but too late, and now they must part. In the end the two can only look at each other in tears, not knowing when or where they will meet again in such troubled times. The poem never shouts, yet it grows sadder with every line."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "snow",
+   "wandering"
+  ]
+ },
+ "uncertain": []
+}

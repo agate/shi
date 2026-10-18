@@ -1,0 +1,205 @@
+{
+ "id": "19340af6-e25d-41c8-90fc-b465d9be1134",
+ "kind": "shi",
+ "title": "登鹳雀楼",
+ "title_en": "Climbing Stork Tower",
+ "author": "王之涣",
+ "author_en": "Wang Zhihuan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "目",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库把这首诗题作《登楼》，作者记为朱斌，这是根据唐代的诗选《国秀集》。通行本和课本题作《登鹳雀楼》，作者王之涣。",
+  "en": "The corpus titles this poem \"Climbing a Tower\" and gives the author as Zhu Bin, following the Tang anthology \"Guoxiu Ji\". The common version and textbooks title it \"Climbing Stork Tower\", by Wang Zhihuan."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "尽是“完、没有了”的意思，读 jìn。",
+   "en": "Here it means \"used up, gone\", read jìn."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "更是“再、又”的意思，读 gèng。",
+   "en": "Here it means \"further, once more\", read gèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "白日：太阳。",
+   "en": "bái rì: the sun."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "依山尽：靠着山慢慢落下去，看不见了。",
+   "en": "yī shān jìn: sinks down behind the mountains until it is gone."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "欲穷千里目：想要看到千里以外的地方。欲，想要；穷，尽、到头；千里目，看到千里远的眼力。",
+   "en": "yù qióng qiān lǐ mù: wanting to see as far as a thousand li. Yù means to want; qióng means to reach the end of; qiān lǐ mù means sight that reaches a thousand li. A li is about half a kilometer."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "更上：再登上。",
+   "en": "gèng shàng: climb up further."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "太阳靠着西边的山，慢慢落了下去，",
+   "en": "The white sun sinks behind the mountains;"
+  },
+  {
+   "zh": "黄河向着大海，滚滚地流去。",
+   "en": "the Yellow River flows on toward the sea."
+  },
+  {
+   "zh": "想要看到千里以外更远的景色，",
+   "en": "If you want to see a thousand li away,"
+  },
+  {
+   "zh": "就要再登上一层更高的楼。",
+   "en": "climb one more floor."
+  }
+ ],
+ "background": {
+  "zh": "鹳雀楼在唐代的蒲州，就是今天山西永济，楼建在黄河边，常有鹳雀落在上面，所以叫这个名字。登上楼可以看到远处的山和黄河。诗人登楼远望，写下了这首诗，写作年份不清楚。唐代诗选《国秀集》把这首诗记作朱斌的《登楼》，但通行的说法和课本都认为作者是王之涣。",
+  "en": "Stork Tower stood in Puzhou, today's Yongji in Shanxi, on the bank of the Yellow River. Storks often landed on it, which gave it its name. From the top you could see far-off mountains and the Yellow River. The poet climbed it, looked into the distance, and wrote this poem; the year is not known. The Tang anthology \"Guoxiu Ji\" lists the poem as \"Climbing a Tower\" by Zhu Bin, but the common view, and textbooks, give the author as Wang Zhihuan."
+ },
+ "author_note": {
+  "zh": "王之涣（688—742），盛唐诗人。他性格豪爽，写的诗当时就被人谱成歌曲传唱，可惜流传下来的只有六首。除了这首，他的《凉州词》（“黄河远上白云间”）也非常有名。",
+  "en": "Wang Zhihuan (688–742) was a poet of the high Tang. He was bold and open-hearted, and in his own day people set his poems to music and sang them. Sadly, only six of his poems survive. Besides this one, his \"Song of Liangzhou\" (\"The Yellow River climbs far up into the white clouds\") is also very famous."
+ },
+ "appreciation": {
+  "zh": "前两句写站在楼上看到的景色：远处，太阳贴着山慢慢落下；脚下，黄河一路奔向大海。一个往下落，一个往前流，十个字就写出了天地有多大。其实站在楼上看不到大海，“入海流”是诗人心里想象出来的，所以画面比眼睛看到的还要远。后两句从看景变成了道理：想看得更远，就要再上一层楼。这个道理说得很自然，一点也不像在讲课。后来人们常用“更上一层楼”鼓励自己继续进步。",
+  "en": "The first two lines show the view from the tower. Far off, the sun slides down behind the mountains. Below, the Yellow River rushes toward the sea. One sinks down, the other flows on, and ten characters show how vast the world is. In fact you cannot see the sea from the tower. \"Flows into the sea\" is the poet imagining, so the picture reaches even farther than the eye can see. The last two lines turn the view into an idea: to see farther, climb higher. It comes so naturally that it doesn't feel like a lesson at all. Ever since, people have said \"climb one more floor\" to urge themselves to keep improving."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "ambition",
+   "view",
+   "river",
+   "sunset",
+   "tower"
+  ]
+ },
+ "uncertain": []
+}

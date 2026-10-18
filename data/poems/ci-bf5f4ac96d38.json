@@ -1,0 +1,428 @@
+{
+ "id": "ci-bf5f4ac96d38",
+ "kind": "ci",
+ "title": "青门引·春思",
+ "title_en": "Qing Men Yin: Spring Thoughts",
+ "author": "张先",
+ "author_en": "Zhang Xian",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "方",
+    "fāng"
+   ],
+   [
+    "定",
+    "dìng"
+   ]
+  ],
+  [
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "轩",
+    "xuān"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "中",
+    "zhòng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "病",
+    "bìng"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "静",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还：又、仍然。这里一般读 huán，也有人读 hái。",
+   "en": "Here the character means 'still, again'. It is usually read huán; some read hái."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "中",
+   "pinyin": "zhòng",
+   "zh": "中酒：喝醉了酒，像“中毒”的“中”，读 zhòng。",
+   "en": "In zhòng jiǔ (to be overcome by wine), the first character means 'to be struck' and is read zhòng, not zhōng."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重门：一层又一层的门，重读 chóng。",
+   "en": "In chóng mén (layer upon layer of gates), the first character is read chóng, not zhòng."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "那堪：哪里受得了。那同“哪”，一般读 nǎ，也有人读 nà。",
+   "en": "Nǎ kān means 'how can one bear it'. The first character stands for 'how' and is usually read nǎ; some read nà."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "乍暖还轻冷：天气刚暖和，又有点冷。乍，刚刚。",
+   "en": "zhà nuǎn huán qīng lěng: just turned warm, yet still a little cold. Zhà means just now."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "方定：才停下来。",
+   "en": "fāng dìng: only just calmed down."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "庭轩：院子和有窗的长廊、小屋。",
+   "en": "tíng xuān: the courtyard and its open halls."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "清明：清明节，在春天，人们扫墓、踏青。",
+   "en": "qīng míng: the Qingming Festival in spring, when people sweep graves and go out to enjoy the green."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "残花：快要谢的花。",
+   "en": "cán huā: flowers about to fall."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "中酒：喝醉了酒，醉后难受。",
+   "en": "zhòng jiǔ: drunk and feeling ill from it."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "去年病：和去年一样的毛病，指每到春末就伤感、借酒消愁。",
+   "en": "qù nián bìng: last year's illness, the same spring sadness and drinking as the year before."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "画角：古代军中吹的号角，外面画着彩色花纹，声音哀伤。",
+   "en": "huà jiǎo: a painted horn blown in army camps in old times, with a sad sound."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "重门：一道又一道的门。",
+   "en": "chóng mén: gate after gate."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "那堪：哪里受得了。",
+   "en": "nǎ kān: how can one bear it."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "秋千影：秋千的影子。",
+   "en": "qiū qiān yǐng: the shadow of a swing."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天气刚刚暖和，又带着一点轻寒。",
+   "en": "The weather has just turned warm, yet a light chill remains."
+  },
+  {
+   "zh": "风雨到了傍晚才停。",
+   "en": "The wind and rain only stopped toward evening."
+  },
+  {
+   "zh": "清明快到了，院子里冷冷清清。",
+   "en": "Qingming is near, and the courtyard is lonely and still."
+  },
+  {
+   "zh": "对着将谢的花，我喝醉了酒，",
+   "en": "Facing the fading flowers, I drank too much,"
+  },
+  {
+   "zh": "又犯了去年一样的老毛病。",
+   "en": "and fell into the same sickness as last year."
+  },
+  {
+   "zh": "城楼上的号角声被风吹来，把我惊醒。",
+   "en": "The horn on the tower, carried by the wind, woke me from my drunken sleep."
+  },
+  {
+   "zh": "夜深了，一道道门都静悄悄的。",
+   "en": "Night came, and behind the many gates all was quiet."
+  },
+  {
+   "zh": "哪里受得了，明月偏偏又",
+   "en": "How can I bear it? The bright moon, on top of everything,"
+  },
+  {
+   "zh": "把墙那边秋千的影子送了过来。",
+   "en": "sends the shadow of a swing over the wall."
+  }
+ ],
+ "background": {
+  "zh": "这首词写春天将尽、清明前后的一个夜晚。写作的具体年份和地点已经说不清了。张先擅长写“影”，有人称他“张三影”，这首词里“隔墙送过秋千影”也是写影的名句。秋千是古代女子在清明前后常玩的，墙那边的秋千影，让人想起荡秋千的人。",
+  "en": "This lyric shows a night near the end of spring, around Qingming. The year and place it was written are no longer known. Zhang Xian was famous for writing about shadows and was nicknamed Three-Shadow Zhang. The line about a swing's shadow coming over the wall is another of his famous shadow lines. In old times, young women often played on swings around Qingming, so the shadow makes one think of the girl who swung there."
+ },
+ "author_note": {
+  "zh": "张先（990—1078），字子野，北宋词人，活到八十多岁。他和柳永差不多同时，写过很多慢词。他的词写景细腻，特别会写影子，因为“云破月来花弄影”等三句写影的名句，被人叫作“张三影”。",
+  "en": "Zhang Xian (990–1078) was a Northern Song lyric poet who lived into his late eighties. He lived around the same time as Liu Yong. His lyrics paint scenes in fine detail, and he was especially good at shadows. Because of three famous lines about shadows, people called him Three-Shadow Zhang."
+ },
+ "appreciation": {
+  "zh": "词人写的是一种说不清的春愁。天气忽冷忽热，风雨到晚上才停，院子里空空的。他对着残花喝醉，心里明白：这又是去年的老毛病，每年春末都这样。下片写夜里：风把号角声吹来，他醒了，四周一片安静。最后两句最妙：明月偏偏把墙那边秋千的影子送过来。秋千还在，荡秋千的人在哪里？词人没说想谁，只写一个影子，那份思念和寂寞就都在影子里了。",
+  "en": "The poet writes a spring sadness that is hard to name. The weather is warm then cold, the rain stops only at evening, and the courtyard is empty. He gets drunk facing the fading flowers and knows this is last year's sickness again; every late spring it is the same. The second half is at night. The wind carries a horn's call, he wakes, and all around is silence. The last two lines are the finest. The bright moon sends the swing's shadow over the wall. The swing is still there, but where is the girl who swung on it? The poet never says whom he misses. He shows only a shadow, and all his longing and loneliness are inside it."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "qingming"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "spring-sorrow",
+   "loneliness",
+   "moon",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

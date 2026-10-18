@@ -1,0 +1,413 @@
+{
+ "id": "ci-d7abe8bd2d23",
+ "kind": "ci",
+ "title": "眼儿媚·萍乡道中乍晴",
+ "title_en": "Yan Er Mei: Sudden Clear Skies on the Road at Pingxiang",
+ "author": "范成大",
+ "author_en": "Fan Chengda",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "酣",
+    "hān"
+   ],
+   [
+    "酣",
+    "hān"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "脚",
+    "jiǎo"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "浮",
+    "fú"
+   ]
+  ],
+  [
+   [
+    "妍",
+    "yán"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "裘",
+    "qiú"
+   ]
+  ],
+  [
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "气",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "午",
+    "wǔ"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "扶",
+    "fú"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "慵",
+    "yōng"
+   ],
+   [
+    "恰",
+    "qià"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "縠",
+    "hú"
+   ],
+   [
+    "纹",
+    "wén"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "溶",
+    "róng"
+   ],
+   [
+    "溶",
+    "róng"
+   ],
+   [
+    "泄",
+    "yì"
+   ],
+   [
+    "泄",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "力",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "皱",
+    "zhòu"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "语料只题词牌“眼儿媚”。这首词原有小序：“萍乡道中乍晴，卧舆中困甚，小憩柳塘。”通行本多用小序开头几个字作题目。",
+  "en": "The corpus gives only the tune name. The ci has a short preface: \"On the road at Pingxiang the sky suddenly cleared. Lying in my sedan chair I felt very drowsy, and rested a while by a willow pond.\" Common editions use its first words as the title."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "泄",
+   "pinyin": "yì",
+   "zh": "泄泄：舒缓、慢悠悠的样子，读 yì yì，不读 xiè xiè。",
+   "en": "yì yì: slow and easy, read yì, not xiè (to leak)."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "欲皱还休：想要起皱又停下了。“还”是“又、却”的意思，读 hái。",
+   "en": "yù zhòu hái xiū: about to ripple, then stopping again. Here the character means \"yet, again\", read hái."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "酣酣：浓浓的、暖洋洋的样子，像喝醉了一样。",
+   "en": "hān hān: rich and warm, as if tipsy."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "日脚：从云缝里照下来的一道道阳光。",
+   "en": "rì jiǎo: beams of sunlight slanting down through gaps in the clouds, literally \"the sun's feet\"."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "紫烟：阳光照着的雾气，带着淡淡的紫色。",
+   "en": "zǐ yān: mist lit by the sun, with a faint purple glow."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "妍暖：晴朗暖和。妍，美好。",
+   "en": "yán nuǎn: bright and warm. Yán means lovely."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "破轻裘：暖得连薄皮袄都穿不住了。裘，皮衣。",
+   "en": "pò qīng qiú: so warm that even a light fur coat is too much. Qiú is a fur coat."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "困人：让人犯困。",
+   "en": "kùn rén: making people sleepy."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "醉人：让人像喝醉了一样。",
+   "en": "zuì rén: making people feel drunk."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "扶头：头昏昏沉沉，要用手撑着。一说“扶头”是一种让人易醉的酒。",
+   "en": "fú tóu: the head feels so heavy it must be propped up. One reading says it is the name of a strong wine."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "春慵：春天里懒洋洋的感觉。慵，懒。",
+   "en": "chūn yōng: the lazy feeling of spring. Yōng means lazy, languid."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "縠纹：水面上细细的波纹，像绉纱上的花纹。縠，一种有皱纹的轻纱。",
+   "en": "hú wén: fine ripples on water, like the crinkles on crepe silk. Hú is a light, crinkled gauze."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "溶溶泄泄：水波慢慢荡漾、舒舒缓缓的样子。",
+   "en": "róng róng yì yì: water swaying slowly and gently."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "欲皱还休：水面好像要起波纹，又平静下来了。",
+   "en": "yù zhòu hái xiū: the water seems about to ripple, then settles again."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "暖洋洋的阳光从云缝里照下来，紫色的雾气飘浮着，",
+   "en": "Warm beams of sun slant through the clouds, and a purple haze floats up,"
+  },
+  {
+   "zh": "晴朗暖和，连薄皮袄都穿不住了。",
+   "en": "so bright and warm that even a light fur coat is too much."
+  },
+  {
+   "zh": "这天气让人发困，",
+   "en": "The weather makes you sleepy,"
+  },
+  {
+   "zh": "花香让人像喝醉了一样，",
+   "en": "the scent of flowers makes you feel drunk,"
+  },
+  {
+   "zh": "午睡醒来，头还昏昏沉沉的。",
+   "en": "and after a midday nap your head is still heavy."
+  },
+  {
+   "zh": "春天这种懒洋洋的心情，正像春天池塘里的水，",
+   "en": "This lazy spring mood is just like the water of a spring pond,"
+  },
+  {
+   "zh": "泛起一片细细的波纹，带着淡淡的愁。",
+   "en": "spread with fine ripples, touched with faint sorrow."
+  },
+  {
+   "zh": "水波慢悠悠地荡漾着，",
+   "en": "The water sways slowly and gently,"
+  },
+  {
+   "zh": "东风软软的，没有力气，",
+   "en": "the east wind is soft and weak,"
+  },
+  {
+   "zh": "想让水面起皱，却又停下了。",
+   "en": "about to wrinkle the water, then letting it rest."
+  }
+ ],
+ "background": {
+  "zh": "范成大在小序里说：在萍乡（今江西萍乡）的路上，天忽然放晴，他躺在轿子里困得不得了，就在一个长着柳树的池塘边歇了一会儿。一般认为这是1173年春天，他从苏州去桂林上任，路过萍乡时写的。",
+  "en": "In his preface Fan Chengda says that on the road at Pingxiang, in today's Jiangxi, the sky suddenly cleared. Lying in his sedan chair he felt terribly sleepy, so he rested a while by a pond lined with willows. It is usually thought he wrote it in the spring of 1173, passing Pingxiang on his way from Suzhou to a new post in Guilin."
+ },
+ "author_note": {
+  "zh": "范成大（1126—1193），号石湖居士，南宋诗人，苏州人。他一生到过很多地方做官，还出使过金国。他很会观察身边的小景物，写农村生活的《四时田园杂兴》最有名。这首词写旅途中的一个春日午后，看得很细。",
+  "en": "Fan Chengda (1126–1193), also known as the Lay Buddhist of Stone Lake, was a Southern Song poet from Suzhou. He served in many places during his life and once went as an envoy to the Jin state. He had a sharp eye for small everyday scenes, and his poems on farm life through the seasons are the most famous. This ci captures one spring afternoon on a journey, seen up close."
+ },
+ "appreciation": {
+  "zh": "上片写天气。雨后忽然放晴，阳光一道道照下来，雾气带着紫色，暖得连薄皮袄都嫌热。天色让人困，花香让人醉，午睡起来头还是晕晕的。读着读着，自己好像也要打哈欠了。下片最妙：词人说，春天这种懒懒的、有点说不清的愁，就像池塘里的春水。水面轻轻荡着，东风软得没力气，想吹出波纹，吹了一下又停了。人的心情也是这样，好像有点愁，又愁不起来。把看不见的心情，写成看得见的水波，这个比喻又新又准。",
+  "en": "The first half is about the weather. After rain the sky suddenly clears, beams of sun slant down, the mist glows purple, and it is so warm that even a light fur coat feels hot. The weather makes you sleepy, the flowers make you tipsy, and after a nap your head is still fuzzy. Reading it, you almost want to yawn too. The second half is the cleverest part. The poet says this lazy, hard-to-name spring sadness is like the water in a spring pond. The water sways gently. The east wind is too soft to do much: it starts to make ripples, then stops. His mood is the same: a little sad, but not quite able to be sad. Turning a feeling you cannot see into ripples you can see is a fresh and exact picture."
+ },
+ "famous_lines": [
+  5,
+  6,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "spring-mood",
+   "pond",
+   "wind",
+   "drowsiness"
+  ]
+ },
+ "uncertain": []
+}

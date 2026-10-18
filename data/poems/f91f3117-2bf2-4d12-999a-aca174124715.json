@@ -1,0 +1,279 @@
+{
+ "id": "f91f3117-2bf2-4d12-999a-aca174124715",
+ "kind": "shi",
+ "title": "清平调·其三",
+ "title_en": "Qingping Song, No. 3",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "倾",
+    "qīng"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "欢",
+    "huān"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "看",
+    "kàn"
+   ]
+  ],
+  [
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "释",
+    "shì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "资料库作“常得君王带笑看”“解得春风无限恨”“沈香亭北倚阑干”。通行本作“长得”“解释”“沉香亭”。“长”在这里就是“常常”；“沈”是“沉”的古代写法。",
+  "en": "The corpus has \"often\" written with a different character, \"jiě dé\" instead of \"jiě shì\" in line three, and the old way of writing \"chén\" in line four. The common version uses the forms shown here. Both words for \"often\" mean the same thing, and the old and new forms of \"chén\" are the same word."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长在这里是“常常”的意思，读 cháng。",
+   "en": "Here it means \"often\", read cháng."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "现在一般读 kàn。这首诗用“欢、看、干”押韵，古时这里读平声，所以也有人读 kān。",
+   "en": "Today it is usually read kàn. The poem rhymes huān, kàn and gān, and in old times this word was read in the level tone here, so some people read it kān."
+  },
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "阑干就是栏杆，干读 gān。",
+   "en": "Lán gān means a railing; this character is read gān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "名花：有名的花，这里指牡丹。",
+   "en": "míng huā: a famous flower; here, the peony."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "倾国：美得能让一个国家倾倒的女子，这里指杨贵妃。",
+   "en": "qīng guó: a woman so beautiful she could overturn a kingdom; here, Lady Yang, the emperor's favorite consort."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "两相欢：花和美人互相映衬，彼此都让人喜欢。",
+   "en": "liǎng xiāng huān: the flower and the beauty set each other off, and both bring joy."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "长得：常常得到。",
+   "en": "cháng dé: often receives."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "君王：皇帝，这里指唐玄宗。",
+   "en": "jūn wáng: the ruler; here, Emperor Xuanzong of Tang."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "解释：消除、化解，不是今天“说明”的意思。",
+   "en": "jiě shì: to melt away, to dispel. It does not mean \"to explain\" as it does today."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "春风无限恨：春天里说不完的愁闷。",
+   "en": "chūn fēng wú xiàn hèn: the endless sorrows that spring brings."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "沉香亭：皇宫里的一座亭子，用名贵的沉香木做成，旁边种着牡丹。",
+   "en": "chén xiāng tíng: the Agarwood Pavilion in the palace, built of precious fragrant wood, with peonies planted beside it."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "倚阑干：靠着栏杆。",
+   "en": "yǐ lán gān: leaning on the railing."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "美丽的牡丹和绝色的美人互相映衬，都让人欢喜，",
+   "en": "The famous flower and the matchless beauty set each other off, a joy to see,"
+  },
+  {
+   "zh": "常常引得皇帝带着笑容来看。",
+   "en": "and the emperor often looks on them with a smile."
+  },
+  {
+   "zh": "能化解春风带来的无限愁闷的，",
+   "en": "Melting away all the sorrows the spring wind brings,"
+  },
+  {
+   "zh": "是在沉香亭北边、靠着栏杆赏花的她。",
+   "en": "she leans on the railing north of the Agarwood Pavilion."
+  }
+ ],
+ "background": {
+  "zh": "据唐人笔记记载，天宝初年，唐玄宗和杨贵妃在宫中的沉香亭赏牡丹，觉得旧的歌词不够新鲜，就叫当时在宫里做翰林供奉的李白写新词。李白很快写成了《清平调》三首，让乐工配乐演唱。这是第三首，把花、美人和皇帝写在一起。",
+  "en": "According to notes written in the Tang, in the early Tianbao years (the 740s) Emperor Xuanzong and Lady Yang were admiring peonies at the Agarwood Pavilion in the palace. The emperor felt the old song words were stale, so he called for Li Bai, who was then serving at court as a writer, to make new ones. Li Bai quickly wrote three Qingping Songs, and court musicians sang them. This is the third. It brings the flower, the beauty and the emperor together."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。天宝初年他被召进长安，在宫里陪伴皇帝、写诗作文，大约两年后离开。这三首《清平调》就是他在宫里时写的，写得又快又美，很能看出他的才气。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. In the early Tianbao years he was called to Chang'an to keep the emperor company and write for the court, and he left about two years later. He wrote these three Qingping Songs during that time. They were written fast and they are beautiful, which shows how gifted he was."
+ },
+ "appreciation": {
+  "zh": "第一首写美人像花，第二首写美人比古代美女还美，这第三首把花和人放在一起：牡丹和贵妃互相映衬，皇帝看了满脸是笑。第三句说，春天常常让人发愁，可是有她在，什么愁都消散了。最后一句不再讲道理，只留下一个画面：沉香亭北，美人轻轻靠着栏杆。诗写到这里就停了，像一幅画定格，让人自己去想那份美。整首诗写得华丽又轻快，好像也带着牡丹的香气。",
+  "en": "The first song says the beauty is like a flower. The second says she is lovelier than the beauties of old. This third song puts the flower and the woman side by side: the peony and Lady Yang set each other off, and the emperor smiles at them both. The third line says spring often makes people sad, but with her there, every sorrow melts away. The last line stops explaining and leaves just one picture: north of the Agarwood Pavilion, the beauty leans lightly on the railing. The poem ends there, like a painting held still, and lets us imagine her loveliness. The whole poem is rich and light, as if it carried the scent of peonies."
+ },
+ "famous_lines": [
+  0,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "flowers",
+   "peony",
+   "beauty",
+   "palace"
+  ]
+ },
+ "uncertain": []
+}

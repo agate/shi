@@ -1,0 +1,443 @@
+{
+ "id": "ci-ca9b2af6f3c8",
+ "kind": "ci",
+ "title": "玉楼春·春风只在园西畔",
+ "title_en": "Spring in the Jade Tower: The Spring Wind Stays by the West Side of the Garden",
+ "author": "严仁",
+ "author_en": "Yan Ren",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "畔",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "荠",
+    "jì"
+   ],
+   [
+    "菜",
+    "cài"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "蝴",
+    "hú"
+   ],
+   [
+    "蝶",
+    "dié"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "短",
+    "duǎn"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "缓",
+    "huǎn"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "奁",
+    "lián"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "欺",
+    "qī"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "看",
+    "kàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料作“胡蝶”，是“蝴蝶”的古写法，这里按通行写法作“蝴蝶”。",
+  "en": "The corpus writes the word for butterfly with an older form of its first character; here the usual modern form is used."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "这里是“仍然、却”的意思，读 hái。一说读 huán，意思是“照回来”。",
+   "en": "Here it means \"still, yet\" and is read hái. One view reads it huán, meaning \"reflected back\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "园西畔：园子的西边。畔，旁边。",
+   "en": "yuán xī pàn: the west side of the garden. Pàn means side or edge."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "荠菜：一种野菜，春天开白色小花，可以吃。",
+   "en": "jì cài: shepherd's purse, a wild plant with small white flowers in spring; people eat it."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "花繁：花开得很多。",
+   "en": "huā fán: flowers blooming thickly."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "冰池：像冰一样清澈的池水。",
+   "en": "bīng chí: a pond as clear as ice."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "照还空：池水能照出人影，却照不出想见的人，空空的。",
+   "en": "zhào hái kōng: the water reflects, but the one she wants to see is not there; it shows only emptiness."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "香径：花香飘满的小路。",
+   "en": "xiāng jìng: a path full of the scent of flowers."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "落红：落下的花瓣。",
+   "en": "luò hóng: fallen petals."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "吹已断：被风吹得一片也不剩了。",
+   "en": "chuī yǐ duàn: blown away until none are left."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "翻恨：反而怨恨。翻，反而。",
+   "en": "fān hèn: instead resents. Fān means on the contrary."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "游丝：春天飘在空中的细丝，是虫子吐的丝。",
+   "en": "yóu sī: fine threads floating in the spring air, spun by insects."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "尽日：整天。",
+   "en": "jìn rì: all day long."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "罗带缓：丝绸腰带变松了，说明人瘦了。",
+   "en": "luó dài huǎn: the silk sash has grown loose, meaning she has grown thin."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "宝奁：精美的梳妆盒，里面放着镜子。奁，女子放梳妆用品的盒子。",
+   "en": "bǎo lián: a fine dressing case that holds a mirror. Lián is a box for a woman's combs and makeup."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "明月：这里比喻圆圆亮亮的镜子。",
+   "en": "míng yuè: here it stands for a round, bright mirror."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "君试看：你试着看一看。君，你，指她想念的人。",
+   "en": "jūn shì kàn: you try and look. Jūn means you, the person she misses."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春风好像只停在园子的西边，",
+   "en": "The spring wind seems to stay only by the west side of the garden,"
+  },
+  {
+   "zh": "那里荠菜花开得正盛，蝴蝶乱飞。",
+   "en": "where shepherd's purse blooms thickly and butterflies flutter about."
+  },
+  {
+   "zh": "清清的池水在晴天里绿绿的，照出来的却是一片空。",
+   "en": "The clear pond glows green in the sun, but it reflects only emptiness."
+  },
+  {
+   "zh": "花香小路上的落花，已经被风吹得一干二净。",
+   "en": "On the fragrant path the fallen petals have all been blown away."
+  },
+  {
+   "zh": "我的情意很长，反而怨游丝太短，拴不住你。",
+   "en": "My love runs long, so I blame the floating threads for being too short to tie you."
+  },
+  {
+   "zh": "我整天想你，丝绸腰带都变松了。",
+   "en": "I miss you all day long, and my silk sash has grown loose."
+  },
+  {
+   "zh": "梳妆盒里明月一样的镜子不会骗人，",
+   "en": "The moon-bright mirror in my dressing case does not lie."
+  },
+  {
+   "zh": "等你明天回来，你自己看看我瘦成了什么样。",
+   "en": "When you come home tomorrow, look and see for yourself."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的时间不清楚。它是一首写闺中思念的词：暮春时节，一位女子独自在园中，花落了，蝴蝶乱飞，她想念远方的人，整天相思，人都瘦了。词中的“我”不一定是作者本人，古代男诗人常常借女子的口吻写离别和思念。",
+  "en": "We do not know when this lyric was written. It is a lyric of a woman's longing. In late spring a woman is alone in the garden. Flowers fall, butterflies flutter, and she misses someone far away so much that she has grown thin. The speaker is not the poet himself; men poets of old often wrote of parting and longing in a woman's voice."
+ },
+ "author_note": {
+  "zh": "严仁，字次山，号樵溪，南宋邵武（今属福建）人，生卒年不详。他和同族的严羽、严参都有诗名，被称为“邵武三严”。他的词流传下来的不多，风格清新婉丽，善于写细小的景物和女子的心事。",
+  "en": "Yan Ren, also called Qiaoxi, came from Shaowu, in today's Fujian, in the Southern Song. His dates are not known. He and his kinsmen Yan Yu and Yan Can were all known for poetry and were called the Three Yans of Shaowu. Few of his lyrics survive. Their style is fresh and graceful, good at small scenes and a woman's inner feelings."
+ },
+ "appreciation": {
+  "zh": "上片写景：春风只吹到园子西边，那里荠菜花开、蝴蝶乱飞，热热闹闹；可池水照出来是空的，小路上的落花也被吹光了。热闹的是别处，冷清的是她身边。下片写人：情意那么长，游丝却那么短，她反而怪游丝拴不住人，想法真有意思。整天想念，腰带都松了。最后两句最妙：镜子不会骗人，等你回来自己看看我瘦成什么样。像是撒娇，又像是埋怨，把深深的思念说得又俏皮又动人。",
+  "en": "The first half paints the garden. The spring wind reaches only the west side, where flowers bloom and butterflies dance. But the pond reflects nothing, and the petals on the path are all blown away. The liveliness is somewhere else; beside her it is empty. The second half turns to her. Her love is so long and the floating threads so short, so she blames the threads for not tying him down, a charming thought. She misses him all day and her sash grows loose. The last two lines are the best. The mirror does not lie: when you come back, see for yourself how thin I have become. Half playful, half scolding, she makes deep longing sound lively and touching."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "flowers",
+   "butterfly"
+  ]
+ },
+ "uncertain": []
+}

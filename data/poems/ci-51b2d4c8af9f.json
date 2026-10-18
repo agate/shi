@@ -1,0 +1,458 @@
+{
+ "id": "ci-51b2d4c8af9f",
+ "kind": "ci",
+ "title": "木兰花·城上风光莺语乱",
+ "title_en": "Magnolia Blossoms: Above the City Wall, Orioles Chatter in the Spring Light",
+ "author": "钱惟演",
+ "author_en": "Qian Weiyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "拍",
+    "pāi"
+   ],
+   [
+    "岸",
+    "àn"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "鸾",
+    "luán"
+   ],
+   [
+    "镜",
+    "jìng"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "换",
+    "huàn"
+   ]
+  ],
+  [
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "厌",
+    "yàn"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "尊",
+    "zūn"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "通行本第五句作“情怀渐觉成衰晚”，第六句作“鸾镜朱颜惊暗换”。这里的底本作“渐变成衰晚”“鸾鉴”，“鉴”也是镜子的意思。",
+  "en": "The commonly taught text has jiàn jué (gradually feel) in the fifth line and luán jìng (phoenix mirror) in the sixth. The source text has jiàn biàn (gradually change) and luán jiàn; jiàn is also an old word for mirror."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "“渐觉”的“觉”是感觉的意思，读 jué，不读 jiào。",
+   "en": "Here the character means to feel, so it is read jué, not jiào."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "厌",
+   "pinyin": "yàn",
+   "zh": "“厌芳尊”的“厌”是讨厌、不想要的意思，读 yàn。",
+   "en": "Here the character means to dislike, and is read yàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "风光：春天的景色。",
+   "en": "fēng guāng: the spring scenery."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "莺语乱：黄莺叫个不停，声音此起彼伏。",
+   "en": "yīng yǔ luàn: orioles chirp everywhere, one call after another."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "烟波：笼着雾气的水面。",
+   "en": "yān bō: water covered with mist."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "拍岸：浪花拍打着岸边。",
+   "en": "pāi àn: waves lap against the shore."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "绿杨芳草：绿色的杨柳，芬芳的春草。",
+   "en": "lǜ yáng fāng cǎo: green willows and sweet spring grass."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "几时休：什么时候才完。",
+   "en": "jǐ shí xiū: when will it ever end?"
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "愁肠：充满忧愁的心。",
+   "en": "chóu cháng: a heart full of sorrow."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "先已断：早就已经断了，形容伤心到极点。",
+   "en": "xiān yǐ duàn: already broken, meaning sadness beyond words."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "情怀：心情、心境。",
+   "en": "qíng huái: one's mood, one's state of mind."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "衰晚：年老体衰，到了人生的晚年。",
+   "en": "shuāi wǎn: old and weak, near the end of life."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "鸾镜：背面刻着鸾鸟的镜子。鸾是传说中一种像凤凰的鸟。",
+   "en": "luán jìng: a mirror with a luan bird carved on the back. The luan is a legendary bird like a phoenix."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "朱颜：红润的脸色，指年轻的容貌。",
+   "en": "zhū yán: a rosy face, meaning a young face."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "暗换：不知不觉地变了。",
+   "en": "àn huàn: changed quietly, without one noticing."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "昔年：从前。",
+   "en": "xī nián: in past years."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "芳尊：盛着美酒的酒杯。尊，酒杯。",
+   "en": "fāng zūn: a cup of fine wine. Zūn is an old word for a wine cup."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "惟恐浅：只怕杯里的酒倒得不满。",
+   "en": "wéi kǒng qiǎn: only afraid the cup is not full enough."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "城墙上春光明媚，黄莺叫得此起彼伏。",
+   "en": "Above the city wall the spring light is bright, and orioles chatter everywhere."
+  },
+  {
+   "zh": "城墙下雾气笼罩的春水，一浪一浪拍打着岸边。",
+   "en": "Below the wall, the misty spring water laps against the shore."
+  },
+  {
+   "zh": "绿杨和芳草，什么时候才会消失呢？",
+   "en": "Green willows and sweet grass, when will you ever end?"
+  },
+  {
+   "zh": "我的泪眼和愁肠，早就已经伤透了。",
+   "en": "My tearful eyes and my sad heart are already broken."
+  },
+  {
+   "zh": "我渐渐觉得自己的心境已经变得衰老，",
+   "en": "Little by little I feel my heart has grown old and weak."
+  },
+  {
+   "zh": "照照镜子，吃惊地发现年轻的容颜已悄悄变了。",
+   "en": "Looking in the mirror, I am shocked to see my young face has quietly changed."
+  },
+  {
+   "zh": "从前我身体多病，讨厌端起酒杯，",
+   "en": "In past years I was often ill and did not want the wine cup."
+  },
+  {
+   "zh": "如今端起酒杯，只怕杯里的酒不够满。",
+   "en": "Now, holding the cup, I only fear it is not full enough."
+  }
+ ],
+ "background": {
+  "zh": "钱惟演晚年受到弹劾，被贬出京城，到汉东（今湖北随州）一带做官，不久就去世了。一般认为这首词就写在被贬汉东的时候。据宋人笔记记载，他常在酒宴快结束时唱这首词，唱着唱着就流下泪来。词里眼前的春景越美，他心里就越难过。",
+  "en": "Late in life Qian Weiyan was accused by other officials and sent away from the capital to Handong, today's Suizhou in Hubei. He died not long after. This lyric is usually thought to have been written during that exile. A Song-dynasty notebook says he would often sing it as a feast was ending, and would weep as he sang. The more beautiful the spring scene before him, the sadder he felt."
+ },
+ "author_note": {
+  "zh": "钱惟演，北宋初年人，是吴越国最后一位国王钱俶的儿子。他随父亲归附宋朝，后来在朝中做过枢密使等大官。他爱好文学，是“西昆体”诗人之一。他在洛阳做官时，很赏识年轻的欧阳修、梅尧臣等人，对他们帮助很大。",
+  "en": "Qian Weiyan lived in the early Northern Song. He was the son of Qian Chu, the last king of the Wuyue state. He came over to the Song with his father and later held high posts at court, such as head of the Bureau of Military Affairs. He loved literature and was one of the Xikun-style poets. While serving in Luoyang he valued and helped young writers such as Ouyang Xiu and Mei Yaochen."
+ },
+ "appreciation": {
+  "zh": "上半首先写一片热闹的春景：城上黄莺乱叫，城下春水拍岸。可词人看着绿杨芳草，却问它们“几时休”，因为美景只让他更伤心，眼泪早就流干了。下半首转向自己：心境一天天变老，照镜子才吃惊地发现，年轻的脸已经不见了。最后两句最动人：以前身体不好，连酒都不想喝；现在却端着酒杯，只怕酒倒得不够满。一个人从不爱喝酒变成只想借酒消愁，不用多说，就能感到他心里有多苦。",
+  "en": "The first half paints a lively spring: orioles chatter above the wall, and spring water laps below it. But looking at the green willows and grass, the poet asks when they will end, because the beauty only makes him sadder, and his tears have long since run dry. The second half turns to himself. His heart grows older each day, and when he looks in the mirror he is shocked to see his young face is gone. The last two lines are the most moving. Once, in poor health, he did not even want wine. Now he holds the cup and only fears it is not full. A man who did not like to drink now wants wine to drown his sorrow. Without saying more, we feel how bitter his heart is."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "aging",
+   "exile",
+   "wine",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

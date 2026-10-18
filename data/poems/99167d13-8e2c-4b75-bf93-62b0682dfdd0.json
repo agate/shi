@@ -1,0 +1,270 @@
+{
+ "id": "99167d13-8e2c-4b75-bf93-62b0682dfdd0",
+ "kind": "shi",
+ "title": "清平调·其二",
+ "title_en": "Qingping Tune, No. 2",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "艳",
+    "yàn"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "巫",
+    "wū"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "枉",
+    "wǎng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "借",
+    "jiè"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "似",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本第一句作“一枝红艳露凝香”，这里采用通行本。底本作“一枝秾艳露凝香”，秾艳是花开得浓密艳丽的意思。",
+  "en": "The common text has hóng yàn (bright red) in line one, used here. The source text has nóng yàn (rich and lush), meaning a thick, splendid bloom."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "现在课本读 shuí，口语也常读 shéi。",
+   "en": "Textbooks read it shuí; in speech it is often shéi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "红艳：红得鲜艳的花，这里指牡丹。",
+   "en": "hóng yàn: a bright red bloom, here a peony."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "露凝香：露水停在花上，好像把花香也凝住了。",
+   "en": "lù níng xiāng: dew rests on the flower, as if holding its scent in place."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "云雨巫山：古代传说，楚王梦见巫山的神女，神女说自己早上是云、晚上是雨。",
+   "en": "yún yǔ wū shān: an old legend. A king of Chu dreamed of the goddess of Mount Wu, who said she was clouds in the morning and rain in the evening."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "枉断肠：白白地伤心。神女只是梦里的，醒来什么也没有。枉，白白地。",
+   "en": "wǎng duàn cháng: to grieve in vain. The goddess was only a dream; on waking there was nothing. Wǎng means in vain."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "借问：请问。",
+   "en": "jiè wèn: may I ask."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "汉宫：汉朝的皇宫。",
+   "en": "hàn gōng: the palace of the Han dynasty."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "谁得似：谁能比得上她。似，像。",
+   "en": "shuí dé sì: who could be her equal? Sì means to be like."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可爱。古时“可怜”常是可爱的意思。",
+   "en": "kě lián: lovely. In old Chinese this word often meant lovely, not pitiful."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "飞燕：赵飞燕，汉成帝的皇后，是有名的美人。",
+   "en": "fēi yàn: Zhao Feiyan, empress of Emperor Cheng of Han, a famous beauty."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "倚新妆：靠着刚刚化好的妆容才显得美。倚，依靠。",
+   "en": "yǐ xīn zhuāng: relying on fresh makeup to look beautiful. Yǐ means to rely on."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她像一枝红艳的牡丹，露水凝着花香。",
+   "en": "She is like a bright red peony, with dew holding its fragrance."
+  },
+  {
+   "zh": "楚王梦见巫山神女，醒来白白伤心一场，哪比得上她就在眼前。",
+   "en": "The king who dreamed of the goddess of Mount Wu grieved in vain; she was only a dream, but this beauty is real."
+  },
+  {
+   "zh": "请问汉朝的宫里，有谁能比得上她？",
+   "en": "May I ask: in the Han palace, who could compare with her?"
+  },
+  {
+   "zh": "就算是可爱的赵飞燕，也要靠刚化好的妆才行。",
+   "en": "Even lovely Zhao Feiyan had to rely on fresh makeup."
+  }
+ ],
+ "background": {
+  "zh": "这是《清平调》三首中的第二首。据唐人笔记记载，唐玄宗天宝初年的一个春天，唐玄宗和杨贵妃在沉香亭前赏牡丹，召李白写新词，李白写下了这三首诗。第一首用仙女比杨贵妃，这一首接着用神话和历史上的美人来比她。一说写于天宝二年（743年）。",
+  "en": "This is the second of the three \"Qingping Tunes\". According to a Tang anecdote book, one spring in the early Tianbao years, Emperor Xuanzong and Consort Yang were admiring peonies by the Chenxiang Pavilion and called on Li Bai to write new song words, and he wrote these three poems. The first compares Consort Yang to a fairy; this one goes on to compare her with beauties from myth and history. One view dates it to 743."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。天宝初年他被召到长安，在翰林院陪皇帝写诗，可他性格高傲，不久就离开了宫廷。这组《清平调》写得华丽又轻快，是他宫中生活留下的名篇。",
+  "en": "Li Bai (701–762) was a great Tang poet, known as the Immortal of Poetry. In the early Tianbao years he was called to Chang'an to write poems for the emperor at the Hanlin Academy, but he was proud by nature and soon left the court. This set of Qingping Tunes is splendid and lighthearted, a famous record of his life at court."
+ },
+ "appreciation": {
+  "zh": "这首诗用了“比一比”的写法。第一句把杨贵妃比成一枝带露的红牡丹，又香又美。第二句拿神话来比：楚王梦里的巫山神女再美，也只是一场梦，醒来白白伤心；眼前的美人却是真的。后两句拿历史来比：汉宫里最有名的美人赵飞燕，也得靠新化的妆才好看，言下之意，杨贵妃天生就美。一层比一层，神女和飞燕都比不上她，赞美就显得特别响亮。",
+  "en": "This poem works by comparison. The first line likens Consort Yang to a red peony with dew on it, fragrant and lovely. The second line compares her with a myth. However beautiful the goddess of Mount Wu was in the king's dream, she was only a dream, and he woke to grieve in vain. The beauty here is real. The last two lines compare her with history. Zhao Feiyan, the most famous beauty of the Han palace, still needed fresh makeup to look her best. The hint is that Consort Yang is beautiful by nature. Step by step, neither the goddess nor Feiyan can match her, so the praise rings out loud and clear."
+ },
+ "famous_lines": [
+  0
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "beauty",
+   "flower",
+   "peony",
+   "palace",
+   "history"
+  ]
+ },
+ "uncertain": []
+}

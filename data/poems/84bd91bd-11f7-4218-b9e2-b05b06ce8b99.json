@@ -1,0 +1,281 @@
+{
+ "id": "84bd91bd-11f7-4218-b9e2-b05b06ce8b99",
+ "kind": "shi",
+ "title": "赠内人",
+ "title_en": "For a Palace Performer",
+ "author": "张祜",
+ "author_en": "Zhang Hu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "禁",
+    "jìn"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "媚",
+    "mèi"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "窠",
+    "kē"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "拔",
+    "bá"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "畔",
+    "pàn"
+   ]
+  ],
+  [
+   [
+    "剔",
+    "tī"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "焰",
+    "yàn"
+   ],
+   [
+    "救",
+    "jiù"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "蛾",
+    "é"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本（《唐诗三百首》）第二句作“宿鹭窠”，这里采用通行本。底本作“宿燕窠”。",
+  "en": "The common text, as in Three Hundred Tang Poems, has sù lù kē (egrets' nest) in line two, used here. The source text has sù yàn kē (swallows' nest)."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 6,
+   "char": "过",
+   "pinyin": "guò",
+   "zh": "现在读 guò。这首诗押韵的字是“过、窠、蛾”，古时“过”在这里读平声，和“窠、蛾”同韵。",
+   "en": "Taught today as guò. The rhyming words are guò, kē and é. In old pronunciation guò here had a level tone and rhymed with the other two."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "禁门：皇宫的大门。皇宫是禁地，普通人不能随便进出。",
+   "en": "jìn mén: the gates of the palace. The palace was forbidden ground; ordinary people could not go in or out."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "月痕：月亮的影子，月光照出的痕迹。",
+   "en": "yuè hén: the trace of the moon, the patch of moonlight it leaves."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "过：移过去，慢慢走过。",
+   "en": "guò: to move past, to pass slowly."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "媚眼：美丽的眼睛。",
+   "en": "mèi yǎn: lovely eyes."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "唯：只。",
+   "en": "wéi: only."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "宿鹭窠：白鹭过夜的窝。宿，过夜；鹭，白鹭，一种长腿的水鸟；窠，鸟窝。鸟儿成双成对地睡在窝里。",
+   "en": "sù lù kē: the nest where egrets spend the night. Sù means to stay the night; lù is the egret, a long-legged water bird; kē is a nest. The birds sleep there in pairs."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "斜拔：侧着身子、斜斜地拔下来。",
+   "en": "xié bá: to pull out at a slant, leaning to one side."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "玉钗：玉做的发钗，插在头发上的首饰。",
+   "en": "yù chāi: a jade hairpin, an ornament worn in the hair."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "灯影畔：灯光旁边。畔，旁边。",
+   "en": "dēng yǐng pàn: beside the lamplight. Pàn means beside."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "剔开：用细东西挑开。这里是用发钗把灯芯拨一拨。",
+   "en": "tī kāi: to pick open with something thin. Here she uses the hairpin to poke the lamp wick."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "红焰：红色的灯火。",
+   "en": "hóng yàn: the red flame of the lamp."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "飞蛾：一种夜里爱往火光里飞的小虫。",
+   "en": "fēi é: a moth, a small insect that flies into flames at night."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "宫门外，宫里的树影间，月光慢慢移了过去。",
+   "en": "By the palace gates, the moonlight slowly slides across the palace trees."
+  },
+  {
+   "zh": "她美丽的眼睛，只望着树上成双过夜的白鹭的窝。",
+   "en": "Her lovely eyes look only at the nest where egrets sleep in pairs."
+  },
+  {
+   "zh": "她在灯光旁边，斜斜地拔下头上的玉钗，",
+   "en": "Beside the lamp, she leans and pulls the jade pin from her hair,"
+  },
+  {
+   "zh": "挑开红红的灯火，救出扑进火里的飞蛾。",
+   "en": "and pokes open the red flame to save a moth that has flown in."
+  }
+ ],
+ "background": {
+  "zh": "“内人”是唐代对宫中歌舞女子的叫法。唐玄宗时，宫里有专门学歌舞的地方，选进宜春院的女子就叫“内人”。她们一进宫，多半一辈子出不来，不能嫁人，也见不到家人。张祜写过不少宫词，同情宫里女子的孤单。这首诗具体写于哪一年，已经不清楚。",
+  "en": "Nèi rén was a Tang name for women who sang and danced in the palace. Under Emperor Xuanzong, there was a special place in the palace for training performers, and the women chosen for the Yichun Court were called nèi rén. Once they entered the palace, most never left. They could not marry and could not see their families. Zhang Hu wrote many poems about palace life, full of pity for these lonely women. We no longer know in which year this poem was written."
+ },
+ "author_note": {
+  "zh": "张祜，唐代诗人，大约生活在九世纪前期。他一辈子没有做过官，到处漫游，喜欢写宫里的事。他最有名的宫词是“故国三千里，深宫二十年”，说的也是宫女的苦。这首诗同样从小事里写出宫女的心。",
+  "en": "Zhang Hu was a Tang poet who lived roughly in the early ninth century. He never held office and spent his life wandering. He liked to write about life inside the palace. His best-known palace poem says, \"Home is three thousand li away; twenty years deep in the palace,\" also about the sorrow of palace women. This poem, too, shows a palace woman's heart through a small act."
+ },
+ "appreciation": {
+  "zh": "这首诗没有一个“愁”字，只写了两个小动作。夜深了，月光在宫树间移动，她却还没睡，一直看着树上的鸟窝。鸟儿能成双成对地睡在一起，她却只能一个人守着空空的宫殿。接着，她看见一只飞蛾扑进灯火，就拔下玉钗把它救出来。飞蛾自己飞进火里，就像她自己被关进深宫，出不去。她救飞蛾，好像也是在可怜自己。一个看，一个救，把孤单和善良都写出来了，读起来很安静，却让人心里发酸。",
+  "en": "The poem never says the word \"sad\". It shows only two small acts. It is late at night. Moonlight moves through the palace trees, but she is still awake, watching the birds' nest. The birds can sleep together in pairs, while she must stay alone in the empty palace. Then she sees a moth fly into the lamp flame, and she pulls out her jade hairpin to save it. The moth flew into the fire by itself, just as she was shut inside the palace with no way out. Saving the moth seems like pitying herself. One look and one rescue show both her loneliness and her kindness. The poem is very quiet, yet it leaves an ache in the heart."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "loneliness",
+   "night",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

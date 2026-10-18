@@ -1,0 +1,901 @@
+{
+ "id": "ci-124740bb69c5",
+ "kind": "ci",
+ "title": "风流子·新绿小池塘",
+ "title_en": "Feng Liu Zi: Fresh Green on the Little Pond",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调慢词",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "塘",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "动",
+    "dòng"
+   ]
+  ],
+  [
+   [
+    "碎",
+    "suì"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ],
+  [
+   [
+    "羡",
+    "xiàn"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "屋",
+    "wū"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "巢",
+    "cháo"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "土",
+    "tǔ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "缭",
+    "liáo"
+   ],
+   [
+    "绕",
+    "rào"
+   ]
+  ],
+  [
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "莓",
+    "méi"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ]
+  ],
+  [
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "帏",
+    "wéi"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "理",
+    "lǐ"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "簧",
+    "huáng"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "虑",
+    "lǜ"
+   ],
+   [
+    "乖",
+    "guāi"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "咽",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "觞",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "了",
+    "liǎo"
+   ]
+  ],
+  [
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "厢",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "伊",
+    "yī"
+   ],
+   [
+    "行",
+    "háng"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "与",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "密",
+    "mì"
+   ],
+   [
+    "耗",
+    "hào"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "镜",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "韩",
+    "hán"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "霎",
+    "shà"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "厮",
+    "sī"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "妨",
+    "fáng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  13
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 11,
+   "pos": 3,
+   "char": "咽",
+   "pinyin": "yè",
+   "zh": "咽在这里读 yè，是哽咽、说不出声的意思，不读吞咽的 yàn。",
+   "en": "Here this character is read yè, choking up, not yàn, to swallow."
+  },
+  {
+   "line": 13,
+   "pos": 4,
+   "char": "了",
+   "pinyin": "liǎo",
+   "zh": "了在这里读 liǎo，是“完毕”的意思：梳妆好了。",
+   "en": "Here this character is read liǎo, meaning finished: her make-up is done."
+  },
+  {
+   "line": 17,
+   "pos": 5,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "行在这里读 háng，“伊行”就是“她那里”。",
+   "en": "Here this character is read háng; yī háng means her side, where she is."
+  },
+  {
+   "line": 18,
+   "pos": 1,
+   "char": "甚",
+   "pinyin": "shèn",
+   "zh": "甚在这里是“什么”的意思，一般读 shèn，也有人读 shén。",
+   "en": "Here this character means \"what\". It is usually read shèn, though some read it shén."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "风帘：被风吹动的帘子。",
+   "en": "fēng lián: a curtain stirred by the wind."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "碎影：帘子和水面上晃动的零碎光影。",
+   "en": "suì yǐng: broken flickers of light and shadow."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "羡：羡慕。",
+   "en": "xiàn: to envy."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "金屋：华美的房子。汉武帝小时候说要造金屋给心爱的人住，这里指那位女子的住处。",
+   "en": "jīn wū: a golden house. As a boy, Emperor Wu of Han said he would build one for the girl he loved; here it means where the woman lives."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "巢燕：在屋檐下做窝的燕子。",
+   "en": "cháo yàn: swallows nesting under the eaves."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "土花：青苔。",
+   "en": "tǔ huā: moss."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "缭绕：一圈圈地绕着。",
+   "en": "liáo rào: winding all around."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "前度：上一次。",
+   "en": "qián dù: last time."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "莓墙：长满青苔的墙。",
+   "en": "méi qiáng: a moss-covered wall."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "绣阁：女子住的华美的小楼。",
+   "en": "xiù gé: a woman's fine upstairs room."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "凤帏：绣着凤凰的帐子。",
+   "en": "fèng wéi: bed curtains embroidered with phoenixes."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "几许：多少，有多深。",
+   "en": "jǐ xǔ: how much, how deep."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 6,
+   "zh": "理丝簧：弹奏乐器。丝，弦乐；簧，管乐。",
+   "en": "lǐ sī huáng: playing music. Sī are string instruments; huáng are reed pipes."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 4,
+   "zh": "休：停下。",
+   "en": "xiū: to stop."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 1,
+   "zh": "虑：担心。",
+   "en": "lǜ: to worry."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 2,
+   "zh": "乖：违背，错过。",
+   "en": "guāi: to go wrong, to miss."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "芳信：约会的消息。",
+   "en": "fāng xìn: word of a meeting."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "清觞：装着清酒的杯子。",
+   "en": "qīng shāng: a cup of clear wine."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "遥知：在远处料想、知道。",
+   "en": "yáo zhī: to know from far away, to imagine."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "新妆：刚梳好的妆。",
+   "en": "xīn zhuāng: fresh make-up."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "朱户：红色的门窗。",
+   "en": "zhū hù: red doors."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 6,
+   "zh": "待月西厢：唐代小说《莺莺传》里，莺莺约张生在西厢房等月亮出来时见面。这里说她在等心上人。",
+   "en": "dài yuè xī xiāng: in a Tang story, Yingying asks her lover to meet at the west wing when the moon rises. Here, she waits for her love."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "伊行：她那里。伊，她。",
+   "en": "yī háng: where she is. Yī means she."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "甚时：什么时候。",
+   "en": "shèn shí: when."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "说与：告诉。",
+   "en": "shuō yǔ: to tell."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "密耗：秘密的消息。",
+   "en": "mì hào: secret news."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 4,
+   "zh": "秦镜：东汉的秦嘉在外做官，送给妻子一面镜子。这里指送给心上人的信物。",
+   "en": "qín jìng: Qin Jia of the Eastern Han sent his wife a mirror while he was away; here, a love token."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 4,
+   "zh": "韩香：晋朝贾充的女儿喜欢韩寿，偷了父亲珍贵的香送给他。这里指偷偷互赠信物。",
+   "en": "hán xiāng: in the Jin dynasty, the daughter of Jia Chong loved Han Shou and stole her father's rare incense for him; here, a secret gift."
+  },
+  {
+   "line": 22,
+   "start": 1,
+   "end": 2,
+   "zh": "便：就算，即使。",
+   "en": "biàn: even if."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 3,
+   "zh": "教：让。",
+   "en": "jiào: to let, to make."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 2,
+   "zh": "霎时：一会儿，很短的时间。",
+   "en": "shà shí: a moment."
+  },
+  {
+   "line": 23,
+   "start": 2,
+   "end": 4,
+   "zh": "厮见：相见。",
+   "en": "sī jiàn: to meet each other."
+  },
+  {
+   "line": 23,
+   "start": 4,
+   "end": 6,
+   "zh": "何妨：有什么关系呢？",
+   "en": "hé fáng: what harm would it do?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "小池塘一片新绿，",
+   "en": "The little pond is fresh and green;"
+  },
+  {
+   "zh": "风吹动帘子，",
+   "en": "the wind stirs the curtain,"
+  },
+  {
+   "zh": "零碎的光影在夕阳里跳舞。",
+   "en": "and broken shadows dance in the setting sun."
+  },
+  {
+   "zh": "我羡慕那些能在华屋里飞进飞出的，",
+   "en": "I envy those who fly in and out of the fine house:"
+  },
+  {
+   "zh": "从前就在那里做窝的燕子。",
+   "en": "the swallows that have always nested there."
+  },
+  {
+   "zh": "青苔一圈圈地爬着，",
+   "en": "Moss winds round and round"
+  },
+  {
+   "zh": "还是上次我来时见到的那道长满青苔的墙。",
+   "en": "the same mossy wall I saw last time."
+  },
+  {
+   "zh": "她的绣楼、凤帐，究竟有多深呢？",
+   "en": "How deep inside are her embroidered room and phoenix curtains?"
+  },
+  {
+   "zh": "我曾经听见里面传出弹琴吹笙的声音。",
+   "en": "Once I heard music from in there, strings and pipes."
+  },
+  {
+   "zh": "她想说什么，又停住了，",
+   "en": "She wanted to speak but stopped,"
+  },
+  {
+   "zh": "担心约会会被耽误；",
+   "en": "afraid our meeting would go wrong;"
+  },
+  {
+   "zh": "还没开口唱，先哽咽了，",
+   "en": "before she sang, her voice choked,"
+  },
+  {
+   "zh": "满怀愁绪，端起清酒杯。",
+   "en": "and full of sorrow she lifted her cup."
+  },
+  {
+   "zh": "我在远处想，她刚梳好了妆，",
+   "en": "From far away I picture her, make-up just done,"
+  },
+  {
+   "zh": "打开红色的门，",
+   "en": "opening the red door,"
+  },
+  {
+   "zh": "应该正在西厢等着月亮升起吧。",
+   "en": "waiting in the west wing for the moon to rise."
+  },
+  {
+   "zh": "最痛苦的是我的梦，",
+   "en": "The worst pain is my dreaming soul:"
+  },
+  {
+   "zh": "今夜也到不了她身边。",
+   "en": "tonight it cannot reach her side."
+  },
+  {
+   "zh": "请问什么时候才能告诉她，",
+   "en": "When can I tell her"
+  },
+  {
+   "zh": "我的好消息和悄悄话，",
+   "en": "my good news and secret words,"
+  },
+  {
+   "zh": "寄给她镜子，",
+   "en": "send her a mirror,"
+  },
+  {
+   "zh": "偷偷交换珍贵的香呢？",
+   "en": "and secretly trade rare incense?"
+  },
+  {
+   "zh": "老天就算让我们",
+   "en": "Heaven, if only you would let us"
+  },
+  {
+   "zh": "见上短短一面，又有什么关系呢！",
+   "en": "meet for just a moment, what harm could it do!"
+  }
+ ],
+ "background": {
+  "zh": "这首词写一个男子思念一位住在深宅里的女子，能远远听见她的琴声，却见不到她。宋代有笔记说，周邦彦在溧水做官时，喜欢上了一位官员家里的女子，写下这首词。这个故事不一定可靠，写作年份也说不清。",
+  "en": "This lyric shows a man longing for a woman who lives deep inside a fine house. He can hear her music from afar but cannot see her. A Song dynasty notebook says that when Zhou Bangyan served as an official in Lishui, he fell for a woman in another official's household and wrote this lyric. The story may not be true, and the year is not known."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），号清真居士，北宋词人，精通音乐，还管理过朝廷的音乐机构。他的词格律严谨，用字讲究，善于把前人的诗句和故事化进词里。后人很推崇他，把他看作北宋词的集大成者。",
+  "en": "Zhou Bangyan (1056–1121), also called Qingzhen Jushi, was a Northern Song ci poet. He was a master of music and once ran the court's music office. His lyrics follow the tune rules strictly, choose words with great care, and weave in older poems and stories. Later readers honored him as the one who brought together all the skills of Northern Song lyrics."
+ },
+ "appreciation": {
+  "zh": "这首词写的是“看得见、听得见，却够不着”的相思。开头是春夏之交的小景：池塘新绿，帘子被风吹动，影子在夕阳里跳。诗人羡慕燕子，因为燕子能随便飞进她的屋子，自己却只能站在长满青苔的墙外。接着他想象屋里的她：想说又不敢说，没唱先哽咽，她也在发愁。下片他想象她梳好妆在等月亮，可自己连做梦都到不了她身边。最后他着急地问：什么时候才能把心里话告诉她？结尾几乎是对着老天喊：让我们见一面又怎么样呢！感情从含蓄慢慢变得直白，越来越急切。",
+  "en": "This lyric is about a love you can see and hear but cannot reach. It opens on a small scene at the turn of spring and summer: a fresh green pond, a curtain in the wind, shadows dancing in the sunset. The poet envies the swallows, because they can fly into her house whenever they like, while he must stand outside the mossy wall. Then he imagines her inside. She wants to speak but dares not, and her voice chokes before she sings; she is sad too. In the second stanza he pictures her, make-up done, waiting for the moon, yet even his dreams cannot reach her. At last he asks, impatient: when can I tell her what is in my heart? The ending is almost a cry to heaven: what harm would one short meeting do? The feeling moves from quiet hints to plain words, more and more urgent."
+ },
+ "famous_lines": [
+  22,
+  23
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "swallows"
+  ]
+ },
+ "uncertain": []
+}

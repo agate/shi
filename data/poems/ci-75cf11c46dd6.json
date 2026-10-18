@@ -1,0 +1,740 @@
+{
+ "id": "ci-75cf11c46dd6",
+ "kind": "ci",
+ "title": "念奴娇·萧条庭院",
+ "title_en": "Nian Nu Jiao: The Bleak Courtyard",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci lyric"
+ },
+ "lines": [
+  [
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "条",
+    "tiáo"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "闭",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "宠",
+    "chǒng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "食",
+    "shí"
+   ],
+   [
+    "近",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "种",
+    "zhǒng"
+   ],
+   [
+    "种",
+    "zhǒng"
+   ],
+   [
+    "恼",
+    "nǎo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "气",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "险",
+    "xiǎn"
+   ],
+   [
+    "韵",
+    "yùn"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "成",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "扶",
+    "fú"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "滋",
+    "zī"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "寄",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "面",
+    "miàn"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "慵",
+    "yōng"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "觉",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "晨",
+    "chén"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "桐",
+    "tóng"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "引",
+    "yǐn"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "敛",
+    "liǎn"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "未",
+    "wèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "语料库作“有斜风细雨”，通行本作“又斜风细雨”，意思是“又是”斜风细雨。这首词有的版本题作“春情”。",
+  "en": "In the second line the corpus has a word meaning 'there is'; the common text has a word meaning 'again', so it reads: again slanting wind and fine rain. Some editions title this lyric 'Spring Feelings'."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重门，一道又一道的门，“重”读 chóng。",
+   "en": "It means gate after gate, layer upon layer, so the character is read chóng."
+  },
+  {
+   "line": 13,
+   "pos": 6,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "觉，睡醒，读 jué，不读睡觉的 jiào。",
+   "en": "It means to wake up, so it is read jué, not jiào as in sleep."
+  },
+  {
+   "line": 8,
+   "pos": 3,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "过尽，全部飞过去了，“尽”读 jìn。",
+   "en": "It means all have flown past, so the character is read jìn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "萧条：冷清、没有生气。",
+   "en": "xiāo tiáo: cold, quiet and lifeless."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 5,
+   "zh": "斜风细雨：斜着吹的风，细细的雨。",
+   "en": "xié fēng xì yǔ: slanting wind and fine rain."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "重门须闭：一道道门都得关上。须，必须、只好。",
+   "en": "chóng mén xū bì: gate after gate has to be shut. Xū means must."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "宠柳娇花：被宠爱的柳树，娇嫩的花朵，形容春天的花和柳十分可爱。",
+   "en": "chǒng liǔ jiāo huā: pampered willows and delicate flowers. Spring's willows and blossoms are lovely and tender."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "寒食：寒食节，在清明节前一两天，古人这几天不生火做饭。",
+   "en": "hán shí: the Cold Food Festival, a day or two before Qingming. People of old lit no fires for cooking then."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "恼人：让人心烦。",
+   "en": "nǎo rén: annoying, troubling the heart."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "险韵：很难押的韵。用险韵写诗很不容易。",
+   "en": "xiǎn yùn: a hard rhyme, one with few matching words. Writing a poem with it is not easy."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "扶头酒：很容易醉的烈酒，喝醉了头抬不起来，要用手扶着。",
+   "en": "fú tóu jiǔ: strong wine that makes you so drunk you must hold up your head."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "别是：另是一种。",
+   "en": "bié shì: quite another kind of."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "闲滋味：闲得无聊、说不出的愁闷滋味。",
+   "en": "xián zī wèi: the dull, sad taste of having nothing to do."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "征鸿：远飞的大雁。古人说大雁能传信。",
+   "en": "zhēng hóng: wild geese flying far. People of old said geese could carry letters."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "慵倚：懒得去靠。慵，懒。",
+   "en": "yōng yǐ: too weary to lean on. Yōng means lazy, listless."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "被冷香消：被子凉了，香炉里的香也烧完了。",
+   "en": "bèi lěng xiāng xiāo: the quilt has gone cold and the incense has burned out."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "愁人：发愁的人，指作者自己。",
+   "en": "chóu rén: the sad one, the poet herself."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "清露晨流：清晨的露水在流动。",
+   "en": "qīng lù chén liú: clear dew flowing in the morning."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "新桐初引：梧桐刚刚长出嫩芽。引，生长。这两句原来出自《世说新语》。",
+   "en": "xīn tóng chū yǐn: the young wutong tree just putting out new shoots. Yǐn means to grow. These two lines come from an old book of anecdotes, A New Account of Tales of the World."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 5,
+   "zh": "游春意：想出去春游的心情。",
+   "en": "yóu chūn yì: the wish to go out and enjoy spring."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "烟敛：雾气收起来了。",
+   "en": "yān liǎn: the mist has cleared."
+  },
+  {
+   "line": 19,
+   "start": 4,
+   "end": 6,
+   "zh": "晴未：晴了没有。",
+   "en": "qíng wèi: is it clear yet?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "院子里冷冷清清，",
+   "en": "The courtyard is bleak and still,"
+  },
+  {
+   "zh": "又是斜风细雨，",
+   "en": "again slanting wind and fine rain,"
+  },
+  {
+   "zh": "一道道门只好关上。",
+   "en": "and gate after gate must stay shut."
+  },
+  {
+   "zh": "可爱的柳树、娇嫩的花，寒食节快到了，",
+   "en": "Pampered willows, tender flowers: the Cold Food Festival is near,"
+  },
+  {
+   "zh": "偏偏是种种让人心烦的天气。",
+   "en": "and the weather does everything to trouble me."
+  },
+  {
+   "zh": "用难押的韵写成了诗，",
+   "en": "I finish a poem with a hard rhyme,"
+  },
+  {
+   "zh": "从烈酒的醉意里醒来，",
+   "en": "I wake from strong wine,"
+  },
+  {
+   "zh": "又是另一种无聊的愁闷滋味。",
+   "en": "and feel quite another kind of dull sadness."
+  },
+  {
+   "zh": "远飞的大雁都飞过去了，",
+   "en": "The far-flying geese have all gone by;"
+  },
+  {
+   "zh": "千千万万的心事没法寄出去。",
+   "en": "my thousand thoughts can find no way to be sent."
+  },
+  {
+   "zh": "楼上已经冷了好几天，",
+   "en": "Upstairs it has been cold for days."
+  },
+  {
+   "zh": "四面都垂着帘子，",
+   "en": "Curtains hang on all four sides,"
+  },
+  {
+   "zh": "我懒得去靠那玉石栏杆。",
+   "en": "and I am too weary to lean on the jade railing."
+  },
+  {
+   "zh": "被子凉了，香也烧完了，我从新梦中醒来，",
+   "en": "The quilt is cold, the incense gone; I wake from a new dream."
+  },
+  {
+   "zh": "这天气由不得发愁的人不起床。",
+   "en": "The day will not let a sad person stay in bed."
+  },
+  {
+   "zh": "清晨的露水在流动，",
+   "en": "Clear dew is flowing in the morning,"
+  },
+  {
+   "zh": "梧桐刚刚长出新芽，",
+   "en": "the young wutong is just putting out shoots,"
+  },
+  {
+   "zh": "多少让人想去春游啊。",
+   "en": "and how much it makes me want to go out into spring."
+  },
+  {
+   "zh": "太阳升高了，雾气散了，",
+   "en": "The sun is high, the mist has cleared."
+  },
+  {
+   "zh": "再看看今天会不会放晴。",
+   "en": "Let me see whether today will turn fine."
+  }
+ ],
+ "background": {
+  "zh": "这首词写寒食节前的春天。连日斜风细雨，作者关门在家，写诗喝酒，心里却装着说不完的心事。一般认为这是李清照前期的作品，当时丈夫赵明诚不在身边，她独守家中，写下了对远方亲人的思念。一说写于赵明诚在外做官的时候，具体年份不清楚。",
+  "en": "This lyric is about spring just before the Cold Food Festival. Day after day there is slanting wind and fine rain. The poet stays at home behind shut gates, writing poems and drinking, but her heart is full of things she cannot say. It is usually seen as an early work of Li Qingzhao. Her husband Zhao Mingcheng was away, and she was at home alone, missing him. One view says it was written while he served as an official elsewhere. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她前半生生活安稳，和丈夫赵明诚感情很好，一起收藏金石书画；后半生经历国家战乱、丈夫去世，四处漂泊。这首词属于她前期的作品，愁绪轻柔，又带着对春天的盼望。",
+  "en": "Li Qingzhao (1084 to about 1155), also called the Retired Scholar of Yi'an, was the most famous woman ci poet of the Song. In the first half of her life she lived in comfort and was close to her husband Zhao Mingcheng; together they collected old bronzes, stone rubbings, books and paintings. Later came war, her husband's death and years of wandering. This lyric is from her early years. Its sadness is soft, and it still holds a hope for spring."
+ },
+ "appreciation": {
+  "zh": "上半首很闷：院子冷清，风雨不停，门都关着。寒食将近，本该花好柳好，却偏偏是恼人的天气。她写诗、喝酒，醒来只觉得更无聊。大雁飞走了，心事也寄不出去。下半首在楼上，帘子四垂，连栏杆都懒得靠，被冷香消，梦也醒了。可是到了清晨，露水流动，梧桐发芽，她心里忽然又有了春游的念头。最后一句“更看今日晴未”，像一个人推开窗户，带着一点期待往外看。从闷到盼，写得又真又细。",
+  "en": "The first half feels heavy. The courtyard is bleak, the wind and rain will not stop, and every gate is shut. The Cold Food Festival is near, and willows and flowers should be at their best, but the weather spoils it all. She writes poems and drinks, and on waking feels only duller. The geese fly off, and her feelings cannot be sent. The second half is upstairs. Curtains hang all around, she cannot even be bothered to lean on the railing, the quilt is cold and the dream is over. But in the morning dew flows and the wutong puts out shoots, and suddenly she wants to go out into spring. The last line is like someone opening a window and looking out with a little hope. From gloom to hope, it is written truly and finely."
+ },
+ "famous_lines": [
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "hanshi"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "spring",
+   "rain",
+   "longing",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

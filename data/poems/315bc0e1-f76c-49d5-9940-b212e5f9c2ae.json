@@ -1,0 +1,365 @@
+{
+ "id": "315bc0e1-f76c-49d5-9940-b212e5f9c2ae",
+ "kind": "shi",
+ "title": "送人东游",
+ "title_en": "Seeing a Friend Off on a Journey East",
+ "author": "温庭筠",
+ "author_en": "Wen Tingyun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "戍",
+    "shù"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "浩",
+    "hào"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "郢",
+    "yǐng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "棹",
+    "zhào"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "樽",
+    "zūn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "慰",
+    "wèi"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "颜",
+    "yán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料库写作“孤櫂”“尊酒”。“櫂”是“棹”的异体字；“尊”是“樽”的古字，都指酒杯。通行本写作“孤棹”“樽酒”。",
+  "en": "The corpus uses an old variant form of zhào (oar), and an older form of zūn (wine cup). Common editions use the standard forms; the meanings are the same."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "读 huán，意思是“回来、回去”，不读 hái。",
+   "en": "Read huán, meaning \"to return\", not hái."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "读 chóng，意思是“再一次”。",
+   "en": "Read chóng, meaning \"again\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "荒戍：荒凉的边防营垒。",
+   "en": "huāng shù: a deserted border fort."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "浩然：心意坚定、气概豪迈的样子。",
+   "en": "hào rán: firm-minded and bold."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "故关：原来的关口，指出发的地方。",
+   "en": "gù guān: the old pass, the place he sets out from."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "高风：秋天强劲的风。",
+   "en": "gāo fēng: the strong winds of autumn."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "汉阳渡：汉阳的渡口，在今天湖北武汉。",
+   "en": "hàn yáng dù: the ferry at Hanyang, in today's Wuhan, Hubei."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "初日：刚升起的太阳。",
+   "en": "chū rì: the newly risen sun."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "郢门山：荆门山，在今天湖北宜都西北的长江边。",
+   "en": "yǐng mén shān: Jingmen Mountain, on the Yangtze northwest of today's Yidu, Hubei."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "江上几人在：你要去的江东一带，还有几位老朋友在呢？",
+   "en": "jiāng shàng jǐ rén zài: how many old friends are still there by the river where you are going?"
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "孤棹：一只船。棹是划船的桨，这里代指船。",
+   "en": "gū zhào: a lone boat. A zhào is an oar, standing for the boat."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "何当：什么时候能够。",
+   "en": "hé dāng: when will it be possible."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "樽酒：一杯酒。樽，古代的酒杯。",
+   "en": "zūn jiǔ: a cup of wine. A zūn is an old wine vessel."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "离颜：离别时伤感的面容。",
+   "en": "lí yán: a face full of the sadness of parting."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "荒凉的营垒边，黄叶纷纷飘落，",
+   "en": "By a deserted fort the yellow leaves fall;"
+  },
+  {
+   "zh": "你心意坚定，离开了这座老关口。",
+   "en": "with a bold heart you leave the old pass."
+  },
+  {
+   "zh": "汉阳渡口吹着强劲的秋风，",
+   "en": "Strong autumn winds blow at the Hanyang ferry;"
+  },
+  {
+   "zh": "初升的太阳照着郢门山。",
+   "en": "the morning sun lights up Yingmen Mountain."
+  },
+  {
+   "zh": "你去的江边，还有几位老朋友在呢？",
+   "en": "By the river where you go, how many old friends remain?"
+  },
+  {
+   "zh": "你独自驾着一条小船，漂向天涯。",
+   "en": "Alone in one boat, you sail toward the end of the world."
+  },
+  {
+   "zh": "我们什么时候才能再见面，",
+   "en": "When shall we meet again,"
+  },
+  {
+   "zh": "举起酒杯，安慰离别的愁颜？",
+   "en": "and raise our cups to comfort our sad parting faces?"
+  }
+ ],
+ "background": {
+  "zh": "这是温庭筠送朋友向东远行时写的诗。从诗里的“汉阳渡”“郢门山”看，送别的地方在今天湖北一带，朋友要坐船顺长江往东去。朋友是谁、具体写于哪一年，都已不清楚。从“落黄叶”“高风”看，当时是秋天。",
+  "en": "Wen Tingyun wrote this poem to see off a friend travelling far to the east. The places named, the Hanyang ferry and Yingmen Mountain, show that the parting was in today's Hubei, and the friend would sail east down the Yangtze. We no longer know who the friend was or what year it was written. The falling yellow leaves and strong winds show it was autumn."
+ },
+ "author_note": {
+  "zh": "温庭筠（约812—约866），本名岐，字飞卿，晚唐诗人、词人。他才思敏捷，传说叉手八次就能写成一首八韵的赋，人称“温八叉”。他的词写得很好，被看作“花间派”的开创者；诗和李商隐齐名，合称“温李”。这首诗写得开阔明朗，和他华丽的词风不太一样。",
+  "en": "Wen Tingyun (about 812–about 866) was a late Tang poet and lyricist. He was very quick-witted; legend says he could finish a long rhymed piece after folding his hands just eight times, so he was nicknamed \"Eight Folds Wen\". He is seen as a founder of the Huajian school of lyrics, and as a poet he was paired with Li Shangyin. This poem is open and bright, unlike his richly decorated lyrics."
+ },
+ "appreciation": {
+  "zh": "一般的送别诗多写伤心，这首诗开头却很有气势：黄叶在荒凉的营垒边飘落，朋友却毫不犹豫，意气昂扬地出发了。第三、四句写朋友一路要经过的地方：汉阳渡口秋风强劲，郢门山上旭日初升，画面辽阔明亮。第五、六句才转入担心：你去的地方还有几个老朋友？你一个人一条船漂到天涯，会不会孤单？最后盼望将来重逢，再一起喝酒，安慰彼此。全诗先豪迈后深情，读来不会太悲伤。",
+  "en": "Most farewell poems dwell on sadness, but this one opens with energy. Yellow leaves fall by a deserted fort, yet the friend sets out without hesitation, in high spirits. Lines three and four show places on his way: strong autumn winds at the Hanyang ferry, the morning sun rising over Yingmen Mountain. The picture is wide and bright. Only in lines five and six does worry come in: how many old friends are there where you are going? Alone in one boat, sailing to the end of the world, won't you be lonely? At the end the poet hopes they will meet again and drink together to comfort each other. The poem is bold first and tender later, so it does not feel too sad."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "travel",
+   "river",
+   "autumn-leaves"
+  ]
+ },
+ "uncertain": []
+}

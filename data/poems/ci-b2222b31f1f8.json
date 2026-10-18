@@ -1,0 +1,424 @@
+{
+ "id": "ci-b2222b31f1f8",
+ "kind": "ci",
+ "title": "木兰花·燕鸿过后莺归去",
+ "title_en": "Magnolia Blossoms: After the Swallows and Geese Have Passed",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "佩",
+    "pèi"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "仙",
+    "xiān"
+   ],
+   [
+    "侣",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "挽",
+    "wǎn"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "烂",
+    "làn"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "莺归去：黄莺也飞走了，表示春天过去了。",
+   "en": "yīng guī qù: even the orioles fly away; spring is over."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 7,
+   "zh": "长于春梦几多时：人生比春天的梦能长多少呢？几多时，多少时间。",
+   "en": "cháng yú chūn mèng jǐ duō shí: how much longer than a spring dream is life? Jǐ duō shí means how long."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "散似秋云：散得像秋天的云一样快。",
+   "en": "sàn sì qiū yún: scattering as quickly as autumn clouds."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "无觅处：没有地方可以找到。觅，找。",
+   "en": "wú mì chù: nowhere to be found. Mì means to look for."
+  },
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "燕鸿：燕子和大雁。燕子春天来、秋天走，大雁秋天来、春天走，一来一去，很难相见。",
+   "en": "yàn hóng: swallows and wild geese. Swallows come in spring and leave in autumn; geese come in autumn and leave in spring. One comes as the other goes, so they seldom meet."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "浮生：人的一生。古人觉得人生像漂浮不定的东西，短暂又靠不住。",
+   "en": "fú shēng: a human life. People of old felt life drifts like something floating, short and unsure."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "千万绪：千头万绪，心事多得理不清。",
+   "en": "qiān wàn xù: a thousand threads; more thoughts than one can sort out."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "闻琴：汉代卓文君听了司马相如弹琴，爱上了他，跟他一起走了。",
+   "en": "wén qín: in the Han dynasty, Zhuo Wenjun heard Sima Xiangru play the qin zither, fell in love and ran away with him."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "解佩：传说郑交甫在汉水边遇到两位仙女，仙女解下身上的玉佩送给他，转眼就不见了。",
+   "en": "jiě pèi: legend says Zheng Jiaofu met two goddesses by the Han River. They untied the jade pendants they wore and gave them to him, then vanished in a moment."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "神仙侣：神仙一样美好的伴侣。",
+   "en": "shén xiān lǚ: a partner as lovely as an immortal."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "挽断罗衣：拉着丝绸衣服，拉断了也不放手。挽，拉。",
+   "en": "wǎn duàn luó yī: pulling at a silk robe until it tears. Wǎn means to pull."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "独醒人：大家都醉了，只有自己清醒的人。这话出自屈原“众人皆醉我独醒”。",
+   "en": "dú xǐng rén: the one person who stays sober when all others are drunk. It comes from Qu Yuan's words: everyone is drunk, I alone am sober."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "烂醉：醉得很厉害。",
+   "en": "làn zuì: very drunk."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "应有数：一说是“应该是有道理的”；一说是“这样的机会也是有限的”。",
+   "en": "yīng yǒu shù: one reading: there is good sense in it; another: such chances are numbered."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "燕子和大雁都飞过去了，黄莺也飞走了，",
+   "en": "The swallows and geese have passed, and the orioles have flown away."
+  },
+  {
+   "zh": "仔细算一算这短短一生，心事千头万绪。",
+   "en": "When I count up this floating life, it holds a thousand tangled threads."
+  },
+  {
+   "zh": "美好的时光比春梦能长多少？",
+   "en": "How much longer than a spring dream do good times last?"
+  },
+  {
+   "zh": "散去时像秋云一样，再也找不到。",
+   "en": "They scatter like autumn clouds, and cannot be found again."
+  },
+  {
+   "zh": "像卓文君、像汉水仙女那样神仙般的伴侣，",
+   "en": "Lovers as fine as immortals, like the girl who heard the qin, like the goddesses who gave their pendants,"
+  },
+  {
+   "zh": "就算拉断了丝绸衣裳，也留不住。",
+   "en": "even if you pull their silk sleeves until they tear, you cannot make them stay."
+  },
+  {
+   "zh": "劝你不要做那个独自清醒的人，",
+   "en": "I urge you, don't be the only one who stays sober."
+  },
+  {
+   "zh": "在花丛中喝个烂醉，也是有道理的。",
+   "en": "Getting drunk among the flowers makes good sense."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的时间和缘由都不清楚。从词意看，是晏殊回想过去遇到的美好的人和事，感叹它们像春梦秋云一样留不住，于是劝人及时行乐。词集中另有一首几乎一样的《玉楼春》，署名欧阳修，只有几个字不同，可见这首词流传很广，作者也有不同说法。",
+  "en": "We do not know when or why this lyric was written. From its words, Yan Shu is looking back on lovely people and times he once knew. He sighs that they could not be kept, like a spring dream or autumn clouds, and so he urges people to enjoy life while they can. There is a nearly identical lyric to the tune Yu Lou Chun under the name of Ouyang Xiu, with only a few words different. The lyric spread widely, and accounts of its author differ."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），字同叔，北宋词人。他从小就是“神童”，十四岁被推荐进朝廷，后来做到宰相。他一生生活安稳富贵，词写得温婉雅致，常常在平静中透出对时光流逝的感伤。欧阳修、范仲淹等人都受过他的提拔。",
+  "en": "Yan Shu (991–1055) was a Northern Song lyric poet. He was a child prodigy, sent to the court at fourteen, and later became chief minister. His life was calm and comfortable. His lyrics are gentle and refined, and under their calm there is often sorrow at time slipping away. He helped the careers of Ouyang Xiu, Fan Zhongyan and others."
+ },
+ "appreciation": {
+  "zh": "开头一句就让人感到季节的离去：燕子、大雁、黄莺一个个飞走了，春天也走了。接着词人算起人生的账：千头万绪，好时光却像春梦一样短，像秋云一样散。下片用了两个故事，卓文君和汉水仙女，都是美好又难留的人，就算拉断了衣服也留不住。最后他劝人：别做那个独自清醒、独自难过的人，在花间醉一场吧。表面上是劝人喝酒，底下其实是很深的无奈。",
+  "en": "The first line makes us feel a season leaving: swallows, geese and orioles fly off one by one, and spring goes with them. Then the poet counts up life. It is full of tangled threads, yet good times are as short as a spring dream and scatter like autumn clouds. The second half uses two stories, Zhuo Wenjun and the river goddesses, people lovely and hard to keep. Even if you tear their sleeves, they will not stay. At last he says: don't be the only one sober and sad; get drunk among the flowers. On the surface he is urging us to drink; underneath is a deep helplessness."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "transience",
+   "parting",
+   "wine",
+   "dream"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,431 @@
+{
+ "id": "ci-a4637571fe87",
+ "kind": "ci",
+ "title": "望江南·超然台作",
+ "title_en": "Gazing South of the River: Written on the Chaoran Terrace",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "超",
+    "chāo"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "看",
+    "kàn"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "壕",
+    "háo"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "食",
+    "shí"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "咨",
+    "zī"
+   ],
+   [
+    "嗟",
+    "jiē"
+   ]
+  ],
+  [
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "国",
+    "guó"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "茶",
+    "chá"
+   ]
+  ],
+  [
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "趁",
+    "chèn"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "华",
+    "huá"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "现在读 xié。古音读 xiá，和“花、家、嗟、茶、华”押韵。",
+   "en": "Today it is read xié. In old pronunciation it was xiá, rhyming with huā, jiā, jiē, chá and huá."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "现在读 xié。古音读 xiá，和“花、家、嗟、茶、华”押韵。",
+   "en": "Today it is read xié. In old pronunciation it was xiá, rhyming with huā, jiā, jiē, chá and huá."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "斜斜：微微倾斜、轻轻摆动的样子。",
+   "en": "xié xié: leaning gently, swaying lightly."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "超然台：密州（今山东诸城）城北的一座高台，苏轼修好后，他的弟弟苏辙给它取了这个名字。“超然”是不被外物烦扰的意思。",
+   "en": "chāo rán tái: a high terrace on the north wall of Mizhou, today's Zhucheng in Shandong. Su Shi repaired it and his brother Su Zhe named it. Chāo rán means rising above worldly worries."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "壕：护城河，围着城墙挖的河。",
+   "en": "háo: the moat, the water dug around a city wall."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "暗千家：千家万户都被烟雨遮得暗暗的、朦朦胧胧的。",
+   "en": "àn qiān jiā: thousands of homes are dimmed and blurred by misty rain."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "寒食：寒食节，在清明前一两天。这几天按习俗不生火，只吃冷的食物。",
+   "en": "hán shí: the Cold Food Festival, a day or two before Qingming. By custom no fires were lit and people ate only cold food."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "咨嗟：叹气。",
+   "en": "zī jiē: to sigh."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: old friends."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "故国：故乡，这里指苏轼的家乡眉山（在今四川）。",
+   "en": "gù guó: one's home region; here Su Shi's hometown of Meishan, in today's Sichuan."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "新火：寒食节过后重新点起的火。",
+   "en": "xīn huǒ: the new fire lit again after the Cold Food Festival."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "新茶：清明前后新采的茶叶。",
+   "en": "xīn chá: new tea leaves picked around Qingming."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "趁年华：趁着大好的年纪和时光。",
+   "en": "chèn nián huá: while the good years and the good season last."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天还没有老去，",
+   "en": "Spring has not yet grown old."
+  },
+  {
+   "zh": "微风轻轻吹，柳条斜斜地摆动。",
+   "en": "A soft breeze blows, and the willow twigs lean and sway."
+  },
+  {
+   "zh": "我登上超然台向远处看，",
+   "en": "I climb the Chaoran Terrace and look out."
+  },
+  {
+   "zh": "护城河里涨了半河春水，满城都是花。",
+   "en": "The moat is half full of spring water, and the whole town is in flower."
+  },
+  {
+   "zh": "蒙蒙烟雨，让千家万户都暗了下来。",
+   "en": "Misty rain dims thousands of homes."
+  },
+  {
+   "zh": "寒食节过后，",
+   "en": "After the Cold Food Festival,"
+  },
+  {
+   "zh": "酒醒了，我却忍不住叹气。",
+   "en": "I sober up, and yet I cannot help sighing."
+  },
+  {
+   "zh": "不要在老朋友面前想念故乡了，",
+   "en": "Don't long for home in front of old friends."
+  },
+  {
+   "zh": "姑且点起新火，来煮一壶新茶吧。",
+   "en": "Let's light the new fire and try the new tea instead."
+  },
+  {
+   "zh": "写诗喝酒，要趁着大好年华。",
+   "en": "Write poems and drink wine while the good years last."
+  }
+ ],
+ "background": {
+  "zh": "宋神宗熙宁七年（1074年），苏轼到密州（今山东诸城）做知州（一个州的长官）。第二年，他把城北一座旧台修好，弟弟苏辙给它取名“超然台”。一般认为这首词写于熙宁九年（1076年）暮春，寒食节刚过。苏轼登台远望，看到满城春色，想起离开很久的家乡，又劝自己放下愁思，好好过眼前的日子。",
+  "en": "In 1074 Su Shi went to Mizhou, today's Zhucheng in Shandong, as its prefect, the head of the district. The next year he repaired an old terrace on the north side of the town, and his brother Su Zhe named it the Chaoran Terrace. This lyric is usually dated to late spring 1076, just after the Cold Food Festival. Climbing the terrace, Su Shi saw spring all over the town and thought of the home he had left long ago. Then he told himself to set the sadness down and enjoy the days in front of him."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画样样精通。他一生多次被贬到外地，但总能看得开，在苦日子里找到乐趣。他离开家乡眉山后就很少回去，诗词里常常流露思乡之情，又常常自己把它化解掉。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great writer of the Northern Song. He was a master of poems, lyrics, prose, calligraphy and painting. He was sent away from the capital many times, yet he always found a way to look on the bright side and find joy in hard days. After leaving his hometown of Meishan he seldom went back. His poems often show homesickness, and often show him easing it himself."
+ },
+ "appreciation": {
+  "zh": "上片像一幅从高处看下去的春景图：细风、斜柳、半河春水、满城鲜花，最后一场烟雨，把千家万户都罩得朦朦胧胧。颜色由明亮慢慢变得柔和。下片转到心里：寒食过后，酒醒了，人反而叹起气来，因为想家了。可苏轼不让自己一直难过，他说：别在朋友面前想家了，点起新火，煮一壶新茶吧。最后一句“诗酒趁年华”，像是对自己，也像是对每个读者说：好时光不等人，要好好享受。",
+  "en": "The first half is a spring scene seen from high up: a soft wind, leaning willows, a moat half full of water, a town full of flowers, and then a misty rain that wraps every home in haze. The colors move from bright to soft. The second half turns inward. After the Cold Food Festival he sobers up and starts to sigh, because he misses home. But Su Shi does not let himself stay sad. Don't long for home in front of friends, he says; light the new fire and make a pot of new tea. The last line, about poems and wine while the good years last, speaks to himself and to every reader: good times do not wait, so enjoy them."
+ },
+ "famous_lines": [
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "hanshi",
+   "qingming"
+  ],
+  "solar_terms": [
+   "qingming"
+  ],
+  "themes": [
+   "homesick",
+   "tea",
+   "wine",
+   "rain",
+   "optimism"
+  ]
+ },
+ "uncertain": []
+}

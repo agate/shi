@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>晚春 · 韩愈 — 诗</title>
+    <meta name="description" content="晚春 · 韩愈 — Late Spring by Han Yu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · seven-character quatrain</span><span lang="zh">唐诗 · 七言绝句</span></p>
+        <h1>晚春</h1>
+        <p class="by">韩愈<span class="mono"><span lang="en">Han Yu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Late Spring</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>cǎo</i><b>草</b></span><span class="c" data-l="0" data-p="1"><i>shù</i><b>树</b></span><span class="c" data-l="0" data-p="2"><i>zhī</i><b>知</b></span><span class="c" data-l="0" data-p="3"><i>chūn</i><b>春</b></span><span class="c gl" data-l="0" data-p="4"><i>bù</i><b>不</b></span><span class="c gl" data-l="0" data-p="5"><i>jiǔ</i><b>久</b></span><span class="c gl" data-l="0" data-p="6"><i>guī</i><b>归</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>bǎi</i><b>百</b></span><span class="c gl" data-l="1" data-p="1"><i>bān</i><b>般</b></span><span class="c gl" data-l="1" data-p="2"><i>hóng</i><b>红</b></span><span class="c gl" data-l="1" data-p="3"><i>zǐ</i><b>紫</b></span><span class="c gl" data-l="1" data-p="4"><i>dòu</i><b>斗</b></span><span class="c gl" data-l="1" data-p="5"><i>fāng</i><b>芳</b></span><span class="c gl" data-l="1" data-p="6"><i>fēi</i><b>菲</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yáng</i><b>杨</b></span><span class="c gl" data-l="2" data-p="1"><i>huā</i><b>花</b></span><span class="c gl" data-l="2" data-p="2"><i>yú</i><b>榆</b></span><span class="c gl" data-l="2" data-p="3"><i>jiá</i><b>荚</b></span><span class="c" data-l="2" data-p="4"><i>wú</i><b>无</b></span><span class="c gl" data-l="2" data-p="5"><i>cái</i><b>才</b></span><span class="c gl rd" data-l="2" data-p="6"><i>sī</i><b>思</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>wéi</i><b>惟</b></span><span class="c gl" data-l="3" data-p="1"><i>jiě</i><b>解</b></span><span class="c gl" data-l="3" data-p="2"><i>màn</i><b>漫</b></span><span class="c gl" data-l="3" data-p="3"><i>tiān</i><b>天</b></span><span class="c" data-l="3" data-p="4"><i>zuò</i><b>作</b></span><span class="c" data-l="3" data-p="5"><i>xuě</i><b>雪</b></span><span class="c" data-l="3" data-p="6"><i>fēi</i><b>飞</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus title shows this is one of Han Yu&#x27;s sixteen poems on visiting the south of the city; textbooks usually call it just &quot;Late Spring&quot;. The corpus uses an old form of the character for &quot;compete&quot; (dòu); it is written in its simplified form today.</p><p lang="zh">资料库题目作《游城南十六首·晚春》，这是韩愈《游城南十六首》组诗中的一首，课本里通常只题《晚春》。资料库原文“鬬”是“斗”的繁体异体字，现在写作“斗”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">草树知春不久归</span><span lang="en">The grass and trees know spring will soon be leaving,</span><span lang="zh">花草树木知道春天很快就要走了，</span></li><li><span class="o">百般红紫斗芳菲</span><span lang="en">so flowers of every red and purple bloom, competing in beauty.</span><span lang="zh">于是红红紫紫的花都开出来，比赛谁更美。</span></li><li><span class="o">杨花榆荚无才思</span><span lang="en">Willow fluff and elm seeds have no such talent;</span><span lang="zh">柳絮和榆钱没有这样的才情，</span></li><li><span class="o">惟解漫天作雪飞</span><span lang="en">all they know is to fill the sky, flying like snow.</span><span lang="zh">只会满天飘飞，像下雪一样。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>不久归<span class="mono">bù jiǔ guī</span></dt><dd><span lang="en">bù jiǔ guī: spring will soon be gone. Guī means to go back, here spring leaving.</span><span lang="zh">不久归：春天不久就要走了。归，回去，这里指春天离开。</span></dd></div><div><dt>百般红紫<span class="mono">bǎi bān hóng zǐ</span></dt><dd><span lang="en">bǎi bān hóng zǐ: all kinds of red and purple flowers.</span><span lang="zh">百般红紫：各种各样颜色鲜艳的花。</span></dd></div><div><dt>斗芳菲<span class="mono">dòu fāng fēi</span></dt><dd><span lang="en">dòu fāng fēi: competing to be the most fragrant and beautiful. Fāng fēi means the beauty and scent of flowers.</span><span lang="zh">斗芳菲：比赛谁更美、更香。芳菲，花草的香气和美丽。</span></dd></div><div><dt>杨花<span class="mono">yáng huā</span></dt><dd><span lang="en">yáng huā: willow fluff, the white down on willow seeds that floats in the wind.</span><span lang="zh">杨花：柳絮，柳树种子上白色的绒毛，会随风飞。</span></dd></div><div><dt>榆荚<span class="mono">yú jiá</span></dt><dd><span lang="en">yú jiá: elm seeds, round and flat like little coins.</span><span lang="zh">榆荚：榆树的果实，圆圆的，像小钱，也叫榆钱。</span></dd></div><div><dt>才思<span class="mono">cái sī</span></dt><dd><span lang="en">cái sī: talent and cleverness.</span><span lang="zh">才思：才气和心思。</span></dd></div><div><dt>惟解<span class="mono">wéi jiě</span></dt><dd><span lang="en">wéi jiě: only knows how to. Jiě means to understand.</span><span lang="zh">惟解：只知道，只会。解，懂得。</span></dd></div><div><dt>漫天<span class="mono">màn tiān</span></dt><dd><span lang="en">màn tiān: filling the sky.</span><span lang="zh">漫天：满天。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>思<span class="mono">sī</span></dt><dd><span lang="en">In cái sī (talent, wit), the character is usually read sī today. In older readings it was sì here.</span><span lang="zh">才思：现在一般读 cái sī。旧时这里的“思”读 sì，指才情。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Han Yu wrote a set of sixteen poems on outings in the south of Chang&#x27;an, and this is one of them. One view dates them to 816. In late spring, flowers rush to bloom while willow fluff and elm seeds fly about in the air. Seeing this, the poet wrote this playful little poem.</p><p lang="zh">韩愈写过一组《游城南十六首》，写的是他在长安城南游玩时看到的景物，这是其中一首。一说写于唐宪宗元和十一年（816年）。晚春时节，花儿抢着开放，柳絮和榆钱在空中乱飞，诗人看到这番景象，写下了这首有趣的小诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Han Yu (768–824) was a mid-Tang writer and poet, first among the Eight Great Prose Masters of Tang and Song, and famous for his essays. His poems like to find fresh ideas and look at things from angles others miss. This poem makes plants think and compete like people, which is very much his style.</p><p lang="zh">韩愈（768—824），中唐文学家、诗人，“唐宋八大家”之首，写文章很有名。他的诗爱出新意，常常写别人想不到的角度。这首诗把花草写得像人一样会想、会比赛，就很有他的特点。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The fun of this poem is that it turns plants into people. They &quot;know&quot; spring is leaving, so they hurry to dress up and compete to be the prettiest. Willow fluff and elm seeds have no bright colors, so the poet says they have &quot;no talent&quot; and can only fly about the sky. Yet flying like snow, they give late spring a special sight of its own. Is the poet laughing at them, or praising them for trying their best to keep spring too? Readers disagree, which leaves us room to decide for ourselves.</p><p lang="zh">这首诗最有意思的地方，是把花草树木写成了人。它们“知道”春天要走了，就赶紧打扮，比赛谁更漂亮。柳絮和榆钱没什么好看的颜色，诗人说它们“没有才思”，只会满天乱飞。可正是它们飞得像雪一样，给晚春添了一道特别的风景。这是笑它们笨，还是夸它们也在尽力留住春天？人们看法不同，正好留给读者自己去想。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/zengquexiapeisheren/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>赠阙下裴舍人</b></a><a href="../../p/jiquanjiaoshanzhongdaoshi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>寄全椒山中道士</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["草", "cǎo"], ["树", "shù"], ["知", "zhī"], ["春", "chūn"], ["不", "bù"], ["久", "jiǔ"], ["归", "guī"]], [["百", "bǎi"], ["般", "bān"], ["红", "hóng"], ["紫", "zǐ"], ["斗", "dòu"], ["芳", "fāng"], ["菲", "fēi"]], [["杨", "yáng"], ["花", "huā"], ["榆", "yú"], ["荚", "jiá"], ["无", "wú"], ["才", "cái"], ["思", "sī"]], [["惟", "wéi"], ["解", "jiě"], ["漫", "màn"], ["天", "tiān"], ["作", "zuò"], ["雪", "xuě"], ["飞", "fēi"]]], "glosses": [{"line": 0, "start": 4, "end": 7, "zh": "不久归：春天不久就要走了。归，回去，这里指春天离开。", "en": "bù jiǔ guī: spring will soon be gone. Guī means to go back, here spring leaving."}, {"line": 1, "start": 0, "end": 4, "zh": "百般红紫：各种各样颜色鲜艳的花。", "en": "bǎi bān hóng zǐ: all kinds of red and purple flowers."}, {"line": 1, "start": 4, "end": 7, "zh": "斗芳菲：比赛谁更美、更香。芳菲，花草的香气和美丽。", "en": "dòu fāng fēi: competing to be the most fragrant and beautiful. Fāng fēi means the beauty and scent of flowers."}, {"line": 2, "start": 0, "end": 2, "zh": "杨花：柳絮，柳树种子上白色的绒毛，会随风飞。", "en": "yáng huā: willow fluff, the white down on willow seeds that floats in the wind."}, {"line": 2, "start": 2, "end": 4, "zh": "榆荚：榆树的果实，圆圆的，像小钱，也叫榆钱。", "en": "yú jiá: elm seeds, round and flat like little coins."}, {"line": 2, "start": 5, "end": 7, "zh": "才思：才气和心思。", "en": "cái sī: talent and cleverness."}, {"line": 3, "start": 0, "end": 2, "zh": "惟解：只知道，只会。解，懂得。", "en": "wéi jiě: only knows how to. Jiě means to understand."}, {"line": 3, "start": 2, "end": 4, "zh": "漫天：满天。", "en": "màn tiān: filling the sky."}], "readings": [{"line": 2, "pos": 6, "char": "思", "pinyin": "sī", "zh": "才思：现在一般读 cái sī。旧时这里的“思”读 sì，指才情。", "en": "In cái sī (talent, wit), the character is usually read sī today. In older readings it was sì here."}], "speak": ["草树知春不久归", "百般红紫斗芳菲", "杨花榆荚无才思", "惟解漫天作雪飞"], "speakTitle": "晚春。韩愈。", "sample": "草树知春不久归"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

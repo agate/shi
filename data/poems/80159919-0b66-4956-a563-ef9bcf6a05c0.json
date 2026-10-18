@@ -1,0 +1,256 @@
+{
+ "id": "80159919-0b66-4956-a563-ef9bcf6a05c0",
+ "kind": "shi",
+ "title": "金谷园",
+ "title_en": "The Golden Valley Garden",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "逐",
+    "zhú"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "尘",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "坠",
+    "zhuì"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "这里的底本末句作“堕楼人”，通行本多作“坠楼人”。堕、坠都是掉下来的意思。",
+  "en": "Our source text writes the last line with duò; most editions use zhuì. Both mean to fall down."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "似",
+   "pinyin": "sì",
+   "zh": "这里是“好像”的意思，读 sì，不读 shì。",
+   "en": "Here it means to be like, so it is read sì, not shì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "繁华事：当年金谷园里豪华热闹的往事。",
+   "en": "fán huá shì: the rich and lively days of the garden long ago."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 4,
+   "zh": "散：消散，不见了。",
+   "en": "sàn: to scatter and vanish."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "逐香尘：跟着带香的尘土一起飘走了。香尘，带香气的尘土。传说石崇把沉香的粉末撒在床上，让侍女在上面走，这里用来指当年的奢华。",
+   "en": "zhú xiāng chén: blown away with the fragrant dust. Legend says Shi Chong scattered powdered incense on a couch and had his maids walk on it. Here it stands for the luxury of those days."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "流水无情：流水不懂人间的悲欢，照样流着。",
+   "en": "liú shuǐ wú qíng: the flowing water has no feelings and just keeps flowing."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "草自春：野草自顾自地一到春天就绿了。",
+   "en": "cǎo zì chūn: the grass turns green each spring on its own, caring for nothing."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "怨啼鸟：鸟儿在东风里啼叫，听起来像在哀怨。",
+   "en": "yuàn tí niǎo: birds crying in the east wind sound full of sorrow."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "犹似：好像。",
+   "en": "yóu sì: just like."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "坠楼人：从楼上跳下去的人，指石崇的侍妾绿珠。",
+   "en": "zhuì lóu rén: the one who fell from the tower, that is, Lüzhu, the beloved of Shi Chong."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "当年的繁华往事，都随着香尘飘散了。",
+   "en": "The splendor of the past has blown away with the fragrant dust."
+  },
+  {
+   "zh": "流水无情地流着，野草照样一年年绿起来。",
+   "en": "The water flows on without feeling, and the grass turns green each spring by itself."
+  },
+  {
+   "zh": "黄昏时东风吹起，鸟儿的叫声像在哀怨。",
+   "en": "At dusk the east wind rises, and the birds cry as if in sorrow."
+  },
+  {
+   "zh": "飘落的花瓣，好像当年那个跳楼的女子绿珠。",
+   "en": "The falling petals look like the woman who leapt from the tower long ago."
+  }
+ ],
+ "background": {
+  "zh": "金谷园是西晋大富豪石崇的别墅，在洛阳西北，当年非常豪华。石崇有个侍妾叫绿珠，美丽又会吹笛。权臣孙秀想夺走绿珠，石崇不肯，孙秀就陷害他。士兵来抓人时，绿珠从楼上跳下去死了。到了唐朝，金谷园早已荒废。杜牧经过这里，看到眼前的春景，想起这段往事，写下了这首诗。具体年份不详。",
+  "en": "The Golden Valley Garden was the country house of Shi Chong, a very rich man of the Western Jin, northwest of Luoyang. It was once splendid. Shi Chong had a beloved named Lüzhu, who was beautiful and played the flute. A powerful official, Sun Xiu, wanted to take her. Shi Chong refused, so Sun Xiu had him falsely accused. When soldiers came to arrest him, Lüzhu jumped from a tower and died. By Tang times the garden lay in ruins. Passing by, Du Mu saw the spring scene, remembered the story, and wrote this poem. The year is not known."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），字牧之，晚唐诗人，和李商隐并称“小李杜”。他特别擅长写七言绝句，常常借古迹抒发感慨，比如《赤壁》《泊秦淮》。他的诗清丽俊爽，《山行》《清明》也是他的名作。",
+  "en": "Du Mu (803–852) was a poet of the late Tang. He and Li Shangyin were called the Little Li and Du. He was especially good at seven-character quatrains, and often used old sites to share his thoughts about history, as in \"Red Cliff\" and \"Mooring on the Qinhuai\". His style is clear and graceful. \"Mountain Walk\" and \"Qingming\" are also famous poems of his."
+ },
+ "appreciation": {
+  "zh": "第一句一开头就说，当年的繁华全都像香尘一样散了。第二句写眼前：流水照样流，野草照样绿，大自然不管人间的兴衰。第三句的鸟叫声，在黄昏的东风里听来像在哭诉。最后一句最动人：诗人看见花瓣从枝头飘落，忽然想起了当年从楼上跳下的绿珠。花落和人坠，一样美丽，也一样让人心痛。诗人没有讲道理，只用一片落花，就让人感到繁华易逝、美好的东西容易消失。",
+  "en": "The first line says at once that all the old splendor has scattered like fragrant dust. The second shows what is there now: the water still flows, the grass still turns green, and nature does not care whether people rise or fall. In the third line, the birds crying in the evening wind sound as if they are weeping. The last line is the most moving. The poet watches petals drift down from the branches and suddenly thinks of Lüzhu leaping from the tower. A falling flower and a falling woman are both beautiful and both heartbreaking. The poet gives no lesson. With a few falling petals, he makes us feel how quickly splendor fades and how easily lovely things are lost."
+ },
+ "famous_lines": [
+  1,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "ruins",
+   "fallen-flowers",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

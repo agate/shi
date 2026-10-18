@@ -1,0 +1,524 @@
+{
+ "id": "ci-db91556ef329",
+ "kind": "ci",
+ "title": "蝶恋花·几许伤春春复暮",
+ "title_en": "Butterflies Love Flowers: How Much I Grieve for Spring, and Spring Grows Late Again",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "阴",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "偏",
+    "piān"
+   ],
+   [
+    "碍",
+    "ài"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "际",
+    "jì"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "步",
+    "bù"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "蘋",
+    "pín"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "湔",
+    "jiān"
+   ],
+   [
+    "裙",
+    "qún"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "竟",
+    "jìng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "短",
+    "duǎn"
+   ],
+   [
+    "句",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "朦",
+    "méng"
+   ],
+   [
+    "胧",
+    "lóng"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "第五句“白蘋”的“蘋”，语料经机器转换成了“苹”。“蘋”是一种长在水边的草，和苹果的“苹”不是一回事，这里保留“蘋”。",
+  "en": "In the fifth line the machine conversion in the corpus turned the character for a waterside plant, pín, into the character used for apple. They are different words, so we keep the plant character here."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "zh": "“几”在这里读 jǐ，“几许”是多少的意思。",
+   "en": "Here this character is read jǐ; jǐ xǔ means how much.",
+   "char": "几",
+   "pinyin": "jǐ"
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "zh": "“蘋”读 pín，是一种水草，不读 píng。",
+   "en": "This character, a water plant, is read pín, not píng.",
+   "char": "蘋",
+   "pinyin": "pín"
+  },
+  {
+   "line": 4,
+   "pos": 4,
+   "zh": "“湔”读 jiān，是洗的意思。",
+   "en": "This character is read jiān, meaning to wash.",
+   "char": "湔",
+   "pinyin": "jiān"
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "zh": "“数”在这里读 shù，意思是几，“数点”就是几点。",
+   "en": "Here this character is read shù, meaning a few.",
+   "char": "数",
+   "pinyin": "shù"
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "几许：多少。",
+   "en": "jǐ xǔ: how much."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "伤春：因为春天要过去而伤心。",
+   "en": "shāng chūn: to grieve because spring is passing."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "复暮：又到了暮春，春天又快结束了。",
+   "en": "fù mù: late again; spring is ending once more."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "清阴：清凉的树荫。",
+   "en": "qīng yīn: cool shade."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "偏碍：偏偏挡住。",
+   "en": "piān ài: of all things, gets in the way of."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "游丝：春天飘在空中的细丝，是虫子吐的丝。",
+   "en": "yóu sī: gossamer, fine threads spun by insects that float in the spring air."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "度：飘过去。",
+   "en": "dù: to drift across."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "天际：天边。",
+   "en": "tiān jì: the edge of the sky."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "桃叶步：就是桃叶渡，在今天的南京秦淮河边。传说东晋王献之在这里送别心爱的人桃叶。步，水边停船的地方。这里借指和心上人分别的地方。",
+   "en": "táo yè bù: Peach Leaf Ferry, by the Qinhuai River in today's Nanjing. Legend says Wang Xianzhi of the Eastern Jin saw off his beloved, Peach Leaf, there. Bù means a landing place. Here it stands for where he parted from his love."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "白蘋：一种水草，夏秋开小白花。",
+   "en": "bái pín: a water plant with small white flowers."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "湔裙处：在水边洗裙子的地方。唐代李商隐写过一位叫柳枝的姑娘，约他在水边洗裙时相见。这里借指和心上人约会的地方。",
+   "en": "jiān qún chù: the place by the water where skirts are washed. The Tang poet Li Shangyin wrote of a girl named Liuzhi who promised to meet him while washing her skirt by the river. Here it stands for a lovers' meeting place."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "竟日：一整天。",
+   "en": "jìng rì: all day long."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "微吟：小声地吟诵。",
+   "en": "wēi yín: to chant softly."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "长短句：词的别名，因为词的句子有长有短。",
+   "en": "cháng duǎn jù: \"long and short lines\", another name for ci, whose lines vary in length."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "帘影灯昏：帘子的影子晃动，灯光昏暗。",
+   "en": "lián yǐng dēng hūn: the curtain's shadow, the dim lamp."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "心寄：把心事寄托在……",
+   "en": "xīn jì: to entrust one's feelings to."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "胡琴：古代从西北传来的一种弦乐器。",
+   "en": "hú qín: a stringed instrument that came from the northwest in ancient times."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "约住：拦住、止住。",
+   "en": "yuē zhù: to hold back, to stop."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "朦胧：模模糊糊，看不清楚。",
+   "en": "méng lóng: hazy, blurred."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我为春天伤了多少心，春天又一次到了尽头。",
+   "en": "How much I have grieved for spring, and once again spring is ending."
+  },
+  {
+   "zh": "杨柳的树荫清清凉凉，",
+   "en": "The willows cast a cool shade,"
+  },
+  {
+   "zh": "偏偏挡住了飘飞的游丝。",
+   "en": "and of all things it stops the drifting gossamer."
+  },
+  {
+   "zh": "天边的小山下，是像桃叶渡那样分别的渡口；",
+   "en": "Below the small hills at the sky's edge lies a ferry like the one where Peach Leaf was seen off;"
+  },
+  {
+   "zh": "开满白蘋花的水边，是当年约会的地方。",
+   "en": "the waterside full of white pín flowers is where we used to meet."
+  },
+  {
+   "zh": "我整天小声地吟着自己写的词，",
+   "en": "All day I softly chant the lyrics I have written."
+  },
+  {
+   "zh": "帘影晃动，灯光昏暗，",
+   "en": "The curtain's shadow sways, the lamp is dim,"
+  },
+  {
+   "zh": "我把心事都交给了胡琴的声音。",
+   "en": "and I give my feelings to the voice of the huqin."
+  },
+  {
+   "zh": "几点雨声，被风拦住，停了下来，",
+   "en": "A few drops of rain fall, and the wind holds them back;"
+  },
+  {
+   "zh": "淡淡的月亮朦朦胧胧，云彩飘来又飘去。",
+   "en": "the faint moon is hazy as clouds drift past and away."
+  }
+ ],
+ "background": {
+  "zh": "这是一首暮春怀人的词。词人在春天快结束时，想起从前和心上人分别、约会的地方，整天写词、弹琴来寄托思念。词里用了“桃叶渡”和“湔裙”两个典故，都和恋人有关。这首词写于哪一年、思念的是谁，都已经不清楚。",
+  "en": "This lyric is about missing someone in late spring. As spring ends, the poet remembers the places where he parted from and used to meet the one he loved. All day he writes lyrics and plays music to hold his longing. The lyric uses two old stories, Peach Leaf Ferry and the washing of skirts, both about lovers. We no longer know the year it was written or who it is about."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，号庆湖遗老，北宋词人。他是宋太祖贺皇后家族的后代，性格豪爽，长相却很丑。他一生只做过不大的官，晚年隐居苏州一带。他的词既有豪放的，也有柔美的，因为写过“梅子黄时雨”的名句，人称“贺梅子”。",
+  "en": "He Zhu (1052–1125), courtesy name Fanghui, was a Northern Song lyric poet. He came from the family of Empress He, wife of the first Song emperor. He was bold and frank by nature, but said to be very ugly. He held only modest posts all his life and in old age lived quietly near Suzhou. His lyrics range from bold to tender. Because of his famous line about rain when the plums turn yellow, people called him \"He of the Plums\"."
+ },
+ "appreciation": {
+  "zh": "开头一句就很沉：为春天伤心了多少次，春天又要走了。接着他写了一个小细节：柳荫挡住了空中的游丝，好像连游丝都飘不过去，心里的思念也一样被挡住了。远处的小山、开满白蘋花的水边，都是当年和心上人分别、约会的地方。下半首写他整天吟词、弹琴，心事说不出，只好交给琴声。最后两句很轻：几点雨被风止住，月亮淡淡的，云来了又走。景色朦朦胧胧，就像他那说不清的心情。",
+  "en": "The first line is heavy: how many times he has grieved for spring, and now it is leaving again. Then comes a small detail. The willow shade stops the gossamer in the air, as if even the floating threads cannot get through, just as his longing is blocked. The small hills far away and the waterside full of white flowers are the places where he once parted from and met his love. In the second half he chants lyrics and plays music all day. He cannot put his feelings into words, so he gives them to the music. The last two lines are very light. A few drops of rain are held back by the wind, the moon is faint, and the clouds come and go. The hazy scene is just like his feelings, which he cannot quite name."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "longing",
+   "love",
+   "music",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

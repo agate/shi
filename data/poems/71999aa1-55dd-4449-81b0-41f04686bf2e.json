@@ -1,0 +1,361 @@
+{
+ "id": "71999aa1-55dd-4449-81b0-41f04686bf2e",
+ "kind": "shi",
+ "title": "听蜀僧濬弹琴",
+ "title_en": "Listening to Jun, a Monk from Shu, Play the Qin",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "蜀",
+    "shǔ"
+   ],
+   [
+    "僧",
+    "sēng"
+   ],
+   [
+    "抱",
+    "bào"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "绮",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "峨",
+    "é"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "峰",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "挥",
+    "huī"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "壑",
+    "hè"
+   ],
+   [
+    "松",
+    "sōng"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "洗",
+    "xǐ"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "重",
+    "chóng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "这里是“给、替”的意思，读 wèi。",
+   "en": "Here it means for, read wèi."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "这里是“层”的意思，读 chóng，不读 zhòng。",
+   "en": "Here it means layer, read chóng, not zhòng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "蜀僧：从蜀地（今天四川一带）来的和尚，名叫濬。",
+   "en": "shǔ sēng: a monk from Shu, today's Sichuan, named Jun."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "绿绮：古琴的名字。汉代司马相如有一张名琴叫“绿绮”，这里指很好的琴。",
+   "en": "lǜ qǐ: the name of a famous qin owned by Sima Xiangru in Han times. Here it means a very fine qin."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "峨眉峰：峨眉山，在四川，是有名的佛教名山。",
+   "en": "é méi fēng: Mount Emei in Sichuan, a famous Buddhist mountain."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "挥手：这里指弹琴时手指拨动琴弦。",
+   "en": "huī shǒu: here, moving the hand to pluck the strings."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "万壑松：千山万谷里松树被风吹响的声音。壑，山谷。",
+   "en": "wàn hè sōng: the sound of wind in the pines across ten thousand valleys. Hè means valley."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "客心：离家在外的人的心，指诗人自己。",
+   "en": "kè xīn: the heart of someone far from home, the poet himself."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "洗流水：像被流水洗过一样。这里也用了“高山流水”的故事：古时伯牙弹琴，钟子期听得懂他琴里的高山和流水。",
+   "en": "xǐ liú shuǐ: washed as if by flowing water. It also recalls the old story of Boya, who played the qin, and his friend Zhong Ziqi, who could hear the mountains and rivers in his music."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "余响：琴声停了以后留下的回音。",
+   "en": "yú xiǎng: the echo that stays after the music stops."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "霜钟：秋天的钟声。古书上说，丰山有九口钟，下霜的时候会自己响。",
+   "en": "shuāng zhōng: an autumn bell. An old book says nine bells on Mount Feng rang by themselves when frost fell."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "不觉：没有发觉。",
+   "en": "bù jué: without noticing."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "碧山暮：青山已经到了傍晚。",
+   "en": "bì shān mù: evening has come to the green hills."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "暗几重：一层又一层，颜色暗下来了。重，层。",
+   "en": "àn jǐ chóng: darkening layer upon layer. Chóng means layer."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "蜀地来的和尚，抱着一张名贵的绿绮琴，",
+   "en": "A monk from Shu, holding a fine qin,"
+  },
+  {
+   "zh": "从西边的峨眉山上走下来。",
+   "en": "comes down from the peaks of Mount Emei in the west."
+  },
+  {
+   "zh": "他为我轻轻一挥手，弹起琴来，",
+   "en": "For me he gives a sweep of his hand,"
+  },
+  {
+   "zh": "我就像听到了千山万谷里松涛的声音。",
+   "en": "and I seem to hear the pines roar in ten thousand valleys."
+  },
+  {
+   "zh": "我这游子的心，像被流水洗过一样清爽，",
+   "en": "My traveler's heart is washed clean as if by flowing water,"
+  },
+  {
+   "zh": "琴声的余音，和秋天的钟声融在一起。",
+   "en": "and the lingering notes blend into the autumn bells."
+  },
+  {
+   "zh": "不知不觉，青山已经到了傍晚，",
+   "en": "Before I know it, dusk has come to the green hills,"
+  },
+  {
+   "zh": "秋天的云，一层一层暗了下来。",
+   "en": "and the autumn clouds have darkened, layer upon layer."
+  }
+ ],
+ "background": {
+  "zh": "濬是一位从蜀地来的和尚，很会弹琴。李白年轻时生活在蜀地，听到同乡人弹琴，格外亲切。一说这首诗写于唐玄宗天宝十二年（753年）左右，李白在宣城（在今天安徽）游玩的时候。诗里写的是一个秋天的傍晚，诗人听琴听得入了迷。",
+  "en": "Jun was a monk from Shu who played the qin very well. Li Bai grew up in Shu, so hearing a man from his home region play felt especially warm. One view says the poem was written around 753, when Li Bai was traveling in Xuancheng, in today's Anhui. The poem shows an autumn evening, with the poet lost in the music."
+ },
+ "author_note": {
+  "zh": "李白（701—762），字太白，号青莲居士，唐代最有名的诗人之一，被称为“诗仙”。他小时候在蜀地长大，后来一生四处游历。他的诗想象丰富，气势很大，写山写水写音乐都很生动。",
+  "en": "Li Bai (701–762), courtesy name Taibai, also called the Lay Buddhist of Green Lotus, is one of the most famous Tang poets and is known as the Immortal of Poetry. He grew up in Shu and spent his life traveling. His poems are full of imagination and great energy, and he made hills, rivers and music come alive."
+ },
+ "appreciation": {
+  "zh": "音乐是听的，很难写出来。李白用了几个比方：琴声一响，好像千山万谷的松树一起被风吹响，又大又有气势；听着听着，心像被流水洗过，干干净净；琴停了，余音还在，和寺庙里的秋钟连在一起，飘得很远。最后两句不写琴，只写天色：诗人回过神来，才发现青山已经黑了，秋云一层层暗下来。这说明他听得太入迷，连时间都忘了。好的音乐，就是能让人忘了时间。",
+  "en": "Music is heard, and it is hard to put into words. Li Bai uses a few pictures. When the qin sounds, it is like the wind roaring through the pines of ten thousand valleys, big and powerful. As he listens, his heart feels washed clean by flowing water. When the music stops, the echo stays and blends with the autumn temple bells, drifting far away. The last two lines say nothing about the music, only about the sky. When the poet comes back to himself, he finds the green hills have gone dark and the autumn clouds are dimming layer by layer. He was so lost in the music that he forgot the time. That is what good music does."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "music",
+   "monk",
+   "mountain",
+   "dusk"
+  ]
+ },
+ "uncertain": []
+}

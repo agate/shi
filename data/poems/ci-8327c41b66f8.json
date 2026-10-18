@@ -1,0 +1,797 @@
+{
+ "id": "ci-8327c41b66f8",
+ "kind": "ci",
+ "title": "剑器近·夜来雨",
+ "title_en": "Jian Qi Jin: Rain in the Night",
+ "author": "袁去华",
+ "author_en": "Yuan Quhua",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·剑器近（三叠）",
+  "en": "ci lyric to the tune Jian Qi Jin, three stanzas"
+ },
+ "lines": [
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "赖",
+    "lài"
+   ],
+   [
+    "倩",
+    "qiàn"
+   ],
+   [
+    "得",
+    "dé"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "棠",
+    "táng"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "妖",
+    "yāo"
+   ],
+   [
+    "娆",
+    "ráo"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "取",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "悄",
+    "qiǎo"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "听",
+    "tīng"
+   ]
+  ],
+  [
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "午",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ]
+  ],
+  [
+   [
+    "乍",
+    "zhà"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "絮",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "憔",
+    "qiáo"
+   ],
+   [
+    "悴",
+    "cuì"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "暄",
+    "xuān"
+   ]
+  ],
+  [
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "了",
+    "liǎo"
+   ],
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "定",
+    "dìng"
+   ],
+   [
+    "据",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5,
+  10
+ ],
+ "text_note": {
+  "zh": "资料库原文作“妖饶”，这里按通行本作“妖娆”。",
+  "en": "The database text writes yāo ráo with a different second character; this follows the common text."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "倩",
+   "pinyin": "qiàn",
+   "zh": "这里是“请、借助”的意思，读 qiàn。",
+   "en": "Here it means \"to ask for help\" and is read qiàn."
+  },
+  {
+   "line": 15,
+   "pos": 1,
+   "char": "弹",
+   "pinyin": "tán",
+   "zh": "这里是“用手指弹去”的意思，读 tán。",
+   "en": "Here it means \"to flick off with a finger\" and is read tán."
+  },
+  {
+   "line": 17,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "这里是“替、给”的意思，读 wèi。",
+   "en": "Here it means \"for, on behalf of\" and is read wèi."
+  },
+  {
+   "line": 20,
+   "pos": 1,
+   "char": "了",
+   "pinyin": "liǎo",
+   "zh": "“到了”是“到最后”的意思，了读 liǎo。",
+   "en": "Dào liǎo means \"in the end\"; here the character is read liǎo."
+  },
+  {
+   "line": 12,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "这里是“层”的意思，读 chóng。",
+   "en": "Here it means \"layer\" and is read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "夜来：昨天夜里。",
+   "en": "yè lái: last night."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "赖倩得：幸亏靠着。赖，幸亏；倩，请、借助。",
+   "en": "lài qiàn dé: luckily, with the help of. Lài means \"luckily\"; qiàn means to ask for help."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "吹住：把雨吹停了。",
+   "en": "chuī zhù: blew the rain to a stop."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "妖娆：娇艳美丽。",
+   "en": "yāo ráo: charming and lovely."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "且留取：暂且把它留住。",
+   "en": "qiě liú qǔ: let it stay a while."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "悄庭户：院子和门户都静悄悄的。",
+   "en": "qiǎo tíng hù: the courtyard and doors are quiet."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "试：试着。",
+   "en": "shì: to try."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "莺啼燕语：黄莺在叫，燕子在呢喃。",
+   "en": "yīng tí yàn yǔ: orioles singing and swallows chattering."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "分明：明明是，清清楚楚。",
+   "en": "fēn míng: clearly, plainly."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 6,
+   "zh": "共人愁绪：和人一样发愁。",
+   "en": "gòng rén chóu xù: sharing people's sorrow."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "翠阴：绿树的树荫。",
+   "en": "cuì yīn: the green shade of the trees."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "初转午：刚过中午。树影随着太阳移动，到正午就转了方向。",
+   "en": "chū zhuǎn wǔ: just past noon. The shade of the trees turns as the sun moves."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "重帘：一层层的帘子。",
+   "en": "chóng lián: layers of curtains."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 1,
+   "zh": "乍：刚刚。",
+   "en": "zhà: just now."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 5,
+   "zh": "风絮：被风吹着飘的柳絮。",
+   "en": "fēng xù: willow fluff blown about by the wind."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "偷弹清泪：偷偷地抹掉眼泪。弹，用手指弹去。",
+   "en": "tōu tán qīng lèi: secretly flicking away tears with a finger."
+  },
+  {
+   "line": 15,
+   "start": 5,
+   "end": 7,
+   "zh": "烟波：雾气笼罩的江水。",
+   "en": "yān bō: misty river water."
+  },
+  {
+   "line": 16,
+   "start": 1,
+   "end": 3,
+   "zh": "江头：江边。",
+   "en": "jiāng tóu: the riverside."
+  },
+  {
+   "line": 16,
+   "start": 3,
+   "end": 5,
+   "zh": "故人：老朋友，也可指心上人。",
+   "en": "gù rén: an old friend; it can also mean a loved one."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "为言：替我告诉他。",
+   "en": "wèi yán: tell him for me."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 6,
+   "zh": "憔悴如许：瘦弱成这个样子。如许，像这样。",
+   "en": "qiáo cuì rú xǔ: worn and thin like this. Rú xǔ means \"like this\"."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "彩笺：彩色的信纸，指书信。",
+   "en": "cǎi jiān: coloured letter paper, that is, letters."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "去却寒暄：除去那些问冷问热的客套话。",
+   "en": "qù què hán xuān: leaving aside the polite words about the weather and health."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "到了：到最后。",
+   "en": "dào liǎo: in the end."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 6,
+   "zh": "浑无定据：完全没有靠得住的话。浑，全；定据，确实的凭据。",
+   "en": "hún wú dìng jù: nothing at all to rely on. Hún means \"wholly\"."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 2,
+   "zh": "断肠：形容伤心到了极点。",
+   "en": "duàn cháng: heartbroken, as if one's insides were torn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "昨天夜里下了雨，",
+   "en": "It rained last night."
+  },
+  {
+   "zh": "幸亏有东风",
+   "en": "Luckily the east wind"
+  },
+  {
+   "zh": "把雨吹停了。",
+   "en": "blew the rain away."
+  },
+  {
+   "zh": "海棠花正开得最娇艳的时候，",
+   "en": "The crab-apple flowers are at their loveliest;"
+  },
+  {
+   "zh": "姑且把它们留住吧。",
+   "en": "let them stay a little longer."
+  },
+  {
+   "zh": "院子里静悄悄的。",
+   "en": "The courtyard is quiet."
+  },
+  {
+   "zh": "试着仔细听一听，",
+   "en": "I try listening closely"
+  },
+  {
+   "zh": "黄莺在叫，燕子在呢喃，",
+   "en": "to the orioles singing and the swallows chattering:"
+  },
+  {
+   "zh": "它们分明和人一样在发愁，",
+   "en": "they plainly share my sorrow,"
+  },
+  {
+   "zh": "怕春天走掉。",
+   "en": "afraid that spring will go."
+  },
+  {
+   "zh": "那些好看的树，",
+   "en": "The fine trees"
+  },
+  {
+   "zh": "绿荫刚刚转过正午。",
+   "en": "cast their green shade; it is just past noon."
+  },
+  {
+   "zh": "一层层帘子还没卷起来，",
+   "en": "The layered curtains are still down."
+  },
+  {
+   "zh": "我刚睡醒，",
+   "en": "Just up from sleep,"
+  },
+  {
+   "zh": "孤孤单单地看着风里飘的柳絮。",
+   "en": "I watch the willow fluff drift in the wind, alone."
+  },
+  {
+   "zh": "偷偷抹掉眼泪，托付给烟雾中的江水，",
+   "en": "I secretly wipe my tears and give them to the misty river:"
+  },
+  {
+   "zh": "如果见到江边的那个人，",
+   "en": "if it meets my dear one by the river,"
+  },
+  {
+   "zh": "请替我告诉他，我已经憔悴成这个样子。",
+   "en": "tell him how worn and thin I have become."
+  },
+  {
+   "zh": "他寄来的彩色信纸有无数张，",
+   "en": "He sent me countless letters on coloured paper,"
+  },
+  {
+   "zh": "可除去那些客套话，",
+   "en": "but leave out the polite words,"
+  },
+  {
+   "zh": "到最后全都没有一句靠得住的话。",
+   "en": "and in the end there was nothing I could count on."
+  },
+  {
+   "zh": "落日照着千山，天色晚了，我伤心得肠子都要断了。",
+   "en": "The sun sets, a thousand hills grow dark, and my heart breaks."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是暮春时节一个人的相思和愁苦。词里的“我”一般理解为一位女子，一说是作者自己。她怕春天过去，又想念远方的人，那人寄来很多信，却没有一句确定的话。词中没有写明是哪一年、在哪里写的。这个词牌分三段，前两段的句式完全一样，第三段比较长，在宋词里比较少见。",
+  "en": "This lyric is about longing and sorrow at the end of spring. The speaker is usually read as a woman, though some think it is the poet himself. She fears spring is leaving, and she misses someone far away. He has sent many letters, but none says anything she can count on. The lyric does not tell us when or where it was written. The tune has three stanzas. The first two have exactly the same pattern, and the third is longer, which is rare among Song lyrics."
+ },
+ "author_note": {
+  "zh": "袁去华，字宣卿，江西奉新人，南宋词人，生卒年不详。他在宋高宗绍兴年间考中进士，做过几任县官。他的词写景细致，感情深切，作品不算多，这首是他最有名的一首。",
+  "en": "Yuan Quhua, courtesy name Xuanqing, came from Fengxin in Jiangxi. He was a Southern Song ci poet; his dates of birth and death are not known. He passed the imperial exam during the Shaoxing years of Emperor Gaozong and served as a county magistrate several times. His lyrics describe scenes with fine detail and deep feeling. He did not leave many works, and this is his best known."
+ },
+ "appreciation": {
+  "zh": "第一段写雨后的海棠：幸亏东风把雨吹停了，花还开着，想把它留住。第二段写莺和燕：它们叫得那么急，好像和人一样怕春天走掉。两段的句子长短一模一样，像唱歌时同一个调子唱了两遍，愁绪也就加深了一层。第三段时间来到中午，她刚睡起，帘子也懒得卷，只看着柳絮乱飞。她偷偷把眼泪交给江水，请它带话给远方的人：我已经憔悴成这样了。可是想到那人寄来的那么多信，除了客套话，什么承诺都没有，她更伤心了。最后一句只写景：落日西沉，千山都暗了下来。景里全是她说不出口的痛。",
+  "en": "The first stanza is about the crab-apple flowers after the rain. Luckily the east wind stopped the rain, the flowers are still in bloom, and she wants to keep them. The second stanza is about the orioles and swallows. They call so urgently, as if they too fear that spring will leave. The two stanzas have exactly the same line lengths, like a song sung twice to the same tune, and the sadness grows deeper. In the third stanza it is past noon. She has just got up and cannot be bothered to roll up the curtains; she only watches the willow fluff fly about. She secretly gives her tears to the river and asks it to carry a message to the one far away: look how worn I have become. Then she thinks of all his letters. Apart from polite words, there was not a single promise, and she grows sadder still. The last line shows only a scene: the sun sinks, and a thousand hills go dark. The scene holds all the pain she cannot put into words."
+ },
+ "famous_lines": [
+  9,
+  21
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "flowers",
+   "late-spring"
+  ]
+ },
+ "uncertain": []
+}
