@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>除夜有怀 · 崔涂 — 诗</title>
+    <meta name="description" content="除夜有怀 · 崔涂 — Thoughts on New Year&#x27;s Eve by Cui Tu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">Tang poem · five-character regulated verse</span><span lang="zh">唐诗 · 五言律诗</span></p>
+        <h1>除夜有怀</h1>
+        <p class="by">崔涂<span class="mono"><span lang="en">Cui Tu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Thoughts on New Year&#x27;s Eve</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>tiáo</i><b>迢</b></span><span class="c gl" data-l="0" data-p="1"><i>dì</i><b>递</b></span><span class="c gl" data-l="0" data-p="2"><i>sān</i><b>三</b></span><span class="c gl" data-l="0" data-p="3"><i>bā</i><b>巴</b></span><span class="c" data-l="0" data-p="4"><i>lù</i><b>路</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>jī</i><b>羁</b></span><span class="c gl" data-l="1" data-p="1"><i>wēi</i><b>危</b></span><span class="c" data-l="1" data-p="2"><i>wàn</i><b>万</b></span><span class="c" data-l="1" data-p="3"><i>lǐ</i><b>里</b></span><span class="c" data-l="1" data-p="4"><i>shēn</i><b>身</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>luàn</i><b>乱</b></span><span class="c gl" data-l="2" data-p="1"><i>shān</i><b>山</b></span><span class="c" data-l="2" data-p="2"><i>cán</i><b>残</b></span><span class="c" data-l="2" data-p="3"><i>xuě</i><b>雪</b></span><span class="c" data-l="2" data-p="4"><i>yè</i><b>夜</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>gū</i><b>孤</b></span><span class="c gl" data-l="3" data-p="1"><i>zhú</i><b>烛</b></span><span class="c gl" data-l="3" data-p="2"><i>yì</i><b>异</b></span><span class="c gl" data-l="3" data-p="3"><i>xiāng</i><b>乡</b></span><span class="c gl" data-l="3" data-p="4"><i>rén</i><b>人</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>jiàn</i><b>渐</b></span><span class="c" data-l="4" data-p="1"><i>yǔ</i><b>与</b></span><span class="c gl" data-l="4" data-p="2"><i>gǔ</i><b>骨</b></span><span class="c gl" data-l="4" data-p="3"><i>ròu</i><b>肉</b></span><span class="c" data-l="4" data-p="4"><i>yuǎn</i><b>远</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>zhuǎn</i><b>转</b></span><span class="c gl" data-l="5" data-p="1"><i>yú</i><b>于</b></span><span class="c gl" data-l="5" data-p="2"><i>tóng</i><b>僮</b></span><span class="c gl" data-l="5" data-p="3"><i>pú</i><b>仆</b></span><span class="c" data-l="5" data-p="4"><i>qīn</i><b>亲</b></span></p><p class="ln"><span class="c gl rd" data-l="6" data-p="0"><i>nǎ</i><b>那</b></span><span class="c gl" data-l="6" data-p="1"><i>kān</i><b>堪</b></span><span class="c" data-l="6" data-p="2"><i>zhèng</i><b>正</b></span><span class="c gl" data-l="6" data-p="3"><i>piāo</i><b>飘</b></span><span class="c gl" data-l="6" data-p="4"><i>bó</i><b>泊</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>míng</i><b>明</b></span><span class="c" data-l="7" data-p="1"><i>rì</i><b>日</b></span><span class="c gl" data-l="7" data-p="2"><i>suì</i><b>岁</b></span><span class="c gl" data-l="7" data-p="3"><i>huá</i><b>华</b></span><span class="c" data-l="7" data-p="4"><i>xīn</i><b>新</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The source text lists this poem under Meng Haoran, with a slightly different title and a few different words: &quot;lonely lamp&quot; for &quot;lonely candle&quot;, &quot;slaves and servants&quot; for &quot;servant boys&quot;, and &quot;the coming day&quot; for &quot;tomorrow&quot;. The common Three Hundred Tang Poems gives it to Cui Tu, titled &quot;Thoughts on New Year&#x27;s Eve&quot;, with &quot;candle&quot;, &quot;servant boys&quot; and &quot;tomorrow&quot;. We follow that common text.</p><p lang="zh">底本把这首诗归在孟浩然名下，题作《岁除夜有怀》，文字也有几处不同：“孤灯异乡人”“转于奴仆亲”“来日岁华新”。通行的《唐诗三百首》署名崔涂，题作《除夜有怀》，作“孤烛”“僮仆”“明日”，这里用通行本。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">迢递三巴路</span><span lang="en">On the long, far road through the Three Ba,</span><span lang="zh">走在三巴遥远漫长的路上，</span></li><li><span class="o">羁危万里身</span><span lang="en">I am ten thousand miles from home, in danger.</span><span lang="zh">我远离家乡万里，处境艰难。</span></li><li><span class="o">乱山残雪夜</span><span lang="en">In the tangled hills, on a night of melting snow,</span><span lang="zh">乱山之中，残雪未化的夜晚，</span></li><li><span class="o">孤烛异乡人</span><span lang="en">one lonely candle lights me, a stranger here.</span><span lang="zh">一支孤烛，照着我这个外乡人。</span></li><li><span class="o">渐与骨肉远</span><span lang="en">Farther and farther I go from my family,</span><span lang="zh">离亲人越来越远，</span></li><li><span class="o">转于僮仆亲</span><span lang="en">and instead I grow close to my servants.</span><span lang="zh">反倒和身边的仆人越来越亲近。</span></li><li><span class="o">那堪正飘泊</span><span lang="en">How can I bear it, drifting like this,</span><span lang="zh">哪里受得了，正在四处漂泊，</span></li><li><span class="o">明日岁华新</span><span lang="en">when tomorrow a new year begins?</span><span lang="zh">明天就又是新的一年了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>迢递<span class="mono">tiáo dì</span></dt><dd><span lang="en">tiáo dì: far and long, said of a road.</span><span lang="zh">迢递：形容路又远又长。</span></dd></div><div><dt>三巴<span class="mono">sān bā</span></dt><dd><span lang="en">sān bā: the Three Ba, an old name for three regions in today&#x27;s eastern Sichuan and Chongqing.</span><span lang="zh">三巴：巴郡、巴东、巴西三个地方的合称，在今天的四川东部和重庆一带。</span></dd></div><div><dt>羁危<span class="mono">jī wēi</span></dt><dd><span lang="en">jī wēi: living far from home in danger. Jī means to stay away from home.</span><span lang="zh">羁危：在外漂泊，处境艰险。羁，寄居在外。</span></dd></div><div><dt>乱山<span class="mono">luàn shān</span></dt><dd><span lang="en">luàn shān: hills piled up in every direction.</span><span lang="zh">乱山：高低不齐、杂乱的群山。</span></dd></div><div><dt>孤烛<span class="mono">gū zhú</span></dt><dd><span lang="en">gū zhú: a single, lonely candle.</span><span lang="zh">孤烛：一支孤零零的蜡烛。</span></dd></div><div><dt>异乡人<span class="mono">yì xiāng rén</span></dt><dd><span lang="en">yì xiāng rén: a stranger in a land not his own.</span><span lang="zh">异乡人：在别人家乡做客的人，外乡人。</span></dd></div><div><dt>骨肉<span class="mono">gǔ ròu</span></dt><dd><span lang="en">gǔ ròu: flesh and bone, meaning close family.</span><span lang="zh">骨肉：亲人，父母兄弟等家人。</span></dd></div><div><dt>转于<span class="mono">zhuǎn yú</span></dt><dd><span lang="en">zhuǎn yú: instead, on the contrary, with ...</span><span lang="zh">转于：反而和……。</span></dd></div><div><dt>僮仆<span class="mono">tóng pú</span></dt><dd><span lang="en">tóng pú: servants, the boy and the man who travel with him.</span><span lang="zh">僮仆：仆人，跟着他的书童和家仆。</span></dd></div><div><dt>那堪<span class="mono">nǎ kān</span></dt><dd><span lang="en">nǎ kān: how can one bear it.</span><span lang="zh">那堪：哪里受得了。</span></dd></div><div><dt>飘泊<span class="mono">piāo bó</span></dt><dd><span lang="en">piāo bó: to drift from place to place, like a leaf on water.</span><span lang="zh">飘泊：像水上的浮萍一样四处流浪。</span></dd></div><div><dt>岁华<span class="mono">suì huá</span></dt><dd><span lang="en">suì huá: the years, time of life.</span><span lang="zh">岁华：年华，岁月。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>那<span class="mono">nǎ</span></dt><dd><span lang="en">Here nǎ means &quot;how&quot;, asking a question that expects no answer, so it is read nǎ.</span><span lang="zh">“那堪”的“那”同“哪”，表示反问，读 nǎ。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">New Year&#x27;s Eve is the last night of the year. The poet was drifting along mountain roads in the Three Ba region and could not get home for the new year, so he wrote this poem. It also goes by another title, &quot;Thoughts on New Year&#x27;s Eve on the Road in the Ba Mountains&quot;. Sources differ on the author. The Complete Tang Poems lists it under both Meng Haoran and Cui Tu. The common Three Hundred Tang Poems gives it to Cui Tu, and most people take it as his.</p><p lang="zh">除夜就是除夕，一年的最后一个晚上。诗人在三巴一带的山路上漂泊，过年也回不了家，就写下了这首诗。这首诗另一个题目是《巴山道中除夜书怀》。作者有不同说法：《全唐诗》在孟浩然和崔涂名下都收了它，通行的《唐诗三百首》署名崔涂，一般也认为是崔涂所作。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Cui Tu was a poet of the late Tang. We do not know when he was born or died. He passed the imperial exam, but spent most of his life drifting far from home, through Sichuan, Hunan and many other places. His poems often tell of loneliness on the road and longing for home, and this is one of the best known.</p><p lang="zh">崔涂，晚唐诗人，生卒年不详。他考中过进士，但一生大多在外漂泊，到过巴蜀、湘楚等很多地方。他的诗多写旅途的孤独和想家的心情，这首诗就是代表。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">New Year should be a time with family, but the poet is alone in faraway hills. The first two lines say how far the road is and how far he is from home. Lines three and four paint a picture. It is night. Around him are tangled hills and leftover snow. Inside there is only one candle and one stranger. Hills, old snow and a lonely candle together feel cold and sad. Lines five and six ring very true. The longer he is away, the more distant his family feels, and the closer he grows to his servants. Only someone who has drifted a long time would know this. At the end he says that tomorrow is a new year. Another year has gone, and he is still on the road, so the sorrow grows heavier.</p><p lang="zh">过年本该和家人团聚，诗人却一个人在远方的山里。头两句先说路远、人远，第三、四句画出一幅画：夜里，四周是乱山和残雪，屋里只有一支蜡烛和一个外乡人。“乱山”“残雪”“孤烛”放在一起，冷清得让人心酸。第五、六句写得很真：离家越久，和家人越生疏，反倒和身边的仆人亲了起来。这是长期漂泊的人才会有的体会。最后说明天又是新年，一年又过去了，自己还在漂泊，这份愁就更重了。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/geye/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>阁夜</b></a><a href="../../p/xunxishanyinzhebuyu/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>寻西山隐者不遇</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["迢", "tiáo"], ["递", "dì"], ["三", "sān"], ["巴", "bā"], ["路", "lù"]], [["羁", "jī"], ["危", "wēi"], ["万", "wàn"], ["里", "lǐ"], ["身", "shēn"]], [["乱", "luàn"], ["山", "shān"], ["残", "cán"], ["雪", "xuě"], ["夜", "yè"]], [["孤", "gū"], ["烛", "zhú"], ["异", "yì"], ["乡", "xiāng"], ["人", "rén"]], [["渐", "jiàn"], ["与", "yǔ"], ["骨", "gǔ"], ["肉", "ròu"], ["远", "yuǎn"]], [["转", "zhuǎn"], ["于", "yú"], ["僮", "tóng"], ["仆", "pú"], ["亲", "qīn"]], [["那", "nǎ"], ["堪", "kān"], ["正", "zhèng"], ["飘", "piāo"], ["泊", "bó"]], [["明", "míng"], ["日", "rì"], ["岁", "suì"], ["华", "huá"], ["新", "xīn"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "迢递：形容路又远又长。", "en": "tiáo dì: far and long, said of a road."}, {"line": 0, "start": 2, "end": 4, "zh": "三巴：巴郡、巴东、巴西三个地方的合称，在今天的四川东部和重庆一带。", "en": "sān bā: the Three Ba, an old name for three regions in today's eastern Sichuan and Chongqing."}, {"line": 1, "start": 0, "end": 2, "zh": "羁危：在外漂泊，处境艰险。羁，寄居在外。", "en": "jī wēi: living far from home in danger. Jī means to stay away from home."}, {"line": 2, "start": 0, "end": 2, "zh": "乱山：高低不齐、杂乱的群山。", "en": "luàn shān: hills piled up in every direction."}, {"line": 3, "start": 0, "end": 2, "zh": "孤烛：一支孤零零的蜡烛。", "en": "gū zhú: a single, lonely candle."}, {"line": 3, "start": 2, "end": 5, "zh": "异乡人：在别人家乡做客的人，外乡人。", "en": "yì xiāng rén: a stranger in a land not his own."}, {"line": 4, "start": 2, "end": 4, "zh": "骨肉：亲人，父母兄弟等家人。", "en": "gǔ ròu: flesh and bone, meaning close family."}, {"line": 5, "start": 0, "end": 2, "zh": "转于：反而和……。", "en": "zhuǎn yú: instead, on the contrary, with ..."}, {"line": 5, "start": 2, "end": 4, "zh": "僮仆：仆人，跟着他的书童和家仆。", "en": "tóng pú: servants, the boy and the man who travel with him."}, {"line": 6, "start": 0, "end": 2, "zh": "那堪：哪里受得了。", "en": "nǎ kān: how can one bear it."}, {"line": 6, "start": 3, "end": 5, "zh": "飘泊：像水上的浮萍一样四处流浪。", "en": "piāo bó: to drift from place to place, like a leaf on water."}, {"line": 7, "start": 2, "end": 4, "zh": "岁华：年华，岁月。", "en": "suì huá: the years, time of life."}], "readings": [{"line": 6, "pos": 0, "char": "那", "pinyin": "nǎ", "zh": "“那堪”的“那”同“哪”，表示反问，读 nǎ。", "en": "Here nǎ means \"how\", asking a question that expects no answer, so it is read nǎ."}], "speak": ["迢递三巴路", "羁危万里身", "乱山残雪夜", "孤烛异乡人", "渐与骨肉远", "转于僮仆亲", "那堪正飘泊", "明日岁华新"], "speakTitle": "除夜有怀。崔涂。", "sample": "迢递三巴路"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

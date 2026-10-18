@@ -365,8 +365,8 @@
    "line": 7,
    "start": 2,
    "end": 5,
-   "zh": "水西桥：当时歌女聚居一带的桥，具体在哪里说法不一。",
-   "en": "shuǐ xī qiáo: a bridge near where the singing girls lived; where exactly it was is not agreed."
+   "zh": "水西桥：古书里记有不止一座叫水西桥的桥。这里不是指哪一座，而是泛指歌女住的地方。",
+   "en": "shuǐ xī qiáo: old records name more than one bridge called Shuixi Bridge. Here it does not mean any one of them; it stands for the place where singing girls lived."
   },
   {
    "line": 7,
@@ -436,11 +436,5 @@
    "advice"
   ]
  },
- "uncertain": [
-  {
-   "field": "glosses",
-   "zh": "“水西桥”的具体地点注家说法不一，这里只说是歌女聚居一带。",
-   "en": "Commentators disagree on where the Shuixi Bridge was; here it is described only as near where singing girls lived."
-  }
- ]
+ "uncertain": []
 }

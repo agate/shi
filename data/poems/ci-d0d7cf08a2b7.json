@@ -399,8 +399,8 @@
   ],
   [
    [
-    "住",
-    "zhù"
+    "任",
+    "rèn"
    ],
    [
     "兰",
@@ -632,8 +632,8 @@
   18
  ],
  "text_note": {
-  "zh": "倒数第二句“只凭芳草”的“只”，这里用的整理本写成“祗”（zhī，恭敬的意思），这是繁体“祇”（只）转换成简体时出的错，这里改作“只”。",
-  "en": "In the second-to-last line, the word for \"only\" (zhǐ) appears in the edition used here as a look-alike character read zhī, meaning \"to revere\". That is a slip made when converting the old character for \"only\" into simplified script, so this page writes zhǐ."
+  "zh": "倒数第二句“只凭芳草”的“只”，这里用的整理本写成“祗”（zhī，恭敬的意思），这是繁体“祇”（只）转换成简体时出的错，这里改作“只”。第二十二句“任兰舟”，这里用的整理本作“住兰舟”，《宋词三百首》作“任兰舟”（任凭小船），这里用“任”。",
+  "en": "In the second-to-last line, the word for \"only\" (zhǐ) appears in the edition used here as a look-alike character read zhī, meaning \"to revere\". That is a slip made when converting the old character for \"only\" into simplified script, so this page writes zhǐ. At the start of line 22, the edition used here has zhù (to stop), while Three Hundred Song Lyrics has rèn (to let), and this page uses rèn."
  },
  "readings": [
   {
@@ -862,6 +862,13 @@
   },
   {
    "line": 21,
+   "start": 0,
+   "end": 1,
+   "zh": "任：任凭，听凭。",
+   "en": "rèn: to let, to leave it to."
+  },
+  {
+   "line": 21,
    "start": 1,
    "end": 3,
    "zh": "兰舟：用木兰树做的船，是对小船的美称。",
@@ -1045,12 +1052,12 @@
    "en": "and from then on her dancing shoes gathered dust."
   },
   {
-   "zh": "那停在岸边的小船，",
-   "en": "The little boat at the landing"
+   "zh": "任凭那小船",
+   "en": "Letting the little boat"
   },
   {
    "zh": "装着离别的愁恨，",
-   "en": "carried away the sorrow of parting,"
+   "en": "carry away the sorrow of parting,"
   },
   {
    "zh": "绕过南边的水岸，",
@@ -1121,11 +1128,5 @@
    "promise"
   ]
  },
- "uncertain": [
-  {
-   "field": "lines",
-   "zh": "第二十二句“住兰舟”，这里照整理本作“住”。是否有别的本子作“任”或其他字、通行本到底用哪个字，没有核对清楚；“住”字在这里的确切意思（停住还是别的）也有待确认。",
-   "en": "Line 22 begins with zhù (to stop), as in the edition used here. It has not been checked whether other editions use a different character such as rèn (to let), or which one the common text uses, and the exact sense of zhù here still needs confirming."
-  }
- ]
+ "uncertain": []
 }

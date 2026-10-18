@@ -691,8 +691,8 @@
   }
  ],
  "background": {
-  "zh": "一般认为这首词是叶梦得晚年退居湖州卞山时写的。通行本前有小序，说九月十五日和客人在西园练习射箭，他刚好生病，不能射。那时北方已被金国占领，宋朝南渡，战事不断。他虽然住在山里，过着隐居的日子，看到秋风、新雁，还是想到边境的战火，心里放不下国事。",
-  "en": "This ci is usually thought to date from Ye Mengde's old age, when he had retired to Mount Bian near Huzhou. The common text has a short preface. It says that on the fifteenth day of the ninth month he and some guests practiced archery in the west garden, but he happened to be ill and could not shoot. By then the north had fallen to the Jin, the Song court had fled south, and fighting went on. Though he lived quietly in the hills, the autumn wind and the new geese still made him think of the war on the border. He could not stop caring about the country."
+  "zh": "一般认为这首词是叶梦得晚年告老退休、隐居湖州卞山以后写的，卞山在太湖南岸。那时北方已被金国占领，宋朝南渡，战事不断。他虽然住在山里，过着隐居的日子，看到秋风、新雁，还是想到边境的战火，心里放不下国事。",
+  "en": "This ci is usually thought to date from Ye Mengde's old age, after he retired and went to live at Mount Bian near Huzhou, on the south shore of Lake Tai. By then the north had fallen to the Jin, the Song court had fled south, and fighting went on. Though he lived quietly in the hills, the autumn wind and the new geese still made him think of the war on the border. He could not stop caring about the country."
  },
  "author_note": {
   "zh": "叶梦得（1077—1148），字少蕴，号石林居士，南北宋之交的词人和学者。他做过大官，南渡后还担任过守卫江防的要职。他的词早年清丽，晚年变得开阔豪迈，常写对国事的忧虑。",
@@ -720,11 +720,5 @@
    "history"
   ]
  },
- "uncertain": [
-  {
-   "field": "background",
-   "zh": "写作时间、地点（晚年退居湖州卞山）和小序内容（九月十五日西园习射）是根据记忆写的，需要核对原本。",
-   "en": "The time and place (his retirement at Mount Bian near Huzhou) and the preface (archery in the west garden on the fifteenth of the ninth month) are written from memory and should be checked against the original."
-  }
- ]
+ "uncertain": []
 }

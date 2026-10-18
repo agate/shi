@@ -587,8 +587,8 @@
    "line": 12,
    "start": 2,
    "end": 4,
-   "zh": "长安：汉唐的都城，这里代指京城。",
-   "en": "cháng ān: the capital of Han and Tang, used here for the capital city."
+   "zh": "长安：汉唐的都城，这里代指京城，一般认为指北宋都城汴京。",
+   "en": "cháng ān: the capital of Han and Tang, used here for the capital city, usually taken to mean Bianjing, the Northern Song capital."
   },
   {
    "line": 13,
@@ -687,12 +687,12 @@
   }
  ],
  "background": {
-  "zh": "上元节就是正月十五元宵节，宋代皇宫里这一夜张灯结彩，皇帝会出来看灯，宴请近臣。张抡曾在南宋宫中做近臣。词里说，去年元宵夜他还陪着皇帝游赏，今年却远离京城，独自对着寒灯。一般就这样理解，写的是今昔对比的失落。一说这首词借元宵旧事，怀念北宋的繁华和故都。",
-  "en": "The Shangyuan festival is the Lantern Festival on the fifteenth of the first month. In the Song, the palace was hung with lanterns that night; the emperor came out to see them and gave a feast for his close officials. Zhang Lun served at the Southern Song court as one of these officials. In the poem, last year at the festival he was with the emperor, but this year he is far from the capital, alone before a cold lamp. It is usually read as a poem about loss, setting then against now. Some think it uses the old festival to mourn the glory of the Northern Song and its lost capital."
+  "zh": "上元节就是正月十五元宵节，宋代皇宫里这一夜张灯结彩，皇帝会出来看灯，宴请近臣。词里说，去年元宵夜他还陪着皇帝游赏，今年却成了孤零零的臣子，回头望京城已经很远。常见的注本认为，这首词写于“靖康之变”以后不久：金兵攻破北宋都城汴京，掳走了两位皇帝，宋朝只好迁到南方。词里的“长安”指汴京，写的是对故都和北宋的怀念。一说写于1128年的元宵节。",
+  "en": "The Shangyuan festival is the Lantern Festival on the fifteenth of the first month. In the Song, the palace was hung with lanterns that night; the emperor came out to see them and gave a feast for his close officials. In the poem, last year at the festival he was with the emperor, but this year he is a lonely official, and the capital is far behind him. Common annotated editions say it was written soon after the Jingkang Disaster, when Jin armies took Bianjing, the Northern Song capital, and carried off two emperors, so the Song court had to move south. The \"Chang'an\" in the poem stands for Bianjing, and the poem mourns the lost capital and the Northern Song. One view dates it to the Lantern Festival of 1128."
  },
  "author_note": {
-  "zh": "张抡，字才甫，号莲社居士，南宋词人，生卒年不详。他在宋高宗、宋孝宗时做过皇帝身边的官，常常陪皇帝游宴，写过不少应制的词，有《莲社词》。这首词写宫中元宵的热闹和后来的冷清，正和他熟悉宫廷生活的经历相合。",
-  "en": "Zhang Lun was a Southern Song ci poet whose birth and death years are not known. Under the emperors Gaozong and Xiaozong he served close to the throne and often went with the emperor to feasts and outings, writing ci for these occasions. His collection is called the Lotus Society Ci. This poem's picture of the bright palace festival and the cold loneliness after it fits his long experience of court life."
+  "zh": "张抡，字才甫，号莲社居士，开封（今属河南）人，南宋词人，生卒年不详。宋高宗、宋孝宗时，他在朝中做官，常常陪皇帝游宴，写了不少应制的词，有《莲社词》。他本是北宋都城开封人，这首词写故都元宵的热闹和后来的冷清，所以格外动情。",
+  "en": "Zhang Lun was a Southern Song ci poet from Kaifeng, in today's Henan; his birth and death years are not known. Under the emperors Gaozong and Xiaozong he served at court, often went with the emperor to feasts and outings, and wrote many ci for these occasions. His collection is called the Lotus Society Ci. He came from Kaifeng, the old Northern Song capital, so this poem about the bright festival there and the cold loneliness after it is full of feeling."
  },
  "appreciation": {
   "zh": "上片写回忆，一片辉煌：高高的宫阙，十二座凤楼，珠帘全卷，人像神仙，万支蜡烛照亮五色云，音乐响得要掀开天。作者用了许多神仙的说法，把宫中元宵写得像仙境。下片一下子冷下来：时间飞快，一年过去，今晚只剩孤臣一人流泪，回头看京城已经很远。他问自己，是不是还放不下过去？可那场美梦太短了。结尾只有几点寒灯、几声归雁，和上片的万烛、丝管正好相反。越热闹的回忆，越显出眼前的冷清。",
@@ -718,16 +718,5 @@
    "lantern"
   ]
  },
- "uncertain": [
-  {
-   "field": "background",
-   "zh": "这首词具体写于什么时候、作者为什么离开京城，都没有可靠的记载；写的是南宋宫中还是借以怀念北宋，也有不同看法。",
-   "en": "There is no reliable record of when this poem was written or why the poet was away from the capital; readers also differ on whether it describes the Southern Song court or uses it to mourn the Northern Song."
-  },
-  {
-   "field": "author_note",
-   "zh": "张抡的生平记载很少，“曾在高宗、孝宗时做近臣”等细节需要核对。",
-   "en": "Very little is recorded about Zhang Lun's life; details such as his serving close to the throne under Gaozong and Xiaozong should be checked."
-  }
- ]
+ "uncertain": []
 }

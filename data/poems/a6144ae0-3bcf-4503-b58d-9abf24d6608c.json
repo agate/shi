@@ -192,8 +192,8 @@
   }
  ],
  "background": {
-  "zh": "这首诗的作者有两种说法：一说是宋之问，一说是李频。现在通行的说法是宋之问。按这个说法，唐中宗时宋之问被贬到泷州（今广东罗定一带），那里在五岭以南，离家很远，和家里断了联系。后来他偷偷从贬所逃回北方，路过汉江时写下这首诗。汉江是长江的一条大支流。",
-  "en": "Two names are given for the author: Song Zhiwen or Li Pin. The common view today is Song Zhiwen. In that account, under Emperor Zhongzong, Song Zhiwen was sent away as punishment to Longzhou, near today's Luoding in Guangdong. It lay south of the Five Ridges, far from home, and he lost all contact with his family. Later he secretly fled back north, and he wrote this poem while crossing the Han River, a large branch of the Yangtze."
+  "zh": "这首诗的作者有两种说法：一说是宋之问，一说是李频。《全唐诗》在两人名下都收了这首诗，《唐诗三百首》署名李频，现在通行的说法是宋之问。按这个说法，唐中宗时宋之问被贬到泷州（今广东罗定一带），那里在五岭以南，离家很远，和家里断了联系。后来他偷偷从贬所逃回北方，路过汉江时写下这首诗。汉江是长江的一条大支流。",
+  "en": "Two names are given for the author: Song Zhiwen or Li Pin. The Complete Tang Poems lists it under both men, and Three Hundred Tang Poems gives it to Li Pin, but the common view today is Song Zhiwen. In that account, under Emperor Zhongzong, Song Zhiwen was sent away as punishment to Longzhou, near today's Luoding in Guangdong. It lay south of the Five Ridges, far from home, and he lost all contact with his family. Later he secretly fled back north, and he wrote this poem while crossing the Han River, a large branch of the Yangtze."
  },
  "author_note": {
   "zh": "宋之问，唐代初年的诗人，和沈佺期齐名，人称“沈宋”。他们讲究诗的格律，对唐代律诗的定型很有贡献。宋之问为人常受批评，曾因依附权贵两次被贬。这首诗写的就是贬谪途中的心情。",
@@ -220,11 +220,5 @@
    "river"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "作者有争议：诗集和《唐诗三百首》署名李频，许多选本和教材署名宋之问。本文采用宋之问的说法，背景也按这个说法写。",
-   "en": "The author is disputed. The corpus and \"Three Hundred Tang Poems\" credit Li Pin; many anthologies and textbooks credit Song Zhiwen. This file follows the Song Zhiwen account, and the background is written on that basis."
-  }
- ]
+ "uncertain": []
 }

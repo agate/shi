@@ -553,8 +553,8 @@
    "pos": 2,
    "char": "笮",
    "pinyin": "zé",
-   "zh": "这个字各本写法不一，读音也有分歧，这里按 zé 注音。",
-   "en": "Editions write this character in different ways, and its reading is debated. Here it is given as zé."
+   "zh": "通行本写作“笮”，有的本子写法不同。这个字在字典里一般读 zé，这里按 zé 注音。这里说的是射柳。",
+   "en": "The common text uses this character here, though some editions write it differently. Dictionaries usually read it zé, so it is given as zé here. The phrase means shooting at willows."
   }
  ],
  "glosses": [
@@ -901,11 +901,5 @@
    "nostalgia"
   ]
  },
- "uncertain": [
-  {
-   "field": "lines",
-   "zh": "“雕弓笮柳”的“笮”字，各种版本写法不一（语料库此处缺字），读音也有不同说法，这里的字形和读音 zé 有待核对。",
-   "en": "In the line about the carved bow, editions write the third character differently (the corpus has a missing character there), and its reading is debated. The character used here and its reading zé need checking."
-  }
- ]
+ "uncertain": []
 }

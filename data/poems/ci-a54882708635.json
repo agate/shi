@@ -157,12 +157,12 @@
     "rì"
    ],
    [
-    "花",
-    "huā"
-   ],
-   [
     "飞",
     "fēi"
+   ],
+   [
+    "花",
+    "huā"
    ],
    [
     "雪",
@@ -334,8 +334,8 @@
   7
  ],
  "text_note": {
-  "zh": "原始文本用了简化后的生僻字“𫛸”，通行本多印作“鶗鴂”，这里用“鶗鴂”。原始文本第七句作“无人尽日飞花雪”，不少通行本作“无人尽日花飞雪”，这里用后者，意思一样。",
-  "en": "The corpus writes the first character of the bird name in a rare simplified form; most printed editions use the traditional form, which this page follows. The corpus also has line seven with two characters in reverse order; many usual editions have the order used here. The meaning is the same."
+  "zh": "原始文本用了简化后的生僻字“𫛸”，通行本多印作“鶗鴂”，这里用“鶗鴂”。第七句《宋词三百首》作“无人尽日飞花雪”，和原始文本一样，这里也用它；一作“花飞雪”，意思一样。",
+  "en": "The corpus writes the first character of the bird name in a rare simplified form; most printed editions use the traditional form, which this page follows. For line seven, Three Hundred Song Lyrics has the same word order as the corpus, and this page follows it. Some editions swap the two middle words of the phrase about flowers flying like snow; the meaning is the same."
  },
  "readings": [
   {
@@ -454,8 +454,8 @@
    "line": 6,
    "start": 4,
    "end": 7,
-   "zh": "花飞雪：柳絮像雪花一样飞舞。",
-   "en": "huā fēi xuě: willow catkins fly about like snow."
+   "zh": "飞花雪：柳絮像雪花一样飞舞。",
+   "en": "fēi huā xuě: willow catkins fly about like snow."
   },
   {
    "line": 7,
@@ -621,11 +621,5 @@
    "music"
   ]
  },
- "uncertain": [
-  {
-   "field": "text_note",
-   "zh": "原始文本作“飞花雪”，我认为多数通行本作“花飞雪”，但没有逐一核对版本。",
-   "en": "The corpus has one order of the two characters in line seven; I believe most usual editions have the order used here, but I have not checked the editions one by one."
-  }
- ]
+ "uncertain": []
 }

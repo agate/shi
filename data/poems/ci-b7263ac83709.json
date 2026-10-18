@@ -746,11 +746,5 @@
    "secret"
   ]
  },
- "uncertain": [
-  {
-   "field": "text_note",
-   "zh": "第十五句通行本是“记取来时霎”还是“记取留时霎”，记忆不够确定，需核对。",
-   "en": "It is not certain from memory whether the common text of the fifteenth line has lái (come) or liú (stay); this should be checked."
-  }
- ]
+ "uncertain": []
 }

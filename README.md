@@ -22,6 +22,9 @@ scripts/build_calendar.py    solar terms, festivals, lunar months 2026–2036 ->
 scripts/build_site.py        the static site -> site/, and docs/pending.md
 ```
 
+For poems not yet written, `scripts/prepare_batches.py --rest` makes writing batches;
+`docs/writer-prompt.md` is the brief each writer follows.
+
 Run it all:
 
 ```sh
@@ -62,4 +65,4 @@ any commercial use.
 
 - Images and short films for each poem (paused for version 1).
 - Yuan qu: see `docs/adding-yuanqu.md`.
-- More close readings: the rest of the catalog.
+- More poems beyond the 743-poem catalog (the database already holds all 78,000).

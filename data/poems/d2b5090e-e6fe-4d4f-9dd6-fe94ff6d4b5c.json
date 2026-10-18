@@ -190,8 +190,8 @@
  ],
  "stanza_breaks": [],
  "text_note": {
-  "zh": "这里用《唐诗三百首》通行的文字，题为《宴梅道士山房》。资料库的文字题作《清明日宴梅道士房》，第二句作“开轩览物华”，第五句作“丹灶初开火”，第六句作“仙桃正落花”。“开轩”是打开窗子，“丹灶”和“金灶”都是炼丹的炉子。",
-  "en": "This page follows the common text in Three Hundred Tang Poems, titled \"A Feast in Taoist Master Mei's Mountain Lodge\". The source text is titled \"A Feast in Taoist Master Mei's Room on Qingming Day\". Its line two says \"opening the window\" instead of \"lifting the curtain\"; line five says \"cinnabar stove\" instead of \"golden stove\" (both mean a stove for making elixirs); and line six says the peach blossoms are falling instead of opening."
+  "zh": "这首诗各本文字出入较多。这里用古诗文网和《孟浩然诗选译》等常见选本的文字：“搴帷览物华”“金灶初开火”“仙桃正发花”。《全唐诗》题作《清明日宴梅道士房》，第二句作“开轩览物华”（注：一作“褰帷”），第五句作“丹灶初开火”，第六句作“仙桃正落花”（注：一作“发”）。我们的资料库也是这样的文字。各种《唐诗三百首》印本题作《宴梅道士山房》，但用字也不统一。“开轩”是打开窗子，“搴帷”“褰帷”是掀开帘子；“丹灶”和“金灶”都是炼丹的炉子。",
+  "en": "Versions of this poem differ in several words. This page follows the text in common selections such as the Gushiwen site and a published book of Meng Haoran's poems with modern translations: \"lifting the curtain\" in line two, \"golden stove\" in line five, and peach blossoms \"opening\" in line six. The Complete Tang Poems titles it \"A Feast in Taoist Master Mei's Room on Qingming Day\". There, line two says \"opening the window\" (with a note that another text says \"lifting the curtain\"), line five says \"cinnabar stove\", and line six says the blossoms are \"falling\" (with a note that another text says \"opening\"). Our source text reads the same way. Printings of Three Hundred Tang Poems title it \"A Feast in Taoist Master Mei's Mountain Lodge\", but they do not all use the same words. Both kinds of stove mean a stove for making elixirs."
  },
  "readings": [],
  "glosses": [
@@ -348,11 +348,5 @@
    "friendship"
   ]
  },
- "uncertain": [
-  {
-   "field": "lines",
-   "zh": "这首诗各本文字出入较多（搴帷/开轩、金灶/丹灶、发花/落花），这里按记忆中的《唐诗三百首》通行本取字，需要核对。",
-   "en": "Versions of this poem differ in several words. This page follows the text of Three Hundred Tang Poems as remembered; it should be checked against a printed edition."
-  }
- ]
+ "uncertain": []
 }

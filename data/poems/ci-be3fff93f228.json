@@ -511,8 +511,8 @@
   }
  ],
  "background": {
-  "zh": "这首词写一个在外漂泊的人在春社前后想家、想妻子。社日这天，家里的妻子按风俗停了针线；他却一个人在远方的山里，看见燕子成双飞回，心里更难受。作者一般认为是宋末的黄公绍，也有版本题为无名氏。写作时间不清楚，一说写于宋朝灭亡前后的动乱时期。",
-  "en": "This lyric is about a traveler far from home who misses his home and his wife around the spring Earth God Day. On that day his wife puts down her sewing, as custom says. But he is alone in distant mountains, and the swallows flying back in pairs make him sadder still. The author is usually given as Huang Gongshao of the late Song, though some editions list it as anonymous. We do not know when it was written; one view is that it dates from the troubled years around the fall of the Song."
+  "zh": "这首词写一个在外漂泊的人在春社前后想家、想妻子。社日这天，家里的妻子按风俗停了针线；他却一个人在远方的山里，看见燕子成双飞回，心里更难受。《宋词三百首》等通行本题作者为宋末的黄公绍。但更早的《阳春白雪》等词集都不写作者，黄公绍自己的词集也没有收这首，所以唐圭璋等学者认为它是无名氏的作品。写作时间不清楚，一说写于宋朝灭亡之后。",
+  "en": "This lyric is about a traveler far from home who misses his home and his wife around the spring Earth God Day. On that day his wife puts down her sewing, as custom says. But he is alone in distant mountains, and the swallows flying back in pairs make him sadder still. Common editions such as Three Hundred Song Lyrics name the poet as Huang Gongshao of the late Song. But older collections give no author, and Huang Gongshao's own collection does not include it, so scholars such as Tang Guizhang think it is by an unknown writer. We do not know when it was written; one view is that it dates from after the fall of the Song."
  },
  "author_note": {
   "zh": "黄公绍，字直翁，邵武（今属福建）人，宋末考中进士。宋朝灭亡后，他没有去元朝做官，而是隐居起来，编写过一部讲字音的书《古今韵会》。他的生卒年不详。",
@@ -542,11 +542,5 @@
    "wine"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "原始资料题无名氏，通行本多题黄公绍，作者归属有不同说法。",
-   "en": "The source says anonymous, while common editions usually name Huang Gongshao; the attribution is not settled."
-  }
- ]
+ "uncertain": []
 }

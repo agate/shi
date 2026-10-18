@@ -1,10 +1,10 @@
 {
  "id": "ci-09967c781353",
  "kind": "ci",
- "title": "贺新郎·篆缕销香鼎",
- "title_en": "To the Tune He Xin Lang: Incense Threads Burn Out in the Censer",
- "author": "潘汾",
- "author_en": "Pan Fen",
+ "title": "贺新郎·春情",
+ "title_en": "To the Tune He Xin Lang: Spring Longing",
+ "author": "李玉",
+ "author_en": "Li Yu",
  "dynasty": "song",
  "form": {
   "zh": "词",
@@ -25,8 +25,8 @@
     "xiāo"
    ],
    [
-    "香",
-    "xiāng"
+    "金",
+    "jīn"
    ],
    [
     "鼎",
@@ -35,8 +35,8 @@
   ],
   [
    [
-    "翠",
-    "cuì"
+    "醉",
+    "zuì"
    ],
    [
     "沉",
@@ -141,8 +141,8 @@
   ],
   [
    [
-    "正",
-    "zhèng"
+    "渐",
+    "jiàn"
    ],
    [
     "玉",
@@ -155,16 +155,16 @@
   ],
   [
    [
-    "瞢",
-    "méng"
+    "腾",
+    "téng"
    ],
    [
     "腾",
     "téng"
    ],
    [
-    "初",
-    "chū"
+    "春",
+    "chūn"
    ],
    [
     "醒",
@@ -173,8 +173,8 @@
   ],
   [
    [
-    "门",
-    "mén"
+    "帘",
+    "lián"
    ],
    [
     "外",
@@ -197,8 +197,8 @@
     "yǐ"
    ],
    [
-    "去",
-    "qù"
+    "透",
+    "tòu"
    ]
   ],
   [
@@ -243,12 +243,12 @@
     "yún"
    ],
    [
-    "髻",
-    "jì"
+    "鬓",
+    "bìn"
    ],
    [
-    "亸",
-    "duǒ"
+    "乱",
+    "luàn"
    ]
   ],
   [
@@ -297,8 +297,8 @@
   ],
   [
    [
-    "但",
-    "dàn"
+    "遍",
+    "biàn"
    ],
    [
     "天",
@@ -403,8 +403,8 @@
   ],
   [
    [
-    "便",
-    "biàn"
+    "又",
+    "yòu"
    ],
    [
     "只",
@@ -532,8 +532,8 @@
   13
  ],
  "text_note": {
-  "zh": "原始文本经过机器繁简转换，“翠沈沈”“瓶沈金井”里的“沈”这里改作“沉”；“𣨼酒”是“殢酒”的异体写法，这里改作“殢”。",
-  "en": "The corpus text went through machine conversion. In two places it keeps an old way of writing chén (to sink, deep), which is corrected here. It also uses an unusual variant of the character tì (lingering over wine), which is replaced with the standard form."
+  "zh": "这里用《宋词三百首》《全宋词》的通行文字，题为《贺新郎·春情》，作者李玉。我们的原始资料署名潘汾，文字有几处不同：“篆缕销香鼎”“翠沉沉”“正玉枕、瞢腾初醒”“门外残红春已去”“云髻亸”“但天涯”“便只恐”。原始资料还经过机器繁简转换，把“沉”写作“沈”，把“殢”写成一个少见的异体字，这里都用通行写法。",
+  "en": "This page follows the common text in Three Hundred Song Lyrics and the Complete Song Lyrics, titled \"He Xin Lang: Spring Longing\", by Li Yu. Our source text names Pan Fen and differs in several places: the censer is \"incense\" instead of \"gold\", the shade is \"thick green\" instead of \"drunk and heavy\", she wakes \"dazed\" instead of \"from a spring doze\", the flowers lie \"outside the gate\" with spring \"gone\" instead of \"outside the curtain\" with spring \"full and ripe\", her \"hair bun droops\" instead of \"her hair is messy\", and two small linking words differ. The source also went through machine conversion, which left an old way of writing chén (to sink, deep) and an unusual variant of tì (lingering over wine); the standard forms are used here."
  },
  "readings": [
   {
@@ -589,15 +589,15 @@
    "line": 0,
    "start": 2,
    "end": 5,
-   "zh": "销香鼎：在香炉里烧完了。香鼎，烧香的炉子。",
-   "en": "xiāo xiāng dǐng: burned away in the censer. Xiāng dǐng is an incense burner."
+   "zh": "销金鼎：在铜香炉里烧完了。金鼎，金属做的香炉。",
+   "en": "xiāo jīn dǐng: burned away in the metal censer. Jīn dǐng is a metal incense burner."
   },
   {
    "line": 1,
    "start": 0,
    "end": 3,
-   "zh": "翠沉沉：绿荫浓密幽深的样子。",
-   "en": "cuì chén chén: thick, deep green shade."
+   "zh": "醉沉沉：喝了酒，昏昏沉沉的样子。",
+   "en": "zuì chén chén: heavy and drowsy from wine."
   },
   {
    "line": 2,
@@ -645,8 +645,8 @@
    "line": 7,
    "start": 0,
    "end": 2,
-   "zh": "瞢腾：迷迷糊糊、半睡半醒的样子。",
-   "en": "méng téng: dazed and drowsy, half asleep."
+   "zh": "腾腾：迷迷糊糊、半睡半醒的样子。",
+   "en": "téng téng: dazed and drowsy, half asleep."
   },
   {
    "line": 8,
@@ -680,8 +680,8 @@
    "line": 11,
    "start": 0,
    "end": 3,
-   "zh": "云髻亸：像云一样的发髻松散下垂。亸，下垂。",
-   "en": "yún jì duǒ: her cloud-like hair bun hangs loose. Duǒ means to droop."
+   "zh": "云鬓乱：像云一样的鬓发乱了。鬓，脸旁两边的头发。",
+   "en": "yún bìn luàn: her cloud-like hair is in a mess. Bìn is the hair at the sides of the face."
   },
   {
    "line": 12,
@@ -722,8 +722,8 @@
    "line": 19,
    "start": 0,
    "end": 3,
-   "zh": "便只恐：就只怕。",
-   "en": "biàn zhǐ kǒng: all I fear is that."
+   "zh": "又只恐：却又只怕。",
+   "en": "yòu zhǐ kǒng: and yet all I fear is that."
   },
   {
    "line": 20,
@@ -770,12 +770,12 @@
  ],
  "translation": [
   {
-   "zh": "弯弯的香烟在香炉里烧完了。",
-   "en": "The curling threads of incense have burned out in the censer."
+   "zh": "弯弯的香烟在铜香炉里烧完了。",
+   "en": "The curling threads of incense have burned out in the metal censer."
   },
   {
-   "zh": "院子里绿荫浓密幽深，",
-   "en": "The green shade lies thick and deep;"
+   "zh": "我喝了酒，昏昏沉沉，",
+   "en": "Heavy with wine and drowsy,"
   },
   {
    "zh": "树影移动，已到中午，",
@@ -794,16 +794,16 @@
    "en": "Only willow fluff lies scattered on the path."
   },
   {
-   "zh": "我正靠在玉枕上，",
-   "en": "I lie on my jade pillow,"
+   "zh": "春光渐渐把我从玉枕上，",
+   "en": "slowly, on my jade pillow,"
   },
   {
-   "zh": "迷迷糊糊刚刚醒来。",
-   "en": "just waking, still dazed."
+   "zh": "迷迷糊糊地唤醒。",
+   "en": "I wake, still dazed, from a spring doze."
   },
   {
-   "zh": "门外落花满地，春天已经走了，",
-   "en": "Outside the gate the flowers have fallen; spring is gone."
+   "zh": "帘子外面落花满地，春天已经到了尽头，",
+   "en": "Outside the curtain the flowers have fallen; spring is full and nearly over."
   },
   {
    "zh": "整天都无聊，",
@@ -814,8 +814,8 @@
    "en": "lingering over wine, listless as if ill."
   },
   {
-   "zh": "云一样的发髻松散下垂，",
-   "en": "My cloud of hair hangs loose,"
+   "zh": "云一样的鬓发乱了，",
+   "en": "My cloud of hair is in a mess,"
   },
   {
    "zh": "也懒得去梳理。",
@@ -826,8 +826,8 @@
    "en": "The old days in the south, do not think of them again."
   },
   {
-   "zh": "只是在天涯海角，",
-   "en": "Only, across the ends of the earth,"
+   "zh": "我走遍天涯，",
+   "en": "Across the ends of the earth"
   },
   {
    "zh": "到处打听你的消息，",
@@ -846,8 +846,8 @@
    "en": "and still the day of your return is not set."
   },
   {
-   "zh": "我只怕，",
-   "en": "All I fear is that,"
+   "zh": "却又只怕，",
+   "en": "And yet all I fear is that,"
   },
   {
    "zh": "我们的感情像银瓶沉进井底，再也找不回来。",
@@ -875,12 +875,12 @@
   }
  ],
  "background": {
-  "zh": "这是一首写女子思念远方心上人的词，古人叫“闺怨词”。写作的时间和缘由都没有留下记载。上半首写春末一个白天，她午睡醒来，春天已过，人却还没回来；下半首写到夜里，她靠着栏杆等到月满西楼、蜡烛快灭，还是等不来人。这首词的作者有不同说法，一说是李玉。",
-  "en": "This lyric is about a woman longing for a loved one far away, a kind of verse people of old called a \"boudoir lament\". No record tells when or why it was written. The first half is a late-spring day: she wakes from a nap, spring is over, and he has still not come back. The second half moves into the night: she leans on the railing until the moon fills the west tower and the candle nearly dies, but he does not come. Sources disagree on who wrote it; one view is that it was Li Yu."
+  "zh": "这是一首写女子思念远方心上人的词，古人叫“闺怨词”。写作的时间和缘由都没有留下记载。上半首写春末一个白天，她酒后昏沉，从午睡里醒来，春天快过完了，人却还没回来；下半首写到夜里，她靠着栏杆等到月满西楼、蜡烛快灭，还是等不来人。通行的《宋词三百首》《全宋词》都说作者是李玉，一说是潘汾。",
+  "en": "This lyric is about a woman longing for a loved one far away, a kind of verse people of old called a \"boudoir lament\". No record tells when or why it was written. The first half is a late-spring day: drowsy with wine, she wakes from a nap, spring is nearly over, and he has still not come back. The second half moves into the night: she leans on the railing until the moon fills the west tower and the candle nearly dies, but he does not come. The common editions, Three Hundred Song Lyrics and the Complete Song Lyrics, give the poet as Li Yu; another view names Pan Fen."
  },
  "author_note": {
-  "zh": "潘汾，宋代词人。关于他的生平，留下来的记载很少，我们几乎只能从作品认识他。这首词也有书把它归在一位叫李玉的词人名下。不管作者是谁，它都是宋代写闺中相思的好词。",
-  "en": "Pan Fen was a Song lyric poet. Very little is recorded about his life, so we know him almost only through his writing. Some books put this lyric under the name of another poet, Li Yu. Whoever wrote it, it is a fine Song lyric about a woman's longing at home."
+  "zh": "李玉，宋代词人。他的生平没有留下记载，《全宋词》里也只收了他这一首词，我们只能从这首作品认识他。也有资料把这首词归在一位叫潘汾的人名下。不管作者是谁，它都是宋代写闺中相思的好词。",
+  "en": "Li Yu was a Song lyric poet. Nothing is recorded about his life, and the Complete Song Lyrics holds only this one lyric by him, so we know him only through this poem. Some sources put it under the name of another man, Pan Fen. Whoever wrote it, it is a fine Song lyric about a woman's longing at home."
  },
  "appreciation": {
   "zh": "这首词用一天的时间，把一个人的等待写得慢慢的、长长的。白天，香烧完了，院子很静，柳絮落满小路，她醒来没精神，连头发也懒得梳。晚上，月亮升起来，她靠着栏杆一直等，蜡烛暗了，梧桐树的影子都移走了，还是听不到那匹熟悉的马叫。词里几乎没有说“我想你”，却处处是想念：芳草、杨花、孤雁、沉井的银瓶、孤单的鸾镜。最后一句“谁伴我，对鸾镜”，像一声轻轻的叹气，把孤单留给读者。",
@@ -904,16 +904,5 @@
    "late-spring"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "这首词的作者有争议。原始文本署名潘汾；但通行的《宋词三百首》等书一般题作李玉《贺新郎·春情》。需要核对通行本到底署谁的名字。",
-   "en": "The authorship is disputed. The corpus names Pan Fen, but common anthologies such as Three Hundred Song Lyrics are believed to list it as Li Yu's \"He Xin Lang: Spring Feelings\". Which name the usual text uses needs checking."
-  },
-  {
-   "field": "lines",
-   "zh": "通行本（署名李玉的那一版）的文字可能和这里不同，例如“翠沉沉”可能作“醉沉沉”，“画堂”可能作“绣帘”，“门外残红春已去”可能作“帘外残红春已透”。这里暂时用原始文本，需要对照通行本核实。",
-   "en": "The usual text (the version under Li Yu's name) may differ in several places, for example \"drunk and heavy\" for \"thick green\", \"embroidered curtain\" for \"painted hall\", and \"spring has soaked through\" for \"spring is gone\". The corpus text is kept here for now and needs checking against the usual text."
-  }
- ]
+ "uncertain": []
 }

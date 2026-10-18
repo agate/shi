@@ -401,8 +401,8 @@
   }
  ],
  "background": {
-  "zh": "这首词写的时间和缘由都不清楚。它和晏殊的《木兰花·燕鸿过后莺归去》几乎一模一样，只有“春归去”“来如”“去似朝云”几处不同。有的书把它收在欧阳修名下，更常见的说法认为是晏殊写的。词里感叹美好的人和事像春梦、朝云一样留不住，劝人及时行乐。",
-  "en": "We do not know when or why this lyric was written. It is almost the same as Yan Shu's lyric that begins \"After the swallows and geese have passed, the orioles fly away\". Only a few phrases differ, such as \"spring has gone\", \"comes like\" and \"leaves like morning clouds\". Some books put it under Ouyang Xiu's name, but the more common view gives it to Yan Shu. The lyric sighs that lovely people and times cannot be kept, like a spring dream or morning clouds, and urges us to enjoy life while we can."
+  "zh": "这首词写的时间和缘由都不清楚。它和晏殊的《木兰花·燕鸿过后莺归去》几乎一模一样，只有“春归去”“来如”“去似朝云”几处不同。欧阳修的词集《六一词》收了这一首，晏殊的词集《珠玉词》收的是另一种写法，《宋词三百首》选的也是晏殊那首。所以作者说法不一，一说是晏殊写的。这里按《六一词》署欧阳修。词里感叹美好的人和事像春梦、朝云一样留不住，劝人及时行乐。",
+  "en": "We do not know when or why this lyric was written. It is almost the same as Yan Shu's lyric that begins \"After the swallows and geese have passed, the orioles fly away\". Only a few phrases differ, such as \"spring has gone\", \"comes like\" and \"leaves like morning clouds\". Ouyang Xiu's lyric collection, the Liuyi Lyrics, has this version, while Yan Shu's collection, the Pearl and Jade Lyrics, has the other one, and Three Hundred Song Lyrics chose Yan Shu's. So accounts differ on the author, and one view gives it to Yan Shu. Here it is given to Ouyang Xiu, following the Liuyi Lyrics. The lyric sighs that lovely people and times cannot be kept, like a spring dream or morning clouds, and urges us to enjoy life while we can."
  },
  "author_note": {
   "zh": "欧阳修（1007—1072），字永叔，号醉翁，晚年又号六一居士，北宋大文学家，“唐宋八大家”之一。他做过很高的官，还带头改革文风。他的词有的清新明快，有的深情婉转，和晏殊的风格很接近，所以两人的词常常混在一起，分不清是谁写的。",
@@ -429,11 +429,5 @@
    "dream"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "这首词和晏殊的《木兰花·燕鸿过后莺归去》几乎相同，作者是欧阳修还是晏殊，说法不一；本文据语料署欧阳修，未能核实出处。",
-   "en": "This lyric is nearly the same as one by Yan Shu, and accounts differ on whether Ouyang Xiu or Yan Shu wrote it. It is given here under Ouyang Xiu as in the corpus, but the source has not been checked."
-  }
- ]
+ "uncertain": []
 }

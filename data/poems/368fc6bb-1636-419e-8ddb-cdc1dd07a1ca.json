@@ -315,8 +315,8 @@
   }
  ],
  "background": {
-  "zh": "这首诗一般认为是刘长卿被贬到南方时写的。唐肃宗时，他被贬为南巴尉，南巴在今天的广东茂名一带，离家非常远。过新年本该团圆，他却一个人待在岭南，想家想得流泪，就写下了这首诗。一说这首诗是宋之问被贬岭南时写的，作者有争议。",
-  "en": "This poem is usually thought to have been written when Liu Changqing was sent away to the south. Under Emperor Suzong he was demoted to a small post in Nanba, near today's Maoming in Guangdong, very far from home. New Year is a time for families to be together, but he was alone south of the mountains. Missing home, he wept and wrote this poem. Another view says Song Zhiwen wrote it during his own exile in the south, so the author is disputed."
+  "zh": "这首诗一般认为是刘长卿被贬到南方时写的。唐肃宗时，他被贬为南巴尉，南巴在今天的广东茂名一带，离家非常远。过新年本该团圆，他却一个人待在岭南，想家想得流泪，就写下了这首诗。《唐诗三百首》等通行本都题作刘长卿。也有本子把它归在宋之问名下，他也曾被贬到岭南。",
+  "en": "This poem is usually thought to have been written when Liu Changqing was sent away to the south. Under Emperor Suzong he was demoted to a small post in Nanba, near today's Maoming in Guangdong, very far from home. New Year is a time for families to be together, but he was alone south of the mountains. Missing home, he wept and wrote this poem. Three Hundred Tang Poems and other common editions all name Liu Changqing. Some texts put it under Song Zhiwen, who was also exiled to the far south."
  },
  "author_note": {
   "zh": "刘长卿，唐代诗人，最擅长写五言诗，被人称为“五言长城”。他性格刚直，得罪过人，一生两次被贬到远方。所以他的诗里常常有漂泊、思乡和不得志的愁苦，这首诗就是这样。",
@@ -345,11 +345,5 @@
    "aging"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "作者有争议：资料库题为宋之问，《唐诗三百首》等通行本题为刘长卿。本文按刘长卿写背景，需要核实。",
-   "en": "The author is disputed. The corpus names Song Zhiwen; Three Hundred Tang Poems and most common editions name Liu Changqing. The background here follows Liu Changqing and needs checking."
-  }
- ]
+ "uncertain": []
 }

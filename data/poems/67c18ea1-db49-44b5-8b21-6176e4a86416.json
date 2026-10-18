@@ -346,8 +346,8 @@
   }
  ],
  "background": {
-  "zh": "李端是作者的好朋友，两人都是“大历十才子”中的人。大历是唐代宗的年号，当时有十位有名的诗人，被合称为“大历十才子”。那时刚经过安史之乱，天下很不太平，人们到处流离。这首诗写在一个冬天的傍晚，作者送别李端，心里非常难过。这首诗通行的《唐诗三百首》等书都作卢纶写的，这本诗集里却署名严维。",
-  "en": "Li Duan was the author's good friend. Both were among the \"Ten Talents of the Dali Era\". Dali was the reign name of Emperor Daizong of Tang, and ten famous poets of that time were grouped under this name. The An Lushan Rebellion had just ended, the land was still unsettled, and people were scattered everywhere. The poem was written on a winter evening, when the author saw Li Duan off with a heavy heart. The common editions, such as Three Hundred Tang Poems, give the poem to Lu Lun, but this collection names Yan Wei as the author."
+  "zh": "李端是作者的好朋友，两人都是“大历十才子”中的人。大历是唐代宗的年号，当时有十位有名的诗人，被合称为“大历十才子”。那时刚经过安史之乱，天下很不太平，人们到处流离。这首诗写在一个冬天的傍晚，作者送别李端，心里非常难过。《全唐诗》在卢纶和严维名下都收了这首诗。通行的《唐诗三百首》等书都作卢纶写的，一说是严维写的。",
+  "en": "Li Duan was the author's good friend. Both were among the \"Ten Talents of the Dali Era\". Dali was the reign name of Emperor Daizong of Tang, and ten famous poets of that time were grouped under this name. The An Lushan Rebellion had just ended, the land was still unsettled, and people were scattered everywhere. The poem was written on a winter evening, when the author saw Li Duan off with a heavy heart. The Complete Tang Poems lists this poem under both Lu Lun and Yan Wei. The common editions, such as Three Hundred Tang Poems, give it to Lu Lun; another view says Yan Wei wrote it."
  },
  "author_note": {
   "zh": "卢纶，字允言，唐代诗人，“大历十才子”之一，大约生活在8世纪后半期。他小时候经历战乱，生活漂泊，所以诗里常有离别和身世的伤感。他最有名的是写边塞的《塞下曲》，比如“月黑雁飞高，单于夜遁逃”。",
@@ -376,11 +376,5 @@
    "war"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "这本诗集署名严维，通行的《唐诗三百首》和多数选本作卢纶。本文按卢纶来写，但不能完全确定。",
-   "en": "This collection names Yan Wei as the author, while Three Hundred Tang Poems and most anthologies give Lu Lun. These notes follow Lu Lun, but this is not fully certain."
-  }
- ]
+ "uncertain": []
 }

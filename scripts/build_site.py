@@ -493,6 +493,28 @@ def load_catalog(db, prefer):
     return out
 
 
+def drop_twins(published, pending, rank):
+    """Corpus copies of one poem can differ enough to pass load_catalog, but their close
+    readings use the same taught text. Keep one per opening: a top-200 copy first, then one
+    with no open question. Returns (kept, dropped)."""
+    def opening(p):
+        return "".join(c[0] for l in p["lines"] for c in l)[:14]
+
+    candidates = [(p, True) for p in published] + [(p, False) for p, errs in pending if not errs]
+    candidates.sort(key=lambda x: (x[0]["id"] not in rank, not x[1], x[0]["id"]))
+    kept_openings, dropped = [], []
+    keep_ids = set()
+    for p, ok in candidates:
+        o = opening(p)
+        if any(same_opening(o, k) for k in kept_openings):
+            dropped.append(p)
+            continue
+        kept_openings.append(o)
+        keep_ids.add(p["id"])
+    pending[:] = [(p, errs) for p, errs in pending if errs or p["id"] in keep_ids]
+    return [p for p in published if p["id"] in keep_ids], dropped
+
+
 def same_opening(a, b):
     n = min(len(a), len(b))
     return n > 0 and sum(x == y for x, y in zip(a, b)) / n >= 0.7
@@ -511,6 +533,11 @@ def main():
     write(os.path.join(ROOT, "data/catalog/catalog.json"), json.dumps(
         [{k: c[k] for k in ("id", "kind", "author", "title")} for c in catalog], ensure_ascii=False, indent=1))
     published, pending, missing = load_published(catalog, rank)
+    published, dropped = drop_twins(published, pending, rank)
+    dropped_ids = {p["id"] for p in dropped}
+    catalog = [c for c in catalog if c["id"] not in dropped_ids]
+    write(os.path.join(ROOT, "data/catalog/catalog.json"), json.dumps(
+        [{k: c[k] for k in ("id", "kind", "author", "title")} for c in catalog], ensure_ascii=False, indent=1))
     by_id = {p["id"]: p for p in published}
 
     for d in ("p", "assets"):
@@ -575,6 +602,10 @@ def main():
         for err in errs[:5]:
             lines.append(f"- validation: {err}")
         lines.append("")
+    if dropped:
+        lines += ["## Dropped as duplicates", "",
+                  "Second copies of a poem already on the site (the corpus holds them under another title or author).", ""]
+        lines += [f'- {p["author"]}《{p["title"]}》 (`{p["id"]}`)' for p in dropped] + [""]
     if missing:
         lines += ["## Not written yet", ""] + [f"- {m}" for m in missing] + [""]
     write(os.path.join(ROOT, "docs/pending.md"), "\n".join(lines))

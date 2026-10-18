@@ -1,8 +1,8 @@
 {
  "id": "ci-63969cce6540",
  "kind": "ci",
- "title": "夏云峰·天阔云高",
- "title_en": "To the Tune Xia Yun Feng: The Sky Is Wide, the Clouds Are High",
+ "title": "金明池·天阔云高",
+ "title_en": "To the Tune Jin Ming Chi: The Sky Is Wide, the Clouds Are High",
  "author": "仲殊",
  "author_en": "Zhongshu",
  "dynasty": "song",
@@ -205,8 +205,8 @@
   ],
   [
    [
-    "都",
-    "dōu"
+    "却",
+    "què"
    ],
    [
     "几",
@@ -537,11 +537,11 @@
   ]
  ],
  "stanza_breaks": [
-  8
+  11
  ],
  "text_note": {
-  "zh": "这首词不常见，没有课本版本，这里基本按原始资料。原始资料“终羞人间”的“间”，按押韵（韵脚是晕、嫩、恨、困、问、信、闷等）应是“问”，很可能是繁体“問”“間”相近造成的误字，这里改作“问”。“馀芳”“馀香”按现在的简体写作“余芳”“余香”，“阴沈”写作“阴沉”。下片第一句有的版本作“却几日阴沉”。",
-  "en": "This lyric is not in textbooks, so the source text is mostly kept. In line 16 the source has \"world\", but the rhyme calls for \"ask\", which looks very similar in traditional script, so this text uses \"ask\". Three characters are written in today's standard simplified forms. Some editions begin the second stanza with a different first character (\"but\" instead of \"all\")."
+  "zh": "这里用《宋词三百首》的文字，词牌作《金明池》，作者题僧挥（就是仲殊）。我们的原始资料词牌作《夏云峰》，这是同一个曲调的另一个名字。原始资料有两处和《宋词三百首》、古诗文网不同：“终羞人间”应作“终羞人问”，“间”和“问”的繁体字很像，又不押韵，是误字；“都几日阴沉”作“却几日阴沉”。这里都按《宋词三百首》改正。原始资料把上下片分在“都几日”前，《宋词三百首》分在“起来韶华都尽”之后，这里也照改。“馀芳”“馀香”“阴沈”按现在的简体写作“余芳”“余香”“阴沉”。",
+  "en": "This page follows the text in Three Hundred Song Lyrics, which gives the tune name as Jin Ming Chi and the poet as the monk Hui, who is Zhongshu. Our source text uses the tune name Xia Yun Feng, another name for the same tune. The source differs from Three Hundred Song Lyrics and the Gushiwen site in two places. In line 16 it has \"world\", which looks very like \"ask\" in traditional script and does not rhyme, so it is a copying error for \"ask\". Line 9 begins with \"all\" instead of \"but\". Both are corrected here to match Three Hundred Song Lyrics. The source also starts the second stanza at line 9, while Three Hundred Song Lyrics starts it after line 11, which is followed here. Three characters are written in today's standard simplified forms."
  },
  "readings": [
   {
@@ -821,8 +821,8 @@
    "en": "when it all became a hidden sorrow."
   },
   {
-   "zh": "这几天总是阴沉沉的，",
-   "en": "These few days have all been gray,"
+   "zh": "偏偏又一连几天阴沉沉的，",
+   "en": "Then, for several days, the sky stayed gray,"
   },
   {
    "zh": "一连几夜都懒洋洋、没精神。",
@@ -878,16 +878,16 @@
   }
  ],
  "background": {
-  "zh": "这首词写的是暮春时节，清明刚过，花快落完了，人心里生出的伤春之情，下片又写对一个人的思念。这首词具体写于什么时候、为谁而写，已经不清楚了。词牌“夏云峰”是曲调的名字，和词的内容没有关系。这首词收在近人编的《宋词三百首》里。",
-  "en": "This lyric is set in late spring, just after Qingming, when the flowers are nearly gone. It is about the sadness of spring passing, and the second stanza adds longing for someone. When and for whom it was written is no longer known. The tune name, Xia Yun Feng (\"Summer Cloud Peaks\"), is just the name of the melody and has nothing to do with the content. The lyric is included in the modern anthology Three Hundred Song Lyrics."
+  "zh": "这首词写的是暮春时节，清明刚过，花快落完了，人心里生出的伤春之情，下片又写对一个人的思念。这首词具体写于什么时候、为谁而写，已经不清楚了。词牌“金明池”又叫“夏云峰”，是曲调的名字，和词的内容没有关系。这首词收在近人编的《宋词三百首》里。",
+  "en": "This lyric is set in late spring, just after Qingming, when the flowers are nearly gone. It is about the sadness of spring passing, and the second stanza adds longing for someone. When and for whom it was written is no longer known. The tune name, Jin Ming Chi (\"Golden Bright Pond\"), also called Xia Yun Feng (\"Summer Cloud Peaks\"), is just the name of the melody and has nothing to do with the content. The lyric is included in the modern anthology Three Hundred Song Lyrics."
  },
  "author_note": {
   "zh": "仲殊，北宋僧人，俗姓张，名挥，安州（今湖北安陆）人。他出家以后住过苏州、杭州的寺庙，和苏轼有来往。他虽然是和尚，却很会写词，词风细腻柔美，常写春景和男女之间的感情。",
   "en": "Zhongshu was a Buddhist monk of the Northern Song. His family name was Zhang and his given name Hui, and he came from Anzhou, today's Anlu in Hubei. As a monk he lived in temples in Suzhou and Hangzhou, and he knew Su Shi. Though a monk, he wrote fine lyrics, soft and delicate, often about spring scenes and love."
  },
  "appreciation": {
-  "zh": "上片先画一幅暮春的画：天高云远，溪水长流，夕阳带着凉意。台阶上没人，柳絮快飘完了；红门关着，只有黄莺在叫。诗人后悔清明过得太快，刚想抓住最后的春天，它就变成了心里的遗憾。下片转到心事：一连几天阴天，人没精神，起床时春天已经走了，眉头不由得皱起来。原来他心里还想着一个人，那份感情藏得很深，怕别人问。正想忘掉，偏偏又有消息传来。最后说：就算春天留得住，风也不会停，眼前还是满满的愁。景和情交织在一起，春天的消逝和感情的难舍相互映照。",
-  "en": "The first stanza paints late spring. The sky is high, the clouds far off, the stream flows on, and the evening sun turns chilly. No one is on the steps, and the willow fluff is almost gone. The red gates are shut, and only the orioles sing. The poet regrets that Qingming went by so fast. Just as he tries to hold on to the last of spring, it turns into a sorrow in his heart. The second stanza turns inward. Days of gray sky leave him tired. When he gets up, spring has gone, and his brows knit by themselves. In fact he is thinking of someone. That love is hidden deep, and he is shy when people ask. Just as he is about to forget, news arrives again. At last he says: even if spring could stay, the wind will not stop, and there is still only sorrow before his eyes. Scene and feeling are woven together; the passing of spring mirrors a love that is hard to let go."
+  "zh": "上片先画一幅暮春的画：天高云远，溪水长流，夕阳带着凉意。台阶上没人，柳絮快飘完了；红门关着，只有黄莺在叫。诗人后悔清明过得太快，刚想抓住最后的春天，它就变成了心里的遗憾。接着一连几天阴天，人没精神，起床时春天已经走了。下片转到心事：眉头不由得皱起来。原来他心里还想着一个人，那份感情藏得很深，怕别人问。正想忘掉，偏偏又有消息传来。最后说：就算春天留得住，风也不会停，眼前还是满满的愁。景和情交织在一起，春天的消逝和感情的难舍相互映照。下片的说话人是谁，大家理解不同：一说是词人自己在想念一个人，一说是写一位女子的心事。“看承全近”等几句意思也不太好确定。这里按前一种读法来讲。",
+  "en": "The first stanza paints late spring. The sky is high, the clouds far off, the stream flows on, and the evening sun turns chilly. No one is on the steps, and the willow fluff is almost gone. The red gates are shut, and only the orioles sing. The poet regrets that Qingming went by so fast. Just as he tries to hold on to the last of spring, it turns into a sorrow in his heart. Then days of gray sky leave him tired, and when he gets up, spring has gone. The second stanza turns inward: his brows knit by themselves. In fact he is thinking of someone. That love is hidden deep, and he is shy when people ask. Just as he is about to forget, news arrives again. At last he says: even if spring could stay, the wind will not stop, and there is still only sorrow before his eyes. Scene and feeling are woven together; the passing of spring mirrors a love that is hard to let go. Readers disagree about who speaks in the second stanza. One view is that the poet himself is missing someone; another is that it gives a young woman's private feelings. A few lines there are also hard to pin down. This page follows the first reading."
  },
  "famous_lines": [],
  "tags": {
@@ -903,21 +903,5 @@
    "sorrow"
   ]
  },
- "uncertain": [
-  {
-   "field": "lines",
-   "zh": "这首词版本少，原始资料有误字。“终羞人问”是按押韵从“人间”改的；下片首字“都”有的版本作“却”，没有找到可靠的通行本核对。",
-   "en": "Few editions of this lyric exist and the source has errors. \"Ask\" in line 16 is a correction made from the rhyme. The first character of the second stanza differs between editions. No reliable standard text was available to check."
-  },
-  {
-   "field": "appreciation",
-   "zh": "下片“看承全近”“深深态无非自许”等句意思不好确定，说话人是男是女、写的是谁，也有不同理解，这里的翻译和赏析只是一种读法。",
-   "en": "Several lines in the second stanza are hard to pin down, and it is unclear whether the speaker is a man or a woman, or whom the lyric is about. The translation and appreciation here are only one reading."
-  },
-  {
-   "field": "author_note",
-   "zh": "仲殊的生平资料不多，籍贯、俗名等依据宋人笔记，可能不完全准确。",
-   "en": "Little is known about Zhongshu's life. His home town and lay name come from Song notebooks and may not be fully accurate."
-  }
- ]
+ "uncertain": []
 }

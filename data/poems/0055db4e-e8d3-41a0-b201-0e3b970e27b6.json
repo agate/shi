@@ -236,8 +236,8 @@
   }
  ],
  "background": {
-  "zh": "这首诗是乐府题目，写一位女子在秋夜里独自弹筝。她的丈夫或心上人不在身边，所以她不愿回到空荡荡的房间。作者一说是王涯，一说是王维，《唐诗三百首》里署名王维，《全唐诗》两人名下都收了这首诗。写作时间不详。",
-  "en": "This poem uses a Yuefu song title. It shows a woman playing the zheng alone on an autumn night. The one she loves is not with her, so she does not want to go back to her empty room. The author is given as Wang Ya by some sources and Wang Wei by others. \"Three Hundred Tang Poems\" names Wang Wei, and the \"Complete Tang Poems\" lists it under both. When it was written is unknown."
+  "zh": "这首诗是乐府题目，写一位女子在秋夜里独自弹筝。她的丈夫或心上人不在身边，所以她不愿回到空荡荡的房间。作者在古书里记法不一：《万首唐人绝句》和《全唐诗》的王涯卷署名王涯；《乐府诗集》和《唐诗三百首》署名王维；《唐诗纪事》又说是张仲素。这里按王涯写。写作时间不详。",
+  "en": "This poem uses a Yuefu song title. It shows a woman playing the zheng alone on an autumn night. The one she loves is not with her, so she does not want to go back to her empty room. Old books disagree on the author. \"Ten Thousand Tang Quatrains\" and the Wang Ya section of the \"Complete Tang Poems\" name Wang Ya. The \"Yuefu Poetry Collection\" and \"Three Hundred Tang Poems\" name Wang Wei. \"Records of Tang Poetry\" says Zhang Zhongsu. This page follows Wang Ya. When it was written is unknown."
  },
  "author_note": {
   "zh": "王涯（？—835），唐代诗人，中唐时做到宰相。835年发生“甘露之变”，大臣们谋划除掉掌权的宦官，失败了，王涯也被杀害。他写过不少宫词和乐府小诗，语言清新。",
@@ -264,11 +264,5 @@
    "night"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "作者有争议：一说王涯，一说王维。《唐诗三百首》署王维，《全唐诗》两人名下都有。",
-   "en": "The author is disputed: some sources say Wang Ya, others Wang Wei. \"Three Hundred Tang Poems\" names Wang Wei, and the \"Complete Tang Poems\" lists it under both."
-  }
- ]
+ "uncertain": []
 }

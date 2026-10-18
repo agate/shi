@@ -1,10 +1,10 @@
 {
  "id": "ci-4691e1e0f547",
  "kind": "ci",
- "title": "玉楼春·池塘水绿春微暖",
- "title_en": "Jade Tower Spring: The Pond Is Green, Spring a Little Warm",
- "author": "欧阳修",
- "author_en": "Ouyang Xiu",
+ "title": "木兰花·池塘水绿风微暖",
+ "title_en": "Magnolia Blossoms: The Pond Is Green, the Breeze a Little Warm",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
  "dynasty": "song",
  "form": {
   "zh": "词",
@@ -29,8 +29,8 @@
     "lǜ"
    ],
    [
-    "春",
-    "chūn"
+    "风",
+    "fēng"
    ],
    [
     "微",
@@ -73,8 +73,8 @@
   ],
   [
    [
-    "从",
-    "cóng"
+    "重",
+    "chóng"
    ],
    [
     "头",
@@ -93,12 +93,12 @@
     "xiǎng"
    ],
    [
-    "铮",
-    "zhēng"
+    "琤",
+    "chēng"
    ],
    [
-    "𫓩",
-    "cōng"
+    "琮",
+    "cóng"
    ]
   ],
   [
@@ -141,8 +141,8 @@
     "gōu"
    ],
    [
-    "帘",
-    "lián"
+    "阑",
+    "lán"
    ],
    [
     "下",
@@ -179,8 +179,8 @@
     "zhī"
    ],
    [
-    "红",
-    "hóng"
+    "斜",
+    "xié"
    ],
    [
     "日",
@@ -256,17 +256,25 @@
   4
  ],
  "text_note": {
-  "zh": "这首词更常见的是收在晏殊名下的版本，题为《木兰花》，文字是：“池塘水绿风微暖”“重头歌韵响琤琮”“玉钩阑下香阶畔”“醉后不知斜日晚”。这里保留底本收在欧阳修名下的文字：“春微暖”“从头”“铮𫓩”“玉钩帘”“红日晚”。",
-  "en": "This lyric is better known in a version under Yan Shu's name, titled Magnolia Blossoms. That version has fēng wēi nuǎn (the breeze a little warm), chóng tóu (the repeated part), chēng cóng (a jade-like ringing), yù gōu lán (a fine railing) and xié rì (the setting sun). Here we keep the source text, filed under Ouyang Xiu: chūn wēi nuǎn (spring a little warm), cóng tóu (from the beginning), zhēng cōng (a metal-like ringing), yù gōu lián (a curtain on jade hooks) and hóng rì (the red sun)."
+  "zh": "这里用《宋词三百首》等通行本的文字，作者晏殊，词牌《木兰花》。我们的资料库把它收在欧阳修名下，词牌作《玉楼春》（和《木兰花》是同一个曲调），文字有几处不同：“春微暖”“从头歌韵响铮𫓩”“玉钩帘下”“红日晚”。",
+  "en": "This page follows the common text in Three Hundred Song Lyrics and other usual editions, by Yan Shu, under the tune name Magnolia Blossoms. Our source text files it under Ouyang Xiu with the tune name Jade Tower Spring, which is another name for the same tune. Its words differ in a few places: \"spring a little warm\" instead of \"the breeze a little warm\", \"from the beginning\" instead of \"the repeated part\", a metal-like ringing instead of a jade-like one, \"a curtain on jade hooks\" instead of \"a carved railing\", and \"the red sun\" instead of \"the setting sun\"."
  },
  "readings": [
   {
    "line": 2,
-   "pos": 6,
-   "char": "𫓩",
-   "pinyin": "cōng",
-   "zh": "“铮𫓩”的“𫓩”读 cōng，是金属或玉石相撞的声音，这个字很少见。",
-   "en": "This rare character is read cōng; it is the sound of metal or jade striking together."
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重头”的“重”是重复的意思，读 chóng，不读 zhòng。",
+   "en": "Here the character means repeated, so it is read chóng, not zhòng."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "琤",
+   "pinyin": "chēng",
+   "zh": "“琤琮”读 chēng cóng，是玉石相碰的声音。“琤”这个字很少见。",
+   "en": "These two characters are read chēng cóng; they are the sound of jade striking jade. The first one is rare."
   },
   {
    "line": 3,
@@ -282,8 +290,8 @@
    "line": 0,
    "start": 4,
    "end": 7,
-   "zh": "春微暖：春天的天气微微暖和。",
-   "en": "chūn wēi nuǎn: the spring weather is a little warm."
+   "zh": "风微暖：风微微有些暖和。",
+   "en": "fēng wēi nuǎn: the breeze is a little warm."
   },
   {
    "line": 1,
@@ -296,8 +304,8 @@
    "line": 2,
    "start": 0,
    "end": 2,
-   "zh": "从头：从开头起。",
-   "en": "cóng tóu: from the very beginning."
+   "zh": "重头：词的上下两段节拍完全一样，叫“重头”。这里指她唱的曲子。",
+   "en": "chóng tóu: when the two halves of a song have exactly the same beat, it is called a repeated head. Here it means the song she sang."
   },
   {
    "line": 2,
@@ -310,8 +318,8 @@
    "line": 2,
    "start": 5,
    "end": 7,
-   "zh": "铮𫓩：金属、玉石相碰的清脆声音，这里形容歌声清亮。",
-   "en": "zhēng cōng: the clear sound of metal or jade striking; here it describes a bright, clear voice."
+   "zh": "琤琮：玉石相碰的清脆声音，这里形容歌声清亮。",
+   "en": "chēng cóng: the clear sound of jade striking jade; here it describes a bright, clear voice."
   },
   {
    "line": 3,
@@ -331,8 +339,8 @@
    "line": 4,
    "start": 0,
    "end": 3,
-   "zh": "玉钩帘：用玉钩挂起来的帘子。",
-   "en": "yù gōu lián: a curtain hung on jade hooks."
+   "zh": "玉钩阑：雕饰精美的栏杆。",
+   "en": "yù gōu lán: a finely carved railing."
   },
   {
    "line": 4,
@@ -352,8 +360,8 @@
    "line": 5,
    "start": 4,
    "end": 6,
-   "zh": "红日：太阳。“红日晚”是说太阳快落山了。",
-   "en": "hóng rì: the red sun. Hóng rì wǎn means the sun is going down."
+   "zh": "斜日：西斜的太阳。“斜日晚”是说太阳快落山了。",
+   "en": "xié rì: the sun sinking in the west. Xié rì wǎn means the sun is going down."
   },
   {
    "line": 6,
@@ -372,24 +380,24 @@
  ],
  "translation": [
   {
-   "zh": "池塘里的水绿了，春天微微暖和起来。",
-   "en": "The pond water has turned green, and spring is a little warm."
+   "zh": "池塘里的水绿了，风微微暖和起来。",
+   "en": "The pond water has turned green, and the breeze is a little warm."
   },
   {
    "zh": "我还记得第一次见到那位像仙女一样美的姑娘。",
    "en": "I still remember the first time I saw that girl, lovely as a fairy."
   },
   {
-   "zh": "她从头唱起，歌声像金玉相碰一样清脆。",
-   "en": "She sang from the beginning, her voice ringing clear like metal and jade."
+   "zh": "她唱着上下两段相同的曲子，歌声像玉石相碰一样清脆。",
+   "en": "She sang a song whose two halves match, her voice ringing clear like jade on jade."
   },
   {
    "zh": "舞曲节奏变快，她腰身转动，红裙飞旋。",
    "en": "When the music sped up, her waist turned and her red skirt whirled."
   },
   {
-   "zh": "在玉钩挂起的帘子下，在花香飘飘的台阶旁，",
-   "en": "Below the curtain on its jade hooks, beside the petal-scented steps,"
+   "zh": "在精美的栏杆下，在花香飘飘的台阶旁，",
+   "en": "Below the carved railing, beside the petal-scented steps,"
   },
   {
    "zh": "我喝醉了，连太阳快落山了都不知道。",
@@ -405,16 +413,16 @@
   }
  ],
  "background": {
-  "zh": "这首词回忆多年前一个春天，在宴会上初见一位歌舞女子的情景，结尾感叹当年一起赏花的人如今已经不到一半。它同时出现在晏殊和欧阳修两个人的名下，只有几个字不同。通行的选本大多把它算作晏殊的《木兰花》，这里是收在欧阳修名下的版本。到底是谁写的，还没有定论，写作时间也不清楚。",
-  "en": "This lyric looks back to a spring many years ago, when the poet first saw a young singer and dancer at a feast. At the end he sighs that, of the friends who enjoyed the flowers with him then, not even half are left. The same lyric appears under both Yan Shu's and Ouyang Xiu's names, with only a few words different. Most anthologies count it as Yan Shu's Magnolia Blossoms; this is the version filed under Ouyang Xiu. Who really wrote it is not settled, and we do not know when it was written."
+  "zh": "这首词回忆多年前一个春天，在宴会上初见一位歌舞女子的情景，结尾感叹当年一起赏花的人如今已经不到一半。《宋词三百首》等通行选本都把它算作晏殊的《木兰花》；一说是欧阳修写的，欧阳修名下也有这首词，只有几个字不同。写作时间不清楚；一说写于晏殊晚年在永兴军（今陕西西安一带）做官的时候。",
+  "en": "This lyric looks back to a spring many years ago, when the poet first saw a young singer and dancer at a feast. At the end he sighs that, of the friends who enjoyed the flowers with him then, not even half are left. Three Hundred Song Lyrics and other common anthologies count it as Yan Shu's Magnolia Blossoms. Another view says Ouyang Xiu wrote it, and the same lyric, with a few words different, is also filed under his name. We do not know for sure when it was written; one view is that it was when Yan Shu, late in life, held office in Yongxing, near today's Xi'an."
  },
  "author_note": {
-  "zh": "欧阳修（1007—1072），号醉翁，晚年又号六一居士，北宋文学家，“唐宋八大家”之一。他年轻时得到晏殊的赏识，两人都爱写宴会、春光和离愁，词风很接近，所以有些词会同时出现在两人的集子里，这首就是一例。",
-  "en": "Ouyang Xiu (1007–1072), who called himself the Old Drunkard and later the Retired Scholar of Six Ones, was a Northern Song writer and one of the Eight Great Prose Masters of Tang and Song. When young he was valued by Yan Shu. Both liked to write about feasts, spring light and the sadness of parting, and their styles are close. So some lyrics turn up in both men's collections, and this is one of them."
+  "zh": "晏殊（991—1055），字同叔，抚州临川（今属江西）人，北宋词人，做官做到宰相。他小时候就被称为神童。他的词集叫《珠玉词》，多写宴会、春光和淡淡的感伤。欧阳修年轻时得到他的赏识，两人词风很接近，所以有些词同时出现在两人的集子里，这首就是一例。",
+  "en": "Yan Shu (991–1055), courtesy name Tongshu, came from Linchuan in today's Jiangxi. He was a Northern Song lyric poet who rose to chancellor. As a boy he was already called a child prodigy. His collection is called Pearls and Jade Lyrics, and it is mostly about feasts, spring light and a gentle sadness. When Ouyang Xiu was young, Yan Shu valued his talent. Their styles are close, so some lyrics turn up in both men's collections, and this is one of them."
  },
  "appreciation": {
-  "zh": "上半首像一段彩色的回忆：春天的池塘绿了，那位姑娘第一次出现。她从头唱起，声音清脆得像金玉相碰；节奏一快，她的红裙转成一团火。读的时候，好像自己也坐在宴会上，看得入了迷。下半首接着写那天的快乐：帘下阶前，大家喝得大醉，太阳落山都不知道。最后两句一下子回到现在：当年一起赏花的人，数一数已经不到一半。热闹的过去和冷清的现在放在一起，时光飞逝、人事无常的感慨说得很轻，却让人久久难忘。",
-  "en": "The first half is like a colorful memory. The spring pond is green, and the girl appears for the first time. She sings from the start, her voice as clear as metal and jade striking. When the beat speeds up, her red skirt spins like a flame. As you read, it is as if you sit at the feast too, lost in the show. The second half goes on with that happy day: under the curtain, by the steps, everyone got so drunk that no one noticed the sunset. Then the last two lines jump back to now. Of the friends who enjoyed the flowers together, not even half are left. Putting the lively past next to the lonely present, the poem says softly how fast time flies and how nothing stays the same, and the feeling stays with you."
+  "zh": "上半首像一段彩色的回忆：春天的池塘绿了，那位姑娘第一次出现。她唱起歌来，声音清脆得像玉石相碰；节奏一快，她的红裙转成一团火。读的时候，好像自己也坐在宴会上，看得入了迷。下半首接着写那天的快乐：栏杆下、台阶前，大家喝得大醉，太阳落山都不知道。最后两句一下子回到现在：当年一起赏花的人，数一数已经不到一半。热闹的过去和冷清的现在放在一起，时光飞逝、人事无常的感慨说得很轻，却让人久久难忘。",
+  "en": "The first half is like a colorful memory. The spring pond is green, and the girl appears for the first time. She sings, her voice as clear as jade striking jade. When the beat speeds up, her red skirt spins like a flame. As you read, it is as if you sit at the feast too, lost in the show. The second half goes on with that happy day: below the railing, by the steps, everyone got so drunk that no one noticed the sunset. Then the last two lines jump back to now. Of the friends who enjoyed the flowers together, not even half are left. Putting the lively past next to the lonely present, the poem says softly how fast time flies and how nothing stays the same, and the feeling stays with you."
  },
  "famous_lines": [
   6,
@@ -434,11 +442,5 @@
    "friendship"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "这首词又见于晏殊的《珠玉词》，文字稍有不同，通行选本多归晏殊。作者是晏殊还是欧阳修，没有定论。",
-   "en": "This lyric also appears in Yan Shu's collection with slightly different words, and most anthologies give it to Yan Shu. Whether Yan Shu or Ouyang Xiu wrote it is not settled."
-  }
- ]
+ "uncertain": []
 }

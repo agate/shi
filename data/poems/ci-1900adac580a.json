@@ -699,8 +699,8 @@
   "en": "This is a lyric in praise of plum blossoms, written about the plum alone. No reliable record tells when or why it was written. The plum here grows by the river, beside bamboo and a thatched hut's fence. The god of spring does not cherish it, and the swallows miss it, yet it still blooms freely and smells sweet from afar. Sources disagree about the author. It is usually given to Li Bing; one view says it was Chao Chongzhi."
  },
  "author_note": {
-  "zh": "李邴（1085—1146），宋代词人，北宋末年考中进士，南宋初年做过很高的官，后来退居在家。他的词留下来的不多，这首写梅花的词最有名。",
-  "en": "Li Bing (1085–1146) was a Song lyric poet. He passed the top imperial exam at the end of the Northern Song and held a very high post early in the Southern Song, later retiring to private life. Few of his lyrics survive, and this one about plum blossoms is the best known."
+  "zh": "李邴（1085—1146），字汉老，宋代词人。北宋崇宁五年（1106年）考中进士，南宋初年做过参知政事，也就是副宰相，后来在泉州闲居了十多年。他的词留下来的不多，这首写梅花的词最有名。",
+  "en": "Li Bing (1085–1146), courtesy name Hanlao, was a Song lyric poet. He passed the highest level of the imperial exams in 1106, under the Northern Song, and early in the Southern Song he served as a vice chief minister. Later he lived quietly in Quanzhou for more than ten years. Few of his lyrics survive, and this one about plum blossoms is the best known."
  },
  "appreciation": {
   "zh": "这首词写梅花，也像在写一个品格高洁的人。梅花开在最冷的时候，春神不心疼它，燕子也嫌冷不来看，只有北归的大雁见过它开花。它不长在华丽的玉堂前，而是长在小溪边、茅屋旁。懂它、为它写诗的老朋友走了，月下江边的美景也没人可以分享。可是结尾一转：梅花的清香一点没少，它的美本来就不需要别人知道。读到这里，我们会明白：真正的好，不靠别人夸奖。",
@@ -726,16 +726,5 @@
    "solitude"
   ]
  },
- "uncertain": [
-  {
-   "field": "lines",
-   "zh": "《宋词三百首》等通行本的文字可能和原始文本有几处不同，例如“对江天”可能作“对孤芳”，“竹梢疏处”可能作“竹梢稀处”。这里暂时用原始文本，需要对照通行本核实。",
-   "en": "The usual text, as in Three Hundred Song Lyrics, may differ from the corpus in a few places, for example \"facing the lonely blossom\" for \"facing the river sky\", and a different word for \"sparse\" in line two. The corpus text is kept here for now and needs checking against the usual text."
-  },
-  {
-   "field": "author_note",
-   "zh": "李邴的生卒年（1085—1146）和“北宋末年考中进士、南宋初年做过很高的官”需要核实。",
-   "en": "Li Bing's dates (1085–1146) and the claims that he passed the top exam at the end of the Northern Song and held a high post early in the Southern Song need checking."
-  }
- ]
+ "uncertain": []
 }

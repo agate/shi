@@ -299,6 +299,10 @@
     "chí"
    ],
    [
+    "尊",
+    "zūn"
+   ],
+   [
     "酒",
     "jiǔ"
    ]
@@ -519,7 +523,10 @@
  "stanza_breaks": [
   12
  ],
- "text_note": null,
+ "text_note": {
+  "zh": "第十四句语料库作“凭持酒”，《梅溪词》四库本和《词综》也是这样，少一个字。《宋词三百首》和《历代诗余》作“凭持尊酒”，合乎词调字数，这里用这个写法。",
+  "en": "In line fourteen the corpus has only three characters, as do the Qing court library copy of Shi Dazu's lyrics and the Anthology of Ci. Three Hundred Song Lyrics and the Imperial Anthology of Lyrics add zūn (a wine cup), which fits the tune pattern, and this page follows them."
+ },
  "readings": [
   {
    "line": 3,
@@ -653,9 +660,9 @@
   {
    "line": 13,
    "start": 0,
-   "end": 3,
-   "zh": "凭持酒：靠着拿起酒杯喝酒。",
-   "en": "píng chí jiǔ: relying on holding up a cup of wine."
+   "end": 4,
+   "zh": "凭持尊酒：靠着端起酒杯喝酒。尊，酒杯。",
+   "en": "píng chí zūn jiǔ: relying on holding up a cup of wine. Zūn is a wine cup."
   },
   {
    "line": 14,
@@ -884,11 +891,5 @@
    "river"
   ]
  },
- "uncertain": [
-  {
-   "field": "text",
-   "zh": "第十四句语料库作“凭持酒”，只有三个字。按八归的格律这里应该是四个字，有的版本可能作“凭持尊酒”，未能核实通行本的写法。",
-   "en": "Line fourteen in the corpus has only three characters. The tune pattern suggests four here, and some editions may read \"píng chí zūn jiǔ\" (holding a cup of wine). The usual text could not be checked."
-  }
- ]
+ "uncertain": []
 }

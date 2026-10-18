@@ -3,8 +3,8 @@
  "kind": "ci",
  "title": "燕山亭·幽梦初回",
  "title_en": "Yan Shan Ting: Just Back from a Dim Dream",
- "author": "张",
- "author_en": "Zhang",
+ "author": "张镃",
+ "author_en": "Zhang Zi",
  "dynasty": "song",
  "form": {
   "zh": "词·燕山亭（双调）",
@@ -805,8 +805,8 @@
   "en": "This lyric is set on a spring morning. Someone wakes from a dream and misses a loved one far away. The first stanza shows the scene before him and his listless mood. The second stanza recalls the times they spent together, imagines that she misses him too, and ends with the wish that she come back and never leave again. The lyric does not say when or where it was written."
  },
  "author_note": {
-  "zh": "这首词的作者只知道姓张，名字和生平都没有流传下来，一般归为宋代。所以我们只能从词本身来读它。它被选进了《宋词三百首》，可见写得很好。",
-  "en": "All we know of this poet is the surname Zhang. His given name and life story have not come down to us, and he is usually placed in the Song dynasty. So we can only read the lyric on its own. It was chosen for Three Hundred Song Lyrics, which shows how highly it is valued."
+  "zh": "张镃，南宋词人，字功甫，号约斋，是南宋名将张俊的曾孙。他生在富贵人家，会写诗填词，也擅长画竹子和石头，词集叫《玉照堂词》。有的资料只记下作者姓张，没有名字。这首词被选进了《宋词三百首》，署名张镃，可见写得很好。",
+  "en": "Zhang Zi was a ci poet of the Southern Song. His courtesy name was Gongfu, and he called himself Yuezhai. He was the great-grandson of the famous general Zhang Jun. Born into a rich family, he wrote poems and lyrics and was also good at painting bamboo and rocks. His lyrics were gathered as the Yuzhaotang Lyrics. Some records keep only the surname Zhang, with no given name. The lyric was chosen for Three Hundred Song Lyrics under Zhang Zi's name, which shows how highly it is valued."
  },
  "appreciation": {
   "zh": "上片从醒来写起：梦刚醒，天阴着，晨光里飘着小雨。竹栏杆有点冷，兰叶沙沙响，新绿一直铺到南边的水边。南浦是古人送别的地方，绿色通到那里，好像心思也跟着飘到了离别的地方。院子里没人，门只开了一半，他什么也不想做，只是望着远方，可连信都指望不上。下片先回忆：走在长满青苔的小路上，想起当年一起荡秋千，现在不知道谁陪她了。接着他换到她那边去想：她大概也皱着眉，一个人睡，常常站着发呆。这是从对方写起的写法，让思念变成了两个人的。最后几句最动人：怎样才能让她回来，藏在花雾深处的小屋里，留住她，一直到老也不让她走。话很直白，像孩子一样任性，却特别真。",
@@ -833,11 +833,5 @@
    "rain"
   ]
  },
- "uncertain": [
-  {
-   "field": "author",
-   "zh": "作者只知道姓张，名字不详；一说是张材甫，没有把握。时代也只能大致归为宋代。",
-   "en": "Only the poet's surname, Zhang, is known. One view names him Zhang Caifu, but this is not certain, and he can only be placed in the Song dynasty in general."
-  }
- ]
+ "uncertain": []
 }

@@ -159,8 +159,8 @@
    "line": 0,
    "start": 2,
    "end": 4,
-   "zh": "金河：一条河的名字，在今天内蒙古呼和浩特一带。",
-   "en": "jīn hé: the Jin River, near today's Hohhot in Inner Mongolia."
+   "zh": "金河：一条河的名字，就是今天的黑河，在内蒙古呼和浩特南边。一说是今天的大青河。",
+   "en": "jīn hé: the Jin River, today called the Black River, south of Hohhot in Inner Mongolia. Another view says it is today's Daqing River."
   },
   {
    "line": 0,
@@ -229,8 +229,8 @@
    "line": 3,
    "start": 5,
    "end": 7,
-   "zh": "黑山：一座山的名字，在今天呼和浩特东南。",
-   "en": "hēi shān: Black Mountain, southeast of today's Hohhot."
+   "zh": "黑山：一座山的名字，又叫杀虎山，在今天呼和浩特东南。",
+   "en": "hēi shān: Black Mountain, also called Tiger-Killing Mountain, southeast of today's Hohhot."
   }
  ],
  "translation": [
@@ -280,11 +280,5 @@
    "homesick"
   ]
  },
- "uncertain": [
-  {
-   "field": "background",
-   "zh": "金河、黑山的具体位置，各家注释说法不完全一样，这里采用常见说法。",
-   "en": "Notes do not fully agree on exactly where the Jin River and Black Mountain were; the common view is given here."
-  }
- ]
+ "uncertain": []
 }
