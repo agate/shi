@@ -1,0 +1,722 @@
+{
+ "id": "ci-5fe3f64e06f7",
+ "kind": "ci",
+ "title": "水调歌头·明月几时有",
+ "title_en": "Shui Diao Ge Tou: When Did the Bright Moon First Appear",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调九十五字",
+  "en": "ci lyric, two stanzas, 95 characters"
+ },
+ "lines": [
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "有",
+    "yǒu"
+   ]
+  ],
+  [
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "阙",
+    "què"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "宇",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ]
+  ],
+  [
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "阁",
+    "gé"
+   ]
+  ],
+  [
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "绮",
+    "qǐ"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "圆",
+    "yuán"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "合",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "圆",
+    "yuán"
+   ],
+   [
+    "缺",
+    "quē"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "全",
+    "quán"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "愿",
+    "yuàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "婵",
+    "chán"
+   ],
+   [
+    "娟",
+    "juān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "胜",
+   "pinyin": "shèng",
+   "zh": "不胜的“胜”，现在读 shèng，意思是“承受得住”。旧时这个意思读 shēng，所以老一辈有人读 bù shēng。",
+   "en": "Today it is read shèng here, meaning \"able to bear\". In older usage this sense was read shēng, so some older readers say bù shēng."
+  },
+  {
+   "line": 13,
+   "pos": 2,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长，这里读 cháng，意思是“总是、常常”，同“常”。",
+   "en": "Here it is read cháng and means \"always\", like the word for \"often\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "几时：什么时候。",
+   "en": "jǐ shí: when."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "把酒：端起酒杯。把，拿着。",
+   "en": "bǎ jiǔ: to hold up a cup of wine."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "宫阙：宫殿。这里指月宫。",
+   "en": "gōng què: palaces. Here, the palace on the moon."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "今夕是何年：今天晚上是哪一年。古人传说天上的时间和人间不一样。",
+   "en": "jīn xī shì hé nián: what year is it tonight? Old stories said time in heaven runs differently from time on earth."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "乘风归去：驾着风回到天上去。说“归去”，好像自己本来就是天上的人。",
+   "en": "chéng fēng guī qù: to ride the wind back up to heaven. \"Back\" makes it sound as if he came from there."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "琼楼玉宇：美玉建成的楼阁，指月宫。",
+   "en": "qióng lóu yù yǔ: towers and halls made of jade, meaning the moon palace."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "不胜寒：受不住寒冷。胜，承受。",
+   "en": "bú shèng hán: unable to bear the cold."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "弄清影：月光下，自己的影子也跟着一起舞动。弄，玩赏。",
+   "en": "nòng qīng yǐng: in the moonlight, his clear shadow dances along with him."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "何似：哪里比得上。",
+   "en": "hé sì: how could it compare with."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "转朱阁：月亮转过了红色的楼阁。",
+   "en": "zhuǎn zhū gé: the moon moves round the red pavilion."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "低绮户：月光低低地照进雕花的门窗。绮户，雕饰精美的门窗。",
+   "en": "dī qǐ hù: the moonlight sinks low into the carved windows and doors."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "无眠：睡不着觉的人。",
+   "en": "wú mián: the one who cannot sleep."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "不应有恨：月亮不应该对人有什么怨恨吧。",
+   "en": "bù yīng yǒu hèn: surely the moon bears no grudge."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "何事：为什么。",
+   "en": "hé shì: why."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "别时圆：在人们分别的时候圆。",
+   "en": "bié shí yuán: round just when people are apart."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "悲欢离合：悲伤、欢乐、分离、团聚，指人生中的各种经历。",
+   "en": "bēi huān lí hé: sorrow and joy, parting and meeting, all the things in a life."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 6,
+   "zh": "阴晴圆缺：月亮有被云遮住、明亮、圆满、残缺的时候。",
+   "en": "yīn qíng yuán quē: the moon is sometimes hidden, sometimes bright, sometimes full, sometimes not."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 5,
+   "zh": "古难全：自古以来就难以十全十美。",
+   "en": "gǔ nán quán: since ancient times, it has never been perfect."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 5,
+   "zh": "人长久：亲人平安长寿。",
+   "en": "rén cháng jiǔ: that the people we love live long and well."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "千里：相隔很远。",
+   "en": "qiān lǐ: a thousand li, very far apart."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "婵娟：美好的样子，这里指月亮。共婵娟，就是一起看这美好的月亮。",
+   "en": "chán juān: lovely, here meaning the moon. Gòng chán juān means sharing the lovely moon."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "明月是从什么时候开始有的？",
+   "en": "When did the bright moon first appear?"
+  },
+  {
+   "zh": "我端起酒杯问青天。",
+   "en": "I raise my cup and ask the blue sky."
+  },
+  {
+   "zh": "不知道天上的宫殿里，",
+   "en": "I wonder, in the palaces of heaven,"
+  },
+  {
+   "zh": "今天晚上是哪一年。",
+   "en": "what year it is tonight."
+  },
+  {
+   "zh": "我想驾着风回到天上去，",
+   "en": "I want to ride the wind back up there,"
+  },
+  {
+   "zh": "又怕那美玉砌成的楼宇，",
+   "en": "but I fear those towers of jade"
+  },
+  {
+   "zh": "太高了，受不住那里的寒冷。",
+   "en": "are too high, and too cold to bear."
+  },
+  {
+   "zh": "我起身跳舞，和清影一起玩，",
+   "en": "I rise and dance with my clear shadow."
+  },
+  {
+   "zh": "天上哪里比得上人间！",
+   "en": "How could heaven compare with the human world?"
+  },
+  {
+   "zh": "月亮转过红色的楼阁，",
+   "en": "The moon moves round the red pavilion,"
+  },
+  {
+   "zh": "低低地照进雕花的门窗，",
+   "en": "sinks low into the carved windows,"
+  },
+  {
+   "zh": "照着睡不着的我。",
+   "en": "and shines on me, who cannot sleep."
+  },
+  {
+   "zh": "月亮应该不会对人有什么怨恨吧，",
+   "en": "Surely the moon holds no grudge against us,"
+  },
+  {
+   "zh": "可为什么总在人们分别的时候圆呢？",
+   "en": "so why is it always full when people are apart?"
+  },
+  {
+   "zh": "人有悲伤、欢乐、分离、团聚，",
+   "en": "People have sorrow and joy, parting and meeting;"
+  },
+  {
+   "zh": "月亮有阴、晴、圆、缺，",
+   "en": "the moon is dim and bright, full and waning."
+  },
+  {
+   "zh": "这种事自古以来就难以两全。",
+   "en": "Since ancient times, these things have never been perfect."
+  },
+  {
+   "zh": "只希望亲人都平安长久，",
+   "en": "I only wish that those we love live long,"
+  },
+  {
+   "zh": "即使相隔千里，也能一起欣赏这美好的月亮。",
+   "en": "and though a thousand li apart, share the same lovely moon."
+  }
+ ],
+ "background": {
+  "zh": "这首词前面有一段小序：“丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。”丙辰年就是宋神宗熙宁九年（1076年），苏轼在密州（今山东诸城）做官。中秋夜他喝酒喝到天亮，大醉，写了这首词，同时也想念弟弟苏辙（字子由）。兄弟俩感情很深，这时已经好几年没见面了。",
+  "en": "The lyric has a short preface: \"Mid-Autumn of the bingchen year. I drank happily until dawn, got very drunk, and wrote this, also thinking of Ziyou.\" The bingchen year was 1076. Su Shi was then an official in Mizhou, today's Zhucheng in Shandong. On Mid-Autumn night he drank until daybreak and wrote this lyric. He was also missing his younger brother Su Zhe, whose courtesy name was Ziyou. The two brothers were very close and had not seen each other for several years."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家。他一生几次被贬，经历了很多起落，却总能看得开，乐观豁达。他和弟弟苏辙感情极好，两人常写诗词互相思念。这首词是中秋词里最有名的一首。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great Northern Song writer. He was sent away from court several times and had many ups and downs, yet he always managed to see things broadly and stay cheerful. He and his brother Su Zhe were very close and often wrote poems to each other. This is the most famous of all Mid-Autumn lyrics."
+ },
+ "appreciation": {
+  "zh": "上阕写天上。苏轼端着酒杯问天：月亮是什么时候有的？天上今晚是哪一年？他想飞上月宫，又怕那里太高太冷。最后他在月光下跳舞，觉得还是人间好。这里的“天上”和“人间”，也可以看作他心里的矛盾：想离开烦恼，又舍不得人间的温暖。下阕写人间。月光慢慢移动，照着睡不着的他。他有点埋怨月亮：为什么偏偏在人分开的时候圆？然后他自己想通了：人有悲欢离合，月有阴晴圆缺，自古就没有完美的事。最后两句是一个美好的祝愿：只要亲人平安，隔得再远，也能一起看同一个月亮。从埋怨到释然，这首词让人在思念里感到温暖。",
+  "en": "The first stanza is about heaven. Su Shi raises his cup and asks the sky: when did the moon first appear, and what year is it up there tonight? He wants to fly up to the moon palace, but fears it is too high and too cold. In the end he dances in the moonlight and feels the human world is better. Heaven and earth here can also stand for a tug-of-war in his heart: he wants to escape his troubles, yet cannot leave the warmth of life. The second stanza is about the human world. The moonlight moves slowly and shines on him as he lies awake. He grumbles a little at the moon: why must it be full just when people are apart? Then he works it out himself. People have sorrow and joy, parting and meeting; the moon is dim and bright, full and waning. Nothing has ever been perfect. The last two lines are a warm wish: as long as our loved ones are well, however far apart, we can look at the same moon together. Moving from complaint to peace, the lyric brings warmth to missing someone."
+ },
+ "famous_lines": [
+  0,
+  1,
+  6,
+  7,
+  8,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "midautumn"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "family",
+   "longing",
+   "life"
+  ]
+ },
+ "uncertain": []
+}

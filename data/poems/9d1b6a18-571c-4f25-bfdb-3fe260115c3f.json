@@ -1,0 +1,400 @@
+{
+ "id": "9d1b6a18-571c-4f25-bfdb-3fe260115c3f",
+ "kind": "shi",
+ "title": "赠孟浩然",
+ "title_en": "To Meng Haoran",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "孟",
+    "mèng"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "闻",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "弃",
+    "qì"
+   ],
+   [
+    "轩",
+    "xuān"
+   ],
+   [
+    "冕",
+    "miǎn"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "频",
+    "pín"
+   ],
+   [
+    "中",
+    "zhòng"
+   ],
+   [
+    "圣",
+    "shèng"
+   ]
+  ],
+  [
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "仰",
+    "yǎng"
+   ]
+  ],
+  [
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "揖",
+    "yī"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "芬",
+    "fēn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "中",
+   "pinyin": "zhòng",
+   "zh": "读 zhòng，“中圣”的“中”是“中了、被……击中”的意思，比如“中毒”。不读 zhōng。",
+   "en": "Read zhòng, meaning to be hit by, as in being poisoned. It is not zhōng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "吾：我。",
+   "en": "wú: I, me."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "孟夫子：指孟浩然。夫子，对男子的尊称。",
+   "en": "mèng fū zǐ: Master Meng, meaning Meng Haoran. Fū zǐ is a polite title for a respected man."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "风流：这里指风度潇洒、才华出众，不被世俗的规矩束缚。",
+   "en": "fēng liú: here it means graceful and gifted, free from the world's rules."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "天下闻：天下的人都知道。",
+   "en": "tiān xià wén: known to the whole world."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "红颜：红润的脸，指年轻的时候。",
+   "en": "hóng yán: a rosy face, meaning youth."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "弃：放弃。",
+   "en": "qì: to give up."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "轩冕：官员坐的车和戴的礼帽，代指做官。",
+   "en": "xuān miǎn: the carriage and the hat of an official, standing for an official career."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "白首：头发白了，指年老的时候。",
+   "en": "bái shǒu: white hair, meaning old age."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "卧松云：躺在青松白云之间，指在山林里隐居。",
+   "en": "wò sōng yún: lying among pines and clouds, meaning living as a hermit in the mountains."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "醉月：在月下喝醉。",
+   "en": "zuì yuè: getting drunk under the moon."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "频：常常、屡次。",
+   "en": "pín: often."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "中圣：喝醉了酒。三国时曹操禁酒，人们偷偷把清酒叫“圣人”，浊酒叫“贤人”。有个叫徐邈的人喝醉了，说自己“中圣人”，意思是喝醉了。",
+   "en": "zhòng shèng: to be drunk. In the Three Kingdoms era, Cao Cao banned wine, so people secretly called clear wine \"the sage\" and cloudy wine \"the worthy\". A man named Xu Miao got drunk and said he had been \"hit by the sage\", meaning he was drunk."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "迷花：迷恋花草，指沉醉在山水自然之中。",
+   "en": "mí huā: in love with flowers, meaning lost in the beauty of nature."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "不事君：不去侍奉皇帝，就是不做官。事，侍奉。",
+   "en": "bú shì jūn: not serving the emperor, that is, not taking office. Shì means to serve."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "高山：比喻孟浩然高尚的品格。",
+   "en": "gāo shān: a high mountain, standing for Meng Haoran's noble character."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "安可仰：怎么能仰望得到呢？意思是太高了，望不到顶。安，怎么。",
+   "en": "ān kě yǎng: how can one look up to its top? It is too high to see. Ān means how."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "徒此：只能在这里。徒，只、白白地。",
+   "en": "tú cǐ: only here, can only. Tú means merely."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "揖：拱手行礼，表示敬意。",
+   "en": "yī: to bow with hands clasped, to show respect."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "清芬：清香，比喻高洁的品德。",
+   "en": "qīng fēn: a pure fragrance, standing for a noble character."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我敬爱孟浩然先生，",
+   "en": "I love Master Meng;"
+  },
+  {
+   "zh": "他潇洒的风度和才华天下闻名。",
+   "en": "his free spirit and talent are known everywhere."
+  },
+  {
+   "zh": "年轻时他就放弃了做官，",
+   "en": "In his youth he gave up carriage and cap of office;"
+  },
+  {
+   "zh": "到老都隐居在青松白云之间。",
+   "en": "now white-haired, he lies among pines and clouds."
+  },
+  {
+   "zh": "他常常在月下饮酒，喝得大醉，",
+   "en": "Often he gets drunk under the moon;"
+  },
+  {
+   "zh": "沉醉在花草山水里，不去侍奉皇帝。",
+   "en": "lost among flowers, he serves no emperor."
+  },
+  {
+   "zh": "他的品格像高山一样，怎么能仰望得到顶呢？",
+   "en": "He is a high mountain: how can I look up to its top?"
+  },
+  {
+   "zh": "我只能在这里向他清高的品德拱手致敬。",
+   "en": "I can only bow here to his pure fragrance."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然比李白大十二岁，是当时很有名的诗人，一生没有做官，大部分时间隐居在家乡襄阳的鹿门山。李白年轻时在湖北一带漫游，结识了孟浩然，非常敬佩他。这首诗就是李白写给孟浩然的赞美诗。具体写作时间说法不一，一说写于开元二十七年（739年）前后，李白在襄阳拜访孟浩然的时候。",
+  "en": "Meng Haoran was twelve years older than Li Bai and a famous poet of the time. He never held office and spent most of his life as a hermit on Mount Lumen near his home town, Xiangyang. When Li Bai was young he travelled around Hubei, met Meng Haoran and admired him greatly. This poem is Li Bai's praise of him. The date is debated; one view is that it was written around 739, when Li Bai visited Meng Haoran in Xiangyang."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他性格豪放，爱喝酒，爱山水，也看不起权贵。他很少这样直接地说“我爱”谁，可见他是真心佩服孟浩然。他还写过送孟浩然的名篇《黄鹤楼送孟浩然之广陵》。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. He was bold and free, loved wine and mountains, and looked down on the powerful. He seldom said \"I love\" someone so plainly, which shows how much he admired Meng Haoran. He also wrote the famous farewell poem \"Seeing Meng Haoran Off to Guangling at Yellow Crane Tower\"."
+ },
+ "appreciation": {
+  "zh": "第一句就是“吾爱孟夫子”，像朋友之间直接喊出来的话，热情又真诚。接着李白像讲故事一样，把孟浩然的一生说给我们听：年轻时不要官位，老了躺在松树白云里；喝酒喝到醉，看花看到迷，就是不去给皇帝做事。这些正是李白自己也向往的生活。最后他说，孟浩然的品格像一座高山，高得仰望不到顶，我只能在这里向他鞠个躬。从“我爱”开始，到“我拜”结束，满满都是对朋友的敬佩。",
+  "en": "The first line, \"I love Master Meng\", sounds like something you would shout to a friend: warm and honest. Then Li Bai tells Meng Haoran's life like a story. When young, he turned down office. When old, he lay among pines and clouds. He drank until drunk under the moon and lost himself among flowers, but would not work for the emperor. This was the very life Li Bai himself dreamed of. At the end he says Meng's character is a mountain so high you cannot see the top, so all he can do is bow from here. It begins with \"I love\" and ends with a bow, full of admiration for a friend."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "hermit",
+   "admiration",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

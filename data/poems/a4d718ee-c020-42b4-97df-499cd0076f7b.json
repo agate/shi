@@ -1,0 +1,459 @@
+{
+ "id": "a4d718ee-c020-42b4-97df-499cd0076f7b",
+ "kind": "shi",
+ "title": "登高",
+ "title_en": "Climbing High",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "急",
+    "jí"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "猿",
+    "yuán"
+   ],
+   [
+    "啸",
+    "xiào"
+   ],
+   [
+    "哀",
+    "āi"
+   ]
+  ],
+  [
+   [
+    "渚",
+    "zhǔ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "滚",
+    "gǔn"
+   ],
+   [
+    "滚",
+    "gǔn"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "台",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "艰",
+    "jiān"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ]
+  ],
+  [
+   [
+    "潦",
+    "liáo"
+   ],
+   [
+    "倒",
+    "dǎo"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "停",
+    "tíng"
+   ],
+   [
+    "浊",
+    "zhuó"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "杯",
+    "bēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本首句作“猿”，第四句作“滚滚”，末句作“杯”。这里的底本作“猨”“衮衮”“桮”，都是古写或通用写法，读音和意思相同。",
+  "en": "The commonly taught text uses the modern characters for yuán (ape), gǔn gǔn (rolling) and bēi (cup). The source text writes all three with older or variant forms; the sounds and meanings are the same."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "潦",
+   "pinyin": "liáo",
+   "zh": "“潦倒”的“潦”读 liáo，不读 lǎo。",
+   "en": "In liáo dǎo (worn down), the first character is read liáo, not lǎo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "猿啸哀：猿猴的叫声很凄凉。三峡一带猿多，叫声悲哀。",
+   "en": "yuán xiào āi: the apes cry sadly. Many apes lived around the Three Gorges, and their cries sounded mournful."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "渚：水中的小块陆地，小沙洲。",
+   "en": "zhǔ: a little island of sand in the river."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "飞回：在空中盘旋。",
+   "en": "fēi huí: circling in the air."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "落木：落叶。",
+   "en": "luò mù: falling leaves."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "萧萧：树叶落下的声音。",
+   "en": "xiāo xiāo: the rustling sound of falling leaves."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "滚滚：江水翻腾奔流的样子。",
+   "en": "gǔn gǔn: the river rolling and surging on."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "万里：离家乡很远很远。",
+   "en": "wàn lǐ: ten thousand li, very far from home."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "悲秋：面对秋天感到悲伤。",
+   "en": "bēi qiū: feeling sad in autumn."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "常作客：长年漂泊在外，住在别人的地方。",
+   "en": "cháng zuò kè: always living away from home as a stranger."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "百年：一辈子，这里指晚年。",
+   "en": "bǎi nián: a whole life, here meaning old age."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "登台：登上高处。",
+   "en": "dēng tái: to climb a high place."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "艰难：生活困苦，也指国家多难。",
+   "en": "jiān nán: hard times, for himself and for the country."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "苦恨：非常遗憾、痛恨。",
+   "en": "kǔ hèn: to regret bitterly."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "繁霜鬓：鬓角的白发越来越多，像落满了霜。",
+   "en": "fán shuāng bìn: more and more white hair at the temples, as if covered in frost."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "潦倒：衰老失意，不得志。",
+   "en": "liáo dǎo: worn down, old and out of luck."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "新停：最近刚刚停止。杜甫因为生病，那时刚戒了酒。",
+   "en": "xīn tíng: just stopped. Because of illness, Du Fu had just given up wine."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "浊酒：没过滤的、比较浑的酒。",
+   "en": "zhuó jiǔ: cloudy, unfiltered wine."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "风很急，天很高，猿猴的叫声很凄凉，",
+   "en": "The wind is fierce, the sky is high, and the apes cry mournfully;"
+  },
+  {
+   "zh": "沙洲清清，沙子白白，鸟儿在空中盘旋。",
+   "en": "the islet is clear, the sand is white, and birds circle overhead."
+  },
+  {
+   "zh": "无边无际的树林里，落叶萧萧地飘下，",
+   "en": "Endless leaves fall rustling down,"
+  },
+  {
+   "zh": "望不到头的长江，滚滚地奔流而来。",
+   "en": "and the endless Yangtze comes rolling on."
+  },
+  {
+   "zh": "离家万里，在悲凉的秋天里，我长年漂泊在外，",
+   "en": "Ten thousand li from home, sad in autumn, I am forever a stranger;"
+  },
+  {
+   "zh": "一身是病，到了晚年，独自登上高台。",
+   "en": "old and full of illness, I climb the height alone."
+  },
+  {
+   "zh": "艰难困苦，最恨的是两鬓白发越来越多，",
+   "en": "Hard times, and bitter regret, have frosted my temples white;"
+  },
+  {
+   "zh": "衰老失意，偏偏又刚戒了解愁的浊酒。",
+   "en": "worn down and out of luck, I have just had to give up my cup of cloudy wine."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是唐代宗大历二年（767年）秋天，杜甫在夔州写的。夔州就是今天重庆的奉节，在长江三峡边上。那年重阳节，杜甫独自登高望远。他已经五十六岁，漂泊多年，身体多病，又刚戒了酒。看着满眼秋景，他写下了这首诗。",
+  "en": "Du Fu wrote this poem in the autumn of 767 in Kuizhou. Kuizhou is today's Fengjie in Chongqing, by the Three Gorges of the Yangtze. On the Double Ninth Festival that year, when people climbed hills, he climbed up alone to look far out. He was fifty-six, had wandered for years, was often ill, and had just given up wine. Looking at the autumn scene around him, he wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他一生经历了安史之乱，到处逃难，看尽了国家和百姓的苦难。晚年他坐船沿长江漂泊，在夔州住了将近两年，写了很多诗，这首《登高》是其中最有名的一首。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He lived through the An Lushan Rebellion, fled from place to place, and saw the suffering of his country and its people. In his last years he drifted by boat along the Yangtze, and stayed nearly two years in Kuizhou, where he wrote many poems. Climbing High is the most famous of them."
+ },
+ "appreciation": {
+  "zh": "前四句写登高看到的秋景。急风、高天、猿叫、白沙、飞鸟，一句里塞进好几样东西，又有声音又有颜色。三四句气势最大：落叶无边无际地飘下，长江一眼望不到头地涌来。落叶让人想到生命一点点老去，江水让人想到时间永远在流。后四句写自己：离家万里，又是悲凉的秋天，常年漂泊；一身是病，还是孤零零一个人登高。白发越来越多，连借酒消愁都不行了。景大、情深，悲伤一层压一层。明代学者胡应麟称它是古今七言律诗第一。",
+  "en": "The first four lines show the autumn view from the height. Fierce wind, high sky, crying apes, white sand, circling birds: each line packs in several things, full of sound and colour. Lines three and four are the grandest. Endless leaves fall rustling down, and the endless Yangtze comes rolling on. The leaves make us think of life slowly growing old; the river makes us think of time flowing for ever. The last four lines turn to himself. Far from home, in sad autumn, always wandering. Old and ill, he climbs the height all alone. His white hair keeps spreading, and he cannot even drown his sorrow in wine any more. The scene is huge, the feeling is deep, and sadness piles on sadness. The Ming scholar Hu Yinglin called it the finest seven-character regulated poem of all time."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "old-age",
+   "homesick",
+   "river",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

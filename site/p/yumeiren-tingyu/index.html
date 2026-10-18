@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>虞美人·听雨 · 蒋捷 — 诗</title>
+    <meta name="description" content="虞美人·听雨 · 蒋捷 — To the Tune of Yu Mei Ren: Listening to the Rain by Jiang Jie: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:27px">
+        <p class="mono"><span lang="en">No. 88 · Song lyric · ci lyric to the tune Yu Mei Ren, in two stanzas</span><span lang="zh">第 88 首 · 宋词 · 词·虞美人（双调）</span></p>
+        <h1>虞美人·听雨</h1>
+        <p class="by">蒋捷<span class="mono"><span lang="en">Jiang Jie · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">To the Tune of Yu Mei Ren: Listening to the Rain</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl rd" data-l="0" data-p="0"><i>shào</i><b>少</b></span><span class="c gl" data-l="0" data-p="1"><i>nián</i><b>年</b></span><span class="c" data-l="0" data-p="2"><i>tīng</i><b>听</b></span><span class="c" data-l="0" data-p="3"><i>yǔ</i><b>雨</b></span><span class="c gl" data-l="0" data-p="4"><i>gē</i><b>歌</b></span><span class="c gl" data-l="0" data-p="5"><i>lóu</i><b>楼</b></span><span class="c" data-l="0" data-p="6"><i>shàng</i><b>上</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>hóng</i><b>红</b></span><span class="c" data-l="1" data-p="1"><i>zhú</i><b>烛</b></span><span class="c gl" data-l="1" data-p="2"><i>hūn</i><b>昏</b></span><span class="c gl" data-l="1" data-p="3"><i>luó</i><b>罗</b></span><span class="c gl" data-l="1" data-p="4"><i>zhàng</i><b>帐</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>zhuàng</i><b>壮</b></span><span class="c gl" data-l="2" data-p="1"><i>nián</i><b>年</b></span><span class="c" data-l="2" data-p="2"><i>tīng</i><b>听</b></span><span class="c" data-l="2" data-p="3"><i>yǔ</i><b>雨</b></span><span class="c gl" data-l="2" data-p="4"><i>kè</i><b>客</b></span><span class="c gl" data-l="2" data-p="5"><i>zhōu</i><b>舟</b></span><span class="c" data-l="2" data-p="6"><i>zhōng</i><b>中</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>jiāng</i><b>江</b></span><span class="c" data-l="3" data-p="1"><i>kuò</i><b>阔</b></span><span class="c" data-l="3" data-p="2"><i>yún</i><b>云</b></span><span class="c" data-l="3" data-p="3"><i>dī</i><b>低</b></span><span class="c gl" data-l="3" data-p="4"><i>duàn</i><b>断</b></span><span class="c gl" data-l="3" data-p="5"><i>yàn</i><b>雁</b></span><span class="c gl" data-l="3" data-p="6"><i>jiào</i><b>叫</b></span><span class="c gl" data-l="3" data-p="7"><i>xī</i><b>西</b></span><span class="c gl" data-l="3" data-p="8"><i>fēng</i><b>风</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>ér</i><b>而</b></span><span class="c gl" data-l="4" data-p="1"><i>jīn</i><b>今</b></span><span class="c" data-l="4" data-p="2"><i>tīng</i><b>听</b></span><span class="c" data-l="4" data-p="3"><i>yǔ</i><b>雨</b></span><span class="c gl" data-l="4" data-p="4"><i>sēng</i><b>僧</b></span><span class="c gl" data-l="4" data-p="5"><i>lú</i><b>庐</b></span><span class="c" data-l="4" data-p="6"><i>xià</i><b>下</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>bìn</i><b>鬓</b></span><span class="c" data-l="5" data-p="1"><i>yǐ</i><b>已</b></span><span class="c gl" data-l="5" data-p="2"><i>xīng</i><b>星</b></span><span class="c gl" data-l="5" data-p="3"><i>xīng</i><b>星</b></span><span class="c" data-l="5" data-p="4"><i>yě</i><b>也</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>bēi</i><b>悲</b></span><span class="c gl" data-l="6" data-p="1"><i>huān</i><b>欢</b></span><span class="c gl" data-l="6" data-p="2"><i>lí</i><b>离</b></span><span class="c gl" data-l="6" data-p="3"><i>hé</i><b>合</b></span><span class="c" data-l="6" data-p="4"><i>zǒng</i><b>总</b></span><span class="c gl" data-l="6" data-p="5"><i>wú</i><b>无</b></span><span class="c gl" data-l="6" data-p="6"><i>qíng</i><b>情</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>yī</i><b>一</b></span><span class="c gl" data-l="7" data-p="1"><i>rèn</i><b>任</b></span><span class="c" data-l="7" data-p="2"><i>jiē</i><b>阶</b></span><span class="c" data-l="7" data-p="3"><i>qián</i><b>前</b></span><span class="c gl" data-l="7" data-p="4"><i>diǎn</i><b>点</b></span><span class="c gl" data-l="7" data-p="5"><i>dī</i><b>滴</b></span><span class="c" data-l="7" data-p="6"><i>dào</i><b>到</b></span><span class="c" data-l="7" data-p="7"><i>tiān</i><b>天</b></span><span class="c" data-l="7" data-p="8"><i>míng</i><b>明</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The heading &quot;Listening to the Rain&quot; is the title used in common editions. The corpus gives only the tune name.</p><p lang="zh">词题“听雨”是通行本的题目，资料库里只有词牌“虞美人”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">少年听雨歌楼上</span><span lang="en">When I was young, I listened to the rain in a singing house.</span><span lang="zh">年轻时，我在歌楼上听雨，</span></li><li><span class="o">红烛昏罗帐</span><span lang="en">Red candles glowed softly on the silk bed curtains.</span><span lang="zh">红烛的光朦朦胧胧，照着丝绸床帐。</span></li><li><span class="o">壮年听雨客舟中</span><span lang="en">In my prime, I listened to the rain on a traveler&#x27;s boat.</span><span lang="zh">中年时，我在远行的船上听雨，</span></li><li><span class="o">江阔云低断雁叫西风</span><span lang="en">The river was wide, the clouds hung low, and a lone goose cried in the west wind.</span><span lang="zh">江面宽阔，乌云低垂，一只失群的大雁在秋风里哀叫。</span></li><li class="brk"><span class="o">而今听雨僧庐下</span><span lang="en">Now I listen to the rain beneath a monk&#x27;s roof.</span><span lang="zh">如今，我在寺庙的屋檐下听雨，</span></li><li><span class="o">鬓已星星也</span><span lang="en">The hair at my temples is already flecked with white.</span><span lang="zh">两鬓已经斑白了。</span></li><li><span class="o">悲欢离合总无情</span><span lang="en">Sorrow and joy, parting and meeting, are all without feeling now.</span><span lang="zh">人生的悲欢离合，总是这样无情，</span></li><li><span class="o">一任阶前点滴到天明</span><span lang="en">Let the rain on the steps drip on, drop by drop, until dawn.</span><span lang="zh">就让台阶前的雨，一滴一滴落到天亮吧。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>少年<span class="mono">shào nián</span></dt><dd><span lang="en">shào nián: one&#x27;s youth.</span><span lang="zh">少年：年轻的时候。</span></dd></div><div><dt>歌楼<span class="mono">gē lóu</span></dt><dd><span lang="en">gē lóu: a singing house, where people drank and listened to singers.</span><span lang="zh">歌楼：有歌女唱歌、供人饮酒作乐的楼。</span></dd></div><div><dt>昏罗帐<span class="mono">hūn luó zhàng</span></dt><dd><span lang="en">hūn: dim, here the soft glow of candlelight. luó zhàng: silk bed curtains.</span><span lang="zh">昏：昏暗，这里指烛光朦胧。罗帐：丝绸做的床帐。</span></dd></div><div><dt>壮年<span class="mono">zhuàng nián</span></dt><dd><span lang="en">zhuàng nián: the prime of life, around thirty or forty.</span><span lang="zh">壮年：三四十岁，人最强壮的年纪。</span></dd></div><div><dt>客舟<span class="mono">kè zhōu</span></dt><dd><span lang="en">kè zhōu: a boat carrying someone far from home.</span><span lang="zh">客舟：出门在外的人坐的船。</span></dd></div><div><dt>断雁<span class="mono">duàn yàn</span></dt><dd><span lang="en">duàn yàn: a lone wild goose that has lost its flock.</span><span lang="zh">断雁：离了群的孤雁。</span></dd></div><div><dt>叫西风<span class="mono">jiào xī fēng</span></dt><dd><span lang="en">jiào xī fēng: crying in the west wind. The west wind is the autumn wind.</span><span lang="zh">叫西风：在秋风里哀叫。西风，秋风。</span></dd></div><div><dt>而今<span class="mono">ér jīn</span></dt><dd><span lang="en">ér jīn: now.</span><span lang="zh">而今：如今，现在。</span></dd></div><div><dt>僧庐<span class="mono">sēng lú</span></dt><dd><span lang="en">sēng lú: a monk&#x27;s hut, a temple.</span><span lang="zh">僧庐：和尚住的屋子，寺庙。</span></dd></div><div><dt>星星<span class="mono">xīng xīng</span></dt><dd><span lang="en">xīng xīng: hair flecked with white, like scattered stars.</span><span lang="zh">星星：头发花白，白发像星星一样点点分布。</span></dd></div><div><dt>悲欢离合<span class="mono">bēi huān lí hé</span></dt><dd><span lang="en">bēi huān lí hé: sorrow and joy, parting and meeting again, all that happens in a life.</span><span lang="zh">悲欢离合：悲伤、欢乐、分离、团聚，指人一生的各种遭遇。</span></dd></div><div><dt>无情<span class="mono">wú qíng</span></dt><dd><span lang="en">wú qíng: without feeling. He means these things can no longer move him.</span><span lang="zh">无情：没有感情，这里是说那些事再也打动不了自己了。</span></dd></div><div><dt>一任<span class="mono">yī rèn</span></dt><dd><span lang="en">yí rèn: let it be, let it go on as it will.</span><span lang="zh">一任：随它去，任凭。</span></dd></div><div><dt>点滴<span class="mono">diǎn dī</span></dt><dd><span lang="en">diǎn dī: the rain falling drop by drop.</span><span lang="zh">点滴：雨一滴一滴地落下。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>少<span class="mono">shào</span></dt><dd><span lang="en">Shào nián means youth, read shào, not shǎo.</span><span lang="zh">“少年”是“年轻的时候”，读 shào。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Jiang Jie lived at the very end of the Southern Song. After the Song fell, he refused to serve the new Yuan rulers and went into hiding, living a poor, wandering life. This lyric uses three times he listened to rain to tell his whole life, from youth to old age. Inside it is also the grief of losing his country. The exact date is not known; it is usually thought to be a work of his old age.</p><p lang="zh">蒋捷生活在南宋末年。南宋灭亡以后，他不愿意给元朝做官，隐居起来，过着漂泊清苦的日子。这首词用一生中三次听雨，写出了自己从少年到老年的经历，也藏着国家灭亡的伤痛。具体写作时间不清楚，一般认为是他晚年所作。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Jiang Jie, also called Shengyu and known as Zhushan, came from Yangxian, today&#x27;s Yixing in Jiangsu. His dates of birth and death are not known. He passed the highest imperial exam near the end of the Southern Song. After the Song fell he lived in hiding and was called Master Zhushan. He is counted among the Four Great Lyric Poets of the late Song.</p><p lang="zh">蒋捷，字胜欲，号竹山，阳羡（今江苏宜兴）人，生卒年不详。他在南宋末年考中进士。宋亡后隐居不出，人称“竹山先生”。他和周密、王沂孙、张炎并称“宋末四大家”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This lyric is like three photographs, each of someone listening to rain. In the first, he is young, in a singing house lit by red candles. Even the rain sounds happy. In the second, he is in his prime, wandering on a boat. The river is wide, the clouds are low, a lone goose cries in the autumn wind. The rain is full of loneliness. In the third, he is old and living in a temple, his hair white. The rain is the same rain, but he is a completely different person. At the end he says sorrow and joy no longer matter: let the rain drip on until dawn. It sounds calm, but really he has been through so much that he cannot even speak of his grief.</p><p lang="zh">这首词像三张照片，主角都是“听雨”。第一张：年轻时在歌楼上，红烛摇曳，雨声听起来都是快乐的。第二张：中年漂泊在船上，江很宽，云很低，孤雁在秋风里叫，雨声里全是孤独。第三张：老了，住在寺庙里，头发白了，雨还是那场雨，人却完全不同了。最后他说，人生的悲欢离合都已无所谓，就让雨一直滴到天亮吧。看起来很平静，其实是经历了太多，连伤心都说不出来了。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/tashaxing-chenzhoulvshe/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>踏莎行·郴州旅舍</b></a><a href="../../p/hechongtian-huangjinbangshang/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>鹤冲天·黄金榜上</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["少", "shào"], ["年", "nián"], ["听", "tīng"], ["雨", "yǔ"], ["歌", "gē"], ["楼", "lóu"], ["上", "shàng"]], [["红", "hóng"], ["烛", "zhú"], ["昏", "hūn"], ["罗", "luó"], ["帐", "zhàng"]], [["壮", "zhuàng"], ["年", "nián"], ["听", "tīng"], ["雨", "yǔ"], ["客", "kè"], ["舟", "zhōu"], ["中", "zhōng"]], [["江", "jiāng"], ["阔", "kuò"], ["云", "yún"], ["低", "dī"], ["断", "duàn"], ["雁", "yàn"], ["叫", "jiào"], ["西", "xī"], ["风", "fēng"]], [["而", "ér"], ["今", "jīn"], ["听", "tīng"], ["雨", "yǔ"], ["僧", "sēng"], ["庐", "lú"], ["下", "xià"]], [["鬓", "bìn"], ["已", "yǐ"], ["星", "xīng"], ["星", "xīng"], ["也", "yě"]], [["悲", "bēi"], ["欢", "huān"], ["离", "lí"], ["合", "hé"], ["总", "zǒng"], ["无", "wú"], ["情", "qíng"]], [["一", "yī"], ["任", "rèn"], ["阶", "jiē"], ["前", "qián"], ["点", "diǎn"], ["滴", "dī"], ["到", "dào"], ["天", "tiān"], ["明", "míng"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "少年：年轻的时候。", "en": "shào nián: one's youth."}, {"line": 0, "start": 4, "end": 6, "zh": "歌楼：有歌女唱歌、供人饮酒作乐的楼。", "en": "gē lóu: a singing house, where people drank and listened to singers."}, {"line": 1, "start": 2, "end": 5, "zh": "昏：昏暗，这里指烛光朦胧。罗帐：丝绸做的床帐。", "en": "hūn: dim, here the soft glow of candlelight. luó zhàng: silk bed curtains."}, {"line": 2, "start": 0, "end": 2, "zh": "壮年：三四十岁，人最强壮的年纪。", "en": "zhuàng nián: the prime of life, around thirty or forty."}, {"line": 2, "start": 4, "end": 6, "zh": "客舟：出门在外的人坐的船。", "en": "kè zhōu: a boat carrying someone far from home."}, {"line": 3, "start": 4, "end": 6, "zh": "断雁：离了群的孤雁。", "en": "duàn yàn: a lone wild goose that has lost its flock."}, {"line": 3, "start": 6, "end": 9, "zh": "叫西风：在秋风里哀叫。西风，秋风。", "en": "jiào xī fēng: crying in the west wind. The west wind is the autumn wind."}, {"line": 4, "start": 0, "end": 2, "zh": "而今：如今，现在。", "en": "ér jīn: now."}, {"line": 4, "start": 4, "end": 6, "zh": "僧庐：和尚住的屋子，寺庙。", "en": "sēng lú: a monk's hut, a temple."}, {"line": 5, "start": 2, "end": 4, "zh": "星星：头发花白，白发像星星一样点点分布。", "en": "xīng xīng: hair flecked with white, like scattered stars."}, {"line": 6, "start": 0, "end": 4, "zh": "悲欢离合：悲伤、欢乐、分离、团聚，指人一生的各种遭遇。", "en": "bēi huān lí hé: sorrow and joy, parting and meeting again, all that happens in a life."}, {"line": 6, "start": 5, "end": 7, "zh": "无情：没有感情，这里是说那些事再也打动不了自己了。", "en": "wú qíng: without feeling. He means these things can no longer move him."}, {"line": 7, "start": 0, "end": 2, "zh": "一任：随它去，任凭。", "en": "yí rèn: let it be, let it go on as it will."}, {"line": 7, "start": 4, "end": 6, "zh": "点滴：雨一滴一滴地落下。", "en": "diǎn dī: the rain falling drop by drop."}], "readings": [{"line": 0, "pos": 0, "char": "少", "pinyin": "shào", "zh": "“少年”是“年轻的时候”，读 shào。", "en": "Shào nián means youth, read shào, not shǎo."}], "speak": ["少年听雨歌楼上", "红烛昏罗帐", "壮年听雨客舟中", "江阔云低断雁叫西风", "而今听雨僧庐下", "鬓已星星也", "悲欢离合总无情", "一任阶前点滴到天明"], "speakTitle": "虞美人，听雨。蒋捷。", "sample": "少年听雨歌楼上"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,452 @@
+{
+ "id": "e0eb3016-9288-4dc0-9257-3de36e5ad73c",
+ "kind": "shi",
+ "title": "锦瑟",
+ "title_en": "The Ornate Zither",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "瑟",
+    "sè"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "端",
+    "duān"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "弦",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "柱",
+    "zhù"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "庄",
+    "zhuāng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "蝴",
+    "hú"
+   ],
+   [
+    "蝶",
+    "dié"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "托",
+    "tuō"
+   ],
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "鹃",
+    "juān"
+   ]
+  ],
+  [
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "蓝",
+    "lán"
+   ],
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "追",
+    "zhuī"
+   ],
+   [
+    "忆",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "惘",
+    "wǎng"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "现在课本读 sī。按古音，这个位置要用仄声，旧读 sì。",
+   "en": "Textbooks today read it sī. By the old tone rules this spot needs an oblique tone, so it was once read sì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "锦瑟：装饰得很漂亮的瑟。瑟是一种古代弹拨乐器，像琴，弦比较多。",
+   "en": "jǐn sè: a beautifully decorated sè. The sè is an ancient plucked instrument, like a zither, with many strings."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "无端：没来由地，无缘无故。",
+   "en": "wú duān: for no reason at all."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "五十弦：五十根弦。传说古代的瑟有五十根弦，后来改成二十五根。",
+   "en": "wǔ shí xián: fifty strings. Legend says the sè of ancient times had fifty strings, later cut to twenty-five."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "柱：瑟上架弦的小木柱，可以移动来调音。",
+   "en": "zhù: the small movable bridge that holds up each string and tunes it."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "思华年：怀念美好的青春岁月。华年，美好的年华。",
+   "en": "sī huá nián: remembering the lovely years of youth; huá nián means the best years."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "庄生：庄子，战国时的思想家。",
+   "en": "zhuāng shēng: Zhuangzi, a thinker of the Warring States period."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "晓梦迷蝴蝶：庄子梦见自己变成蝴蝶，醒来后迷惑了：是我梦见了蝴蝶，还是蝴蝶梦见了我？",
+   "en": "xiǎo mèng mí hú dié: Zhuangzi dreamed he was a butterfly. When he woke he was puzzled: had he dreamed of the butterfly, or had the butterfly dreamed of him?"
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "望帝：传说中古代蜀国的国王，名叫杜宇。他死后魂魄变成了杜鹃鸟，叫声很悲伤。",
+   "en": "wàng dì: a king of ancient Shu in legend, named Du Yu. After he died his spirit became a cuckoo with a sad cry."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "春心：伤春的心情，也指心中的情意。",
+   "en": "chūn xīn: the sad heart of spring, also one's deep feelings."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "托：寄托。",
+   "en": "tuō: to entrust, to place in."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "沧海：大海。",
+   "en": "cāng hǎi: the wide blue sea."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "珠有泪：古人认为海里的珍珠和月亮的圆缺有关；又有传说，海里的鲛人哭泣时，眼泪会变成珍珠。",
+   "en": "zhū yǒu lèi: people of old thought pearls in the sea grew with the moon; legend also says the mermen of the sea wept tears that turned into pearls."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "蓝田：蓝田山，在今天陕西，出产美玉。",
+   "en": "lán tián: Mount Lantian in today's Shaanxi, famous for fine jade."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "玉生烟：美玉在阳光下好像冒出淡淡的烟。远看有，近看却看不清。",
+   "en": "yù shēng yān: fine jade in the sun seems to give off a faint mist, which you can see from far away but not up close."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "可待：哪里要等到。",
+   "en": "kě dài: need it wait until? That is, it did not have to wait."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "追忆：回忆。",
+   "en": "zhuī yì: to look back, to remember."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "惘然：心里空空的，若有所失，不知所措。",
+   "en": "wǎng rán: lost and empty, at a loss."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "华美的瑟，为什么偏偏有五十根弦？",
+   "en": "Why, for no reason, does the ornate zither have fifty strings?"
+  },
+  {
+   "zh": "每一根弦、每一个弦柱，都让我想起美好的青春年华。",
+   "en": "Each string, each bridge, brings back the lovely years of my youth."
+  },
+  {
+   "zh": "庄子清晨做梦，迷迷糊糊变成了蝴蝶；",
+   "en": "Zhuangzi, in a dawn dream, was lost in being a butterfly;"
+  },
+  {
+   "zh": "望帝把伤春的心，寄托给了啼叫的杜鹃。",
+   "en": "King Wang gave his spring sorrow to the crying cuckoo."
+  },
+  {
+   "zh": "大海上月光明亮，珍珠像带着泪光；",
+   "en": "On the wide sea under a bright moon, pearls shine like tears;"
+  },
+  {
+   "zh": "蓝田山上太阳温暖，美玉好像升起了轻烟。",
+   "en": "on Lantian Mountain in the warm sun, jade gives off a mist."
+  },
+  {
+   "zh": "这样的感情，哪里要等到今天回忆时才有？",
+   "en": "This feeling, did it have to wait until now, when I look back?"
+  },
+  {
+   "zh": "就在当时，我心里已经怅然若失了。",
+   "en": "Even back then, I already felt lost."
+  }
+ ],
+ "background": {
+  "zh": "这是李商隐最有名、也最难懂的一首诗。题目“锦瑟”只是取了开头两个字，跟“无题”差不多。一般认为是他晚年回顾一生时写的，但具体时间不能确定。这首诗到底在写什么，一千多年来说法很多：一说是怀念去世的妻子，一说是感叹自己的身世，一说是写一段爱情，也有人说是在谈自己的诗。",
+  "en": "This is Li Shangyin's most famous poem, and also his hardest. The title, \"The Ornate Zither\", just takes the first two characters of the poem, so it is almost like \"Untitled\". It is usually thought to be written late in life, as he looked back on his years, but the date is not certain. What the poem is really about has been argued for more than a thousand years. Some say he mourns his late wife. Some say he grieves over his own life. Some say it is about a love affair. Others say it is about his own poetry."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），唐代后期诗人，和杜牧并称“小李杜”。他很有才华，却一生被卷在官场两派的争斗里，始终不得志；妻子也早早去世。他的诗喜欢用典故，意思朦胧，美得让人说不清。",
+  "en": "Li Shangyin (about 813 to about 858) was a late Tang poet. He and Du Mu are called the \"Little Li and Du\". He was very gifted, but all his life he was caught in a quarrel between two groups at court and never got ahead. His wife also died young. His poems are full of old stories and misty meanings, beautiful in a way that is hard to put into words."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅朦胧的画，看得见美，却说不清意思。开头从一张瑟说起，一根弦、一个柱，就是一段往事。中间四句用了四个画面：庄子梦蝴蝶，像人生如梦，分不清真假；望帝化杜鹃，像心中的悲伤说不出口；海上明月照着带泪的珍珠，冷清又美丽；蓝田的玉在阳光下冒出轻烟，远看有，近看无，就像美好的东西抓不住。最后两句说：这份感情不用等到今天回忆才觉得失落，当时就已经茫然了。读这首诗，不必非要猜出答案，感受那份美丽又惆怅的心情就好。",
+  "en": "This poem is like a misty painting. You can see its beauty but cannot say just what it means. It begins with a zither. Each string and each bridge is a memory. The middle four lines give four pictures. Zhuangzi dreams he is a butterfly, as if life is a dream and you cannot tell what is real. King Wang turns into a cuckoo, like a sorrow that cannot be spoken. A bright moon over the sea shines on pearls like tears, lonely and lovely. Jade on Lantian Mountain gives off mist in the sun; you see it from far away, but up close it is gone, like beautiful things you can never hold. The last two lines say: this feeling did not wait until now to hurt; even back then I was already lost. You do not need to solve this poem. Just feel its beauty and its sadness."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "regret",
+   "music",
+   "dream"
+  ]
+ },
+ "uncertain": []
+}

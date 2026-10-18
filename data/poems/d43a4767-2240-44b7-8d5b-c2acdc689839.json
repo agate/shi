@@ -1,0 +1,261 @@
+{
+ "id": "d43a4767-2240-44b7-8d5b-c2acdc689839",
+ "kind": "shi",
+ "title": "黄鹤楼送孟浩然之广陵",
+ "title_en": "Seeing Meng Haoran Off to Guangling at Yellow Crane Tower",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "辞",
+    "cí"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "际",
+    "jì"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本第三句作“孤帆远影碧山尽”，现在课本和通行本作“孤帆远影碧空尽”，这里按课本。",
+  "en": "In the source text, the third line has bi shan (green mountains). Today's textbooks and most editions have bi kong (blue sky), which is used here."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友，这里指孟浩然。",
+   "en": "gù rén: an old friend, here Meng Haoran."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "西辞：向西告别。黄鹤楼在扬州的西边，孟浩然从西往东走，所以说“西辞”。",
+   "en": "xī cí: to say goodbye in the west. Yellow Crane Tower is west of Yangzhou, and Meng Haoran travels east, so he leaves the west behind."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "黄鹤楼：有名的高楼，在今天湖北武汉的长江边上。",
+   "en": "huáng hè lóu: Yellow Crane Tower, a famous tall tower on the Yangtze River in today's Wuhan, Hubei."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "烟花：柳絮像烟，鲜花似锦，形容春天繁花盛开的美景。不是放的烟花。",
+   "en": "yān huā: willows hazy like smoke and flowers everywhere, the beauty of full spring. It does not mean fireworks."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "下：顺着江水往下游走。",
+   "en": "xià: to go downstream."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "扬州：在今天的江苏，就是题目里的广陵，唐代非常繁华的大城市。",
+   "en": "yáng zhōu: Yangzhou, in today's Jiangsu. It is the Guangling of the title, one of the richest cities of the Tang."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "孤帆：一只船的帆。",
+   "en": "gū fān: a single sail."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "碧空尽：在蓝天的尽头消失了。",
+   "en": "bì kōng jìn: vanishing at the edge of the blue sky."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "唯：只。",
+   "en": "wéi: only."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "天际：天边。",
+   "en": "tiān jì: the edge of the sky."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "老朋友在西边的黄鹤楼和我告别，",
+   "en": "My old friend says goodbye to me at Yellow Crane Tower in the west,"
+  },
+  {
+   "zh": "在柳絮如烟、繁花似锦的三月，坐船去扬州。",
+   "en": "and in the third month, when willows are hazy and flowers bloom, he sails down to Yangzhou."
+  },
+  {
+   "zh": "那一片帆影越来越远，消失在蓝天的尽头，",
+   "en": "His lonely sail grows smaller and smaller, until it is gone at the end of the blue sky."
+  },
+  {
+   "zh": "只看见长江的水，向着天边滚滚流去。",
+   "en": "All I can see is the Yangtze River, flowing on to the edge of the sky."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然比李白大十二岁，诗名很大，李白非常敬重他。李白年轻时住在湖北安陆一带，和孟浩然成了朋友。有一年春天，孟浩然要坐船去广陵（今江苏扬州），李白在武昌的黄鹤楼为他送行，写了这首诗。“之”就是“去”的意思。写作时间一般认为在唐玄宗开元年间，一说是开元十八年（730年）。",
+  "en": "Meng Haoran was twelve years older than Li Bai and already a famous poet, and Li Bai looked up to him. As a young man Li Bai lived around Anlu in Hubei, and the two became friends. One spring, Meng Haoran was going by boat to Guangling (today's Yangzhou, Jiangsu). Li Bai saw him off at Yellow Crane Tower in Wuchang and wrote this poem. The word zhi in the title means \"going to\". It is usually dated to the Kaiyuan years of Emperor Xuanzong; one view says 730."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代最有名的诗人之一，被称为“诗仙”。他喜欢游山玩水，结交朋友，一生写了很多送别诗。他写过“吾爱孟夫子，风流天下闻”，可见他多么喜欢孟浩然。",
+  "en": "Li Bai (701–762) is one of the most famous Tang poets, called the Immortal of Poetry. He loved travelling through mountains and rivers and making friends, and wrote many farewell poems. In another poem he wrote \"I love Master Meng, whose grace is known to all\", which shows how much he admired Meng Haoran."
+ },
+ "appreciation": {
+  "zh": "第一二句交代了谁走、从哪里走、什么时候走、去哪里。“烟花三月”四个字，把春天写得又暖又美，扬州也让人向往。后两句是这首诗最妙的地方。李白一直站在楼上望着朋友的船，船越来越小，最后只剩蓝天。船看不见了，他还站着，只看见江水流向天边。诗里一句也没说“舍不得”，可是那份依依不舍，全在他久久的目光里，也在那流不尽的江水里。",
+  "en": "The first two lines tell us who is leaving, from where, when, and to where. The words \"misty flowers of the third month\" make spring feel warm and lovely, and make Yangzhou sound like a dream. The last two lines are the best part. Li Bai stands on the tower, watching his friend's boat. It gets smaller and smaller, until only blue sky is left. Even when the boat is gone, he keeps standing there, watching the river flow to the sky's edge. The poem never says \"I will miss you\", but the feeling is all in his long gaze, and in the river that never stops flowing."
+ },
+ "famous_lines": [
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

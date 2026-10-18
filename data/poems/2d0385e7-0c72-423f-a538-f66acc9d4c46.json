@@ -1,0 +1,277 @@
+{
+ "id": "2d0385e7-0c72-423f-a538-f66acc9d4c46",
+ "kind": "shi",
+ "title": "出塞",
+ "title_en": "Out Beyond the Frontier",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "将",
+    "jiàng"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还，这里读 huán，意思是回来，不读 hái。",
+   "en": "Here it is read huán, meaning to return, not hái (still)."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "将",
+   "pinyin": "jiàng",
+   "zh": "将，这里读 jiàng，意思是将领、将军。",
+   "en": "Here it is read jiàng, meaning a general."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "教，现在课本读 jiào，意思是让、使。按照格律这里应该用平声，所以也有人读 jiāo。",
+   "en": "Today's textbooks read it jiào, meaning to let or make. By the rules of the verse form this spot needs a level tone, so some people read it jiāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 7,
+   "zh": "秦时明月汉时关：意思是秦汉时的明月和秦汉时的关口。这是一种前后互相补充的写法，叫“互文”。",
+   "en": "qín shí míng yuè hàn shí guān: the bright moon and the frontier pass of the Qin and Han. The two halves fill each other in: both the moon and the pass go back to both dynasties."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "关：边境上守卫的关口、关塞。",
+   "en": "guān: a fortified pass on the border."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "长征：到很远的地方去打仗。",
+   "en": "cháng zhēng: a long march to fight far away."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "未还：没有回来。",
+   "en": "wèi huán: has not come back."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "但使：只要。",
+   "en": "dàn shǐ: if only, as long as."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 6,
+   "zh": "龙城飞将：一般认为指汉代名将李广。他打仗勇猛，匈奴人叫他“飞将军”。一说“龙城”指卢龙城，一说指匈奴祭天的地方。",
+   "en": "lóng chéng fēi jiàng: usually taken as Li Guang, a great Han general. He fought so boldly that the Xiongnu called him the Flying General. Longcheng may mean the town of Lulong, or a place where the Xiongnu worshipped heaven; views differ."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "胡马：胡人的战马，这里指来侵犯的敌人骑兵。",
+   "en": "hú mǎ: the horses of northern peoples, here the enemy cavalry who raid the border."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "度：越过。",
+   "en": "dù: to cross over."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "阴山：在今天内蒙古中部的一条山脉，古代是挡住北方骑兵的屏障。",
+   "en": "yīn shān: the Yin Mountains in central Inner Mongolia, an ancient barrier against riders from the north."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "还是秦汉时的那轮明月，还是秦汉时的那些关口，",
+   "en": "The same bright moon as in Qin and Han times, the same frontier passes,"
+  },
+  {
+   "zh": "到万里之外打仗的人，一直没有回来。",
+   "en": "and the men who marched ten thousand li to war have still not come home."
+  },
+  {
+   "zh": "只要龙城的飞将军还在，",
+   "en": "If only the Flying General of Longcheng were still here,"
+  },
+  {
+   "zh": "就绝不会让敌人的战马越过阴山。",
+   "en": "he would never let the enemy's horses cross the Yin Mountains."
+  }
+ ],
+ "background": {
+  "zh": "《出塞》是乐府旧题，乐府是古代可以配乐演唱的诗，这个题目多写边疆打仗的事。王昌龄年轻时到过西北边塞，看到了守边将士的辛苦。唐朝边境常有战争，很多人去了就回不来。诗人想起汉代的名将，希望朝廷有好将军，能守住边疆，让百姓过上安宁日子。原题有两首，这是第一首。",
+  "en": "\"Out Beyond the Frontier\" is an old yuefu title. Yuefu were poems meant to be sung to music, and this title was used for poems about war on the border. As a young man Wang Changling travelled to the northwest frontier and saw how hard life was for the soldiers. The Tang often fought on its borders, and many who went never came back. The poet thinks of a great Han general and wishes the court had such leaders, to hold the border and give people peace. There are two poems under this title; this is the first."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约757），盛唐诗人，最擅长写七言绝句，被称为“七绝圣手”。他写了很多边塞诗，气势雄壮。他和李白、高适等人都是朋友。这首《出塞》被明代人推为唐人七绝的第一名。",
+  "en": "Wang Changling (about 698–757) was a poet of the high Tang. He was best at seven-character quatrains and is called the Master of the Quatrain. He wrote many strong, stirring frontier poems, and was a friend of Li Bai and Gao Shi. Critics in the Ming dynasty ranked this one first among all Tang seven-character quatrains."
+ },
+ "appreciation": {
+  "zh": "第一句一开口就很大：月亮还是秦汉时的月亮，关口还是秦汉时的关口。几百年过去了，边疆的战争一直没有停。第二句一下子写到人：远去打仗的人，一批一批都没有回来。时间那么长，路那么远，这里有多少家庭的悲伤。后两句是诗人的愿望：要是有李广那样的将军就好了，敌人根本打不进来。诗里有悲伤，也有豪气，又雄壮又深沉。",
+  "en": "The first line opens wide. The moon is the moon of the Qin and Han, and the passes are the passes of the Qin and Han. Hundreds of years have gone by, and the fighting on the border has never stopped. The second line turns to people. Wave after wave of soldiers marched far away and never came back. Such long years and such long roads hold the grief of so many families. The last two lines are the poet's wish: if only there were a general like Li Guang, the enemy could never break in. The poem holds both sorrow and courage. It is grand and deep at once."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "moon",
+   "history",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

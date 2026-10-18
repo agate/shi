@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>春望 · 杜甫 — 诗</title>
+    <meta name="description" content="春望 · 杜甫 — Spring View by Du Fu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 12 · Tang poem · five-character regulated verse</span><span lang="zh">第 12 首 · 唐诗 · 五言律诗</span></p>
+        <h1>春望</h1>
+        <p class="by">杜甫<span class="mono"><span lang="en">Du Fu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Spring View</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>guó</i><b>国</b></span><span class="c gl" data-l="0" data-p="1"><i>pò</i><b>破</b></span><span class="c gl" data-l="0" data-p="2"><i>shān</i><b>山</b></span><span class="c gl" data-l="0" data-p="3"><i>hé</i><b>河</b></span><span class="c gl" data-l="0" data-p="4"><i>zài</i><b>在</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>chéng</i><b>城</b></span><span class="c gl" data-l="1" data-p="1"><i>chūn</i><b>春</b></span><span class="c gl" data-l="1" data-p="2"><i>cǎo</i><b>草</b></span><span class="c gl" data-l="1" data-p="3"><i>mù</i><b>木</b></span><span class="c gl" data-l="1" data-p="4"><i>shēn</i><b>深</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>gǎn</i><b>感</b></span><span class="c gl" data-l="2" data-p="1"><i>shí</i><b>时</b></span><span class="c" data-l="2" data-p="2"><i>huā</i><b>花</b></span><span class="c gl" data-l="2" data-p="3"><i>jiàn</i><b>溅</b></span><span class="c gl" data-l="2" data-p="4"><i>lèi</i><b>泪</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>hèn</i><b>恨</b></span><span class="c gl" data-l="3" data-p="1"><i>bié</i><b>别</b></span><span class="c" data-l="3" data-p="2"><i>niǎo</i><b>鸟</b></span><span class="c gl" data-l="3" data-p="3"><i>jīng</i><b>惊</b></span><span class="c gl" data-l="3" data-p="4"><i>xīn</i><b>心</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>fēng</i><b>烽</b></span><span class="c gl" data-l="4" data-p="1"><i>huǒ</i><b>火</b></span><span class="c gl" data-l="4" data-p="2"><i>lián</i><b>连</b></span><span class="c gl" data-l="4" data-p="3"><i>sān</i><b>三</b></span><span class="c gl" data-l="4" data-p="4"><i>yuè</i><b>月</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>jiā</i><b>家</b></span><span class="c gl" data-l="5" data-p="1"><i>shū</i><b>书</b></span><span class="c gl" data-l="5" data-p="2"><i>dǐ</i><b>抵</b></span><span class="c gl" data-l="5" data-p="3"><i>wàn</i><b>万</b></span><span class="c gl" data-l="5" data-p="4"><i>jīn</i><b>金</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>bái</i><b>白</b></span><span class="c gl" data-l="6" data-p="1"><i>tóu</i><b>头</b></span><span class="c gl" data-l="6" data-p="2"><i>sāo</i><b>搔</b></span><span class="c gl" data-l="6" data-p="3"><i>gèng</i><b>更</b></span><span class="c gl" data-l="6" data-p="4"><i>duǎn</i><b>短</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>hún</i><b>浑</b></span><span class="c gl" data-l="7" data-p="1"><i>yù</i><b>欲</b></span><span class="c gl" data-l="7" data-p="2"><i>bú</i><b>不</b></span><span class="c gl rd" data-l="7" data-p="3"><i>shèng</i><b>胜</b></span><span class="c gl" data-l="7" data-p="4"><i>zān</i><b>簪</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">国破山河在</span><span lang="en">The capital has fallen; only the hills and rivers remain.</span><span lang="zh">国都被攻破了，只有山河还在。</span></li><li><span class="o">城春草木深</span><span lang="en">Spring in the city, and grass and trees grow wild and thick.</span><span lang="zh">春天的长安城里，草木长得又高又密。</span></li><li><span class="o">感时花溅泪</span><span lang="en">Grieving for the times, I shed tears even at the flowers.</span><span lang="zh">为时局伤心，看见花开也忍不住流泪。</span></li><li><span class="o">恨别鸟惊心</span><span lang="en">Parted from my family, even birdsong makes my heart start.</span><span lang="zh">和家人分离，听见鸟叫也心惊。</span></li><li><span class="o">烽火连三月</span><span lang="en">The fires of war have burned for months on end.</span><span lang="zh">战火已经一连烧了好几个月。</span></li><li><span class="o">家书抵万金</span><span lang="en">A letter from home is worth ten thousand in gold.</span><span lang="zh">一封家信，抵得上万两黄金。</span></li><li><span class="o">白头搔更短</span><span lang="en">I scratch my white hair, and it grows ever thinner,</span><span lang="zh">满头白发越挠越少，</span></li><li><span class="o">浑欲不胜簪</span><span lang="en">so thin it can hardly hold a hairpin.</span><span lang="zh">简直连簪子都插不住了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>国破<span class="mono">guó pò</span></dt><dd><span lang="en">guó pò: the capital has fallen. Here it means the capital Chang&#x27;an was taken by rebel troops.</span><span lang="zh">国破：国都被攻破。这里指都城长安被叛军占领。</span></dd></div><div><dt>山河在<span class="mono">shān hé zài</span></dt><dd><span lang="en">shān hé zài: the mountains and rivers are still there, though the country is broken.</span><span lang="zh">山河在：山和河还在，可是国家已经残破了。</span></dd></div><div><dt>城春<span class="mono">chéng chūn</span></dt><dd><span lang="en">chéng chūn: spring has come to the city of Chang&#x27;an.</span><span lang="zh">城春：长安城里春天来了。</span></dd></div><div><dt>草木深<span class="mono">cǎo mù shēn</span></dt><dd><span lang="en">cǎo mù shēn: grass and trees grow tall and thick, because the people have fled and no one tends them.</span><span lang="zh">草木深：草和树长得又高又密。因为人都逃走了，没有人管。</span></dd></div><div><dt>感时<span class="mono">gǎn shí</span></dt><dd><span lang="en">gǎn shí: to grieve over the times, that is, over the state the country is in.</span><span lang="zh">感时：为时局感到伤心。时局，就是国家眼下的情况。</span></dd></div><div><dt>溅泪<span class="mono">jiàn lèi</span></dt><dd><span lang="en">jiàn lèi: tears spill and fall.</span><span lang="zh">溅泪：流下眼泪，泪水洒落。</span></dd></div><div><dt>恨别<span class="mono">hèn bié</span></dt><dd><span lang="en">hèn bié: to grieve over being parted from one&#x27;s family. Hèn here means sorrow, not hatred.</span><span lang="zh">恨别：为和家人分别而难过。恨，这里是遗憾、难过的意思。</span></dd></div><div><dt>惊心<span class="mono">jīng xīn</span></dt><dd><span lang="en">jīng xīn: the heart starts in alarm.</span><span lang="zh">惊心：心里一惊，很不安。</span></dd></div><div><dt>烽火<span class="mono">fēng huǒ</span></dt><dd><span lang="en">fēng huǒ: beacon fires lit on high towers to warn of attack in old times. Here it means war.</span><span lang="zh">烽火：古代在高台上点火报警的烟火。这里指战争。</span></dd></div><div><dt>连三月<span class="mono">lián sān yuè</span></dt><dd><span lang="en">lián sān yuè: for months on end. Another reading: through the third month of two springs in a row.</span><span lang="zh">连三月：一连好几个月。一说指连着两个春天的三月。</span></dd></div><div><dt>家书<span class="mono">jiā shū</span></dt><dd><span lang="en">jiā shū: a letter from home.</span><span lang="zh">家书：家里寄来的信。</span></dd></div><div><dt>抵万金<span class="mono">dǐ wàn jīn</span></dt><dd><span lang="en">dǐ wàn jīn: worth ten thousand pieces of gold, that is, priceless.</span><span lang="zh">抵万金：抵得上一万两黄金，形容非常珍贵。</span></dd></div><div><dt>白头<span class="mono">bái tóu</span></dt><dd><span lang="en">bái tóu: white hair.</span><span lang="zh">白头：白头发。</span></dd></div><div><dt>搔<span class="mono">sāo</span></dt><dd><span lang="en">sāo: to scratch with the fingers.</span><span lang="zh">搔：用手指轻轻地抓、挠。</span></dd></div><div><dt>更短<span class="mono">gèng duǎn</span></dt><dd><span lang="en">gèng duǎn: even thinner, even fewer.</span><span lang="zh">更短：更加少了，更稀了。</span></dd></div><div><dt>浑欲<span class="mono">hún yù</span></dt><dd><span lang="en">hún yù: almost, very nearly.</span><span lang="zh">浑欲：简直要。</span></dd></div><div><dt>不胜簪<span class="mono">bú shèng zān</span></dt><dd><span lang="en">bù shèng zān: cannot hold a hairpin any more. Men in old China wore their hair long, tied it up, and fixed a cap on it with a long pin. Bù shèng means unable to bear.</span><span lang="zh">不胜簪：插不住簪子了。古代男子留长发，把头发束起来，用簪子别住帽子。簪，一种长针。不胜，承受不住。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>胜<span class="mono">shèng</span></dt><dd><span lang="en">In bù shèng, the character is now usually read shèng. An older reading is shēng, meaning able to bear.</span><span lang="zh">“不胜”的“胜”，现在一般读 shèng。旧读 shēng，意思是能承受。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In 755, An Lushan and Shi Siming rose against the Tang. This is called the An Lushan Rebellion. The next year the rebels took Chang&#x27;an. Du Fu left his family in Fuzhou and set off to join the new emperor, Suzong. On the way he was caught by the rebels and taken back to Chang&#x27;an. In the spring of 757 he was trapped in the city. He saw it in ruins and had no news of his family, so he wrote this poem.</p><p lang="zh">公元755年，安禄山、史思明起兵造反，史称“安史之乱”。第二年，叛军攻进长安。杜甫把家人安顿在鄜州，自己去投奔新即位的唐肃宗，半路被叛军抓住，带回了长安。757年春天，他被困在长安城里，看到城市破败，又没有家人的消息，写下了这首诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Fu (712–770), courtesy name Zimei, was a great Tang poet, often called the Sage of Poetry. He lived through the great war that turned the Tang from strong to weak. His poems tell of the people&#x27;s suffering and the country&#x27;s danger, so they are also called a history in verse.</p><p lang="zh">杜甫（712—770），字子美，唐代大诗人，被人称为“诗圣”。他经历了唐朝由盛到衰的大乱，诗里写了很多百姓的苦难和国家的危难，所以他的诗又被称为“诗史”，就是用诗写成的历史。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The opening sets two words against each other: the country is broken, yet the hills and rivers remain. Spring has come, yet the city holds only wild grass and trees, and no people. Flowers are lovely and birdsong is sweet, but the poet is so sad that flowers bring tears and birds make his heart start. Another reading says the flowers and birds themselves seem to weep and tremble. &quot;A letter from home is worth ten thousand in gold&quot; speaks for everyone caught in war. At the end the poet does not say he weeps. He only scratches his head, his white hair too thin to hold a pin. And we see an old man worried for his country and his family.</p><p lang="zh">开头一个“破”字，一个“在”字，写出了大变化：国家破了，山河却还在；春天来了，城里却只有乱长的草木，没有人。接着两句，花本来好看，鸟叫本来好听，可诗人心里难过，看花流泪，听鸟心惊。一说是花和鸟也像人一样在流泪、在惊心。“家书抵万金”说出了战乱中所有人的心声。最后诗人不写哭，只写自己挠头，白发少得插不住簪子，一个忧国思家的老人就站在我们眼前了。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/wangdongtinghuzengzhangchengxiang/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>望洞庭湖赠张丞相</b></a><a href="../../p/xinglunan-qiyi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>行路难·其一</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["国", "guó"], ["破", "pò"], ["山", "shān"], ["河", "hé"], ["在", "zài"]], [["城", "chéng"], ["春", "chūn"], ["草", "cǎo"], ["木", "mù"], ["深", "shēn"]], [["感", "gǎn"], ["时", "shí"], ["花", "huā"], ["溅", "jiàn"], ["泪", "lèi"]], [["恨", "hèn"], ["别", "bié"], ["鸟", "niǎo"], ["惊", "jīng"], ["心", "xīn"]], [["烽", "fēng"], ["火", "huǒ"], ["连", "lián"], ["三", "sān"], ["月", "yuè"]], [["家", "jiā"], ["书", "shū"], ["抵", "dǐ"], ["万", "wàn"], ["金", "jīn"]], [["白", "bái"], ["头", "tóu"], ["搔", "sāo"], ["更", "gèng"], ["短", "duǎn"]], [["浑", "hún"], ["欲", "yù"], ["不", "bú"], ["胜", "shèng"], ["簪", "zān"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "国破：国都被攻破。这里指都城长安被叛军占领。", "en": "guó pò: the capital has fallen. Here it means the capital Chang'an was taken by rebel troops."}, {"line": 0, "start": 2, "end": 5, "zh": "山河在：山和河还在，可是国家已经残破了。", "en": "shān hé zài: the mountains and rivers are still there, though the country is broken."}, {"line": 1, "start": 0, "end": 2, "zh": "城春：长安城里春天来了。", "en": "chéng chūn: spring has come to the city of Chang'an."}, {"line": 1, "start": 2, "end": 5, "zh": "草木深：草和树长得又高又密。因为人都逃走了，没有人管。", "en": "cǎo mù shēn: grass and trees grow tall and thick, because the people have fled and no one tends them."}, {"line": 2, "start": 0, "end": 2, "zh": "感时：为时局感到伤心。时局，就是国家眼下的情况。", "en": "gǎn shí: to grieve over the times, that is, over the state the country is in."}, {"line": 2, "start": 3, "end": 5, "zh": "溅泪：流下眼泪，泪水洒落。", "en": "jiàn lèi: tears spill and fall."}, {"line": 3, "start": 0, "end": 2, "zh": "恨别：为和家人分别而难过。恨，这里是遗憾、难过的意思。", "en": "hèn bié: to grieve over being parted from one's family. Hèn here means sorrow, not hatred."}, {"line": 3, "start": 3, "end": 5, "zh": "惊心：心里一惊，很不安。", "en": "jīng xīn: the heart starts in alarm."}, {"line": 4, "start": 0, "end": 2, "zh": "烽火：古代在高台上点火报警的烟火。这里指战争。", "en": "fēng huǒ: beacon fires lit on high towers to warn of attack in old times. Here it means war."}, {"line": 4, "start": 2, "end": 5, "zh": "连三月：一连好几个月。一说指连着两个春天的三月。", "en": "lián sān yuè: for months on end. Another reading: through the third month of two springs in a row."}, {"line": 5, "start": 0, "end": 2, "zh": "家书：家里寄来的信。", "en": "jiā shū: a letter from home."}, {"line": 5, "start": 2, "end": 5, "zh": "抵万金：抵得上一万两黄金，形容非常珍贵。", "en": "dǐ wàn jīn: worth ten thousand pieces of gold, that is, priceless."}, {"line": 6, "start": 0, "end": 2, "zh": "白头：白头发。", "en": "bái tóu: white hair."}, {"line": 6, "start": 2, "end": 3, "zh": "搔：用手指轻轻地抓、挠。", "en": "sāo: to scratch with the fingers."}, {"line": 6, "start": 3, "end": 5, "zh": "更短：更加少了，更稀了。", "en": "gèng duǎn: even thinner, even fewer."}, {"line": 7, "start": 0, "end": 2, "zh": "浑欲：简直要。", "en": "hún yù: almost, very nearly."}, {"line": 7, "start": 2, "end": 5, "zh": "不胜簪：插不住簪子了。古代男子留长发，把头发束起来，用簪子别住帽子。簪，一种长针。不胜，承受不住。", "en": "bù shèng zān: cannot hold a hairpin any more. Men in old China wore their hair long, tied it up, and fixed a cap on it with a long pin. Bù shèng means unable to bear."}], "readings": [{"line": 7, "pos": 3, "char": "胜", "pinyin": "shèng", "zh": "“不胜”的“胜”，现在一般读 shèng。旧读 shēng，意思是能承受。", "en": "In bù shèng, the character is now usually read shèng. An older reading is shēng, meaning able to bear."}], "speak": ["国破山河在", "城春草木深", "感时花溅泪", "恨别鸟惊心", "烽火连三月", "家书抵万金", "白头搔更短", "浑欲不胜簪"], "speakTitle": "春望。杜甫。", "sample": "国破山河在"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

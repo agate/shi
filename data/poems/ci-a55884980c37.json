@@ -1,0 +1,557 @@
+{
+ "id": "ci-a55884980c37",
+ "kind": "ci",
+ "title": "苏幕遮·燎沉香",
+ "title_en": "To the Tune Su Mu Zhe: Burning Agarwood",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·苏幕遮（双调）",
+  "en": "ci lyric to the tune Su Mu Zhe, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "燎",
+    "liáo"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "溽",
+    "rù"
+   ],
+   [
+    "暑",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "雀",
+    "què"
+   ],
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "侵",
+    "qīn"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "檐",
+    "yán"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "宿",
+    "sù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "圆",
+    "yuán"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "荷",
+    "hé"
+   ],
+   [
+    "举",
+    "jǔ"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "遥",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "住",
+    "zhù"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "旅",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "楫",
+    "jí"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "芙",
+    "fú"
+   ],
+   [
+    "蓉",
+    "róng"
+   ],
+   [
+    "浦",
+    "pǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": {
+  "zh": "通行本第一句作“燎沉香”，这里的古籍底本作“燎沈香”。“沈”是“沉”的古写法，读音、意思都一样，经过繁简转换后留下了旧字形。",
+  "en": "The commonly taught text writes the second character of line one in its modern form, chén, meaning \"sinking\". The corpus uses an older form of the same character, left over from the machine conversion. The sound and meaning are the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "燎",
+   "pinyin": "liáo",
+   "zh": "这里是“烧”的意思，读 liáo，不读 liǎo。",
+   "en": "Read liáo here, meaning \"to burn\", not liǎo."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "溽",
+   "pinyin": "rù",
+   "zh": "读 rù，意思是潮湿。",
+   "en": "Read rù, meaning \"damp, humid\"."
+  },
+  {
+   "line": 4,
+   "pos": 4,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "这里是“晒干”的意思，读 gān，不读 gàn。",
+   "en": "Read gān here, meaning \"to dry\", not gàn."
+  },
+  {
+   "line": 4,
+   "pos": 5,
+   "char": "宿",
+   "pinyin": "sù",
+   "zh": "“宿雨”是昨夜的雨，读 sù，不读 xiǔ。",
+   "en": "In sù yǔ, \"last night's rain\", it is read sù, not xiǔ."
+  },
+  {
+   "line": 12,
+   "pos": 1,
+   "char": "楫",
+   "pinyin": "jí",
+   "zh": "读 jí，意思是船桨。",
+   "en": "Read jí, meaning \"oar\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "燎：烧。",
+   "en": "liáo: to burn."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "沉香：一种很名贵的香料，放进水里会沉下去，所以叫沉香。",
+   "en": "chén xiāng: agarwood, a precious incense. It sinks in water, which is how it got its name, \"sinking fragrance\"."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "消：消除。溽暑：又闷又湿的夏天的热气。",
+   "en": "xiāo rù shǔ: xiāo means to drive away; rù shǔ is the damp, sticky heat of summer."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "呼晴：鸟叫着唤来晴天。古人认为鸟雀叫得欢，就是要天晴了。",
+   "en": "hū qíng: calling for clear skies. People in old times thought that cheerful bird calls meant fine weather was coming."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "侵晓：天快亮的时候。",
+   "en": "qīn xiǎo: at the first light of dawn."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "窥：偷偷地看。檐：屋檐。窥檐语：在屋檐下探头探脑，叽叽喳喳地说话。",
+   "en": "kuī yán yǔ: kuī is to peep; yán is the eaves of a roof. The birds peek from under the eaves and chatter."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "初阳：早上刚升起的太阳。",
+   "en": "chū yáng: the newly risen morning sun."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "干：晒干。宿雨：昨天夜里下的雨。",
+   "en": "gān sù yǔ: gān is to dry; sù yǔ is the rain of the night before."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "清圆：荷叶又干净又圆润。",
+   "en": "qīng yuán: the lotus leaves are fresh and round."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "一一：一片一片地。风荷举：荷叶在晨风中挺立起来。",
+   "en": "yī yī fēng hé jǔ: yī yī means one by one; the lotus leaves rise up in the morning breeze."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "遥：遥远。",
+   "en": "yáo: far away."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "吴门：古时吴地一带，在今江苏南部、浙江北部。作者是钱塘（今浙江杭州）人，所以这样说。",
+   "en": "wú mén: the old Wu region, in today's southern Jiangsu and northern Zhejiang. The poet came from Qiantang, today's Hangzhou, so he calls it home."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "长安：本来是汉朝、唐朝的都城，这里借指北宋的都城汴京（今河南开封）。",
+   "en": "cháng ān: Chang'an was the capital of the Han and Tang dynasties. Here it stands for Bianjing, today's Kaifeng in Henan, the capital of the Northern Song."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 5,
+   "zh": "旅：在外地客居。",
+   "en": "lǚ: to live away from home as a guest."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "渔郎：打鱼的年轻人，指家乡的小伙伴。",
+   "en": "yú láng: a young fisherman, meaning his old friends back home."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 7,
+   "zh": "相忆否：还记得我吗？否，表示疑问。",
+   "en": "xiāng yì fǒu: do they still remember me? Fǒu turns it into a question."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "小楫轻舟：划着小桨，坐着轻快的小船。",
+   "en": "xiǎo jí qīng zhōu: rowing a small oar in a light boat."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 5,
+   "zh": "芙蓉：荷花。浦：水边。芙蓉浦：长满荷花的水边。",
+   "en": "fú róng pǔ: fú róng is the lotus flower; pǔ is the waterside. A shore full of lotus flowers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "点起沉香，",
+   "en": "I burn agarwood"
+  },
+  {
+   "zh": "驱散夏天又闷又湿的暑气。",
+   "en": "to drive away the sticky summer heat."
+  },
+  {
+   "zh": "鸟雀叫着，好像在呼唤晴天，",
+   "en": "Birds call out for clear skies;"
+  },
+  {
+   "zh": "天刚亮，它们就在屋檐下探头探脑，叽叽喳喳。",
+   "en": "at dawn they peek from under the eaves and chatter."
+  },
+  {
+   "zh": "早晨的太阳晒干了荷叶上昨夜的雨珠，",
+   "en": "The morning sun dries last night's rain on the leaves;"
+  },
+  {
+   "zh": "水面上的荷叶又清亮又圆润，",
+   "en": "on the water the lotus leaves are fresh and round,"
+  },
+  {
+   "zh": "一片片荷叶在晨风中挺立起来。",
+   "en": "and one by one they rise up in the breeze."
+  },
+  {
+   "zh": "故乡那么遥远，",
+   "en": "Home is so far away;"
+  },
+  {
+   "zh": "什么时候才能回去呢？",
+   "en": "when can I go back?"
+  },
+  {
+   "zh": "我的家在江南吴地，",
+   "en": "My home is in the old land of Wu,"
+  },
+  {
+   "zh": "却长久地客居在京城。",
+   "en": "yet I have long lived as a stranger in the capital."
+  },
+  {
+   "zh": "五月里，家乡打鱼的小伙伴还记得我吗？",
+   "en": "In the fifth month, do the young fishermen back home still remember me?"
+  },
+  {
+   "zh": "我划着小桨，坐着轻快的小船，",
+   "en": "With a small oar in a light boat,"
+  },
+  {
+   "zh": "在梦里回到了长满荷花的水边。",
+   "en": "I row in my dream into the lotus-covered shore."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为是周邦彦年轻时在北宋都城汴京（今河南开封）写的。宋神宗元丰年间，他来到汴京的太学读书，后来在太学做官，在京城住了很多年。一个夏天的早晨，他看见雨后的荷叶，想起了江南家乡的荷塘，写下这首词。具体哪一年写的，说法不一。",
+  "en": "This lyric is usually thought to have been written when Zhou Bangyan was young, in Bianjing, today's Kaifeng in Henan, the capital of the Northern Song. In the Yuanfeng years of Emperor Shenzong, around the 1080s, he came to study at the Imperial Academy in the capital, later worked there, and lived in the city for many years. One summer morning he saw lotus leaves after rain and thought of the lotus ponds of home in the south, so he wrote this lyric. Sources differ on the exact year."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，钱塘（今浙江杭州）人，北宋词人。他精通音乐，自己能作曲，还在朝廷管音乐的机构大晟府做过官。他的词讲究音律，用字精美，对后来的南宋词人影响很大。",
+  "en": "Zhou Bangyan (1056–1121), courtesy name Meicheng, also called Qingzhen, came from Qiantang, today's Hangzhou in Zhejiang. He was a lyric poet of the Northern Song. He knew music deeply, wrote tunes himself, and worked at the court's music office, the Dasheng Bureau. His lyrics pay close attention to sound and use finely chosen words, and they had a big influence on later Southern Song poets."
+ },
+ "appreciation": {
+  "zh": "上阕写夏天的早晨。屋里点着沉香，想赶走闷热。屋外鸟儿叽叽喳喳，好像在说：天晴啦！最有名的是写荷叶的三句：太阳出来，晒干了叶上的雨珠，水面上的荷叶又干净又圆，在风里一片一片地立起来。“举”字写出了荷叶挺拔的样子，好像它们刚刚睡醒，伸了个懒腰。王国维说这几句真正写出了荷花的神韵。下阕从荷叶想到家乡。家在江南，人却一直留在京城。他想问家乡的渔郎还记不记得他，最后只能在梦里划着小船，回到长满荷花的水边。整首词写景清新，思乡的情意淡淡的，却很真。",
+  "en": "The first stanza is a summer morning. Agarwood burns indoors to drive away the stuffy heat. Outside, birds chatter as if saying: the sun is out! The most famous lines are the three about lotus leaves. The sun comes up and dries the raindrops on the leaves; on the water the leaves are clean and round, and one by one they rise up in the breeze. The word \"rise\" shows how tall and straight they stand, as if they have just woken and stretched. The scholar Wang Guowei said these lines truly catch the spirit of the lotus. The second stanza moves from the lotus to home. His home is in the south, but he has stayed long in the capital. He wonders if the fishermen at home still remember him. In the end he can only row a little boat in his dream, back to the shore full of lotus flowers. The scenery is fresh, and the homesickness is gentle but true."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "lotus",
+   "summer",
+   "dream"
+  ]
+ },
+ "uncertain": []
+}

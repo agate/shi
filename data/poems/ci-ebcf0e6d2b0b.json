@@ -1,0 +1,488 @@
+{
+ "id": "ci-ebcf0e6d2b0b",
+ "kind": "ci",
+ "title": "鹧鸪天·有客慨然谈功名，因追念少年时事，戏作",
+ "title_en": "Partridge Sky: A Guest Spoke Grandly of Fame, Which Reminded Me of My Youth, So I Wrote This in Jest",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "壮",
+    "zhuàng"
+   ],
+   [
+    "岁",
+    "suì"
+   ],
+   [
+    "旌",
+    "jīng"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "夫",
+    "fū"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "襜",
+    "chān"
+   ],
+   [
+    "突",
+    "tū"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "初",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "兵",
+    "bīng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "娖",
+    "chuò"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "觮",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "箭",
+    "jiàn"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "仆",
+    "pú"
+   ],
+   [
+    "姑",
+    "gū"
+   ]
+  ],
+  [
+   [
+    "追",
+    "zhuī"
+   ],
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "吾",
+    "wú"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "染",
+    "rǎn"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "髭",
+    "zī"
+   ],
+   [
+    "须",
+    "xū"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "策",
+    "cè"
+   ]
+  ],
+  [
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "种",
+    "zhòng"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "通行本第八句作“却将万字平戎策”，这里的底本作“都将”。第三句的“胡觮”，底本写作“胡䩮”，是同一个词的不同写法。",
+  "en": "The commonly taught text begins the eighth line with què jiāng (but instead took); the source text has dōu jiāng (took all). In the third line, the source writes hú lù (quiver) with a different but equivalent form of the last character."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "“突骑”的“骑”是骑兵的意思，古时读 jì。现在按普通话审音统一读 qí。",
+   "en": "Here the character means horsemen. In older usage it was read jì; standard Mandarin now reads it qí."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "“燕兵”的“燕”指北方，读 yān，不读 yàn（燕子）。",
+   "en": "Here the character means the northern region, so it is read yān, not yàn (swallow)."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝飞”的“朝”是早晨，读 zhāo。",
+   "en": "Here the character means morning, so it is read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "壮岁：年轻力壮的时候。辛弃疾起义时才二十出头。",
+   "en": "zhuàng suì: the strong years of youth. Xin Qiji was just over twenty when he joined the uprising."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "旌旗：军旗。",
+   "en": "jīng qí: army banners."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "拥万夫：带领着上万人的队伍。",
+   "en": "yōng wàn fū: leading ten thousand men."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "锦襜：锦缎做的战袍，一说是马身上的护垫。",
+   "en": "jǐn chān: a brocade battle coat; some say a brocade cloth on the horse."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "突骑：冲锋陷阵的骑兵。",
+   "en": "tū qí: cavalry that charges into the enemy."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "渡江初：刚刚渡过长江回到南宋的时候。",
+   "en": "dù jiāng chū: when he had just crossed the Yangtze to return to the Song."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "燕兵：北方的金兵。燕，古代北方地名，读 yān。",
+   "en": "yān bīng: the Jin soldiers of the north. Yān is an old name for the northern region."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 4,
+   "zh": "娖：整理，一说是小心地拿着。",
+   "en": "chuò: to set in order; some say to hold carefully."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "银胡觮：银色的箭袋。一说士兵夜里枕着箭袋睡，能听到远处的人马声。",
+   "en": "yín hú lù: a silver quiver. One account says soldiers slept with their heads on their quivers at night to hear horses far away."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "汉箭：宋军的箭。这里用“汉”指宋军。",
+   "en": "hàn jiàn: the arrows of the Song army. Hàn stands for the Song side here."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "金仆姑：一种好箭的名字。",
+   "en": "jīn pú gū: the name of a fine kind of arrow."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "追往事：回想过去的事。",
+   "en": "zhuī wǎng shì: to think back on the past."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "叹今吾：感叹现在的我。",
+   "en": "tàn jīn wú: to sigh over myself as I am now."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "髭须：胡子。髭是嘴上边的胡子，须是下巴上的胡子。",
+   "en": "zī xū: beard and moustache. Zī is the hair above the lip; xū is the hair on the chin."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "不染：不能把……染黑。",
+   "en": "bù rǎn: cannot dye something black again."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "却将：却把，反而把。",
+   "en": "què jiāng: but instead took."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "平戎策：平定敌人的计策。辛弃疾写过《美芹十论》《九议》等，讲怎样打败金国。",
+   "en": "píng róng cè: plans to defeat the enemy. Xin Qiji wrote long papers on how to beat the Jin."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "东家：东边的邻居。",
+   "en": "dōng jiā: the neighbour to the east."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "种树书：讲怎样种树、种庄稼的书。",
+   "en": "zhòng shù shū: a book on planting trees and crops."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "年轻力壮的时候，我在军旗下带领着上万人，",
+   "en": "In my strong young years I led ten thousand men under the banners."
+  },
+  {
+   "zh": "穿着锦袍的骑兵冲锋陷阵，刚刚渡过长江。",
+   "en": "In brocade coats, my horsemen charged, just as we crossed the river."
+  },
+  {
+   "zh": "金兵夜里整理着银色的箭袋，",
+   "en": "At night the Jin soldiers readied their silver quivers;"
+  },
+  {
+   "zh": "宋军的好箭在早晨就飞向敌人。",
+   "en": "at dawn the Song army's fine arrows flew."
+  },
+  {
+   "zh": "回想过去的事，",
+   "en": "I think back on those days,"
+  },
+  {
+   "zh": "感叹现在的自己，",
+   "en": "and sigh over myself as I am now."
+  },
+  {
+   "zh": "春风也没法把我花白的胡子染黑。",
+   "en": "The spring wind cannot turn my white beard black again."
+  },
+  {
+   "zh": "我把上万字的打败敌人的计策，",
+   "en": "I took my plans of ten thousand words for beating the enemy,"
+  },
+  {
+   "zh": "换来了东边邻居家一本教人种树的书。",
+   "en": "and traded them for my neighbour's book on planting trees."
+  }
+ ],
+ "background": {
+  "zh": "辛弃疾二十一岁时在北方参加抗金起义。1162年，起义首领耿京被叛徒张安国杀害，辛弃疾带着五十多人冲进五万人的金营，活捉了叛徒，渡过长江交给南宋朝廷。这首词是他晚年闲居乡下时写的：有位客人慷慨激昂地谈论建功立业，让他想起了年轻时的事，于是写下这首词。“戏作”是说自嘲着写的。具体年份说法不一。",
+  "en": "At twenty-one, Xin Qiji joined an uprising against the Jin in the north. In 1162 the rebel leader Geng Jing was killed by a traitor, Zhang Anguo. Xin Qiji rode with some fifty men into a Jin camp of fifty thousand, caught the traitor alive, and brought him across the Yangtze to the Song court. He wrote this lyric late in life, while living in the countryside. A guest spoke with passion about winning glory, which reminded him of his own youth. The title says he wrote it in jest, laughing at himself. Sources differ on the exact year."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他出生在被金国占领的北方，二十多岁就参加抗金起义，后来回到南宋。他一心想收复北方，却长期得不到重用，中年以后多次被罢官，在江西乡下闲住了很多年。他的词豪放有力，和苏轼并称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song poet. He was born in the north, which the Jin had taken. In his early twenties he joined an uprising against the Jin and then came south to the Song. He wanted with all his heart to win back the north, but he was seldom given real power. From middle age he was dismissed again and again, and lived for many years in the Jiangxi countryside. His lyrics are bold and strong; he and Su Shi are named together as Su and Xin."
+ },
+ "appreciation": {
+  "zh": "上半首像一场电影：年轻的辛弃疾带着上万人马，穿着锦袍冲锋，渡江南归；金兵夜里紧张地备箭，宋军的箭一早就呼啸而去。画面快、响、热血沸腾。下半首一下子慢下来：回想往事，再看看现在，胡子都白了，春风能让草木变绿，却不能把白胡子染黑。最后两句最让人心酸：他写下上万字的抗金计策，朝廷却不用，最后只换来一本种树的书，只能在乡下种地。题目说是“戏作”，好像在开玩笑，其实满是英雄无用武之地的悲愤。",
+  "en": "The first half is like a film. The young Xin Qiji leads ten thousand men, charges in a brocade coat, and crosses the river to the south. The Jin soldiers nervously ready their arrows at night, and the Song arrows whistle off at dawn. The scenes are fast, loud and full of fire. Then the second half slows down. He thinks back, then looks at himself now: his beard has turned white. The spring wind can turn the grass green, but it cannot dye a white beard black. The last two lines hurt the most. He wrote ten thousand words of plans to beat the Jin, but the court never used them. All they got him was a book on planting trees, and a life farming in the country. The title calls it a joke, but it is full of the grief and anger of a hero with no chance to fight."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "war",
+   "old-age",
+   "memory",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,383 @@
+{
+ "id": "fe6f4b72-855c-43b9-8883-8b3fe3cd8bd4",
+ "kind": "shi",
+ "title": "送杜少府之任蜀州",
+ "title_en": "Seeing Off Prefect Du on His Way to Shuzhou",
+ "author": "王勃",
+ "author_en": "Wang Bo",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "阙",
+    "què"
+   ],
+   [
+    "辅",
+    "fǔ"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "秦",
+    "qín"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "津",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "宦",
+    "huàn"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "内",
+    "nèi"
+   ],
+   [
+    "存",
+    "cún"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "己",
+    "jǐ"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "比",
+    "bǐ"
+   ],
+   [
+    "邻",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "歧",
+    "qí"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "沾",
+    "zhān"
+   ],
+   [
+    "巾",
+    "jīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "题目：所据底本作《杜少府之任蜀州》，课本作《送杜少府之任蜀州》，一作《送杜少府之任蜀川》。第六句“比邻”底本作“比隣”（“隣”是“邻”的异体字）；第七句“歧路”底本作“岐路”。这里都按课本。",
+  "en": "Title: the source text lacks the opening word \"Seeing Off\"; textbooks include it, and some editions end the title with Shuchuan instead of Shuzhou. In line six the source uses an old variant form of the character for neighbor, and in line seven a different character for the fork in the road. This page follows the textbook in each case."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "阙",
+   "pinyin": "què",
+   "zh": "“阙”读 què，指宫门前的高楼。不要读成 quē（缺）。",
+   "en": "Read què, meaning the tall towers before a palace gate. Not quē, which means lacking."
+  },
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "“无为”的“为”读 wéi，“无为”是“不要”的意思。",
+   "en": "In wú wéi, this character is read wéi. The two words together mean do not."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "城阙：城墙和宫门前的高楼，这里指京城长安。",
+   "en": "chéng què: city walls and the towers before the palace gate; here, the capital Chang'an."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "辅：护卫，在四周保护着。",
+   "en": "fǔ: to guard, to surround and protect."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "三秦：今天陕西一带。秦朝灭亡后，项羽把秦国旧地分成三个国家，所以叫三秦。",
+   "en": "sān qín: the Sanqin lands, roughly today's Shaanxi. After the Qin dynasty fell, Xiang Yu split the old Qin land into three kingdoms, so it was called the Three Qins."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "风烟：风尘烟雾，形容路途遥远、看不清楚。",
+   "en": "fēng yān: wind and haze, showing that the place is far and hard to see."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "五津：岷江上的五个渡口，在今天的四川，这里指杜少府要去的蜀州。",
+   "en": "wǔ jīn: five ferry crossings on the Min River in today's Sichuan; here, the Shuzhou area where Du is going."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "君：你，对人的尊称。",
+   "en": "jūn: you, a polite way to address someone."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "宦游：离开家乡出外做官。",
+   "en": "huàn yóu: leaving home to serve as an official somewhere else."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "海内：四海之内，就是全中国、全天下。古人认为中国四面是海。",
+   "en": "hǎi nèi: within the four seas, meaning the whole country. People long ago thought China was surrounded by sea."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "知己：了解自己、和自己知心的朋友。",
+   "en": "zhī jǐ: a friend who truly understands you."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "天涯：天边，形容非常远的地方。",
+   "en": "tiān yá: the edge of the sky, a place very far away."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "比邻：近邻，挨着住的邻居。",
+   "en": "bǐ lín: close neighbors who live side by side."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "无为：不要。",
+   "en": "wú wéi: do not."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "歧路：岔路口。古人送别常送到路口分手。",
+   "en": "qí lù: a fork in the road. In old times people often walked a friend to a fork in the road and said goodbye there."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "儿女：小孩子，这里指像小儿女那样感情脆弱。",
+   "en": "ér nǚ: young boys and girls; here, being as tender-hearted as children."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "沾巾：眼泪沾湿了手巾，指哭泣。",
+   "en": "zhān jīn: tears wetting a handkerchief; crying."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长安城被三秦之地护卫着。",
+   "en": "The walls and towers of Chang'an are guarded by the lands of Sanqin."
+  },
+  {
+   "zh": "隔着风尘烟雾，远远望向蜀地的五个渡口。",
+   "en": "Through wind and haze, I gaze far off toward the Five Fords of Shu."
+  },
+  {
+   "zh": "和你分别，心里有许多不舍。",
+   "en": "Parting from you, my heart is full of feeling."
+  },
+  {
+   "zh": "因为我们都是离开家乡、在外做官的人。",
+   "en": "For we are both men who have left home to serve as officials."
+  },
+  {
+   "zh": "只要四海之内有知心朋友，",
+   "en": "As long as somewhere in the world I have a true friend,"
+  },
+  {
+   "zh": "就算远在天边，也像住在隔壁一样近。",
+   "en": "even at the far ends of the earth, we are as close as next-door neighbors."
+  },
+  {
+   "zh": "所以不要在分手的岔路口，",
+   "en": "So at the fork in the road where we part,"
+  },
+  {
+   "zh": "像小孩子和小儿女那样哭得泪湿手巾。",
+   "en": "let us not weep like young boys and girls, wetting our handkerchiefs."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是王勃在长安送别一位姓杜的朋友时写的。这位朋友要到蜀州（今四川崇州一带）去做少府。少府是唐代对县尉的称呼，县尉是管一个县治安的官。这位朋友的名字已经不知道了。写作的具体年份也不清楚。一般的送别诗多写伤心，这首诗却劝朋友不要难过，因为真正的友情不怕距离远。诗中“海内存知己，天涯若比邻”化用了曹植的诗句“丈夫志四海，万里犹比邻”。",
+  "en": "Wang Bo wrote this poem in Chang'an when seeing off a friend surnamed Du. The friend was going to Shuzhou, near today's Chongzhou in Sichuan, to serve as a shàofǔ, the Tang name for a county officer in charge of law and order. We no longer know his full name, nor the exact year of the poem. Most farewell poems are full of sadness, but this one tells the friend not to be sad, because true friendship does not fear distance. The famous lines about friends being neighbors even at the ends of the earth borrow an idea from the poet Cao Zhi, who wrote that for a man with big dreams, ten thousand miles away is still next door."
+ },
+ "author_note": {
+  "zh": "王勃（约650—约676），唐朝初年的诗人，从小就很有才华，和杨炯、卢照邻、骆宾王一起被称为“初唐四杰”。他写的《滕王阁序》非常有名。他年纪很轻就去世了，二十多岁时渡海落水，受惊而死。",
+  "en": "Wang Bo (about 650 – about 676) was a poet of the early Tang. He was very gifted from childhood. With Yang Jiong, Lu Zhaolin and Luo Binwang he is known as one of the Four Talents of the Early Tang. His \"Preface to the Pavilion of Prince Teng\" is very famous. He died young, in his twenties, after falling into the sea while crossing it."
+ },
+ "appreciation": {
+  "zh": "开头两句画面很大：一边是三秦护卫着的长安，一边是风烟中遥远的蜀地五津，送别的地方和朋友要去的地方，一下子连在了一起。三、四句说出心里话：我们都是离家在外做官的人，你的心情我懂。五、六句是千古名句：只要心里有知己，就算隔着天涯，也像邻居一样近。最后两句劝朋友：别在路口像小孩子一样哭。整首诗没有哭哭啼啼，读来开阔、有力，像一位好朋友拍着你的肩膀说“没事，我们心在一起”。",
+  "en": "The opening lines paint a huge picture. On one side is Chang'an, guarded by the lands of Sanqin. On the other are the far-off Five Fords of Shu in the wind and haze. The place of parting and the place the friend is going are joined in one view. Lines three and four speak from the heart: we are both away from home serving as officials, so I understand how you feel. Lines five and six are famous to this day: as long as you have a true friend, even the ends of the earth feel as close as next door. The last two lines tell the friend not to cry at the crossroads like a child. The poem has no tears. It feels wide and strong, like a good friend patting your shoulder and saying, \"It's fine. Our hearts are together.\""
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "travel",
+   "officials"
+  ]
+ },
+ "uncertain": []
+}

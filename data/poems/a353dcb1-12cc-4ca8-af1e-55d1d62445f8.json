@@ -1,0 +1,470 @@
+{
+ "id": "a353dcb1-12cc-4ca8-af1e-55d1d62445f8",
+ "kind": "shi",
+ "title": "蜀相",
+ "title_en": "The Prime Minister of Shu",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "丞",
+    "chéng"
+   ],
+   [
+    "相",
+    "xiàng"
+   ],
+   [
+    "祠",
+    "cí"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "寻",
+    "xún"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "柏",
+    "bǎi"
+   ],
+   [
+    "森",
+    "sēn"
+   ],
+   [
+    "森",
+    "sēn"
+   ]
+  ],
+  [
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹂",
+    "lí"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "音",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "频",
+    "pín"
+   ],
+   [
+    "烦",
+    "fán"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "计",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "济",
+    "jì"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "臣",
+    "chén"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "师",
+    "shī"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "捷",
+    "jié"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "死",
+    "sǐ"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "襟",
+    "jīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "第三句的“阶”，这里的古籍底本写作“堦”，是“阶”的另一种写法，意思一样。课本用“阶”。",
+  "en": "In line three, the old source writes jiē (steps) with a rarer variant form of the same character. Textbooks use the standard form. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "相",
+   "pinyin": "xiàng",
+   "zh": "丞相的“相”指官职，读 xiàng。",
+   "en": "As the title of an official, this character is read xiàng."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "“两朝”指两代皇帝，读 cháo，不读 zhāo。",
+   "en": "Here it means a ruler's reign, so it is read cháo, not zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "丞相：古代帮皇帝管理国家的最高官员。这里指三国时蜀国的丞相诸葛亮。",
+   "en": "chéng xiàng: the highest official who helped the emperor run the country; here Zhuge Liang, prime minister of the state of Shu in the Three Kingdoms period."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "祠堂：纪念某个人的庙。这里指成都的武侯祠。",
+   "en": "cí táng: a temple built to honor someone; here the Wuhou Temple in Chengdu."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "锦官城：成都的别名。古时成都织锦很有名，朝廷在这里设官管理，所以这样叫。",
+   "en": "jǐn guān chéng: another name for Chengdu. Chengdu was famous for silk brocade, and the court sent officials there to manage it, hence the name."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "柏森森：柏树又高又密。",
+   "en": "bǎi sēn sēn: the cypress trees stand tall and thick."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "映阶：映照着台阶。",
+   "en": "yìng jiē: shining on the steps."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "自春色：自己显出春天的颜色。“自”有“没人欣赏，自顾自地”的意思。",
+   "en": "zì chūn sè: showing spring colors all by itself, with no one to enjoy them."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "黄鹂：一种黄色的小鸟，叫声好听。",
+   "en": "huáng lí: the oriole, a small yellow bird with a sweet song."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "空好音：白白地唱着好听的歌。",
+   "en": "kōng hǎo yīn: singing sweetly, but in vain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "三顾：去拜访了三次。刘备曾三次到诸葛亮住的茅草屋去请他出山。",
+   "en": "sān gù: visiting three times. Liu Bei went three times to Zhuge Liang's thatched hut to ask him to come and help."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "频烦：多次烦劳、多次请教。",
+   "en": "pín fán: troubling him again and again, asking his advice many times."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "天下计：平定天下的大计划。",
+   "en": "tiān xià jì: a grand plan to bring peace to the whole land."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "两朝：两代皇帝，指刘备和他的儿子刘禅。",
+   "en": "liǎng cháo: two reigns: Liu Bei and his son Liu Shan."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "开济：开创事业，又帮着把事业维持下去。",
+   "en": "kāi jì: helping to found the state and then helping to keep it going."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "老臣：年老忠心的大臣，指诸葛亮。",
+   "en": "lǎo chén: a loyal old minister, meaning Zhuge Liang."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "出师：出兵打仗。",
+   "en": "chū shī: to send out the army."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "未捷：还没有打胜。捷，胜利。",
+   "en": "wèi jié: not yet victorious; jié means victory."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "长使：永远让。",
+   "en": "cháng shǐ: forever makes."
+  },
+  {
+   "line": 7,
+   "start": 6,
+   "end": 7,
+   "zh": "襟：衣服前面胸口的部分。",
+   "en": "jīn: the front of a robe, over the chest."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "诸葛丞相的祠堂到哪里去找？",
+   "en": "Where can I find the temple of the prime minister?"
+  },
+  {
+   "zh": "就在成都城外，那片柏树又高又密的地方。",
+   "en": "Outside Chengdu, where the cypress trees grow tall and thick."
+  },
+  {
+   "zh": "绿草映着台阶，自顾自地显出春色，",
+   "en": "Green grass lights up the steps, showing spring all by itself;"
+  },
+  {
+   "zh": "黄鹂躲在树叶后面，白白地唱着好听的歌。",
+   "en": "behind the leaves an oriole sings sweetly, but no one listens."
+  },
+  {
+   "zh": "刘备三次登门，向他请教平定天下的大计，",
+   "en": "Liu Bei called on him three times and asked for his plan to unite the land;"
+  },
+  {
+   "zh": "他辅佐了两代君主，献出一颗老臣的忠心。",
+   "en": "he served two rulers, giving them an old minister's loyal heart."
+  },
+  {
+   "zh": "可惜出兵还没打胜，他就先病死在军中，",
+   "en": "But before his army could win, he died."
+  },
+  {
+   "zh": "这让后世的英雄们常常泪水沾满衣襟。",
+   "en": "Ever since, heroes have wept until their robes were wet."
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为写于唐肃宗上元元年（760年）春天。前一年年底，杜甫为了躲避安史之乱带来的战乱和饥荒，来到成都，暂时住了下来。成都城外有纪念诸葛亮的武侯祠。杜甫去那里参观，想起诸葛亮辅佐刘备、刘禅的一生，写下了这首诗。",
+  "en": "This poem is usually dated to the spring of 760. At the end of the year before, Du Fu had come to Chengdu to escape the war and famine caused by the An Lushan Rebellion, and settled there for a while. Outside the city stood the Wuhou Temple, built in memory of Zhuge Liang. Du Fu visited it, thought about how Zhuge Liang had served Liu Bei and his son Liu Shan, and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他心里一直想着国家和百姓，很希望有能人出来平定战乱。他特别敬佩诸葛亮，写过好几首怀念他的诗。这首诗里，既有对诸葛亮的赞美，也有他自己报国无门的感叹。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He always cared about his country and its people, and longed for a capable person to end the war. He deeply admired Zhuge Liang and wrote several poems about him. In this poem there is praise for Zhuge Liang, and also a sigh for himself, who had no way to serve his country."
+ },
+ "appreciation": {
+  "zh": "开头像一问一答：丞相的祠堂在哪儿？在城外柏树林里。三、四句写祠堂里的春景：草很绿，鸟叫得很好听。可是一个“自”字、一个“空”字，让人觉得冷清，因为伟大的丞相已经不在了，美景也没人欣赏。五、六句用十四个字说完了诸葛亮的一生：刘备三顾茅庐，他尽心辅佐两代君主。最后两句最打动人：他出兵北伐，还没成功就病死了。千百年来，多少有志向却没能成功的人，读到这里都会流泪。",
+  "en": "The poem opens like a question and answer. Where is the temple? In the cypress woods outside the city. Lines three and four show spring at the temple: green grass, a bird singing sweetly. But the words zì (all by itself) and kōng (in vain) make it feel lonely. The great minister is gone, and no one is there to enjoy the view. Lines five and six sum up Zhuge Liang's whole life in fourteen characters. Liu Bei visited him three times, and he served two rulers with all his heart. The last two lines touch people most. He led his army north, but died of illness before he could win. For more than a thousand years, people with big dreams that never came true have wept when they read these lines."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "hero",
+   "regret",
+   "temple"
+  ]
+ },
+ "uncertain": []
+}

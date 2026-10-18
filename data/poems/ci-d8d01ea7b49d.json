@@ -1,0 +1,630 @@
+{
+ "id": "ci-d8d01ea7b49d",
+ "kind": "ci",
+ "title": "风入松·听风听雨过清明",
+ "title_en": "To the Tune Feng Ru Song: Through Wind and Rain, Qingming Passes",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "瘗",
+    "yì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "铭",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "柔",
+    "róu"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "峭",
+    "qiào"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "中",
+    "zhòng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "交",
+    "jiāo"
+   ],
+   [
+    "加",
+    "jiā"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "莺",
+    "yīng"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "亭",
+    "tíng"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "蜂",
+    "fēng"
+   ],
+   [
+    "频",
+    "pín"
+   ],
+   [
+    "扑",
+    "pū"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "索",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "凝",
+    "níng"
+   ]
+  ],
+  [
+   [
+    "惆",
+    "chóu"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "瘗",
+   "pinyin": "yì",
+   "zh": "瘗：读 yì，意思是埋葬。",
+   "en": "It reads yì, meaning to bury."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "携",
+   "pinyin": "xié",
+   "zh": "携：读 xié。",
+   "en": "It reads xié."
+  },
+  {
+   "line": 4,
+   "pos": 4,
+   "char": "中",
+   "pinyin": "zhòng",
+   "zh": "中酒：读 zhòng，意思是被酒醉倒，不读 zhōng。",
+   "en": "In zhòng jiǔ it reads zhòng, meaning overcome by wine, not zhōng."
+  },
+  {
+   "line": 9,
+   "pos": 3,
+   "char": "纤",
+   "pinyin": "xiān",
+   "zh": "纤手：读 xiān，意思是细，不读 qiàn。",
+   "en": "In xiān shǒu it reads xiān, meaning slender, not qiàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "清明：清明节，在春天，人们在这一天扫墓、踏青。",
+   "en": "qīng míng: the Qingming Festival in spring, when people sweep their family graves and go walking in the green country."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "愁草：带着忧愁起草。草，这里是动词，写草稿。",
+   "en": "chóu cǎo: to draft sadly. Cǎo here is a verb: to write a draft."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "瘗花铭：葬花的文章。瘗，埋葬。铭，一种刻在器物或石头上的短文。",
+   "en": "yì huā míng: a short piece of writing for burying fallen flowers. Yì means to bury; míng is a short text, often carved."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "绿暗：绿树长得浓密，树荫幽暗。",
+   "en": "lǜ àn: the trees are so thick and green that the shade is dark."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "分携：分手，分别。携，牵手。",
+   "en": "fēn xié: to part, to let go of each other's hands. Xié means to hold hands."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 7,
+   "zh": "一丝柳一寸柔情：每一根柳丝，都牵着一份柔情。古人分别时常折柳相送。",
+   "en": "yī sī liǔ yī cùn róu qíng: every willow strand holds a piece of tender feeling. In old times people broke off willow twigs when saying goodbye."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "料峭：形容微微的寒冷，多指春天的寒意。",
+   "en": "liào qiào: a slight chill, usually the cold of early spring."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "中酒：喝醉了酒。中，受到。",
+   "en": "zhòng jiǔ: to be drunk. Zhòng means to be hit by."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "交加：交错混杂在一起。",
+   "en": "jiāo jiā: mixed and tangled together."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "晓梦：早晨的梦。",
+   "en": "xiǎo mèng: a dream at dawn."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "啼莺：鸣叫的黄莺。",
+   "en": "tí yīng: a singing oriole."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "西园：当年两人一起游玩的园子。",
+   "en": "xī yuán: the garden where the two of them used to spend time together."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "林亭：树林和亭子。",
+   "en": "lín tíng: the trees and the pavilion."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "新晴：雨后刚刚放晴的天气。",
+   "en": "xīn qíng: the clear weather right after rain."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 3,
+   "zh": "频：频繁，一次又一次。",
+   "en": "pín: again and again."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "秋千索：荡秋千用的绳子。",
+   "en": "qiū qiān suǒ: the ropes of a swing."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "当时：那时候，指两人还在一起的时候。",
+   "en": "dāng shí: back then, when the two were still together."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "纤手：女子纤细柔美的手。",
+   "en": "xiān shǒu: a woman's slender hands."
+  },
+  {
+   "line": 9,
+   "start": 5,
+   "end": 7,
+   "zh": "香凝：香气凝聚，留了下来。",
+   "en": "xiāng níng: the scent still lingers."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "惆怅：伤感，失落。",
+   "en": "chóu chàng: sad and let down."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "双鸳：一双绣着鸳鸯的鞋，这里指那位女子的脚步。",
+   "en": "shuāng yuān: a pair of shoes embroidered with mandarin ducks, here meaning the woman's footsteps."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "幽阶：幽静的台阶。",
+   "en": "yōu jiē: the quiet steps."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 6,
+   "zh": "苔生：长出了青苔。没有人走过，台阶才会长苔。",
+   "en": "tái shēng: moss grows. Moss grows on steps only when no one walks on them."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在风声雨声里，度过了清明节，",
+   "en": "Through the sound of wind and rain, Qingming passes,"
+  },
+  {
+   "zh": "我满怀忧愁，写下葬花的文字。",
+   "en": "and in sorrow I write a piece for burying the flowers."
+  },
+  {
+   "zh": "楼前绿荫浓暗，那是我们分别的路，",
+   "en": "Before the tower, the shade is dark and green on the road where we parted;"
+  },
+  {
+   "zh": "每一缕柳丝，都牵着一寸柔情。",
+   "en": "each strand of willow holds an inch of tender love."
+  },
+  {
+   "zh": "春寒微微，我喝醉了酒，",
+   "en": "In the slight chill of spring, I am drunk with wine,"
+  },
+  {
+   "zh": "早晨的梦被黄莺的啼叫搅乱了。",
+   "en": "and my dawn dream is broken by the singing orioles."
+  },
+  {
+   "zh": "西园的树林和亭子，我天天去打扫，",
+   "en": "Every day I sweep the trees and pavilion of the west garden,"
+  },
+  {
+   "zh": "像从前一样，欣赏雨后的晴光。",
+   "en": "and, as before, enjoy the new clear sky."
+  },
+  {
+   "zh": "黄蜂一次次扑向秋千的绳子，",
+   "en": "Yellow bees dart again and again at the swing's ropes,"
+  },
+  {
+   "zh": "因为上面还留着你当年纤手的香气。",
+   "en": "for the scent of your slender hands from back then still clings there."
+  },
+  {
+   "zh": "伤心的是，你的脚步再也没有来过，",
+   "en": "How sad that your footsteps never come,"
+  },
+  {
+   "zh": "幽静的台阶上，一夜之间长出了青苔。",
+   "en": "and on the quiet steps, moss has grown in a single night."
+  }
+ ],
+ "background": {
+  "zh": "这首词写于清明时节，是吴文英怀念一位已经分别的女子的作品。一般认为，他在苏州时有一位姬妾，后来离去；在杭州也有过一位相爱的女子，后来去世了。这首词怀念的是哪一位，说法不一，一说是怀念苏州的那位，“西园”是两人旧时同游的园子。写作年份不详。",
+  "en": "This lyric was written around the Qingming Festival. In it Wu Wenying remembers a woman he had parted from. It is usually said that he had a concubine in Suzhou who later left him, and that in Hangzhou he loved another woman who later died. Views differ on which one this lyric remembers; one view says it is the woman from Suzhou, and the west garden is where the two used to go. The year it was written is not known."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），号梦窗，南宋词人。他一生没有做过大官，常在别人家做幕僚，在苏州、杭州一带住过很久。他的词用字精美，像雕刻一样细，很多人觉得难懂。这首写得比较清淡自然，是他最容易读懂的名篇之一。",
+  "en": "Wu Wenying (about 1200 to about 1260), also called Mengchuang, was a lyric poet of the Southern Song. He never held a high office, and often worked as an adviser in other men's households. He lived for a long time around Suzhou and Hangzhou. His lyrics use rich, finely carved words, and many readers find them hard. This one is plainer and more natural, and is one of his easiest famous pieces to read."
+ },
+ "appreciation": {
+  "zh": "清明本来就是让人伤感的日子，又刮风又下雨。诗人写葬花的文字，其实是在埋葬自己的心事。楼前的路，是两人分手的地方，柳丝一根根垂下来，每一根都像一段放不下的感情。下半首最动人。他每天去扫园子，好像那个人还会回来。黄蜂老往秋千绳上扑，是因为绳子上还留着她手上的香气。这个想法特别细腻：人走了这么久，连蜜蜂都还记得她。最后一句说，台阶一夜之间长满青苔，因为她再也没有走过。一夜长苔当然是夸张，却让人一下子感到等待的漫长。",
+  "en": "Qingming is already a sad day, and now there is wind and rain too. The poet writes a piece for burying flowers, but really he is burying his own sorrow. The road in front of the tower is where the two parted. Willow strands hang down, and each one is like a feeling he cannot let go. The second half is the most moving. He sweeps the garden every day, as if she might come back. Bees keep darting at the swing ropes, because her scent is still on them. It is a delicate idea: she has been gone so long, yet even the bees remember her. The last line says moss has grown on the steps in one night, because she never walks there any more. Moss in one night is an exaggeration, but it makes us feel at once how long the waiting has been."
+ },
+ "famous_lines": [
+  8,
+  9,
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "qingming"
+  ],
+  "solar_terms": [
+   "qingming"
+  ],
+  "themes": [
+   "longing",
+   "love",
+   "rain",
+   "memory"
+  ]
+ },
+ "uncertain": []
+}

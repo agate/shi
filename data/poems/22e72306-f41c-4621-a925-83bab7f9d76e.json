@@ -1,0 +1,219 @@
+{
+ "id": "22e72306-f41c-4621-a925-83bab7f9d76e",
+ "kind": "shi",
+ "title": "怨情",
+ "title_en": "Grievance",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "美",
+    "měi"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "帘",
+    "lián"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "颦",
+    "pín"
+   ],
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "眉",
+    "méi"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "湿",
+    "shī"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "谁",
+    "shuí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "谁，读诗时一般读 shuí，口语里也读 shéi，两种读法都对。",
+   "en": "When reading poems this character is usually read shuí. In everyday speech it is also read shéi. Both are correct."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "卷：卷起来。",
+   "en": "juǎn: to roll up."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "珠帘：用珠子串成的帘子。",
+   "en": "zhū lián: a curtain made of strings of beads."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "深坐：静静地坐了很久。",
+   "en": "shēn zuò: to sit still for a long time."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "颦：皱眉头。",
+   "en": "pín: to knit the brows, to frown."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "蛾眉：女子细长弯弯的眉毛，像蚕蛾的触须。",
+   "en": "é méi: a woman's long, curved eyebrows, like the feelers of a silk moth."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "但见：只看见。",
+   "en": "dàn jiàn: one only sees."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "泪痕：眼泪流过留下的痕迹。",
+   "en": "lèi hén: tear stains, the marks tears leave behind."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "恨：怨，心里难过又生气。",
+   "en": "hèn: to resent, to feel hurt and angry."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "美丽的女子卷起了珠帘，",
+   "en": "A lovely woman rolls up the bead curtain,"
+  },
+  {
+   "zh": "静静地坐了很久，紧紧皱着眉头。",
+   "en": "sits still for a long time, her brows knit tight."
+  },
+  {
+   "zh": "只看见她脸上的泪痕还湿着，",
+   "en": "One only sees the tear stains, still wet,"
+  },
+  {
+   "zh": "却不知道她心里在怨谁。",
+   "en": "but who knows whom her heart resents?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗写于什么时候、写给谁，都不清楚。“怨情”就是心里的怨恨和委屈。古代有很多诗写住在深闺（女子住的内室）里的女子，写她们等待、思念和忧愁，这类诗叫“闺怨诗”。李白这首诗只写了一个女子的样子和动作，却让读者去猜她的心事。",
+  "en": "We do not know when this poem was written or for whom. The title means a feeling of grievance, of being hurt. Many old poems are about women in their inner rooms, waiting, missing someone, and feeling sad. They are called poems of the boudoir lament. In this one, Li Bai only shows a woman's looks and actions, and leaves us to guess what is on her mind."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他的诗大多豪放，像大江大河一样奔放，但他也写过不少细腻的小诗，描写女子的心情，这首就是一例。他很会用短短几句话，画出一个活生生的人。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. Most of his poems are bold and sweeping, like great rivers. But he also wrote many delicate short poems about women's feelings, and this is one of them. He could draw a living person in just a few lines."
+ },
+ "appreciation": {
+  "zh": "诗里只有一个人、几个动作。她卷起珠帘，好像在等什么人来；然后静静地坐着，一坐就是很久，眉头紧锁；脸上有泪痕，还没有干。到最后一句，诗人说：不知道她心里在怨谁。答案没有说出来，留给读者去想。也许她在等一个很久都没回来的人。正因为不说破，这份难过显得更深，也更让人心疼。",
+  "en": "There is only one person in the poem and a few actions. She rolls up the bead curtain, as if waiting for someone to come. Then she sits quietly for a long time, her brows knit. There are tear stains on her face, not yet dry. In the last line the poet says: who knows whom she resents? He does not give the answer and leaves it for us to think about. Maybe she is waiting for someone who has been gone a long time. Because nothing is said outright, her sadness feels deeper, and we feel for her even more."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "sorrow",
+   "waiting",
+   "longing",
+   "woman"
+  ]
+ },
+ "uncertain": []
+}

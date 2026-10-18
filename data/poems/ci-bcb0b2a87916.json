@@ -1,0 +1,830 @@
+{
+ "id": "ci-bcb0b2a87916",
+ "kind": "ci",
+ "title": "玉蝴蝶·望处雨收云断",
+ "title_en": "Yu Hu Die: Where I Gaze, the Rain Stops and the Clouds Break",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调·慢词",
+  "en": "long ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ]
+  ],
+  [
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "光",
+    "guāng"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "疏",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "宋",
+    "sòng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "凉",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "蘋",
+    "pín"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "梧",
+    "wú"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "黄",
+    "huáng"
+   ]
+  ],
+  [
+   [
+    "遣",
+    "qiǎn"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "伤",
+    "shāng"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "茫",
+    "máng"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "忘",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "屡",
+    "lǚ"
+   ],
+   [
+    "变",
+    "biàn"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "阔",
+    "kuò"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "遥",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "信",
+    "xìn"
+   ]
+  ],
+  [
+   [
+    "指",
+    "zhǐ"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "航",
+    "háng"
+   ]
+  ],
+  [
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "立",
+    "lì"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "语料库作“苹花”，通行本作“蘋花”。蘋（pín）是一种水草，和苹果的“苹”不是一回事，繁简转换时被错并成了“苹”。",
+  "en": "The corpus has the character for apple in line seven. The common text has pin, a water plant, which is a different word; the machine conversion merged the two by mistake."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "蘋",
+   "pinyin": "pín",
+   "zh": "蘋，一种长在浅水里的草，读 pín。",
+   "en": "It is a plant growing in shallow water, read pín."
+  },
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "悄",
+   "pinyin": "qiǎo",
+   "zh": "悄悄，这里是忧愁的样子，读 qiǎo qiǎo，不是“静悄悄”的 qiāo。",
+   "en": "Here the doubled word means sad and troubled, read qiǎo qiǎo, not qiāo as in quietly."
+  },
+  {
+   "line": 14,
+   "pos": 0,
+   "char": "几",
+   "pinyin": "jǐ",
+   "zh": "几，多少次，读 jǐ。",
+   "en": "It means how many times, read jǐ."
+  },
+  {
+   "line": 21,
+   "pos": 1,
+   "char": "识",
+   "pinyin": "shí",
+   "zh": "识，认出，读 shí。",
+   "en": "It means to recognize, read shí."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "遣",
+   "pinyin": "qiǎn",
+   "zh": "遣，使、让，读 qiǎn。",
+   "en": "It means to make or cause, read qiǎn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "望处：我望过去的地方。",
+   "en": "wàng chù: the place I gaze toward."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 6,
+   "zh": "雨收云断：雨停了，云也散开了。",
+   "en": "yǔ shōu yún duàn: the rain has stopped and the clouds have broken apart."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "凭阑：靠着栏杆。",
+   "en": "píng lán: leaning on the railing."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "悄悄：心里忧愁的样子。",
+   "en": "qiǎo qiǎo: sad and troubled."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "目送秋光：看着秋天的景色慢慢消失。",
+   "en": "mù sòng qiū guāng: watching the autumn light slowly fade."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "萧疏：冷清稀疏。",
+   "en": "xiāo shū: bare and lonely."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "堪动：足以引起。",
+   "en": "kān dòng: enough to stir."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "宋玉悲凉：战国时的楚国文人宋玉写过“悲哉，秋之为气也”，说秋天让人悲伤。后来人们常用宋玉代表悲秋的人。",
+   "en": "sòng yù bēi liáng: Song Yu, a writer of Chu in the Warring States period, wrote that autumn's air is sad. Since then his name has stood for anyone saddened by autumn."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "水风：水面上吹来的风。",
+   "en": "shuǐ fēng: wind blowing off the water."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "蘋花：一种水草开的白色小花。",
+   "en": "pín huā: the small white flowers of a water plant."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "渐老：慢慢凋谢了。",
+   "en": "jiàn lǎo: slowly withering."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "月露：月光下的露水。",
+   "en": "yuè lù: dew under the moonlight."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "梧叶飘黄：梧桐的黄叶飘落下来。",
+   "en": "wú yè piāo huáng: the yellow leaves of the wutong tree drift down."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "遣情伤：让人伤心。",
+   "en": "qiǎn qíng shāng: makes one sad."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: old friends."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "烟水茫茫：雾气笼罩的水面，望不到头。",
+   "en": "yān shuǐ máng máng: misty water stretching out of sight."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "文期酒会：约好一起写文章、一起喝酒的聚会。",
+   "en": "wén qī jiǔ huì: gatherings set up for writing together and drinking together."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "几孤风月：辜负了多少美好的风和月。孤，同“辜”，辜负。",
+   "en": "jǐ gū fēng yuè: how many fine nights of breeze and moon have been wasted. Gū here means to let down."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "屡变星霜：星星移动，霜降了又降，一年又一年过去了。",
+   "en": "lǚ biàn xīng shuāng: the stars have shifted and the frosts have come again and again; year after year has passed."
+  },
+  {
+   "line": 17,
+   "start": 5,
+   "end": 7,
+   "zh": "潇湘：潇水和湘江，在今天的湖南。这里指老朋友所在的远方。",
+   "en": "xiāo xiāng: the Xiao and Xiang rivers in today's Hunan. Here it means the far place where his friends are."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "双燕：成双的燕子。古人说燕子能帮人带信。",
+   "en": "shuāng yàn: a pair of swallows. People in old times said swallows could carry letters."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "难凭远信：很难靠它们把信带到远方。",
+   "en": "nán píng yuǎn xìn: one can hardly rely on them to carry a letter so far."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 4,
+   "zh": "空识归航：白白地认着天边回来的船，一次次以为是朋友回来了。",
+   "en": "kōng shí guī háng: vainly picking out boats coming home on the horizon, each time thinking it might be a friend."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 3,
+   "zh": "黯相望：心情黯淡地遥遥相望。",
+   "en": "àn xiāng wàng: gazing toward each other from afar, low in spirit."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 2,
+   "zh": "断鸿：失群的孤雁。",
+   "en": "duàn hóng: a lone wild goose that has lost its flock."
+  },
+  {
+   "line": 24,
+   "start": 0,
+   "end": 4,
+   "zh": "立尽斜阳：一直站到太阳落山。",
+   "en": "lì jìn xié yáng: standing there until the sun has set."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我望过去，雨停了，云散了，",
+   "en": "Where I gaze, the rain has stopped and the clouds have broken,"
+  },
+  {
+   "zh": "我靠着栏杆，心里发愁，",
+   "en": "I lean on the railing, troubled,"
+  },
+  {
+   "zh": "看着秋天的光景渐渐消失。",
+   "en": "and watch the autumn light fade."
+  },
+  {
+   "zh": "傍晚的景色冷清稀疏，",
+   "en": "The evening scene is bare and lonely,"
+  },
+  {
+   "zh": "足以引起像宋玉那样的悲秋之情。",
+   "en": "enough to stir the autumn grief that Song Yu once felt."
+  },
+  {
+   "zh": "水上的风轻轻吹，",
+   "en": "The wind off the water is light,"
+  },
+  {
+   "zh": "蘋花渐渐凋谢了，",
+   "en": "the water flowers are slowly withering,"
+  },
+  {
+   "zh": "月下的露水很凉，",
+   "en": "the dew under the moon is cold,"
+  },
+  {
+   "zh": "梧桐的黄叶飘落下来。",
+   "en": "and yellow wutong leaves drift down."
+  },
+  {
+   "zh": "这一切让人伤心。",
+   "en": "All of it makes me sad."
+  },
+  {
+   "zh": "老朋友们在哪里呢？",
+   "en": "Where are my old friends?"
+  },
+  {
+   "zh": "只看见烟雾笼罩的水面，茫茫一片。",
+   "en": "I see only misty water, vast and dim."
+  },
+  {
+   "zh": "真难忘啊，",
+   "en": "How hard to forget"
+  },
+  {
+   "zh": "当年约好一起写文章、喝酒的聚会。",
+   "en": "the gatherings where we wrote and drank together."
+  },
+  {
+   "zh": "分别后辜负了多少美好的风月，",
+   "en": "Since we parted, how many fine nights of breeze and moon have gone to waste,"
+  },
+  {
+   "zh": "一年又一年过去了。",
+   "en": "and year after year has passed."
+  },
+  {
+   "zh": "大海辽阔，高山遥远，",
+   "en": "The sea is wide and the mountains far,"
+  },
+  {
+   "zh": "不知道哪里才是朋友所在的潇湘。",
+   "en": "and I do not know where the Xiao and Xiang rivers, where my friends are, might be."
+  },
+  {
+   "zh": "想让双飞的燕子带信，",
+   "en": "I think of the pair of swallows,"
+  },
+  {
+   "zh": "却很难靠它们把信带到远方；",
+   "en": "but I can hardly rely on them to carry a letter so far."
+  },
+  {
+   "zh": "我指着傍晚的天边，",
+   "en": "I point to the evening sky,"
+  },
+  {
+   "zh": "一次次认错了回来的船。",
+   "en": "and pick out the homecoming boats again and again, in vain."
+  },
+  {
+   "zh": "我们只能黯然地遥遥相望。",
+   "en": "We can only gaze toward each other from afar, in sorrow."
+  },
+  {
+   "zh": "在孤雁的叫声里，",
+   "en": "Amid the cries of a lone goose,"
+  },
+  {
+   "zh": "我一直站到夕阳落尽。",
+   "en": "I stand until the setting sun is gone."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是秋天傍晚，柳永靠着栏杆远望，想念远方的老朋友。写作的时间和地点都不清楚。柳永一生多次漂泊在外，和朋友们聚少离多。词里的“潇湘”是借来指朋友所在的远方，不一定是说朋友真的就在湖南。",
+  "en": "This lyric shows Liu Yong leaning on a railing one autumn evening, gazing far off and missing his old friends far away. The time and place it was written are not known. Liu Yong drifted from place to place most of his life and seldom got to be with his friends. The Xiao and Xiang rivers stand for the far place where the friends are; it does not have to mean they were really in Hunan."
+ },
+ "author_note": {
+  "zh": "柳永（约984—约1053），原名三变，北宋词人。他一生仕途不顺，常年在各地漂泊，所以很多词写羁旅行役，就是在外奔波的辛苦和孤单。他特别会写秋天的景色和离别的心情，这首词和《八声甘州》《雨霖铃》都是这一类的名作。",
+  "en": "Liu Yong (about 984 to about 1053), first named Sanbian, was a Northern Song lyric poet. His official career went badly, and he spent many years wandering from place to place. So many of his lyrics are about the hardship and loneliness of life on the road. He was especially good at autumn scenes and the feelings of parting. This lyric, along with Ba Sheng Gan Zhou and Yu Lin Ling, is one of his famous works of this kind."
+ },
+ "appreciation": {
+  "zh": "上片写秋天傍晚的景。雨停了，他靠着栏杆，看秋光一点点暗下去。水风、蘋花、月露、梧叶，一样一样都在变冷、变老、变黄，秋天的凉意从眼前慢慢渗到心里。这时他问：老朋友在哪里？眼前只有茫茫一片烟水。下片写回忆和思念。当年一起写文章、喝酒，多快乐；分开后多少好风好月都白白过去了。他想托燕子带信，又带不到；看着天边的船，一次次以为是朋友回来了，又一次次落空。最后一句“立尽斜阳”，一个人在孤雁声里一直站到太阳落山，不用说想念有多深，画面已经说出来了。",
+  "en": "The first half shows the autumn evening. The rain has stopped, and he leans on the railing as the autumn light dims bit by bit. The water wind, the water flowers, the moonlit dew, the wutong leaves: one by one they grow colder, older and yellower, and the chill of autumn seeps from his eyes into his heart. Then he asks: where are my old friends? Before him there is only misty water. The second half is memory and longing. Back then they wrote and drank together, so happy. Since parting, so many fine nights have gone to waste. He wants swallows to take a letter, but they cannot reach so far. He watches boats on the horizon, thinking each time a friend is coming back, and each time he is wrong. The last line has him standing amid a lone goose's cries until the sun has set. He does not need to say how much he misses them; the picture says it."
+ },
+ "famous_lines": [
+  5,
+  6,
+  7,
+  8,
+  23,
+  24
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "longing",
+   "evening",
+   "journey"
+  ]
+ },
+ "uncertain": []
+}

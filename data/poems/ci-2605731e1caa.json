@@ -1,0 +1,664 @@
+{
+ "id": "ci-2605731e1caa",
+ "kind": "ci",
+ "title": "御街行·秋日怀旧",
+ "title_en": "To the Tune Yu Jie Xing: Thinking of the Past on an Autumn Day",
+ "author": "范仲淹",
+ "author_en": "Fan Zhongyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "坠",
+    "zhuì"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "砌",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "静",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "碎",
+    "suì"
+   ]
+  ],
+  [
+   [
+    "真",
+    "zhēn"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "练",
+    "liàn"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "由",
+    "yóu"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "到",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "灭",
+    "miè"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "欹",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "谙",
+    "ān"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "滋",
+    "zī"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "计",
+    "jì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "避",
+    "bì"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": {
+  "zh": "原始文本第一句作“纷纷堕叶”，通行本多作“纷纷坠叶”，意思一样，这里用通行本。原始文本只有词牌名，“秋日怀旧”是后来一些选本加的题目。",
+  "en": "The corpus text writes the word for falling leaves with a different character of the same meaning; the usual text uses the more common one, followed here. The corpus gives only the tune name; the title \"Thinking of the Past on an Autumn Day\" was added later by some anthologies."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长是：读 cháng，同“常”，意思是总是。",
+   "en": "It reads cháng and means always."
+  },
+  {
+   "line": 11,
+   "pos": 5,
+   "char": "头",
+   "pinyin": "tóu",
+   "zh": "枕头：现在口语读轻声 zhěntou，读这首词时一般把“头”读 tóu。",
+   "en": "In everyday speech the word for pillow is said with a light second syllable; when reading this lyric aloud, it is usually read tóu."
+  },
+  {
+   "line": 11,
+   "pos": 6,
+   "char": "欹",
+   "pinyin": "qī",
+   "zh": "欹：读 qī，意思是斜。",
+   "en": "It reads qī, meaning slanting."
+  },
+  {
+   "line": 13,
+   "pos": 0,
+   "char": "都",
+   "pinyin": "dōu",
+   "zh": "都来：读 dōu，意思是算来、总起来。",
+   "en": "In dōu lái it reads dōu, meaning all told."
+  },
+  {
+   "line": 15,
+   "pos": 2,
+   "char": "相",
+   "pinyin": "xiāng",
+   "zh": "相回避：读 xiāng。",
+   "en": "It reads xiāng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "纷纷：一片接一片，多而乱的样子。",
+   "en": "fēn fēn: one after another, many and scattered."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "坠叶：落下来的树叶。",
+   "en": "zhuì yè: falling leaves."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "香砌：落满花瓣、带着香气的台阶。砌，台阶。",
+   "en": "xiāng qì: steps covered with fallen petals and their scent. Qì means stone steps."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 3,
+   "zh": "寒声碎：秋风吹动落叶，发出细碎、带着寒意的声音。",
+   "en": "hán shēng suì: the small, broken, chilly sounds of the autumn wind among falling leaves."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "真珠帘：用珍珠穿成的帘子。真珠，就是珍珠。",
+   "en": "zhēn zhū lián: a curtain of strung pearls."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "玉楼：华美的楼房。",
+   "en": "yù lóu: a fine, beautiful building."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "天淡：天色清淡。",
+   "en": "tiān dàn: the sky is pale and clear."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "银河垂地：银河低低地垂向地面。",
+   "en": "yín hé chuí dì: the Milky Way hangs low down to the earth."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "月华：月光。",
+   "en": "yuè huá: moonlight."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 4,
+   "zh": "练：白色的丝绸。",
+   "en": "liàn: white silk."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "长是：常常是，总是。",
+   "en": "cháng shì: always is."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "人千里：想念的人远在千里之外。",
+   "en": "rén qiān lǐ: the one I love is a thousand miles away."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "愁肠已断：愁得肠子都断了，形容极其悲伤。",
+   "en": "chóu cháng yǐ duàn: sorrow so great it breaks one's insides, meaning very deep grief."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "无由：没有办法。",
+   "en": "wú yóu: there is no way to."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "残灯：快要燃尽的灯。",
+   "en": "cán dēng: a lamp about to burn out."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "明灭：忽明忽暗。",
+   "en": "míng miè: flickering bright and dim."
+  },
+  {
+   "line": 11,
+   "start": 6,
+   "end": 7,
+   "zh": "欹：斜，倾斜。",
+   "en": "qī: slanting, tilted."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "谙尽：尝够了，完全体会到。谙，熟悉、知道。",
+   "en": "ān jìn: to have tasted it all, to know it fully. Ān means to know well."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "孤眠：一个人睡。",
+   "en": "gū mián: sleeping alone."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "都来：算来，总起来说。",
+   "en": "dōu lái: all told, when you add it up."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "无计：没有办法。",
+   "en": "wú jì: no way at all."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 5,
+   "zh": "相回避：躲开它。",
+   "en": "xiāng huí bì: to escape it."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "纷纷飘落的树叶，飘落在洒满花香的台阶上。",
+   "en": "Leaves fall in flurries onto the fragrant steps."
+  },
+  {
+   "zh": "夜里静悄悄的，",
+   "en": "The night is silent,"
+  },
+  {
+   "zh": "只听见秋风吹叶的细碎寒声。",
+   "en": "but for the small, cold sounds of the wind."
+  },
+  {
+   "zh": "珍珠帘子卷起来了，华美的楼上空空荡荡，",
+   "en": "The pearl curtain is rolled up; the fine tower stands empty;"
+  },
+  {
+   "zh": "天色清淡，银河低垂到地面。",
+   "en": "the sky is pale, and the Milky Way hangs down to the ground."
+  },
+  {
+   "zh": "每年的这一夜，",
+   "en": "Every year on this night,"
+  },
+  {
+   "zh": "月光都像白绸一样明亮，",
+   "en": "the moonlight is bright as white silk,"
+  },
+  {
+   "zh": "可想念的人总是远在千里之外。",
+   "en": "yet the one I miss is always a thousand miles away."
+  },
+  {
+   "zh": "愁得肝肠寸断，想喝醉都没有办法，",
+   "en": "My heart is broken with sorrow, and I cannot even get drunk;"
+  },
+  {
+   "zh": "酒还没喝下去，",
+   "en": "before the wine has touched my lips,"
+  },
+  {
+   "zh": "就先变成了眼泪。",
+   "en": "it has turned into tears."
+  },
+  {
+   "zh": "残灯忽明忽暗，枕头斜靠着，",
+   "en": "The dying lamp flickers, my pillow tilts,"
+  },
+  {
+   "zh": "一个人睡的滋味，我已经尝够了。",
+   "en": "and I have tasted all the flavors of sleeping alone."
+  },
+  {
+   "zh": "算来这件心事，",
+   "en": "Add it all up, this one sorrow:"
+  },
+  {
+   "zh": "不是在眉头，就是在心上，",
+   "en": "if it is not on my brow, it is in my heart,"
+  },
+  {
+   "zh": "怎么也躲不开。",
+   "en": "and there is no way to escape it."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是秋夜里思念远方的人。具体写作时间和地点都不清楚，词里想念的是谁也没有明说，一说是想念远方的妻子。范仲淹做过很多年地方官，还在西北边境带兵守卫过，常常离家很远。这首词写得很柔，和他写边塞的《渔家傲》很不一样。",
+  "en": "This lyric is about missing someone far away on an autumn night. We do not know exactly when or where it was written, and it does not say who is being missed; one view is that it is the poet's wife. Fan Zhongyan served for many years as an official in different places, and once led troops guarding the northwest border, so he was often far from home. This lyric is very gentle, quite unlike his frontier lyric \"Yu Jia Ao\"."
+ },
+ "author_note": {
+  "zh": "范仲淹（989—1052），北宋名臣，也是文学家。他小时候家里很穷，靠刻苦读书做了官。他写的《岳阳楼记》里有一句“先天下之忧而忧，后天下之乐而乐”，非常有名。他的词留下来的不多，但这首写相思的，读起来很真切动人。",
+  "en": "Fan Zhongyan (989–1052) was a famous statesman and writer of the Northern Song. He grew up very poor and became an official by studying hard. His essay \"The Yueyang Tower\" has a famous line: be the first to worry about the world's troubles and the last to enjoy its pleasures. Few of his lyrics survive, but this one about longing feels true and moving."
+ },
+ "appreciation": {
+  "zh": "上半首写景。树叶一片片落在台阶上，夜很静，只有细碎的风声。楼上空空的，银河低得好像垂到了地上，月光白得像绸子。每年这一夜月色都这么美，可想念的人总不在身边。景越美，人越孤单。下半首写心情。想借酒消愁，酒还没喝，眼泪先流下来了，比“喝醉了哭”还要伤心。灯快灭了，枕头斜着，一个人睡的滋味全尝遍了。最后一句最有名：这份心事，不在眉头，就在心上，怎么也躲不开。后来李清照写“才下眉头，却上心头”，就和这一句很像。",
+  "en": "The first half paints the scene. Leaves fall one by one onto the steps. The night is still, with only the small sounds of the wind. The tower is empty, the Milky Way hangs so low it seems to touch the ground, and the moonlight is white as silk. Every year this night is just as lovely, yet the one I miss is never here. The lovelier the scene, the lonelier the person. The second half turns to feelings. He wants wine to drown his sorrow, but before he drinks, the tears come first, which is sadder than crying when drunk. The lamp is dying, the pillow tilts, and he knows every taste of sleeping alone. The last lines are the most famous: this sorrow, if not on the brow, is in the heart, and there is no escape. Later the poet Li Qingzhao wrote a line much like it: just as it leaves the brow, it climbs into the heart."
+ },
+ "famous_lines": [
+  8,
+  9,
+  10,
+  13,
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "night",
+   "moon",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

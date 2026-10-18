@@ -1,0 +1,354 @@
+{
+ "id": "1f83fccf-7476-464b-8cd4-8a2b4569c7a0",
+ "kind": "shi",
+ "title": "送友人",
+ "title_en": "Seeing Off a Friend",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "郭",
+    "guō"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "征",
+    "zhēng"
+   ]
+  ],
+  [
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "挥",
+    "huī"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "兹",
+    "zī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "班",
+    "bān"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "鸣",
+    "míng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料本第二句的“绕”写作“遶”。“遶”是“绕”的异体字，意思一样，课本写作“绕”。",
+  "en": "The corpus text writes rào, to wind around, in line two with an old variant form. Textbooks use the standard form; the word is the same."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "“一为别”的“为”是作、成为的意思，读 wéi。",
+   "en": "In yī wéi bié, the character means to do or become, so it is read wéi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "横：横卧，横着躺在那里。",
+   "en": "héng: to lie across."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "郭：外城。古代城墙分内外两层，外面的一层叫郭。",
+   "en": "guō: the outer wall of a city. Old cities had an inner and an outer wall."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "白水：清澈的河水，在阳光下闪着白光。",
+   "en": "bái shuǐ: clear water shining white in the sun."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "一为别：一旦在这里分别。为，作、成为。",
+   "en": "yī wéi bié: once we part here. Wéi means to do or to become."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "孤蓬：蓬草干枯后被风吹断，到处飘飞。这里比喻独自远行的朋友。",
+   "en": "gū péng: a lone tumbleweed. When it dries, the wind snaps it off and blows it everywhere. Here it stands for the friend traveling alone."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "征：远行。",
+   "en": "zhēng: to travel far."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "浮云：飘浮的云，没有定处。",
+   "en": "fú yún: drifting clouds with no fixed place."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "游子：离家远行的人。",
+   "en": "yóu zǐ: one who travels far from home."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "故人：老朋友，这里是诗人自己。",
+   "en": "gù rén: an old friend, here the poet himself."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "自兹去：从这里离开。兹，这里。",
+   "en": "zì zī qù: to leave from here. Zī means here."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "萧萧：马叫的声音。",
+   "en": "xiāo xiāo: the sound of horses neighing."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "班马：离群的马，这里指载着朋友离开的马。班，分别。",
+   "en": "bān mǎ: a horse parted from its herd, here the horse carrying the friend away. Bān means to part."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "青山横卧在外城的北边，",
+   "en": "Green hills lie across the north of the town;"
+  },
+  {
+   "zh": "清亮的河水绕着东城流过。",
+   "en": "white water winds around its eastern side."
+  },
+  {
+   "zh": "我们就要在这里分别了，",
+   "en": "Here, once we say goodbye,"
+  },
+  {
+   "zh": "你像一棵孤零零的蓬草，要飘到万里之外。",
+   "en": "you will drift ten thousand miles like a lone tumbleweed."
+  },
+  {
+   "zh": "天上的浮云就像你这游子飘来飘去的心思，",
+   "en": "The drifting clouds are like a traveler's heart;"
+  },
+  {
+   "zh": "将落的太阳就像我这老朋友依依不舍的情意。",
+   "en": "the setting sun is like an old friend's lingering love."
+  },
+  {
+   "zh": "挥挥手，你从这里走了，",
+   "en": "We wave our hands, and you leave from here;"
+  },
+  {
+   "zh": "离群的马也萧萧地叫着，不愿分开。",
+   "en": "the parting horses neigh, xiao xiao, as if they too are sad."
+  }
+ ],
+ "background": {
+  "zh": "这是李白送别朋友时写的诗。朋友是谁、写在哪一年、在什么地方，都已经说不清了。从诗里看，送别的地方在一座城外，北边有青山，东边有河水。李白一生到处游历，交了很多朋友，也写了很多送别诗，这是其中很有名的一首。",
+  "en": "Li Bai wrote this poem when seeing off a friend. We no longer know who the friend was, or the year or the place. From the poem, they parted outside a town, with green hills to the north and a river to the east. Li Bai traveled all his life and made many friends, and he wrote many farewell poems. This is one of the most famous."
+ },
+ "author_note": {
+  "zh": "李白（701—762），字太白，号青莲居士，唐代大诗人，被称为“诗仙”。他从小在蜀地（今四川一带）长大，喜欢游山玩水、结交朋友。他的诗想象大胆，气势豪放，常常写明月、江河和远行。",
+  "en": "Li Bai (701–762), courtesy name Taibai, also called the Lay Buddhist of Green Lotus, was a great Tang poet, known as the Immortal of Poetry. He grew up in Shu, around today's Sichuan. He loved to roam among mountains and rivers and to make friends. His poems are bold and full of wild imagination, often about the moon, rivers and long journeys."
+ },
+ "appreciation": {
+  "zh": "开头两句写送别的地方：青山在北，河水在东，一个“横”、一个“绕”，山是静的，水是动的，画面很美。接着说，这一分别，朋友就像风吹起的蓬草，要孤孤单单地走万里路。第五、六句用景物比喻感情：浮云飘来飘去，像朋友的行踪；落日慢慢下沉，不肯马上离开，像诗人舍不得朋友的心。最后不写人哭，只写马叫，马都舍不得，人就更不用说了。",
+  "en": "The first two lines show the place of parting: green hills to the north, a river to the east. The hills lie still and the water winds along, a lovely picture of stillness and movement. Then the poet says that after this goodbye, his friend will be like a tumbleweed blown by the wind, going ten thousand miles alone. Lines five and six use the scene to show feeling. Drifting clouds are like the friend's wandering road. The setting sun sinks slowly, as if it does not want to go, like the poet's heart that cannot let his friend leave. At the end he does not say anyone weeps. He only says the horses neigh. If even the horses are sad, how much more the people."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "sunset",
+   "cloud"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,295 @@
+{
+ "id": "8de30193-fba7-4aef-9ff9-c3726a22104d",
+ "kind": "shi",
+ "title": "泊秦淮",
+ "title_en": "Mooring on the Qinhuai River",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "笼",
+    "lǒng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "笼",
+    "lǒng"
+   ],
+   [
+    "沙",
+    "shā"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "泊",
+    "bó"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "商",
+    "shāng"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "亡",
+    "wáng"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "唱",
+    "chàng"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "笼",
+   "pinyin": "lǒng",
+   "zh": "“笼”在这里是笼罩的意思，现在一般读 lǒng。也有人读 lóng。",
+   "en": "Here lǒng means to cover over and is now usually read lǒng. Some read it lóng."
+  },
+  {
+   "line": 0,
+   "pos": 5,
+   "char": "笼",
+   "pinyin": "lǒng",
+   "zh": "同上，读 lǒng。",
+   "en": "As above, read lǒng."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "泊",
+   "pinyin": "bó",
+   "zh": "“泊”是停船的意思，读 bó，不读 pō。",
+   "en": "Bó means to moor a boat. It is read bó, not pō."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "烟：水面上的雾气。",
+   "en": "yān: the mist over the water."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "笼：笼罩，像罩子一样盖住。",
+   "en": "lǒng: to cover over, like a lid placed on top."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "寒水：清冷的河水。",
+   "en": "hán shuǐ: the cold river water."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "沙：河边的沙滩。",
+   "en": "shā: the sandy bank by the river."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "泊：把船停靠在岸边。",
+   "en": "bó: to moor, to tie a boat up at the shore."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "秦淮：秦淮河，流过金陵（今江苏南京）城里。河两岸有很多酒楼，很热闹。",
+   "en": "qín huái: the Qinhuai River, which flows through Jinling, today's Nanjing. Its banks were lined with wine houses and full of life."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "近酒家：靠近酒楼。",
+   "en": "jìn jiǔ jiā: close to the wine houses."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "商女：在酒楼里卖唱的歌女。",
+   "en": "shāng nǚ: singing girls who sang for money in the wine houses."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "亡国恨：国家灭亡的悲痛。",
+   "en": "wáng guó hèn: the grief of a country that has fallen."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "隔江：隔着江水，从河对岸传过来。",
+   "en": "gé jiāng: across the water, coming from the other bank."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "犹：还，仍然。",
+   "en": "yóu: still."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "后庭花：歌曲《玉树后庭花》，是南朝陈的最后一个皇帝陈叔宝（陈后主）写的。他整天享乐，不管国事，陈朝很快就灭亡了。后人把这首歌叫作“亡国之音”。",
+   "en": "hòu tíng huā: the song \"Flowers in the Back Court\", written by Chen Shubao, the last emperor of the Chen dynasty in the south. He spent his days in pleasure and ignored the state, and Chen soon fell. Later people called the song \"the music of a fallen country\"."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "轻烟笼罩着清冷的河水，月光笼罩着河边的沙滩。",
+   "en": "Mist lies over the cold water, and moonlight lies over the sand."
+  },
+  {
+   "zh": "夜里我把船停在秦淮河边，靠近岸上的酒楼。",
+   "en": "At night I moor my boat on the Qinhuai, close to the wine houses."
+  },
+  {
+   "zh": "卖唱的歌女不懂得国家灭亡的悲痛，",
+   "en": "The singing girls do not understand the grief of a fallen country."
+  },
+  {
+   "zh": "隔着江水，还在唱那首《玉树后庭花》。",
+   "en": "Across the water, they are still singing \"Flowers in the Back Court\"."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是杜牧夜里坐船经过金陵（今江苏南京）时写的，具体年份不清楚。金陵在南朝时做过好几个朝代的都城，陈朝就亡在这里。到了杜牧的时代，唐朝已经走下坡路，可是很多有钱有权的人还是只顾吃喝玩乐。杜牧听到歌女唱着亡国的歌，心里很难过，写下了这首诗。",
+  "en": "Du Mu wrote this poem when he passed Jinling, today's Nanjing, by boat at night. The exact year is not known. Jinling had been the capital of several southern dynasties, and the Chen dynasty fell there. By Du Mu's time the Tang was in decline, yet many rich and powerful people cared only about feasting and fun. When Du Mu heard a singing girl sing the song of a fallen country, he felt deep sorrow and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），唐朝后期的诗人，字牧之，京兆万年（今陕西西安）人。他关心国家大事，读了很多历史书，喜欢借古代的事来说眼前的事。这类诗叫“咏史诗”，他写得特别好，比如《赤壁》《泊秦淮》。",
+  "en": "Du Mu (803–852) was a poet of the late Tang, from the capital area, today's Xi'an. He cared about the affairs of the state and read a great deal of history. He liked to use events of the past to speak about the present. Such poems are called poems on history, and he was a master of them, as in \"Red Cliff\" and this poem."
+ },
+ "appreciation": {
+  "zh": "第一句是一幅朦胧的画：雾气罩着河水，月光罩着沙滩，两个“笼”字让整个夜晚都灰蒙蒙、冷清清的。第二句说诗人把船停在酒楼旁边，这里本来很热闹。第三、四句是全诗的重点。歌女还在唱《玉树后庭花》，那是一首让人想起亡国的歌。表面上是说歌女不懂事，其实歌女只是唱客人点的歌，真正“不知亡国恨”的，是那些听歌享乐的达官贵人。诗人担心：再这样下去，唐朝会不会也像陈朝一样？景是冷的，心是沉的。",
+  "en": "The first line is a hazy picture: mist covers the water, moonlight covers the sand. The word lǒng, to cover, appears twice and makes the whole night grey and chilly. The second line says the poet moors next to the wine houses, a lively place. The last two lines are the heart of the poem. A singing girl is still singing \"Flowers in the Back Court\", a song that reminds people of a fallen kingdom. On the surface the poet blames the girl. But she only sings what the guests ask for. The ones who truly \"do not understand the grief\" are the officials and rich men listening and having fun. The poet worries: if things go on like this, will the Tang fall just like the Chen? The scene is cold, and the heart is heavy."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "river",
+   "night",
+   "warning"
+  ]
+ },
+ "uncertain": []
+}

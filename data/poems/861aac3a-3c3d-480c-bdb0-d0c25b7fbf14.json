@@ -1,0 +1,500 @@
+{
+ "id": "861aac3a-3c3d-480c-bdb0-d0c25b7fbf14",
+ "kind": "shi",
+ "title": "左迁至蓝关示侄孙湘",
+ "title_en": "Demoted, I Reach Lan Pass and Show This to My Grandnephew Xiang",
+ "author": "韩愈",
+ "author_en": "Han Yu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "奏",
+    "zòu"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "贬",
+    "biǎn"
+   ],
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "千",
+    "qiān"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "圣",
+    "shèng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "除",
+    "chú"
+   ],
+   [
+    "弊",
+    "bì"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "肯",
+    "kěn"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "朽",
+    "xiǔ"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "秦",
+    "qín"
+   ],
+   [
+    "岭",
+    "lǐng"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "蓝",
+    "lán"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "汝",
+    "rǔ"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ],
+   [
+    "瘴",
+    "zhàng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本第三句作“欲为圣明除弊事”，这里的古籍底本作“圣朝”。另外，题目里的“侄”，底本写作“姪”，是同一个字的另一种写法。",
+  "en": "In the common text, line three reads \"shèng míng\" (the wise ruler); the old source used here has \"shèng cháo\" (the holy court). Also, in the title the old source writes zhí (nephew) with a rarer variant form of the same character."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝”是“早上”的意思，读 zhāo，和下一句的“夕”（晚上）相对。",
+   "en": "Here it means morning, so it is read zhāo; it pairs with xī (evening) in the next line."
+  },
+  {
+   "line": 0,
+   "pos": 5,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“九重”是九层，读 chóng，不读 zhòng。",
+   "en": "Jiǔ chóng means nine layers, so it is read chóng, not zhòng."
+  },
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为”是“替、给”的意思，读 wèi。",
+   "en": "Here it means \"for, on behalf of\", so it is read wèi."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "“应”是“应该、想必”的意思，读 yīng。",
+   "en": "Here it means \"surely, must\", so it is read yīng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "一封：一封奏章，指韩愈写给皇帝的《论佛骨表》。",
+   "en": "yī fēng: one memorial, meaning the letter Han Yu sent to the emperor, \"On the Buddha's Bone\"."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "朝奏：早上呈给皇帝。",
+   "en": "zhāo zòu: presented to the emperor in the morning."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "九重天：九层的天，指皇宫和皇帝。古人说天有九层，皇宫门很多、很深。",
+   "en": "jiǔ chóng tiān: the ninefold heaven, meaning the palace and the emperor. People of old said heaven had nine layers, and the palace had gate after gate."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "夕贬：晚上就被降职，赶到远方。",
+   "en": "xī biǎn: by evening he was demoted and sent far away."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "潮州：今天广东潮州，当时是很偏远的地方。",
+   "en": "cháo zhōu: today's Chaozhou in Guangdong, a very remote place at that time."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "路八千：八千里路。这是夸张，形容路很远。",
+   "en": "lù bā qiān: eight thousand li of road; this is an exaggeration for a very long way."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "圣明：英明的皇帝，指唐宪宗。",
+   "en": "shèng míng: the wise ruler, meaning Emperor Xianzong."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "弊事：有害的事情，这里指迎佛骨这件事。",
+   "en": "bì shì: a harmful practice; here, bringing the Buddha's bone into the palace."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "肯将：哪里肯因为。意思是不会因为。",
+   "en": "kěn jiāng: how would I, for the sake of...? That is, I never would."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "衰朽：衰老多病。",
+   "en": "shuāi xiǔ: old and weak."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "惜残年：爱惜剩下不多的年岁。",
+   "en": "xī cán nián: to cherish the few years left."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 2,
+   "zh": "横：横挡着。",
+   "en": "héng: lying across, blocking the way."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "秦岭：陕西南部的大山，横在长安南边。",
+   "en": "qín lǐng: the Qinling Mountains in southern Shaanxi, lying across the land south of Chang'an."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 2,
+   "zh": "拥：堵塞、围住。",
+   "en": "yōng: to block, to pile around."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "蓝关：蓝田关，在今天陕西蓝田东南。",
+   "en": "lán guān: Lantian Pass, southeast of today's Lantian in Shaanxi."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "汝：你。",
+   "en": "rǔ: you."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "应有意：想必有你的心意。",
+   "en": "yīng yǒu yì: you surely have your reason."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "好收：正好收拾、收葬。",
+   "en": "hǎo shōu: you may as well gather up and bury."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "吾骨：我的尸骨。",
+   "en": "wú gǔ: my bones."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "瘴江：有瘴气的江。瘴气是南方山林里湿热的毒气，古人认为会让人生病。这里指潮州一带。",
+   "en": "zhàng jiāng: a river full of miasma. Miasma was the hot, damp, poisonous air of southern forests that people of old thought caused illness. Here it means the Chaozhou area."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "早上我把一封奏章呈给皇帝，",
+   "en": "In the morning I sent one letter up to the emperor;"
+  },
+  {
+   "zh": "晚上就被贬到八千里外的潮州。",
+   "en": "by evening I was banished to Chaozhou, eight thousand li away."
+  },
+  {
+   "zh": "我本想替英明的皇帝除掉有害的事，",
+   "en": "I only wanted to rid our wise ruler of a harmful practice;"
+  },
+  {
+   "zh": "哪里会因为自己年老体衰，就爱惜剩下的岁月？",
+   "en": "would I, old and frail, hold on to my last few years?"
+  },
+  {
+   "zh": "白云横在秦岭上，我的家在哪里呢？",
+   "en": "Clouds lie across the Qinling Mountains; where is my home?"
+  },
+  {
+   "zh": "大雪堵住了蓝关，马也不肯往前走。",
+   "en": "Snow blocks Lan Pass, and my horse will not go on."
+  },
+  {
+   "zh": "我知道你远道赶来，一定有你的心意，",
+   "en": "I know you came this far for a reason;"
+  },
+  {
+   "zh": "正好在瘴气弥漫的江边，收殓我的尸骨吧。",
+   "en": "you can gather my bones by the misty southern river."
+  }
+ ],
+ "background": {
+  "zh": "唐宪宗元和十四年（819年）正月，皇帝派人把一节佛骨迎进皇宫供奉，很多人为此花光钱财。韩愈写了《论佛骨表》劝皇帝不要这样做。皇帝大怒，要处死他，经大臣求情，才把他贬为潮州刺史。他马上离开长安，走到蓝关时，侄孙韩湘赶来陪他，他就写了这首诗给韩湘。后来传说中八仙里的韩湘子，就是从这个韩湘附会出来的。",
+  "en": "In the first month of 819, Emperor Xianzong had a bone said to be the Buddha's brought into the palace to be worshipped, and many people spent all they had on the event. Han Yu wrote a memorial called \"On the Buddha's Bone\" urging him to stop. The emperor was furious and wanted him put to death. Other ministers pleaded for him, and he was instead sent away to be prefect of Chaozhou. He left Chang'an at once. When he reached Lan Pass, his grandnephew Han Xiang caught up to go with him, and Han Yu wrote this poem for him. Han Xiangzi, one of the Eight Immortals of later legend, grew out of stories about this Han Xiang."
+ },
+ "author_note": {
+  "zh": "韩愈（768—824），唐代文学家、思想家，是“唐宋八大家”之一。他为人正直，敢说真话，因此几次被贬。到了潮州以后，他为当地百姓办了不少好事，比如兴办学校。潮州人很怀念他，那里的韩江、韩山都是因为他而得名的。",
+  "en": "Han Yu (768–824) was a Tang writer and thinker, one of the Eight Great Prose Masters of the Tang and Song. He was upright and dared to speak the truth, so he was demoted several times. In Chaozhou he did many good things for the people, such as starting schools. The people there still remember him, and the Han River and Han Mountain in Chaozhou are named after him."
+ },
+ "appreciation": {
+  "zh": "开头两句对比很强：早上上书，晚上就被贬；一封信，换来八千里路。可见皇帝多么生气，惩罚来得多快。三、四句是韩愈的心里话：我是为国家除害，哪会因为自己老了就怕死？说得硬气，没有一点后悔。五、六句是全诗最有名的画面：回头望，秦岭被云挡住，看不见家；向前看，大雪封住蓝关，马也走不动。这既是真实的风雪，也是他前途渺茫的心情。最后两句对侄孙交代后事，悲凉又平静。",
+  "en": "The first two lines are a sharp contrast. In the morning he sends a letter; by evening he is banished. One letter costs him eight thousand li of road. It shows how angry the emperor was and how fast the punishment came. Lines three and four are Han Yu speaking from the heart: I did it to rid the country of harm; why would I fear death just because I am old? He sounds firm, with no regret at all. Lines five and six are the poem's most famous picture. Looking back, clouds cover the Qinling Mountains, and he cannot see his home. Looking ahead, snow blocks Lan Pass, and even his horse will not move. This is a real snowstorm, and also his dark, uncertain future. In the last two lines he tells his grandnephew what to do after he dies. It is sad, yet calm."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "loyalty",
+   "snow",
+   "family"
+  ]
+ },
+ "uncertain": []
+}

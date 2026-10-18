@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>春怨 · 金昌绪 — 诗</title>
+    <meta name="description" content="春怨 · 金昌绪 — Spring Grievance by Jin Changxu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 57 · Tang poem · five-character quatrain</span><span lang="zh">第 57 首 · 唐诗 · 五言绝句</span></p>
+        <h1>春怨</h1>
+        <p class="by">金昌绪<span class="mono"><span lang="en">Jin Changxu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Spring Grievance</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>dǎ</i><b>打</b></span><span class="c gl" data-l="0" data-p="1"><i>qǐ</i><b>起</b></span><span class="c gl" data-l="0" data-p="2"><i>huáng</i><b>黄</b></span><span class="c gl" data-l="0" data-p="3"><i>yīng</i><b>莺</b></span><span class="c gl" data-l="0" data-p="4"><i>ér</i><b>儿</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>mò</i><b>莫</b></span><span class="c gl rd" data-l="1" data-p="1"><i>jiào</i><b>教</b></span><span class="c" data-l="1" data-p="2"><i>zhī</i><b>枝</b></span><span class="c" data-l="1" data-p="3"><i>shàng</i><b>上</b></span><span class="c gl" data-l="1" data-p="4"><i>tí</i><b>啼</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>tí</i><b>啼</b></span><span class="c" data-l="2" data-p="1"><i>shí</i><b>时</b></span><span class="c gl" data-l="2" data-p="2"><i>jīng</i><b>惊</b></span><span class="c gl" data-l="2" data-p="3"><i>qiè</i><b>妾</b></span><span class="c" data-l="2" data-p="4"><i>mèng</i><b>梦</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>bù</i><b>不</b></span><span class="c gl" data-l="3" data-p="1"><i>dé</i><b>得</b></span><span class="c" data-l="3" data-p="2"><i>dào</i><b>到</b></span><span class="c gl" data-l="3" data-p="3"><i>liáo</i><b>辽</b></span><span class="c gl" data-l="3" data-p="4"><i>xī</i><b>西</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">打起黄莺儿</span><span lang="en">Shoo the orioles away,</span><span lang="zh">快把树上的黄莺赶走，</span></li><li><span class="o">莫教枝上啼</span><span lang="en">do not let them sing on the branches.</span><span lang="zh">别让它在树枝上叫个不停。</span></li><li><span class="o">啼时惊妾梦</span><span lang="en">When they sing, they wake me from my dream,</span><span lang="zh">它一叫，就把我的梦吵醒了，</span></li><li><span class="o">不得到辽西</span><span lang="en">and I cannot reach Liaoxi in my dream.</span><span lang="zh">我就不能在梦里到辽西去了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>打起<span class="mono">dǎ qǐ</span></dt><dd><span lang="en">dǎ qǐ: to shoo it away, to make it fly off.</span><span lang="zh">打起：把它赶走，让它飞起来。</span></dd></div><div><dt>黄莺儿<span class="mono">huáng yīng ér</span></dt><dd><span lang="en">huáng yīng ér: the oriole, a yellow bird with a sweet song.</span><span lang="zh">黄莺儿：黄莺，一种羽毛黄色、叫声好听的鸟。</span></dd></div><div><dt>莫教<span class="mono">mò jiào</span></dt><dd><span lang="en">mò jiào: do not let.</span><span lang="zh">莫教：不要让。</span></dd></div><div><dt>啼<span class="mono">tí</span></dt><dd><span lang="en">tí: (of a bird) to sing, to call.</span><span lang="zh">啼：鸟叫。</span></dd></div><div><dt>惊<span class="mono">jīng</span></dt><dd><span lang="en">jīng: to startle awake.</span><span lang="zh">惊：惊醒，吵醒。</span></dd></div><div><dt>妾<span class="mono">qiè</span></dt><dd><span lang="en">qiè: a humble word an old-time woman used for herself; it simply means I or me.</span><span lang="zh">妾：古代女子说自己时用的谦虚说法，就是“我”。</span></dd></div><div><dt>不得<span class="mono">bù dé</span></dt><dd><span lang="en">bù dé: cannot.</span><span lang="zh">不得：不能。</span></dd></div><div><dt>辽西<span class="mono">liáo xī</span></dt><dd><span lang="en">liáo xī: the land west of the Liao River, roughly western Liaoning today. In the Tang it was the frontier, guarded by soldiers.</span><span lang="zh">辽西：辽河以西，大约是今天辽宁西部一带。唐朝时那里是边疆，有军队守卫。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>教<span class="mono">jiào</span></dt><dd><span lang="en">Here this character means to let, and today it is read jiào. By the tone pattern of old poems this spot should be a level tone, so some people read it jiāo.</span><span lang="zh">教，这里是“让”的意思，现在读 jiào。按古诗的平仄，这里应该是平声，所以也有人读 jiāo。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">We do not know when or why this poem was written. It also goes by another title, Song of Yizhou. In the Tang, many men were sent to guard the far frontier, and their wives at home could only wait. The husband of the woman in this poem is guarding the border at Liaoxi. She cannot see him, so she can only meet him there in her dreams. The title means a spring grievance: missing someone, and resenting the separation, in springtime.</p><p lang="zh">这首诗写于什么时候、为什么写，都不清楚。题目一作《伊州歌》。唐朝时，很多男子被派到遥远的边疆去守卫，家里的妻子只能苦苦等待。诗里这位女子的丈夫，就在辽西守边。她见不到丈夫，只能在梦里去辽西和他相会。题目“春怨”，就是春天里的思念和怨恨。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Jin Changxu was a Tang poet from Yuhang, today&#x27;s Hangzhou in Zhejiang. Almost nothing is recorded about his life, and this is the only poem of his that survives. Yet with just these twenty characters, the poem made it into Three Hundred Tang Poems, and his name has been remembered for over a thousand years.</p><p lang="zh">金昌绪，唐代诗人，余杭（今浙江杭州）人。他的生平几乎没有留下记载，流传下来的诗也只有这一首。可是就凭这短短二十个字，这首诗被选进了《唐诗三百首》，他的名字也被人记住了一千多年。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poem is like a little story, each step leading to the next. Why does she want the orioles gone? Because they sing on the branches. What is wrong with that? It wakes her up. And then? She was dreaming of going to Liaoxi to find her husband, and when she wakes, the dream is broken. Only at the last line do we learn the reason. She seems to be blaming a little bird, but really she is missing her husband far away, and resenting the war that keeps them apart. The words are as simple as everyday talk, but the feeling runs deep.</p><p lang="zh">这首诗像讲一个小故事，一环扣一环。女子为什么要赶走黄莺？因为它在树枝上叫。叫又怎么了？会把她吵醒。吵醒又怎样？她正梦见去辽西找丈夫，一醒，梦就断了。读到最后一句，我们才明白原因。看起来她是在怪一只小鸟，其实是在想念远方的丈夫，也是在怨战争让夫妻分开。语言像平常说话一样简单，感情却很深。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/youziyin/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>游子吟</b></a><a href="../../p/saixiaqu-qier/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>塞下曲·其二</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["打", "dǎ"], ["起", "qǐ"], ["黄", "huáng"], ["莺", "yīng"], ["儿", "ér"]], [["莫", "mò"], ["教", "jiào"], ["枝", "zhī"], ["上", "shàng"], ["啼", "tí"]], [["啼", "tí"], ["时", "shí"], ["惊", "jīng"], ["妾", "qiè"], ["梦", "mèng"]], [["不", "bù"], ["得", "dé"], ["到", "dào"], ["辽", "liáo"], ["西", "xī"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "打起：把它赶走，让它飞起来。", "en": "dǎ qǐ: to shoo it away, to make it fly off."}, {"line": 0, "start": 2, "end": 5, "zh": "黄莺儿：黄莺，一种羽毛黄色、叫声好听的鸟。", "en": "huáng yīng ér: the oriole, a yellow bird with a sweet song."}, {"line": 1, "start": 0, "end": 2, "zh": "莫教：不要让。", "en": "mò jiào: do not let."}, {"line": 1, "start": 4, "end": 5, "zh": "啼：鸟叫。", "en": "tí: (of a bird) to sing, to call."}, {"line": 2, "start": 2, "end": 3, "zh": "惊：惊醒，吵醒。", "en": "jīng: to startle awake."}, {"line": 2, "start": 3, "end": 4, "zh": "妾：古代女子说自己时用的谦虚说法，就是“我”。", "en": "qiè: a humble word an old-time woman used for herself; it simply means I or me."}, {"line": 3, "start": 0, "end": 2, "zh": "不得：不能。", "en": "bù dé: cannot."}, {"line": 3, "start": 3, "end": 5, "zh": "辽西：辽河以西，大约是今天辽宁西部一带。唐朝时那里是边疆，有军队守卫。", "en": "liáo xī: the land west of the Liao River, roughly western Liaoning today. In the Tang it was the frontier, guarded by soldiers."}], "readings": [{"line": 1, "pos": 1, "char": "教", "pinyin": "jiào", "zh": "教，这里是“让”的意思，现在读 jiào。按古诗的平仄，这里应该是平声，所以也有人读 jiāo。", "en": "Here this character means to let, and today it is read jiào. By the tone pattern of old poems this spot should be a level tone, so some people read it jiāo."}], "speak": ["打起黄莺儿", "莫教枝上啼", "啼时惊妾梦", "不得到辽西"], "speakTitle": "春怨。金昌绪。", "sample": "打起黄莺儿"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>绝句 · 杜甫 — 诗</title>
+    <meta name="description" content="绝句 · 杜甫 — Quatrain by Du Fu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 87 · Tang poem · five-character quatrain</span><span lang="zh">第 87 首 · 唐诗 · 五言绝句</span></p>
+        <h1>绝句</h1>
+        <p class="by">杜甫<span class="mono"><span lang="en">Du Fu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Quatrain</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>chí</i><b>迟</b></span><span class="c gl" data-l="0" data-p="1"><i>rì</i><b>日</b></span><span class="c" data-l="0" data-p="2"><i>jiāng</i><b>江</b></span><span class="c" data-l="0" data-p="3"><i>shān</i><b>山</b></span><span class="c gl" data-l="0" data-p="4"><i>lì</i><b>丽</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="1" data-p="1"><i>fēng</i><b>风</b></span><span class="c" data-l="1" data-p="2"><i>huā</i><b>花</b></span><span class="c" data-l="1" data-p="3"><i>cǎo</i><b>草</b></span><span class="c" data-l="1" data-p="4"><i>xiāng</i><b>香</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>ní</i><b>泥</b></span><span class="c gl" data-l="2" data-p="1"><i>róng</i><b>融</b></span><span class="c gl" data-l="2" data-p="2"><i>fēi</i><b>飞</b></span><span class="c gl" data-l="2" data-p="3"><i>yàn</i><b>燕</b></span><span class="c gl rd" data-l="2" data-p="4"><i>zi</i><b>子</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>shā</i><b>沙</b></span><span class="c gl" data-l="3" data-p="1"><i>nuǎn</i><b>暖</b></span><span class="c" data-l="3" data-p="2"><i>shuì</i><b>睡</b></span><span class="c gl" data-l="3" data-p="3"><i>yuān</i><b>鸳</b></span><span class="c gl" data-l="3" data-p="4"><i>yāng</i><b>鸯</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">迟日江山丽</span><span lang="en">Under the long spring sun, river and hills are lovely,</span><span lang="zh">春天的阳光照着，江水和山都那么美，</span></li><li><span class="o">春风花草香</span><span lang="en">and the spring breeze carries the scent of flowers and grass.</span><span lang="zh">春风送来花和草的香气。</span></li><li><span class="o">泥融飞燕子</span><span lang="en">The earth has thawed, and swallows fly about with mud for their nests,</span><span lang="zh">泥土化软了，燕子忙着飞来飞去衔泥做窝，</span></li><li><span class="o">沙暖睡鸳鸯</span><span lang="en">the sand is warm, and mandarin ducks sleep on it.</span><span lang="zh">沙滩暖洋洋的，鸳鸯在上面睡着了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>迟日<span class="mono">chí rì</span></dt><dd><span lang="en">chí rì: the spring sun. In spring the days grow longer, so the sun seems to move slowly.</span><span lang="zh">迟日：春天的太阳。春天白天越来越长，太阳好像走得很慢。</span></dd></div><div><dt>丽<span class="mono">lì</span></dt><dd><span lang="en">lì: beautiful.</span><span lang="zh">丽：美丽。</span></dd></div><div><dt>泥融<span class="mono">ní róng</span></dt><dd><span lang="en">ní róng: the frozen earth has thawed and turned soft and wet.</span><span lang="zh">泥融：冻硬的泥土化开了，变得湿软。</span></dd></div><div><dt>飞燕子<span class="mono">fēi yàn zi</span></dt><dd><span lang="en">fēi yàn zi: swallows flying back and forth, carrying mud to build nests.</span><span lang="zh">飞燕子：燕子飞来飞去，衔泥做窝。</span></dd></div><div><dt>沙暖<span class="mono">shā nuǎn</span></dt><dd><span lang="en">shā nuǎn: the sand is warm from the sun.</span><span lang="zh">沙暖：沙滩被太阳晒得暖暖的。</span></dd></div><div><dt>鸳鸯<span class="mono">yuān yāng</span></dt><dd><span lang="en">yuān yāng: mandarin ducks, pretty water birds that usually stay in pairs.</span><span lang="zh">鸳鸯：一种好看的水鸟，常常成双成对。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>子<span class="mono">zi</span></dt><dd><span lang="en">In the word for swallow, this character is said with a light, toneless zi in everyday speech. When reciting poems some people give it a full tone, zǐ.</span><span lang="zh">“燕子”的“子”在口语里读轻声 zi。读诗时为了念得饱满，也有人读 zǐ。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In 764, after a time of wandering, Du Fu returned to his Thatched Cottage in Chengdu, the simple house with a straw roof where he lived. This poem is usually dated to that spring. After war and years on the move, he finally had a calmer stretch of life, and felt more at ease. He wrote two poems called Quatrain, and this is the first. A quatrain is a poem of just four lines.</p><p lang="zh">唐代宗广德二年（764年），杜甫经过一段漂泊，回到了成都的草堂，就是他在成都住的茅草房子。一般认为这首诗就写在那年春天。经历了战乱和流离，他终于又有了一段比较安定的日子，心情也轻松了一些。他写了两首《绝句》，这是第一首。“绝句”是一种只有四句的诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Fu (712–770) was a great Tang poet, often called the Sage of Poetry. Many of his poems are about war and the suffering of ordinary people, and they feel heavy to read. The few years at the Thatched Cottage in Chengdu were one of the calmest times of his life. Then he wrote many bright little poems about flowers, birds and spring.</p><p lang="zh">杜甫（712—770），唐代大诗人，被人称为“诗圣”。他的很多诗写战乱和百姓的苦难，读起来很沉重。在成都草堂住的几年，是他一生中比较安稳的时光。这时候他写了不少明快的小诗，写花、写鸟、写春天。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is like four small pictures of spring. The first is a wide view: under the spring sun, the river and hills look lovely. The second is a smell: the spring breeze brings the scent of flowers and grass. The third is full of motion: the earth has gone soft, and swallows dart about carrying mud for their nests. The fourth is still: the sand is warm, and mandarin ducks sleep on it. There is far and near, moving and still, color and scent. As you read, you feel you are standing by the river in spring, warm all over.</p><p lang="zh">这首诗像四幅春天的小画。第一幅是大景：春天的阳光下，江水和山都那么美。第二幅是气味：春风吹来，带着花和草的香气。第三幅是动的：泥土化软了，燕子忙着飞来飞去，衔泥做窝。第四幅是静的：沙子晒得暖暖的，鸳鸯在上面睡着了。有远有近，有动有静，还有颜色和香味。读着读着，好像自己也站在春天的江边，全身暖洋洋的。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/zengmenghaoran/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>赠孟浩然</b></a><a href="../../p/mujiangyin/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>暮江吟</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["迟", "chí"], ["日", "rì"], ["江", "jiāng"], ["山", "shān"], ["丽", "lì"]], [["春", "chūn"], ["风", "fēng"], ["花", "huā"], ["草", "cǎo"], ["香", "xiāng"]], [["泥", "ní"], ["融", "róng"], ["飞", "fēi"], ["燕", "yàn"], ["子", "zi"]], [["沙", "shā"], ["暖", "nuǎn"], ["睡", "shuì"], ["鸳", "yuān"], ["鸯", "yāng"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "迟日：春天的太阳。春天白天越来越长，太阳好像走得很慢。", "en": "chí rì: the spring sun. In spring the days grow longer, so the sun seems to move slowly."}, {"line": 0, "start": 4, "end": 5, "zh": "丽：美丽。", "en": "lì: beautiful."}, {"line": 2, "start": 0, "end": 2, "zh": "泥融：冻硬的泥土化开了，变得湿软。", "en": "ní róng: the frozen earth has thawed and turned soft and wet."}, {"line": 2, "start": 2, "end": 5, "zh": "飞燕子：燕子飞来飞去，衔泥做窝。", "en": "fēi yàn zi: swallows flying back and forth, carrying mud to build nests."}, {"line": 3, "start": 0, "end": 2, "zh": "沙暖：沙滩被太阳晒得暖暖的。", "en": "shā nuǎn: the sand is warm from the sun."}, {"line": 3, "start": 3, "end": 5, "zh": "鸳鸯：一种好看的水鸟，常常成双成对。", "en": "yuān yāng: mandarin ducks, pretty water birds that usually stay in pairs."}], "readings": [{"line": 2, "pos": 4, "char": "子", "pinyin": "zi", "zh": "“燕子”的“子”在口语里读轻声 zi。读诗时为了念得饱满，也有人读 zǐ。", "en": "In the word for swallow, this character is said with a light, toneless zi in everyday speech. When reciting poems some people give it a full tone, zǐ."}], "speak": ["迟日江山丽", "春风花草香", "泥融飞燕子", "沙暖睡鸳鸯"], "speakTitle": "绝句。杜甫。", "sample": "迟日江山丽"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

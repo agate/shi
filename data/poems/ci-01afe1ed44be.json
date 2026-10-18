@@ -1,0 +1,386 @@
+{
+ "id": "ci-01afe1ed44be",
+ "kind": "ci",
+ "title": "卜算子·咏梅",
+ "title_en": "Bu Suan Zi: Ode to the Plum Blossom",
+ "author": "陆游",
+ "author_en": "Lu You",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《卜算子》，双调四十四字",
+  "en": "ci to the tune Bu Suan Zi, 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "驿",
+    "yì"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "主",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "任",
+    "rèn"
+   ],
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "妒",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "泥",
+    "ní"
+   ],
+   [
+    "碾",
+    "niǎn"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "尘",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "故",
+    "gù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“著”在这里读 zhuó，意思是遭受、碰上，同“着”（zhuó）。",
+   "en": "Here this character is read zhuó, meaning to suffer or run into."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "一",
+   "pinyin": "yī",
+   "zh": "“一”本来读 yī，在去声字“任”前面，口语里变读 yí。这里标本来的读音。",
+   "en": "The character yī is read yí in speech before a fourth-tone syllable like rèn. Here we mark its basic tone."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "驿外：驿站外面。驿站是古代给送信的人和过路官员换马、歇脚的地方。",
+   "en": "yì wài: outside the post station. A post station was a stop where messengers and travelling officials changed horses and rested."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "断桥：残破的桥。",
+   "en": "duàn qiáo: a broken bridge."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "寂寞：孤单冷清。",
+   "en": "jì mò: lonely and quiet."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "无主：没有主人，没有人照料，也没有人欣赏。",
+   "en": "wú zhǔ: with no owner, no one to care for it or admire it."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "更著：又遭到。著，遭受。",
+   "en": "gèng zhuó: and on top of that it suffers. Zhuó means to suffer."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "无意：不想，没有心思。",
+   "en": "wú yì: not wanting to, having no wish."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "苦争春：费尽心思和别的花争夺春光。梅花在冬末早春开放，比百花都早。",
+   "en": "kǔ zhēng chūn: to struggle hard with other flowers for spring. The plum blooms at the end of winter, before all the others."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "一任：完全听凭，随便。",
+   "en": "yī rèn: to let them do as they please."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "群芳：各种花，这里比喻那些嫉妒别人的小人。",
+   "en": "qún fāng: all the other flowers. Here they stand for petty people who are jealous of others."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "妒：嫉妒。",
+   "en": "dù: to be jealous."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "零落：花瓣凋谢落下。",
+   "en": "líng luò: petals withering and falling."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "碾作尘：被车轮压成了尘土。碾，压碎。",
+   "en": "niǎn zuò chén: crushed into dust by wheels. Niǎn means to grind or crush."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "香如故：香气和从前一样。故，从前。",
+   "en": "xiāng rú gù: the fragrance is the same as before. Gù means before, as of old."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "驿站外面，残破的桥边，",
+   "en": "Outside the post station, by a broken bridge,"
+  },
+  {
+   "zh": "梅花孤孤单单地开着，没有人照看。",
+   "en": "the plum blossom blooms alone, with no one to care for it."
+  },
+  {
+   "zh": "已经是黄昏了，它独自发愁，",
+   "en": "Dusk has come, and it grieves by itself,"
+  },
+  {
+   "zh": "又遭到风吹雨打。",
+   "en": "and on top of that, it is beaten by wind and rain."
+  },
+  {
+   "zh": "它不想费心和百花争夺春光，",
+   "en": "It has no wish to fight for spring,"
+  },
+  {
+   "zh": "随便那些花去嫉妒吧。",
+   "en": "and lets all the other flowers envy it as they will."
+  },
+  {
+   "zh": "就算花瓣落下变成泥，被碾成尘土，",
+   "en": "Even if its petals fall into mud and are crushed to dust,"
+  },
+  {
+   "zh": "它的香气仍然和从前一样。",
+   "en": "its fragrance stays as it always was."
+  }
+ ],
+ "background": {
+  "zh": "陆游一心想收复北方，主张抗金，却常常受到朝中主和派的排挤和打击，多次被罢官。这首词借梅花写自己：生在冷落的地方，受尽风雨，却不肯和别人争宠，品格始终不变。具体是哪一年写的，说法不一。后来毛泽东读了这首词，“反其意而用之”，也写了一首《卜算子·咏梅》。",
+  "en": "Lu You wanted to win back the north and fight the Jin. But those at court who wanted peace often pushed him aside and attacked him, and he lost his post several times. In this lyric he speaks of himself through the plum blossom. It grows in a lonely place and suffers wind and rain, yet it will not compete for favor, and its character never changes. The year it was written is not agreed on. Much later, Mao Zedong wrote his own lyric to the same tune on the plum blossom, turning Lu You's mood the other way."
+ },
+ "author_note": {
+  "zh": "陆游（1125—1210），号放翁，南宋大诗人。他一生爱国，主张抗金，可是仕途很不顺利，常被排挤。他特别喜欢梅花，写过一百多首咏梅的诗词。在他眼里，梅花不怕寒冷、不争不抢，就像一个有骨气的人。",
+  "en": "Lu You (1125–1210), also called Fangweng, was a great poet of the Southern Song. He loved his country all his life and wanted to fight the Jin, but his career went badly and he was often pushed aside. He loved the plum blossom and wrote more than a hundred poems about it. To him, the plum blossom does not fear the cold, does not fight or grab, and is like a person of firm character."
+ },
+ "appreciation": {
+  "zh": "上阕写梅花的处境。它不长在漂亮的花园里，而是开在驿站外的断桥边，没人照看，没人欣赏。天黑了，它独自发愁，还要挨风吹雨打。一层一层，把它的苦写到了极点。下阕写梅花的品格。它早早开放，不是为了和百花抢春天，别的花嫉妒它，它也不在乎。最后两句最有力量：就算落到泥里、碾成尘土，香气还在。这香气就是一个人的品格和志向，什么都夺不走。这是借梅花写自己，也是写所有坚守自己的人。",
+  "en": "The first stanza tells where the plum blossom lives. It is not in a pretty garden, but by a broken bridge outside a post station. No one tends it, no one admires it. Night falls and it grieves alone, and then wind and rain beat on it. Layer by layer, its hardship grows as bad as it can be. The second stanza tells of its character. It blooms early, not to steal spring from other flowers. If they are jealous, it does not care. The last two lines are the strongest. Even fallen into mud and crushed to dust, its fragrance remains. That fragrance is a person's character and ideals, which nothing can take away. Lu You is writing about himself, and about everyone who stays true to who they are."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "plum-blossom",
+   "integrity",
+   "loneliness",
+   "flower"
+  ]
+ },
+ "uncertain": []
+}

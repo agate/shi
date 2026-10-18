@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>关山月 · 李白 — 诗</title>
+    <meta name="description" content="关山月 · 李白 — The Moon over the Mountain Pass by Li Bai: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 100 · Tang poem · yuefu ballad in five-character lines</span><span lang="zh">第 100 首 · 唐诗 · 乐府诗（五言古诗）</span></p>
+        <h1>关山月</h1>
+        <p class="by">李白<span class="mono"><span lang="en">Li Bai · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">The Moon over the Mountain Pass</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>míng</i><b>明</b></span><span class="c" data-l="0" data-p="1"><i>yuè</i><b>月</b></span><span class="c" data-l="0" data-p="2"><i>chū</i><b>出</b></span><span class="c gl" data-l="0" data-p="3"><i>tiān</i><b>天</b></span><span class="c gl" data-l="0" data-p="4"><i>shān</i><b>山</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>cāng</i><b>苍</b></span><span class="c gl" data-l="1" data-p="1"><i>máng</i><b>茫</b></span><span class="c gl" data-l="1" data-p="2"><i>yún</i><b>云</b></span><span class="c gl" data-l="1" data-p="3"><i>hǎi</i><b>海</b></span><span class="c" data-l="1" data-p="4"><i>jiān</i><b>间</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>cháng</i><b>长</b></span><span class="c" data-l="2" data-p="1"><i>fēng</i><b>风</b></span><span class="c" data-l="2" data-p="2"><i>jǐ</i><b>几</b></span><span class="c" data-l="2" data-p="3"><i>wàn</i><b>万</b></span><span class="c" data-l="2" data-p="4"><i>lǐ</i><b>里</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>chuī</i><b>吹</b></span><span class="c gl" data-l="3" data-p="1"><i>dù</i><b>度</b></span><span class="c gl" data-l="3" data-p="2"><i>yù</i><b>玉</b></span><span class="c gl" data-l="3" data-p="3"><i>mén</i><b>门</b></span><span class="c gl" data-l="3" data-p="4"><i>guān</i><b>关</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>hàn</i><b>汉</b></span><span class="c gl" data-l="4" data-p="1"><i>xià</i><b>下</b></span><span class="c gl" data-l="4" data-p="2"><i>bái</i><b>白</b></span><span class="c gl" data-l="4" data-p="3"><i>dēng</i><b>登</b></span><span class="c gl" data-l="4" data-p="4"><i>dào</i><b>道</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>hú</i><b>胡</b></span><span class="c gl" data-l="5" data-p="1"><i>kuī</i><b>窥</b></span><span class="c gl" data-l="5" data-p="2"><i>qīng</i><b>青</b></span><span class="c gl" data-l="5" data-p="3"><i>hǎi</i><b>海</b></span><span class="c gl" data-l="5" data-p="4"><i>wān</i><b>湾</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>yóu</i><b>由</b></span><span class="c gl" data-l="6" data-p="1"><i>lái</i><b>来</b></span><span class="c" data-l="6" data-p="2"><i>zhēng</i><b>征</b></span><span class="c" data-l="6" data-p="3"><i>zhàn</i><b>战</b></span><span class="c" data-l="6" data-p="4"><i>dì</i><b>地</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>bú</i><b>不</b></span><span class="c" data-l="7" data-p="1"><i>jiàn</i><b>见</b></span><span class="c" data-l="7" data-p="2"><i>yǒu</i><b>有</b></span><span class="c" data-l="7" data-p="3"><i>rén</i><b>人</b></span><span class="c rd" data-l="7" data-p="4"><i>huán</i><b>还</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>shù</i><b>戍</b></span><span class="c gl" data-l="8" data-p="1"><i>kè</i><b>客</b></span><span class="c" data-l="8" data-p="2"><i>wàng</i><b>望</b></span><span class="c gl" data-l="8" data-p="3"><i>biān</i><b>边</b></span><span class="c gl" data-l="8" data-p="4"><i>sè</i><b>色</b></span></p><p class="ln"><span class="c rd" data-l="9" data-p="0"><i>sī</i><b>思</b></span><span class="c" data-l="9" data-p="1"><i>guī</i><b>归</b></span><span class="c" data-l="9" data-p="2"><i>duō</i><b>多</b></span><span class="c gl" data-l="9" data-p="3"><i>kǔ</i><b>苦</b></span><span class="c gl" data-l="9" data-p="4"><i>yán</i><b>颜</b></span></p><p class="ln"><span class="c gl" data-l="10" data-p="0"><i>gāo</i><b>高</b></span><span class="c gl" data-l="10" data-p="1"><i>lóu</i><b>楼</b></span><span class="c" data-l="10" data-p="2"><i>dāng</i><b>当</b></span><span class="c" data-l="10" data-p="3"><i>cǐ</i><b>此</b></span><span class="c" data-l="10" data-p="4"><i>yè</i><b>夜</b></span></p><p class="ln"><span class="c gl" data-l="11" data-p="0"><i>tàn</i><b>叹</b></span><span class="c gl" data-l="11" data-p="1"><i>xī</i><b>息</b></span><span class="c gl" data-l="11" data-p="2"><i>wèi</i><b>未</b></span><span class="c gl rd" data-l="11" data-p="3"><i>yīng</i><b>应</b></span><span class="c gl" data-l="11" data-p="4"><i>xián</i><b>闲</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">明月出天山</span><span lang="en">A bright moon rises over the Heavenly Mountains,</span><span lang="zh">一轮明月从天山升起，</span></li><li><span class="o">苍茫云海间</span><span lang="en">drifting through a vast, hazy sea of clouds.</span><span lang="zh">在茫茫的云海中间穿行。</span></li><li><span class="o">长风几万里</span><span lang="en">A long wind blows for thousands of li</span><span lang="zh">长风刮了几万里，</span></li><li><span class="o">吹度玉门关</span><span lang="en">and sweeps across Jade Gate Pass.</span><span lang="zh">一直吹过了玉门关。</span></li><li><span class="o">汉下白登道</span><span lang="en">Once the Han army marched to Baideng,</span><span lang="zh">汉朝的军队出兵白登山，</span></li><li><span class="o">胡窥青海湾</span><span lang="en">and the Hu peoples still eye Qinghai Lake.</span><span lang="zh">胡人一直窥视着青海湖一带。</span></li><li><span class="o">由来征战地</span><span lang="en">In these places of war since ancient times,</span><span lang="zh">自古以来这些打仗的地方，</span></li><li><span class="o">不见有人还</span><span lang="en">no one has ever been seen to come home.</span><span lang="zh">从没见过有谁能活着回来。</span></li><li><span class="o">戍客望边色</span><span lang="en">The border soldiers look out at the frontier,</span><span lang="zh">守边的士兵望着边地的景色，</span></li><li><span class="o">思归多苦颜</span><span lang="en">their faces full of sorrow as they long for home.</span><span lang="zh">想家想得满脸愁苦。</span></li><li><span class="o">高楼当此夜</span><span lang="en">On this same night, their wives in high towers</span><span lang="zh">家里的妻子在高楼上，也在这样的夜晚，</span></li><li><span class="o">叹息未应闲</span><span lang="en">surely do not stop sighing.</span><span lang="zh">叹息声一定不会停下来。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>天山<span class="mono">tiān shān</span></dt><dd><span lang="en">tiān shān: the Heavenly Mountains. Here it is usually taken to mean the Qilian Mountains, in today&#x27;s Gansu and Qinghai.</span><span lang="zh">天山：这里一般认为指祁连山，在今天的甘肃、青海一带。</span></dd></div><div><dt>苍茫<span class="mono">cāng máng</span></dt><dd><span lang="en">cāng máng: vast and hazy, stretching beyond sight.</span><span lang="zh">苍茫：又辽阔又模糊，一眼望不到边。</span></dd></div><div><dt>云海<span class="mono">yún hǎi</span></dt><dd><span lang="en">yún hǎi: a sea of clouds.</span><span lang="zh">云海：像大海一样一望无际的云。</span></dd></div><div><dt>吹度<span class="mono">chuī dù</span></dt><dd><span lang="en">chuī dù: to blow across. Dù means to cross.</span><span lang="zh">吹度：吹过。度，越过。</span></dd></div><div><dt>玉门关<span class="mono">yù mén guān</span></dt><dd><span lang="en">yù mén guān: Jade Gate Pass, an old frontier gate northwest of today&#x27;s Dunhuang in Gansu, on the road to the Western Regions.</span><span lang="zh">玉门关：古代的关口，在今天甘肃敦煌西北，是通往西域的要道。</span></dd></div><div><dt>汉下白登道<span class="mono">hàn xià bái dēng dào</span></dt><dd><span lang="en">hàn xià bái dēng dào: the Han army marched down the road to Baideng. Liu Bang, the first Han emperor, was once trapped by the Xiongnu at Mount Baideng, northeast of today&#x27;s Datong in Shanxi, for seven days. Xià means to send troops.</span><span lang="zh">汉下白登道：汉朝的军队出兵白登山。汉高祖刘邦曾在白登山（今山西大同东北）被匈奴围困了七天。下，出兵。</span></dd></div><div><dt>胡窥青海湾<span class="mono">hú kuī qīng hǎi wān</span></dt><dd><span lang="en">hú kuī qīng hǎi wān: the Hu peoples eyed Qinghai Lake. Hú was an old name for the peoples of the north and west. Kuī means to spy on, wanting to seize. The Tang and the Tibetan empire often fought around Qinghai Lake.</span><span lang="zh">胡窥青海湾：胡人一直盯着青海湖一带。胡，古代对北方和西方民族的称呼；窥，暗中窥视、想要侵占。唐朝和吐蕃常在青海湖一带打仗。</span></dd></div><div><dt>由来<span class="mono">yóu lái</span></dt><dd><span lang="en">yóu lái: from of old, always.</span><span lang="zh">由来：从来，自古以来。</span></dd></div><div><dt>戍客<span class="mono">shù kè</span></dt><dd><span lang="en">shù kè: soldiers guarding the frontier. Shù means to guard the border.</span><span lang="zh">戍客：守卫边疆的士兵。戍，守边。</span></dd></div><div><dt>边色<span class="mono">biān sè</span></dt><dd><span lang="en">biān sè: the look of the border lands.</span><span lang="zh">边色：边地的景色。</span></dd></div><div><dt>苦颜<span class="mono">kǔ yán</span></dt><dd><span lang="en">kǔ yán: a sad, worn face.</span><span lang="zh">苦颜：愁苦的面容。</span></dd></div><div><dt>高楼<span class="mono">gāo lóu</span></dt><dd><span lang="en">gāo lóu: a high tower; here it means the soldiers&#x27; wives at home.</span><span lang="zh">高楼：这里指士兵家中的妻子，她住在高楼里。</span></dd></div><div><dt>叹息未应闲<span class="mono">tàn xī wèi yīng xián</span></dt><dd><span lang="en">tàn xī wèi yīng xián: their sighs surely will not stop. Xián here means to stop.</span><span lang="zh">叹息未应闲：叹息声应该不会停下来。闲，停止。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>还<span class="mono">huán</span></dt><dd><span lang="en">Here this character means to come back, so it is read huán, not hái.</span><span lang="zh">还在这里是“回来”的意思，读 huán，不读 hái。</span></dd></div><div><dt>思<span class="mono">sī</span></dt><dd><span lang="en">In sī guī, &#x27;longing to go home&#x27;, this character is read sī.</span><span lang="zh">思归的思读 sī，是“想念”的意思。</span></dd></div><div><dt>应<span class="mono">yīng</span></dt><dd><span lang="en">This character is read yīng. Wèi yīng means &#x27;surely will not&#x27;.</span><span lang="zh">应读 yīng，“未应”是“应该不会”的意思。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">&#x27;The Moon over the Mountain Pass&#x27; is an old title for yuefu songs. It belongs to the &#x27;horizontal flute&#x27; tunes, music played on horseback in the army. Such songs usually tell of frontier wars and the pain of parting. Li Bai borrowed this old title for his poem. We no longer know which year he wrote it. In the Tang there were many wars on the northwest border. Many soldiers guarded it for years and could not go home. This poem is about how they and their families missed each other.</p><p lang="zh">《关山月》是一个古老的乐府诗题目，属于“横吹曲”（军中骑马时吹奏的乐曲），内容多写边塞征战和离别的痛苦。李白借用这个旧题目写了这首诗。具体写于哪一年已经说不清了。唐朝时，西北边境战争很多，许多士兵长年守边回不了家，这首诗写的就是他们和家人的思念。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. His poems are bold and grand, and he loved to write about the moon. He wrote many yuefu poems, often using old titles to carry new feelings. The vast, sweeping opening of this poem is very much in his style.</p><p lang="zh">李白（701—762），唐代大诗人，被人称为“诗仙”。他的诗想象大胆，气势很大，最爱写月亮。他写过不少乐府诗，常用旧题目写出新的感情。这首诗开头那种辽阔的气派，就很有李白的特色。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first four lines make a huge picture. The moon rises over the Heavenly Mountains and drifts through a sea of clouds. A long wind blows thousands of li and sweeps across Jade Gate Pass. The moon and the wind link the mountains, the clouds and the pass, and the whole northwest frontier opens up at once. The middle four lines turn to history. From the Han to the Tang there was always war here, and few who went ever came back. The last four lines turn to people. Soldiers at the border look at the moon and miss home. Their wives at home sigh under the same moon. One moon shines on two places, and on both sides people are longing. The poem is grand and sad at the same time. It shows the pain of ordinary people behind the wars.</p><p lang="zh">前四句画面非常大：明月从天山升起，穿过茫茫云海；长风刮过几万里，吹过玉门关。月亮和风把天山、云海、玉门关连在一起，一下子铺开了整个西北边疆。中间四句讲历史：从汉朝到唐朝，这里一直在打仗，去打仗的人很少能回来。最后四句写人：边关的士兵望着月亮想家，家里的妻子也在同一个月亮下叹气。同一轮月亮，照着两个地方的人，两边都在思念。这首诗又雄壮又悲凉，让人看到战争背后普通人的痛苦。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/shizhisaishang/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>使至塞上</b></a><span></span></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["明", "míng"], ["月", "yuè"], ["出", "chū"], ["天", "tiān"], ["山", "shān"]], [["苍", "cāng"], ["茫", "máng"], ["云", "yún"], ["海", "hǎi"], ["间", "jiān"]], [["长", "cháng"], ["风", "fēng"], ["几", "jǐ"], ["万", "wàn"], ["里", "lǐ"]], [["吹", "chuī"], ["度", "dù"], ["玉", "yù"], ["门", "mén"], ["关", "guān"]], [["汉", "hàn"], ["下", "xià"], ["白", "bái"], ["登", "dēng"], ["道", "dào"]], [["胡", "hú"], ["窥", "kuī"], ["青", "qīng"], ["海", "hǎi"], ["湾", "wān"]], [["由", "yóu"], ["来", "lái"], ["征", "zhēng"], ["战", "zhàn"], ["地", "dì"]], [["不", "bú"], ["见", "jiàn"], ["有", "yǒu"], ["人", "rén"], ["还", "huán"]], [["戍", "shù"], ["客", "kè"], ["望", "wàng"], ["边", "biān"], ["色", "sè"]], [["思", "sī"], ["归", "guī"], ["多", "duō"], ["苦", "kǔ"], ["颜", "yán"]], [["高", "gāo"], ["楼", "lóu"], ["当", "dāng"], ["此", "cǐ"], ["夜", "yè"]], [["叹", "tàn"], ["息", "xī"], ["未", "wèi"], ["应", "yīng"], ["闲", "xián"]]], "glosses": [{"line": 0, "start": 3, "end": 5, "zh": "天山：这里一般认为指祁连山，在今天的甘肃、青海一带。", "en": "tiān shān: the Heavenly Mountains. Here it is usually taken to mean the Qilian Mountains, in today's Gansu and Qinghai."}, {"line": 1, "start": 0, "end": 2, "zh": "苍茫：又辽阔又模糊，一眼望不到边。", "en": "cāng máng: vast and hazy, stretching beyond sight."}, {"line": 1, "start": 2, "end": 4, "zh": "云海：像大海一样一望无际的云。", "en": "yún hǎi: a sea of clouds."}, {"line": 3, "start": 0, "end": 2, "zh": "吹度：吹过。度，越过。", "en": "chuī dù: to blow across. Dù means to cross."}, {"line": 3, "start": 2, "end": 5, "zh": "玉门关：古代的关口，在今天甘肃敦煌西北，是通往西域的要道。", "en": "yù mén guān: Jade Gate Pass, an old frontier gate northwest of today's Dunhuang in Gansu, on the road to the Western Regions."}, {"line": 4, "start": 0, "end": 5, "zh": "汉下白登道：汉朝的军队出兵白登山。汉高祖刘邦曾在白登山（今山西大同东北）被匈奴围困了七天。下，出兵。", "en": "hàn xià bái dēng dào: the Han army marched down the road to Baideng. Liu Bang, the first Han emperor, was once trapped by the Xiongnu at Mount Baideng, northeast of today's Datong in Shanxi, for seven days. Xià means to send troops."}, {"line": 5, "start": 0, "end": 5, "zh": "胡窥青海湾：胡人一直盯着青海湖一带。胡，古代对北方和西方民族的称呼；窥，暗中窥视、想要侵占。唐朝和吐蕃常在青海湖一带打仗。", "en": "hú kuī qīng hǎi wān: the Hu peoples eyed Qinghai Lake. Hú was an old name for the peoples of the north and west. Kuī means to spy on, wanting to seize. The Tang and the Tibetan empire often fought around Qinghai Lake."}, {"line": 6, "start": 0, "end": 2, "zh": "由来：从来，自古以来。", "en": "yóu lái: from of old, always."}, {"line": 8, "start": 0, "end": 2, "zh": "戍客：守卫边疆的士兵。戍，守边。", "en": "shù kè: soldiers guarding the frontier. Shù means to guard the border."}, {"line": 8, "start": 3, "end": 5, "zh": "边色：边地的景色。", "en": "biān sè: the look of the border lands."}, {"line": 9, "start": 3, "end": 5, "zh": "苦颜：愁苦的面容。", "en": "kǔ yán: a sad, worn face."}, {"line": 10, "start": 0, "end": 2, "zh": "高楼：这里指士兵家中的妻子，她住在高楼里。", "en": "gāo lóu: a high tower; here it means the soldiers' wives at home."}, {"line": 11, "start": 0, "end": 5, "zh": "叹息未应闲：叹息声应该不会停下来。闲，停止。", "en": "tàn xī wèi yīng xián: their sighs surely will not stop. Xián here means to stop."}], "readings": [{"line": 7, "pos": 4, "char": "还", "pinyin": "huán", "zh": "还在这里是“回来”的意思，读 huán，不读 hái。", "en": "Here this character means to come back, so it is read huán, not hái."}, {"line": 9, "pos": 0, "char": "思", "pinyin": "sī", "zh": "思归的思读 sī，是“想念”的意思。", "en": "In sī guī, 'longing to go home', this character is read sī."}, {"line": 11, "pos": 3, "char": "应", "pinyin": "yīng", "zh": "应读 yīng，“未应”是“应该不会”的意思。", "en": "This character is read yīng. Wèi yīng means 'surely will not'."}], "speak": ["明月出天山", "苍茫云海间", "偿风几万里", "吹度玉门关", "汉下白登道", "胡窥青海湾", "由来征战地", "不见有人桓", "戍客望边色", "思归多苦颜", "高楼当此夜", "叹息未应闲"], "speakTitle": "关山月。李白。", "sample": "明月出天山"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,536 @@
+{
+ "id": "ci-df031fa88567",
+ "kind": "ci",
+ "title": "钗头凤·红酥手",
+ "title_en": "To the Tune Chai Tou Feng: Pink, Soft Hands",
+ "author": "陆游",
+ "author_en": "Lu You",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·钗头凤（双调）",
+  "en": "ci lyric to the tune Chai Tou Feng, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "酥",
+    "sū"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "縢",
+    "téng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "恶",
+    "è"
+   ]
+  ],
+  [
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "薄",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "索",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "错",
+    "cuò"
+   ],
+   [
+    "错",
+    "cuò"
+   ],
+   [
+    "错",
+    "cuò"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "旧",
+    "jiù"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "浥",
+    "yì"
+   ],
+   [
+    "鲛",
+    "jiāo"
+   ],
+   [
+    "绡",
+    "xiāo"
+   ],
+   [
+    "透",
+    "tòu"
+   ]
+  ],
+  [
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "阁",
+    "gé"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "盟",
+    "méng"
+   ],
+   [
+    "虽",
+    "suī"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "托",
+    "tuō"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "莫",
+    "mò"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "这里是“淡薄、不深”的意思，书面读 bó。",
+   "en": "Read bó here, the written reading, meaning \"thin\" or \"weak\"."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "索",
+   "pinyin": "suǒ",
+   "zh": "“离索”是离群独居，读 suǒ。",
+   "en": "In lí suǒ, \"living apart and alone\", it is read suǒ."
+  },
+  {
+   "line": 10,
+   "pos": 3,
+   "char": "浥",
+   "pinyin": "yì",
+   "zh": "读 yì，意思是沾湿。",
+   "en": "Read yì, meaning \"to wet\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "红酥手：红润柔软的手。",
+   "en": "hóng sū shǒu: pink, soft hands."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "黄縢酒：一种官府酿造的好酒，用黄纸封口，也叫“黄封酒”。一说“黄縢”就是“黄藤”，是酒名。",
+   "en": "huáng téng jiǔ: a fine wine made by the government and sealed with yellow paper. Another view says it is simply the name of a wine."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "宫墙柳：宫墙边的柳树。一说用来比喻已经改嫁的唐氏，像宫墙里的柳树，看得见却够不着。",
+   "en": "gōng qiáng liǔ: willows by the palace wall. One reading says they stand for his former wife, now married to another man: like a willow behind a palace wall, she can be seen but not reached."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "东风恶：春风很凶。比喻拆散他们的力量，一般认为暗指陆游的母亲。",
+   "en": "dōng fēng è: the east wind is cruel. It stands for the force that drove them apart, usually taken to mean Lu You's mother."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "欢情薄：美好的欢乐变得那么少、那么短。",
+   "en": "huān qíng bó: their happiness grew thin and short-lived."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "一怀愁绪：满怀的忧愁。",
+   "en": "yī huái chóu xù: a heart full of sorrow."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "离索：离开对方，一个人孤单地生活。",
+   "en": "lí suǒ: living apart, alone and lonely."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "错：错了。连说三个“错”，是在痛悔。",
+   "en": "cuò cuò cuò: wrong, wrong, wrong. Saying it three times shows bitter regret."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "人空瘦：人白白地瘦了下去。空，白白地。",
+   "en": "rén kōng shòu: she has grown thin, all for nothing. Kōng means \"in vain\"."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 4,
+   "zh": "浥：湿润，沾湿。",
+   "en": "yì: to wet."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "鲛绡：传说海里的鲛人织的薄纱，这里指手帕。",
+   "en": "jiāo xiāo: fine silk said to be woven by mermaids under the sea; here, a handkerchief."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "泪痕红：泪水混着脸上的胭脂，流下来是红色的。",
+   "en": "lèi hén hóng: the tear marks are red, because the tears carry her rouge with them."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 3,
+   "zh": "闲池阁：池塘边的楼阁空空的，没有人去。",
+   "en": "xián chí gé: the pavilions by the pond stand empty."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "山盟：像山一样永远不变的誓言。",
+   "en": "shān méng: a vow as lasting as the mountains."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "锦书：书信。传说前秦苏蕙把思念丈夫的诗织在锦缎上寄给他，后来就用“锦书”指情书。",
+   "en": "jǐn shū: a letter. Legend says Su Hui long ago wove a poem missing her husband into brocade and sent it to him, so \"brocade letter\" came to mean a love letter."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "难托：难以托人送去。",
+   "en": "nán tuō: hard to send through anyone."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 3,
+   "zh": "莫：罢了，算了。连说三个“莫”，是无可奈何。",
+   "en": "mò mò mò: enough, let it be. Saying it three times shows there is nothing to be done."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你红润柔软的手，",
+   "en": "Your pink, soft hands"
+  },
+  {
+   "zh": "捧着黄縢酒，",
+   "en": "pour the yellow-sealed wine."
+  },
+  {
+   "zh": "满城都是春色，宫墙边的柳树绿了。",
+   "en": "The town is full of spring; willows by the palace wall are green."
+  },
+  {
+   "zh": "可东风那么凶，",
+   "en": "But the east wind is cruel,"
+  },
+  {
+   "zh": "把我们的欢乐吹得那样淡薄。",
+   "en": "and our joy was blown thin."
+  },
+  {
+   "zh": "满怀的忧愁，",
+   "en": "A heart full of sorrow,"
+  },
+  {
+   "zh": "这些年孤单分离。",
+   "en": "these years apart and alone."
+  },
+  {
+   "zh": "错了，错了，错了！",
+   "en": "Wrong, wrong, wrong!"
+  },
+  {
+   "zh": "春天还和从前一样，",
+   "en": "Spring is just as it was before,"
+  },
+  {
+   "zh": "你却白白地瘦了。",
+   "en": "but you have grown thin, all for nothing."
+  },
+  {
+   "zh": "泪水带着胭脂，把手帕都湿透了。",
+   "en": "Tears red with rouge soak right through your silk handkerchief."
+  },
+  {
+   "zh": "桃花落了，",
+   "en": "Peach blossoms fall,"
+  },
+  {
+   "zh": "池塘边的楼阁空空的。",
+   "en": "the pavilions by the pond stand empty."
+  },
+  {
+   "zh": "当年的誓言虽然还在，",
+   "en": "Our vow as lasting as the mountains is still there,"
+  },
+  {
+   "zh": "想写一封信给你却没法送到。",
+   "en": "but no letter can be sent to you."
+  },
+  {
+   "zh": "罢了，罢了，罢了！",
+   "en": "Let it be, let it be, let it be!"
+  }
+ ],
+ "background": {
+  "zh": "据宋人笔记记载，陆游年轻时娶了唐氏（后人多称她唐琬），两人感情很好，可陆游的母亲不喜欢她，逼他们分开。后来唐氏改嫁赵士程。几年后的一个春天，陆游在家乡山阴（今浙江绍兴）的沈园游玩，碰到唐氏和她的丈夫。唐氏送来酒菜，陆游很难过，就在墙上写了这首词。这是流传最广的说法，也有学者怀疑这个故事，认为词是别的时候写的。",
+  "en": "According to notes by Song dynasty writers, Lu You as a young man married a woman of the Tang family, later often called Tang Wan. They loved each other, but his mother disliked her and forced them apart. She later married Zhao Shicheng. Some years after, one spring, Lu You was visiting Shen Garden in his hometown of Shanyin, today's Shaoxing in Zhejiang, and met her and her husband. She sent him wine and food. Heartbroken, he wrote this lyric on the garden wall. This is the best-known story, but some scholars doubt it and think the lyric was written at another time."
+ },
+ "author_note": {
+  "zh": "陆游（1125—1210），字务观，号放翁，越州山阴（今浙江绍兴）人，南宋大诗人，留下了九千多首诗。他一生最大的心愿是收复北方失地，写了很多爱国诗。他也写深情的词。这首词写的是一段被拆散的爱情，读起来非常痛苦。",
+  "en": "Lu You (1125–1210), courtesy name Wuguan, also called Fangweng, came from Shanyin, today's Shaoxing in Zhejiang. He was a great poet of the Southern Song and left more than nine thousand poems. His biggest wish all his life was to win back the lost lands in the north, and he wrote many patriotic poems. He also wrote tender lyrics. This one is about a love that was broken apart, and it is full of pain."
+ },
+ "appreciation": {
+  "zh": "上阕先写回忆里的美好：红润的手，香甜的酒，满城春色。接着突然转到“东风恶”，美好被吹散了，只剩下多年的孤单。三个“错”字像一声声捶胸的叹息。下阕写眼前的她：春天还是那个春天，人却瘦了，眼泪把手帕都湿透了。桃花落了，楼阁空了，誓言还在，信却送不出去。最后三个“莫”字，是想说又不能说、想改又改不了，只能放下。这首词句子很短，节奏很急，好像人哭得喘不过气。上下两阕一个用“错”收尾，一个用“莫”收尾，让人读了久久难忘。",
+  "en": "The first stanza begins with sweet memories: pink hands, sweet wine, a town full of spring. Then it turns suddenly to \"the east wind is cruel\". The sweetness is blown away, and only years of loneliness are left. The three \"wrongs\" are like sighs while beating one's chest. The second stanza shows her now. Spring is the same spring, but she has grown thin, and her tears have soaked her handkerchief. The peach blossoms have fallen, the pavilions are empty, the vow remains, but no letter can reach her. The final three \"let it be\"s mean: I want to speak but cannot, I want to change things but cannot, so I must let go. The lines are very short and the rhythm is fast, like someone crying so hard they cannot catch their breath. One stanza ends with \"wrong\", the other with \"let it be\", and readers do not forget them."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  7,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "regret",
+   "separation"
+  ]
+ },
+ "uncertain": []
+}

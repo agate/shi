@@ -1,0 +1,826 @@
+{
+ "id": "ci-61f95452d5da",
+ "kind": "ci",
+ "title": "疏影·苔枝缀玉",
+ "title_en": "To the Tune Shu Ying: Mossy Branches Strung with Jade",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调（自度曲）",
+  "en": "ci, long two-stanza lyric to a tune of the poet's own"
+ },
+ "lines": [
+  [
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "缀",
+    "zhuì"
+   ],
+   [
+    "玉",
+    "yù"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "禽",
+    "qín"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "宿",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ]
+  ],
+  [
+   [
+    "篱",
+    "lí"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "修",
+    "xiū"
+   ],
+   [
+    "竹",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "昭",
+    "zhāo"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "惯",
+    "guàn"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "北",
+    "běi"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "佩",
+    "pèi"
+   ],
+   [
+    "环",
+    "huán"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "化",
+    "huà"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "独",
+    "dú"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "排",
+    "pái"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "屋",
+    "wū"
+   ]
+  ],
+  [
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "哀",
+    "āi"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "等",
+    "děng"
+   ],
+   [
+    "恁",
+    "nèn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "幅",
+    "fú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "宿",
+   "pinyin": "sù",
+   "zh": "“同宿”是一起过夜，“宿”读 sù。",
+   "en": "Tóng sù means to spend the night together; this character is read sù."
+  },
+  {
+   "line": 16,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“还教”是“却又让”，“还”读 hái。",
+   "en": "Hái jiào means and yet lets; this character is read hái here."
+  },
+  {
+   "line": 16,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "“教”在这里是“使、让”的意思，现在一般读 jiào；旧时诗词里也读 jiāo。",
+   "en": "Here this character means to let or make. It is usually read jiào today; in old verse it was also read jiāo."
+  },
+  {
+   "line": 17,
+   "pos": 6,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "“哀曲”是悲伤的乐曲，“曲”读 qǔ。",
+   "en": "Āi qǔ is a sad tune; this character is read qǔ."
+  },
+  {
+   "line": 18,
+   "pos": 1,
+   "char": "恁",
+   "pinyin": "nèn",
+   "zh": "“恁时”就是“那时”，“恁”读 nèn。",
+   "en": "Nèn shí means at that time; this character is read nèn."
+  },
+  {
+   "line": 18,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重觅”是再去寻找，“重”读 chóng。",
+   "en": "Chóng mì means to search again; this character is read chóng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "苔枝：长着青苔的老梅枝。",
+   "en": "tái zhī: old plum branches covered in moss."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "缀玉：点缀着像玉一样的梅花。",
+   "en": "zhuì yù: dotted with blossoms like jade."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "翠禽：翠绿色的小鸟。传说隋代赵师雄在罗浮山梅树下遇见一位美人，醒来时只见梅树上有翠鸟在叫，原来美人是梅花的化身。",
+   "en": "cuì qín: little green birds. A legend says a man named Zhao Shixiong met a beauty under a plum tree on Mount Luofu. When he woke, only green birds sang in the tree; the beauty had been the plum blossom itself."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "客里：在外地做客的时候。",
+   "en": "kè lǐ: while staying far from home."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "篱角：篱笆的角落。",
+   "en": "lí jiǎo: a corner of the fence."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "自倚修竹：独自靠着长长的竹子。化用杜甫《佳人》“天寒翠袖薄，日暮倚修竹”，把梅花比作一位孤独的美人。修，长。",
+   "en": "zì yǐ xiū zhú: leaning alone against tall bamboo. It echoes Du Fu's poem \"A Fair Lady\", turning the plum into a lonely beauty. Xiū means long."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "昭君：王昭君，汉代宫女，被嫁到北方匈奴，一辈子没能回来。",
+   "en": "Zhāojūn: Wang Zhaojun, a Han palace lady married off to the Xiongnu in the north, who never came home."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "胡沙：北方的沙漠。",
+   "en": "hú shā: the northern deserts."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "暗忆：心里偷偷地想念。",
+   "en": "àn yì: to miss in secret."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "佩环：女子身上佩戴的玉饰，这里指昭君。杜甫写昭君有“环佩空归夜月魂”的诗句。",
+   "en": "pèi huán: jade ornaments worn by a woman; here they stand for Zhaojun. Du Fu wrote of her spirit coming back on a moonlit night with only her jade ornaments."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "幽独：幽静孤独。",
+   "en": "yōu dú: quiet and alone."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 6,
+   "zh": "深宫旧事：宫里的老故事。传说南朝宋武帝的女儿寿阳公主睡在含章殿檐下，梅花落在她额头上，留下花印，拂也拂不掉，宫女们就学着在额头上画梅花，叫“梅花妆”。",
+   "en": "shēn gōng jiù shì: an old story of the palace. Princess Shouyang, a daughter of Emperor Wu of the Liu Song, was sleeping under the eaves when a plum flower fell on her forehead and left a mark that would not brush off. The palace ladies copied it, and painting a plum flower on the forehead became a fashion."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "那人：指寿阳公主。",
+   "en": "nà rén: that lady, Princess Shouyang."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "蛾绿：女子的眉毛。古人用青黑色画眉，眉形像蛾的触须。",
+   "en": "é lǜ: a lady's eyebrows. They were painted dark green-black, shaped like a moth's feelers."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "莫似春风：不要像春风那样。",
+   "en": "mò sì chūn fēng: do not be like the spring wind."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "不管盈盈：不管美好的梅花，任它飘落。盈盈，美好的样子，指梅花。",
+   "en": "bù guǎn yíng yíng: caring nothing for the lovely one and letting it fall. Yíng yíng means graceful; it means the plum blossom."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 6,
+   "zh": "早与安排金屋：早早为它准备一间金屋。汉武帝小时候说，如果能娶阿娇，就造一座金屋让她住。这里是说要好好珍惜梅花。",
+   "en": "zǎo yǔ ān pái jīn wū: prepare a golden house for it early. As a boy, Emperor Wu of Han said he would build a golden house for his cousin Ajiao if he married her. Here it means to treasure the plum blossom."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "还教：却又让。",
+   "en": "hái jiào: and yet lets."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 7,
+   "zh": "一片随波去：一片片花瓣随着流水漂走了。",
+   "en": "yī piàn suí bō qù: petal after petal floats away on the water."
+  },
+  {
+   "line": 17,
+   "start": 3,
+   "end": 7,
+   "zh": "玉龙哀曲：笛子吹出的悲伤曲子。玉龙，笛子。古代有笛曲《梅花落》。",
+   "en": "yù lóng āi qǔ: a sad tune on the flute. Yù lóng, jade dragon, means a flute. There was an old flute tune called \"Plum Blossoms Falling\"."
+  },
+  {
+   "line": 18,
+   "start": 1,
+   "end": 3,
+   "zh": "恁时：那时。",
+   "en": "nèn shí: by then."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 7,
+   "zh": "重觅幽香：再去寻找梅花淡淡的香气。",
+   "en": "chóng mì yōu xiāng: to search again for the plum's faint scent."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 6,
+   "zh": "小窗横幅：挂在小窗边的横幅画。意思是梅花已经落尽，只能在画里看见了。",
+   "en": "xiǎo chuāng héng fú: a wide painting hung by a small window. The blossoms are all gone; they can be seen only in a picture."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长着青苔的梅枝上，开满了玉一样的花，",
+   "en": "Mossy plum branches are strung with jade-like blossoms;"
+  },
+  {
+   "zh": "有一对小小的翠鸟，",
+   "en": "a pair of tiny green birds"
+  },
+  {
+   "zh": "在枝头一起过夜。",
+   "en": "spend the night together on a branch."
+  },
+  {
+   "zh": "我在他乡遇见了它，",
+   "en": "Far from home, I meet her"
+  },
+  {
+   "zh": "黄昏时，在篱笆的角落，",
+   "en": "at dusk, in a corner of the fence,"
+  },
+  {
+   "zh": "她一句话也不说，独自靠着修长的竹子。",
+   "en": "leaning silent and alone against the tall bamboo."
+  },
+  {
+   "zh": "王昭君住不惯遥远的北方沙漠，",
+   "en": "Wang Zhaojun could never get used to the far-off desert sands;"
+  },
+  {
+   "zh": "只在心里偷偷想念江南江北。",
+   "en": "she only longed in secret for the lands south and north of the Yangtze."
+  },
+  {
+   "zh": "我想，她戴着玉饰在月夜里回来，",
+   "en": "I imagine her coming home on a moonlit night, her jade ornaments ringing,"
+  },
+  {
+   "zh": "化成了这一树幽静孤独的梅花。",
+   "en": "and turning into this quiet, lonely plum."
+  },
+  {
+   "zh": "还记得深宫里的老故事：",
+   "en": "I still remember the old palace story:"
+  },
+  {
+   "zh": "那位公主正在睡觉，",
+   "en": "as the princess lay asleep,"
+  },
+  {
+   "zh": "梅花飞落在她眉间。",
+   "en": "a plum flower flew down near her painted brows."
+  },
+  {
+   "zh": "不要像春风那样，",
+   "en": "Do not be like the spring wind,"
+  },
+  {
+   "zh": "不管美好的梅花，",
+   "en": "careless of the lovely blossom;"
+  },
+  {
+   "zh": "应该早早为它准备一座金屋。",
+   "en": "make ready a golden house for her early."
+  },
+  {
+   "zh": "如果还让花瓣一片片随水漂走，",
+   "en": "If you still let her petals drift off one by one on the water,"
+  },
+  {
+   "zh": "又要去埋怨笛子吹出了悲伤的曲子。",
+   "en": "you will only blame the flute for its sad tune."
+  },
+  {
+   "zh": "等到那时候，再想找寻梅花的幽香，",
+   "en": "By then, when you look again for her faint scent,"
+  },
+  {
+   "zh": "她已经只留在小窗边的画里了。",
+   "en": "she will be only in the painting by the little window."
+  }
+ ],
+ "background": {
+  "zh": "宋光宗绍熙二年（1191年）冬天，姜夔冒着雪去苏州石湖，拜访退休在家的大诗人范成大，住了一个多月。范成大请他写新词、作新曲，他就写了《暗香》《疏影》两首咏梅的词，范成大非常喜欢，让歌女学唱。两个词牌名来自北宋林逋咏梅的名句“疏影横斜水清浅，暗香浮动月黄昏”。一说词中暗含对被金人掳走的北宋后妃的感慨。",
+  "en": "In the winter of 1191, Jiang Kui travelled through the snow to Stone Lake near Suzhou to visit the great poet Fan Chengda, who had retired there, and stayed over a month. Fan asked him for new lyrics with new tunes, so he wrote two lyrics about plum blossom, \"An Xiang\" and \"Shu Ying\". Fan loved them and had singers learn them. The tune names come from a famous plum poem by Lin Bu: sparse shadows (shu ying) slanting over clear water, a hidden scent (an xiang) drifting at moonlit dusk. Some readers think the lyric also grieves for the Northern Song palace ladies carried off by the Jin."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），号白石道人，南宋词人，也是音乐家。他一生没有做官，靠朋友帮助过日子。他懂音律，能自己作曲，《暗香》《疏影》就是他自己创作的曲调。他的词清冷雅致，用典很多，常把咏物和怀人、伤时写在一起。",
+  "en": "Jiang Kui (about 1155–about 1221), known as the Daoist of White Stone, was a Southern Song lyric poet and a composer. He never held office and lived with help from friends. He knew music well and wrote his own tunes; \"An Xiang\" and \"Shu Ying\" are both his own. His lyrics are cool and elegant, full of allusions, and often mix a thing seen with longing for a person and grief for the times."
+ },
+ "appreciation": {
+  "zh": "这首词写梅花，却几乎不直接写花的样子，而是把梅花比作一个个女子。先是在篱笆边黄昏里倚着竹子、默默无言的美人；再是远嫁北方、魂魄在月夜回来化作梅花的王昭君；然后是额上落了梅花的寿阳公主。这些女子都美丽、孤独，又有点可怜，梅花也就有了人的心事。下阕诗人劝人：不要像春风那样不管花，要早早珍惜它；不然等花瓣随水漂走，听见笛声再伤心，也只能在画里看梅花了。词里用的典故多，读起来像一层薄雾，清冷、幽静，带着淡淡的惋惜。",
+  "en": "This lyric is about plum blossom, yet it hardly describes the flower. Instead it turns the plum into one woman after another. First a beauty leaning silently on bamboo by a fence at dusk. Then Wang Zhaojun, married off far to the north, whose spirit comes home on a moonlit night and becomes the plum. Then Princess Shouyang, with a plum flower on her forehead. These women are all lovely, lonely and a little sad, and so the plum takes on a human heart. In the second half the poet pleads: do not be careless like the spring wind; treasure the blossom early. Otherwise its petals will float away, the flute will sound sad, and you will see the plum only in a painting. The many old stories make the lyric feel like thin mist: cool, quiet and softly regretful."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "plum-blossom",
+   "flowers",
+   "loneliness",
+   "regret"
+  ]
+ },
+ "uncertain": []
+}

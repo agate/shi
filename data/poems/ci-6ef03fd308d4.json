@@ -1,0 +1,478 @@
+{
+ "id": "ci-6ef03fd308d4",
+ "kind": "ci",
+ "title": "临江仙·梦后楼台高锁",
+ "title_en": "To the Tune of Lin Jiang Xian: After the Dream, the Tower Locked High",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·临江仙（双调）",
+  "en": "ci lyric to the tune Lin Jiang Xian, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "幕",
+    "mù"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "垂",
+    "chuí"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "立",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "得",
+    "de"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "蘋",
+    "pín"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "琵",
+    "pí"
+   ],
+   [
+    "琶",
+    "pá"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "资料库把歌女的名字写作“小苹”，这是繁体“蘋”被机器转成了“苹”。“蘋”是一种水草，读 pín，和苹果的“苹”不是一个字，通行本写作“小蘋”。",
+  "en": "The corpus writes the singer's name as Xiao Ping with the character for apple. That is a slip of machine conversion. Her name uses a different character, read pín, which names a water plant. Common editions keep that character."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "却",
+   "pinyin": "què",
+   "zh": "“却来”的“却”是“又、再”的意思，读 què。",
+   "en": "Què lái here means comes back again. It is read què."
+  },
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "燕",
+   "pinyin": "yàn",
+   "zh": "“燕”指燕子，读 yàn，不读 yān。",
+   "en": "Yàn here means swallow, the bird. It is not read yān."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "得",
+   "pinyin": "de",
+   "zh": "“记得”的“得”读轻声 de。",
+   "en": "In jì de the second syllable is light: de."
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "蘋",
+   "pinyin": "pín",
+   "zh": "“小蘋”的“蘋”读 pín，不读 píng。",
+   "en": "In the name Xiao Pin the character is read pín, not píng."
+  },
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“两重”是“两层”，读 chóng。",
+   "en": "Liǎng chóng means two layers, read chóng, not zhòng."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "曾",
+   "pinyin": "céng",
+   "zh": "“曾照”是“曾经照过”，读 céng。",
+   "en": "Céng zhào means once shone on, read céng, not zēng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "高锁：高楼的门紧紧锁着。",
+   "en": "gāo suǒ: the high tower is locked tight."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "帘幕：挂在门窗上的帘子和帷幕。",
+   "en": "lián mù: curtains and hangings over doors and windows."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "春恨：春天里的离别愁苦。",
+   "en": "chūn hèn: the ache of parting felt in spring."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "却来：又来了。",
+   "en": "què lái: comes back again."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "落花人独立：花瓣纷纷飘落，人孤零零地站着。这句和下一句借用了五代诗人翁宏的诗句。",
+   "en": "luò huā rén dú lì: petals falling, a person standing alone. This line and the next are borrowed from the poet Weng Hong of the Five Dynasties."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "微雨燕双飞：小雨里，燕子成双成对地飞。",
+   "en": "wēi yǔ yàn shuāng fēi: in a light rain, swallows fly in pairs."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "小蘋：一个歌女的名字。",
+   "en": "xiǎo pín: Xiao Pin, the name of a singing girl."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 6,
+   "zh": "心字罗衣：绣着“心”字花纹的丝绸衣服。两重，两层。一说是衣领绕成“心”字的形状。",
+   "en": "xīn zì luó yī: a silk dress with a pattern like the character for heart. Liǎng chóng means two layers. One view says the collar was shaped like that character."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "琵琶：一种弹拨乐器，抱在怀里弹。",
+   "en": "pí pá: the pipa, a plucked lute held upright on the lap."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "说相思：用琴声诉说思念。",
+   "en": "shuō xiāng sī: telling of longing through the music."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "彩云：彩色的云。这里比喻小蘋，她像彩云一样美，也像彩云一样容易散去。",
+   "en": "cǎi yún: bright-colored clouds. Here they stand for Xiao Pin. She was as lovely as a bright cloud, and just as quick to drift away."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "从梦里醒来，只见高楼紧紧锁着，",
+   "en": "Waking from a dream, I see the tall tower locked tight."
+  },
+  {
+   "zh": "酒醒以后，帘幕低低地垂着。",
+   "en": "Sober again, I find the curtains hanging low."
+  },
+  {
+   "zh": "去年春天的离愁，又涌上心头。",
+   "en": "Last spring's sorrow of parting comes back again."
+  },
+  {
+   "zh": "花瓣飘落，我一个人站着，",
+   "en": "Petals fall; I stand alone."
+  },
+  {
+   "zh": "小雨里，燕子成双成对地飞。",
+   "en": "In the light rain, swallows fly in pairs."
+  },
+  {
+   "zh": "记得第一次见到小蘋，",
+   "en": "I remember when I first met Xiao Pin."
+  },
+  {
+   "zh": "她穿着绣有心字图案的两层丝绸衣服。",
+   "en": "She wore a two-layered silk dress with a heart pattern."
+  },
+  {
+   "zh": "她弹着琵琶，用琴声诉说相思。",
+   "en": "On the strings of her pipa she told of longing."
+  },
+  {
+   "zh": "那时的明月还在天上，",
+   "en": "The bright moon of that time is still here."
+  },
+  {
+   "zh": "它曾经照着小蘋像彩云一样回去。",
+   "en": "It once shone on her as she went home like a bright cloud."
+  }
+ ],
+ "background": {
+  "zh": "晏几道在《小山词》的自序里说，他的朋友沈廉叔、陈君龙家里有几位歌女，名叫莲、鸿、蘋、云。他写了新词，就交给她们唱。后来朋友一个病了，一个去世了，歌女们也流落四方。这首词就是怀念其中的小蘋。写作的具体年份不清楚。",
+  "en": "In the preface to his collection, Yan Jidao says his friends Shen Lianshu and Chen Junlong had several singing girls at home, named Lian, Hong, Pin and Yun. Whenever he wrote a new lyric, he gave it to them to sing. Later one friend fell ill and the other died, and the singers were scattered far and wide. This lyric looks back on one of them, Xiao Pin. The exact year it was written is not known."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，是宰相晏殊的小儿子。他出身富贵，后来家道中落，生活清苦。他性子孤傲，不愿意讨好有权的人。他的词多写过去的欢乐和现在的思念，感情真挚，和父亲晏殊并称“二晏”。",
+  "en": "Yan Jidao (about 1038 to about 1110), also called Shuyuan and known as Xiaoshan, was the youngest son of the chief minister Yan Shu. He was born rich, but his family later declined and he lived in hardship. He was proud and would not flatter powerful men. His lyrics mostly tell of past joys and present longing, with deep, honest feeling. He and his father are called the Two Yans."
+ },
+ "appreciation": {
+  "zh": "上片写现在：梦醒酒醒，楼锁着，帘垂着，到处冷冷清清。去年春天的愁又回来了。“落花人独立，微雨燕双飞”是千古名句：花在落，人孤单，燕子却成双成对，一对比，寂寞就更深了。下片写回忆：第一次见小蘋，她穿着漂亮的衣服，用琵琶弹出心里的相思。最后两句最动人：月亮还是那个月亮，当年它照着小蘋回去，如今人却不见了。美好的人像彩云一样，说散就散了。",
+  "en": "The first stanza is the present. He wakes from a dream and from wine. The tower is locked, the curtains hang low, all is cold and empty. Last spring's sorrow returns. \"Petals fall; I stand alone. In the light rain, swallows fly in pairs\" is a line remembered for a thousand years. The flowers fall and he is alone, while the swallows fly two by two. Side by side, the loneliness cuts deeper. The second stanza is memory. When he first saw Xiao Pin, she wore a lovely dress and played her longing on the pipa. The last two lines are the most moving. The moon is the same moon that once lit her way home. But she is gone. Lovely people, like bright clouds, drift away so easily."
+ },
+ "famous_lines": [
+  3,
+  4,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "memory",
+   "loneliness",
+   "moon",
+   "music"
+  ]
+ },
+ "uncertain": []
+}

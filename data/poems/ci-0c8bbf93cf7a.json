@@ -1,0 +1,449 @@
+{
+ "id": "ci-0c8bbf93cf7a",
+ "kind": "ci",
+ "title": "玉楼春·春恨",
+ "title_en": "Jade Tower Spring: Spring Sorrow",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "抛",
+    "pāo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "更",
+    "gēng"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "底",
+    "dǐ"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "通行本第四句作“花底离愁三月雨”，这里的底本作“离情”，意思相近。",
+  "en": "The commonly taught text has lí chóu (the sorrow of parting) in the fourth line; the source text has lí qíng (feelings of parting). The meaning is close."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "hái",
+   "zh": "“一寸还成千万缕”的“还”，意思是“却、竟然”，现在多读 hái；也有读本读作 huán（还原、变成）。",
+   "en": "In this line the character means yet or even so, and is usually read hái today. Some readers read it huán, taking it as turning into."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "长亭：古时路边供人休息的亭子，人们常在这里送别。",
+   "en": "cháng tíng: a roadside pavilion where travellers rested. People often said goodbye there."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "年少：年轻人，这里指离开的那个人。",
+   "en": "nián shào: a young man, here the one who left."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "抛人：丢下我。",
+   "en": "pāo rén: to leave me behind."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "容易去：轻易地就走了。",
+   "en": "róng yì qù: to go off lightly, as if it were nothing."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "楼头：楼上。",
+   "en": "lóu tóu: up in the tower."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "残梦：没做完的梦，被惊醒的梦。",
+   "en": "cán mèng: a broken dream, cut off when one wakes."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "五更钟：天快亮时的钟声。古人把一夜分成五更，五更就是快天亮的时候。",
+   "en": "wǔ gēng zhōng: the bell just before dawn. People once split the night into five watches; the fifth watch is just before daybreak."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "花底：花丛下。",
+   "en": "huā dǐ: beneath the flowers."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "离愁：分别的愁苦。",
+   "en": "lí chóu: the sorrow of parting."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "三月雨：暮春三月的雨，花被雨打落。",
+   "en": "sān yuè yǔ: rain in the third month, late spring, when rain knocks the flowers down."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 7,
+   "zh": "无情不似多情苦：没有感情的人，不像多情的人这样痛苦。",
+   "en": "wú qíng bú sì duō qíng kǔ: those without feelings do not suffer the way those with deep feelings do."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "一寸：一寸长的心，指人的心。古人说心只有方寸那么大。",
+   "en": "yí cùn: an inch, meaning the heart. People of old said the heart is only about an inch across."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "千万缕：千丝万缕，像无数根丝线，指数不清的愁思。",
+   "en": "qiān wàn lǚ: thousands of threads, meaning countless sad thoughts."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "天涯地角：天的边、地的角，最远的地方。",
+   "en": "tiān yá dì jiǎo: the edge of the sky and the corner of the earth, the farthest places there are."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "有穷时：总有到头的时候。",
+   "en": "yǒu qióng shí: there is a point where they end."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "无尽处：没有尽头。",
+   "en": "wú jìn chù: no end at all."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长亭外的路上，杨柳青青，芳草萋萋，",
+   "en": "On the road by the parting pavilion, the willows are green and the grass is sweet."
+  },
+  {
+   "zh": "那个年轻人轻易地丢下我走了。",
+   "en": "The young man left me as lightly as if it were nothing."
+  },
+  {
+   "zh": "楼上的梦被五更的钟声惊醒，",
+   "en": "Up in the tower, my dream is broken by the bell before dawn;"
+  },
+  {
+   "zh": "花下的离愁像三月的雨一样绵绵不断。",
+   "en": "beneath the flowers, my sorrow falls like the endless rain of the third month."
+  },
+  {
+   "zh": "没有感情的人，不像多情的人这样痛苦，",
+   "en": "Those without feelings do not suffer as those with deep feelings do."
+  },
+  {
+   "zh": "小小的一颗心，竟变成了千丝万缕的愁绪。",
+   "en": "One small heart turns into thousands of threads of sorrow."
+  },
+  {
+   "zh": "天边地角再远，也总有到头的时候，",
+   "en": "Even the edge of the sky and the corner of the earth have an end,"
+  },
+  {
+   "zh": "只有相思，永远没有尽头。",
+   "en": "but longing alone goes on without end."
+  }
+ ],
+ "background": {
+  "zh": "这首词写一位女子在春天想念离开的爱人。“春恨”就是春天里分别的愁苦。古人写词，常常借女子的口吻写离别和相思。这首词具体写于哪一年，已经说不清楚。",
+  "en": "This lyric is about a woman in spring who misses the man who has left her. The title means spring sorrow, the pain of parting felt in spring. Song poets often wrote about parting and longing in a woman's voice. We no longer know in which year it was written."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），字同叔，北宋词人，做过宰相。他从小就是“神童”，十四岁就被推荐进朝廷。他的词温和、典雅，常写闲愁和离别。著名的“无可奈何花落去，似曾相识燕归来”也是他写的。",
+  "en": "Yan Shu (991–1055) was a Northern Song poet who served as chancellor. He was a child prodigy and was sent to court at fourteen. His lyrics are gentle and elegant, often about quiet sorrow and parting. The famous lines about flowers falling and swallows returning are also his."
+ },
+ "appreciation": {
+  "zh": "上半首写景也写人：长亭外柳绿草青，本是美好的春天，可那个年轻人却轻轻松松地走了。楼上，梦被五更钟声惊醒；花下，离愁像三月的雨下个不停。钟声和雨声，把孤单写得有声有色。下半首直接说心里话：不懂感情的人反倒不痛苦，多情的人才苦。一颗小小的心，能生出千丝万缕的愁。最后两句最有名：天涯海角再远也有尽头，只有相思没有尽头。用最远的地方来比，更显出相思之长。",
+  "en": "The first half shows both the scene and the people. Outside the pavilion the willows are green and the grass is fresh, a lovely spring. Yet the young man walked off as if it were nothing. Up in the tower, her dream is broken by the dawn bell. Under the flowers, her sorrow keeps falling like spring rain. The bell and the rain make her loneliness something you can hear. The second half speaks straight from the heart. People without feelings do not suffer; only those who love deeply do. One small heart can grow thousands of threads of sorrow. The last two lines are the most famous. Even the farthest places on earth have an end, but longing has none. Comparing it with the farthest places shows how long longing lasts."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "parting",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

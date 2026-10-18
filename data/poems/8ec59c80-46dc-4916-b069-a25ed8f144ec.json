@@ -1,0 +1,401 @@
+{
+ "id": "8ec59c80-46dc-4916-b069-a25ed8f144ec",
+ "kind": "shi",
+ "title": "使至塞上",
+ "title_en": "On a Mission to the Frontier",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "单",
+    "dān"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "属",
+    "shǔ"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "延",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "塞",
+    "sài"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "直",
+    "zhí"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "圆",
+    "yuán"
+   ]
+  ],
+  [
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "骑",
+    "qí"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dū"
+   ],
+   [
+    "护",
+    "hù"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古诗库第七句作“萧关逢候吏”（守候迎接的小官），课本和通行本作“萧关逢候骑”（侦察的骑兵）。",
+  "en": "The corpus has the seventh line as \"meeting a waiting official at Xiao Pass\"; textbooks and common editions have \"meeting a mounted scout\"."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "“候骑”的“骑”指骑兵，老师和许多注本读 jì，这是旧读。现在的规范词典已经统一读 qí。",
+   "en": "In hòu qí, the character means a mounted soldier. Many teachers and annotated editions read it jì, the old reading. Current standard dictionaries read it qí in all uses."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "都",
+   "pinyin": "dū",
+   "zh": "读 dū，“都护”是官名。不读 dōu。",
+   "en": "Read dū; dū hù is an official title. It is not dōu."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "读 yān，“燕然”是山名。不读 yàn（燕子的燕）。",
+   "en": "Read yān; yān rán is the name of a mountain. It is not yàn, the swallow."
+  },
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "属",
+   "pinyin": "shǔ",
+   "zh": "读 shǔ，“属国”是官名或附属国。不读 zhǔ。",
+   "en": "Read shǔ; shǔ guó is an official title or a subject state. It is not zhǔ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "单车：一辆车，说明随从很少，轻车简从。",
+   "en": "dān chē: a single carriage, meaning he travels with few attendants."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "问边：到边塞去慰问守边的将士。",
+   "en": "wèn biān: to go to the frontier to visit and comfort the soldiers."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "属国：“典属国”的简称，汉代管理和少数民族往来的官。这里王维借来指自己使臣的身份。一说指归附唐朝的小国。",
+   "en": "shǔ guó: short for an old Han dynasty title, the official in charge of dealings with border peoples. Wang Wei uses it for himself as an envoy. Another reading takes it as the small states that submitted to the Tang."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "过居延：经过居延。居延，地名，在今内蒙古额济纳旗一带，这里泛指遥远的边地。",
+   "en": "guò jū yán: passing Juyan, a place around today's Ejin Banner in Inner Mongolia. Here it stands for the far frontier in general."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "征蓬：随风远飞的蓬草。蓬草干枯后会被风连根吹起，到处飘飞，诗人用它比喻自己。",
+   "en": "zhēng péng: tumbleweed blowing far away. When the péng plant dries, the wind tears it up and blows it everywhere. The poet compares himself to it."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "汉塞：汉朝的边关，这里借指唐朝的边塞。",
+   "en": "hàn sài: the Han frontier passes, here meaning the Tang frontier."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "归雁：春天从南方飞回北方的大雁。",
+   "en": "guī yàn: wild geese flying back north in spring."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "胡天：胡人地区的天空，指西北边地。胡，古代对北方和西方少数民族的称呼。",
+   "en": "hú tiān: the skies over the lands of the Hu, the northwest borderlands. Hú was the old name for peoples of the north and west."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "大漠：广阔的大沙漠。",
+   "en": "dà mò: the vast desert."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "孤烟：一缕直直升起的烟。一说是烽火台报平安的烟火。",
+   "en": "gū yān: a single column of smoke rising straight up. One view says it is smoke from a beacon tower."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "长河：一般认为指黄河。",
+   "en": "cháng hé: the long river, usually taken to be the Yellow River."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "萧关：古代关口名，在今宁夏固原东南。",
+   "en": "xiāo guān: Xiao Pass, an old pass southeast of today's Guyuan in Ningxia."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "候骑：负责侦察、传递消息的骑兵。",
+   "en": "hòu qí: mounted scouts who watch the enemy and carry messages."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "都护：唐代在边疆设立的都护府的长官，这里指前线的主将。",
+   "en": "dū hù: the governor of a Tang frontier command, here meaning the commanding general."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "燕然：燕然山，在今蒙古国境内。东汉大将窦宪曾在这里刻石记功。这里代指前线。",
+   "en": "yān rán: Mount Yanran, in today's Mongolia. The Eastern Han general Dou Xian carved a record of his victory on it. Here it stands for the front line."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我乘着一辆车，轻装去慰问边关，",
+   "en": "With a single carriage I set out to visit the frontier,"
+  },
+  {
+   "zh": "作为使臣，经过了遥远的居延。",
+   "en": "an envoy passing far-off Juyan."
+  },
+  {
+   "zh": "我像随风飘飞的蓬草一样飞出了边塞，",
+   "en": "Like tumbleweed I blow out past the frontier passes;"
+  },
+  {
+   "zh": "又像北归的大雁一样进入了胡地的天空。",
+   "en": "like the returning geese I fly into the northern skies."
+  },
+  {
+   "zh": "广阔的沙漠上，一缕孤烟直直升起；",
+   "en": "Over the vast desert a single column of smoke rises straight;"
+  },
+  {
+   "zh": "长长的黄河上，落日又大又圆。",
+   "en": "over the long river the setting sun is round."
+  },
+  {
+   "zh": "到了萧关，遇到侦察的骑兵，",
+   "en": "At Xiao Pass I meet a mounted scout,"
+  },
+  {
+   "zh": "他告诉我：主帅正在燕然前线。",
+   "en": "who tells me: the commander is at the front, at Mount Yanran."
+  }
+ ],
+ "background": {
+  "zh": "开元二十五年（737年）春天，河西节度副大使崔希逸打败了吐蕃。唐玄宗派王维以监察御史的身份出塞，去慰问将士、察看军情，后来他还留在凉州做了一段时间的判官（帮助长官处理事务的官员）。这首诗写的就是他出使路上看到的边塞风光。一说这次出使也有被排挤出朝廷的意思。",
+  "en": "In the spring of 737, Cui Xiyi, a frontier commander in the Hexi region, defeated the Tibetan army. Emperor Xuanzong sent Wang Wei, then a censor, to the frontier to comfort the troops and look into the army's affairs. He later stayed on in Liangzhou for a while as an aide to the commander. This poem records the frontier scenery he saw on the way. One view holds that the mission was also a way of pushing him out of the court."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），唐代大诗人，也是画家和音乐家，被称为“诗佛”。苏轼说他“诗中有画”。他最擅长写山水田园，这首诗写的是边塞，却同样像一幅画。",
+  "en": "Wang Wei (701–761, or by another account 699–761) was a great Tang poet, painter and musician, called the Buddha of Poetry. Su Shi said there were \"paintings in his poems\". He was best at poems of hills, fields and streams. This one is about the frontier, yet it too reads like a painting."
+ },
+ "appreciation": {
+  "zh": "“大漠孤烟直，长河落日圆”是写边塞最有名的两句。你可以想象一幅画：一望无边的黄沙，没有一点风，一缕烟直直地升上天；远处一条长河，太阳落下去，又大又圆，红红地挂在河上。“直”和“圆”两个字很简单，像画画时画下的一条直线和一个圆，却把沙漠的辽阔、安静和壮美都画了出来。王维把自己比作飘飞的蓬草和北飞的孤雁，又透出一点远行人的孤独。最后写到了萧关，才知道主帅还在更远的前线，边塞之远，可想而知。",
+  "en": "\"Over the vast desert a single column of smoke rises straight; over the long river the setting sun is round\" are the most famous lines ever written about the frontier. Picture it: endless yellow sand, no wind at all, one thin line of smoke going straight up into the sky. Far off, a long river, and the sun sinking, big, round and red above the water. The words \"straight\" and \"round\" are very simple, like drawing one line and one circle, yet they capture how wide, quiet and grand the desert is. Wang Wei also compares himself to blowing tumbleweed and to geese flying north, which hints at a traveller's loneliness. At the end he reaches Xiao Pass and learns that the commander is still farther away at the front, so you can feel how remote the frontier is."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "desert",
+   "sunset",
+   "journey"
+  ]
+ },
+ "uncertain": []
+}

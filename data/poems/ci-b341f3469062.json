@@ -1,0 +1,715 @@
+{
+ "id": "ci-b341f3469062",
+ "kind": "ci",
+ "title": "鹤冲天·黄金榜上",
+ "title_en": "Crane Soaring to Heaven: On the Golden List",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "榜",
+    "bǎng"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "偶",
+    "ǒu"
+   ],
+   [
+    "失",
+    "shī"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "代",
+    "dài"
+   ],
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "遗",
+    "yí"
+   ],
+   [
+    "贤",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "向",
+    "xiàng"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "遂",
+    "suì"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "便",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "恣",
+    "zì"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ],
+   [
+    "荡",
+    "dàng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "论",
+    "lùn"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "丧",
+    "sàng"
+   ]
+  ],
+  [
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "词",
+    "cí"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "卿",
+    "qīng"
+   ],
+   [
+    "相",
+    "xiàng"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "巷",
+    "xiàng"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "丹",
+    "dān"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "障",
+    "zhàng"
+   ]
+  ],
+  [
+   [
+    "幸",
+    "xìng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "访",
+    "fǎng"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "恁",
+    "nèn"
+   ],
+   [
+    "偎",
+    "wēi"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "翠",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "畅",
+    "chàng"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "饷",
+    "xiǎng"
+   ]
+  ],
+  [
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "名",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "斟",
+    "zhēn"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "唱",
+    "chàng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "古诗词数据库里“且恁偎红倚翠”少了一个“倚”字，写作“且恁偎红翠”。通行本作“且恁偎红倚翠”，这里按通行本补上。",
+  "en": "In the poetry database, the line about staying close to the lovely girls is missing one character, yǐ, \"to lean on\". Standard editions have it, and this page follows them."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "丧",
+   "pinyin": "sàng",
+   "zh": "这里是“失去”的意思，读 sàng，不读 sāng。",
+   "en": "Here it means to lose, so it is read sàng, not sāng."
+  },
+  {
+   "line": 8,
+   "pos": 5,
+   "char": "相",
+   "pinyin": "xiàng",
+   "zh": "“卿相”指大官，读 xiàng。",
+   "en": "In qīng xiàng, meaning high ministers, it is read xiàng."
+  },
+  {
+   "line": 13,
+   "pos": 1,
+   "char": "恁",
+   "pinyin": "nèn",
+   "zh": "这里是“这样、如此”的意思，一般读 nèn；有的注本读 rèn。",
+   "en": "Here it means \"this way\". It is usually read nèn; some annotated editions read it rèn."
+  },
+  {
+   "line": 15,
+   "pos": 4,
+   "char": "饷",
+   "pinyin": "xiǎng",
+   "zh": "“一饷”同“一晌”，指一会儿。这里一般读 xiǎng；也有人按“一晌”读 shǎng。",
+   "en": "Yī xiǎng means the same as yī shǎng, a short while. It is usually read xiǎng here; some read it shǎng, like the word it stands for."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "黄金榜：科举考试中进士的名单。因为是皇帝点的名，很尊贵，所以叫“黄金榜”。",
+   "en": "huáng jīn bǎng: the list of people who passed the highest imperial exam. It was called golden because the emperor himself approved it."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "偶失：偶然没有得到。这是作者安慰自己的话。",
+   "en": "ǒu shī: happened to miss. The poet is comforting himself."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "龙头望：考第一名的希望。龙头，指状元，进士考试的第一名。",
+   "en": "lóng tóu wàng: the hope of coming first. Lóng tóu, the dragon's head, means the top scorer in the exam."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "明代：政治清明的时代，指当时的朝廷。",
+   "en": "míng dài: an enlightened age, meaning the government of the time."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "暂遗贤：暂时漏掉了有才能的人。遗，遗漏；贤，贤才。",
+   "en": "zàn yí xián: has for now left out a talented man. Yí means to leave out; xián means a worthy person."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "如何向：该怎么办呢？向，语气词。",
+   "en": "rú hé xiàng: what should I do? Xiàng is a word that just adds tone here."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "风云便：好机会。古人用“风云际会”比喻遇到施展才能的好时机。",
+   "en": "fēng yún biàn: a good chance. People of old spoke of \"wind and clouds meeting\" for a lucky chance to show one's talent."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "争不：怎么不。争，同“怎”。",
+   "en": "zhēng bù: why not. Zhēng here means the same as zěn, how."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "恣狂荡：尽情地放纵、游玩。恣，放纵、随心所欲。",
+   "en": "zì kuáng dàng: to let go and have fun as one likes. Zì means without restraint."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "得丧：得到和失去。丧，失去。",
+   "en": "dé sàng: gain and loss. Sàng means to lose."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 6,
+   "zh": "白衣卿相：没有官职的宰相。白衣，古代平民穿白衣，指没有做官的人；卿相，朝廷里的大官。意思是自己虽然没做官，地位却和大官一样高。",
+   "en": "bái yī qīng xiàng: a minister in plain white clothes. Common people of old wore white, so bái yī means someone with no official post; qīng xiàng means high ministers. He means that without any office, he is still as great as a minister."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "烟花巷陌：歌女们住的街巷。烟花，这里指歌女；巷陌，街巷。",
+   "en": "yān huā xiàng mò: the lanes where the singing girls lived. Yān huā here means singing girls; xiàng mò means lanes and streets."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "依约：隐隐约约，好像。",
+   "en": "yī yuē: faintly, as if."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 6,
+   "zh": "丹青屏障：画着彩色图画的屏风。丹青，红色和青色的颜料，指绘画。",
+   "en": "dān qīng píng zhàng: screens painted with colourful pictures. Dān qīng, red and blue-green paint, means painting."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "意中人：心里喜欢的人。",
+   "en": "yì zhōng rén: the person one loves."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 1,
+   "zh": "堪：可以，值得。",
+   "en": "kān: can, worth."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "且恁：暂且就这样。恁，这样、如此。",
+   "en": "qiě nèn: for now, just like this. Nèn means this way, so."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 6,
+   "zh": "偎红倚翠：依偎在美丽的女子身边。红、翠，女子的衣饰，代指歌女。",
+   "en": "wēi hóng yǐ cuì: to snuggle beside lovely girls. Red and green were colours of women's clothes, so they stand for the singing girls."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 3,
+   "zh": "风流事：风雅快乐的事。",
+   "en": "fēng liú shì: pleasant, carefree pastimes."
+  },
+  {
+   "line": 14,
+   "start": 5,
+   "end": 6,
+   "zh": "畅：畅快，痛快。",
+   "en": "chàng: joyful, to one's heart's content."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "一饷：一会儿，很短的时间。同“一晌”。",
+   "en": "yī xiǎng: a short while. It means the same as yī shǎng."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 1,
+   "zh": "忍：怎么忍心，哪里舍得。这里是反问，意思是“舍得”。",
+   "en": "rěn: how can one bear to; here it is a question that means \"I am willing to\"."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 4,
+   "zh": "浮名：虚名，指考中进士这样的名声。",
+   "en": "fú míng: empty fame, here the honour of passing the exam."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 6,
+   "zh": "浅斟低唱：慢慢地喝着酒，低声地唱着歌。斟，倒酒。",
+   "en": "qiǎn zhēn dī chàng: sipping wine slowly and singing softly. Zhēn means to pour wine."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在进士及第的金榜上，",
+   "en": "On the golden list of those who passed,"
+  },
+  {
+   "zh": "我偶然没能考上第一名。",
+   "en": "I happened to miss my hope of coming first."
+  },
+  {
+   "zh": "清明的朝代也会暂时漏掉人才，",
+   "en": "Even a wise age can, for now, leave out a man of talent."
+  },
+  {
+   "zh": "我该怎么办呢？",
+   "en": "So what am I to do?"
+  },
+  {
+   "zh": "既然没有遇到好机会，",
+   "en": "Since the right chance has not come my way,"
+  },
+  {
+   "zh": "为什么不尽情地游玩、随心所欲呢？",
+   "en": "why not let go and live as I please?"
+  },
+  {
+   "zh": "何必去计较得到还是失去？",
+   "en": "Why fuss over gain and loss?"
+  },
+  {
+   "zh": "像我这样的才子词人，",
+   "en": "A gifted writer of songs like me"
+  },
+  {
+   "zh": "本来就是不穿官服的公卿宰相。",
+   "en": "is a minister already, even in plain white clothes."
+  },
+  {
+   "zh": "在歌女们住的街巷里，",
+   "en": "In the lanes where the singing girls live,"
+  },
+  {
+   "zh": "隐隐约约能看见画着彩画的屏风。",
+   "en": "I can faintly see screens painted in bright colours."
+  },
+  {
+   "zh": "幸好那里有我心里喜欢的人，",
+   "en": "Luckily, someone I care for is there,"
+  },
+  {
+   "zh": "值得我去拜访。",
+   "en": "worth a visit."
+  },
+  {
+   "zh": "暂且就这样依偎在美人身边，",
+   "en": "For now I will just stay close to the lovely girls."
+  },
+  {
+   "zh": "这些风雅快乐的事，是我一生最痛快的。",
+   "en": "Such carefree joys are the happiest things in my life."
+  },
+  {
+   "zh": "青春总共不过是短短的一会儿，",
+   "en": "Youth lasts only a short while."
+  },
+  {
+   "zh": "我宁愿把考中进士的虚名，",
+   "en": "I would gladly take that empty fame"
+  },
+  {
+   "zh": "换成慢慢喝酒、轻轻唱歌。",
+   "en": "and trade it for sipping wine and singing soft songs."
+  }
+ ],
+ "background": {
+  "zh": "宋代读书人想做官，主要靠科举考试，考中进士名字就会上“金榜”。柳永年轻时去考进士，没有考中，心里不服气，写下了这首词，说自己是“白衣卿相”，宁愿去喝酒唱歌。传说这首词传到了宋仁宗那里，后来柳永考试时本来已经录取，仁宗说：“且去浅斟低唱，何要浮名？”就把他的名字划掉了。这个故事见于宋人笔记，未必真实。柳永后来改了名字，直到晚年才考中进士。",
+  "en": "In the Song, a scholar who wanted to serve in government mainly had to pass the imperial exams. Those who passed the highest one had their names put on the \"golden list\". When Liu Yong was young he took the exam and failed. Feeling it was unfair, he wrote this ci, calling himself a minister in plain clothes who would rather drink and sing. A story says the ci reached Emperor Renzong. Later, when Liu Yong had passed an exam, the emperor said, \"Let him go sip wine and sing softly; why does he need empty fame?\" and struck out his name. The story comes from Song dynasty notebooks and may not be true. Liu Yong later changed his name, and only passed the exam late in life."
+ },
+ "author_note": {
+  "zh": "柳永，原名柳三变，北宋前期词人，生卒年说法不一。他精通音乐，常为歌女写词，写了很多新的慢词。他的词通俗好唱，当时有“凡有井水饮处，即能歌柳词”的说法。这首词里的狂傲和失意，正是他一生的写照。",
+  "en": "Liu Yong, first named Liu Sanbian, was a ci poet of the early Northern Song; sources disagree on the years of his birth and death. He knew music well, often wrote songs for singing girls, and created many new long ci. His songs were plain and easy to sing. People of his time said that \"wherever there is well water to drink, people sing Liu Yong's songs.\" The pride and the disappointment in this ci reflect his whole life."
+ },
+ "appreciation": {
+  "zh": "这首词像一个落榜的年轻人在发牢骚，又像在给自己打气。开头说自己只是“偶失”，是朝廷“暂遗贤”，一点也不承认自己不行。接着他说：既然没有机会，那就痛痛快快地玩吧，何必计较得失？才子词人，本来就是不穿官服的宰相。下阕写他去找喜欢的人，喝酒唱歌，觉得这才是人生最畅快的事。最后一句最有名：宁愿把那点虚名，换成浅斟低唱。读起来很潇洒，可仔细想想，这份潇洒里也藏着失意和不甘心。正因为太在乎，才要说“不在乎”。",
+  "en": "This ci sounds like a young man who has just failed an exam, grumbling and cheering himself up at the same time. He begins by saying he only \"happened\" to miss, and that the government has \"for now\" overlooked a talent. He does not admit for a moment that he was not good enough. Then he says: since there is no chance, why not just have fun? Why fuss over gain and loss? A gifted songwriter is already a minister, even without the robes. In the second stanza he goes to see someone he cares for, drinking and singing, and says this is life's greatest joy. The last line is the most famous: he would gladly trade empty fame for sipping wine and singing softly. It sounds carefree. But think again, and you will find disappointment and hurt pride hidden inside. It is because he cares so much that he has to say he does not care."
+ },
+ "famous_lines": [
+  7,
+  8,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exam",
+   "pride",
+   "frustration",
+   "wine",
+   "song"
+  ]
+ },
+ "uncertain": []
+}

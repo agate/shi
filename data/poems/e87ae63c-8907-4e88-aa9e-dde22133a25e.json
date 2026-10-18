@@ -1,0 +1,263 @@
+{
+ "id": "e87ae63c-8907-4e88-aa9e-dde22133a25e",
+ "kind": "shi",
+ "title": "暮江吟",
+ "title_en": "Evening on the River",
+ "author": "白居易",
+ "author_en": "Bai Juyi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "铺",
+    "pū"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "瑟",
+    "sè"
+   ],
+   [
+    "瑟",
+    "sè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "真",
+    "zhēn"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "弓",
+    "gōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "铺",
+   "pinyin": "pū",
+   "zh": "铺，这里是动词，读 pū，铺开的意思。",
+   "en": "Here this character is a verb, read pū, meaning to spread out."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "似",
+   "pinyin": "sì",
+   "zh": "似，这里是“像”的意思，读 sì，不读 shì。",
+   "en": "Here this character means \"like\", read sì, not shì."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "似",
+   "pinyin": "sì",
+   "zh": "似，这里读 sì。",
+   "en": "Here this character is read sì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "残阳：快要落山的太阳。",
+   "en": "cán yáng: the setting sun, about to go down."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "铺：铺开。夕阳贴着水面照过来，光好像铺在水上。",
+   "en": "pū: to spread. The low sun shines across the water, as if its light were laid on it."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "瑟瑟：原来是一种碧绿色的宝石，这里指碧绿色。",
+   "en": "sè sè: first the name of a blue-green gem, here meaning blue-green."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可爱。不是现在“值得同情”的意思。",
+   "en": "kě lián: lovely. It does not mean \"pitiful\" as it does today."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 6,
+   "zh": "九月初三：农历九月初三，深秋时节。",
+   "en": "jiǔ yuè chū sān: the third day of the ninth lunar month, in late autumn."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "真珠：珍珠。",
+   "en": "zhēn zhū: pearls."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "月似弓：初三的月亮是细细的月牙，像一张弯弓。",
+   "en": "yuè sì gōng: on the third day of the month the moon is a thin crescent, curved like a bow."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一道快落山的夕阳，把光铺在江水上。",
+   "en": "The last rays of the setting sun spread across the river."
+  },
+  {
+   "zh": "江水一半是碧绿色，一半是红色。",
+   "en": "Half the river is blue-green, half is red."
+  },
+  {
+   "zh": "最可爱的是九月初三的这个晚上，",
+   "en": "Loveliest of all is this night, the third of the ninth month:"
+  },
+  {
+   "zh": "露水像一颗颗珍珠，月亮像一张弯弓。",
+   "en": "dew like pearls, and the moon like a bow."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是秋天傍晚到夜里的江边景色。一般认为，它是822年白居易离开京城长安，去杭州做官的路上写的。那时朝廷里争斗很厉害，他主动要求到外地去，心情反而轻松了。一说写作时间是别的年份，现在还没有定论。",
+  "en": "This poem shows a riverside in autumn, from dusk into night. Most people think Bai Juyi wrote it in 822, on his way from the capital Chang'an to a new post in Hangzhou. The court was full of quarrels then. He had asked to be sent away, and he felt lighter for it. Some scholars date it to another year, and the question is not settled."
+ },
+ "author_note": {
+  "zh": "白居易（772—846），字乐天，号香山居士，唐代大诗人。他主张诗要写得让普通人都能看懂，据说写完常念给老婆婆听。他的诗语言浅白，却很有味道。",
+  "en": "Bai Juyi (772–846) was a great Tang poet. He believed poems should be easy enough for ordinary people to understand. A story says he read his poems to an old woman and changed any word she did not get. His language is plain, but full of flavour."
+ },
+ "appreciation": {
+  "zh": "这首诗像两幅画。第一幅是傍晚：夕阳低低地照在江上，有阳光的地方是红的，没有阳光的地方是碧绿的，一条江被分成两种颜色。第二幅是夜里：月亮升起来了，弯弯的像弓；草上的露水亮晶晶的，像珍珠。诗人看着看着，从傍晚一直看到了天黑，心里只有一句：真美啊！这首诗没有讲大道理，只是认真地看，把一个普通秋夜的美写得清清楚楚。",
+  "en": "This poem is like two paintings. The first is at dusk. The sun shines low across the river. Where the light falls, the water is red. Where it does not, the water is blue-green. One river, two colours. The second painting is at night. The moon has risen, curved like a bow. Dew on the grass sparkles like pearls. The poet keeps watching from dusk until dark, and all he feels is: how beautiful! The poem teaches no lesson. It simply looks closely, and paints the beauty of an ordinary autumn night very clearly."
+ },
+ "famous_lines": [
+  1,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "sunset",
+   "moon",
+   "dew",
+   "scenery"
+  ]
+ },
+ "uncertain": []
+}

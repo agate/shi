@@ -1,0 +1,298 @@
+{
+ "id": "22923091-18da-429d-9ef1-6b367fd74b1a",
+ "kind": "shi",
+ "title": "游子吟",
+ "title_en": "Song of the Departing Son",
+ "author": "孟郊",
+ "author_en": "Meng Jiao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "慈",
+    "cí"
+   ],
+   [
+    "母",
+    "mǔ"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "线",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "衣",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "密",
+    "mì"
+   ],
+   [
+    "密",
+    "mì"
+   ],
+   [
+    "缝",
+    "féng"
+   ]
+  ],
+  [
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "晖",
+    "huī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料题作《杂曲歌辞·游子吟》。“杂曲歌辞”是宋代《乐府诗集》给这类诗分的类别，不是诗题的一部分。课本题作《游子吟》。诗句没有不同。",
+  "en": "The corpus titles it \"Zaqu Geci: You Zi Yin\". \"Zaqu Geci\" (Miscellaneous Songs) is a category from the Song-dynasty song collection Yuefu Shiji, not part of the title. Textbooks call it \"You Zi Yin\". The lines themselves are the same."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "缝",
+   "pinyin": "féng",
+   "zh": "缝在这里是动词，“用针线缝”，读 féng。名词“缝隙”才读 fèng。",
+   "en": "Here this character is a verb, to sew, so it is read féng. The noun meaning a crack or seam is read fèng."
+  },
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "“谁”现在课本读 shuí，口语里也常读 shéi，两种都对。",
+   "en": "Textbooks read it shuí. In speech people often say shéi. Both are correct."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "慈母：慈爱的母亲。",
+   "en": "cí mǔ: a loving mother."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "游子：离开家、出门在外的人。这里是诗人自己。",
+   "en": "yóu zǐ: a person who leaves home to live or travel far away. Here it is the poet himself."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "临行：快要出发的时候。",
+   "en": "lín xíng: just before leaving."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "密密缝：针脚缝得又密又结实。",
+   "en": "mì mì féng: sewing with small, close stitches so the clothes stay strong."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "意恐：心里担心。",
+   "en": "yì kǒng: worrying in her heart."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "迟迟归：很久很久才回来。",
+   "en": "chí chí guī: coming home late, after a long, long time."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "谁言：谁说。",
+   "en": "shuí yán: who says."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "寸草心：一寸长的小草的心意。寸草是很短的小草，比喻儿女；心，既指草的嫩芯，也指儿女的孝心。",
+   "en": "cùn cǎo xīn: the heart of a tiny blade of grass. The tiny grass stands for the child. Xīn means both the grass's young shoot and the child's love for the parent."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "报得：报答得了。",
+   "en": "bào dé: able to repay."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "三春晖：整个春天的阳光。三春，春季的三个月（孟春、仲春、季春）；晖，阳光。比喻母亲的爱。",
+   "en": "sān chūn huī: the sunshine of all three months of spring. Huī means sunlight. It stands for a mother's love."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "慈爱的母亲手里拿着针线，",
+   "en": "In the loving mother's hands, a needle and thread;"
+  },
+  {
+   "zh": "为要出远门的孩子缝制身上的衣服。",
+   "en": "she is making clothes for the son who is going far away."
+  },
+  {
+   "zh": "临出发前，她一针一针缝得又密又牢，",
+   "en": "Just before he leaves, she sews with tight, close stitches,"
+  },
+  {
+   "zh": "心里担心孩子很久都回不了家。",
+   "en": "afraid in her heart that he will be gone a long, long time."
+  },
+  {
+   "zh": "谁说小草那一点点心意，",
+   "en": "Who can say that the little heart of a tiny blade of grass"
+  },
+  {
+   "zh": "能报答得了整个春天阳光的恩情？",
+   "en": "could ever repay the warm sunshine of a whole spring?"
+  }
+ ],
+ "background": {
+  "zh": "诗题下原有作者自注“迎母溧上作”。孟郊年轻时考试多次落榜，四十六岁才考中进士，五十岁左右才做了溧阳县尉，一个管治安的小官。溧阳在今天的江苏。生活稍稍安定后，他把母亲接到溧阳一起住，写下了这首诗，回忆当年离家时母亲为他缝衣服的情景。",
+  "en": "Under the title the poet noted: \"written when I brought my mother to Li.\" Meng Jiao failed the imperial exam many times and only passed at forty-six. Around fifty he became a county sheriff in Liyang, in today's Jiangsu, a small post in charge of keeping order. Once his life was a little steadier, he brought his mother to live with him there. He wrote this poem remembering how she sewed his clothes when he first left home."
+ },
+ "author_note": {
+  "zh": "孟郊（751—814），字东野，唐代诗人。他一生贫困，做官很晚，官也很小。他写诗喜欢苦苦推敲字句，和贾岛并称“郊寒岛瘦”。他的诗大多写自己的穷苦和悲伤，但这首《游子吟》写得朴素温暖，是他最有名的作品。",
+  "en": "Meng Jiao (751–814), courtesy name Dongye, was a Tang poet. He was poor all his life, and got only a small official post, very late. He worked hard over every word, and people paired him with Jia Dao as \"cold Meng and thin Jia\". Most of his poems are about hardship and sorrow, but this plain, warm poem is his most famous."
+ },
+ "appreciation": {
+  "zh": "这首诗只有三十个字，却把母爱写得让每个人都能感受到。前四句像一个特写镜头：灯下，母亲手里拿着针线，为要出门的孩子缝衣服。她缝得特别密，因为心里怕孩子很久才回来，衣服要穿得久一点。诗人没有写母亲说了什么话，只写她手上的动作和心里的担心，爱就藏在一针一线里。最后两句用了一个比喻：孩子像一棵小草，母亲的爱像春天的阳光。小草怎么报答得了阳光呢？这两句后来成了表达孝心最常用的话。",
+  "en": "This poem has only thirty characters, yet everyone can feel the mother's love in it. The first four lines are like a close-up shot: by the lamp, a mother holds needle and thread, sewing clothes for her son who is about to leave. She sews extra close, because she fears he will be gone a long time and the clothes must last. The poet does not tell us what she says. He shows only her hands and her worry, and the love hides in every stitch. The last two lines use a picture: the child is a tiny blade of grass, and the mother's love is spring sunshine. How could the little grass ever repay the sun? These two lines became the best-known words in Chinese for a child's gratitude to a parent."
+ },
+ "famous_lines": [
+  0,
+  1,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mother",
+   "family",
+   "parting",
+   "gratitude"
+  ]
+ },
+ "uncertain": []
+}

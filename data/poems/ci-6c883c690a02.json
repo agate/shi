@@ -1,0 +1,604 @@
+{
+ "id": "ci-6c883c690a02",
+ "kind": "ci",
+ "title": "江城子·密州出猎",
+ "title_en": "To the Tune Jiang Cheng Zi: Hunting at Mizhou",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·江城子（双调）",
+  "en": "ci lyric to the tune Jiang Cheng Zi, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "聊",
+    "liáo"
+   ],
+   [
+    "发",
+    "fā"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ]
+  ],
+  [
+   [
+    "左",
+    "zuǒ"
+   ],
+   [
+    "牵",
+    "qiān"
+   ],
+   [
+    "黄",
+    "huáng"
+   ]
+  ],
+  [
+   [
+    "右",
+    "yòu"
+   ],
+   [
+    "擎",
+    "qíng"
+   ],
+   [
+    "苍",
+    "cāng"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "帽",
+    "mào"
+   ],
+   [
+    "貂",
+    "diāo"
+   ],
+   [
+    "裘",
+    "qiú"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "冈",
+    "gāng"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "倾",
+    "qīng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "守",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "亲",
+    "qīn"
+   ],
+   [
+    "射",
+    "shè"
+   ],
+   [
+    "虎",
+    "hǔ"
+   ]
+  ],
+  [
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "孙",
+    "sūn"
+   ],
+   [
+    "郎",
+    "láng"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "酣",
+    "hān"
+   ],
+   [
+    "胸",
+    "xiōng"
+   ],
+   [
+    "胆",
+    "dǎn"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "张",
+    "zhāng"
+   ]
+  ],
+  [
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "妨",
+    "fáng"
+   ]
+  ],
+  [
+   [
+    "持",
+    "chí"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "遣",
+    "qiǎn"
+   ],
+   [
+    "冯",
+    "féng"
+   ],
+   [
+    "唐",
+    "táng"
+   ]
+  ],
+  [
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "挽",
+    "wǎn"
+   ],
+   [
+    "雕",
+    "diāo"
+   ],
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "射",
+    "shè"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "狼",
+    "láng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  8
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "现在按普通话审音读 qí。过去指“一人一马”时读 jì，很多老师和旧注本仍读 jì。",
+   "en": "Read qí under today's standard pronunciation. In the past, when it meant \"one rider and one horse\", it was read jì, and many teachers and older editions still read it that way."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "这里读 wèi，意思是“为了”。",
+   "en": "Read wèi here, meaning \"for the sake of\"."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "现在读 kàn。按词的格律这里应是平声，古代“看”也可以读平声 kān。",
+   "en": "Read kàn today. The tune needs a level tone here, and in old times this character could also be said kān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "老夫：老头子，苏轼自称。那年他其实才三十九岁。",
+   "en": "lǎo fū: this old man, Su Shi calling himself. He was actually only thirty-nine."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "聊：姑且，暂且。聊发：暂且发一发。",
+   "en": "liáo fā: liáo means \"just for now\"; liáo fā: to let out for a while."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "少年狂：年轻人的豪迈劲儿。",
+   "en": "shào nián kuáng: the wild high spirits of a young man."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "黄：黄狗。牵黄：牵着黄狗。",
+   "en": "qiān huáng: leading a yellow hunting dog."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 3,
+   "zh": "擎：举。苍：苍鹰，一种猎鹰。擎苍：手臂上架着猎鹰。",
+   "en": "qíng cāng: qíng means to hold up; cāng is a grey hawk. Holding a hunting hawk on his arm."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "锦帽貂裘：戴着锦缎做的帽子，穿着貂皮做的衣服，是打猎的装束。",
+   "en": "jǐn mào diāo qiú: a hat of brocade silk and a coat of sable fur, the outfit of a hunting party."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "千骑：一千个骑马的人，形容跟随的人马很多。",
+   "en": "qiān qí: a thousand riders, meaning a very large crowd on horseback."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "卷平冈：像风卷过一样，飞快地越过平坦的山冈。",
+   "en": "juǎn píng gāng: sweeping over the flat hills like a gust of wind."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "为报：为了报答。",
+   "en": "wèi bào: to repay, to thank."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "倾城：全城的人都出来了。",
+   "en": "qīng chéng: the whole town turning out."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "太守：一个州郡的长官，这里是苏轼自己。",
+   "en": "tài shǒu: the governor of a prefecture, here Su Shi himself."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "孙郎：三国时吴国的孙权。他曾经亲自骑马射虎。苏轼以孙权自比。",
+   "en": "sūn láng: Young Master Sun: Sun Quan of the state of Wu in the Three Kingdoms, who once shot a tiger himself from horseback. Su Shi compares himself to him."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "酒酣：酒喝得正痛快的时候。",
+   "en": "jiǔ hān: when the wine has warmed him up."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 7,
+   "zh": "胸胆尚开张：胸怀开阔，胆气豪壮。尚，更加。",
+   "en": "xiōng dǎn shàng kāi zhāng: his heart is open and his courage high. Shàng here means \"all the more\"."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "微霜：微微有些白了。",
+   "en": "wēi shuāng: turning a little white."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 3,
+   "zh": "何妨：有什么关系呢？",
+   "en": "hé fáng: what does it matter?"
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "节：符节，皇帝派使者时给的凭证。云中：汉代郡名，在今内蒙古一带。",
+   "en": "chí jié yún zhōng: jié is a tally, a token the emperor gave a messenger to prove he spoke for the emperor. Yúnzhōng was a frontier region in the Han dynasty, in today's Inner Mongolia."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 5,
+   "zh": "遣冯唐：派冯唐去。汉文帝时，云中太守魏尚因为小错被免职，冯唐替他说话，文帝就派冯唐拿着符节去赦免魏尚，让他官复原职。苏轼用这个故事，希望朝廷也能信任、重用自己。",
+   "en": "qiǎn féng táng: to send Feng Tang. Under Emperor Wen of Han, Wei Shang, governor of Yunzhong, lost his post over a small fault. Feng Tang spoke up for him, so the emperor sent Feng Tang with the tally to pardon Wei Shang and give him his job back. Su Shi uses this story to hope the court will trust him and use him again."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 1,
+   "zh": "会：将要，总有一天会。",
+   "en": "huì: will, one day."
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 7,
+   "zh": "挽：拉。雕弓：刻着花纹的弓。如满月：把弓拉得像圆圆的满月。",
+   "en": "wǎn diāo gōng rú mǎn yuè: wǎn is to draw; a carved bow drawn so far it is round like a full moon."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "天狼：星名，古人认为它代表侵略。这里比喻当时在西北边境侵扰宋朝的西夏（一说也包括北方的辽）。",
+   "en": "tiān láng: the Wolf Star (Sirius). People in old times linked it with invaders. Here it stands for Western Xia, which was raiding the Song border in the northwest (some say it also means the Liao state in the north)."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我这老头子暂且也来发一发年轻人的豪情，",
+   "en": "This old man will let out a young man's wild spirit for once:"
+  },
+  {
+   "zh": "左手牵着黄狗，",
+   "en": "a yellow dog on a leash in my left hand,"
+  },
+  {
+   "zh": "右臂托着苍鹰。",
+   "en": "a grey hawk on my right arm."
+  },
+  {
+   "zh": "随从们戴着锦帽，穿着貂皮衣，",
+   "en": "My men in brocade hats and sable coats,"
+  },
+  {
+   "zh": "上千人马像风一样卷过平坦的山冈。",
+   "en": "a thousand riders sweep across the flat hills like the wind."
+  },
+  {
+   "zh": "为了报答全城百姓跟着我出来看打猎，",
+   "en": "To thank the whole town for following their governor out,"
+  },
+  {
+   "zh": "我要亲自射杀猛虎，",
+   "en": "I will shoot the tiger myself,"
+  },
+  {
+   "zh": "让大家看看像孙权那样的英姿。",
+   "en": "and let them see a hero like Sun Quan."
+  },
+  {
+   "zh": "酒喝得正痛快，胸怀更加开阔，胆气更加豪壮。",
+   "en": "Warm with wine, my heart grows bolder and wider still."
+  },
+  {
+   "zh": "两鬓已经有些白了，",
+   "en": "So my temples are going white,"
+  },
+  {
+   "zh": "那又有什么关系！",
+   "en": "what does it matter?"
+  },
+  {
+   "zh": "朝廷什么时候能像汉文帝派冯唐拿着符节去云中那样，",
+   "en": "When will the court send someone with the emperor's token,"
+  },
+  {
+   "zh": "派人来重新信任我、起用我呢？",
+   "en": "as the Han emperor once sent Feng Tang to Yunzhong, to call me back to service?"
+  },
+  {
+   "zh": "到那时我一定把雕弓拉得像满月一样圆，",
+   "en": "Then I will draw my carved bow round as a full moon,"
+  },
+  {
+   "zh": "朝着西北方向望去，",
+   "en": "look to the northwest,"
+  },
+  {
+   "zh": "射向那象征侵略者的天狼星。",
+   "en": "and shoot down the Wolf Star of the invaders."
+  }
+ ],
+ "background": {
+  "zh": "这首词作于宋神宗熙宁八年（1075）冬天，苏轼当时在密州（今山东诸城）做知州。那时他和主持变法的王安石意见不同，被派到地方做官，心里有些失意。一次他和同僚出城打猎，全城百姓都跟来看热闹。他兴致很高，写下了这首词。北宋西北边境常受西夏侵扰，他也想为国家出力。",
+  "en": "This lyric was written in the winter of 1075, when Su Shi was governor of Mizhou, today's Zhucheng in Shandong. He disagreed with the reforms led by Wang Anshi, so he had been sent away from the capital to work in the provinces, and felt a little let down. Once he went hunting outside the town with his officials, and the whole town came out to watch. In high spirits, he wrote this lyric. The Song border in the northwest was often raided by Western Xia, and he wanted to serve his country there."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，眉州眉山（今属四川）人，北宋大文学家。以前的词大多写儿女情长，苏轼却把打猎、报国这样的大事写进词里，开创了豪放的风格。这首《密州出猎》就是他早期豪放词的代表作。",
+  "en": "Su Shi (1037–1101), also called Dongpo, came from Meishan in Sichuan and was a great writer of the Northern Song. Before him, lyrics were mostly about love and sorrow. Su Shi brought big subjects like hunting and serving the country into lyrics, and started the bold, free style. This hunting lyric is one of his first great works in that style."
+ },
+ "appreciation": {
+  "zh": "上阕像一部热闹的打猎电影。一个自称“老夫”的太守，左手牵狗，右手架鹰，后面跟着上千人马，像风一样冲过山冈。全城百姓都来看，他就要像孙权一样亲手射虎。下阕从打猎转到心事。喝了酒，胆气更大，头发白了也不在乎。他想起冯唐的故事，盼着朝廷有一天重新信任他。最后他把雕弓拉成满月，朝西北射向天狼星，其实是想上战场保卫边疆。整首词声音响亮，画面开阔，读起来让人热血沸腾。",
+  "en": "The first stanza is like a lively hunting film. A governor who calls himself \"this old man\" leads a dog in one hand and holds a hawk on the other arm. A thousand riders follow, rushing over the hills like the wind. The whole town watches, and he is ready to shoot a tiger himself, like Sun Quan. The second stanza turns from the hunt to what is in his heart. With wine in him he is bolder still, and white hair does not bother him. He thinks of the story of Feng Tang and hopes the court will trust him again one day. At the end he draws his bow round as a full moon and aims northwest at the Wolf Star. What he really wants is to go to war and guard the border. The whole lyric rings loud and wide, and it stirs the blood."
+ },
+ "famous_lines": [
+  0,
+  13,
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "hunting",
+   "hero",
+   "patriotism",
+   "ambition"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "Famous poems that the chinese-poetry corpus lacks, added in their commonly taught form. Each needs an attribution note in its close reading, because the corpus leaving them out usually means their authorship is disputed.",
+  "poems": [
+    {
+      "id": "sup-qingming",
+      "kind": "shi",
+      "dynasty": "tang",
+      "author": "杜牧",
+      "title": "清明",
+      "text": "清明时节雨纷纷，路上行人欲断魂。\n借问酒家何处有？牧童遥指杏花村。",
+      "source": "《千家诗》; not in 全唐诗, attribution to 杜牧 is traditional but disputed"
+    },
+    {
+      "id": "sup-yesushansi",
+      "kind": "shi",
+      "dynasty": "tang",
+      "author": "李白",
+      "title": "夜宿山寺",
+      "text": "危楼高百尺，手可摘星辰。\n不敢高声语，恐惊天上人。",
+      "source": "Taught as 李白's; 全唐诗 does not include it under this title"
+    }
+  ]
+}

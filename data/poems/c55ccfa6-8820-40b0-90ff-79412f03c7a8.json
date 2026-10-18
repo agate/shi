@@ -1,0 +1,207 @@
+{
+ "id": "c55ccfa6-8820-40b0-90ff-79412f03c7a8",
+ "kind": "shi",
+ "title": "绝句",
+ "title_en": "Quatrain",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "丽",
+    "lì"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "香",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "泥",
+    "ní"
+   ],
+   [
+    "融",
+    "róng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zi"
+   ]
+  ],
+  [
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "鸳",
+    "yuān"
+   ],
+   [
+    "鸯",
+    "yāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "子",
+   "pinyin": "zi",
+   "zh": "“燕子”的“子”在口语里读轻声 zi。读诗时为了念得饱满，也有人读 zǐ。",
+   "en": "In the word for swallow, this character is said with a light, toneless zi in everyday speech. When reciting poems some people give it a full tone, zǐ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "迟日：春天的太阳。春天白天越来越长，太阳好像走得很慢。",
+   "en": "chí rì: the spring sun. In spring the days grow longer, so the sun seems to move slowly."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "丽：美丽。",
+   "en": "lì: beautiful."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "泥融：冻硬的泥土化开了，变得湿软。",
+   "en": "ní róng: the frozen earth has thawed and turned soft and wet."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "飞燕子：燕子飞来飞去，衔泥做窝。",
+   "en": "fēi yàn zi: swallows flying back and forth, carrying mud to build nests."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "沙暖：沙滩被太阳晒得暖暖的。",
+   "en": "shā nuǎn: the sand is warm from the sun."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "鸳鸯：一种好看的水鸟，常常成双成对。",
+   "en": "yuān yāng: mandarin ducks, pretty water birds that usually stay in pairs."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "春天的阳光照着，江水和山都那么美，",
+   "en": "Under the long spring sun, river and hills are lovely,"
+  },
+  {
+   "zh": "春风送来花和草的香气。",
+   "en": "and the spring breeze carries the scent of flowers and grass."
+  },
+  {
+   "zh": "泥土化软了，燕子忙着飞来飞去衔泥做窝，",
+   "en": "The earth has thawed, and swallows fly about with mud for their nests,"
+  },
+  {
+   "zh": "沙滩暖洋洋的，鸳鸯在上面睡着了。",
+   "en": "the sand is warm, and mandarin ducks sleep on it."
+  }
+ ],
+ "background": {
+  "zh": "唐代宗广德二年（764年），杜甫经过一段漂泊，回到了成都的草堂，就是他在成都住的茅草房子。一般认为这首诗就写在那年春天。经历了战乱和流离，他终于又有了一段比较安定的日子，心情也轻松了一些。他写了两首《绝句》，这是第一首。“绝句”是一种只有四句的诗。",
+  "en": "In 764, after a time of wandering, Du Fu returned to his Thatched Cottage in Chengdu, the simple house with a straw roof where he lived. This poem is usually dated to that spring. After war and years on the move, he finally had a calmer stretch of life, and felt more at ease. He wrote two poems called Quatrain, and this is the first. A quatrain is a poem of just four lines."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被人称为“诗圣”。他的很多诗写战乱和百姓的苦难，读起来很沉重。在成都草堂住的几年，是他一生中比较安稳的时光。这时候他写了不少明快的小诗，写花、写鸟、写春天。",
+  "en": "Du Fu (712–770) was a great Tang poet, often called the Sage of Poetry. Many of his poems are about war and the suffering of ordinary people, and they feel heavy to read. The few years at the Thatched Cottage in Chengdu were one of the calmest times of his life. Then he wrote many bright little poems about flowers, birds and spring."
+ },
+ "appreciation": {
+  "zh": "这首诗像四幅春天的小画。第一幅是大景：春天的阳光下，江水和山都那么美。第二幅是气味：春风吹来，带着花和草的香气。第三幅是动的：泥土化软了，燕子忙着飞来飞去，衔泥做窝。第四幅是静的：沙子晒得暖暖的，鸳鸯在上面睡着了。有远有近，有动有静，还有颜色和香味。读着读着，好像自己也站在春天的江边，全身暖洋洋的。",
+  "en": "This poem is like four small pictures of spring. The first is a wide view: under the spring sun, the river and hills look lovely. The second is a smell: the spring breeze brings the scent of flowers and grass. The third is full of motion: the earth has gone soft, and swallows dart about carrying mud for their nests. The fourth is still: the sand is warm, and mandarin ducks sleep on it. There is far and near, moving and still, color and scent. As you read, you feel you are standing by the river in spring, warm all over."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "spring",
+   "birds",
+   "river",
+   "nature"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,429 @@
+{
+ "id": "ci-c13f2a8c6183",
+ "kind": "ci",
+ "title": "浪淘沙·把酒祝东风",
+ "title_en": "Waves Washing the Sand: Raising My Cup to the East Wind",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "祝",
+    "zhù"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "容",
+    "róng"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "东",
+    "dōng"
+   ]
+  ],
+  [
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "丛",
+    "cóng"
+   ]
+  ],
+  [
+   [
+    "聚",
+    "jù"
+   ],
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "匆",
+    "cōng"
+   ],
+   [
+    "匆",
+    "cōng"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "穷",
+    "qióng"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "同",
+    "tóng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "把酒：端起酒杯。把，拿着。",
+   "en": "bǎ jiǔ: to hold up a cup of wine. Bǎ means to hold."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "祝东风：向春风许愿、祷告。东风，春天的风。",
+   "en": "zhù dōng fēng: to make a wish to the east wind. The east wind is the wind of spring."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "且共从容：请你暂且和我们一起，慢一点，别急着走。从容，不慌不忙。",
+   "en": "qiě gòng cóng róng: please stay with us a while and do not hurry off. Cóng róng means calm and unhurried."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "垂杨：枝条垂下来的杨柳。",
+   "en": "chuí yáng: willows with hanging branches."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "紫陌：城外的大路。古人常用“紫陌”称京城或大城市郊外的道路。",
+   "en": "zǐ mò: the roads outside the city. Old poets used this phrase for roads around a capital or a great city."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "洛城：洛阳城，在今天的河南。",
+   "en": "luò chéng: the city of Luoyang, in today's Henan."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "总是：都是，全是。",
+   "en": "zǒng shì: all of these were."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "携手处：手拉着手一起走过的地方。",
+   "en": "xié shǒu chù: the places where we walked hand in hand."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "芳丛：一丛丛香花。",
+   "en": "fāng cóng: clusters of sweet-smelling flowers."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "聚散：相聚和分别。",
+   "en": "jù sàn: meeting and parting."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "苦匆匆：太匆忙了，让人难受。苦，苦于、让人痛苦的是。",
+   "en": "kǔ cōng cōng: so hurried that it hurts. Kǔ here means it is painful that."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "此恨无穷：这种遗憾没有尽头。恨，遗憾。",
+   "en": "cǐ hèn wú qióng: this regret has no end. Hèn here means regret, not hate."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 4,
+   "zh": "胜：比……更好。",
+   "en": "shèng: better than."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "知与谁同：不知道那时会和谁一起来看。知，这里是“哪知道、不知道”的意思。",
+   "en": "zhī yǔ shuí tóng: who knows who I will be with then. Zhī here means who can tell."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "端起酒杯，向东风许个愿：",
+   "en": "I raise my cup and make a wish to the east wind:"
+  },
+  {
+   "zh": "请你也留下来，和我们一起慢慢游玩。",
+   "en": "please stay with us a while, and let us take our time."
+  },
+  {
+   "zh": "洛阳城东，垂柳拂着城外的大路。",
+   "en": "East of Luoyang, willows hang over the roads outside the city."
+  },
+  {
+   "zh": "这里全是当年我们手拉手走过的地方，",
+   "en": "These are all the places where we once walked hand in hand,"
+  },
+  {
+   "zh": "那时我们走遍了一丛丛花。",
+   "en": "and we wandered through every bed of flowers."
+  },
+  {
+   "zh": "相聚和分别，总是这样匆匆忙忙，",
+   "en": "Meeting and parting always come in such a rush,"
+  },
+  {
+   "zh": "这份遗憾没有尽头。",
+   "en": "and this regret never ends."
+  },
+  {
+   "zh": "今年的花比去年开得更红，",
+   "en": "This year the flowers are redder than last year."
+  },
+  {
+   "zh": "可惜明年的花会更好，",
+   "en": "Sadly, next year they will be even lovelier,"
+  },
+  {
+   "zh": "却不知道到时候会和谁一起来看。",
+   "en": "but who knows who will be here to see them with me?"
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首词是宋仁宗明道元年（1032年）春天写的。那时欧阳修在洛阳做官，和一位老朋友重游洛阳城东，想起去年曾一起在这里赏花。一说这位朋友是诗人梅尧臣。朋友相聚不久又要分开，欧阳修就写下了这首词。",
+  "en": "This lyric is usually dated to the spring of 1032. Ouyang Xiu was then an official in Luoyang. He and an old friend came back to the east side of the city, where they had enjoyed the flowers together the year before. One account says the friend was the poet Mei Yaochen. They had only just met again and would soon have to part, so Ouyang Xiu wrote this lyric."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），北宋文学家，号醉翁，是“唐宋八大家”之一。他年轻时在洛阳做官，和梅尧臣等朋友常常一起游山玩水、写诗喝酒。他很看重友情，这首词写的就是和朋友相聚又分别的心情。",
+  "en": "Ouyang Xiu (1007–1072) was a great writer of the Northern Song. He called himself the Old Drunkard, and he is one of the Eight Great Prose Masters of Tang and Song. As a young official in Luoyang, he often went out with friends such as Mei Yaochen to enjoy the hills, write poems and drink. He cared deeply about friendship, and this lyric is about meeting a friend and having to part again."
+ },
+ "appreciation": {
+  "zh": "词一开头，诗人就端起酒杯对春风说话，求它别走得太快。其实他想留住的不是风，而是和朋友在一起的好时光。接着他看到洛阳城东的垂柳和大路，想起去年两个人手拉手走遍花丛。下半首说出心里的苦：见面总是太短，分别总是太快。最后三句最妙：今年的花比去年红，明年的花会更好，可是明年谁陪我来看呢？花越开越美，人却说不定散了。越是写花好，越让人觉得分别难过。",
+  "en": "At the start, the poet raises his cup and talks to the spring wind, asking it not to leave so fast. What he really wants to keep is not the wind, but the happy time with his friend. Then he sees the willows and roads east of Luoyang, and remembers walking hand in hand through the flowers last year. The second half says what hurts: meetings are always too short, and partings come too soon. The last three lines are the best. This year's flowers are redder than last year's, and next year's will be even better. But who will come with me to see them? The flowers grow more beautiful each year, while friends may drift apart. The lovelier the flowers, the sadder the parting feels."
+ },
+ "famous_lines": [
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "parting",
+   "flowers",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

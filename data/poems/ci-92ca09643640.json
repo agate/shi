@@ -1,0 +1,787 @@
+{
+ "id": "ci-92ca09643640",
+ "kind": "ci",
+ "title": "念奴娇·过洞庭",
+ "title_en": "Niannujiao: Crossing Lake Dongting",
+ "author": "张孝祥",
+ "author_en": "Zhang Xiaoxiang",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调一百字",
+  "en": "ci lyric, two stanzas, 100 characters"
+ },
+ "lines": [
+  [
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "鉴",
+    "jiàn"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "顷",
+    "qǐng"
+   ]
+  ],
+  [
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "扁",
+    "piān"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "辉",
+    "huī"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "表",
+    "biǎo"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "俱",
+    "jù"
+   ],
+   [
+    "澄",
+    "chéng"
+   ],
+   [
+    "澈",
+    "chè"
+   ]
+  ],
+  [
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "妙",
+    "miào"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "岭",
+    "lǐng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "照",
+    "zhào"
+   ]
+  ],
+  [
+   [
+    "肝",
+    "gān"
+   ],
+   [
+    "胆",
+    "dǎn"
+   ],
+   [
+    "皆",
+    "jiē"
+   ],
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "短",
+    "duǎn"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "骚",
+    "sāo"
+   ],
+   [
+    "襟",
+    "jīn"
+   ],
+   [
+    "袖",
+    "xiù"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "稳",
+    "wěn"
+   ],
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "溟",
+    "míng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "挹",
+    "yì"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "江",
+    "jiāng"
+   ]
+  ],
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "斟",
+    "zhēn"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "象",
+    "xiàng"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "宾",
+    "bīn"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "扣",
+    "kòu"
+   ],
+   [
+    "舷",
+    "xián"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "啸",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "夕",
+    "xī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "语料库里的文字是另一个版本：“肝胆”作“肝肺”，“短鬓”作“短发”，“沧溟”作“沧浪”，“尽挹”作“尽吸”，“独啸”作“独笑”。这里用现在课本和常见选本的文字。",
+  "en": "The corpus has another version of the text. It reads gān fèi for gān dǎn, duǎn fà for duǎn bìn, cāng láng for cāng míng, jìn xī for jìn yì, and \"laugh alone\" for \"cry out alone\" (both are read dú xiào). Here we use the text found in today's textbooks and common anthologies."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "著，这里读 zhuó，意思是放置、安放，同“着（zhuó）”。",
+   "en": "Here it is read zhuó and means to place or set down."
+  },
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "扁",
+   "pinyin": "piān",
+   "zh": "扁舟的“扁”读 piān，指小船，不读 biǎn。",
+   "en": "In piān zhōu, \"a small boat\", the character is read piān, not biǎn."
+  },
+  {
+   "line": 13,
+   "pos": 3,
+   "char": "骚",
+   "pinyin": "sāo",
+   "zh": "萧骚：读 xiāo sāo，头发稀疏的样子。",
+   "en": "xiāo sāo: thin and sparse, said of hair."
+  },
+  {
+   "line": 17,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wéi",
+   "zh": "为，这里读 wéi，意思是“作为、当作”。",
+   "en": "Here it is read wéi, meaning \"to be, to act as\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "洞庭青草：洞庭湖和青草湖。两个湖连在一起，在今天的湖南北部。",
+   "en": "dòng tíng qīng cǎo: Lake Dongting and Lake Qingcao. The two lakes join together, in the north of today's Hunan."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "风色：风的样子。“更无一点风色”就是一点风也没有。",
+   "en": "fēng sè: a sign of wind. The line means there is not a breath of wind."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "玉鉴琼田：鉴，镜子；琼，美玉。形容湖面又平又亮，像玉做的镜子、玉铺的田地。",
+   "en": "yù jiàn qióng tián: jiàn is a mirror, qióng is fine jade. The lake is so smooth and bright it looks like a jade mirror, or fields paved with jade."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "三万顷：顷是面积单位。三万顷是说湖面非常大。",
+   "en": "sān wàn qǐng: qǐng is a unit of area. Thirty thousand qǐng means the lake is huge."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "扁舟一叶：一条小船，小得像一片树叶。",
+   "en": "piān zhōu yí yè: one small boat, as small as a leaf."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "素月分辉：素月，洁白的月亮。月亮把光洒下来，分给湖水。",
+   "en": "sù yuè fēn huī: the pure white moon shares its light with the lake."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "明河共影：明河，银河。银河的影子也一起倒映在湖里。",
+   "en": "míng hé gòng yǐng: míng hé is the Milky Way. Its reflection lies in the lake too."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 5,
+   "zh": "表里俱澄澈：表里，上上下下、里里外外；俱，都；澄澈，清澈透明。天上水下全都清清亮亮。",
+   "en": "biǎo lǐ jù chéng chè: inside and out, sky and water, everything is clear and bright."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "悠然心会：心里静静地领会到了。",
+   "en": "yōu rán xīn huì: quietly, in his heart, he understands."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 6,
+   "zh": "妙处难与君说：其中的美妙，很难跟你说清楚。君，你。",
+   "en": "miào chù nán yǔ jūn shuō: the wonder of it is hard to put into words for you. Jūn means you."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "应念：想起。",
+   "en": "yīng niàn: thinking back on."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "岭海：五岭以南、靠近南海的地方，这里指作者做官的广西一带。",
+   "en": "lǐng hǎi: the land south of the Five Ridges, near the South Sea. Here it means the Guangxi area where the poet had served."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "经年：一年左右，或者好几年。",
+   "en": "jīng nián: a year or so, a long time."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "孤光自照：孤光，指月亮。只有月亮照着自己。一说指自己的心像孤灯一样明亮。",
+   "en": "gū guāng zì zhào: the lonely light, the moon, shining on him alone. Another reading: his own heart shining by itself."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 5,
+   "zh": "肝胆皆冰雪：肝胆，代指内心。内心像冰雪一样纯洁。",
+   "en": "gān dǎn jiē bīng xuě: liver and gall stand for the heart. His heart is as pure as ice and snow."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "短鬓：鬓，脸两边靠近耳朵的头发。短鬓指头发稀少。",
+   "en": "duǎn bìn: bìn is the hair at the temples. Short temple hair means thinning hair."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "襟袖冷：衣襟和袖子都觉得凉。",
+   "en": "jīn xiù lěng: the front of his robe and his sleeves feel cold."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "稳泛：稳稳地划着船。泛，坐船漂行。",
+   "en": "wěn fàn: drifting steadily in the boat."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "沧溟：茫茫的大水。",
+   "en": "cāng míng: wide, deep water."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "尽挹西江：挹，舀。把西江的水全部舀来当酒。西江指长江。",
+   "en": "jìn yì xī jiāng: yì means to scoop. He scoops up the whole West River as wine. The West River here means the Yangtze."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "细斟北斗：斟，倒酒。把北斗七星当作勺子，慢慢倒酒。",
+   "en": "xì zhēn běi dǒu: zhēn means to pour wine. He uses the Big Dipper as a ladle and pours slowly."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 5,
+   "zh": "万象为宾客：天地间的万物都是我的客人。",
+   "en": "wàn xiàng wéi bīn kè: everything in heaven and earth is his guest."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "扣舷独啸：扣，敲；舷，船边。敲着船边，一个人放声长啸。啸，撮起嘴发出长长的声音。",
+   "en": "kòu xián dú xiào: kòu is to knock, xián is the side of the boat. He taps the boat's edge and gives a long, loud whistling cry, all alone."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 6,
+   "zh": "今夕何夕：今晚是什么样的夜晚啊。形容高兴得忘了时间。这句话出自《诗经》。",
+   "en": "jīn xī hé xī: what night is tonight? He is so happy he forgets time. The phrase comes from the Book of Songs."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "洞庭湖连着青草湖，",
+   "en": "Lake Dongting runs into Lake Qingcao."
+  },
+  {
+   "zh": "快到中秋了，",
+   "en": "It is close to Mid-Autumn,"
+  },
+  {
+   "zh": "湖上一点风也没有。",
+   "en": "and there is not a breath of wind on the water."
+  },
+  {
+   "zh": "三万顷湖面像玉镜、像玉田，",
+   "en": "Thirty thousand qǐng of lake shine like a jade mirror, like fields of jade,"
+  },
+  {
+   "zh": "上面只漂着我这一叶小船。",
+   "en": "and on it floats my one small boat, like a leaf."
+  },
+  {
+   "zh": "洁白的月亮把光洒向湖面，",
+   "en": "The white moon pours its light onto the lake,"
+  },
+  {
+   "zh": "银河的影子也映在水里，",
+   "en": "and the Milky Way is mirrored there too."
+  },
+  {
+   "zh": "天上水下，里里外外，全都清澈透明。",
+   "en": "Above and below, inside and out, all is clear and bright."
+  },
+  {
+   "zh": "我静静地在心里领会，",
+   "en": "Quietly, my heart understands,"
+  },
+  {
+   "zh": "这份美妙却很难跟你说清。",
+   "en": "but the wonder of it is hard to tell you."
+  },
+  {
+   "zh": "想起在岭南做官的这一年多，",
+   "en": "I think of my year or more in the far south,"
+  },
+  {
+   "zh": "只有孤月照着我，",
+   "en": "with only the lonely moon shining on me,"
+  },
+  {
+   "zh": "我的心像冰雪一样干净。",
+   "en": "and my heart as clean as ice and snow."
+  },
+  {
+   "zh": "如今头发稀少，衣襟袖子透着凉意，",
+   "en": "Now my hair is thin, and my robe and sleeves feel the cold,"
+  },
+  {
+   "zh": "我稳稳地漂在辽阔的水面上。",
+   "en": "yet I drift steadily on the wide, open water."
+  },
+  {
+   "zh": "我要舀尽西江的水当酒，",
+   "en": "I will scoop up the whole West River as wine,"
+  },
+  {
+   "zh": "用北斗星当勺子慢慢斟，",
+   "en": "pour it slowly with the Big Dipper as my ladle,"
+  },
+  {
+   "zh": "请天地万物都来做我的客人。",
+   "en": "and make everything in the world my guests."
+  },
+  {
+   "zh": "我敲着船边，独自放声长啸，",
+   "en": "I tap the side of the boat and cry out alone,"
+  },
+  {
+   "zh": "快活得忘了今夜是什么日子。",
+   "en": "so happy I forget what night it is."
+  }
+ ],
+ "background": {
+  "zh": "宋孝宗乾道二年（1166年），张孝祥在广西做官，被人说坏话，丢了官。他从桂林坐船北上回家，路过洞庭湖，正好快到中秋。那天夜里湖上没有一点风，月光和银河照在平静的湖面上。他看着这片清亮的天地，想起自己在岭南的日子，写下了这首词。",
+  "en": "In 1166 Zhang Xiaoxiang was serving as an official in Guangxi. People spoke against him, and he lost his post. He took a boat north from Guilin to go home. On the way he crossed Lake Dongting, close to Mid-Autumn. That night there was no wind at all. Moonlight and the Milky Way lay on the still lake. Looking at this clear, bright world, he thought of his time in the far south and wrote this lyric."
+ },
+ "author_note": {
+  "zh": "张孝祥，南宋词人，二十多岁就考中了状元。他主张抗击金国，为人正直。他很敬佩苏轼，词写得开阔豪放，和苏轼很像。这首词写得干净明亮，正是他的代表作。",
+  "en": "Zhang Xiaoxiang was a Southern Song poet who came first in the top imperial exam while still in his twenties. He wanted Song to fight back against the Jin, and he was known as an honest man. He admired Su Shi, and his lyrics are broad and bold, much like Su Shi's. This bright, clean lyric is one of his best-known works."
+ },
+ "appreciation": {
+  "zh": "上阕写景。快到中秋的夜晚，洞庭湖一点风也没有，湖面平得像一面巨大的玉镜。月亮和银河倒映在水里，天上水下一片透明，中间只有一条小小的船。作者说这种美“难与君说”，只能心里明白。下阕写人。他想起在岭南一个人做官，心像冰雪一样干净。虽然头发稀了，衣服凉了，他却稳稳地漂在大湖上。接着他想象舀干西江当酒，拿北斗当勺子，请万物来做客，气魄非常大。最后他敲着船边独自长啸，快乐得忘了时间。景是透明的，人的心也是透明的，两者合成了一片。",
+  "en": "The first stanza paints the scene. On a night near Mid-Autumn, Lake Dongting has no wind at all. The water is as flat as a huge jade mirror. The moon and the Milky Way are reflected in it, so sky and water are both clear as glass, with one tiny boat in the middle. The poet says this beauty is hard to put into words; he can only feel it. The second stanza turns to the man. He remembers serving alone in the far south, his heart clean as ice and snow. His hair is thin and his robe is cold, yet he drifts calmly on the great lake. Then he imagines scooping up the West River as wine, using the Big Dipper as a ladle, and inviting the whole world as his guests. The picture is enormous. At the end he taps the boat and cries out alone, so happy he forgets time. The scene is clear, and so is his heart, and the two become one."
+ },
+ "famous_lines": [
+  5,
+  6,
+  7,
+  8,
+  9,
+  15,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "midautumn"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "lake",
+   "night",
+   "integrity",
+   "boat"
+  ]
+ },
+ "uncertain": []
+}

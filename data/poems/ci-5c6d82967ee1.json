@@ -1,0 +1,472 @@
+{
+ "id": "ci-5c6d82967ee1",
+ "kind": "ci",
+ "title": "蝶恋花·春景",
+ "title_en": "Butterflies Love Flowers: A Spring Scene",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "褪",
+    "tùn"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "杏",
+    "xìng"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zi"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "绕",
+    "rào"
+   ]
+  ],
+  [
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "绵",
+    "mián"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "笑",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "悄",
+    "qiǎo"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "恼",
+    "nǎo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "褪",
+   "pinyin": "tùn",
+   "zh": "褪在这里是“花瓣脱落、颜色消退”的意思，读 tùn；一些书注作 tuì，两种读法都能见到。",
+   "en": "Here this character means petals falling and colour fading, read tùn. Some books give tuì; both are found."
+  },
+  {
+   "line": 3,
+   "pos": 6,
+   "char": "少",
+   "pinyin": "shǎo",
+   "zh": "少读 shǎo，是“变少”的意思。",
+   "en": "This character is read shǎo here, meaning 'fewer'."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "行",
+   "pinyin": "xíng",
+   "zh": "行人的行读 xíng，是“走路的人”。",
+   "en": "In 'passer-by', this character is read xíng."
+  },
+  {
+   "line": 8,
+   "pos": 6,
+   "char": "悄",
+   "pinyin": "qiǎo",
+   "zh": "悄读 qiǎo，是“静悄悄、没有声音”的意思。",
+   "en": "This character is read qiǎo here, meaning quiet, silent."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "花褪残红：花儿凋谢了，残留的红色花瓣也在脱落。褪，脱落、消退。",
+   "en": "huā tùn cán hóng: the flowers are fading and their last red petals are falling. Tùn means to shed or fade."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "青杏：还没熟的绿色小杏子。",
+   "en": "qīng xìng: small green apricots, not yet ripe."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "绿水人家绕：绿水绕着人家流过。",
+   "en": "lǜ shuǐ rén jiā rào: green water winds around the houses."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "柳绵：柳絮，柳树的种子上带着白色的绒毛，像棉花一样随风飘。",
+   "en": "liǔ mián: willow fluff, the white down on willow seeds that floats in the wind like cotton."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "天涯：天边，指很远很远的地方。",
+   "en": "tiān yá: the edge of the sky, meaning very far places."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "芳草：香草，青草。",
+   "en": "fāng cǎo: fragrant grass, green grass."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "秋千：一种玩具，用绳子挂着一块板，人坐在上面荡来荡去。",
+   "en": "qiū qiān: a swing, a board hung on ropes that you sit on and swing back and forth."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "佳人：美丽的女子。",
+   "en": "jiā rén: a beautiful young woman."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 2,
+   "zh": "渐：渐渐，慢慢地。",
+   "en": "jiàn: gradually."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "多情：感情丰富的人，这里指墙外的行人。",
+   "en": "duō qíng: someone full of feeling, here the passer-by outside the wall."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "无情：没有感情的人，这里指墙里的佳人，她根本不知道墙外有人在听。",
+   "en": "wú qíng: someone without feeling, here the girl inside the wall, who does not even know anyone is listening."
+  },
+  {
+   "line": 9,
+   "start": 6,
+   "end": 7,
+   "zh": "恼：使人烦恼。",
+   "en": "nǎo: to upset, to trouble."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "红花凋谢了，枝头结出了小小的青杏。",
+   "en": "The red flowers have faded, and small green apricots appear."
+  },
+  {
+   "zh": "燕子飞来飞去的时候，",
+   "en": "As swallows fly about,"
+  },
+  {
+   "zh": "绿水绕着村里的人家流过。",
+   "en": "green water winds around the village houses."
+  },
+  {
+   "zh": "枝头的柳絮被风吹得越来越少，",
+   "en": "The willow fluff on the branches blows away, less and less,"
+  },
+  {
+   "zh": "可是天涯海角，哪里没有青青的芳草呢！",
+   "en": "yet where under heaven is there no fragrant grass?"
+  },
+  {
+   "zh": "墙里有人在荡秋千，墙外是一条小路。",
+   "en": "Inside the wall there is a swing; outside the wall there is a road."
+  },
+  {
+   "zh": "墙外走路的行人，",
+   "en": "A passer-by outside the wall"
+  },
+  {
+   "zh": "听见墙里的姑娘在笑。",
+   "en": "hears a girl laughing inside."
+  },
+  {
+   "zh": "笑声渐渐听不见了，四周渐渐安静下来，",
+   "en": "The laughter fades away, and everything grows quiet."
+  },
+  {
+   "zh": "多情的行人，反倒被无情的姑娘惹得烦恼了。",
+   "en": "The man full of feeling is left troubled by the girl who felt nothing."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是暮春时节，也就是春天快结束的时候。具体写作时间说法不一，一说是苏轼晚年被贬到惠州时写的。据宋人笔记记载，苏轼在惠州时，曾让侍妾王朝云唱这首词，她唱到“枝上柳绵吹又少，天涯何处无芳草”时，伤心得流下泪来，唱不下去。",
+  "en": "This lyric is set in late spring, when spring is about to end. Sources disagree on when it was written. One view says Su Shi wrote it in his old age, when he was banished to Huizhou. A Song-dynasty note tells this story: in Huizhou, Su Shi asked his companion Wang Zhaoyun to sing it. When she reached the lines about willow fluff blowing away and fragrant grass everywhere, she was so sad that she wept and could not go on."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画样样都好。他一生多次被贬到远方，却总能乐观地面对。他的词多数豪放，但也有不少像这首一样清新婉转的作品。",
+  "en": "Su Shi (1037–1101), who called himself the Lay Buddhist of Dongpo, was a great Northern Song writer. He was brilliant at poems, ci, prose, calligraphy and painting. He was banished to far-off places many times, yet he always faced life cheerfully. Most of his ci are bold, but many, like this one, are fresh and gentle."
+ },
+ "appreciation": {
+  "zh": "上片写暮春的景色：红花谢了，青杏结了，燕子在飞，绿水绕着人家。柳絮越吹越少，春天要走了，有点让人伤感。可是苏轼马上说：天涯到处都有芳草啊！伤春里又带着豁达。下片讲一个小故事。墙里有姑娘荡秋千，笑声飘到墙外，一个路人听得入了迷。可笑声慢慢远了，没了。路人心里空落落的，好像被人惹恼了，其实姑娘根本不知道他在那里。这个“多情却被无情恼”写得又好笑又有点心酸，生活里很多人都有这种感觉。",
+  "en": "The first stanza shows late spring. The red flowers are gone, green apricots have formed, swallows fly, and green water winds past the houses. The willow fluff blows away little by little. Spring is leaving, and that feels a bit sad. But Su Shi says right away: there is fragrant grass everywhere under heaven! Even in sadness he stays open-hearted. The second stanza tells a tiny story. Inside a wall a girl is on a swing. Her laughter floats over the wall, and a passer-by is charmed. Then the laughter fades and is gone. He feels empty, as if she had upset him on purpose, though she never knew he was there. The line about the feeling man troubled by the unfeeling girl is funny and a little sad. Many people have felt just this way."
+ },
+ "famous_lines": [
+  3,
+  4,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "village",
+   "love",
+   "willow"
+  ]
+ },
+ "uncertain": []
+}

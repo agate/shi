@@ -1,0 +1,335 @@
+{
+ "id": "ci-b5d3a49c7231",
+ "kind": "ci",
+ "title": "浣溪沙·漠漠轻寒上小楼",
+ "title_en": "Huan Xi Sha: A Faint Chill Climbs the Little Tower",
+ "author": "秦观",
+ "author_en": "Qin Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·浣溪沙",
+  "en": "ci to the tune Huan Xi Sha (Washing Silk in the Stream)"
+ },
+ "lines": [
+  [
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "漠",
+    "mò"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "赖",
+    "lài"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "穷",
+    "qióng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "幽",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "钩",
+    "gōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "漠漠：轻轻地、无声地弥漫开来的样子。",
+   "en": "mò mò: spreading out softly and silently."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "轻寒：淡淡的寒意。",
+   "en": "qīng hán: a light chill."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "晓阴：早晨天阴。",
+   "en": "xiǎo yīn: a cloudy morning."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "无赖：让人无可奈何、烦闷讨厌。这里不是骂人的话。",
+   "en": "wú lài: annoying, dreary, something you can do nothing about. Here it is not an insult."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "穷秋：深秋，秋天快结束的时候。",
+   "en": "qióng qiū: late autumn, the very end of autumn."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "画屏：画着图画的屏风。",
+   "en": "huà píng: a folding screen with a painting on it."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 7,
+   "zh": "幽：幽静，安静而深远。",
+   "en": "yōu: quiet and deep."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "自在：自由自在，不受拘束。",
+   "en": "zì zài: free and easy."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "丝雨：像丝一样细的雨。",
+   "en": "sī yǔ: rain as fine as silk threads."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "宝帘：用珠宝装饰的帘子，指精美的帘子。",
+   "en": "bǎo lián: a curtain decorated with jewels; a fine curtain."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "闲挂：随意地挂着。",
+   "en": "xián guà: hanging idly."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "淡淡的寒意静静地漫上小楼。",
+   "en": "A faint chill quietly spreads up into the little tower."
+  },
+  {
+   "zh": "早晨天阴着，让人烦闷，好像到了深秋。",
+   "en": "The cloudy morning is dreary, as if it were late autumn."
+  },
+  {
+   "zh": "画屏上画着淡淡的烟和流水，显得幽静。",
+   "en": "The painted screen shows pale mist and flowing water, quiet and still."
+  },
+  {
+   "zh": "自由飘飞的花瓣，轻得像梦一样。",
+   "en": "Petals drift freely, as light as a dream."
+  },
+  {
+   "zh": "无边无际的细雨，细得像心里的忧愁。",
+   "en": "The endless fine rain is as thin and soft as sorrow."
+  },
+  {
+   "zh": "精美的帘子随意地挂在小银钩上。",
+   "en": "The fine curtain hangs idly on a little silver hook."
+  }
+ ],
+ "background": {
+  "zh": "这首词写春天里一个阴冷的早晨，一个人在小楼上感到的淡淡忧愁。写作时间不详，词中也没有说出忧愁从哪里来。有人认为写的是一位女子在闺房里的春愁，也有人认为是词人借景抒发自己的心情。",
+  "en": "This ci describes a cold, cloudy spring morning and the light sorrow someone feels up in a small tower. We do not know when it was written, and the ci never says where the sorrow comes from. Some readers think it shows a young woman's spring sadness in her room. Others think the poet is using the scene to share his own feelings."
+ },
+ "author_note": {
+  "zh": "秦观（1049—1100），字少游，北宋词人，是苏轼的学生，“苏门四学士”之一。他的词细腻柔美，善于把看不见的心情写成看得见的景物，是婉约派的代表。他一生仕途不顺，多次被贬，词里常带着忧伤。",
+  "en": "Qin Guan (1049–1100), also called Shaoyou, was a Northern Song ci poet. He was a student of Su Shi and one of the \"Four Scholars of Su's School.\" His ci are delicate and soft. He was good at turning feelings you cannot see into scenes you can see, and he is a leading poet of the graceful, gentle style. His career went badly and he was sent away many times, so his ci often carry sadness."
+ },
+ "appreciation": {
+  "zh": "整首词没有大声诉苦，却处处是愁。轻寒、阴天、画屏上的淡烟流水，都是淡淡的、静静的。最有名的是“自在飞花轻似梦，无边丝雨细如愁”：平常人会说“愁像雨”，词人却反过来说“雨像愁”，把看得见的花和雨，比成看不见的梦和愁，又轻又细，说不清，赶不走。最后一句只写帘子挂在钩上，人好像什么也没做，只是静静看着，愁就在这份安静里。",
+  "en": "The whole ci never complains out loud, yet sorrow is everywhere. The light chill, the cloudy sky, the pale mist and water on the screen are all faint and quiet. The most famous lines say the drifting petals are as light as a dream and the fine rain is as thin as sorrow. Most people would say sorrow is like rain. The poet turns it around and says rain is like sorrow. He compares flowers and rain, which we can see, to dreams and sorrow, which we cannot. All of them are light and fine, hard to name and hard to chase away. The last line only shows a curtain on a hook. The person seems to do nothing but watch quietly, and the sorrow lives in that stillness."
+ },
+ "famous_lines": [
+  3,
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "melancholy",
+   "rain",
+   "flowers",
+   "solitude"
+  ]
+ },
+ "uncertain": []
+}

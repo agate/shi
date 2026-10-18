@@ -1,0 +1,507 @@
+{
+ "id": "ci-074bc9ed2d03",
+ "kind": "ci",
+ "title": "蝶恋花·槛菊愁烟兰泣露",
+ "title_en": "Butterflies Love Flowers: Chrysanthemums by the Railing Grieve in Mist",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "槛",
+    "jiàn"
+   ],
+   [
+    "菊",
+    "jú"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "泣",
+    "qì"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "幕",
+    "mù"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zi"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "谙",
+    "ān"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "凋",
+    "diāo"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "兼",
+    "jiān"
+   ],
+   [
+    "尺",
+    "chǐ"
+   ],
+   [
+    "素",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "阔",
+    "kuò"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "槛",
+   "pinyin": "jiàn",
+   "zh": "槛在这里是“栏杆”的意思，读 jiàn。“门槛”的槛才读 kǎn。",
+   "en": "Here this character means a railing, read jiàn. It is read kǎn only when it means a doorsill."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "望尽的尽读 jìn，是“到头、望到最远”的意思。",
+   "en": "In wàng jìn, 'gaze to the very end', this character is read jìn."
+  },
+  {
+   "line": 9,
+   "pos": 1,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "山长的长读 cháng，是“长远”的意思。",
+   "en": "In 'the mountains are long', this character is read cháng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "槛菊：栏杆边的菊花。槛，栏杆。",
+   "en": "jiàn jú: chrysanthemums by the railing. Jiàn is a railing."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "愁烟：笼罩在烟雾里，好像带着忧愁。",
+   "en": "chóu yān: wrapped in mist, as if grieving."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "兰泣露：兰花上沾着露水，好像在哭泣。",
+   "en": "lán qì lù: dew on the orchids, as if they were weeping."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "罗幕：用丝绸做的帘幕。",
+   "en": "luó mù: curtains made of thin silk."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "轻寒：微微有些冷。",
+   "en": "qīng hán: a slight chill."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "不谙：不懂得，不了解。谙，熟悉、懂得。",
+   "en": "bù ān: does not understand. Ān means to know well."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "离恨：和亲人分别的痛苦。",
+   "en": "lí hèn: the pain of being parted from a loved one."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "斜光：斜斜照进来的月光。",
+   "en": "xié guāng: slanting moonlight."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "到晓：一直到天亮。",
+   "en": "dào xiǎo: until dawn."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "朱户：红色的门窗，这里指富贵人家的住处。",
+   "en": "zhū hù: a red door, here the home of a wealthy family."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "凋碧树：让绿树的叶子凋落了。凋，草木凋零、叶子落下。",
+   "en": "diāo bì shù: made the green trees lose their leaves. Diāo means leaves withering and falling."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "望尽：一直望到看不见的尽头。",
+   "en": "wàng jìn: to gaze all the way to the end of sight."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "天涯路：通向天边的路，指远方。",
+   "en": "tiān yá lù: the road to the edge of the sky, meaning very far away."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "彩笺：彩色的信纸，常用来写诗。",
+   "en": "cǎi jiān: coloured writing paper, often used for poems."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 5,
+   "zh": "兼：和，以及。",
+   "en": "jiān: and, as well as."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "尺素：书信。古人把信写在一尺左右长的白绢上，所以叫尺素。",
+   "en": "chǐ sù: a letter. People once wrote letters on a piece of white silk about one chi long, so a letter was called 'a foot of silk'."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "山长水阔：山又多又远，水又宽又广，形容路途遥远。",
+   "en": "shān cháng shuǐ kuò: long mountains and wide waters, meaning the way is far."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "知何处：哪里知道他在什么地方。",
+   "en": "zhī hé chù: who knows where he is?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "栏杆边的菊花笼着烟雾，好像在发愁；兰花沾着露水，好像在哭泣。",
+   "en": "Chrysanthemums by the railing seem to grieve in the mist; orchids seem to weep with dew."
+  },
+  {
+   "zh": "丝绸帘幕间透进微微的寒意，",
+   "en": "A slight chill comes through the silk curtains,"
+  },
+  {
+   "zh": "燕子成双成对地飞走了。",
+   "en": "and the swallows fly away in pairs."
+  },
+  {
+   "zh": "明月不懂得离别的痛苦，",
+   "en": "The bright moon does not know the pain of parting;"
+  },
+  {
+   "zh": "斜斜的月光一直照到天亮，照进红色的门窗。",
+   "en": "its slanting light shines through the red door until dawn."
+  },
+  {
+   "zh": "昨天夜里，西风吹落了绿树的叶子。",
+   "en": "Last night the west wind stripped the green trees bare."
+  },
+  {
+   "zh": "我独自登上高楼，",
+   "en": "Alone I climb the high tower"
+  },
+  {
+   "zh": "望尽那通向天边的路。",
+   "en": "and gaze down the road to the edge of the sky."
+  },
+  {
+   "zh": "想寄一封信，写上诗句和思念，",
+   "en": "I want to send a letter, with poems and my longing,"
+  },
+  {
+   "zh": "可是山那么长，水那么宽，哪里知道他在什么地方？",
+   "en": "but the mountains are long and the waters wide; who knows where he is?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是深秋时节一个人思念远方亲人的心情。具体写于哪一年、写给谁，已经说不清了。词里的主人公一般理解为一位思念远方爱人的女子。近代学者王国维在《人间词话》里说，做大事业、大学问要经过三种境界，第一种就是“昨夜西风凋碧树，独上高楼，望尽天涯路”，比喻先要登高望远，看清方向。",
+  "en": "This lyric shows someone in late autumn missing a loved one far away. We no longer know which year it was written or for whom. The speaker is usually taken to be a woman missing her beloved. The modern scholar Wang Guowei wrote that great work and great learning pass through three stages. For the first he used the lines about the west wind, the high tower and the road to the edge of the sky: first you must climb high, look far, and see where you are going."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），北宋词人，从小就是“神童”，后来做到宰相。他的词语言优美，感情含蓄，多写闲愁和离别。这首词是他写离愁的名作，前面细腻，后面却突然开阔起来。",
+  "en": "Yan Shu (991–1055) was a Northern Song ci poet. He was a child prodigy and later became chief minister. His lyrics have graceful words and quiet feelings, often about idle sorrow and parting. This is his most famous lyric about parting: delicate at first, then suddenly wide open."
+ },
+ "appreciation": {
+  "zh": "开头是一个秋天的早晨：菊花笼着烟，像在发愁；兰花带着露，像在哭。其实是看花的人自己在难过。燕子成双飞走，更显得她一个人孤单。她怪月亮不懂离别的苦，整夜照着她，让她睡不着。下片画面突然变大：一夜西风，绿树叶子全落了，她登上高楼，一直望到天边。可是想寄一封信，山高水远，连他在哪里都不知道。从花、月、燕子的小景，到高楼、天涯的大景，愁思也越来越深，越来越远。",
+  "en": "It opens on an autumn morning. The chrysanthemums in the mist seem to grieve; the orchids with dew seem to weep. Really it is the person looking at them who is sad. The swallows fly off in pairs, which makes her feel all the more alone. She blames the moon for not knowing the pain of parting, shining on her all night so she cannot sleep. In the second stanza the picture suddenly grows huge. In one night the west wind has stripped the trees bare. She climbs the high tower and gazes to the edge of the sky. She wants to send a letter, but the mountains are high and the waters far, and she does not even know where he is. From small scenes of flowers, moon and swallows to the wide view from the tower, her longing grows deeper and reaches farther."
+ },
+ "famous_lines": [
+  5,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "parting",
+   "moon",
+   "love",
+   "letter"
+  ]
+ },
+ "uncertain": []
+}

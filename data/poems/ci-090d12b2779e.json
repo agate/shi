@@ -1,0 +1,412 @@
+{
+ "id": "ci-090d12b2779e",
+ "kind": "ci",
+ "title": "武陵春·春晚",
+ "title_en": "Spring at Wuling: Late Spring",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "住",
+    "zhù"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "梳",
+    "shū"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "拟",
+    "nǐ"
+   ],
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "舴",
+    "zé"
+   ],
+   [
+    "艋",
+    "měng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "载",
+    "zài"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "许",
+    "xǔ"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "风住：风停了。",
+   "en": "fēng zhù: the wind has stopped."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "尘香：落花掉在泥土里，连尘土都带着花香。",
+   "en": "chén xiāng: fallen petals have sunk into the dust, so even the dust smells of flowers."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "花已尽：花已经落光了。",
+   "en": "huā yǐ jìn: the flowers have all fallen."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "日晚：太阳已经很高了，天不早了。",
+   "en": "rì wǎn: the day is already late."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "倦梳头：懒得梳头。倦，没有心思、懒得做。",
+   "en": "juàn shū tóu: too weary to comb her hair. Juàn means having no heart to do something."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "物是人非：东西还是原来的东西，人却已经不是从前的人了。这里指丈夫已经去世。",
+   "en": "wù shì rén fēi: things are as they were, but the people are not. Here it means her husband has died."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "事事休：一切都完了。休，停止、结束。",
+   "en": "shì shì xiū: everything is over. Xiū means to stop, to end."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "欲语：想要说话。",
+   "en": "yù yǔ: wanting to speak."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "闻说：听说。",
+   "en": "wén shuō: I hear that."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "双溪：水名，在今浙江金华，是当时游玩的好地方。",
+   "en": "Shuangxi: Twin Streams, a river in today's Jinhua, Zhejiang, a popular place for outings then."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "尚好：还很好。尚，还。",
+   "en": "shàng hǎo: still lovely. Shàng means still."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 2,
+   "zh": "拟：打算。",
+   "en": "nǐ: to plan to."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "泛轻舟：坐着小船在水上游玩。",
+   "en": "fàn qīng zhōu: to go out on the water in a light boat."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "只恐：只怕。",
+   "en": "zhǐ kǒng: I only fear."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "舴艋舟：两头尖尖、像蚱蜢一样的小船。",
+   "en": "zé měng zhōu: a tiny boat with pointed ends, shaped like a grasshopper."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 6,
+   "zh": "许多愁：这么多的愁。",
+   "en": "xǔ duō chóu: so much sorrow."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "风停了，落花化成了带着香气的尘土，花已经落光了，",
+   "en": "The wind has stopped; the dust is sweet with fallen petals, and the flowers are all gone."
+  },
+  {
+   "zh": "天已经不早了，我还懒得梳头。",
+   "en": "The day is late, and I am too weary to comb my hair."
+  },
+  {
+   "zh": "东西还在，人却不在了，一切都完了，",
+   "en": "Things remain, but he is gone, and everything is over."
+  },
+  {
+   "zh": "想要说话，眼泪先流了下来。",
+   "en": "I want to speak, but tears flow first."
+  },
+  {
+   "zh": "听说双溪的春光还很美，",
+   "en": "I hear that spring is still lovely at the Twin Streams,"
+  },
+  {
+   "zh": "我也打算坐小船去游一游。",
+   "en": "and I think I too might go out in a light boat."
+  },
+  {
+   "zh": "只怕双溪那小小的船，",
+   "en": "But I fear the tiny grasshopper boats of the Twin Streams"
+  },
+  {
+   "zh": "载不动我这么多的愁。",
+   "en": "could not carry so much sorrow."
+  }
+ ],
+ "background": {
+  "zh": "这首词写于宋高宗绍兴五年（1135年）的暮春。那时李清照五十多岁，住在金华（今浙江金华）。几年前，北方被金兵占领，她逃到南方；丈夫赵明诚在1129年病逝，两人一起收藏的书画文物也大多丢失了。她一个人漂泊在外，在春天快要结束的时候写下了这首词。",
+  "en": "Li Qingzhao wrote this in late spring of 1135, when she was in her fifties and living in Jinhua, in today's Zhejiang. A few years before, the Jin army had taken the north and she had fled south. Her husband Zhao Mingcheng had died of illness in 1129, and most of the books and art they had collected together were lost. Alone and far from home, she wrote this lyric as spring was ending."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。前半生她和丈夫过着安稳美满的日子；北宋灭亡后，她国破家亡，四处逃难。她后期的词多写孤独和悲伤，语言很平常，感情却很深，这首词就是代表。",
+  "en": "Li Qingzhao (1084–around 1155), who called herself the Lay Scholar Yi'an, was the most famous woman writer of ci in the Song dynasty. In the first half of her life she lived happily and in peace with her husband. After the Northern Song fell she lost her country and her home and fled from place to place. Her later lyrics are about loneliness and grief, in plain words but with deep feeling, and this one shows that well."
+ },
+ "appreciation": {
+  "zh": "开头写风停花落，春天就要过去了。她到了很晚还懒得梳头，因为没有心思打扮。“物是人非事事休”七个字，说尽了失去亲人和家园的痛：东西都还在，人却不在了。想说点什么，泪先流下来。下半首她听说双溪春光还好，也想去散散心，可马上又担心：那么小的船，怎么装得下这么多的愁？愁本来是看不见、摸不着的，她却让愁有了重量，重到小船都载不动。这个比喻又新奇又真切，成了写愁的千古名句。",
+  "en": "It opens with the wind stopping and the flowers fallen: spring is almost over. Late in the day she still cannot be bothered to comb her hair, because she has no heart to look nice. The line 'things remain, but he is gone, and everything is over' sums up the pain of losing her husband and her home. Before she can say a word, the tears come. In the second half she hears that spring is still lovely at the Twin Streams and thinks of going out to cheer herself up. But at once she worries: how could such a tiny boat hold so much sorrow? Sorrow cannot be seen or touched, yet she gives it weight, so heavy that a little boat could not carry it. This picture is fresh and true, and it has become one of the most famous lines ever written about sorrow."
+ },
+ "famous_lines": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "sorrow",
+   "grief",
+   "late-spring",
+   "boat"
+  ]
+ },
+ "uncertain": []
+}

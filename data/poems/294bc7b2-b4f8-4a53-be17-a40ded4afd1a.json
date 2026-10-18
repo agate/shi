@@ -1,0 +1,950 @@
+{
+ "id": "294bc7b2-b4f8-4a53-be17-a40ded4afd1a",
+ "kind": "shi",
+ "title": "白雪歌送武判官归京",
+ "title_en": "Song of White Snow, Seeing Off Secretary Wu on His Return to the Capital",
+ "author": "岑参",
+ "author_en": "Cen Shen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言歌行",
+  "en": "seven-character song-style poem"
+ },
+ "lines": [
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "即",
+    "jí"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "梨",
+    "lí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "散",
+    "sàn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "幕",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "狐",
+    "hú"
+   ],
+   [
+    "裘",
+    "qiú"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "衾",
+    "qīn"
+   ],
+   [
+    "薄",
+    "bó"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "军",
+    "jūn"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "控",
+    "kòng"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dū"
+   ],
+   [
+    "护",
+    "hù"
+   ],
+   [
+    "铁",
+    "tiě"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "着",
+    "zhuó"
+   ]
+  ],
+  [
+   [
+    "瀚",
+    "hàn"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "丈",
+    "zhàng"
+   ],
+   [
+    "冰",
+    "bīng"
+   ]
+  ],
+  [
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "惨",
+    "cǎn"
+   ],
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "凝",
+    "níng"
+   ]
+  ],
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "军",
+    "jūn"
+   ],
+   [
+    "置",
+    "zhì"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "饮",
+    "yìn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "琵",
+    "pí"
+   ],
+   [
+    "琶",
+    "pá"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "羌",
+    "qiāng"
+   ],
+   [
+    "笛",
+    "dí"
+   ]
+  ],
+  [
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "辕",
+    "yuán"
+   ],
+   [
+    "门",
+    "mén"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "掣",
+    "chè"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "冻",
+    "dòng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "翻",
+    "fān"
+   ]
+  ],
+  [
+   [
+    "轮",
+    "lún"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ],
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料第三句作“忽然一夜春风来”，课本作“忽如一夜春风来”。“忽如”是“忽然好像”，说雪像梨花，是比喻，意思更好。语料里的“煖”“黪淡”，课本写作“暖”“惨淡”。",
+  "en": "The corpus has hū rán (suddenly) in line three; textbooks have hū rú (suddenly as if), which makes the snow-as-pear-blossom a comparison and reads better. The corpus also writes nuǎn and cǎn dàn with older or rarer characters; textbooks use the common forms."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 6,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄”在这里读 bó，书面语和古诗里常这样读；口语说“被子薄”读 báo。",
+   "en": "Here this character (thin) is read bó, the usual reading in written and classical language. In everyday speech it is báo."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "都",
+   "pinyin": "dū",
+   "zh": "“都护”是官名，“都”读 dū，不读 dōu。",
+   "en": "In dū hù, a title, this character is read dū, not dōu."
+  },
+  {
+   "line": 7,
+   "pos": 6,
+   "char": "着",
+   "pinyin": "zhuó",
+   "zh": "“着”在这里是“穿”的意思，读 zhuó。",
+   "en": "Here this character means to put on clothes, so it is read zhuó."
+  },
+  {
+   "line": 8,
+   "pos": 3,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "“阑干”在这里形容冰纵横交错，“干”读 gān。",
+   "en": "Lán gān here means criss-crossing; this character is read gān."
+  },
+  {
+   "line": 10,
+   "pos": 4,
+   "char": "饮",
+   "pinyin": "yìn",
+   "zh": "“饮”在这里是“请人喝”的意思，读 yìn。",
+   "en": "Here this character means to give someone a drink, so it is read yìn, not yǐn."
+  },
+  {
+   "line": 17,
+   "pos": 6,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“处”是名词“地方”，读 chù。",
+   "en": "Here this character is a noun, a place, so it is read chù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "卷地：贴着地面猛刮，好像要把地卷起来。",
+   "en": "juǎn dì: blowing hard along the ground, as if rolling it up."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "白草：西北的一种草，秋天干枯后变成白色。",
+   "en": "bái cǎo: a grass of the northwest that turns white when it dries in autumn."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "折：折断。",
+   "en": "zhé: to snap."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "胡天：西北边塞的天空。胡，古代对北方和西方少数民族的称呼，这里指西域。",
+   "en": "hú tiān: the sky of the western frontier. Hú was the old word for peoples to the north and west; here it means the Western Regions."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "即：就。",
+   "en": "jí: already, right then."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "忽如：忽然好像。",
+   "en": "hū rú: suddenly as if."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "梨花：梨树的花，白色。这里用来比喻挂满树枝的雪。",
+   "en": "lí huā: pear blossoms, which are white. Here they stand for the snow on the branches."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "散入：（雪花）飘进。",
+   "en": "sàn rù: (snowflakes) drift in."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "珠帘：用珠子串成的门帘。",
+   "en": "zhū lián: a curtain of strung beads."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "罗幕：丝织的帐幕。",
+   "en": "luó mù: a curtain of thin silk."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "狐裘：狐狸皮做的皮袍，很暖和。",
+   "en": "hú qiú: a fox-fur coat, very warm."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "锦衾：锦缎做的被子。",
+   "en": "jǐn qīn: a quilt of fine silk."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "角弓：两头用兽角装饰的硬弓。",
+   "en": "jiǎo gōng: a strong bow with horn on its ends."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "不得控：（天太冷，手冻僵了）拉不开弓。控，拉开。",
+   "en": "bù dé kòng: cannot draw the bow, because the hands are frozen. Kòng means to pull back."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "都护：镇守边疆的长官。这里和“将军”一样，泛指军中将领。",
+   "en": "dū hù: a commander guarding the frontier. Like jiāng jūn, it simply means the officers."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "铁衣：铁甲，用铁片做的战衣。",
+   "en": "tiě yī: iron armour."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "冷难着：冷得难以穿上。",
+   "en": "lěng nán zhuó: so cold it is hard to put on."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "瀚海：大沙漠。",
+   "en": "hàn hǎi: the great desert."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "阑干：纵横交错的样子。",
+   "en": "lán gān: criss-crossing in every direction."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "惨淡：昏暗无光。",
+   "en": "cǎn dàn: dark and gloomy."
+  },
+  {
+   "line": 9,
+   "start": 6,
+   "end": 7,
+   "zh": "凝：凝聚，聚在一起不散。",
+   "en": "níng: gathered and still, not drifting away."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "中军：主帅的营帐。",
+   "en": "zhōng jūn: the commander's main tent."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "置酒：摆下酒宴。",
+   "en": "zhì jiǔ: to set out a feast with wine."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 7,
+   "zh": "饮归客：请回京的客人喝酒。归客，指武判官。",
+   "en": "yìn guī kè: give the returning guest a drink. The guest is Secretary Wu."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 7,
+   "zh": "胡琴、琵琶、羌笛：都是当时西域一带的乐器。羌笛，羌族的笛子。",
+   "en": "hú qín, pí pá, qiāng dí: all instruments from the western lands then. Qiāng dí is the flute of the Qiang people."
+  },
+  {
+   "line": 12,
+   "start": 5,
+   "end": 7,
+   "zh": "辕门：军营的大门。",
+   "en": "yuán mén: the gate of an army camp."
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 2,
+   "zh": "掣：拉、扯。",
+   "en": "chè: to pull, to tug."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "冻不翻：旗子冻硬了，风吹也飘不起来。",
+   "en": "dòng bù fān: the flag is frozen stiff and cannot flap in the wind."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "轮台：唐代地名，在今天新疆境内。",
+   "en": "lún tái: a Tang town in today's Xinjiang."
+  },
+  {
+   "line": 15,
+   "start": 4,
+   "end": 6,
+   "zh": "天山：新疆境内的大山脉。",
+   "en": "tiān shān: the Tianshan, a great mountain range in Xinjiang."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "山回路转：山势弯曲，道路跟着拐弯。",
+   "en": "shān huí lù zhuǎn: the mountains wind and the road turns with them."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "空留：只留下。",
+   "en": "kōng liú: only leaves behind."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 7,
+   "zh": "马行处：马走过的蹄印。",
+   "en": "mǎ xíng chù: the place where the horse has walked, its hoof prints."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "北风贴着地面刮来，把白草都吹断了，",
+   "en": "The north wind sweeps the ground and snaps the white grass;"
+  },
+  {
+   "zh": "西北边塞的天空，才八月就飘起了大雪。",
+   "en": "in this frontier sky, snow is already falling in the eighth month."
+  },
+  {
+   "zh": "忽然好像一夜之间吹来了春风，",
+   "en": "It is as if a spring wind blew in overnight,"
+  },
+  {
+   "zh": "千千万万棵树上开满了雪白的梨花。",
+   "en": "and thousands upon thousands of trees burst into white pear blossom."
+  },
+  {
+   "zh": "雪花飘进珠帘，打湿了丝织的帐幕，",
+   "en": "Snowflakes drift through the bead curtains and dampen the silk hangings;"
+  },
+  {
+   "zh": "狐皮袍子不暖和，锦缎被子也显得单薄。",
+   "en": "fox-fur coats are not warm, and silk quilts feel thin."
+  },
+  {
+   "zh": "将军的手冻僵了，拉不开角弓，",
+   "en": "The general's hands are too numb to draw his horn bow;"
+  },
+  {
+   "zh": "将领的铁甲冰冷，难以穿上身。",
+   "en": "the commander's iron armour is too cold to put on."
+  },
+  {
+   "zh": "大沙漠上到处结着厚厚的冰，",
+   "en": "Across the great desert, thick ice lies criss-crossed everywhere;"
+  },
+  {
+   "zh": "昏暗的阴云凝聚在万里长空。",
+   "en": "gloomy clouds hang still over ten thousand miles."
+  },
+  {
+   "zh": "主帅营帐里摆下酒宴，为回京的客人送行，",
+   "en": "In the commander's tent, wine is set out for the guest going home;"
+  },
+  {
+   "zh": "胡琴、琵琶和羌笛奏起了乐曲。",
+   "en": "hu qin, pipa and Qiang flute play for him."
+  },
+  {
+   "zh": "傍晚，大雪纷纷落在军营门前，",
+   "en": "At dusk, heavy snow falls thick on the camp gate;"
+  },
+  {
+   "zh": "红旗被风扯着，却冻得飘不起来。",
+   "en": "the wind tugs at the red flag, but it is frozen and will not flap."
+  },
+  {
+   "zh": "在轮台的东门外送你离开，",
+   "en": "At Luntai's east gate I see you off;"
+  },
+  {
+   "zh": "你走的时候，大雪盖满了天山的路。",
+   "en": "as you go, snow covers the road through the Tianshan."
+  },
+  {
+   "zh": "山路弯弯曲曲，转个弯就看不见你了，",
+   "en": "The mountains wind, the road turns, and you are out of sight;"
+  },
+  {
+   "zh": "雪地上只留下一行马蹄印。",
+   "en": "on the snow, only your horse's hoof prints are left."
+  }
+ ],
+ "background": {
+  "zh": "岑参曾两次到西北边塞军中做事。一般认为，这首诗写于唐玄宗天宝十三载（754年）以后，他第二次出塞，在北庭都护府当判官的时候。判官是长官的助手。当时一位姓武的判官要回京城长安，岑参在轮台为他送行，写了这首诗。武判官叫什么名字，已经不清楚了。",
+  "en": "Cen Shen served twice with armies on the northwestern frontier. The poem is usually dated after 754, during his second time there, when he was a secretary (pan guan, an assistant to the commander) at Beiting. A fellow secretary named Wu was going back to the capital, Chang'an. Cen Shen saw him off at Luntai and wrote this poem. Wu's full name is no longer known."
+ },
+ "author_note": {
+  "zh": "岑参（约715—770），唐代诗人。他在西北边塞生活过好几年，亲眼见过大漠、雪山和军营。他和高适并称“高岑”，是边塞诗最有名的诗人。他的诗想象奇特，气势很大，常把边塞的苦寒写得又壮丽又新奇。",
+  "en": "Cen Shen (about 715–770) was a Tang poet. He lived several years on the northwestern frontier and saw its deserts, snowy mountains and army camps with his own eyes. With Gao Shi he is the most famous poet of the frontier. His poems are bold and full of surprising images, and they make the bitter cold of the frontier look grand and strange."
+ },
+ "appreciation": {
+  "zh": "这首诗写了两件事：下大雪，送朋友。开头北风一吹，八月就飞雪，一下子让人感到边塞有多冷。接着诗人却说，这雪像一夜春风吹开了千万棵梨花，寒冷的景色突然变得美丽又温暖，这是全诗最有名的比喻。然后诗人一层层写冷：帐幕湿了，皮袍不暖，弓拉不开，铁甲穿不上，冰天雪地，愁云不散。在这样的天气里，大家摆酒奏乐为朋友送行。最后，朋友骑马走进雪山，转个弯就不见了，雪地上只剩一行马蹄印。诗人站在那里久久望着，不舍的心情都在这行脚印里。",
+  "en": "The poem does two things: it shows a great snowfall, and it says goodbye to a friend. At the start the north wind blows and snow falls in the eighth month, and we feel at once how cold the frontier is. Then the poet says the snow is like a spring wind that opened pear blossoms on thousands of trees. The cold scene suddenly turns lovely and warm. This is the poem's most famous comparison. Next he shows the cold, step by step: damp curtains, fur coats that do not warm, bows that cannot be drawn, armour too cold to wear, ice everywhere and heavy clouds. In this weather everyone drinks and plays music to see the friend off. At last the friend rides into the snowy mountains and is gone around a bend. Only a line of hoof prints is left on the snow. The poet stands looking at it for a long time, and all his sadness at parting is in those prints."
+ },
+ "famous_lines": [
+  2,
+  3,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [
+   "autumn",
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "snow",
+   "parting",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

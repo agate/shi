@@ -1,0 +1,733 @@
+{
+ "id": "ci-64c51ec7c5e0",
+ "kind": "ci",
+ "title": "满江红·怒发冲冠",
+ "title_en": "Man Jiang Hong: My Hair Bristles in Rage",
+ "author": "岳飞",
+ "author_en": "Yue Fei",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调九十三字",
+  "en": "ci lyric, two stanzas, 93 characters"
+ },
+ "lines": [
+  [
+   [
+    "怒",
+    "nù"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "冲",
+    "chōng"
+   ],
+   [
+    "冠",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "栏",
+    "lán"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "抬",
+    "tái"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "仰",
+    "yǎng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "啸",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "壮",
+    "zhuàng"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "激",
+    "jī"
+   ],
+   [
+    "烈",
+    "liè"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "功",
+    "gōng"
+   ],
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "土",
+    "tǔ"
+   ]
+  ],
+  [
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "等",
+    "děng"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "切",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "靖",
+    "jìng"
+   ],
+   [
+    "康",
+    "kāng"
+   ],
+   [
+    "耻",
+    "chǐ"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "臣",
+    "chén"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "灭",
+    "miè"
+   ]
+  ],
+  [
+   [
+    "驾",
+    "jià"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "车",
+    "chē"
+   ]
+  ],
+  [
+   [
+    "踏",
+    "tà"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "贺",
+    "hè"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "缺",
+    "quē"
+   ]
+  ],
+  [
+   [
+    "壮",
+    "zhuàng"
+   ],
+   [
+    "志",
+    "zhì"
+   ],
+   [
+    "饥",
+    "jī"
+   ],
+   [
+    "餐",
+    "cān"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "虏",
+    "lǔ"
+   ],
+   [
+    "肉",
+    "ròu"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "谈",
+    "tán"
+   ],
+   [
+    "渴",
+    "kě"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "匈",
+    "xiōng"
+   ],
+   [
+    "奴",
+    "nú"
+   ],
+   [
+    "血",
+    "xuè"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "收",
+    "shōu"
+   ],
+   [
+    "拾",
+    "shí"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "河",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "阙",
+    "què"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "语料库作“凭阑处”，课本常作“凭栏处”，意思一样。语料库断句为“驾长车踏破，贺兰山缺”，课本断为“驾长车，踏破贺兰山缺”。语料库用顿号隔开的短语，这里按课本标点分句。",
+  "en": "The corpus writes \"railing\" with an older form of the character; the textbook uses the common one. The meaning is the same. The corpus breaks one line as \"drive the chariot and smash / the Helan passes\"; the textbook breaks it as \"drive the chariot / smash the Helan passes\". Phrases the corpus marks with small pauses are split into lines by the textbook's punctuation."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "发",
+   "pinyin": "fà",
+   "zh": "怒发的“发”指头发，读 fà。",
+   "en": "Here it means hair, so it is read fà."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "少年的“少”读 shào，指年轻。",
+   "en": "In shào nián, \"youth\", it is read shào."
+  },
+  {
+   "line": 18,
+   "pos": 6,
+   "char": "血",
+   "pinyin": "xuè",
+   "zh": "血，书面语里常读 xuè，这里读 xuè。口语里单用时也读 xiě。",
+   "en": "In written words it is usually read xuè, as here. In everyday speech on its own it can be xiě."
+  },
+  {
+   "line": 21,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "朝，这里读 cháo，意思是朝见、拜见，不读 zhāo。",
+   "en": "Here it is read cháo, \"to go and see the emperor\", not zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "怒发冲冠：气得头发竖起来，把帽子都顶起来了。形容非常愤怒。冠，帽子。",
+   "en": "nù fà chōng guān: so angry that his hair stands up and pushes off his hat. Guān is a hat."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "凭栏：靠着栏杆。",
+   "en": "píng lán: leaning on a railing."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "潇潇雨歇：急骤的雨刚刚停了。",
+   "en": "xiāo xiāo yǔ xiē: the pouring rain has just stopped."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "长啸：撮起嘴发出长长的、响亮的声音，用来抒发心中的感情。",
+   "en": "cháng xiào: a long, loud cry or whistle to let out strong feelings."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "壮怀激烈：远大的志向在心里激荡。壮怀，宏大的抱负。",
+   "en": "zhuàng huái jī liè: great ambitions surge in his heart."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 7,
+   "zh": "三十功名尘与土：三十岁了，建立的功名像尘土一样微不足道。",
+   "en": "sān shí gōng míng chén yǔ tǔ: at thirty, the fame he has won is as small as dust and earth."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 7,
+   "zh": "八千里路云和月：南北转战八千里，日夜奔波，披星戴月。",
+   "en": "bā qiān lǐ lù yún hé yuè: eight thousand li of marching, under clouds by day and the moon by night."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "等闲：随随便便，轻易地。",
+   "en": "děng xián: idly, carelessly."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "空悲切：白白地悲伤。",
+   "en": "kōng bēi qiè: to grieve in vain."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 3,
+   "zh": "靖康耻：靖康是宋钦宗的年号。靖康二年（1127年），金兵攻破北宋都城汴京，抓走了徽宗、钦宗两个皇帝，这是宋朝的奇耻大辱。",
+   "en": "jìng kāng chǐ: the shame of Jingkang. Jingkang was the reign name of Emperor Qinzong. In 1127 the Jin army took the Northern Song capital, Bianjing, and carried off two emperors, Huizong and Qinzong. It was the greatest shame of the Song."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 3,
+   "zh": "雪：洗掉，报仇雪恨的“雪”。",
+   "en": "xuě: to wash away, as in wiping out a shame."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "臣子恨：做臣子的仇恨。",
+   "en": "chén zǐ hèn: the hatred felt by the emperor's subjects."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "长车：战车。",
+   "en": "cháng chē: war chariots."
+  },
+  {
+   "line": 16,
+   "start": 2,
+   "end": 6,
+   "zh": "贺兰山缺：贺兰山的山口。贺兰山在今宁夏，这里代指敌人的地方，不一定是实指。",
+   "en": "hè lán shān quē: the passes of the Helan Mountains, in today's Ningxia. Here they stand for the enemy's land, not necessarily the real place."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "胡虏：古时对北方敌人的称呼，这里指金兵。",
+   "en": "hú lǔ: an old name for enemies from the north. Here it means the Jin soldiers."
+  },
+  {
+   "line": 18,
+   "start": 4,
+   "end": 6,
+   "zh": "匈奴：古代北方的一个民族，这里也代指金兵。",
+   "en": "xiōng nú: the Xiongnu, an ancient northern people. Here it also stands for the Jin enemy."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "待从头：等到重新。",
+   "en": "dài cóng tóu: waiting until, once again."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 5,
+   "zh": "收拾旧山河：收复被占领的国土。",
+   "en": "shōu shí jiù shān hé: to take back the lost land."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 3,
+   "zh": "朝天阙：去朝见皇帝，报告胜利。天阙，皇宫，代指朝廷。",
+   "en": "cháo tiān què: to go before the emperor and report victory. Tiān què is the palace gate, meaning the court."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我气得头发竖起，顶起了帽子，",
+   "en": "My hair bristles with rage and pushes up my hat."
+  },
+  {
+   "zh": "靠着栏杆，",
+   "en": "Leaning on the railing,"
+  },
+  {
+   "zh": "一阵急雨刚刚停下。",
+   "en": "I watch the pouring rain just stop."
+  },
+  {
+   "zh": "抬眼远望，",
+   "en": "I lift my eyes and look far,"
+  },
+  {
+   "zh": "仰起头对着天空长啸，",
+   "en": "raise my head and cry out long to the sky,"
+  },
+  {
+   "zh": "胸中的壮志激荡不已。",
+   "en": "and great ambitions surge in my chest."
+  },
+  {
+   "zh": "三十岁了，功名像尘土一样不值一提，",
+   "en": "At thirty, my fame is no more than dust and earth;"
+  },
+  {
+   "zh": "八千里路，日夜奔波，伴着云和月。",
+   "en": "eight thousand li of road, under clouds and the moon."
+  },
+  {
+   "zh": "不要随随便便虚度时光，",
+   "en": "Do not waste the years idly,"
+  },
+  {
+   "zh": "等到年轻的头发变白了，",
+   "en": "or when the young head turns white,"
+  },
+  {
+   "zh": "才白白地悲伤。",
+   "en": "you will grieve in vain."
+  },
+  {
+   "zh": "靖康年间的耻辱，",
+   "en": "The shame of Jingkang"
+  },
+  {
+   "zh": "还没有洗雪。",
+   "en": "is not yet washed away."
+  },
+  {
+   "zh": "做臣子的仇恨，",
+   "en": "The anger of the emperor's men,"
+  },
+  {
+   "zh": "什么时候才能消除？",
+   "en": "when will it end?"
+  },
+  {
+   "zh": "我要驾着战车，",
+   "en": "I will drive my war chariot"
+  },
+  {
+   "zh": "踏破贺兰山的关口。",
+   "en": "and smash through the passes of the Helan Mountains."
+  },
+  {
+   "zh": "壮志满怀，饿了就吃敌人的肉，",
+   "en": "Full of fight, when hungry I will eat the enemy's flesh;"
+  },
+  {
+   "zh": "说笑之间，渴了就喝敌人的血。",
+   "en": "laughing and talking, when thirsty I will drink their blood."
+  },
+  {
+   "zh": "等到重新",
+   "en": "I wait for the day"
+  },
+  {
+   "zh": "收复旧日的山河，",
+   "en": "when the old land is all taken back,"
+  },
+  {
+   "zh": "再去朝廷向皇帝报捷。",
+   "en": "and I go to the palace to report to the emperor."
+  }
+ ],
+ "background": {
+  "zh": "北宋末年，金兵南下。1127年，金兵攻破都城，抓走了两个皇帝，北宋灭亡，史称“靖康之变”。南宋建立后，岳飞带兵抗金，打了很多胜仗，一心想收复北方失地。这首词表达的就是这种报国雪耻的决心，具体写作时间说法不一。另外，这首词在宋元时期的书里没有记载，到明代才出现，所以有学者怀疑它不是岳飞写的，但一般仍认为是岳飞的作品。",
+  "en": "At the end of the Northern Song, the Jin army swept south. In 1127 it took the capital and carried off two emperors, and the Northern Song fell. This is called the Jingkang Incident. After the Southern Song was set up, Yue Fei led armies against the Jin, won many battles, and longed to win back the north. This lyric shows his resolve to serve his country and wipe out the shame. Sources disagree on when it was written. Also, the lyric does not appear in any book from the Song or Yuan; it first shows up in the Ming. So some scholars doubt that Yue Fei wrote it, though it is still usually counted as his."
+ },
+ "author_note": {
+  "zh": "岳飞（1103—1142），字鹏举，南宋抗金名将。他治军严格，他的军队被称为“岳家军”，金兵中有“撼山易，撼岳家军难”的说法。后来他被奸臣秦桧等人以“莫须有”的罪名害死，人们一直怀念他，把他看作精忠报国的英雄。",
+  "en": "Yue Fei (1103–1142), also called Pengju, was a famous Southern Song general who fought the Jin. He ran his army strictly, and it was known as the Yue Family Army. The Jin said it was easier to shake a mountain than to shake the Yue army. Later he was killed by the treacherous minister Qin Hui and others on a charge with no evidence at all. People have honored him ever since as a hero of loyalty to his country."
+ },
+ "appreciation": {
+  "zh": "这首词从头到尾都像在呐喊。开头四个字“怒发冲冠”，一个人气得头发都竖起来了。他靠着栏杆，雨刚停，抬头对天长啸，心里的壮志压都压不住。接着他回头看自己：三十年的功名不算什么，八千里的路一直在奔波。他提醒自己，也提醒读者：不要虚度青春，等头发白了再后悔就晚了。下阕一开头用短短的三字句，像在一下一下敲鼓：国耻还没洗雪，仇恨什么时候才能消？然后他想象驾着战车冲破敌人的关口，说笑之间就能消灭敌人。“吃肉”“喝血”是夸张的说法，表示他对侵略者的极度愤恨。最后一句收得很稳：等收复了山河，再去向朝廷报告。整首词气势豪迈，感情激烈，千百年来鼓舞了无数人。",
+  "en": "From start to end, this lyric sounds like a battle cry. The first four characters show a man so angry his hair stands on end. He leans on a railing as the rain stops, looks up, and cries out to the sky; his great ambition cannot be held down. Then he looks back at his own life. Thirty years of fame mean nothing, and he has marched eight thousand li. He warns himself, and the reader: do not waste your youth, or you will regret it when your hair turns white. The second stanza opens with short three-character lines, like beats on a war drum. The national shame is not washed away; when will the anger end? Then he imagines driving his chariot through the enemy's passes and beating them while he laughs and talks. \"Eating flesh\" and \"drinking blood\" are wild exaggerations that show how deeply he hates the invaders. The ending is steady: once the land is won back, he will go and report to the court. The whole lyric is bold and fierce, and it has stirred countless people for centuries."
+ },
+ "famous_lines": [
+  0,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "war",
+   "ambition",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

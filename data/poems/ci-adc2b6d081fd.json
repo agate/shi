@@ -1,0 +1,332 @@
+{
+ "id": "ci-adc2b6d081fd",
+ "kind": "ci",
+ "title": "浣溪沙·一向年光有限身",
+ "title_en": "Huan Xi Sha: A Short Life in Brief Time",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·浣溪沙",
+  "en": "ci to the tune Huan Xi Sha (Washing Silk in the Stream)"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "限",
+    "xiàn"
+   ],
+   [
+    "身",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "等",
+    "děng"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "筵",
+    "yán"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "席",
+    "xí"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "辞",
+    "cí"
+   ],
+   [
+    "频",
+    "pín"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": {
+  "zh": "第二句“销魂”，所据底本作“消魂”，两种写法意思相同，通行本多作“销魂”。",
+  "en": "In line two, the source text writes xiāo hún with a different but equivalent character for xiāo. Common editions use the form chosen here; the meaning is the same."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "一向：一晌，一会儿，很短的时间。",
+   "en": "yī xiàng: a short while, a brief moment."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "年光：时光，岁月。",
+   "en": "nián guāng: time, the years."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "有限身：生命有限的身体，指人的一生很短。",
+   "en": "yǒu xiàn shēn: a body whose life has an end; a person's life is short."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "等闲：平常，随随便便的。",
+   "en": "děng xián: ordinary, everyday."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "销魂：伤心得好像魂都散了，形容极度伤心。",
+   "en": "xiāo hún: so sad that one's soul seems to melt away."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "酒筵歌席：有酒有歌舞的宴会。",
+   "en": "jiǔ yán gē xí: feasts with wine and singing."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "莫辞频：不要因为次数多而推辞。频，次数多。",
+   "en": "mò cí pín: do not refuse because it happens often. Pín means often."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "空念远：白白地想念远方的人。空，白白地。",
+   "en": "kōng niàn yuǎn: missing someone far away, all for nothing. Kōng means in vain."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "伤春：因为春天要过去而伤心。",
+   "en": "shāng chūn: feeling sad that spring is passing."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "怜取：爱惜，珍惜。取，语气词，没有实在意思。",
+   "en": "lián qǔ: to cherish. Qǔ here just adds force and has no meaning of its own."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "时光短暂，人的生命也是有限的。",
+   "en": "Time passes in a moment, and a person's life is short."
+  },
+  {
+   "zh": "就算是平常的离别，也很容易让人伤心得魂都要散了。",
+   "en": "Even an ordinary parting can easily break one's heart."
+  },
+  {
+   "zh": "所以有酒宴、有歌舞的时候，不要嫌聚得太多而推辞。",
+   "en": "So when there is a feast with wine and songs, do not turn it down for being too often."
+  },
+  {
+   "zh": "满眼都是山河，想念远方的人也是白白想念。",
+   "en": "Hills and rivers fill my eyes; longing for someone far away is all in vain."
+  },
+  {
+   "zh": "风雨吹落了花，更让人为春天的离去伤心。",
+   "en": "Wind and rain knock down the flowers, which makes me even sadder that spring is leaving."
+  },
+  {
+   "zh": "不如好好珍惜眼前的人。",
+   "en": "Better to cherish the person right in front of me."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是人生短暂、离别伤心的感受，写作的时间和具体事情都不清楚。词人从“生命有限”想到“离别难免”，最后得出一个道理：与其想念得不到的，不如珍惜眼前人。最后一句化用了唐代元稹《莺莺传》里崔莺莺的诗“还将旧来意，怜取眼前人”。",
+  "en": "This ci is about how short life is and how sad parting can be. We do not know when it was written or what happened to make the poet write it. Yan Shu moves from \"life is short\" to \"partings cannot be avoided,\" and ends with a lesson: instead of longing for what you cannot have, cherish the person in front of you. The last line borrows from a poem by the heroine Cui Yingying in the Tang story \"The Story of Yingying\" by Yuan Zhen, which says to give your old love to the one before your eyes."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），北宋词人，少年时以神童出名，后来官做到宰相。他一生生活富贵安稳，词风温和典雅，常在宴会、花开花落中写出对时光和人生的思考。这首词就带着他特有的理性和通达。",
+  "en": "Yan Shu (991–1055) was a Northern Song ci poet. He was famous as a child genius and later became a prime minister. His life was rich and steady, and his ci are gentle and elegant. At feasts and among blooming and falling flowers, he often thought about time and life. This ci shows his calm, clear-headed way of thinking."
+ },
+ "appreciation": {
+  "zh": "上片说道理：时间短，生命有限，离别又常常发生，所以有聚会的时候就好好享受，别推辞。下片先写两种白费的心情：望着山河想念远方的人，可人在远方，想也没用；看着风雨打落花，为春天离去伤心，可春天也留不住。最后一句一转：与其为这些伤心，不如珍惜身边的人。全词有伤感，可不沉溺在伤感里，读来让人觉得清醒又温暖。",
+  "en": "The first half gives a reason: time is short, life is limited, and partings happen often, so when friends gather, enjoy it and do not say no. The second half first shows two kinds of useless sorrow. Looking at hills and rivers and missing someone far away does not help, because they are still far away. Watching wind and rain knock down flowers and grieving for spring does not help either, because spring cannot be kept. Then the last line turns: rather than grieve over these, cherish the people beside you. The ci is sad, but it does not drown in sadness. It feels clear-headed and warm."
+ },
+ "famous_lines": [
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "time",
+   "cherish",
+   "life"
+  ]
+ },
+ "uncertain": []
+}

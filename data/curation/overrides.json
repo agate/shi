@@ -1,0 +1,65 @@
+{
+ "_note": "Manual adjustments to the fame score in scripts/select_top.py. Each says why.",
+ "overrides": [
+  {
+   "id": "ci-5295d1143637",
+   "poem": "苏轼《虞美人》湖山信是东南美",
+   "boost": -0.06,
+   "reason": "Added to the famous list by mistake; much less known than the rest."
+  },
+  {
+   "id": "ci-d1dd07e0b9e6",
+   "poem": "苏轼《南乡子》霜降水痕收",
+   "boost": -0.06,
+   "reason": "Less known than the rest of the famous list."
+  },
+  {
+   "id": "ci-fc75f82bc336",
+   "poem": "辛弃疾《鹧鸪天》晚日寒鸦一片愁",
+   "boost": -0.04,
+   "reason": "Less known than the rest of the famous list."
+  },
+  {
+   "id": "ci-c31f3d53507a",
+   "poem": "苏轼《行香子》清夜无尘",
+   "boost": -0.04,
+   "reason": "Less known than the rest of the famous list."
+  },
+  {
+   "id": "ci-b341f3469062",
+   "poem": "柳永《鹤冲天》黄金榜上",
+   "boost": 0.04,
+   "reason": "Famous for 忍把浮名，换了浅斟低唱; central to 柳永's story."
+  },
+  {
+   "id": "ci-a051ff6eb275",
+   "poem": "秦观《踏莎行》雾失楼台",
+   "boost": 0.06,
+   "reason": "One of the best-known Song ci; its line 郴江幸自绕郴山 is widely quoted, but it is in neither the textbook list nor 宋词三百首."
+  },
+  {
+   "id": "ci-a43a96ed5835",
+   "poem": "蒋捷《虞美人》少年听雨歌楼上",
+   "boost": 0.06,
+   "reason": "Widely taught and quoted (少年听雨歌楼上); missing from the textbook list."
+  },
+  {
+   "id": "ci-93773e05963a",
+   "poem": "岳飞《小重山》昨夜寒蛩不住鸣",
+   "boost": 0.05,
+   "reason": "Famous for 知音少，弦断有谁听; pairs with 岳飞《满江红》."
+  },
+  {
+   "id": "ci-ad4c35603ecc",
+   "poem": "王观《卜算子》水是眼波横",
+   "boost": 0.05,
+   "reason": "A well-known short ci often quoted for 才始送春归，又送君归去."
+  },
+  {
+   "id": "ci-c05fb35327a6",
+   "poem": "无名氏《点绛唇》蹴罢秋千",
+   "boost": 0.05,
+   "reason": "Very widely known and commonly attributed to 李清照, though the corpus lists it as anonymous."
+  }
+ ]
+}

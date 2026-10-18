@@ -1,0 +1,198 @@
+{
+ "id": "8baa7c35-9afb-40bf-b5e4-41d9895e2710",
+ "kind": "shi",
+ "title": "相思",
+ "title_en": "Longing",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "豆",
+    "dòu"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "国",
+    "guó"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "发",
+    "fā"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "枝",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "愿",
+    "yuàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "撷",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "数据里第二句是“秋来发故枝”，现在通行的读本写作“春来发几枝”，这里用通行的写法。另外，第三句有的版本写作“劝君休采撷”。",
+  "en": "The data gives the second line as \"in autumn it grows on its old branches\". Common editions today read \"in spring, how many sprigs has it grown?\", which is the text used here. Some editions also have the third line as \"I urge you not to pick them\"."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "红豆：一种树结的种子，颜色鲜红，又叫相思子。古人用它表示思念。",
+   "en": "hóng dòu: red beans, bright red seeds from a tree, also called longing seeds. People of old used them as a sign of missing someone."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "南国：南方。",
+   "en": "nán guó: the south."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "发：长出。",
+   "en": "fā: to grow, to sprout."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "愿君：希望你。君，对朋友的尊称。",
+   "en": "yuàn jūn: I hope you will. Jūn is a polite word for \"you\"."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "采撷：采摘。",
+   "en": "cǎi xié: to pick."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "最相思：最能引起思念。",
+   "en": "zuì xiāng sī: best at stirring up longing."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "红豆生长在南方，",
+   "en": "Red beans grow in the south;"
+  },
+  {
+   "zh": "春天到了，又长出了多少新枝？",
+   "en": "now spring has come, how many new sprigs have they put out?"
+  },
+  {
+   "zh": "希望你多摘一些，",
+   "en": "I hope you will pick plenty of them,"
+  },
+  {
+   "zh": "因为它最能让人想起思念的人。",
+   "en": "for they, more than anything, make us think of those we miss."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是写给朋友的，借红豆表达思念。写作时间不详。有的古书题作《江上赠李龟年》，说是写给唐代著名歌手李龟年的，据说李龟年后来流落江南时还常常唱这首诗，不过这个说法不能完全确定。红豆产在南方，王维长期住在北方的长安一带，所以诗里说红豆“生南国”。",
+  "en": "This poem was written to a friend, using red beans to say \"I miss you.\" When it was written is not known. Some old books title it \"For Li Guinian, on the River\", saying it was written for Li Guinian, a famous Tang singer. The story goes that later, when Li drifted to the south, he often sang this poem. This account cannot be fully confirmed. Red beans grow in the south, while Wang Wei lived mostly in the north around Chang'an, which is why the poem says they grow in the south."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），字摩诘，唐代著名诗人，也是画家和音乐家。他的山水诗写得安静、干净，宋代苏轼说他“诗中有画，画中有诗”。他晚年信佛，喜欢在山林里过清静的日子。",
+  "en": "Wang Wei (701–761; some say 699–761) was a famous Tang poet, and also a painter and musician. His poems about hills and streams are calm and clean. The Song writer Su Shi said there were paintings in his poems and poems in his paintings. In later life he followed Buddhism and liked a quiet life in the hills."
+ },
+ "appreciation": {
+  "zh": "红豆又红又亮，古人叫它相思子，有个传说是思念远方亲人的人哭出的眼泪变成的。诗人不直接说“我想你”，而是轻轻问一句：南方的红豆，春天又长了多少枝？然后叮嘱朋友：多摘一些吧，它最能让人想起朋友。说的是豆子，其实是把自己的思念托给小小的红豆。语言简单，像随口一说，却情意很深，所以一千多年来被人们传唱。",
+  "en": "Red beans are bright red and shiny. People of old called them longing seeds. One legend says they grew from the tears of someone crying for a loved one far away. The poet does not say \"I miss you\" directly. He only asks gently: how many new sprigs have the southern red beans grown this spring? Then he tells his friend to pick plenty, since they bring friends to mind best of all. He talks about beans, but really he is handing his feelings to the little red seeds. The words are simple, almost casual, yet the feeling runs deep, and that is why people have sung it for over a thousand years."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "longing",
+   "plants"
+  ]
+ },
+ "uncertain": []
+}

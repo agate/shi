@@ -1,0 +1,402 @@
+{
+ "id": "ci-fb9117cf8b97",
+ "kind": "ci",
+ "title": "清平乐·独宿博山王氏庵",
+ "title_en": "Pure Serene Music: Staying Alone at the Wang Family Hut on Mount Bo",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "床",
+    "chuáng"
+   ],
+   [
+    "饥",
+    "jī"
+   ],
+   [
+    "鼠",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "蝙",
+    "biān"
+   ],
+   [
+    "蝠",
+    "fú"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "屋",
+    "wū"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "急",
+    "jí"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "纸",
+    "zhǐ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "颜",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "布",
+    "bù"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "觉",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "“塞北”的“塞”指边塞，读 sài。",
+   "en": "In sài běi (north of the frontier) this character means a frontier pass and is read sài."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "华",
+   "pinyin": "huá",
+   "zh": "“华发”的“华”是花白的意思，读 huá。",
+   "en": "In huá fà (greying hair) this character means streaked with white and is read huá."
+  },
+  {
+   "line": 6,
+   "pos": 5,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "“梦觉”的“觉”是睡醒的意思，读 jué，不读 jiào。",
+   "en": "In mèng jué (waking from a dream) this character means to wake up and is read jué, not jiào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "绕床饥鼠：饿极了的老鼠绕着床跑来跑去。",
+   "en": "rào chuáng jī shǔ: hungry rats running round and round the bed."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "翻灯舞：围着灯上下翻飞。",
+   "en": "fān dēng wǔ: flitting and tumbling around the lamp."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "松风：吹过松林的风。",
+   "en": "sōng fēng: wind blowing through the pines."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "急雨：又大又急的雨。",
+   "en": "jí yǔ: a sudden, heavy rain."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 6,
+   "zh": "破纸窗间自语：窗上糊的纸破了，被风吹得呼呼响，像在自言自语。",
+   "en": "pò zhǐ chuāng jiān zì yǔ: the torn paper on the window flaps in the wind, as if talking to itself."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "平生：一生、这一辈子。",
+   "en": "píng shēng: all my life."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 6,
+   "zh": "塞北江南：北方边塞和长江以南。辛弃疾年轻时在北方抗金，后来在南方各地做官。",
+   "en": "sài běi jiāng nán: the northern frontier and the lands south of the Yangtze. Xin Qiji fought the Jin in the north as a young man, then served as an official all over the south."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "华发：花白的头发。",
+   "en": "huá fà: greying hair."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "苍颜：苍老的面容。",
+   "en": "cāng yán: an old, worn face."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "布被：粗布做的被子。",
+   "en": "bù bèi: a quilt of coarse cloth."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "秋宵：秋天的夜晚。",
+   "en": "qiū xiāo: an autumn night."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "梦觉：从梦中醒来。",
+   "en": "mèng jué: waking from a dream."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 6,
+   "zh": "万里江山：辽阔的国土，这里指被金国占领的北方大地。",
+   "en": "wàn lǐ jiāng shān: ten thousand li of rivers and mountains, the whole wide land; here, the northern land taken by the Jin."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "饿坏了的老鼠绕着床跑，",
+   "en": "Hungry rats run round the bed;"
+  },
+  {
+   "zh": "蝙蝠围着灯上下翻飞。",
+   "en": "bats tumble and dance around the lamp."
+  },
+  {
+   "zh": "屋顶上，松林里的风夹着急雨吹过，",
+   "en": "On the roof the wind through the pines drives a sudden rain,"
+  },
+  {
+   "zh": "窗上的破纸被吹得呼呼响，像在自言自语。",
+   "en": "and the torn window paper mutters to itself."
+  },
+  {
+   "zh": "我这一生，走过北方边塞，也到过江南，",
+   "en": "All my life I have gone from the northern frontier to the south of the Yangtze;"
+  },
+  {
+   "zh": "如今回来，头发花白，脸也老了。",
+   "en": "now I am back, my hair grey and my face old."
+  },
+  {
+   "zh": "秋夜里，盖着粗布被子，我从梦中醒来，",
+   "en": "On an autumn night, under a coarse cloth quilt, I wake from a dream,"
+  },
+  {
+   "zh": "眼前仿佛还是那万里江山。",
+   "en": "and before my eyes still lie ten thousand li of rivers and hills."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为是辛弃疾被罢官、闲居上饶带湖时写的。博山在今江西广丰境内，离上饶不远，他常去那里游玩。“王氏庵”是一户姓王的人家的小草屋。一个秋天的夜里，他一个人借住在这间破旧的小屋里，夜里醒来，写下了这首词。",
+  "en": "This lyric is usually thought to have been written while Xin Qiji, removed from office, was living at Daihu Lake in Shangrao. Mount Bo is in today's Guangfeng, Jiangxi, not far from Shangrao, and he often went there. The 'Wang family hut' was a small thatched hut belonging to a family named Wang. One autumn night he stayed there alone in the shabby little hut, woke in the night, and wrote this lyric."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他二十多岁就在北方起兵抗金，带着几十个人冲进几万人的金营抓回叛徒，后来到了南方。他一心想收复北方，却总是不被重用，多次被罢官。他的词常把个人的遭遇和国家的命运连在一起。",
+  "en": "Xin Qiji (1140–1207), known as Jiaxuan, was a great ci writer of the Southern Song. In his early twenties he rose up against the Jin in the north. With a few dozen men he rode into a Jin camp of tens of thousands and captured a traitor, then went south. He longed to win back the north, but he was never given real power and was removed from office many times. His lyrics often tie his own fate to the fate of his country."
+ },
+ "appreciation": {
+  "zh": "上半首写破屋的夜：老鼠绕床跑，蝙蝠围灯飞，屋外风雨大作，窗纸被吹得呼呼响。又冷清又荒凉，一般人早就睡不着了。下半首一转：他想起自己一辈子南征北战，回来时已经满头白发。最后两句最动人：秋夜里盖着粗布被子，从梦中醒来，眼前还是那万里江山。人已经老了，住在破屋里，心里想的却还是收复国土。前面写得越荒凉，越显出这份心愿的执着。",
+  "en": "The first half shows night in a shabby hut. Rats run round the bed, bats flit around the lamp, wind and rain roar outside, and the torn window paper flaps and mutters. It is cold and desolate, the kind of place where most people could not sleep. The second half turns. He thinks of his whole life spent travelling north and south for his country, and how he has come back with white hair. The last two lines are the most moving. On an autumn night, under a coarse quilt, he wakes from a dream, and before his eyes lie ten thousand li of rivers and hills. He is old and lives in a broken hut, yet his heart is still set on winning back the land. The bleaker the first half, the stronger this wish shines."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "night",
+   "aging",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

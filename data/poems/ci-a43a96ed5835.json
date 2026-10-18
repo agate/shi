@@ -1,0 +1,445 @@
+{
+ "id": "ci-a43a96ed5835",
+ "kind": "ci",
+ "title": "虞美人·听雨",
+ "title_en": "To the Tune of Yu Mei Ren: Listening to the Rain",
+ "author": "蒋捷",
+ "author_en": "Jiang Jie",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·虞美人（双调）",
+  "en": "ci lyric to the tune Yu Mei Ren, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "帐",
+    "zhàng"
+   ]
+  ],
+  [
+   [
+    "壮",
+    "zhuàng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "阔",
+    "kuò"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "叫",
+    "jiào"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "而",
+    "ér"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "僧",
+    "sēng"
+   ],
+   [
+    "庐",
+    "lú"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "任",
+    "rèn"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "滴",
+    "dī"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "词题“听雨”是通行本的题目，资料库里只有词牌“虞美人”。",
+  "en": "The heading \"Listening to the Rain\" is the title used in common editions. The corpus gives only the tune name."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "“少年”是“年轻的时候”，读 shào。",
+   "en": "Shào nián means youth, read shào, not shǎo."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "一",
+   "pinyin": "yí",
+   "zh": "“一”在第四声“任”前面变读 yí。",
+   "en": "Yī changes to yí before the fourth-tone rèn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "少年：年轻的时候。",
+   "en": "shào nián: one's youth."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "歌楼：有歌女唱歌、供人饮酒作乐的楼。",
+   "en": "gē lóu: a singing house, where people drank and listened to singers."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "昏：昏暗，这里指烛光朦胧。罗帐：丝绸做的床帐。",
+   "en": "hūn: dim, here the soft glow of candlelight. luó zhàng: silk bed curtains."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "壮年：三四十岁，人最强壮的年纪。",
+   "en": "zhuàng nián: the prime of life, around thirty or forty."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "客舟：出门在外的人坐的船。",
+   "en": "kè zhōu: a boat carrying someone far from home."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "断雁：离了群的孤雁。",
+   "en": "duàn yàn: a lone wild goose that has lost its flock."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 9,
+   "zh": "叫西风：在秋风里哀叫。西风，秋风。",
+   "en": "jiào xī fēng: crying in the west wind. The west wind is the autumn wind."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "而今：如今，现在。",
+   "en": "ér jīn: now."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "僧庐：和尚住的屋子，寺庙。",
+   "en": "sēng lú: a monk's hut, a temple."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "星星：头发花白，白发像星星一样点点分布。",
+   "en": "xīng xīng: hair flecked with white, like scattered stars."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "悲欢离合：悲伤、欢乐、分离、团聚，指人一生的各种遭遇。",
+   "en": "bēi huān lí hé: sorrow and joy, parting and meeting again, all that happens in a life."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "无情：没有感情，这里是说那些事再也打动不了自己了。",
+   "en": "wú qíng: without feeling. He means these things can no longer move him."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "一任：随它去，任凭。",
+   "en": "yí rèn: let it be, let it go on as it will."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "点滴：雨一滴一滴地落下。",
+   "en": "diǎn dī: the rain falling drop by drop."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "年轻时，我在歌楼上听雨，",
+   "en": "When I was young, I listened to the rain in a singing house."
+  },
+  {
+   "zh": "红烛的光朦朦胧胧，照着丝绸床帐。",
+   "en": "Red candles glowed softly on the silk bed curtains."
+  },
+  {
+   "zh": "中年时，我在远行的船上听雨，",
+   "en": "In my prime, I listened to the rain on a traveler's boat."
+  },
+  {
+   "zh": "江面宽阔，乌云低垂，一只失群的大雁在秋风里哀叫。",
+   "en": "The river was wide, the clouds hung low, and a lone goose cried in the west wind."
+  },
+  {
+   "zh": "如今，我在寺庙的屋檐下听雨，",
+   "en": "Now I listen to the rain beneath a monk's roof."
+  },
+  {
+   "zh": "两鬓已经斑白了。",
+   "en": "The hair at my temples is already flecked with white."
+  },
+  {
+   "zh": "人生的悲欢离合，总是这样无情，",
+   "en": "Sorrow and joy, parting and meeting, are all without feeling now."
+  },
+  {
+   "zh": "就让台阶前的雨，一滴一滴落到天亮吧。",
+   "en": "Let the rain on the steps drip on, drop by drop, until dawn."
+  }
+ ],
+ "background": {
+  "zh": "蒋捷生活在南宋末年。南宋灭亡以后，他不愿意给元朝做官，隐居起来，过着漂泊清苦的日子。这首词用一生中三次听雨，写出了自己从少年到老年的经历，也藏着国家灭亡的伤痛。具体写作时间不清楚，一般认为是他晚年所作。",
+  "en": "Jiang Jie lived at the very end of the Southern Song. After the Song fell, he refused to serve the new Yuan rulers and went into hiding, living a poor, wandering life. This lyric uses three times he listened to rain to tell his whole life, from youth to old age. Inside it is also the grief of losing his country. The exact date is not known; it is usually thought to be a work of his old age."
+ },
+ "author_note": {
+  "zh": "蒋捷，字胜欲，号竹山，阳羡（今江苏宜兴）人，生卒年不详。他在南宋末年考中进士。宋亡后隐居不出，人称“竹山先生”。他和周密、王沂孙、张炎并称“宋末四大家”。",
+  "en": "Jiang Jie, also called Shengyu and known as Zhushan, came from Yangxian, today's Yixing in Jiangsu. His dates of birth and death are not known. He passed the highest imperial exam near the end of the Southern Song. After the Song fell he lived in hiding and was called Master Zhushan. He is counted among the Four Great Lyric Poets of the late Song."
+ },
+ "appreciation": {
+  "zh": "这首词像三张照片，主角都是“听雨”。第一张：年轻时在歌楼上，红烛摇曳，雨声听起来都是快乐的。第二张：中年漂泊在船上，江很宽，云很低，孤雁在秋风里叫，雨声里全是孤独。第三张：老了，住在寺庙里，头发白了，雨还是那场雨，人却完全不同了。最后他说，人生的悲欢离合都已无所谓，就让雨一直滴到天亮吧。看起来很平静，其实是经历了太多，连伤心都说不出来了。",
+  "en": "This lyric is like three photographs, each of someone listening to rain. In the first, he is young, in a singing house lit by red candles. Even the rain sounds happy. In the second, he is in his prime, wandering on a boat. The river is wide, the clouds are low, a lone goose cries in the autumn wind. The rain is full of loneliness. In the third, he is old and living in a temple, his hair white. The rain is the same rain, but he is a completely different person. At the end he says sorrow and joy no longer matter: let the rain drip on until dawn. It sounds calm, but really he has been through so much that he cannot even speak of his grief."
+ },
+ "famous_lines": [
+  0,
+  2,
+  4,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "life",
+   "old-age",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

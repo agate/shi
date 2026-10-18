@@ -1,0 +1,502 @@
+{
+ "id": "ci-9ba1a54474fa",
+ "kind": "ci",
+ "title": "踏莎行·小径红稀",
+ "title_en": "To the Tune of Ta Suo Xing: Few Red Flowers Left on the Path",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·踏莎行（双调）",
+  "en": "ci lyric to the tune Ta Suo Xing, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "稀",
+    "xī"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "郊",
+    "jiāo"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "遍",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "见",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "禁",
+    "jìn"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "蒙",
+    "méng"
+   ],
+   [
+    "蒙",
+    "méng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "扑",
+    "pū"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "面",
+    "miàn"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "藏",
+    "cáng"
+   ],
+   [
+    "莺",
+    "yīng"
+   ]
+  ],
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "炉",
+    "lú"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "逐",
+    "zhú"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "转",
+    "zhuàn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "场",
+    "cháng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "见",
+   "pinyin": "xiàn",
+   "zh": "“见”同“现”，是“显现”的意思，读 xiàn。",
+   "en": "Here this character means to appear, the same as xiàn, and is read xiàn, not jiàn."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "禁",
+   "pinyin": "jìn",
+   "zh": "“禁”是“禁止、管住”，读 jìn。",
+   "en": "Jìn here means to stop or hold back, read jìn, not jīn."
+  },
+  {
+   "line": 7,
+   "pos": 6,
+   "char": "转",
+   "pinyin": "zhuàn",
+   "zh": "“转”是“旋转、绕圈”，读 zhuàn。",
+   "en": "Zhuàn here means to turn round and round, read zhuàn, not zhuǎn."
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "一",
+   "pinyin": "yì",
+   "zh": "“一”在第二声“场”前面变读 yì。",
+   "en": "Yī changes to yì before the second-tone cháng."
+  },
+  {
+   "line": 8,
+   "pos": 1,
+   "char": "场",
+   "pinyin": "cháng",
+   "zh": "“一场梦”的“场”是表示一件事从头到尾经过的量词，读 cháng。也有人读 chǎng。",
+   "en": "Cháng here counts one whole happening, from start to end. It is read cháng. Some people say chǎng."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "“斜阳”现在读 xié。",
+   "en": "Xié yáng, the slanting sun, is read xié today."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "红稀：红花变少了。红，代指花。",
+   "en": "hóng xī: the red has thinned out. Red stands for flowers."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "芳郊：开满花草的郊外。",
+   "en": "fāng jiāo: the fragrant countryside outside town."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "绿遍：到处都绿了。",
+   "en": "lǜ biàn: green everywhere."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "阴阴：树木茂密、颜色暗绿的样子。见：同“现”，显露出来。",
+   "en": "yīn yīn: thick, dark green leaves. xiàn: to show, to appear."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "不解：不懂得。",
+   "en": "bù jiě: does not know how to."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "杨花：柳絮，柳树种子上白色的绒毛，春末到处乱飞。",
+   "en": "yáng huā: willow catkins, the white fluff on willow seeds that blows everywhere in late spring."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "蒙蒙：纷纷扬扬、迷迷蒙蒙的样子。",
+   "en": "méng méng: thick and hazy, drifting everywhere."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "乱扑：乱糟糟地扑打。",
+   "en": "luàn pū: flying wildly at."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "翠叶藏莺：黄莺躲在碧绿的树叶里。",
+   "en": "cuì yè cáng yīng: orioles hidden among green leaves."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "朱帘：红色的帘子。朱帘隔燕，红帘把燕子隔在了外面。",
+   "en": "zhū lián: a red curtain. The red curtain keeps the swallows outside."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "炉香：香炉里点着的香冒出的烟。",
+   "en": "lú xiāng: the smoke rising from incense burning in a burner."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "游丝：春天飘在空中的蜘蛛丝等细丝。",
+   "en": "yóu sī: floating threads, like spider silk drifting in spring air."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "愁梦：带着愁绪的梦。",
+   "en": "chóu mèng: a sad, troubled dream."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "斜阳：傍晚快要落山的太阳。",
+   "en": "xié yáng: the low evening sun."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "深深院：很深很静的院子。",
+   "en": "shēn shēn yuàn: a deep, quiet courtyard."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "小路边的红花已经稀稀落落，",
+   "en": "Along the little path, only a few red flowers remain."
+  },
+  {
+   "zh": "郊外到处是一片新绿。",
+   "en": "The fragrant countryside is green everywhere."
+  },
+  {
+   "zh": "高台边，茂密的树木显出浓浓的绿荫。",
+   "en": "By the high terrace, thick trees show their deep green shade."
+  },
+  {
+   "zh": "春风不懂得管住柳絮，",
+   "en": "The spring wind does not know how to hold back the willow fluff,"
+  },
+  {
+   "zh": "任它迷迷蒙蒙，乱扑在行人脸上。",
+   "en": "so it drifts thick and hazy, flying at travelers' faces."
+  },
+  {
+   "zh": "黄莺藏在碧绿的树叶里，",
+   "en": "Orioles hide among the green leaves."
+  },
+  {
+   "zh": "红帘子把燕子隔在外面。",
+   "en": "The red curtain keeps the swallows out."
+  },
+  {
+   "zh": "香炉里的烟静静地追着飘飞的游丝打转。",
+   "en": "Incense smoke quietly follows the floating threads, round and round."
+  },
+  {
+   "zh": "一场愁梦醒来，酒也醒了，",
+   "en": "Waking from a sad dream, sober from wine,"
+  },
+  {
+   "zh": "只见斜阳正照着这深深的院子。",
+   "en": "I see the slanting sun shining into the deep courtyard."
+  }
+ ],
+ "background": {
+  "zh": "这首词写暮春时节，就是春天快要结束的时候。词人从野外的景色写到院子里的景色，再写自己的心情。写作的具体时间不清楚。",
+  "en": "This lyric is about late spring, when spring is nearly over. The poet moves from the scene in the countryside to the scene in the courtyard, and then to his own feelings. When it was written is not known."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），字同叔，抚州临川（今江西抚州）人。他小时候就被称为“神童”，后来做到宰相，一生富贵平顺。他的词多写闲适生活里淡淡的忧愁，语言清丽，比如“无可奈何花落去”。他的小儿子晏几道也是词人。",
+  "en": "Yan Shu (991–1055), also called Tongshu, came from Linchuan in today's Fuzhou, Jiangxi. As a boy he was called a child genius, and later he became chief minister, living a long, comfortable life. His lyrics mostly show a light sadness inside an easy life, in clear, graceful words, such as the line \"Nothing can be done as the flowers fall\". His youngest son, Yan Jidao, was also a lyric poet."
+ },
+ "appreciation": {
+  "zh": "上片写户外：花少了，草绿了，树荫浓了，柳絮被春风吹得乱飞。“春风不解禁杨花”说得很有趣，好像春风是个不懂事的孩子，任柳絮乱扑人脸。下片走进院子：黄莺藏在叶子里，燕子被帘子挡在外面，香炉的烟慢慢飘着。到处都很安静。最后，人从一场愁梦里醒来，只看到斜阳照着深深的院子。词里没直接说愁什么，只让我们看到春天在走、日子在过，淡淡的寂寞就留在心里。",
+  "en": "The first stanza is outdoors. Flowers are fewer, the grass is green, the shade is thick, and willow fluff flies wildly in the wind. \"The spring wind does not know how to hold back the willow fluff\" is playful, as if the wind were a careless child letting the fluff fly at people's faces. The second stanza comes into the courtyard. Orioles hide in the leaves, swallows are kept out by the curtain, incense smoke drifts slowly. All is still. At the end, someone wakes from a sad dream and sees only the low sun lighting the deep courtyard. The lyric never says what the sorrow is. It just lets us see spring leaving and days passing, and a quiet loneliness stays with us."
+ },
+ "famous_lines": [
+  3,
+  4,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "late-spring",
+   "loneliness",
+   "flowers",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

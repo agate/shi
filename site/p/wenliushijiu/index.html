@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>问刘十九 · 白居易 — 诗</title>
+    <meta name="description" content="问刘十九 · 白居易 — A Question for Liu Shijiu by Bai Juyi: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 37 · Tang poem · five-character quatrain</span><span lang="zh">第 37 首 · 唐诗 · 五言绝句</span></p>
+        <h1>问刘十九</h1>
+        <p class="by">白居易<span class="mono"><span lang="en">Bai Juyi · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">A Question for Liu Shijiu</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>lǜ</i><b>绿</b></span><span class="c gl" data-l="0" data-p="1"><i>yǐ</i><b>蚁</b></span><span class="c gl" data-l="0" data-p="2"><i>xīn</i><b>新</b></span><span class="c gl" data-l="0" data-p="3"><i>pēi</i><b>醅</b></span><span class="c" data-l="0" data-p="4"><i>jiǔ</i><b>酒</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>hóng</i><b>红</b></span><span class="c gl" data-l="1" data-p="1"><i>ní</i><b>泥</b></span><span class="c" data-l="1" data-p="2"><i>xiǎo</i><b>小</b></span><span class="c" data-l="1" data-p="3"><i>huǒ</i><b>火</b></span><span class="c" data-l="1" data-p="4"><i>lú</i><b>炉</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>wǎn</i><b>晚</b></span><span class="c gl" data-l="2" data-p="1"><i>lái</i><b>来</b></span><span class="c" data-l="2" data-p="2"><i>tiān</i><b>天</b></span><span class="c gl" data-l="2" data-p="3"><i>yù</i><b>欲</b></span><span class="c gl" data-l="2" data-p="4"><i>xuě</i><b>雪</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>néng</i><b>能</b></span><span class="c" data-l="3" data-p="1"><i>yǐn</i><b>饮</b></span><span class="c" data-l="3" data-p="2"><i>yì</i><b>一</b></span><span class="c" data-l="3" data-p="3"><i>bēi</i><b>杯</b></span><span class="c gl rd" data-l="3" data-p="4"><i>wú</i><b>无</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The data writes yǐ (ant) and lú (stove) with older variant characters. The meaning is the same; textbooks use the standard forms.</p><p lang="zh">数据里写作“绿螘新醅酒，红泥小火垆”。“螘”是“蚁”的异体字，“垆”在这里通“炉”，课本写作“蚁”和“炉”，意思一样。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">绿蚁新醅酒</span><span lang="en">New rice wine, freshly brewed, with pale green bubbles on top;</span><span lang="zh">新酿的米酒还没过滤，浮着淡绿色的泡沫，</span></li><li><span class="o">红泥小火炉</span><span lang="en">a little red clay stove glows warm.</span><span lang="zh">红泥做的小火炉烧得正旺。</span></li><li><span class="o">晚来天欲雪</span><span lang="en">Evening is coming and it looks like snow;</span><span lang="zh">天快黑了，看样子要下雪，</span></li><li><span class="o">能饮一杯无</span><span lang="en">can you come and share a cup with me?</span><span lang="zh">你能来和我喝一杯吗？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>绿蚁<span class="mono">lǜ yǐ</span></dt><dd><span lang="en">lǜ yǐ: green ants. New rice wine that has not been strained has tiny pale green bubbles on top that look like little ants.</span><span lang="zh">绿蚁：新酿的米酒还没过滤，酒面上浮着一层淡绿色的小泡沫，像小蚂蚁，所以叫“绿蚁”。</span></dd></div><div><dt>新醅<span class="mono">xīn pēi</span></dt><dd><span lang="en">xīn pēi: freshly brewed. Pēi is wine that has not been strained.</span><span lang="zh">新醅：刚酿好的。醅，没有过滤的酒。</span></dd></div><div><dt>红泥<span class="mono">hóng ní</span></dt><dd><span lang="en">hóng ní: red clay; the little stove is made of it.</span><span lang="zh">红泥：红色的黏土，这里指火炉是用红泥做的。</span></dd></div><div><dt>晚来<span class="mono">wǎn lái</span></dt><dd><span lang="en">wǎn lái: toward evening.</span><span lang="zh">晚来：傍晚。</span></dd></div><div><dt>欲雪<span class="mono">yù xuě</span></dt><dd><span lang="en">yù xuě: about to snow. Yù means about to; xuě, snow, is used here as a verb.</span><span lang="zh">欲雪：要下雪了。欲，将要；雪，这里是动词，下雪。</span></dd></div><div><dt>无<span class="mono">wú</span></dt><dd><span lang="en">wú: at the end of a sentence it makes a question, like &quot;or not?&quot;.</span><span lang="zh">无：句末表示问话，相当于“吗”。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>无<span class="mono">wú</span></dt><dd><span lang="en">At the end of the line, wú is a question word, like asking &quot;or not?&quot;. It is read wú today.</span><span lang="zh">句末的“无”是问话的语气词，相当于“吗”，现在读 wú。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Liu Shijiu was a friend of Bai Juyi. &quot;Shijiu&quot;, nineteen, was his birth order among the cousins of his generation. Who exactly he was is not agreed on. The poem is usually thought to come from Bai&#x27;s years as an official in Jiangzhou, today&#x27;s Jiujiang in Jiangxi, around 817, though some say the date cannot be fixed. One evening when snow was coming, Bai got the wine and the stove ready and wrote this poem to invite his friend over for a drink.</p><p lang="zh">刘十九是白居易的朋友，“十九”是他在家族同辈兄弟中的排行，他具体是谁说法不一。这首诗一般认为是白居易在江州（今江西九江）做官时写的，大约在817年前后，一说时间不能确定。一个要下雪的傍晚，他备好了酒和火炉，写诗请朋友来喝一杯。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Bai Juyi (772–846) was a great Tang poet. He believed poems should be plain and easy to understand. A story says he would read new poems to an old woman who could not read, and only kept them once she understood. His poems spread very widely; &quot;Song of Everlasting Sorrow&quot; and &quot;Song of the Pipa Player&quot; are especially famous.</p><p lang="zh">白居易（772—846），字乐天，号香山居士，唐代大诗人。他主张诗要写得通俗易懂，据说他写完诗会念给不识字的老婆婆听，听懂了才定稿。他的诗流传很广，《长恨歌》《琵琶行》都很有名。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is like a warm little invitation card. The first line is about the wine: newly brewed, with pale green bubbles on top, so fresh you can almost smell it. The second line is about the stove: a small red clay stove with a bright fire, cosy and warm. The third line turns to the window: it is getting dark, snow is coming, and outside grows colder. The last line asks gently: can you come for a cup? The warmth inside sits beside the cold outside, and a friend reading this would probably want to set off at once. In twenty characters we get green wine, a red stove and white snow, lovely colours and a warm friendship.</p><p lang="zh">这首诗就像一张温暖的请帖。第一句写酒：新酒刚酿好，飘着淡绿色的小泡沫，好像闻得到香味。第二句写炉子：小小的红泥火炉，火苗正旺，暖洋洋的。第三句一转，写窗外：天暗下来了，快要下雪了，外面越来越冷。最后一句轻轻一问：能来喝一杯吗？屋里的暖和屋外的冷放在一起，朋友读到这里，大概马上就想出门了。全诗二十个字，绿的酒、红的炉、白的雪，颜色好看，友情也很温暖。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/liangzhouci/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>凉州词</b></a><a href="../../p/dujingmensongbie/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>渡荆门送别</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["绿", "lǜ"], ["蚁", "yǐ"], ["新", "xīn"], ["醅", "pēi"], ["酒", "jiǔ"]], [["红", "hóng"], ["泥", "ní"], ["小", "xiǎo"], ["火", "huǒ"], ["炉", "lú"]], [["晚", "wǎn"], ["来", "lái"], ["天", "tiān"], ["欲", "yù"], ["雪", "xuě"]], [["能", "néng"], ["饮", "yǐn"], ["一", "yì"], ["杯", "bēi"], ["无", "wú"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "绿蚁：新酿的米酒还没过滤，酒面上浮着一层淡绿色的小泡沫，像小蚂蚁，所以叫“绿蚁”。", "en": "lǜ yǐ: green ants. New rice wine that has not been strained has tiny pale green bubbles on top that look like little ants."}, {"line": 0, "start": 2, "end": 4, "zh": "新醅：刚酿好的。醅，没有过滤的酒。", "en": "xīn pēi: freshly brewed. Pēi is wine that has not been strained."}, {"line": 1, "start": 0, "end": 2, "zh": "红泥：红色的黏土，这里指火炉是用红泥做的。", "en": "hóng ní: red clay; the little stove is made of it."}, {"line": 2, "start": 0, "end": 2, "zh": "晚来：傍晚。", "en": "wǎn lái: toward evening."}, {"line": 2, "start": 3, "end": 5, "zh": "欲雪：要下雪了。欲，将要；雪，这里是动词，下雪。", "en": "yù xuě: about to snow. Yù means about to; xuě, snow, is used here as a verb."}, {"line": 3, "start": 4, "end": 5, "zh": "无：句末表示问话，相当于“吗”。", "en": "wú: at the end of a sentence it makes a question, like \"or not?\"."}], "readings": [{"line": 3, "pos": 4, "char": "无", "pinyin": "wú", "zh": "句末的“无”是问话的语气词，相当于“吗”，现在读 wú。", "en": "At the end of the line, wú is a question word, like asking \"or not?\". It is read wú today."}], "speak": ["绿蚁新醅酒", "红泥小火炉", "晚来天欲雪", "能饮义杯无"], "speakTitle": "问刘十九。白居易。", "sample": "绿蚁新醅酒"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

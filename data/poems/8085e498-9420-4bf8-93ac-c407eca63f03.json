@@ -1,0 +1,275 @@
+{
+ "id": "8085e498-9420-4bf8-93ac-c407eca63f03",
+ "kind": "shi",
+ "title": "菊花",
+ "title_en": "Chrysanthemums",
+ "author": "元稹",
+ "author_en": "Yuan Zhen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "丛",
+    "cóng"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "舍",
+    "shè"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "陶",
+    "táo"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "篱",
+    "lí"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "偏",
+    "piān"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "菊",
+    "jú"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 3,
+   "char": "舍",
+   "pinyin": "shè",
+   "zh": "舍，这里指房子，读 shè，不读 shě。",
+   "en": "Here this character means a house, read shè, not shě."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "斜，现在课本读 xié。古音读 xiá，和“家、花”押韵。",
+   "en": "Textbooks read this character as xié. In old pronunciation it was xiá, rhyming with jiā and huā."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "更，这里是“再”的意思，读 gèng。",
+   "en": "Here this character means \"any more\", read gèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "秋丛：秋天的菊花丛。",
+   "en": "qiū cóng: autumn clumps, here clumps of chrysanthemums."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "绕舍：围着房子。舍，房屋。",
+   "en": "rào shè: around the house. Shè means a house."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "陶家：陶渊明的家。陶渊明是东晋诗人，最爱菊花，写过“采菊东篱下”。",
+   "en": "táo jiā: the home of Tao Yuanming, a poet of the Eastern Jin who loved chrysanthemums. He wrote of picking them by his eastern fence."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "遍绕：绕了一圈又一圈。",
+   "en": "biàn rào: walking round and round."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "篱边：篱笆旁边。篱笆是用竹子或树枝编的矮墙。",
+   "en": "lí biān: beside the fence. A lí is a low fence woven from bamboo or branches."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "日渐斜：太阳慢慢偏西，天快黑了。",
+   "en": "rì jiàn xié: the sun slowly sinks to the west, and evening comes."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "偏爱：特别喜爱，比别的更喜欢。",
+   "en": "piān ài: to love one more than the others."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "尽：完，没有了。",
+   "en": "jìn: finished, all gone."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "更无花：再也没有花了。",
+   "en": "gèng wú huā: there are no more flowers at all."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一丛丛秋菊围着房子开放，好像到了陶渊明的家。",
+   "en": "Clumps of autumn chrysanthemums circle the house, like the home of Tao Yuanming."
+  },
+  {
+   "zh": "我绕着篱笆看了一圈又一圈，不知不觉太阳都偏西了。",
+   "en": "I walk round and round the fence, until the sun sinks low."
+  },
+  {
+   "zh": "不是我在百花里特别偏爱菊花，",
+   "en": "It is not that, of all flowers, I love the chrysanthemum best;"
+  },
+  {
+   "zh": "而是菊花开完以后，就再也没有别的花了。",
+   "en": "it is that when this flower is done, there are no flowers left."
+  }
+ ],
+ "background": {
+  "zh": "这首诗是元稹赏菊时写的。菊花在深秋开放，那时别的花大多已经谢了，天气越来越冷。古人很喜欢菊花，觉得它不怕寒冷、开得晚，像有骨气的人。这首诗具体写于哪一年，已经说不清了。",
+  "en": "Yuan Zhen wrote this poem while admiring chrysanthemums. They bloom in late autumn, when most other flowers have faded and the weather grows cold. People of old loved chrysanthemums. Because they bloom late and do not fear the cold, they seemed like people of strong character. We no longer know the year the poem was written."
+ },
+ "author_note": {
+  "zh": "元稹（779—831），唐代诗人，字微之。他和白居易是一辈子的好朋友，两人常常写诗互相寄送，诗风也相近，被人合称“元白”。他的诗语言浅显，感情真挚。",
+  "en": "Yuan Zhen (779–831) was a Tang poet. He and Bai Juyi were close friends all their lives. They often sent poems to each other and wrote in a similar style, so people call them \"Yuan and Bai\". His language is simple and his feelings are sincere."
+ },
+ "appreciation": {
+  "zh": "前两句写诗人有多爱菊花：房子四周开满了菊花，好像陶渊明的家；他绕着篱笆看了一圈又一圈，连太阳快落山都没发觉。第三句自问自答：我并不是在所有花里偏心菊花。第四句说出原因：菊花开完了，这一年就再也没有花可看了。这个理由很新鲜，让人一下子明白了菊花的珍贵。它是一年里最后的花，开在寒冷来临之前，所以格外让人珍惜。",
+  "en": "The first two lines show how much the poet loves chrysanthemums. They bloom all around the house, like the home of Tao Yuanming. He walks round and round the fence, and does not even notice the sun going down. The third line asks and answers its own question: it is not that I favour this flower over all others. The fourth gives the reason: once the chrysanthemums are done, there will be no more flowers this year. The reason is fresh, and makes us see at once why the flower is precious. It is the last flower of the year, blooming just before the cold, so we treasure it all the more."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "chrysanthemum",
+   "flowers",
+   "autumn"
+  ]
+ },
+ "uncertain": []
+}

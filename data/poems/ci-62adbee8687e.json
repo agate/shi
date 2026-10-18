@@ -1,0 +1,807 @@
+{
+ "id": "ci-62adbee8687e",
+ "kind": "ci",
+ "title": "八声甘州·对潇潇暮雨洒江天",
+ "title_en": "Basheng Ganzhou: Facing the Evening Rain",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调九十七字",
+  "en": "ci lyric, two stanzas, 97 characters"
+ },
+ "lines": [
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "洒",
+    "sǎ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "番",
+    "fān"
+   ],
+   [
+    "洗",
+    "xǐ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "紧",
+    "jǐn"
+   ]
+  ],
+  [
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "减",
+    "jiǎn"
+   ]
+  ],
+  [
+   [
+    "苒",
+    "rǎn"
+   ],
+   [
+    "苒",
+    "rǎn"
+   ],
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "渺",
+    "miǎo"
+   ],
+   [
+    "邈",
+    "miǎo"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "收",
+    "shōu"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "踪",
+    "zōng"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "淹",
+    "yān"
+   ],
+   [
+    "留",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "妆",
+    "zhuāng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "颙",
+    "yóng"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "际",
+    "jì"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "我",
+    "wǒ"
+   ]
+  ],
+  [
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "干",
+    "gān"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "恁",
+    "nèn"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": {
+  "zh": "语料库作“渐霜风凄惨”，通行本作“渐霜风凄紧”，这里用通行本。另外语料库用顿号把“对潇潇”“想佳人”“误几回”“争知我”隔开，这里按课本的标点分句。",
+  "en": "The corpus reads qī cǎn, \"bleak and miserable\", where the common text has qī jǐn, \"cold and sharp\". We use the common text. The corpus also marks small pauses inside some phrases; here the lines are split by the textbook's punctuation."
+ },
+ "readings": [
+  {
+   "line": 11,
+   "pos": 1,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "现在读 sī。古时候“思”当名词（心思）用时读去声 sì，所以旧时也有人读 guī sì。",
+   "en": "Today it is read sī. In old times, when it was a noun meaning \"thoughts\", it was read sì, so some older readings say guī sì."
+  },
+  {
+   "line": 16,
+   "pos": 0,
+   "char": "争",
+   "pinyin": "zhēng",
+   "zh": "争，这里同“怎”，意思是“怎么”，读 zhēng。",
+   "en": "Here it stands for \"how\" and is read zhēng."
+  },
+  {
+   "line": 18,
+   "pos": 1,
+   "char": "恁",
+   "pinyin": "nèn",
+   "zh": "恁，这里读 nèn，意思是“这样、如此”。",
+   "en": "Here it is read nèn and means \"so, like this\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 1,
+   "end": 3,
+   "zh": "潇潇：雨又急又密的样子。",
+   "en": "xiāo xiāo: the sound and look of heavy, steady rain."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "暮雨：傍晚的雨。",
+   "en": "mù yǔ: evening rain."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 8,
+   "zh": "洒江天：雨洒满了江面和天空。",
+   "en": "sǎ jiāng tiān: the rain falls over the river and the whole sky."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "一番：一阵，一遍。",
+   "en": "yì fān: one round, one spell."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "洗清秋：把秋天洗得清清爽爽。",
+   "en": "xǐ qīng qiū: washes autumn clean and clear."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 3,
+   "zh": "霜风：深秋带着寒意的风。",
+   "en": "shuāng fēng: the cold wind of late autumn, the frost wind."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "凄紧：又冷又急。",
+   "en": "qī jǐn: cold and sharp."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "关河：关口和河流，泛指山河大地。",
+   "en": "guān hé: mountain passes and rivers, the land in general."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "冷落：冷清，没有人气。",
+   "en": "lěng luò: cold and lonely, with no one around."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "残照当楼：快落山的太阳正照在楼上。残照，夕阳的余光。",
+   "en": "cán zhào dāng lóu: the last light of the setting sun shines right on the tower."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "是处：到处。",
+   "en": "shì chù: everywhere."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "红衰翠减：红花凋谢，绿叶稀少。",
+   "en": "hóng shuāi cuì jiǎn: the red flowers have faded, the green leaves have thinned."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "苒苒：慢慢地。",
+   "en": "rǎn rǎn: slowly, little by little."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "物华休：美好的景物都消失了。物华，美好的景物。",
+   "en": "wù huá xiū: the beauty of things has come to an end."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "惟有：只有。",
+   "en": "wéi yǒu: only."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "无语：不说话，没有声音。",
+   "en": "wú yǔ: without a word."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 6,
+   "zh": "登高临远：登上高处，望向远方。",
+   "en": "dēng gāo lín yuǎn: to climb high and look far away."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 5,
+   "zh": "渺邈：遥远，看不清。",
+   "en": "miǎo miǎo: far away and dim."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "归思：想回家的心思。",
+   "en": "guī sī: the longing to go home."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "难收：收不住，停不下来。",
+   "en": "nán shōu: hard to hold back."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 5,
+   "zh": "踪迹：走过的路，行踪。",
+   "en": "zōng jì: footprints, where one has been."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 5,
+   "zh": "淹留：长久地停留在外。",
+   "en": "yān liú: to stay away for a long time."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "佳人：美丽的女子，这里指作者想念的妻子或爱人。",
+   "en": "jiā rén: a beautiful woman. Here it is the wife or loved one the poet misses."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 5,
+   "zh": "妆楼：女子梳妆打扮的楼。",
+   "en": "zhuāng lóu: the upstairs room where a woman dresses and does her hair."
+  },
+  {
+   "line": 14,
+   "start": 5,
+   "end": 7,
+   "zh": "颙望：抬着头盼望。",
+   "en": "yóng wàng: to look up and gaze in hope."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 3,
+   "zh": "误几回：好几次认错了。",
+   "en": "wù jǐ huí: mistaken how many times."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 8,
+   "zh": "天际识归舟：把天边的船错当成是爱人回家的船。",
+   "en": "tiān jì shí guī zhōu: she sees a boat on the horizon and thinks it is his boat coming home."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "争知：怎么知道。",
+   "en": "zhēng zhī: how could she know."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 3,
+   "zh": "阑干：栏杆。",
+   "en": "lán gān: a railing."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "正恁：正这样。",
+   "en": "zhèng nèn: just like this."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "凝愁：愁苦凝结在心里，解不开。",
+   "en": "níng chóu: sorrow frozen solid in the heart."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "面对着潇潇的暮雨洒满江天，",
+   "en": "I face the heavy evening rain pouring over the river and sky,"
+  },
+  {
+   "zh": "一场雨把秋天洗得清清冷冷。",
+   "en": "one long shower that washes autumn cold and clear."
+  },
+  {
+   "zh": "霜风渐渐变得又冷又急，",
+   "en": "Little by little the frost wind turns cold and sharp."
+  },
+  {
+   "zh": "山河一片冷清，",
+   "en": "The passes and rivers lie empty and bleak,"
+  },
+  {
+   "zh": "夕阳的余光照在楼上。",
+   "en": "and the last light of the sun falls on my tower."
+  },
+  {
+   "zh": "到处花谢叶落，",
+   "en": "Everywhere the red has faded and the green has thinned,"
+  },
+  {
+   "zh": "美好的景色慢慢都没有了。",
+   "en": "and all the beauty of things is slowly fading away."
+  },
+  {
+   "zh": "只有长江的水，",
+   "en": "Only the waters of the Yangtze"
+  },
+  {
+   "zh": "默默地向东流去。",
+   "en": "flow on to the east without a word."
+  },
+  {
+   "zh": "我不忍心登上高处向远方望，",
+   "en": "I cannot bear to climb high and look far,"
+  },
+  {
+   "zh": "故乡远远的，看不清，",
+   "en": "for my home is far off and out of sight,"
+  },
+  {
+   "zh": "想家的心再也收不住。",
+   "en": "and my longing to go back will not be held."
+  },
+  {
+   "zh": "感叹这些年东奔西走，",
+   "en": "I sigh over my wandering these years."
+  },
+  {
+   "zh": "为什么要苦苦地留在外面？",
+   "en": "Why must I stay away so long?"
+  },
+  {
+   "zh": "想到心爱的人在楼上抬头盼望，",
+   "en": "I picture my love in her upstairs room, gazing out in hope,"
+  },
+  {
+   "zh": "好几次把天边的船错当成我回家的船。",
+   "en": "how many times mistaking a far-off boat for mine coming home."
+  },
+  {
+   "zh": "她怎么知道我，",
+   "en": "How could she know that I,"
+  },
+  {
+   "zh": "此刻正靠着栏杆，",
+   "en": "leaning on the railing right now,"
+  },
+  {
+   "zh": "也这样满心愁苦。",
+   "en": "am just as full of sorrow?"
+  }
+ ],
+ "background": {
+  "zh": "柳永一生大半在外面漂泊。他考试多次落榜，做官也只做了小官，常常在各地奔走。这首词写深秋时节，他在异乡登楼远望，想念故乡和心爱的人。具体是哪一年、在哪里写的，已经说不清了。据说苏轼很欣赏“渐霜风凄紧，关河冷落，残照当楼”几句，说它不比唐诗的好句子差。",
+  "en": "Liu Yong spent most of his life on the road. He failed the imperial exam many times, and when he did hold office it was only small posts, so he often moved from place to place. This lyric is set in late autumn. Far from home, he climbs a tower, looks into the distance, and misses his home and the woman he loves. We no longer know the year or the place. It is said that Su Shi admired the lines about the frost wind, the bleak land and the last sunlight, and said they were as good as the finest Tang poems."
+ },
+ "author_note": {
+  "zh": "柳永（约984—约1053），北宋词人，原名柳三变。他精通音乐，写了大量长篇的慢词，让词这种形式变得更丰富。他的词通俗好懂，传唱很广，有“凡有井水饮处，即能歌柳词”的说法，意思是有井水的地方就有人唱他的词。",
+  "en": "Liu Yong (about 984 to about 1053) was a Northern Song poet, first named Liu Sanbian. He knew music well and wrote many long, slow lyrics, which made the form much richer. His words were easy to understand and sung everywhere. People said that wherever there was a well to drink from, someone was singing Liu Yong."
+ },
+ "appreciation": {
+  "zh": "上阕写秋景，一层一层越来越冷。先是傍晚一场大雨，把秋天洗得清冷；接着霜风变急，山河冷清，只剩夕阳照在楼上；再看四周，花谢了，叶落了，美好的东西都没了。只有长江水不说话，一直向东流，好像时间也这样流走。下阕写心情。他不敢登高，因为一看远方就更想家。他问自己：为什么这些年一直留在外面？然后他换一个角度，想象家里的爱人每天在楼上张望，好几次把别人的船当成他的船。最后又回到自己：她哪里知道，我此刻也靠着栏杆，一样发愁。两个人隔着千里，互相想念，愁就加倍了。",
+  "en": "The first stanza paints autumn, getting colder layer by layer. First an evening downpour washes the season cold and clear. Then the frost wind sharpens, the land turns bleak, and only the setting sun lights the tower. All around, flowers have fallen and leaves have dropped; every lovely thing is gone. Only the Yangtze flows east in silence, the way time slips away. The second stanza turns to feeling. He dare not climb high, because looking far only makes him miss home more. He asks himself why he has stayed away all these years. Then he changes viewpoint and imagines his love at home, gazing out from her room every day, more than once mistaking a stranger's boat for his. Finally he comes back to himself: she cannot know that he, too, is leaning on a railing right now, just as sad. Two people a thousand miles apart, each missing the other, and the sorrow doubles."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  7,
+  8,
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "travel",
+   "longing",
+   "rain",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

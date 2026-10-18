@@ -1,0 +1,376 @@
+{
+ "id": "5d05fef6-e4aa-48e5-917d-c29d0e6d6b33",
+ "kind": "shi",
+ "title": "登岳阳楼",
+ "title_en": "Climbing Yueyang Tower",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "洞",
+    "dòng"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "岳",
+    "yuè"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "坼",
+    "chè"
+   ]
+  ],
+  [
+   [
+    "乾",
+    "qián"
+   ],
+   [
+    "坤",
+    "kūn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "浮",
+    "fú"
+   ]
+  ],
+  [
+   [
+    "亲",
+    "qīn"
+   ],
+   [
+    "朋",
+    "péng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "字",
+    "zì"
+   ]
+  ],
+  [
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "戎",
+    "róng"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "北",
+    "běi"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "轩",
+    "xuān"
+   ],
+   [
+    "涕",
+    "tì"
+   ],
+   [
+    "泗",
+    "sì"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "坼",
+   "pinyin": "chè",
+   "zh": "“坼”读 chè，裂开的意思。",
+   "en": "Read chè, meaning to split open."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "乾",
+   "pinyin": "qián",
+   "zh": "“乾坤”的“乾”读 qián，不读 gān（干）。",
+   "en": "In qián kūn (heaven and earth) this character is read qián, not gān (dry)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "昔：从前。",
+   "en": "xī: in the past."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "洞庭水：洞庭湖，在今天湖南北部，是中国很大的淡水湖。",
+   "en": "dòng tíng shuǐ: Lake Dongting, in northern Hunan, one of China's largest freshwater lakes."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "岳阳楼：在今天湖南岳阳，站在楼上可以看到洞庭湖。",
+   "en": "yuè yáng lóu: Yueyang Tower, in today's Yueyang, Hunan, looking out over Lake Dongting."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "吴楚：春秋时的吴国和楚国，大约在今天长江中下游一带。",
+   "en": "wú chǔ: the old states of Wu and Chu, roughly the middle and lower Yangtze region."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "坼：裂开，分开。",
+   "en": "chè: to split apart."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "乾坤：天和地。",
+   "en": "qián kūn: heaven and earth."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "日夜浮：日日夜夜漂浮在湖面上。形容湖水非常广阔。",
+   "en": "rì yè fú: floating day and night, showing how vast the lake is."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "无一字：连一个字都没有，指没有书信寄来。",
+   "en": "wú yī zì: not one word; no letters at all."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "老病：年老多病。杜甫这时五十七岁，身体很不好。",
+   "en": "lǎo bìng: old and sick. Du Fu was fifty-seven and in poor health."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "孤舟：孤零零的一条船。杜甫一家这时住在船上。",
+   "en": "gū zhōu: a lonely boat. Du Fu's family was living on a boat at this time."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "戎马：战马，这里指战争。",
+   "en": "róng mǎ: war horses; here, war."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "关山北：关山以北，指北方边境。",
+   "en": "guān shān běi: north of the mountain passes; the northern borders."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "凭轩：靠着窗户或栏杆。",
+   "en": "píng xuān: leaning on a window or railing."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "涕泗：眼泪和鼻涕。涕，眼泪；泗，鼻涕。",
+   "en": "tì sì: tears and a running nose. Tì is tears; sì is mucus."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "很早以前就听说洞庭湖的大名，",
+   "en": "Long ago I heard of the waters of Lake Dongting;"
+  },
+  {
+   "zh": "今天终于登上了岳阳楼。",
+   "en": "today at last I climb Yueyang Tower."
+  },
+  {
+   "zh": "吴地和楚地，好像被湖水从东南方向分开了。",
+   "en": "The lands of Wu and Chu seem split apart by the lake to the southeast."
+  },
+  {
+   "zh": "天和地，好像日日夜夜都在湖面上漂浮。",
+   "en": "Heaven and earth seem to float on its waters day and night."
+  },
+  {
+   "zh": "亲戚朋友们连一封信都没有寄来，",
+   "en": "From family and friends, not a single letter comes;"
+  },
+  {
+   "zh": "我又老又病，只有一条小船陪着我。",
+   "en": "old and sick, all I have is a lonely boat."
+  },
+  {
+   "zh": "关山以北，战争还在进行，",
+   "en": "North of the mountain passes, war horses still charge;"
+  },
+  {
+   "zh": "我靠着栏杆，眼泪鼻涕一起流下来。",
+   "en": "leaning on the railing, I let my tears stream down."
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为写于768年（大历三年）冬天。那年杜甫五十七岁，带着家人坐船离开夔州，出三峡，沿长江漂泊到岳州（今湖南岳阳），登上了岳阳楼。他身体很差，生活也没有着落。那时北方边境还不太平，吐蕃军队进犯，朝廷又在调兵防守。他看着洞庭湖，想到自己，也想到国家，写下了这首诗。",
+  "en": "This poem is usually dated to the winter of 768. Du Fu was fifty-seven. He and his family had left Kuizhou by boat, passed through the Three Gorges, and drifted down the Yangtze to Yuezhou, today's Yueyang in Hunan. There he climbed Yueyang Tower. His health was very poor and he had no settled way to live. In the north the borders were still not at peace: Tibetan armies were raiding, and the court was sending troops to hold them back. Looking at Lake Dongting, he thought of himself and of his country, and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他经历了安史之乱，一生多半在贫困和漂泊中度过，可他始终关心国家和百姓。他的诗写出了一个时代的苦难，所以被称为“诗史”。写这首诗两年后，他就在湖南的船上去世了。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He lived through the An Lushan Rebellion and spent most of his life poor and wandering, yet he never stopped caring about his country and its people. His poems record the suffering of his age, so they are called \"history in poems.\" Two years after writing this one, he died on a boat in Hunan."
+ },
+ "appreciation": {
+  "zh": "开头两句很平静：早就听说洞庭湖，今天终于来了。可三、四句一下子把画面撑得极大：湖水把东南大地分成吴和楚，天地都像漂在湖上。这是写洞庭湖最壮阔的句子之一。接着镜头突然拉回诗人自己：没有亲友的信，又老又病，只剩一条孤零零的小船。湖越大，人就显得越小、越孤单。最后两句又从自己想到国家：北方还在打仗。诗人靠着栏杆流泪，哭的不只是自己的苦，更是国家的难。",
+  "en": "The first two lines are calm: I heard of Lake Dongting long ago, and today at last I am here. Then lines three and four stretch the picture to a giant size. The lake splits the southeastern lands into Wu and Chu, and heaven and earth seem to float on it. These are among the grandest lines ever written about the lake. Then the camera suddenly pulls back to the poet himself: no letters from family or friends, old and sick, with only a lonely little boat. The bigger the lake, the smaller and lonelier the man seems. The last two lines turn from himself to his country: war is still going on in the north. The poet leans on the railing and weeps, not only for his own pain, but even more for his country's troubles."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lake",
+   "country",
+   "old-age",
+   "loneliness",
+   "war"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,540 @@
+{
+ "id": "ci-eb1f3bea8806",
+ "kind": "ci",
+ "title": "定风波·莫听穿林打叶声",
+ "title_en": "To the Tune Ding Feng Bo: Never Mind the Rain Beating Through the Woods",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "穿",
+    "chuān"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "打",
+    "dǎ"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "妨",
+    "fáng"
+   ],
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "啸",
+    "xiào"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "徐",
+    "xú"
+   ],
+   [
+    "行",
+    "xíng"
+   ]
+  ],
+  [
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "杖",
+    "zhàng"
+   ],
+   [
+    "芒",
+    "máng"
+   ],
+   [
+    "鞋",
+    "xié"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "怕",
+    "pà"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "蓑",
+    "suō"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "任",
+    "rèn"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "峭",
+    "qiào"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "迎",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "瑟",
+    "sè"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "原始文本没有小序，第九句作“回首向来潇洒处”。课本和通行本作“回首向来萧瑟处”，这里用课本。课本还有小序：“三月七日，沙湖道中遇雨。雨具先去，同行皆狼狈，余独不觉。已而遂晴，故作此词。”",
+  "en": "The corpus text has no preface, and line nine reads \"the free and easy place\" instead of \"the place where the wind and rain roared\". The textbook and usual text have the latter, followed here. The textbook also prints a short preface: \"On the seventh day of the third month, we were caught in rain on the road to Shahu. The rain gear had been sent ahead, and my companions were all in a sorry state, but I alone did not mind. Soon it cleared, so I wrote this lyric.\""
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "谁：口语常读 shéi，读诗时一般读 shuí。",
+   "en": "In speech it is often shéi; in poems it is usually read shuí."
+  },
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "一",
+   "pinyin": "yī",
+   "zh": "这里按本调标 yī。连读时“一蓑”读成 yì suō。",
+   "en": "It is marked here with its own tone, yī. In speech it is said yì."
+  },
+  {
+   "line": 5,
+   "pos": 6,
+   "char": "醒",
+   "pinyin": "xǐng",
+   "zh": "醒：读 xǐng。这首词换韵，“醒、冷”押韵。",
+   "en": "It reads xǐng. The lyric changes rhyme here, and this word rhymes with the word for cold."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "斜照：课本读 xié。",
+   "en": "The textbook reads it xié."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "相",
+   "pinyin": "xiāng",
+   "zh": "相迎：读 xiāng，意思是来迎接我。",
+   "en": "It reads xiāng; xiāng yíng means coming to greet me."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "莫听：不要去理会。",
+   "en": "mò tīng: never mind, pay no attention to."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 7,
+   "zh": "穿林打叶声：雨点穿过树林、打在树叶上的声音。",
+   "en": "chuān lín dǎ yè shēng: the sound of rain coming through the woods and beating on the leaves."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "何妨：有什么关系，不妨。",
+   "en": "hé fáng: why not, what harm is there."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "吟啸：放声吟诗、长啸。啸，撮起嘴唇发出长而清的声音。",
+   "en": "yín xiào: to chant poems and whistle aloud. Xiào is a long, clear whistle made with pursed lips."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "徐行：慢慢地走。",
+   "en": "xú xíng: to walk slowly."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "竹杖芒鞋：竹子做的手杖，草编的鞋子。芒鞋，草鞋。",
+   "en": "zhú zhàng máng xié: a bamboo walking stick and straw sandals."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "轻胜马：比骑马还轻快。",
+   "en": "qīng shèng mǎ: lighter and quicker than riding a horse."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "一蓑烟雨：披着一件蓑衣，在风雨里行走。蓑，用草或棕编的雨衣。",
+   "en": "yī suō yān yǔ: wearing a straw rain cape through the misty rain. A suō is a rain cape woven from straw or palm."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "任平生：一辈子都这样，随它去吧。任，听凭。平生，一生。",
+   "en": "rèn píng shēng: letting the whole of life be like this. Rèn means to let it be; píng shēng means one's whole life."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "料峭：形容微微的寒意，多指早春。",
+   "en": "liào qiào: a slight chill, usually of early spring."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "吹酒醒：把酒意吹醒了。",
+   "en": "chuī jiǔ xǐng: the wind blows away the effects of the wine."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "斜照：偏西的太阳光。",
+   "en": "xié zhào: the slanting light of the setting sun."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "相迎：迎接我。",
+   "en": "xiāng yíng: to come to meet me."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "回首：回头看。",
+   "en": "huí shǒu: to look back."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "向来：刚才。",
+   "en": "xiàng lái: just now."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "萧瑟处：刚才风雨吹打树林的地方。萧瑟，风雨吹打树叶的声音。",
+   "en": "xiāo sè chù: the place where wind and rain were just beating on the trees. Xiāo sè is the sound of wind and rain in the leaves."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "归去：回去。",
+   "en": "guī qù: to go back home."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 7,
+   "zh": "也无风雨也无晴：既没有风雨，也没有晴天。指心里不再被风雨或晴天影响。",
+   "en": "yě wú fēng yǔ yě wú qíng: neither wind and rain nor clear sky; the heart is no longer moved by either."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "不要去理会那穿过树林、打在叶子上的雨声，",
+   "en": "Never mind the sound of rain coming through the woods and beating on the leaves;"
+  },
+  {
+   "zh": "不妨一边吟诗长啸，一边慢慢地走。",
+   "en": "why not chant and whistle and walk on slowly?"
+  },
+  {
+   "zh": "拄着竹杖，穿着草鞋，比骑马还轻快，",
+   "en": "With a bamboo stick and straw sandals, I go lighter than on horseback."
+  },
+  {
+   "zh": "怕什么！",
+   "en": "Who's afraid?"
+  },
+  {
+   "zh": "披一身蓑衣，在风雨里过一辈子也随它去。",
+   "en": "In a straw cape through misty rain, I let my whole life go as it will."
+  },
+  {
+   "zh": "微寒的春风把我的酒意吹醒，",
+   "en": "A chilly spring wind blows me sober,"
+  },
+  {
+   "zh": "身上有点冷，",
+   "en": "I feel a little cold,"
+  },
+  {
+   "zh": "山头偏西的太阳却正好迎着我。",
+   "en": "but on the hilltop the slanting sun comes out to greet me."
+  },
+  {
+   "zh": "回头看看刚才风雨吹打的地方，",
+   "en": "I look back at the place where the wind and rain just roared,"
+  },
+  {
+   "zh": "回去吧，",
+   "en": "and go home:"
+  },
+  {
+   "zh": "对我来说，既没有风雨，也没有晴天。",
+   "en": "for me there is neither wind and rain nor clear sky."
+  }
+ ],
+ "background": {
+  "zh": "元丰五年（1082年）三月七日，苏轼被贬在黄州，已经是第三个春天。他和朋友去沙湖看田，路上遇到大雨。带雨具的人先走了，同行的人都被淋得很狼狈，只有苏轼一点也不在乎。过了一会儿天晴了，他就写下了这首词。被贬黄州，是因为“乌台诗案”，他差点丢了性命。",
+  "en": "On the seventh day of the third month of 1082, Su Shi was in his third spring of banishment in Huangzhou. He and some friends went to Shahu to look at farmland and were caught in a heavy rain on the way. The people carrying the rain gear had gone ahead, and everyone else was soaked and miserable. Only Su Shi did not mind at all. Soon the sky cleared, and he wrote this lyric. He had been banished to Huangzhou because of the Crow Terrace poetry case, in which he nearly lost his life."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家。他因为写诗批评新法被关进监狱，出狱后被贬到黄州做一个没有实权的小官。在黄州他自己开荒种地，给自己起号“东坡”。生活很苦，他却越来越想得开，这首词就是他心态的写照。",
+  "en": "Su Shi (1037–1101), also called Su Dongpo, was a great writer of the Northern Song. He was thrown into prison for poems that criticized new government policies. After his release he was banished to Huangzhou as a minor official with no real power. There he farmed a piece of wasteland himself and named himself Dongpo, the Eastern Slope. Life was hard, but he grew more and more at peace, and this lyric shows that state of mind."
+ },
+ "appreciation": {
+  "zh": "这首词写的是一场雨，其实写的是怎么面对人生的风雨。大雨打在树林里，别人都在跑，苏轼却说：别管它，边唱边慢慢走。竹杖草鞋比骑马还轻快，“谁怕”两个字特别有劲。他想的不只是这场雨，而是一辈子：就算一生都披着蓑衣在风雨里走，也随它去。下半首雨停了，冷风吹醒了酒，山头的夕阳又来迎接他。最后他回头一看，刚才风雨大作的地方，现在什么都没有了。“也无风雨也无晴”是说：心静下来，坏事和好事都不能把我怎么样。",
+  "en": "This lyric is about a rainstorm, but really it is about how to face the storms of life. Rain beats on the woods and everyone runs, but Su Shi says: never mind it, sing and walk on slowly. A bamboo stick and straw sandals are lighter than a horse, and \"who's afraid?\" rings out strongly. He is thinking not only of this rain but of his whole life: even if I walk through wind and rain in a straw cape all my days, let it be. In the second half the rain stops, a cold wind sobers him, and the setting sun on the hilltop comes to greet him. At last he looks back. Where the storm raged a moment ago, there is nothing now. \"Neither wind and rain nor clear sky\" means: once the heart is calm, neither bad things nor good things can shake me."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  10
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "calm",
+   "life",
+   "courage"
+  ]
+ },
+ "uncertain": []
+}

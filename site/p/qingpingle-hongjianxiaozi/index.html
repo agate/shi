@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>清平乐·红笺小字 · 晏殊 — 诗</title>
+    <meta name="description" content="清平乐·红笺小字 · 晏殊 — Pure Serene Music: Small Words on Red Paper by Yan Shu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 55 · Song lyric · ci (song lyric) in two stanzas</span><span lang="zh">第 55 首 · 宋词 · 词（双调）</span></p>
+        <h1>清平乐·红笺小字</h1>
+        <p class="by">晏殊<span class="mono"><span lang="en">Yan Shu · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Pure Serene Music: Small Words on Red Paper</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>hóng</i><b>红</b></span><span class="c gl" data-l="0" data-p="1"><i>jiān</i><b>笺</b></span><span class="c" data-l="0" data-p="2"><i>xiǎo</i><b>小</b></span><span class="c" data-l="0" data-p="3"><i>zì</i><b>字</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>shuō</i><b>说</b></span><span class="c gl" data-l="1" data-p="1"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="1" data-p="2"><i>píng</i><b>平</b></span><span class="c gl" data-l="1" data-p="3"><i>shēng</i><b>生</b></span><span class="c gl" data-l="1" data-p="4"><i>yì</i><b>意</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>hóng</i><b>鸿</b></span><span class="c gl" data-l="2" data-p="1"><i>yàn</i><b>雁</b></span><span class="c gl" data-l="2" data-p="2"><i>zài</i><b>在</b></span><span class="c gl" data-l="2" data-p="3"><i>yún</i><b>云</b></span><span class="c gl" data-l="2" data-p="4"><i>yú</i><b>鱼</b></span><span class="c gl" data-l="2" data-p="5"><i>zài</i><b>在</b></span><span class="c gl" data-l="2" data-p="6"><i>shuǐ</i><b>水</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>chóu</i><b>惆</b></span><span class="c gl" data-l="3" data-p="1"><i>chàng</i><b>怅</b></span><span class="c" data-l="3" data-p="2"><i>cǐ</i><b>此</b></span><span class="c" data-l="3" data-p="3"><i>qíng</i><b>情</b></span><span class="c gl" data-l="3" data-p="4"><i>nán</i><b>难</b></span><span class="c gl" data-l="3" data-p="5"><i>jì</i><b>寄</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>xié</i><b>斜</b></span><span class="c gl" data-l="4" data-p="1"><i>yáng</i><b>阳</b></span><span class="c gl" data-l="4" data-p="2"><i>dú</i><b>独</b></span><span class="c gl" data-l="4" data-p="3"><i>yǐ</i><b>倚</b></span><span class="c" data-l="4" data-p="4"><i>xī</i><b>西</b></span><span class="c" data-l="4" data-p="5"><i>lóu</i><b>楼</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>yáo</i><b>遥</b></span><span class="c gl" data-l="5" data-p="1"><i>shān</i><b>山</b></span><span class="c gl" data-l="5" data-p="2"><i>qià</i><b>恰</b></span><span class="c gl" data-l="5" data-p="3"><i>duì</i><b>对</b></span><span class="c gl" data-l="5" data-p="4"><i>lián</i><b>帘</b></span><span class="c gl" data-l="5" data-p="5"><i>gōu</i><b>钩</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>rén</i><b>人</b></span><span class="c gl" data-l="6" data-p="1"><i>miàn</i><b>面</b></span><span class="c" data-l="6" data-p="2"><i>bù</i><b>不</b></span><span class="c" data-l="6" data-p="3"><i>zhī</i><b>知</b></span><span class="c" data-l="6" data-p="4"><i>hé</i><b>何</b></span><span class="c" data-l="6" data-p="5"><i>chù</i><b>处</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>lǜ</i><b>绿</b></span><span class="c" data-l="7" data-p="1"><i>bō</i><b>波</b></span><span class="c gl" data-l="7" data-p="2"><i>yī</i><b>依</b></span><span class="c gl" data-l="7" data-p="3"><i>jiù</i><b>旧</b></span><span class="c" data-l="7" data-p="4"><i>dōng</i><b>东</b></span><span class="c" data-l="7" data-p="5"><i>liú</i><b>流</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">红笺小字</span><span lang="en">On red paper, in small characters,</span><span lang="zh">在红色的信纸上写满了小字，</span></li><li><span class="o">说尽平生意</span><span lang="en">I write out all the feelings of my life.</span><span lang="zh">把一辈子的心意都说尽了。</span></li><li><span class="o">鸿雁在云鱼在水</span><span lang="en">But the wild geese are in the clouds and the fish are in the water,</span><span lang="zh">可是大雁飞在云里，鱼游在水里，</span></li><li><span class="o">惆怅此情难寄</span><span lang="en">and sadly there is no way to send this love.</span><span lang="zh">这份感情没法寄出去，真让人伤心。</span></li><li class="brk"><span class="o">斜阳独倚西楼</span><span lang="en">In the setting sun I lean alone on the western tower;</span><span lang="zh">夕阳下，我一个人靠在西楼上，</span></li><li><span class="o">遥山恰对帘钩</span><span lang="en">the far hills sit right across from the curtain hook.</span><span lang="zh">远处的山，正好对着窗帘的挂钩。</span></li><li><span class="o">人面不知何处</span><span lang="en">Where that face has gone, I do not know;</span><span lang="zh">那个人如今不知在哪里，</span></li><li><span class="o">绿波依旧东流</span><span lang="en">only the green waves still flow east as before.</span><span lang="zh">只有绿色的江水，还像从前一样向东流去。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>红笺<span class="mono">hóng jiān</span></dt><dd><span lang="en">hóng jiān: red letter paper, often printed with patterns.</span><span lang="zh">红笺：红色的、印着花纹的信纸。</span></dd></div><div><dt>说尽<span class="mono">shuō jìn</span></dt><dd><span lang="en">shuō jìn: to say it all.</span><span lang="zh">说尽：全部说出来。</span></dd></div><div><dt>平生意<span class="mono">píng shēng yì</span></dt><dd><span lang="en">píng shēng yì: the feelings of a lifetime; here, love and longing for the one dear to the heart.</span><span lang="zh">平生意：一辈子的心意，这里指对心上人的爱慕和思念。</span></dd></div><div><dt>鸿雁在云鱼在水<span class="mono">hóng yàn zài yún yú zài shuǐ</span></dt><dd><span lang="en">hóng yàn zài yún yú zài shuǐ: people of old said wild geese and fish could carry letters. Now the geese are up in the clouds and the fish are down in the water, and none of them can take the letter.</span><span lang="zh">鸿雁在云鱼在水：古人传说大雁和鱼能替人送信。现在大雁飞在云里，鱼游在水里，没有谁能帮忙送信。</span></dd></div><div><dt>惆怅<span class="mono">chóu chàng</span></dt><dd><span lang="en">chóu chàng: sad and lost.</span><span lang="zh">惆怅：失落、伤心。</span></dd></div><div><dt>难寄<span class="mono">nán jì</span></dt><dd><span lang="en">nán jì: hard to send.</span><span lang="zh">难寄：很难寄出去。</span></dd></div><div><dt>斜阳<span class="mono">xié yáng</span></dt><dd><span lang="en">xié yáng: the setting sun.</span><span lang="zh">斜阳：快落山的太阳。</span></dd></div><div><dt>独倚<span class="mono">dú yǐ</span></dt><dd><span lang="en">dú yǐ: leaning alone.</span><span lang="zh">独倚：一个人靠着。</span></dd></div><div><dt>遥山<span class="mono">yáo shān</span></dt><dd><span lang="en">yáo shān: the distant hills.</span><span lang="zh">遥山：远处的山。</span></dd></div><div><dt>恰对<span class="mono">qià duì</span></dt><dd><span lang="en">qià duì: right across from.</span><span lang="zh">恰对：正好对着。</span></dd></div><div><dt>帘钩<span class="mono">lián gōu</span></dt><dd><span lang="en">lián gōu: the hook that holds up a curtain.</span><span lang="zh">帘钩：挂门帘、窗帘的钩子。</span></dd></div><div><dt>人面<span class="mono">rén miàn</span></dt><dd><span lang="en">rén miàn: the face of the loved one, meaning that person. It echoes a line by the Tang poet Cui Hu: the face is gone who knows where, but the peach blossoms still smile in the spring wind.</span><span lang="zh">人面：心上人的脸，指那个人。来自唐代崔护的诗句“人面不知何处去，桃花依旧笑春风”。</span></dd></div><div><dt>依旧<span class="mono">yī jiù</span></dt><dd><span lang="en">yī jiù: still, just as before.</span><span lang="zh">依旧：还是像从前一样。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">We do not know when or why this lyric was written. From the words, it is about missing someone far away. A long letter has been written but cannot be sent. At dusk the writer climbs a tower alone and gazes into the distance. The person is nowhere to be found; only the river flows east as always. Some think Yan Shu is writing about love between a man and a woman. Others think he uses that feeling to express how he misses an old friend.</p><p lang="zh">这首词的写作时间和起因都不清楚。从内容看，写的是对远方心上人的思念：写好了一封长信，却没法寄出去；傍晚独自登楼远望，人不知在哪里，只有江水照旧东流。有人认为是晏殊写男女相思，也有人认为是借这种感情抒发怀念旧友的心情。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Shu (991–1055), styled Tongshu, was a ci writer of the Northern Song and served as chief minister. As a child he was known as a prodigy, and at fourteen he was recommended to the court. His career went smoothly all his life. His lyrics are gentle, refined and quiet in feeling, often about light sorrow and longing. His youngest son, Yan Jidao, was also a famous ci writer, and the two are called the Two Yans.</p><p lang="zh">晏殊（991—1055），字同叔，北宋词人，做过宰相。他小时候就有“神童”之名，十四岁被推荐进朝廷，一生仕途顺利。他的词温和含蓄，写得很雅致，常写闲愁和相思。他的小儿子晏几道也是著名词人，父子并称“二晏”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half is about a letter. Tiny characters fill the red paper, carrying the feelings of a lifetime. But the geese and fish that people of old said could carry letters are one in the sky and one in the water, and neither can help, so the letter cannot be sent. The second half is about climbing a tower. The sun is setting, the writer leans on the railing alone, and the distant hills face the curtain hook quietly, as if keeping company in the stillness. The last two lines borrow from a Tang poem: that person is gone who knows where, and only the river still flows east as before. The person has left, but the water and time keep flowing, and the longing will not stop. The words are plain, yet the sorrow grows deeper the more you read.</p><p lang="zh">上半首写信：小小的字写满红纸，一辈子的心意都在里面。可古人说能送信的大雁和鱼，一个在天上，一个在水里，谁也帮不上忙，信就是寄不出去。下半首写登楼：夕阳西下，一个人靠着楼栏，远山静静地对着帘钩，好像也在陪着发呆。最后两句化用唐诗：那个人不知去了哪里，只有江水还像从前一样往东流。人走了，水还在流，时间也在流，思念却停不下来。全词语言平淡，愁却越读越深。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/tashaxing-yanyanqingying/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>踏莎行·燕燕轻盈</b></a><a href="../../p/tashaxing-xiaojinghongxi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>踏莎行·小径红稀</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["红", "hóng"], ["笺", "jiān"], ["小", "xiǎo"], ["字", "zì"]], [["说", "shuō"], ["尽", "jìn"], ["平", "píng"], ["生", "shēng"], ["意", "yì"]], [["鸿", "hóng"], ["雁", "yàn"], ["在", "zài"], ["云", "yún"], ["鱼", "yú"], ["在", "zài"], ["水", "shuǐ"]], [["惆", "chóu"], ["怅", "chàng"], ["此", "cǐ"], ["情", "qíng"], ["难", "nán"], ["寄", "jì"]], [["斜", "xié"], ["阳", "yáng"], ["独", "dú"], ["倚", "yǐ"], ["西", "xī"], ["楼", "lóu"]], [["遥", "yáo"], ["山", "shān"], ["恰", "qià"], ["对", "duì"], ["帘", "lián"], ["钩", "gōu"]], [["人", "rén"], ["面", "miàn"], ["不", "bù"], ["知", "zhī"], ["何", "hé"], ["处", "chù"]], [["绿", "lǜ"], ["波", "bō"], ["依", "yī"], ["旧", "jiù"], ["东", "dōng"], ["流", "liú"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "红笺：红色的、印着花纹的信纸。", "en": "hóng jiān: red letter paper, often printed with patterns."}, {"line": 1, "start": 0, "end": 2, "zh": "说尽：全部说出来。", "en": "shuō jìn: to say it all."}, {"line": 1, "start": 2, "end": 5, "zh": "平生意：一辈子的心意，这里指对心上人的爱慕和思念。", "en": "píng shēng yì: the feelings of a lifetime; here, love and longing for the one dear to the heart."}, {"line": 2, "start": 0, "end": 7, "zh": "鸿雁在云鱼在水：古人传说大雁和鱼能替人送信。现在大雁飞在云里，鱼游在水里，没有谁能帮忙送信。", "en": "hóng yàn zài yún yú zài shuǐ: people of old said wild geese and fish could carry letters. Now the geese are up in the clouds and the fish are down in the water, and none of them can take the letter."}, {"line": 3, "start": 0, "end": 2, "zh": "惆怅：失落、伤心。", "en": "chóu chàng: sad and lost."}, {"line": 3, "start": 4, "end": 6, "zh": "难寄：很难寄出去。", "en": "nán jì: hard to send."}, {"line": 4, "start": 0, "end": 2, "zh": "斜阳：快落山的太阳。", "en": "xié yáng: the setting sun."}, {"line": 4, "start": 2, "end": 4, "zh": "独倚：一个人靠着。", "en": "dú yǐ: leaning alone."}, {"line": 5, "start": 0, "end": 2, "zh": "遥山：远处的山。", "en": "yáo shān: the distant hills."}, {"line": 5, "start": 2, "end": 4, "zh": "恰对：正好对着。", "en": "qià duì: right across from."}, {"line": 5, "start": 4, "end": 6, "zh": "帘钩：挂门帘、窗帘的钩子。", "en": "lián gōu: the hook that holds up a curtain."}, {"line": 6, "start": 0, "end": 2, "zh": "人面：心上人的脸，指那个人。来自唐代崔护的诗句“人面不知何处去，桃花依旧笑春风”。", "en": "rén miàn: the face of the loved one, meaning that person. It echoes a line by the Tang poet Cui Hu: the face is gone who knows where, but the peach blossoms still smile in the spring wind."}, {"line": 7, "start": 2, "end": 4, "zh": "依旧：还是像从前一样。", "en": "yī jiù: still, just as before."}], "readings": [], "speak": ["红笺小字", "说晋平生意", "鸿雁在云鱼在水", "惆怅此情难寄", "斜阳独倚西楼", "遥山恰对帘钩", "人面不知何处", "绿波依旧东流"], "speakTitle": "清平乐，红笺小字。晏殊。", "sample": "红笺小字"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

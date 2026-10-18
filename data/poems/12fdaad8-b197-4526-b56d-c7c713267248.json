@@ -1,0 +1,426 @@
+{
+ "id": "12fdaad8-b197-4526-b56d-c7c713267248",
+ "kind": "shi",
+ "title": "望岳",
+ "title_en": "Gazing at Mount Tai",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "岱",
+    "dài"
+   ],
+   [
+    "宗",
+    "zōng"
+   ],
+   [
+    "夫",
+    "fú"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "何",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "齐",
+    "qí"
+   ],
+   [
+    "鲁",
+    "lǔ"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "了",
+    "liǎo"
+   ]
+  ],
+  [
+   [
+    "造",
+    "zào"
+   ],
+   [
+    "化",
+    "huà"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "秀",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "阴",
+    "yīn"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "割",
+    "gē"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "荡",
+    "dàng"
+   ],
+   [
+    "胸",
+    "xiōng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "云",
+    "yún"
+   ]
+  ],
+  [
+   [
+    "决",
+    "jué"
+   ],
+   [
+    "眦",
+    "zì"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ]
+  ],
+  [
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "凌",
+    "líng"
+   ],
+   [
+    "绝",
+    "jué"
+   ],
+   [
+    "顶",
+    "dǐng"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "览",
+    "lǎn"
+   ],
+   [
+    "众",
+    "zhòng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料本第五句作“荡胷生曾云”。“胷”是“胸”的异体字，课本写作“胸”。",
+  "en": "The corpus text writes the chest in line five with an old variant form. Textbooks use the standard form; the word is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "夫",
+   "pinyin": "fú",
+   "zh": "“夫”在这里是语气词，读 fú，不读 fū。",
+   "en": "Here this character is a little word of feeling and is read fú, not fū."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "了",
+   "pinyin": "liǎo",
+   "zh": "“未了”的“了”是完、尽的意思，读 liǎo，不读 le。",
+   "en": "In wèi liǎo the character means to end, so it is read liǎo, not le."
+  },
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "曾",
+   "pinyin": "céng",
+   "zh": "“曾”同“层”，读 céng，不读 zēng。",
+   "en": "Here this character stands for the word for layer and is read céng, not zēng."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "眦",
+   "pinyin": "zì",
+   "zh": "“眦”读 zì，指眼角。",
+   "en": "This character is read zì and means the corner of the eye."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "岱宗：泰山。泰山又叫岱山，古人认为它是五岳中最尊贵的山，所以叫“岱宗”。",
+   "en": "dài zōng: Mount Tai. Its other name is Mount Dai, and people of old saw it as the most honored of the Five Great Mountains, so they called it the chief of mountains."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "夫：语气词，放在句中，没有实在意思，加强语气。",
+   "en": "fú: a little word that adds feeling to the question; it has no meaning of its own."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "如何：怎么样。",
+   "en": "rú hé: what is it like?"
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "齐鲁：古代的齐国和鲁国，在今天山东一带。泰山北边是齐，南边是鲁。",
+   "en": "Qí Lǔ: the old states of Qi and Lu, in today's Shandong. Qi lay north of Mount Tai, Lu to the south."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "青未了：青色的山影一眼望不到头。了，完、尽。",
+   "en": "qīng wèi liǎo: the green of the mountain never ends, as far as the eye can see. Liǎo means to end."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "造化：大自然。",
+   "en": "zào huà: nature, the maker of all things."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "钟：聚集。",
+   "en": "zhōng: to gather together."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "神秀：神奇秀美的景色。",
+   "en": "shén xiù: wondrous beauty."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "阴阳：山的北面叫阴，南面叫阳。",
+   "en": "yīn yáng: the north side of a mountain is called yin, the south side yang."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "割昏晓：泰山很高，把山南山北分成一明一暗，好像一边是早晨、一边是黄昏。割，分开。",
+   "en": "gē hūn xiǎo: the mountain is so tall it splits light from dark. One side seems to be in morning, the other in dusk. Gē means to cut apart."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "荡胸：心胸激荡，心情起伏。",
+   "en": "dàng xiōng: the heart is stirred and swells."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "曾云：一层又一层的云。曾，同“层”。",
+   "en": "céng yún: layer upon layer of cloud. Here céng means the same as the word for layer."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "决眦：睁大眼睛，眼角都要裂开了。眦，眼角。",
+   "en": "jué zì: eyes opened so wide the corners seem to split. Zì is the corner of the eye."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "入归鸟：看着回巢的鸟飞进山林，一直看到看不见。",
+   "en": "rù guī niǎo: watching birds fly home into the mountain until they vanish from sight."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "会当：一定要。",
+   "en": "huì dāng: shall surely, must one day."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "凌：登上。",
+   "en": "líng: to climb to the top of."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "绝顶：最高的山顶。",
+   "en": "jué dǐng: the very highest peak."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "一览：看一眼，全部看到。",
+   "en": "yī lǎn: to take in at one glance."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "众山小：别的山都显得很小。",
+   "en": "zhòng shān xiǎo: all other mountains look small."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "泰山是什么样子的呢？",
+   "en": "What is Mount Tai like?"
+  },
+  {
+   "zh": "从齐到鲁，青青的山色望不到头。",
+   "en": "Across the lands of Qi and Lu, its green goes on without end."
+  },
+  {
+   "zh": "大自然把神奇秀美都聚集在这里，",
+   "en": "Nature has gathered all its wonder and beauty here;"
+  },
+  {
+   "zh": "高高的山峰把山南山北分成了早晨和黄昏。",
+   "en": "its height cuts the south and north into dawn and dusk."
+  },
+  {
+   "zh": "层层白云升起，让我心胸激荡；",
+   "en": "Layers of cloud rise up, and my heart swells;"
+  },
+  {
+   "zh": "我睁大眼睛，望着归鸟飞进山林。",
+   "en": "I stretch my eyes to follow birds flying home."
+  },
+  {
+   "zh": "我一定要登上泰山的最高峰，",
+   "en": "One day I will stand on its highest peak"
+  },
+  {
+   "zh": "那时一眼望去，群山都会显得那么小。",
+   "en": "and see all other mountains small beneath me."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗是开元二十四年（736年）前后写的。那时杜甫二十多岁，在洛阳考进士没有考中，就到齐、赵一带（今山东、河北一带）漫游。他路过泰山，远远望着这座大山，写下了这首诗。这是杜甫留下的诗里比较早的一首。",
+  "en": "This poem is usually dated to about 736. Du Fu was in his twenties. He had failed the top civil exam in Luoyang, and then set off to travel through the lands of Qi and Zhao, today's Shandong and Hebei. Passing Mount Tai, he gazed at it from afar and wrote this poem. It is one of the earliest poems of his that survive."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），字子美，唐代大诗人，被人称为“诗圣”。写这首诗时他还年轻，对未来充满信心。后来他一生坎坷，经历了安史之乱，诗风变得沉重。这首诗让我们看到年轻杜甫的豪情。",
+  "en": "Du Fu (712–770), courtesy name Zimei, was a great Tang poet, often called the Sage of Poetry. When he wrote this poem he was young and full of hope. Later his life was hard. He lived through the An Lushan Rebellion, and his poems grew heavy. This poem shows us the bold spirit of the young Du Fu."
+ },
+ "appreciation": {
+  "zh": "诗题是“望岳”，全诗都在写“望”。先是远望：一开口就问泰山是什么样子，回答是青色的山影连着齐鲁两地，望不到头，一下子写出泰山有多大。再是近望：大自然把美都给了它，山高得把阳光都分成了两半。接着是细望：看着层层云气升起，看着归鸟飞入山林，眼睛都看累了。最后想象登上山顶，向下一看，群山都很小。这不只是写山，也写出了年轻人要攀上高峰的志气。",
+  "en": "The title is \"Gazing at Mount Tai\", and the whole poem is about looking. First he looks from far away. He asks what the mountain is like, and answers that its green stretches across two lands without end. At once we feel how big it is. Then he looks closer. Nature gave all its beauty to this mountain, and it is so tall it splits the sunlight in two. Then he looks hard: at clouds rising layer upon layer, at birds flying home, until his eyes ache. At last he imagines standing on the top and looking down, with every other mountain small. This is not only about a mountain. It is also a young man's wish to climb to the very top."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountain",
+   "ambition",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

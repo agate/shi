@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>浣溪沙·一曲新词酒一杯 · 晏殊 — 诗</title>
+    <meta name="description" content="浣溪沙·一曲新词酒一杯 · 晏殊 — Huan Xi Sha: A New Song, a Cup of Wine by Yan Shu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 18 · Song lyric · ci to the tune Huan Xi Sha (Washing Silk in the Stream)</span><span lang="zh">第 18 首 · 宋词 · 词·浣溪沙</span></p>
+        <h1>浣溪沙·一曲新词酒一杯</h1>
+        <p class="by">晏殊<span class="mono"><span lang="en">Yan Shu · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Huan Xi Sha: A New Song, a Cup of Wine</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>yī</i><b>一</b></span><span class="c gl rd" data-l="0" data-p="1"><i>qǔ</i><b>曲</b></span><span class="c gl" data-l="0" data-p="2"><i>xīn</i><b>新</b></span><span class="c gl" data-l="0" data-p="3"><i>cí</i><b>词</b></span><span class="c" data-l="0" data-p="4"><i>jiǔ</i><b>酒</b></span><span class="c" data-l="0" data-p="5"><i>yì</i><b>一</b></span><span class="c" data-l="0" data-p="6"><i>bēi</i><b>杯</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>qù</i><b>去</b></span><span class="c gl" data-l="1" data-p="1"><i>nián</i><b>年</b></span><span class="c gl" data-l="1" data-p="2"><i>tiān</i><b>天</b></span><span class="c gl" data-l="1" data-p="3"><i>qì</i><b>气</b></span><span class="c" data-l="1" data-p="4"><i>jiù</i><b>旧</b></span><span class="c gl" data-l="1" data-p="5"><i>tíng</i><b>亭</b></span><span class="c gl" data-l="1" data-p="6"><i>tái</i><b>台</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>xī</i><b>夕</b></span><span class="c" data-l="2" data-p="1"><i>yáng</i><b>阳</b></span><span class="c" data-l="2" data-p="2"><i>xī</i><b>西</b></span><span class="c" data-l="2" data-p="3"><i>xià</i><b>下</b></span><span class="c gl" data-l="2" data-p="4"><i>jǐ</i><b>几</b></span><span class="c gl" data-l="2" data-p="5"><i>shí</i><b>时</b></span><span class="c" data-l="2" data-p="6"><i>huí</i><b>回</b></span></p><p class="ln brk"><span class="c gl" data-l="3" data-p="0"><i>wú</i><b>无</b></span><span class="c gl" data-l="3" data-p="1"><i>kě</i><b>可</b></span><span class="c gl" data-l="3" data-p="2"><i>nài</i><b>奈</b></span><span class="c gl" data-l="3" data-p="3"><i>hé</i><b>何</b></span><span class="c" data-l="3" data-p="4"><i>huā</i><b>花</b></span><span class="c" data-l="3" data-p="5"><i>luò</i><b>落</b></span><span class="c" data-l="3" data-p="6"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>sì</i><b>似</b></span><span class="c gl" data-l="4" data-p="1"><i>céng</i><b>曾</b></span><span class="c gl" data-l="4" data-p="2"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="4" data-p="3"><i>shí</i><b>识</b></span><span class="c" data-l="4" data-p="4"><i>yàn</i><b>燕</b></span><span class="c" data-l="4" data-p="5"><i>guī</i><b>归</b></span><span class="c" data-l="4" data-p="6"><i>lái</i><b>来</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>xiǎo</i><b>小</b></span><span class="c" data-l="5" data-p="1"><i>yuán</i><b>园</b></span><span class="c gl" data-l="5" data-p="2"><i>xiāng</i><b>香</b></span><span class="c gl" data-l="5" data-p="3"><i>jìng</i><b>径</b></span><span class="c" data-l="5" data-p="4"><i>dú</i><b>独</b></span><span class="c gl" data-l="5" data-p="5"><i>pái</i><b>徘</b></span><span class="c gl" data-l="5" data-p="6"><i>huái</i><b>徊</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">一曲新词酒一杯</span><span lang="en">I listen to a newly written song and drink a cup of wine.</span><span lang="zh">听一首新填的词，喝一杯酒。</span></li><li><span class="o">去年天气旧亭台</span><span lang="en">The weather is just like last year&#x27;s, and the pavilion is the same old one.</span><span lang="zh">天气和去年一样，亭台也还是旧时的亭台。</span></li><li><span class="o">夕阳西下几时回</span><span lang="en">The setting sun sinks in the west. When will it come back?</span><span lang="zh">夕阳往西落下去了，什么时候才能再回来？</span></li><li class="brk"><span class="o">无可奈何花落去</span><span lang="en">The flowers are falling, and there is nothing anyone can do about it.</span><span lang="zh">花儿要凋落，谁也没有办法留住它。</span></li><li><span class="o">似曾相识燕归来</span><span lang="en">The swallows are flying back, and they look like old friends from before.</span><span lang="zh">燕子飞回来了，好像是去年见过的老相识。</span></li><li><span class="o">小园香径独徘徊</span><span lang="en">Alone, I walk back and forth on the flower-scented path in the little garden.</span><span lang="zh">我一个人在小花园里飘着花香的小路上走来走去。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>一曲新词<span class="mono">yī qǔ xīn cí</span></dt><dd><span lang="en">yī qǔ xīn cí: a newly written song. A ci is a set of words written to be sung to a tune.</span><span lang="zh">一曲新词：一首新填的词。词是配着曲子唱的歌词。</span></dd></div><div><dt>去年天气<span class="mono">qù nián tiān qì</span></dt><dd><span lang="en">qù nián tiān qì: weather just like last year&#x27;s.</span><span lang="zh">去年天气：和去年一样的天气。</span></dd></div><div><dt>亭台<span class="mono">tíng tái</span></dt><dd><span lang="en">tíng tái: pavilions and terraces, small buildings in a garden where people rest and enjoy the view.</span><span lang="zh">亭台：亭子和楼台，园子里供人休息、看风景的建筑。</span></dd></div><div><dt>几时<span class="mono">jǐ shí</span></dt><dd><span lang="en">jǐ shí: when.</span><span lang="zh">几时：什么时候。</span></dd></div><div><dt>无可奈何<span class="mono">wú kě nài hé</span></dt><dd><span lang="en">wú kě nài hé: there is nothing one can do.</span><span lang="zh">无可奈何：没有办法。</span></dd></div><div><dt>似曾相识<span class="mono">sì céng xiāng shí</span></dt><dd><span lang="en">sì céng xiāng shí: as if we had met before.</span><span lang="zh">似曾相识：好像曾经认识。</span></dd></div><div><dt>香径<span class="mono">xiāng jìng</span></dt><dd><span lang="en">xiāng jìng: a path filled with the smell of flowers, or covered with fallen petals.</span><span lang="zh">香径：飘着花香的小路，也指落满花瓣的小路。</span></dd></div><div><dt>徘徊<span class="mono">pái huái</span></dt><dd><span lang="en">pái huái: to walk back and forth.</span><span lang="zh">徘徊：来回地走。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>曲<span class="mono">qǔ</span></dt><dd><span lang="en">Here qǔ means a song, so it is read qǔ, not qū (bent).</span><span lang="zh">曲在这里是“歌曲”的意思，读 qǔ，不读 qū。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This ci is about feelings in late spring. We do not know exactly when or where it was written. The poet sits in a small garden, drinking wine and listening to a new song. Everything looks the same as last year, but time has moved on, and a light sadness rises in his heart. Yan Shu liked the couplet about the falling flowers and the returning swallows so much that he also used it in one of his regular poems, &quot;Shown to Assistant Zhang and Editor Wang&quot;.</p><p lang="zh">这首词写的是暮春时节的感受。写作的具体时间和地点不清楚。词人在小园里一边喝酒一边听新词，觉得景物和去年一样，可时间已经过去，心里生出淡淡的伤感。词中“无可奈何花落去，似曾相识燕归来”两句，晏殊很喜欢，他在一首七言律诗《示张寺丞王校勘》里也用过这一联。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Shu (991–1055) was a Northern Song ci poet. As a boy he was a famous child genius, and later he became a prime minister. His ci use clear, graceful words and quiet feelings. He often wrote about the gentle sadness of time passing and flowers blooming and falling. He and his son Yan Jidao were both ci poets, known as the Elder Yan and the Younger Yan.</p><p lang="zh">晏殊（991—1055），北宋词人，从小就是有名的神童，后来做到宰相。他的词语言清丽，感情含蓄，常写时光流逝、花开花落带来的淡淡忧愁。他和儿子晏几道都是词人，被称为“大晏”“小晏”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half starts with what is in front of him: a song, a cup of wine, the same weather and the same pavilion as last year. But the sun is setting, a day is over, and time never comes back. The second half holds the most famous lines. The falling flowers cannot be kept, which is a loss. The swallows come back like old friends, which is a small comfort. Putting loss and return side by side makes us feel how time takes things away, and also that life still has warmth. At the end the poet walks alone along the garden path. He does not say what he is thinking, but readers can feel his quiet sadness.</p><p lang="zh">上片从眼前写起：一首歌，一杯酒，天气和亭台都和去年一样。可是夕阳落下，一天就过去了，时间一去不回。下片是全词最有名的两句：花落是留不住的，这是失去；燕子回来了，好像老朋友，这又是一点安慰。失去和回来放在一起，让人感到时间的无情，也感到生活里还有温暖。最后，词人一个人在花园小路上慢慢走着，没有说出心事，可那份淡淡的惆怅，读者都能感受到。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/sumuzhe-biyuntian/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>苏幕遮·碧云天</b></a><a href="../../p/dielianhua-zhuyiweiloufengxixi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>蝶恋花·伫倚危楼风细细</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["一", "yī"], ["曲", "qǔ"], ["新", "xīn"], ["词", "cí"], ["酒", "jiǔ"], ["一", "yì"], ["杯", "bēi"]], [["去", "qù"], ["年", "nián"], ["天", "tiān"], ["气", "qì"], ["旧", "jiù"], ["亭", "tíng"], ["台", "tái"]], [["夕", "xī"], ["阳", "yáng"], ["西", "xī"], ["下", "xià"], ["几", "jǐ"], ["时", "shí"], ["回", "huí"]], [["无", "wú"], ["可", "kě"], ["奈", "nài"], ["何", "hé"], ["花", "huā"], ["落", "luò"], ["去", "qù"]], [["似", "sì"], ["曾", "céng"], ["相", "xiāng"], ["识", "shí"], ["燕", "yàn"], ["归", "guī"], ["来", "lái"]], [["小", "xiǎo"], ["园", "yuán"], ["香", "xiāng"], ["径", "jìng"], ["独", "dú"], ["徘", "pái"], ["徊", "huái"]]], "glosses": [{"line": 0, "start": 0, "end": 4, "zh": "一曲新词：一首新填的词。词是配着曲子唱的歌词。", "en": "yī qǔ xīn cí: a newly written song. A ci is a set of words written to be sung to a tune."}, {"line": 1, "start": 0, "end": 4, "zh": "去年天气：和去年一样的天气。", "en": "qù nián tiān qì: weather just like last year's."}, {"line": 1, "start": 5, "end": 7, "zh": "亭台：亭子和楼台，园子里供人休息、看风景的建筑。", "en": "tíng tái: pavilions and terraces, small buildings in a garden where people rest and enjoy the view."}, {"line": 2, "start": 4, "end": 6, "zh": "几时：什么时候。", "en": "jǐ shí: when."}, {"line": 3, "start": 0, "end": 4, "zh": "无可奈何：没有办法。", "en": "wú kě nài hé: there is nothing one can do."}, {"line": 4, "start": 0, "end": 4, "zh": "似曾相识：好像曾经认识。", "en": "sì céng xiāng shí: as if we had met before."}, {"line": 5, "start": 2, "end": 4, "zh": "香径：飘着花香的小路，也指落满花瓣的小路。", "en": "xiāng jìng: a path filled with the smell of flowers, or covered with fallen petals."}, {"line": 5, "start": 5, "end": 7, "zh": "徘徊：来回地走。", "en": "pái huái: to walk back and forth."}], "readings": [{"line": 0, "pos": 1, "char": "曲", "pinyin": "qǔ", "zh": "曲在这里是“歌曲”的意思，读 qǔ，不读 qū。", "en": "Here qǔ means a song, so it is read qǔ, not qū (bent)."}], "speak": ["一龋新词酒义杯", "去年天气旧亭台", "夕阳西下几时回", "无可奈何花落去", "似曾相识燕归来", "小园香径独徘徊"], "speakTitle": "浣溪沙，一曲新词酒一杯。晏殊。", "sample": "一曲新词酒一杯"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

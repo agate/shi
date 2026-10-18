@@ -1,0 +1,794 @@
+{
+ "id": "ci-6eb9ee5fc0cd",
+ "kind": "ci",
+ "title": "西河·金陵怀古",
+ "title_en": "To the Tune Xi He: Thinking of the Past at Jinling",
+ "author": "周邦彦",
+ "author_en": "Zhou Bangyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·三叠长调",
+  "en": "ci, long lyric in three stanzas"
+ },
+ "lines": [
+  [
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "丽",
+    "lì"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "盛",
+    "shèng"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "记",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "围",
+    "wéi"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ]
+  ],
+  [
+   [
+    "髻",
+    "jì"
+   ],
+   [
+    "鬟",
+    "huán"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "怒",
+    "nù"
+   ],
+   [
+    "涛",
+    "tāo"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "打",
+    "dǎ"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "樯",
+    "qiáng"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "际",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "崖",
+    "yá"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "倒",
+    "dào"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "艇",
+    "tǐng"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "系",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "迹",
+    "jì"
+   ],
+   [
+    "郁",
+    "yù"
+   ],
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "苍",
+    "cāng"
+   ]
+  ],
+  [
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "垒",
+    "lěi"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "墙",
+    "qiáng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "戏",
+    "xì"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "市",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "稀",
+    "xī"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zi"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "世",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "巷",
+    "xiàng"
+   ],
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "兴",
+    "xīng"
+   ],
+   [
+    "亡",
+    "wáng"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6,
+  13
+ ],
+ "text_note": {
+  "zh": "语料作“赏心东望淮水”，通行选本多作“伤心东望淮水”。“赏心”可以理解为金陵的赏心亭，“伤心”是伤感的心情，两种文字都有版本依据。语料的“空馀”“雾沈”，通行本写作“空余”“雾沉”。",
+  "en": "The corpus has shǎng xīn (Shangxin Pavilion, a pavilion in Jinling) in line thirteen; most popular anthologies have shāng xīn (heartbroken). Both readings have support in old editions. The corpus also writes yú and chén with older character forms; standard texts use the simple ones."
+ },
+ "readings": [
+  {
+   "line": 8,
+   "pos": 5,
+   "char": "系",
+   "pinyin": "xì",
+   "zh": "“系”在这里是“拴（船）”，读 xì；“系鞋带”那种打结的意思才读 jì。",
+   "en": "Here this character means to tie up a boat, read xì. It is read jì only when it means to tie a knot, like shoelaces."
+  },
+  {
+   "line": 13,
+   "pos": 4,
+   "char": "甚",
+   "pinyin": "shèn",
+   "zh": "“甚处”就是“什么地方”，“甚”读 shèn。",
+   "en": "Shèn chù means what place, where; this character is read shèn."
+  },
+  {
+   "line": 13,
+   "pos": 5,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“处”是名词“地方”，读 chù。",
+   "en": "Here this character is a noun, a place, read chù."
+  },
+  {
+   "line": 15,
+   "pos": 1,
+   "char": "子",
+   "pinyin": "zi",
+   "zh": "“燕子”的“子”读轻声 zi。",
+   "en": "In yàn zi (swallow), this character is read in the neutral tone, zi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "佳丽地：美好的地方，指金陵（今江苏南京）。南朝诗人谢朓有“江南佳丽地，金陵帝王州”的诗句。",
+   "en": "jiā lì dì: a lovely place, meaning Jinling, today's Nanjing. The poet Xie Tiao wrote that Jinling was the lovely land of the south, the home of emperors."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "南朝：宋、齐、梁、陈四个朝代，都把首都设在金陵。",
+   "en": "nán cháo: the Southern Dynasties, Song, Qi, Liang and Chen, which all had their capital at Jinling."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "盛事：繁华热闹的往事。",
+   "en": "shèng shì: the grand, bustling days of the past."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 7,
+   "zh": "山围故国绕清江：群山围着古老的都城，清清的长江绕城流过。化用刘禹锡《石头城》“山围故国周遭在”。故国，旧都城。",
+   "en": "shān wéi gù guó rào qīng jiāng: hills circle the old capital, and the clear Yangtze winds around it. It echoes Liu Yuxi's poem \"Stone City\". Gù guó means the old capital."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "髻鬟对起：两岸的山对面立着，像女子高高盘起的发髻。",
+   "en": "jì huán duì qǐ: hills face each other across the river like a woman's piled-up hair buns."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 7,
+   "zh": "怒涛寂寞打孤城：江潮冷冷清清地拍打着孤零零的城墙。也化用刘禹锡“潮打空城寂寞回”。",
+   "en": "nù tāo jì mò dǎ gū chéng: the angry tide beats lonely against the lonely city. It also echoes Liu Yuxi."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "风樯：挂着帆的船。樯，桅杆。",
+   "en": "fēng qiáng: ships under sail. Qiáng is a mast."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "遥度天际：从遥远的天边驶过。",
+   "en": "yáo dù tiān jì: sail past far away, at the edge of the sky."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "断崖：陡峭的山崖。",
+   "en": "duàn yá: a steep cliff."
+  },
+  {
+   "line": 7,
+   "start": 1,
+   "end": 3,
+   "zh": "倒倚：倒挂着、斜靠着。",
+   "en": "dào yǐ: hanging upside down, leaning out."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "莫愁：古代传说中住在金陵石城的女子。古乐府里唱：“艇子打两桨，催送莫愁来。”",
+   "en": "Mòchóu: a girl of old legend who lived at Stone City in Jinling. An old folk song sings of a little boat rowing to bring Mochou over."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "艇子：小船。",
+   "en": "tǐng zǐ: a small boat."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "空余：只剩下。",
+   "en": "kōng yú: only left behind."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "郁苍苍：草木茂盛、一片青绿的样子。",
+   "en": "yù cāng cāng: thick and green with plants."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "雾沉半垒：浓雾埋住了一半营垒。垒，古代打仗时的营垒、城堡。",
+   "en": "wù chén bàn lěi: thick fog buries half of the old fort. Lěi is an old military wall or fort."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 6,
+   "zh": "女墙：城墙上面高低起伏的矮墙。化用刘禹锡“淮水东边旧时月，夜深还过女墙来”。",
+   "en": "nǚ qiáng: the low notched wall along the top of a city wall. This echoes another line by Liu Yuxi about the old moon rising over it late at night."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 6,
+   "zh": "淮水：秦淮河，流过南京城。",
+   "en": "huái shuǐ: the Qinhuai River, which flows through Nanjing."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "酒旗戏鼓：酒店门口挂的旗子，戏台上敲的鼓，指热闹的街市。",
+   "en": "jiǔ qí xì gǔ: tavern flags and theatre drums, signs of a lively market."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 7,
+   "zh": "甚处市：哪里是从前的街市？甚处，什么地方。",
+   "en": "shèn chù shì: where was the old market? Shèn chù means where."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "依稀：模模糊糊，好像。",
+   "en": "yī xī: dimly, as if."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 5,
+   "zh": "王谢：东晋两大贵族王家和谢家，王导、谢安是其中最有名的人。他们住在乌衣巷。",
+   "en": "Wáng Xiè: the Wang and Xie, the two greatest noble families of the Eastern Jin, whose most famous members were Wang Dao and Xie An. They lived in Wuyi Lane."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 6,
+   "zh": "不知何世：不知道现在是什么时代。",
+   "en": "bù zhī hé shì: not knowing what age it is now."
+  },
+  {
+   "line": 16,
+   "start": 1,
+   "end": 7,
+   "zh": "寻常巷陌人家：普通小巷里的百姓家。化用刘禹锡《乌衣巷》“旧时王谢堂前燕，飞入寻常百姓家”。",
+   "en": "xún cháng xiàng mò rén jiā: ordinary homes in ordinary lanes. It echoes Liu Yuxi's \"Wuyi Lane\", where the swallows of the Wang and Xie halls now fly into common people's homes."
+  },
+  {
+   "line": 17,
+   "start": 4,
+   "end": 6,
+   "zh": "兴亡：兴盛和灭亡，指朝代的更替。",
+   "en": "xīng wáng: rise and fall, the coming and going of dynasties."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "这里是江南美丽的地方，",
+   "en": "This is the lovely land of the south;"
+  },
+  {
+   "zh": "南朝那些繁华的往事，现在还有谁记得？",
+   "en": "who still remembers the grand days of the Southern Dynasties?"
+  },
+  {
+   "zh": "群山围着古老的都城，清清的江水绕城流过，",
+   "en": "Hills circle the old capital and the clear river winds around it;"
+  },
+  {
+   "zh": "两岸的山相对而立，像女子的发髻。",
+   "en": "the hills face each other across the water like a woman's hair buns."
+  },
+  {
+   "zh": "江潮冷冷清清地拍打着孤城，",
+   "en": "The angry tide beats lonely on the lonely city,"
+  },
+  {
+   "zh": "挂着帆的船从遥远的天边驶过。",
+   "en": "and sailing ships pass far off at the edge of the sky."
+  },
+  {
+   "zh": "陡峭山崖上的树，",
+   "en": "The trees on the steep cliff"
+  },
+  {
+   "zh": "还倒挂斜靠在那里，",
+   "en": "still lean out, hanging down,"
+  },
+  {
+   "zh": "莫愁姑娘的小船曾经拴在这里。",
+   "en": "where Mochou's little boat was once tied."
+  },
+  {
+   "zh": "只剩下旧日的遗迹，一片青绿，",
+   "en": "Only old ruins are left, thick with green,"
+  },
+  {
+   "zh": "浓雾埋住了半座营垒。",
+   "en": "and fog buries half the old fort."
+  },
+  {
+   "zh": "夜深了，月亮越过城头的矮墙照过来，",
+   "en": "Late at night the moon comes over the city's low parapet;"
+  },
+  {
+   "zh": "我伤心地向东望着秦淮河。",
+   "en": "heartbroken, I gaze east at the Qinhuai River."
+  },
+  {
+   "zh": "从前酒旗飘飘、鼓声热闹的街市在哪里呢？",
+   "en": "Where was the market of tavern flags and theatre drums?"
+  },
+  {
+   "zh": "好像模模糊糊就是王家、谢家住过的地方。",
+   "en": "Dimly, it seems, here was where the Wang and Xie families lived."
+  },
+  {
+   "zh": "燕子不知道现在已经是什么时代，",
+   "en": "The swallows do not know what age it is;"
+  },
+  {
+   "zh": "飞进普通小巷里的百姓家，",
+   "en": "they fly into the homes of ordinary lanes"
+  },
+  {
+   "zh": "相对呢喃，好像在说着朝代的兴亡，",
+   "en": "and chatter face to face, as if telling of rise and fall,"
+  },
+  {
+   "zh": "在夕阳里。",
+   "en": "in the setting sun."
+  }
+ ],
+ "background": {
+  "zh": "金陵就是今天的南京，三国的吴、东晋，以及南朝的宋、齐、梁、陈都在这里建都，所以叫“六朝古都”。这些朝代都很繁华，却一个接一个灭亡了。周邦彦来到金陵，看到山川依旧、繁华不再，写下这首怀古词。具体写于哪一年，已经不能确定。词里很多句子化用了唐代刘禹锡写金陵的诗和古乐府《莫愁乐》。",
+  "en": "Jinling is today's Nanjing. The Wu of the Three Kingdoms, the Eastern Jin, and the Song, Qi, Liang and Chen of the Southern Dynasties all had their capital here, so it is called the old capital of six dynasties. Each was rich and splendid, and each fell in turn. Visiting Jinling, Zhou Bangyan saw the hills and river unchanged and the splendour gone, and wrote this lyric about the past. The exact year is not known. Many lines rework Tang poet Liu Yuxi's poems about Jinling and an old folk song about Mochou."
+ },
+ "author_note": {
+  "zh": "周邦彦（1056—1121），字美成，号清真居士，北宋词人。他精通音乐，曾在朝廷管理音乐的机构大晟府任职，创作和整理了很多词调。他的词讲究格律，字句精美，很会把前人的诗句化进自己的词里，这首《西河》就是例子。",
+  "en": "Zhou Bangyan (1056–1121), courtesy name Meicheng, was a Northern Song lyric poet. He was a master of music and worked at the court's music office, Dasheng Fu, where he wrote and arranged many tunes. His lyrics follow strict rules of sound, are finely worded, and are skilled at weaving older poets' lines into new ones, as this lyric shows."
+ },
+ "appreciation": {
+  "zh": "这首词分三段，像一个人在金陵从白天走到黄昏。第一段远看：群山像女子的发髻，围着古城；江潮拍打着孤城，帆船远远驶过。一开头就问：南朝的繁华，还有谁记得？第二段近看：崖上的老树还在，莫愁的小船却早就不见，只剩青草和浓雾中的半座营垒。夜里月亮照着城墙，诗人伤心地望着秦淮河。第三段想象：从前热闹的街市在哪里？王家、谢家的大宅在哪里？只有燕子不懂朝代变了，照样飞进普通人家，在夕阳里叽叽喳喳，好像在讲兴亡的故事。最后一句“斜阳里”只有三个字，却让整首词停在一片苍凉的余晖中。",
+  "en": "This lyric has three parts, like a walk through Jinling from day into dusk. Part one looks far: the hills, like a woman's hair buns, circle the old city; the tide beats on its lonely walls; sails pass in the distance. And at once a question: who still remembers the splendour of the Southern Dynasties? Part two looks close: the old trees on the cliff are still there, but Mochou's little boat is long gone. Only grass and half a fort in the fog are left. At night the moon shines on the city wall, and the poet looks sadly at the Qinhuai River. Part three imagines: where is the busy old market? Where are the great houses of the Wang and Xie? Only the swallows do not know the times have changed. They still fly into ordinary homes and chatter in the setting sun, as if telling the story of rise and fall. The last line, just three characters, \"in the setting sun\", leaves the whole lyric resting in a sad, fading light."
+ },
+ "famous_lines": [
+  15,
+  16,
+  17,
+  18
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "nanjing",
+   "nostalgia",
+   "ruins",
+   "swallows"
+  ]
+ },
+ "uncertain": []
+}

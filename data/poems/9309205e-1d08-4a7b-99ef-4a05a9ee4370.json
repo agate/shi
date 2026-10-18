@@ -1,0 +1,392 @@
+{
+ "id": "9309205e-1d08-4a7b-99ef-4a05a9ee4370",
+ "kind": "shi",
+ "title": "过故人庄",
+ "title_en": "Visiting an Old Friend's Farm",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "具",
+    "jù"
+   ],
+   [
+    "鸡",
+    "jī"
+   ],
+   [
+    "黍",
+    "shǔ"
+   ]
+  ],
+  [
+   [
+    "邀",
+    "yāo"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "合",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "郭",
+    "guō"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "轩",
+    "xuān"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "场",
+    "cháng"
+   ],
+   [
+    "圃",
+    "pǔ"
+   ]
+  ],
+  [
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "话",
+    "huà"
+   ],
+   [
+    "桑",
+    "sāng"
+   ],
+   [
+    "麻",
+    "má"
+   ]
+  ],
+  [
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "就",
+    "jiù"
+   ],
+   [
+    "菊",
+    "jú"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料本第五句作“开筵面场圃”。课本作“开轩面场圃”，意思是打开窗户。",
+  "en": "The corpus text has kāi yán, to lay out a feast, in line five. Textbooks have kāi xuān, to open the window."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "“斜”现在读 xié。古音和“家、麻、花”押韵，有人按古音读 xiá。",
+   "en": "This character is read xié today. In old pronunciation it rhymed with the other line endings, so some read it xiá."
+  },
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "场",
+   "pinyin": "cháng",
+   "zh": "“场圃”的“场”指平坦的空地，用来晒粮食、打谷子，读 cháng。",
+   "en": "In cháng pǔ, the character means a flat open ground for drying and threshing grain, read cháng."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还”在这里是“再、又”的意思，一般读 huán，也有人读 hái。",
+   "en": "Here this character means again. It is usually read huán; some read it hái."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: an old friend."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "具：准备，置办。",
+   "en": "jù: to prepare."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "鸡黍：鸡和黄米饭，指农家待客的好饭菜。黍，黄米。",
+   "en": "jī shǔ: chicken and millet, a good farm meal for guests. Shǔ is yellow millet."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "田家：种田人的家，农家。",
+   "en": "tián jiā: a farming family's home."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "合：环绕。绿树把村子围了起来。",
+   "en": "hé: to surround. Green trees ring the village."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "郭：外城。古代城墙分内外两层，外面的一层叫郭。这里指村子外面。",
+   "en": "guō: the outer wall. Old towns had an inner and an outer wall; the outer one was the guō. Here it means outside the village."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "斜：青山斜斜地横在那里，连绵起伏。",
+   "en": "xié: the green hills slope away along the edge."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "开轩：打开窗户。轩，窗户。",
+   "en": "kāi xuān: to open the window. Xuān is a window."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 3,
+   "zh": "面：面对着。",
+   "en": "miàn: to face."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "场圃：打谷场和菜园。",
+   "en": "cháng pǔ: the threshing floor and the vegetable garden."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "把酒：端起酒杯。把，拿着。",
+   "en": "bǎ jiǔ: to hold up one's wine cup."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "话桑麻：聊种桑养蚕、种麻这些农家事。",
+   "en": "huà sāng má: to chat about mulberry trees and hemp, that is, about farm work."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "重阳日：农历九月初九，重阳节，古人这天登高、赏菊。",
+   "en": "chóng yáng rì: the Double Ninth Festival, the ninth day of the ninth lunar month, when people climb hills and enjoy chrysanthemums."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "还：再，又。",
+   "en": "huán: again."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "就菊花：靠近菊花，指来赏菊。就，靠近。",
+   "en": "jiù jú huā: to come close to the chrysanthemums, that is, to enjoy them. Jiù means to go near."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "老朋友准备了鸡肉和黄米饭，",
+   "en": "My old friend made chicken and millet"
+  },
+  {
+   "zh": "请我到他的农家去做客。",
+   "en": "and asked me to his farmhouse."
+  },
+  {
+   "zh": "绿树环绕着村庄，",
+   "en": "Green trees ring the village;"
+  },
+  {
+   "zh": "青山在村外连绵起伏。",
+   "en": "green hills slope away beyond its walls."
+  },
+  {
+   "zh": "打开窗子，对着打谷场和菜园，",
+   "en": "We open the window to the threshing floor and garden,"
+  },
+  {
+   "zh": "我们端着酒杯，聊着种桑种麻的事。",
+   "en": "and with cups in hand we talk of mulberry and hemp."
+  },
+  {
+   "zh": "等到九月初九重阳节那天，",
+   "en": "When the Double Ninth Festival comes,"
+  },
+  {
+   "zh": "我还要再来这里赏菊花。",
+   "en": "I will come again to see the chrysanthemums."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然大半生住在家乡襄阳（今湖北襄阳），曾在城外的鹿门山隐居。一位住在乡下的老朋友准备了饭菜，请他去农庄做客。他去了，和朋友吃饭、喝酒、聊农事，非常开心，就写下了这首诗。题目里的“过”是拜访的意思，“庄”是农庄。具体是哪一年写的，已经不清楚了。",
+  "en": "Meng Haoran spent most of his life in his hometown, Xiangyang in today's Hubei. For a time he lived quietly on Lumen Mountain outside the city. An old friend in the countryside cooked a meal and invited him to his farm. He went, ate, drank and talked about farming with his friend, and was very happy. Then he wrote this poem. In the title, guò means to visit and zhuāng means a farm. We do not know the year."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），襄阳人，唐代诗人。他一生没有做过官，大部分时间在家乡隐居和四处游历。他擅长写山水田园诗，和王维并称“王孟”。他的诗平淡自然，像在聊家常，这首就是代表。",
+  "en": "Meng Haoran (689–740), from Xiangyang, was a Tang poet. He never held office. He spent most of his life living quietly at home or traveling. He wrote about hills, rivers and farms, and he is named together with Wang Wei as the two masters of this kind of poem. His poems are plain and natural, like friendly talk, and this one is a fine example."
+ },
+ "appreciation": {
+  "zh": "这首诗像一篇做客日记。老朋友请吃饭，菜是普通的鸡和米饭，却很有心意。走到村口，绿树围着村子，远处是青山，环境多么好。进了屋，打开窗子就是打谷场和菜园，两个人一边喝酒，一边聊庄稼长得怎么样，没有客套，也不谈官场的事。最后诗人主动说，重阳节我还要来看菊花。不用说“我很开心”，读者也能感觉到这份朋友之间淳朴的情谊。",
+  "en": "This poem is like a diary of a visit. An old friend invites him to a meal. It is only chicken and rice, but it is made with care. At the edge of the village, green trees ring the houses, and green hills lie beyond. What a lovely place. Inside, the window opens onto the threshing floor and the garden. The two drink and talk about how the crops are growing. There are no polite speeches, and no talk of officials. At the end the poet himself says he will come back at the Double Ninth Festival to see the chrysanthemums. He never says he is happy, yet we can feel the simple, warm friendship between them."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "countryside",
+   "chrysanthemum"
+  ]
+ },
+ "uncertain": []
+}

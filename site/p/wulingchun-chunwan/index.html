@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>武陵春·春晚 · 李清照 — 诗</title>
+    <meta name="description" content="武陵春·春晚 · 李清照 — Spring at Wuling: Late Spring by Li Qingzhao: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 39 · Song lyric · ci (song lyric) in two stanzas</span><span lang="zh">第 39 首 · 宋词 · 词（双调）</span></p>
+        <h1>武陵春·春晚</h1>
+        <p class="by">李清照<span class="mono"><span lang="en">Li Qingzhao · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Spring at Wuling: Late Spring</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>fēng</i><b>风</b></span><span class="c gl" data-l="0" data-p="1"><i>zhù</i><b>住</b></span><span class="c gl" data-l="0" data-p="2"><i>chén</i><b>尘</b></span><span class="c gl" data-l="0" data-p="3"><i>xiāng</i><b>香</b></span><span class="c gl" data-l="0" data-p="4"><i>huā</i><b>花</b></span><span class="c gl" data-l="0" data-p="5"><i>yǐ</i><b>已</b></span><span class="c gl" data-l="0" data-p="6"><i>jìn</i><b>尽</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>rì</i><b>日</b></span><span class="c gl" data-l="1" data-p="1"><i>wǎn</i><b>晚</b></span><span class="c gl" data-l="1" data-p="2"><i>juàn</i><b>倦</b></span><span class="c gl" data-l="1" data-p="3"><i>shū</i><b>梳</b></span><span class="c gl" data-l="1" data-p="4"><i>tóu</i><b>头</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>wù</i><b>物</b></span><span class="c gl" data-l="2" data-p="1"><i>shì</i><b>是</b></span><span class="c gl" data-l="2" data-p="2"><i>rén</i><b>人</b></span><span class="c gl" data-l="2" data-p="3"><i>fēi</i><b>非</b></span><span class="c gl" data-l="2" data-p="4"><i>shì</i><b>事</b></span><span class="c gl" data-l="2" data-p="5"><i>shì</i><b>事</b></span><span class="c gl" data-l="2" data-p="6"><i>xiū</i><b>休</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>yù</i><b>欲</b></span><span class="c gl" data-l="3" data-p="1"><i>yǔ</i><b>语</b></span><span class="c" data-l="3" data-p="2"><i>lèi</i><b>泪</b></span><span class="c" data-l="3" data-p="3"><i>xiān</i><b>先</b></span><span class="c" data-l="3" data-p="4"><i>liú</i><b>流</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>wén</i><b>闻</b></span><span class="c gl" data-l="4" data-p="1"><i>shuō</i><b>说</b></span><span class="c gl" data-l="4" data-p="2"><i>shuāng</i><b>双</b></span><span class="c gl" data-l="4" data-p="3"><i>xī</i><b>溪</b></span><span class="c" data-l="4" data-p="4"><i>chūn</i><b>春</b></span><span class="c gl" data-l="4" data-p="5"><i>shàng</i><b>尚</b></span><span class="c gl" data-l="4" data-p="6"><i>hǎo</i><b>好</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>yě</i><b>也</b></span><span class="c gl" data-l="5" data-p="1"><i>nǐ</i><b>拟</b></span><span class="c gl" data-l="5" data-p="2"><i>fàn</i><b>泛</b></span><span class="c gl" data-l="5" data-p="3"><i>qīng</i><b>轻</b></span><span class="c gl" data-l="5" data-p="4"><i>zhōu</i><b>舟</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>zhǐ</i><b>只</b></span><span class="c gl" data-l="6" data-p="1"><i>kǒng</i><b>恐</b></span><span class="c" data-l="6" data-p="2"><i>shuāng</i><b>双</b></span><span class="c" data-l="6" data-p="3"><i>xī</i><b>溪</b></span><span class="c gl" data-l="6" data-p="4"><i>zé</i><b>舴</b></span><span class="c gl" data-l="6" data-p="5"><i>měng</i><b>艋</b></span><span class="c gl" data-l="6" data-p="6"><i>zhōu</i><b>舟</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>zài</i><b>载</b></span><span class="c" data-l="7" data-p="1"><i>bú</i><b>不</b></span><span class="c" data-l="7" data-p="2"><i>dòng</i><b>动</b></span><span class="c gl" data-l="7" data-p="3"><i>xǔ</i><b>许</b></span><span class="c gl" data-l="7" data-p="4"><i>duō</i><b>多</b></span><span class="c gl" data-l="7" data-p="5"><i>chóu</i><b>愁</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">风住尘香花已尽</span><span lang="en">The wind has stopped; the dust is sweet with fallen petals, and the flowers are all gone.</span><span lang="zh">风停了，落花化成了带着香气的尘土，花已经落光了，</span></li><li><span class="o">日晚倦梳头</span><span lang="en">The day is late, and I am too weary to comb my hair.</span><span lang="zh">天已经不早了，我还懒得梳头。</span></li><li><span class="o">物是人非事事休</span><span lang="en">Things remain, but he is gone, and everything is over.</span><span lang="zh">东西还在，人却不在了，一切都完了，</span></li><li><span class="o">欲语泪先流</span><span lang="en">I want to speak, but tears flow first.</span><span lang="zh">想要说话，眼泪先流了下来。</span></li><li class="brk"><span class="o">闻说双溪春尚好</span><span lang="en">I hear that spring is still lovely at the Twin Streams,</span><span lang="zh">听说双溪的春光还很美，</span></li><li><span class="o">也拟泛轻舟</span><span lang="en">and I think I too might go out in a light boat.</span><span lang="zh">我也打算坐小船去游一游。</span></li><li><span class="o">只恐双溪舴艋舟</span><span lang="en">But I fear the tiny grasshopper boats of the Twin Streams</span><span lang="zh">只怕双溪那小小的船，</span></li><li><span class="o">载不动许多愁</span><span lang="en">could not carry so much sorrow.</span><span lang="zh">载不动我这么多的愁。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>风住<span class="mono">fēng zhù</span></dt><dd><span lang="en">fēng zhù: the wind has stopped.</span><span lang="zh">风住：风停了。</span></dd></div><div><dt>尘香<span class="mono">chén xiāng</span></dt><dd><span lang="en">chén xiāng: fallen petals have sunk into the dust, so even the dust smells of flowers.</span><span lang="zh">尘香：落花掉在泥土里，连尘土都带着花香。</span></dd></div><div><dt>花已尽<span class="mono">huā yǐ jìn</span></dt><dd><span lang="en">huā yǐ jìn: the flowers have all fallen.</span><span lang="zh">花已尽：花已经落光了。</span></dd></div><div><dt>日晚<span class="mono">rì wǎn</span></dt><dd><span lang="en">rì wǎn: the day is already late.</span><span lang="zh">日晚：太阳已经很高了，天不早了。</span></dd></div><div><dt>倦梳头<span class="mono">juàn shū tóu</span></dt><dd><span lang="en">juàn shū tóu: too weary to comb her hair. Juàn means having no heart to do something.</span><span lang="zh">倦梳头：懒得梳头。倦，没有心思、懒得做。</span></dd></div><div><dt>物是人非<span class="mono">wù shì rén fēi</span></dt><dd><span lang="en">wù shì rén fēi: things are as they were, but the people are not. Here it means her husband has died.</span><span lang="zh">物是人非：东西还是原来的东西，人却已经不是从前的人了。这里指丈夫已经去世。</span></dd></div><div><dt>事事休<span class="mono">shì shì xiū</span></dt><dd><span lang="en">shì shì xiū: everything is over. Xiū means to stop, to end.</span><span lang="zh">事事休：一切都完了。休，停止、结束。</span></dd></div><div><dt>欲语<span class="mono">yù yǔ</span></dt><dd><span lang="en">yù yǔ: wanting to speak.</span><span lang="zh">欲语：想要说话。</span></dd></div><div><dt>闻说<span class="mono">wén shuō</span></dt><dd><span lang="en">wén shuō: I hear that.</span><span lang="zh">闻说：听说。</span></dd></div><div><dt>双溪<span class="mono">shuāng xī</span></dt><dd><span lang="en">Shuangxi: Twin Streams, a river in today&#x27;s Jinhua, Zhejiang, a popular place for outings then.</span><span lang="zh">双溪：水名，在今浙江金华，是当时游玩的好地方。</span></dd></div><div><dt>尚好<span class="mono">shàng hǎo</span></dt><dd><span lang="en">shàng hǎo: still lovely. Shàng means still.</span><span lang="zh">尚好：还很好。尚，还。</span></dd></div><div><dt>拟<span class="mono">nǐ</span></dt><dd><span lang="en">nǐ: to plan to.</span><span lang="zh">拟：打算。</span></dd></div><div><dt>泛轻舟<span class="mono">fàn qīng zhōu</span></dt><dd><span lang="en">fàn qīng zhōu: to go out on the water in a light boat.</span><span lang="zh">泛轻舟：坐着小船在水上游玩。</span></dd></div><div><dt>只恐<span class="mono">zhǐ kǒng</span></dt><dd><span lang="en">zhǐ kǒng: I only fear.</span><span lang="zh">只恐：只怕。</span></dd></div><div><dt>舴艋舟<span class="mono">zé měng zhōu</span></dt><dd><span lang="en">zé měng zhōu: a tiny boat with pointed ends, shaped like a grasshopper.</span><span lang="zh">舴艋舟：两头尖尖、像蚱蜢一样的小船。</span></dd></div><div><dt>许多愁<span class="mono">xǔ duō chóu</span></dt><dd><span lang="en">xǔ duō chóu: so much sorrow.</span><span lang="zh">许多愁：这么多的愁。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Li Qingzhao wrote this in late spring of 1135, when she was in her fifties and living in Jinhua, in today&#x27;s Zhejiang. A few years before, the Jin army had taken the north and she had fled south. Her husband Zhao Mingcheng had died of illness in 1129, and most of the books and art they had collected together were lost. Alone and far from home, she wrote this lyric as spring was ending.</p><p lang="zh">这首词写于宋高宗绍兴五年（1135年）的暮春。那时李清照五十多岁，住在金华（今浙江金华）。几年前，北方被金兵占领，她逃到南方；丈夫赵明诚在1129年病逝，两人一起收藏的书画文物也大多丢失了。她一个人漂泊在外，在春天快要结束的时候写下了这首词。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Qingzhao (1084–around 1155), who called herself the Lay Scholar Yi&#x27;an, was the most famous woman writer of ci in the Song dynasty. In the first half of her life she lived happily and in peace with her husband. After the Northern Song fell she lost her country and her home and fled from place to place. Her later lyrics are about loneliness and grief, in plain words but with deep feeling, and this one shows that well.</p><p lang="zh">李清照（1084—约1155），号易安居士，宋代最有名的女词人。前半生她和丈夫过着安稳美满的日子；北宋灭亡后，她国破家亡，四处逃难。她后期的词多写孤独和悲伤，语言很平常，感情却很深，这首词就是代表。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">It opens with the wind stopping and the flowers fallen: spring is almost over. Late in the day she still cannot be bothered to comb her hair, because she has no heart to look nice. The line &#x27;things remain, but he is gone, and everything is over&#x27; sums up the pain of losing her husband and her home. Before she can say a word, the tears come. In the second half she hears that spring is still lovely at the Twin Streams and thinks of going out to cheer herself up. But at once she worries: how could such a tiny boat hold so much sorrow? Sorrow cannot be seen or touched, yet she gives it weight, so heavy that a little boat could not carry it. This picture is fresh and true, and it has become one of the most famous lines ever written about sorrow.</p><p lang="zh">开头写风停花落，春天就要过去了。她到了很晚还懒得梳头，因为没有心思打扮。“物是人非事事休”七个字，说尽了失去亲人和家园的痛：东西都还在，人却不在了。想说点什么，泪先流下来。下半首她听说双溪春光还好，也想去散散心，可马上又担心：那么小的船，怎么装得下这么多的愁？愁本来是看不见、摸不着的，她却让愁有了重量，重到小船都载不动。这个比喻又新奇又真切，成了写愁的千古名句。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/wanghaichao-dongnanxingsheng/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>望海潮·东南形胜</b></a><a href="../../p/zhegutian-caixiuyinqinpengyuzhong/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>鹧鸪天·彩袖殷勤捧玉钟</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["风", "fēng"], ["住", "zhù"], ["尘", "chén"], ["香", "xiāng"], ["花", "huā"], ["已", "yǐ"], ["尽", "jìn"]], [["日", "rì"], ["晚", "wǎn"], ["倦", "juàn"], ["梳", "shū"], ["头", "tóu"]], [["物", "wù"], ["是", "shì"], ["人", "rén"], ["非", "fēi"], ["事", "shì"], ["事", "shì"], ["休", "xiū"]], [["欲", "yù"], ["语", "yǔ"], ["泪", "lèi"], ["先", "xiān"], ["流", "liú"]], [["闻", "wén"], ["说", "shuō"], ["双", "shuāng"], ["溪", "xī"], ["春", "chūn"], ["尚", "shàng"], ["好", "hǎo"]], [["也", "yě"], ["拟", "nǐ"], ["泛", "fàn"], ["轻", "qīng"], ["舟", "zhōu"]], [["只", "zhǐ"], ["恐", "kǒng"], ["双", "shuāng"], ["溪", "xī"], ["舴", "zé"], ["艋", "měng"], ["舟", "zhōu"]], [["载", "zài"], ["不", "bú"], ["动", "dòng"], ["许", "xǔ"], ["多", "duō"], ["愁", "chóu"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "风住：风停了。", "en": "fēng zhù: the wind has stopped."}, {"line": 0, "start": 2, "end": 4, "zh": "尘香：落花掉在泥土里，连尘土都带着花香。", "en": "chén xiāng: fallen petals have sunk into the dust, so even the dust smells of flowers."}, {"line": 0, "start": 4, "end": 7, "zh": "花已尽：花已经落光了。", "en": "huā yǐ jìn: the flowers have all fallen."}, {"line": 1, "start": 0, "end": 2, "zh": "日晚：太阳已经很高了，天不早了。", "en": "rì wǎn: the day is already late."}, {"line": 1, "start": 2, "end": 5, "zh": "倦梳头：懒得梳头。倦，没有心思、懒得做。", "en": "juàn shū tóu: too weary to comb her hair. Juàn means having no heart to do something."}, {"line": 2, "start": 0, "end": 4, "zh": "物是人非：东西还是原来的东西，人却已经不是从前的人了。这里指丈夫已经去世。", "en": "wù shì rén fēi: things are as they were, but the people are not. Here it means her husband has died."}, {"line": 2, "start": 4, "end": 7, "zh": "事事休：一切都完了。休，停止、结束。", "en": "shì shì xiū: everything is over. Xiū means to stop, to end."}, {"line": 3, "start": 0, "end": 2, "zh": "欲语：想要说话。", "en": "yù yǔ: wanting to speak."}, {"line": 4, "start": 0, "end": 2, "zh": "闻说：听说。", "en": "wén shuō: I hear that."}, {"line": 4, "start": 2, "end": 4, "zh": "双溪：水名，在今浙江金华，是当时游玩的好地方。", "en": "Shuangxi: Twin Streams, a river in today's Jinhua, Zhejiang, a popular place for outings then."}, {"line": 4, "start": 5, "end": 7, "zh": "尚好：还很好。尚，还。", "en": "shàng hǎo: still lovely. Shàng means still."}, {"line": 5, "start": 1, "end": 2, "zh": "拟：打算。", "en": "nǐ: to plan to."}, {"line": 5, "start": 2, "end": 5, "zh": "泛轻舟：坐着小船在水上游玩。", "en": "fàn qīng zhōu: to go out on the water in a light boat."}, {"line": 6, "start": 0, "end": 2, "zh": "只恐：只怕。", "en": "zhǐ kǒng: I only fear."}, {"line": 6, "start": 4, "end": 7, "zh": "舴艋舟：两头尖尖、像蚱蜢一样的小船。", "en": "zé měng zhōu: a tiny boat with pointed ends, shaped like a grasshopper."}, {"line": 7, "start": 3, "end": 6, "zh": "许多愁：这么多的愁。", "en": "xǔ duō chóu: so much sorrow."}], "readings": [], "speak": ["风住尘香花已晋", "日晚倦梳头", "物是人非事事休", "欲语泪先流", "闻说双溪春尚好", "也拟泛轻舟", "只恐双溪舴艋舟", "载不动许多愁"], "speakTitle": "武陵春，春晚。李清照。", "sample": "风住尘香花已尽"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

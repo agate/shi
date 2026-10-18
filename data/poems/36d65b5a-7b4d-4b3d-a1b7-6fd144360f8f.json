@@ -1,0 +1,256 @@
+{
+ "id": "36d65b5a-7b4d-4b3d-a1b7-6fd144360f8f",
+ "kind": "shi",
+ "title": "别董大",
+ "title_en": "Farewell to Dong the Eldest",
+ "author": "高适",
+ "author_en": "Gao Shi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "曛",
+    "xūn"
+   ]
+  ],
+  [
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "纷",
+    "fēn"
+   ],
+   [
+    "纷",
+    "fēn"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "己",
+    "jǐ"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古籍底本第一句作“十里黄云”，现在课本作“千里黄云”。底本题目作《别董大二首》，这是第一首。",
+  "en": "In the source text the first line begins \"ten li of yellow clouds\". Today's textbooks say \"a thousand li\". The source title is \"Two Poems of Farewell to Dong the Eldest\", and this is the first."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "谁，课本里读 shuí，口语里也常读 shéi，两种读法都对。",
+   "en": "Textbooks read this character as shuí. In everyday speech it is often shéi. Both are correct."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "黄云：天上的乌云被落日照着，或者被风沙染着，看起来是黄色的。",
+   "en": "huáng yún: yellow clouds, dark clouds stained yellow by the setting sun or by blowing sand."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "白日：太阳。",
+   "en": "bái rì: the sun."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "曛：昏暗。太阳被云遮住，天色暗下来。",
+   "en": "xūn: dim. The sun is hidden by clouds and the sky grows dark."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "纷纷：雪下得又多又乱。",
+   "en": "fēn fēn: falling thick and fast."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "莫愁：不要发愁。",
+   "en": "mò chóu: don't worry."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "知己：真正了解你的好朋友。",
+   "en": "zhī jǐ: a true friend who really understands you."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 6,
+   "zh": "识：认识，知道。",
+   "en": "shí: to know."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 7,
+   "zh": "君：你，对人尊敬的称呼。",
+   "en": "jūn: you, a polite way to address someone."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "千里黄云遮住了天空，太阳也暗淡无光。",
+   "en": "For a thousand li yellow clouds fill the sky, and the sun grows dim."
+  },
+  {
+   "zh": "北风吹着南飞的大雁，大雪纷纷扬扬。",
+   "en": "The north wind blows the wild geese, and snow falls thick and fast."
+  },
+  {
+   "zh": "不要担心前面的路上没有知心朋友，",
+   "en": "Do not worry that no true friend waits on the road ahead:"
+  },
+  {
+   "zh": "天下哪个人不认识你呢？",
+   "en": "who in all the world does not know you?"
+  }
+ ],
+ "background": {
+  "zh": "这首诗是高适和朋友董大分别时写的。董大一般认为是当时有名的琴师董庭兰。那时两人都不得志，高适自己也很穷，连请朋友喝酒的钱都不多，这在同题的第二首诗里写到了。一般认为这首诗写于747年前后的冬天，地点在睢阳（今河南商丘）一带。",
+  "en": "Gao Shi wrote this poem when parting from his friend Dong the Eldest. Dong is usually thought to be Dong Tinglan, a famous qin player of the time. Neither man was doing well then. Gao Shi was poor himself, with hardly enough money to buy his friend a drink, as the second poem of the pair says. The poem is usually dated to a winter around 747, near Suiyang, today's Shangqiu in Henan."
+ },
+ "author_note": {
+  "zh": "高适（约704—765），唐代诗人，和岑参并称“高岑”，都擅长写边塞诗。他年轻时生活贫困，到处漂泊，很晚才做官，后来却官做得很大。他的诗气势雄壮，感情直爽。",
+  "en": "Gao Shi (about 704–765) was a Tang poet. He and Cen Shen are paired as \"Gao and Cen\", both known for poems about the frontier. When young he was poor and drifted from place to place. He became an official late in life, but later rose very high. His poems are strong and bold, and say what they feel straight out."
+ },
+ "appreciation": {
+  "zh": "前两句写分别时的天气：黄云满天，太阳昏暗，北风呼呼地吹，大雁南飞，大雪纷纷。这样冷的景色，本来最容易让人伤心。可后两句忽然一转，高适没有哭哭啼啼，而是大声安慰朋友：别担心前面没有知己，天下谁不知道你董大呢！这两句话又豪迈又温暖，像给朋友一个有力的拥抱。一般的送别诗多写难过，这首却让人读了充满信心。",
+  "en": "The first two lines show the weather at the parting. Yellow clouds fill the sky and the sun is dim. The north wind howls, wild geese fly south, and snow falls thick. A cold scene like this usually makes people sad. But the last two lines suddenly turn. Gao Shi does not weep. He cheers his friend loudly: don't worry about finding no friends ahead, who in the world does not know you? These lines are bold and warm, like a strong hug. Most farewell poems are full of sadness, but this one fills the reader with confidence."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "snow",
+   "encouragement"
+  ]
+ },
+ "uncertain": []
+}

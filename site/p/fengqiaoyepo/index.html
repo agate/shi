@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>枫桥夜泊 · 张继 — 诗</title>
+    <meta name="description" content="枫桥夜泊 · 张继 — Night Mooring at Maple Bridge by Zhang Ji: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 26 · Tang poem · seven-character quatrain</span><span lang="zh">第 26 首 · 唐诗 · 七言绝句</span></p>
+        <h1>枫桥夜泊</h1>
+        <p class="by">张继<span class="mono"><span lang="en">Zhang Ji · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Night Mooring at Maple Bridge</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>yuè</i><b>月</b></span><span class="c" data-l="0" data-p="1"><i>luò</i><b>落</b></span><span class="c gl" data-l="0" data-p="2"><i>wū</i><b>乌</b></span><span class="c gl" data-l="0" data-p="3"><i>tí</i><b>啼</b></span><span class="c gl" data-l="0" data-p="4"><i>shuāng</i><b>霜</b></span><span class="c gl" data-l="0" data-p="5"><i>mǎn</i><b>满</b></span><span class="c gl" data-l="0" data-p="6"><i>tiān</i><b>天</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>jiāng</i><b>江</b></span><span class="c gl" data-l="1" data-p="1"><i>fēng</i><b>枫</b></span><span class="c gl" data-l="1" data-p="2"><i>yú</i><b>渔</b></span><span class="c gl" data-l="1" data-p="3"><i>huǒ</i><b>火</b></span><span class="c gl" data-l="1" data-p="4"><i>duì</i><b>对</b></span><span class="c gl" data-l="1" data-p="5"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="1" data-p="6"><i>mián</i><b>眠</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>gū</i><b>姑</b></span><span class="c gl" data-l="2" data-p="1"><i>sū</i><b>苏</b></span><span class="c" data-l="2" data-p="2"><i>chéng</i><b>城</b></span><span class="c" data-l="2" data-p="3"><i>wài</i><b>外</b></span><span class="c gl" data-l="2" data-p="4"><i>hán</i><b>寒</b></span><span class="c gl" data-l="2" data-p="5"><i>shān</i><b>山</b></span><span class="c gl" data-l="2" data-p="6"><i>sì</i><b>寺</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>yè</i><b>夜</b></span><span class="c gl" data-l="3" data-p="1"><i>bàn</i><b>半</b></span><span class="c" data-l="3" data-p="2"><i>zhōng</i><b>钟</b></span><span class="c" data-l="3" data-p="3"><i>shēng</i><b>声</b></span><span class="c" data-l="3" data-p="4"><i>dào</i><b>到</b></span><span class="c gl" data-l="3" data-p="5"><i>kè</i><b>客</b></span><span class="c gl" data-l="3" data-p="6"><i>chuán</i><b>船</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The textbook and common text read &quot;yú huǒ&quot;, the lamps on fishing boats. The corpus text reads &quot;yú fù&quot;, an old fisherman, which is another version.</p><p lang="zh">通行本和课本作“江枫渔火对愁眠”。语料库作“渔父”（打鱼的老人），是另一种版本。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">月落乌啼霜满天</span><span lang="en">The moon has set, crows are cawing, and frost seems to fill the sky.</span><span lang="zh">月亮落下去了，乌鸦在叫，寒冷的霜气布满了天地。</span></li><li><span class="o">江枫渔火对愁眠</span><span lang="en">Riverside maples and fishing-boat lamps keep me company as I lie awake in sorrow.</span><span lang="zh">江边的枫树、渔船上的灯火，陪着满怀忧愁、睡不着的我。</span></li><li><span class="o">姑苏城外寒山寺</span><span lang="en">From Hanshan Temple outside the city of Suzhou,</span><span lang="zh">苏州城外那座寒山寺，</span></li><li><span class="o">夜半钟声到客船</span><span lang="en">the midnight bell rings out and reaches my boat.</span><span lang="zh">半夜里敲响的钟声，一声声传到了我的船上。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>乌啼<span class="mono">wū tí</span></dt><dd><span lang="en">wū tí: crows cawing.</span><span lang="zh">乌啼：乌鸦叫。</span></dd></div><div><dt>霜满天<span class="mono">shuāng mǎn tiān</span></dt><dd><span lang="en">shuāng mǎn tiān: frost fills the sky. Frost really forms on the ground; the line means the night is so cold it feels as if the whole sky is full of frost.</span><span lang="zh">霜满天：天地间都是寒冷的霜气。霜其实结在地上，这里是说夜里冷得好像满天都是霜。</span></dd></div><div><dt>江枫<span class="mono">jiāng fēng</span></dt><dd><span lang="en">jiāng fēng: maple trees by the river.</span><span lang="zh">江枫：江边的枫树。</span></dd></div><div><dt>渔火<span class="mono">yú huǒ</span></dt><dd><span lang="en">yú huǒ: the lamps on fishing boats.</span><span lang="zh">渔火：渔船上的灯火。</span></dd></div><div><dt>对愁眠<span class="mono">duì chóu mián</span></dt><dd><span lang="en">duì chóu mián: lying down with one&#x27;s sorrow, unable to sleep.</span><span lang="zh">对愁眠：带着忧愁躺着，睡不着。</span></dd></div><div><dt>姑苏<span class="mono">gū sū</span></dt><dd><span lang="en">gū sū: another name for Suzhou.</span><span lang="zh">姑苏：苏州的别名。</span></dd></div><div><dt>寒山寺<span class="mono">hán shān sì</span></dt><dd><span lang="en">hán shān sì: Hanshan Temple, near Maple Bridge west of Suzhou. Legend says the Tang monk Hanshan once lived there, which gave it its name.</span><span lang="zh">寒山寺：苏州城西枫桥附近的一座寺庙，传说唐朝的僧人寒山在这里住过，因此得名。</span></dd></div><div><dt>夜半<span class="mono">yè bàn</span></dt><dd><span lang="en">yè bàn: midnight.</span><span lang="zh">夜半：半夜。</span></dd></div><div><dt>客船<span class="mono">kè chuán</span></dt><dd><span lang="en">kè chuán: a travellers&#x27; boat; here, the poet&#x27;s own boat.</span><span lang="zh">客船：旅客坐的船，这里指诗人坐的船。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Zhang Ji was a mid-Tang poet. It is usually said that after the An Lushan Rebellion, a great revolt that began in 755, many northerners fled south of the Yangtze for safety, and Zhang Ji came to Suzhou too. One autumn night his boat was moored at Maple Bridge outside the city. Unable to sleep, he heard the bell of Hanshan Temple and wrote this poem. The exact year is not certain.</p><p lang="zh">张继是唐朝中期的诗人。一般认为，安史之乱（755年开始的一场大叛乱）以后，很多北方的人逃到江南避难，张继也来到了苏州。一个秋天的夜里，他的船停在苏州城外的枫桥边，他睡不着，听到寒山寺传来的钟声，写下了这首诗。这首诗具体写于哪一年，现在不能确定。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Zhang Ji came from Xiangzhou, today&#x27;s Xiangyang in Hubei, and passed the highest imperial examination in the Tianbao years of Emperor Xuanzong. Few of his poems survive, and little is known of his life. But this one poem has kept his name alive for more than a thousand years, and it made Hanshan Temple famous.</p><p lang="zh">张继，字懿孙，襄州（今湖北襄阳）人，唐玄宗天宝年间考中进士。他留下来的诗不多，生平也知道得很少。可是凭着这一首《枫桥夜泊》，他的名字流传了一千多年，寒山寺也因此出了名。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is about an autumn night without sleep. The first line holds three things: the moon has set, so it is darker; crows caw, so the night feels quieter; frost fills the air, so the traveller feels colder. In the second line the poet lies in his boat, looking at the riverside maples and the little lights of the fishing boats, his heart full of sorrow. Why is he sad? The poem does not say. Maybe he misses home, maybe he worries about the troubled times. The last two lines move from what he sees to what he hears. At midnight the bell of Hanshan Temple rings, stroke by stroke, and reaches his boat. The quieter the night, the clearer the bell; the clearer the bell, the lonelier he feels. That bell has kept ringing for more than a thousand years. Many people go to Suzhou just to hear the bell of Hanshan Temple.</p><p lang="zh">这首诗写的是一个睡不着的秋夜。第一句里有三样东西：月亮落了，天更黑；乌鸦叫了，夜更静；霜气满天，人更冷。第二句，诗人躺在船里，看着江边的枫树和渔船上一点点的灯火，心里满是愁。他为什么愁？诗里没有说，可能是想家，也可能是为乱世担忧。后两句不再写看到的，而是写听到的：半夜里，寒山寺的钟声一下一下传到船上。四周越安静，钟声越清楚；钟声越清楚，人就越孤单。这“当——当——”的钟声，一直响了一千多年，很多人到苏州，就是为了去听一听寒山寺的钟声。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/xunyinzhebuyu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>寻隐者不遇</b></a><a href="../../p/wangyue/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>望岳</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["月", "yuè"], ["落", "luò"], ["乌", "wū"], ["啼", "tí"], ["霜", "shuāng"], ["满", "mǎn"], ["天", "tiān"]], [["江", "jiāng"], ["枫", "fēng"], ["渔", "yú"], ["火", "huǒ"], ["对", "duì"], ["愁", "chóu"], ["眠", "mián"]], [["姑", "gū"], ["苏", "sū"], ["城", "chéng"], ["外", "wài"], ["寒", "hán"], ["山", "shān"], ["寺", "sì"]], [["夜", "yè"], ["半", "bàn"], ["钟", "zhōng"], ["声", "shēng"], ["到", "dào"], ["客", "kè"], ["船", "chuán"]]], "glosses": [{"line": 0, "start": 2, "end": 4, "zh": "乌啼：乌鸦叫。", "en": "wū tí: crows cawing."}, {"line": 0, "start": 4, "end": 7, "zh": "霜满天：天地间都是寒冷的霜气。霜其实结在地上，这里是说夜里冷得好像满天都是霜。", "en": "shuāng mǎn tiān: frost fills the sky. Frost really forms on the ground; the line means the night is so cold it feels as if the whole sky is full of frost."}, {"line": 1, "start": 0, "end": 2, "zh": "江枫：江边的枫树。", "en": "jiāng fēng: maple trees by the river."}, {"line": 1, "start": 2, "end": 4, "zh": "渔火：渔船上的灯火。", "en": "yú huǒ: the lamps on fishing boats."}, {"line": 1, "start": 4, "end": 7, "zh": "对愁眠：带着忧愁躺着，睡不着。", "en": "duì chóu mián: lying down with one's sorrow, unable to sleep."}, {"line": 2, "start": 0, "end": 2, "zh": "姑苏：苏州的别名。", "en": "gū sū: another name for Suzhou."}, {"line": 2, "start": 4, "end": 7, "zh": "寒山寺：苏州城西枫桥附近的一座寺庙，传说唐朝的僧人寒山在这里住过，因此得名。", "en": "hán shān sì: Hanshan Temple, near Maple Bridge west of Suzhou. Legend says the Tang monk Hanshan once lived there, which gave it its name."}, {"line": 3, "start": 0, "end": 2, "zh": "夜半：半夜。", "en": "yè bàn: midnight."}, {"line": 3, "start": 5, "end": 7, "zh": "客船：旅客坐的船，这里指诗人坐的船。", "en": "kè chuán: a travellers' boat; here, the poet's own boat."}], "readings": [], "speak": ["月落乌啼霜满天", "江枫渔火对愁眠", "姑苏城外寒山寺", "夜半钟声到客船"], "speakTitle": "枫桥夜泊。张继。", "sample": "月落乌啼霜满天"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

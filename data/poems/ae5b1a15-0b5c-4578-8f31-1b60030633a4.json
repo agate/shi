@@ -1,0 +1,261 @@
+{
+ "id": "ae5b1a15-0b5c-4578-8f31-1b60030633a4",
+ "kind": "shi",
+ "title": "江南逢李龟年",
+ "title_en": "Meeting Li Guinian South of the River",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "岐",
+    "qí"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "宅",
+    "zhái"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "崔",
+    "cuī"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "闻",
+    "wén"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "君",
+    "jūn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本第一句作“歧王”，是繁简转换的错字，应作“岐王”，这里已改正。",
+  "en": "The source text writes the prince's title with the wrong character, a slip from machine conversion. It is corrected here to the Qi of Qishan."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "岐王：唐玄宗的弟弟李范，被封为岐王。他喜欢音乐，爱结交文人和艺人。",
+   "en": "qí wáng: Prince Qi, Li Fan, a younger brother of Emperor Xuanzong. He loved music and liked to host writers and artists."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "宅：住的房子，府第。",
+   "en": "zhái: a house, a mansion."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "寻常：平常、经常。",
+   "en": "xún cháng: often, as an ordinary thing."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "崔九：崔涤，在兄弟中排行第九，是唐玄宗很宠信的大臣。",
+   "en": "cuī jiǔ: Cui Di, the ninth among his brothers, a minister the emperor favoured."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "堂：大厅。",
+   "en": "táng: the main hall of a house."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "几度：好几次。",
+   "en": "jǐ dù: several times."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "闻：听到，这里指听李龟年唱歌。",
+   "en": "wén: to hear, here to hear Li Guinian sing."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "江南：长江以南。这里指今天湖南一带。",
+   "en": "jiāng nán: south of the Yangtze. Here it means the area of today's Hunan."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "落花时节：花落的时候，指暮春，春天快结束的时候。",
+   "en": "luò huā shí jié: the season of falling flowers, late spring."
+  },
+  {
+   "line": 3,
+   "start": 6,
+   "end": 7,
+   "zh": "君：您，指李龟年。",
+   "en": "jūn: you, meaning Li Guinian."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "当年在岐王的府里，我常常见到你，",
+   "en": "In the old days I often saw you at Prince Qi's mansion,"
+  },
+  {
+   "zh": "在崔九的大厅前，也好几次听你唱歌。",
+   "en": "and several times I heard you sing in Cui Di's hall."
+  },
+  {
+   "zh": "现在正是江南风景最美的时候，",
+   "en": "Now the south of the river is at its most beautiful,"
+  },
+  {
+   "zh": "在这花落的季节，我又遇见了你。",
+   "en": "and in this season of falling flowers, I meet you once again."
+  }
+ ],
+ "background": {
+  "zh": "李龟年是唐玄宗时最有名的歌唱家，常在王公贵族家里表演。杜甫少年时在洛阳，就在岐王和崔九家里听过他唱歌。后来安史之乱爆发，唐朝由盛转衰，李龟年流落到江南。唐代宗大历五年（770年），杜甫在潭州（今湖南长沙）又遇到了他，写下这首诗。这一年杜甫就去世了。因为岐王和崔涤都在726年去世，那时杜甫才十几岁，所以有人怀疑这首诗不是杜甫写的，但一般仍认为是他的作品。",
+  "en": "Li Guinian was the most famous singer in Emperor Xuanzong's time. He often performed in the homes of princes and nobles. As a boy in Luoyang, Du Fu heard him sing at the homes of Prince Qi and Cui Di. Then came the An Lushan Rebellion, and the Tang fell from its height. Li Guinian drifted south. In 770, Du Fu met him again in Tanzhou (today's Changsha, Hunan) and wrote this poem. Du Fu died that same year. Prince Qi and Cui Di both died in 726, when Du Fu was only in his teens, so some people doubt that Du Fu wrote it. Most still believe he did."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他经历了唐朝最强盛的时候，也经历了安史之乱后的战乱和贫困。晚年他坐船漂泊在湖南一带，又老又病。所以见到李龟年，他想起的不只是一个老朋友，还有整个过去的好时光。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He lived through the Tang at its strongest, and then through the war and poverty after the An Lushan Rebellion. In his last years he drifted by boat around Hunan, old and ill. So when he met Li Guinian, he remembered not just an old friend, but a whole lost golden age."
+ },
+ "appreciation": {
+  "zh": "这首诗只有二十八个字，读起来很平静。前两句回忆过去：那时在王府里、大厅前，常常听李龟年唱歌，那是唐朝最繁华的日子。后两句写现在：江南风景正好，两个人又见面了。可是“落花时节”四个字很有意思。它说的是暮春，花在凋落；也像在说唐朝的繁华已经过去，两个人也都老了，流落他乡。诗人没有说一句悲伤的话，只说“又逢君”，可是几十年的变化都藏在里面了。",
+  "en": "This poem has only twenty-eight characters, and it reads calmly. The first two lines look back. In those days, in princes' mansions and grand halls, Du Fu often heard Li Guinian sing. Those were the Tang's richest years. The last two lines are about now. The south is beautiful, and the two men meet again. But the words \"the season of falling flowers\" carry a lot. They mean late spring, with petals dropping. They also hint that the Tang's glory has faded, and both men are old and far from home. The poet says nothing sad. He only says \"I meet you again\". Yet decades of change are hidden inside."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "reunion",
+   "music",
+   "nostalgia",
+   "history"
+  ]
+ },
+ "uncertain": []
+}

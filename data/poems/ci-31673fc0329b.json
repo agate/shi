@@ -1,0 +1,515 @@
+{
+ "id": "ci-31673fc0329b",
+ "kind": "ci",
+ "title": "渔家傲·秋思",
+ "title_en": "The Fisherman's Pride: Autumn Thoughts",
+ "author": "范仲淹",
+ "author_en": "Fan Zhongyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十二字）",
+  "en": "ci lyric in two stanzas, 62 characters"
+ },
+ "lines": [
+  [
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "异",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "衡",
+    "héng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "嶂",
+    "zhàng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "闭",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "浊",
+    "zhuó"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "勒",
+    "lè"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "计",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "羌",
+    "qiāng"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "寐",
+    "mèi"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "军",
+    "jūn"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "夫",
+    "fū"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "塞读 sài，指边塞、边境。“塞子”的塞才读 sāi。",
+   "en": "This character is read sài here, meaning the frontier. It is read sāi only in words like 'cork'."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "燕然是山名，燕读 yān，不读燕子的 yàn。",
+   "en": "Yanran is the name of a mountain, so this character is read yān, not yàn as in 'swallow'."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "勒",
+   "pinyin": "lè",
+   "zh": "勒在这里是“刻”的意思，读 lè，不读“勒紧”的 lēi。",
+   "en": "Here this character means to carve, read lè, not lēi as in 'to tie tight'."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "将",
+   "pinyin": "jiāng",
+   "zh": "将军的将读 jiāng。",
+   "en": "In 'general', this character is read jiāng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "塞下：边塞上，边境地区。",
+   "en": "sài xià: the frontier, the border lands."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "风景异：风景和家乡、和内地很不一样。异，不同。",
+   "en": "fēng jǐng yì: the scenery is different from home. Yì means different."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "衡阳雁去：大雁飞回南方衡阳去了。衡阳在今天的湖南，传说那里有座回雁峰，大雁南飞到这里就停下。",
+   "en": "héng yáng yàn qù: the wild geese fly south to Hengyang. Hengyang is in today's Hunan. Legend says geese flying south stop at a peak there called Huiyan, Goose-Return Peak."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "无留意：一点也不想留下来。",
+   "en": "wú liú yì: with no wish at all to stay."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "边声：边地特有的各种声音，比如风声、马叫声、号角声。",
+   "en": "biān shēng: the sounds of the frontier, such as wind, neighing horses and horns."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "连角起：和军中的号角声一起响起来。角，古代军队里吹的号角。",
+   "en": "lián jiǎo qǐ: rising together with the army horns. Jiǎo is a horn blown in old armies."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "千嶂：像屏障一样连绵不断的许多山峰。嶂，又高又陡、像屏风一样的山。",
+   "en": "qiān zhàng: a thousand peaks standing like screens. Zhàng is a tall, steep mountain like a folding screen."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "长烟：长长的一缕烟，一说是烽火台上的烟。",
+   "en": "cháng yān: a long trail of smoke; some say smoke from a beacon tower."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "孤城闭：孤零零的一座城，城门早早关上了。",
+   "en": "gū chéng bì: a lonely town with its gates shut early."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "浊酒：用米酿的、颜色浑浊的酒，是便宜的酒。",
+   "en": "zhuó jiǔ: cloudy rice wine, a cheap kind of wine."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "家万里：家远在万里以外。",
+   "en": "jiā wàn lǐ: home is ten thousand li away."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "燕然未勒：还没有像古人那样在燕然山刻石记功。东汉大将窦宪打败北匈奴，在燕然山（在今蒙古国）刻石记下战功。这里是说还没有打败敌人、立下大功。",
+   "en": "yān rán wèi lè: the deed has not yet been carved on Mount Yanran. In the Eastern Han, the general Dou Xian beat the Northern Xiongnu and carved a record of his victory on a rock at Mount Yanran, in today's Mongolia. So the line means: we have not won the war yet."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "归无计：没有办法回家。",
+   "en": "guī wú jì: there is no way to go home."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "羌管：羌笛，西北羌族人吹的一种笛子，声音凄凉。",
+   "en": "qiāng guǎn: the Qiang flute, a flute of the Qiang people of the northwest, with a sad sound."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "悠悠：声音悠长，远远传开。",
+   "en": "yōu yōu: long and drawn out, carrying far."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "不寐：睡不着。寐，睡觉。",
+   "en": "bú mèi: cannot sleep. Mèi means to sleep."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "征夫：出征在外的士兵。",
+   "en": "zhēng fū: soldiers sent far from home to fight."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋天来到边塞，这里的风景和内地完全不同。",
+   "en": "Autumn has come to the frontier, and the land looks nothing like home."
+  },
+  {
+   "zh": "大雁向南飞回衡阳，一点也不想留下。",
+   "en": "The wild geese fly south to Hengyang with no wish to stay."
+  },
+  {
+   "zh": "四面八方传来边地的声音，和号角声一起响起。",
+   "en": "On every side the frontier sounds rise up, together with the army horns."
+  },
+  {
+   "zh": "在层层叠叠的群山里，",
+   "en": "Among a thousand peaks,"
+  },
+  {
+   "zh": "一缕长烟，一轮落日，一座孤城早早关上了城门。",
+   "en": "a long trail of smoke, a setting sun, and a lonely town with its gates shut."
+  },
+  {
+   "zh": "喝一杯浑浊的酒，想起万里外的家乡。",
+   "en": "I drink a cup of cloudy wine, my home ten thousand li away."
+  },
+  {
+   "zh": "还没打败敌人、立下大功，回家还没有指望。",
+   "en": "The victory is not yet won or carved in stone, so there is no going home."
+  },
+  {
+   "zh": "羌笛的声音悠悠传来，地上铺满了白霜。",
+   "en": "The Qiang flute plays on and on, and frost covers the ground."
+  },
+  {
+   "zh": "人们都睡不着。",
+   "en": "No one can sleep."
+  },
+  {
+   "zh": "将军愁白了头发，士兵们流下了眼泪。",
+   "en": "The general's hair has turned white, and the soldiers shed tears."
+  }
+ ],
+ "background": {
+  "zh": "宋仁宗时，西北的西夏常常进攻宋朝边境。大约在1040年到1043年间，范仲淹被派到陕西一带守边，曾经兼管延州（今陕西延安）。他整顿军队，修筑城寨，西夏人不敢轻易来犯。这首词就是他守边时写的，写出了边塞秋天的景色和将士们想家又想立功的心情。",
+  "en": "In the time of Emperor Renzong of Song, the Western Xia state in the northwest often attacked the Song border. From about 1040 to 1043, Fan Zhongyan was sent to guard the border in the Shaanxi area, and for a time he also ran Yanzhou, today's Yan'an. He trained the troops and built forts, and Western Xia did not dare to attack lightly. He wrote this lyric while guarding the border. It shows the frontier in autumn and the feelings of the soldiers, who missed home but also wanted to win."
+ },
+ "author_note": {
+  "zh": "范仲淹（989—1052），北宋有名的政治家、文学家。他小时候家里很穷，靠刻苦读书考中进士。他说过“先天下之忧而忧，后天下之乐而乐”，就是先替国家担忧、后享受快乐。他既做过朝中大臣，也在边疆带过兵。",
+  "en": "Fan Zhongyan (989–1052) was a famous statesman and writer of the Northern Song. He grew up poor and passed the imperial exam through hard study. He wrote that one should worry before everyone else worries, and be happy only after everyone else is happy. He served as a high minister at court and also led troops on the frontier."
+ },
+ "appreciation": {
+  "zh": "上片写景。秋天的边塞很荒凉：大雁头也不回地飞走了，号角声和风声混在一起，群山中间，一缕长烟，一轮落日，一座关着门的孤城。这幅画又大又冷清，让人心里发紧。下片写人。一杯浊酒，家却在万里之外；仗还没打赢，回家没有指望。夜里羌笛响起，满地是霜，谁也睡不着。最后一句把将军和士兵放在一起：将军愁白了头，士兵流下了泪。这首词不只写豪迈，也写出了守边人真实的辛苦和思念，所以格外动人。",
+  "en": "The first stanza paints the scene. The autumn frontier is bleak. The geese fly off without looking back. Horns and wind mix together. Among the mountains there is a trail of smoke, a setting sun, and a lonely town with its gates shut. The picture is huge and cold, and it makes your heart tighten. The second stanza turns to people. There is a cup of cheap wine, but home is far away. The war is not won, so there is no going home. At night a flute plays, frost covers the ground, and no one can sleep. The last line puts the general and the soldiers side by side: his hair has turned white, and they are in tears. The lyric is not only brave. It also shows the real hardship and homesickness of the men on the border, and that is why it moves people so much."
+ },
+ "famous_lines": [
+  4,
+  5,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "homesick",
+   "war",
+   "soldier"
+  ]
+ },
+ "uncertain": []
+}

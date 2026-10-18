@@ -1,0 +1,251 @@
+{
+ "id": "07238ad9-c348-43d4-b1d7-25d89369286d",
+ "kind": "shi",
+ "title": "逢入京使",
+ "title_en": "Meeting an Envoy Bound for the Capital",
+ "author": "岑参",
+ "author_en": "Cen Shen",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "漫",
+    "màn"
+   ]
+  ],
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "袖",
+    "xiù"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "干",
+    "gān"
+   ]
+  ],
+  [
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "纸",
+    "zhǐ"
+   ],
+   [
+    "笔",
+    "bǐ"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "安",
+    "ān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "干",
+   "pinyin": "gān",
+   "zh": "干，这里读 gān，意思是干燥、不湿，不读 gàn（干活的干）。",
+   "en": "Here it is read gān, meaning dry, not gàn (to do work)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "故园：老家，这里指诗人在长安的家。",
+   "en": "gù yuán: one's old home, here the poet's home in Chang'an."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "东望：向东看。诗人往西走，家在东边。",
+   "en": "dōng wàng: to look east. The poet is travelling west, so home lies east."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "漫漫：形容路又远又长。",
+   "en": "màn màn: long and endless."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "龙钟：这里是沾湿的样子。不是指老人走路不稳。",
+   "en": "lóng zhōng: soaking wet. Here it does not mean old and doddering."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "马上：在马背上。不是“立刻”的意思。",
+   "en": "mǎ shàng: on horseback. It does not mean \"at once\" as in modern Chinese."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "凭：靠，托付，请。",
+   "en": "píng: to rely on, to ask someone to do something."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "君：您，指那位回京的使者。",
+   "en": "jūn: you, meaning the envoy."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "传语：捎个口信，带句话。",
+   "en": "chuán yǔ: to carry a spoken message."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "回头向东望家乡，路又远又长，",
+   "en": "I look back east toward home; the road is long and endless."
+  },
+  {
+   "zh": "我擦眼泪，两只袖子都湿透了，泪水还是流个不停。",
+   "en": "I wipe my tears till both sleeves are soaked, and still they do not dry."
+  },
+  {
+   "zh": "在马背上和你相遇，没有纸也没有笔，",
+   "en": "We meet on horseback, and I have no paper and no brush,"
+  },
+  {
+   "zh": "只能请你捎个口信，告诉家里人我平安。",
+   "en": "so I ask you to carry word home: tell them I am safe."
+  }
+ ],
+ "background": {
+  "zh": "唐玄宗天宝八载（749年），岑参第一次出塞，到安西（今新疆库车一带）的军队里做书记官。他从长安出发，向西走了很远。路上，他遇到一位要回长安的使者，也就是题目里的“入京使”。他想给家里写封信，可是在马背上，没有纸笔，只好请使者带个口信。",
+  "en": "In 749, Cen Shen went out to the frontier for the first time. He was to be a secretary in the army at Anxi (around today's Kuqa, Xinjiang). He set out from Chang'an and travelled far to the west. On the road he met an envoy going back to the capital, the \"envoy bound for the capital\" of the title. He wanted to write home, but on horseback he had no paper or brush. So he asked the envoy to carry a spoken message."
+ },
+ "author_note": {
+  "zh": "岑参（约715—770），唐代诗人。他两次到西北边疆的军队里任职，在那里生活了好几年。他写了很多描写边塞风光和军中生活的诗，和高适并称“高岑”，是边塞诗派的代表。",
+  "en": "Cen Shen (about 715–770) was a Tang poet. Twice he served with armies on the northwest frontier and lived there for years. He wrote many poems about frontier landscapes and army life. He and Gao Shi are named together as the leading frontier poets."
+ },
+ "appreciation": {
+  "zh": "第一句是回头一望：家在东边，路那么远，已经回不去了。第二句写眼泪，把两只袖子都擦湿了，还擦不干，可见多么想家。第三句一转，写偶然遇到使者，又匆忙，又没有纸笔。最后一句只托他带一句话：“报平安”。想说的话太多，最后只说最要紧的一句，让家人放心。这句话很朴素，却特别打动人，因为每个出远门的人都会这样说。",
+  "en": "The first line is a look back. Home is to the east, so far away that there is no going back. The second line is about tears. Both sleeves are soaked, and the tears still will not stop. That is how homesick he is. The third line turns: a chance meeting with an envoy, all in a hurry, with no paper or brush. The last line gives one message only: \"Tell them I am safe.\" He has so much to say, but he picks the one thing that matters most, so his family will not worry. The words are simple, yet they move everyone, because anyone far from home says the same."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "frontier",
+   "journey",
+   "family"
+  ]
+ },
+ "uncertain": []
+}

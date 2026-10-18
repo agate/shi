@@ -1,0 +1,500 @@
+{
+ "id": "ci-98ebfc7537f9",
+ "kind": "ci",
+ "title": "渔家傲·天接云涛连晓雾",
+ "title_en": "The Fisherman's Pride: Sky Meets Cloud-Waves and Dawn Mist",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十二字）",
+  "en": "ci lyric in two stanzas, 62 characters"
+ },
+ "lines": [
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "涛",
+    "tāo"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "雾",
+    "wù"
+   ]
+  ],
+  [
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "仿",
+    "fǎng"
+   ],
+   [
+    "佛",
+    "fú"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "所",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "语",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "殷",
+    "yīn"
+   ],
+   [
+    "勤",
+    "qín"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "嗟",
+    "jiē"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "学",
+    "xué"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "谩",
+    "màn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "句",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "鹏",
+    "péng"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "举",
+    "jǔ"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "资料库中第三句作“彷佛”，课本和通行本作“仿佛”，意思相同，这里用“仿佛”。",
+  "en": "The corpus writes the first word of line three with a variant character. Textbooks and standard editions use the common form for fǎng fú, 'as if'. The meaning is the same; this page follows the textbook."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "殷",
+   "pinyin": "yīn",
+   "zh": "殷勤的殷读 yīn。",
+   "en": "In yīn qín, 'kindly', this character is read yīn."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "谩",
+   "pinyin": "màn",
+   "zh": "谩在这里是“徒然、白白地”的意思，读 màn，不读“欺瞒”的 mán。",
+   "en": "Here this character means 'in vain' and is read màn, not mán, which means 'to deceive'."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "云涛：像波涛一样翻滚的云。",
+   "en": "yún tāo: clouds rolling like waves."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "晓雾：清晨的雾。",
+   "en": "xiǎo wù: morning mist."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "星河欲转：银河好像要转动起来。星河，银河。天快亮时银河的位置会转变。",
+   "en": "xīng hé yù zhuǎn: the Milky Way seems about to turn. Near dawn the Milky Way shifts its place in the sky."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "千帆舞：许多船帆在风浪里起伏，像在跳舞。",
+   "en": "qiān fān wǔ: a thousand sails rising and falling in the wind, as if dancing."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "梦魂：在梦里，人的魂魄好像离开身体去了别处。",
+   "en": "mèng hún: the dreaming soul, which seems to leave the body and travel."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "帝所：天帝住的地方。",
+   "en": "dì suǒ: the place where the Lord of Heaven lives."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 3,
+   "zh": "天语：天帝说的话。",
+   "en": "tiān yǔ: the words of the Lord of Heaven."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "殷勤：情意恳切，很关心的样子。",
+   "en": "yīn qín: kindly and caring."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "我报：我回答。报，回答。",
+   "en": "wǒ bào: I answered. Bào means to reply."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 7,
+   "zh": "路长嗟日暮：路还很长，可是天色已晚，我只能叹气。嗟，叹息。这里也比喻人生路远、年纪已老。",
+   "en": "lù cháng jiē rì mù: the road is long, and I sigh that the sun is setting. Jiē means to sigh. It also hints that life's road is long while she is growing old."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "谩有：空有，白白地有。",
+   "en": "màn yǒu: to have in vain, to have for nothing."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "惊人句：让人惊叹的好诗句。",
+   "en": "jīng rén jù: lines of poetry that amaze people."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 7,
+   "zh": "九万里风鹏正举：大鹏鸟正乘着风飞上九万里高空。出自《庄子》，书里说大鹏乘风飞上九万里。举，飞起。",
+   "en": "jiǔ wàn lǐ fēng péng zhèng jǔ: the great Peng bird is rising on the wind ninety thousand li high. This comes from the book Zhuangzi, which tells of the Peng riding the wind that high. Jǔ means to fly up."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "休住：不要停。休，不要。",
+   "en": "xiū zhù: do not stop. Xiū means 'do not'."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "蓬舟：像蓬草一样轻的小船，随风飘荡。",
+   "en": "péng zhōu: a little boat as light as a tumbleweed, tossed by the wind."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "吹取：吹送。取，助词，没有实在意思。",
+   "en": "chuī qǔ: to blow and carry. Qǔ here only adds force and has no meaning of its own."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "三山：传说海上有蓬莱、方丈、瀛洲三座仙山，是神仙住的地方。",
+   "en": "sān shān: the Three Mountains. Legend says Penglai, Fangzhang and Yingzhou are three magic mountains in the sea where immortals live."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天边，翻滚的云浪连着清晨的雾。",
+   "en": "At the edge of the sky, waves of cloud meet the morning mist."
+  },
+  {
+   "zh": "银河好像要转动，千万只船帆在风里起舞。",
+   "en": "The Milky Way seems about to turn, and a thousand sails dance in the wind."
+  },
+  {
+   "zh": "我好像在梦里，魂魄回到了天帝住的地方。",
+   "en": "In a dream, my soul seems to return to the home of the Lord of Heaven."
+  },
+  {
+   "zh": "听见天帝在说话，",
+   "en": "I hear the Lord of Heaven speak,"
+  },
+  {
+   "zh": "他关切地问我：你要到哪里去？",
+   "en": "and kindly he asks me where I am going."
+  },
+  {
+   "zh": "我回答：路途还很长，可惜天已经晚了。",
+   "en": "I answer: the road is long, and sadly the sun is setting."
+  },
+  {
+   "zh": "我学写诗，白白地写出了些惊人的句子。",
+   "en": "I learned to write poems and wrote some striking lines, but for nothing."
+  },
+  {
+   "zh": "大鹏正乘着风，飞上九万里高空。",
+   "en": "The great Peng bird is rising on the wind, ninety thousand li high."
+  },
+  {
+   "zh": "风啊，千万不要停，",
+   "en": "Wind, do not stop,"
+  },
+  {
+   "zh": "把我这只轻轻的小船，一直吹到海上的仙山去吧！",
+   "en": "blow my little boat all the way to the magic mountains in the sea!"
+  }
+ ],
+ "background": {
+  "zh": "这首词的写作时间没有定论。一般认为写于北宋灭亡、李清照南渡以后。一说是建炎四年（1130年）前后，她追随逃难的宋高宗，在海上漂泊时写的。那时她失去了家园，丈夫也去世了，生活十分艰难。她借一场梦，写出了想要冲破苦难、飞向远方的心愿。",
+  "en": "No one knows for sure when this lyric was written. It is usually placed after the fall of the Northern Song, when Li Qingzhao fled south. One view says she wrote it around 1130, when she followed the fleeing Emperor Gaozong and drifted at sea. By then she had lost her home and her husband had died, and life was very hard. Through a dream, she wrote of her wish to break free of her troubles and fly far away."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她的词多写细腻的感情，风格婉约（柔美含蓄）。但这首词气势很大，有神仙，有大鹏，有海上仙山，读起来很豪放，在她的作品里很少见。",
+  "en": "Li Qingzhao (1084–about 1155), who called herself the Lay Buddhist Yi'an, is the most famous woman writer of ci in the Song. Most of her lyrics show delicate feelings in a soft, gentle style. But this one is grand, with the Lord of Heaven, the Peng bird and magic mountains in the sea. It reads boldly, which is rare in her work."
+ },
+ "appreciation": {
+  "zh": "开头就是一幅壮阔的画：天连着云浪，云浪连着晨雾，银河在转，千帆在舞。天、海、星、船都动了起来。接着她在梦里来到天帝身边，天帝温和地问她要去哪里。她诉苦说：路还长，天已晚；我会写诗，却没有用。这是她一生的委屈。可是她没有停在叹气里，而是看见了乘风高飞的大鹏，于是大喊：风啊别停，把我的小船吹到仙山去！从苦闷一下子转到豪迈，像一个人擦干眼泪，抬头望向远方。",
+  "en": "It opens with a vast picture. The sky meets waves of cloud, the clouds meet the morning mist, the Milky Way turns and a thousand sails dance. Sky, sea, stars and boats are all moving. Then, in a dream, she comes before the Lord of Heaven, who gently asks where she is going. She pours out her troubles: the road is long, the day is late, and her talent for poetry has done her no good. This is the hurt of her whole life. But she does not stop at sighing. She sees the Peng bird rising on the wind and cries out: wind, do not stop, blow my boat to the magic mountains! The mood leaps from gloom to boldness, like someone wiping away tears and looking up at the far horizon."
+ },
+ "famous_lines": [
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "dream",
+   "sea",
+   "ambition",
+   "freedom"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,416 @@
+{
+ "id": "ci-76baf4d5712c",
+ "kind": "ci",
+ "title": "阮郎归·天边金掌露成霜",
+ "title_en": "Return of Master Ruan: Dew Turns to Frost on the Golden Palms",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "掌",
+    "zhǎng"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "长",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "袖",
+    "xiù"
+   ],
+   [
+    "趁",
+    "chèn"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ]
+  ],
+  [
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "佩",
+    "pèi"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "菊",
+    "jú"
+   ],
+   [
+    "簪",
+    "zān"
+   ],
+   [
+    "黄",
+    "huáng"
+   ]
+  ],
+  [
+   [
+    "殷",
+    "yīn"
+   ],
+   [
+    "勤",
+    "qín"
+   ],
+   [
+    "理",
+    "lǐ"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "凉",
+    "liáng"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料库文本作“绿杯红袖称重阳”“欲将沈醉换悲凉”。通行本多作“趁重阳”；“沈”是“沉”的古写，机器转换时没有改过来。这里用通行本“趁重阳”“沉醉”。",
+  "en": "The corpus text has 'befitting the Double Ninth' in line 3, and writes chén (sunk, deep) in line 8 with an old character also used as the surname Shen, which the machine conversion did not change. Most editions have 'making the most of the Double Ninth' in line 3. This page follows the common text."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "这里“长”是长短的长，读 cháng，形容云和雁阵连得很长。",
+   "en": "Here it means 'long', so it is read cháng, describing the long line of clouds and geese."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "殷",
+   "pinyin": "yīn",
+   "zh": "“殷勤”的“殷”读 yīn。",
+   "en": "In yīn qín (eager, earnest) this character is read yīn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "金掌：汉武帝在宫里立的铜仙人像，手掌托着盘子接露水。这里借指京城的宫殿。",
+   "en": "jīn zhǎng: the golden palms. Emperor Wu of Han set up bronze immortals in his palace, holding up plates in their palms to catch dew. Here they stand for the palaces of the capital."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "露成霜：露水结成了霜，说明已是深秋，天冷了。",
+   "en": "lù chéng shuāng: dew has turned to frost. It is late autumn and getting cold."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "雁字：大雁飞行时排成“一”字或“人”字，所以叫雁字。",
+   "en": "yàn zì: goose writing. Wild geese fly in lines shaped like written strokes, so poets call their flight lines 'goose writing'."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "绿杯红袖：绿杯指盛着美酒的酒杯，红袖指穿红衣服、劝酒唱歌的女子。",
+   "en": "lǜ bēi hóng xiù: green cups and red sleeves. The green cups hold good wine; the red sleeves are the singing girls who pour it."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "趁：趁着、赶上。",
+   "en": "chèn: to make the most of, to take the chance of."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "人情：主人的好意和热情。",
+   "en": "rén qíng: the kindness and warmth of the hosts."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "兰佩紫：身上佩戴着紫色的兰花。古人认为佩兰是高洁的象征。",
+   "en": "lán pèi zǐ: wearing purple orchids. In old times wearing orchids was a sign of a pure, noble person."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "菊簪黄：头上插着黄色的菊花，是重阳节的风俗。簪，插在头发上。",
+   "en": "jú zān huáng: yellow chrysanthemums stuck in the hair, a Double Ninth custom. Zān means to pin into the hair."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "殷勤：认真用心地。",
+   "en": "yīn qín: earnestly, with care."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "理旧狂：重新拿出年轻时那股狂放不羁的劲头。理，重新整理、拿起。",
+   "en": "lǐ jiù kuáng: to take up again the wild, free spirit of his youth. Lǐ means to pick up and set in order again."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "沉醉：喝得大醉。",
+   "en": "chén zuì: to get deeply drunk."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "悲凉：悲伤凄凉的心情。",
+   "en": "bēi liáng: a sad, cold feeling."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "清歌：清亮的歌声，这里指唱歌的人。",
+   "en": "qīng gē: a clear, bright song; here, the singer."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "断肠：形容伤心到了极点。",
+   "en": "duàn cháng: heartbreaking, sad beyond words."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天边宫殿里铜仙人托着的盘中，露水已结成了霜，",
+   "en": "Far off, on the golden palms of the palace, the dew has turned to frost;"
+  },
+  {
+   "zh": "长长的云跟着长长的雁阵飘去。",
+   "en": "clouds trail long behind the lines of wild geese."
+  },
+  {
+   "zh": "美酒、歌女，大家趁着重阳节欢聚，",
+   "en": "With green cups and red sleeves, we make the most of the Double Ninth,"
+  },
+  {
+   "zh": "主人的热情，像在家乡一样温暖。",
+   "en": "and the hosts' warmth feels like home."
+  },
+  {
+   "zh": "佩上紫色的兰花，",
+   "en": "I wear purple orchids,"
+  },
+  {
+   "zh": "插上黄色的菊花，",
+   "en": "and pin yellow chrysanthemums in my hair,"
+  },
+  {
+   "zh": "认真地找回年轻时那股狂放的劲头。",
+   "en": "and earnestly take up my old wild spirit again."
+  },
+  {
+   "zh": "我想用一场大醉，换掉心里的悲凉，",
+   "en": "I want to trade my sorrow for deep drunkenness;"
+  },
+  {
+   "zh": "唱歌的人啊，别唱那让人肠断的伤心歌。",
+   "en": "singer, please do not sing a song that breaks my heart."
+  }
+ ],
+ "background": {
+  "zh": "这首词写重阳节在京城汴京（今河南开封）参加宴会时的心情。“金掌”是宫殿的代称，说明地点在京城。具体哪一年写的，已经说不清了。一般认为是晏几道晚年所作：那时他家早已衰落，自己也很不得意。过节时虽有朋友热情招待，心里还是很悲凉。",
+  "en": "This lyric is about a Double Ninth banquet in the capital, Bianjing, today's Kaifeng in Henan. The 'golden palms' stand for the palace, which tells us the place was the capital. We no longer know the exact year. It is usually thought to be from Yan Jidao's later years. By then his family had long fallen on hard times and his own life had not gone well. Friends welcomed him warmly at the festival, but he still felt sad and lonely inside."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，北宋词人，宰相晏殊的小儿子。他小时候家里富贵，父亲去世后家道中落，他性格骄傲，不愿讨好权贵，一生只做过小官。他的词多写往事和离愁，感情真挚，和父亲并称“二晏”。",
+  "en": "Yan Jidao (around 1038–around 1110), styled Shuyuan and known as Xiaoshan, was a ci writer of the Northern Song and the youngest son of the chief minister Yan Shu. He grew up rich, but after his father died the family declined. He was proud and would not flatter powerful people, so he only ever held small posts. His lyrics are mostly about the past and the pain of parting, full of true feeling. He and his father are called the Two Yans."
+ },
+ "appreciation": {
+  "zh": "上半首先写深秋京城：露水成霜，云跟着雁阵飘远，一片清冷。接着写宴会的热闹：美酒、歌女，主人热情得像家乡人。下半首他佩兰插菊，想找回年轻时的狂放，可“理旧狂”三个字说明，这份狂已经旧了，要用力才能拿起来。于是他想用大醉换走悲凉，又求唱歌的人别唱伤心的歌。越是想开心，越显出心里的苦。这首词一层比一层深，读到最后，才知道热闹底下藏着多少悲伤。",
+  "en": "The first half opens on the capital in late autumn: dew turned to frost, clouds drifting after the geese, everything cold and clear. Then comes the lively banquet, with wine, singers and hosts as warm as people from home. In the second half he wears orchids and pins chrysanthemums in his hair, trying to bring back his wild young spirit. But the words 'take up my old wildness' show that this spirit is old now and takes effort to lift. So he wants to drown his sorrow in drink, and begs the singer not to sing a sad song. The harder he tries to be happy, the more his pain shows. The lyric goes deeper layer by layer, and only at the end do we see how much grief lies under the merriment."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "sorrow",
+   "banquet",
+   "wine",
+   "chrysanthemum"
+  ]
+ },
+ "uncertain": []
+}

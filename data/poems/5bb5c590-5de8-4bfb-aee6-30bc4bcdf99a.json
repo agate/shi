@@ -1,0 +1,368 @@
+{
+ "id": "5bb5c590-5de8-4bfb-aee6-30bc4bcdf99a",
+ "kind": "shi",
+ "title": "次北固山下",
+ "title_en": "Mooring Below Beigu Mountain",
+ "author": "王湾",
+ "author_en": "Wang Wan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "潮",
+    "cháo"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "悬",
+    "xuán"
+   ]
+  ],
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "达",
+    "dá"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "客路：出门在外走的路。客，在外地的人。",
+   "en": "kè lù: the road of a traveler far from home."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "青山外：青山的那一边。",
+   "en": "qīng shān wài: beyond the green hills."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "行舟：正在行驶的船。",
+   "en": "xíng zhōu: a boat on its way."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "潮平：潮水上涨，和两岸齐平。",
+   "en": "cháo píng: the tide has risen level with the banks."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "阔：宽。",
+   "en": "kuò: wide."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "风正：顺风，而且风很平和。",
+   "en": "fēng zhèng: the wind blows the right way, steady and gentle."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "悬：挂。这里写船帆被风吹得直直地挂着。",
+   "en": "xuán: to hang. The sail hangs straight and full in the wind."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "海日：从海上升起的太阳。",
+   "en": "hǎi rì: the sun rising from the sea."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "残夜：夜快要结束的时候。",
+   "en": "cán yè: the last of the night, just before dawn."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "江春：江上的春天。",
+   "en": "jiāng chūn: spring on the river."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "入旧年：旧的一年还没过完，春天就已经来了。",
+   "en": "rù jiù nián: spring arrives while the old year has not yet ended."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "乡书：写给家乡的信。",
+   "en": "xiāng shū: a letter home."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "何处达：怎么才能送到呢？达，送到。",
+   "en": "hé chù dá: how can it get there? Dá means to reach."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "归雁：往北飞回去的大雁。古人传说大雁能帮人送信。",
+   "en": "guī yàn: wild geese flying back north. People of old said geese could carry letters."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "洛阳：今天河南洛阳，诗人的家乡。",
+   "en": "Luòyáng: today's Luoyang in Henan, the poet's home."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我要走的路在青山的那一边，",
+   "en": "My road runs on beyond the green hills;"
+  },
+  {
+   "zh": "船在碧绿的江水上向前行驶。",
+   "en": "my boat moves ahead on the green water."
+  },
+  {
+   "zh": "潮水涨满，两岸之间显得更宽了。",
+   "en": "The tide is full, and the banks spread wide apart."
+  },
+  {
+   "zh": "顺风吹着，一片船帆高高挂起。",
+   "en": "The wind is fair, and a single sail hangs high."
+  },
+  {
+   "zh": "夜还没过完，海上已经升起了太阳；",
+   "en": "Before the night is done, the sun rises from the sea;"
+  },
+  {
+   "zh": "旧年还没过完，江上已经有了春意。",
+   "en": "before the old year ends, spring comes to the river."
+  },
+  {
+   "zh": "我的家信怎样才能送到家乡呢？",
+   "en": "How can my letter home reach my family?"
+  },
+  {
+   "zh": "请北归的大雁带到洛阳那边去吧。",
+   "en": "Let the geese flying north carry it to Luoyang."
+  }
+ ],
+ "background": {
+  "zh": "北固山在今天江苏镇江的北边，三面靠着长江。题目里的“次”是停船住下的意思。王湾是洛阳人，常在江南一带来往。一年冬末春初，他坐船经过北固山下，看到江上的景色，想起家乡，写了这首诗。这首诗还有另一个版本，题目叫《江南意》，文字有些不同。课本用的是现在这个版本。",
+  "en": "Beigu Mountain stands north of today's Zhenjiang in Jiangsu, with the Yangtze River on three sides. In the title, cì means to moor a boat for the night. Wang Wan came from Luoyang and often traveled in the south. At the end of one winter he sailed past Beigu Mountain. The river scene made him think of home, and he wrote this poem. There is another version titled \"Thoughts in Jiangnan\", with somewhat different words. Textbooks use this one."
+ },
+ "author_note": {
+  "zh": "王湾，唐代诗人，洛阳（今属河南）人，生卒年不详。他留下来的诗不多，这一首最有名。据说当时的宰相张说非常喜欢“海日生残夜，江春入旧年”这两句，亲手写下来挂在政事堂里，给读书人做榜样。",
+  "en": "Wang Wan was a Tang poet from Luoyang, in today's Henan. We do not know when he was born or died. Few of his poems survive, and this is the most famous. It is said that the chief minister Zhang Yue loved the lines about the sea sun and the river spring so much that he wrote them out himself and hung them in the hall of government as a model for scholars."
+ },
+ "appreciation": {
+  "zh": "诗人在船上，眼前是青山、绿水、宽宽的江面和一片鼓满风的帆，画面又开阔又平静。最妙的是第五、六句：天还没亮完，太阳已经从海上升起；旧年还没过完，春天已经来到江上。新的东西在旧的东西还没结束时就悄悄来了，读来让人心里一亮。可是时间过得这样快，诗人还在外面漂泊，于是想到写信回家，只好托北飞的大雁带去。景色越美，乡愁越浓。",
+  "en": "The poet is on a boat. Around him are green hills, green water, a wide river and one sail full of wind. The scene is open and calm. The best part is lines five and six. The night is not over, yet the sun is already rising from the sea. The old year is not over, yet spring has already reached the river. New things arrive quietly before the old ones end, and the reader's heart lifts. But time moves so fast, and the poet is still far from home. So he thinks of writing a letter, and can only ask the geese flying north to take it. The lovelier the scene, the deeper his longing for home."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring",
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "river",
+   "travel",
+   "dawn"
+  ]
+ },
+ "uncertain": []
+}

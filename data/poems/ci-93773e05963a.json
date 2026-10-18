@@ -1,0 +1,505 @@
+{
+ "id": "ci-93773e05963a",
+ "kind": "ci",
+ "title": "小重山·昨夜寒蛩不住鸣",
+ "title_en": "To the Tune of Xiao Chong Shan: Last Night the Autumn Crickets",
+ "author": "岳飞",
+ "author_en": "Yue Fei",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·小重山（双调）",
+  "en": "ci lyric to the tune Xiao Chong Shan, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "蛩",
+    "qióng"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "住",
+    "zhù"
+   ],
+   [
+    "鸣",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "更",
+    "gēng"
+   ]
+  ],
+  [
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "行",
+    "xíng"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "悄",
+    "qiāo"
+   ],
+   [
+    "悄",
+    "qiāo"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "胧",
+    "lóng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "功",
+    "gōng"
+   ],
+   [
+    "名",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "阻",
+    "zǔ"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "程",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "付",
+    "fù"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "琴",
+    "qín"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "听",
+    "tīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "不",
+   "pinyin": "bú",
+   "zh": "“不”在第四声“住”前面变读第二声 bú。单字读 bù。",
+   "en": "Bù changes to bú before a fourth-tone sound like zhù. On its own it is read bù."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "“三更”的“更”是古时夜里计时的单位，读 gēng，不读 gèng。",
+   "en": "In sān gēng, gēng is an old unit for telling time at night. It is not read gèng."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "悄",
+   "pinyin": "qiāo",
+   "zh": "“悄悄”现在一般读 qiāo qiāo。也有注本按古义（寂静、忧愁）读 qiǎo qiǎo。",
+   "en": "Qiāo qiāo is the usual reading today. Some notes read it qiǎo qiǎo, an older reading meaning still or sad."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为功名”是“为了功名”，读 wèi。",
+   "en": "Wèi here means for the sake of, so it is read wèi, not wéi."
+  },
+  {
+   "line": 11,
+   "pos": 3,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "“谁”现在口语多读 shéi，读诗时常读 shuí，两种都对。",
+   "en": "Shéi is the common spoken reading. In poems people often say shuí. Both are correct."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "寒蛩：秋天的蟋蟀。蛩，蟋蟀。天冷了，所以叫“寒”。",
+   "en": "hán qióng: crickets in the cold of autumn. Qióng means cricket."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "不住：不停地。",
+   "en": "bú zhù: without stopping."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "惊回：惊醒。",
+   "en": "jīng huí: woke with a start."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "千里梦：梦到了千里之外。一般理解为梦见带兵北上、收复被金国占去的土地。",
+   "en": "qiān lǐ mèng: a dream of a place a thousand miles away. It is usually read as a dream of leading troops north to win back the land taken by the Jin."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 3,
+   "zh": "三更：古人把一夜分成五更，三更就是半夜，大约晚上十一点到凌晨一点。",
+   "en": "sān gēng: the old Chinese split the night into five parts called gēng. The third gēng is midnight, about 11 pm to 1 am."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "绕阶行：绕着台阶走来走去。",
+   "en": "rào jiē xíng: walking round and round the steps."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "悄悄：静悄悄的，没有一点声音。",
+   "en": "qiāo qiāo: quiet, without a sound."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "胧明：朦朦胧胧，不太亮。",
+   "en": "lóng míng: dim and hazy, not quite bright."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "白首：白头发，指人变老了。",
+   "en": "bái shǒu: white hair, meaning growing old."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "功名：功业和名声。这里指打败金兵、收复国土的功业。",
+   "en": "gōng míng: great deeds and the name they bring. Here it means the task of beating the Jin army and taking back the country's land."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "旧山：家乡的山，指家乡。",
+   "en": "jiù shān: the hills of home, meaning home."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "阻归程：挡住了回家的路。",
+   "en": "zǔ guī chéng: blocked the road home."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 7,
+   "zh": "付：交给。瑶琴：用美玉装饰的琴。这句是说想把心里的话弹进琴声里。",
+   "en": "fù: to hand over. yáo qín: a zither decorated with jade. He wants to put what is in his heart into the music."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "知音：懂你的琴声、懂你心思的人。古时伯牙弹琴，只有钟子期听得懂；子期死后，伯牙就摔琴断弦，不再弹了。",
+   "en": "zhī yīn: someone who understands your music and your heart. In an old story, only Zhong Ziqi understood Bo Ya's music. When Ziqi died, Bo Ya broke the strings and never played again."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "弦断：琴弦弹断了。",
+   "en": "xián duàn: the strings snap."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "昨天夜里，秋天的蟋蟀叫个不停。",
+   "en": "Last night the autumn crickets would not stop chirping."
+  },
+  {
+   "zh": "把我从千里之外的梦里惊醒，",
+   "en": "They startled me awake from a dream a thousand miles away."
+  },
+  {
+   "zh": "已经是半夜三更了。",
+   "en": "It was already midnight."
+  },
+  {
+   "zh": "我起身，一个人绕着台阶走来走去。",
+   "en": "I got up and walked round and round the steps alone."
+  },
+  {
+   "zh": "四下里静悄悄的，",
+   "en": "All around, everyone was quiet."
+  },
+  {
+   "zh": "帘子外面，月亮朦朦胧胧。",
+   "en": "Outside the curtain, the moon was dim and hazy."
+  },
+  {
+   "zh": "为了建立功业，我的头发都白了。",
+   "en": "Working for great deeds, my hair has turned white."
+  },
+  {
+   "zh": "家乡山上的松树竹子都已经老了，",
+   "en": "The pines and bamboo on the hills of home have grown old."
+  },
+  {
+   "zh": "我却被挡住，回不了家。",
+   "en": "Yet something blocks my road home."
+  },
+  {
+   "zh": "我想把心里的话弹进琴声里，",
+   "en": "I want to pour what is in my heart into the music of my zither."
+  },
+  {
+   "zh": "可是懂我的人太少了，",
+   "en": "But there are so few who understand me."
+  },
+  {
+   "zh": "就算弹断了琴弦，又有谁来听呢？",
+   "en": "Even if I played till the strings snapped, who would listen?"
+  }
+ ],
+ "background": {
+  "zh": "岳飞是南宋抗击金兵的名将。当时金国占领了北方大片土地，岳飞一心想打回北方。可是朝廷里宋高宗和宰相秦桧想跟金国讲和，不支持他。这首词写的就是他心里的苦闷。一说作于绍兴八年（1138年）前后，宋金议和的时候。具体写作时间没有定论。",
+  "en": "Yue Fei was a famous general of the Southern Song who fought the Jin army. The Jin had taken a large part of the north, and Yue Fei longed to win it back. But Emperor Gaozong and the chief minister Qin Hui wanted peace with the Jin and did not back him. This lyric shows the sorrow in his heart. One view dates it to around 1138, when the Song and the Jin were talking peace. The exact date is not settled."
+ },
+ "author_note": {
+  "zh": "岳飞（1103—1142），字鹏举，相州汤阴（今河南汤阴）人。他带领的“岳家军”打了很多胜仗。后来被秦桧等人用“莫须有”的罪名害死，年仅三十九岁。他的词留下的不多，《满江红》很雄壮，这首《小重山》则低沉，写出了英雄没人理解的孤独。",
+  "en": "Yue Fei (1103–1142), also called Pengju, came from Tangyin in today's Henan. His army, the Yue Family Army, won many battles. Later Qin Hui and others had him killed on a made-up charge, when he was only thirty-nine. Few of his lyrics survive. \"The River All Red\" is bold and stirring. This one is low and quiet. It shows the loneliness of a hero no one understands."
+ },
+ "appreciation": {
+  "zh": "上片写一个睡不着的秋夜。蟋蟀一直叫，把将军从梦里吵醒。他梦见的是千里之外的战场和故土。醒来已是半夜，他一个人绕着台阶走，四周没人，只有朦胧的月光。下片说出心事：头发都白了，功业还没完成，家乡也回不去。他想弹琴说说心里话，可懂他的人太少，琴弦弹断了也没人听。这首词没有大声喊，而是轻轻叹气，让人感到英雄的孤单和无奈。",
+  "en": "The first stanza shows a sleepless autumn night. The crickets keep chirping and wake the general from his dream, a dream of battlefields and home a thousand miles away. It is midnight. He walks round the steps alone. No one is about, only dim moonlight. The second stanza tells what troubles him. His hair is white, his great task is not done, and he cannot go home. He wants to speak through his zither, but few understand him. Even if the strings snapped, no one would listen. The lyric does not shout. It sighs softly, and we feel how lonely and helpless the hero is."
+ },
+ "famous_lines": [
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "loneliness",
+   "night",
+   "moon",
+   "music"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,282 @@
+{
+ "id": "56da3304-439a-400b-b283-16de3add74ce",
+ "kind": "shi",
+ "title": "山行",
+ "title_en": "Mountain Walk",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "停",
+    "tíng"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "枫",
+    "fēng"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 6,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "斜，现在课本读 xié。古音读 xiá，和“家、花”押韵。",
+   "en": "Textbooks read this character as xié. In old pronunciation it was xiá, rhyming with jiā and huā."
+  },
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "处，这里读 chù，指地方。",
+   "en": "Here this character is read chù, meaning a place."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "远上：向远处、向高处走上去。",
+   "en": "yuǎn shàng: climbing far up."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "寒山：秋天的山。",
+   "en": "hán shān: a cold mountain, a mountain in autumn."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "石径：石头铺成的小路。",
+   "en": "shí jìng: a narrow stone path."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "斜：弯弯曲曲地伸向远方。",
+   "en": "xié: slanting, winding up into the distance."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "白云生处：白云升起的地方，就是山的高处。有的版本作“白云深处”。",
+   "en": "bái yún shēng chù: where white clouds rise, high up the mountain. Some versions say \"deep in the white clouds\" instead."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "人家：住户，有人住的房子。",
+   "en": "rén jiā: homes where people live."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "坐：因为。不是“坐下”的意思。",
+   "en": "zuò: because. Here it does not mean to sit."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "枫林晚：傍晚时的枫树林。",
+   "en": "fēng lín wǎn: the maple woods at dusk."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "霜叶：经过秋霜变红的枫叶。",
+   "en": "shuāng yè: maple leaves turned red by autumn frost."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "红于：比……还要红。",
+   "en": "hóng yú: redder than."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "二月花：农历二月春天开的花。",
+   "en": "èr yuè huā: flowers of the second lunar month, in spring."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一条弯弯的石头小路，伸向远处深秋的山上。",
+   "en": "A winding stone path climbs far up the autumn mountain."
+  },
+  {
+   "zh": "在白云升起的地方，有几户人家。",
+   "en": "Where the white clouds rise, there are a few homes."
+  },
+  {
+   "zh": "我停下车，只因为喜爱傍晚的枫树林。",
+   "en": "I stop my carriage, because I love the maple woods at dusk."
+  },
+  {
+   "zh": "经霜的枫叶，比二月的春花还要红。",
+   "en": "The frosted leaves are redder than the flowers of spring."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是深秋时节在山里走路看到的景色。题目“山行”，就是在山里行走。杜牧坐着车上山，看到弯弯的石路、山顶的人家，还有傍晚一片火红的枫林，于是停下车来欣赏。这首诗具体写于哪一年、哪座山，已经说不清了。",
+  "en": "This poem is about the views on a walk in the mountains in late autumn. The title, Shan Xing, simply means travelling in the mountains. Du Mu rode a carriage up the mountain. He saw the winding stone path, homes up near the clouds, and a whole forest of maples glowing red at dusk, so he stopped to enjoy it. We no longer know which year, or which mountain, the poem was written about."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），晚唐诗人，字牧之。他的诗清新俊朗，尤其擅长七言绝句，写景常常几笔就画出一幅画。人们把他和李商隐并称“小李杜”。",
+  "en": "Du Mu (803–852) was a poet of the late Tang. His poems are fresh and bright, and he was best at seven-character quatrains. With a few strokes he could paint a whole scene. People pair him with Li Shangyin as the \"Little Li and Du\"."
+ },
+ "appreciation": {
+  "zh": "前两句像镜头从下往上移：一条石路弯弯曲曲伸进山里，最高处白云飘飘，竟然还住着人家。第三句诗人停下了车，原因很简单：太喜欢这傍晚的枫林了。最后一句是全诗最亮的地方：被霜打过的枫叶，比春天的花还要红。很多人写秋天会觉得悲凉，杜牧却看到了秋天的热烈和美丽，读起来让人心里也暖暖的。",
+  "en": "The first two lines move like a camera from low to high. A stone path winds into the mountain, and at the very top, among white clouds, people actually live. In the third line the poet stops his carriage, for a simple reason: he loves these maple woods at dusk too much to go on. The last line is the brightest part of the poem. Leaves touched by frost are even redder than spring flowers. Many poets find autumn sad. Du Mu sees how warm and beautiful it is, and his poem warms the reader's heart too."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountain",
+   "maple",
+   "scenery",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

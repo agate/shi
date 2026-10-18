@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>锦瑟 · 李商隐 — 诗</title>
+    <meta name="description" content="锦瑟 · 李商隐 — The Ornate Zither by Li Shangyin: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 51 · Tang poem · seven-character regulated verse</span><span lang="zh">第 51 首 · 唐诗 · 七言律诗</span></p>
+        <h1>锦瑟</h1>
+        <p class="by">李商隐<span class="mono"><span lang="en">Li Shangyin · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">The Ornate Zither</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>jǐn</i><b>锦</b></span><span class="c gl" data-l="0" data-p="1"><i>sè</i><b>瑟</b></span><span class="c gl" data-l="0" data-p="2"><i>wú</i><b>无</b></span><span class="c gl" data-l="0" data-p="3"><i>duān</i><b>端</b></span><span class="c gl" data-l="0" data-p="4"><i>wǔ</i><b>五</b></span><span class="c gl" data-l="0" data-p="5"><i>shí</i><b>十</b></span><span class="c gl" data-l="0" data-p="6"><i>xián</i><b>弦</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>yī</i><b>一</b></span><span class="c" data-l="1" data-p="1"><i>xián</i><b>弦</b></span><span class="c" data-l="1" data-p="2"><i>yí</i><b>一</b></span><span class="c gl" data-l="1" data-p="3"><i>zhù</i><b>柱</b></span><span class="c gl rd" data-l="1" data-p="4"><i>sī</i><b>思</b></span><span class="c gl" data-l="1" data-p="5"><i>huá</i><b>华</b></span><span class="c gl" data-l="1" data-p="6"><i>nián</i><b>年</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>zhuāng</i><b>庄</b></span><span class="c gl" data-l="2" data-p="1"><i>shēng</i><b>生</b></span><span class="c gl" data-l="2" data-p="2"><i>xiǎo</i><b>晓</b></span><span class="c gl" data-l="2" data-p="3"><i>mèng</i><b>梦</b></span><span class="c gl" data-l="2" data-p="4"><i>mí</i><b>迷</b></span><span class="c gl" data-l="2" data-p="5"><i>hú</i><b>蝴</b></span><span class="c gl" data-l="2" data-p="6"><i>dié</i><b>蝶</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>wàng</i><b>望</b></span><span class="c gl" data-l="3" data-p="1"><i>dì</i><b>帝</b></span><span class="c gl" data-l="3" data-p="2"><i>chūn</i><b>春</b></span><span class="c gl" data-l="3" data-p="3"><i>xīn</i><b>心</b></span><span class="c gl" data-l="3" data-p="4"><i>tuō</i><b>托</b></span><span class="c" data-l="3" data-p="5"><i>dù</i><b>杜</b></span><span class="c" data-l="3" data-p="6"><i>juān</i><b>鹃</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>cāng</i><b>沧</b></span><span class="c gl" data-l="4" data-p="1"><i>hǎi</i><b>海</b></span><span class="c" data-l="4" data-p="2"><i>yuè</i><b>月</b></span><span class="c" data-l="4" data-p="3"><i>míng</i><b>明</b></span><span class="c gl" data-l="4" data-p="4"><i>zhū</i><b>珠</b></span><span class="c gl" data-l="4" data-p="5"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="4" data-p="6"><i>lèi</i><b>泪</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>lán</i><b>蓝</b></span><span class="c gl" data-l="5" data-p="1"><i>tián</i><b>田</b></span><span class="c" data-l="5" data-p="2"><i>rì</i><b>日</b></span><span class="c" data-l="5" data-p="3"><i>nuǎn</i><b>暖</b></span><span class="c gl" data-l="5" data-p="4"><i>yù</i><b>玉</b></span><span class="c gl" data-l="5" data-p="5"><i>shēng</i><b>生</b></span><span class="c gl" data-l="5" data-p="6"><i>yān</i><b>烟</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>cǐ</i><b>此</b></span><span class="c" data-l="6" data-p="1"><i>qíng</i><b>情</b></span><span class="c gl" data-l="6" data-p="2"><i>kě</i><b>可</b></span><span class="c gl" data-l="6" data-p="3"><i>dài</i><b>待</b></span><span class="c" data-l="6" data-p="4"><i>chéng</i><b>成</b></span><span class="c gl" data-l="6" data-p="5"><i>zhuī</i><b>追</b></span><span class="c gl" data-l="6" data-p="6"><i>yì</i><b>忆</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>zhǐ</i><b>只</b></span><span class="c" data-l="7" data-p="1"><i>shì</i><b>是</b></span><span class="c" data-l="7" data-p="2"><i>dāng</i><b>当</b></span><span class="c" data-l="7" data-p="3"><i>shí</i><b>时</b></span><span class="c" data-l="7" data-p="4"><i>yǐ</i><b>已</b></span><span class="c gl" data-l="7" data-p="5"><i>wǎng</i><b>惘</b></span><span class="c gl" data-l="7" data-p="6"><i>rán</i><b>然</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">锦瑟无端五十弦</span><span lang="en">Why, for no reason, does the ornate zither have fifty strings?</span><span lang="zh">华美的瑟，为什么偏偏有五十根弦？</span></li><li><span class="o">一弦一柱思华年</span><span lang="en">Each string, each bridge, brings back the lovely years of my youth.</span><span lang="zh">每一根弦、每一个弦柱，都让我想起美好的青春年华。</span></li><li><span class="o">庄生晓梦迷蝴蝶</span><span lang="en">Zhuangzi, in a dawn dream, was lost in being a butterfly;</span><span lang="zh">庄子清晨做梦，迷迷糊糊变成了蝴蝶；</span></li><li><span class="o">望帝春心托杜鹃</span><span lang="en">King Wang gave his spring sorrow to the crying cuckoo.</span><span lang="zh">望帝把伤春的心，寄托给了啼叫的杜鹃。</span></li><li><span class="o">沧海月明珠有泪</span><span lang="en">On the wide sea under a bright moon, pearls shine like tears;</span><span lang="zh">大海上月光明亮，珍珠像带着泪光；</span></li><li><span class="o">蓝田日暖玉生烟</span><span lang="en">on Lantian Mountain in the warm sun, jade gives off a mist.</span><span lang="zh">蓝田山上太阳温暖，美玉好像升起了轻烟。</span></li><li><span class="o">此情可待成追忆</span><span lang="en">This feeling, did it have to wait until now, when I look back?</span><span lang="zh">这样的感情，哪里要等到今天回忆时才有？</span></li><li><span class="o">只是当时已惘然</span><span lang="en">Even back then, I already felt lost.</span><span lang="zh">就在当时，我心里已经怅然若失了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>锦瑟<span class="mono">jǐn sè</span></dt><dd><span lang="en">jǐn sè: a beautifully decorated sè. The sè is an ancient plucked instrument, like a zither, with many strings.</span><span lang="zh">锦瑟：装饰得很漂亮的瑟。瑟是一种古代弹拨乐器，像琴，弦比较多。</span></dd></div><div><dt>无端<span class="mono">wú duān</span></dt><dd><span lang="en">wú duān: for no reason at all.</span><span lang="zh">无端：没来由地，无缘无故。</span></dd></div><div><dt>五十弦<span class="mono">wǔ shí xián</span></dt><dd><span lang="en">wǔ shí xián: fifty strings. Legend says the sè of ancient times had fifty strings, later cut to twenty-five.</span><span lang="zh">五十弦：五十根弦。传说古代的瑟有五十根弦，后来改成二十五根。</span></dd></div><div><dt>柱<span class="mono">zhù</span></dt><dd><span lang="en">zhù: the small movable bridge that holds up each string and tunes it.</span><span lang="zh">柱：瑟上架弦的小木柱，可以移动来调音。</span></dd></div><div><dt>思华年<span class="mono">sī huá nián</span></dt><dd><span lang="en">sī huá nián: remembering the lovely years of youth; huá nián means the best years.</span><span lang="zh">思华年：怀念美好的青春岁月。华年，美好的年华。</span></dd></div><div><dt>庄生<span class="mono">zhuāng shēng</span></dt><dd><span lang="en">zhuāng shēng: Zhuangzi, a thinker of the Warring States period.</span><span lang="zh">庄生：庄子，战国时的思想家。</span></dd></div><div><dt>晓梦迷蝴蝶<span class="mono">xiǎo mèng mí hú dié</span></dt><dd><span lang="en">xiǎo mèng mí hú dié: Zhuangzi dreamed he was a butterfly. When he woke he was puzzled: had he dreamed of the butterfly, or had the butterfly dreamed of him?</span><span lang="zh">晓梦迷蝴蝶：庄子梦见自己变成蝴蝶，醒来后迷惑了：是我梦见了蝴蝶，还是蝴蝶梦见了我？</span></dd></div><div><dt>望帝<span class="mono">wàng dì</span></dt><dd><span lang="en">wàng dì: a king of ancient Shu in legend, named Du Yu. After he died his spirit became a cuckoo with a sad cry.</span><span lang="zh">望帝：传说中古代蜀国的国王，名叫杜宇。他死后魂魄变成了杜鹃鸟，叫声很悲伤。</span></dd></div><div><dt>春心<span class="mono">chūn xīn</span></dt><dd><span lang="en">chūn xīn: the sad heart of spring, also one&#x27;s deep feelings.</span><span lang="zh">春心：伤春的心情，也指心中的情意。</span></dd></div><div><dt>托<span class="mono">tuō</span></dt><dd><span lang="en">tuō: to entrust, to place in.</span><span lang="zh">托：寄托。</span></dd></div><div><dt>沧海<span class="mono">cāng hǎi</span></dt><dd><span lang="en">cāng hǎi: the wide blue sea.</span><span lang="zh">沧海：大海。</span></dd></div><div><dt>珠有泪<span class="mono">zhū yǒu lèi</span></dt><dd><span lang="en">zhū yǒu lèi: people of old thought pearls in the sea grew with the moon; legend also says the mermen of the sea wept tears that turned into pearls.</span><span lang="zh">珠有泪：古人认为海里的珍珠和月亮的圆缺有关；又有传说，海里的鲛人哭泣时，眼泪会变成珍珠。</span></dd></div><div><dt>蓝田<span class="mono">lán tián</span></dt><dd><span lang="en">lán tián: Mount Lantian in today&#x27;s Shaanxi, famous for fine jade.</span><span lang="zh">蓝田：蓝田山，在今天陕西，出产美玉。</span></dd></div><div><dt>玉生烟<span class="mono">yù shēng yān</span></dt><dd><span lang="en">yù shēng yān: fine jade in the sun seems to give off a faint mist, which you can see from far away but not up close.</span><span lang="zh">玉生烟：美玉在阳光下好像冒出淡淡的烟。远看有，近看却看不清。</span></dd></div><div><dt>可待<span class="mono">kě dài</span></dt><dd><span lang="en">kě dài: need it wait until? That is, it did not have to wait.</span><span lang="zh">可待：哪里要等到。</span></dd></div><div><dt>追忆<span class="mono">zhuī yì</span></dt><dd><span lang="en">zhuī yì: to look back, to remember.</span><span lang="zh">追忆：回忆。</span></dd></div><div><dt>惘然<span class="mono">wǎng rán</span></dt><dd><span lang="en">wǎng rán: lost and empty, at a loss.</span><span lang="zh">惘然：心里空空的，若有所失，不知所措。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>思<span class="mono">sī</span></dt><dd><span lang="en">Textbooks today read it sī. By the old tone rules this spot needs an oblique tone, so it was once read sì.</span><span lang="zh">现在课本读 sī。按古音，这个位置要用仄声，旧读 sì。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This is Li Shangyin&#x27;s most famous poem, and also his hardest. The title, &quot;The Ornate Zither&quot;, just takes the first two characters of the poem, so it is almost like &quot;Untitled&quot;. It is usually thought to be written late in life, as he looked back on his years, but the date is not certain. What the poem is really about has been argued for more than a thousand years. Some say he mourns his late wife. Some say he grieves over his own life. Some say it is about a love affair. Others say it is about his own poetry.</p><p lang="zh">这是李商隐最有名、也最难懂的一首诗。题目“锦瑟”只是取了开头两个字，跟“无题”差不多。一般认为是他晚年回顾一生时写的，但具体时间不能确定。这首诗到底在写什么，一千多年来说法很多：一说是怀念去世的妻子，一说是感叹自己的身世，一说是写一段爱情，也有人说是在谈自己的诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Shangyin (about 813 to about 858) was a late Tang poet. He and Du Mu are called the &quot;Little Li and Du&quot;. He was very gifted, but all his life he was caught in a quarrel between two groups at court and never got ahead. His wife also died young. His poems are full of old stories and misty meanings, beautiful in a way that is hard to put into words.</p><p lang="zh">李商隐（约813—约858），唐代后期诗人，和杜牧并称“小李杜”。他很有才华，却一生被卷在官场两派的争斗里，始终不得志；妻子也早早去世。他的诗喜欢用典故，意思朦胧，美得让人说不清。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This poem is like a misty painting. You can see its beauty but cannot say just what it means. It begins with a zither. Each string and each bridge is a memory. The middle four lines give four pictures. Zhuangzi dreams he is a butterfly, as if life is a dream and you cannot tell what is real. King Wang turns into a cuckoo, like a sorrow that cannot be spoken. A bright moon over the sea shines on pearls like tears, lonely and lovely. Jade on Lantian Mountain gives off mist in the sun; you see it from far away, but up close it is gone, like beautiful things you can never hold. The last two lines say: this feeling did not wait until now to hurt; even back then I was already lost. You do not need to solve this poem. Just feel its beauty and its sadness.</p><p lang="zh">这首诗像一幅朦胧的画，看得见美，却说不清意思。开头从一张瑟说起，一根弦、一个柱，就是一段往事。中间四句用了四个画面：庄子梦蝴蝶，像人生如梦，分不清真假；望帝化杜鹃，像心中的悲伤说不出口；海上明月照着带泪的珍珠，冷清又美丽；蓝田的玉在阳光下冒出轻烟，远看有，近看无，就像美好的东西抓不住。最后两句说：这份感情不用等到今天回忆才觉得失落，当时就已经茫然了。读这首诗，不必非要猜出答案，感受那份美丽又惆怅的心情就好。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/liangzhouci-wangzhihuan/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>凉州词</b></a><a href="../../p/songyuanershianxi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>送元二使安西</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["锦", "jǐn"], ["瑟", "sè"], ["无", "wú"], ["端", "duān"], ["五", "wǔ"], ["十", "shí"], ["弦", "xián"]], [["一", "yī"], ["弦", "xián"], ["一", "yí"], ["柱", "zhù"], ["思", "sī"], ["华", "huá"], ["年", "nián"]], [["庄", "zhuāng"], ["生", "shēng"], ["晓", "xiǎo"], ["梦", "mèng"], ["迷", "mí"], ["蝴", "hú"], ["蝶", "dié"]], [["望", "wàng"], ["帝", "dì"], ["春", "chūn"], ["心", "xīn"], ["托", "tuō"], ["杜", "dù"], ["鹃", "juān"]], [["沧", "cāng"], ["海", "hǎi"], ["月", "yuè"], ["明", "míng"], ["珠", "zhū"], ["有", "yǒu"], ["泪", "lèi"]], [["蓝", "lán"], ["田", "tián"], ["日", "rì"], ["暖", "nuǎn"], ["玉", "yù"], ["生", "shēng"], ["烟", "yān"]], [["此", "cǐ"], ["情", "qíng"], ["可", "kě"], ["待", "dài"], ["成", "chéng"], ["追", "zhuī"], ["忆", "yì"]], [["只", "zhǐ"], ["是", "shì"], ["当", "dāng"], ["时", "shí"], ["已", "yǐ"], ["惘", "wǎng"], ["然", "rán"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "锦瑟：装饰得很漂亮的瑟。瑟是一种古代弹拨乐器，像琴，弦比较多。", "en": "jǐn sè: a beautifully decorated sè. The sè is an ancient plucked instrument, like a zither, with many strings."}, {"line": 0, "start": 2, "end": 4, "zh": "无端：没来由地，无缘无故。", "en": "wú duān: for no reason at all."}, {"line": 0, "start": 4, "end": 7, "zh": "五十弦：五十根弦。传说古代的瑟有五十根弦，后来改成二十五根。", "en": "wǔ shí xián: fifty strings. Legend says the sè of ancient times had fifty strings, later cut to twenty-five."}, {"line": 1, "start": 3, "end": 4, "zh": "柱：瑟上架弦的小木柱，可以移动来调音。", "en": "zhù: the small movable bridge that holds up each string and tunes it."}, {"line": 1, "start": 4, "end": 7, "zh": "思华年：怀念美好的青春岁月。华年，美好的年华。", "en": "sī huá nián: remembering the lovely years of youth; huá nián means the best years."}, {"line": 2, "start": 0, "end": 2, "zh": "庄生：庄子，战国时的思想家。", "en": "zhuāng shēng: Zhuangzi, a thinker of the Warring States period."}, {"line": 2, "start": 2, "end": 7, "zh": "晓梦迷蝴蝶：庄子梦见自己变成蝴蝶，醒来后迷惑了：是我梦见了蝴蝶，还是蝴蝶梦见了我？", "en": "xiǎo mèng mí hú dié: Zhuangzi dreamed he was a butterfly. When he woke he was puzzled: had he dreamed of the butterfly, or had the butterfly dreamed of him?"}, {"line": 3, "start": 0, "end": 2, "zh": "望帝：传说中古代蜀国的国王，名叫杜宇。他死后魂魄变成了杜鹃鸟，叫声很悲伤。", "en": "wàng dì: a king of ancient Shu in legend, named Du Yu. After he died his spirit became a cuckoo with a sad cry."}, {"line": 3, "start": 2, "end": 4, "zh": "春心：伤春的心情，也指心中的情意。", "en": "chūn xīn: the sad heart of spring, also one's deep feelings."}, {"line": 3, "start": 4, "end": 5, "zh": "托：寄托。", "en": "tuō: to entrust, to place in."}, {"line": 4, "start": 0, "end": 2, "zh": "沧海：大海。", "en": "cāng hǎi: the wide blue sea."}, {"line": 4, "start": 4, "end": 7, "zh": "珠有泪：古人认为海里的珍珠和月亮的圆缺有关；又有传说，海里的鲛人哭泣时，眼泪会变成珍珠。", "en": "zhū yǒu lèi: people of old thought pearls in the sea grew with the moon; legend also says the mermen of the sea wept tears that turned into pearls."}, {"line": 5, "start": 0, "end": 2, "zh": "蓝田：蓝田山，在今天陕西，出产美玉。", "en": "lán tián: Mount Lantian in today's Shaanxi, famous for fine jade."}, {"line": 5, "start": 4, "end": 7, "zh": "玉生烟：美玉在阳光下好像冒出淡淡的烟。远看有，近看却看不清。", "en": "yù shēng yān: fine jade in the sun seems to give off a faint mist, which you can see from far away but not up close."}, {"line": 6, "start": 2, "end": 4, "zh": "可待：哪里要等到。", "en": "kě dài: need it wait until? That is, it did not have to wait."}, {"line": 6, "start": 5, "end": 7, "zh": "追忆：回忆。", "en": "zhuī yì: to look back, to remember."}, {"line": 7, "start": 5, "end": 7, "zh": "惘然：心里空空的，若有所失，不知所措。", "en": "wǎng rán: lost and empty, at a loss."}], "readings": [{"line": 1, "pos": 4, "char": "思", "pinyin": "sī", "zh": "现在课本读 sī。按古音，这个位置要用仄声，旧读 sì。", "en": "Textbooks today read it sī. By the old tone rules this spot needs an oblique tone, so it was once read sì."}], "speak": ["锦瑟无端五十弦", "一弦仪柱思华年", "庄生晓梦迷蝴蝶", "望帝春心托杜鹃", "沧海月明珠有泪", "蓝田日暖玉生烟", "此情可待成追忆", "只是当时已惘然"], "speakTitle": "锦瑟。李商隐。", "sample": "锦瑟无端五十弦"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

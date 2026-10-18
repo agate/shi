@@ -1,0 +1,415 @@
+{
+ "id": "ci-1258f9b42748",
+ "kind": "ci",
+ "title": "卜算子·黄州定慧院寓居作",
+ "title_en": "Bu Suan Zi: Written While Lodging at Dinghui Temple in Huangzhou",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《卜算子》，双调四十四字",
+  "en": "ci to the tune Bu Suan Zi, 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "缺",
+    "quē"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "桐",
+    "tóng"
+   ]
+  ],
+  [
+   [
+    "漏",
+    "lòu"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "静",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "缥",
+    "piāo"
+   ],
+   [
+    "缈",
+    "miǎo"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "省",
+    "xǐng"
+   ]
+  ],
+  [
+   [
+    "拣",
+    "jiǎn"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "肯",
+    "kěn"
+   ],
+   [
+    "栖",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ],
+   [
+    "冷",
+    "lěng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "资料库原文第三句作“时见幽人独往来”，最后一句作“枫落吴江冷”。现在课本和通行本作“谁见幽人独往来”“寂寞沙洲冷”。“枫落吴江冷”本是唐代崔信明的诗句，有的版本把它放在这里。",
+  "en": "The corpus text reads \"shí jiàn yōu rén dú wǎng lái\" (at times one sees the lonely man come and go) in line three, and \"fēng luò wú jiāng lěng\" (maple leaves fall, the Wu River is cold) as the last line. Today's textbooks and standard editions read \"shuí jiàn yōu rén dú wǎng lái\" (who sees the lonely man come and go) and \"jì mò shā zhōu lěng\" (the lonely sandbar is cold). The line about maple leaves was first written by the Tang poet Cui Xinming, and some editions put it here."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "“谁”有 shuí 和 shéi 两个读音，意思一样。读诗时常读 shuí。",
+   "en": "This character has two readings, shuí and shéi, with the same meaning. In poems it is often read shuí."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "缥",
+   "pinyin": "piāo",
+   "zh": "“缥缈”读 piāo miǎo。“缥”单用指淡青色时读 piǎo。",
+   "en": "In piāo miǎo (faint and far) this character is read piāo. Alone, meaning pale blue, it is read piǎo."
+  },
+  {
+   "line": 5,
+   "pos": 4,
+   "char": "省",
+   "pinyin": "xǐng",
+   "zh": "“省”在这里读 xǐng，意思是明白、了解，不读 shěng。",
+   "en": "Here this character is read xǐng, meaning to understand, not shěng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "缺月：不圆的月亮。",
+   "en": "quē yuè: a moon that is not full."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "疏桐：叶子稀稀落落的梧桐树。",
+   "en": "shū tóng: a parasol tree with few leaves left."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "漏断：夜已经很深了。漏，古代用滴水来计时的器具，叫漏壶。漏壶的水滴完了，就是深夜。",
+   "en": "lòu duàn: the water clock has stopped dripping, so it is late at night. In old times people told time by water dripping from a pot."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "人初静：人们刚刚安静下来，都睡了。",
+   "en": "rén chū jìng: people have just gone quiet and fallen asleep."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "幽人：孤独的人，这里指词人自己。",
+   "en": "yōu rén: a lonely man, here the poet himself."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "独往来：一个人走来走去。",
+   "en": "dú wǎng lái: walking back and forth alone."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "缥缈：隐隐约约，看不清楚。",
+   "en": "piāo miǎo: faint and dim, hard to see."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "孤鸿：一只失群的大雁。鸿，大雁。",
+   "en": "gū hóng: a lone wild goose that has lost its flock."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "惊起：受到惊吓飞起来。",
+   "en": "jīng qǐ: startled into flight."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "却回头：又回过头来。",
+   "en": "què huí tóu: then turns its head back."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 2,
+   "zh": "恨：这里是心中的痛苦和遗憾。",
+   "en": "hèn: here, pain and regret in the heart."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "省：明白，了解。",
+   "en": "xǐng: to understand."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "拣尽寒枝：把寒冷的树枝挑了个遍。",
+   "en": "jiǎn jìn hán zhī: picking over every cold branch, one by one."
+  },
+  {
+   "line": 6,
+   "start": 6,
+   "end": 7,
+   "zh": "栖：鸟停在树上休息。",
+   "en": "qī: for a bird to perch and rest."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "沙洲：江河里由泥沙堆成的小块陆地。",
+   "en": "shā zhōu: a sandbar, a small strip of land in a river made of sand and mud."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一弯残月挂在稀疏的梧桐树上，",
+   "en": "A half moon hangs in the thin parasol tree;"
+  },
+  {
+   "zh": "夜深了，人们刚刚安静下来。",
+   "en": "the water clock has stopped, and people have just gone quiet."
+  },
+  {
+   "zh": "谁看见孤独的人独自走来走去？",
+   "en": "Who sees the lonely man walking to and fro alone?"
+  },
+  {
+   "zh": "只有一只孤雁的影子，隐隐约约。",
+   "en": "Only the faint shadow of a lone wild goose."
+  },
+  {
+   "zh": "它受了惊飞起来，又回过头来，",
+   "en": "Startled, it flies up and looks back,"
+  },
+  {
+   "zh": "心里有痛苦，却没有人明白。",
+   "en": "full of sorrow that no one understands."
+  },
+  {
+   "zh": "它挑遍了寒冷的树枝，都不肯停下来，",
+   "en": "It tries every cold branch, but will not perch on any,"
+  },
+  {
+   "zh": "宁愿待在寂寞寒冷的沙洲上。",
+   "en": "and stays on the lonely, cold sandbar."
+  }
+ ],
+ "background": {
+  "zh": "宋神宗元丰二年（1079年），苏轼因为写诗被人诬告，关进监狱，这就是“乌台诗案”。出狱后他被贬到黄州（今湖北黄冈）。元丰三年（1080年）二月他刚到黄州，暂时住在定慧院，这是一座寺庙。这首词就是在那里写的，一说写于元丰五年（1082年）。那时他心里很孤独，又很害怕。",
+  "en": "In 1079, Su Shi was falsely accused over his poems and thrown into prison. This is known as the Crow Terrace Poetry Case. After his release he was sent to Huangzhou (today's Huanggang, Hubei). In the second month of 1080 he arrived and lodged for a while at Dinghui Temple. He wrote this lyric there. Another account dates it to 1082. At that time he felt very lonely and afraid."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画样样都好。他一生多次被贬，黄州是第一次大的打击。他在黄州写下了很多名作，比如《念奴娇·赤壁怀古》。这首词写的是他刚到黄州时孤独又不肯低头的心情。",
+  "en": "Su Shi (1037–1101), also called the Retired Scholar of Dongpo, was a great Northern Song writer. He was brilliant at poems, lyrics, prose, calligraphy and painting. He was sent away in disgrace many times, and Huangzhou was the first big blow. There he wrote many famous works, such as his lyric on the Red Cliffs. This lyric shows how he felt when he first came to Huangzhou: lonely, but unwilling to bow."
+ },
+ "appreciation": {
+  "zh": "上阕写深夜。残月、疏桐、没有人声，一片冷清。一个孤独的人在外面走来走去，谁看见了？只有一只孤雁。人和雁的影子好像叠在了一起。下阕全写这只孤雁：它受了惊，回头张望，心里有苦却没人懂；它挑遍了树枝也不肯停，宁愿待在冷冷的沙洲上。这只雁就是苏轼自己：遭了大难，心里害怕、孤单，可是不愿随便找个地方依附，要守住自己的清白和骄傲。整首词冷冷的、静静的，却有一股不肯低头的骨气。",
+  "en": "The first stanza shows a deep night: a half moon, a bare tree, no voices, all cold and still. A lonely man walks outside. Who sees him? Only a lone wild goose. The man and the goose seem to become one shadow. The second stanza is all about the goose. Startled, it looks back, full of pain that no one understands. It tries every branch but will not rest on any, and would rather stay on the cold sandbar. The goose is Su Shi himself. After a great disaster he is scared and alone, but he will not lean on just anyone. He keeps his honor and his pride. The lyric is cold and quiet, yet it has a backbone that will not bend."
+ },
+ "famous_lines": [
+  0,
+  1,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "loneliness",
+   "night",
+   "moon",
+   "wild-geese",
+   "integrity",
+   "exile"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,343 @@
+{
+ "id": "ci-c11beb61b248",
+ "kind": "ci",
+ "title": "浣溪沙·细雨斜风作晓寒",
+ "title_en": "Huan Xi Sha: Fine Rain and Slanting Wind",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·浣溪沙",
+  "en": "ci to the tune Huan Xi Sha (Washing Silk in the Stream)"
+ },
+ "lines": [
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "淡",
+    "dàn"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "媚",
+    "mèi"
+   ],
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "滩",
+    "tān"
+   ]
+  ],
+  [
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "漫",
+    "màn"
+   ]
+  ],
+  [
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "沫",
+    "mò"
+   ],
+   [
+    "乳",
+    "rǔ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "午",
+    "wǔ"
+   ],
+   [
+    "盏",
+    "zhǎn"
+   ]
+  ],
+  [
+   [
+    "蓼",
+    "liǎo"
+   ],
+   [
+    "茸",
+    "róng"
+   ],
+   [
+    "蒿",
+    "hāo"
+   ],
+   [
+    "笋",
+    "sǔn"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "盘",
+    "pán"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "味",
+    "wèi"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "欢",
+    "huān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "蓼",
+   "pinyin": "liǎo",
+   "zh": "“蓼”指蓼菜，读 liǎo。它在“蓼莪”一词里读 lù。",
+   "en": "As the plant smartweed, this character is read liǎo. In a few old words it is read lù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "作晓寒：带来清晨的寒意。作，造成。",
+   "en": "zuò xiǎo hán: bringing a morning chill. Zuò means to cause."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "疏柳：稀稀疏疏的柳树。冬天柳叶落了，枝条显得很稀。",
+   "en": "shū liǔ: sparse willows. In winter the leaves are gone, so the branches look thin."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "媚晴滩：让放晴的河滩显得很美。媚，使……美好。",
+   "en": "mèi qíng tān: making the sunlit riverbank lovely. Mèi means to make beautiful."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "入淮清洛：流进淮河的清清的洛涧。洛涧是淮河的一条支流，在今天的安徽。",
+   "en": "rù huái qīng luò: the clear Luo stream flowing into the Huai River. The Luo is a small branch of the Huai, in today's Anhui."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "漫漫：水面宽广、无边无际的样子。",
+   "en": "màn màn: wide and endless, said of water."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "雪沫乳花：煮茶时浮起的白色泡沫，像雪又像乳汁。",
+   "en": "xuě mò rǔ huā: the white foam that rises when tea is brewed, like snow and milk."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "午盏：中午喝的茶。盏，小杯、小碗。",
+   "en": "wǔ zhǎn: the noon tea. Zhǎn is a small cup or bowl."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "蓼茸：蓼菜的嫩芽。蓼是一种水边的植物。",
+   "en": "liǎo róng: tender shoots of smartweed, a plant that grows by the water."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "蒿笋：蒌蒿的嫩茎，可以吃。",
+   "en": "hāo sǔn: the tender stems of a kind of wormwood, which can be eaten."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "试春盘：尝一尝春盘。古代立春前后，人们把新鲜蔬菜摆在盘里，叫春盘，表示迎接春天。",
+   "en": "shì chūn pán: tasting a spring plate. In old times, around the start of spring, people arranged fresh vegetables on a plate to welcome spring."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "清欢：清淡、简单的快乐。",
+   "en": "qīng huān: plain, simple joy."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "细细的雨，斜斜的风，带来了清晨的寒意。",
+   "en": "Fine rain and slanting wind bring a morning chill."
+  },
+  {
+   "zh": "淡淡的烟雾和稀疏的柳树，让雨后放晴的河滩更加美丽。",
+   "en": "Pale mist and thin willows make the sunlit riverbank lovely after the rain."
+  },
+  {
+   "zh": "清清的洛涧流进淮河，水面渐渐变得宽阔无边。",
+   "en": "The clear Luo stream flows into the Huai River, and the water grows wide and endless."
+  },
+  {
+   "zh": "中午的茶碗里，浮着雪白的茶沫，像乳汁一样。",
+   "en": "In the noon tea bowl floats white foam, like snow and milk."
+  },
+  {
+   "zh": "尝一尝用蓼菜嫩芽、蒿笋摆成的春盘。",
+   "en": "We taste a spring plate of tender smartweed shoots and wormwood stems."
+  },
+  {
+   "zh": "人世间真正有滋味的，是这种清淡的快乐。",
+   "en": "The true flavor of life is this simple, plain joy."
+  }
+ ],
+ "background": {
+  "zh": "这首词前有小序：“元丰七年十二月二十四日，从泗州刘倩叔游南山。”元丰七年十二月，换成公历已是1085年初。那时苏轼刚离开被贬多年的黄州，奉命改到汝州，一路奔波，年底到了泗州（今江苏盱眙一带）。他和当地人刘倩叔一起游南山，在野外喝茶、吃春盘，写下了这首词。刘倩叔的生平不详。",
+  "en": "A short note before this ci says that on the twenty-fourth day of the twelfth month in the seventh year of Yuanfeng, Su Shi visited South Hill with Liu Qianshu of Sizhou. By the Western calendar that was early 1085. Su Shi had just left Huangzhou, where he had been sent in disgrace for years, and was ordered to move to Ruzhou. After a long journey, at the end of the year he reached Sizhou, near today's Xuyi in Jiangsu. With a local man, Liu Qianshu, he went to South Hill, drank tea and ate a spring plate outdoors, and wrote this ci. Little is known about Liu Qianshu."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家。他一生几次被贬，日子常常过得很苦，可他很会从小事里找到快乐。他也是一个爱喝茶、爱美食的人，许多诗词都写到茶和吃的东西。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great Northern Song writer. He was sent away from court several times and often lived a hard life, but he was very good at finding joy in small things. He loved tea and good food, and many of his poems and ci mention them."
+ },
+ "appreciation": {
+  "zh": "上片写一路看到的景色：早上细雨斜风，有点冷；后来天晴了，淡淡烟雾里柳树稀稀疏疏，河滩显得格外好看；远处清清的洛涧流进淮河，水面越来越宽。下片写吃喝：茶碗里浮着雪白的茶沫，盘子里是刚长出来的野菜嫩芽。这些都不贵重，却新鲜干净。最后一句是全词的点睛之笔：人间最有滋味的，就是这种清淡的快乐。一个经历过大风浪的人，懂得在一碗茶、一盘菜里感到满足。",
+  "en": "The first half shows the scenery along the way. In the morning there is fine rain and slanting wind, a little cold. Then the sky clears. In the pale mist the willows are thin and sparse, and the riverbank looks especially lovely. Far off, the clear Luo stream joins the Huai River, and the water grows wider and wider. The second half is about food and drink. White foam floats in the tea bowl, and the plate holds tender shoots of wild greens that have just come up. None of it is costly, but all of it is fresh and clean. The last line is the heart of the ci: the best flavor in the world is this plain, simple joy. A man who has lived through great storms knows how to feel content with a bowl of tea and a plate of greens."
+ },
+ "famous_lines": [
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "tea",
+   "food",
+   "simple-joy",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

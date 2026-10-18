@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>出塞 · 王昌龄 — 诗</title>
+    <meta name="description" content="出塞 · 王昌龄 — Out Beyond the Frontier by Wang Changling: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 46 · Tang poem · seven-character quatrain</span><span lang="zh">第 46 首 · 唐诗 · 七言绝句</span></p>
+        <h1>出塞</h1>
+        <p class="by">王昌龄<span class="mono"><span lang="en">Wang Changling · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Out Beyond the Frontier</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>qín</i><b>秦</b></span><span class="c gl" data-l="0" data-p="1"><i>shí</i><b>时</b></span><span class="c gl" data-l="0" data-p="2"><i>míng</i><b>明</b></span><span class="c gl" data-l="0" data-p="3"><i>yuè</i><b>月</b></span><span class="c gl" data-l="0" data-p="4"><i>hàn</i><b>汉</b></span><span class="c gl" data-l="0" data-p="5"><i>shí</i><b>时</b></span><span class="c gl" data-l="0" data-p="6"><i>guān</i><b>关</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>wàn</i><b>万</b></span><span class="c" data-l="1" data-p="1"><i>lǐ</i><b>里</b></span><span class="c gl" data-l="1" data-p="2"><i>cháng</i><b>长</b></span><span class="c gl" data-l="1" data-p="3"><i>zhēng</i><b>征</b></span><span class="c" data-l="1" data-p="4"><i>rén</i><b>人</b></span><span class="c gl" data-l="1" data-p="5"><i>wèi</i><b>未</b></span><span class="c gl rd" data-l="1" data-p="6"><i>huán</i><b>还</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>dàn</i><b>但</b></span><span class="c gl" data-l="2" data-p="1"><i>shǐ</i><b>使</b></span><span class="c gl" data-l="2" data-p="2"><i>lóng</i><b>龙</b></span><span class="c gl" data-l="2" data-p="3"><i>chéng</i><b>城</b></span><span class="c gl" data-l="2" data-p="4"><i>fēi</i><b>飞</b></span><span class="c gl rd" data-l="2" data-p="5"><i>jiàng</i><b>将</b></span><span class="c" data-l="2" data-p="6"><i>zài</i><b>在</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>bú</i><b>不</b></span><span class="c rd" data-l="3" data-p="1"><i>jiào</i><b>教</b></span><span class="c gl" data-l="3" data-p="2"><i>hú</i><b>胡</b></span><span class="c gl" data-l="3" data-p="3"><i>mǎ</i><b>马</b></span><span class="c gl" data-l="3" data-p="4"><i>dù</i><b>度</b></span><span class="c gl" data-l="3" data-p="5"><i>yīn</i><b>阴</b></span><span class="c gl" data-l="3" data-p="6"><i>shān</i><b>山</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">秦时明月汉时关</span><span lang="en">The same bright moon as in Qin and Han times, the same frontier passes,</span><span lang="zh">还是秦汉时的那轮明月，还是秦汉时的那些关口，</span></li><li><span class="o">万里长征人未还</span><span lang="en">and the men who marched ten thousand li to war have still not come home.</span><span lang="zh">到万里之外打仗的人，一直没有回来。</span></li><li><span class="o">但使龙城飞将在</span><span lang="en">If only the Flying General of Longcheng were still here,</span><span lang="zh">只要龙城的飞将军还在，</span></li><li><span class="o">不教胡马度阴山</span><span lang="en">he would never let the enemy&#x27;s horses cross the Yin Mountains.</span><span lang="zh">就绝不会让敌人的战马越过阴山。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>秦时明月汉时关<span class="mono">qín shí míng yuè hàn shí guān</span></dt><dd><span lang="en">qín shí míng yuè hàn shí guān: the bright moon and the frontier pass of the Qin and Han. The two halves fill each other in: both the moon and the pass go back to both dynasties.</span><span lang="zh">秦时明月汉时关：意思是秦汉时的明月和秦汉时的关口。这是一种前后互相补充的写法，叫“互文”。</span></dd></div><div><dt>关<span class="mono">guān</span></dt><dd><span lang="en">guān: a fortified pass on the border.</span><span lang="zh">关：边境上守卫的关口、关塞。</span></dd></div><div><dt>长征<span class="mono">cháng zhēng</span></dt><dd><span lang="en">cháng zhēng: a long march to fight far away.</span><span lang="zh">长征：到很远的地方去打仗。</span></dd></div><div><dt>未还<span class="mono">wèi huán</span></dt><dd><span lang="en">wèi huán: has not come back.</span><span lang="zh">未还：没有回来。</span></dd></div><div><dt>但使<span class="mono">dàn shǐ</span></dt><dd><span lang="en">dàn shǐ: if only, as long as.</span><span lang="zh">但使：只要。</span></dd></div><div><dt>龙城飞将<span class="mono">lóng chéng fēi jiàng</span></dt><dd><span lang="en">lóng chéng fēi jiàng: usually taken as Li Guang, a great Han general. He fought so boldly that the Xiongnu called him the Flying General. Longcheng may mean the town of Lulong, or a place where the Xiongnu worshipped heaven; views differ.</span><span lang="zh">龙城飞将：一般认为指汉代名将李广。他打仗勇猛，匈奴人叫他“飞将军”。一说“龙城”指卢龙城，一说指匈奴祭天的地方。</span></dd></div><div><dt>胡马<span class="mono">hú mǎ</span></dt><dd><span lang="en">hú mǎ: the horses of northern peoples, here the enemy cavalry who raid the border.</span><span lang="zh">胡马：胡人的战马，这里指来侵犯的敌人骑兵。</span></dd></div><div><dt>度<span class="mono">dù</span></dt><dd><span lang="en">dù: to cross over.</span><span lang="zh">度：越过。</span></dd></div><div><dt>阴山<span class="mono">yīn shān</span></dt><dd><span lang="en">yīn shān: the Yin Mountains in central Inner Mongolia, an ancient barrier against riders from the north.</span><span lang="zh">阴山：在今天内蒙古中部的一条山脉，古代是挡住北方骑兵的屏障。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>还<span class="mono">huán</span></dt><dd><span lang="en">Here it is read huán, meaning to return, not hái (still).</span><span lang="zh">还，这里读 huán，意思是回来，不读 hái。</span></dd></div><div><dt>将<span class="mono">jiàng</span></dt><dd><span lang="en">Here it is read jiàng, meaning a general.</span><span lang="zh">将，这里读 jiàng，意思是将领、将军。</span></dd></div><div><dt>教<span class="mono">jiào</span></dt><dd><span lang="en">Today&#x27;s textbooks read it jiào, meaning to let or make. By the rules of the verse form this spot needs a level tone, so some people read it jiāo.</span><span lang="zh">教，现在课本读 jiào，意思是让、使。按照格律这里应该用平声，所以也有人读 jiāo。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">&quot;Out Beyond the Frontier&quot; is an old yuefu title. Yuefu were poems meant to be sung to music, and this title was used for poems about war on the border. As a young man Wang Changling travelled to the northwest frontier and saw how hard life was for the soldiers. The Tang often fought on its borders, and many who went never came back. The poet thinks of a great Han general and wishes the court had such leaders, to hold the border and give people peace. There are two poems under this title; this is the first.</p><p lang="zh">《出塞》是乐府旧题，乐府是古代可以配乐演唱的诗，这个题目多写边疆打仗的事。王昌龄年轻时到过西北边塞，看到了守边将士的辛苦。唐朝边境常有战争，很多人去了就回不来。诗人想起汉代的名将，希望朝廷有好将军，能守住边疆，让百姓过上安宁日子。原题有两首，这是第一首。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Changling (about 698–757) was a poet of the high Tang. He was best at seven-character quatrains and is called the Master of the Quatrain. He wrote many strong, stirring frontier poems, and was a friend of Li Bai and Gao Shi. Critics in the Ming dynasty ranked this one first among all Tang seven-character quatrains.</p><p lang="zh">王昌龄（约698—约757），盛唐诗人，最擅长写七言绝句，被称为“七绝圣手”。他写了很多边塞诗，气势雄壮。他和李白、高适等人都是朋友。这首《出塞》被明代人推为唐人七绝的第一名。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first line opens wide. The moon is the moon of the Qin and Han, and the passes are the passes of the Qin and Han. Hundreds of years have gone by, and the fighting on the border has never stopped. The second line turns to people. Wave after wave of soldiers marched far away and never came back. Such long years and such long roads hold the grief of so many families. The last two lines are the poet&#x27;s wish: if only there were a general like Li Guang, the enemy could never break in. The poem holds both sorrow and courage. It is grand and deep at once.</p><p lang="zh">第一句一开口就很大：月亮还是秦汉时的月亮，关口还是秦汉时的关口。几百年过去了，边疆的战争一直没有停。第二句一下子写到人：远去打仗的人，一批一批都没有回来。时间那么长，路那么远，这里有多少家庭的悲伤。后两句是诗人的愿望：要是有李广那样的将军就好了，敌人根本打不进来。诗里有悲伤，也有豪气，又雄壮又深沉。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/qiangjinjiu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>将进酒</b></a><a href="../../p/yeyujibei/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>夜雨寄北</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["秦", "qín"], ["时", "shí"], ["明", "míng"], ["月", "yuè"], ["汉", "hàn"], ["时", "shí"], ["关", "guān"]], [["万", "wàn"], ["里", "lǐ"], ["长", "cháng"], ["征", "zhēng"], ["人", "rén"], ["未", "wèi"], ["还", "huán"]], [["但", "dàn"], ["使", "shǐ"], ["龙", "lóng"], ["城", "chéng"], ["飞", "fēi"], ["将", "jiàng"], ["在", "zài"]], [["不", "bú"], ["教", "jiào"], ["胡", "hú"], ["马", "mǎ"], ["度", "dù"], ["阴", "yīn"], ["山", "shān"]]], "glosses": [{"line": 0, "start": 0, "end": 7, "zh": "秦时明月汉时关：意思是秦汉时的明月和秦汉时的关口。这是一种前后互相补充的写法，叫“互文”。", "en": "qín shí míng yuè hàn shí guān: the bright moon and the frontier pass of the Qin and Han. The two halves fill each other in: both the moon and the pass go back to both dynasties."}, {"line": 0, "start": 6, "end": 7, "zh": "关：边境上守卫的关口、关塞。", "en": "guān: a fortified pass on the border."}, {"line": 1, "start": 2, "end": 4, "zh": "长征：到很远的地方去打仗。", "en": "cháng zhēng: a long march to fight far away."}, {"line": 1, "start": 5, "end": 7, "zh": "未还：没有回来。", "en": "wèi huán: has not come back."}, {"line": 2, "start": 0, "end": 2, "zh": "但使：只要。", "en": "dàn shǐ: if only, as long as."}, {"line": 2, "start": 2, "end": 6, "zh": "龙城飞将：一般认为指汉代名将李广。他打仗勇猛，匈奴人叫他“飞将军”。一说“龙城”指卢龙城，一说指匈奴祭天的地方。", "en": "lóng chéng fēi jiàng: usually taken as Li Guang, a great Han general. He fought so boldly that the Xiongnu called him the Flying General. Longcheng may mean the town of Lulong, or a place where the Xiongnu worshipped heaven; views differ."}, {"line": 3, "start": 2, "end": 4, "zh": "胡马：胡人的战马，这里指来侵犯的敌人骑兵。", "en": "hú mǎ: the horses of northern peoples, here the enemy cavalry who raid the border."}, {"line": 3, "start": 4, "end": 5, "zh": "度：越过。", "en": "dù: to cross over."}, {"line": 3, "start": 5, "end": 7, "zh": "阴山：在今天内蒙古中部的一条山脉，古代是挡住北方骑兵的屏障。", "en": "yīn shān: the Yin Mountains in central Inner Mongolia, an ancient barrier against riders from the north."}], "readings": [{"line": 1, "pos": 6, "char": "还", "pinyin": "huán", "zh": "还，这里读 huán，意思是回来，不读 hái。", "en": "Here it is read huán, meaning to return, not hái (still)."}, {"line": 2, "pos": 5, "char": "将", "pinyin": "jiàng", "zh": "将，这里读 jiàng，意思是将领、将军。", "en": "Here it is read jiàng, meaning a general."}, {"line": 3, "pos": 1, "char": "教", "pinyin": "jiào", "zh": "教，现在课本读 jiào，意思是让、使。按照格律这里应该用平声，所以也有人读 jiāo。", "en": "Today's textbooks read it jiào, meaning to let or make. By the rules of the verse form this spot needs a level tone, so some people read it jiāo."}], "speak": ["秦时明月汉时关", "万里长征人未桓", "但使龙城飞匠在", "不教胡马度阴山"], "speakTitle": "出塞。王昌龄。", "sample": "秦时明月汉时关"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

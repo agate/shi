@@ -1,0 +1,227 @@
+{
+ "id": "0bed9b02-991e-4e28-b631-86640147a712",
+ "kind": "shi",
+ "title": "宿建德江",
+ "title_en": "Staying the Night on the Jiande River",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "移",
+    "yí"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "泊",
+    "bó"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "渚",
+    "zhǔ"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "新",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "旷",
+    "kuàng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "泊",
+   "pinyin": "bó",
+   "zh": "这里是“停船”的意思，读 bó。读 pō 时是“湖泊”的泊。",
+   "en": "Here it means to moor a boat, read bó. The reading pō is for the word meaning lake."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "移舟：划动小船。",
+   "en": "yí zhōu: to move the boat along."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "泊：停船靠岸。",
+   "en": "bó: to moor, to tie up a boat by the shore."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "烟渚：雾气笼罩的小沙洲。渚，江中的小块陆地。",
+   "en": "yān zhǔ: a misty islet. Zhǔ is a small piece of land in a river."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "日暮：太阳落山的时候，傍晚。",
+   "en": "rì mù: sunset, evening."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "客：在外漂泊的人，这里指诗人自己。",
+   "en": "kè: a traveller far from home; here the poet himself."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "愁新：新的愁绪又涌上来。",
+   "en": "chóu xīn: fresh sorrow rises."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "野旷：原野空旷，一眼望不到边。",
+   "en": "yě kuàng: the open fields stretch far and empty."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "天低树：远处的天空看起来比树还低。",
+   "en": "tiān dī shù: far away, the sky seems to sit lower than the trees."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "月近人：倒映在水里的月亮，好像离人很近。",
+   "en": "yuè jìn rén: the moon reflected in the water seems close to the person."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我把小船划到雾气朦胧的小沙洲边停下，",
+   "en": "I steer my boat to a misty islet and tie it up;"
+  },
+  {
+   "zh": "天色晚了，漂泊在外的愁绪又涌上心头。",
+   "en": "as the sun goes down, a traveller's sorrow rises anew."
+  },
+  {
+   "zh": "原野空旷，远处的天空好像比树还低；",
+   "en": "The fields are wide and empty, and the sky seems lower than the trees;"
+  },
+  {
+   "zh": "江水清清，水中的月亮仿佛离我很近。",
+   "en": "the river is clear, and the moon in it feels close to me."
+  }
+ ],
+ "background": {
+  "zh": "建德江是新安江流经建德（今浙江建德）的一段。孟浩然四十岁左右到长安求官，没有成功，后来到吴越一带（今江苏、浙江）漫游。一般认为这首诗是他漫游途中坐船经过建德时写的，大约在730年前后，一说具体时间不详。",
+  "en": "The Jiande River is the stretch of the Xin'an River that flows past Jiande, in today's Zhejiang. When Meng Haoran was about forty, he went to Chang'an hoping for an official post, but failed. Afterwards he travelled around the Wu and Yue region, today's Jiangsu and Zhejiang. This poem is usually thought to have been written on that trip, when his boat stopped near Jiande, around the year 730, though some say the date cannot be fixed."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），襄州襄阳（今湖北襄阳）人，唐代著名的山水田园诗人，和王维并称“王孟”。他一生没有做官，大部分时间在家乡隐居，也常到各地游历。他的诗语言平淡自然，读起来像说话一样亲切。",
+  "en": "Meng Haoran (689–740) came from Xiangyang in today's Hubei. He was a famous Tang poet of hills, rivers and country life, often named together with Wang Wei. He never held an official post. He spent most of his life living quietly at home, and also travelled widely. His poems use plain, natural words and read like friendly talk."
+ },
+ "appreciation": {
+  "zh": "太阳快落山了，诗人把小船停在一个雾蒙蒙的小沙洲边。一个人在外漂泊，到了傍晚最容易想家，所以说“客愁新”。后两句不再说愁，而是写眼前的景：原野空空的，望过去天边好像比树还低；江水很清，月亮的影子落在水里，好像就在身边。天那么远、那么大，只有水里的月亮来陪他。这样写，愁没有直接说出来，却更让人感到他的孤单。",
+  "en": "The sun is about to set, and the poet ties his boat by a misty islet. Alone far from home, evening is when he misses home the most, so a fresh sadness rises. The last two lines stop talking about sorrow and only show the scene. The fields are empty, and on the horizon the sky seems lower than the trees. The river is so clear that the moon's reflection seems right beside him. The sky is far and huge, and only the moon in the water keeps him company. The sadness is never named again, yet we feel his loneliness even more."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "moon",
+   "travel",
+   "homesick",
+   "evening"
+  ]
+ },
+ "uncertain": []
+}

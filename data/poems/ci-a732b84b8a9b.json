@@ -1,0 +1,497 @@
+{
+ "id": "ci-a732b84b8a9b",
+ "kind": "ci",
+ "title": "破阵子·春景",
+ "title_en": "Breaking the Battle Line: A Spring Scene",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十二字）",
+  "en": "ci lyric in two stanzas, 62 characters"
+ },
+ "lines": [
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zi"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "社",
+    "shè"
+   ]
+  ],
+  [
+   [
+    "梨",
+    "lí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "点",
+    "diǎn"
+   ]
+  ],
+  [
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "底",
+    "dǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹂",
+    "lí"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "絮",
+    "xù"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "巧",
+    "qiǎo"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "伴",
+    "bàn"
+   ]
+  ],
+  [
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "桑",
+    "sāng"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "迎",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "怪",
+    "guài"
+   ],
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "斗",
+    "dòu"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "赢",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "脸",
+    "liǎn"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "日长的长读 cháng，是白天变长的意思。",
+   "en": "In 'the days grow long', this character is read cháng."
+  },
+  {
+   "line": 8,
+   "pos": 3,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "今朝的朝读 zhāo，是“早晨、今天”的意思。",
+   "en": "In jīn zhāo, 'today', this character is read zhāo."
+  },
+  {
+   "line": 8,
+   "pos": 4,
+   "char": "斗",
+   "pinyin": "dòu",
+   "zh": "斗草的斗读 dòu，是“比赛”的意思。",
+   "en": "In dòu cǎo, 'grass contest', this character is read dòu, meaning to compete."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "新社：春社，古人在春天祭祀土地神、祈求丰收的日子，大约在春分前后。",
+   "en": "xīn shè: the spring Earth God festival, a day when people made offerings to the god of the land and prayed for a good harvest, around the spring equinox."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "清明：二十四节气之一，在每年四月初。",
+   "en": "qīng míng: Qingming, one of the twenty-four solar terms, in early April."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "碧苔：碧绿的青苔。",
+   "en": "bì tái: green moss."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "黄鹂：一种黄色的小鸟，叫声很好听。",
+   "en": "huáng lí: the oriole, a small yellow bird with a lovely song."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "日长：白天越来越长。",
+   "en": "rì cháng: the days grow longer."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "飞絮：飘飞的柳絮。",
+   "en": "fēi xù: floating willow fluff."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "巧笑：笑得很美、很可爱。",
+   "en": "qiǎo xiào: a pretty, sweet smile."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "东邻女伴：住在东边邻居家的女伴。",
+   "en": "dōng lín nǚ bàn: a girl friend from the house next door to the east."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "采桑径：采桑叶的小路。桑叶是用来喂蚕的。",
+   "en": "cǎi sāng jìng: the path where mulberry leaves are picked. Mulberry leaves are fed to silkworms."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "逢迎：相遇，碰见。",
+   "en": "féng yíng: to meet."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "疑怪：奇怪，纳闷。",
+   "en": "yí guài: to wonder."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "昨宵：昨天夜里。",
+   "en": "zuó xiāo: last night."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "元是：原来是。",
+   "en": "yuán shì: so it was."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "斗草：古代的一种游戏，大家采来花草，比谁的多、谁的好，或者两根草茎勾在一起拉，看谁的不断。",
+   "en": "dòu cǎo: an old game. Players gather flowers and grasses and see whose are more or better, or hook two stems together and pull to see whose does not break."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "双脸：两边的脸颊。",
+   "en": "shuāng liǎn: both cheeks."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "燕子飞来的时候，正赶上春社，",
+   "en": "When the swallows come back, it is the spring Earth God festival;"
+  },
+  {
+   "zh": "梨花落了以后，就到了清明。",
+   "en": "after the pear blossoms fall, Qingming arrives."
+  },
+  {
+   "zh": "池塘边长出了三四点碧绿的青苔，",
+   "en": "By the pond, three or four spots of green moss appear;"
+  },
+  {
+   "zh": "树叶底下，黄鹂叫了一两声。",
+   "en": "under the leaves, an oriole sings once or twice."
+  },
+  {
+   "zh": "白天越来越长，柳絮轻轻地飘飞。",
+   "en": "The days grow long, and willow fluff drifts lightly."
+  },
+  {
+   "zh": "东边邻居家的女伴笑得真甜，",
+   "en": "The girl next door to the east smiles sweetly"
+  },
+  {
+   "zh": "在采桑的小路上和伙伴们相遇。",
+   "en": "as she meets her friends on the path where mulberry leaves are picked."
+  },
+  {
+   "zh": "她正奇怪昨晚怎么做了个好梦，",
+   "en": "She was wondering why she had such a sweet dream last night;"
+  },
+  {
+   "zh": "原来是今天斗草赢了。",
+   "en": "it turns out she won the grass contest today!"
+  },
+  {
+   "zh": "笑容从两边脸颊上漾了出来。",
+   "en": "A smile spreads across both cheeks."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是清明前后的乡村春景，和几个年轻姑娘在春天里游戏的快乐。具体写于哪一年已经说不清了。春社和清明都是古人春天里很热闹的日子，大家出门踏青、游玩。晏殊用很轻快的笔调，把这些画面记录了下来。",
+  "en": "This lyric shows the countryside in spring around Qingming, and the joy of some young girls playing games. We no longer know which year it was written. The spring Earth God festival and Qingming were lively spring days, when people went out to walk in the green fields and have fun. Yan Shu caught these scenes in a light, cheerful style."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），北宋词人。他从小就很聪明，十四岁就被当作“神童”推荐给朝廷，后来做到宰相。他的词多写闲适的生活和细腻的感情，语言清新优美。这首词就写得清新活泼，充满了生活气息。",
+  "en": "Yan Shu (991–1055) was a Northern Song ci poet. He was very bright as a child; at fourteen he was sent to the court as a child prodigy, and later he became chief minister. His lyrics usually show a calm, easy life and delicate feelings, in fresh and graceful words. This one is fresh and lively, full of everyday life."
+ },
+ "appreciation": {
+  "zh": "上片像一组春天的小镜头：燕子回来了，梨花落了，清明到了。池边几点青苔，叶底几声鸟叫，柳絮慢慢飘。“三四点”“一两声”，写得又小又细，春天好像就在眼前。下片出现了人。东邻的姑娘笑着在采桑路上相遇，原来她今天斗草赢了，难怪昨晚做了个好梦，笑容止不住地从脸上漾出来。这是一个天真快乐的少女，把春天的美好和少女的心情融在一起，读起来让人也跟着开心。",
+  "en": "The first stanza is like a set of little spring snapshots. The swallows are back, the pear blossoms have fallen, and Qingming has come. A few spots of moss by the pond, a few notes from under the leaves, willow fluff drifting slowly. 'Three or four spots', 'once or twice': the details are tiny and exact, and spring seems right before your eyes. In the second stanza people appear. The girl from next door meets a friend on the mulberry path, smiling. She won the grass contest today, so no wonder she had a sweet dream last night, and her smile keeps spreading over her face. She is an innocent, happy girl. The poem blends the beauty of spring with her joy, and reading it makes you happy too."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "qingming"
+  ],
+  "solar_terms": [
+   "qingming"
+  ],
+  "themes": [
+   "spring",
+   "village",
+   "girlhood",
+   "joy",
+   "birds"
+  ]
+ },
+ "uncertain": []
+}

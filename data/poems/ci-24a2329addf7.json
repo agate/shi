@@ -1,0 +1,916 @@
+{
+ "id": "ci-24a2329addf7",
+ "kind": "ci",
+ "title": "望海潮·东南形胜",
+ "title_en": "To the Tune Wang Hai Chao: The Finest Place in the Southeast",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "形",
+    "xíng"
+   ],
+   [
+    "胜",
+    "shèng"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "都",
+    "dū"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "钱",
+    "qián"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "华",
+    "huá"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "幕",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "参",
+    "cēn"
+   ],
+   [
+    "差",
+    "cī"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "堤",
+    "dī"
+   ],
+   [
+    "沙",
+    "shā"
+   ]
+  ],
+  [
+   [
+    "怒",
+    "nù"
+   ],
+   [
+    "涛",
+    "tāo"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "堑",
+    "qiàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "涯",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "列",
+    "liè"
+   ],
+   [
+    "珠",
+    "zhū"
+   ],
+   [
+    "玑",
+    "jī"
+   ]
+  ],
+  [
+   [
+    "户",
+    "hù"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "绮",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "竞",
+    "jìng"
+   ],
+   [
+    "豪",
+    "háo"
+   ],
+   [
+    "奢",
+    "shē"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "叠",
+    "dié"
+   ],
+   [
+    "巘",
+    "yǎn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "嘉",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "荷",
+    "hé"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "羌",
+    "qiāng"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "菱",
+    "líng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "泛",
+    "fàn"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "嬉",
+    "xī"
+   ],
+   [
+    "嬉",
+    "xī"
+   ],
+   [
+    "钓",
+    "diào"
+   ],
+   [
+    "叟",
+    "sǒu"
+   ],
+   [
+    "莲",
+    "lián"
+   ],
+   [
+    "娃",
+    "wá"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "拥",
+    "yōng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "牙",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "箫",
+    "xiāo"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "吟",
+    "yín"
+   ],
+   [
+    "赏",
+    "shǎng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "霞",
+    "xiá"
+   ]
+  ],
+  [
+   [
+    "异",
+    "yì"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "图",
+    "tú"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "景",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "夸",
+    "kuā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "语料“重湖叠𪩘清嘉”的“𪩘”是“巘”的异体字，通行本作“巘”。语料把“户盈罗绮竞豪奢”连成一句，课本断作“户盈罗绮，竞豪奢”。",
+  "en": "In the corpus, the character for yǎn (peaks) in line thirteen is a rare variant form; standard texts use the common one. The corpus also runs \"hù yíng luó qǐ jìng háo shē\" together as one sentence, while textbooks split it into two."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "都",
+   "pinyin": "dū",
+   "zh": "“都会”是“大城市”，“都”读 dū。",
+   "en": "Dū huì means a big city; this character is read dū, not dōu."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "参",
+   "pinyin": "cēn",
+   "zh": "“参差”读 cēn cī，形容高低长短不齐。",
+   "en": "The word is read cēn cī, meaning uneven, of different heights; here this character is cēn."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "差",
+   "pinyin": "cī",
+   "zh": "“参差”的“差”读 cī。",
+   "en": "In cēn cī, this character is read cī."
+  },
+  {
+   "line": 12,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重湖”是一层又一层的湖，“重”读 chóng。",
+   "en": "Chóng hú means lakes in layers; this character is read chóng."
+  },
+  {
+   "line": 18,
+   "pos": 1,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "“千骑”的“骑”指一人一马，古音读 jì。现在按普通话审音，统一读 qí，课本也读 qí。",
+   "en": "In qiān qí, this character means a rider and horse. The old reading was jì; today's standard Mandarin, and textbooks, read it qí."
+  },
+  {
+   "line": 21,
+   "pos": 3,
+   "char": "将",
+   "pinyin": "jiāng",
+   "zh": "“图将”的“将”是助词，没有实际意思，读 jiāng。",
+   "en": "In tú jiāng, this character is a helper word with no meaning of its own, read jiāng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "形胜：地理位置好、山水形势优越的地方。",
+   "en": "xíng shèng: a place with a fine position and splendid landscape."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "三吴：古代对长江下游江浙一带几个地区的合称，具体指哪三个地方，说法不一。",
+   "en": "sān wú: the Three Wu, an old name for several districts on the lower Yangtze, in today's Jiangsu and Zhejiang. Sources differ on exactly which three."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "都会：大城市。",
+   "en": "dū huì: a big city."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "钱塘：今天的浙江杭州。",
+   "en": "Qiántáng: today's Hangzhou in Zhejiang."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "烟柳：柳枝细密，远看像笼着一层轻烟。",
+   "en": "yān liǔ: willows so thick and fine they look wrapped in mist."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "画桥：装饰得很漂亮的桥。",
+   "en": "huà qiáo: a beautifully decorated bridge."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "风帘：挡风的帘子。",
+   "en": "fēng lián: a curtain against the wind."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "翠幕：绿色的帷幕。",
+   "en": "cuì mù: a green hanging screen."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "参差：高低不齐，这里形容房屋楼阁高高低低。",
+   "en": "cēn cī: uneven; here, houses and towers of different heights."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 6,
+   "zh": "十万人家：形容人口很多，不是准确数字。",
+   "en": "shí wàn rén jiā: a hundred thousand homes, meaning very many people, not an exact count."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "云树：又高又密、远看像云一样的树。",
+   "en": "yún shù: trees so tall and thick they look like clouds."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "堤沙：钱塘江边的沙堤。",
+   "en": "dī shā: the sandy dykes along the Qiantang River."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 5,
+   "zh": "怒涛卷霜雪：汹涌的江潮卷起白色的浪花，像霜雪一样。这是写有名的钱塘江大潮。",
+   "en": "nù tāo juǎn shuāng xuě: angry waves roll up white spray like frost and snow. This is the famous tidal bore of the Qiantang River."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "天堑：天然的大壕沟，这里指钱塘江。",
+   "en": "tiān qiàn: a moat made by nature; here, the Qiantang River."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "无涯：望不到边。",
+   "en": "wú yá: without end."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "市列珠玑：市场上摆满了珍珠宝石。珠玑，珠宝。",
+   "en": "shì liè zhū jī: the markets are laid out with pearls and gems."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "户盈罗绮：家家户户堆满了丝绸。罗绮，丝绸做的衣料。",
+   "en": "hù yíng luó qǐ: every house is full of silks."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 3,
+   "zh": "竞豪奢：比赛谁更豪华阔气。",
+   "en": "jìng háo shē: competing to be the most lavish."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "重湖：西湖被白堤分成里湖、外湖，所以叫重湖。",
+   "en": "chóng hú: layered lakes. West Lake is split by a causeway into inner and outer lakes."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "叠巘：重重叠叠的山峰。巘，山峰。",
+   "en": "dié yǎn: peak after peak."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 6,
+   "zh": "清嘉：清秀美丽。",
+   "en": "qīng jiā: clear and lovely."
+  },
+  {
+   "line": 13,
+   "start": 1,
+   "end": 5,
+   "zh": "三秋桂子：秋天的桂花。三秋，一说指秋季第三个月，农历九月；一说指整个秋天。",
+   "en": "sān qiū guì zǐ: osmanthus flowers of autumn. Sān qiū may mean the third month of autumn, or all of autumn; readings differ."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "羌管：羌笛，这里泛指笛子。",
+   "en": "qiāng guǎn: the Qiang flute; here, any flute."
+  },
+  {
+   "line": 15,
+   "start": 2,
+   "end": 4,
+   "zh": "弄晴：在晴天吹奏。",
+   "en": "nòng qíng: playing in the sunny weather."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "菱歌泛夜：采菱的歌声在夜里的湖面上飘荡。菱，一种水生植物，果实叫菱角。",
+   "en": "líng gē fàn yè: water-chestnut pickers' songs float over the lake at night. Líng is a water plant whose nuts people eat."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "嬉嬉：快乐的样子。",
+   "en": "xī xī: happy and playful."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 6,
+   "zh": "钓叟莲娃：钓鱼的老人和采莲的姑娘。",
+   "en": "diào sǒu lián wá: old fishermen and lotus-picking girls."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 2,
+   "zh": "千骑：很多骑马的随从。",
+   "en": "qiān qí: a thousand riders, a great escort."
+  },
+  {
+   "line": 18,
+   "start": 3,
+   "end": 5,
+   "zh": "高牙：高高的牙旗，是大官出行时的大旗。这里指杭州的长官。",
+   "en": "gāo yá: a tall banner carried before a high official. Here it stands for the governor of Hangzhou."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "乘醉：趁着酒醉。",
+   "en": "chéng zuì: while merry with wine."
+  },
+  {
+   "line": 19,
+   "start": 3,
+   "end": 5,
+   "zh": "箫鼓：吹箫打鼓，指音乐。",
+   "en": "xiāo gǔ: pipes and drums, that is, music."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "吟赏烟霞：吟诗欣赏山水风光。烟霞，山水景色。",
+   "en": "yín shǎng yān xiá: reciting poems and enjoying the scenery. Yān xiá, mist and clouds, means hills and water."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 2,
+   "zh": "异日：将来的某一天。",
+   "en": "yì rì: some day in the future."
+  },
+  {
+   "line": 21,
+   "start": 2,
+   "end": 6,
+   "zh": "图将好景：把美景画下来。",
+   "en": "tú jiāng hǎo jǐng: paint the fine scenery."
+  },
+  {
+   "line": 22,
+   "start": 2,
+   "end": 4,
+   "zh": "凤池：凤凰池，原是皇宫里的池子，这里代指朝廷。",
+   "en": "fèng chí: the Phoenix Pool, a pool in the palace; here it stands for the imperial court."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "东南地方形势最好，",
+   "en": "The southeast has the finest land and waters;"
+  },
+  {
+   "zh": "是三吴一带的大城市，",
+   "en": "here is the great city of the Three Wu:"
+  },
+  {
+   "zh": "钱塘从古到今都很繁华。",
+   "en": "Qiantang, rich and busy since ancient times."
+  },
+  {
+   "zh": "柳树像笼着轻烟，桥梁装饰得像画一样，",
+   "en": "Willows like mist, bridges like paintings,"
+  },
+  {
+   "zh": "挡风的帘子，绿色的帷幕，",
+   "en": "wind curtains and green screens,"
+  },
+  {
+   "zh": "高高低低住着十万户人家。",
+   "en": "houses high and low for a hundred thousand families."
+  },
+  {
+   "zh": "高大的树木像云一样环绕着江边沙堤，",
+   "en": "Trees like clouds circle the sandy dykes;"
+  },
+  {
+   "zh": "汹涌的江潮卷起霜雪一样的浪花，",
+   "en": "furious tides roll up waves like frost and snow;"
+  },
+  {
+   "zh": "宽阔的钱塘江望不到边。",
+   "en": "the great river, nature's moat, has no end in sight."
+  },
+  {
+   "zh": "市场上摆满了珍珠宝石，",
+   "en": "The markets are laid out with pearls and gems,"
+  },
+  {
+   "zh": "家家户户堆满了绫罗绸缎，",
+   "en": "every house is full of silks,"
+  },
+  {
+   "zh": "比赛谁更豪华。",
+   "en": "all competing in luxury."
+  },
+  {
+   "zh": "里湖外湖，层层山峰，清秀美丽，",
+   "en": "Layered lakes and peak on peak, clear and lovely;"
+  },
+  {
+   "zh": "秋天有飘香的桂花，",
+   "en": "in autumn there are sweet osmanthus flowers,"
+  },
+  {
+   "zh": "夏天有十里荷花。",
+   "en": "in summer, ten miles of lotus."
+  },
+  {
+   "zh": "晴天里笛声悠扬，",
+   "en": "Flutes play in the sunshine,"
+  },
+  {
+   "zh": "夜晚湖上飘着采菱的歌，",
+   "en": "water-chestnut songs drift over the night lake,"
+  },
+  {
+   "zh": "钓鱼的老人和采莲的姑娘都快快乐乐。",
+   "en": "and old fishermen and lotus girls are full of joy."
+  },
+  {
+   "zh": "长官出行，许多骑兵簇拥着高高的大旗，",
+   "en": "A thousand riders crowd round the governor's tall banner;"
+  },
+  {
+   "zh": "他趁着酒兴听着箫鼓音乐，",
+   "en": "merry with wine, he listens to pipes and drums,"
+  },
+  {
+   "zh": "吟诗欣赏山水美景。",
+   "en": "and chants poems as he enjoys the mist and clouds."
+  },
+  {
+   "zh": "将来有一天，把这美景画下来，",
+   "en": "Some day he will paint this fine scenery,"
+  },
+  {
+   "zh": "回到朝廷时向大家夸耀。",
+   "en": "and take it back to court to boast of it."
+  }
+ ],
+ "background": {
+  "zh": "这首词写北宋时杭州的繁华。宋人笔记里说，柳永想去拜见当时在杭州做官的孙何，就写了这首词，请歌女在宴会上唱给孙何听。这个故事是否可靠，学者有不同看法。还有一个传说：后来金国皇帝完颜亮听到“三秋桂子，十里荷花”，很羡慕江南，就起了南下攻宋的念头。这也只是传说。",
+  "en": "This lyric shows how rich and lively Hangzhou was in the Northern Song. Song-dynasty notes say Liu Yong wanted to meet Sun He, an official then in Hangzhou, so he wrote this and had a singer perform it at a banquet. Scholars disagree on whether this story is reliable. Another legend says that later the Jin emperor Wanyan Liang heard the lines about osmanthus and lotus, longed for the south, and decided to invade. That too is only a legend."
+ },
+ "author_note": {
+  "zh": "柳永（约987—约1053），原名三变，北宋词人。他考试多次落榜，长期在城市里和乐工、歌女来往，为他们写了大量歌词，当时有“凡有井水饮处，即能歌柳词”的说法。他很会写长调，也很会描写城市生活，这首词就是代表作。",
+  "en": "Liu Yong (about 987–about 1053), first named Sanbian, was a Northern Song lyric poet. He failed the exams many times and spent years in cities among musicians and singers, writing songs for them. People said that wherever there was a well, someone sang Liu Yong's lyrics. He was a master of long lyrics and of city life, and this is one of his best."
+ },
+ "appreciation": {
+  "zh": "这首词像一部介绍杭州的风光片。镜头先拉得很远：东南最好的地方，三吴的大城市，自古就繁华。然后慢慢推近：烟一样的柳树，画一样的桥，十万户人家。接着转到钱塘江，大潮翻滚，浪花像霜雪。再转到街市：珠宝满街，丝绸满屋。下阕写西湖：湖连着湖，山连着山，秋天桂花香，夏天十里荷花开。白天有笛声，夜里有采菱歌，老人和孩子都很快乐。最后写长官带着人马游玩，喝酒听歌，欣赏风景。整首词色彩明亮，热闹又从容，让人觉得杭州真是人间天堂。",
+  "en": "This lyric is like a travel film about Hangzhou. The camera starts far away: the finest place in the southeast, the great city of the Three Wu, rich since ancient times. Then it slowly moves in: willows like mist, bridges like paintings, a hundred thousand homes. Next it turns to the Qiantang River, where the great tide rolls and the spray looks like frost and snow. Then to the streets: pearls everywhere, silks in every house. The second half shows West Lake: lake after lake, hill after hill, osmanthus in autumn and ten miles of lotus in summer. There are flutes by day and water-chestnut songs at night, and old and young are happy. Last comes the governor with his riders, drinking, listening to music and enjoying the view. The lyric is bright, lively and relaxed, and makes Hangzhou feel like heaven on earth."
+ },
+ "famous_lines": [
+  13,
+  14
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "city",
+   "hangzhou",
+   "west-lake",
+   "landscape",
+   "prosperity"
+  ]
+ },
+ "uncertain": []
+}

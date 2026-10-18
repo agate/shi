@@ -1,0 +1,460 @@
+{
+ "id": "34a23446-cb6c-40e2-9d5f-81db0657f3d7",
+ "kind": "shi",
+ "title": "秋兴八首·其一",
+ "title_en": "Autumn Meditations, No. 1 of Eight",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "凋",
+    "diāo"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "枫",
+    "fēng"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "巫",
+    "wū"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "巫",
+    "wū"
+   ],
+   [
+    "峡",
+    "xiá"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "森",
+    "sēn"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "兼",
+    "jiān"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涌",
+    "yǒng"
+   ]
+  ],
+  [
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "阴",
+    "yīn"
+   ]
+  ],
+  [
+   [
+    "丛",
+    "cóng"
+   ],
+   [
+    "菊",
+    "jú"
+   ],
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "系",
+    "xì"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "刀",
+    "dāo"
+   ],
+   [
+    "尺",
+    "chǐ"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "急",
+    "jí"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "砧",
+    "zhēn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "系",
+   "pinyin": "xì",
+   "zh": "“系”是“拴住”的意思。现在课本多读 xì，口语里拴东西也常说 jì。",
+   "en": "Here it means to tie up, and textbooks mostly read it xì. In everyday speech, tying something is also often said jì."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "“塞上”的“塞”指边塞、险要的地方，读 sài。",
+   "en": "Here it means a frontier or a pass, so it is read sài."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "玉露：像白玉一样的秋露，秋天的寒露。",
+   "en": "yù lù: autumn dew, white as jade."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "凋伤：使草木凋零、受伤。",
+   "en": "diāo shāng: to make leaves wither and fall."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "巫山巫峡：巫山和巫峡，在今天重庆和湖北交界的长江边。",
+   "en": "wū shān wū xiá: Mount Wu and Wu Gorge, on the Yangtze where Chongqing meets Hubei today."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "萧森：萧瑟阴森，冷清凄凉。",
+   "en": "xiāo sēn: bleak, cold and gloomy."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "江间：江上。",
+   "en": "jiāng jiān: on the river."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "兼天涌：波浪翻腾，好像连着天一起涌起来。",
+   "en": "jiān tiān yǒng: the waves surge so high they seem to rise with the sky."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "塞上：这里指夔州一带险要的高山。一说指北方的边塞。",
+   "en": "sài shàng: here the steep mountains around Kuizhou; another reading says the northern frontier."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "接地阴：乌云低低地压到地面，天地一片昏暗。",
+   "en": "jiē dì yīn: dark clouds hang down to the ground, and everything is gloomy."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "丛菊两开：一丛丛的菊花已经开了两次，表示离家已经两年。",
+   "en": "cóng jú liǎng kāi: the clumps of chrysanthemums have bloomed twice, meaning he has been away two years."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "他日泪：往日的眼泪，过去流过的伤心泪又流了下来。",
+   "en": "tā rì lèi: tears of other days; the old tears flow once more."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "孤舟：孤零零的一条船。",
+   "en": "gū zhōu: a lonely boat."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "一系：一直拴着。指船停着走不了，诗人回不了家。",
+   "en": "yī xì: tied up all this while; the boat cannot leave, and the poet cannot go home."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "故园心：想念家乡的心。故园，家乡。",
+   "en": "gù yuán xīn: a heart that longs for home; gù yuán means hometown."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "寒衣：冬天穿的衣服。",
+   "en": "hán yī: winter clothes."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "催刀尺：催着人们赶快用剪刀和尺子裁衣服。",
+   "en": "cuī dāo chǐ: hurrying people to cut cloth with scissors and rulers."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "白帝城：古城名，在今天重庆奉节东边的白帝山上。",
+   "en": "bái dì chéng: an old city on White Emperor Hill, east of today's Fengjie in Chongqing."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "急暮砧：傍晚急促的捣衣声。砧，捣衣服用的石头。古人做冬衣前，要把布放在石头上用木棒捶打。",
+   "en": "jí mù zhēn: the hurried pounding of cloth at dusk. Zhēn is the stone for beating cloth; people of old beat cloth on a stone with a wooden stick before making winter clothes."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "白露降下，枫树林一片凋零，",
+   "en": "White dew falls, and the maple woods wither;"
+  },
+  {
+   "zh": "巫山巫峡，到处是萧瑟阴冷的秋气。",
+   "en": "over Mount Wu and Wu Gorge hangs a bleak, cold air."
+  },
+  {
+   "zh": "江上波浪翻滚，好像连着天一起涌起，",
+   "en": "On the river, waves surge as if rising to the sky;"
+  },
+  {
+   "zh": "山上的乌云压下来，连着地面，天地一片昏暗。",
+   "en": "over the passes, clouds press down to the earth, and all is dark."
+  },
+  {
+   "zh": "菊花已经开了两回，我又流下往日的眼泪；",
+   "en": "The chrysanthemums have bloomed twice, and old tears fall again;"
+  },
+  {
+   "zh": "一条孤船一直拴在岸边，拴住了我想家的心。",
+   "en": "my lonely boat stays tied up, and so does my homesick heart."
+  },
+  {
+   "zh": "家家户户都在赶着裁剪冬衣，",
+   "en": "Everywhere people hurry to cut winter clothes;"
+  },
+  {
+   "zh": "傍晚，高高的白帝城里，传来一阵阵急促的捣衣声。",
+   "en": "at dusk, from high White Emperor City, comes the quick beat of cloth on stone."
+  }
+ ],
+ "background": {
+  "zh": "唐代宗大历元年（766年）秋天，杜甫住在夔州（今重庆奉节）。这时安史之乱虽然已经结束，国家却还不太平，他自己年老多病，回不了家乡。看着峡江的秋景，他写下了八首诗，合称《秋兴八首》，意思是秋天里引起的感触。这是第一首，是整组诗的开头。",
+  "en": "In the autumn of 766 Du Fu was living in Kuizhou, today's Fengjie in Chongqing. The An Lushan Rebellion was over, but the country was still not at peace. He was old and ill and could not go home. Looking at autumn in the river gorges, he wrote eight poems called \"Autumn Meditations\", meaning feelings stirred by autumn. This is the first one, which opens the whole set."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他晚年漂泊在四川和湖北一带，生活困苦。他的七言律诗写得特别好，《秋兴八首》被看作他七律的代表作，写景和抒情结合得很紧密。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. In his last years he drifted around Sichuan and Hubei and lived in hardship. He was especially good at seven-character regulated verse, and \"Autumn Meditations\" is seen as his finest work in that form. In it, scenery and feeling are woven tightly together."
+ },
+ "appreciation": {
+  "zh": "前四句写秋景，越写越大。先是枫叶被寒露打落，再是整个巫山巫峡都冷冷清清；然后江上的浪冲上天，山上的云压到地，天地之间一片昏暗动荡。这既是眼前的景，也像当时动荡不安的国家。后四句转到自己：菊花开了两回，说明离家两年了；小船拴在岸边，走不了，心也被拴住了。最后，家家都在赶做冬衣，傍晚的捣衣声一阵比一阵急，听在漂泊的人耳朵里，更加想家。",
+  "en": "The first four lines paint autumn, and the picture keeps growing. First the maple leaves are struck down by cold dew. Then all of Mount Wu and Wu Gorge feels bleak. Then the waves leap up to the sky and the clouds press down to the earth, and the whole world is dark and restless. This is the scene before him, and it is also like the troubled country of that time. The last four lines turn to the poet himself. The chrysanthemums have bloomed twice, so he has been away two years. His boat is tied to the bank and cannot leave, and his heart is tied too. At the end, every family is rushing to make winter clothes. The pounding of cloth at dusk grows faster and faster. To a man far from home, it makes him miss home even more."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "river",
+   "old-age",
+   "country"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,511 @@
+{
+ "id": "ci-25675e7c4677",
+ "kind": "ci",
+ "title": "唐多令·惜别",
+ "title_en": "To the Tune Tang Duo Ling: Sorry to Part",
+ "author": "吴文英",
+ "author_en": "Wu Wenying",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·唐多令（双调）",
+  "en": "ci lyric to the tune Tang Duo Ling, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "合",
+    "hé"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "纵",
+    "zòng"
+   ],
+   [
+    "芭",
+    "bā"
+   ],
+   [
+    "蕉",
+    "jiāo"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "飕",
+    "sōu"
+   ],
+   [
+    "飕",
+    "sōu"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "辞",
+    "cí"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "淹",
+    "yān"
+   ],
+   [
+    "留",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "萦",
+    "yíng"
+   ],
+   [
+    "裙",
+    "qún"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "系",
+    "xì"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "这里是名词“地方”，读 chù。",
+   "en": "Here it is a noun meaning \"place\", read chù."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "都",
+   "pinyin": "dōu",
+   "zh": "这里是“全、都”的意思，读 dōu，不读 dū。",
+   "en": "Read dōu here, meaning \"all\", not dū."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yàn",
+   "zh": "这里指燕子，读 yàn。",
+   "en": "Read yàn here, meaning the swallow."
+  },
+  {
+   "line": 9,
+   "pos": 1,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "“长是”就是“常是、总是”，读 cháng。",
+   "en": "Cháng shì means \"always\"; it is read cháng."
+  },
+  {
+   "line": 9,
+   "pos": 3,
+   "char": "系",
+   "pinyin": "xì",
+   "zh": "这里是“拴住”的意思，一般读 xì。也有人按“系鞋带”的意思读 jì。",
+   "en": "Here it means \"to tie up, to moor\", usually read xì. Some read it jì, as in tying a knot."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "何处合成愁：在哪里能合成一个“愁”字？这是一个字谜。",
+   "en": "hé chù hé chéng chóu: where do the pieces come together to make \"sorrow\"? It is a character riddle."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 5,
+   "zh": "离人心上秋：离别的人心上有了秋，“秋”字下面加个“心”，就是“愁”字。",
+   "en": "lí rén xīn shàng qiū: autumn on top of a parting person's heart. The character for autumn placed on top of the character for heart makes the character for sorrow."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "纵：即使。",
+   "en": "zòng: even if."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 8,
+   "zh": "飕飕：风吹的声音，这里也有凉飕飕、冷清的意思。",
+   "en": "sōu sōu: the sound of wind; it also means chilly and lonely."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "都道：大家都说。",
+   "en": "dōu dào: everyone says."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 6,
+   "zh": "怕登楼：不敢上楼看月亮，怕看了更想念人。",
+   "en": "pà dēng lóu: afraid to climb the tower, for fear that seeing the moon will make him miss her even more."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "年事：过去的往事，也指自己的年华。",
+   "en": "nián shì: past events of the years, and also his own passing years."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "梦中休：像梦一样结束了。",
+   "en": "mèng zhōng xiū: ended like a dream."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "花空：花都落了，什么也没剩下。",
+   "en": "huā kōng: the flowers are gone, nothing left."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "烟水流：只剩下笼着烟雾的水在流。",
+   "en": "yān shuǐ liú: only misty water flowing on."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "燕辞归：燕子告别这里，飞回南方去了。",
+   "en": "yàn cí guī: the swallows have said goodbye and flown south."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "淹留：长久地停留在外地。",
+   "en": "yān liú: to stay on and on in a strange place."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 4,
+   "zh": "萦：缠绕。",
+   "en": "yíng: to wind around."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "裙带住：缠住她的裙带，把她留住。",
+   "en": "qún dài zhù: to catch her skirt sash and keep her here."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "漫：白白地，徒然。长是：总是。",
+   "en": "màn cháng shì: màn means in vain; cháng shì means always."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 6,
+   "zh": "系行舟：拴住我这只要走的船。",
+   "en": "xì xíng zhōu: to tie up my boat that should be leaving."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "愁是从哪里合成的？",
+   "en": "Where is sorrow put together?"
+  },
+  {
+   "zh": "是离别的人心上加了一个秋。",
+   "en": "It is autumn set upon a parting heart."
+  },
+  {
+   "zh": "就算不下雨，芭蕉叶也在风里飕飕作响。",
+   "en": "Even without rain, the banana leaves rustle cold in the wind."
+  },
+  {
+   "zh": "大家都说晚上凉快，天气正好，",
+   "en": "Everyone says the cool evenings are lovely,"
+  },
+  {
+   "zh": "可是有明月的夜晚，我却怕登上高楼。",
+   "en": "but on moonlit nights I am afraid to climb the tower."
+  },
+  {
+   "zh": "往年的事像梦一样结束了，",
+   "en": "The years gone by have ended like a dream;"
+  },
+  {
+   "zh": "花落光了，只剩下烟雾笼罩的流水。",
+   "en": "the flowers are gone, only misty water flows on."
+  },
+  {
+   "zh": "燕子都告别回去了，我这个客人还滞留在外。",
+   "en": "The swallows have said goodbye and gone home, yet I, a traveller, still linger."
+  },
+  {
+   "zh": "垂柳的长枝不肯缠住她的裙带把她留下，",
+   "en": "The weeping willows would not wind around her sash to keep her,"
+  },
+  {
+   "zh": "却总是白白地拴住我这只要走的船。",
+   "en": "yet they keep tying up my boat, all for nothing."
+  }
+ ],
+ "background": {
+  "zh": "这首词的题目是“惜别”，写秋天里和心爱的人分别以后的愁。吴文英一生没有做官，常年在苏州、杭州一带给别人做幕僚。一说这首词写的是他和苏州一位相爱女子分别的事，不过写作的具体时间和对象都没有确切的记载。",
+  "en": "The title of this lyric is \"Sorry to Part\". It is about the sorrow after parting from someone he loved, in autumn. Wu Wenying never held an official post. For many years he worked as an adviser in the households of officials around Suzhou and Hangzhou. One view says the lyric is about his parting from a woman he loved in Suzhou, but there is no clear record of when it was written or who it was for."
+ },
+ "author_note": {
+  "zh": "吴文英（约1200—约1260），字君特，号梦窗，四明（今浙江宁波）人，南宋词人。他的词大多用字华丽、意思曲折，有时比较难懂。这首《唐多令》却写得清新明白，开头还用了字谜，是他作品里很特别的一首。",
+  "en": "Wu Wenying (about 1200 to about 1260), courtesy name Junte, also called Mengchuang, came from Siming, today's Ningbo in Zhejiang. He was a lyric poet of the Southern Song. Most of his lyrics use rich words and winding meanings, and can be hard to understand. This one, though, is fresh and clear, and even opens with a character riddle, so it stands out among his works."
+ },
+ "appreciation": {
+  "zh": "开头两句像猜字谜：“愁”字怎么来的？是“秋”放在“心”上。这么一拆，秋天和离别的心就紧紧连在了一起。接着写秋夜：不下雨，芭蕉也飕飕响，处处凉意。别人都说秋夜凉爽好天气，他却不敢上楼看月亮，因为明月最让人想念远方的人。下阕写往事都像梦，花落了，水流走了。燕子都回南方了，他却还留在异乡。最后两句最妙：柳条那么长，偏偏留不住她，却总是拴住他的船，让他走不了。柳条好像故意和他作对，其实是写他心里的无奈。",
+  "en": "The first two lines are like a riddle: where does the character for sorrow come from? It is the character for autumn sitting on top of the character for heart. Taken apart like this, autumn and a parting heart are tied tightly together. Next comes an autumn night. Even without rain, the banana leaves rustle in the wind, and it is cool everywhere. Others say the cool autumn night is lovely, but he dares not climb the tower to see the moon, because the bright moon makes you miss someone far away most of all. The second stanza says the past is like a dream; the flowers have fallen, the water has flowed away. The swallows have gone south, yet he still stays in a strange place. The last two lines are the best. The willow branches are so long, yet they could not keep her, and they keep tying up his boat so he cannot leave. The willows seem to be against him on purpose. Really, this shows how helpless he feels."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "sorrow",
+   "autumn",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

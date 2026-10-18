@@ -1,0 +1,419 @@
+{
+ "id": "8435b46d-bbf1-49e5-af66-6f2d5681f1bf",
+ "kind": "shi",
+ "title": "寄李儋元锡",
+ "title_en": "To Li Dan, Courtesy Name Yuanxi",
+ "author": "韦应物",
+ "author_en": "Wei Yingwu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "世",
+    "shì"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "料",
+    "liào"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "疾",
+    "jí"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "邑",
+    "yì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "亡",
+    "wáng"
+   ],
+   [
+    "愧",
+    "kuì"
+   ],
+   [
+    "俸",
+    "fèng"
+   ],
+   [
+    "钱",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "讯",
+    "xùn"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "圆",
+    "yuán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "最后一句的“回”，这里的古籍底本写作“廻”，是“回”的另一种写法，意思一样。通行本用“回”。",
+  "en": "In the last line, the old source writes huí (time, round) with a rarer variant form of the same character. The common text uses the standard form. The meaning is the same."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "逢君别：和你相会，又和你分别。",
+   "en": "féng jūn bié: met you, and then parted from you."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "世事：世上的事，这里主要指国家大事。",
+   "en": "shì shì: the affairs of the world, here mainly the state of the country."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "茫茫：模糊不清，看不到头。",
+   "en": "máng máng: vague, with no end in sight."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "难自料：自己很难预料。",
+   "en": "nán zì liào: hard to foresee for oneself."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "黯黯：心情低落、暗淡的样子。",
+   "en": "àn àn: gloomy and low in spirits."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "独成眠：一个人睡下。",
+   "en": "dú chéng mián: falling asleep alone."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "思田里：想回到乡下种田，也就是想辞官回家。",
+   "en": "sī tián lǐ: longing to go back to the countryside, meaning to give up office and go home."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "邑：这里指诗人管理的滁州。",
+   "en": "yì: a town or district; here Chuzhou, which the poet governed."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "流亡：百姓因为穷困，离开家乡逃到外地。",
+   "en": "liú wáng: people fleeing their homes because of poverty."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "愧俸钱：拿着朝廷发的工资，心里觉得惭愧。俸钱，官员的薪水。",
+   "en": "kuì fèng qián: feeling ashamed to take his pay; fèng qián is an official's salary."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "闻道：听说。",
+   "en": "wén dào: I hear that."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "问讯：探望、问候。",
+   "en": "wèn xùn: to visit and ask after someone."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "几回圆：月亮已经圆了好几次，意思是盼了好几个月。",
+   "en": "jǐ huí yuán: the moon has been full several times, meaning he has waited many months."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "去年花开的时候，我们相会又分别，",
+   "en": "Last year, among the flowers, we met and then parted;"
+  },
+  {
+   "zh": "今天花又开了，已经过去整整一年。",
+   "en": "today the flowers bloom again, and a whole year has gone."
+  },
+  {
+   "zh": "世上的事模糊难测，自己也预料不到，",
+   "en": "The affairs of the world are dim and hard to foresee;"
+  },
+  {
+   "zh": "春天的愁绪让我心情低落，只能一个人睡下。",
+   "en": "heavy with spring sorrow, I fall asleep alone."
+  },
+  {
+   "zh": "我身体多病，常常想辞官回乡种田，",
+   "en": "Often ill, I long to go home and farm;"
+  },
+  {
+   "zh": "我管的地方还有百姓逃亡，拿着俸禄真觉得惭愧。",
+   "en": "while people in my district still flee, I am ashamed to take my pay."
+  },
+  {
+   "zh": "听说你要来看望我，",
+   "en": "I hear you mean to come and visit me;"
+  },
+  {
+   "zh": "我在西楼望着月亮，它已经圆了好几回。",
+   "en": "from the west tower I watch the moon, which has grown full time and again."
+  }
+ ],
+ "background": {
+  "zh": "这首诗一般认为写于唐德宗兴元元年（784年）春天。前一年，韦应物离开长安，到滁州（今安徽滁州）做刺史，也就是当地的长官。当时国家刚经历叛乱，皇帝都逃出了长安，局势很乱。他写信给老朋友李儋，说出自己的忧愁。李儋字元锡，是韦应物的好朋友；一说元锡是另一个人，这首诗是同时寄给两位朋友的。",
+  "en": "This poem is usually dated to the spring of 784. The year before, Wei Yingwu had left Chang'an to become prefect of Chuzhou, today's Chuzhou in Anhui, that is, the head official of the area. The country had just been hit by a revolt, and even the emperor had fled Chang'an. Times were very unsettled. He wrote to his old friend Li Dan to share his worries. Li Dan's courtesy name was Yuanxi. Another view says Yuanxi was a different person, and the poem was sent to two friends at once."
+ },
+ "author_note": {
+  "zh": "韦应物（约737—约792），唐代诗人。他年轻时做过皇帝的侍卫，性格豪放；后来发奋读书，做了地方官，很关心百姓。他的诗清淡自然，多写田园山水。他做过苏州刺史，所以人们也叫他“韦苏州”。",
+  "en": "Wei Yingwu (about 737 to about 792) was a Tang poet. As a young man he was a guard to the emperor and lived wildly. Later he studied hard, became a local official, and cared deeply for the people. His poems are plain, clear and natural, often about the countryside and nature. He once served as prefect of Suzhou, so people also call him Wei Suzhou."
+ },
+ "appreciation": {
+  "zh": "开头两句用花开花落来记时间：去年花开时分别，今年花又开了。简单的对比，写出了时间过得快，也写出了思念。三、四句说国家大事看不清，自己也很迷茫，春天的愁闷让人只能独自睡去。五、六句最有名：身体不好，想回家种田；可是自己管的地方还有百姓在逃荒，拿着工资心里很惭愧。一个当官的人能这样自责，非常难得，后来很多人都称赞这两句。最后说，听说朋友要来，自己天天在西楼等，月亮都圆了好几回了。",
+  "en": "The first two lines count time by the flowers. They parted when the flowers bloomed last year, and now the flowers bloom again. This simple contrast shows how fast time flies, and how much he misses his friend. Lines three and four say the country's future is unclear, he himself feels lost, and spring gloom leaves him to sleep alone. Lines five and six are the most famous. He is often ill and wants to go home and farm. But people in his district are still fleeing from hunger, and he is ashamed to take his pay. It is rare for an official to blame himself like this, and many later readers praised these lines. At the end he says he has heard his friend will come, and he waits in the west tower every night; the moon has already been full several times."
+ },
+ "famous_lines": [
+  2,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "longing",
+   "duty",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

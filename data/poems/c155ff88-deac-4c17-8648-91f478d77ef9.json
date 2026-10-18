@@ -1,0 +1,269 @@
+{
+ "id": "c155ff88-deac-4c17-8648-91f478d77ef9",
+ "kind": "shi",
+ "title": "望庐山瀑布",
+ "title_en": "Viewing the Waterfall at Mount Lu",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "炉",
+    "lú"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "紫",
+    "zǐ"
+   ],
+   [
+    "烟",
+    "yān"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "瀑",
+    "pù"
+   ],
+   [
+    "布",
+    "bù"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "川",
+    "chuān"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "尺",
+    "chǐ"
+   ]
+  ],
+  [
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "九",
+    "jiǔ"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "诗的文字和古籍底本相同。底本题目作《望庐山瀑布水二首》，这是第二首；课本题作《望庐山瀑布》。",
+  "en": "The words of the poem match the source text. The source title is \"Two Poems on Viewing the Waterfall at Mount Lu\", and this is the second one. Textbooks call it \"Viewing the Waterfall at Mount Lu\"."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "看",
+   "pinyin": "kàn",
+   "zh": "看，现在课本读 kàn。按照格律，这个位置应该是平声，古人可能读 kān。",
+   "en": "Textbooks read this character as kàn. By the rules of tone pattern this spot needs a level tone, so poets of old may have said kān."
+  },
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "瀑",
+   "pinyin": "pù",
+   "zh": "瀑，读 pù，不读 bào。",
+   "en": "This character is read pù here, not bào."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "香炉：香炉峰，庐山的一座山峰。它的样子像烧香用的炉子，云气绕着它，就像炉子在冒烟。",
+   "en": "xiāng lú: Incense Burner Peak, one of the peaks of Mount Lu. It is shaped like an incense burner, and clouds drift around it like smoke."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "紫烟：太阳照着山上的水汽和云雾，看起来是紫色的烟。",
+   "en": "zǐ yān: purple smoke, the mist and cloud on the mountain lit by the sun."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "遥看：从远处看。",
+   "en": "yáo kàn: to look from far away."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "挂前川：瀑布像一条白布挂在山前的河上。川，河流。",
+   "en": "guà qián chuān: the waterfall hangs like a white cloth above the river in front. Chuān means a river."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "直下：笔直地往下冲。",
+   "en": "zhí xià: plunging straight down."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "三千尺：形容非常高，不是准确的数字。",
+   "en": "sān qiān chǐ: three thousand feet, a way of saying very, very high, not a real measure."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "疑是：好像是，让人怀疑是。",
+   "en": "yí shì: it seems to be, you wonder if it is."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "银河：夜空中一条由无数星星组成的白色光带。",
+   "en": "yín hé: the Milky Way, the white band of countless stars across the night sky."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "九天：古人说天有九层，九天就是最高的天。",
+   "en": "jiǔ tiān: the ninth heaven. People of old said the sky had nine layers, and this is the highest."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "太阳照着香炉峰，升起一片紫色的云烟。",
+   "en": "The sun shines on Incense Burner Peak, and purple mist rises."
+  },
+  {
+   "zh": "远远望去，瀑布像一条白布挂在山前的河上。",
+   "en": "From far away the waterfall hangs like white cloth over the river."
+  },
+  {
+   "zh": "水流飞一般笔直冲下，好像有三千尺那么高。",
+   "en": "The water flies straight down, as if from three thousand feet."
+  },
+  {
+   "zh": "让人怀疑是银河从最高的天上落了下来。",
+   "en": "You wonder if the Milky Way is falling from the highest heaven."
+  }
+ ],
+ "background": {
+  "zh": "庐山在今天的江西九江，山上有很多瀑布。一般认为，这首诗是李白年轻时离开四川、出外游历，经过庐山时写的，大约在725年前后。一说是他晚年隐居庐山时写的。这首诗原本有两首，第一首是五言古诗，这首是第二首，写得最有名。",
+  "en": "Mount Lu is in today's Jiujiang, Jiangxi, and has many waterfalls. Most people think Li Bai wrote this poem as a young man, after leaving Sichuan to travel, when he passed Mount Lu around 725. Another view says he wrote it later in life while living on the mountain. There were two poems with this title. The first is a longer five-character poem. This is the second, and the more famous."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他从小在蜀地（今四川）长大，二十多岁离开家乡，到各地游历。他的诗想象大胆，气势豪放，最爱写山水、明月和美酒。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. He grew up in Shu, today's Sichuan. In his twenties he left home and travelled far and wide. His poems are bold and full of wild imagination. He loved to write about mountains, rivers, the moon and wine."
+ },
+ "appreciation": {
+  "zh": "第一句先写远景：阳光照着山峰，紫色的云烟慢慢升起，像一幅仙境。第二句写瀑布远看是静的，像一块挂起来的白布，一个“挂”字很妙。第三句瀑布动起来了，“飞流直下”，又快又猛。最后一句是大胆的想象：这哪里是瀑布，简直是银河从天上掉下来了！从静到动，从眼前到天上，这首诗写出了瀑布的高、急和壮美，也写出了李白那颗自由奔放的心。",
+  "en": "The first line shows the distant view. The sun lights the peak, and purple mist rises slowly, like a land of immortals. In the second line, seen from far away, the waterfall looks still, like a white cloth hung up. The word \"hang\" is just right. In the third line the waterfall comes alive: it flies straight down, fast and fierce. The last line is a bold leap of imagination. This is not a waterfall, it is the Milky Way falling from the sky! From still to moving, from the scene in front to the heavens above, the poem shows how high, fast and grand the waterfall is. It also shows Li Bai's free and soaring spirit."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "waterfall",
+   "mountain",
+   "scenery",
+   "imagination"
+  ]
+ },
+ "uncertain": []
+}

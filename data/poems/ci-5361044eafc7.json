@@ -1,0 +1,758 @@
+{
+ "id": "ci-5361044eafc7",
+ "kind": "ci",
+ "title": "桂枝香·金陵怀古",
+ "title_en": "Fragrance of Osmanthus: Recalling the Past at Jinling",
+ "author": "王安石",
+ "author_en": "Wang Anshi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调慢词",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "目",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "肃",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "澄",
+    "chéng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "练",
+    "liàn"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "峰",
+    "fēng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "簇",
+    "cù"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "棹",
+    "zhào"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "背",
+    "bèi"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "矗",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "淡",
+    "dàn"
+   ]
+  ],
+  [
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "图",
+    "tú"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "足",
+    "zú"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "往",
+    "wǎng"
+   ],
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "繁",
+    "fán"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "竞",
+    "jìng"
+   ],
+   [
+    "逐",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "续",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "嗟",
+    "jiē"
+   ],
+   [
+    "荣",
+    "róng"
+   ],
+   [
+    "辱",
+    "rǔ"
+   ]
+  ],
+  [
+   [
+    "六",
+    "liù"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "事",
+    "shì"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ]
+  ],
+  [
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "商",
+    "shāng"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "唱",
+    "chàng"
+   ]
+  ],
+  [
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "遗",
+    "yí"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "这里用的是课本和通行本的文字。古诗词数据库里有两处不同：一是“但寒烟衰草凝绿”写作“但寒烟、芳草凝绿”；二是断句为“千古凭高，对此漫嗟荣辱”，通行本断作“千古凭高对此，漫嗟荣辱”。另外，“漫”有的版本写作“谩”，意思一样。",
+  "en": "This page uses the text found in textbooks and standard editions. The poetry database differs in two places. First, it has \"fragrant grass\" where the standard text has \"withered grass\" in the line about cold mist. Second, it breaks the line about standing high one word later; the standard text breaks it after \"looking at this\". Also, some editions write màn with a different character that has the same meaning."
+ },
+ "readings": [
+  {
+   "line": 16,
+   "pos": 6,
+   "char": "绿",
+   "pinyin": "lǜ",
+   "zh": "现在读 lǜ。这首词押的是古代入声韵，韵脚有“肃、簇、矗、足、逐、续、辱、曲”，有人把这里的“绿”读作 lù，听起来更押韵。",
+   "en": "Today it is read lǜ. This ci uses an old entering-tone rhyme, with rhyme words like sù, cù, chù, zú, zhú, xù, rǔ and qǔ. Some people read this character as lù so it sounds closer to the rhyme."
+  },
+  {
+   "line": 19,
+   "pos": 3,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "这里是“歌曲”的意思，读 qǔ，不读 qū。",
+   "en": "Here it means a song, so it is read qǔ, not qū."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "登临：登山、登高。",
+   "en": "dēng lín: to climb up high."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "送目：放眼远望。",
+   "en": "sòng mù: to send one's eyes far, to gaze into the distance."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "故国：旧都，从前的都城。金陵（今江苏南京）曾是六个朝代的都城。",
+   "en": "gù guó: the old capital. Jinling (today's Nanjing) was the capital of six dynasties."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "初肃：刚刚变得清冷。肃，秋天天气清冷、万物凋零的样子。",
+   "en": "chū sù: has just turned crisp and cold. Sù describes the cool, bare feeling of autumn."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 6,
+   "zh": "澄江似练：清澈的长江像一条白绸子。澄，清；练，白色的丝绸。这里借用了南朝诗人谢朓的诗句“澄江静如练”。",
+   "en": "chéng jiāng sì liàn: the clear river is like a strip of white silk. Chéng means clear; liàn is white silk. It borrows a line by the Southern Dynasties poet Xie Tiao: \"the clear river is calm as white silk.\""
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "翠峰如簇：青翠的山峰像一丛丛箭头聚在一起。簇，丛聚，一说指箭头。",
+   "en": "cuì fēng rú cù: green peaks crowd together like clusters. Cù means a cluster; one reading says it means arrowheads."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "归帆去棹：来来往往的船。帆，船帆；棹，划船的桨，这里都代指船。",
+   "en": "guī fān qù zhào: boats coming and going. Fān is a sail and zhào is an oar; both stand for boats here."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "残阳：快要落山的太阳。",
+   "en": "cán yáng: the setting sun."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 3,
+   "zh": "背西风：背着西风，迎着秋风的方向。",
+   "en": "bèi xī fēng: with the west wind at its back."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 7,
+   "zh": "酒旗斜矗：酒店门口的旗子斜斜地竖着。矗，高高竖立。",
+   "en": "jiǔ qí xié chù: a tavern's flag stands tall at a slant. Chù means to stand tall and straight."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "彩舟：装饰漂亮的船。",
+   "en": "cǎi zhōu: brightly painted boats."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "星河鹭起：长江上白鹭飞起。星河，银河，这里把长江比作天上的银河。一说指江中的白鹭洲。",
+   "en": "xīng hé lù qǐ: egrets rise from the river. Xīng hé is the Milky Way; here the Yangtze is pictured as the river of stars. One reading says it points to Egret Isle in the river."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "画图难足：就是画也画不完这样的美景。足，充分表现出来。",
+   "en": "huà tú nán zú: even a painting could not capture it all. Zú means to show fully."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 7,
+   "zh": "繁华竞逐：六朝的帝王贵族比着过奢侈享乐的生活。竞逐，争相追逐。",
+   "en": "fán huá jìng zhú: the rulers and nobles of the six dynasties competed in living in luxury. Jìng zhú means to race after something."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 5,
+   "zh": "门外楼头：化用杜牧《台城曲》“门外韩擒虎，楼头张丽华”。隋朝大将韩擒虎已经带兵打到城门外，陈后主还在楼上和宠妃张丽华寻欢作乐，陈朝就这样灭亡了。",
+   "en": "mén wài lóu tóu: this borrows Du Mu's lines \"Han Qinhu at the gate, Zhang Lihua up in the tower.\" The Sui general Han Qinhu had reached the city gate, while the last ruler of Chen was still upstairs having fun with his favourite consort Zhang Lihua. That is how the Chen dynasty fell."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "悲恨相续：亡国的悲剧一个接一个。",
+   "en": "bēi hèn xiāng xù: the sorrow of fallen kingdoms came one after another."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "凭高：登上高处。凭，倚靠、登临。",
+   "en": "píng gāo: standing up high. Píng means to lean on, to stand at a height."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "漫嗟荣辱：白白地感叹兴盛和衰亡。漫，徒然、白白地；嗟，叹息；荣辱，兴旺和耻辱，这里指朝代的兴亡。",
+   "en": "màn jiē róng rǔ: sighing in vain over glory and shame. Màn means in vain; jiē means to sigh; róng rǔ, glory and disgrace, means the rise and fall of dynasties."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "六朝：在金陵建都的六个朝代：东吴、东晋、宋、齐、梁、陈。",
+   "en": "liù cháo: the six dynasties that had their capital at Jinling: Eastern Wu, Eastern Jin, Song, Qi, Liang and Chen."
+  },
+  {
+   "line": 16,
+   "start": 1,
+   "end": 7,
+   "zh": "寒烟衰草凝绿：只剩下寒冷的烟雾和枯草，凝成一片暗绿。衰草，枯萎的草。",
+   "en": "hán yān shuāi cǎo níng lǜ: only cold mist and withered grass are left, set in a dull green. Shuāi cǎo means withered grass."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "商女：卖唱的歌女。",
+   "en": "shāng nǚ: a singing girl who sang for money."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "后庭遗曲：指《玉树后庭花》，陈后主作的歌曲，后人把它看作亡国之音。杜牧《泊秦淮》有“商女不知亡国恨，隔江犹唱后庭花”。",
+   "en": "hòu tíng yí qǔ: the song \"Jade Tree and Flowers in the Back Court\", written by the last ruler of Chen and later seen as the music of a fallen kingdom. Du Mu wrote: \"The singing girls do not know the sorrow of a lost country; across the river they still sing that song.\""
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我登上高处，放眼远望，",
+   "en": "I climb up high and gaze far away."
+  },
+  {
+   "zh": "这古都正是深秋时节，",
+   "en": "It is late autumn in this old capital,"
+  },
+  {
+   "zh": "天气刚刚变得清冷。",
+   "en": "and the air has just turned crisp and cold."
+  },
+  {
+   "zh": "千里长江清澈，像一条白绸子，",
+   "en": "The clear river runs a thousand miles like a strip of white silk,"
+  },
+  {
+   "zh": "青翠的山峰一簇簇聚在一起。",
+   "en": "and green peaks crowd together in clusters."
+  },
+  {
+   "zh": "来来往往的船只在夕阳里穿行，",
+   "en": "Boats come and go in the light of the setting sun."
+  },
+  {
+   "zh": "西风吹过，酒旗斜斜地高挂着。",
+   "en": "In the west wind, a tavern flag stands tall at a slant."
+  },
+  {
+   "zh": "彩色的船好像浮在淡淡的云里，",
+   "en": "Painted boats seem to float among pale clouds,"
+  },
+  {
+   "zh": "银河般的江面上白鹭飞起，",
+   "en": "and egrets rise from a river like the Milky Way."
+  },
+  {
+   "zh": "这样的美景，画也画不尽。",
+   "en": "Even a painting could not hold such beauty."
+  },
+  {
+   "zh": "想起从前，六朝的帝王争着过奢华的日子，",
+   "en": "I think of the past, when rulers raced to live in luxury."
+  },
+  {
+   "zh": "可叹敌兵打到门外，君王还在楼上寻欢，",
+   "en": "Sadly, enemy troops reached the gate while the ruler still feasted upstairs,"
+  },
+  {
+   "zh": "亡国的悲剧一个接着一个。",
+   "en": "and one fallen kingdom followed another."
+  },
+  {
+   "zh": "千百年来，人们登高望着这里，",
+   "en": "For a thousand years people have climbed up here and looked out,"
+  },
+  {
+   "zh": "只是白白地感叹兴盛和衰亡。",
+   "en": "only to sigh in vain over rise and fall."
+  },
+  {
+   "zh": "六朝的往事已经随江水流走了，",
+   "en": "The stories of the six dynasties have flowed away with the river."
+  },
+  {
+   "zh": "只剩下寒烟和枯草，凝成一片暗绿。",
+   "en": "All that is left is cold mist and withered grass in a dull green."
+  },
+  {
+   "zh": "直到今天，那些歌女",
+   "en": "Even today the singing girls"
+  },
+  {
+   "zh": "还时常在唱",
+   "en": "still often sing"
+  },
+  {
+   "zh": "陈后主留下的《后庭花》。",
+   "en": "the song left behind by the last ruler of Chen."
+  }
+ ],
+ "background": {
+  "zh": "金陵就是今天的江苏南京。从三国时的东吴到南朝的陈，先后有六个朝代在这里建都，合称“六朝”。这些朝代大多很短，君王只顾享乐，一个接一个灭亡了。王安石晚年长期住在金陵，他登高远望，看到秋天的长江和山峰，想起这些历史，写下了这首怀古词。具体写作时间说法不一，一说写于他做江宁知府的时候，一说写于他罢相退居金陵以后。",
+  "en": "Jinling is today's Nanjing in Jiangsu. From Eastern Wu in the Three Kingdoms to Chen in the Southern Dynasties, six dynasties made their capital here. Together they are called the Six Dynasties. Most of them were short. Their rulers cared only for pleasure, and they fell one after another. Wang Anshi lived in Jinling for many years. Climbing high, he looked at the autumn river and hills, thought about this history, and wrote this ci about the past. The exact date is not agreed on. One view says he wrote it while governing the area; another says he wrote it after he stepped down as chief minister and retired there."
+ },
+ "author_note": {
+  "zh": "王安石（1021—1086），北宋政治家、文学家，“唐宋八大家”之一。他当过宰相，主持变法，想让国家富强起来。正因为他关心国家大事，他看六朝兴亡，不只是伤感，更是在提醒当时的人：只顾享乐，国家就会灭亡。",
+  "en": "Wang Anshi (1021–1086) was a Northern Song statesman and writer, one of the Eight Great Prose Masters of Tang and Song. As chief minister he led a set of reforms to make the country strong and rich. Because he cared so much about the state, his view of the fallen Six Dynasties is not only sad. It is also a warning to people of his own time: if rulers care only for pleasure, the country will fall."
+ },
+ "appreciation": {
+  "zh": "上阕是一幅秋天的长江画。千里江水像白绸子，青山一簇簇，夕阳里船来船往，西风中酒旗斜挂，白鹭从江上飞起。王安石说，这样的美景画也画不完。下阕从风景转到历史。眼前这么美的地方，却是六朝灭亡的地方。“门外楼头”四个字，讲的是敌兵到了城门口，君王还在楼上玩乐的故事。千百年来，登高的人都只是叹一叹，没有真正吸取教训。往事随水流走，只剩寒烟和衰草。最后三句最让人心惊：直到今天，歌女还在唱亡国之君的曲子。作者没有直说，却让人想到：宋朝如果也这样，会不会走上同样的路？",
+  "en": "The first stanza is a painting of the Yangtze in autumn. The river runs a thousand miles like white silk. Green hills stand in clusters. Boats come and go in the sunset, a tavern flag slants in the west wind, and egrets rise from the water. Wang Anshi says not even a painting could hold it all. The second stanza turns from the view to history. This beautiful place is where six dynasties fell. The words \"at the gate, up in the tower\" tell the story of enemy troops at the city gate while the ruler was still having fun upstairs. For a thousand years, people who climbed up here only sighed. They never truly learned the lesson. The past has flowed away with the water, leaving cold mist and withered grass. The last three lines are the most chilling: even today, singing girls still sing the song of a ruler who lost his country. Wang Anshi does not say it out loud, but he makes you wonder: if the Song rulers act the same way, will they meet the same end?"
+ },
+ "famous_lines": [
+  3,
+  4,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "river",
+   "nanjing",
+   "warning",
+   "landscape"
+  ]
+ },
+ "uncertain": []
+}

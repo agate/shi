@@ -1,0 +1,439 @@
+{
+ "id": "ci-7ab6c708bd8e",
+ "kind": "ci",
+ "title": "玉楼春·春景",
+ "title_en": "Jade Tower Spring: A Spring Scene",
+ "author": "宋祁",
+ "author_en": "Song Qi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "縠",
+    "hú"
+   ],
+   [
+    "皱",
+    "zhòu"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "纹",
+    "wén"
+   ],
+   [
+    "迎",
+    "yíng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "棹",
+    "zhào"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "轻",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "杏",
+    "xìng"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "意",
+    "yì"
+   ],
+   [
+    "闹",
+    "nào"
+   ]
+  ],
+  [
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "娱",
+    "yú"
+   ],
+   [
+    "少",
+    "shǎo"
+   ]
+  ],
+  [
+   [
+    "肯",
+    "kěn"
+   ],
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "笑",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "持",
+    "chí"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ],
+  [
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "照",
+    "zhào"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "“浮生长恨”的“长”是“常常”的意思，读 cháng，不读 zhǎng。",
+   "en": "In this line the character means often, so it is read cháng, not zhǎng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "东城：城东，城的东边。",
+   "en": "dōng chéng: the east side of the city."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "渐觉：慢慢觉得。",
+   "en": "jiàn jué: slowly coming to feel."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "风光：风景。",
+   "en": "fēng guāng: the scenery."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "縠皱波纹：水上的波纹像有皱纹的绉纱一样。縠，一种很薄、有细皱纹的丝织品。",
+   "en": "hú zhòu bō wén: ripples on the water like crinkled silk. Hú is a very thin silk cloth with fine wrinkles."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "客棹：游人坐的船。棹，船桨，这里指船。",
+   "en": "kè zhào: the boats of visitors. Zhào is an oar, and here means a boat."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "烟：这里指柳树周围像烟一样的薄雾。",
+   "en": "yān: here, the thin mist that hangs around the willows like smoke."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "晓寒轻：早晨只有一点点凉意。",
+   "en": "xiǎo hán qīng: the morning chill is only slight."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "春意闹：春天的气息热热闹闹，好像花在吵闹一样。",
+   "en": "chūn yì nào: spring is bustling, as if the blossoms were making a noise."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "浮生：人生。古人觉得人生像水上漂浮的东西，短暂又不定。",
+   "en": "fú shēng: life. People of old felt life was like something floating on water, short and uncertain."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "长恨：常常遗憾。",
+   "en": "cháng hèn: often to regret."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "欢娱：快乐。",
+   "en": "huān yú: joy, good times."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 7,
+   "zh": "肯爱千金轻一笑：怎么肯爱惜千金，却轻视美人的一笑呢？意思是宁可花千金，也要换来欢笑。肯，哪里肯。",
+   "en": "kěn ài qiān jīn qīng yí xiào: how could one cling to a thousand pieces of gold and think little of a smile? That is, better to spend a fortune than to miss a moment of joy. Kěn here means how would one be willing."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "为君：为了你。",
+   "en": "wèi jūn: for you."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 7,
+   "zh": "持酒劝斜阳：端起酒杯，劝夕阳喝一杯。",
+   "en": "chí jiǔ quàn xié yáng: raising a cup and offering a drink to the setting sun."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "晚照：傍晚的阳光。",
+   "en": "wǎn zhào: the evening sunlight."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "城东的风景，让人越来越觉得美好，",
+   "en": "On the east side of the city, the scenery grows lovelier and lovelier."
+  },
+  {
+   "zh": "水面上细细的波纹，像绉纱一样，迎接着游人的小船。",
+   "en": "Ripples like crinkled silk welcome the visitors' boats."
+  },
+  {
+   "zh": "绿柳像笼着一层轻烟，早晨只有一点点凉意，",
+   "en": "Beyond the willows wrapped in mist, the morning chill is light,"
+  },
+  {
+   "zh": "红杏开满枝头，春天热闹极了。",
+   "en": "and on the branches of the red apricots, spring is bustling."
+  },
+  {
+   "zh": "人生短暂，常常遗憾快乐的时候太少，",
+   "en": "Life is short, and I often regret how little joy it holds."
+  },
+  {
+   "zh": "怎么能爱惜千金，却轻视欢乐的一笑呢？",
+   "en": "How could I cling to gold and think little of a happy smile?"
+  },
+  {
+   "zh": "为了你，我端起酒杯劝夕阳，",
+   "en": "For your sake I raise my cup to the setting sun,"
+  },
+  {
+   "zh": "请它在花丛间多留一会儿晚霞。",
+   "en": "and ask it to linger a while among the flowers."
+  }
+ ],
+ "background": {
+  "zh": "这首词写春天到城东游玩的快乐。宋祁因为“红杏枝头春意闹”这一句名气很大，当时的人叫他“红杏尚书”。这首词具体写于哪一年，已经说不清楚。",
+  "en": "This lyric is about the joy of a spring outing on the east side of the city. The line about spring bustling on the red apricot branches made Song Qi so famous that people called him the Red Apricot Minister. We no longer know in which year it was written."
+ },
+ "author_note": {
+  "zh": "宋祁（998—1061），字子京，北宋文学家、史学家。他和哥哥宋庠同年考中进士，被人称为“二宋”。他参加编写了史书《新唐书》，官做到工部尚书。他的词留下来的不多，这首最出名。",
+  "en": "Song Qi (998–1061) was a Northern Song writer and historian. He and his elder brother Song Xiang passed the top exam in the same year and were called the Two Songs. He helped write the history book New Book of Tang, and rose to be Minister of Works. Few of his lyrics survive, and this one is the most famous."
+ },
+ "appreciation": {
+  "zh": "上半首写春景：城东风光越来越好，水上波纹细细的，像绉纱一样迎接小船；柳树笼着轻烟，早晨微微有点凉；红杏开满枝头。最妙的是一个“闹”字：花本来不会出声，词人却说春意在“闹”，让人好像看到了满树红花，听到了蜜蜂嗡嗡，感到春天热热闹闹扑面而来。下半首写心情：人生短，快乐少，与其守着钱，不如好好享受欢乐。最后他举杯劝夕阳慢点落下，想把美好的时光多留一会儿。",
+  "en": "The first half paints spring. East of the city the scenery grows lovelier. Fine ripples like silk welcome the boats. The willows are wrapped in light mist, the morning is just a little cool, and red apricot blossoms crowd the branches. The best part is the word nào, bustling. Flowers make no sound, yet the poet says spring is noisy. We seem to see trees full of red blossoms, hear bees humming, and feel spring rushing at us. The second half turns to feeling. Life is short and joy is rare, so rather than hold on to money, enjoy the good times. At the end he raises his cup and asks the setting sun to go down slowly, hoping to keep the lovely moment a little longer."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "flowers",
+   "joy",
+   "time",
+   "outing"
+  ]
+ },
+ "uncertain": []
+}

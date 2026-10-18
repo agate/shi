@@ -1,0 +1,439 @@
+{
+ "id": "4af86c76-18b3-4069-be90-6d8cef430bc7",
+ "kind": "shi",
+ "title": "登金陵凤凰台",
+ "title_en": "Climbing Phoenix Terrace in Jinling",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "凰",
+    "huáng"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "凰",
+    "huáng"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "宫",
+    "gōng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "埋",
+    "mái"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "径",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "晋",
+    "jìn"
+   ],
+   [
+    "代",
+    "dài"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "冠",
+    "guān"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "丘",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "浮",
+    "fú"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "蔽",
+    "bì"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 6,
+   "pos": 1,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为”是“因为”的意思，读 wèi。",
+   "en": "Here it means \"because\", so it is read wèi."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "冠",
+   "pinyin": "guān",
+   "zh": "“衣冠”是衣服和帽子，“冠”是名词，读 guān，不读 guàn。",
+   "en": "Here guān is a noun meaning hat, so it is read guān, not guàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "凤凰台：在金陵城里的一座台。传说南朝时有几只美丽的大鸟飞来，人们认为是凤凰，就在那里修了这座台。",
+   "en": "fèng huáng tái: a terrace in Jinling. Legend says that in the Southern Dynasties some beautiful great birds flew there; people took them for phoenixes and built the terrace."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "江自流：长江自顾自地流着。",
+   "en": "jiāng zì liú: the river flows on by itself, not caring."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "吴宫：三国时吴国在金陵建都，这里指吴国的宫殿。",
+   "en": "wú gōng: the palace of Wu. In the Three Kingdoms period, the state of Wu made Jinling its capital."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "幽径：幽静偏僻的小路。",
+   "en": "yōu jìng: a quiet, out-of-the-way path."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "晋代：东晋，也在金陵建都。",
+   "en": "jìn dài: the Eastern Jin dynasty, which also had its capital at Jinling."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "衣冠：衣服和帽子，这里指当年的达官贵人。",
+   "en": "yī guān: robes and hats; here the great nobles of that time."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "古丘：古墓，坟堆。",
+   "en": "gǔ qiū: old grave mounds."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "三山：金陵西南长江边的一座山，有三座山峰连在一起。",
+   "en": "sān shān: a mountain by the Yangtze southwest of Jinling, with three peaks side by side."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 7,
+   "zh": "半落青天外：一半隐没在青天之外，形容很远，看不太清。",
+   "en": "bàn luò qīng tiān wài: half lost beyond the blue sky; it is so far that it can hardly be seen."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "二水：两股水流。一作“一水”。",
+   "en": "èr shuǐ: two streams of water. Some copies read \"one stream\"."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "中分：从中间分开。",
+   "en": "zhōng fēn: split down the middle."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "白鹭洲：长江里的一个沙洲，因为常有白鹭停在上面而得名。",
+   "en": "bái lù zhōu: a sandbar in the Yangtze, named for the white egrets that often rested there."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 7,
+   "zh": "浮云能蔽日：飘浮的云遮住了太阳。古人常用这个比喻坏人在皇帝身边蒙蔽皇帝。",
+   "en": "fú yún néng bì rì: drifting clouds hide the sun. People of old used this to mean bad officials around the emperor keeping the truth from him."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "长安：唐朝的都城，在今天陕西西安。这里也代指朝廷和皇帝。",
+   "en": "cháng ān: the Tang capital, in today's Xi'an, Shaanxi; here it also stands for the court and the emperor."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "凤凰台上，曾经有凤凰飞来游玩，",
+   "en": "On Phoenix Terrace, phoenixes once came to play;"
+  },
+  {
+   "zh": "如今凤凰飞走了，台上空空的，只有江水自己流着。",
+   "en": "now the phoenixes are gone, the terrace is empty, and the river flows on alone."
+  },
+  {
+   "zh": "吴国宫殿里的花草，已经埋没了幽静的小路，",
+   "en": "The flowers and grass of the Wu palace have buried its quiet paths;"
+  },
+  {
+   "zh": "晋朝那些达官贵人，也都变成了一座座古墓。",
+   "en": "the great lords of Jin have all become old grave mounds."
+  },
+  {
+   "zh": "三山的山峰，一半隐没在青天外，",
+   "en": "The Three Peaks are half lost beyond the blue sky;"
+  },
+  {
+   "zh": "白鹭洲横在江中，把江水分成两股。",
+   "en": "Egret Island splits the water into two streams."
+  },
+  {
+   "zh": "总是因为浮云遮住了太阳，",
+   "en": "It is always because the drifting clouds can hide the sun"
+  },
+  {
+   "zh": "我望不见长安，心里才这样发愁。",
+   "en": "that I cannot see Chang'an, and it fills me with sorrow."
+  }
+ ],
+ "background": {
+  "zh": "金陵就是今天的江苏南京，三国时的吴国、后来的东晋和南朝都在这里建都。李白登上城里的凤凰台，望着江山和古迹，写下了这首诗。写作时间说法不一：一说是天宝年间他离开长安、南游金陵时写的，一说是他晚年写的。还有一个传说：李白读了崔颢的《黄鹤楼》，很佩服，就写了这首诗来比一比。这个故事未必可靠。",
+  "en": "Jinling is today's Nanjing in Jiangsu. The state of Wu in the Three Kingdoms period, and later the Eastern Jin and the Southern Dynasties, all made it their capital. Li Bai climbed Phoenix Terrace in the city, looked out at the land and its old ruins, and wrote this poem. When he wrote it is not agreed. One view says it was in the Tianbao years, after he left Chang'an and traveled south to Jinling. Another says it was late in his life. There is also a story that Li Bai admired Cui Hao's poem \"Yellow Crane Tower\" and wrote this one to match it. The story may not be reliable."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他曾经在长安做过翰林供奉，陪在皇帝身边，但因为被人排挤，不到两年就离开了。从此他一直盼着再回朝廷做一番事业。这首诗结尾望长安的愁，就是这种心情。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. He once served at the court in Chang'an as a scholar attending the emperor, but others pushed him out, and he left in less than two years. From then on he always hoped to go back to the court and do great things. The sorrow of looking toward Chang'an at the end of this poem is that feeling."
+ },
+ "appreciation": {
+  "zh": "开头十四个字里，“凤”出现了三次，“台”出现了两次，读起来像唱歌一样轻快。凤凰飞走，台空了，只有江水还在流，一下子有了时光流逝的感觉。三、四句写历史：吴国的宫殿长满了野草，晋朝的贵人变成了坟墓，再繁华也会过去。五、六句把目光投向远方：三山若隐若现，白鹭洲把江水分成两半，画面开阔又美丽。最后两句由景转到心事：浮云遮住了太阳，就像坏人蒙蔽了皇帝，自己望不见长安，心里满是忧愁。",
+  "en": "In the first fourteen characters, \"phoenix\" comes three times and \"terrace\" twice, so it reads light and quick, like a song. The phoenixes are gone, the terrace is empty, and only the river flows on; at once we feel time slipping away. Lines three and four are about history. The Wu palace is overgrown with weeds, and the lords of Jin have turned into graves. However grand, it all passes. Lines five and six look into the distance. The Three Peaks fade in and out of sight, and Egret Island splits the river in two. The view is wide and lovely. The last two lines turn from the scene to the poet's heart. Clouds hide the sun, just as bad men hide the truth from the emperor. He cannot see Chang'an, and he is full of sorrow."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "tower",
+   "river",
+   "ambition"
+  ]
+ },
+ "uncertain": []
+}

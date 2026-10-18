@@ -1,0 +1,485 @@
+{
+ "id": "ci-d81fa079b1f5",
+ "kind": "ci",
+ "title": "一剪梅·舟过吴江",
+ "title_en": "To the Tune Yi Jian Mei: Sailing Past Wujiang",
+ "author": "蒋捷",
+ "author_en": "Jiang Jie",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·一剪梅（双调）",
+  "en": "ci lyric to the tune Yi Jian Mei, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "待",
+    "dài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "浇",
+    "jiāo"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "摇",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "招",
+    "zhāo"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "娘",
+    "niáng"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "泰",
+    "tài"
+   ],
+   [
+    "娘",
+    "niáng"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "飘",
+    "piāo"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "洗",
+    "xǐ"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "袍",
+    "páo"
+   ]
+  ],
+  [
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "笙",
+    "shēng"
+   ],
+   [
+    "调",
+    "tiáo"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "烧",
+    "shāo"
+   ]
+  ],
+  [
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "容",
+    "róng"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "抛",
+    "pāo"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "樱",
+    "yīng"
+   ],
+   [
+    "桃",
+    "táo"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "了",
+    "le"
+   ],
+   [
+    "芭",
+    "bā"
+   ],
+   [
+    "蕉",
+    "jiāo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": {
+  "zh": "通行本第四句作“秋娘渡与泰娘桥”，两个都是吴江的地名。这里的古籍底本作“秋娘度与泰娘娇”，一般认为是传抄时的差异，课本和多数选本用“渡”和“桥”。词牌名“一剪梅”，底本写作“一翦梅”，“翦”是“剪”的旧写法。",
+  "en": "The commonly taught text has \"qiū niáng dù yǔ tài niáng qiáo\" in line four, two place names in Wujiang: Qiuniang Ferry and Tainiang Bridge. The corpus text has two different characters that mean \"pass\" and \"charming\", usually thought to be a copying difference; textbooks and most anthologies use \"ferry\" and \"bridge\". The corpus also writes the tune name with an old form of the character for \"cut\"."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "调",
+   "pinyin": "tiáo",
+   "zh": "这里是“调弄、吹奏”的意思，读 tiáo，不读 diào。",
+   "en": "Read tiáo here, meaning \"to play, to tune\", not diào."
+  },
+  {
+   "line": 10,
+   "pos": 1,
+   "char": "了",
+   "pinyin": "le",
+   "zh": "这里是助词，读 le。",
+   "en": "Read le here, a little grammar word meaning the change has happened."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "春愁：春天里生出的愁绪。",
+   "en": "chūn chóu: the sadness that comes with spring."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "待酒浇：等着用酒来浇灭，也就是想借酒消愁。",
+   "en": "dài jiǔ jiāo: waiting to be drowned in wine, that is, hoping wine will wash the sorrow away."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "舟摇：船在江上摇晃。",
+   "en": "zhōu yáo: the boat rocks on the river."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "帘：酒旗，酒店门口挂的布招牌。帘招：酒旗在风里飘动，好像在招呼客人。",
+   "en": "lián zhāo: lián here is a wine shop's cloth sign; it flaps in the wind as if beckoning to customers."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 7,
+   "zh": "秋娘渡、泰娘桥：都是吴江的地名。吴江在今江苏苏州。",
+   "en": "qiū niáng dù yǔ tài niáng qiáo: Qiuniang Ferry and Tainiang Bridge, two places in Wujiang, in today's Suzhou, Jiangsu."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "飘飘：风吹的样子。",
+   "en": "piāo piāo: blowing and gusting."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "萧萧：下雨的声音。",
+   "en": "xiāo xiāo: the sound of rain falling."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "客袍：出门在外穿的衣服。",
+   "en": "kè páo: the robe of a traveller."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "银字笙：用银粉在上面写着字、标出音高的笙。笙是一种竹管做的吹奏乐器。",
+   "en": "yín zì shēng: a sheng with its notes marked in silver. The sheng is a mouth organ made of bamboo pipes."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "心字香：盘成“心”字形状的香。",
+   "en": "xīn zì xiāng: incense coiled into the shape of the character for \"heart\"."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "流光：像水一样流走的时光。",
+   "en": "liú guāng: time that flows away like water."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "把人抛：把人甩在后面。",
+   "en": "bǎ rén pāo: leaves people behind."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "红了樱桃：樱桃变红了。",
+   "en": "hóng le yīng táo: the cherries have turned red."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "绿了芭蕉：芭蕉叶变绿了。芭蕉是一种叶子很大的植物。",
+   "en": "lǜ le bā jiāo: the banana leaves have turned green. Bājiāo is a plant with huge leaves."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "满怀春愁，等着用酒来浇灭。",
+   "en": "A heart full of spring sorrow waits for wine to drown it."
+  },
+  {
+   "zh": "船在江上摇晃，",
+   "en": "My boat rocks on the river,"
+  },
+  {
+   "zh": "岸边楼上的酒旗在招呼客人。",
+   "en": "and a wine shop's sign waves from a building on the bank."
+  },
+  {
+   "zh": "船经过秋娘渡和泰娘桥，",
+   "en": "I pass Qiuniang Ferry and Tainiang Bridge;"
+  },
+  {
+   "zh": "风飘飘地吹，",
+   "en": "the wind blows and blows,"
+  },
+  {
+   "zh": "雨萧萧地下。",
+   "en": "the rain patters and patters."
+  },
+  {
+   "zh": "什么时候才能回到家，洗去旅途的风尘？",
+   "en": "When can I go home and wash my travelling robe?"
+  },
+  {
+   "zh": "吹着标了银字的笙，",
+   "en": "Play the silver-marked sheng,"
+  },
+  {
+   "zh": "点起心字形的香。",
+   "en": "light the heart-shaped incense."
+  },
+  {
+   "zh": "时光很容易就把人远远甩在后面，",
+   "en": "Time so easily leaves us behind:"
+  },
+  {
+   "zh": "樱桃红了，",
+   "en": "the cherries turn red,"
+  },
+  {
+   "zh": "芭蕉绿了。",
+   "en": "the banana leaves turn green."
+  }
+ ],
+ "background": {
+  "zh": "蒋捷生活在南宋末年。南宋灭亡后，他不愿意到元朝做官，四处漂泊，后来隐居在太湖边的竹山。这首词写他坐船经过吴江（今江苏苏州吴江区）时，遇上风雨，想起家乡。一般认为写于宋亡后漂泊的时候，也有人认为写于宋亡前，具体年份不清楚。",
+  "en": "Jiang Jie lived at the very end of the Southern Song. After the Song fell, he refused to serve the new Yuan rulers. He drifted from place to place and later lived as a hermit on Zhushan by Lake Tai. This lyric describes sailing past Wujiang, in today's Suzhou, through wind and rain, and missing home. It is usually thought to come from his wandering years after the Song fell; some think it was written before. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "蒋捷，字胜欲，号竹山，阳羡（今江苏宜兴）人，生卒年不详。宋度宗咸淳十年（1274）考中进士，不久南宋就灭亡了。他是宋末有名的词人。因为这首词的“红了樱桃，绿了芭蕉”写得太好，人们叫他“樱桃进士”。",
+  "en": "Jiang Jie, courtesy name Shengyu, also called Zhushan, came from Yangxian, today's Yixing in Jiangsu. His birth and death years are not known. He passed the highest imperial exam in 1274, and soon after the Southern Song fell. He was a famous lyric poet of the late Song. Because the lines \"the cherries turn red, the banana leaves turn green\" were so loved, people called him \"the Cherry Scholar\"."
+ },
+ "appreciation": {
+  "zh": "上阕写路上的愁。春天到了，他却还坐在摇晃的船上。岸上的酒旗在招手，好像在说：来喝一杯吧。船经过两个名字好听的地方，可天气不好，风吹个不停，雨下个不停。“又飘飘”“又萧萧”，一个“又”字，听得出他有多烦。下阕想回家。回家多好：洗掉旅途的灰尘，吹吹笙，点上香，过安稳日子。可时光不等人，转眼樱桃红了，芭蕉绿了，春天又要过去了。最后两句只写两种颜色，却让人一下子看到时间在走，人在变老。全词句子短，字音轻快，读起来像一首歌。",
+  "en": "The first stanza is about sorrow on the road. Spring has come, but he is still on a rocking boat. A wine shop's sign waves from the bank, as if saying: come and have a drink. The boat passes two places with pretty names, but the weather is bad, the wind keeps blowing and the rain keeps falling. The word \"again\" in both lines shows how weary he is. The second stanza longs for home. How good it would be: to wash off the dust of travel, play the sheng, light the incense, and live a calm life. But time waits for no one. In a blink the cherries are red, the banana leaves are green, and spring is passing again. The last two lines name only two colours, yet they let us see time moving and people growing old. The lines are short and the sounds light, so it reads like a song."
+ },
+ "famous_lines": [
+  9,
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "time",
+   "travel",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,284 @@
+{
+ "id": "f5f726ac-2edd-44c1-bebf-1cc8476fad4c",
+ "kind": "shi",
+ "title": "大林寺桃花",
+ "title_en": "Peach Blossoms at Dalin Temple",
+ "author": "白居易",
+ "author_en": "Bai Juyi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "菲",
+    "fēi"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "寺",
+    "sì"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "始",
+    "shǐ"
+   ],
+   [
+    "盛",
+    "shèng"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长，这里是“常常、一直”的意思，读 cháng，不读 zhǎng。",
+   "en": "Here this character means \"always, often\", read cháng, not zhǎng."
+  },
+  {
+   "line": 1,
+   "pos": 5,
+   "char": "盛",
+   "pinyin": "shèng",
+   "zh": "盛，这里是“茂盛”的意思，读 shèng。",
+   "en": "Here this character means \"in full bloom\", read shèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "人间：山下的平地，人们住的地方。",
+   "en": "rén jiān: the world of people, the lowlands below the mountain."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "四月：农历四月，已经是初夏了。",
+   "en": "sì yuè: the fourth lunar month, already early summer."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "芳菲：香花和绿草，这里指花。",
+   "en": "fāng fēi: fragrant flowers and grass, here the flowers."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "尽：完，指花都谢了。",
+   "en": "jìn: finished, the flowers have all fallen."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "山寺：山上的寺庙，就是大林寺。大林寺在庐山上，山高气温低，花开得晚。",
+   "en": "shān sì: the temple on the mountain, Dalin Temple on Mount Lu. Up high it is cooler, so flowers bloom later."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "始：才，刚刚。",
+   "en": "shǐ: only now, just."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "长恨：常常遗憾。",
+   "en": "cháng hèn: always regretted."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "春归：春天回去了，春天过去了。",
+   "en": "chūn guī: spring going home, spring passing."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "无觅处：没有地方去找。觅，寻找。",
+   "en": "wú mì chù: nowhere to find it. Mì means to look for."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "转入：转到，跑到。",
+   "en": "zhuǎn rù: to turn into, to move into."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "此中：这里，指这座山寺。",
+   "en": "cǐ zhōng: in here, this mountain temple."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "四月里，山下的花都已经谢了，",
+   "en": "In the fourth month the flowers below have all fallen,"
+  },
+  {
+   "zh": "山上寺庙里的桃花才刚刚盛开。",
+   "en": "but at the mountain temple the peach blossoms are just in full bloom."
+  },
+  {
+   "zh": "我常常遗憾春天走了，没处去找，",
+   "en": "I always grieved that spring had gone and could not be found,"
+  },
+  {
+   "zh": "没想到它悄悄转到这里来了。",
+   "en": "not knowing it had slipped up here."
+  }
+ ],
+ "background": {
+  "zh": "817年，白居易在江州（今江西九江）做司马，这是一个没有实权的小官，他是被贬到这里的。这年农历四月，他和朋友们去游庐山，到了山上的大林寺。山下的春花早已谢了，山上却桃花正开，他又惊又喜，写下了这首诗。他还写过一篇《游大林寺序》，记下了这次游玩。",
+  "en": "In 817 Bai Juyi was an assistant official in Jiangzhou, today's Jiujiang in Jiangxi. It was a post with no real power, and he had been sent there as a punishment. In the fourth lunar month that year he and some friends climbed Mount Lu and reached Dalin Temple. Below, the spring flowers had long fallen. Up on the mountain, the peach trees were in bloom. Surprised and delighted, he wrote this poem. He also wrote a short prose account of the trip."
+ },
+ "author_note": {
+  "zh": "白居易（772—846），字乐天，号香山居士，唐代大诗人。他主张诗要写得让普通人都能看懂，据说写完常念给老婆婆听。他的诗语言浅白，却很有味道。",
+  "en": "Bai Juyi (772–846) was a great Tang poet. He believed poems should be easy enough for ordinary people to understand. A story says he read his poems to an old woman and changed any word she did not get. His language is plain, but full of flavour."
+ },
+ "appreciation": {
+  "zh": "第一句有点失落：四月了，山下的花都谢了，春天好像走了。第二句忽然一亮：山上的桃花才刚刚盛开！第三、四句最可爱，诗人把春天当成一个调皮的孩子：我一直怪你走了找不到，原来你偷偷躲到山上来了。这首诗也藏着一个真实的道理：山越高，气温越低，花就开得越晚。诗人从失望到惊喜，让读者也跟着高兴起来。",
+  "en": "The first line feels a little sad. It is the fourth month, the flowers below have fallen, and spring seems to be gone. The second line suddenly brightens: up on the mountain the peach blossoms are only now in full bloom! The last two lines are the most charming. The poet treats spring like a playful child: I kept blaming you for leaving where I could not find you, and all along you were hiding up here. The poem also holds a real fact of nature: the higher the mountain, the cooler the air, and the later the flowers bloom. The poet goes from letdown to delight, and the reader is glad along with him."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "spring",
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "peach-blossom",
+   "spring",
+   "mountain",
+   "temple",
+   "surprise"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,587 @@
+{
+ "id": "83e70b6e-ff59-4a3b-8e81-249ab0cda0c3",
+ "kind": "shi",
+ "title": "月下独酌四首·其一",
+ "title_en": "Drinking Alone Under the Moon (First of Four)",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗",
+  "en": "five-character old-style poem"
+ },
+ "lines": [
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "酌",
+    "zhuó"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "亲",
+    "qīn"
+   ]
+  ],
+  [
+   [
+    "举",
+    "jǔ"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "邀",
+    "yāo"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "既",
+    "jì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ]
+  ],
+  [
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "身",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "暂",
+    "zàn"
+   ],
+   [
+    "伴",
+    "bàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "影",
+    "yǐng"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "乐",
+    "lè"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "及",
+    "jí"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "徘",
+    "pái"
+   ],
+   [
+    "徊",
+    "huái"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "交",
+    "jiāo"
+   ],
+   [
+    "欢",
+    "huān"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "各",
+    "gè"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "结",
+    "jié"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "邈",
+    "miǎo"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "汉",
+    "hàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料库作“我歌月裴回”，课本作“我歌月徘徊”。“裴回”是“徘徊”的古代写法，意思一样。",
+  "en": "The corpus writes pai huai, to linger, with an older pair of characters; the textbook uses the modern ones. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "将",
+   "pinyin": "jiāng",
+   "zh": "将，这里是“和、与”的意思，读 jiāng。",
+   "en": "Here it means and, together with, read jiāng."
+  },
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "乐",
+   "pinyin": "lè",
+   "zh": "行乐，寻欢作乐，“乐”读 lè，不读音乐的 yuè。",
+   "en": "It means to enjoy oneself, so the character is read lè, not yuè as in music."
+  },
+  {
+   "line": 11,
+   "pos": 4,
+   "char": "散",
+   "pinyin": "sàn",
+   "zh": "分散，分开，“散”读 sàn。",
+   "en": "It means to part, so the character is read sàn."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "酌",
+   "pinyin": "zhuó",
+   "zh": "酌，倒酒喝酒，读 zhuó。",
+   "en": "It means to pour and drink wine, read zhuó."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 4,
+   "zh": "壶：装酒的器皿，有把手和壶嘴。",
+   "en": "hú: a pot for wine, with a handle and a spout."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "独酌：一个人喝酒。",
+   "en": "dú zhuó: drinking alone."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "无相亲：没有亲近的人陪着。",
+   "en": "wú xiāng qīn: no close friend to keep him company."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "邀：邀请。",
+   "en": "yāo: to invite."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "对影成三人：明月、我、我的影子，正好三个“人”。",
+   "en": "duì yǐng chéng sān rén: the moon, me and my shadow make three people."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 2,
+   "zh": "既：已经，本来就。",
+   "en": "jì: since, already."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "不解饮：不懂得喝酒。解，懂得。",
+   "en": "bù jiě yǐn: does not know how to drink. Jiě means to understand."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 2,
+   "zh": "徒：白白地，只是。",
+   "en": "tú: only, in vain."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "暂：暂且，姑且。",
+   "en": "zàn: for now."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 4,
+   "zh": "将：和。",
+   "en": "jiāng: and."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "行乐：玩乐，享受快乐。",
+   "en": "xíng lè: to have fun, to enjoy oneself."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "须及春：要趁着春天的好时光。",
+   "en": "xū jí chūn: one must do it while it is still spring."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "徘徊：走来走去，这里说月亮好像随着歌声来回移动。",
+   "en": "pái huái: to pace back and forth; here the moon seems to move to and fro with the song."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "零乱：乱糟糟的，这里说影子跟着舞步散乱。",
+   "en": "líng luàn: in a jumble; here the shadow sways wildly with the dance."
+  },
+  {
+   "line": 10,
+   "start": 3,
+   "end": 5,
+   "zh": "交欢：一起欢乐。",
+   "en": "jiāo huān: to enjoy together."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 5,
+   "zh": "无情游：和没有感情的月亮、影子结成的交游。无情，没有人的感情，不会被世俗的事牵绊。",
+   "en": "wú qíng yóu: a friendship with the moon and the shadow, which have no human feelings and are untroubled by worldly things."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "相期：互相约好。",
+   "en": "xiāng qī: to make a promise to meet."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 3,
+   "zh": "邈：遥远。",
+   "en": "miǎo: far, far away."
+  },
+  {
+   "line": 13,
+   "start": 3,
+   "end": 5,
+   "zh": "云汉：天上的银河，这里指天上仙境。",
+   "en": "yún hàn: the Milky Way, here the far-off heavens."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在花丛中摆着一壶酒，",
+   "en": "Among the flowers, a pot of wine,"
+  },
+  {
+   "zh": "我一个人喝，没有亲近的人陪着。",
+   "en": "I drink alone, with no friend by me."
+  },
+  {
+   "zh": "我举起酒杯，邀请明月，",
+   "en": "I raise my cup to invite the bright moon,"
+  },
+  {
+   "zh": "再对着我的影子，就成了三个人。",
+   "en": "and with my shadow we make three."
+  },
+  {
+   "zh": "可是月亮本来不懂喝酒，",
+   "en": "But the moon does not know how to drink,"
+  },
+  {
+   "zh": "影子也只会白白地跟着我。",
+   "en": "and my shadow only follows me around."
+  },
+  {
+   "zh": "暂且让月亮和影子陪着我吧，",
+   "en": "For now, let the moon and my shadow keep me company,"
+  },
+  {
+   "zh": "寻欢作乐要趁着春天。",
+   "en": "for fun must be had while it is spring."
+  },
+  {
+   "zh": "我唱歌，月亮好像在来回徘徊；",
+   "en": "I sing, and the moon seems to linger to and fro;"
+  },
+  {
+   "zh": "我跳舞，影子也跟着乱晃。",
+   "en": "I dance, and my shadow sways all about."
+  },
+  {
+   "zh": "清醒的时候，我们一起快乐，",
+   "en": "While I am awake, we share our joy;"
+  },
+  {
+   "zh": "喝醉以后，就各自分开。",
+   "en": "once I am drunk, we each go our own way."
+  },
+  {
+   "zh": "我愿意和它们永远结成忘掉世俗的朋友，",
+   "en": "I will be friends forever with these companions free of worldly feelings,"
+  },
+  {
+   "zh": "约好将来在遥远的银河边再相会。",
+   "en": "and we promise to meet again far off by the Milky Way."
+  }
+ ],
+ "background": {
+  "zh": "《月下独酌》一共四首，这是第一首。一般认为是唐玄宗天宝三载（744年）前后，李白在长安时写的。那时他在朝廷里做翰林供奉，就是陪皇帝写诗作文的官，可是并不得志，又受到一些人的排挤，心里很孤独。写作年份也有别的说法。",
+  "en": "Drinking Alone Under the Moon is a set of four poems, and this is the first. It is usually thought to have been written around 744, when Li Bai was in Chang'an. He then served at court as a hanlin attendant, an official who wrote poems and prose for the emperor. But he could not do the great things he hoped, some people at court worked against him, and he felt very lonely. Other dates have also been suggested."
+ },
+ "author_note": {
+  "zh": "李白（701—762），字太白，号青莲居士，唐代大诗人，被人称为“诗仙”。他爱喝酒，爱月亮，诗里常常写到这两样东西。他的诗想象大胆，感情奔放，常常一下子从地上飞到天上。这首诗把月亮和影子当作朋友，正是他的风格。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. He loved wine and loved the moon, and both appear in his poems again and again. His poems are bold in imagination and free in feeling, and often leap from the earth to the sky in a moment. Treating the moon and his shadow as friends, as this poem does, is just his style."
+ },
+ "appreciation": {
+  "zh": "开头很冷清：花丛里，一个人，一壶酒，没有朋友。可李白不甘寂寞，他举杯请月亮来喝，又把影子算上，一下子就“三个人”了。这是孤独里想出来的热闹。接着他又承认：月亮不会喝酒，影子只会跟着我。可他还是说，管它呢，先一起乐一乐吧，春天可不等人。于是他唱，月亮好像在跟着走；他跳，影子跟着乱晃。醉了以后大家各自散去，他又和它们约好，将来在天上的银河边再见。整首诗越是热闹，越让人感到他心里的孤单。可读的时候，你也会被他那种自己找快乐的潇洒打动。",
+  "en": "The poem opens in loneliness: among the flowers, one man, one pot of wine, no friends. But Li Bai will not just sit in it. He raises his cup to invite the moon, counts his shadow too, and suddenly there are three. It is a party dreamed up out of loneliness. Then he admits the moon cannot drink and the shadow can only follow him. Still he says, never mind, let us have fun together for now, spring will not wait. So he sings, and the moon seems to drift along; he dances, and his shadow sways about. When he is drunk they all go their ways, and he makes a date with them to meet again by the Milky Way in the sky. The merrier the poem gets, the more we feel how lonely he is. Yet as you read, you are also won over by how freely he makes his own joy."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "wine",
+   "loneliness",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,253 @@
+{
+ "id": "526d4ecc-e123-4b9d-a213-958bb947593d",
+ "kind": "shi",
+ "title": "凉州词",
+ "title_en": "Song of Liangzhou",
+ "author": "王之涣",
+ "author_en": "Wang Zhihuan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "间",
+    "jiān"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "仞",
+    "rèn"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "羌",
+    "qiāng"
+   ],
+   [
+    "笛",
+    "dí"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "须",
+    "xū"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本第四句作“春光不度玉门关”，现在课本和通行本作“春风不度玉门关”，这里按课本。另外，第一句有的版本作“黄沙直上白云间”。原题是《凉州词二首》，这是第一首。",
+  "en": "In the source text, the fourth line has chun guang (spring light). Today's textbooks and most editions have chun feng (spring wind), which is used here. Some editions also give the first line as \"yellow sand rises straight into the white clouds\". The original title is \"Two Songs of Liangzhou\"; this is the first."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "远上：远远地向上延伸。远远望去，黄河好像一直流到白云中间去了。",
+   "en": "yuǎn shàng: stretching far up. Seen from afar, the Yellow River seems to climb right into the clouds."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "一片：一座。",
+   "en": "yī piàn: one, a single."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "孤城：孤零零的一座城，指守边的城堡。",
+   "en": "gū chéng: a lone town, a fort guarding the border."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "万仞山：极高的山。仞，古代的长度单位，一仞大约七八尺。",
+   "en": "wàn rèn shān: very high mountains. Rèn was an old unit of length, about seven or eight chi (roughly two metres)."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "羌笛：古代羌族人吹的笛子，边塞常能听到。",
+   "en": "qiāng dí: the flute of the Qiang people, often heard on the frontier."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "何须：何必。",
+   "en": "hé xū: why should, there is no need to."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "怨杨柳：吹出哀怨的《折杨柳》曲子。古人送别时常折柳枝相送，这首曲子让人想起离别和家乡。",
+   "en": "yuàn yáng liǔ: to play the sad tune \"Breaking the Willow\". People used to break off a willow twig when saying goodbye, so the tune brings back partings and home."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "度：吹过，越过。",
+   "en": "dù: to blow across, to cross."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "玉门关：古代通往西域的关口，在今天甘肃敦煌的西北。",
+   "en": "yù mén guān: the Jade Gate Pass, the old gateway to the western regions, northwest of today's Dunhuang in Gansu."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "黄河远远地奔流而上，好像流进了白云里，",
+   "en": "The Yellow River stretches far up, as if into the white clouds."
+  },
+  {
+   "zh": "一座孤零零的城堡，立在万丈高山之间。",
+   "en": "A lone fort stands among mountains ten thousand rèn high."
+  },
+  {
+   "zh": "羌笛何必吹起哀怨的《折杨柳》呢？",
+   "en": "Why should the Qiang flute play the sad willow song?"
+  },
+  {
+   "zh": "春风本来就吹不过玉门关啊。",
+   "en": "The spring wind never blows past the Jade Gate Pass."
+  }
+ ],
+ "background": {
+  "zh": "“凉州词”是唐代流行的一种曲调的名字，凉州在今天的甘肃武威一带，诗人们常用这个曲调写边塞。这首诗写的是西北边疆守城将士的生活。写作的具体时间不清楚。传说王之涣和王昌龄、高适在酒楼听歌女唱诗，歌女唱的正是这一首，这就是“旗亭画壁”的故事。",
+  "en": "\"Song of Liangzhou\" was the name of a popular Tang tune. Liangzhou was around today's Wuwei in Gansu, and poets often used this tune to write about the frontier. This poem is about the soldiers guarding a fort on the northwest border. We do not know exactly when it was written. A legend says that Wang Zhihuan, Wang Changling and Gao Shi once listened to singing girls in a wine house, and one of them sang this very poem. The story is known as \"Marks on the Tavern Wall\"."
+ },
+ "author_note": {
+  "zh": "王之涣（688—742），盛唐诗人，性格豪爽。他的诗在当时就被人谱成曲子传唱，可惜留下来的只有六首。除了这首，《登鹳雀楼》里的“欲穷千里目，更上一层楼”也非常有名。",
+  "en": "Wang Zhihuan (688–742) was a bold, open-hearted poet of the high Tang. In his own time his poems were set to music and sung everywhere, but only six survive. Besides this one, \"Climbing Stork Tower\" is very famous, with its lines about climbing one more floor to see a thousand li."
+ },
+ "appreciation": {
+  "zh": "前两句画面非常开阔：抬头望去，黄河一直流到白云里；高山之间，只有一座小小的孤城。大和小放在一起，城显得更孤单，守城的人也更寂寞。后两句写声音：远处有人吹起《折杨柳》，那是想家、想离别的曲子。诗人却说：何必怨呢？春风本来就吹不到玉门关外。话说得很平静，像是在安慰别人，其实那份苦和想家，比直接说出来更深。",
+  "en": "The first two lines open up a huge scene. Looking up, the Yellow River flows into the white clouds. Among the tall mountains stands one small, lonely fort. Putting the huge next to the tiny makes the fort feel lonelier, and the soldiers too. The last two lines are about sound. Someone far off plays \"Breaking the Willow\", a tune of parting and home. But the poet says: why complain? The spring wind never reaches beyond the Jade Gate anyway. He says it calmly, as if comforting the others. Yet the hardship and homesickness feel deeper than if he had said them outright."
+ },
+ "famous_lines": [
+  0,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "homesick",
+   "music",
+   "yellow-river"
+  ]
+ },
+ "uncertain": []
+}

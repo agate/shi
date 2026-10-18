@@ -1,0 +1,860 @@
+{
+ "id": "ci-baabc2070098",
+ "kind": "ci",
+ "title": "水龙吟·登建康赏心亭",
+ "title_en": "Shui Long Yin: Climbing the Shangxin Pavilion in Jiankang",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调·慢词",
+  "en": "long ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "际",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "岑",
+    "cén"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "目",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "献",
+    "xiàn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "供",
+    "gōng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "簪",
+    "zān"
+   ],
+   [
+    "螺",
+    "luó"
+   ],
+   [
+    "髻",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ],
+  [
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "钩",
+    "gōu"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "了",
+    "le"
+   ]
+  ],
+  [
+   [
+    "栏",
+    "lán"
+   ],
+   [
+    "杆",
+    "gān"
+   ],
+   [
+    "拍",
+    "pāi"
+   ],
+   [
+    "遍",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "会",
+    "huì"
+   ]
+  ],
+  [
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "临",
+    "lín"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "鲈",
+    "lú"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "脍",
+    "kuài"
+   ]
+  ],
+  [
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "季",
+    "jì"
+   ],
+   [
+    "鹰",
+    "yīng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "未",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "求",
+    "qiú"
+   ],
+   [
+    "田",
+    "tián"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "舍",
+    "shè"
+   ]
+  ],
+  [
+   [
+    "怕",
+    "pà"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "刘",
+    "liú"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "气",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "忧",
+    "yōu"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "此",
+    "cǐ"
+   ]
+  ],
+  [
+   [
+    "倩",
+    "qìng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "取",
+    "qǔ"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "巾",
+    "jīn"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "袖",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "揾",
+    "wèn"
+   ],
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "语料库最后几句作“倩何人，唤取盈盈翠袖，揾英雄泪”，课本作“倩何人唤取，红巾翠袖，揾英雄泪”，意思相同。另外语料库“鲙”课本作“脍”，“栏干”课本作“栏杆”。",
+  "en": "The corpus ends with a slightly different wording, calling the girls graceful green sleeves; the textbook says red scarves and green sleeves, and breaks the lines differently. The meaning is the same. The corpus also uses older forms of the characters for sliced fish and for railing, where the textbook uses the modern ones."
+ },
+ "readings": [
+  {
+   "line": 21,
+   "pos": 0,
+   "char": "倩",
+   "pinyin": "qìng",
+   "zh": "倩，请、托人，读 qìng，不读“倩影”的 qiàn。",
+   "en": "Here it means to ask someone to do something, read qìng, not qiàn as in a lovely figure."
+  },
+  {
+   "line": 23,
+   "pos": 0,
+   "char": "揾",
+   "pinyin": "wèn",
+   "zh": "揾，擦、拭，读 wèn。",
+   "en": "It means to wipe, read wèn."
+  },
+  {
+   "line": 13,
+   "pos": 0,
+   "char": "尽",
+   "pinyin": "jìn",
+   "zh": "尽，尽管、任凭，读 jìn。",
+   "en": "Here it means let it be, no matter, read jìn."
+  },
+  {
+   "line": 16,
+   "pos": 1,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "怕应，恐怕应该，“应”读 yīng。",
+   "en": "It means I fear one should, so the character is read yīng."
+  },
+  {
+   "line": 15,
+   "pos": 3,
+   "char": "舍",
+   "pinyin": "shè",
+   "zh": "问舍，打听房子，“舍”读 shè。",
+   "en": "It means asking about houses, so the character is read shè."
+  },
+  {
+   "line": 10,
+   "pos": 2,
+   "char": "会",
+   "pinyin": "huì",
+   "zh": "会，懂得、理解，读 huì。",
+   "en": "It means to understand, read huì."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "楚天：南方的天空。建康一带古代属于楚国。",
+   "en": "chǔ tiān: the southern sky. The Jiankang area once belonged to the old state of Chu."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "清秋：明净的秋天。",
+   "en": "qīng qiū: clear, bright autumn."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "无际：没有边。",
+   "en": "wú jì: without end."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "遥岑：远处的小山。岑，小而高的山。",
+   "en": "yáo cén: distant hills. Cén is a small, steep hill."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "远目：极目远望。",
+   "en": "yuǎn mù: to look far into the distance."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "献愁供恨：远山好像在把愁和恨献给我。其实是诗人看山时心里发愁。",
+   "en": "xiàn chóu gōng hèn: the far hills seem to offer him sorrow and grief. Really it is the poet's own sorrow as he looks at them."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "玉簪螺髻：远山的样子，有的像玉做的簪子，有的像螺壳一样的发髻。簪，别头发的长针；髻，盘在头顶的头发。",
+   "en": "yù zān luó jì: the shapes of the hills, some like jade hairpins, some like hair coiled like a snail shell. Zān is a hairpin; jì is hair coiled on top of the head."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "楼头：楼上，这里指赏心亭。",
+   "en": "lóu tóu: up in the tower, here the Shangxin Pavilion."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "断鸿：离群的孤雁。",
+   "en": "duàn hóng: a lone wild goose that has lost its flock."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "江南游子：漂泊在江南的人。辛弃疾是北方人，这是说他自己。",
+   "en": "jiāng nán yóu zǐ: a wanderer in the south. Xin Qiji was from the north, so he means himself."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "吴钩：古代吴地出产的一种弯刀，这里泛指宝刀。",
+   "en": "wú gōu: a curved sword once made in the Wu region, here any fine sword."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "栏杆拍遍：把栏杆都拍遍了。心里有话说不出，只能用手拍栏杆。",
+   "en": "lán gān pāi biàn: he slaps the railing all along its length. With feelings he cannot say, he can only beat the railing."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 3,
+   "zh": "会：懂得。",
+   "en": "huì: to understand."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 3,
+   "zh": "登临意：登上高处时心里的意思，就是想收复北方的心愿。",
+   "en": "dēng lín yì: what he feels as he climbs up high, his wish to win back the north."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 6,
+   "zh": "鲈鱼堪脍：鲈鱼正好切成细片来吃。脍，把鱼肉切成细丝细片。",
+   "en": "lú yú kān kuài: the perch are just right to slice and eat. Kuài means to slice fish thin."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "尽西风：任凭秋风吹着。",
+   "en": "jìn xī fēng: let the west wind blow as it will."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "季鹰：晋代人张翰，字季鹰。他在洛阳做官，看到秋风吹起，想起家乡的鲈鱼，就辞官回家了。",
+   "en": "jì yīng: Zhang Han of the Jin dynasty. Serving in Luoyang, he saw the autumn wind rise, thought of the perch of his home town, and quit his post to go home."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "归未：回去了没有？",
+   "en": "guī wèi: has he gone home or not?"
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "求田问舍：到处买田买房子，只顾自己过好日子。",
+   "en": "qiú tián wèn shè: buying land and houses, caring only for one's own comfort."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "怕应羞见：恐怕会不好意思见到。",
+   "en": "pà yīng xiū jiàn: one would be too ashamed to face."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 2,
+   "zh": "刘郎：刘备。三国时有个叫许汜的人只想着买田买房，刘备很看不起他。",
+   "en": "liú láng: Liu Bei. In the Three Kingdoms period a man named Xu Si thought only of buying land and houses, and Liu Bei looked down on him."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "流年：像水一样流走的时光。",
+   "en": "liú nián: time flowing away like water."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 4,
+   "zh": "忧愁风雨：在风风雨雨中担忧发愁。风雨也比喻国家多难。",
+   "en": "yōu chóu fēng yǔ: worrying through wind and rain. Wind and rain also stand for the country's troubles."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 4,
+   "zh": "树犹如此：树都已经长这么大了。晋代桓温看到自己年轻时种的柳树已经很粗，叹息说：树都这样了，人怎么受得了！",
+   "en": "shù yóu rú cǐ: even the trees have grown this big. Huan Wen of the Jin dynasty saw that willows he had planted when young were now thick, and sighed: if trees are like this, how can a man bear it!"
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 1,
+   "zh": "倩：请，托。",
+   "en": "qìng: to ask someone to do something."
+  },
+  {
+   "line": 21,
+   "start": 3,
+   "end": 5,
+   "zh": "唤取：叫来。",
+   "en": "huàn qǔ: to call over."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 4,
+   "zh": "红巾翠袖：红色的手巾，绿色的衣袖，代指美丽的女子。",
+   "en": "hóng jīn cuì xiù: red scarves and green sleeves, standing for lovely young women."
+  },
+  {
+   "line": 23,
+   "start": 0,
+   "end": 1,
+   "zh": "揾：擦。",
+   "en": "wèn: to wipe."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "南方的天空千里辽阔，一片清秋，",
+   "en": "The southern sky stretches a thousand miles in clear autumn,"
+  },
+  {
+   "zh": "江水随着天边流去，秋色望不到边。",
+   "en": "the river flows off with the sky, and autumn has no end."
+  },
+  {
+   "zh": "我向远处的群山望去，",
+   "en": "I look far off at the distant hills,"
+  },
+  {
+   "zh": "它们好像在向我献上愁和恨，",
+   "en": "and they seem to offer me sorrow and grief,"
+  },
+  {
+   "zh": "有的像玉簪，有的像螺髻。",
+   "en": "some like jade hairpins, some like coiled hair."
+  },
+  {
+   "zh": "夕阳照在楼头，",
+   "en": "The sun sets over the tower,"
+  },
+  {
+   "zh": "孤雁一声声哀叫，",
+   "en": "a lone goose cries again and again,"
+  },
+  {
+   "zh": "我这个漂泊在江南的游子，",
+   "en": "and I, a wanderer in the south,"
+  },
+  {
+   "zh": "把宝刀拿出来看了又看，",
+   "en": "take out my sword and look at it over and over,"
+  },
+  {
+   "zh": "把栏杆拍了个遍，",
+   "en": "and slap the railing all along,"
+  },
+  {
+   "zh": "可是没有人懂得",
+   "en": "but no one understands"
+  },
+  {
+   "zh": "我登高时的心思。",
+   "en": "what is in my heart as I stand up here."
+  },
+  {
+   "zh": "别说鲈鱼正好切来吃了，",
+   "en": "Do not tell me the perch are just right to eat,"
+  },
+  {
+   "zh": "任凭秋风吹着，",
+   "en": "for though the west wind blows,"
+  },
+  {
+   "zh": "我能像张季鹰那样回家吗？",
+   "en": "can I go home like Zhang Jiying?"
+  },
+  {
+   "zh": "只顾买田买房的人，",
+   "en": "A man who thinks only of buying land and houses"
+  },
+  {
+   "zh": "恐怕会羞于见到",
+   "en": "would surely be ashamed to face"
+  },
+  {
+   "zh": "有雄心大志的刘备。",
+   "en": "the great spirit of Liu Bei."
+  },
+  {
+   "zh": "可惜时光像水一样流走，",
+   "en": "What a pity time flows away,"
+  },
+  {
+   "zh": "国家风雨飘摇，叫人忧愁，",
+   "en": "the country is in wind and rain, and I am full of worry,"
+  },
+  {
+   "zh": "树都长得这么大了，人也老了！",
+   "en": "even the trees have grown so big, and I am growing old!"
+  },
+  {
+   "zh": "请谁去叫来",
+   "en": "Whom can I ask to call"
+  },
+  {
+   "zh": "那些红巾翠袖的女子，",
+   "en": "the girls with red scarves and green sleeves,"
+  },
+  {
+   "zh": "替我擦去英雄的眼泪呢？",
+   "en": "to wipe away a hero's tears?"
+  }
+ ],
+ "background": {
+  "zh": "建康就是今天的江苏南京，赏心亭在建康城西的城墙上，可以俯看秦淮河。辛弃疾从北方投奔南宋已经十多年，一心想收复被金国占领的北方，却一直得不到重用。他登上赏心亭远望，写下了这首词。一般认为作于宋孝宗淳熙元年（1174年）前后，一说作于他在建康做通判的时候（1168—1170年）。",
+  "en": "Jiankang is today's Nanjing in Jiangsu. The Shangxin Pavilion stood on the city's west wall, looking down on the Qinhuai River. Xin Qiji had come over from the north to the Southern Song more than ten years before. He longed to win back the north, which the Jin had taken, but was never given an important post. He climbed the pavilion, looked far off, and wrote this lyric. It is usually dated to around 1174; another view puts it in 1168 to 1170, when he held an office in Jiankang."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他生在被金国占领的北方，二十多岁就带兵抗金，后来投奔南宋。他一辈子想收复失地，却常被排挤，只能把满腔的热血写进词里。他的词豪放有力，和苏轼并称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great lyric poet of the Southern Song. He was born in the north under Jin rule. In his early twenties he led troops against the Jin, and then went over to the Southern Song. All his life he wanted to win back the lost land, but he was often pushed aside, so he poured his passion into his lyrics. His lyrics are bold and strong, and he is named with Su Shi as Su and Xin."
+ },
+ "appreciation": {
+  "zh": "上片写登高看到的景和心里的苦。秋天的江水、远处的群山都很美，可山在他眼里却是“献愁供恨”。夕阳、孤雁，再加上一个漂泊的游子，画面越来越孤单。他拿出宝刀看了又看，把栏杆拍了个遍，却没有人懂他想打回北方的心。下片连用三个古人的故事。第一个：张季鹰想家就回去了，可辛弃疾的家乡在北方，被金国占着，回不去。第二个：他看不起只顾买田买房的人，自己不愿那样活。第三个：桓温叹树已长大、人已变老，他也在叹时光流走、壮志未成。最后说，谁能叫个人来替英雄擦眼泪呢？一个大英雄，却只能独自流泪，读来让人又敬佩又心疼。",
+  "en": "The first half shows the view from up high and the pain in his heart. The autumn river and far hills are lovely, but to him the hills seem to offer sorrow and grief. The setting sun, a lone goose and a wandering traveller make the picture lonelier and lonelier. He takes out his sword and looks at it, slaps the railing all along, yet no one understands his wish to fight his way back north. The second half uses three old stories in a row. First: Zhang Jiying missed home and simply went back, but Xin Qiji's home is in the north under the Jin, and he cannot go. Second: he looks down on people who care only for land and houses, and will not live like that. Third: Huan Wen sighed that his trees had grown and he had grown old, and Xin Qiji too sighs that time is slipping by while his great hope is not fulfilled. At the end he asks who could call someone to wipe a hero's tears. A great hero who can only weep alone: reading it, we both admire him and feel for him."
+ },
+ "famous_lines": [
+  8,
+  9,
+  10,
+  11,
+  18,
+  19,
+  20
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "hero",
+   "history",
+   "climbing",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

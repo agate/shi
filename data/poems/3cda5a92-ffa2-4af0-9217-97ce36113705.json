@@ -1,0 +1,257 @@
+{
+ "id": "3cda5a92-ffa2-4af0-9217-97ce36113705",
+ "kind": "shi",
+ "title": "枫桥夜泊",
+ "title_en": "Night Mooring at Maple Bridge",
+ "author": "张继",
+ "author_en": "Zhang Ji",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "乌",
+    "wū"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "枫",
+    "fēng"
+   ],
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "眠",
+    "mián"
+   ]
+  ],
+  [
+   [
+    "姑",
+    "gū"
+   ],
+   [
+    "苏",
+    "sū"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "寺",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "船",
+    "chuán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本和课本作“江枫渔火对愁眠”。语料库作“渔父”（打鱼的老人），是另一种版本。",
+  "en": "The textbook and common text read \"yú huǒ\", the lamps on fishing boats. The corpus text reads \"yú fù\", an old fisherman, which is another version."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "乌啼：乌鸦叫。",
+   "en": "wū tí: crows cawing."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "霜满天：天地间都是寒冷的霜气。霜其实结在地上，这里是说夜里冷得好像满天都是霜。",
+   "en": "shuāng mǎn tiān: frost fills the sky. Frost really forms on the ground; the line means the night is so cold it feels as if the whole sky is full of frost."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "江枫：江边的枫树。",
+   "en": "jiāng fēng: maple trees by the river."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "渔火：渔船上的灯火。",
+   "en": "yú huǒ: the lamps on fishing boats."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "对愁眠：带着忧愁躺着，睡不着。",
+   "en": "duì chóu mián: lying down with one's sorrow, unable to sleep."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "姑苏：苏州的别名。",
+   "en": "gū sū: another name for Suzhou."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "寒山寺：苏州城西枫桥附近的一座寺庙，传说唐朝的僧人寒山在这里住过，因此得名。",
+   "en": "hán shān sì: Hanshan Temple, near Maple Bridge west of Suzhou. Legend says the Tang monk Hanshan once lived there, which gave it its name."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "夜半：半夜。",
+   "en": "yè bàn: midnight."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "客船：旅客坐的船，这里指诗人坐的船。",
+   "en": "kè chuán: a travellers' boat; here, the poet's own boat."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月亮落下去了，乌鸦在叫，寒冷的霜气布满了天地。",
+   "en": "The moon has set, crows are cawing, and frost seems to fill the sky."
+  },
+  {
+   "zh": "江边的枫树、渔船上的灯火，陪着满怀忧愁、睡不着的我。",
+   "en": "Riverside maples and fishing-boat lamps keep me company as I lie awake in sorrow."
+  },
+  {
+   "zh": "苏州城外那座寒山寺，",
+   "en": "From Hanshan Temple outside the city of Suzhou,"
+  },
+  {
+   "zh": "半夜里敲响的钟声，一声声传到了我的船上。",
+   "en": "the midnight bell rings out and reaches my boat."
+  }
+ ],
+ "background": {
+  "zh": "张继是唐朝中期的诗人。一般认为，安史之乱（755年开始的一场大叛乱）以后，很多北方的人逃到江南避难，张继也来到了苏州。一个秋天的夜里，他的船停在苏州城外的枫桥边，他睡不着，听到寒山寺传来的钟声，写下了这首诗。这首诗具体写于哪一年，现在不能确定。",
+  "en": "Zhang Ji was a mid-Tang poet. It is usually said that after the An Lushan Rebellion, a great revolt that began in 755, many northerners fled south of the Yangtze for safety, and Zhang Ji came to Suzhou too. One autumn night his boat was moored at Maple Bridge outside the city. Unable to sleep, he heard the bell of Hanshan Temple and wrote this poem. The exact year is not certain."
+ },
+ "author_note": {
+  "zh": "张继，字懿孙，襄州（今湖北襄阳）人，唐玄宗天宝年间考中进士。他留下来的诗不多，生平也知道得很少。可是凭着这一首《枫桥夜泊》，他的名字流传了一千多年，寒山寺也因此出了名。",
+  "en": "Zhang Ji came from Xiangzhou, today's Xiangyang in Hubei, and passed the highest imperial examination in the Tianbao years of Emperor Xuanzong. Few of his poems survive, and little is known of his life. But this one poem has kept his name alive for more than a thousand years, and it made Hanshan Temple famous."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是一个睡不着的秋夜。第一句里有三样东西：月亮落了，天更黑；乌鸦叫了，夜更静；霜气满天，人更冷。第二句，诗人躺在船里，看着江边的枫树和渔船上一点点的灯火，心里满是愁。他为什么愁？诗里没有说，可能是想家，也可能是为乱世担忧。后两句不再写看到的，而是写听到的：半夜里，寒山寺的钟声一下一下传到船上。四周越安静，钟声越清楚；钟声越清楚，人就越孤单。这“当——当——”的钟声，一直响了一千多年，很多人到苏州，就是为了去听一听寒山寺的钟声。",
+  "en": "This poem is about an autumn night without sleep. The first line holds three things: the moon has set, so it is darker; crows caw, so the night feels quieter; frost fills the air, so the traveller feels colder. In the second line the poet lies in his boat, looking at the riverside maples and the little lights of the fishing boats, his heart full of sorrow. Why is he sad? The poem does not say. Maybe he misses home, maybe he worries about the troubled times. The last two lines move from what he sees to what he hears. At midnight the bell of Hanshan Temple rings, stroke by stroke, and reaches his boat. The quieter the night, the clearer the bell; the clearer the bell, the lonelier he feels. That bell has kept ringing for more than a thousand years. Many people go to Suzhou just to hear the bell of Hanshan Temple."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "night",
+   "travel",
+   "homesick",
+   "bell",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

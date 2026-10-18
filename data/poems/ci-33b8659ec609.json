@@ -1,0 +1,406 @@
+{
+ "id": "ci-33b8659ec609",
+ "kind": "ci",
+ "title": "西江月·夜行黄沙道中",
+ "title_en": "West River Moon: Walking at Night on the Huangsha Road",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "鹊",
+    "què"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "蝉",
+    "chán"
+   ]
+  ],
+  [
+   [
+    "稻",
+    "dào"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "丰",
+    "fēng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "蛙",
+    "wā"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "片",
+    "piàn"
+   ]
+  ],
+  [
+   [
+    "七",
+    "qī"
+   ],
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "茅",
+    "máo"
+   ],
+   [
+    "店",
+    "diàn"
+   ],
+   [
+    "社",
+    "shè"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "别",
+   "pinyin": "bié",
+   "zh": "“别枝”的“别”读 bié。一般解释为斜伸出去的树枝；一说是“离开树枝”，鹊被月光惊醒，飞离了树枝。",
+   "en": "Read bié. Bié zhī is usually explained as a branch that sticks out to the side. Another reading takes bié as 'to leave': the magpie, startled by the moonlight, flies off the branch."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "见",
+   "pinyin": "jiàn",
+   "zh": "“忽见”的“见”课本读 jiàn，意思是看见。一说读 xiàn，同“现”，意思是出现。",
+   "en": "Textbooks read this jiàn, 'to see'. Some read it xiàn, the old form of 'to appear'."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "别枝：斜伸出去的树枝。",
+   "en": "bié zhī: a branch that sticks out to the side."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "惊鹊：让喜鹊受惊。明亮的月光把睡着的喜鹊惊醒了。",
+   "en": "jīng què: startles the magpie. The bright moonlight wakes the sleeping bird."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "鸣蝉：蝉叫起来。",
+   "en": "míng chán: the cicadas start to sing."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "稻花香里：在稻花的香气里。稻子开花，说明快要丰收了。",
+   "en": "dào huā xiāng lǐ: in the smell of rice flowers. When rice is in flower, a good harvest is near."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "说丰年：谈论今年是个丰收年。一说是青蛙在叫，好像在说丰收。",
+   "en": "shuō fēng nián: talking about a good harvest year. Some say it is the frogs whose croaking seems to announce the harvest."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "听取：听见。“取”是助词，没有实在意思。",
+   "en": "tīng qǔ: to hear. Qǔ here just adds to the verb and has no meaning of its own."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "天外：遥远的天边。",
+   "en": "tiān wài: the far edge of the sky."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "旧时：从前、往日。",
+   "en": "jiù shí: in the old days, before."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "茅店：用茅草盖屋顶的小客店。",
+   "en": "máo diàn: a small inn with a thatched roof."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "社林：土地庙旁边的树林。社，土地庙，古时村里祭土地神的地方。",
+   "en": "shè lín: the grove by the village shrine. A shè was a shrine to the earth god, where villagers made offerings."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "路转：山路拐了个弯。",
+   "en": "lù zhuǎn: the road turns a bend."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "忽见：忽然看见。",
+   "en": "hū jiàn: suddenly see."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "明亮的月光惊醒了斜枝上的喜鹊，",
+   "en": "The bright moon startles a magpie on a slanting branch;"
+  },
+  {
+   "zh": "半夜里清风吹来，蝉叫了起来。",
+   "en": "at midnight a cool breeze blows and the cicadas sing."
+  },
+  {
+   "zh": "在稻花的香气里，人们谈论着今年的好收成，",
+   "en": "In the scent of rice flowers, people talk of a good harvest year,"
+  },
+  {
+   "zh": "耳边听到一片青蛙的叫声。",
+   "en": "and all around I hear the croaking of frogs."
+  },
+  {
+   "zh": "远远的天边，只有七八颗星星，",
+   "en": "Far off at the edge of the sky are only seven or eight stars;"
+  },
+  {
+   "zh": "山前落下两三点雨。",
+   "en": "in front of the hills fall two or three drops of rain."
+  },
+  {
+   "zh": "从前那家茅草小店，就在土地庙旁的树林边，",
+   "en": "The old thatched inn by the grove of the village shrine,"
+  },
+  {
+   "zh": "山路一拐过溪上的小桥，它忽然就出现在眼前。",
+   "en": "as the road turns past the bridge over the stream, suddenly comes into view."
+  }
+ ],
+ "background": {
+  "zh": "宋孝宗淳熙八年（1181年），辛弃疾被罢官，回到上饶（今江西上饶）的带湖住了下来，前后约十年。黄沙岭在上饶西边，是他常走的一条路。一般认为，这首词就是这段时间里，他在一个夏天的夜里走过黄沙岭时写的。",
+  "en": "In 1181 Xin Qiji was removed from office. He went to live at Daihu Lake in Shangrao, in today's Jiangxi, and stayed for about ten years. Huangsha Ridge lay west of Shangrao, on a road he often took. It is usually thought that he wrote this lyric during those years, on a summer night as he walked along the Huangsha road."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他生在被金国占领的北方，年轻时带兵抗金，后来南下，一心想收复失地，却多次被罢官。他的词大多豪迈悲壮，但闲居乡村时也写了不少清新的田园词，这首就是其中最有名的一首。",
+  "en": "Xin Qiji (1140–1207), styled Youan and known as Jiaxuan, was a great ci writer of the Southern Song. He was born in the north, which the Jin had taken over. As a young man he led troops against the Jin, then came south hoping to win the lost land back, but he was removed from office again and again. Most of his lyrics are bold and stirring. Yet while living in the countryside he also wrote fresh poems about farm life, and this is the most famous of them."
+ },
+ "appreciation": {
+  "zh": "这首词像一段夜里走路的小电影。开头有光有声：月亮出来，喜鹊惊飞；清风吹过，蝉叫起来。接着有香有声：稻花飘香，一片蛙声，好像青蛙也在为丰收高兴。下半首天变了：星星少了，山前落下几点雨，走路的人有点着急，想找地方躲雨。正在这时，山路一转，过了小桥，那家熟悉的茅草小店忽然出现在眼前。那一下的惊喜，读者也能感觉到。全词没有一个“喜”字，却处处透着对丰收和乡村生活的喜爱。",
+  "en": "This lyric is like a short film of a night walk. It opens with light and sound: the moon comes out and a magpie flutters up; a breeze blows and the cicadas sing. Then come smell and sound: the rice flowers are fragrant and frogs croak everywhere, as if they too are happy about the harvest. In the second half the weather turns. There are fewer stars, a few drops of rain fall before the hills, and the walker starts to hurry, looking for shelter. Just then the road bends past a little bridge, and the familiar thatched inn suddenly appears. Readers can feel that moment of happy surprise. The lyric never uses the word 'joy', yet every line shows love for the harvest and for country life."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "countryside",
+   "night",
+   "harvest",
+   "moon",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

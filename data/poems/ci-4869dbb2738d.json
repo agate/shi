@@ -1,0 +1,459 @@
+{
+ "id": "ci-4869dbb2738d",
+ "kind": "ci",
+ "title": "鹧鸪天·代人赋",
+ "title_en": "Partridge Sky: Written for Someone Else",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "陌",
+    "mò"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "柔",
+    "róu"
+   ],
+   [
+    "桑",
+    "sāng"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "嫩",
+    "nèn"
+   ],
+   [
+    "芽",
+    "yá"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "蚕",
+    "cán"
+   ],
+   [
+    "种",
+    "zhǒng"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "些",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "冈",
+    "gāng"
+   ],
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "犊",
+    "dú"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "鸦",
+    "yā"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "近",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "沽",
+    "gū"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "李",
+    "lǐ"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "荠",
+    "jì"
+   ],
+   [
+    "菜",
+    "cài"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "通行本首句作“陌上柔桑破嫩芽”，末句作“春在溪头荠菜花”。这里的底本作“陌上柔条初破芽”“春在溪头野荠花”，是另一种版本。",
+  "en": "The commonly taught text opens with róu sāng pò nèn yá (soft mulberry breaks into tender buds) and ends with jì cài huā (shepherd's purse flowers). The source text has róu tiáo chū pò yá (soft branches first break into buds) and yě jì huā (wild shepherd's purse flowers), another old version."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "“路横斜”的“斜”现在读 xié。古音读如 xiá，和“芽、些、鸦、家、花”押韵。",
+   "en": "This character is read xié today. In older pronunciation it sounded like xiá, which rhymes with the other line endings."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "些",
+   "pinyin": "xiē",
+   "zh": "“些”读 xiē，古音和“芽、鸦、家、花”同韵。",
+   "en": "This character is read xiē; in older pronunciation it rhymed with the other line endings."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "陌上：田间小路上。",
+   "en": "mò shàng: on the paths between the fields."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "柔桑：柔嫩的桑树枝条。桑叶是喂蚕的。",
+   "en": "róu sāng: soft young mulberry branches. Mulberry leaves are food for silkworms."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "破嫩芽：冒出了嫩芽。",
+   "en": "pò nèn yá: tender buds breaking out."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "东邻：东边的邻居。",
+   "en": "dōng lín: the neighbour to the east."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 7,
+   "zh": "蚕种已生些：蚕卵已经孵出了一些小蚕。蚕种，蚕卵。",
+   "en": "cán zhǒng yǐ shēng xiē: some of the silkworm eggs have already hatched. Cán zhǒng means silkworm eggs."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "平冈：平坦的小山坡。",
+   "en": "píng gāng: a low, flat hill."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "黄犊：黄色的小牛。",
+   "en": "huáng dú: a little yellow calf."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "斜日：快要落山的太阳。",
+   "en": "xié rì: the sinking sun."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "寒林：早春还没长满叶子、显得清冷的树林。",
+   "en": "hán lín: woods that still look cold and bare in early spring."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "点暮鸦：傍晚的乌鸦像一个个小黑点停在树上。",
+   "en": "diǎn mù yā: evening crows dotting the trees like little black spots."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "横斜：有的横着，有的斜着，弯弯曲曲。",
+   "en": "héng xié: some running across, some slanting, winding this way and that."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "青旗：酒店门口挂的青布招牌，叫酒旗。",
+   "en": "qīng qí: the blue cloth flag hung outside a wine shop as its sign."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "沽酒：卖酒，也可以指买酒。",
+   "en": "gū jiǔ: to sell wine, or to buy it."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "愁风雨：怕被风雨打落。",
+   "en": "chóu fēng yǔ: fearing that wind and rain will knock them down."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "溪头：小溪边。",
+   "en": "xī tóu: by the stream."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "荠菜花：荠菜开的小白花。荠菜是田野里常见的野菜。",
+   "en": "jì cài huā: the little white flowers of shepherd's purse, a common wild vegetable in the fields."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "田间小路旁，柔嫩的桑枝冒出了新芽，",
+   "en": "Along the field paths, soft mulberry branches break into tender buds."
+  },
+  {
+   "zh": "东边邻居家的蚕卵，已经孵出了一些小蚕。",
+   "en": "At the neighbour's to the east, some silkworms have already hatched."
+  },
+  {
+   "zh": "平缓的山坡上长着细草，小黄牛在哞哞叫，",
+   "en": "On the low hill the grass is fine, and a yellow calf is lowing."
+  },
+  {
+   "zh": "夕阳下，清冷的树林里落着点点归巢的乌鸦。",
+   "en": "In the setting sun, evening crows dot the chilly woods."
+  },
+  {
+   "zh": "远远近近都是山，",
+   "en": "Hills near and far,"
+  },
+  {
+   "zh": "小路横横斜斜，",
+   "en": "paths winding across and slanting,"
+  },
+  {
+   "zh": "挂着青色酒旗的地方，有卖酒的人家。",
+   "en": "and where a blue wine flag hangs, there is a house that sells wine."
+  },
+  {
+   "zh": "城里的桃花李花，怕风怕雨，",
+   "en": "In the city, the peach and plum blossoms fear the wind and rain,"
+  },
+  {
+   "zh": "春天却在溪边那一片荠菜花里。",
+   "en": "but spring is out by the stream, in the shepherd's purse flowers."
+  }
+ ],
+ "background": {
+  "zh": "“代人赋”就是替别人写的。一般认为，这首词是辛弃疾被罢官后，闲居在江西上饶带湖时写的。那几年他住在乡下，常常写农村的风光和农家的生活。具体写于哪一年，说法不一。",
+  "en": "The title means written on someone else's behalf. It is usually thought that Xin Qiji wrote it after he was dismissed from office, while he lived at Dai Lake in Shangrao, Jiangxi. In those years he lived in the countryside and often wrote about village scenery and farm life. Sources differ on the exact year."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他出生在被金国占领的北方，二十多岁就参加抗金起义，后来回到南宋。他一心想收复北方，却长期得不到重用，中年以后多次被罢官，在江西乡下闲住了很多年。他的词豪放有力，和苏轼并称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song poet. He was born in the north, which the Jin had taken. In his early twenties he joined an uprising against the Jin and then came south to the Song. He wanted with all his heart to win back the north, but he was seldom given real power. From middle age he was dismissed again and again, and lived for many years in the Jiangxi countryside. His lyrics are bold and strong; he and Su Shi are named together as Su and Xin."
+ },
+ "appreciation": {
+  "zh": "这首词像一幅早春的乡村画。桑树冒芽，小蚕出生，小牛在山坡上叫，乌鸦在夕阳里归林。远近是山，小路弯弯，路边还有挂着酒旗的人家。一切都朴素、安静、有生气。最后两句是全词的眼睛：城里的桃花李花娇贵，一场风雨就被打落；溪边不起眼的荠菜花，却开得正好。春天不在城里那些名贵的花上，而在乡间最普通的野花里。这里面也藏着词人的心思：他宁愿喜欢朴实的乡村，也不羡慕城里的繁华。",
+  "en": "This lyric is like a painting of a village in early spring. The mulberry trees bud, the little silkworms hatch, a calf lows on the hill, and crows fly home to the woods in the setting sun. There are hills near and far, winding paths, and a house with a wine flag by the road. Everything is plain, quiet and full of life. The last two lines are the heart of the lyric. The fine peach and plum blossoms in the city are delicate, and one storm knocks them down. The humble wild flowers by the stream bloom just fine. Spring is not in the precious flowers of the city, but in the most ordinary flowers of the countryside. The poet's own feeling hides here too: he loves the simple village and does not envy the busy city."
+ },
+ "famous_lines": [
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "countryside",
+   "farm-life",
+   "flowers"
+  ]
+ },
+ "uncertain": []
+}

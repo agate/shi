@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>鹿柴 · 王维 — 诗</title>
+    <meta name="description" content="鹿柴 · 王维 — Deer Enclosure by Wang Wei: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 53 · Tang poem · five-character quatrain</span><span lang="zh">第 53 首 · 唐诗 · 五言绝句</span></p>
+        <h1>鹿柴</h1>
+        <p class="by">王维<span class="mono"><span lang="en">Wang Wei · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Deer Enclosure</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>kōng</i><b>空</b></span><span class="c gl" data-l="0" data-p="1"><i>shān</i><b>山</b></span><span class="c" data-l="0" data-p="2"><i>bú</i><b>不</b></span><span class="c" data-l="0" data-p="3"><i>jiàn</i><b>见</b></span><span class="c" data-l="0" data-p="4"><i>rén</i><b>人</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>dàn</i><b>但</b></span><span class="c gl" data-l="1" data-p="1"><i>wén</i><b>闻</b></span><span class="c gl" data-l="1" data-p="2"><i>rén</i><b>人</b></span><span class="c gl" data-l="1" data-p="3"><i>yǔ</i><b>语</b></span><span class="c gl" data-l="1" data-p="4"><i>xiǎng</i><b>响</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>fǎn</i><b>返</b></span><span class="c gl rd" data-l="2" data-p="1"><i>yǐng</i><b>景</b></span><span class="c" data-l="2" data-p="2"><i>rù</i><b>入</b></span><span class="c gl" data-l="2" data-p="3"><i>shēn</i><b>深</b></span><span class="c gl" data-l="2" data-p="4"><i>lín</i><b>林</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>fù</i><b>复</b></span><span class="c" data-l="3" data-p="1"><i>zhào</i><b>照</b></span><span class="c gl" data-l="3" data-p="2"><i>qīng</i><b>青</b></span><span class="c gl" data-l="3" data-p="3"><i>tái</i><b>苔</b></span><span class="c" data-l="3" data-p="4"><i>shàng</i><b>上</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">空山不见人</span><span lang="en">The mountain is empty. I see no one.</span><span lang="zh">山里空空的，看不见一个人。</span></li><li><span class="o">但闻人语响</span><span lang="en">I only hear the sound of voices.</span><span lang="zh">只听见有人说话的声音传过来。</span></li><li><span class="o">返景入深林</span><span lang="en">The evening light shines back into the deep forest,</span><span lang="zh">夕阳返照的光，照进了深深的树林，</span></li><li><span class="o">复照青苔上</span><span lang="en">and falls again on the green moss.</span><span lang="zh">又照在地上的青苔上。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>空山<span class="mono">kōng shān</span></dt><dd><span lang="en">kōng shān: an empty, quiet mountain, where no one seems to be.</span><span lang="zh">空山：空空的、静静的山，好像没有人。</span></dd></div><div><dt>但<span class="mono">dàn</span></dt><dd><span lang="en">dàn: only.</span><span lang="zh">但：只。</span></dd></div><div><dt>闻<span class="mono">wén</span></dt><dd><span lang="en">wén: to hear.</span><span lang="zh">闻：听见。</span></dd></div><div><dt>人语响<span class="mono">rén yǔ xiǎng</span></dt><dd><span lang="en">rén yǔ xiǎng: the sound of people talking.</span><span lang="zh">人语响：人说话的声音。</span></dd></div><div><dt>返景<span class="mono">fǎn yǐng</span></dt><dd><span lang="en">fǎn yǐng: the evening sunlight that shines back in just before the sun goes down.</span><span lang="zh">返景：傍晚太阳快落山时，返照回来的阳光。</span></dd></div><div><dt>深林<span class="mono">shēn lín</span></dt><dd><span lang="en">shēn lín: a deep, thick forest.</span><span lang="zh">深林：又密又深的树林。</span></dd></div><div><dt>复<span class="mono">fù</span></dt><dd><span lang="en">fù: again.</span><span lang="zh">复：又。</span></dd></div><div><dt>青苔<span class="mono">qīng tái</span></dt><dd><span lang="en">qīng tái: green moss, a tiny plant that grows in shady, damp places like a thin green carpet.</span><span lang="zh">青苔：长在阴暗潮湿地方的绿色小植物，像一层绿毯子。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>景<span class="mono">yǐng</span></dt><dd><span lang="en">Here this character means the same as the word for shadow or light, and means sunlight. It is read yǐng, not jǐng. Textbooks also mark it yǐng.</span><span lang="zh">景，这里同“影”，指日光，读 yǐng，不读 jǐng。课本也注 yǐng。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In his later years Wang Wei had a country house with gardens at Wangchuan, in Lantian County near Chang&#x27;an. There were twenty lovely spots there. He and his friend Pei Di each wrote a short poem for every spot, and the poems were gathered as the Wangchuan Collection. Lu Zhai, the Deer Enclosure, was one of the spots. The second character of the title is read zhài here. It means a fence made of wood, perhaps a place for keeping deer. The poem shows the mountain woods near the Deer Enclosure at dusk.</p><p lang="zh">王维晚年在长安附近的蓝田县辋川有一座别墅，就是乡下的房子和园子。那里有二十处好风景，他和朋友裴迪每处各写一首小诗，合起来叫《辋川集》。鹿柴就是其中一处。题目里的“柴”读 zhài，同“寨”，指用木头围起来的篱笆，也许是养鹿的地方。这首诗写的就是鹿柴附近山林傍晚的样子。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Wei (701–761; some say 699–761) was a Tang poet and also a painter. He was a Buddhist and is often called the Buddha of Poetry. The Song writer Su Shi said there are paintings in his poems and poems in his paintings. In his later years he often stayed at Wangchuan and loved writing about quiet hills and streams. This poem is a fine example.</p><p lang="zh">王维（701—761，一说699—761），唐代诗人，也是画家，信佛，被人称为“诗佛”。宋代的苏轼说他“诗中有画，画中有诗”。他晚年常住在辋川，喜欢写安静的山水，这首诗就是很好的例子。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first line says the mountain is empty, with no one in sight. The second line says we hear voices. There is sound but no person, so the mountain feels even emptier and quieter. It is like a very quiet classroom: when someone coughs, the quiet feels even deeper. The last two lines are about light. The low evening sun slants into the deep woods and lands on the moss. The woods are dark, and this small patch of light makes them feel even darker and cooler. In just twenty characters there is sound and light, like a quiet painting.</p><p lang="zh">第一句说山里空空的，看不见一个人。第二句却说听见了人说话的声音。有声音，却看不见人，山就显得更空、更静了。这就像在很安静的教室里，忽然有人咳嗽一声，反而让人觉得更安静。后两句写光：傍晚的夕阳斜斜地照进深深的树林，落在青苔上。林子里本来很暗，这一小片光让人更感到幽暗和清冷。全诗只有二十个字，有声音，有光，像一幅安静的画。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/songyuanershianxi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>送元二使安西</b></a><a href="../../p/change/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>嫦娥</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["空", "kōng"], ["山", "shān"], ["不", "bú"], ["见", "jiàn"], ["人", "rén"]], [["但", "dàn"], ["闻", "wén"], ["人", "rén"], ["语", "yǔ"], ["响", "xiǎng"]], [["返", "fǎn"], ["景", "yǐng"], ["入", "rù"], ["深", "shēn"], ["林", "lín"]], [["复", "fù"], ["照", "zhào"], ["青", "qīng"], ["苔", "tái"], ["上", "shàng"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "空山：空空的、静静的山，好像没有人。", "en": "kōng shān: an empty, quiet mountain, where no one seems to be."}, {"line": 1, "start": 0, "end": 1, "zh": "但：只。", "en": "dàn: only."}, {"line": 1, "start": 1, "end": 2, "zh": "闻：听见。", "en": "wén: to hear."}, {"line": 1, "start": 2, "end": 5, "zh": "人语响：人说话的声音。", "en": "rén yǔ xiǎng: the sound of people talking."}, {"line": 2, "start": 0, "end": 2, "zh": "返景：傍晚太阳快落山时，返照回来的阳光。", "en": "fǎn yǐng: the evening sunlight that shines back in just before the sun goes down."}, {"line": 2, "start": 3, "end": 5, "zh": "深林：又密又深的树林。", "en": "shēn lín: a deep, thick forest."}, {"line": 3, "start": 0, "end": 1, "zh": "复：又。", "en": "fù: again."}, {"line": 3, "start": 2, "end": 4, "zh": "青苔：长在阴暗潮湿地方的绿色小植物，像一层绿毯子。", "en": "qīng tái: green moss, a tiny plant that grows in shady, damp places like a thin green carpet."}], "readings": [{"line": 2, "pos": 1, "char": "景", "pinyin": "yǐng", "zh": "景，这里同“影”，指日光，读 yǐng，不读 jǐng。课本也注 yǐng。", "en": "Here this character means the same as the word for shadow or light, and means sunlight. It is read yǐng, not jǐng. Textbooks also mark it yǐng."}], "speak": ["空山不见人", "但闻人语响", "返影入深林", "复照青苔上"], "speakTitle": "鹿柴。王维。", "sample": "空山不见人"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>鹊桥仙·纤云弄巧 · 秦观 — 诗</title>
+    <meta name="description" content="鹊桥仙·纤云弄巧 · 秦观 — Immortals at the Magpie Bridge: Wispy Clouds Weave Their Patterns by Qin Guan: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 66 · Song lyric · ci (song lyric)</span><span lang="zh">第 66 首 · 宋词 · 词</span></p>
+        <h1>鹊桥仙·纤云弄巧</h1>
+        <p class="by">秦观<span class="mono"><span lang="en">Qin Guan · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Immortals at the Magpie Bridge: Wispy Clouds Weave Their Patterns</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>xiān</i><b>纤</b></span><span class="c gl" data-l="0" data-p="1"><i>yún</i><b>云</b></span><span class="c gl" data-l="0" data-p="2"><i>nòng</i><b>弄</b></span><span class="c gl" data-l="0" data-p="3"><i>qiǎo</i><b>巧</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>fēi</i><b>飞</b></span><span class="c gl" data-l="1" data-p="1"><i>xīng</i><b>星</b></span><span class="c gl" data-l="1" data-p="2"><i>chuán</i><b>传</b></span><span class="c gl" data-l="1" data-p="3"><i>hèn</i><b>恨</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yín</i><b>银</b></span><span class="c gl" data-l="2" data-p="1"><i>hàn</i><b>汉</b></span><span class="c gl" data-l="2" data-p="2"><i>tiáo</i><b>迢</b></span><span class="c gl" data-l="2" data-p="3"><i>tiáo</i><b>迢</b></span><span class="c gl" data-l="2" data-p="4"><i>àn</i><b>暗</b></span><span class="c gl" data-l="2" data-p="5"><i>dù</i><b>度</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>jīn</i><b>金</b></span><span class="c gl" data-l="3" data-p="1"><i>fēng</i><b>风</b></span><span class="c gl" data-l="3" data-p="2"><i>yù</i><b>玉</b></span><span class="c gl" data-l="3" data-p="3"><i>lù</i><b>露</b></span><span class="c gl" data-l="3" data-p="4"><i>yì</i><b>一</b></span><span class="c gl" data-l="3" data-p="5"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="3" data-p="6"><i>féng</i><b>逢</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>biàn</i><b>便</b></span><span class="c gl" data-l="4" data-p="1"><i>shèng</i><b>胜</b></span><span class="c gl" data-l="4" data-p="2"><i>què</i><b>却</b></span><span class="c gl" data-l="4" data-p="3"><i>rén</i><b>人</b></span><span class="c gl" data-l="4" data-p="4"><i>jiān</i><b>间</b></span><span class="c gl" data-l="4" data-p="5"><i>wú</i><b>无</b></span><span class="c gl" data-l="4" data-p="6"><i>shù</i><b>数</b></span></p><p class="ln brk"><span class="c gl" data-l="5" data-p="0"><i>róu</i><b>柔</b></span><span class="c gl" data-l="5" data-p="1"><i>qíng</i><b>情</b></span><span class="c gl" data-l="5" data-p="2"><i>sì</i><b>似</b></span><span class="c gl" data-l="5" data-p="3"><i>shuǐ</i><b>水</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>jiā</i><b>佳</b></span><span class="c gl" data-l="6" data-p="1"><i>qī</i><b>期</b></span><span class="c" data-l="6" data-p="2"><i>rú</i><b>如</b></span><span class="c" data-l="6" data-p="3"><i>mèng</i><b>梦</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>rěn</i><b>忍</b></span><span class="c gl" data-l="7" data-p="1"><i>gù</i><b>顾</b></span><span class="c gl" data-l="7" data-p="2"><i>què</i><b>鹊</b></span><span class="c gl" data-l="7" data-p="3"><i>qiáo</i><b>桥</b></span><span class="c" data-l="7" data-p="4"><i>guī</i><b>归</b></span><span class="c" data-l="7" data-p="5"><i>lù</i><b>路</b></span></p><p class="ln"><span class="c gl" data-l="8" data-p="0"><i>liǎng</i><b>两</b></span><span class="c gl" data-l="8" data-p="1"><i>qíng</i><b>情</b></span><span class="c" data-l="8" data-p="2"><i>ruò</i><b>若</b></span><span class="c" data-l="8" data-p="3"><i>shì</i><b>是</b></span><span class="c gl" data-l="8" data-p="4"><i>jiǔ</i><b>久</b></span><span class="c gl" data-l="8" data-p="5"><i>cháng</i><b>长</b></span><span class="c" data-l="8" data-p="6"><i>shí</i><b>时</b></span></p><p class="ln"><span class="c rd" data-l="9" data-p="0"><i>yòu</i><b>又</b></span><span class="c gl rd" data-l="9" data-p="1"><i>qǐ</i><b>岂</b></span><span class="c gl" data-l="9" data-p="2"><i>zài</i><b>在</b></span><span class="c gl" data-l="9" data-p="3"><i>zhāo</i><b>朝</b></span><span class="c gl" data-l="9" data-p="4"><i>zhāo</i><b>朝</b></span><span class="c gl" data-l="9" data-p="5"><i>mù</i><b>暮</b></span><span class="c gl" data-l="9" data-p="6"><i>mù</i><b>暮</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The commonly taught text has jiǔ cháng shí (long-lasting) in the ninth line; the source text has the two characters the other way round, cháng jiǔ shí. The meaning is the same.</p><p lang="zh">通行本最后一段作“两情若是久长时”，这里的底本作“长久时”，意思相同。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">纤云弄巧</span><span lang="en">Wispy clouds weave clever patterns,</span><span lang="zh">薄薄的云彩变出各种巧妙的花样，</span></li><li><span class="o">飞星传恨</span><span lang="en">the stars carry the sorrow of being apart,</span><span lang="zh">天上的星星传递着分别的愁苦，</span></li><li><span class="o">银汉迢迢暗度</span><span lang="en">and quietly she crosses the far Milky Way.</span><span lang="zh">织女悄悄渡过遥远的银河。</span></li><li><span class="o">金风玉露一相逢</span><span lang="en">One meeting on this night of autumn wind and white dew</span><span lang="zh">在这秋风白露的夜里见上一面，</span></li><li><span class="o">便胜却人间无数</span><span lang="en">is worth more than countless meetings in the human world.</span><span lang="zh">就胜过人间无数次的相聚。</span></li><li class="brk"><span class="o">柔情似水</span><span lang="en">Their tender love is soft as water,</span><span lang="zh">温柔的情意像水一样，</span></li><li><span class="o">佳期如梦</span><span lang="en">and the happy meeting passes like a dream.</span><span lang="zh">美好的相会像梦一样短，</span></li><li><span class="o">忍顾鹊桥归路</span><span lang="en">How can they bear to look back at the magpie bridge, the road home?</span><span lang="zh">怎么忍心回头看那鹊桥上回去的路。</span></li><li><span class="o">两情若是久长时</span><span lang="en">If the love between two people lasts for ever,</span><span lang="zh">两个人的感情如果能长长久久，</span></li><li><span class="o">又岂在朝朝暮暮</span><span lang="en">why must they be together every morning and every night?</span><span lang="zh">又何必天天早晚都在一起呢？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>纤云<span class="mono">xiān yún</span></dt><dd><span lang="en">xiān yún: thin, wispy clouds.</span><span lang="zh">纤云：又细又薄的云。</span></dd></div><div><dt>弄巧<span class="mono">nòng qiǎo</span></dt><dd><span lang="en">nòng qiǎo: to make clever patterns. In the legend, the Weaver Girl is very skilful and weaves the coloured clouds.</span><span lang="zh">弄巧：变出各种巧妙的花样。传说织女手很巧，会织彩云。</span></dd></div><div><dt>飞星<span class="mono">fēi xīng</span></dt><dd><span lang="en">fēi xīng: stars in the sky. Some say shooting stars; others say the Cowherd star and the Weaver Girl star.</span><span lang="zh">飞星：天上的星星，一说指流星，一说指牛郎星和织女星。</span></dd></div><div><dt>传恨<span class="mono">chuán hèn</span></dt><dd><span lang="en">chuán hèn: to carry the sorrow of being apart.</span><span lang="zh">传恨：传递分别的愁苦。</span></dd></div><div><dt>银汉<span class="mono">yín hàn</span></dt><dd><span lang="en">yín hàn: the Silver River, that is, the Milky Way.</span><span lang="zh">银汉：银河。</span></dd></div><div><dt>迢迢<span class="mono">tiáo tiáo</span></dt><dd><span lang="en">tiáo tiáo: very, very far.</span><span lang="zh">迢迢：很远很远的样子。</span></dd></div><div><dt>暗度<span class="mono">àn dù</span></dt><dd><span lang="en">àn dù: to cross quietly in the dark. In the legend, on the night of the seventh day of the seventh month, the Weaver Girl quietly crosses the Milky Way to meet the Cowherd.</span><span lang="zh">暗度：悄悄地渡过。传说七月初七的夜里，织女悄悄渡过银河去和牛郎相会。</span></dd></div><div><dt>金风玉露<span class="mono">jīn fēng yù lù</span></dt><dd><span lang="en">jīn fēng yù lù: the autumn wind and the white dew, meaning the autumn night of Qixi. In old Chinese thought autumn goes with metal, so the autumn wind is called the golden wind.</span><span lang="zh">金风玉露：秋风和白露，指七夕这个秋天的夜晚。古人把秋天和“金”相配，所以叫秋风为金风。</span></dd></div><div><dt>一相逢<span class="mono">yì xiāng féng</span></dt><dd><span lang="en">yì xiāng féng: once they meet.</span><span lang="zh">一相逢：一旦见了面。</span></dd></div><div><dt>胜却<span class="mono">shèng què</span></dt><dd><span lang="en">shèng què: to be better than. Què after a verb adds no real meaning here.</span><span lang="zh">胜却：胜过。却，用在动词后面，没有实在意思。</span></dd></div><div><dt>人间无数<span class="mono">rén jiān wú shù</span></dt><dd><span lang="en">rén jiān wú shù: the countless couples in the human world who are together every day.</span><span lang="zh">人间无数：人间无数对天天在一起的夫妻。</span></dd></div><div><dt>柔情似水<span class="mono">róu qíng sì shuǐ</span></dt><dd><span lang="en">róu qíng sì shuǐ: tender love, soft as water.</span><span lang="zh">柔情似水：温柔的情意像水一样。</span></dd></div><div><dt>佳期<span class="mono">jiā qī</span></dt><dd><span lang="en">jiā qī: the happy day of meeting.</span><span lang="zh">佳期：美好的相会的日子。</span></dd></div><div><dt>忍顾<span class="mono">rěn gù</span></dt><dd><span lang="en">rěn gù: how can they bear to look back.</span><span lang="zh">忍顾：怎么忍心回头看。</span></dd></div><div><dt>鹊桥<span class="mono">què qiáo</span></dt><dd><span lang="en">què qiáo: the magpie bridge. On Qixi, the legend says, magpies form a bridge across the Milky Way so the two lovers can meet.</span><span lang="zh">鹊桥：传说七夕这天，喜鹊在银河上搭成一座桥，让牛郎织女相会。</span></dd></div><div><dt>两情<span class="mono">liǎng qíng</span></dt><dd><span lang="en">liǎng qíng: the love between two people.</span><span lang="zh">两情：两个人的感情。</span></dd></div><div><dt>久长<span class="mono">jiǔ cháng</span></dt><dd><span lang="en">jiǔ cháng: lasting a long, long time.</span><span lang="zh">久长：长长久久。</span></dd></div><div><dt>岂在<span class="mono">qǐ zài</span></dt><dd><span lang="en">qǐ zài: why should it depend on.</span><span lang="zh">岂在：哪里在于，何必在乎。</span></dd></div><div><dt>朝朝暮暮<span class="mono">zhāo zhāo mù mù</span></dt><dd><span lang="en">zhāo zhāo mù mù: every morning and every evening, that is, being together every day.</span><span lang="zh">朝朝暮暮：每天早上和晚上，指天天在一起。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>又<span class="mono">yòu</span></dt><dd><span lang="en">In zhāo zhāo mù mù, this character means morning, so it is read zhāo, not cháo.</span><span lang="zh">朝朝暮暮的“朝”是早晨的意思，读 zhāo，不读 cháo。</span></dd></div><div><dt>岂<span class="mono">qǐ</span></dt><dd><span lang="en">Same as before: read zhāo.</span><span lang="zh">同上，读 zhāo。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric uses the legend of the Cowherd and the Weaver Girl to write about love. In the legend, the two lovers are kept apart by the Milky Way. Only once a year, on the seventh day of the seventh month, do magpies build a bridge so they can meet. That day is Qixi. We no longer know in which year this lyric was written.</p><p lang="zh">这首词借牛郎织女的传说写爱情。传说牛郎和织女被银河隔开，只有每年七月初七，喜鹊搭起桥，他们才能见一面。这一天就是七夕。这首词具体写于哪一年，已经说不清楚。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Qin Guan (1049–1100), also called Qin Shaoyou, was a Northern Song poet and a student of Su Shi, one of the Four Scholars of Su&#x27;s school. His lyrics are gentle and delicate, often about love and parting. He is a leading poet of the graceful school, poets who wrote in a soft, quiet style. This is one of his best-known lyrics.</p><p lang="zh">秦观（1049—1100），字少游，北宋词人，是苏轼的学生，“苏门四学士”之一。他的词温柔细腻，多写爱情和离别，是婉约派（风格柔美、含蓄的一派词人）的代表。这首词是他最有名的作品之一。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half shows the Qixi night sky. Thin clouds change their patterns, stars shine with sorrow, and the Weaver Girl quietly crosses the river. Meeting only once a year sounds sad. But the poet says this one meeting is worth more than countless meetings on earth. The second half says the meeting is short, like a dream, and on the way back they cannot bear to look behind them. Then the last two lines turn the sadness around. If love truly lasts for ever, why must two people be side by side every day? Most Qixi poems dwell on the lovers&#x27; pain. This one shows love that is firm and open-hearted, and that is why people have loved it for a thousand years.</p><p lang="zh">词的上半首写七夕夜空：细云变着花样，星星闪着愁光，织女悄悄过河。一年只见一次，听起来很可怜，可词人却说：这一次相见，比人间无数次相聚还珍贵。下半首写相会太短，像梦一样，回去的时候都不忍心回头。最后两句一下子把悲伤翻了过来：真正的爱如果长长久久，又何必天天黏在一起？别的七夕诗大多写牛郎织女的苦，这首词却写出了爱的坚定和豁达，所以千百年来被人反复传诵。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/yujiaao-tianjieyuntaolianxiaowu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>渔家傲·天接云涛连晓雾</b></a><a href="../../p/sumuzhe-liaochenxiang/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>苏幕遮·燎沉香</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["纤", "xiān"], ["云", "yún"], ["弄", "nòng"], ["巧", "qiǎo"]], [["飞", "fēi"], ["星", "xīng"], ["传", "chuán"], ["恨", "hèn"]], [["银", "yín"], ["汉", "hàn"], ["迢", "tiáo"], ["迢", "tiáo"], ["暗", "àn"], ["度", "dù"]], [["金", "jīn"], ["风", "fēng"], ["玉", "yù"], ["露", "lù"], ["一", "yì"], ["相", "xiāng"], ["逢", "féng"]], [["便", "biàn"], ["胜", "shèng"], ["却", "què"], ["人", "rén"], ["间", "jiān"], ["无", "wú"], ["数", "shù"]], [["柔", "róu"], ["情", "qíng"], ["似", "sì"], ["水", "shuǐ"]], [["佳", "jiā"], ["期", "qī"], ["如", "rú"], ["梦", "mèng"]], [["忍", "rěn"], ["顾", "gù"], ["鹊", "què"], ["桥", "qiáo"], ["归", "guī"], ["路", "lù"]], [["两", "liǎng"], ["情", "qíng"], ["若", "ruò"], ["是", "shì"], ["久", "jiǔ"], ["长", "cháng"], ["时", "shí"]], [["又", "yòu"], ["岂", "qǐ"], ["在", "zài"], ["朝", "zhāo"], ["朝", "zhāo"], ["暮", "mù"], ["暮", "mù"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "纤云：又细又薄的云。", "en": "xiān yún: thin, wispy clouds."}, {"line": 0, "start": 2, "end": 4, "zh": "弄巧：变出各种巧妙的花样。传说织女手很巧，会织彩云。", "en": "nòng qiǎo: to make clever patterns. In the legend, the Weaver Girl is very skilful and weaves the coloured clouds."}, {"line": 1, "start": 0, "end": 2, "zh": "飞星：天上的星星，一说指流星，一说指牛郎星和织女星。", "en": "fēi xīng: stars in the sky. Some say shooting stars; others say the Cowherd star and the Weaver Girl star."}, {"line": 1, "start": 2, "end": 4, "zh": "传恨：传递分别的愁苦。", "en": "chuán hèn: to carry the sorrow of being apart."}, {"line": 2, "start": 0, "end": 2, "zh": "银汉：银河。", "en": "yín hàn: the Silver River, that is, the Milky Way."}, {"line": 2, "start": 2, "end": 4, "zh": "迢迢：很远很远的样子。", "en": "tiáo tiáo: very, very far."}, {"line": 2, "start": 4, "end": 6, "zh": "暗度：悄悄地渡过。传说七月初七的夜里，织女悄悄渡过银河去和牛郎相会。", "en": "àn dù: to cross quietly in the dark. In the legend, on the night of the seventh day of the seventh month, the Weaver Girl quietly crosses the Milky Way to meet the Cowherd."}, {"line": 3, "start": 0, "end": 4, "zh": "金风玉露：秋风和白露，指七夕这个秋天的夜晚。古人把秋天和“金”相配，所以叫秋风为金风。", "en": "jīn fēng yù lù: the autumn wind and the white dew, meaning the autumn night of Qixi. In old Chinese thought autumn goes with metal, so the autumn wind is called the golden wind."}, {"line": 3, "start": 4, "end": 7, "zh": "一相逢：一旦见了面。", "en": "yì xiāng féng: once they meet."}, {"line": 4, "start": 1, "end": 3, "zh": "胜却：胜过。却，用在动词后面，没有实在意思。", "en": "shèng què: to be better than. Què after a verb adds no real meaning here."}, {"line": 4, "start": 3, "end": 7, "zh": "人间无数：人间无数对天天在一起的夫妻。", "en": "rén jiān wú shù: the countless couples in the human world who are together every day."}, {"line": 5, "start": 0, "end": 4, "zh": "柔情似水：温柔的情意像水一样。", "en": "róu qíng sì shuǐ: tender love, soft as water."}, {"line": 6, "start": 0, "end": 2, "zh": "佳期：美好的相会的日子。", "en": "jiā qī: the happy day of meeting."}, {"line": 7, "start": 0, "end": 2, "zh": "忍顾：怎么忍心回头看。", "en": "rěn gù: how can they bear to look back."}, {"line": 7, "start": 2, "end": 4, "zh": "鹊桥：传说七夕这天，喜鹊在银河上搭成一座桥，让牛郎织女相会。", "en": "què qiáo: the magpie bridge. On Qixi, the legend says, magpies form a bridge across the Milky Way so the two lovers can meet."}, {"line": 8, "start": 0, "end": 2, "zh": "两情：两个人的感情。", "en": "liǎng qíng: the love between two people."}, {"line": 8, "start": 4, "end": 6, "zh": "久长：长长久久。", "en": "jiǔ cháng: lasting a long, long time."}, {"line": 9, "start": 1, "end": 3, "zh": "岂在：哪里在于，何必在乎。", "en": "qǐ zài: why should it depend on."}, {"line": 9, "start": 3, "end": 7, "zh": "朝朝暮暮：每天早上和晚上，指天天在一起。", "en": "zhāo zhāo mù mù: every morning and every evening, that is, being together every day."}], "readings": [{"line": 9, "pos": 0, "char": "又", "pinyin": "yòu", "zh": "朝朝暮暮的“朝”是早晨的意思，读 zhāo，不读 cháo。", "en": "In zhāo zhāo mù mù, this character means morning, so it is read zhāo, not cháo."}, {"line": 9, "pos": 1, "char": "岂", "pinyin": "qǐ", "zh": "同上，读 zhāo。", "en": "Same as before: read zhāo."}], "speak": ["纤云弄巧", "飞星传恨", "银汉迢迢暗度", "金风玉露义相逢", "便胜却人间无数", "柔情嗣水", "佳期如梦", "忍顾鹊桥归路", "两情若是久长时", "又岂在朝朝暮暮"], "speakTitle": "鹊桥仙，纤云弄巧。秦观。", "sample": "纤云弄巧"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

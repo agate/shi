@@ -1,0 +1,371 @@
+{
+ "id": "597f5187-ba3e-4094-ae34-52884eb01c84",
+ "kind": "shi",
+ "title": "野望",
+ "title_en": "Gazing Over the Countryside",
+ "author": "王绩",
+ "author_en": "Wang Ji",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "皋",
+    "gāo"
+   ],
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "望",
+    "wàng"
+   ]
+  ],
+  [
+   [
+    "徙",
+    "xǐ"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "依",
+    "yī"
+   ]
+  ],
+  [
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "皆",
+    "jiē"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "唯",
+    "wéi"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "晖",
+    "huī"
+   ]
+  ],
+  [
+   [
+    "牧",
+    "mù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "驱",
+    "qū"
+   ],
+   [
+    "犊",
+    "dú"
+   ],
+   [
+    "返",
+    "fǎn"
+   ]
+  ],
+  [
+   [
+    "猎",
+    "liè"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "禽",
+    "qín"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "识",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "采",
+    "cǎi"
+   ],
+   [
+    "薇",
+    "wēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古诗库里“东皋”写作“东皐”。“皐”是“皋”的异体字，课本用“皋”。",
+  "en": "The corpus writes the second character of the first line in an old variant form. Textbooks use the standard form; the word and its meaning are the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "读 bó，“迫近”的意思，“薄暮”就是接近傍晚。不读 báo。",
+   "en": "Read bó, meaning drawing near; bó mù means close to evening. It is not báo."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "读 cháng，“长歌”是放声长歌。不读 zhǎng。",
+   "en": "Read cháng; cháng gē means a long song sung aloud. It is not zhǎng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "东皋：王绩家乡的一处地方，他隐居在这里，还给自己取号“东皋子”。皋，水边的高地。",
+   "en": "dōng gāo: a place in Wang Ji's home district where he lived as a hermit. He even called himself \"Master of the East Bank\". Gāo means high ground by the water."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "薄暮：傍晚，太阳快要落山的时候。薄，迫近、接近。",
+   "en": "bó mù: dusk, when the sun is about to set. Bó means coming close to."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "徙倚：走来走去，拿不定主意的样子。",
+   "en": "xǐ yǐ: to wander back and forth, unsure what to do."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "欲何依：想要依靠什么呢？意思是心里空落落的，找不到归宿。",
+   "en": "yù hé yī: what can I lean on? It means the heart feels empty and has nowhere to rest."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "皆：都。",
+   "en": "jiē: all."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "唯：只。",
+   "en": "wéi: only."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "落晖：落日的余光。",
+   "en": "luò huī: the last light of the setting sun."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "驱犊：赶着小牛。犊，小牛。",
+   "en": "qū dú: driving the calves. Dú means a calf."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 4,
+   "zh": "禽：鸟兽，这里指打猎得来的猎物。",
+   "en": "qín: birds and beasts, here the game caught in the hunt."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "相顾：互相看看。",
+   "en": "xiāng gù: to look at one another."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "无相识：没有一个认识的人，也就是没有谈得来的知心人。",
+   "en": "wú xiāng shí: no one I know, that is, no one who understands me."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "长歌：放声高歌。",
+   "en": "cháng gē: to sing out loud and long."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "怀采薇：怀念古代采薇的隐士。商朝末年，伯夷、叔齐不愿做周朝的臣子，躲进首阳山，采野菜“薇”充饥。后来“采薇”就代指隐居。",
+   "en": "huái cǎi wēi: to think of the old hermits who gathered ferns. At the end of the Shang dynasty, Bo Yi and Shu Qi refused to serve the new Zhou rulers. They hid on Mount Shouyang and lived on wild ferns called wēi. Later \"gathering ferns\" came to mean living as a hermit."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "傍晚时分，我站在东皋向远处眺望，",
+   "en": "At dusk I stand on the East Bank and gaze out,"
+  },
+  {
+   "zh": "走来走去，心里不知道该依靠什么。",
+   "en": "pacing back and forth, with nothing to lean on."
+  },
+  {
+   "zh": "每一棵树都染上了秋天的颜色，",
+   "en": "Every tree wears the colours of autumn;"
+  },
+  {
+   "zh": "每一座山都只披着落日的余光。",
+   "en": "every hill holds only the last light of the sun."
+  },
+  {
+   "zh": "放牧的人赶着小牛回家，",
+   "en": "Herders drive their calves back home;"
+  },
+  {
+   "zh": "打猎的人骑着马，带着猎物归来。",
+   "en": "hunters ride in with their game."
+  },
+  {
+   "zh": "大家互相看看，却没有一个相识的知己，",
+   "en": "We look at each other, but none of them knows me;"
+  },
+  {
+   "zh": "我只好放声高歌，怀念古代采薇的隐士。",
+   "en": "so I sing aloud and think of the hermits who gathered ferns."
+  }
+ ],
+ "background": {
+  "zh": "王绩生活在隋朝末年到唐朝初年。他做过几次小官，都不得志，后来辞官回到家乡绛州龙门（今山西河津一带），在东皋隐居，自号“东皋子”。这首诗写的是他隐居时一个秋天的傍晚，在东皋眺望看到的景色和心中的孤独。具体写于哪一年，已经不清楚了。",
+  "en": "Wang Ji lived from the end of the Sui dynasty into the early Tang. He held several small posts but never did well, and finally quit and went home to Longmen in Jiangzhou (around today's Hejin in Shanxi). There he lived as a hermit at the East Bank and called himself \"Master of the East Bank\". This poem describes an autumn evening there: what he saw as he gazed out, and the loneliness he felt. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "王绩（约590—644），隋末唐初诗人。他喜欢喝酒，崇拜陶渊明，过着隐居的生活。当时的诗大多华丽，他的诗却朴素自然。这首《野望》被认为是唐代较早的成熟的五言律诗之一。",
+  "en": "Wang Ji (about 590–644) was a poet of the late Sui and early Tang. He loved wine, admired the hermit poet Tao Yuanming, and lived as a recluse. Most poems of his time were showy, but his were plain and natural. This poem is seen as one of the earliest mature five-character regulated verses of the Tang."
+ },
+ "appreciation": {
+  "zh": "诗一开头就带着愁：傍晚站在高处，走来走去，不知道心该放在哪里。中间四句写景，画面很安静：满眼是秋天的树，每座山都披着夕阳，放牛的赶着小牛回家，打猎的带着猎物归来。人人都有家可回，忙碌又满足，这更衬出诗人心里的孤单。最后两句说出原因：身边没有一个懂他的人，他只能唱着歌，去怀念古代的隐士。秋色、落日、归人，安静的画面里藏着一份说不出的寂寞。",
+  "en": "The poem opens with sadness: at dusk the poet stands on high ground, pacing, not knowing where his heart can rest. The middle four lines paint a calm scene. Trees everywhere show autumn colours. Every hill is lit by the setting sun. Herders drive their calves home, and hunters ride back with their game. Everyone has a home to return to, busy and content, and this makes the poet's loneliness stand out. The last two lines give the reason: no one around understands him, so he can only sing and think of the hermits of long ago. Autumn colours, the setting sun, people going home: inside this quiet picture lies a loneliness hard to put into words."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "loneliness",
+   "hermit",
+   "dusk",
+   "countryside"
+  ]
+ },
+ "uncertain": []
+}

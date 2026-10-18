@@ -1,0 +1,511 @@
+{
+ "id": "ci-6c8255a71ba5",
+ "kind": "ci",
+ "title": "唐多令·芦叶满汀洲",
+ "title_en": "Tang Duo Ling: Reed Leaves Cover the Sandbar",
+ "author": "刘过",
+ "author_en": "Liu Guo",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "芦",
+    "lú"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "汀",
+    "tīng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "带",
+    "dài"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "系",
+    "xì"
+   ],
+   [
+    "船",
+    "chuán"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "稳",
+    "wěn"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "日",
+    "rì"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "矶",
+    "jī"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "买",
+    "mǎi"
+   ],
+   [
+    "桂",
+    "guì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "同",
+    "tóng"
+   ],
+   [
+    "载",
+    "zài"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "终",
+    "zhōng"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "似",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": {
+  "zh": "资料库的文字和通行本有三处不同：第二句资料库作“塞沙”，通行本作“寒沙”；第四句资料库作“系舟”，通行本作“系船”；下片第二句资料库作“故人今不在”，通行本作“故人曾到否”（另有版本作“故人今在否”）。这里用通行本。",
+  "en": "The corpus differs from the standard text in three places. Line two: the corpus has 'frontier sand', the standard text has 'cold sand'. Line four: the corpus has a different word for 'boat' with the same meaning. Line two of the second stanza: the corpus has 'my old friends are no longer here', the standard text has 'have my old friends ever come here?' (another edition has 'are my old friends still here?'). This page follows the standard text."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重在这里是“再一次”的意思，读 chóng。",
+   "en": "Here this character means 'again', so it is read chóng."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "系",
+   "pinyin": "xì",
+   "zh": "系在这里是“拴”的意思，读 xì。",
+   "en": "Here this character means to tie up, read xì."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "否",
+   "pinyin": "fǒu",
+   "zh": "否读 fǒu，放在句末表示提问，意思是“……没有？”",
+   "en": "This character is read fǒu. At the end of a line it turns the line into a question: 'or not?'"
+  },
+  {
+   "line": 11,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "少年的少读 shào，是“年轻”的意思。",
+   "en": "In 'youth', this character is read shào, meaning young."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "芦叶：芦苇的叶子。芦苇是长在水边的一种高草。",
+   "en": "lú yè: reed leaves. Reeds are tall grasses that grow by the water."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "汀洲：水中或水边的小块平地、沙洲。",
+   "en": "tīng zhōu: a small flat sandbar in or beside the water."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "寒沙：秋天带着凉意的沙滩。",
+   "en": "hán shā: cold autumn sand."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "带浅流：沙滩边绕着一条浅浅的水流，像一条带子。",
+   "en": "dài qiǎn liú: a shallow stream winds along the sand like a ribbon."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "南楼：指武昌的安远楼，在黄鹄山上。",
+   "en": "nán lóu: the South Tower, meaning the Anyuan Tower on Huanghu Hill in Wuchang."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "犹未稳：还没有拴牢。犹，还。",
+   "en": "yóu wèi wěn: not yet tied firm. Yóu means still."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "能几日：才过了几天？意思是没几天。",
+   "en": "néng jǐ rì: how many days can it be? That is, only a few days."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "黄鹤断矶头：黄鹤矶已经残破了。黄鹤矶是武昌江边突出的岩石，传说仙人骑黄鹤在这里飞走。矶，水边突出的岩石。",
+   "en": "huáng hè duàn jī tóu: the Yellow Crane Rock lies broken. It is a rocky point on the river bank in Wuchang, where legend says an immortal flew away on a yellow crane. Jī is a rock jutting into the water."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: old friends."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "浑是：全是。浑，全、都。",
+   "en": "hún shì: all of it is. Hún means entirely."
+  },
+  {
+   "line": 8,
+   "start": 5,
+   "end": 7,
+   "zh": "新愁：新的忧愁。",
+   "en": "xīn chóu: new sorrow."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "桂花：秋天开的小花，很香。",
+   "en": "guì huā: osmanthus, a small, very fragrant flower that blooms in autumn."
+  },
+  {
+   "line": 9,
+   "start": 5,
+   "end": 7,
+   "zh": "载酒：带着酒，坐船游玩。",
+   "en": "zài jiǔ: to bring wine along on a boat trip."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "终不似：终究不像。",
+   "en": "zhōng bú sì: after all, it is not like."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 3,
+   "zh": "少年游：年轻时出游的那种心情。",
+   "en": "shào nián yóu: the outings of youth, and the joy one felt then."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "芦苇的叶子长满了水中的沙洲，",
+   "en": "Reed leaves cover the sandbar,"
+  },
+  {
+   "zh": "清冷的沙滩边，绕着一条浅浅的水。",
+   "en": "and a shallow stream winds along the cold sand."
+  },
+  {
+   "zh": "二十年过去了，我又来到南楼。",
+   "en": "Twenty years later, I come back to the South Tower."
+  },
+  {
+   "zh": "船拴在柳树下，还没拴稳，",
+   "en": "My boat is tied under the willows, not yet tied firm,"
+  },
+  {
+   "zh": "没过几天，",
+   "en": "and in only a few days"
+  },
+  {
+   "zh": "又要到中秋了。",
+   "en": "it will be Mid-Autumn again."
+  },
+  {
+   "zh": "黄鹤矶已经残破了，",
+   "en": "The Yellow Crane Rock lies broken."
+  },
+  {
+   "zh": "我的老朋友们曾经来过这里吗？",
+   "en": "Have my old friends ever come here?"
+  },
+  {
+   "zh": "还是旧日的江山，却全是新的忧愁。",
+   "en": "The rivers and hills are the same, yet everything is new sorrow."
+  },
+  {
+   "zh": "想买些桂花，带上酒坐船去游玩，",
+   "en": "I want to buy osmanthus and take wine out on a boat,"
+  },
+  {
+   "zh": "可终究不像，",
+   "en": "but it will never be like"
+  },
+  {
+   "zh": "年轻时出游的那种心情了。",
+   "en": "the outings of my youth."
+  }
+ ],
+ "background": {
+  "zh": "这首词前面原有一段小序，说是在武昌安远楼的一次小聚会上，一位姓黄的歌女请刘过写词，他就写了这首《唐多令》，时间是八月五日。南楼就是安远楼。二十年前刘过来过这里，如今重游，中秋快到了，可是南宋国力衰弱，北方失地收不回来，朋友也都不在身边，于是心里充满了感慨。",
+  "en": "The lyric first had a short preface. It says that at a small gathering at the Anyuan Tower in Wuchang, a singing girl surnamed Huang asked Liu Guo for a lyric, and he wrote this one. The date was the fifth day of the eighth month. The South Tower is the Anyuan Tower. Liu Guo had been there twenty years before. Now he came back just before Mid-Autumn. But the Southern Song was weak, the lost lands in the north could not be won back, and his friends were gone. His heart filled with sadness."
+ },
+ "author_note": {
+  "zh": "刘过（1154—1206），字改之，号龙洲道人，南宋词人。他一生没有做过官，常常在各地漂泊。他关心国家，多次上书主张收复北方失地，和辛弃疾、陆游、陈亮等人都有交往。他的词常有豪放的气概，这首却写得沉静而伤感。",
+  "en": "Liu Guo (1154–1206), courtesy name Gaizhi, who called himself the Daoist of Longzhou, was a Southern Song ci poet. He never held office and drifted from place to place. He cared about his country and wrote to the court many times urging it to win back the north. He knew Xin Qiji, Lu You and Chen Liang. His lyrics are often bold, but this one is quiet and sad."
+ },
+ "appreciation": {
+  "zh": "开头两句是一幅秋天江边的画：芦叶满洲，寒沙浅水，冷冷清清。接着说“二十年重过南楼”，二十年一下子过去了。船还没拴稳，中秋又要到了，时间过得真快。下片看到黄鹤矶已经残破，想问老朋友们来过没有，可没人回答。江山还是旧的江山，心里却全是新的愁。最后说想买桂花、带酒游玩，可是“终不似、少年游”。东西都还能买到，年轻时那份无忧无虑的心情却再也买不回来了。这句话说得平平淡淡，却让人读了很心酸。",
+  "en": "The first two lines paint an autumn riverside: reeds on the sandbar, cold sand, shallow water, all quiet and chill. Then he says he is back at the South Tower after twenty years. Twenty years have slipped away just like that. His boat is barely tied up, and Mid-Autumn is almost here again. Time moves so fast. In the second stanza he sees the Yellow Crane Rock in ruins and wonders whether his old friends ever came here, but no one answers. The rivers and hills are the same, but all he feels is new sorrow. At the end he wants to buy osmanthus and take wine on a boat, but it will never be like the outings of his youth. The flowers and the wine can still be bought, but the carefree heart of youth cannot. He says it plainly, and that is what makes it so sad."
+ },
+ "famous_lines": [
+  9,
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "midautumn"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "nostalgia",
+   "youth",
+   "river",
+   "friendship",
+   "time"
+  ]
+ },
+ "uncertain": []
+}

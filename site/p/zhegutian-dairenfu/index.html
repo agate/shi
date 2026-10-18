@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>鹧鸪天·代人赋 · 辛弃疾 — 诗</title>
+    <meta name="description" content="鹧鸪天·代人赋 · 辛弃疾 — Partridge Sky: Written for Someone Else by Xin Qiji: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 98 · Song lyric · ci (song lyric)</span><span lang="zh">第 98 首 · 宋词 · 词</span></p>
+        <h1>鹧鸪天·代人赋</h1>
+        <p class="by">辛弃疾<span class="mono"><span lang="en">Xin Qiji · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Partridge Sky: Written for Someone Else</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>mò</i><b>陌</b></span><span class="c gl" data-l="0" data-p="1"><i>shàng</i><b>上</b></span><span class="c gl" data-l="0" data-p="2"><i>róu</i><b>柔</b></span><span class="c gl" data-l="0" data-p="3"><i>sāng</i><b>桑</b></span><span class="c gl" data-l="0" data-p="4"><i>pò</i><b>破</b></span><span class="c gl" data-l="0" data-p="5"><i>nèn</i><b>嫩</b></span><span class="c gl" data-l="0" data-p="6"><i>yá</i><b>芽</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>dōng</i><b>东</b></span><span class="c gl" data-l="1" data-p="1"><i>lín</i><b>邻</b></span><span class="c gl" data-l="1" data-p="2"><i>cán</i><b>蚕</b></span><span class="c gl" data-l="1" data-p="3"><i>zhǒng</i><b>种</b></span><span class="c gl" data-l="1" data-p="4"><i>yǐ</i><b>已</b></span><span class="c gl" data-l="1" data-p="5"><i>shēng</i><b>生</b></span><span class="c gl rd" data-l="1" data-p="6"><i>xiē</i><b>些</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>píng</i><b>平</b></span><span class="c gl" data-l="2" data-p="1"><i>gāng</i><b>冈</b></span><span class="c" data-l="2" data-p="2"><i>xì</i><b>细</b></span><span class="c" data-l="2" data-p="3"><i>cǎo</i><b>草</b></span><span class="c" data-l="2" data-p="4"><i>míng</i><b>鸣</b></span><span class="c gl" data-l="2" data-p="5"><i>huáng</i><b>黄</b></span><span class="c gl" data-l="2" data-p="6"><i>dú</i><b>犊</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>xié</i><b>斜</b></span><span class="c gl" data-l="3" data-p="1"><i>rì</i><b>日</b></span><span class="c gl" data-l="3" data-p="2"><i>hán</i><b>寒</b></span><span class="c gl" data-l="3" data-p="3"><i>lín</i><b>林</b></span><span class="c gl" data-l="3" data-p="4"><i>diǎn</i><b>点</b></span><span class="c gl" data-l="3" data-p="5"><i>mù</i><b>暮</b></span><span class="c gl" data-l="3" data-p="6"><i>yā</i><b>鸦</b></span></p><p class="ln brk"><span class="c" data-l="4" data-p="0"><i>shān</i><b>山</b></span><span class="c" data-l="4" data-p="1"><i>yuǎn</i><b>远</b></span><span class="c" data-l="4" data-p="2"><i>jìn</i><b>近</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>lù</i><b>路</b></span><span class="c gl" data-l="5" data-p="1"><i>héng</i><b>横</b></span><span class="c gl rd" data-l="5" data-p="2"><i>xié</i><b>斜</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>qīng</i><b>青</b></span><span class="c gl" data-l="6" data-p="1"><i>qí</i><b>旗</b></span><span class="c gl" data-l="6" data-p="2"><i>gū</i><b>沽</b></span><span class="c gl" data-l="6" data-p="3"><i>jiǔ</i><b>酒</b></span><span class="c" data-l="6" data-p="4"><i>yǒu</i><b>有</b></span><span class="c" data-l="6" data-p="5"><i>rén</i><b>人</b></span><span class="c" data-l="6" data-p="6"><i>jiā</i><b>家</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>chéng</i><b>城</b></span><span class="c" data-l="7" data-p="1"><i>zhōng</i><b>中</b></span><span class="c" data-l="7" data-p="2"><i>táo</i><b>桃</b></span><span class="c" data-l="7" data-p="3"><i>lǐ</i><b>李</b></span><span class="c gl" data-l="7" data-p="4"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="7" data-p="5"><i>fēng</i><b>风</b></span><span class="c gl" data-l="7" data-p="6"><i>yǔ</i><b>雨</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="8" data-p="1"><i>zài</i><b>在</b></span><span class="c gl" data-l="8" data-p="2"><i>xī</i><b>溪</b></span><span class="c gl" data-l="8" data-p="3"><i>tóu</i><b>头</b></span><span class="c gl" data-l="8" data-p="4"><i>jì</i><b>荠</b></span><span class="c gl" data-l="8" data-p="5"><i>cài</i><b>菜</b></span><span class="c gl" data-l="8" data-p="6"><i>huā</i><b>花</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The commonly taught text opens with róu sāng pò nèn yá (soft mulberry breaks into tender buds) and ends with jì cài huā (shepherd&#x27;s purse flowers). The source text has róu tiáo chū pò yá (soft branches first break into buds) and yě jì huā (wild shepherd&#x27;s purse flowers), another old version.</p><p lang="zh">通行本首句作“陌上柔桑破嫩芽”，末句作“春在溪头荠菜花”。这里的底本作“陌上柔条初破芽”“春在溪头野荠花”，是另一种版本。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">陌上柔桑破嫩芽</span><span lang="en">Along the field paths, soft mulberry branches break into tender buds.</span><span lang="zh">田间小路旁，柔嫩的桑枝冒出了新芽，</span></li><li><span class="o">东邻蚕种已生些</span><span lang="en">At the neighbour&#x27;s to the east, some silkworms have already hatched.</span><span lang="zh">东边邻居家的蚕卵，已经孵出了一些小蚕。</span></li><li><span class="o">平冈细草鸣黄犊</span><span lang="en">On the low hill the grass is fine, and a yellow calf is lowing.</span><span lang="zh">平缓的山坡上长着细草，小黄牛在哞哞叫，</span></li><li><span class="o">斜日寒林点暮鸦</span><span lang="en">In the setting sun, evening crows dot the chilly woods.</span><span lang="zh">夕阳下，清冷的树林里落着点点归巢的乌鸦。</span></li><li class="brk"><span class="o">山远近</span><span lang="en">Hills near and far,</span><span lang="zh">远远近近都是山，</span></li><li><span class="o">路横斜</span><span lang="en">paths winding across and slanting,</span><span lang="zh">小路横横斜斜，</span></li><li><span class="o">青旗沽酒有人家</span><span lang="en">and where a blue wine flag hangs, there is a house that sells wine.</span><span lang="zh">挂着青色酒旗的地方，有卖酒的人家。</span></li><li><span class="o">城中桃李愁风雨</span><span lang="en">In the city, the peach and plum blossoms fear the wind and rain,</span><span lang="zh">城里的桃花李花，怕风怕雨，</span></li><li><span class="o">春在溪头荠菜花</span><span lang="en">but spring is out by the stream, in the shepherd&#x27;s purse flowers.</span><span lang="zh">春天却在溪边那一片荠菜花里。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>陌上<span class="mono">mò shàng</span></dt><dd><span lang="en">mò shàng: on the paths between the fields.</span><span lang="zh">陌上：田间小路上。</span></dd></div><div><dt>柔桑<span class="mono">róu sāng</span></dt><dd><span lang="en">róu sāng: soft young mulberry branches. Mulberry leaves are food for silkworms.</span><span lang="zh">柔桑：柔嫩的桑树枝条。桑叶是喂蚕的。</span></dd></div><div><dt>破嫩芽<span class="mono">pò nèn yá</span></dt><dd><span lang="en">pò nèn yá: tender buds breaking out.</span><span lang="zh">破嫩芽：冒出了嫩芽。</span></dd></div><div><dt>东邻<span class="mono">dōng lín</span></dt><dd><span lang="en">dōng lín: the neighbour to the east.</span><span lang="zh">东邻：东边的邻居。</span></dd></div><div><dt>蚕种已生些<span class="mono">cán zhǒng yǐ shēng xiē</span></dt><dd><span lang="en">cán zhǒng yǐ shēng xiē: some of the silkworm eggs have already hatched. Cán zhǒng means silkworm eggs.</span><span lang="zh">蚕种已生些：蚕卵已经孵出了一些小蚕。蚕种，蚕卵。</span></dd></div><div><dt>平冈<span class="mono">píng gāng</span></dt><dd><span lang="en">píng gāng: a low, flat hill.</span><span lang="zh">平冈：平坦的小山坡。</span></dd></div><div><dt>黄犊<span class="mono">huáng dú</span></dt><dd><span lang="en">huáng dú: a little yellow calf.</span><span lang="zh">黄犊：黄色的小牛。</span></dd></div><div><dt>斜日<span class="mono">xié rì</span></dt><dd><span lang="en">xié rì: the sinking sun.</span><span lang="zh">斜日：快要落山的太阳。</span></dd></div><div><dt>寒林<span class="mono">hán lín</span></dt><dd><span lang="en">hán lín: woods that still look cold and bare in early spring.</span><span lang="zh">寒林：早春还没长满叶子、显得清冷的树林。</span></dd></div><div><dt>点暮鸦<span class="mono">diǎn mù yā</span></dt><dd><span lang="en">diǎn mù yā: evening crows dotting the trees like little black spots.</span><span lang="zh">点暮鸦：傍晚的乌鸦像一个个小黑点停在树上。</span></dd></div><div><dt>横斜<span class="mono">héng xié</span></dt><dd><span lang="en">héng xié: some running across, some slanting, winding this way and that.</span><span lang="zh">横斜：有的横着，有的斜着，弯弯曲曲。</span></dd></div><div><dt>青旗<span class="mono">qīng qí</span></dt><dd><span lang="en">qīng qí: the blue cloth flag hung outside a wine shop as its sign.</span><span lang="zh">青旗：酒店门口挂的青布招牌，叫酒旗。</span></dd></div><div><dt>沽酒<span class="mono">gū jiǔ</span></dt><dd><span lang="en">gū jiǔ: to sell wine, or to buy it.</span><span lang="zh">沽酒：卖酒，也可以指买酒。</span></dd></div><div><dt>愁风雨<span class="mono">chóu fēng yǔ</span></dt><dd><span lang="en">chóu fēng yǔ: fearing that wind and rain will knock them down.</span><span lang="zh">愁风雨：怕被风雨打落。</span></dd></div><div><dt>溪头<span class="mono">xī tóu</span></dt><dd><span lang="en">xī tóu: by the stream.</span><span lang="zh">溪头：小溪边。</span></dd></div><div><dt>荠菜花<span class="mono">jì cài huā</span></dt><dd><span lang="en">jì cài huā: the little white flowers of shepherd&#x27;s purse, a common wild vegetable in the fields.</span><span lang="zh">荠菜花：荠菜开的小白花。荠菜是田野里常见的野菜。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>斜<span class="mono">xié</span></dt><dd><span lang="en">This character is read xié today. In older pronunciation it sounded like xiá, which rhymes with the other line endings.</span><span lang="zh">“路横斜”的“斜”现在读 xié。古音读如 xiá，和“芽、些、鸦、家、花”押韵。</span></dd></div><div><dt>些<span class="mono">xiē</span></dt><dd><span lang="en">This character is read xiē; in older pronunciation it rhymed with the other line endings.</span><span lang="zh">“些”读 xiē，古音和“芽、鸦、家、花”同韵。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">The title means written on someone else&#x27;s behalf. It is usually thought that Xin Qiji wrote it after he was dismissed from office, while he lived at Dai Lake in Shangrao, Jiangxi. In those years he lived in the countryside and often wrote about village scenery and farm life. Sources differ on the exact year.</p><p lang="zh">“代人赋”就是替别人写的。一般认为，这首词是辛弃疾被罢官后，闲居在江西上饶带湖时写的。那几年他住在乡下，常常写农村的风光和农家的生活。具体写于哪一年，说法不一。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song poet. He was born in the north, which the Jin had taken. In his early twenties he joined an uprising against the Jin and then came south to the Song. He wanted with all his heart to win back the north, but he was seldom given real power. From middle age he was dismissed again and again, and lived for many years in the Jiangxi countryside. His lyrics are bold and strong; he and Su Shi are named together as Su and Xin.</p><p lang="zh">辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他出生在被金国占领的北方，二十多岁就参加抗金起义，后来回到南宋。他一心想收复北方，却长期得不到重用，中年以后多次被罢官，在江西乡下闲住了很多年。他的词豪放有力，和苏轼并称“苏辛”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">This lyric is like a painting of a village in early spring. The mulberry trees bud, the little silkworms hatch, a calf lows on the hill, and crows fly home to the woods in the setting sun. There are hills near and far, winding paths, and a house with a wine flag by the road. Everything is plain, quiet and full of life. The last two lines are the heart of the lyric. The fine peach and plum blossoms in the city are delicate, and one storm knocks them down. The humble wild flowers by the stream bloom just fine. Spring is not in the precious flowers of the city, but in the most ordinary flowers of the countryside. The poet&#x27;s own feeling hides here too: he loves the simple village and does not envy the busy city.</p><p lang="zh">这首词像一幅早春的乡村画。桑树冒芽，小蚕出生，小牛在山坡上叫，乌鸦在夕阳里归林。远近是山，小路弯弯，路边还有挂着酒旗的人家。一切都朴素、安静、有生气。最后两句是全词的眼睛：城里的桃花李花娇贵，一场风雨就被打落；溪边不起眼的荠菜花，却开得正好。春天不在城里那些名贵的花上，而在乡间最普通的野花里。这里面也藏着词人的心思：他宁愿喜欢朴实的乡村，也不羡慕城里的繁华。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/qingpingle-dusuboshanwangshian/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>清平乐·独宿博山王氏庵</b></a><a href="../../p/zhegutian-youkekairantangongmingyinzhuinianshaonianshishixizuo/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>鹧鸪天·有客慨然谈功名，因追念少年时事，戏作</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["陌", "mò"], ["上", "shàng"], ["柔", "róu"], ["桑", "sāng"], ["破", "pò"], ["嫩", "nèn"], ["芽", "yá"]], [["东", "dōng"], ["邻", "lín"], ["蚕", "cán"], ["种", "zhǒng"], ["已", "yǐ"], ["生", "shēng"], ["些", "xiē"]], [["平", "píng"], ["冈", "gāng"], ["细", "xì"], ["草", "cǎo"], ["鸣", "míng"], ["黄", "huáng"], ["犊", "dú"]], [["斜", "xié"], ["日", "rì"], ["寒", "hán"], ["林", "lín"], ["点", "diǎn"], ["暮", "mù"], ["鸦", "yā"]], [["山", "shān"], ["远", "yuǎn"], ["近", "jìn"]], [["路", "lù"], ["横", "héng"], ["斜", "xié"]], [["青", "qīng"], ["旗", "qí"], ["沽", "gū"], ["酒", "jiǔ"], ["有", "yǒu"], ["人", "rén"], ["家", "jiā"]], [["城", "chéng"], ["中", "zhōng"], ["桃", "táo"], ["李", "lǐ"], ["愁", "chóu"], ["风", "fēng"], ["雨", "yǔ"]], [["春", "chūn"], ["在", "zài"], ["溪", "xī"], ["头", "tóu"], ["荠", "jì"], ["菜", "cài"], ["花", "huā"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "陌上：田间小路上。", "en": "mò shàng: on the paths between the fields."}, {"line": 0, "start": 2, "end": 4, "zh": "柔桑：柔嫩的桑树枝条。桑叶是喂蚕的。", "en": "róu sāng: soft young mulberry branches. Mulberry leaves are food for silkworms."}, {"line": 0, "start": 4, "end": 7, "zh": "破嫩芽：冒出了嫩芽。", "en": "pò nèn yá: tender buds breaking out."}, {"line": 1, "start": 0, "end": 2, "zh": "东邻：东边的邻居。", "en": "dōng lín: the neighbour to the east."}, {"line": 1, "start": 2, "end": 7, "zh": "蚕种已生些：蚕卵已经孵出了一些小蚕。蚕种，蚕卵。", "en": "cán zhǒng yǐ shēng xiē: some of the silkworm eggs have already hatched. Cán zhǒng means silkworm eggs."}, {"line": 2, "start": 0, "end": 2, "zh": "平冈：平坦的小山坡。", "en": "píng gāng: a low, flat hill."}, {"line": 2, "start": 5, "end": 7, "zh": "黄犊：黄色的小牛。", "en": "huáng dú: a little yellow calf."}, {"line": 3, "start": 0, "end": 2, "zh": "斜日：快要落山的太阳。", "en": "xié rì: the sinking sun."}, {"line": 3, "start": 2, "end": 4, "zh": "寒林：早春还没长满叶子、显得清冷的树林。", "en": "hán lín: woods that still look cold and bare in early spring."}, {"line": 3, "start": 4, "end": 7, "zh": "点暮鸦：傍晚的乌鸦像一个个小黑点停在树上。", "en": "diǎn mù yā: evening crows dotting the trees like little black spots."}, {"line": 5, "start": 1, "end": 3, "zh": "横斜：有的横着，有的斜着，弯弯曲曲。", "en": "héng xié: some running across, some slanting, winding this way and that."}, {"line": 6, "start": 0, "end": 2, "zh": "青旗：酒店门口挂的青布招牌，叫酒旗。", "en": "qīng qí: the blue cloth flag hung outside a wine shop as its sign."}, {"line": 6, "start": 2, "end": 4, "zh": "沽酒：卖酒，也可以指买酒。", "en": "gū jiǔ: to sell wine, or to buy it."}, {"line": 7, "start": 4, "end": 7, "zh": "愁风雨：怕被风雨打落。", "en": "chóu fēng yǔ: fearing that wind and rain will knock them down."}, {"line": 8, "start": 2, "end": 4, "zh": "溪头：小溪边。", "en": "xī tóu: by the stream."}, {"line": 8, "start": 4, "end": 7, "zh": "荠菜花：荠菜开的小白花。荠菜是田野里常见的野菜。", "en": "jì cài huā: the little white flowers of shepherd's purse, a common wild vegetable in the fields."}], "readings": [{"line": 5, "pos": 2, "char": "斜", "pinyin": "xié", "zh": "“路横斜”的“斜”现在读 xié。古音读如 xiá，和“芽、些、鸦、家、花”押韵。", "en": "This character is read xié today. In older pronunciation it sounded like xiá, which rhymes with the other line endings."}, {"line": 1, "pos": 6, "char": "些", "pinyin": "xiē", "zh": "“些”读 xiē，古音和“芽、鸦、家、花”同韵。", "en": "This character is read xiē; in older pronunciation it rhymed with the other line endings."}], "speak": ["陌上柔桑破嫩芽", "东邻蚕种已生些", "平冈细草鸣黄犊", "斜日寒林点暮鸦", "山远近", "路横斜", "青旗沽酒有人家", "城中桃李愁风雨", "春在溪头荠菜花"], "speakTitle": "鹧鸪天，代人赋。辛弃疾。", "sample": "陌上柔桑破嫩芽"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

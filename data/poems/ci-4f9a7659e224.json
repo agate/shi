@@ -1,0 +1,384 @@
+{
+ "id": "ci-4f9a7659e224",
+ "kind": "ci",
+ "title": "清平乐·村居",
+ "title_en": "Pure Serene Music: Village Life",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "茅",
+    "máo"
+   ],
+   [
+    "檐",
+    "yán"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ]
+  ],
+  [
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "媚",
+    "mèi"
+   ],
+   [
+    "好",
+    "hǎo"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "翁",
+    "wēng"
+   ],
+   [
+    "媪",
+    "ǎo"
+   ]
+  ],
+  [
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "锄",
+    "chú"
+   ],
+   [
+    "豆",
+    "dòu"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "东",
+    "dōng"
+   ]
+  ],
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "织",
+    "zhī"
+   ],
+   [
+    "鸡",
+    "jī"
+   ],
+   [
+    "笼",
+    "lóng"
+   ]
+  ],
+  [
+   [
+    "最",
+    "zuì"
+   ],
+   [
+    "喜",
+    "xǐ"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "亡",
+    "wú"
+   ],
+   [
+    "赖",
+    "lài"
+   ]
+  ],
+  [
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "剥",
+    "bāo"
+   ],
+   [
+    "莲",
+    "lián"
+   ],
+   [
+    "蓬",
+    "péng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料库文本作“醉里蛮音相媚好”。课本和通行本作“醉里吴音相媚好”，这里用课本的文字。",
+  "en": "The corpus text has 'southern dialect' with a different word in line 3. Textbooks and the common text have 'the soft speech of Wu', and this page follows the textbook."
+ },
+ "readings": [
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "亡",
+   "pinyin": "wú",
+   "zh": "“亡赖”的“亡”同“无”，读 wú。",
+   "en": "Here this character is used for wú (without), so it is read wú, not wáng."
+  },
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "剥",
+   "pinyin": "bāo",
+   "zh": "“剥”单独用作动词、指剥去外壳时读 bāo，这里一般读 bāo；也有人按书面音读 bō。",
+   "en": "When this verb is used on its own for peeling off a shell, it is read bāo, and that is the usual reading here. Some read it bō, its written-language reading."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "“谁”课本注音为 shuí，口语也读 shéi。",
+   "en": "Textbooks give shuí; in everyday speech it is also read shéi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "茅檐：茅草屋的屋檐，这里指茅草屋。",
+   "en": "máo yán: the eaves of a thatched hut; here, the hut itself."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "吴音：吴地的口音。上饶一带古时属于吴地，那里的人说话软软的，很好听。",
+   "en": "wú yīn: the speech of Wu. The Shangrao area was part of the old Wu region, where people talk in a soft, pleasant way."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "相媚好：互相说着亲热、逗趣的话。",
+   "en": "xiāng mèi hǎo: saying sweet, teasing words to each other."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "翁媪：老公公和老婆婆。翁，老头儿；媪，老太太。",
+   "en": "wēng ǎo: an old man and an old woman. Wēng is an old man; ǎo is an old woman."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "锄豆：在豆地里锄草。",
+   "en": "chú dòu: hoeing weeds in the bean field."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 4,
+   "zh": "织：编。",
+   "en": "zhī: to weave."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "亡赖：这里是调皮、淘气的意思。亡，同“无”。",
+   "en": "wú lài: here it means naughty, playful."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "溪头：小溪边。",
+   "en": "xī tóu: by the stream."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 3,
+   "zh": "卧：趴着、躺着。",
+   "en": "wò: lying down."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "莲蓬：荷花开过以后结的果实，里面有莲子，可以吃。",
+   "en": "lián péng: the seed head of the lotus after it flowers. It holds lotus seeds that can be eaten."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "茅草屋的屋檐又低又小，",
+   "en": "The thatched hut has low, small eaves;"
+  },
+  {
+   "zh": "小溪边长满了青青的草。",
+   "en": "by the stream the grass grows green."
+  },
+  {
+   "zh": "带着醉意，用吴地软软的口音说着亲热的话，",
+   "en": "Tipsy, in the soft speech of Wu, they say sweet things to each other:"
+  },
+  {
+   "zh": "那满头白发的是谁家的老公公和老婆婆？",
+   "en": "whose are they, this white-haired old man and old woman?"
+  },
+  {
+   "zh": "大儿子在溪东边的豆地里锄草，",
+   "en": "The eldest son hoes the beans east of the stream;"
+  },
+  {
+   "zh": "二儿子正在编鸡笼。",
+   "en": "the second son is weaving a chicken coop."
+  },
+  {
+   "zh": "最讨人喜欢的是小儿子，调皮淘气，",
+   "en": "The one I like best is the youngest, the little rascal,"
+  },
+  {
+   "zh": "趴在溪边剥着莲蓬吃。",
+   "en": "lying by the stream, peeling lotus pods."
+  }
+ ],
+ "background": {
+  "zh": "宋孝宗淳熙八年（1181年），辛弃疾被罢官，在上饶（今江西上饶）的带湖住了很多年。乡下的生活虽然离他报国的理想很远，但农家的安宁和快乐也让他很喜欢。一般认为，这首词就是闲居带湖时写的，记下了他看到的一户农家的日常生活。",
+  "en": "In 1181 Xin Qiji was removed from office and lived for many years at Daihu Lake in Shangrao, in today's Jiangxi. Country life was far from his dream of serving his country, but he came to love the peace and happiness of farm families. It is usually thought that he wrote this lyric during those years at Daihu. It records the everyday life of one farm family he saw."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他一生主张抗金、收复北方，却多次被罢官，在乡村闲居了将近二十年。“稼轩”的“稼”就是种庄稼的意思，他很看重农事。他的词多数豪迈，也有不少写乡村的清新小词。",
+  "en": "Xin Qiji (1140–1207), known as Jiaxuan, was a great ci writer of the Southern Song. All his life he called for fighting the Jin and winning back the north, but he was removed from office many times and lived in the countryside for nearly twenty years. The jia in his name Jiaxuan means growing crops; he thought farming mattered. Most of his lyrics are bold, but he also wrote many fresh little poems about village life."
+ },
+ "appreciation": {
+  "zh": "这首词像一幅农家画。先画背景：低矮的茅屋，溪边的青草。再画人物：一对白发老夫妻喝了点酒，用软软的家乡话说笑，一点也不像老人那样沉闷。下半首画三个儿子：大儿子在地里干活，二儿子在编鸡笼，各忙各的；小儿子还小，干不了活，就趴在溪边剥莲蓬吃，那调皮的样子最招人喜欢。一个“卧”字，把孩子天真可爱的样子写活了。全词没有一个难字，却让人感到一家人的和睦和乡村的安宁。",
+  "en": "This lyric is like a painting of a farm family. First the setting: a low thatched hut and green grass by the stream. Then the people: a white-haired old couple, a little tipsy, laughing and chatting in their soft home dialect, not at all dull like we might expect of old people. The second half shows the three sons. The eldest works in the field and the second weaves a chicken coop, each busy with his job. The youngest is too small to work, so he lies by the stream peeling lotus pods to eat, and his naughtiness is the most charming of all. The single word 'lying' brings the child's innocent cuteness to life. There is not one hard word in the lyric, yet we feel the family's harmony and the peace of the village."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "countryside",
+   "family",
+   "children",
+   "farming"
+  ]
+ },
+ "uncertain": []
+}

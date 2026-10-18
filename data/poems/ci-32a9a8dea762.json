@@ -1,0 +1,723 @@
+{
+ "id": "ci-32a9a8dea762",
+ "kind": "ci",
+ "title": "暗香·旧时月色",
+ "title_en": "Hidden Fragrance: Moonlight of Old",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调慢词（自度曲）",
+  "en": "ci, a long lyric in two stanzas, to a tune the poet composed himself"
+ },
+ "lines": [
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "算",
+    "suàn"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "番",
+    "fān"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "我",
+    "wǒ"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "笛",
+    "dí"
+   ]
+  ],
+  [
+   [
+    "唤",
+    "huàn"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "管",
+    "guǎn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "攀",
+    "pān"
+   ],
+   [
+    "摘",
+    "zhāi"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "逊",
+    "xùn"
+   ],
+   [
+    "而",
+    "ér"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "词",
+    "cí"
+   ],
+   [
+    "笔",
+    "bǐ"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "怪",
+    "guài"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "竹",
+    "zhú"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ],
+   [
+    "席",
+    "xí"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "国",
+    "guó"
+   ]
+  ],
+  [
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寂",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "遥",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "积",
+    "jī"
+   ]
+  ],
+  [
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "泣",
+    "qì"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "萼",
+    "è"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "耿",
+    "gěng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "忆",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "树",
+    "shù"
+   ],
+   [
+    "压",
+    "yā"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "碧",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "得",
+    "dé"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  9
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 15,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "这里是“常常、一直”的意思，读 cháng，不读 zhǎng。",
+   "en": "Here it means \"always\", so it is read cháng, not zhǎng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "旧时：从前，过去。",
+   "en": "jiù shí: in the old days, long ago."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "算几番：算一算，有多少回。番，回、次。",
+   "en": "suàn jǐ fān: counting up how many times. Fān means a time, an occasion."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "玉人：美丽的女子。她是谁，词里没有说明。",
+   "en": "yù rén: a beautiful woman. The ci does not say who she was."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "清寒：清冷的寒气。",
+   "en": "qīng hán: the clear, sharp cold."
+  },
+  {
+   "line": 4,
+   "start": 5,
+   "end": 7,
+   "zh": "攀摘：拉下树枝，摘梅花。",
+   "en": "pān zhāi: pulling down the branches to pick plum blossoms."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "何逊：南朝梁代的诗人，很爱梅花，写过有名的咏梅诗。姜夔用他来比自己。",
+   "en": "hé xùn: a poet of the Liang dynasty in the Southern Dynasties who loved plum blossoms and wrote a famous poem about them. Jiang Kui compares himself to him."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "而今：如今，现在。",
+   "en": "ér jīn: now, these days."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 7,
+   "zh": "春风词笔：像春风一样美好的文笔，指年轻时写诗作词的才情。",
+   "en": "chūn fēng cí bǐ: a writing brush as lovely as the spring wind, meaning the gift for poetry he had when young."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "但怪得：只是惊奇。怪得，惊讶、奇怪。",
+   "en": "dàn guài dé: only to be surprised. Guài dé means to wonder at."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "疏花：稀稀疏疏的梅花。",
+   "en": "shū huā: a few scattered plum blossoms."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "瑶席：华美的坐席，指宴席。瑶，美玉。",
+   "en": "yáo xí: a fine seat or mat, meaning a feast. Yáo is fine jade."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "江国：江南水乡。",
+   "en": "jiāng guó: the river country, the lands south of the Yangtze."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 3,
+   "zh": "寂寂：冷清安静。",
+   "en": "jì jì: quiet and lonely."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 5,
+   "zh": "寄与路遥：想折梅花寄给远方的人，可惜路太远。南朝有个故事：陆凯折了一枝梅花，托驿站送信的人带给远方的朋友范晔。",
+   "en": "jì yǔ lù yáo: wanting to send plum blossoms to someone far away, but the road is too long. A Southern Dynasties story tells how Lu Kai picked a plum branch and asked a courier to carry it to his distant friend Fan Ye."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "翠尊：翠绿色的酒杯。尊，同“樽”，酒杯。",
+   "en": "cuì zūn: a green wine cup. Zūn means a wine vessel."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "易泣：很容易落泪。这里说端着酒杯，就忍不住要哭。",
+   "en": "yì qì: easily brought to tears. Holding the wine cup, he cannot keep from weeping."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "红萼：红色的花萼，指红梅。萼，花朵外面托着花瓣的绿色小片。",
+   "en": "hóng è: red calyxes, meaning red plum blossoms. The calyx is the ring of small leaves that holds a flower's petals."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 7,
+   "zh": "耿相忆：一直忘不了，深深地思念。耿，心里放不下的样子。",
+   "en": "gěng xiāng yì: can never forget, keeps missing. Gěng describes something that will not leave the mind."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 2,
+   "zh": "长记：常常记起，一直记得。",
+   "en": "cháng jì: always remembering."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 7,
+   "zh": "千树压西湖寒碧：千万棵梅树开满了花，低低地压在清冷碧绿的西湖水面上。西湖，杭州西湖，湖边孤山上多梅花。",
+   "en": "qiān shù yā xī hú hán bì: thousands of plum trees in bloom hang low over the cold green water of West Lake. West Lake is in Hangzhou; Solitary Hill beside it is known for its plum trees."
+  },
+  {
+   "line": 17,
+   "start": 1,
+   "end": 5,
+   "zh": "片片吹尽：梅花一片一片被风吹光了。",
+   "en": "piàn piàn chuī jìn: the petals are blown away one by one until none are left."
+  },
+  {
+   "line": 18,
+   "start": 0,
+   "end": 4,
+   "zh": "几时见得：什么时候才能再见到呢？",
+   "en": "jǐ shí jiàn dé: when will I see them again?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "从前的月光，",
+   "en": "The moonlight of the old days,"
+  },
+  {
+   "zh": "算一算，有多少次照着我，",
+   "en": "how many times did it shine on me"
+  },
+  {
+   "zh": "在梅花旁边吹着笛子。",
+   "en": "as I played my flute beside the plum trees?"
+  },
+  {
+   "zh": "笛声唤起了美丽的她，",
+   "en": "The music woke a lovely woman,"
+  },
+  {
+   "zh": "不顾清冷的寒气，和我一起攀枝摘梅。",
+   "en": "and she braved the cold to pick plum blossoms with me."
+  },
+  {
+   "zh": "如今我像何逊一样渐渐老了，",
+   "en": "Now, like the old poet He Xun, I am slowly growing old,"
+  },
+  {
+   "zh": "把年轻时写诗的好文笔都忘光了。",
+   "en": "and I have forgotten my young gift for writing."
+  },
+  {
+   "zh": "只是奇怪，竹林外那几枝稀疏的梅花，",
+   "en": "Yet to my surprise, a few plum blossoms beyond the bamboo"
+  },
+  {
+   "zh": "把清冷的香气送进了宴席。",
+   "en": "send their cool scent into the feast."
+  },
+  {
+   "zh": "江南水乡，",
+   "en": "The river country"
+  },
+  {
+   "zh": "正是一片冷清。",
+   "en": "lies quiet and lonely."
+  },
+  {
+   "zh": "想折一枝梅寄给远方的人，可叹路途太远，",
+   "en": "I want to send a branch to someone far away, but sadly the road is too long,"
+  },
+  {
+   "zh": "夜里的雪又刚刚积起来。",
+   "en": "and the night's snow has just begun to pile up."
+  },
+  {
+   "zh": "端起翠绿的酒杯，忍不住要落泪，",
+   "en": "Holding the green wine cup, I am easily moved to tears."
+  },
+  {
+   "zh": "红梅默默无言，却好像也在深深地思念。",
+   "en": "The red plum blossoms say nothing, yet they seem to be missing someone too."
+  },
+  {
+   "zh": "我常常记得我们曾经手拉着手的地方，",
+   "en": "I always remember the place where we once walked hand in hand,"
+  },
+  {
+   "zh": "千万棵梅树开满花，压在清冷碧绿的西湖上。",
+   "en": "where thousands of blossoming trees hung over the cold green waters of West Lake."
+  },
+  {
+   "zh": "可是梅花又一片片被吹光了，",
+   "en": "But once again the petals are blown away one by one."
+  },
+  {
+   "zh": "什么时候才能再见到呢？",
+   "en": "When will I see them again?"
+  }
+ ],
+ "background": {
+  "zh": "据这首词前面的小序，宋光宗绍熙二年（1191年）冬天，姜夔冒着雪去石湖拜访诗人范成大。范成大请他创作新的曲子。姜夔就写了《暗香》《疏影》两首咏梅的词，自己配了曲子。范成大非常喜欢，让家里的歌女练习演唱。词牌名取自北宋林逋咏梅的名句“疏影横斜水清浅，暗香浮动月黄昏”。",
+  "en": "According to the short preface before this ci, in the winter of 1191 Jiang Kui went through the snow to visit the poet Fan Chengda at Stone Lake. Fan asked him to create some new songs. Jiang Kui wrote two ci about plum blossoms, \"Hidden Fragrance\" and \"Sparse Shadows\", and composed the music himself. Fan loved them and had the singers of his household learn them. The tune names come from a famous plum blossom couplet by the Northern Song poet Lin Bu: \"Sparse shadows slant across clear, shallow water; a hidden fragrance drifts in the dusk under the moon.\""
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），号白石道人，南宋词人，也是音乐家。他一生没有做官，靠朋友接济，到处漂泊。他会自己作曲，很多词牌是他自己创造的，词句清冷、雅致。这首词就是他自己作词又作曲的代表作。",
+  "en": "Jiang Kui (about 1155 to about 1221), also called the Daoist of White Stone, was a Southern Song ci poet and also a musician. He never held office. He lived on the help of friends and moved from place to place. He could compose music, and he created many tunes himself. His words feel cool, clear and refined. This ci, with both words and music by him, is one of his best-known works."
+ },
+ "appreciation": {
+  "zh": "这首词借梅花写对往事和旧人的怀念。开头像在翻相册：从前的月光下，他在梅树边吹笛，笛声唤来一位美丽的女子，两人冒着寒冷一起摘梅。现在他老了，写诗的兴致也没了，可竹林外几枝梅花的冷香飘进宴席，又把回忆勾了起来。下阕写江南冬夜：想寄一枝梅给远方的人，路太远，雪又下了起来。他端着酒杯想哭，红梅不说话，却好像也在想念。最后回到西湖：当年千树梅花压着碧绿的湖水，两人手拉着手；如今花又被风吹落，什么时候才能再见？那位“玉人”是谁，词里没有说。一说是姜夔年轻时爱过的女子，一说另有寄托。全词没有直接说一个“愁”字，却处处是淡淡的、冷冷的思念。",
+  "en": "This ci uses plum blossoms to remember the past and someone dear. It opens like looking through an old photo album. Under the moonlight of long ago, he played his flute beside the plum trees. The music brought out a lovely woman, and together they picked blossoms in the cold. Now he is old and no longer feels like writing. But the cool scent of a few blossoms beyond the bamboo drifts into the feast and brings the memories back. The second stanza is a winter night in the south. He wants to send a branch to someone far away, but the road is too long, and snow is falling again. Holding his cup he wants to cry. The red blossoms say nothing, yet they seem to be missing someone too. At the end he returns to West Lake. Back then, thousands of trees in bloom hung over the green water, and the two walked hand in hand. Now the petals are blowing away again. When will they meet again? The ci never says who the lovely woman was. One view says she was a woman Jiang Kui loved when he was young; another says the poem hides a different meaning. The word \"sorrow\" never appears, yet a quiet, cool longing runs through every line."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  15,
+  16
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "plum-blossom",
+   "memory",
+   "longing",
+   "moon",
+   "snow"
+  ]
+ },
+ "uncertain": []
+}

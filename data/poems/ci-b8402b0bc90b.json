@@ -1,0 +1,821 @@
+{
+ "id": "ci-b8402b0bc90b",
+ "kind": "ci",
+ "title": "永遇乐·京口北固亭怀古",
+ "title_en": "To the Tune Yong Yu Le: Thinking of the Past at Beigu Pavilion in Jingkou",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "孙",
+    "sūn"
+   ],
+   [
+    "仲",
+    "zhòng"
+   ],
+   [
+    "谋",
+    "móu"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "榭",
+    "xiè"
+   ],
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "台",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "打",
+    "dǎ"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "巷",
+    "xiàng"
+   ],
+   [
+    "陌",
+    "mò"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "奴",
+    "nú"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "戈",
+    "gē"
+   ],
+   [
+    "铁",
+    "tiě"
+   ],
+   [
+    "马",
+    "mǎ"
+   ]
+  ],
+  [
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "吞",
+    "tūn"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "虎",
+    "hǔ"
+   ]
+  ],
+  [
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "嘉",
+    "jiā"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "狼",
+    "láng"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "胥",
+    "xū"
+   ]
+  ],
+  [
+   [
+    "赢",
+    "yíng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "仓",
+    "cāng"
+   ],
+   [
+    "皇",
+    "huáng"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "顾",
+    "gù"
+   ]
+  ],
+  [
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "记",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "烽",
+    "fēng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "扬",
+    "yáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "佛",
+    "bì"
+   ],
+   [
+    "狸",
+    "lí"
+   ],
+   [
+    "祠",
+    "cí"
+   ],
+   [
+    "下",
+    "xià"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "鸦",
+    "yā"
+   ],
+   [
+    "社",
+    "shè"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "廉",
+    "lián"
+   ],
+   [
+    "颇",
+    "pō"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "矣",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "尚",
+    "shàng"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "饭",
+    "fàn"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "文字和语料相同。语料断句作“英雄无觅，孙仲谋处”“风流总被，雨打风吹去”，课本作“英雄无觅孙仲谋处”“风流总被雨打风吹去”，各作一句。",
+  "en": "The words are the same as the corpus. The corpus breaks lines two and four into two pieces each; the textbook keeps each as one sentence."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 7,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“处”是名词“地方”，读 chù。",
+   "en": "Here this character is a noun, a place, so it is read chù."
+  },
+  {
+   "line": 17,
+   "pos": 0,
+   "char": "佛",
+   "pinyin": "bì",
+   "zh": "“佛狸”是北魏太武帝拓跋焘的小名，课本注音 bì lí。“佛”在这里不读 fó。",
+   "en": "Bì lí was the childhood name of Emperor Taiwu of Northern Wei. Textbooks read this character here as bì, not fó."
+  },
+  {
+   "line": 17,
+   "pos": 1,
+   "char": "狸",
+   "pinyin": "lí",
+   "zh": "“佛狸”的“狸”读 lí。",
+   "en": "In bì lí, this character is read lí."
+  },
+  {
+   "line": 21,
+   "pos": 3,
+   "char": "否",
+   "pinyin": "fǒu",
+   "zh": "“否”在句末表示疑问，读 fǒu。",
+   "en": "At the end of a question, this character is read fǒu."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "千古：很久很久以来。",
+   "en": "qiān gǔ: for a thousand ages, since long, long ago."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "无觅：找不到。",
+   "en": "wú mì: cannot be found."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "孙仲谋：孙权，字仲谋，三国时吴国的君主，曾在京口建都。",
+   "en": "Sūn Zhòngmóu: Sun Quan, ruler of the state of Wu in the Three Kingdoms. He once made Jingkou his capital."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "舞榭歌台：跳舞唱歌的楼台。榭，建在高台上的房子。这里代指孙权当年的繁华宫殿。",
+   "en": "wǔ xiè gē tái: halls for dancing and singing. Xiè is a building on a raised terrace. Here they stand for the splendid palaces of Sun Quan's time."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "风流：英雄的风采和功业。",
+   "en": "fēng liú: a hero's style and great deeds."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "斜阳草树：夕阳照着的野草和树木。",
+   "en": "xié yáng cǎo shù: grass and trees in the setting sun."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "寻常巷陌：普通的小街小巷。",
+   "en": "xún cháng xiàng mò: ordinary lanes and alleys."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "人道：人们说。",
+   "en": "rén dào: people say."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "寄奴：南朝宋武帝刘裕的小名。他出身贫寒，生长在京口，后来起兵北伐，收复了大片土地。",
+   "en": "Jì Nú: the childhood name of Liu Yu, founder of the Liu Song dynasty in the fifth century. He grew up poor in Jingkou, then led armies north and won back much land."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "金戈铁马：闪亮的兵器和披甲的战马，指强大的军队。戈，古代一种兵器。",
+   "en": "jīn gē tiě mǎ: shining weapons and armoured horses, a mighty army. Gē is an old kind of spear."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 6,
+   "zh": "气吞万里如虎：气势像猛虎一样，好像能吞下万里土地。",
+   "en": "qì tūn wàn lǐ rú hǔ: fierce as a tiger, as if able to swallow ten thousand miles of land."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "元嘉：刘裕的儿子宋文帝刘义隆的年号。",
+   "en": "Yuán jiā: the reign name of Liu Yilong, Emperor Wen, Liu Yu's son."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "草草：草率，没有好好准备。",
+   "en": "cǎo cǎo: hasty, careless, without proper planning."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "封狼居胥：汉代名将霍去病打败匈奴，追到狼居胥山，在山上祭天庆功。宋文帝也想立这样的大功，草率出兵北伐。",
+   "en": "fēng láng jū xū: the Han general Huo Qubing beat the Xiongnu, chased them to Mount Langjuxu, and held a victory rite on its top. Emperor Wen wanted the same glory and rushed north to war."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "赢得：落得，结果只得到。",
+   "en": "yíng dé: ended up with, only got."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 6,
+   "zh": "仓皇北顾：慌慌张张地向北张望。宋文帝北伐大败，北魏军队反而打到长江北岸，他只能惊慌地向北望。",
+   "en": "cāng huáng běi gù: looking north in panic. Emperor Wen's army was crushed, and the Northern Wei army came all the way to the north bank of the Yangtze."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "四十三年：辛弃疾1162年从北方南归，到写这首词时正好四十三年。",
+   "en": "sì shí sān nián: forty-three years. Xin Qiji came south in 1162; this was written forty-three years later."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "望中：远远望去。",
+   "en": "wàng zhōng: looking out into the distance."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 5,
+   "zh": "烽火扬州路：当年扬州一带到处是战火。烽火，打仗时报警的烟火。",
+   "en": "fēng huǒ yáng zhōu lù: the Yangzhou road burning with war. Fēng huǒ were warning fires lit in wartime."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "可堪：哪能忍受，不忍心。",
+   "en": "kě kān: how can one bear it."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 3,
+   "zh": "佛狸祠：北魏太武帝拓跋焘（小名佛狸）打到长江北岸时，在瓜步山上建的行宫，后来成了一座庙。",
+   "en": "Bì lí cí: a shrine on Mount Guabu, first built as a palace by Tuoba Tao (childhood name Bili), Emperor Taiwu of Northern Wei, when he reached the Yangtze."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "神鸦：在庙里吃祭品的乌鸦。",
+   "en": "shén yā: crows that eat the offerings at the temple."
+  },
+  {
+   "line": 18,
+   "start": 4,
+   "end": 6,
+   "zh": "社鼓：祭神时敲的鼓。",
+   "en": "shè gǔ: drums beaten at a village festival for the gods."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "凭谁问：还有谁来问呢。凭，靠。",
+   "en": "píng shuí wèn: who is there to ask. Píng means to rely on."
+  },
+  {
+   "line": 20,
+   "start": 0,
+   "end": 2,
+   "zh": "廉颇：战国时赵国的名将。他老了以后，赵王想再用他，派人去看他还能不能打仗。廉颇一顿饭吃了一斗米、十斤肉，还披甲上马，表示自己还行。可是使者回去说了他的坏话，赵王就没有再用他。",
+   "en": "Lián Pō: a famous general of the state of Zhao. When he was old, the king sent a man to see if he could still fight. Lian Po ate a huge meal and mounted his horse in armour to show he was still strong. But the messenger spoke ill of him, and the king never used him again."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 4,
+   "zh": "尚能饭否：还能吃饭吗？意思是还有力气打仗吗。",
+   "en": "shàng néng fàn fǒu: can he still eat? That is, is he still strong enough to fight?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "江山千古不变，",
+   "en": "The rivers and hills are the same as a thousand ages ago,"
+  },
+  {
+   "zh": "可是像孙权那样的英雄，已经找不到了。",
+   "en": "but a hero like Sun Quan can be found nowhere."
+  },
+  {
+   "zh": "当年的歌舞楼台，",
+   "en": "The halls of song and dance of his day,"
+  },
+  {
+   "zh": "那些英雄的风采，都被风吹雨打，消失了。",
+   "en": "and all their glory, have been swept away by wind and rain."
+  },
+  {
+   "zh": "夕阳照着野草和树木，",
+   "en": "The setting sun lights the grass and trees,"
+  },
+  {
+   "zh": "在普通的小街小巷里，",
+   "en": "and in these ordinary little lanes,"
+  },
+  {
+   "zh": "人们说，刘裕曾经住在这里。",
+   "en": "people say, Liu Yu once lived."
+  },
+  {
+   "zh": "回想当年，",
+   "en": "Think of those days:"
+  },
+  {
+   "zh": "他率领强大的军队，",
+   "en": "he led an army of shining spears and armoured horses,"
+  },
+  {
+   "zh": "气势像猛虎，要吞下万里中原。",
+   "en": "fierce as a tiger, ready to swallow ten thousand miles."
+  },
+  {
+   "zh": "可是他的儿子宋文帝草率北伐，",
+   "en": "But his son, Emperor Wen, rushed north to war,"
+  },
+  {
+   "zh": "想像霍去病那样封山庆功，",
+   "en": "dreaming of a victory rite like Huo Qubing's on Mount Langjuxu,"
+  },
+  {
+   "zh": "结果却大败，只能惊慌地向北张望。",
+   "en": "and all he won was a panicked look to the north."
+  },
+  {
+   "zh": "四十三年过去了，",
+   "en": "Forty-three years have passed,"
+  },
+  {
+   "zh": "我远远望去，还记得",
+   "en": "and as I gaze into the distance I still remember"
+  },
+  {
+   "zh": "扬州一带到处燃烧着战火。",
+   "en": "the road through Yangzhou in flames of war."
+  },
+  {
+   "zh": "怎么忍心回头去看，",
+   "en": "How can I bear to look back?"
+  },
+  {
+   "zh": "在敌人皇帝留下的佛狸祠下，",
+   "en": "Below the shrine of the enemy emperor Bili,"
+  },
+  {
+   "zh": "乌鸦吃着祭品，人们敲着社鼓，热热闹闹。",
+   "en": "crows peck at offerings and festival drums beat."
+  },
+  {
+   "zh": "还有谁会来问一问：",
+   "en": "Who is there to come and ask:"
+  },
+  {
+   "zh": "廉颇老了，",
+   "en": "Lian Po is old,"
+  },
+  {
+   "zh": "还能吃饭吗？",
+   "en": "but can he still eat?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写于宋宁宗开禧元年（1205年），辛弃疾六十六岁，在镇江做知府。镇江古时叫京口，北固亭在城北的北固山上，可以望见长江。当时朝廷掌权的韩侂胄正准备北伐金国。辛弃疾一直想收复北方，但他担心这次准备不足，会重蹈覆辙。他登上北固亭，想起历史上的英雄和失败，写下了这首词。",
+  "en": "Xin Qiji wrote this in 1205, at sixty-six, while he was prefect of Zhenjiang. Zhenjiang was called Jingkou in old times. Beigu Pavilion stood on Beigu Hill north of the city, looking over the Yangtze. Han Tuozhou, who then ran the court, was preparing to attack the Jin state in the north. Xin had always wanted to win back the north, but he feared this war was being rushed and would fail like those in the past. He climbed the pavilion, thought of the heroes and defeats of history, and wrote this lyric."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他生在被金国占领的北方，二十多岁时带领人马起义抗金，1162年南归宋朝。他一生想带兵收复北方，却常常被排挤，长期闲居。他的词豪迈悲壮，和苏轼并称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song lyric poet. He was born in the north under Jin rule. In his twenties he led men in a revolt against the Jin and came south to Song in 1162. All his life he wanted to lead an army to win back the north, but he was often pushed aside and spent many years out of office. His lyrics are bold and full of sorrow. People pair him with Su Shi."
+ },
+ "appreciation": {
+  "zh": "这首词几乎每一句都在讲历史故事，但每个故事都和眼前的事有关。上阕想起两位在京口生活过的英雄：孙权和刘裕。他们都很了不起，可现在什么也找不到了，只剩夕阳和小巷。这是在说：现在没有这样的英雄了。下阕讲宋文帝草率北伐，结果大败，这是在提醒朝廷，这次北伐不能太急。接着他想起四十三年前南归时扬州的战火，又看到敌人皇帝的庙前，百姓热热闹闹地祭拜，好像早就忘了国仇。最后他用廉颇自比：我老了，可我还能打仗，只是没有人来问我。全词充满了报国的热情和不被重用的悲凉。",
+  "en": "Almost every line of this lyric tells a story from history, and every story points at the present. The first half remembers two heroes who lived in Jingkou: Sun Quan and Liu Yu. Both were great, yet now nothing of them is left but sunset and little lanes. The poet is saying that there are no such heroes now. The second half tells how Emperor Wen rushed into war and was crushed. This warns the court not to rush its own war. Then Xin remembers the fires of war at Yangzhou forty-three years before, and sees people cheerfully worshipping at a shrine of an enemy emperor, as if they had forgotten the country's old wounds. At last he compares himself to Lian Po: I am old, but I can still fight, and no one comes to ask. The whole lyric burns with love for his country and with the sadness of being left unused."
+ },
+ "famous_lines": [
+  0,
+  1,
+  19,
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "patriotism",
+   "hero",
+   "old-age"
+  ]
+ },
+ "uncertain": []
+}

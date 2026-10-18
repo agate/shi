@@ -1,0 +1,385 @@
+{
+ "id": "6975adab-25d0-40c6-af3a-3a05847e7717",
+ "kind": "shi",
+ "title": "望洞庭湖赠张丞相",
+ "title_en": "Gazing at Lake Dongting: For Prime Minister Zhang",
+ "author": "孟浩然",
+ "author_en": "Meng Haoran",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "平",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "涵",
+    "hán"
+   ],
+   [
+    "虚",
+    "xū"
+   ],
+   [
+    "混",
+    "hùn"
+   ],
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "清",
+    "qīng"
+   ]
+  ],
+  [
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "蒸",
+    "zhēng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "泽",
+    "zé"
+   ]
+  ],
+  [
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "撼",
+    "hàn"
+   ],
+   [
+    "岳",
+    "yuè"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "城",
+    "chéng"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "济",
+    "jì"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "楫",
+    "jí"
+   ]
+  ],
+  [
+   [
+    "端",
+    "duān"
+   ],
+   [
+    "居",
+    "jū"
+   ],
+   [
+    "耻",
+    "chǐ"
+   ],
+   [
+    "圣",
+    "shèng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "观",
+    "guān"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "钓",
+    "diào"
+   ],
+   [
+    "者",
+    "zhě"
+   ]
+  ],
+  [
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "羡",
+    "xiàn"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "第八句课本作“徒有羡鱼情”，所据底本作“空有羡鱼情”，两种写法都有，意思相同。题目一作《临洞庭湖赠张丞相》。",
+  "en": "In line eight the textbook uses tú (in vain), while the source text uses kōng, which means the same; both forms exist. The title in some editions begins with \"Facing\" instead of \"Gazing at\"."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "涵",
+   "pinyin": "hán",
+   "zh": "“涵”读 hán，包含的意思。",
+   "en": "Read hán, meaning to contain."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "济",
+   "pinyin": "jì",
+   "zh": "“济”在这里是“渡河”的意思，读 jì，不读 jǐ。",
+   "en": "Here it means to cross a river, so it is read jì, not jǐ."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "湖水平：湖水涨满，和岸差不多平。",
+   "en": "hú shuǐ píng: the lake is so full that the water is level with the shore."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "涵虚：包含着天空。涵，包含；虚，天空。",
+   "en": "hán xū: holding the sky. Hán means to contain; xū means the empty sky."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "混太清：和天空混成一片。太清，天空。",
+   "en": "hùn tài qīng: blending with the heavens. Tài qīng means the sky."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "气蒸：水汽蒸腾。",
+   "en": "qì zhēng: mist steaming up."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "云梦泽：古代湖北、湖南一带的大片湖泽。",
+   "en": "yún mèng zé: the Yunmeng marshes, a huge area of lakes and wetlands in old Hubei and Hunan."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "撼：摇动。",
+   "en": "hàn: to shake."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "岳阳城：在洞庭湖东北岸，就是今天湖南岳阳。",
+   "en": "yuè yáng chéng: the city on the northeast shore of Lake Dongting, today's Yueyang in Hunan."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 2,
+   "zh": "济：渡过江河。",
+   "en": "jì: to cross a river."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "舟楫：船和桨。楫，船桨。这里比喻推荐自己的人。",
+   "en": "zhōu jí: a boat and an oar. Jí is an oar. Here it stands for someone to recommend him."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "端居：闲居在家，没有事做。",
+   "en": "duān jū: living idle at home."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "耻圣明：在圣明的时代闲着，觉得对不起这个时代，感到羞耻。圣明，指皇帝英明、天下太平。",
+   "en": "chǐ shèng míng: feeling ashamed to be idle in a wise and bright age. Shèng míng means a time with a wise ruler and peace."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "坐观：坐着看。",
+   "en": "zuò guān: to sit and watch."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "垂钓者：钓鱼的人，这里比喻在朝廷做官的人。",
+   "en": "chuí diào zhě: people fishing; here, those who already serve at court."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "徒：白白地。",
+   "en": "tú: in vain."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "羡鱼情：羡慕别人钓到鱼的心情。古书《淮南子》说：“临河而羡鱼，不如归家织网。”这里比喻想做官的心情。",
+   "en": "xiàn yú qíng: the feeling of envying others' fish. The old book Huainanzi says that standing by the river envying the fish is not as good as going home to weave a net. Here it stands for his wish to hold office."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "八月的洞庭湖，湖水涨得和岸一样平，",
+   "en": "In the eighth month, Lake Dongting swells level with its shores;"
+  },
+  {
+   "zh": "湖面包含着天空，水和天混成一片。",
+   "en": "it holds the sky within it, water and heaven blending into one."
+  },
+  {
+   "zh": "湖上的水汽蒸腾，笼罩着云梦泽，",
+   "en": "Mist steams up over the Yunmeng marshes;"
+  },
+  {
+   "zh": "湖中的波涛翻滚，好像要摇动岳阳城。",
+   "en": "waves pound as if to shake the city of Yueyang."
+  },
+  {
+   "zh": "我想渡过湖去，却没有船和桨，",
+   "en": "I want to cross, but I have no boat or oar;"
+  },
+  {
+   "zh": "在这圣明的时代闲居在家，我感到羞愧。",
+   "en": "living idle at home in such a wise and bright age, I feel ashamed."
+  },
+  {
+   "zh": "坐着看那些钓鱼的人，",
+   "en": "Sitting and watching those who fish,"
+  },
+  {
+   "zh": "我只能白白地羡慕他们钓到鱼。",
+   "en": "I can only envy, in vain, the fish they catch."
+  }
+ ],
+ "background": {
+  "zh": "孟浩然年轻时一直想做官，为国家出力，可是没有人推荐他。这首诗是他写给张丞相的，一般认为是张九龄，一说是张说。诗前半写洞庭湖的壮阔，后半借渡湖没有船、看人钓鱼来比喻：自己想做官却没有人引荐，希望张丞相能帮自己一把。写作的具体年份说法不一。",
+  "en": "When he was young, Meng Haoran wanted to become an official and serve his country, but no one recommended him. He wrote this poem for Prime Minister Zhang, usually thought to be Zhang Jiuling, though some say Zhang Yue. The first half describes the vastness of Lake Dongting. The second half uses images as hints: wanting to cross the lake with no boat, and watching others fish. They mean he wants a post but has no one to introduce him, and he hopes Prime Minister Zhang will help. Scholars disagree about the exact year it was written."
+ },
+ "author_note": {
+  "zh": "孟浩然（689—740），唐代诗人，湖北襄阳人，大部分时间隐居在家乡。他擅长写山水田园诗，和王维并称“王孟”。他一生没有做过正式的官，这首诗正写出了他想做官又放不下面子的复杂心情。",
+  "en": "Meng Haoran (689–740) was a Tang poet from Xiangyang in Hubei. He lived quietly in his hometown for most of his life. He was a master of poems about mountains, rivers and country life, and he is often named together with Wang Wei. He never held a regular official post. This poem shows his mixed feelings: he wanted a job at court, but was too proud to ask for it straight out."
+ },
+ "appreciation": {
+  "zh": "前四句写洞庭湖，气势非常大。八月秋水涨满，湖面和天空连成一片；湖上的水汽好像把整个云梦泽都蒸腾起来，波浪拍打着岸边，好像岳阳城都在摇晃。“气蒸云梦泽，波撼岳阳城”是写洞庭湖最有名的句子之一。后四句笔锋一转，从湖写到自己：想过湖没有船，就像想做官没人引荐；看别人钓鱼只能羡慕，就像看别人做官只能干着急。他求人帮忙，却说得含蓄得体，不卑不亢。",
+  "en": "The first four lines describe Lake Dongting on a grand scale. In the eighth month the autumn water is high, and the lake and sky become one. The mist seems to steam up the whole Yunmeng marsh, and the waves beat the shore as if Yueyang city were shaking. The lines about the steaming marsh and the shaking city are among the most famous ever written about the lake. Then the last four lines turn from the lake to the poet himself. Wanting to cross with no boat is like wanting a post with no one to recommend him. Watching others fish and only envying them is like watching others serve at court and only being able to wait. He is asking for help, yet he says it gently and with dignity, neither begging nor boasting."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lake",
+   "ambition",
+   "career",
+   "request"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,300 @@
+{
+ "id": "9525f99d-39cb-4d04-8650-263493d223e0",
+ "kind": "shi",
+ "title": "早发白帝城",
+ "title_en": "Leaving Baidi City at Dawn",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "辞",
+    "cí"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "帝",
+    "dì"
+   ],
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "间",
+    "jiān"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "陵",
+    "líng"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "猿",
+    "yuán"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本和课本作“猿”“啼不住”。语料库作“猨”（“猿”的异体字）和“啼不尽”。",
+  "en": "The textbook and common text use the usual character for yuán, ape, and read \"tí bú zhù\" (crying without stopping). The corpus text uses an old variant form of yuán and reads \"tí bù jìn\" (crying without end)."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "“朝”是早晨的意思，读 zhāo，不读 cháo。",
+   "en": "Zhāo means morning. It is read zhāo, not cháo."
+  },
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "一",
+   "pinyin": "yí",
+   "zh": "“一”在去声字前变调，读 yí。",
+   "en": "Yī changes to yí before a fourth-tone syllable."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还”是返回的意思，读 huán，不读 hái。",
+   "en": "Huán means to return. It is read huán, not hái."
+  },
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "不",
+   "pinyin": "bú",
+   "zh": "“不”在去声字前变调，读 bú。",
+   "en": "Bù changes to bú before a fourth-tone syllable."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“重”是层的意思，读 chóng，不读 zhòng。",
+   "en": "Chóng means a layer. It is read chóng, not zhòng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "朝：早晨。",
+   "en": "zhāo: early morning."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "辞：告别，离开。",
+   "en": "cí: to say goodbye, to leave."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "白帝：白帝城，在今天重庆奉节的白帝山上，地势很高，靠着长江。",
+   "en": "bái dì: Baidi City, on Baidi Hill in today's Fengjie, Chongqing. It sits high above the Yangtze River."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "彩云间：在彩色的云霞中间。白帝城很高，早上看过去像在云里。",
+   "en": "cǎi yún jiān: among the bright-colored clouds. Baidi City is so high that in the morning it seems to be up in the clouds."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "江陵：今湖北荆州，在长江下游方向。从白帝城到江陵，水路大约一千二百里。",
+   "en": "jiāng líng: Jiangling, today's Jingzhou in Hubei, downstream on the Yangtze. By river it is about twelve hundred li from Baidi City. A li is a Chinese unit of distance, about half a kilometre."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "还：回，返回。",
+   "en": "huán: to return."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "猿声：猿猴的叫声。从前长江三峡两岸有很多猿猴。",
+   "en": "yuán shēng: the cries of apes. In the past, many apes lived on both banks of the Three Gorges of the Yangtze."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "啼不住：叫个不停。",
+   "en": "tí bú zhù: crying without stopping."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "轻舟：轻快的小船。",
+   "en": "qīng zhōu: a light, fast boat."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "万重山：一层又一层的许多座山。重，层。",
+   "en": "wàn chóng shān: ten thousand layers of mountains. Chóng means a layer."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清晨，我告别了高高耸立在彩云中的白帝城，",
+   "en": "At dawn I leave Baidi City, high among the bright clouds."
+  },
+  {
+   "zh": "千里之外的江陵，一天就能回到。",
+   "en": "Jiangling, a thousand li away, I reach in a single day."
+  },
+  {
+   "zh": "两岸的猿猴叫个不停，",
+   "en": "On both banks the apes cry on and on."
+  },
+  {
+   "zh": "轻快的小船已经穿过了一重又一重的大山。",
+   "en": "And my light boat has already passed ten thousand mountains."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗写于唐肃宗乾元二年（759年）。那时李白因为卷进永王李璘的事，被判流放到很远的夜郎（在今贵州一带）。他走到白帝城的时候，忽然得到赦免，也就是不用再去了。他高兴极了，马上坐船顺长江东下，回到江陵。一说这首诗是李白年轻时出蜀的时候写的。",
+  "en": "This poem is usually dated to 759. At that time Li Bai had been caught up in the affair of Prince Yong, Li Lin, and was sentenced to exile in faraway Yelang, in today's Guizhou area. When he reached Baidi City, he suddenly received a pardon: he did not have to go on. Overjoyed, he took a boat straight down the Yangtze to Jiangling. Another view says he wrote it as a young man when he first left Sichuan."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐朝伟大的诗人，被人称为“诗仙”。他性格豪放，喜欢喝酒、游历，诗写得想象丰富、气势很大。他一生经历了很多起落。这首诗写于他五十多岁，刚遇到大赦的时候，所以特别轻快。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. He was bold and free, loved wine and travel, and wrote poems full of imagination and power. His life had many ups and downs. He wrote this poem in his late fifties, just after being pardoned, which is why it feels so light and quick."
+ },
+ "appreciation": {
+  "zh": "这首诗读起来就像坐上了一只飞快的小船。第一句，早上的白帝城高高地立在彩云里，又美又亮。第二句，“千里”和“一日”放在一起，一下子就让人感到船有多快。长江三峡水流很急，古书里就说过“朝发白帝，暮到江陵”。第三句，两岸的猿猴叫个不停，声音还没停，第四句船已经穿过了万重大山。山那么多，船却那么轻，一个“轻”字，也是诗人心里的轻松。这首诗没有写“高兴”两个字，可每一句都透着刚刚得到自由的快乐。",
+  "en": "Reading this poem feels like riding a speeding boat. In the first line, Baidi City stands high among the morning clouds, bright and beautiful. In the second line, \"a thousand li\" sits next to \"one day\", and at once we feel how fast the boat goes. The water in the Three Gorges is very swift; an old book even said you could leave Baidi in the morning and reach Jiangling by evening. In the third line the apes on both banks keep crying, and before their cries stop, in the fourth line, the boat has passed ten thousand mountains. There are so many mountains, yet the boat is so light. The word \"light\" is also the lightness in the poet's heart. The poem never says \"happy\", but every line shines with the joy of someone just set free."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "river",
+   "joy",
+   "mountains"
+  ]
+ },
+ "uncertain": []
+}

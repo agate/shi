@@ -1,0 +1,373 @@
+{
+ "id": "ci-b81435ef8290",
+ "kind": "ci",
+ "title": "菩萨蛮·书江西造口壁",
+ "title_en": "Pusaman: Written on the Wall at Zaokou in Jiangxi",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《菩萨蛮》，双调四十四字",
+  "en": "ci to the tune Pusaman, 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "郁",
+    "yù"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "遮",
+    "zhē"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "毕",
+    "bì"
+   ],
+   [
+    "竟",
+    "jìng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "正",
+    "zhèng"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "余",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "鹧",
+    "zhè"
+   ],
+   [
+    "鸪",
+    "gū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "资料库原文作“西北是长安”“毕竟江流去”“江晚正愁予”。现在课本和通行本作“西北望长安”“毕竟东流去”“江晚正愁余”。“予”和“余”都是“我”的意思。",
+  "en": "The corpus text reads \"xī běi shì cháng ān\" (the northwest is Chang'an), \"bì jìng jiāng liú qù\" (the river flows away after all) and ends the seventh line with a different character for \"me\". Today's textbooks and standard editions read \"xī běi wàng cháng ān\" (I look northwest toward Chang'an), \"bì jìng dōng liú qù\" (it flows east after all), and use the common character yú for \"me\". Both characters for \"me\" mean the same."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "不",
+   "pinyin": "bù",
+   "zh": "“不”本来读 bù，在去声字“住”前面，口语里变读 bú。这里标本来的读音。",
+   "en": "The character bù is read bú in speech before a fourth-tone syllable like zhù. Here we mark its basic tone."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "郁孤台：一座古台，在今天江西赣州的贺兰山上，因为山势高高地孤立着而得名。",
+   "en": "yù gū tái: an old lookout terrace on a hill in today's Ganzhou, Jiangxi. It got its name because the hill stands tall and alone."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "清江：这里指赣江。赣江从郁孤台下流过，向北流去。",
+   "en": "qīng jiāng: here it means the Gan River, which flows past the foot of the terrace and on to the north."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "中间：指江水里面。",
+   "en": "zhōng jiān: in the middle of it, that is, in the river water."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "行人泪：逃难的人流下的眼泪。当年金兵追到这里，百姓四处逃难。",
+   "en": "xíng rén lèi: the tears of people on the road. When the Jin army chased into this area, ordinary people fled in all directions, weeping."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "长安：汉朝、唐朝的都城。这里借来代指被金人占领的北方故都和国土。一说指北宋都城汴京（今河南开封）。",
+   "en": "cháng ān: the capital of the Han and Tang dynasties. Here it stands for the old capital and the northern lands taken by the Jin. Another reading says it means Bianjing (today's Kaifeng), the capital of the Northern Song."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可惜。",
+   "en": "kě lián: what a pity."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "无数山：数不清的山，把望向长安的视线挡住了。",
+   "en": "wú shù shān: countless mountains, which block the view toward Chang'an."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "遮不住：挡不住。说的是山挡不住江水。",
+   "en": "zhē bù zhù: cannot block. The mountains cannot stop the river."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "毕竟：到底，终究。",
+   "en": "bì jìng: after all, in the end."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "东流去：向东流走。中国的大江大河大多向东流入大海。赣江先向北流进长江，长江再向东流。",
+   "en": "dōng liú qù: flows away to the east. Most big rivers in China flow east to the sea. The Gan River flows north into the Yangtze, and the Yangtze flows east."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "愁余：使我发愁。余，我。",
+   "en": "chóu yú: makes me sad. Yú means I or me."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "鹧鸪：一种鸟。古人觉得它的叫声像“行不得也哥哥”，意思是“走不了啊”，听了让人更加伤心。",
+   "en": "zhè gū: the partridge, a bird. People in old times thought its call sounded like \"you cannot go on, brother\", so hearing it made a sad person sadder."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "郁孤台下这赣江的江水，",
+   "en": "The water of the Gan River below Yugu Terrace,"
+  },
+  {
+   "zh": "里面流着多少逃难人的眼泪啊。",
+   "en": "how many tears of fleeing people flow in it!"
+  },
+  {
+   "zh": "我抬头向西北遥望故都长安，",
+   "en": "I look northwest toward the old capital, Chang'an,"
+  },
+  {
+   "zh": "可惜被数不清的群山挡住了。",
+   "en": "but sadly, countless mountains stand in the way."
+  },
+  {
+   "zh": "可是青山挡不住江水，",
+   "en": "Still, the green mountains cannot hold back the river;"
+  },
+  {
+   "zh": "江水终究向东流去了。",
+   "en": "after all, it flows away to the east."
+  },
+  {
+   "zh": "天色晚了，江边的景色正让我发愁，",
+   "en": "Evening falls on the river, and it fills me with sorrow;"
+  },
+  {
+   "zh": "又听见深山里传来鹧鸪的叫声。",
+   "en": "from deep in the mountains I hear the partridge call."
+  }
+ ],
+ "background": {
+  "zh": "宋孝宗淳熙三年（1176年），辛弃疾在江西做提点刑狱，管刑事案件，驻在赣州。他路过造口（在今江西万安县），把这首词写在墙上。四十多年前，金兵南下，追赶宋朝的隆祐太后，一直追到造口附近，百姓吃尽苦头。北方的国土也一直没有收回来。辛弃疾站在江边，想起这些往事，写下了这首词。",
+  "en": "In 1176, Xin Qiji was a judicial official in Jiangxi, based in Ganzhou. Passing through Zaokou (in today's Wan'an County, Jiangxi), he wrote this lyric on a wall. More than forty years earlier, the Jin army had swept south. It chased the Song empress dowager Longyou all the way to near Zaokou, and the common people suffered terribly. The northern lands had still not been won back. Standing by the river and remembering all this, Xin Qiji wrote this poem."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他生在被金人占领的北方，年轻时就带兵起义，后来回到南宋。他一辈子都想收复北方，可是朝廷不重用他。他的词大多豪迈有力，也常常带着报国无门的悲愤，和苏轼并称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great lyric poet of the Southern Song. He was born in the north under Jin rule. As a young man he led an uprising and then came over to the Southern Song. All his life he wanted to win back the north, but the court did not give him real power. His lyrics are mostly bold and strong, often with the anger of a man who cannot serve his country. He and Su Shi are named together as \"Su and Xin\"."
+ },
+ "appreciation": {
+  "zh": "上阕从眼前的江水写起。江水本来是清的，词人却说里面流着逃难人的眼泪，一下子把历史的苦难放进了水里。他向西北望长安，可是重重大山挡住了视线，就像收复北方的路被挡住一样。下阕一转：山再多，也挡不住江水向东流。这既是写景，也透出一股不服输的劲头。可是天色已晚，鹧鸪声声，好像在说“走不了啊”，词人的愁又涌了上来。整首词用山和水写心事，不直接喊口号，却让人感到深深的忧愁和爱国的情怀。",
+  "en": "The first stanza starts with the river in front of him. The water is clear, yet the poet says it carries the tears of fleeing people. In one stroke, the suffering of history is poured into the river. He looks northwest toward Chang'an, but mountain after mountain blocks his view, just as the road to winning back the north is blocked. The second stanza turns: however many mountains there are, they cannot stop the river flowing east. This is a scene, but also a stubborn hope. Yet evening comes, and the partridge keeps calling, as if saying \"you cannot go on\". The sorrow rises again. The whole poem speaks through mountains and water. It shouts no slogans, yet we feel deep grief and love for the country."
+ },
+ "famous_lines": [
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "history",
+   "river",
+   "mountain",
+   "sorrow"
+  ]
+ },
+ "uncertain": []
+}

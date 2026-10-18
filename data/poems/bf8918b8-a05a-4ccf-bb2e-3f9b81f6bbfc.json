@@ -1,0 +1,345 @@
+{
+ "id": "bf8918b8-a05a-4ccf-bb2e-3f9b81f6bbfc",
+ "kind": "shi",
+ "title": "渡荆门送别",
+ "title_en": "Crossing Past Jingmen: A Farewell",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "荆",
+    "jīng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "游",
+    "yóu"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "荒",
+    "huāng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "镜",
+    "jìng"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "结",
+    "jié"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "仍",
+    "réng"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料本第七句作“仍连故乡水”。课本作“仍怜故乡水”，“怜”是爱的意思。",
+  "en": "The corpus text has lián meaning to connect in line seven. Textbooks have a different lián, meaning to love."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "渡远：从远处渡江而来。",
+   "en": "dù yuǎn: to come a long way by water."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "荆门：荆门山，在今天湖北宜都西北的长江南岸。过了这里，就出了三峡的山区。",
+   "en": "Jīngmén: Jingmen Mountain, on the south bank of the Yangtze northwest of today's Yidu in Hubei. Past it, the river leaves the gorges and hills behind."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "楚国：古代楚国的地方，大约在今天湖北、湖南一带。",
+   "en": "Chǔ guó: the land of the old state of Chu, roughly today's Hubei and Hunan."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "平野：平坦广阔的原野。",
+   "en": "píng yě: wide flat plains."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "尽：完，没有了。",
+   "en": "jìn: to end, to run out."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "大荒：广阔无边的原野。",
+   "en": "dà huāng: a vast, endless wilderness."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "月下飞天镜：月亮映在江里，好像从天上飞下来一面镜子。",
+   "en": "yuè xià fēi tiān jìng: the moon reflected in the river looks like a mirror flown down from the sky."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "海楼：海市蜃楼。光线弯曲，让空中出现楼台一样的影子。这里形容江上的云很奇妙。",
+   "en": "hǎi lóu: a mirage, when bent light makes towers seem to float in the air. Here it describes the strange shapes of clouds over the river."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 1,
+   "zh": "仍：依然，还是。",
+   "en": "réng: still."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "怜：爱。",
+   "en": "lián: to love, to feel tender toward."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "故乡水：从四川流下来的长江水。诗人从小在蜀地长大，所以叫它故乡水。",
+   "en": "gù xiāng shuǐ: the water of the Yangtze flowing down from Sichuan. The poet grew up in Shu, so he calls it the water of home."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "行舟：远行的船，这里指诗人坐的船。",
+   "en": "xíng zhōu: a boat on a long journey, here the poet's own boat."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我从很远的地方渡江来到荆门外面，",
+   "en": "From far away I sail past Jingmen,"
+  },
+  {
+   "zh": "来到古代楚国的地方游历。",
+   "en": "come to wander the old land of Chu."
+  },
+  {
+   "zh": "群山随着平原的出现渐渐消失了，",
+   "en": "The mountains end as the plains open out;"
+  },
+  {
+   "zh": "长江流进了一望无边的原野。",
+   "en": "the river flows on into the endless wilds."
+  },
+  {
+   "zh": "月亮映在江里，像天上飞下来的镜子；",
+   "en": "The moon in the water is a mirror flown from the sky;"
+  },
+  {
+   "zh": "云彩升起，结成了海市蜃楼一样的奇景。",
+   "en": "clouds rise and build towers like a mirage."
+  },
+  {
+   "zh": "我还是喜爱这来自故乡的江水，",
+   "en": "Still I love this water from my home,"
+  },
+  {
+   "zh": "它不远万里一路送着我的小船。",
+   "en": "which follows my boat ten thousand miles."
+  }
+ ],
+ "background": {
+  "zh": "一般认为，这首诗写于开元十三年（725年）前后。那年李白二十多岁，第一次离开蜀地，坐船顺长江出三峡，经过荆门，往湖北、湖南一带游历。题目叫“送别”，可诗里没有送朋友。一般理解为故乡的江水在送别诗人。清代沈德潜就说过，诗里没有送别的意思，题目里“送别”两个字可以删掉。",
+  "en": "This poem is usually dated to about 725. Li Bai was in his twenties. He left Shu for the first time and sailed down the Yangtze through the Three Gorges, past Jingmen, to travel in Hubei and Hunan. The title says \"farewell\", but no friend is seen off in the poem. It is usually read as the river of home seeing the poet off. The Qing scholar Shen Deqian even said the poem has no farewell in it, and the word could be cut from the title."
+ },
+ "author_note": {
+  "zh": "李白（701—762），字太白，号青莲居士，唐代大诗人，被称为“诗仙”。他从小在蜀地（今四川一带）长大，喜欢游山玩水、结交朋友。他的诗想象大胆，气势豪放，常常写明月、江河和远行。",
+  "en": "Li Bai (701–762), courtesy name Taibai, also called the Lay Buddhist of Green Lotus, was a great Tang poet, known as the Immortal of Poetry. He grew up in Shu, around today's Sichuan. He loved to roam among mountains and rivers and to make friends. His poems are bold and full of wild imagination, often about the moon, rivers and long journeys."
+ },
+ "appreciation": {
+  "zh": "这首诗像一部顺江而下的纪录片。船过荆门，两岸的高山一下子退到后面，眼前是一片大平原，长江奔流进无边的原野。“山随平野尽，江入大荒流”，把景色从窄变宽的那一刻写活了，也能感觉到年轻人走向广阔世界的兴奋。夜里，江中的月亮像天上飞下来的镜子；白天，云彩堆成奇妙的楼阁。最后诗人回头一想：这江水是从家乡流来的，一路陪着我、送着我。兴奋里带着一点对家乡的不舍。",
+  "en": "This poem is like a film shot from a boat going down the river. Past Jingmen, the tall mountains on both banks fall away behind, and a great plain opens ahead. The river rushes on into the endless wilds. The lines about the mountains ending and the river flowing into the wilds catch the very moment the view goes from narrow to wide. We can also feel a young man's thrill at heading out into the big world. At night the moon in the water is like a mirror flown down from the sky. By day the clouds pile up into wondrous towers. At the end the poet looks back. This water came from his home, and it has kept him company all the way. There is a little sadness at leaving home inside the excitement."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "travel",
+   "homesick",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

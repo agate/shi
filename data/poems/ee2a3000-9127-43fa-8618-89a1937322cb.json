@@ -1,0 +1,240 @@
+{
+ "id": "ee2a3000-9127-43fa-8618-89a1937322cb",
+ "kind": "shi",
+ "title": "塞下曲·其三",
+ "title_en": "Frontier Song, No. 3",
+ "author": "卢纶",
+ "author_en": "Lu Lun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "黑",
+    "hēi"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "高",
+    "gāo"
+   ]
+  ],
+  [
+   [
+    "单",
+    "chán"
+   ],
+   [
+    "于",
+    "yú"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "遁",
+    "dùn"
+   ],
+   [
+    "逃",
+    "táo"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "骑",
+    "qí"
+   ],
+   [
+    "逐",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "刀",
+    "dāo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古书里“雁”写作“鴈”，这是同一个字的另一种写法。现在通行的课本写作“雁”。",
+  "en": "Old books write the character for wild goose in a different, older form. It is the same word. Today's textbooks use the standard form."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "单",
+   "pinyin": "chán",
+   "zh": "单于是古代匈奴等民族对首领的称呼，这里的“单”读 chán，不读 dān。",
+   "en": "Chányú was the title of the chief of the Xiongnu and other northern peoples. Here the first character is read chán, not dān."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "骑",
+   "pinyin": "qí",
+   "zh": "骑，这里指骑马的士兵。古代这个意思读 jì，现在统一读 qí。",
+   "en": "Here this character means mounted soldiers. In old times this meaning was read jì; today it is always read qí."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "月黑：没有月光，天很黑。",
+   "en": "yuè hēi: no moonlight, a pitch-dark night."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "单于：匈奴等北方民族首领的称呼，这里指敌人的首领。",
+   "en": "chán yú: the title of a chief of the Xiongnu and other northern peoples; here it means the enemy leader."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "遁逃：偷偷逃跑。",
+   "en": "dùn táo: to slip away, to flee in secret."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 1,
+   "zh": "欲：想要，正要。",
+   "en": "yù: to want to, to be about to."
+  },
+  {
+   "line": 2,
+   "start": 1,
+   "end": 2,
+   "zh": "将：带领。",
+   "en": "jiāng: to lead."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "轻骑：轻装、跑得快的骑兵。",
+   "en": "qīng qí: light cavalry, fast soldiers on horseback carrying little gear."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "逐：追赶。",
+   "en": "zhú: to chase."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "满：落满，盖满。",
+   "en": "mǎn: to cover all over."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "弓刀：弓和刀，指士兵的武器。",
+   "en": "gōng dāo: bows and swords, the soldiers' weapons."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "没有月亮的黑夜里，大雁被惊得高高飞起，",
+   "en": "On a moonless night, the wild geese fly up high,"
+  },
+  {
+   "zh": "原来是敌人的首领趁着夜色偷偷逃跑了。",
+   "en": "for the enemy chief is fleeing in the dark."
+  },
+  {
+   "zh": "将军正要带着轻骑兵去追赶，",
+   "en": "The general is about to lead his light horsemen in pursuit,"
+  },
+  {
+   "zh": "一场大雪已经落满了弓和刀。",
+   "en": "and heavy snow already covers their bows and swords."
+  }
+ ],
+ "background": {
+  "zh": "这是卢纶《和张仆射塞下曲》六首中的第三首。唐朝北方的边疆常有战争。诗里写的是一个下大雪的夜晚，敌人的首领趁黑逃跑，唐朝将士准备去追。诗中的“单于”是借用汉朝时匈奴首领的称呼，用来指当时的敌人。",
+  "en": "This is the third of Lu Lun's six Frontier Songs written in reply to an official named Zhang. In the Tang there was often fighting on the northern frontier. The poem shows a snowy night: the enemy chief flees in the dark, and the Tang soldiers get ready to chase him. Chanyu, the old title of the Xiongnu chiefs in the Han dynasty, is borrowed here to mean the enemy of the poet's own time."
+ },
+ "author_note": {
+  "zh": "卢纶，唐代诗人，“大历十才子”之一，生卒年不能确定，大约生活在八世纪后半期。他在军中做过官，见过边塞的风雪和将士的生活。他的边塞诗写得短小有力，这一首和上一首“林暗草惊风”都被选进了课本。",
+  "en": "Lu Lun was a Tang poet, one of the Ten Talents of the Dali era. His exact dates are not known; he lived in the second half of the eighth century. He served in the army and saw the snow and wind of the frontier and the lives of the soldiers. His frontier poems are short and strong. This one and the one before it, which begins with dark woods and startled grass, are both in school textbooks."
+ },
+ "appreciation": {
+  "zh": "第一句写夜色：没有月亮，天很黑，大雁被惊动，高高飞起。为什么会惊起大雁？第二句告诉我们：原来是敌人的首领趁着夜色偷偷逃跑。第三句，将军马上要带着轻骑兵去追。最后一句没有写追上没有，只写了一个画面：才一会儿工夫，大雪就落满了弓和刀。天那么冷，雪那么大，将士们还是要出发。画面停在出发前的一刻，让人感到寒冷，也感到将士们的勇敢。",
+  "en": "The first line paints the night. There is no moon, it is very dark, and the wild geese are startled into the sky. Why are they startled? The second line tells us: the enemy chief is sneaking away in the dark. In the third line, the general is about to lead his light horsemen after him. The last line does not say whether they catch him. It gives one picture: in no time, heavy snow covers their bows and swords. It is so cold and the snow is so thick, yet the soldiers will still ride out. The picture stops just before they set off. We feel the cold, and we feel their courage."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "snow",
+   "war",
+   "night",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

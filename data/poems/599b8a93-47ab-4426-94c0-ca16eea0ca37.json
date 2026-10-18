@@ -1,0 +1,262 @@
+{
+ "id": "599b8a93-47ab-4426-94c0-ca16eea0ca37",
+ "kind": "shi",
+ "title": "回乡偶书",
+ "title_en": "Written on Returning Home",
+ "author": "贺知章",
+ "author_en": "He Zhizhang",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ],
+  [
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "音",
+    "yīn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "改",
+    "gǎi"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "毛",
+    "máo"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ]
+  ],
+  [
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "童",
+    "tóng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "识",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本第二句作“乡音难改鬓毛衰”，现在课本和通行本作“乡音无改鬓毛衰”，这里按课本。原题是《回乡偶书二首》，这是第一首。",
+  "en": "In the source text, the second line has nan gai (hard to change). Today's textbooks and most editions have wu gai (has not changed), which is used here. The original title is \"Two Poems Written on Returning Home\"; this is the first one."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "少，这里读 shào，意思是年轻，不读 shǎo（多少的少）。",
+   "en": "Here it is read shào, meaning young, not shǎo (few)."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "衰",
+   "pinyin": "shuāi",
+   "zh": "现在课本读 shuāi，意思是变少、变稀。过去不少人读 cuī，因为古音和“回、来”押韵。",
+   "en": "Today's textbooks read it shuāi, meaning thinning out. In the past many people read it cuī, because in old pronunciation it rhymed with huí and lái."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "少小：年纪小的时候。",
+   "en": "shào xiǎo: when he was young."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "老大：年纪大了，老了。",
+   "en": "lǎo dà: when he had grown old."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "乡音：家乡的口音，家乡话。",
+   "en": "xiāng yīn: the accent of one's home town."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "无改：没有改变。",
+   "en": "wú gǎi: has not changed."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "鬓毛：脸两边靠近耳朵的头发。衰：变少、变稀疏。",
+   "en": "bìn máo: the hair at the temples, beside the ears. shuāi: grown thin and sparse."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "相见不相识：见到了我，却不认识我。",
+   "en": "xiāng jiàn bù xiāng shí: they see me but do not know who I am."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "客：客人，外地来的人。这里孩子们把诗人当成了客人。",
+   "en": "kè: a guest, someone from elsewhere. The children take the poet for a visitor."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "何处：哪里。",
+   "en": "hé chù: where."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我年轻时离开家乡，到老了才回来。",
+   "en": "I left home when I was young, and came back only when I was old."
+  },
+  {
+   "zh": "家乡口音没有变，鬓角的头发却已经稀疏了。",
+   "en": "My home-town accent has not changed, but the hair at my temples has grown thin."
+  },
+  {
+   "zh": "村里的孩子看见我，没有一个认识我。",
+   "en": "The village children see me, and none of them know who I am."
+  },
+  {
+   "zh": "他们笑着问：客人，您是从哪里来的呀？",
+   "en": "They smile and ask: \"Sir, where have you come from?\""
+  }
+ ],
+ "background": {
+  "zh": "唐玄宗天宝三载（744年），贺知章已经八十多岁了。他辞去官职，回到老家越州永兴（今浙江杭州萧山）。他年轻时离开家，在长安做官将近五十年，这次终于回来了。题目里的“偶书”，就是随手写下来的意思。回到家乡，他看到了熟悉又陌生的一切，写下了这两首诗。",
+  "en": "In 744, He Zhizhang was over eighty years old. He gave up his post and went back to his home town, Yongxing in Yuezhou (today's Xiaoshan in Hangzhou, Zhejiang). He had left home young and served as an official in Chang'an for nearly fifty years. Now at last he came back. The word ou shu in the title means \"written down on a whim\". At home he found everything both familiar and strange, and he wrote these two poems."
+ },
+ "author_note": {
+  "zh": "贺知章（659—744），唐代诗人，性格豪放，爱喝酒，自称“四明狂客”。他很欣赏李白，传说是他把李白称作“谪仙人”（从天上被贬到人间的仙人）。他留下的诗不多，但这首诗和《咏柳》流传很广。",
+  "en": "He Zhizhang (659–744) was a Tang poet. He was bold and free and loved wine, and called himself the Wild Guest of Siming. He admired Li Bai, and legend says it was he who called Li Bai \"an immortal banished from heaven\". Few of his poems survive, but this one and \"Ode to the Willow\" are known everywhere."
+ },
+ "appreciation": {
+  "zh": "前两句很平淡，像在说自己的事：小时候走，老了回；口音没变，头发白了。“没变”和“变了”放在一起，几十年的时间一下子就出来了。后两句画面很有趣：孩子们围过来，笑着问老爷爷从哪里来。孩子是天真的，诗人心里却五味杂陈。明明这里是自己的家，自己却成了“客人”。诗里没写一个“愁”字，可是那份感慨，读的人都能感觉到。",
+  "en": "The first two lines sound plain, like a man talking about himself. He left young and came back old. His accent did not change, but his hair turned white. Putting \"unchanged\" next to \"changed\" shows decades passing in a moment. The last two lines paint a funny scene. Children gather round and cheerfully ask the old man where he is from. The children are innocent, but the poet feels many things at once. This is his own home, yet he has become a \"guest\". The poem never says the word sad, but every reader can feel the sigh in it."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homecoming",
+   "old-age",
+   "time",
+   "children"
+  ]
+ },
+ "uncertain": []
+}

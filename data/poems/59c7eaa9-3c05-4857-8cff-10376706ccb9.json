@@ -1,0 +1,374 @@
+{
+ "id": "59c7eaa9-3c05-4857-8cff-10376706ccb9",
+ "kind": "shi",
+ "title": "月夜",
+ "title_en": "Moonlit Night",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "鄜",
+    "fū"
+   ],
+   [
+    "州",
+    "zhōu"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "闺",
+    "guī"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "看",
+    "kān"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "女",
+    "nǚ"
+   ]
+  ],
+  [
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ]
+  ],
+  [
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "鬟",
+    "huán"
+   ],
+   [
+    "湿",
+    "shī"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "辉",
+    "huī"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "臂",
+    "bì"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "虚",
+    "xū"
+   ],
+   [
+    "幌",
+    "huǎng"
+   ]
+  ],
+  [
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "痕",
+    "hén"
+   ],
+   [
+    "干",
+    "gān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "看",
+   "pinyin": "kān",
+   "zh": "这里读 kān，是“看、望”的意思。古诗里它读平声，和“安、寒、干”押韵。",
+   "en": "Read kān here, meaning to look at. In old poetry it is a level tone, so it rhymes with ān, hán and gān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "鄜州：地名，在今天陕西富县。杜甫的妻子和孩子当时住在这里。",
+   "en": "fū zhōu: Fuzhou, a place in today's Fu County, Shaanxi. Du Fu's wife and children were living there."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "闺中：女子住的内室，这里指杜甫的妻子。",
+   "en": "guī zhōng: the women's rooms of a house. Here it means Du Fu's wife."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "只独看：只能一个人看。",
+   "en": "zhǐ dú kān: can only watch it alone."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "遥怜：在远方心疼、挂念。怜，疼爱。",
+   "en": "yáo lián: to feel for someone from far away. Lián means to love and pity."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "小儿女：年纪很小的儿女。",
+   "en": "xiǎo ér nǚ: the young sons and daughters."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "未解：还不懂得。解，懂得、明白。",
+   "en": "wèi jiě: do not yet understand. Jiě means to understand."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "忆长安：思念长安，也就是思念在长安的父亲。",
+   "en": "yì cháng ān: missing Chang'an, that is, missing the father who is there."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "香雾：夜里的雾气。因为沾着她头发上的香味，所以说“香”。",
+   "en": "xiāng wù: the night mist. It is called fragrant because it touches her scented hair."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "云鬟：像云一样乌黑浓密的发髻。",
+   "en": "yún huán: hair piled up in a bun, dark and thick like a cloud."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "清辉：清冷明亮的月光。",
+   "en": "qīng huī: the clear, cool moonlight."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "玉臂：像玉一样洁白的手臂。",
+   "en": "yù bì: arms as white as jade."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "倚：靠着。",
+   "en": "yǐ: to lean on."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "虚幌：薄而透光的帘幕。幌，帘子、帷幔。",
+   "en": "xū huǎng: a thin curtain the light shines through."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "双照：月光同时照着两个人，意思是夫妻团聚。",
+   "en": "shuāng zhào: the moon shining on both of them, meaning husband and wife are together again."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "泪痕干：脸上的泪痕被照干，意思是不再流泪。",
+   "en": "lèi hén gān: the tear stains are dried by the moonlight, meaning no more crying."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "今夜鄜州的月亮，",
+   "en": "Tonight, the moon over Fuzhou:"
+  },
+  {
+   "zh": "我的妻子只能在房里独自一个人看。",
+   "en": "my wife can only watch it alone in her room."
+  },
+  {
+   "zh": "在远方，我心疼我那几个年幼的儿女，",
+   "en": "Far away, my heart goes out to my little children,"
+  },
+  {
+   "zh": "他们还不懂得妈妈为什么思念长安的父亲。",
+   "en": "who are too young to understand why their mother longs for their father in Chang'an."
+  },
+  {
+   "zh": "夜雾打湿了她的发髻，",
+   "en": "The night mist dampens her hair,"
+  },
+  {
+   "zh": "清冷的月光让她洁白的手臂感到寒冷。",
+   "en": "and the cold moonlight chills her white arms."
+  },
+  {
+   "zh": "什么时候我们才能一起靠在薄薄的帘幕旁，",
+   "en": "When can we lean together by the thin curtain,"
+  },
+  {
+   "zh": "让月光照干我们两人脸上的泪痕？",
+   "en": "and let the moon shine on both of us until our tears are dry?"
+  }
+ ],
+ "background": {
+  "zh": "天宝十五载（756年），安史之乱（安禄山、史思明发动的叛乱）中，叛军攻进了长安。杜甫把家人安顿在鄜州的羌村，自己去投奔刚刚即位的唐肃宗，半路上被叛军抓住，押到了长安。这年秋天的一个夜晚，他在长安望着月亮，想念远方的妻子和孩子，写下了这首诗。",
+  "en": "In 756, during the An Lushan Rebellion (a revolt led by the generals An Lushan and Shi Siming), rebel troops took Chang'an. Du Fu left his family in Qiang Village near Fuzhou and set off to join the new emperor, Suzong. On the way he was caught by the rebels and taken to Chang'an. One autumn night that year, looking at the moon in Chang'an, he missed his wife and children far away and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他的诗写尽了战乱中百姓和家人的苦难。这首诗写的是他和妻子之间的深情，在他的诗里很少见，也特别动人。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. His poems tell of the suffering of ordinary people and families in times of war. This one, about the love between him and his wife, is rare among his poems and very moving."
+ },
+ "appreciation": {
+  "zh": "这首诗最巧的地方，是明明杜甫自己在长安想念妻子，却不直接说，而是想象妻子在鄜州看月亮想念他。孩子太小，还不懂得想爸爸，所以妻子只能“独看”，这让她更孤单。接着他想象妻子站了很久，夜雾打湿了头发，月光冷透了手臂。最后他盼望有一天两人一起靠在帘边看月，那时流的就不是伤心的泪了。从“独看”到“双照”，一个“独”，一个“双”，把分离的痛苦和团聚的盼望都写了出来。",
+  "en": "The clever thing about this poem is that Du Fu is the one missing his wife in Chang'an, but he does not say so. Instead he imagines his wife in Fuzhou looking at the moon and missing him. The children are too young to understand, so she has to watch alone, which makes her even lonelier. Then he pictures her standing there for a long time: the mist dampens her hair, and the moonlight chills her arms. At the end he hopes that one day they will lean by the curtain together, and the tears will dry. From \"alone\" at the start to \"both\" at the end, the poem holds both the pain of being apart and the hope of being together again."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "family",
+   "war",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

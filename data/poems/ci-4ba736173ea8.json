@@ -1,0 +1,446 @@
+{
+ "id": "ci-4ba736173ea8",
+ "kind": "ci",
+ "title": "鹧鸪天·彩袖殷勤捧玉钟",
+ "title_en": "Partridge Sky: Bright Sleeves Gently Held Up the Jade Cup",
+ "author": "晏几道",
+ "author_en": "Yan Jidao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "袖",
+    "xiù"
+   ],
+   [
+    "殷",
+    "yīn"
+   ],
+   [
+    "勤",
+    "qín"
+   ],
+   [
+    "捧",
+    "pěng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ]
+  ],
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "拚",
+    "pàn"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "颜",
+    "yán"
+   ],
+   [
+    "红",
+    "hóng"
+   ]
+  ],
+  [
+   [
+    "舞",
+    "wǔ"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "歌",
+    "gē"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ]
+  ],
+  [
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "同",
+    "tóng"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "剩",
+    "shèng"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "釭",
+    "gāng"
+   ],
+   [
+    "照",
+    "zhào"
+   ]
+  ],
+  [
+   [
+    "犹",
+    "yóu"
+   ],
+   [
+    "恐",
+    "kǒng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "通行本作“玉钟”“拚却”。这里的底本作“玉锺”“拼却”，“锺”是繁简转换留下的字形，“拼”是“拚”的错字或异写。",
+  "en": "The commonly taught text writes the cup as yù zhōng with the simple form of the character, and the second line has pàn què with the character meaning to risk everything. The source text uses an older form of zhōng left over from conversion, and a similar-looking character usually read pīn instead of pàn."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "拚",
+   "pinyin": "pàn",
+   "zh": "拚，这里是“豁出去、不顾惜”的意思，读 pàn。",
+   "en": "This character means to risk everything, not caring what happens; here it is read pàn."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "剩",
+   "pinyin": "shèng",
+   "zh": "“剩把”的“剩”意思同“尽”，是只管、尽管的意思，一般仍读 shèng。一说它是“尽”的通假字，应读 jìn。",
+   "en": "Here shèng means the same as jìn, to go on and on. It is usually still read shèng. Some say it stands in for jìn and should be read jìn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "彩袖：彩色的衣袖，这里指穿着漂亮衣服的歌女。",
+   "en": "cǎi xiù: bright-coloured sleeves, meaning the singing girl in her fine clothes."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "殷勤：热情周到。",
+   "en": "yīn qín: warmly and attentively."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "捧玉钟：双手捧着精美的酒杯。玉钟，玉做的或像玉一样好看的酒杯。",
+   "en": "pěng yù zhōng: holding up a fine wine cup with both hands. Yù zhōng is a cup of jade, or one as lovely as jade."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "拚却：豁出去，不顾一切。",
+   "en": "pàn què: to throw caution to the wind, not caring what happens."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "醉颜红：喝醉了，脸都红了。",
+   "en": "zuì yán hóng: so drunk that the face turns red."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 7,
+   "zh": "舞低杨柳楼心月：跳舞一直跳到挂在楼头柳梢的月亮都落下去了，形容跳了一整夜。",
+   "en": "wǔ dī yáng liǔ lóu xīn yuè: dancing until the moon above the tower and the willows sank low, that is, dancing all night."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 7,
+   "zh": "歌尽桃花扇影风：唱歌唱到手里画着桃花的扇子都扇不动了，形容唱了很久很久。一说“桃花扇”是唱歌时拿的扇子。",
+   "en": "gē jìn táo huā shàn yǐng fēng: singing until the fan painted with peach blossoms could stir no more breeze, that is, singing for a very long time. Singers held such fans while they sang."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "忆相逢：回想当初相见的时候。",
+   "en": "yì xiāng féng: remembering the time we met."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "几回：多少次。",
+   "en": "jǐ huí: how many times."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 7,
+   "zh": "魂梦与君同：在梦里和你在一起。君，你。",
+   "en": "hún mèng yǔ jūn tóng: being with you in my dreams. Jūn means you."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "今宵：今天晚上。",
+   "en": "jīn xiāo: tonight."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "剩把：尽管拿着，一直拿着。剩，通“尽”，只管。",
+   "en": "shèng bǎ: keep holding. Shèng here means to go on and on, as much as one likes."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "银釭：银色的灯。",
+   "en": "yín gāng: a silver lamp."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "犹恐：还是害怕。",
+   "en": "yóu kǒng: still afraid that."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "当年你穿着彩衣，热情地捧着酒杯劝我喝酒，",
+   "en": "Back then, in your bright sleeves, you warmly held up the jade cup for me,"
+  },
+  {
+   "zh": "我也不顾一切，喝得满脸通红。",
+   "en": "and I drank without a care until my face was red."
+  },
+  {
+   "zh": "你跳舞，一直跳到楼头柳梢的月亮落下，",
+   "en": "You danced until the moon above the tower and the willows sank low,"
+  },
+  {
+   "zh": "你唱歌，一直唱到桃花扇再也扇不起风。",
+   "en": "and sang until your peach-blossom fan could stir no more breeze."
+  },
+  {
+   "zh": "自从分别以后，",
+   "en": "Ever since we parted,"
+  },
+  {
+   "zh": "我总是想起我们相见的时候，",
+   "en": "I have thought back to our meeting,"
+  },
+  {
+   "zh": "多少次在梦里和你在一起。",
+   "en": "and how many times I have been with you in my dreams."
+  },
+  {
+   "zh": "今天晚上，我一直举着银灯照着你，",
+   "en": "Tonight I keep holding up the silver lamp to look at you,"
+  },
+  {
+   "zh": "还是害怕这次相见又是在梦里。",
+   "en": "still afraid that this meeting is only another dream."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是词人和一位歌女分别多年后又见面的情景。上半首回忆当年在宴会上她唱歌跳舞、劝酒的热闹，下半首写分别后的想念和今晚重逢的惊喜。这位歌女是谁、写于哪一年，都已经不清楚了。",
+  "en": "This lyric is about the poet meeting a singing girl again after many years apart. The first half remembers a lively banquet long ago, where she sang, danced and poured him wine. The second half tells of missing her after they parted, and his joy at seeing her again tonight. We no longer know who she was or in which year it was written."
+ },
+ "author_note": {
+  "zh": "晏几道（约1038—约1110），字叔原，号小山，北宋词人，是宰相晏殊的小儿子。他出身富贵，后来家道中落，一生不得志。他常常回忆年轻时宴会上的欢乐，词写得深情、伤感。人们把他和父亲并称“二晏”。",
+  "en": "Yan Jidao (about 1038–about 1110), also called Xiaoshan, was a Northern Song poet and the youngest son of the chancellor Yan Shu. He grew up rich, but his family later lost its fortune and he never did well in office. He often remembered the happy banquets of his youth, and his lyrics are full of deep, sad feeling. He and his father are called the Two Yans."
+ },
+ "appreciation": {
+  "zh": "上半首像一场热闹的回忆：她热情劝酒，他喝得脸红；她跳舞跳到月亮落下，唱歌唱到扇子扇不动风。“舞低”“歌尽”两句写出了通宵达旦的欢乐，画面又美又响亮。下半首一下子安静下来：分别以后，只能在梦里相见。最后两句写今晚真的见了面，他却拿着灯一照再照，生怕这又是一场梦。想念得太久，真的见到了反而不敢相信。这种又惊又喜又怕的心情，写得非常真切。",
+  "en": "The first half is like a lively memory. She warmly pours him wine, and he drinks until his face is red. She dances until the moon goes down, and sings until her fan can stir no breeze. These two lines show joy that lasts all night, a picture both beautiful and full of sound. Then the second half grows quiet. After they parted, he could only meet her in dreams. In the last two lines they really have met again tonight. Yet he holds up the lamp and looks again and again, afraid it is only another dream. He has missed her so long that he cannot believe she is really there. This mix of surprise, joy and fear feels very true."
+ },
+ "famous_lines": [
+  2,
+  3,
+  7,
+  8
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "reunion",
+   "dream",
+   "memory"
+  ]
+ },
+ "uncertain": []
+}

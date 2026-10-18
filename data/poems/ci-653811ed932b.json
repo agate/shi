@@ -1,0 +1,403 @@
+{
+ "id": "ci-653811ed932b",
+ "kind": "ci",
+ "title": "诉衷情·当年万里觅封侯",
+ "title_en": "Su Zhong Qing: Years Ago I Rode Ten Thousand Miles to Win a Title",
+ "author": "陆游",
+ "author_en": "Lu You",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《诉衷情》，双调四十四字",
+  "en": "ci to the tune Su Zhong Qing, 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "觅",
+    "mì"
+   ],
+   [
+    "封",
+    "fēng"
+   ],
+   [
+    "侯",
+    "hóu"
+   ]
+  ],
+  [
+   [
+    "匹",
+    "pǐ"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "戍",
+    "shù"
+   ],
+   [
+    "梁",
+    "liáng"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "貂",
+    "diāo"
+   ],
+   [
+    "裘",
+    "qiú"
+   ]
+  ],
+  [
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "灭",
+    "miè"
+   ]
+  ],
+  [
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "先",
+    "xiān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "料",
+    "liào"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "“谁”有 shuí 和 shéi 两个读音，意思一样。读诗时常读 shuí。",
+   "en": "This character has two readings, shuí and shéi, with the same meaning. In poems it is often read shuí."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "当年：那些年，指陆游年轻时去前线的时候。",
+   "en": "dāng nián: in those years, when Lu You went to the front as a younger man."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "觅封侯：寻找立功封侯的机会。封侯，因为立了大功被皇帝封为侯爵，意思是为国家建功立业。",
+   "en": "mì fēng hóu: to seek a chance to be made a lord. In old times a person who did great deeds in war could be given a noble title. It means to do great things for the country."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "匹马：一个人骑着一匹马，形容一个人奔赴远方。",
+   "en": "pǐ mǎ: a single horse, that is, riding off alone to a faraway place."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "戍：守卫边疆。",
+   "en": "shù: to guard the border."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "梁州：古代地名。这里指南郑（今陕西汉中），当时是南宋和金国对峙的前线。",
+   "en": "liáng zhōu: an old place name. Here it means Nanzheng (today's Hanzhong in Shaanxi), then on the front line between the Song and the Jin."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "关河：关口和河流，泛指边疆前线。",
+   "en": "guān hé: mountain passes and rivers, meaning the frontier."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "梦断：梦醒了。陆游常常梦见自己回到前线。",
+   "en": "mèng duàn: the dream breaks off, he wakes up. Lu You often dreamed he was back at the front."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "何处：在哪里。",
+   "en": "hé chù: where?"
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "尘暗旧貂裘：当年穿过的貂皮衣服落满灰尘，颜色都暗了。意思是很久没有上战场了。战国时苏秦的黑貂裘穿破了还没成功，这里暗用这个故事。",
+   "en": "chén àn jiù diāo qiú: the old sable coat he wore back then is covered in dust and has lost its color. He has not been to war for a long time. It also hints at an old story: Su Qin of the Warring States wore out his black sable coat without success."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 1,
+   "zh": "胡：古代对北方民族的称呼，这里指占领北方的金人。",
+   "en": "hú: an old word for northern peoples. Here it means the Jin, who held the north."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "鬓先秋：鬓角的头发已经白了，像秋天的霜一样。鬓，耳朵前面的头发。",
+   "en": "bìn xiān qiū: the hair by his ears has already turned white, like autumn frost. Bìn is the hair in front of the ears."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 2,
+   "zh": "空：白白地。",
+   "en": "kōng: in vain, for nothing."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "谁料：谁能想到。",
+   "en": "shuí liào: who would have thought."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "天山：在今新疆，汉唐时是边塞前线。这里代指抗金的前线。",
+   "en": "tiān shān: the Tian Mountains in today's Xinjiang, a frontier in Han and Tang times. Here it stands for the front line against the Jin."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "沧洲：水边的地方，古人常用来指隐居的地方。这里指陆游晚年在家乡山阴（今浙江绍兴）闲住的镜湖边。",
+   "en": "cāng zhōu: a place by the water, often used for where hermits live. Here it means the lakeside near his home in Shanyin (today's Shaoxing, Zhejiang), where he lived out his old age."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "当年我奔赴万里之外，想要立功封侯，",
+   "en": "Years ago I went ten thousand miles to win glory and a title;"
+  },
+  {
+   "zh": "独自骑马去守卫梁州前线。",
+   "en": "alone on my horse I guarded the front at Liangzhou."
+  },
+  {
+   "zh": "如今梦醒了，边关河山在哪里？",
+   "en": "Now I wake from my dream. Where are the frontier passes and rivers?"
+  },
+  {
+   "zh": "当年的貂皮衣早已落满灰尘。",
+   "en": "My old sable coat has long gathered dust."
+  },
+  {
+   "zh": "金人还没有消灭，",
+   "en": "The enemy is not yet defeated,"
+  },
+  {
+   "zh": "我的鬓发却已经白了，",
+   "en": "but my hair has already turned white like autumn frost,"
+  },
+  {
+   "zh": "只能白白地流泪。",
+   "en": "and my tears fall in vain."
+  },
+  {
+   "zh": "这辈子谁能想到，",
+   "en": "Who would have thought, in this life,"
+  },
+  {
+   "zh": "我的心还在抗敌的前线，",
+   "en": "my heart would still be at the front,"
+  },
+  {
+   "zh": "身体却在水边一天天老去。",
+   "en": "while my body grows old by the water at home."
+  }
+ ],
+ "background": {
+  "zh": "宋孝宗乾道八年（1172年），陆游到南郑（今陕西汉中）的军队里做幕僚，亲自到前线，这是他一生最难忘的日子，可是只过了大约大半年就被调走了。晚年他回到家乡山阴（今浙江绍兴），长期闲居。这首词就是他闲居时回忆从军往事写的，具体年份说法不一。",
+  "en": "In 1172, Lu You joined the army staff at Nanzheng (today's Hanzhong, Shaanxi) and went to the front himself. It was the time of his life he remembered most. But after less than a year he was sent elsewhere. In old age he went home to Shanyin (today's Shaoxing, Zhejiang) and lived there for many years without office. He wrote this lyric in those years, looking back on his army days. The exact year is not agreed on."
+ },
+ "author_note": {
+  "zh": "陆游（1125—1210），号放翁，南宋大诗人。他从小经历战乱，一生最大的心愿就是收复被金人占领的北方。可是朝廷大多想求和，他的志向没能实现。他留下九千多首诗，还有不少词，很多都写到报国的心愿和壮志难酬的悲愤。",
+  "en": "Lu You (1125–1210), also called Fangweng, was a great poet of the Southern Song. He lived through war as a child. His greatest wish all his life was to win back the north from the Jin. But the court mostly wanted peace, and his dream never came true. He left more than nine thousand poems and many lyrics. Many speak of his wish to serve the country and his grief that it could not be done."
+ },
+ "appreciation": {
+  "zh": "上阕是回忆和对比。当年一个人骑马去前线，多么意气风发；如今只能在梦里回去，醒来什么都没有，只有一件落满灰尘的旧貂裘。这件衣服就像他被搁置的理想。下阕三个三字短句，一句比一句沉重：敌人还在，头发白了，眼泪白流。最后三句是一生的总结：心在天山前线，身体却老在水边。一个“心”，一个“身”，分在两个地方，把一个老英雄的不甘心写得清清楚楚，让人读了心里发酸。",
+  "en": "The first stanza remembers and compares. Back then he rode alone to the front, full of fire. Now he can only go back in dreams. When he wakes there is nothing, only an old sable coat covered in dust. The coat is like his dream, put away and forgotten. The second stanza has three short lines of three characters, each heavier than the last: the enemy is still there, his hair is white, his tears fall for nothing. The last three lines sum up his whole life. His heart is at the front far away, but his body grows old by the water at home. Heart in one place, body in another. It shows clearly how an old hero cannot accept his fate, and it makes the reader's heart ache."
+ },
+ "famous_lines": [
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "war",
+   "old-age",
+   "regret"
+  ]
+ },
+ "uncertain": []
+}

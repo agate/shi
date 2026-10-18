@@ -1,0 +1,495 @@
+{
+ "id": "ci-d7b0fef7b2b6",
+ "kind": "ci",
+ "title": "鹊桥仙·纤云弄巧",
+ "title_en": "Immortals at the Magpie Bridge: Wispy Clouds Weave Their Patterns",
+ "author": "秦观",
+ "author_en": "Qin Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "纤",
+    "xiān"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "弄",
+    "nòng"
+   ],
+   [
+    "巧",
+    "qiǎo"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "恨",
+    "hèn"
+   ]
+  ],
+  [
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "逢",
+    "féng"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "柔",
+    "róu"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "忍",
+    "rěn"
+   ],
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "鹊",
+    "què"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "久",
+    "jiǔ"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "通行本最后一段作“两情若是久长时”，这里的底本作“长久时”，意思相同。",
+  "en": "The commonly taught text has jiǔ cháng shí (long-lasting) in the ninth line; the source text has the two characters the other way round, cháng jiǔ shí. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "又",
+   "pinyin": "yòu",
+   "zh": "朝朝暮暮的“朝”是早晨的意思，读 zhāo，不读 cháo。",
+   "en": "In zhāo zhāo mù mù, this character means morning, so it is read zhāo, not cháo."
+  },
+  {
+   "line": 9,
+   "pos": 1,
+   "char": "岂",
+   "pinyin": "qǐ",
+   "zh": "同上，读 zhāo。",
+   "en": "Same as before: read zhāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "纤云：又细又薄的云。",
+   "en": "xiān yún: thin, wispy clouds."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "弄巧：变出各种巧妙的花样。传说织女手很巧，会织彩云。",
+   "en": "nòng qiǎo: to make clever patterns. In the legend, the Weaver Girl is very skilful and weaves the coloured clouds."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "飞星：天上的星星，一说指流星，一说指牛郎星和织女星。",
+   "en": "fēi xīng: stars in the sky. Some say shooting stars; others say the Cowherd star and the Weaver Girl star."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "传恨：传递分别的愁苦。",
+   "en": "chuán hèn: to carry the sorrow of being apart."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "银汉：银河。",
+   "en": "yín hàn: the Silver River, that is, the Milky Way."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "迢迢：很远很远的样子。",
+   "en": "tiáo tiáo: very, very far."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "暗度：悄悄地渡过。传说七月初七的夜里，织女悄悄渡过银河去和牛郎相会。",
+   "en": "àn dù: to cross quietly in the dark. In the legend, on the night of the seventh day of the seventh month, the Weaver Girl quietly crosses the Milky Way to meet the Cowherd."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "金风玉露：秋风和白露，指七夕这个秋天的夜晚。古人把秋天和“金”相配，所以叫秋风为金风。",
+   "en": "jīn fēng yù lù: the autumn wind and the white dew, meaning the autumn night of Qixi. In old Chinese thought autumn goes with metal, so the autumn wind is called the golden wind."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "一相逢：一旦见了面。",
+   "en": "yì xiāng féng: once they meet."
+  },
+  {
+   "line": 4,
+   "start": 1,
+   "end": 3,
+   "zh": "胜却：胜过。却，用在动词后面，没有实在意思。",
+   "en": "shèng què: to be better than. Què after a verb adds no real meaning here."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 7,
+   "zh": "人间无数：人间无数对天天在一起的夫妻。",
+   "en": "rén jiān wú shù: the countless couples in the human world who are together every day."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "柔情似水：温柔的情意像水一样。",
+   "en": "róu qíng sì shuǐ: tender love, soft as water."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "佳期：美好的相会的日子。",
+   "en": "jiā qī: the happy day of meeting."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "忍顾：怎么忍心回头看。",
+   "en": "rěn gù: how can they bear to look back."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "鹊桥：传说七夕这天，喜鹊在银河上搭成一座桥，让牛郎织女相会。",
+   "en": "què qiáo: the magpie bridge. On Qixi, the legend says, magpies form a bridge across the Milky Way so the two lovers can meet."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "两情：两个人的感情。",
+   "en": "liǎng qíng: the love between two people."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "久长：长长久久。",
+   "en": "jiǔ cháng: lasting a long, long time."
+  },
+  {
+   "line": 9,
+   "start": 1,
+   "end": 3,
+   "zh": "岂在：哪里在于，何必在乎。",
+   "en": "qǐ zài: why should it depend on."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 7,
+   "zh": "朝朝暮暮：每天早上和晚上，指天天在一起。",
+   "en": "zhāo zhāo mù mù: every morning and every evening, that is, being together every day."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "薄薄的云彩变出各种巧妙的花样，",
+   "en": "Wispy clouds weave clever patterns,"
+  },
+  {
+   "zh": "天上的星星传递着分别的愁苦，",
+   "en": "the stars carry the sorrow of being apart,"
+  },
+  {
+   "zh": "织女悄悄渡过遥远的银河。",
+   "en": "and quietly she crosses the far Milky Way."
+  },
+  {
+   "zh": "在这秋风白露的夜里见上一面，",
+   "en": "One meeting on this night of autumn wind and white dew"
+  },
+  {
+   "zh": "就胜过人间无数次的相聚。",
+   "en": "is worth more than countless meetings in the human world."
+  },
+  {
+   "zh": "温柔的情意像水一样，",
+   "en": "Their tender love is soft as water,"
+  },
+  {
+   "zh": "美好的相会像梦一样短，",
+   "en": "and the happy meeting passes like a dream."
+  },
+  {
+   "zh": "怎么忍心回头看那鹊桥上回去的路。",
+   "en": "How can they bear to look back at the magpie bridge, the road home?"
+  },
+  {
+   "zh": "两个人的感情如果能长长久久，",
+   "en": "If the love between two people lasts for ever,"
+  },
+  {
+   "zh": "又何必天天早晚都在一起呢？",
+   "en": "why must they be together every morning and every night?"
+  }
+ ],
+ "background": {
+  "zh": "这首词借牛郎织女的传说写爱情。传说牛郎和织女被银河隔开，只有每年七月初七，喜鹊搭起桥，他们才能见一面。这一天就是七夕。这首词具体写于哪一年，已经说不清楚。",
+  "en": "This lyric uses the legend of the Cowherd and the Weaver Girl to write about love. In the legend, the two lovers are kept apart by the Milky Way. Only once a year, on the seventh day of the seventh month, do magpies build a bridge so they can meet. That day is Qixi. We no longer know in which year this lyric was written."
+ },
+ "author_note": {
+  "zh": "秦观（1049—1100），字少游，北宋词人，是苏轼的学生，“苏门四学士”之一。他的词温柔细腻，多写爱情和离别，是婉约派（风格柔美、含蓄的一派词人）的代表。这首词是他最有名的作品之一。",
+  "en": "Qin Guan (1049–1100), also called Qin Shaoyou, was a Northern Song poet and a student of Su Shi, one of the Four Scholars of Su's school. His lyrics are gentle and delicate, often about love and parting. He is a leading poet of the graceful school, poets who wrote in a soft, quiet style. This is one of his best-known lyrics."
+ },
+ "appreciation": {
+  "zh": "词的上半首写七夕夜空：细云变着花样，星星闪着愁光，织女悄悄过河。一年只见一次，听起来很可怜，可词人却说：这一次相见，比人间无数次相聚还珍贵。下半首写相会太短，像梦一样，回去的时候都不忍心回头。最后两句一下子把悲伤翻了过来：真正的爱如果长长久久，又何必天天黏在一起？别的七夕诗大多写牛郎织女的苦，这首词却写出了爱的坚定和豁达，所以千百年来被人反复传诵。",
+  "en": "The first half shows the Qixi night sky. Thin clouds change their patterns, stars shine with sorrow, and the Weaver Girl quietly crosses the river. Meeting only once a year sounds sad. But the poet says this one meeting is worth more than countless meetings on earth. The second half says the meeting is short, like a dream, and on the way back they cannot bear to look behind them. Then the last two lines turn the sadness around. If love truly lasts for ever, why must two people be side by side every day? Most Qixi poems dwell on the lovers' pain. This one shows love that is firm and open-hearted, and that is why people have loved it for a thousand years."
+ },
+ "famous_lines": [
+  3,
+  4,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "qixi"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "legend",
+   "stars",
+   "parting"
+  ]
+ },
+ "uncertain": []
+}

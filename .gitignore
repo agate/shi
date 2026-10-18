@@ -4,3 +4,7 @@ dist/
 build/
 .env
 .env.*
+.venv/
+data/raw/
+data/build/
+__pycache__/

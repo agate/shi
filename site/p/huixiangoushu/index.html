@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>回乡偶书 · 贺知章 — 诗</title>
+    <meta name="description" content="回乡偶书 · 贺知章 — Written on Returning Home by He Zhizhang: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 39 · Tang poem · seven-character quatrain</span><span lang="zh">第 39 首 · 唐诗 · 七言绝句</span></p>
+        <h1>回乡偶书</h1>
+        <p class="by">贺知章<span class="mono"><span lang="en">He Zhizhang · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Written on Returning Home</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl rd" data-l="0" data-p="0"><i>shào</i><b>少</b></span><span class="c gl" data-l="0" data-p="1"><i>xiǎo</i><b>小</b></span><span class="c" data-l="0" data-p="2"><i>lí</i><b>离</b></span><span class="c" data-l="0" data-p="3"><i>jiā</i><b>家</b></span><span class="c gl" data-l="0" data-p="4"><i>lǎo</i><b>老</b></span><span class="c gl" data-l="0" data-p="5"><i>dà</i><b>大</b></span><span class="c" data-l="0" data-p="6"><i>huí</i><b>回</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>xiāng</i><b>乡</b></span><span class="c gl" data-l="1" data-p="1"><i>yīn</i><b>音</b></span><span class="c gl" data-l="1" data-p="2"><i>wú</i><b>无</b></span><span class="c gl" data-l="1" data-p="3"><i>gǎi</i><b>改</b></span><span class="c gl" data-l="1" data-p="4"><i>bìn</i><b>鬓</b></span><span class="c gl" data-l="1" data-p="5"><i>máo</i><b>毛</b></span><span class="c gl rd" data-l="1" data-p="6"><i>shuāi</i><b>衰</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>ér</i><b>儿</b></span><span class="c" data-l="2" data-p="1"><i>tóng</i><b>童</b></span><span class="c gl" data-l="2" data-p="2"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="2" data-p="3"><i>jiàn</i><b>见</b></span><span class="c gl" data-l="2" data-p="4"><i>bù</i><b>不</b></span><span class="c gl" data-l="2" data-p="5"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="2" data-p="6"><i>shí</i><b>识</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>xiào</i><b>笑</b></span><span class="c" data-l="3" data-p="1"><i>wèn</i><b>问</b></span><span class="c gl" data-l="3" data-p="2"><i>kè</i><b>客</b></span><span class="c" data-l="3" data-p="3"><i>cóng</i><b>从</b></span><span class="c gl" data-l="3" data-p="4"><i>hé</i><b>何</b></span><span class="c gl" data-l="3" data-p="5"><i>chù</i><b>处</b></span><span class="c" data-l="3" data-p="6"><i>lái</i><b>来</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">In the source text, the second line has nan gai (hard to change). Today&#x27;s textbooks and most editions have wu gai (has not changed), which is used here. The original title is &quot;Two Poems Written on Returning Home&quot;; this is the first one.</p><p lang="zh">底本第二句作“乡音难改鬓毛衰”，现在课本和通行本作“乡音无改鬓毛衰”，这里按课本。原题是《回乡偶书二首》，这是第一首。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">少小离家老大回</span><span lang="en">I left home when I was young, and came back only when I was old.</span><span lang="zh">我年轻时离开家乡，到老了才回来。</span></li><li><span class="o">乡音无改鬓毛衰</span><span lang="en">My home-town accent has not changed, but the hair at my temples has grown thin.</span><span lang="zh">家乡口音没有变，鬓角的头发却已经稀疏了。</span></li><li><span class="o">儿童相见不相识</span><span lang="en">The village children see me, and none of them know who I am.</span><span lang="zh">村里的孩子看见我，没有一个认识我。</span></li><li><span class="o">笑问客从何处来</span><span lang="en">They smile and ask: &quot;Sir, where have you come from?&quot;</span><span lang="zh">他们笑着问：客人，您是从哪里来的呀？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>少小<span class="mono">shào xiǎo</span></dt><dd><span lang="en">shào xiǎo: when he was young.</span><span lang="zh">少小：年纪小的时候。</span></dd></div><div><dt>老大<span class="mono">lǎo dà</span></dt><dd><span lang="en">lǎo dà: when he had grown old.</span><span lang="zh">老大：年纪大了，老了。</span></dd></div><div><dt>乡音<span class="mono">xiāng yīn</span></dt><dd><span lang="en">xiāng yīn: the accent of one&#x27;s home town.</span><span lang="zh">乡音：家乡的口音，家乡话。</span></dd></div><div><dt>无改<span class="mono">wú gǎi</span></dt><dd><span lang="en">wú gǎi: has not changed.</span><span lang="zh">无改：没有改变。</span></dd></div><div><dt>鬓毛衰<span class="mono">bìn máo shuāi</span></dt><dd><span lang="en">bìn máo: the hair at the temples, beside the ears. shuāi: grown thin and sparse.</span><span lang="zh">鬓毛：脸两边靠近耳朵的头发。衰：变少、变稀疏。</span></dd></div><div><dt>相见不相识<span class="mono">xiāng jiàn bù xiāng shí</span></dt><dd><span lang="en">xiāng jiàn bù xiāng shí: they see me but do not know who I am.</span><span lang="zh">相见不相识：见到了我，却不认识我。</span></dd></div><div><dt>客<span class="mono">kè</span></dt><dd><span lang="en">kè: a guest, someone from elsewhere. The children take the poet for a visitor.</span><span lang="zh">客：客人，外地来的人。这里孩子们把诗人当成了客人。</span></dd></div><div><dt>何处<span class="mono">hé chù</span></dt><dd><span lang="en">hé chù: where.</span><span lang="zh">何处：哪里。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>少<span class="mono">shào</span></dt><dd><span lang="en">Here it is read shào, meaning young, not shǎo (few).</span><span lang="zh">少，这里读 shào，意思是年轻，不读 shǎo（多少的少）。</span></dd></div><div><dt>衰<span class="mono">shuāi</span></dt><dd><span lang="en">Today&#x27;s textbooks read it shuāi, meaning thinning out. In the past many people read it cuī, because in old pronunciation it rhymed with huí and lái.</span><span lang="zh">现在课本读 shuāi，意思是变少、变稀。过去不少人读 cuī，因为古音和“回、来”押韵。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In 744, He Zhizhang was over eighty years old. He gave up his post and went back to his home town, Yongxing in Yuezhou (today&#x27;s Xiaoshan in Hangzhou, Zhejiang). He had left home young and served as an official in Chang&#x27;an for nearly fifty years. Now at last he came back. The word ou shu in the title means &quot;written down on a whim&quot;. At home he found everything both familiar and strange, and he wrote these two poems.</p><p lang="zh">唐玄宗天宝三载（744年），贺知章已经八十多岁了。他辞去官职，回到老家越州永兴（今浙江杭州萧山）。他年轻时离开家，在长安做官将近五十年，这次终于回来了。题目里的“偶书”，就是随手写下来的意思。回到家乡，他看到了熟悉又陌生的一切，写下了这两首诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">He Zhizhang (659–744) was a Tang poet. He was bold and free and loved wine, and called himself the Wild Guest of Siming. He admired Li Bai, and legend says it was he who called Li Bai &quot;an immortal banished from heaven&quot;. Few of his poems survive, but this one and &quot;Ode to the Willow&quot; are known everywhere.</p><p lang="zh">贺知章（659—744），唐代诗人，性格豪放，爱喝酒，自称“四明狂客”。他很欣赏李白，传说是他把李白称作“谪仙人”（从天上被贬到人间的仙人）。他留下的诗不多，但这首诗和《咏柳》流传很广。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines sound plain, like a man talking about himself. He left young and came back old. His accent did not change, but his hair turned white. Putting &quot;unchanged&quot; next to &quot;changed&quot; shows decades passing in a moment. The last two lines paint a funny scene. Children gather round and cheerfully ask the old man where he is from. The children are innocent, but the poet feels many things at once. This is his own home, yet he has become a &quot;guest&quot;. The poem never says the word sad, but every reader can feel the sigh in it.</p><p lang="zh">前两句很平淡，像在说自己的事：小时候走，老了回；口音没变，头发白了。“没变”和“变了”放在一起，几十年的时间一下子就出来了。后两句画面很有趣：孩子们围过来，笑着问老爷爷从哪里来。孩子是天真的，诗人心里却五味杂陈。明明这里是自己的家，自己却成了“客人”。诗里没写一个“愁”字，可是那份感慨，读的人都能感觉到。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/dujingmensongbie/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>渡荆门送别</b></a><a href="../../p/shudaonan/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>蜀道难</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["少", "shào"], ["小", "xiǎo"], ["离", "lí"], ["家", "jiā"], ["老", "lǎo"], ["大", "dà"], ["回", "huí"]], [["乡", "xiāng"], ["音", "yīn"], ["无", "wú"], ["改", "gǎi"], ["鬓", "bìn"], ["毛", "máo"], ["衰", "shuāi"]], [["儿", "ér"], ["童", "tóng"], ["相", "xiāng"], ["见", "jiàn"], ["不", "bù"], ["相", "xiāng"], ["识", "shí"]], [["笑", "xiào"], ["问", "wèn"], ["客", "kè"], ["从", "cóng"], ["何", "hé"], ["处", "chù"], ["来", "lái"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "少小：年纪小的时候。", "en": "shào xiǎo: when he was young."}, {"line": 0, "start": 4, "end": 6, "zh": "老大：年纪大了，老了。", "en": "lǎo dà: when he had grown old."}, {"line": 1, "start": 0, "end": 2, "zh": "乡音：家乡的口音，家乡话。", "en": "xiāng yīn: the accent of one's home town."}, {"line": 1, "start": 2, "end": 4, "zh": "无改：没有改变。", "en": "wú gǎi: has not changed."}, {"line": 1, "start": 4, "end": 7, "zh": "鬓毛：脸两边靠近耳朵的头发。衰：变少、变稀疏。", "en": "bìn máo: the hair at the temples, beside the ears. shuāi: grown thin and sparse."}, {"line": 2, "start": 2, "end": 7, "zh": "相见不相识：见到了我，却不认识我。", "en": "xiāng jiàn bù xiāng shí: they see me but do not know who I am."}, {"line": 3, "start": 2, "end": 3, "zh": "客：客人，外地来的人。这里孩子们把诗人当成了客人。", "en": "kè: a guest, someone from elsewhere. The children take the poet for a visitor."}, {"line": 3, "start": 4, "end": 6, "zh": "何处：哪里。", "en": "hé chù: where."}], "readings": [{"line": 0, "pos": 0, "char": "少", "pinyin": "shào", "zh": "少，这里读 shào，意思是年轻，不读 shǎo（多少的少）。", "en": "Here it is read shào, meaning young, not shǎo (few)."}, {"line": 1, "pos": 6, "char": "衰", "pinyin": "shuāi", "zh": "现在课本读 shuāi，意思是变少、变稀。过去不少人读 cuī，因为古音和“回、来”押韵。", "en": "Today's textbooks read it shuāi, meaning thinning out. In the past many people read it cuī, because in old pronunciation it rhymed with huí and lái."}], "speak": ["少小离家老大回", "乡音无改鬓毛衰", "儿童相见不相识", "笑问客从何处来"], "speakTitle": "回乡偶书。贺知章。", "sample": "少小离家老大回"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

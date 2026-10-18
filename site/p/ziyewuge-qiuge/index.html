@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>子夜吴歌·秋歌 · 李白 — 诗</title>
+    <meta name="description" content="子夜吴歌·秋歌 · 李白 — Midnight Song of Wu: Autumn by Li Bai: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 78 · Tang poem · five-character old-style poem (yuefu ballad)</span><span lang="zh">第 78 首 · 唐诗 · 五言古诗（乐府）</span></p>
+        <h1>子夜吴歌·秋歌</h1>
+        <p class="by">李白<span class="mono"><span lang="en">Li Bai · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Midnight Song of Wu: Autumn</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>cháng</i><b>长</b></span><span class="c" data-l="0" data-p="1"><i>ān</i><b>安</b></span><span class="c gl" data-l="0" data-p="2"><i>yí</i><b>一</b></span><span class="c gl" data-l="0" data-p="3"><i>piàn</i><b>片</b></span><span class="c gl" data-l="0" data-p="4"><i>yuè</i><b>月</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>wàn</i><b>万</b></span><span class="c gl" data-l="1" data-p="1"><i>hù</i><b>户</b></span><span class="c gl" data-l="1" data-p="2"><i>dǎo</i><b>捣</b></span><span class="c gl" data-l="1" data-p="3"><i>yī</i><b>衣</b></span><span class="c" data-l="1" data-p="4"><i>shēng</i><b>声</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>qiū</i><b>秋</b></span><span class="c" data-l="2" data-p="1"><i>fēng</i><b>风</b></span><span class="c gl" data-l="2" data-p="2"><i>chuī</i><b>吹</b></span><span class="c gl" data-l="2" data-p="3"><i>bú</i><b>不</b></span><span class="c gl" data-l="2" data-p="4"><i>jìn</i><b>尽</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>zǒng</i><b>总</b></span><span class="c gl" data-l="3" data-p="1"><i>shì</i><b>是</b></span><span class="c gl" data-l="3" data-p="2"><i>yù</i><b>玉</b></span><span class="c gl" data-l="3" data-p="3"><i>guān</i><b>关</b></span><span class="c gl" data-l="3" data-p="4"><i>qíng</i><b>情</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>hé</i><b>何</b></span><span class="c gl" data-l="4" data-p="1"><i>rì</i><b>日</b></span><span class="c gl" data-l="4" data-p="2"><i>píng</i><b>平</b></span><span class="c gl" data-l="4" data-p="3"><i>hú</i><b>胡</b></span><span class="c gl" data-l="4" data-p="4"><i>lǔ</i><b>虏</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>liáng</i><b>良</b></span><span class="c gl" data-l="5" data-p="1"><i>rén</i><b>人</b></span><span class="c gl" data-l="5" data-p="2"><i>bà</i><b>罢</b></span><span class="c gl" data-l="5" data-p="3"><i>yuǎn</i><b>远</b></span><span class="c gl" data-l="5" data-p="4"><i>zhēng</i><b>征</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">长安一片月</span><span lang="en">Over Chang&#x27;an hangs one bright moon;</span><span lang="zh">长安城上空挂着一轮明月，</span></li><li><span class="o">万户捣衣声</span><span lang="en">from ten thousand homes comes the sound of beating cloth.</span><span lang="zh">千家万户传来捣衣的声音。</span></li><li><span class="o">秋风吹不尽</span><span lang="en">The autumn wind cannot blow it away:</span><span lang="zh">秋风吹也吹不散，</span></li><li><span class="o">总是玉关情</span><span lang="en">all of it is longing for those at Jade Gate Pass.</span><span lang="zh">这些声音里全是对玉门关外亲人的思念。</span></li><li><span class="o">何日平胡虏</span><span lang="en">When will the enemy be beaten,</span><span lang="zh">哪一天才能打败敌人，</span></li><li><span class="o">良人罢远征</span><span lang="en">so my husband can end his far campaign and come home?</span><span lang="zh">让我的丈夫不再远征，回到家来？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>一片月<span class="mono">yí piàn yuè</span></dt><dd><span lang="en">yí piàn yuè: a bright moon, its light spread over the whole city.</span><span lang="zh">一片月：一轮明月，月光洒满全城。</span></dd></div><div><dt>万户<span class="mono">wàn hù</span></dt><dd><span lang="en">wàn hù: ten thousand households, meaning a great many homes.</span><span lang="zh">万户：千家万户，形容人家很多。</span></dd></div><div><dt>捣衣<span class="mono">dǎo yī</span></dt><dd><span lang="en">dǎo yī: beating cloth. In old times, washed cloth or clothes were laid on a flat stone and beaten with a wooden stick to soften and clean them before making winter clothes. People often did this in autumn to send warm clothes to family far away.</span><span lang="zh">捣衣：古时把洗过的布或衣服放在石板上，用木棒敲打，让它变软、变干净，好做成冬衣。秋天常常捣衣，给远方的亲人准备寒衣。</span></dd></div><div><dt>吹不尽<span class="mono">chuī bú jìn</span></dt><dd><span lang="en">chuī bú jìn: cannot blow it all away.</span><span lang="zh">吹不尽：吹不散，吹不完。</span></dd></div><div><dt>总是<span class="mono">zǒng shì</span></dt><dd><span lang="en">zǒng shì: all of it is.</span><span lang="zh">总是：全都是。</span></dd></div><div><dt>玉关情<span class="mono">yù guān qíng</span></dt><dd><span lang="en">yù guān qíng: love and longing for family guarding Jade Gate Pass. The pass, northwest of today&#x27;s Dunhuang in Gansu, stands for the whole frontier.</span><span lang="zh">玉关情：思念远在玉门关守边的亲人的情意。玉关，玉门关，在今甘肃敦煌西北，这里代指边塞。</span></dd></div><div><dt>何日<span class="mono">hé rì</span></dt><dd><span lang="en">hé rì: what day, when.</span><span lang="zh">何日：哪一天。</span></dd></div><div><dt>平胡虏<span class="mono">píng hú lǔ</span></dt><dd><span lang="en">píng hú lǔ: to defeat the invading enemy. Hú lǔ was an insulting old name for peoples of the north and northwest.</span><span lang="zh">平胡虏：打败入侵的敌人。胡虏，古代对北方和西北少数民族带贬义的称呼。</span></dd></div><div><dt>良人<span class="mono">liáng rén</span></dt><dd><span lang="en">liáng rén: an old word a wife used for her husband.</span><span lang="zh">良人：古时妻子对丈夫的称呼。</span></dd></div><div><dt>罢<span class="mono">bà</span></dt><dd><span lang="en">bà: to stop, to end.</span><span lang="zh">罢：结束、停止。</span></dd></div><div><dt>远征<span class="mono">yuǎn zhēng</span></dt><dd><span lang="en">yuǎn zhēng: going far away to war.</span><span lang="zh">远征：到远方打仗。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">&quot;Midnight Song of Wu&quot; is an old folk-song title. Legend says that in the Eastern Jin dynasty a woman named Ziye (Midnight) in the Wu region (around today&#x27;s Jiangsu and Zhejiang) made up sad, touching songs. Later poets wrote versions for the four seasons. Li Bai wrote four, one for each season, and this is the autumn song. In the Tang there was often fighting on the borders. Many men were sent to guard them, and their wives at home missed them day and night. The year it was written is unknown.</p><p lang="zh">“子夜吴歌”是乐府旧题。相传东晋时吴地（今江苏、浙江一带）有一位叫子夜的女子，创作了哀怨动人的《子夜歌》，后人又按春夏秋冬写成《子夜四时歌》。李白也用这个旧题写了四首，分别写春、夏、秋、冬，这是第二首秋歌。唐代边境常有战事，许多男子被派去守边，家里的妻子日夜思念。写作年份不详。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. Most of his poems are bold and sweeping, but he also learned from folk songs, using plain words to tell the feelings of ordinary people. In this poem he speaks in the voice of a wife missing her husband, and shows how tired the people were of war.</p><p lang="zh">李白（701—762），唐代大诗人，被称为“诗仙”。他的诗大多豪放奔腾，但也很会学习民歌，用朴素的话写普通人的心情。这首诗就是借思妇（思念丈夫的妻子）的口吻，写出了百姓对战争的厌倦。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poem opens with a huge picture: an autumn night, one bright moon over Chang&#x27;an, and in its light ten thousand homes all beating cloth, the thumping sounds rising and falling. Why are so many beating cloth? Because they are making winter clothes for husbands far away on the frontier. The autumn wind keeps blowing, but it cannot blow away the sound, or their longing. The last two lines are the question in every wife&#x27;s heart: when will the war be over, so my husband can come home? The moon, the autumn wind and the sound of beating cloth pile up layer on layer, and you feel both deep longing and the pain that war brings to ordinary families.</p><p lang="zh">诗一开头是一幅很大的画面：秋夜，长安城上一轮明月，月光下千家万户都在捣衣，“砰、砰”的声音此起彼伏。为什么这么多人在捣衣？因为她们要给远在边关的丈夫做冬衣。秋风吹个不停，却吹不散这一片捣衣声，也吹不散她们的思念。最后两句是妻子们心底的问话：什么时候才能打完仗，让丈夫回家？明月、秋风、捣衣声，一层层叠在一起，让人感到深深的思念，也感到战争带给普通人家的痛苦。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/shanxing/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>山行</b></a><a href="../../p/chunyexiyu/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>春夜喜雨</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["长", "cháng"], ["安", "ān"], ["一", "yí"], ["片", "piàn"], ["月", "yuè"]], [["万", "wàn"], ["户", "hù"], ["捣", "dǎo"], ["衣", "yī"], ["声", "shēng"]], [["秋", "qiū"], ["风", "fēng"], ["吹", "chuī"], ["不", "bú"], ["尽", "jìn"]], [["总", "zǒng"], ["是", "shì"], ["玉", "yù"], ["关", "guān"], ["情", "qíng"]], [["何", "hé"], ["日", "rì"], ["平", "píng"], ["胡", "hú"], ["虏", "lǔ"]], [["良", "liáng"], ["人", "rén"], ["罢", "bà"], ["远", "yuǎn"], ["征", "zhēng"]]], "glosses": [{"line": 0, "start": 2, "end": 5, "zh": "一片月：一轮明月，月光洒满全城。", "en": "yí piàn yuè: a bright moon, its light spread over the whole city."}, {"line": 1, "start": 0, "end": 2, "zh": "万户：千家万户，形容人家很多。", "en": "wàn hù: ten thousand households, meaning a great many homes."}, {"line": 1, "start": 2, "end": 4, "zh": "捣衣：古时把洗过的布或衣服放在石板上，用木棒敲打，让它变软、变干净，好做成冬衣。秋天常常捣衣，给远方的亲人准备寒衣。", "en": "dǎo yī: beating cloth. In old times, washed cloth or clothes were laid on a flat stone and beaten with a wooden stick to soften and clean them before making winter clothes. People often did this in autumn to send warm clothes to family far away."}, {"line": 2, "start": 2, "end": 5, "zh": "吹不尽：吹不散，吹不完。", "en": "chuī bú jìn: cannot blow it all away."}, {"line": 3, "start": 0, "end": 2, "zh": "总是：全都是。", "en": "zǒng shì: all of it is."}, {"line": 3, "start": 2, "end": 5, "zh": "玉关情：思念远在玉门关守边的亲人的情意。玉关，玉门关，在今甘肃敦煌西北，这里代指边塞。", "en": "yù guān qíng: love and longing for family guarding Jade Gate Pass. The pass, northwest of today's Dunhuang in Gansu, stands for the whole frontier."}, {"line": 4, "start": 0, "end": 2, "zh": "何日：哪一天。", "en": "hé rì: what day, when."}, {"line": 4, "start": 2, "end": 5, "zh": "平胡虏：打败入侵的敌人。胡虏，古代对北方和西北少数民族带贬义的称呼。", "en": "píng hú lǔ: to defeat the invading enemy. Hú lǔ was an insulting old name for peoples of the north and northwest."}, {"line": 5, "start": 0, "end": 2, "zh": "良人：古时妻子对丈夫的称呼。", "en": "liáng rén: an old word a wife used for her husband."}, {"line": 5, "start": 2, "end": 3, "zh": "罢：结束、停止。", "en": "bà: to stop, to end."}, {"line": 5, "start": 3, "end": 5, "zh": "远征：到远方打仗。", "en": "yuǎn zhēng: going far away to war."}], "readings": [], "speak": ["长安仪片月", "万户捣衣声", "秋风吹不尽", "总是玉关情", "何日平胡虏", "良人罢远征"], "speakTitle": "子夜吴歌，秋歌。李白。", "sample": "长安一片月"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

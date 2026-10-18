@@ -1,0 +1,884 @@
+{
+ "id": "ci-6e2a3d054aa1",
+ "kind": "ci",
+ "title": "贺新郎·甚矣吾衰矣",
+ "title_en": "To the Tune He Xin Lang: How Old I Have Grown",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调长调",
+  "en": "ci, long two-stanza lyric"
+ },
+ "lines": [
+  [
+   [
+    "甚",
+    "shèn"
+   ],
+   [
+    "矣",
+    "yǐ"
+   ],
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "衰",
+    "shuāi"
+   ],
+   [
+    "矣",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "交",
+    "jiāo"
+   ],
+   [
+    "游",
+    "yóu"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "落",
+    "luò"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "几",
+    "jǐ"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "丈",
+    "zhàng"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "间",
+    "jiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "物",
+    "wù"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "令",
+    "lìng"
+   ],
+   [
+    "公",
+    "gōng"
+   ],
+   [
+    "喜",
+    "xǐ"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "妩",
+    "wǔ"
+   ],
+   [
+    "媚",
+    "mèi"
+   ]
+  ],
+  [
+   [
+    "料",
+    "liào"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "貌",
+    "mào"
+   ]
+  ],
+  [
+   [
+    "略",
+    "lüè"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "似",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "尊",
+    "zūn"
+   ],
+   [
+    "搔",
+    "sāo"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "想",
+    "xiǎng"
+   ],
+   [
+    "渊",
+    "yuān"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "停",
+    "tíng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "就",
+    "jiù"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "左",
+    "zuǒ"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "酣",
+    "hān"
+   ],
+   [
+    "求",
+    "qiú"
+   ],
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "者",
+    "zhě"
+   ]
+  ],
+  [
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "浊",
+    "zhuó"
+   ],
+   [
+    "醪",
+    "láo"
+   ],
+   [
+    "妙",
+    "miào"
+   ],
+   [
+    "理",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ],
+   [
+    "叫",
+    "jiào"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "吾",
+    "wú"
+   ],
+   [
+    "狂",
+    "kuáng"
+   ],
+   [
+    "耳",
+    "ěr"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "者",
+    "zhě"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "子",
+    "zǐ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  10
+ ],
+ "text_note": {
+  "zh": "语料的“馀”“沈”是繁体转换留下的旧字形，通行本作“余”“沉”。词前原有一段小序，大意是：家乡的园亭我都写过词了，一天独坐停云堂，水声山色好像都来逗我开心，于是写下这首词，有点像陶渊明《停云》诗思念亲友的意思。这里没有收录小序。",
+  "en": "The corpus writes yú and chén with older character forms left over from conversion; standard texts use the simple forms. The lyric also has a short preface, not included here. It says, roughly: I had written lyrics for every garden pavilion in town; one day, sitting alone in my Tingyun Hall, the sound of water and the colour of the hills seemed to come to cheer me, so I wrote this, somewhat in the spirit of Tao Yuanming's poem \"Tingyun\", about missing friends."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "甚",
+   "pinyin": "shèn",
+   "zh": "“甚”在这里是“很、太”的意思，读 shèn。",
+   "en": "Here this character means very, too much, so it is read shèn."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "“应”在这里是“应该、大概”的意思，读 yīng，不读 yìng。",
+   "en": "Here this character means probably, should, so it is read yīng, not yìng."
+  },
+  {
+   "line": 14,
+   "pos": 3,
+   "char": "醪",
+   "pinyin": "láo",
+   "zh": "“醪”读 láo，指连渣带汁的酒。",
+   "en": "This character is read láo, rice wine with the lees still in it."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "甚矣吾衰矣：我衰老得太厉害了！这是借用孔子在《论语》里的话“甚矣吾衰也”。",
+   "en": "shèn yǐ wú shuāi yǐ: how badly I have aged! This borrows a saying of Confucius in the Analects."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "怅：惆怅，心里失落难过。",
+   "en": "chàng: to feel lost and sad."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "平生：这一辈子。",
+   "en": "píng shēng: one's whole life."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 7,
+   "zh": "交游零落：一起交往的朋友，一个个离散、去世了。零落，像花叶一样凋落。",
+   "en": "jiāo yóu líng luò: the friends one spent time with have scattered or died one by one. Líng luò means falling like leaves."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "只今余几：如今还剩下几个？",
+   "en": "zhǐ jīn yú jǐ: how many are left now?"
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 7,
+   "zh": "白发空垂三千丈：白头发白白地垂下三千丈长。借用李白“白发三千丈”的诗句，夸张地说愁太多，人老了却一事无成。空，白白地。",
+   "en": "bái fà kōng chuí sān qiān zhàng: white hair hanging uselessly three thousand zhang long. It borrows a line from Li Bai, a wild exaggeration of how much sorrow there is. Kōng means in vain: he has grown old with his work undone."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 6,
+   "zh": "一笑人间万事：对世上的一切事情，都一笑了之。",
+   "en": "yī xiào rén jiān wàn shì: to laugh off everything in the world."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "何物：什么东西。",
+   "en": "hé wù: what thing."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 7,
+   "zh": "能令公喜：能让您高兴。出自《世说新语》里的一句话，“公”原指东晋的大司马桓温，这里是词人称自己。",
+   "en": "néng lìng gōng xǐ: can make you, sir, happy. It comes from a saying in the old story book Shishuo Xinyu, where gōng meant the great general Huan Wen. Here the poet uses it for himself."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "妩媚：姿态美好可爱。",
+   "en": "wǔ mèi: charming and lovely."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 1,
+   "zh": "料：料想，猜想。",
+   "en": "liào: to guess, to suppose."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 8,
+   "zh": "应如是：应该也是这样。",
+   "en": "yīng rú shì: probably is the same."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "情与貌：心情和样子。",
+   "en": "qíng yǔ mào: feelings and looks."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 1,
+   "zh": "略：大致，差不多。",
+   "en": "lüè: roughly, more or less."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "一尊：一杯酒。尊，同“樽”，酒杯。",
+   "en": "yī zūn: a cup of wine. Zūn is an old wine cup."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "搔首：挠头。表示想心事、心里不安。",
+   "en": "sāo shǒu: scratching one's head, a sign of deep thought or unease."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "东窗：陶渊明《停云》诗里有“静寄东轩”的句子，这里的东窗暗用这个意思，也是词人自己的书房窗下。",
+   "en": "dōng chuāng: the east window. Tao Yuanming's poem \"Tingyun\" mentions resting by an east window, and the poet echoes it while sitting by his own."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "渊明：陶渊明，东晋大诗人，辞官回乡种田，爱喝酒。",
+   "en": "Yuānmíng: Tao Yuanming, a great poet of the Eastern Jin who quit office to farm at home and loved wine."
+  },
+  {
+   "line": 11,
+   "start": 3,
+   "end": 5,
+   "zh": "停云：陶渊明的诗《停云》，写思念亲友。辛弃疾在铅山的住处也有一座停云堂，就是从这首诗取的名字。",
+   "en": "Tíng yún: \"Tingyun\" (Lingering Clouds), Tao Yuanming's poem about missing friends. Xin Qiji named a hall of his home in Yanshan after it."
+  },
+  {
+   "line": 11,
+   "start": 6,
+   "end": 7,
+   "zh": "就：写成。",
+   "en": "jiù: finished, completed."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "风味：情趣，心境。",
+   "en": "fēng wèi: mood, the taste of the moment."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "江左：长江下游的南边，这里指东晋。",
+   "en": "jiāng zuǒ: the land south of the lower Yangtze; here it means the Eastern Jin."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 7,
+   "zh": "沉酣求名者：表面上喝得大醉、其实想借此出名的人。",
+   "en": "chén hān qiú míng zhě: people who got very drunk, but really only to make a name for themselves."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "岂识：哪里懂得。",
+   "en": "qǐ shí: how could they know."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 4,
+   "zh": "浊醪：浊酒，没有过滤的米酒。",
+   "en": "zhuó láo: cloudy, unfiltered rice wine."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 6,
+   "zh": "妙理：其中美妙的道理。杜甫有诗句“浊醪有妙理”。",
+   "en": "miào lǐ: the wonderful truth inside it. Du Fu wrote that cloudy wine holds a wonderful truth."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 7,
+   "zh": "云飞风起：借用汉高祖刘邦《大风歌》“大风起兮云飞扬”的句子，形容心情激昂。",
+   "en": "yún fēi fēng qǐ: clouds fly and the wind rises. It borrows from Liu Bang's \"Song of the Great Wind\", showing a stirring, wild mood."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 7,
+   "zh": "不恨古人吾不见：不遗憾我见不到古人。这两句化用南朝张融的话：“不恨我不见古人，所恨古人又不见我。”",
+   "en": "bù hèn gǔ rén wú bù jiàn: I do not regret that I cannot meet the people of old. These two lines rework a saying of Zhang Rong of the Southern Dynasties."
+  },
+  {
+   "line": 17,
+   "start": 6,
+   "end": 7,
+   "zh": "狂：狂放，不受拘束，不跟别人一样。",
+   "en": "kuáng: wild and free, not like everyone else."
+  },
+  {
+   "line": 17,
+   "start": 7,
+   "end": 8,
+   "zh": "耳：罢了。",
+   "en": "ěr: that is all."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "二三子：两三个人，指很少的几个知心朋友。孔子常这样称呼学生。",
+   "en": "èr sān zǐ: two or three people, just a few close friends. Confucius often called his students this."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我衰老得太厉害了！",
+   "en": "How badly I have aged!"
+  },
+  {
+   "zh": "可惜这一生交往的朋友，一个个离散了，",
+   "en": "Sadly, the friends of my whole life have scattered and gone,"
+  },
+  {
+   "zh": "如今还剩几个？",
+   "en": "and how many are left now?"
+  },
+  {
+   "zh": "白头发白白垂下三千丈，",
+   "en": "My white hair hangs three thousand zhang long, for nothing,"
+  },
+  {
+   "zh": "世上的万事，我都一笑了之。",
+   "en": "and I laugh off everything in the world."
+  },
+  {
+   "zh": "要问还有什么能让我高兴？",
+   "en": "If you ask what can still make me glad:"
+  },
+  {
+   "zh": "我看青山是那么美好可爱，",
+   "en": "I see the green hills, so lovely,"
+  },
+  {
+   "zh": "想来青山看我，也是一样。",
+   "en": "and I guess the green hills see me the same way."
+  },
+  {
+   "zh": "我们的心情和样子，",
+   "en": "Our feelings and our looks"
+  },
+  {
+   "zh": "大致都差不多。",
+   "en": "are more or less alike."
+  },
+  {
+   "zh": "端着一杯酒，在东窗下挠着头，",
+   "en": "Cup in hand, I scratch my head by the east window,"
+  },
+  {
+   "zh": "想起陶渊明写成《停云》诗的时候，",
+   "en": "thinking of Tao Yuanming when he finished his poem \"Tingyun\":"
+  },
+  {
+   "zh": "大概也是这样的心境。",
+   "en": "he must have felt as I do now."
+  },
+  {
+   "zh": "东晋那些借喝醉来求名的人，",
+   "en": "Those men of the Eastern Jin who got drunk to win fame,"
+  },
+  {
+   "zh": "哪里懂得浊酒里的妙处。",
+   "en": "what did they know of the wonder in cloudy wine?"
+  },
+  {
+   "zh": "我回过头大声呼喊，好像风起云飞，",
+   "en": "I turn my head and shout, and it is as if the wind rises and the clouds fly."
+  },
+  {
+   "zh": "我不遗憾见不到古人，",
+   "en": "I do not regret that I cannot meet the people of old;"
+  },
+  {
+   "zh": "只遗憾古人见不到我的狂放罢了。",
+   "en": "I only regret that they cannot see how wild I am."
+  },
+  {
+   "zh": "真正懂我的，",
+   "en": "Those who truly understand me"
+  },
+  {
+   "zh": "也就两三个人。",
+   "en": "are just two or three."
+  }
+ ],
+ "background": {
+  "zh": "辛弃疾一生想收复北方，却多次被罢官。晚年他闲居在江西铅山的瓢泉，在那里修了一座停云堂，名字取自陶渊明的诗《停云》。词前小序说，他一天独坐停云堂，看着山水，想起陶渊明思念亲友的诗，写下这首词。具体写于哪一年，说法不一，大约在1200年前后。",
+  "en": "Xin Qiji wanted all his life to win back the north, but he was removed from office again and again. In his later years he lived quietly at Piaoquan in Yanshan, Jiangxi, where he built a hall named Tingyun after Tao Yuanming's poem. His preface says that one day, sitting alone there and looking at the hills and streams, he thought of Tao's poem about missing friends and wrote this lyric. Sources differ on the exact year; it was written around 1200."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他年轻时在北方起义抗金，后来回到南宋，一心想带兵收复失地，却常常被排挤，前后闲居了将近二十年。他很喜欢陶渊明，晚年的许多词都提到陶渊明。他的词豪放，也常有这种孤独和不平。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song lyric poet. As a young man he rose against the Jin in the north, then came south. He longed to lead an army to win back the lost lands, but was often pushed aside and spent almost twenty years out of office. He loved Tao Yuanming, and many of his late lyrics mention him. His lyrics are bold, and often lonely and bitter like this one."
+ },
+ "appreciation": {
+  "zh": "这首词开头就叹气：我老了，老朋友也没剩几个了。可他不只是伤心，马上又说，世上的事都一笑了之。那还有什么能让人高兴？他说：青山。我看青山很美，青山看我大概也一样，我们俩情意相投，像一对老朋友。这是全词最有名的两句，把山写得像人一样，有点孤独，也有点骄傲。下阕他端着酒想起陶渊明，觉得只有陶渊明懂喝酒的真意思，那些借酒出名的人不懂。最后他大声说：我不遗憾见不到古人，只遗憾古人见不到我有多狂！懂我的，只有两三个人。读起来又豪迈又寂寞。",
+  "en": "The lyric begins with a sigh: I am old, and few of my old friends are left. But he does not stay sad. At once he says he laughs off everything in the world. Then what can still make him glad? The green hills. I see the hills as lovely, and the hills probably see me the same way. We are like two old friends who understand each other. These are the lyric's most famous lines. They make the hills seem like a person, a little lonely and a little proud. In the second half, wine in hand, he thinks of Tao Yuanming, who alone knew the true joy of wine, unlike those who drank to become famous. At the end he shouts: I do not mind that I cannot meet the ancients; I mind that they cannot see how wild I am! Only two or three people understand me. It sounds bold and lonely at the same time."
+ },
+ "famous_lines": [
+  6,
+  7,
+  16,
+  17
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountains",
+   "old-age",
+   "friendship",
+   "wine",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>蜀相 · 杜甫 — 诗</title>
+    <meta name="description" content="蜀相 · 杜甫 — The Prime Minister of Shu by Du Fu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 24 · Tang poem · seven-character regulated verse</span><span lang="zh">第 24 首 · 唐诗 · 七言律诗</span></p>
+        <h1>蜀相</h1>
+        <p class="by">杜甫<span class="mono"><span lang="en">Du Fu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">The Prime Minister of Shu</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>chéng</i><b>丞</b></span><span class="c gl rd" data-l="0" data-p="1"><i>xiàng</i><b>相</b></span><span class="c gl" data-l="0" data-p="2"><i>cí</i><b>祠</b></span><span class="c gl" data-l="0" data-p="3"><i>táng</i><b>堂</b></span><span class="c" data-l="0" data-p="4"><i>hé</i><b>何</b></span><span class="c" data-l="0" data-p="5"><i>chù</i><b>处</b></span><span class="c" data-l="0" data-p="6"><i>xún</i><b>寻</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>jǐn</i><b>锦</b></span><span class="c gl" data-l="1" data-p="1"><i>guān</i><b>官</b></span><span class="c gl" data-l="1" data-p="2"><i>chéng</i><b>城</b></span><span class="c" data-l="1" data-p="3"><i>wài</i><b>外</b></span><span class="c gl" data-l="1" data-p="4"><i>bǎi</i><b>柏</b></span><span class="c gl" data-l="1" data-p="5"><i>sēn</i><b>森</b></span><span class="c gl" data-l="1" data-p="6"><i>sēn</i><b>森</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yìng</i><b>映</b></span><span class="c gl" data-l="2" data-p="1"><i>jiē</i><b>阶</b></span><span class="c" data-l="2" data-p="2"><i>bì</i><b>碧</b></span><span class="c" data-l="2" data-p="3"><i>cǎo</i><b>草</b></span><span class="c gl" data-l="2" data-p="4"><i>zì</i><b>自</b></span><span class="c gl" data-l="2" data-p="5"><i>chūn</i><b>春</b></span><span class="c gl" data-l="2" data-p="6"><i>sè</i><b>色</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>gé</i><b>隔</b></span><span class="c" data-l="3" data-p="1"><i>yè</i><b>叶</b></span><span class="c gl" data-l="3" data-p="2"><i>huáng</i><b>黄</b></span><span class="c gl" data-l="3" data-p="3"><i>lí</i><b>鹂</b></span><span class="c gl" data-l="3" data-p="4"><i>kōng</i><b>空</b></span><span class="c gl" data-l="3" data-p="5"><i>hǎo</i><b>好</b></span><span class="c gl" data-l="3" data-p="6"><i>yīn</i><b>音</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>sān</i><b>三</b></span><span class="c gl" data-l="4" data-p="1"><i>gù</i><b>顾</b></span><span class="c gl" data-l="4" data-p="2"><i>pín</i><b>频</b></span><span class="c gl" data-l="4" data-p="3"><i>fán</i><b>烦</b></span><span class="c gl" data-l="4" data-p="4"><i>tiān</i><b>天</b></span><span class="c gl" data-l="4" data-p="5"><i>xià</i><b>下</b></span><span class="c gl" data-l="4" data-p="6"><i>jì</i><b>计</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>liǎng</i><b>两</b></span><span class="c gl rd" data-l="5" data-p="1"><i>cháo</i><b>朝</b></span><span class="c gl" data-l="5" data-p="2"><i>kāi</i><b>开</b></span><span class="c gl" data-l="5" data-p="3"><i>jì</i><b>济</b></span><span class="c gl" data-l="5" data-p="4"><i>lǎo</i><b>老</b></span><span class="c gl" data-l="5" data-p="5"><i>chén</i><b>臣</b></span><span class="c" data-l="5" data-p="6"><i>xīn</i><b>心</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>chū</i><b>出</b></span><span class="c gl" data-l="6" data-p="1"><i>shī</i><b>师</b></span><span class="c gl" data-l="6" data-p="2"><i>wèi</i><b>未</b></span><span class="c gl" data-l="6" data-p="3"><i>jié</i><b>捷</b></span><span class="c" data-l="6" data-p="4"><i>shēn</i><b>身</b></span><span class="c" data-l="6" data-p="5"><i>xiān</i><b>先</b></span><span class="c" data-l="6" data-p="6"><i>sǐ</i><b>死</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>cháng</i><b>长</b></span><span class="c gl" data-l="7" data-p="1"><i>shǐ</i><b>使</b></span><span class="c" data-l="7" data-p="2"><i>yīng</i><b>英</b></span><span class="c" data-l="7" data-p="3"><i>xióng</i><b>雄</b></span><span class="c" data-l="7" data-p="4"><i>lèi</i><b>泪</b></span><span class="c" data-l="7" data-p="5"><i>mǎn</i><b>满</b></span><span class="c gl" data-l="7" data-p="6"><i>jīn</i><b>襟</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">In line three, the old source writes jiē (steps) with a rarer variant form of the same character. Textbooks use the standard form. The meaning is the same.</p><p lang="zh">第三句的“阶”，这里的古籍底本写作“堦”，是“阶”的另一种写法，意思一样。课本用“阶”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">丞相祠堂何处寻</span><span lang="en">Where can I find the temple of the prime minister?</span><span lang="zh">诸葛丞相的祠堂到哪里去找？</span></li><li><span class="o">锦官城外柏森森</span><span lang="en">Outside Chengdu, where the cypress trees grow tall and thick.</span><span lang="zh">就在成都城外，那片柏树又高又密的地方。</span></li><li><span class="o">映阶碧草自春色</span><span lang="en">Green grass lights up the steps, showing spring all by itself;</span><span lang="zh">绿草映着台阶，自顾自地显出春色，</span></li><li><span class="o">隔叶黄鹂空好音</span><span lang="en">behind the leaves an oriole sings sweetly, but no one listens.</span><span lang="zh">黄鹂躲在树叶后面，白白地唱着好听的歌。</span></li><li><span class="o">三顾频烦天下计</span><span lang="en">Liu Bei called on him three times and asked for his plan to unite the land;</span><span lang="zh">刘备三次登门，向他请教平定天下的大计，</span></li><li><span class="o">两朝开济老臣心</span><span lang="en">he served two rulers, giving them an old minister&#x27;s loyal heart.</span><span lang="zh">他辅佐了两代君主，献出一颗老臣的忠心。</span></li><li><span class="o">出师未捷身先死</span><span lang="en">But before his army could win, he died.</span><span lang="zh">可惜出兵还没打胜，他就先病死在军中，</span></li><li><span class="o">长使英雄泪满襟</span><span lang="en">Ever since, heroes have wept until their robes were wet.</span><span lang="zh">这让后世的英雄们常常泪水沾满衣襟。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>丞相<span class="mono">chéng xiàng</span></dt><dd><span lang="en">chéng xiàng: the highest official who helped the emperor run the country; here Zhuge Liang, prime minister of the state of Shu in the Three Kingdoms period.</span><span lang="zh">丞相：古代帮皇帝管理国家的最高官员。这里指三国时蜀国的丞相诸葛亮。</span></dd></div><div><dt>祠堂<span class="mono">cí táng</span></dt><dd><span lang="en">cí táng: a temple built to honor someone; here the Wuhou Temple in Chengdu.</span><span lang="zh">祠堂：纪念某个人的庙。这里指成都的武侯祠。</span></dd></div><div><dt>锦官城<span class="mono">jǐn guān chéng</span></dt><dd><span lang="en">jǐn guān chéng: another name for Chengdu. Chengdu was famous for silk brocade, and the court sent officials there to manage it, hence the name.</span><span lang="zh">锦官城：成都的别名。古时成都织锦很有名，朝廷在这里设官管理，所以这样叫。</span></dd></div><div><dt>柏森森<span class="mono">bǎi sēn sēn</span></dt><dd><span lang="en">bǎi sēn sēn: the cypress trees stand tall and thick.</span><span lang="zh">柏森森：柏树又高又密。</span></dd></div><div><dt>映阶<span class="mono">yìng jiē</span></dt><dd><span lang="en">yìng jiē: shining on the steps.</span><span lang="zh">映阶：映照着台阶。</span></dd></div><div><dt>自春色<span class="mono">zì chūn sè</span></dt><dd><span lang="en">zì chūn sè: showing spring colors all by itself, with no one to enjoy them.</span><span lang="zh">自春色：自己显出春天的颜色。“自”有“没人欣赏，自顾自地”的意思。</span></dd></div><div><dt>黄鹂<span class="mono">huáng lí</span></dt><dd><span lang="en">huáng lí: the oriole, a small yellow bird with a sweet song.</span><span lang="zh">黄鹂：一种黄色的小鸟，叫声好听。</span></dd></div><div><dt>空好音<span class="mono">kōng hǎo yīn</span></dt><dd><span lang="en">kōng hǎo yīn: singing sweetly, but in vain.</span><span lang="zh">空好音：白白地唱着好听的歌。</span></dd></div><div><dt>三顾<span class="mono">sān gù</span></dt><dd><span lang="en">sān gù: visiting three times. Liu Bei went three times to Zhuge Liang&#x27;s thatched hut to ask him to come and help.</span><span lang="zh">三顾：去拜访了三次。刘备曾三次到诸葛亮住的茅草屋去请他出山。</span></dd></div><div><dt>频烦<span class="mono">pín fán</span></dt><dd><span lang="en">pín fán: troubling him again and again, asking his advice many times.</span><span lang="zh">频烦：多次烦劳、多次请教。</span></dd></div><div><dt>天下计<span class="mono">tiān xià jì</span></dt><dd><span lang="en">tiān xià jì: a grand plan to bring peace to the whole land.</span><span lang="zh">天下计：平定天下的大计划。</span></dd></div><div><dt>两朝<span class="mono">liǎng cháo</span></dt><dd><span lang="en">liǎng cháo: two reigns: Liu Bei and his son Liu Shan.</span><span lang="zh">两朝：两代皇帝，指刘备和他的儿子刘禅。</span></dd></div><div><dt>开济<span class="mono">kāi jì</span></dt><dd><span lang="en">kāi jì: helping to found the state and then helping to keep it going.</span><span lang="zh">开济：开创事业，又帮着把事业维持下去。</span></dd></div><div><dt>老臣<span class="mono">lǎo chén</span></dt><dd><span lang="en">lǎo chén: a loyal old minister, meaning Zhuge Liang.</span><span lang="zh">老臣：年老忠心的大臣，指诸葛亮。</span></dd></div><div><dt>出师<span class="mono">chū shī</span></dt><dd><span lang="en">chū shī: to send out the army.</span><span lang="zh">出师：出兵打仗。</span></dd></div><div><dt>未捷<span class="mono">wèi jié</span></dt><dd><span lang="en">wèi jié: not yet victorious; jié means victory.</span><span lang="zh">未捷：还没有打胜。捷，胜利。</span></dd></div><div><dt>长使<span class="mono">cháng shǐ</span></dt><dd><span lang="en">cháng shǐ: forever makes.</span><span lang="zh">长使：永远让。</span></dd></div><div><dt>襟<span class="mono">jīn</span></dt><dd><span lang="en">jīn: the front of a robe, over the chest.</span><span lang="zh">襟：衣服前面胸口的部分。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>相<span class="mono">xiàng</span></dt><dd><span lang="en">As the title of an official, this character is read xiàng.</span><span lang="zh">丞相的“相”指官职，读 xiàng。</span></dd></div><div><dt>朝<span class="mono">cháo</span></dt><dd><span lang="en">Here it means a ruler&#x27;s reign, so it is read cháo, not zhāo.</span><span lang="zh">“两朝”指两代皇帝，读 cháo，不读 zhāo。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem is usually dated to the spring of 760. At the end of the year before, Du Fu had come to Chengdu to escape the war and famine caused by the An Lushan Rebellion, and settled there for a while. Outside the city stood the Wuhou Temple, built in memory of Zhuge Liang. Du Fu visited it, thought about how Zhuge Liang had served Liu Bei and his son Liu Shan, and wrote this poem.</p><p lang="zh">这首诗一般认为写于唐肃宗上元元年（760年）春天。前一年年底，杜甫为了躲避安史之乱带来的战乱和饥荒，来到成都，暂时住了下来。成都城外有纪念诸葛亮的武侯祠。杜甫去那里参观，想起诸葛亮辅佐刘备、刘禅的一生，写下了这首诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He always cared about his country and its people, and longed for a capable person to end the war. He deeply admired Zhuge Liang and wrote several poems about him. In this poem there is praise for Zhuge Liang, and also a sigh for himself, who had no way to serve his country.</p><p lang="zh">杜甫（712—770），唐代大诗人，被称为“诗圣”。他心里一直想着国家和百姓，很希望有能人出来平定战乱。他特别敬佩诸葛亮，写过好几首怀念他的诗。这首诗里，既有对诸葛亮的赞美，也有他自己报国无门的感叹。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poem opens like a question and answer. Where is the temple? In the cypress woods outside the city. Lines three and four show spring at the temple: green grass, a bird singing sweetly. But the words zì (all by itself) and kōng (in vain) make it feel lonely. The great minister is gone, and no one is there to enjoy the view. Lines five and six sum up Zhuge Liang&#x27;s whole life in fourteen characters. Liu Bei visited him three times, and he served two rulers with all his heart. The last two lines touch people most. He led his army north, but died of illness before he could win. For more than a thousand years, people with big dreams that never came true have wept when they read these lines.</p><p lang="zh">开头像一问一答：丞相的祠堂在哪儿？在城外柏树林里。三、四句写祠堂里的春景：草很绿，鸟叫得很好听。可是一个“自”字、一个“空”字，让人觉得冷清，因为伟大的丞相已经不在了，美景也没人欣赏。五、六句用十四个字说完了诸葛亮的一生：刘备三顾茅庐，他尽心辅佐两代君主。最后两句最打动人：他出兵北伐，还没成功就病死了。千百年来，多少有志向却没能成功的人，读到这里都会流泪。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/pipaxing/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>琵琶行</b></a><a href="../../p/xunyinzhebuyu/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>寻隐者不遇</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["丞", "chéng"], ["相", "xiàng"], ["祠", "cí"], ["堂", "táng"], ["何", "hé"], ["处", "chù"], ["寻", "xún"]], [["锦", "jǐn"], ["官", "guān"], ["城", "chéng"], ["外", "wài"], ["柏", "bǎi"], ["森", "sēn"], ["森", "sēn"]], [["映", "yìng"], ["阶", "jiē"], ["碧", "bì"], ["草", "cǎo"], ["自", "zì"], ["春", "chūn"], ["色", "sè"]], [["隔", "gé"], ["叶", "yè"], ["黄", "huáng"], ["鹂", "lí"], ["空", "kōng"], ["好", "hǎo"], ["音", "yīn"]], [["三", "sān"], ["顾", "gù"], ["频", "pín"], ["烦", "fán"], ["天", "tiān"], ["下", "xià"], ["计", "jì"]], [["两", "liǎng"], ["朝", "cháo"], ["开", "kāi"], ["济", "jì"], ["老", "lǎo"], ["臣", "chén"], ["心", "xīn"]], [["出", "chū"], ["师", "shī"], ["未", "wèi"], ["捷", "jié"], ["身", "shēn"], ["先", "xiān"], ["死", "sǐ"]], [["长", "cháng"], ["使", "shǐ"], ["英", "yīng"], ["雄", "xióng"], ["泪", "lèi"], ["满", "mǎn"], ["襟", "jīn"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "丞相：古代帮皇帝管理国家的最高官员。这里指三国时蜀国的丞相诸葛亮。", "en": "chéng xiàng: the highest official who helped the emperor run the country; here Zhuge Liang, prime minister of the state of Shu in the Three Kingdoms period."}, {"line": 0, "start": 2, "end": 4, "zh": "祠堂：纪念某个人的庙。这里指成都的武侯祠。", "en": "cí táng: a temple built to honor someone; here the Wuhou Temple in Chengdu."}, {"line": 1, "start": 0, "end": 3, "zh": "锦官城：成都的别名。古时成都织锦很有名，朝廷在这里设官管理，所以这样叫。", "en": "jǐn guān chéng: another name for Chengdu. Chengdu was famous for silk brocade, and the court sent officials there to manage it, hence the name."}, {"line": 1, "start": 4, "end": 7, "zh": "柏森森：柏树又高又密。", "en": "bǎi sēn sēn: the cypress trees stand tall and thick."}, {"line": 2, "start": 0, "end": 2, "zh": "映阶：映照着台阶。", "en": "yìng jiē: shining on the steps."}, {"line": 2, "start": 4, "end": 7, "zh": "自春色：自己显出春天的颜色。“自”有“没人欣赏，自顾自地”的意思。", "en": "zì chūn sè: showing spring colors all by itself, with no one to enjoy them."}, {"line": 3, "start": 2, "end": 4, "zh": "黄鹂：一种黄色的小鸟，叫声好听。", "en": "huáng lí: the oriole, a small yellow bird with a sweet song."}, {"line": 3, "start": 4, "end": 7, "zh": "空好音：白白地唱着好听的歌。", "en": "kōng hǎo yīn: singing sweetly, but in vain."}, {"line": 4, "start": 0, "end": 2, "zh": "三顾：去拜访了三次。刘备曾三次到诸葛亮住的茅草屋去请他出山。", "en": "sān gù: visiting three times. Liu Bei went three times to Zhuge Liang's thatched hut to ask him to come and help."}, {"line": 4, "start": 2, "end": 4, "zh": "频烦：多次烦劳、多次请教。", "en": "pín fán: troubling him again and again, asking his advice many times."}, {"line": 4, "start": 4, "end": 7, "zh": "天下计：平定天下的大计划。", "en": "tiān xià jì: a grand plan to bring peace to the whole land."}, {"line": 5, "start": 0, "end": 2, "zh": "两朝：两代皇帝，指刘备和他的儿子刘禅。", "en": "liǎng cháo: two reigns: Liu Bei and his son Liu Shan."}, {"line": 5, "start": 2, "end": 4, "zh": "开济：开创事业，又帮着把事业维持下去。", "en": "kāi jì: helping to found the state and then helping to keep it going."}, {"line": 5, "start": 4, "end": 6, "zh": "老臣：年老忠心的大臣，指诸葛亮。", "en": "lǎo chén: a loyal old minister, meaning Zhuge Liang."}, {"line": 6, "start": 0, "end": 2, "zh": "出师：出兵打仗。", "en": "chū shī: to send out the army."}, {"line": 6, "start": 2, "end": 4, "zh": "未捷：还没有打胜。捷，胜利。", "en": "wèi jié: not yet victorious; jié means victory."}, {"line": 7, "start": 0, "end": 2, "zh": "长使：永远让。", "en": "cháng shǐ: forever makes."}, {"line": 7, "start": 6, "end": 7, "zh": "襟：衣服前面胸口的部分。", "en": "jīn: the front of a robe, over the chest."}], "readings": [{"line": 0, "pos": 1, "char": "相", "pinyin": "xiàng", "zh": "丞相的“相”指官职，读 xiàng。", "en": "As the title of an official, this character is read xiàng."}, {"line": 5, "pos": 1, "char": "朝", "pinyin": "cháo", "zh": "“两朝”指两代皇帝，读 cháo，不读 zhāo。", "en": "Here it means a ruler's reign, so it is read cháo, not zhāo."}], "speak": ["丞相祠堂何处寻", "锦官城外柏森森", "映阶碧草自春色", "隔叶黄鹂空好音", "三顾频烦天下计", "两朝开济老臣心", "出师未捷身先死", "偿使英雄泪满襟"], "speakTitle": "蜀相。杜甫。", "sample": "丞相祠堂何处寻"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

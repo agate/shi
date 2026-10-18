@@ -1,0 +1,504 @@
+{
+ "id": "ci-762493c00a24",
+ "kind": "ci",
+ "title": "一剪梅·红藕香残玉簟秋",
+ "title_en": "A Sprig of Plum Blossom: Red Lotus Fragrance Fades, the Jade Mat Turns Autumn-Cool",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十字）",
+  "en": "ci lyric in two stanzas, 60 characters"
+ },
+ "lines": [
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "藕",
+    "ǒu"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "簟",
+    "diàn"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "裳",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "字",
+    "zì"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "零",
+    "líng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "种",
+    "zhǒng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "计",
+    "jì"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "除",
+    "chú"
+   ]
+  ],
+  [
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": {
+  "zh": "资料库中“云中谁寄锦书来”一句作“雪中”，课本和通行本都作“云中”：书信由天上的大雁带来，所以说“云中”。这里用“云中”。",
+  "en": "In the line about the letter, the corpus has 'in the snow'. Textbooks and standard editions have 'in the clouds', because the letter is imagined as carried by wild geese through the sky. This page follows the textbook."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "裳",
+   "pinyin": "cháng",
+   "zh": "裳是古人穿的下衣（像裙子），读 cháng。现在“衣裳”一词读 yī shang。",
+   "en": "This character here is the lower garment people once wore, like a skirt, read cháng. In the modern word for clothes it is read shang."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "谁读 shuí，也可以读 shéi。",
+   "en": "This character is read shuí here; shéi is also correct."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "一",
+   "pinyin": "yì",
+   "zh": "一在第三声字前变读 yì。",
+   "en": "This character is read yì before a third-tone syllable."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "红藕：红色的荷花。",
+   "en": "hóng ǒu: red lotus flowers."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "玉簟：光滑精美、像玉一样凉的竹席。",
+   "en": "yù diàn: a fine bamboo sleeping mat, smooth and cool as jade."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "秋：这里指竹席已经透出秋天的凉意。",
+   "en": "qiū: autumn; here, the mat already feels autumn-cool."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "罗裳：用轻软的丝织品做的裙子。",
+   "en": "luó cháng: a skirt of light, soft silk."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "兰舟：用木兰树做的船，是对小船的美称。",
+   "en": "lán zhōu: a boat of magnolia wood, a pretty name for a small boat."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "锦书：书信。相传前秦时苏蕙把思念丈夫的诗织在锦缎上寄给他，后来就用锦书指夫妻之间的书信。",
+   "en": "jǐn shū: a brocade letter. Legend says that long ago a woman named Su Hui wove a poem of longing into brocade and sent it to her husband, so the word came to mean love letters between husband and wife."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "雁字：大雁飞的时候排成“一”字或“人”字形，所以叫雁字。古人传说大雁能传递书信。",
+   "en": "yàn zì: goose letters. Wild geese fly in lines shaped like characters, and people once believed geese could carry letters."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "西楼：西边的楼，这里指作者住的地方。",
+   "en": "xī lóu: the west tower, here the place where she lives."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "飘零：花瓣凋落，随风飘散。",
+   "en": "piāo líng: petals falling and blowing away."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "一种相思：同样的思念。",
+   "en": "yì zhǒng xiāng sī: the same longing."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "两处：两个地方，指她和丈夫分在两地。",
+   "en": "liǎng chù: two places, meaning she and her husband are apart."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "闲愁：说不出原因、却一直放不下的忧愁。",
+   "en": "xián chóu: a sorrow with no clear cause that will not go away."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "无计：没有办法。",
+   "en": "wú jì: no way, no means."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "才下眉头：皱着的眉头刚刚舒展开。",
+   "en": "cái xià méi tóu: the frown has only just eased from her brows."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 4,
+   "zh": "却上心头：愁思又涌上了心里。",
+   "en": "què shàng xīn tóu: the sorrow rises again in her heart."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "红色的荷花凋残了，香气也淡了，光滑的竹席透出秋凉。",
+   "en": "The red lotus has faded and lost its scent; the smooth bamboo mat feels autumn-cool."
+  },
+  {
+   "zh": "我轻轻解开丝绸的裙子，",
+   "en": "Gently I loosen my silk skirt"
+  },
+  {
+   "zh": "独自登上小船。",
+   "en": "and step alone into a little boat."
+  },
+  {
+   "zh": "天上的云里，有谁会寄来书信呢？",
+   "en": "Who will send me a letter through the clouds?"
+  },
+  {
+   "zh": "等到大雁排着队飞回来的时候，",
+   "en": "By the time the geese fly back in their lines,"
+  },
+  {
+   "zh": "月光已经洒满了西楼。",
+   "en": "moonlight fills the west tower."
+  },
+  {
+   "zh": "花儿自顾自地飘落，流水自顾自地流去。",
+   "en": "Flowers fall on their own, and water flows on its own."
+  },
+  {
+   "zh": "我们有着同样的相思，",
+   "en": "We share the same longing,"
+  },
+  {
+   "zh": "却在两个地方各自发愁。",
+   "en": "yet each of us grieves in a different place."
+  },
+  {
+   "zh": "这份感情没有办法消除，",
+   "en": "There is no way to get rid of this feeling:"
+  },
+  {
+   "zh": "刚刚从眉头上散开，",
+   "en": "no sooner does it leave my brows"
+  },
+  {
+   "zh": "又涌上了心头。",
+   "en": "than it rises in my heart."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为是李清照和丈夫赵明诚分别以后写的，表达对丈夫的思念。两人感情很好，常常一起研究诗词和古物。至于具体写于什么时候，说法不一。元代有一本书说，赵明诚出外求学，李清照舍不得他，把这首词写在锦帕上送给他。但这个说法不太可靠。",
+  "en": "This lyric is usually read as one Li Qingzhao wrote after parting from her husband, Zhao Mingcheng, to tell how much she missed him. They loved each other deeply and often studied poems and antiques together. Sources disagree on exactly when it was written. A Yuan-dynasty book says that when Zhao Mingcheng went away to study, Li Qingzhao could not bear to part and wrote this lyric on a silk handkerchief for him. But that story is not very reliable."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她前半生生活安定美满，词多写少女的快乐和夫妻分别的思念；后半生国破家亡，词变得非常悲苦。这首词是她前期写离别相思的代表作。",
+  "en": "Li Qingzhao (1084–about 1155), who called herself the Lay Buddhist Yi'an, is the most famous woman writer of ci in the Song. In the first half of her life she lived in peace and happiness, and her lyrics were about a girl's joys and missing her husband when they were apart. In the second half her country fell and her family was lost, and her lyrics became very sorrowful. This lyric is a famous example of her early poems of parting and longing."
+ },
+ "appreciation": {
+  "zh": "开头七个字就把季节说清楚了：荷花谢了，竹席凉了，秋天来了。她一个人上了小船，想散散心，心里却在盼信：大雁什么时候带来他的书信？等大雁飞回来，月亮已经照满西楼，她还在等。下片说花自己落，水自己流，谁也留不住，就像时间和分离。可她马上又说：我们想念的是同一份情，只是分在两个地方。这样一想，又甜又苦。最后三句最有名：愁思刚从眉头散去，又爬上了心头。眉头和心头一外一里，把那种怎么也甩不掉的思念写得活灵活现。",
+  "en": "The first seven characters set the season: the lotus has faded, the mat is cool, autumn has come. She steps into a boat alone to ease her heart, but she is really waiting for a letter. When will the geese bring word from him? By the time the geese return, moonlight fills the west tower, and she is still waiting. The second stanza says flowers fall and water flows on their own; no one can hold them back, just like time and parting. But then she adds: we feel the same love, only in two places. Thinking this way is both sweet and bitter. The last three lines are the most famous. The sorrow has just left her brows, and it climbs into her heart. Brows outside, heart inside: the lines bring to life a longing that simply cannot be shaken off."
+ },
+ "famous_lines": [
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "love",
+   "parting",
+   "moon",
+   "lotus"
+  ]
+ },
+ "uncertain": []
+}

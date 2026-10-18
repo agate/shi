@@ -1,0 +1,207 @@
+{
+ "id": "36e09cb4-4fb7-48be-b6c6-c9bd906d9331",
+ "kind": "shi",
+ "title": "竹里馆",
+ "title_en": "The Lodge in the Bamboo Grove",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "篁",
+    "huáng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "弹",
+    "tán"
+   ],
+   [
+    "琴",
+    "qín"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "啸",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "照",
+    "zhào"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "诗句和课本相同。古籍里这首诗收在王维的组诗《辋川集》中，所以数据里的题目写作“辋川集 竹里馆”，课本只用“竹里馆”作题目。",
+  "en": "The lines match the textbook. In old books this poem sits inside Wang Wei's set of poems called the Wangchuan Collection, so the data gives its title as \"Wangchuan Collection: The Lodge in the Bamboo Grove\". Textbooks use only \"The Lodge in the Bamboo Grove\"."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "幽篁：又深又密的竹林。幽，深、安静；篁，竹林。",
+   "en": "yōu huáng: a deep, thick bamboo grove. Yōu means deep and quiet; huáng means bamboo grove."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "弹琴：弹奏古琴，一种古代的弦乐器。",
+   "en": "tán qín: to play the qin, an old Chinese string instrument."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "复：又。",
+   "en": "fù: and also, again."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "长啸：撮起嘴唇发出又长又响亮的声音，古人用它来抒发心情。",
+   "en": "cháng xiào: to whistle long and loud through rounded lips. People of old did this to let out their feelings."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "深林：指竹林深处。",
+   "en": "shēn lín: deep in the grove."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "人不知：没有人知道。",
+   "en": "rén bù zhī: no one knows."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "相照：照着我。相，这里表示动作是对着“我”的。",
+   "en": "xiāng zhào: shines on me. Here xiāng shows that the action is aimed at the speaker."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我独自坐在幽深的竹林里，",
+   "en": "I sit alone deep in the bamboo grove,"
+  },
+  {
+   "zh": "一边弹琴，一边放声长啸。",
+   "en": "playing the qin and whistling long and loud."
+  },
+  {
+   "zh": "竹林这么深，没有人知道我在这里，",
+   "en": "The grove is so deep that no one knows I am here;"
+  },
+  {
+   "zh": "只有明月来照着我。",
+   "en": "only the bright moon comes to shine on me."
+  }
+ ],
+ "background": {
+  "zh": "王维中年以后在长安附近的蓝田辋川买下一处山间别墅，常在那里休养。他和好友裴迪把别墅附近的二十处景点各写了一首诗，合成《辋川集》。竹里馆就是其中一处，是竹林里的一间小屋。这首诗写的是他一个人在竹林里度过的一个月夜，具体年份不详。",
+  "en": "In middle age Wang Wei bought a country house at Wangchuan in Lantian, near Chang'an, and often rested there. He and his friend Pei Di each wrote a poem about twenty spots around the house. Together these became the Wangchuan Collection. The Lodge in the Bamboo Grove was one of those spots, a small hut among the bamboo. This poem is about a moonlit night he spent there alone. The year is not known."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），字摩诘，唐代著名诗人，也是画家和音乐家。他的山水诗写得安静、干净，宋代苏轼说他“诗中有画，画中有诗”。他晚年信佛，喜欢在山林里过清静的日子。",
+  "en": "Wang Wei (701–761; some say 699–761) was a famous Tang poet, and also a painter and musician. His poems about hills and streams are calm and clean. The Song writer Su Shi said there were paintings in his poems and poems in his paintings. In later life he followed Buddhism and liked a quiet life in the hills."
+ },
+ "appreciation": {
+  "zh": "想象夜里的竹林：竹子又高又密，四周静悄悄的。诗人一个人坐在里面，弹一会儿琴，又仰头长啸几声。没人听见，也没人打扰，他却一点也不觉得寂寞。因为天上的明月好像懂他，特意穿过竹叶来照着他。琴声、啸声让夜更显得安静，月光让竹林更显得清幽。整首诗写的是一种自由自在、和大自然做朋友的心情，读起来让人心里也静下来。",
+  "en": "Picture a bamboo grove at night. The bamboo is tall and thick, and all around is still. The poet sits alone inside, plays the qin for a while, then lifts his head and whistles long and loud. No one hears him and no one bothers him, yet he does not feel lonely at all. The bright moon seems to understand him and comes through the leaves to shine on him. The music and the whistling make the night feel even quieter, and the moonlight makes the grove feel even more peaceful. The whole poem is about feeling free and making friends with nature, and reading it calms the heart."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "bamboo",
+   "moon",
+   "solitude",
+   "music",
+   "nature"
+  ]
+ },
+ "uncertain": []
+}

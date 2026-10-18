@@ -1,0 +1,753 @@
+{
+ "id": "ci-08db962e63f8",
+ "kind": "ci",
+ "title": "水龙吟·次韵章质夫杨花词",
+ "title_en": "Water Dragon Chant: Willow Catkins, Matching Zhang Zhifu's Rhymes",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调慢词",
+  "en": "ci, a long lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "也",
+    "yě"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "坠",
+    "zhuì"
+   ]
+  ],
+  [
+   [
+    "抛",
+    "pāo"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "傍",
+    "bàng"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "量",
+    "liáng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "萦",
+    "yíng"
+   ],
+   [
+    "损",
+    "sǔn"
+   ],
+   [
+    "柔",
+    "róu"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "酣",
+    "hān"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "开",
+    "kāi"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "闭",
+    "bì"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "还",
+    "hái"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "起",
+    "qǐ"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "缀",
+    "zhuì"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "过",
+    "guò"
+   ]
+  ],
+  [
+   [
+    "遗",
+    "yí"
+   ],
+   [
+    "踪",
+    "zōng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "池",
+    "chí"
+   ],
+   [
+    "萍",
+    "píng"
+   ],
+   [
+    "碎",
+    "suì"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "分",
+    "fēn"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "土",
+    "tǔ"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "结尾三句，有的版本断成“细看来，不是杨花点点，是离人泪”。现在常见的读法是“细看来，不是杨花，点点是离人泪”，这里照常见读法分行。文字本身没有不同。",
+  "en": "Some editions break the last lines as \"Look closely: not dots of catkins, but tears of parted people.\" The more common reading breaks them as \"Look closely: not catkins; every drop is a parted person's tear.\" This page follows the common reading. The words themselves are the same."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 5,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "这里是“让、使”的意思，现在一般读 jiào。古代诗词里这个意思读平声，所以也有人读 jiāo。",
+   "en": "Here it means \"to let\". Today it is usually read jiào. In old poetry this meaning was a level tone, so some people read it jiāo."
+  },
+  {
+   "line": 4,
+   "pos": 3,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "这里是名词“心思、情思”，现在按普通话读 sī。古音读去声，所以有人读 sì，和“坠、闭、起、泪”这些韵脚押韵。",
+   "en": "Here it is a noun, \"thoughts and feelings\". In standard Mandarin it is read sī. In old times this use was a falling tone, so some read it sì, which rhymes with the other rhyme words such as zhuì, bì, qǐ and lèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 6,
+   "zh": "似花还似非花：说它像花，又好像不是花。杨花就是柳絮，是柳树的种子带着白色的绒毛，样子像花，却没有花瓣。",
+   "en": "sì huā hái sì fēi huā: it seems like a flower, yet also seems not to be one. Willow catkins are the fluffy white seeds of the willow tree. They look like flowers but have no petals."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "从教坠：任凭它落下。从，任凭、随便；教，让。",
+   "en": "cóng jiào zhuì: letting it fall as it will. Cóng means to let things go their own way; jiào means to let or make."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "抛家傍路：离开了家（柳树），落在路边。傍，靠近。",
+   "en": "pāo jiā bàng lù: leaving home (the willow tree) and lying by the road. Bàng means close to, beside."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "思量：仔细想一想。",
+   "en": "sī liáng: to think it over carefully."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "无情有思：看上去没有感情，其实有自己的心思。思，心思、情意。",
+   "en": "wú qíng yǒu sī: it seems to have no feelings, yet it has thoughts of its own. Sī here means thoughts and feelings."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "萦损柔肠：愁思缠绕，把柔软的肠子都伤坏了，形容非常忧愁。萦，缠绕；损，伤。这里把柳枝比作女子的柔肠。",
+   "en": "yíng sǔn róu cháng: sorrow winds round and hurts her soft heart, meaning deep sadness. Yíng means to wind around; sǔn means to hurt. The soft willow twigs are pictured as a woman's tender insides."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "困酣娇眼：美丽的眼睛困得睁不开。酣，沉沉的样子。古人把柳叶比作美人的眼睛，叫“柳眼”。",
+   "en": "kùn hān jiāo yǎn: her lovely eyes are heavy with sleep. Hān means deep, heavy. Old poets called willow leaves \"willow eyes\", like a beauty's eyes."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 4,
+   "zh": "欲开还闭：想睁开，却又闭上了。",
+   "en": "yù kāi hái bì: about to open, then closing again."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "寻郎去处：去找心上人去的地方。郎，女子对爱人的称呼。",
+   "en": "xún láng qù chù: looking for the place where her beloved has gone. Láng is how a woman spoke of the man she loved."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 6,
+   "zh": "又还被莺呼起：却又被黄莺的叫声吵醒了。莺，黄莺，一种叫声好听的鸟。",
+   "en": "yòu hái bèi yīng hū qǐ: but she is woken again by the call of an oriole. Yīng is the oriole, a bird with a sweet song."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 3,
+   "zh": "西园：泛指花园。",
+   "en": "xī yuán: the west garden, meaning any garden."
+  },
+  {
+   "line": 12,
+   "start": 3,
+   "end": 7,
+   "zh": "落红难缀：落下的花瓣没法再接回枝头。落红，落花；缀，连接、接上。",
+   "en": "luò hóng nán zhuì: fallen petals can never be joined back to the branch. Luò hóng means fallen flowers; zhuì means to join or attach."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "晓来：早上。",
+   "en": "xiǎo lái: in the morning."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 4,
+   "zh": "遗踪何在：留下的踪影在哪里？",
+   "en": "yí zōng hé zài: where are the traces it left?"
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 4,
+   "zh": "一池萍碎：满池都是碎碎的浮萍。萍，浮萍，浮在水面上的小草。古人传说杨花落进水里会变成浮萍，苏轼在这首词的自注里也这样说。",
+   "en": "yī chí píng suì: the pond is full of broken duckweed. Píng is duckweed, tiny plants that float on water. People of old believed that catkins falling into water turned into duckweed, and Su Shi says so in his own note to this ci."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "春色三分：把春天的景色分成三份。",
+   "en": "chūn sè sān fēn: split the spring scenery into three parts."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "尘土：落在地上，化成尘土。",
+   "en": "chén tǔ: fallen to the ground, turned to dust."
+  },
+  {
+   "line": 18,
+   "start": 2,
+   "end": 4,
+   "zh": "流水：落进水里，随水流走。",
+   "en": "liú shuǐ: fallen into the water and carried away."
+  },
+  {
+   "line": 21,
+   "start": 3,
+   "end": 5,
+   "zh": "离人：离别的人，和亲人分开的人。",
+   "en": "lí rén: a person parted from someone they love."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "说它像花，又好像不是花，",
+   "en": "It seems like a flower, and yet it seems not to be one."
+  },
+  {
+   "zh": "也没有人怜惜它，任凭它飘落。",
+   "en": "No one feels sorry for it; they just let it fall."
+  },
+  {
+   "zh": "它离开了柳树的家，落在路边，",
+   "en": "It leaves its home on the willow and lies by the road."
+  },
+  {
+   "zh": "仔细想一想，",
+   "en": "But if you think it over,"
+  },
+  {
+   "zh": "它看似无情，其实也有自己的心思。",
+   "en": "it seems to have no feelings, yet it has thoughts of its own."
+  },
+  {
+   "zh": "愁思缠绕，伤透了柔软的心肠，",
+   "en": "Sorrow winds around it and hurts its tender heart."
+  },
+  {
+   "zh": "美丽的眼睛困得睁不开，",
+   "en": "Its lovely eyes are heavy with sleep,"
+  },
+  {
+   "zh": "想睁开却又闭上。",
+   "en": "about to open, then closing again."
+  },
+  {
+   "zh": "在梦里，它随着风飞了万里，",
+   "en": "In a dream it flies ten thousand miles on the wind,"
+  },
+  {
+   "zh": "去寻找心上人去的地方，",
+   "en": "looking for the place where her beloved has gone,"
+  },
+  {
+   "zh": "却又被黄莺的叫声吵醒。",
+   "en": "but an oriole's call wakes her again."
+  },
+  {
+   "zh": "我不怨这杨花全都飞光了，",
+   "en": "I do not mind that these catkins have all flown away."
+  },
+  {
+   "zh": "只怨园子里的落花，再也接不回枝头。",
+   "en": "What hurts is that the fallen flowers in the garden can never go back on the branch."
+  },
+  {
+   "zh": "早上一场雨过后，",
+   "en": "After the rain this morning,"
+  },
+  {
+   "zh": "杨花留下的踪影在哪里呢？",
+   "en": "where are the traces of the catkins?"
+  },
+  {
+   "zh": "只剩一池细碎的浮萍。",
+   "en": "Only a pond full of broken duckweed."
+  },
+  {
+   "zh": "如果春色有三分，",
+   "en": "If spring's beauty came in three parts,"
+  },
+  {
+   "zh": "两分化成了地上的尘土，",
+   "en": "two parts have turned to dust on the ground,"
+  },
+  {
+   "zh": "一分随着流水走了。",
+   "en": "and one part has floated off with the stream."
+  },
+  {
+   "zh": "仔细看来，",
+   "en": "Look closely:"
+  },
+  {
+   "zh": "这哪里是杨花，",
+   "en": "these are not willow catkins at all."
+  },
+  {
+   "zh": "点点都是离别的人流下的眼泪。",
+   "en": "Every drop is a tear shed by someone parted from a loved one."
+  }
+ ],
+ "background": {
+  "zh": "苏轼的朋友章质夫（名楶）写了一首咏杨花的《水龙吟》，很有名。苏轼读了，用同样的韵脚和了一首，这就叫“次韵”。所以题目叫“次韵章质夫杨花词”。一般认为这首词写于宋神宗元丰四年（1081年），那时苏轼被贬在黄州；一说写于元祐年间。后人常说，苏轼这首和词比原作写得还要好。",
+  "en": "Su Shi's friend Zhang Zhifu (given name Jie) wrote a famous ci to the tune Water Dragon Chant about willow catkins. Su Shi read it and wrote a reply to the same tune using the very same rhyme words. Writing like that is called ci yun, \"following the rhymes\". That is why the title says it matches Zhang Zhifu's rhymes. It is usually dated to 1081, when Su Shi had been sent away to Huangzhou as a punishment; another view dates it a few years later. Later readers often said Su Shi's reply was even better than the original."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画样样精通。他的词大多豪放开阔，比如《念奴娇·赤壁怀古》。但这首词写得非常细腻温柔，可见他什么风格都能写好。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great writer of the Northern Song. He was a master of poems, ci, essays, calligraphy and painting. Most of his ci are bold and broad, like \"Recalling the Past at Red Cliff\". But this one is very delicate and gentle, which shows he could write well in any style."
+ },
+ "appreciation": {
+  "zh": "杨花很不起眼，像花又不是花，飘落了也没人可惜。苏轼却把它写成了一个有心事的女子。上阕里，柳枝像她的柔肠，柳叶像她困倦的眼睛；杨花随风飘飞，就像她在梦里飞了万里去找心上人，刚要找到，又被黄莺叫醒。下阕从花写到人：春天走了，落花回不到枝头；一夜雨后，杨花变成了满池碎萍。春色三分，两分成了尘土，一分随水流走，算得清清楚楚，叫人心疼。最后一句最有名：细细一看，那点点白色哪是杨花，分明是离别人的眼泪。全词写杨花，也写人，花和人分不开了。",
+  "en": "Willow catkins are easy to overlook. They are like flowers but are not, and no one minds when they fall. Su Shi turns them into a woman with a heavy heart. In the first stanza the willow twigs are her tender heart, and the leaves are her sleepy eyes. The catkins drifting on the wind are like her flying ten thousand miles in a dream to find her love. Just as she is about to find him, an oriole wakes her. The second stanza moves from flowers to people. Spring is leaving, and fallen petals cannot return to the branch. After a night of rain, the catkins have become broken duckweed in the pond. Spring's beauty is split into three parts: two turned to dust, one gone with the water. Counting it so exactly makes it hurt more. The last line is the most famous. Look closely: those white dots are not catkins at all. They are the tears of people parted from those they love. The ci is about catkins and about people, and in the end you cannot tell them apart."
+ },
+ "famous_lines": [
+  0,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "willow",
+   "parting",
+   "late-spring",
+   "longing",
+   "tears"
+  ]
+ },
+ "uncertain": []
+}

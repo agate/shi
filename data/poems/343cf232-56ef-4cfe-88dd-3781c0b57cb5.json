@@ -1,0 +1,251 @@
+{
+ "id": "343cf232-56ef-4cfe-88dd-3781c0b57cb5",
+ "kind": "shi",
+ "title": "峨眉山月歌",
+ "title_en": "Song of the Moon over Mount Emei",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "峨",
+    "é"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "轮",
+    "lún"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ],
+  [
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "羌",
+    "qiāng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "发",
+    "fā"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "峡",
+    "xiá"
+   ]
+  ],
+  [
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "渝",
+    "yú"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "峨眉山：在今天四川峨眉山市，是一座有名的高山。",
+   "en": "é méi shān: Mount Emei, a famous high mountain in today's Sichuan."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "半轮秋：秋夜的半个月亮。半轮，月亮只有一半亮。",
+   "en": "bàn lún qiū: a half moon in autumn. Bàn lún means half a wheel, half the moon shining."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "影：月亮的影子，就是月光。",
+   "en": "yǐng: the moon's reflection, its light."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "平羌江：就是今天的青衣江，在峨眉山东北边，流进岷江。",
+   "en": "píng qiāng jiāng: the Pingqiang River, today's Qingyi River, northeast of Mount Emei, which flows into the Min River."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "夜发：夜里出发。",
+   "en": "yè fā: to set out at night."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "清溪：清溪驿，一个驿站（古代路上供人歇脚换马的地方），在今天四川犍为一带。",
+   "en": "qīng xī: Qingxi Station, a post station (a place on the road to rest and change horses), near today's Qianwei in Sichuan."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "三峡：长江上的三段峡谷。一说这里指乐山附近的三个峡。",
+   "en": "sān xiá: the Three Gorges of the Yangtze. Another view says it means three gorges near Leshan."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "君：你。一般认为指峨眉山的月亮；一说指诗人的朋友。",
+   "en": "jūn: you. Most people think it means the moon over Mount Emei. Another view says it is a friend of the poet."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "渝州：今天的重庆一带。",
+   "en": "yú zhōu: Yuzhou, around today's Chongqing."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "峨眉山上挂着秋天的半个月亮，",
+   "en": "Over Mount Emei hangs the half moon of autumn,"
+  },
+  {
+   "zh": "月光映在平羌江里，随着江水一起流动。",
+   "en": "its light falls into the Pingqiang River and flows on with the water."
+  },
+  {
+   "zh": "夜里我从清溪出发，向三峡驶去，",
+   "en": "At night I set out from Qingxi, heading for the Three Gorges;"
+  },
+  {
+   "zh": "想念你却看不见你，只好顺流而下去渝州。",
+   "en": "I miss you but cannot see you, as I sail down to Yuzhou."
+  }
+ ],
+ "background": {
+  "zh": "李白在蜀地（今四川）长大。一般认为，这首诗是725年前后他第一次离开家乡、坐船沿江东下时写的。那是一个秋夜，船从峨眉山附近出发，经过清溪，向渝州、三峡驶去。山上的月亮陪着他，后来山越来越远，月亮也看不见了。",
+  "en": "Li Bai grew up in Shu, today's Sichuan. Most people think he wrote this poem around 725, when he first left home and sailed east down the river. It was an autumn night. His boat set out near Mount Emei, passed Qingxi, and headed for Yuzhou and the Three Gorges. The moon over the mountain kept him company, until the mountains fell behind and the moon was gone too."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他从小在蜀地（今四川）长大，二十多岁离开家乡，到各地游历。他的诗想象大胆，气势豪放，最爱写山水、明月和美酒。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. He grew up in Shu, today's Sichuan. In his twenties he left home and travelled far and wide. His poems are bold and full of wild imagination. He loved to write about mountains, rivers, the moon and wine."
+ },
+ "appreciation": {
+  "zh": "这首诗写的是离开家乡的一夜。第一句抬头看：峨眉山上挂着半个秋月。第二句低头看：月光落在江里，跟着水一起流，好像月亮也在陪他赶路。后两句船越走越远，山挡住了月亮，想看也看不见了，只好带着思念继续向前。短短二十八个字，用了五个地名，却一点也不乱，读起来像坐在船上一路往下漂。这里的“君”，多数人认为是月亮，也有人认为是朋友，不管哪种，都是对家乡的留恋。",
+  "en": "This poem is about one night of leaving home. In the first line the poet looks up: a half autumn moon hangs over Mount Emei. In the second he looks down: the moonlight lies on the river and flows with it, as if the moon is travelling with him. In the last two lines the boat goes farther and farther. The mountains hide the moon, and he cannot see it however much he wants to, so he goes on with his longing. The poem uses five place names in twenty-eight characters, yet it never feels crowded. Reading it feels like drifting downstream in the boat. Most people think \"you\" means the moon, some think it is a friend. Either way, it is love for the home he is leaving."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "river",
+   "homesick",
+   "journey"
+  ]
+ },
+ "uncertain": []
+}

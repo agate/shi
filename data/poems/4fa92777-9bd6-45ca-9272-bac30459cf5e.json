@@ -1,0 +1,258 @@
+{
+ "id": "4fa92777-9bd6-45ca-9272-bac30459cf5e",
+ "kind": "shi",
+ "title": "乌衣巷",
+ "title_en": "Black Robe Lane",
+ "author": "刘禹锡",
+ "author_en": "Liu Yuxi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "雀",
+    "què"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "乌",
+    "wū"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "巷",
+    "xiàng"
+   ],
+   [
+    "口",
+    "kǒu"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "斜",
+    "xié"
+   ]
+  ],
+  [
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "谢",
+    "xiè"
+   ],
+   [
+    "堂",
+    "táng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "姓",
+    "xìng"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "斜",
+   "pinyin": "xié",
+   "zh": "“斜”现在读 xié。古音读 xiá，和“花、家”押韵。课本读 xié。",
+   "en": "Today this is read xié. In older speech it was read xiá, rhyming with huā and jiā. Textbooks read it xié."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "朱雀桥：金陵（今江苏南京）秦淮河上的一座桥，在乌衣巷附近。",
+   "en": "zhū què qiáo: Zhuque Bridge, the Red Bird Bridge, over the Qinhuai River in Jinling, today's Nanjing, near Black Robe Lane."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "野草花：野草开了花。",
+   "en": "yě cǎo huā: wild grasses in flower."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "乌衣巷：金陵城里的一条巷子。东晋时，王家、谢家这些大家族住在这里。",
+   "en": "wū yī xiàng: Black Robe Lane, a lane in Jinling. In the Eastern Jin, great families such as the Wangs and the Xies lived here."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "夕阳斜：太阳快落山了，斜斜地照着。",
+   "en": "xī yáng xié: the setting sun shining low and slanting."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "旧时：从前。",
+   "en": "jiù shí: in the old days."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "王谢：东晋的两大家族，以王导、谢安为代表，权势很大。",
+   "en": "wáng xiè: the Wang and Xie clans, the two greatest families of the Eastern Jin, led by men such as Wang Dao and Xie An."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "堂前燕：在大堂屋檐下做窝的燕子。",
+   "en": "táng qián yàn: swallows nesting under the eaves of the great hall."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "寻常：平常，普通。",
+   "en": "xún cháng: ordinary, common."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "百姓家：普通老百姓的家。",
+   "en": "bǎi xìng jiā: the homes of ordinary people."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "朱雀桥边，长满了野草，开着野花。",
+   "en": "By Zhuque Bridge the wild grass is in flower."
+  },
+  {
+   "zh": "乌衣巷口，夕阳斜斜地照着。",
+   "en": "At the mouth of Black Robe Lane the evening sun slants low."
+  },
+  {
+   "zh": "从前在王家、谢家大堂前做窝的燕子，",
+   "en": "The swallows that once nested before the halls of the Wangs and the Xies"
+  },
+  {
+   "zh": "如今飞进了普通老百姓的家里。",
+   "en": "now fly into the homes of ordinary people."
+  }
+ ],
+ "background": {
+  "zh": "这是刘禹锡《金陵五题》里的第二首。金陵就是今天的江苏南京，做过六个朝代的都城。刘禹锡在诗前写了一段话，说他年轻时没去过金陵，后来在和州（今安徽和县）做刺史时，有客人拿《金陵五题》给他看，他也写了五首。一般认为这组诗写于唐敬宗宝历年间（约825—826年）。",
+  "en": "This is the second of Liu Yuxi's \"Five Poems on Jinling\". Jinling is today's Nanjing, once the capital of six dynasties. In a short preface, Liu Yuxi wrote that he had never visited Jinling as a young man. Later, while he was prefect of Hezhou, today's He County in Anhui, a guest showed him some poems on Jinling, and he wrote five of his own. The set is usually dated to about 825–826."
+ },
+ "author_note": {
+  "zh": "刘禹锡（772—842），唐朝诗人，字梦得，人称“诗豪”。他因为参加政治改革失败，被贬到远方做官二十多年，看过很多兴衰变化。他的咏史诗常常从小景物写出大道理，这首就是有名的例子。",
+  "en": "Liu Yuxi (772–842) was a Tang poet known as the Hero of Poetry. After a political reform he joined failed, he was sent to posts far from the capital for more than twenty years and saw much rise and fall. His poems on history often draw a big truth out of a small scene, and this is a famous example."
+ },
+ "appreciation": {
+  "zh": "前两句写今天的样子：朱雀桥和乌衣巷，从前是最热闹、最气派的地方，现在桥边长满野草野花，巷口只有斜斜的夕阳，冷冷清清。后两句写燕子，特别巧妙。燕子每年都回到老地方做窝，它们还是从前那些“王谢堂前燕”，可是王家、谢家的大宅子早没了，那里住的已经是普通人家。燕子没有变，变的是人间。诗人一句也没说“世事变化真大”，只让我们看一只燕子飞进了一户普通人家，就让人感到几百年的兴衰都过去了。",
+  "en": "The first two lines show the place today. Zhuque Bridge and Black Robe Lane were once the liveliest, grandest places in the city. Now wild grass and flowers grow by the bridge, and only the slanting evening sun lights the lane. It is quiet and empty. The last two lines, about swallows, are very clever. Swallows return to the same places every year to nest. They seem to be the same \"swallows before the halls of the Wangs and Xies\", but those great mansions are long gone, and ordinary families live there now. The swallows have not changed; the human world has. The poet never says \"how much the world has changed\". He just lets us watch a swallow fly into an ordinary home, and we feel hundreds of years of rise and fall slip away."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "change",
+   "swallow",
+   "sunset"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,411 @@
+{
+ "id": "ci-a458c0611cea",
+ "kind": "ci",
+ "title": "西江月·遣兴",
+ "title_en": "West River Moon: Venting My Feelings",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "且",
+    "qiě"
+   ],
+   [
+    "贪",
+    "tān"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "笑",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "要",
+    "yào"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "工",
+    "gōng"
+   ],
+   [
+    "夫",
+    "fū"
+   ]
+  ],
+  [
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "始",
+    "shǐ"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "书",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "信",
+    "xìn"
+   ],
+   [
+    "著",
+    "zhuó"
+   ],
+   [
+    "全",
+    "quán"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "倒",
+    "dǎo"
+   ]
+  ],
+  [
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "如",
+    "rú"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "动",
+    "dòng"
+   ],
+   [
+    "要",
+    "yào"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "扶",
+    "fú"
+   ]
+  ],
+  [
+   [
+    "以",
+    "yǐ"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "推",
+    "tuī"
+   ],
+   [
+    "松",
+    "sōng"
+   ],
+   [
+    "曰",
+    "yuē"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 2,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "“那得”就是“哪得”，“那”在这里是疑问词“哪”，读 nǎ。",
+   "en": "Nǎ dé means 'how could there be'. This character is used for the question word nǎ (how, where) and is read nǎ."
+  },
+  {
+   "line": 1,
+   "pos": 5,
+   "char": "夫",
+   "pinyin": "fū",
+   "zh": "“工夫”在现代汉语里读 gōngfu，“夫”读轻声；读诗时一般读 fū。",
+   "en": "In modern speech gōng fu ends with a light, toneless fu. When reading the poem aloud it is usually read fū."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "著",
+   "pinyin": "zhuó",
+   "zh": "“信著”的“著”同“着”，读 zhuó，有“附着、执着”的意思。",
+   "en": "This character is the old form of zhuó here, meaning to hold on to, to stick to."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "且：暂且、姑且，先这样。",
+   "en": "qiě: for now, for the time being."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 6,
+   "zh": "贪欢笑：尽情地欢笑。贪，舍不得停。",
+   "en": "tān huān xiào: to laugh and be merry to the full. Tān means not wanting to stop."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "要愁：要想发愁。",
+   "en": "yào chóu: if I wanted to be sad."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "那得工夫：哪有时间。",
+   "en": "nǎ dé gōng fū: where would I find the time?"
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "始觉：才觉得、才发现。",
+   "en": "shǐ jué: only now realise."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "古人书：古代圣贤写的书。",
+   "en": "gǔ rén shū: books written by the sages of old."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "信著：相信它。著，同“着”。",
+   "en": "xìn zhuó: to believe in them."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 6,
+   "zh": "全无是处：一点用处也没有，一点也不对。这是气话：古书上讲的道理，在现实里根本行不通。",
+   "en": "quán wú shì chù: no use at all, not right at all. He says this in anger: what the old books teach does not work in the real world."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "何如：怎么样。",
+   "en": "hé rú: how is it?"
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "只疑：只怀疑、只觉得。",
+   "en": "zhǐ yí: I suspected, it seemed to me."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "曰：说。",
+   "en": "yuē: to say."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 6,
+   "zh": "去：走开！",
+   "en": "qù: go away!"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "喝醉了，就先尽情地欢笑吧，",
+   "en": "When I am drunk, let me laugh and be merry for now;"
+  },
+  {
+   "zh": "想要发愁，哪里有这个时间？",
+   "en": "if I wanted to be sad, where would I find the time?"
+  },
+  {
+   "zh": "最近我才发觉，古人书里的话，",
+   "en": "Only lately have I found that the books of the ancients,"
+  },
+  {
+   "zh": "要是全都相信，就一点用也没有。",
+   "en": "if you believe them fully, are no use at all."
+  },
+  {
+   "zh": "昨天夜里，我醉倒在松树旁边，",
+   "en": "Last night I fell down drunk beside a pine,"
+  },
+  {
+   "zh": "问松树：“我醉得怎么样？”",
+   "en": "and asked the pine, 'How drunk am I?'"
+  },
+  {
+   "zh": "只觉得松树摇摇晃晃，要过来扶我，",
+   "en": "I thought the pine was moving, coming over to help me up,"
+  },
+  {
+   "zh": "我用手一推松树，说：“走开！”",
+   "en": "so I pushed it with my hand and said, 'Go away!'"
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为是辛弃疾被罢官、闲居上饶带湖（今江西上饶）时写的。他一心想带兵收复北方失地，朝廷却不用他，只能在乡下一住就是很多年。心里的苦闷没处说，他就借喝酒来排遣，写下了这首看起来好笑、其实很心酸的词。“遣兴”就是抒发心情的意思。",
+  "en": "This lyric is usually thought to have been written while Xin Qiji, removed from office, was living at Daihu Lake in Shangrao, in today's Jiangxi. He longed to lead an army and win back the lost north, but the court would not use him, so he spent many years in the countryside. With nowhere to pour out his frustration, he turned to wine, and wrote this lyric that looks funny but is really sad. The title means letting out one's feelings."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他年轻时在北方带兵抗金，南下以后一直主张收复失地，却多次被罢官，在乡间闲居了将近二十年。他的词常常借喝酒、山水来写心中的不平，豪放中带着悲愤。",
+  "en": "Xin Qiji (1140–1207), known as Jiaxuan, was a great ci writer of the Southern Song. As a young man he led troops against the Jin in the north. After coming south he kept urging the court to win back the lost land, but he was removed from office many times and lived in the countryside for nearly twenty years in all. His lyrics often use wine and landscapes to voice his anger at injustice, bold on the surface and full of grief beneath."
+ },
+ "appreciation": {
+  "zh": "上半首像醉话：只顾笑，没空愁；古人的书，信了也白信。其实这是反话。他读的圣贤书教人忠君爱国，可他想报国却被赶回了家，所以才说书里的道理行不通。下半首是一个好玩的小故事：醉倒在松树边，问松树自己醉得怎样；看松树晃动，以为它要来扶，就推它一把说“去！”。这一推，推出了他不服输、不要人帮的倔强。读起来让人发笑，笑过之后，又能感到他心里的委屈和不甘。",
+  "en": "The first half sounds like drunken talk: he is too busy laughing to be sad, and the old books are worthless. But he means the opposite. The books of the sages teach loyalty to one's ruler and country, yet when he tried to serve his country he was sent home. That is why he says their teachings do not work. The second half is a funny little story. Drunk beside a pine, he asks it how drunk he is. When the pine seems to sway, he thinks it wants to help him up, so he shoves it and says, 'Go away!' That shove shows his stubborn pride: he will not give in, and he will not take help. It makes us laugh, and after the laugh we feel his hurt and his refusal to accept his fate."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "wine",
+   "pine",
+   "humor",
+   "frustration"
+  ]
+ },
+ "uncertain": []
+}

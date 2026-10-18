@@ -1,0 +1,212 @@
+{
+ "id": "9972f7bb-ae5b-49e4-87df-381386af66b6",
+ "kind": "shi",
+ "title": "问刘十九",
+ "title_en": "A Question for Liu Shijiu",
+ "author": "白居易",
+ "author_en": "Bai Juyi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "蚁",
+    "yǐ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "醅",
+    "pēi"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "泥",
+    "ní"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "炉",
+    "lú"
+   ]
+  ],
+  [
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "无",
+    "wú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "数据里写作“绿螘新醅酒，红泥小火垆”。“螘”是“蚁”的异体字，“垆”在这里通“炉”，课本写作“蚁”和“炉”，意思一样。",
+  "en": "The data writes yǐ (ant) and lú (stove) with older variant characters. The meaning is the same; textbooks use the standard forms."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "无",
+   "pinyin": "wú",
+   "zh": "句末的“无”是问话的语气词，相当于“吗”，现在读 wú。",
+   "en": "At the end of the line, wú is a question word, like asking \"or not?\". It is read wú today."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "绿蚁：新酿的米酒还没过滤，酒面上浮着一层淡绿色的小泡沫，像小蚂蚁，所以叫“绿蚁”。",
+   "en": "lǜ yǐ: green ants. New rice wine that has not been strained has tiny pale green bubbles on top that look like little ants."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "新醅：刚酿好的。醅，没有过滤的酒。",
+   "en": "xīn pēi: freshly brewed. Pēi is wine that has not been strained."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "红泥：红色的黏土，这里指火炉是用红泥做的。",
+   "en": "hóng ní: red clay; the little stove is made of it."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "晚来：傍晚。",
+   "en": "wǎn lái: toward evening."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "欲雪：要下雪了。欲，将要；雪，这里是动词，下雪。",
+   "en": "yù xuě: about to snow. Yù means about to; xuě, snow, is used here as a verb."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "无：句末表示问话，相当于“吗”。",
+   "en": "wú: at the end of a sentence it makes a question, like \"or not?\"."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "新酿的米酒还没过滤，浮着淡绿色的泡沫，",
+   "en": "New rice wine, freshly brewed, with pale green bubbles on top;"
+  },
+  {
+   "zh": "红泥做的小火炉烧得正旺。",
+   "en": "a little red clay stove glows warm."
+  },
+  {
+   "zh": "天快黑了，看样子要下雪，",
+   "en": "Evening is coming and it looks like snow;"
+  },
+  {
+   "zh": "你能来和我喝一杯吗？",
+   "en": "can you come and share a cup with me?"
+  }
+ ],
+ "background": {
+  "zh": "刘十九是白居易的朋友，“十九”是他在家族同辈兄弟中的排行，他具体是谁说法不一。这首诗一般认为是白居易在江州（今江西九江）做官时写的，大约在817年前后，一说时间不能确定。一个要下雪的傍晚，他备好了酒和火炉，写诗请朋友来喝一杯。",
+  "en": "Liu Shijiu was a friend of Bai Juyi. \"Shijiu\", nineteen, was his birth order among the cousins of his generation. Who exactly he was is not agreed on. The poem is usually thought to come from Bai's years as an official in Jiangzhou, today's Jiujiang in Jiangxi, around 817, though some say the date cannot be fixed. One evening when snow was coming, Bai got the wine and the stove ready and wrote this poem to invite his friend over for a drink."
+ },
+ "author_note": {
+  "zh": "白居易（772—846），字乐天，号香山居士，唐代大诗人。他主张诗要写得通俗易懂，据说他写完诗会念给不识字的老婆婆听，听懂了才定稿。他的诗流传很广，《长恨歌》《琵琶行》都很有名。",
+  "en": "Bai Juyi (772–846) was a great Tang poet. He believed poems should be plain and easy to understand. A story says he would read new poems to an old woman who could not read, and only kept them once she understood. His poems spread very widely; \"Song of Everlasting Sorrow\" and \"Song of the Pipa Player\" are especially famous."
+ },
+ "appreciation": {
+  "zh": "这首诗就像一张温暖的请帖。第一句写酒：新酒刚酿好，飘着淡绿色的小泡沫，好像闻得到香味。第二句写炉子：小小的红泥火炉，火苗正旺，暖洋洋的。第三句一转，写窗外：天暗下来了，快要下雪了，外面越来越冷。最后一句轻轻一问：能来喝一杯吗？屋里的暖和屋外的冷放在一起，朋友读到这里，大概马上就想出门了。全诗二十个字，绿的酒、红的炉、白的雪，颜色好看，友情也很温暖。",
+  "en": "This poem is like a warm little invitation card. The first line is about the wine: newly brewed, with pale green bubbles on top, so fresh you can almost smell it. The second line is about the stove: a small red clay stove with a bright fire, cosy and warm. The third line turns to the window: it is getting dark, snow is coming, and outside grows colder. The last line asks gently: can you come for a cup? The warmth inside sits beside the cold outside, and a friend reading this would probably want to set off at once. In twenty characters we get green wine, a red stove and white snow, lovely colours and a warm friendship."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "wine",
+   "snow",
+   "invitation"
+  ]
+ },
+ "uncertain": []
+}

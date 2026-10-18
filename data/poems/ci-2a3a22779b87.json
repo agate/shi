@@ -1,0 +1,347 @@
+{
+ "id": "ci-2a3a22779b87",
+ "kind": "ci",
+ "title": "如梦令·常记溪亭日暮",
+ "title_en": "Like a Dream: I Often Recall the Creek Pavilion at Dusk",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（如梦令）",
+  "en": "ci lyric, to the tune Ru Meng Ling (Like a Dream)"
+ },
+ "lines": [
+  [
+   [
+    "常",
+    "cháng"
+   ],
+   [
+    "记",
+    "jì"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "兴",
+    "xìng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "误",
+    "wù"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "藕",
+    "ǒu"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "滩",
+    "tān"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "鹭",
+    "lù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古诗库第二句作“沈醉”。“沈”是“沉”的古写法，繁简转换时没有改过来，课本作“沉醉”。另外，古诗库把“兴尽晚回舟”和“误入藕花深处”放在一行，这里按句分成两行。",
+  "en": "The corpus writes the first character of the second line in its old form, which the machine conversion kept; textbooks use the modern form, chén. The corpus also puts lines three and four on one line; here each sentence has its own line."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "兴",
+   "pinyin": "xìng",
+   "zh": "读 xìng，“兴致”的意思。不读 xīng。",
+   "en": "Read xìng, meaning the mood for fun. It is not xīng."
+  },
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "争",
+   "pinyin": "zhēng",
+   "zh": "读 zhēng，“争着、拼命”的意思。一说“争”通“怎”，是“怎么”的意思，读音不变。",
+   "en": "Read zhēng, meaning to strive or race. Another view says it stands for a word meaning \"how\"; the reading stays the same."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "一",
+   "pinyin": "yì",
+   "zh": "“一”本来读 yī，在第一声“滩”前面变读 yì。",
+   "en": "This character is yī on its own, but changes to yì before the first-tone tān."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "常记：常常想起。一说是“尝记”，曾经记得。",
+   "en": "cháng jì: often remember. Another reading takes it as \"once remembered\"."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "溪亭：小溪边的亭子。一说是一个地名。",
+   "en": "xī tíng: a pavilion by a creek. One view says it is a place name."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "日暮：傍晚，太阳快落山的时候。",
+   "en": "rì mù: dusk, when the sun is setting."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "沉醉：喝醉了，也指玩得太开心、陶醉在美景里。",
+   "en": "chén zuì: deeply drunk, and also lost in the joy of the scenery."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "归路：回家的路。",
+   "en": "guī lù: the way home."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "兴尽：玩够了，兴致没有了。兴，兴致、兴趣。",
+   "en": "xìng jìn: having had enough fun. Xìng means delight, the mood for fun."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "回舟：划船回家。",
+   "en": "huí zhōu: to row the boat back."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "误入：不小心划进了。",
+   "en": "wù rù: to wander in by mistake."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "藕花：荷花。藕是荷花的根茎。",
+   "en": "ǒu huā: lotus flowers. Ǒu is the lotus root."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "争渡：拼命地划船，想快点划出去。一说“争”就是“怎”，“争渡”是“怎么划出去呢”。",
+   "en": "zhēng dù: rowing hard to get out fast. Another view says zhēng here means \"how\", so it asks, \"How do we get out?\""
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "惊起：惊动得飞起来。",
+   "en": "jīng qǐ: startled into flying up."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 4,
+   "zh": "滩：水边的浅滩。",
+   "en": "tān: the shallows by the water."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "鸥鹭：水鸟。鸥是海鸥一类的鸟，鹭是白鹭，腿长、羽毛雪白。",
+   "en": "ōu lù: water birds: gulls, and egrets with long legs and snow-white feathers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我常常想起那天在溪边亭子里玩到傍晚，",
+   "en": "I often recall that day at the creek pavilion, till dusk,"
+  },
+  {
+   "zh": "喝得醉醺醺的，连回家的路都认不清了。",
+   "en": "so drunk with joy I could not find the way home."
+  },
+  {
+   "zh": "玩够了，天色已晚，才划着船往回走，",
+   "en": "When the fun was over, late, we turned the boat back,"
+  },
+  {
+   "zh": "却不小心划进了荷花丛的深处。",
+   "en": "and strayed by mistake deep into the lotus flowers."
+  },
+  {
+   "zh": "拼命划呀，",
+   "en": "Row hard!"
+  },
+  {
+   "zh": "拼命划呀，",
+   "en": "Row hard!"
+  },
+  {
+   "zh": "惊飞了一滩的水鸟。",
+   "en": "We startled a whole shore of gulls and egrets into the air."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为是李清照少女时期的作品，回忆了一次在溪边游玩的经历。她少年时生活在山东济南和北宋都城汴京（今河南开封），家境优裕，生活快乐无忧。具体写于哪一年、溪亭在哪里，已经无法确定。",
+  "en": "This lyric is usually thought to be from Li Qingzhao's girlhood. It recalls an outing by a creek. As a girl she lived in Jinan in Shandong and in the Northern Song capital, Bianjing (today's Kaifeng in Henan). Her family was well-off and her life was happy and carefree. The exact year, and where the creek pavilion was, can no longer be known."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她前半生生活美满，词写得活泼明快；后来金兵南下，丈夫去世，她流落江南，词变得凄凉悲伤。这首词是她早期快乐时光的写照。",
+  "en": "Li Qingzhao (1084–about 1155), who called herself the Lay Buddhist of Yi'an, was the most famous woman poet of the Song. Her early life was happy, and her lyrics were lively and bright. Later the Jin army invaded, her husband died, and she drifted in the south; her lyrics grew sad. This one captures her early, happy days."
+ },
+ "appreciation": {
+  "zh": "这首小词像一段短视频。开头是回忆：那天在溪边的亭子里玩到太阳落山，喝了点酒，开心得连回家的路都分不清。接着小船往回划，天快黑了，一不小心划进了荷花深处，四周全是高高的荷叶和荷花。这下着急了，“争渡，争渡”，两声连着喊，好像能听到划桨的水声和女孩们的笑闹声。最后，一大群水鸟被惊得扑啦啦飞起来。整首词只有三十三个字，却把少女的天真、活泼和大自然的美全写活了。",
+  "en": "This little lyric is like a short video. It opens with a memory: that day at the creek pavilion, playing until sunset, a little wine, so happy she could hardly find the way home. Then the small boat heads back. It is getting dark, and by mistake it drifts deep into the lotus, with tall leaves and flowers all around. Now they are in a hurry: \"Row hard! Row hard!\" Called out twice in a row, you can almost hear the splash of the oars and the girls laughing. At the end a whole flock of water birds bursts up into the air in fright. In just thirty-three characters, the lyric brings to life a girl's innocence and fun and the beauty of nature."
+ },
+ "famous_lines": [
+  3,
+  4,
+  5,
+  6
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lotus",
+   "boat",
+   "childhood",
+   "joy"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,252 @@
+{
+ "id": "cc7dff19-adc9-4f03-8862-057d1e7722b3",
+ "kind": "shi",
+ "title": "望天门山",
+ "title_en": "Gazing at Tianmen Mountain",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "至",
+    "zhì"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ],
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "岸",
+    "àn"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "出",
+    "chū"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古籍底本第二句作“碧水东流至北回”，现在课本作“碧水东流至此回”。",
+  "en": "In the source text the second line ends \"turns back to the north\". Today's textbooks say \"turns back here\"."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "天门：天门山，在今天安徽当涂，是长江两岸相对的两座山，东边叫博望山，西边叫梁山，像一道门。",
+   "en": "tiān mén: Tianmen Mountain, in today's Dangtu, Anhui. It is two hills facing each other across the Yangtze, Bowang on the east and Liang on the west, like a gate."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "中断：从中间断开。",
+   "en": "zhōng duàn: broken apart in the middle."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "楚江：长江流过古代楚国的这一段，所以叫楚江。",
+   "en": "chǔ jiāng: the Chu River, the part of the Yangtze flowing through the old land of Chu."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "开：冲开。",
+   "en": "kāi: to burst open."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "碧水：碧绿的江水。",
+   "en": "bì shuǐ: green-blue water."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "至此回：流到这里转了个弯。回，回旋、转向。",
+   "en": "zhì cǐ huí: on reaching this place it turns. Huí means to swirl and change direction."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "相对出：两岸的山面对面地出现在眼前。",
+   "en": "xiāng duì chū: the hills on both banks come into view, face to face."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "孤帆：一只小船。帆，船上挂的布篷，借风行船，这里代指船。",
+   "en": "gū fān: a lone sail, a single boat. A sail is the cloth on a boat that catches the wind; here it stands for the boat."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "日边来：从太阳那边驶来，好像从天边来。",
+   "en": "rì biān lái: coming from the side of the sun, as if from the edge of the sky."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "天门山从中间断开，是长江把它冲开的。",
+   "en": "Tianmen Mountain breaks apart in the middle, burst open by the Yangtze."
+  },
+  {
+   "zh": "碧绿的江水向东流，到这里转了个弯。",
+   "en": "The green water flows east and turns here."
+  },
+  {
+   "zh": "两岸的青山面对面地出现在眼前，",
+   "en": "The green hills on both banks come into view, face to face,"
+  },
+  {
+   "zh": "一只小船从太阳那边驶来。",
+   "en": "and a lone sail comes from where the sun is."
+  }
+ ],
+ "background": {
+  "zh": "天门山在今天安徽当涂，长江从两座山中间流过，两山像一道打开的大门。一般认为，这首诗是725年李白离开四川、坐船东下时写的，当时他二十多岁，第一次看到长江中下游的壮阔景色。诗里写的就是船上望天门山的样子。",
+  "en": "Tianmen Mountain is in today's Dangtu, Anhui. The Yangtze flows between two hills that stand like an open gate. Most people think Li Bai wrote this poem in 725, after leaving Sichuan and sailing east. He was in his twenties and saw the grand lower Yangtze for the first time. The poem shows Tianmen Mountain as seen from a boat."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他从小在蜀地（今四川）长大，二十多岁离开家乡，到各地游历。他的诗想象大胆，气势豪放，最爱写山水、明月和美酒。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. He grew up in Shu, today's Sichuan. In his twenties he left home and travelled far and wide. His poems are bold and full of wild imagination. He loved to write about mountains, rivers, the moon and wine."
+ },
+ "appreciation": {
+  "zh": "第一句写江水的力量：好像是长江一下子把天门山劈成了两半。第二句写山的力量：江水冲到这里，被山挡得转了弯。第三句最妙，一个“出”字，好像青山自己走出来迎接客人，其实是船在往前走，山才一座座出现在眼前。最后一句，一只小船从太阳那边驶来，画面一下子变得又远又亮。整首诗有山有水，有动有静，写出了长江的壮阔，也写出了年轻李白的兴奋。",
+  "en": "The first line shows the river's power: it is as if the Yangtze has split Tianmen Mountain in two at one stroke. The second shows the mountain's power: the river rushes here and is forced to turn. The third line is the cleverest. The word \"come out\" makes the hills seem to step forward to greet a guest. Really it is the boat moving, so the hills appear one after another. In the last line a lone boat sails from where the sun is, and the picture becomes wide and bright. The poem has mountains and water, movement and stillness. It shows how grand the Yangtze is, and how excited the young Li Bai felt."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "river",
+   "mountain",
+   "boat",
+   "scenery"
+  ]
+ },
+ "uncertain": []
+}

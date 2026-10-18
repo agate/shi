@@ -1,0 +1,284 @@
+{
+ "id": "abf4daf0-0c7b-4b0c-87a2-2c48097d6a65",
+ "kind": "shi",
+ "title": "绝句",
+ "title_en": "Quatrain",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "两",
+    "liǎng"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹂",
+    "lí"
+   ],
+   [
+    "鸣",
+    "míng"
+   ],
+   [
+    "翠",
+    "cuì"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "鹭",
+    "lù"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "含",
+    "hán"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "岭",
+    "lǐng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "泊",
+    "bó"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "吴",
+    "wú"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "船",
+    "chuán"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "行，这里读 háng，意思是行列、一排，不读 xíng。",
+   "en": "Here it is read háng, meaning a row or line, not xíng (to walk)."
+  },
+  {
+   "line": 3,
+   "pos": 1,
+   "char": "泊",
+   "pinyin": "bó",
+   "zh": "泊，这里读 bó，意思是停船，不读 pō（湖泊的泊）。",
+   "en": "Here it is read bó, meaning to moor a boat, not pō (a lake)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "黄鹂：一种黄色羽毛的小鸟，叫声很好听。",
+   "en": "huáng lí: the oriole, a small yellow bird with a lovely song."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "鸣：鸟叫。",
+   "en": "míng: to sing, of a bird."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "翠柳：翠绿的柳树。",
+   "en": "cuì liǔ: bright green willows."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "一行：一排，一队。",
+   "en": "yī háng: a line, a row."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "白鹭：一种白色的水鸟，腿和脖子都很长。",
+   "en": "bái lù: the egret, a white water bird with long legs and neck."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "窗含：窗框像把远处的景色含在里面，像一幅画装在画框里。",
+   "en": "chuāng hán: the window holds the view, like a picture in a frame."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "西岭：成都西边的岷山，山顶终年积雪。",
+   "en": "xī lǐng: the western ridges, the Min Mountains west of Chengdu, snow-capped all year."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "千秋雪：千年不化的积雪。",
+   "en": "qiān qiū xuě: snow that has lain for a thousand years."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "泊：停靠（船只）。",
+   "en": "bó: to moor, to tie up a boat."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "东吴：古代吴国一带，就是今天的江苏、浙江一带，离成都很远。",
+   "en": "dōng wú: Eastern Wu, the old land of Wu, around today's Jiangsu and Zhejiang, very far from Chengdu."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "万里船：从万里之外开来的船。",
+   "en": "wàn lǐ chuán: boats that have come from ten thousand li away."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "两只黄鹂在翠绿的柳树上欢快地唱歌，",
+   "en": "Two orioles sing among the green willows,"
+  },
+  {
+   "zh": "一行白鹭排着队飞上蓝天。",
+   "en": "and a line of white egrets flies up into the blue sky."
+  },
+  {
+   "zh": "从窗口望去，西岭上千年不化的积雪就在眼前，",
+   "en": "My window holds the snow of a thousand years on the western ridges,"
+  },
+  {
+   "zh": "门外停着从万里之外的东吴开来的船。",
+   "en": "and at my door are moored boats from Eastern Wu, ten thousand li away."
+  }
+ ],
+ "background": {
+  "zh": "这首诗原题《绝句四首》，这是第三首。安史之乱后，杜甫住在成都的草堂。后来成都发生兵乱，他离开草堂，在外漂泊。唐代宗广德二年（764年），好友严武又来镇守成都，杜甫也回到了草堂。这时战乱渐渐平息，又是春天，他心情很好，看着草堂周围的景色，写下了这几首诗。",
+  "en": "The original title is \"Four Quatrains\"; this is the third. After the An Lushan Rebellion, Du Fu lived in his thatched cottage in Chengdu. Later an army revolt broke out in Chengdu, and he left the cottage and wandered elsewhere. In 764 his good friend Yan Wu came back to govern Chengdu, and Du Fu returned to the cottage too. The fighting was dying down, and it was spring. In high spirits, he looked at the scenery around the cottage and wrote these poems."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他的诗大多写战乱和百姓的苦难，读起来很沉重。在成都草堂住的几年，是他一生中难得的安稳日子，所以这时写了不少轻松明快的小诗，这首就是其中最有名的一首。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. Most of his poems are about war and the suffering of ordinary people, and they feel heavy. The years at his cottage in Chengdu were a rare time of peace in his life, so he wrote many light, bright little poems then. This is the most famous of them."
+ },
+ "appreciation": {
+  "zh": "这首诗像四幅画拼在一起。第一句有声音、有颜色：黄鹂是黄的，柳树是绿的。第二句往上看：白鹭排成一行，飞向蓝天。第三句往远处看：窗口像个画框，框住了西边雪山。第四句看门外：停着从东吴来的船。四句诗，近的远的，高的低的，都写到了。而且每两句对得很整齐：“两个”对“一行”，“千秋”对“万里”。千秋是时间长，万里是路途远，船能开来，也说明战乱平息、道路通了，诗人的心情也跟着开阔起来。",
+  "en": "This poem is like four pictures put side by side. The first line has sound and colour: yellow orioles, green willows. The second looks up: white egrets in a row, flying into the blue. The third looks far off: the window is a frame holding the snowy western mountains. The fourth looks out the door: boats from Eastern Wu are moored there. In four lines we see near and far, high and low. Each pair of lines also matches neatly: \"two\" with \"one line\", \"a thousand years\" with \"ten thousand li\". A thousand years is a long time; ten thousand li is a long way. That boats can come from so far also shows the war has calmed and the roads are open again, and the poet's heart opens up with them."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "birds",
+   "nature",
+   "scenery",
+   "snow"
+  ]
+ },
+ "uncertain": []
+}

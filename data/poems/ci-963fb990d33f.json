@@ -1,0 +1,329 @@
+{
+ "id": "ci-963fb990d33f",
+ "kind": "ci",
+ "title": "如梦令·昨夜雨疏风骤",
+ "title_en": "Like a Dream: Last Night the Rain Was Light and the Wind Was Fierce",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（如梦令）",
+  "en": "ci lyric, to the tune Ru Meng Ling (Like a Dream)"
+ },
+ "lines": [
+  [
+   [
+    "昨",
+    "zuó"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "骤",
+    "zhòu"
+   ]
+  ],
+  [
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "睡",
+    "shuì"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "消",
+    "xiāo"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "棠",
+    "táng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "否",
+    "fǒu"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "肥",
+    "féi"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "帘",
+   "pinyin": "lián",
+   "zh": "读 juǎn，“卷起”的意思。不读 juàn（试卷的卷）。",
+   "en": "Read juǎn, meaning to roll up. It is not juàn, as in an exam paper."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "否",
+   "pinyin": "fǒu",
+   "zh": "读 fǒu，用在句末表示疑问。不读 pǐ。",
+   "en": "Read fǒu, a question word at the end of a sentence. It is not pǐ."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "读 yīng，“应该”的意思。不读 yìng。",
+   "en": "Read yīng, meaning should or must. It is not yìng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 6,
+   "zh": "雨疏风骤：雨点稀稀落落，风却刮得又急又猛。疏，稀疏。骤，急、猛。",
+   "en": "yǔ shū fēng zhòu: the rain was light and scattered, but the wind was sudden and fierce. Shū means sparse; zhòu means sudden."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "浓睡：睡得很沉、很香。",
+   "en": "nóng shuì: a deep, heavy sleep."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "不消残酒：没有消去残留的酒意，醒来还带着醉意。消，消除。",
+   "en": "bù xiāo cán jiǔ: the last of the wine had not worn off; she woke still a little tipsy. Xiāo means to clear away."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "试问：随口问问。",
+   "en": "shì wèn: to ask casually."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "卷帘人：卷起窗帘的人，指侍女（家里服侍的女孩）。",
+   "en": "juǎn lián rén: the one rolling up the blinds, that is, the maid."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "却道：却说。",
+   "en": "què dào: but she says."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "海棠：一种春天开花的树，花是粉红色的，很娇嫩。",
+   "en": "hǎi táng: a crabapple tree, which blooms with delicate pink flowers in spring."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "依旧：和原来一样。",
+   "en": "yī jiù: just as before."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "知否：知道吗？否，用在句末表示疑问。",
+   "en": "zhī fǒu: do you know? Fǒu at the end turns it into a question."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "应是：应该是。",
+   "en": "yīng shì: it must be."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 6,
+   "zh": "绿肥红瘦：绿叶长得又多又茂盛，红花却被风雨打落，变得稀少了。",
+   "en": "lǜ féi hóng shòu: the green grows plump and the red grows thin: the leaves are thick and full, but the wind and rain have knocked down many of the flowers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "昨天夜里雨点稀疏，风却刮得很猛。",
+   "en": "Last night the rain was light, but the wind was fierce."
+  },
+  {
+   "zh": "我睡了一大觉，醒来酒意还没有全消。",
+   "en": "I slept deeply, yet the wine had not worn off."
+  },
+  {
+   "zh": "我问正在卷帘子的侍女，海棠花怎么样了？",
+   "en": "I asked the maid rolling up the blinds how the crabapple was,"
+  },
+  {
+   "zh": "她却说海棠花还和昨天一样。",
+   "en": "but she said it was just the same as before."
+  },
+  {
+   "zh": "你知道吗？",
+   "en": "Don't you know?"
+  },
+  {
+   "zh": "你知道吗？",
+   "en": "Don't you know?"
+  },
+  {
+   "zh": "那应该是绿叶更茂盛，红花更稀少了啊。",
+   "en": "It must be green grown plump and red grown thin."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为是李清照早年的作品，写的是一个春天的早晨。前一夜风雨交加，她担心院子里的海棠花被吹落，醒来第一件事就是问侍女海棠花怎么样了。写作的具体年份不详。这首词一传出来就很有名，“绿肥红瘦”这四个字尤其受人称赞。",
+  "en": "This lyric is usually thought to be one of Li Qingzhao's early works. It is set on a spring morning. Wind and rain had blown all night, and she worried that the crabapple flowers in the garden had been knocked down. The first thing she did on waking was to ask the maid about them. The exact year is unknown. The lyric became famous as soon as it was known, and the four words \"green plump, red thin\" were especially praised."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她心思细腻，善于用平常的话写出新奇的句子。这首词写于她生活安定美满的前半生，带着一点少女的娇气和惜春的愁思。",
+  "en": "Li Qingzhao (1084–about 1155), who called herself the Lay Buddhist of Yi'an, was the most famous woman poet of the Song. She noticed small things and could turn plain words into fresh, surprising lines. This lyric comes from the happy, settled first half of her life, with a touch of a young woman's charm and a sadness at spring passing."
+ },
+ "appreciation": {
+  "zh": "这首词像一段小对话。一夜风雨后，词人还带着醉意醒来，心里第一件事就惦记着海棠花。侍女随口说：“海棠还和原来一样啊。”词人却不信，连说两声“知否，知否”，好像在说：你没看仔细呀！经过一夜风雨，一定是绿叶变得更茂密，红花却掉了不少。“绿肥红瘦”用“肥”和“瘦”来形容叶子和花，就像在说人胖了、瘦了，又新鲜又形象。一个粗心，一个细心，短短几句，写出了词人对花的爱惜，也写出了对春天将要过去的淡淡忧愁。",
+  "en": "This lyric is like a little conversation. After a night of wind and rain, the poet wakes still a bit tipsy, and the first thing on her mind is the crabapple flowers. The maid says casually, \"The crabapple is just the same.\" The poet does not believe it. She says twice, \"Don't you know? Don't you know?\" as if to say, \"You didn't look carefully!\" After such a night, the leaves must be thicker and many flowers must have fallen. \"Green plump, red thin\" describes leaves and flowers as if they were people getting fatter or thinner, which is fresh and vivid. One person careless, one careful: in a few lines the lyric shows her love for the flowers and a gentle sadness that spring is ending."
+ },
+ "famous_lines": [
+  4,
+  5,
+  6
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "flowers",
+   "rain",
+   "late-spring",
+   "morning"
+  ]
+ },
+ "uncertain": []
+}

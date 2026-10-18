@@ -1,0 +1,646 @@
+{
+ "id": "c348bc2e-f50d-436b-88b7-c198d63dacfc",
+ "kind": "shi",
+ "title": "行路难·其一",
+ "title_en": "The Road Is Hard, the First of Three",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言古诗（乐府）",
+  "en": "seven-character old-style ballad"
+ },
+ "lines": [
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "樽",
+    "zūn"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "斗",
+    "dǒu"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "千",
+    "qiān"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "珍",
+    "zhēn"
+   ],
+   [
+    "羞",
+    "xiū"
+   ],
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "钱",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "停",
+    "tíng"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "投",
+    "tóu"
+   ],
+   [
+    "箸",
+    "zhù"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "食",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "拔",
+    "bá"
+   ],
+   [
+    "剑",
+    "jiàn"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "顾",
+    "gù"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "然",
+    "rán"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "塞",
+    "sè"
+   ],
+   [
+    "川",
+    "chuān"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "钓",
+    "diào"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "忽",
+    "hū"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "难",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "难",
+    "nán"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "歧",
+    "qí"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "浪",
+    "làng"
+   ],
+   [
+    "会",
+    "huì"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "直",
+    "zhí"
+   ],
+   [
+    "挂",
+    "guà"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "帆",
+    "fān"
+   ],
+   [
+    "济",
+    "jì"
+   ],
+   [
+    "沧",
+    "cāng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "原始文本用了几个异体字：“筯”通行写作“箸”，“劒”通行写作“剑”，“岐路”课本写作“歧路”。这里用课本的写法，意思不变。",
+  "en": "The corpus text uses a few variant characters, for chopsticks, for sword, and for the fork in the road. This page uses the textbook forms; the meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "斗",
+   "pinyin": "dǒu",
+   "zh": "斗十千：读 dǒu，是量酒的器具和单位，不读 dòu。",
+   "en": "Here it reads dǒu, a measure for wine, not dòu."
+  },
+  {
+   "line": 4,
+   "pos": 5,
+   "char": "塞",
+   "pinyin": "sè",
+   "zh": "冰塞川：课本读 sè，意思是堵塞。也有人读 sāi。",
+   "en": "The textbook reads it sè, meaning to block. Some read it sāi."
+  },
+  {
+   "line": 5,
+   "pos": 3,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "太行：山名，读 háng，不读 xíng。",
+   "en": "In the mountain name Tài Háng it reads háng, not xíng."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "乘",
+   "pinyin": "chéng",
+   "zh": "乘舟：读 chéng，意思是坐。",
+   "en": "In chéng zhōu it reads chéng, meaning to ride."
+  },
+  {
+   "line": 12,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "长风：读 cháng。",
+   "en": "It reads cháng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "金樽：金色的酒杯，指精美的酒杯。",
+   "en": "jīn zūn: a golden wine cup, meaning a fine cup."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "清酒：清醇的好酒。",
+   "en": "qīng jiǔ: clear, fine wine."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "斗十千：一斗酒值十千钱，形容酒非常贵。斗，古代量酒的器具。",
+   "en": "dǒu shí qiān: a dǒu of wine costs ten thousand coins, meaning the wine is very costly. A dǒu is an old measure for wine."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "珍羞：珍贵的菜肴。羞，同“馐”，美味的食物。",
+   "en": "zhēn xiū: rare, delicious dishes."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "直：同“值”，价值。",
+   "en": "zhí: to be worth."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "投箸：放下筷子。箸，筷子。",
+   "en": "tóu zhù: putting down one's chopsticks. Zhù means chopsticks."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "四顾：向四周看。",
+   "en": "sì gù: to look all around."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "茫然：心里空落落的，不知道怎么办。",
+   "en": "máng rán: lost, at a loss, not knowing what to do."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "冰塞川：冰把河道堵住了。塞，堵住。川，河流。",
+   "en": "bīng sè chuān: ice blocks the river. Sè means to block; chuān means a river."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "太行：太行山，在今山西、河北、河南交界一带。",
+   "en": "tài háng: the Taihang Mountains, where today's Shanxi, Hebei and Henan meet."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 7,
+   "zh": "闲来垂钓碧溪上：传说姜太公（吕尚）未得志时，在渭水边的磻溪钓鱼，后来遇到周文王，帮助周朝打下天下。",
+   "en": "xián lái chuí diào bì xī shàng: legend says that before Jiang Taigong (Lü Shang) found success, he fished by a clear stream near the Wei River, then met King Wen of Zhou and helped the Zhou win the land."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "忽复：忽然又。",
+   "en": "hū fù: suddenly again."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "梦日边：传说伊尹被商汤任用之前，曾梦见自己坐船经过太阳和月亮的旁边。日边，也比喻皇帝身边。",
+   "en": "mèng rì biān: legend says Yi Yin, before King Tang of Shang made him his minister, dreamed of sailing past the sun and moon. Near the sun also means near the emperor."
+  },
+  {
+   "line": 10,
+   "start": 1,
+   "end": 3,
+   "zh": "歧路：岔路。",
+   "en": "qí lù: forks in the road."
+  },
+  {
+   "line": 11,
+   "start": 1,
+   "end": 3,
+   "zh": "安在：在哪里。",
+   "en": "ān zài: where is it?"
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "长风破浪：乘着大风冲破巨浪。南朝的宗悫年少时说过，愿“乘长风破万里浪”，比喻实现远大的志向。",
+   "en": "cháng fēng pò làng: riding a long wind to break through the waves. As a boy, Zong Que of the Southern Dynasties said he wished to ride the long wind and break the waves for ten thousand miles. It means reaching a great goal."
+  },
+  {
+   "line": 12,
+   "start": 4,
+   "end": 7,
+   "zh": "会有时：总会有那一天。",
+   "en": "huì yǒu shí: the day will surely come."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "云帆：高高的船帆，像挂在云里一样。",
+   "en": "yún fān: a tall sail, as if hung in the clouds."
+  },
+  {
+   "line": 13,
+   "start": 4,
+   "end": 5,
+   "zh": "济：渡过。",
+   "en": "jì: to cross."
+  },
+  {
+   "line": 13,
+   "start": 5,
+   "end": 7,
+   "zh": "沧海：大海。",
+   "en": "cāng hǎi: the wide blue sea."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "金杯里的美酒，一斗要花十千钱，",
+   "en": "Fine wine in golden cups costs ten thousand coins a measure,"
+  },
+  {
+   "zh": "玉盘里的好菜，也值上万钱。",
+   "en": "rare dishes on jade plates are worth ten thousand more."
+  },
+  {
+   "zh": "我却放下酒杯、扔下筷子，吃不下去，",
+   "en": "But I set down my cup, toss down my chopsticks, and cannot eat;"
+  },
+  {
+   "zh": "拔出宝剑向四周看看，心里一片茫然。",
+   "en": "I draw my sword and look all around, my heart lost."
+  },
+  {
+   "zh": "想渡过黄河，冰块堵住了河道；",
+   "en": "I want to cross the Yellow River, but ice blocks the stream;"
+  },
+  {
+   "zh": "想登上太行山，大雪封住了山。",
+   "en": "I mean to climb the Taihang, but snow covers the mountains."
+  },
+  {
+   "zh": "闲下来时，像姜太公一样在碧绿的溪边钓鱼，",
+   "en": "At leisure, I fish by a green stream, as Jiang Taigong once did;"
+  },
+  {
+   "zh": "忽然又像伊尹一样，梦见坐船经过太阳旁边。",
+   "en": "then suddenly, like Yi Yin, I dream of sailing near the sun."
+  },
+  {
+   "zh": "行路难啊！",
+   "en": "The road is hard!"
+  },
+  {
+   "zh": "行路难啊！",
+   "en": "The road is hard!"
+  },
+  {
+   "zh": "岔路这么多，",
+   "en": "So many forks in the road,"
+  },
+  {
+   "zh": "我的路如今在哪里？",
+   "en": "where is my way now?"
+  },
+  {
+   "zh": "总有一天，我会乘着长风冲破巨浪，",
+   "en": "A day will come to ride the long wind and break the waves,"
+  },
+  {
+   "zh": "挂起高高的船帆，渡过茫茫大海。",
+   "en": "to hoist my cloud-high sail and cross the wide blue sea."
+  }
+ ],
+ "background": {
+  "zh": "《行路难》是乐府旧题，多写世路艰难。李白一共写了三首，这是第一首。一般认为写于天宝三载（744年）。李白曾被唐玄宗召进长安，本想大展才华，可只被当作陪皇帝写诗作乐的文人，又受到排挤。最后他被“赐金放还”，就是给了些钱，让他离开长安。朋友为他设宴送行，他写下了这首诗。",
+  "en": "\"The Road Is Hard\" was an old ballad title, usually about how hard life's road is. Li Bai wrote three poems with it, and this is the first. It is usually dated to 744. Emperor Xuanzong had called Li Bai to the capital Chang'an, and he hoped to show his talent in government. But he was only treated as a court poet to entertain the emperor, and others pushed against him. In the end he was sent away with a gift of gold. Friends held a farewell feast for him, and he wrote this poem."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，人称“诗仙”。他很自信，总觉得自己能像古代的名臣一样辅佐君王、做成大事。可他一生在官场上很不顺。他常把失意写进诗里，但总能在最后重新振作起来。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. He was very sure of himself and believed he could help a ruler and do great things, like the famous ministers of old. But his whole life in government went badly. He often wrote his disappointment into poems, yet he always found his strength again at the end."
+ },
+ "appreciation": {
+  "zh": "开头是一桌非常贵的酒菜，按说该高高兴兴地吃喝，可李白却放下杯子、扔下筷子，拔出剑来四处张望，心里空空的。这一停一扔一拔，把心里的苦闷一下子写了出来。接着他用过黄河遇冰、上太行遇雪，比喻想做事却处处碰壁。然后他想起姜太公和伊尹，他们也是先失意，后来才被重用，心里又有了一点希望。“行路难，行路难”连喊两声，像在大声问路。最后两句一下子亮了：总有一天，我会乘风破浪，挂帆过海。从苦闷到茫然，再到希望，最后是满满的信心。",
+  "en": "It opens with a very costly feast. He ought to eat and drink happily, but Li Bai sets down his cup, throws down his chopsticks, draws his sword and looks around, feeling empty. Stop, throw, draw: these three actions show his pain at once. Next, crossing the Yellow River blocked by ice and climbing the Taihang blocked by snow stand for wanting to act but hitting walls everywhere. Then he remembers Jiang Taigong and Yi Yin, who also failed at first and were trusted later, and a little hope comes back. He cries \"the road is hard\" twice, as if shouting to ask the way. The last two lines suddenly shine: one day I will ride the wind, break the waves, raise my sail and cross the sea. The poem moves from pain, to confusion, to hope, and ends full of confidence."
+ },
+ "famous_lines": [
+  12,
+  13
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "ambition",
+   "frustration",
+   "hope",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

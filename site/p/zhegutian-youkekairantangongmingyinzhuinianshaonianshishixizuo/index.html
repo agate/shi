@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>鹧鸪天·有客慨然谈功名，因追念少年时事，戏作 · 辛弃疾 — 诗</title>
+    <meta name="description" content="鹧鸪天·有客慨然谈功名，因追念少年时事，戏作 · 辛弃疾 — Partridge Sky: A Guest Spoke Grandly of Fame, Which Reminded Me of My Youth, So I Wrote This in Jest by Xin Qiji: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 99 · Song lyric · ci (song lyric)</span><span lang="zh">第 99 首 · 宋词 · 词</span></p>
+        <h1>鹧鸪天·有客慨然谈功名，因追念少年时事，戏作</h1>
+        <p class="by">辛弃疾<span class="mono"><span lang="en">Xin Qiji · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Partridge Sky: A Guest Spoke Grandly of Fame, Which Reminded Me of My Youth, So I Wrote This in Jest</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>zhuàng</i><b>壮</b></span><span class="c gl" data-l="0" data-p="1"><i>suì</i><b>岁</b></span><span class="c gl" data-l="0" data-p="2"><i>jīng</i><b>旌</b></span><span class="c gl" data-l="0" data-p="3"><i>qí</i><b>旗</b></span><span class="c gl" data-l="0" data-p="4"><i>yōng</i><b>拥</b></span><span class="c gl" data-l="0" data-p="5"><i>wàn</i><b>万</b></span><span class="c gl" data-l="0" data-p="6"><i>fū</i><b>夫</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>jǐn</i><b>锦</b></span><span class="c gl" data-l="1" data-p="1"><i>chān</i><b>襜</b></span><span class="c gl" data-l="1" data-p="2"><i>tū</i><b>突</b></span><span class="c gl rd" data-l="1" data-p="3"><i>qí</i><b>骑</b></span><span class="c gl" data-l="1" data-p="4"><i>dù</i><b>渡</b></span><span class="c gl" data-l="1" data-p="5"><i>jiāng</i><b>江</b></span><span class="c gl" data-l="1" data-p="6"><i>chū</i><b>初</b></span></p><p class="ln"><span class="c gl rd" data-l="2" data-p="0"><i>yān</i><b>燕</b></span><span class="c gl" data-l="2" data-p="1"><i>bīng</i><b>兵</b></span><span class="c" data-l="2" data-p="2"><i>yè</i><b>夜</b></span><span class="c gl" data-l="2" data-p="3"><i>chuò</i><b>娖</b></span><span class="c gl" data-l="2" data-p="4"><i>yín</i><b>银</b></span><span class="c gl" data-l="2" data-p="5"><i>hú</i><b>胡</b></span><span class="c gl" data-l="2" data-p="6"><i>lù</i><b>觮</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>hàn</i><b>汉</b></span><span class="c gl" data-l="3" data-p="1"><i>jiàn</i><b>箭</b></span><span class="c rd" data-l="3" data-p="2"><i>zhāo</i><b>朝</b></span><span class="c" data-l="3" data-p="3"><i>fēi</i><b>飞</b></span><span class="c gl" data-l="3" data-p="4"><i>jīn</i><b>金</b></span><span class="c gl" data-l="3" data-p="5"><i>pú</i><b>仆</b></span><span class="c gl" data-l="3" data-p="6"><i>gū</i><b>姑</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>zhuī</i><b>追</b></span><span class="c gl" data-l="4" data-p="1"><i>wǎng</i><b>往</b></span><span class="c gl" data-l="4" data-p="2"><i>shì</i><b>事</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>tàn</i><b>叹</b></span><span class="c gl" data-l="5" data-p="1"><i>jīn</i><b>今</b></span><span class="c gl" data-l="5" data-p="2"><i>wú</i><b>吾</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="6" data-p="1"><i>fēng</i><b>风</b></span><span class="c gl" data-l="6" data-p="2"><i>bù</i><b>不</b></span><span class="c gl" data-l="6" data-p="3"><i>rǎn</i><b>染</b></span><span class="c" data-l="6" data-p="4"><i>bái</i><b>白</b></span><span class="c gl" data-l="6" data-p="5"><i>zī</i><b>髭</b></span><span class="c gl" data-l="6" data-p="6"><i>xū</i><b>须</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>què</i><b>却</b></span><span class="c gl" data-l="7" data-p="1"><i>jiāng</i><b>将</b></span><span class="c" data-l="7" data-p="2"><i>wàn</i><b>万</b></span><span class="c" data-l="7" data-p="3"><i>zì</i><b>字</b></span><span class="c gl" data-l="7" data-p="4"><i>píng</i><b>平</b></span><span class="c gl" data-l="7" data-p="5"><i>róng</i><b>戎</b></span><span class="c gl" data-l="7" data-p="6"><i>cè</i><b>策</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>huàn</i><b>换</b></span><span class="c" data-l="8" data-p="1"><i>dé</i><b>得</b></span><span class="c gl" data-l="8" data-p="2"><i>dōng</i><b>东</b></span><span class="c gl" data-l="8" data-p="3"><i>jiā</i><b>家</b></span><span class="c gl" data-l="8" data-p="4"><i>zhòng</i><b>种</b></span><span class="c gl" data-l="8" data-p="5"><i>shù</i><b>树</b></span><span class="c gl" data-l="8" data-p="6"><i>shū</i><b>书</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The commonly taught text begins the eighth line with què jiāng (but instead took); the source text has dōu jiāng (took all). In the third line, the source writes hú lù (quiver) with a different but equivalent form of the last character.</p><p lang="zh">通行本第八句作“却将万字平戎策”，这里的底本作“都将”。第三句的“胡觮”，底本写作“胡䩮”，是同一个词的不同写法。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">壮岁旌旗拥万夫</span><span lang="en">In my strong young years I led ten thousand men under the banners.</span><span lang="zh">年轻力壮的时候，我在军旗下带领着上万人，</span></li><li><span class="o">锦襜突骑渡江初</span><span lang="en">In brocade coats, my horsemen charged, just as we crossed the river.</span><span lang="zh">穿着锦袍的骑兵冲锋陷阵，刚刚渡过长江。</span></li><li><span class="o">燕兵夜娖银胡觮</span><span lang="en">At night the Jin soldiers readied their silver quivers;</span><span lang="zh">金兵夜里整理着银色的箭袋，</span></li><li><span class="o">汉箭朝飞金仆姑</span><span lang="en">at dawn the Song army&#x27;s fine arrows flew.</span><span lang="zh">宋军的好箭在早晨就飞向敌人。</span></li><li class="brk"><span class="o">追往事</span><span lang="en">I think back on those days,</span><span lang="zh">回想过去的事，</span></li><li><span class="o">叹今吾</span><span lang="en">and sigh over myself as I am now.</span><span lang="zh">感叹现在的自己，</span></li><li><span class="o">春风不染白髭须</span><span lang="en">The spring wind cannot turn my white beard black again.</span><span lang="zh">春风也没法把我花白的胡子染黑。</span></li><li><span class="o">却将万字平戎策</span><span lang="en">I took my plans of ten thousand words for beating the enemy,</span><span lang="zh">我把上万字的打败敌人的计策，</span></li><li><span class="o">换得东家种树书</span><span lang="en">and traded them for my neighbour&#x27;s book on planting trees.</span><span lang="zh">换来了东边邻居家一本教人种树的书。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>壮岁<span class="mono">zhuàng suì</span></dt><dd><span lang="en">zhuàng suì: the strong years of youth. Xin Qiji was just over twenty when he joined the uprising.</span><span lang="zh">壮岁：年轻力壮的时候。辛弃疾起义时才二十出头。</span></dd></div><div><dt>旌旗<span class="mono">jīng qí</span></dt><dd><span lang="en">jīng qí: army banners.</span><span lang="zh">旌旗：军旗。</span></dd></div><div><dt>拥万夫<span class="mono">yōng wàn fū</span></dt><dd><span lang="en">yōng wàn fū: leading ten thousand men.</span><span lang="zh">拥万夫：带领着上万人的队伍。</span></dd></div><div><dt>锦襜<span class="mono">jǐn chān</span></dt><dd><span lang="en">jǐn chān: a brocade battle coat; some say a brocade cloth on the horse.</span><span lang="zh">锦襜：锦缎做的战袍，一说是马身上的护垫。</span></dd></div><div><dt>突骑<span class="mono">tū qí</span></dt><dd><span lang="en">tū qí: cavalry that charges into the enemy.</span><span lang="zh">突骑：冲锋陷阵的骑兵。</span></dd></div><div><dt>渡江初<span class="mono">dù jiāng chū</span></dt><dd><span lang="en">dù jiāng chū: when he had just crossed the Yangtze to return to the Song.</span><span lang="zh">渡江初：刚刚渡过长江回到南宋的时候。</span></dd></div><div><dt>燕兵<span class="mono">yān bīng</span></dt><dd><span lang="en">yān bīng: the Jin soldiers of the north. Yān is an old name for the northern region.</span><span lang="zh">燕兵：北方的金兵。燕，古代北方地名，读 yān。</span></dd></div><div><dt>娖<span class="mono">chuò</span></dt><dd><span lang="en">chuò: to set in order; some say to hold carefully.</span><span lang="zh">娖：整理，一说是小心地拿着。</span></dd></div><div><dt>银胡觮<span class="mono">yín hú lù</span></dt><dd><span lang="en">yín hú lù: a silver quiver. One account says soldiers slept with their heads on their quivers at night to hear horses far away.</span><span lang="zh">银胡觮：银色的箭袋。一说士兵夜里枕着箭袋睡，能听到远处的人马声。</span></dd></div><div><dt>汉箭<span class="mono">hàn jiàn</span></dt><dd><span lang="en">hàn jiàn: the arrows of the Song army. Hàn stands for the Song side here.</span><span lang="zh">汉箭：宋军的箭。这里用“汉”指宋军。</span></dd></div><div><dt>金仆姑<span class="mono">jīn pú gū</span></dt><dd><span lang="en">jīn pú gū: the name of a fine kind of arrow.</span><span lang="zh">金仆姑：一种好箭的名字。</span></dd></div><div><dt>追往事<span class="mono">zhuī wǎng shì</span></dt><dd><span lang="en">zhuī wǎng shì: to think back on the past.</span><span lang="zh">追往事：回想过去的事。</span></dd></div><div><dt>叹今吾<span class="mono">tàn jīn wú</span></dt><dd><span lang="en">tàn jīn wú: to sigh over myself as I am now.</span><span lang="zh">叹今吾：感叹现在的我。</span></dd></div><div><dt>髭须<span class="mono">zī xū</span></dt><dd><span lang="en">zī xū: beard and moustache. Zī is the hair above the lip; xū is the hair on the chin.</span><span lang="zh">髭须：胡子。髭是嘴上边的胡子，须是下巴上的胡子。</span></dd></div><div><dt>不染<span class="mono">bù rǎn</span></dt><dd><span lang="en">bù rǎn: cannot dye something black again.</span><span lang="zh">不染：不能把……染黑。</span></dd></div><div><dt>却将<span class="mono">què jiāng</span></dt><dd><span lang="en">què jiāng: but instead took.</span><span lang="zh">却将：却把，反而把。</span></dd></div><div><dt>平戎策<span class="mono">píng róng cè</span></dt><dd><span lang="en">píng róng cè: plans to defeat the enemy. Xin Qiji wrote long papers on how to beat the Jin.</span><span lang="zh">平戎策：平定敌人的计策。辛弃疾写过《美芹十论》《九议》等，讲怎样打败金国。</span></dd></div><div><dt>东家<span class="mono">dōng jiā</span></dt><dd><span lang="en">dōng jiā: the neighbour to the east.</span><span lang="zh">东家：东边的邻居。</span></dd></div><div><dt>种树书<span class="mono">zhòng shù shū</span></dt><dd><span lang="en">zhòng shù shū: a book on planting trees and crops.</span><span lang="zh">种树书：讲怎样种树、种庄稼的书。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>骑<span class="mono">qí</span></dt><dd><span lang="en">Here the character means horsemen. In older usage it was read jì; standard Mandarin now reads it qí.</span><span lang="zh">“突骑”的“骑”是骑兵的意思，古时读 jì。现在按普通话审音统一读 qí。</span></dd></div><div><dt>燕<span class="mono">yān</span></dt><dd><span lang="en">Here the character means the northern region, so it is read yān, not yàn (swallow).</span><span lang="zh">“燕兵”的“燕”指北方，读 yān，不读 yàn（燕子）。</span></dd></div><div><dt>朝<span class="mono">zhāo</span></dt><dd><span lang="en">Here the character means morning, so it is read zhāo.</span><span lang="zh">“朝飞”的“朝”是早晨，读 zhāo。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">At twenty-one, Xin Qiji joined an uprising against the Jin in the north. In 1162 the rebel leader Geng Jing was killed by a traitor, Zhang Anguo. Xin Qiji rode with some fifty men into a Jin camp of fifty thousand, caught the traitor alive, and brought him across the Yangtze to the Song court. He wrote this lyric late in life, while living in the countryside. A guest spoke with passion about winning glory, which reminded him of his own youth. The title says he wrote it in jest, laughing at himself. Sources differ on the exact year.</p><p lang="zh">辛弃疾二十一岁时在北方参加抗金起义。1162年，起义首领耿京被叛徒张安国杀害，辛弃疾带着五十多人冲进五万人的金营，活捉了叛徒，渡过长江交给南宋朝廷。这首词是他晚年闲居乡下时写的：有位客人慷慨激昂地谈论建功立业，让他想起了年轻时的事，于是写下这首词。“戏作”是说自嘲着写的。具体年份说法不一。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Xin Qiji (1140–1207), also called Jiaxuan, was a great Southern Song poet. He was born in the north, which the Jin had taken. In his early twenties he joined an uprising against the Jin and then came south to the Song. He wanted with all his heart to win back the north, but he was seldom given real power. From middle age he was dismissed again and again, and lived for many years in the Jiangxi countryside. His lyrics are bold and strong; he and Su Shi are named together as Su and Xin.</p><p lang="zh">辛弃疾（1140—1207），字幼安，号稼轩，南宋大词人。他出生在被金国占领的北方，二十多岁就参加抗金起义，后来回到南宋。他一心想收复北方，却长期得不到重用，中年以后多次被罢官，在江西乡下闲住了很多年。他的词豪放有力，和苏轼并称“苏辛”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half is like a film. The young Xin Qiji leads ten thousand men, charges in a brocade coat, and crosses the river to the south. The Jin soldiers nervously ready their arrows at night, and the Song arrows whistle off at dawn. The scenes are fast, loud and full of fire. Then the second half slows down. He thinks back, then looks at himself now: his beard has turned white. The spring wind can turn the grass green, but it cannot dye a white beard black. The last two lines hurt the most. He wrote ten thousand words of plans to beat the Jin, but the court never used them. All they got him was a book on planting trees, and a life farming in the country. The title calls it a joke, but it is full of the grief and anger of a hero with no chance to fight.</p><p lang="zh">上半首像一场电影：年轻的辛弃疾带着上万人马，穿着锦袍冲锋，渡江南归；金兵夜里紧张地备箭，宋军的箭一早就呼啸而去。画面快、响、热血沸腾。下半首一下子慢下来：回想往事，再看看现在，胡子都白了，春风能让草木变绿，却不能把白胡子染黑。最后两句最让人心酸：他写下上万字的抗金计策，朝廷却不用，最后只换来一本种树的书，只能在乡下种地。题目说是“戏作”，好像在开玩笑，其实满是英雄无用武之地的悲愤。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/zhegutian-dairenfu/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>鹧鸪天·代人赋</b></a><a href="../../p/hexinlang-shenyiwushuaiyi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>贺新郎·甚矣吾衰矣</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["壮", "zhuàng"], ["岁", "suì"], ["旌", "jīng"], ["旗", "qí"], ["拥", "yōng"], ["万", "wàn"], ["夫", "fū"]], [["锦", "jǐn"], ["襜", "chān"], ["突", "tū"], ["骑", "qí"], ["渡", "dù"], ["江", "jiāng"], ["初", "chū"]], [["燕", "yān"], ["兵", "bīng"], ["夜", "yè"], ["娖", "chuò"], ["银", "yín"], ["胡", "hú"], ["觮", "lù"]], [["汉", "hàn"], ["箭", "jiàn"], ["朝", "zhāo"], ["飞", "fēi"], ["金", "jīn"], ["仆", "pú"], ["姑", "gū"]], [["追", "zhuī"], ["往", "wǎng"], ["事", "shì"]], [["叹", "tàn"], ["今", "jīn"], ["吾", "wú"]], [["春", "chūn"], ["风", "fēng"], ["不", "bù"], ["染", "rǎn"], ["白", "bái"], ["髭", "zī"], ["须", "xū"]], [["却", "què"], ["将", "jiāng"], ["万", "wàn"], ["字", "zì"], ["平", "píng"], ["戎", "róng"], ["策", "cè"]], [["换", "huàn"], ["得", "dé"], ["东", "dōng"], ["家", "jiā"], ["种", "zhòng"], ["树", "shù"], ["书", "shū"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "壮岁：年轻力壮的时候。辛弃疾起义时才二十出头。", "en": "zhuàng suì: the strong years of youth. Xin Qiji was just over twenty when he joined the uprising."}, {"line": 0, "start": 2, "end": 4, "zh": "旌旗：军旗。", "en": "jīng qí: army banners."}, {"line": 0, "start": 4, "end": 7, "zh": "拥万夫：带领着上万人的队伍。", "en": "yōng wàn fū: leading ten thousand men."}, {"line": 1, "start": 0, "end": 2, "zh": "锦襜：锦缎做的战袍，一说是马身上的护垫。", "en": "jǐn chān: a brocade battle coat; some say a brocade cloth on the horse."}, {"line": 1, "start": 2, "end": 4, "zh": "突骑：冲锋陷阵的骑兵。", "en": "tū qí: cavalry that charges into the enemy."}, {"line": 1, "start": 4, "end": 7, "zh": "渡江初：刚刚渡过长江回到南宋的时候。", "en": "dù jiāng chū: when he had just crossed the Yangtze to return to the Song."}, {"line": 2, "start": 0, "end": 2, "zh": "燕兵：北方的金兵。燕，古代北方地名，读 yān。", "en": "yān bīng: the Jin soldiers of the north. Yān is an old name for the northern region."}, {"line": 2, "start": 3, "end": 4, "zh": "娖：整理，一说是小心地拿着。", "en": "chuò: to set in order; some say to hold carefully."}, {"line": 2, "start": 4, "end": 7, "zh": "银胡觮：银色的箭袋。一说士兵夜里枕着箭袋睡，能听到远处的人马声。", "en": "yín hú lù: a silver quiver. One account says soldiers slept with their heads on their quivers at night to hear horses far away."}, {"line": 3, "start": 0, "end": 2, "zh": "汉箭：宋军的箭。这里用“汉”指宋军。", "en": "hàn jiàn: the arrows of the Song army. Hàn stands for the Song side here."}, {"line": 3, "start": 4, "end": 7, "zh": "金仆姑：一种好箭的名字。", "en": "jīn pú gū: the name of a fine kind of arrow."}, {"line": 4, "start": 0, "end": 3, "zh": "追往事：回想过去的事。", "en": "zhuī wǎng shì: to think back on the past."}, {"line": 5, "start": 0, "end": 3, "zh": "叹今吾：感叹现在的我。", "en": "tàn jīn wú: to sigh over myself as I am now."}, {"line": 6, "start": 5, "end": 7, "zh": "髭须：胡子。髭是嘴上边的胡子，须是下巴上的胡子。", "en": "zī xū: beard and moustache. Zī is the hair above the lip; xū is the hair on the chin."}, {"line": 6, "start": 2, "end": 4, "zh": "不染：不能把……染黑。", "en": "bù rǎn: cannot dye something black again."}, {"line": 7, "start": 0, "end": 2, "zh": "却将：却把，反而把。", "en": "què jiāng: but instead took."}, {"line": 7, "start": 4, "end": 7, "zh": "平戎策：平定敌人的计策。辛弃疾写过《美芹十论》《九议》等，讲怎样打败金国。", "en": "píng róng cè: plans to defeat the enemy. Xin Qiji wrote long papers on how to beat the Jin."}, {"line": 8, "start": 2, "end": 4, "zh": "东家：东边的邻居。", "en": "dōng jiā: the neighbour to the east."}, {"line": 8, "start": 4, "end": 7, "zh": "种树书：讲怎样种树、种庄稼的书。", "en": "zhòng shù shū: a book on planting trees and crops."}], "readings": [{"line": 1, "pos": 3, "char": "骑", "pinyin": "qí", "zh": "“突骑”的“骑”是骑兵的意思，古时读 jì。现在按普通话审音统一读 qí。", "en": "Here the character means horsemen. In older usage it was read jì; standard Mandarin now reads it qí."}, {"line": 2, "pos": 0, "char": "燕", "pinyin": "yān", "zh": "“燕兵”的“燕”指北方，读 yān，不读 yàn（燕子）。", "en": "Here the character means the northern region, so it is read yān, not yàn (swallow)."}, {"line": 3, "pos": 2, "char": "朝", "pinyin": "zhāo", "zh": "“朝飞”的“朝”是早晨，读 zhāo。", "en": "Here the character means morning, so it is read zhāo."}], "speak": ["壮岁旌旗拥万夫", "锦襜突骑渡江初", "阉兵夜娖银胡觮", "汉箭朝飞金仆姑", "追往事", "叹今吾", "春风不染白髭须", "却将万字平戎策", "换得东家种树书"], "speakTitle": "鹧鸪天，有客慨然谈功名，因追念少年时事，戏作。辛弃疾。", "sample": "壮岁旌旗拥万夫"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

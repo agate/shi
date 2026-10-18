@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>凉州词 · 王之涣 — 诗</title>
+    <meta name="description" content="凉州词 · 王之涣 — Song of Liangzhou by Wang Zhihuan: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 50 · Tang poem · seven-character quatrain</span><span lang="zh">第 50 首 · 唐诗 · 七言绝句</span></p>
+        <h1>凉州词</h1>
+        <p class="by">王之涣<span class="mono"><span lang="en">Wang Zhihuan · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Song of Liangzhou</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>huáng</i><b>黄</b></span><span class="c" data-l="0" data-p="1"><i>hé</i><b>河</b></span><span class="c gl" data-l="0" data-p="2"><i>yuǎn</i><b>远</b></span><span class="c gl" data-l="0" data-p="3"><i>shàng</i><b>上</b></span><span class="c" data-l="0" data-p="4"><i>bái</i><b>白</b></span><span class="c" data-l="0" data-p="5"><i>yún</i><b>云</b></span><span class="c" data-l="0" data-p="6"><i>jiān</i><b>间</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>yī</i><b>一</b></span><span class="c gl" data-l="1" data-p="1"><i>piàn</i><b>片</b></span><span class="c gl" data-l="1" data-p="2"><i>gū</i><b>孤</b></span><span class="c gl" data-l="1" data-p="3"><i>chéng</i><b>城</b></span><span class="c gl" data-l="1" data-p="4"><i>wàn</i><b>万</b></span><span class="c gl" data-l="1" data-p="5"><i>rèn</i><b>仞</b></span><span class="c gl" data-l="1" data-p="6"><i>shān</i><b>山</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>qiāng</i><b>羌</b></span><span class="c gl" data-l="2" data-p="1"><i>dí</i><b>笛</b></span><span class="c gl" data-l="2" data-p="2"><i>hé</i><b>何</b></span><span class="c gl" data-l="2" data-p="3"><i>xū</i><b>须</b></span><span class="c gl" data-l="2" data-p="4"><i>yuàn</i><b>怨</b></span><span class="c gl" data-l="2" data-p="5"><i>yáng</i><b>杨</b></span><span class="c gl" data-l="2" data-p="6"><i>liǔ</i><b>柳</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="3" data-p="1"><i>fēng</i><b>风</b></span><span class="c" data-l="3" data-p="2"><i>bú</i><b>不</b></span><span class="c gl" data-l="3" data-p="3"><i>dù</i><b>度</b></span><span class="c gl" data-l="3" data-p="4"><i>yù</i><b>玉</b></span><span class="c gl" data-l="3" data-p="5"><i>mén</i><b>门</b></span><span class="c gl" data-l="3" data-p="6"><i>guān</i><b>关</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">In the source text, the fourth line has chun guang (spring light). Today&#x27;s textbooks and most editions have chun feng (spring wind), which is used here. Some editions also give the first line as &quot;yellow sand rises straight into the white clouds&quot;. The original title is &quot;Two Songs of Liangzhou&quot;; this is the first.</p><p lang="zh">底本第四句作“春光不度玉门关”，现在课本和通行本作“春风不度玉门关”，这里按课本。另外，第一句有的版本作“黄沙直上白云间”。原题是《凉州词二首》，这是第一首。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">黄河远上白云间</span><span lang="en">The Yellow River stretches far up, as if into the white clouds.</span><span lang="zh">黄河远远地奔流而上，好像流进了白云里，</span></li><li><span class="o">一片孤城万仞山</span><span lang="en">A lone fort stands among mountains ten thousand rèn high.</span><span lang="zh">一座孤零零的城堡，立在万丈高山之间。</span></li><li><span class="o">羌笛何须怨杨柳</span><span lang="en">Why should the Qiang flute play the sad willow song?</span><span lang="zh">羌笛何必吹起哀怨的《折杨柳》呢？</span></li><li><span class="o">春风不度玉门关</span><span lang="en">The spring wind never blows past the Jade Gate Pass.</span><span lang="zh">春风本来就吹不过玉门关啊。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>远上<span class="mono">yuǎn shàng</span></dt><dd><span lang="en">yuǎn shàng: stretching far up. Seen from afar, the Yellow River seems to climb right into the clouds.</span><span lang="zh">远上：远远地向上延伸。远远望去，黄河好像一直流到白云中间去了。</span></dd></div><div><dt>一片<span class="mono">yī piàn</span></dt><dd><span lang="en">yī piàn: one, a single.</span><span lang="zh">一片：一座。</span></dd></div><div><dt>孤城<span class="mono">gū chéng</span></dt><dd><span lang="en">gū chéng: a lone town, a fort guarding the border.</span><span lang="zh">孤城：孤零零的一座城，指守边的城堡。</span></dd></div><div><dt>万仞山<span class="mono">wàn rèn shān</span></dt><dd><span lang="en">wàn rèn shān: very high mountains. Rèn was an old unit of length, about seven or eight chi (roughly two metres).</span><span lang="zh">万仞山：极高的山。仞，古代的长度单位，一仞大约七八尺。</span></dd></div><div><dt>羌笛<span class="mono">qiāng dí</span></dt><dd><span lang="en">qiāng dí: the flute of the Qiang people, often heard on the frontier.</span><span lang="zh">羌笛：古代羌族人吹的笛子，边塞常能听到。</span></dd></div><div><dt>何须<span class="mono">hé xū</span></dt><dd><span lang="en">hé xū: why should, there is no need to.</span><span lang="zh">何须：何必。</span></dd></div><div><dt>怨杨柳<span class="mono">yuàn yáng liǔ</span></dt><dd><span lang="en">yuàn yáng liǔ: to play the sad tune &quot;Breaking the Willow&quot;. People used to break off a willow twig when saying goodbye, so the tune brings back partings and home.</span><span lang="zh">怨杨柳：吹出哀怨的《折杨柳》曲子。古人送别时常折柳枝相送，这首曲子让人想起离别和家乡。</span></dd></div><div><dt>度<span class="mono">dù</span></dt><dd><span lang="en">dù: to blow across, to cross.</span><span lang="zh">度：吹过，越过。</span></dd></div><div><dt>玉门关<span class="mono">yù mén guān</span></dt><dd><span lang="en">yù mén guān: the Jade Gate Pass, the old gateway to the western regions, northwest of today&#x27;s Dunhuang in Gansu.</span><span lang="zh">玉门关：古代通往西域的关口，在今天甘肃敦煌的西北。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">&quot;Song of Liangzhou&quot; was the name of a popular Tang tune. Liangzhou was around today&#x27;s Wuwei in Gansu, and poets often used this tune to write about the frontier. This poem is about the soldiers guarding a fort on the northwest border. We do not know exactly when it was written. A legend says that Wang Zhihuan, Wang Changling and Gao Shi once listened to singing girls in a wine house, and one of them sang this very poem. The story is known as &quot;Marks on the Tavern Wall&quot;.</p><p lang="zh">“凉州词”是唐代流行的一种曲调的名字，凉州在今天的甘肃武威一带，诗人们常用这个曲调写边塞。这首诗写的是西北边疆守城将士的生活。写作的具体时间不清楚。传说王之涣和王昌龄、高适在酒楼听歌女唱诗，歌女唱的正是这一首，这就是“旗亭画壁”的故事。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Zhihuan (688–742) was a bold, open-hearted poet of the high Tang. In his own time his poems were set to music and sung everywhere, but only six survive. Besides this one, &quot;Climbing Stork Tower&quot; is very famous, with its lines about climbing one more floor to see a thousand li.</p><p lang="zh">王之涣（688—742），盛唐诗人，性格豪爽。他的诗在当时就被人谱成曲子传唱，可惜留下来的只有六首。除了这首，《登鹳雀楼》里的“欲穷千里目，更上一层楼”也非常有名。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines open up a huge scene. Looking up, the Yellow River flows into the white clouds. Among the tall mountains stands one small, lonely fort. Putting the huge next to the tiny makes the fort feel lonelier, and the soldiers too. The last two lines are about sound. Someone far off plays &quot;Breaking the Willow&quot;, a tune of parting and home. But the poet says: why complain? The spring wind never reaches beyond the Jade Gate anyway. He says it calmly, as if comforting the others. Yet the hardship and homesickness feel deeper than if he had said them outright.</p><p lang="zh">前两句画面非常开阔：抬头望去，黄河一直流到白云里；高山之间，只有一座小小的孤城。大和小放在一起，城显得更孤单，守城的人也更寂寞。后两句写声音：远处有人吹起《折杨柳》，那是想家、想离别的曲子。诗人却说：何必怨呢？春风本来就吹不到玉门关外。话说得很平静，像是在安慰别人，其实那份苦和想家，比直接说出来更深。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/baixuegesongwupanguanguijing/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>白雪歌送武判官归京</b></a><a href="../../p/jinse/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>锦瑟</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["黄", "huáng"], ["河", "hé"], ["远", "yuǎn"], ["上", "shàng"], ["白", "bái"], ["云", "yún"], ["间", "jiān"]], [["一", "yī"], ["片", "piàn"], ["孤", "gū"], ["城", "chéng"], ["万", "wàn"], ["仞", "rèn"], ["山", "shān"]], [["羌", "qiāng"], ["笛", "dí"], ["何", "hé"], ["须", "xū"], ["怨", "yuàn"], ["杨", "yáng"], ["柳", "liǔ"]], [["春", "chūn"], ["风", "fēng"], ["不", "bú"], ["度", "dù"], ["玉", "yù"], ["门", "mén"], ["关", "guān"]]], "glosses": [{"line": 0, "start": 2, "end": 4, "zh": "远上：远远地向上延伸。远远望去，黄河好像一直流到白云中间去了。", "en": "yuǎn shàng: stretching far up. Seen from afar, the Yellow River seems to climb right into the clouds."}, {"line": 1, "start": 0, "end": 2, "zh": "一片：一座。", "en": "yī piàn: one, a single."}, {"line": 1, "start": 2, "end": 4, "zh": "孤城：孤零零的一座城，指守边的城堡。", "en": "gū chéng: a lone town, a fort guarding the border."}, {"line": 1, "start": 4, "end": 7, "zh": "万仞山：极高的山。仞，古代的长度单位，一仞大约七八尺。", "en": "wàn rèn shān: very high mountains. Rèn was an old unit of length, about seven or eight chi (roughly two metres)."}, {"line": 2, "start": 0, "end": 2, "zh": "羌笛：古代羌族人吹的笛子，边塞常能听到。", "en": "qiāng dí: the flute of the Qiang people, often heard on the frontier."}, {"line": 2, "start": 2, "end": 4, "zh": "何须：何必。", "en": "hé xū: why should, there is no need to."}, {"line": 2, "start": 4, "end": 7, "zh": "怨杨柳：吹出哀怨的《折杨柳》曲子。古人送别时常折柳枝相送，这首曲子让人想起离别和家乡。", "en": "yuàn yáng liǔ: to play the sad tune \"Breaking the Willow\". People used to break off a willow twig when saying goodbye, so the tune brings back partings and home."}, {"line": 3, "start": 3, "end": 4, "zh": "度：吹过，越过。", "en": "dù: to blow across, to cross."}, {"line": 3, "start": 4, "end": 7, "zh": "玉门关：古代通往西域的关口，在今天甘肃敦煌的西北。", "en": "yù mén guān: the Jade Gate Pass, the old gateway to the western regions, northwest of today's Dunhuang in Gansu."}], "readings": [], "speak": ["黄河远上白云间", "一片孤城万仞山", "羌笛何须怨杨柳", "春风不度玉门关"], "speakTitle": "凉州词。王之涣。", "sample": "黄河远上白云间"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

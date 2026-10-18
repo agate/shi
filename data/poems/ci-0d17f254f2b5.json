@@ -1,0 +1,807 @@
+{
+ "id": "ci-0d17f254f2b5",
+ "kind": "ci",
+ "title": "雨霖铃·寒蝉凄切",
+ "title_en": "Yu Lin Ling: The Cold Cicadas Cry",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调·慢词",
+  "en": "long ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "蝉",
+    "chán"
+   ],
+   [
+    "凄",
+    "qī"
+   ],
+   [
+    "切",
+    "qiè"
+   ]
+  ],
+  [
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "晚",
+    "wǎn"
+   ]
+  ],
+  [
+   [
+    "骤",
+    "zhòu"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "都",
+    "dū"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "帐",
+    "zhàng"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "绪",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "恋",
+    "liàn"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "兰",
+    "lán"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "催",
+    "cuī"
+   ],
+   [
+    "发",
+    "fā"
+   ]
+  ],
+  [
+   [
+    "执",
+    "zhí"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "竟",
+    "jìng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "噎",
+    "yē"
+   ]
+  ],
+  [
+   [
+    "念",
+    "niàn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "霭",
+    "ǎi"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "伤",
+    "shāng"
+   ],
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "别",
+    "bié"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "堪",
+    "kān"
+   ]
+  ],
+  [
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "岸",
+    "àn"
+   ]
+  ],
+  [
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "经",
+    "jīng"
+   ],
+   [
+    "年",
+    "nián"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "良",
+    "liáng"
+   ],
+   [
+    "辰",
+    "chén"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "虚",
+    "xū"
+   ],
+   [
+    "设",
+    "shè"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "纵",
+    "zòng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "种",
+    "zhǒng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  11
+ ],
+ "text_note": {
+  "zh": "语料库作“暮霭沈沈”，课本作“暮霭沉沉”，“沈”是“沉”的旧写法。断句也按课本：“留恋处，兰舟催发”“应是良辰好景虚设”“便纵有千种风情”。",
+  "en": "The corpus writes chen chen with an old form of the character; the textbook uses the modern one. Line breaks also follow the textbook, for example the textbook keeps the lines about the fine days and the thousand feelings each as one unbroken line."
+ },
+ "readings": [
+  {
+   "line": 12,
+   "pos": 1,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "那堪，哪能忍受。“那”同“哪”，课本读 nǎ。",
+   "en": "This word means how can one bear it. The character is used like the question word nǎ, and the textbook reads it nǎ."
+  },
+  {
+   "line": 18,
+   "pos": 0,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "应是，应该是、料想是，“应”读 yīng。",
+   "en": "It means it must be, so the character is read yīng."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "都",
+   "pinyin": "dū",
+   "zh": "都门，京城的城门，“都”读 dū。",
+   "en": "It means the city gate of the capital, so the character is read dū."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "噎",
+   "pinyin": "yē",
+   "zh": "凝噎，喉咙像被堵住，说不出话。“噎”读 yē。",
+   "en": "This word means the throat is choked so one cannot speak. The character is read yē."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "寒蝉：秋天的蝉。天冷了，蝉的叫声低而凄凉。",
+   "en": "hán chán: an autumn cicada. As the weather turns cold, its cry becomes low and sad."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "凄切：凄凉悲切。",
+   "en": "qī qiè: sad and mournful."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 3,
+   "zh": "长亭：古代路边供行人歇脚的亭子，人们常在这里送别。",
+   "en": "cháng tíng: a roadside pavilion where travellers rested, and where people often said goodbye."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "骤雨初歇：一阵急雨刚刚停。",
+   "en": "zhòu yǔ chū xiē: a sudden heavy rain has just stopped."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "都门：京城的城门外，这里指北宋都城汴京。",
+   "en": "dū mén: outside the gates of the capital, here Bianjing, the capital of the Northern Song."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "帐饮：在城外搭起帐篷，摆酒送行。",
+   "en": "zhàng yǐn: a farewell drink in a tent set up outside the city."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "无绪：没有心思，没有兴致。",
+   "en": "wú xù: in no mood for it."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "兰舟：木兰木做的船，是对船的美称。",
+   "en": "lán zhōu: a boat of magnolia wood, a pretty name for a boat."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "催发：催着要出发。",
+   "en": "cuī fā: urging them to set off."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "执手：拉着手。",
+   "en": "zhí shǒu: holding hands."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "凝噎：喉咙像被堵住，说不出话来。",
+   "en": "níng yē: choked up, unable to speak."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 1,
+   "zh": "念：想到。",
+   "en": "niàn: to think of."
+  },
+  {
+   "line": 8,
+   "start": 1,
+   "end": 3,
+   "zh": "去去：走了又走，越走越远。",
+   "en": "qù qù: going and going, farther and farther."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "烟波：雾气笼罩的水面。",
+   "en": "yān bō: water covered in mist."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "暮霭：傍晚的云气。",
+   "en": "mù ǎi: evening haze."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "沉沉：又厚又重的样子。",
+   "en": "chén chén: thick and heavy."
+  },
+  {
+   "line": 10,
+   "start": 4,
+   "end": 6,
+   "zh": "楚天：南方的天空。古代楚国在南方，他要去的地方就在那一带。",
+   "en": "chǔ tiān: the southern sky. The old state of Chu was in the south, where he was going."
+  },
+  {
+   "line": 12,
+   "start": 1,
+   "end": 3,
+   "zh": "那堪：哪能忍受。",
+   "en": "nǎ kān: how can one bear it."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 5,
+   "zh": "清秋节：冷清的秋天。",
+   "en": "qīng qiū jié: the cold, clear autumn season."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "今宵：今天夜里。",
+   "en": "jīn xiāo: tonight."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 4,
+   "zh": "晓风残月：清晨的冷风，快要落下的月亮。",
+   "en": "xiǎo fēng cán yuè: the cold dawn wind and the fading moon."
+  },
+  {
+   "line": 17,
+   "start": 2,
+   "end": 4,
+   "zh": "经年：一年又一年。",
+   "en": "jīng nián: year after year."
+  },
+  {
+   "line": 18,
+   "start": 6,
+   "end": 8,
+   "zh": "虚设：白白摆在那里，没有用。",
+   "en": "xū shè: set out for nothing, of no use."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 3,
+   "zh": "便纵有：即使有。",
+   "en": "biàn zòng yǒu: even if there are."
+  },
+  {
+   "line": 19,
+   "start": 5,
+   "end": 7,
+   "zh": "风情：心里的情意。",
+   "en": "fēng qíng: tender feelings."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋蝉叫得凄凉悲切，",
+   "en": "The cold cicadas cry so sadly,"
+  },
+  {
+   "zh": "我们面对着傍晚的长亭，",
+   "en": "as we face the roadside pavilion at dusk,"
+  },
+  {
+   "zh": "一阵急雨刚刚停下。",
+   "en": "and a sudden rain has just stopped."
+  },
+  {
+   "zh": "在京城门外搭帐喝酒送别，却一点心情也没有，",
+   "en": "Outside the capital's gates we drink farewell in a tent, but our hearts are not in it."
+  },
+  {
+   "zh": "正舍不得分开的时候，",
+   "en": "Just when we cannot bear to part,"
+  },
+  {
+   "zh": "船夫已经在催着出发了。",
+   "en": "the boatman is calling us to set off."
+  },
+  {
+   "zh": "拉着手，看着彼此流泪的眼睛，",
+   "en": "We hold hands and look into each other's tearful eyes,"
+  },
+  {
+   "zh": "竟然一句话也说不出来，喉咙都堵住了。",
+   "en": "and cannot say a word, our throats choked up."
+  },
+  {
+   "zh": "想到这一走越走越远，",
+   "en": "I think how I will go farther and farther,"
+  },
+  {
+   "zh": "千里都是雾茫茫的水面，",
+   "en": "a thousand miles of misty water,"
+  },
+  {
+   "zh": "傍晚的云气沉沉地压着，南方的天空一望无边。",
+   "en": "the evening haze heavy, the southern sky wide and endless."
+  },
+  {
+   "zh": "自古以来，重感情的人最怕离别，",
+   "en": "Since old times, people with deep feelings have grieved at parting,"
+  },
+  {
+   "zh": "更哪能忍受，",
+   "en": "and how much harder to bear it"
+  },
+  {
+   "zh": "在这冷清的秋天分手！",
+   "en": "in this cold and lonely autumn!"
+  },
+  {
+   "zh": "今天夜里酒醒以后，我会在哪里呢？",
+   "en": "Tonight, when I wake from the wine, where will I be?"
+  },
+  {
+   "zh": "大概是在长满杨柳的岸边，",
+   "en": "Perhaps on a bank of willows,"
+  },
+  {
+   "zh": "只有清晨的冷风和快落下的月亮。",
+   "en": "with only the dawn wind and a fading moon."
+  },
+  {
+   "zh": "这一走就是一年又一年，",
+   "en": "Once I go, it will be year after year,"
+  },
+  {
+   "zh": "再好的日子、再美的风景，也都白白摆着了。",
+   "en": "and the finest days and loveliest views will be there for nothing."
+  },
+  {
+   "zh": "即使心里有千万种情意，",
+   "en": "Even if I have a thousand kinds of tender feeling,"
+  },
+  {
+   "zh": "又能对谁去说呢？",
+   "en": "who will there be to tell?"
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是柳永离开京城汴京时，和心爱的人分别的情景。一般认为，他因为考试不顺、在京城待不下去，只好坐船南下，到别的地方去谋生。写作的具体年份说法不一。词里有长亭、秋蝉、兰舟，全是送别时眼前的东西，也写了他想象中别后的孤单。",
+  "en": "This lyric shows Liu Yong saying goodbye to the woman he loved as he left the capital, Bianjing. It is usually thought that, having failed in the exams and unable to stay on in the capital, he had to go south by boat to make a living elsewhere. Sources differ on the exact year. The roadside pavilion, the autumn cicadas and the boat are all things right in front of them at the parting, and he also pictures how lonely he will be afterwards."
+ },
+ "author_note": {
+  "zh": "柳永（约984—约1053），原名三变，北宋词人。他多次考试落榜，长期漂泊，和歌女们来往很多。他特别会写长调慢词，就是篇幅长、节奏舒缓的词，能把一件事从头到尾细细地写出来。《雨霖铃》是他最有名的作品，也是宋词里写离别的名篇。",
+  "en": "Liu Yong (about 984 to about 1053), first named Sanbian, was a Northern Song lyric poet. He failed the exams many times, drifted for years, and spent much time with singing girls. He was especially good at long, slow lyrics, which let him tell a scene in detail from start to finish. This lyric is his most famous work and one of the best-known Song lyrics about parting."
+ },
+ "appreciation": {
+  "zh": "上片写分别的那一刻。秋蝉在叫，雨刚停，天快黑了。送别的酒喝不下去，船夫又在催。两个人拉着手，眼里全是泪，想说的话太多，反而一句也说不出来。接着他望向前方：千里烟波，暮霭沉沉，路又远又茫然。下片写分别以后。他想：今晚酒醒，人已经在船上了，岸边只有杨柳、冷风和残月。“杨柳岸，晓风残月”三个景物摆在一起，没有一个“愁”字，却冷清得让人心里一紧。最后两句说，以后再好的风景也没人一起看，再多的话也没人可说。整首词像一部慢镜头的电影，一点一点把离别的痛拉长。",
+  "en": "The first half shows the moment of parting. Cicadas cry, the rain has just stopped, and night is coming. They cannot drink the farewell wine, and the boatman keeps calling. They hold hands with tears in their eyes; there is so much to say that they cannot say anything. Then he looks ahead: a thousand miles of misty water, heavy evening haze, a road far and unclear. The second half is about after the parting. He thinks: tonight, when I wake from the wine, I will be on the boat, and on the bank there will be only willows, cold wind and a fading moon. The willow bank, the dawn wind and the waning moon are set side by side without the word sad, yet they are so lonely they make the heart tighten. The last two lines say that from now on no one will share the fine views, and there will be no one to hear his words. The whole lyric is like a slow-motion film that stretches out the pain of parting bit by bit."
+ },
+ "famous_lines": [
+  6,
+  7,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  19,
+  20
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "love",
+   "journey",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

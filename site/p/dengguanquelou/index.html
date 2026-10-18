@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>登鹳雀楼 · 王之涣 — 诗</title>
+    <meta name="description" content="登鹳雀楼 · 王之涣 — Climbing Stork Tower by Wang Zhihuan: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 5 · Tang poem · five-character quatrain</span><span lang="zh">第 5 首 · 唐诗 · 五言绝句</span></p>
+        <h1>登鹳雀楼</h1>
+        <p class="by">王之涣<span class="mono"><span lang="en">Wang Zhihuan · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Climbing Stork Tower</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>bái</i><b>白</b></span><span class="c gl" data-l="0" data-p="1"><i>rì</i><b>日</b></span><span class="c gl" data-l="0" data-p="2"><i>yī</i><b>依</b></span><span class="c" data-l="0" data-p="3"><i>shān</i><b>山</b></span><span class="c gl" data-l="0" data-p="4"><i>jìn</i><b>尽</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>huáng</i><b>黄</b></span><span class="c" data-l="1" data-p="1"><i>hé</i><b>河</b></span><span class="c" data-l="1" data-p="2"><i>rù</i><b>入</b></span><span class="c" data-l="1" data-p="3"><i>hǎi</i><b>海</b></span><span class="c" data-l="1" data-p="4"><i>liú</i><b>流</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yù</i><b>欲</b></span><span class="c gl" data-l="2" data-p="1"><i>qióng</i><b>穷</b></span><span class="c gl" data-l="2" data-p="2"><i>qiān</i><b>千</b></span><span class="c gl" data-l="2" data-p="3"><i>lǐ</i><b>里</b></span><span class="c gl" data-l="2" data-p="4"><i>mù</i><b>目</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>gèng</i><b>更</b></span><span class="c" data-l="3" data-p="1"><i>shàng</i><b>上</b></span><span class="c" data-l="3" data-p="2"><i>yì</i><b>一</b></span><span class="c" data-l="3" data-p="3"><i>céng</i><b>层</b></span><span class="c" data-l="3" data-p="4"><i>lóu</i><b>楼</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">白日依山尽</span><span lang="en">The white sun sinks down behind the mountains;</span><span lang="zh">太阳挨着西边的山慢慢落下去，</span></li><li><span class="o">黄河入海流</span><span lang="en">the Yellow River flows on toward the sea.</span><span lang="zh">黄河向着大海滚滚流去。</span></li><li><span class="o">欲穷千里目</span><span lang="en">If you want to see a thousand lǐ away,</span><span lang="zh">要想看到千里之外的风景，</span></li><li><span class="o">更上一层楼</span><span lang="en">climb one more floor of the tower.</span><span lang="zh">就要再登上一层楼。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>白日<span class="mono">bái rì</span></dt><dd><span lang="en">bái rì: the sun.</span><span lang="zh">白日：太阳。</span></dd></div><div><dt>依<span class="mono">yī</span></dt><dd><span lang="en">yī: to lean on. Here the sun sinks slowly against the mountains.</span><span lang="zh">依：靠着，挨着。这里是说太阳挨着山慢慢落下。</span></dd></div><div><dt>尽<span class="mono">jìn</span></dt><dd><span lang="en">jìn: to come to an end; here the sun sets out of sight.</span><span lang="zh">尽：完，没有了。这里指太阳落下去看不见了。</span></dd></div><div><dt>欲<span class="mono">yù</span></dt><dd><span lang="en">yù: to want to.</span><span lang="zh">欲：想要。</span></dd></div><div><dt>穷<span class="mono">qióng</span></dt><dd><span lang="en">qióng: to use up, to reach the end of. Here it means to see as far as one can.</span><span lang="zh">穷：用尽，到头。这里是“看到尽头”的意思。</span></dd></div><div><dt>千里目<span class="mono">qiān lǐ mù</span></dt><dd><span lang="en">qiān lǐ mù: eyes that see a thousand lǐ, that is, seeing very far.</span><span lang="zh">千里目：能看到千里远的眼力，指看得很远。</span></dd></div><div><dt>更<span class="mono">gèng</span></dt><dd><span lang="en">gèng: again, further.</span><span lang="zh">更：再。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Stork Tower stood in Puzhou, today&#x27;s Yongji in Shanxi. It had three floors. From it you could see the Zhongtiao Mountains, and the Yellow River ran below. Storks often rested on it, which gave it its name. Many Tang poets climbed it and wrote poems, and this one is the most famous. The year it was written is not known. One old source names a poet called Zhu Bin as the author, but today it is usually given to Wang Zhihuan.</p><p lang="zh">鹳雀楼在蒲州（今山西永济），楼高三层，前面能看到中条山，下面就是黄河，常有鹳雀在楼上停歇，所以叫这个名字。唐代很多诗人登楼写诗，这一首最有名。写作年份不详。也有一种说法认为这首诗的作者是朱斌，不过现在通常认为是王之涣写的。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Zhihuan (688–742) came from Jinyang, today&#x27;s Taiyuan in Shanxi, and lived in the high Tang period. He was bold and free in spirit. His poems were sung by many people in his own time, but most were lost. Only six survive today. Two of them, this one and &quot;Song of Liangzhou&quot;, are very famous.</p><p lang="zh">王之涣（688—742），并州晋阳（今山西太原）人，盛唐诗人。他性格豪放，诗在当时就被人传唱，可惜大多没有留下来，现在只有六首诗传世，其中《登鹳雀楼》和《凉州词》（黄河远上白云间）都非常有名。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines give the huge view from the tower. To the west, the sun sinks slowly against the mountains. Below, the Yellow River rushes toward a faraway sea. One line is about mountains, one about water, and together they bring a vast world before our eyes. In fact you cannot see the sea from the tower. &quot;Flowing into the sea&quot; is the distance the poet pictures in his mind. The last two lines turn from scenery to an idea: to see farther, climb one more floor. It sounds simple, but it says something everyone understands: to see more of the world, keep going higher. That is why people often use these lines to encourage themselves.</p><p lang="zh">前两句写站在楼上看到的大景：西边，太阳贴着山慢慢落下；脚下，黄河一路奔向远方的大海。一句写山，一句写水，一下子就把很远很大的天地放到眼前。其实站在楼上看不到大海，“入海流”是诗人心里想到的远方。后两句由看风景变成讲道理：想看得更远，就得再往高处走一层。这句话很简单，却说出了一个人人都懂的道理：想要有更大的眼界，就要不断向上。所以这两句常被人用来鼓励自己。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/poqinhuai/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>泊秦淮</b></a><a href="../../p/songdushaofuzhirenshuzhou/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>送杜少府之任蜀州</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["白", "bái"], ["日", "rì"], ["依", "yī"], ["山", "shān"], ["尽", "jìn"]], [["黄", "huáng"], ["河", "hé"], ["入", "rù"], ["海", "hǎi"], ["流", "liú"]], [["欲", "yù"], ["穷", "qióng"], ["千", "qiān"], ["里", "lǐ"], ["目", "mù"]], [["更", "gèng"], ["上", "shàng"], ["一", "yì"], ["层", "céng"], ["楼", "lóu"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "白日：太阳。", "en": "bái rì: the sun."}, {"line": 0, "start": 2, "end": 3, "zh": "依：靠着，挨着。这里是说太阳挨着山慢慢落下。", "en": "yī: to lean on. Here the sun sinks slowly against the mountains."}, {"line": 0, "start": 4, "end": 5, "zh": "尽：完，没有了。这里指太阳落下去看不见了。", "en": "jìn: to come to an end; here the sun sets out of sight."}, {"line": 2, "start": 0, "end": 1, "zh": "欲：想要。", "en": "yù: to want to."}, {"line": 2, "start": 1, "end": 2, "zh": "穷：用尽，到头。这里是“看到尽头”的意思。", "en": "qióng: to use up, to reach the end of. Here it means to see as far as one can."}, {"line": 2, "start": 2, "end": 5, "zh": "千里目：能看到千里远的眼力，指看得很远。", "en": "qiān lǐ mù: eyes that see a thousand lǐ, that is, seeing very far."}, {"line": 3, "start": 0, "end": 1, "zh": "更：再。", "en": "gèng: again, further."}], "readings": [], "speak": ["白日依山晋", "黄河入海流", "欲穷千里目", "更上义层楼"], "speakTitle": "登鹳雀楼。王之涣。", "sample": "白日依山尽"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

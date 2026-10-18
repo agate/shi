@@ -1,0 +1,323 @@
+{
+ "id": "ci-18053088ea6e",
+ "kind": "ci",
+ "title": "浣溪沙·一曲新词酒一杯",
+ "title_en": "Huan Xi Sha: A New Song, a Cup of Wine",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·浣溪沙",
+  "en": "ci to the tune Huan Xi Sha (Washing Silk in the Stream)"
+ },
+ "lines": [
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "曲",
+    "qǔ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "词",
+    "cí"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "杯",
+    "bēi"
+   ]
+  ],
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "气",
+    "qì"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "亭",
+    "tíng"
+   ],
+   [
+    "台",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "奈",
+    "nài"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "徘",
+    "pái"
+   ],
+   [
+    "徊",
+    "huái"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "曲",
+   "pinyin": "qǔ",
+   "zh": "曲在这里是“歌曲”的意思，读 qǔ，不读 qū。",
+   "en": "Here qǔ means a song, so it is read qǔ, not qū (bent)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "一曲新词：一首新填的词。词是配着曲子唱的歌词。",
+   "en": "yī qǔ xīn cí: a newly written song. A ci is a set of words written to be sung to a tune."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "去年天气：和去年一样的天气。",
+   "en": "qù nián tiān qì: weather just like last year's."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "亭台：亭子和楼台，园子里供人休息、看风景的建筑。",
+   "en": "tíng tái: pavilions and terraces, small buildings in a garden where people rest and enjoy the view."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "几时：什么时候。",
+   "en": "jǐ shí: when."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "无可奈何：没有办法。",
+   "en": "wú kě nài hé: there is nothing one can do."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "似曾相识：好像曾经认识。",
+   "en": "sì céng xiāng shí: as if we had met before."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "香径：飘着花香的小路，也指落满花瓣的小路。",
+   "en": "xiāng jìng: a path filled with the smell of flowers, or covered with fallen petals."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "徘徊：来回地走。",
+   "en": "pái huái: to walk back and forth."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "听一首新填的词，喝一杯酒。",
+   "en": "I listen to a newly written song and drink a cup of wine."
+  },
+  {
+   "zh": "天气和去年一样，亭台也还是旧时的亭台。",
+   "en": "The weather is just like last year's, and the pavilion is the same old one."
+  },
+  {
+   "zh": "夕阳往西落下去了，什么时候才能再回来？",
+   "en": "The setting sun sinks in the west. When will it come back?"
+  },
+  {
+   "zh": "花儿要凋落，谁也没有办法留住它。",
+   "en": "The flowers are falling, and there is nothing anyone can do about it."
+  },
+  {
+   "zh": "燕子飞回来了，好像是去年见过的老相识。",
+   "en": "The swallows are flying back, and they look like old friends from before."
+  },
+  {
+   "zh": "我一个人在小花园里飘着花香的小路上走来走去。",
+   "en": "Alone, I walk back and forth on the flower-scented path in the little garden."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是暮春时节的感受。写作的具体时间和地点不清楚。词人在小园里一边喝酒一边听新词，觉得景物和去年一样，可时间已经过去，心里生出淡淡的伤感。词中“无可奈何花落去，似曾相识燕归来”两句，晏殊很喜欢，他在一首七言律诗《示张寺丞王校勘》里也用过这一联。",
+  "en": "This ci is about feelings in late spring. We do not know exactly when or where it was written. The poet sits in a small garden, drinking wine and listening to a new song. Everything looks the same as last year, but time has moved on, and a light sadness rises in his heart. Yan Shu liked the couplet about the falling flowers and the returning swallows so much that he also used it in one of his regular poems, \"Shown to Assistant Zhang and Editor Wang\"."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），北宋词人，从小就是有名的神童，后来做到宰相。他的词语言清丽，感情含蓄，常写时光流逝、花开花落带来的淡淡忧愁。他和儿子晏几道都是词人，被称为“大晏”“小晏”。",
+  "en": "Yan Shu (991–1055) was a Northern Song ci poet. As a boy he was a famous child genius, and later he became a prime minister. His ci use clear, graceful words and quiet feelings. He often wrote about the gentle sadness of time passing and flowers blooming and falling. He and his son Yan Jidao were both ci poets, known as the Elder Yan and the Younger Yan."
+ },
+ "appreciation": {
+  "zh": "上片从眼前写起：一首歌，一杯酒，天气和亭台都和去年一样。可是夕阳落下，一天就过去了，时间一去不回。下片是全词最有名的两句：花落是留不住的，这是失去；燕子回来了，好像老朋友，这又是一点安慰。失去和回来放在一起，让人感到时间的无情，也感到生活里还有温暖。最后，词人一个人在花园小路上慢慢走着，没有说出心事，可那份淡淡的惆怅，读者都能感受到。",
+  "en": "The first half starts with what is in front of him: a song, a cup of wine, the same weather and the same pavilion as last year. But the sun is setting, a day is over, and time never comes back. The second half holds the most famous lines. The falling flowers cannot be kept, which is a loss. The swallows come back like old friends, which is a small comfort. Putting loss and return side by side makes us feel how time takes things away, and also that life still has warmth. At the end the poet walks alone along the garden path. He does not say what he is thinking, but readers can feel his quiet sadness."
+ },
+ "famous_lines": [
+  3,
+  4
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "time",
+   "flowers",
+   "swallows",
+   "melancholy"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>登岳阳楼 · 杜甫 — 诗</title>
+    <meta name="description" content="登岳阳楼 · 杜甫 — Climbing Yueyang Tower by Du Fu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 8 · Tang poem · five-character regulated verse</span><span lang="zh">第 8 首 · 唐诗 · 五言律诗</span></p>
+        <h1>登岳阳楼</h1>
+        <p class="by">杜甫<span class="mono"><span lang="en">Du Fu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Climbing Yueyang Tower</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>xī</i><b>昔</b></span><span class="c" data-l="0" data-p="1"><i>wén</i><b>闻</b></span><span class="c gl" data-l="0" data-p="2"><i>dòng</i><b>洞</b></span><span class="c gl" data-l="0" data-p="3"><i>tíng</i><b>庭</b></span><span class="c gl" data-l="0" data-p="4"><i>shuǐ</i><b>水</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>jīn</i><b>今</b></span><span class="c" data-l="1" data-p="1"><i>shàng</i><b>上</b></span><span class="c gl" data-l="1" data-p="2"><i>yuè</i><b>岳</b></span><span class="c gl" data-l="1" data-p="3"><i>yáng</i><b>阳</b></span><span class="c gl" data-l="1" data-p="4"><i>lóu</i><b>楼</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>wú</i><b>吴</b></span><span class="c gl" data-l="2" data-p="1"><i>chǔ</i><b>楚</b></span><span class="c" data-l="2" data-p="2"><i>dōng</i><b>东</b></span><span class="c" data-l="2" data-p="3"><i>nán</i><b>南</b></span><span class="c gl rd" data-l="2" data-p="4"><i>chè</i><b>坼</b></span></p><p class="ln"><span class="c gl rd" data-l="3" data-p="0"><i>qián</i><b>乾</b></span><span class="c gl" data-l="3" data-p="1"><i>kūn</i><b>坤</b></span><span class="c gl" data-l="3" data-p="2"><i>rì</i><b>日</b></span><span class="c gl" data-l="3" data-p="3"><i>yè</i><b>夜</b></span><span class="c gl" data-l="3" data-p="4"><i>fú</i><b>浮</b></span></p><p class="ln"><span class="c" data-l="4" data-p="0"><i>qīn</i><b>亲</b></span><span class="c" data-l="4" data-p="1"><i>péng</i><b>朋</b></span><span class="c gl" data-l="4" data-p="2"><i>wú</i><b>无</b></span><span class="c gl" data-l="4" data-p="3"><i>yí</i><b>一</b></span><span class="c gl" data-l="4" data-p="4"><i>zì</i><b>字</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>lǎo</i><b>老</b></span><span class="c gl" data-l="5" data-p="1"><i>bìng</i><b>病</b></span><span class="c" data-l="5" data-p="2"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="5" data-p="3"><i>gū</i><b>孤</b></span><span class="c gl" data-l="5" data-p="4"><i>zhōu</i><b>舟</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>róng</i><b>戎</b></span><span class="c gl" data-l="6" data-p="1"><i>mǎ</i><b>马</b></span><span class="c gl" data-l="6" data-p="2"><i>guān</i><b>关</b></span><span class="c gl" data-l="6" data-p="3"><i>shān</i><b>山</b></span><span class="c gl" data-l="6" data-p="4"><i>běi</i><b>北</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>píng</i><b>凭</b></span><span class="c gl" data-l="7" data-p="1"><i>xuān</i><b>轩</b></span><span class="c gl" data-l="7" data-p="2"><i>tì</i><b>涕</b></span><span class="c gl" data-l="7" data-p="3"><i>sì</i><b>泗</b></span><span class="c" data-l="7" data-p="4"><i>liú</i><b>流</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">昔闻洞庭水</span><span lang="en">Long ago I heard of the waters of Lake Dongting;</span><span lang="zh">很早以前就听说洞庭湖的大名，</span></li><li><span class="o">今上岳阳楼</span><span lang="en">today at last I climb Yueyang Tower.</span><span lang="zh">今天终于登上了岳阳楼。</span></li><li><span class="o">吴楚东南坼</span><span lang="en">The lands of Wu and Chu seem split apart by the lake to the southeast.</span><span lang="zh">吴地和楚地，好像被湖水从东南方向分开了。</span></li><li><span class="o">乾坤日夜浮</span><span lang="en">Heaven and earth seem to float on its waters day and night.</span><span lang="zh">天和地，好像日日夜夜都在湖面上漂浮。</span></li><li><span class="o">亲朋无一字</span><span lang="en">From family and friends, not a single letter comes;</span><span lang="zh">亲戚朋友们连一封信都没有寄来，</span></li><li><span class="o">老病有孤舟</span><span lang="en">old and sick, all I have is a lonely boat.</span><span lang="zh">我又老又病，只有一条小船陪着我。</span></li><li><span class="o">戎马关山北</span><span lang="en">North of the mountain passes, war horses still charge;</span><span lang="zh">关山以北，战争还在进行，</span></li><li><span class="o">凭轩涕泗流</span><span lang="en">leaning on the railing, I let my tears stream down.</span><span lang="zh">我靠着栏杆，眼泪鼻涕一起流下来。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>昔<span class="mono">xī</span></dt><dd><span lang="en">xī: in the past.</span><span lang="zh">昔：从前。</span></dd></div><div><dt>洞庭水<span class="mono">dòng tíng shuǐ</span></dt><dd><span lang="en">dòng tíng shuǐ: Lake Dongting, in northern Hunan, one of China&#x27;s largest freshwater lakes.</span><span lang="zh">洞庭水：洞庭湖，在今天湖南北部，是中国很大的淡水湖。</span></dd></div><div><dt>岳阳楼<span class="mono">yuè yáng lóu</span></dt><dd><span lang="en">yuè yáng lóu: Yueyang Tower, in today&#x27;s Yueyang, Hunan, looking out over Lake Dongting.</span><span lang="zh">岳阳楼：在今天湖南岳阳，站在楼上可以看到洞庭湖。</span></dd></div><div><dt>吴楚<span class="mono">wú chǔ</span></dt><dd><span lang="en">wú chǔ: the old states of Wu and Chu, roughly the middle and lower Yangtze region.</span><span lang="zh">吴楚：春秋时的吴国和楚国，大约在今天长江中下游一带。</span></dd></div><div><dt>坼<span class="mono">chè</span></dt><dd><span lang="en">chè: to split apart.</span><span lang="zh">坼：裂开，分开。</span></dd></div><div><dt>乾坤<span class="mono">qián kūn</span></dt><dd><span lang="en">qián kūn: heaven and earth.</span><span lang="zh">乾坤：天和地。</span></dd></div><div><dt>日夜浮<span class="mono">rì yè fú</span></dt><dd><span lang="en">rì yè fú: floating day and night, showing how vast the lake is.</span><span lang="zh">日夜浮：日日夜夜漂浮在湖面上。形容湖水非常广阔。</span></dd></div><div><dt>无一字<span class="mono">wú yí zì</span></dt><dd><span lang="en">wú yī zì: not one word; no letters at all.</span><span lang="zh">无一字：连一个字都没有，指没有书信寄来。</span></dd></div><div><dt>老病<span class="mono">lǎo bìng</span></dt><dd><span lang="en">lǎo bìng: old and sick. Du Fu was fifty-seven and in poor health.</span><span lang="zh">老病：年老多病。杜甫这时五十七岁，身体很不好。</span></dd></div><div><dt>孤舟<span class="mono">gū zhōu</span></dt><dd><span lang="en">gū zhōu: a lonely boat. Du Fu&#x27;s family was living on a boat at this time.</span><span lang="zh">孤舟：孤零零的一条船。杜甫一家这时住在船上。</span></dd></div><div><dt>戎马<span class="mono">róng mǎ</span></dt><dd><span lang="en">róng mǎ: war horses; here, war.</span><span lang="zh">戎马：战马，这里指战争。</span></dd></div><div><dt>关山北<span class="mono">guān shān běi</span></dt><dd><span lang="en">guān shān běi: north of the mountain passes; the northern borders.</span><span lang="zh">关山北：关山以北，指北方边境。</span></dd></div><div><dt>凭轩<span class="mono">píng xuān</span></dt><dd><span lang="en">píng xuān: leaning on a window or railing.</span><span lang="zh">凭轩：靠着窗户或栏杆。</span></dd></div><div><dt>涕泗<span class="mono">tì sì</span></dt><dd><span lang="en">tì sì: tears and a running nose. Tì is tears; sì is mucus.</span><span lang="zh">涕泗：眼泪和鼻涕。涕，眼泪；泗，鼻涕。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>坼<span class="mono">chè</span></dt><dd><span lang="en">Read chè, meaning to split open.</span><span lang="zh">“坼”读 chè，裂开的意思。</span></dd></div><div><dt>乾<span class="mono">qián</span></dt><dd><span lang="en">In qián kūn (heaven and earth) this character is read qián, not gān (dry).</span><span lang="zh">“乾坤”的“乾”读 qián，不读 gān（干）。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem is usually dated to the winter of 768. Du Fu was fifty-seven. He and his family had left Kuizhou by boat, passed through the Three Gorges, and drifted down the Yangtze to Yuezhou, today&#x27;s Yueyang in Hunan. There he climbed Yueyang Tower. His health was very poor and he had no settled way to live. In the north the borders were still not at peace: Tibetan armies were raiding, and the court was sending troops to hold them back. Looking at Lake Dongting, he thought of himself and of his country, and wrote this poem.</p><p lang="zh">这首诗一般认为写于768年（大历三年）冬天。那年杜甫五十七岁，带着家人坐船离开夔州，出三峡，沿长江漂泊到岳州（今湖南岳阳），登上了岳阳楼。他身体很差，生活也没有着落。那时北方边境还不太平，吐蕃军队进犯，朝廷又在调兵防守。他看着洞庭湖，想到自己，也想到国家，写下了这首诗。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. He lived through the An Lushan Rebellion and spent most of his life poor and wandering, yet he never stopped caring about his country and its people. His poems record the suffering of his age, so they are called &quot;history in poems.&quot; Two years after writing this one, he died on a boat in Hunan.</p><p lang="zh">杜甫（712—770），唐代大诗人，被称为“诗圣”。他经历了安史之乱，一生多半在贫困和漂泊中度过，可他始终关心国家和百姓。他的诗写出了一个时代的苦难，所以被称为“诗史”。写这首诗两年后，他就在湖南的船上去世了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines are calm: I heard of Lake Dongting long ago, and today at last I am here. Then lines three and four stretch the picture to a giant size. The lake splits the southeastern lands into Wu and Chu, and heaven and earth seem to float on it. These are among the grandest lines ever written about the lake. Then the camera suddenly pulls back to the poet himself: no letters from family or friends, old and sick, with only a lonely little boat. The bigger the lake, the smaller and lonelier the man seems. The last two lines turn from himself to his country: war is still going on in the north. The poet leans on the railing and weeps, not only for his own pain, but even more for his country&#x27;s troubles.</p><p lang="zh">开头两句很平静：早就听说洞庭湖，今天终于来了。可三、四句一下子把画面撑得极大：湖水把东南大地分成吴和楚，天地都像漂在湖上。这是写洞庭湖最壮阔的句子之一。接着镜头突然拉回诗人自己：没有亲友的信，又老又病，只剩一条孤零零的小船。湖越大，人就显得越小、越孤单。最后两句又从自己想到国家：北方还在打仗。诗人靠着栏杆流泪，哭的不只是自己的苦，更是国家的难。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/zhuliguan/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>竹里馆</b></a><a href="../../p/lvyeshuhuai/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>旅夜书怀</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["昔", "xī"], ["闻", "wén"], ["洞", "dòng"], ["庭", "tíng"], ["水", "shuǐ"]], [["今", "jīn"], ["上", "shàng"], ["岳", "yuè"], ["阳", "yáng"], ["楼", "lóu"]], [["吴", "wú"], ["楚", "chǔ"], ["东", "dōng"], ["南", "nán"], ["坼", "chè"]], [["乾", "qián"], ["坤", "kūn"], ["日", "rì"], ["夜", "yè"], ["浮", "fú"]], [["亲", "qīn"], ["朋", "péng"], ["无", "wú"], ["一", "yí"], ["字", "zì"]], [["老", "lǎo"], ["病", "bìng"], ["有", "yǒu"], ["孤", "gū"], ["舟", "zhōu"]], [["戎", "róng"], ["马", "mǎ"], ["关", "guān"], ["山", "shān"], ["北", "běi"]], [["凭", "píng"], ["轩", "xuān"], ["涕", "tì"], ["泗", "sì"], ["流", "liú"]]], "glosses": [{"line": 0, "start": 0, "end": 1, "zh": "昔：从前。", "en": "xī: in the past."}, {"line": 0, "start": 2, "end": 5, "zh": "洞庭水：洞庭湖，在今天湖南北部，是中国很大的淡水湖。", "en": "dòng tíng shuǐ: Lake Dongting, in northern Hunan, one of China's largest freshwater lakes."}, {"line": 1, "start": 2, "end": 5, "zh": "岳阳楼：在今天湖南岳阳，站在楼上可以看到洞庭湖。", "en": "yuè yáng lóu: Yueyang Tower, in today's Yueyang, Hunan, looking out over Lake Dongting."}, {"line": 2, "start": 0, "end": 2, "zh": "吴楚：春秋时的吴国和楚国，大约在今天长江中下游一带。", "en": "wú chǔ: the old states of Wu and Chu, roughly the middle and lower Yangtze region."}, {"line": 2, "start": 4, "end": 5, "zh": "坼：裂开，分开。", "en": "chè: to split apart."}, {"line": 3, "start": 0, "end": 2, "zh": "乾坤：天和地。", "en": "qián kūn: heaven and earth."}, {"line": 3, "start": 2, "end": 5, "zh": "日夜浮：日日夜夜漂浮在湖面上。形容湖水非常广阔。", "en": "rì yè fú: floating day and night, showing how vast the lake is."}, {"line": 4, "start": 2, "end": 5, "zh": "无一字：连一个字都没有，指没有书信寄来。", "en": "wú yī zì: not one word; no letters at all."}, {"line": 5, "start": 0, "end": 2, "zh": "老病：年老多病。杜甫这时五十七岁，身体很不好。", "en": "lǎo bìng: old and sick. Du Fu was fifty-seven and in poor health."}, {"line": 5, "start": 3, "end": 5, "zh": "孤舟：孤零零的一条船。杜甫一家这时住在船上。", "en": "gū zhōu: a lonely boat. Du Fu's family was living on a boat at this time."}, {"line": 6, "start": 0, "end": 2, "zh": "戎马：战马，这里指战争。", "en": "róng mǎ: war horses; here, war."}, {"line": 6, "start": 2, "end": 5, "zh": "关山北：关山以北，指北方边境。", "en": "guān shān běi: north of the mountain passes; the northern borders."}, {"line": 7, "start": 0, "end": 2, "zh": "凭轩：靠着窗户或栏杆。", "en": "píng xuān: leaning on a window or railing."}, {"line": 7, "start": 2, "end": 4, "zh": "涕泗：眼泪和鼻涕。涕，眼泪；泗，鼻涕。", "en": "tì sì: tears and a running nose. Tì is tears; sì is mucus."}], "readings": [{"line": 2, "pos": 4, "char": "坼", "pinyin": "chè", "zh": "“坼”读 chè，裂开的意思。", "en": "Read chè, meaning to split open."}, {"line": 3, "pos": 0, "char": "乾", "pinyin": "qián", "zh": "“乾坤”的“乾”读 qián，不读 gān（干）。", "en": "In qián kūn (heaven and earth) this character is read qián, not gān (dry)."}], "speak": ["昔闻洞庭水", "今上岳阳楼", "吴楚东南坼", "乾坤日夜浮", "亲朋无仪字", "老病有孤舟", "戎马关山北", "凭轩涕泗流"], "speakTitle": "登岳阳楼。杜甫。", "sample": "昔闻洞庭水"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

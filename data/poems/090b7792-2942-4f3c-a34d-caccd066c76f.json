@@ -1,0 +1,274 @@
+{
+ "id": "090b7792-2942-4f3c-a34d-caccd066c76f",
+ "kind": "shi",
+ "title": "芙蓉楼送辛渐",
+ "title_en": "Seeing Off Xin Jian at Hibiscus Tower",
+ "author": "王昌龄",
+ "author_en": "Wang Changling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "吴",
+    "wú"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "楚",
+    "chǔ"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "孤",
+    "gū"
+   ]
+  ],
+  [
+   [
+    "洛",
+    "luò"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "亲",
+    "qīn"
+   ],
+   [
+    "友",
+    "yǒu"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "问",
+    "wèn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "壶",
+    "hú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本和课本作“寒雨连江夜入吴”。语料库作“寒雨连天夜入湖”，是另一种版本。课本题目作《芙蓉楼送辛渐》，原题共两首，这是第一首。",
+  "en": "The textbook and common text read \"hán yǔ lián jiāng yè rù wú\" (cold rain over the river comes into Wu by night). The corpus text reads \"lián tiān yè rù hú\" (rain joins the sky and comes onto the lake by night), another version. The original title covers two poems; this is the first."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "一",
+   "pinyin": "yí",
+   "zh": "“一”在去声字前变调，读 yí。",
+   "en": "Yī changes to yí before a fourth-tone syllable."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "寒雨：冰冷的雨。",
+   "en": "hán yǔ: cold rain."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "连江：雨和江面连成一片，雨下满了整条江。",
+   "en": "lián jiāng: the rain joins with the river, falling over the whole river."
+  },
+  {
+   "line": 0,
+   "start": 6,
+   "end": 7,
+   "zh": "吴：这一带古时候是吴国的地方，在今江苏南部一带。",
+   "en": "wú: Wu, the land of the old state of Wu, around today's southern Jiangsu."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "平明：天刚亮的时候。",
+   "en": "píng míng: just at daybreak."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "客：客人，这里指辛渐。",
+   "en": "kè: the guest, here meaning Xin Jian."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "楚山：楚地的山。这一带古时候也属于楚国，所以这样说。",
+   "en": "chǔ shān: the hills of Chu. This area once also belonged to the old state of Chu."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "孤：孤零零的，独自。",
+   "en": "gū: alone, standing by itself."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "洛阳：今河南洛阳，辛渐要去的地方，也是王昌龄很多亲友住的地方。",
+   "en": "luò yáng: Luoyang, in today's Henan, where Xin Jian was going and where many of Wang Changling's family and friends lived."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "如相问：如果问起我。",
+   "en": "rú xiāng wèn: if they ask about me."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "冰心：像冰一样纯洁的心。",
+   "en": "bīng xīn: a heart as pure as ice."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "玉壶：玉做的壶。玉壶里的冰，又干净又透亮，古人用它来比喻人品清白。",
+   "en": "yù hú: a jade vessel. Ice in a jade vessel is clean and clear, and poets used it to stand for an honest, spotless person."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "冰冷的雨洒满江面，夜里来到了吴地。",
+   "en": "Cold rain spread over the river and came into Wu by night."
+  },
+  {
+   "zh": "天刚亮我就送别朋友，只留下楚山孤零零地立着。",
+   "en": "At dawn I see my friend off; the hills of Chu stand alone."
+  },
+  {
+   "zh": "洛阳的亲友如果问起我，",
+   "en": "If my family and friends in Luoyang ask about me,"
+  },
+  {
+   "zh": "就说我的心依然像玉壶里的冰一样纯洁。",
+   "en": "tell them my heart is still like a piece of ice in a jade vessel."
+  }
+ ],
+ "background": {
+  "zh": "芙蓉楼在润州（今江苏镇江）城的西北角，靠近长江。一般认为，唐玄宗天宝初年（约742年），王昌龄在江宁（今江苏南京）做官。他的朋友辛渐要经过润州，渡江北上去洛阳，王昌龄送他到这里，写了两首送别诗，这是第一首。当时王昌龄被人说了不少坏话，处境不好。",
+  "en": "Hibiscus Tower stood at the northwest corner of Runzhou, today's Zhenjiang in Jiangsu, near the Yangtze. It is usually said that around 742, Wang Changling was an official in Jiangning, today's Nanjing. His friend Xin Jian was passing through Runzhou, crossing the river and heading north to Luoyang, and Wang Changling saw him off here. He wrote two farewell poems; this is the first. At that time people were spreading bad talk about Wang Changling, and he was in a difficult position."
+ },
+ "author_note": {
+  "zh": "王昌龄（约698—约756），唐朝诗人，字少伯。他特别擅长写七言绝句，人们称他“七绝圣手”，意思是写七绝的高手。他写过很多边塞诗，比如《出塞》。他一生几次被贬官，但始终坚持做一个清白的人。",
+  "en": "Wang Changling (about 698 to about 756) was a Tang poet. He was a master of the seven-character quatrain, and people called him the Master Hand of Quatrains. He wrote many poems about the frontier, such as \"Out to the Frontier\". He was demoted several times in his life, but always held on to being an honest person."
+ },
+ "appreciation": {
+  "zh": "第一句写昨夜：冰冷的雨下了一整夜，雨和江水连成一片，天地都是冷的，也是分别前心里的冷。第二句写今天早上：天一亮，朋友就走了，只剩下远处的楚山孤零零地立着。山孤，人也孤。后两句是诗人托朋友带的话。他没有说“我很想念你们”，也没有说“我过得很苦”，只说：告诉洛阳的亲友，我的心还像玉壶里的冰一样干净透亮。当时有人说他坏话，他用这句话告诉大家：不管别人怎么说，我还是清清白白的。“一片冰心在玉壶”从此成了形容人品纯洁的名句。",
+  "en": "The first line is about last night: cold rain fell all night, rain and river ran together, and the whole world was cold, like the chill in the heart before a parting. The second line is this morning: at daybreak the friend is gone, and only the far hills of Chu stand alone. The hills are alone, and so is the poet. The last two lines are a message he asks his friend to carry. He does not say \"I miss you\" or \"my life is hard\". He only says: tell my family and friends in Luoyang that my heart is still as clean and clear as ice in a jade vessel. People were speaking ill of him then, and with this line he told everyone that whatever they said, he was still honest and pure. \"A piece of ice in a jade vessel\" has been a famous way to describe a pure heart ever since."
+ },
+ "famous_lines": [
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "integrity",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

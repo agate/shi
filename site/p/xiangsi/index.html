@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>相思 · 王维 — 诗</title>
+    <meta name="description" content="相思 · 王维 — Longing by Wang Wei: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 30 · Tang poem · five-character quatrain</span><span lang="zh">第 30 首 · 唐诗 · 五言绝句</span></p>
+        <h1>相思</h1>
+        <p class="by">王维<span class="mono"><span lang="en">Wang Wei · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Longing</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>hóng</i><b>红</b></span><span class="c gl" data-l="0" data-p="1"><i>dòu</i><b>豆</b></span><span class="c" data-l="0" data-p="2"><i>shēng</i><b>生</b></span><span class="c gl" data-l="0" data-p="3"><i>nán</i><b>南</b></span><span class="c gl" data-l="0" data-p="4"><i>guó</i><b>国</b></span></p><p class="ln"><span class="c" data-l="1" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="1" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="1" data-p="2"><i>fā</i><b>发</b></span><span class="c" data-l="1" data-p="3"><i>jǐ</i><b>几</b></span><span class="c" data-l="1" data-p="4"><i>zhī</i><b>枝</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yuàn</i><b>愿</b></span><span class="c gl" data-l="2" data-p="1"><i>jūn</i><b>君</b></span><span class="c" data-l="2" data-p="2"><i>duō</i><b>多</b></span><span class="c gl" data-l="2" data-p="3"><i>cǎi</i><b>采</b></span><span class="c gl" data-l="2" data-p="4"><i>xié</i><b>撷</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>cǐ</i><b>此</b></span><span class="c" data-l="3" data-p="1"><i>wù</i><b>物</b></span><span class="c gl" data-l="3" data-p="2"><i>zuì</i><b>最</b></span><span class="c gl" data-l="3" data-p="3"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="3" data-p="4"><i>sī</i><b>思</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The data gives the second line as &quot;in autumn it grows on its old branches&quot;. Common editions today read &quot;in spring, how many sprigs has it grown?&quot;, which is the text used here. Some editions also have the third line as &quot;I urge you not to pick them&quot;.</p><p lang="zh">数据里第二句是“秋来发故枝”，现在通行的读本写作“春来发几枝”，这里用通行的写法。另外，第三句有的版本写作“劝君休采撷”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">红豆生南国</span><span lang="en">Red beans grow in the south;</span><span lang="zh">红豆生长在南方，</span></li><li><span class="o">春来发几枝</span><span lang="en">now spring has come, how many new sprigs have they put out?</span><span lang="zh">春天到了，又长出了多少新枝？</span></li><li><span class="o">愿君多采撷</span><span lang="en">I hope you will pick plenty of them,</span><span lang="zh">希望你多摘一些，</span></li><li><span class="o">此物最相思</span><span lang="en">for they, more than anything, make us think of those we miss.</span><span lang="zh">因为它最能让人想起思念的人。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>红豆<span class="mono">hóng dòu</span></dt><dd><span lang="en">hóng dòu: red beans, bright red seeds from a tree, also called longing seeds. People of old used them as a sign of missing someone.</span><span lang="zh">红豆：一种树结的种子，颜色鲜红，又叫相思子。古人用它表示思念。</span></dd></div><div><dt>南国<span class="mono">nán guó</span></dt><dd><span lang="en">nán guó: the south.</span><span lang="zh">南国：南方。</span></dd></div><div><dt>发<span class="mono">fā</span></dt><dd><span lang="en">fā: to grow, to sprout.</span><span lang="zh">发：长出。</span></dd></div><div><dt>愿君<span class="mono">yuàn jūn</span></dt><dd><span lang="en">yuàn jūn: I hope you will. Jūn is a polite word for &quot;you&quot;.</span><span lang="zh">愿君：希望你。君，对朋友的尊称。</span></dd></div><div><dt>采撷<span class="mono">cǎi xié</span></dt><dd><span lang="en">cǎi xié: to pick.</span><span lang="zh">采撷：采摘。</span></dd></div><div><dt>最相思<span class="mono">zuì xiāng sī</span></dt><dd><span lang="en">zuì xiāng sī: best at stirring up longing.</span><span lang="zh">最相思：最能引起思念。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem was written to a friend, using red beans to say &quot;I miss you.&quot; When it was written is not known. Some old books title it &quot;For Li Guinian, on the River&quot;, saying it was written for Li Guinian, a famous Tang singer. The story goes that later, when Li drifted to the south, he often sang this poem. This account cannot be fully confirmed. Red beans grow in the south, while Wang Wei lived mostly in the north around Chang&#x27;an, which is why the poem says they grow in the south.</p><p lang="zh">这首诗是写给朋友的，借红豆表达思念。写作时间不详。有的古书题作《江上赠李龟年》，说是写给唐代著名歌手李龟年的，据说李龟年后来流落江南时还常常唱这首诗，不过这个说法不能完全确定。红豆产在南方，王维长期住在北方的长安一带，所以诗里说红豆“生南国”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Wei (701–761; some say 699–761) was a famous Tang poet, and also a painter and musician. His poems about hills and streams are calm and clean. The Song writer Su Shi said there were paintings in his poems and poems in his paintings. In later life he followed Buddhism and liked a quiet life in the hills.</p><p lang="zh">王维（701—761，一说699—761），字摩诘，唐代著名诗人，也是画家和音乐家。他的山水诗写得安静、干净，宋代苏轼说他“诗中有画，画中有诗”。他晚年信佛，喜欢在山林里过清静的日子。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">Red beans are bright red and shiny. People of old called them longing seeds. One legend says they grew from the tears of someone crying for a loved one far away. The poet does not say &quot;I miss you&quot; directly. He only asks gently: how many new sprigs have the southern red beans grown this spring? Then he tells his friend to pick plenty, since they bring friends to mind best of all. He talks about beans, but really he is handing his feelings to the little red seeds. The words are simple, almost casual, yet the feeling runs deep, and that is why people have sung it for over a thousand years.</p><p lang="zh">红豆又红又亮，古人叫它相思子，有个传说是思念远方亲人的人哭出的眼泪变成的。诗人不直接说“我想你”，而是轻轻问一句：南方的红豆，春天又长了多少枝？然后叮嘱朋友：多摘一些吧，它最能让人想起朋友。说的是豆子，其实是把自己的思念托给小小的红豆。语言简单，像随口一说，却情意很深，所以一千多年来被人们传唱。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/shanjuqiuming/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>山居秋暝</b></a><a href="../../p/wuyixiang/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>乌衣巷</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["红", "hóng"], ["豆", "dòu"], ["生", "shēng"], ["南", "nán"], ["国", "guó"]], [["春", "chūn"], ["来", "lái"], ["发", "fā"], ["几", "jǐ"], ["枝", "zhī"]], [["愿", "yuàn"], ["君", "jūn"], ["多", "duō"], ["采", "cǎi"], ["撷", "xié"]], [["此", "cǐ"], ["物", "wù"], ["最", "zuì"], ["相", "xiāng"], ["思", "sī"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "红豆：一种树结的种子，颜色鲜红，又叫相思子。古人用它表示思念。", "en": "hóng dòu: red beans, bright red seeds from a tree, also called longing seeds. People of old used them as a sign of missing someone."}, {"line": 0, "start": 3, "end": 5, "zh": "南国：南方。", "en": "nán guó: the south."}, {"line": 1, "start": 2, "end": 3, "zh": "发：长出。", "en": "fā: to grow, to sprout."}, {"line": 2, "start": 0, "end": 2, "zh": "愿君：希望你。君，对朋友的尊称。", "en": "yuàn jūn: I hope you will. Jūn is a polite word for \"you\"."}, {"line": 2, "start": 3, "end": 5, "zh": "采撷：采摘。", "en": "cǎi xié: to pick."}, {"line": 3, "start": 2, "end": 5, "zh": "最相思：最能引起思念。", "en": "zuì xiāng sī: best at stirring up longing."}], "readings": [], "speak": ["红豆生南国", "春来发几枝", "愿君多采撷", "此物最相思"], "speakTitle": "相思。王维。", "sample": "红豆生南国"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

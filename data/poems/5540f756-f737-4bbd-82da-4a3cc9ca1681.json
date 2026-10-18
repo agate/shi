@@ -1,0 +1,383 @@
+{
+ "id": "5540f756-f737-4bbd-82da-4a3cc9ca1681",
+ "kind": "shi",
+ "title": "题破山寺后禅院",
+ "title_en": "Written at the Back Courtyard of Poshan Temple",
+ "author": "常建",
+ "author_en": "Chang Jian",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "晨",
+    "chén"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "寺",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "通",
+    "tōng"
+   ],
+   [
+    "幽",
+    "yōu"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "禅",
+    "chán"
+   ],
+   [
+    "房",
+    "fáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "悦",
+    "yuè"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "性",
+    "xìng"
+   ]
+  ],
+  [
+   [
+    "潭",
+    "tán"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "籁",
+    "lài"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "寂",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "钟",
+    "zhōng"
+   ],
+   [
+    "磬",
+    "qìng"
+   ],
+   [
+    "音",
+    "yīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "古诗库第三句作“竹迳通幽处”（竹林里的小路），课本和通行本作“曲径通幽处”。另外，第七、八句有的版本作“万籁此俱寂，惟闻钟磬音”，意思一样，这里按课本作“万籁此都寂，但余钟磬音”。",
+  "en": "The corpus has the third line as \"a bamboo path leads to a quiet place\"; textbooks and common editions have \"a winding path\". Some editions also word the last two lines a little differently, with the same meaning. This page follows the textbook."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "读 qū，“弯曲”的意思。不读 qǔ（歌曲的曲）。",
+   "en": "Read qū, meaning winding. It is not qǔ, the word for a song."
+  },
+  {
+   "line": 6,
+   "pos": 3,
+   "char": "都",
+   "pinyin": "dōu",
+   "zh": "读 dōu，“全、都”的意思。不读 dū（首都的都）。",
+   "en": "Read dōu, meaning all. It is not dū, as in a capital city."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "初日：刚升起的太阳。",
+   "en": "chū rì: the sun just risen."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "高林：高大的树林。",
+   "en": "gāo lín: a forest of tall trees."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "曲径：弯弯曲曲的小路。",
+   "en": "qū jìng: a winding path."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "通幽处：通向幽静的地方。幽，安静、深远。",
+   "en": "tōng yōu chù: leading to a quiet, hidden place. Yōu means quiet and deep."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "禅房：和尚们住和修行的房子。",
+   "en": "chán fáng: the rooms where the monks live and meditate."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "花木深：花草树木长得很茂密，把禅房围在深处。",
+   "en": "huā mù shēn: flowers and trees grow thick, hiding the rooms deep inside."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "山光：山间的风光、阳光。",
+   "en": "shān guāng: the light and scenery of the hills."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "悦鸟性：让鸟儿快乐自在。悦，使……高兴。",
+   "en": "yuè niǎo xìng: makes the birds happy and free. Yuè means to delight."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "潭影：清清的水潭里映出的倒影。",
+   "en": "tán yǐng: reflections in a clear pool."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "空人心：让人心里的烦恼和杂念都消失，变得空明安静。",
+   "en": "kōng rén xīn: empties the heart of worries, leaving it clear and calm."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "万籁：自然界的各种声音。籁，从孔里发出的声音。",
+   "en": "wàn lài: all the sounds of the world. Lài is a sound coming out of a hole."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "此：这时。",
+   "en": "cǐ: at this moment."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "都寂：都静下来了。寂，没有声音。",
+   "en": "dōu jì: all fall silent. Jì means silent."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "但余：只剩下。但，只。余，剩下。",
+   "en": "dàn yú: only... remains. Dàn means only; yú means to remain."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "钟磬：寺院里敲的钟和磬。磬是用石头或铜做的打击乐器，和尚念经时敲它。",
+   "en": "zhōng qìng: the temple bell and the chime stone. A qìng is struck while monks chant."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "清晨，我走进这座古老的寺院，",
+   "en": "Early in the morning I enter the old temple;"
+  },
+  {
+   "zh": "初升的太阳照着高高的树林。",
+   "en": "the rising sun lights the tall trees."
+  },
+  {
+   "zh": "弯弯曲曲的小路通向幽静的深处，",
+   "en": "A winding path leads to a quiet, hidden place,"
+  },
+  {
+   "zh": "和尚的禅房藏在茂密的花草树木中。",
+   "en": "where the monks' rooms lie deep among flowers and trees."
+  },
+  {
+   "zh": "山间的风光让鸟儿欢快自在，",
+   "en": "The light on the hills makes the birds glad;"
+  },
+  {
+   "zh": "清潭里的倒影让人心中杂念全消。",
+   "en": "the reflections in the pool empty the heart."
+  },
+  {
+   "zh": "这时，世间的一切声音都静了下来，",
+   "en": "Now all the sounds of the world fall silent;"
+  },
+  {
+   "zh": "只剩下寺里钟和磬的余音在回响。",
+   "en": "only the notes of bell and chime stone remain."
+  }
+ ],
+ "background": {
+  "zh": "破山寺就是兴福寺，在今天江苏常熟的虞山上，是南朝时就有的古寺。禅院是寺里和尚居住、修行的院子。一个清晨，常建来到这座寺院，沿着小路走到后面的禅院，被那里的清幽打动，就把这首诗题写在寺里。具体是哪一年写的，已经不清楚了。",
+  "en": "Poshan Temple is Xingfu Temple on Mount Yu in today's Changshu, Jiangsu. It dates back to the Southern Dynasties. The chán yuàn is the courtyard where the monks live and meditate. One morning Chang Jian came to the temple, walked along a path to the back courtyard, and was moved by its deep quiet, so he wrote this poem at the temple. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "常建，唐代诗人，生卒年不详。开元十五年（727年）他考中进士，只做过很小的官，很不得意，后来隐居。他擅长写山水和寺院，诗风清静淡远。这首诗是他最有名的作品。",
+  "en": "Chang Jian was a Tang poet whose birth and death years are unknown. He passed the top civil exam in 727 but only ever held a minor post. Unhappy, he later went into seclusion. He was good at poems of landscapes and temples, quiet and calm in style. This is his best-known poem."
+ },
+ "appreciation": {
+  "zh": "这首诗像跟着诗人走了一趟寺院。先是清晨走进古寺，阳光照着高树；然后沿着弯弯的小路往里走，越走越安静，最后看到花木深处的禅房。接着诗人停下来：鸟儿在阳光里自在地叫，清潭里映着山和天，看着看着，心里的烦恼都没了。最后一切声音都静了，只剩下钟磬声慢慢传开。用声音来写安静，反而更显得静。“曲径通幽处”后来成了成语，形容弯曲的小路通向幽静美好的地方。",
+  "en": "Reading this poem is like walking through the temple with the poet. First, early morning: he enters the old temple, and sunlight touches the tall trees. Then he follows a winding path inward. It gets quieter and quieter, until he finds the monks' rooms deep among flowers and trees. Then he stops. Birds sing freely in the sunlight. The clear pool reflects the hills and sky, and as he looks, his worries fade away. At last every sound falls silent, and only the bell and chime stone ring on. Using a sound to show silence makes the silence feel even deeper. \"A winding path leads to a quiet place\" later became a well-known saying for a hidden path that opens onto something lovely."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "temple",
+   "morning",
+   "quiet",
+   "zen"
+  ]
+ },
+ "uncertain": []
+}

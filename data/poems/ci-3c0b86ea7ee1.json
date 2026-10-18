@@ -1,0 +1,457 @@
+{
+ "id": "ci-3c0b86ea7ee1",
+ "kind": "ci",
+ "title": "西江月·顷在黄州",
+ "title_en": "West River Moon: Lately in Huangzhou",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "弥",
+    "mí"
+   ],
+   [
+    "弥",
+    "mí"
+   ],
+   [
+    "浅",
+    "qiǎn"
+   ],
+   [
+    "浪",
+    "làng"
+   ]
+  ],
+  [
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "隐",
+    "yǐn"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "霄",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "障",
+    "zhàng"
+   ],
+   [
+    "泥",
+    "ní"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "骢",
+    "cōng"
+   ],
+   [
+    "骄",
+    "jiāo"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "眠",
+    "mián"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "教",
+    "jiāo"
+   ],
+   [
+    "踏",
+    "tà"
+   ],
+   [
+    "碎",
+    "suì"
+   ],
+   [
+    "琼",
+    "qióng"
+   ],
+   [
+    "瑶",
+    "yáo"
+   ]
+  ],
+  [
+   [
+    "解",
+    "jiě"
+   ],
+   [
+    "鞍",
+    "ān"
+   ],
+   [
+    "欹",
+    "qī"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "杨",
+    "yáng"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ]
+  ],
+  [
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "宇",
+    "yǔ"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "语料库文本作“横空暧暧微霄”“可惜一溪明月”“莫教踏破琼瑶”。通行本作“横空隐隐层霄”“可惜一溪风月”“莫教踏碎琼瑶”，这里用通行本。“欹”语料库写作“敧”，是同一个字的不同写法。这首词前面原有一段小序，见“背景”。",
+  "en": "The corpus text has 'a faint haze, thin clouds' in line 2, 'a stream of bright moonlight' in line 5 and 'tread and break' in line 6. The common text has 'dim, layered clouds', 'a stream of wind and moonlight' and 'tread and shatter', and this page follows it. The corpus also writes qī (to lean) in line 7 with another form of the same character. The lyric originally has a short preface, described under Background."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiāo",
+   "zh": "“莫教”的“教”是“让、使”的意思，读 jiāo。",
+   "en": "In mò jiāo (don't let) this character means 'to let, to make', and is read jiāo."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "欹",
+   "pinyin": "qī",
+   "zh": "“欹”读 qī，意思是斜靠。",
+   "en": "Read qī, meaning to lean on."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "照野：月光照着田野。",
+   "en": "zhào yě: the moonlight shines on the fields."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "弥弥：水满满的、轻轻流动的样子。",
+   "en": "mí mí: brimming, gently rippling water."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "横空：横在天上。",
+   "en": "héng kōng: stretched across the sky."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "隐隐：模模糊糊，看不太清的样子。",
+   "en": "yǐn yǐn: dim, hard to see clearly."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "层霄：一层一层的云。",
+   "en": "céng xiāo: layer upon layer of clouds."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "障泥：垂在马鞍两边、挡泥土的布或皮子。",
+   "en": "zhàng ní: mud guards, flaps of cloth or leather hanging from both sides of a saddle to keep off mud."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "未解：还没有解下来。",
+   "en": "wèi jiě: not yet taken off."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "玉骢：毛色青白相间的好马。",
+   "en": "yù cōng: a fine horse with a coat of white and grey."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 7,
+   "zh": "骄：马精神十足、昂首要跑的样子。",
+   "en": "jiāo: full of spirit, head high, eager to run."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "芳草：香香的青草。",
+   "en": "fāng cǎo: sweet-smelling grass."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "可惜：可爱，让人舍不得。这里不是“遗憾”的意思。",
+   "en": "kě xī: so lovely that one cannot bear to spoil it. Here it does not mean 'what a pity'."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "风月：清风和明月，这里指溪水里映着的月色。",
+   "en": "fēng yuè: the breeze and the moon; here, the moonlight shining in the stream."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "莫教：不要让。",
+   "en": "mò jiāo: do not let."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "琼瑶：美玉。这里比喻水中明亮的月影。",
+   "en": "qióng yáo: fine jade. Here it stands for the bright moon reflected in the water."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "解鞍：把马鞍解下来。",
+   "en": "jiě ān: to take off the saddle."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "欹枕：斜靠着当枕头。",
+   "en": "qī zhěn: to lean on something as a pillow."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "绿杨桥：长着绿色杨柳的小桥。",
+   "en": "lǜ yáng qiáo: a little bridge lined with green willows."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "杜宇：杜鹃鸟，春天常在清晨叫。",
+   "en": "dù yǔ: the cuckoo, which often calls at dawn in spring."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "春晓：春天的早晨。",
+   "en": "chūn xiǎo: a spring dawn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月光照着田野，满满的溪水泛着细细的波浪，",
+   "en": "The moon lights the fields; the brimming stream ripples in small waves;"
+  },
+  {
+   "zh": "天空中横着一层层朦朦胧胧的云。",
+   "en": "across the sky lie layers of dim clouds."
+  },
+  {
+   "zh": "马鞍上的障泥还没解下，白马精神抖擞，",
+   "en": "The mud guards are still on the saddle, and my fine horse is full of spirit,"
+  },
+  {
+   "zh": "我却醉了，想睡在芳草地上。",
+   "en": "but I am drunk and want to sleep on the sweet grass."
+  },
+  {
+   "zh": "这一溪清风明月多么可爱，",
+   "en": "This stream of breeze and moonlight is so lovely,"
+  },
+  {
+   "zh": "别让马蹄踩碎了水中像美玉一样的月影。",
+   "en": "I must not let the hooves shatter the jade-like moon in the water."
+  },
+  {
+   "zh": "我解下马鞍当枕头，斜靠着睡在绿杨桥上，",
+   "en": "I take off the saddle and lean on it as a pillow on the green-willow bridge,"
+  },
+  {
+   "zh": "一声杜鹃叫，春天的早晨已经来了。",
+   "en": "and with one call of the cuckoo, it is spring dawn."
+  }
+ ],
+ "background": {
+  "zh": "这首词前面有一段小序，大意是：不久前我在黄州，一个春夜在蕲水边走，到酒家喝酒喝醉了，趁着月色来到一座溪桥上，解下马鞍，枕着胳膊醉卧休息。醒来天已经亮了，四周群山环抱，流水叮咚，好像不在人间。于是把这首词写在桥柱上。一般认为这是宋神宗元丰五年（1082年）春天，苏轼被贬到黄州（今湖北黄冈）时的事。蕲水在今湖北浠水。",
+  "en": "The lyric has a short preface. In plain words it says: not long ago, when I was in Huangzhou, I was out one spring night by the Qi River. I drank at a wine shop and got drunk. By moonlight I came to a bridge over a stream, took off the saddle, and lay down with my head on my arm to rest. When I woke it was already dawn. Hills crowded around me and the water rang as it flowed, as if this were not the human world. So I wrote this lyric on a post of the bridge. It is usually dated to the spring of 1082, when Su Shi had been sent away in disgrace to Huangzhou, today's Huanggang in Hubei. The Qi River is in today's Xishui, Hubei."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），字子瞻，号东坡居士，北宋大文学家，诗、词、文章、书法、绘画都很出色。1079年他因写诗被人诬告，关进监狱，出狱后被贬到黄州。在黄州的几年，他生活清苦，却常常在山水里找到快乐，写下了很多名作。",
+  "en": "Su Shi (1037–1101), styled Zizhan and known as the Lay Scholar Dongpo, was a great writer of the Northern Song. He excelled at poetry, ci, prose, calligraphy and painting. In 1079 he was falsely accused because of his poems and thrown into prison. After his release he was sent away to Huangzhou. During his years there he lived poorly, yet he often found joy in hills and rivers and wrote many famous works."
+ },
+ "appreciation": {
+  "zh": "上半首写夜景：月光洒在田野上，溪水满满地闪着光，天上云层朦胧。马还很精神，想往前跑，人却醉了，只想躺在草地上睡一觉。下半首最可爱：溪水里映着明月，亮得像一块美玉，他舍不得让马蹄把它踩碎，干脆解下马鞍，在桥上睡下。一觉醒来，杜鹃一声叫，天已经亮了。被贬的苦闷一点也没写，只写了月、水、草、桥和鸟。我们看到的是一个能在自然里放下烦恼、自在快活的苏东坡。",
+  "en": "The first half paints the night: moonlight on the fields, the full stream shining, hazy clouds in the sky. The horse is lively and wants to run on, but the rider is drunk and only wants to lie down on the grass. The second half is the sweetest part. The moon in the stream is as bright as a piece of jade, and he cannot bear to let the hooves break it. So he takes off the saddle and sleeps on the bridge. He wakes to the call of a cuckoo, and it is already morning. He writes nothing about the pain of being sent away, only the moon, the water, the grass, the bridge and the bird. What we see is a Su Dongpo who can set his troubles down in nature and be free and happy."
+ },
+ "famous_lines": [
+  4,
+  5,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "night",
+   "wine",
+   "stream",
+   "freedom"
+  ]
+ },
+ "uncertain": []
+}

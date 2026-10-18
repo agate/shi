@@ -1,0 +1,346 @@
+{
+ "id": "ci-57fa92ac0c9b",
+ "kind": "ci",
+ "title": "浣溪沙·簌簌衣巾落枣花",
+ "title_en": "Huan Xi Sha: Jujube Blossoms Patter on My Clothes",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·浣溪沙",
+  "en": "ci to the tune Huan Xi Sha (Washing Silk in the Stream)"
+ },
+ "lines": [
+  [
+   [
+    "簌",
+    "sù"
+   ],
+   [
+    "簌",
+    "sù"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "巾",
+    "jīn"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "枣",
+    "zǎo"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ],
+   [
+    "缲",
+    "sāo"
+   ],
+   [
+    "车",
+    "chē"
+   ]
+  ],
+  [
+   [
+    "牛",
+    "niú"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "卖",
+    "mài"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "瓜",
+    "guā"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "困",
+    "kùn"
+   ],
+   [
+    "路",
+    "lù"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "惟",
+    "wéi"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "睡",
+    "shuì"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "渴",
+    "kě"
+   ],
+   [
+    "漫",
+    "màn"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "茶",
+    "chá"
+   ]
+  ],
+  [
+   [
+    "敲",
+    "qiāo"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "家",
+    "jiā"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  3
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 5,
+   "char": "缲",
+   "pinyin": "sāo",
+   "zh": "“缲”在这里同“缫”，指把蚕茧抽成丝，读 sāo。它在别的地方也读 qiāo（一种缝纫方法）。",
+   "en": "Here this character means the same as sāo, to reel silk from cocoons, so it is read sāo. In other uses it is read qiāo, a kind of hem stitch."
+  },
+  {
+   "line": 4,
+   "pos": 4,
+   "char": "漫",
+   "pinyin": "màn",
+   "zh": "“漫”读 màn，这里是“随意地、不由得”的意思。",
+   "en": "Read màn. Here it means casually, or without being able to help it."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "簌簌：花瓣轻轻落下的声音。",
+   "en": "sù sù: the soft sound of falling petals."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "衣巾：衣服和头巾。",
+   "en": "yī jīn: clothes and headscarf."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "枣花：枣树开的小花，黄绿色，初夏开放。",
+   "en": "zǎo huā: the small yellow-green flowers of the jujube tree, which bloom in early summer."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "缲车：缫丝车，把蚕茧抽成丝的工具。有的本子写作“缫车”。",
+   "en": "sāo chē: a silk-reeling wheel, a tool that pulls silk thread from cocoons. Some editions write it with another character of the same meaning."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "牛衣：原来是给牛披着防寒的草编或麻编的东西，这里指农民穿的粗布衣服。一说指穿粗衣的农民。",
+   "en": "niú yī: at first, a straw or hemp cover put on cattle against the cold. Here it means the rough clothes of farmers. Another reading says it means the farmer wearing them."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "酒困：喝了酒，觉得困倦。",
+   "en": "jiǔ kùn: sleepy from drinking wine."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "惟欲睡：只想睡觉。惟，只。",
+   "en": "wéi yù shuì: only wanting to sleep. Wéi means only."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "漫思茶：很想喝茶。漫，随意地、不由得。",
+   "en": "màn sī chá: longing for tea. Màn means casually, without being able to help it."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "试问：试着问一问。",
+   "en": "shì wèn: to try asking."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "野人家：乡下农民的家。野人，指农夫，不是野蛮人。",
+   "en": "yě rén jiā: a country family's home. Yě rén means a farmer, not a wild person."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "枣花簌簌地落在我的衣服和头巾上。",
+   "en": "Jujube blossoms patter down onto my clothes and headscarf."
+  },
+  {
+   "zh": "村南村北到处响着缫丝车的声音。",
+   "en": "All over the village, north and south, the silk-reeling wheels are whirring."
+  },
+  {
+   "zh": "穿着粗布衣服的农民坐在老柳树下卖黄瓜。",
+   "en": "Under an old willow, a farmer in rough clothes sells cucumbers."
+  },
+  {
+   "zh": "喝了酒有些困，路又长，只想睡一觉。",
+   "en": "The wine has made me drowsy and the road is long; all I want is to sleep."
+  },
+  {
+   "zh": "太阳升得高高的，口渴得很，很想喝茶。",
+   "en": "The sun is high, I am thirsty, and I keep thinking of tea."
+  },
+  {
+   "zh": "我敲敲门，去问问农家能不能给碗茶喝。",
+   "en": "I knock on a door and try asking a farm family for some tea."
+  }
+ ],
+ "background": {
+  "zh": "1078年（元丰元年），苏轼在徐州做知州。那年春天大旱，他到城东二十里的石潭求雨。后来下了雨，他又去石潭谢雨，在路上写了五首《浣溪沙》，这是第四首。原题序说：“徐门石潭谢雨，道上作五首。”这几首词写的都是一路上看到的农村景象。",
+  "en": "In 1078 Su Shi was the governor of Xuzhou. That spring there was a bad drought, so he went to Shitan Pool, about ten kilometers east of the city, to pray for rain. Later the rain came, and he went back to the pool to give thanks. On the road he wrote five ci to this tune, and this is the fourth. His note says he wrote five pieces on the way to give thanks for rain at Shitan. All of them describe the country scenes he saw along the road."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画都很出色。他做地方官时很关心百姓，常常走到田间村头。他还把农村生活写进词里，让词不只写花前月下，也能写普通人的日子。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great Northern Song writer, excellent at poems, ci, prose, calligraphy and painting. As a local official he cared about ordinary people and often walked out into the fields and villages. He also brought country life into ci, so that ci were no longer only about flowers and moonlight, but also about everyday people."
+ },
+ "appreciation": {
+  "zh": "上片像一段乡村小电影：先是枣花落在身上，簌簌有声；再是村子里到处响着缫丝车，这是农家在忙着做丝；然后是老柳树下有人卖黄瓜。有声音，有颜色，有人，充满初夏的生活气息。下片写自己：酒喝多了犯困，路又长，太阳又晒，口渴想喝茶，于是去敲农家的门。一个大官像普通过路人一样讨碗茶喝，写得轻松有趣，也看得出他和百姓很亲近。",
+  "en": "The first half is like a short film of a village. First, jujube blossoms fall on him with a soft pattering. Then silk-reeling wheels whir all over the village, as farm families busily make silk. Then someone sells cucumbers under an old willow. There are sounds, colors and people, full of early-summer life. The second half is about the poet himself. He has had too much wine and is sleepy, the road is long, the sun is hot, and he is thirsty for tea. So he knocks on a farmer's door. A high official asks for tea like any passer-by. It is written in a light, funny way, and it shows how close he felt to ordinary people."
+ },
+ "famous_lines": [
+  3,
+  4,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "countryside",
+   "farmers",
+   "tea",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,475 @@
+{
+ "id": "ci-1e1b5658eae5",
+ "kind": "ci",
+ "title": "踏莎行·候馆梅残",
+ "title_en": "To the Tune of Ta Suo Xing: At the Inn the Plum Blossoms Fade",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·踏莎行（双调）",
+  "en": "ci lyric to the tune Ta Suo Xing, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "候",
+    "hòu"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "残",
+    "cán"
+   ]
+  ],
+  [
+   [
+    "溪",
+    "xī"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "细",
+    "xì"
+   ]
+  ],
+  [
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "薰",
+    "xūn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "暖",
+    "nuǎn"
+   ],
+   [
+    "摇",
+    "yáo"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "辔",
+    "pèi"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "穷",
+    "qióng"
+   ]
+  ],
+  [
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "迢",
+    "tiáo"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "寸",
+    "cùn"
+   ],
+   [
+    "柔",
+    "róu"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "粉",
+    "fěn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "近",
+    "jìn"
+   ],
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "芜",
+    "wú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "资料库第三句作“草熏”，通行本作“草薰”。“薰”是香草、香气的意思，“草薰”就是青草散发香气，写作“熏”是繁简转换时混用了。",
+  "en": "In line three the corpus writes xūn with the character for smoking or fuming. Common editions use the character that means fragrance: the grass gives off a sweet smell. The two were mixed up in conversion."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 2,
+   "char": "不",
+   "pinyin": "bú",
+   "zh": "“不”在第四声“断”前面变读 bú。",
+   "en": "Bù changes to bú before the fourth-tone duàn."
+  },
+  {
+   "line": 8,
+   "pos": 3,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“尽处”是“尽头的地方”，读 chù。",
+   "en": "Jìn chù means the place where something ends, read chù."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "“更在”是“还要在、更在”，读 gèng，不读 gēng。",
+   "en": "Gèng zài means even farther, read gèng, not gēng."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "行",
+   "pinyin": "xíng",
+   "zh": "“行人”是出远门的人，读 xíng。",
+   "en": "Xíng rén means a traveler, read xíng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "候馆：路边供客人歇脚的旅店。",
+   "en": "hòu guǎn: an inn by the road where travelers rest."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "梅残：梅花快要落光了。",
+   "en": "méi cán: the plum blossoms are nearly gone."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "柳细：柳树刚长出细细的嫩叶。",
+   "en": "liǔ xì: the willows have just put out thin new leaves."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "草薰：青草散发出香气。",
+   "en": "cǎo xūn: the grass gives off a sweet smell."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "征辔：远行的马的缰绳。摇征辔，就是骑着马上路。",
+   "en": "zhēng pèi: the reins of a horse on a long journey. Yáo zhēng pèi means shaking the reins and riding off."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "离愁：离别的愁苦。",
+   "en": "lí chóu: the sorrow of parting."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "迢迢：很长很远的样子。",
+   "en": "tiáo tiáo: long and far."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "寸寸柔肠：柔肠寸断，形容伤心到了极点。",
+   "en": "cùn cùn róu cháng: a tender heart broken inch by inch, grief at its deepest."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "盈盈：满满的样子。粉泪：女子的眼泪流过脸上的脂粉。",
+   "en": "yíng yíng: brimming. fěn lèi: a woman's tears running through the powder on her face."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "危阑：高楼上的栏杆。危，高。",
+   "en": "wēi lán: the railing of a high tower. Wēi means high."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "莫近：不要靠近。",
+   "en": "mò jìn: do not go near."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "平芜：平坦的草地。",
+   "en": "píng wú: flat, grassy land."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "行人：出远门的人，这里指那个远行的男子。",
+   "en": "xíng rén: a traveler, here the man who has gone away."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "路边旅店旁，梅花已经快落尽了，",
+   "en": "By the roadside inn, the plum blossoms have nearly fallen."
+  },
+  {
+   "zh": "小溪桥边，柳树长出了细细的嫩叶。",
+   "en": "By the bridge over the stream, the willows show thin new leaves."
+  },
+  {
+   "zh": "青草飘香，春风暖暖，我摇着缰绳骑马远行。",
+   "en": "The grass smells sweet, the wind is warm; I shake the reins and ride away."
+  },
+  {
+   "zh": "越走越远，离别的愁也越来越多，",
+   "en": "The farther I go, the more endless my sorrow grows,"
+  },
+  {
+   "zh": "像春天的江水一样，长长的，流也流不断。",
+   "en": "long and unbroken, like a river in spring."
+  },
+  {
+   "zh": "她的心一寸一寸地碎了，",
+   "en": "Her tender heart breaks inch by inch."
+  },
+  {
+   "zh": "满眼泪水流过脸上的脂粉。",
+   "en": "Her eyes brim with tears that run through her powder."
+  },
+  {
+   "zh": "楼太高了，别去靠那高高的栏杆远望。",
+   "en": "The tower is high; do not lean on its high railing to look."
+  },
+  {
+   "zh": "平坦的草地尽头，是春天的青山，",
+   "en": "Where the flat green fields end are the spring hills,"
+  },
+  {
+   "zh": "而远行的人，还在青山的外面。",
+   "en": "and the traveler is farther still, beyond those hills."
+  }
+ ],
+ "background": {
+  "zh": "这是一首写离别相思的词。上片从远行的人这边写，下片从家里思念他的女子那边写。写作的具体时间和地点不清楚。",
+  "en": "This is a lyric about parting and longing. The first stanza is told from the side of the man traveling away. The second is told from the side of the woman at home who misses him. When and where it was written is not known."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），字永叔，号醉翁，晚年又号六一居士，北宋文学家，“唐宋八大家”之一。他写文章很有名，像《醉翁亭记》。他的词却多写离别和相思，温柔细腻，这首就是代表作之一。",
+  "en": "Ouyang Xiu (1007–1072), also called Yongshu, called himself the Old Drunkard and later the Retired Scholar of Six Ones. He was a Northern Song writer and one of the Eight Great Prose Masters of Tang and Song. His essays are famous, such as \"The Old Drunkard's Pavilion\". His lyrics, though, are mostly about parting and longing, gentle and delicate. This is one of the best known."
+ },
+ "appreciation": {
+  "zh": "上片写男子出门远行：梅花落了，柳叶新绿，青草香，春风暖，本该开开心心。可是越走越远，愁就越来越多，像春水一样流个不停。把看不见的“愁”比作看得见的“春水”，一下子让人懂了。下片换到女子这边：她伤心流泪，想上高楼看他，却又劝自己别上去。因为看到的只是草地尽头的春山，而他还在春山的外面，根本看不见。一层远过一层，思念也一层深过一层。",
+  "en": "The first stanza shows a man setting out. Plum blossoms have fallen, willow leaves are fresh, the grass smells sweet, the wind is warm. It should be a happy time. But the farther he goes, the more his sorrow grows, flowing on like a spring river. Comparing sorrow, which we cannot see, to a spring river, which we can, makes it easy to feel. The second stanza turns to the woman. She weeps and wants to climb the tower to look for him, but tells herself not to. All she would see is the spring hills at the end of the fields, and he is beyond even those hills, out of sight. Each place is farther than the last, and the longing grows deeper each time."
+ },
+ "famous_lines": [
+  3,
+  4,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "parting",
+   "longing",
+   "love",
+   "travel"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,311 @@
+{
+ "id": "7c93c162-d424-4d91-b71b-7c9b81713b8c",
+ "kind": "shi",
+ "title": "赤壁",
+ "title_en": "Red Cliff",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "折",
+    "zhé"
+   ],
+   [
+    "戟",
+    "jǐ"
+   ],
+   [
+    "沉",
+    "chén"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "铁",
+    "tiě"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "销",
+    "xiāo"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "磨",
+    "mó"
+   ],
+   [
+    "洗",
+    "xǐ"
+   ],
+   [
+    "认",
+    "rèn"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "朝",
+    "cháo"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "周",
+    "zhōu"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "便",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "铜",
+    "tóng"
+   ],
+   [
+    "雀",
+    "què"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "乔",
+    "qiáo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本作“沉”“锁”。语料库作“沈”“鏁”，是这两个字的古写法（异体字）。",
+  "en": "The common text uses the modern characters for chén (to sink) and suǒ (to lock). The corpus uses older variant forms of these two characters."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "将",
+   "pinyin": "jiāng",
+   "zh": "“将”是拿的意思，读 jiāng。",
+   "en": "Jiāng here means to take, read jiāng."
+  },
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "“前朝”指前代，“朝”读 cháo。",
+   "en": "Qián cháo means an earlier dynasty; cháo is read cháo here."
+  },
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "便",
+   "pinyin": "biàn",
+   "zh": "“便”是方便的意思，读 biàn，不读 pián。",
+   "en": "Biàn means convenience. It is read biàn, not pián."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "折戟：折断的戟。戟是古代的一种兵器，长杆上装着枪尖和月牙形的刃。",
+   "en": "zhé jǐ: a broken halberd. A halberd is an old weapon: a long pole with a spear point and a crescent-shaped blade."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "沉沙：埋在沙子里。",
+   "en": "chén shā: sunk and buried in the sand."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "铁未销：铁还没有烂掉。销，熔化、消失。",
+   "en": "tiě wèi xiāo: the iron has not yet rusted away. Xiāo means to melt away, to vanish."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "自将：自己拿起来。将，拿。",
+   "en": "zì jiāng: picking it up myself. Jiāng here means to take, to hold."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "磨洗：磨一磨，洗一洗，把锈和泥去掉。",
+   "en": "mó xǐ: to rub and wash it, to clean off the rust and mud."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "认前朝：认出它是前朝的东西。前朝，指几百年前的三国时代。",
+   "en": "rèn qián cháo: to recognize it as something from an earlier age, the Three Kingdoms period, hundreds of years before."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "东风：东边吹来的风。赤壁之战时，周瑜借着东风用火攻，烧了曹操的战船。",
+   "en": "dōng fēng: the east wind. In the Battle of Red Cliff, Zhou Yu used an east wind to send fire against Cao Cao's warships and burn them."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "不与：不给。",
+   "en": "bù yǔ: did not give."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "周郎：周瑜，东吴的大将，年轻有为，人们叫他“周郎”。",
+   "en": "zhōu láng: Zhou Yu, a great general of Wu. He was young and gifted, so people called him Young Master Zhou."
+  },
+  {
+   "line": 2,
+   "start": 6,
+   "end": 7,
+   "zh": "便：方便，好机会。",
+   "en": "biàn: convenience, a lucky chance."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "铜雀：铜雀台，曹操在邺城（今河北临漳）修的高台，里面住着他的姬妾和歌女。",
+   "en": "tóng què: the Bronze Sparrow Terrace, a tall building Cao Cao had built in Ye, today's Linzhang in Hebei, where his concubines and singers lived."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "春深：春意正浓。这里暗指被关在深宫里。",
+   "en": "chūn shēn: deep in spring. Here it also hints at being shut away deep inside the palace."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "锁：关起来。",
+   "en": "suǒ: to lock up."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "二乔：东吴的两位美女，大乔和小乔。大乔是孙策的妻子，小乔是周瑜的妻子。",
+   "en": "èr qiáo: the two Qiao sisters, famous beauties of Wu. The elder married Sun Ce, and the younger married Zhou Yu."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一支折断的戟埋在沙子里，上面的铁还没有烂掉。",
+   "en": "A broken halberd lies buried in the sand; its iron has not rusted away."
+  },
+  {
+   "zh": "我把它拿起来磨一磨、洗一洗，认出是三国时的遗物。",
+   "en": "I pick it up, rub it and wash it, and see it is from the Three Kingdoms."
+  },
+  {
+   "zh": "如果东风不给周瑜方便，",
+   "en": "If the east wind had not helped Zhou Yu,"
+  },
+  {
+   "zh": "大乔小乔恐怕就要被曹操锁进铜雀台了。",
+   "en": "the two Qiao sisters would have been locked in Cao Cao's Bronze Sparrow Terrace in spring."
+  }
+ ],
+ "background": {
+  "zh": "赤壁之战发生在公元208年，孙权和刘备联手，在长江边的赤壁用火攻打败了曹操的大军，从此天下三分。杜牧在黄州（今湖北黄冈）做刺史时（842—844年），到过黄州的赤壁矶，一般认为这首诗就是那时写的。不过，真正打仗的赤壁一般认为在别处（今湖北赤壁市一带），黄州这处只是同名。",
+  "en": "The Battle of Red Cliff took place in 208. Sun Quan and Liu Bei joined forces and, at Red Cliff on the Yangtze, defeated Cao Cao's huge army with fire. After that the land was split into three. While Du Mu was prefect of Huangzhou, today's Huanggang in Hubei (842–844), he visited a cliff there also called Red Cliff, and the poem is usually dated to that time. However, the real battlefield is generally thought to be elsewhere, around today's Chibi City in Hubei; the one at Huangzhou only shares the name."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），唐朝后期的诗人，字牧之，京兆万年（今陕西西安）人。他读过很多兵书，还给《孙子兵法》做过注解，对打仗的事很有自己的看法。所以他写历史诗，常常不按老说法，而是提出新的想法。",
+  "en": "Du Mu (803–852) was a poet of the late Tang, from the capital area, today's Xi'an. He read many books on warfare and even wrote notes on \"The Art of War\" by Sunzi, so he had his own views about battles. When he wrote about history, he often did not repeat the usual opinion but offered a new idea."
+ },
+ "appreciation": {
+  "zh": "诗人从一件小东西写起：沙子里挖出一支断戟。磨干净一看，原来是赤壁之战留下的。一支旧兵器，一下子把人带回了几百年前那场大战。后两句是诗人的大胆想法：周瑜能赢，是因为刚好刮起了东风。要是没有这阵风，东吴就会输，连大乔、小乔都会被曹操抢去，关在铜雀台里。诗人不直接说国家会亡，而是用两位美女的命运来说，又形象又有趣。这也说明，历史上的成败，有时候也靠运气。读的时候想一想：一阵风，就能改变历史吗？",
+  "en": "The poet starts from a small object: a broken halberd dug out of the sand. After cleaning it, he sees it was left from the Battle of Red Cliff. One old weapon carries us back hundreds of years to that great battle. The last two lines are the poet's bold idea. Zhou Yu won because the east wind happened to blow. Without that wind, Wu would have lost, and even the Qiao sisters would have been taken by Cao Cao and locked in his Bronze Sparrow Terrace. Instead of saying plainly that the state would fall, the poet shows it through the fate of two beautiful women, which is vivid and witty. It also suggests that success and failure in history sometimes depend on luck. As you read, ask yourself: can a single wind change history?"
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "history",
+   "war",
+   "hero"
+  ]
+ },
+ "uncertain": []
+}

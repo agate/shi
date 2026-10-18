@@ -1,0 +1,367 @@
+{
+ "id": "ci-ad4c35603ecc",
+ "kind": "ci",
+ "title": "卜算子·送鲍浩然之浙东",
+ "title_en": "Bu Suan Zi: Seeing Bao Haoran Off to Eastern Zhejiang",
+ "author": "王观",
+ "author_en": "Wang Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《卜算子》，双调四十四字",
+  "en": "ci to the tune Bu Suan Zi, 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "横",
+    "héng"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "峰",
+    "fēng"
+   ],
+   [
+    "聚",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "那",
+    "nǎ"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "眉",
+    "méi"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "才",
+    "cái"
+   ],
+   [
+    "始",
+    "shǐ"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "归",
+    "guī"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "若",
+    "ruò"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "赶",
+    "gǎn"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "春",
+    "chūn"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "和",
+    "hé"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 5,
+   "char": "那",
+   "pinyin": "nǎ",
+   "zh": "“那”在这里同“哪”，读 nǎ，“那边”就是“哪边”，问去哪里。一说读 nà，指那一边。",
+   "en": "Here this character works like the word for \"which\" and is read nǎ, so the phrase asks \"which way\". Some read it nà, meaning \"over there\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "眼波横：像美人流动的目光。眼波，形容眼睛像水波一样明亮流动。横，流动的样子。",
+   "en": "yǎn bō héng: like the flowing glance of a beautiful woman's eyes. Yǎn bō means eyes as bright and lively as ripples."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "眉峰聚：像美人皱起的眉头。眉峰，眉毛的高处。聚，皱在一起。",
+   "en": "méi fēng jù: like a beautiful woman's knitted brows. Méi fēng is the arch of the eyebrow; jù means drawn together."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "行人：出远门的人，这里指朋友鲍浩然。",
+   "en": "xíng rén: a traveller, here the poet's friend Bao Haoran."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "那边：哪边，哪里。",
+   "en": "nǎ biān: which way, where."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 5,
+   "zh": "眉眼盈盈处：山水像眉眼一样美好的地方，指浙东的好山好水。一说也指朋友家乡等着他的亲人。盈盈，美好的样子。",
+   "en": "méi yǎn yíng yíng chù: where the hills and waters are lovely as eyes and brows, that is, the beautiful land of eastern Zhejiang. Some say it also hints at the loved ones waiting at home. Yíng yíng means lovely."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "才始：刚刚。",
+   "en": "cái shǐ: just now."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "送春归：送走春天。",
+   "en": "sòng chūn guī: to see spring off."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "君：你，指鲍浩然。",
+   "en": "jūn: you, meaning Bao Haoran."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "江东：长江下游的南岸一带，这里指浙东。",
+   "en": "jiāng dōng: the land south of the lower Yangtze, here eastern Zhejiang."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "千万：一定，务必。",
+   "en": "qiān wàn: be sure to."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "和春住：和春天住在一起，留住春天。",
+   "en": "hé chūn zhù: to stay together with spring, to keep spring."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "水，像美人流动的眼波；",
+   "en": "The water is like a lovely woman's flowing glance;"
+  },
+  {
+   "zh": "山，像美人皱起的眉峰。",
+   "en": "the hills are like her knitted brows."
+  },
+  {
+   "zh": "想问远行的朋友要到哪里去？",
+   "en": "I want to ask my travelling friend: where are you going?"
+  },
+  {
+   "zh": "就是那山水像眉眼一样美好的地方。",
+   "en": "To the place where hills and waters are lovely as eyes and brows."
+  },
+  {
+   "zh": "刚刚才送走了春天，",
+   "en": "I have only just seen spring off,"
+  },
+  {
+   "zh": "现在又要送你回去。",
+   "en": "and now I must see you off too."
+  },
+  {
+   "zh": "如果你到了江东，赶上了春天，",
+   "en": "If you reach the east of the river and catch up with spring,"
+  },
+  {
+   "zh": "千万要和春天住在一起，留住它。",
+   "en": "be sure to stay there with spring."
+  }
+ ],
+ "background": {
+  "zh": "这是一首送别词。王观的朋友鲍浩然要回浙东（今浙江东部）的家乡，王观写了这首词送他。鲍浩然的生平今天已经不太清楚了。从词里看，送别的时候正是春天刚刚过去。",
+  "en": "This is a farewell lyric. Wang Guan's friend Bao Haoran was going home to eastern Zhejiang, and Wang Guan wrote this lyric to see him off. Little is known today about Bao Haoran's life. From the lyric, we can tell the parting came just as spring had ended."
+ },
+ "author_note": {
+  "zh": "王观，字通叟，如皋（今江苏如皋）人，北宋词人。他考中进士，做过官，后来被罢官，自号“逐客”。他的词构思新奇，语言俏皮，这首《卜算子》就是他最有名的作品。",
+  "en": "Wang Guan, courtesy name Tongsou, was a Northern Song lyric poet from Rugao (today's Rugao, Jiangsu). He passed the highest exam and served as an official, but was later removed from office and called himself the Banished Guest. His lyrics have fresh ideas and playful language, and this one is his most famous."
+ },
+ "appreciation": {
+  "zh": "送别的诗大多很伤感，这首却写得又俏皮又温暖。开头就很新奇：不说水像眼睛、山像眉毛，而是反过来说，水就是眼波，山就是眉峰，好像整个浙东的山水都在含情脉脉地等着朋友回家。下阕说：刚送走春天，又要送你，两次送别叠在一起，有一点不舍。可是词人没有哭哭啼啼，而是叮嘱朋友：到了江东要是还能赶上春天，千万要和春天住在一起。把对朋友的祝福说得轻松又美好，读了让人会心一笑。",
+  "en": "Most farewell poems are sad, but this one is playful and warm. The opening is fresh. It does not say the water is like eyes and the hills like brows. It says the water is a glance and the hills are brows, as if all the land of eastern Zhejiang is lovingly waiting for the friend to come home. The second stanza says: I have just seen spring off, and now I see you off. Two partings at once bring a little sadness. But the poet does not weep. He tells his friend: if you reach the east and catch up with spring there, be sure to stay with it. His good wishes sound light and lovely, and they make the reader smile."
+ },
+ "famous_lines": [
+  0,
+  1,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "mountain",
+   "water",
+   "spring"
+  ]
+ },
+ "uncertain": []
+}

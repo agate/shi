@@ -1,0 +1,220 @@
+{
+ "id": "2e8999a9-9df8-4483-ab1e-0231c3e46320",
+ "kind": "shi",
+ "title": "鹿柴",
+ "title_en": "Deer Enclosure",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "闻",
+    "wén"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "响",
+    "xiǎng"
+   ]
+  ],
+  [
+   [
+    "返",
+    "fǎn"
+   ],
+   [
+    "景",
+    "yǐng"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "深",
+    "shēn"
+   ],
+   [
+    "林",
+    "lín"
+   ]
+  ],
+  [
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "照",
+    "zhào"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "苔",
+    "tái"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "景",
+   "pinyin": "yǐng",
+   "zh": "景，这里同“影”，指日光，读 yǐng，不读 jǐng。课本也注 yǐng。",
+   "en": "Here this character means the same as the word for shadow or light, and means sunlight. It is read yǐng, not jǐng. Textbooks also mark it yǐng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "空山：空空的、静静的山，好像没有人。",
+   "en": "kōng shān: an empty, quiet mountain, where no one seems to be."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "但：只。",
+   "en": "dàn: only."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "闻：听见。",
+   "en": "wén: to hear."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "人语响：人说话的声音。",
+   "en": "rén yǔ xiǎng: the sound of people talking."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "返景：傍晚太阳快落山时，返照回来的阳光。",
+   "en": "fǎn yǐng: the evening sunlight that shines back in just before the sun goes down."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "深林：又密又深的树林。",
+   "en": "shēn lín: a deep, thick forest."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "复：又。",
+   "en": "fù: again."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "青苔：长在阴暗潮湿地方的绿色小植物，像一层绿毯子。",
+   "en": "qīng tái: green moss, a tiny plant that grows in shady, damp places like a thin green carpet."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "山里空空的，看不见一个人。",
+   "en": "The mountain is empty. I see no one."
+  },
+  {
+   "zh": "只听见有人说话的声音传过来。",
+   "en": "I only hear the sound of voices."
+  },
+  {
+   "zh": "夕阳返照的光，照进了深深的树林，",
+   "en": "The evening light shines back into the deep forest,"
+  },
+  {
+   "zh": "又照在地上的青苔上。",
+   "en": "and falls again on the green moss."
+  }
+ ],
+ "background": {
+  "zh": "王维晚年在长安附近的蓝田县辋川有一座别墅，就是乡下的房子和园子。那里有二十处好风景，他和朋友裴迪每处各写一首小诗，合起来叫《辋川集》。鹿柴就是其中一处。题目里的“柴”读 zhài，同“寨”，指用木头围起来的篱笆，也许是养鹿的地方。这首诗写的就是鹿柴附近山林傍晚的样子。",
+  "en": "In his later years Wang Wei had a country house with gardens at Wangchuan, in Lantian County near Chang'an. There were twenty lovely spots there. He and his friend Pei Di each wrote a short poem for every spot, and the poems were gathered as the Wangchuan Collection. Lu Zhai, the Deer Enclosure, was one of the spots. The second character of the title is read zhài here. It means a fence made of wood, perhaps a place for keeping deer. The poem shows the mountain woods near the Deer Enclosure at dusk."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），唐代诗人，也是画家，信佛，被人称为“诗佛”。宋代的苏轼说他“诗中有画，画中有诗”。他晚年常住在辋川，喜欢写安静的山水，这首诗就是很好的例子。",
+  "en": "Wang Wei (701–761; some say 699–761) was a Tang poet and also a painter. He was a Buddhist and is often called the Buddha of Poetry. The Song writer Su Shi said there are paintings in his poems and poems in his paintings. In his later years he often stayed at Wangchuan and loved writing about quiet hills and streams. This poem is a fine example."
+ },
+ "appreciation": {
+  "zh": "第一句说山里空空的，看不见一个人。第二句却说听见了人说话的声音。有声音，却看不见人，山就显得更空、更静了。这就像在很安静的教室里，忽然有人咳嗽一声，反而让人觉得更安静。后两句写光：傍晚的夕阳斜斜地照进深深的树林，落在青苔上。林子里本来很暗，这一小片光让人更感到幽暗和清冷。全诗只有二十个字，有声音，有光，像一幅安静的画。",
+  "en": "The first line says the mountain is empty, with no one in sight. The second line says we hear voices. There is sound but no person, so the mountain feels even emptier and quieter. It is like a very quiet classroom: when someone coughs, the quiet feels even deeper. The last two lines are about light. The low evening sun slants into the deep woods and lands on the moss. The woods are dark, and this small patch of light makes them feel even darker and cooler. In just twenty characters there is sound and light, like a quiet painting."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "mountain",
+   "forest",
+   "quiet",
+   "light",
+   "nature"
+  ]
+ },
+ "uncertain": []
+}

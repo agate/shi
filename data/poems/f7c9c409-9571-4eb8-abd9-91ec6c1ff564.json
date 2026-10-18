@@ -1,0 +1,275 @@
+{
+ "id": "f7c9c409-9571-4eb8-abd9-91ec6c1ff564",
+ "kind": "shi",
+ "title": "嫦娥",
+ "title_en": "Chang'e",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "母",
+    "mǔ"
+   ],
+   [
+    "屏",
+    "píng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "渐",
+    "jiàn"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "晓",
+    "xiǎo"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "沉",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "嫦",
+    "cháng"
+   ],
+   [
+    "娥",
+    "é"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "悔",
+    "huǐ"
+   ],
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "灵",
+    "líng"
+   ],
+   [
+    "药",
+    "yào"
+   ]
+  ],
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本题目和第三句写作“常娥”，第二句写作“晓星沈”。“常娥”“沈”是古代的写法，现在课本和通行本写作“嫦娥”“晓星沉”，这里按课本。",
+  "en": "The source text writes the goddess's name with an older form of the first character, in the title and the third line, and uses an older form of chen (to sink) in the second line. Today's textbooks use the modern forms, which are used here."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "悔",
+   "pinyin": "huǐ",
+   "zh": "应，这里读 yīng，意思是应该、想必，不读 yìng。",
+   "en": "Here it is read yīng, meaning surely, must, not yìng (to answer)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "云母屏风：用云母装饰的屏风。云母是一种亮晶晶的矿石，可以剥成薄片。屏风是放在屋里挡风、隔开空间的家具。",
+   "en": "yún mǔ píng fēng: a screen decorated with mica. Mica is a shiny mineral that splits into thin sheets. A screen is a piece of furniture that blocks drafts and divides a room."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "烛影深：蜡烛快燃尽了，烛光暗淡，影子显得很深。",
+   "en": "zhú yǐng shēn: the candle is burning low, the light is dim, and the shadows are deep."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "长河：银河。",
+   "en": "cháng hé: the long river, the Milky Way."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "渐落：慢慢地往下落。天快亮时，银河看起来渐渐西斜。",
+   "en": "jiàn luò: slowly sinking. Near dawn the Milky Way seems to slide down the sky."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "晓星：天快亮时的星星，指启明星。",
+   "en": "xiǎo xīng: the dawn star, the morning star."
+  },
+  {
+   "line": 1,
+   "start": 6,
+   "end": 7,
+   "zh": "沉：落下去，看不见了。",
+   "en": "chén: to sink out of sight."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "嫦娥：神话里住在月亮上的仙女。传说她偷吃了丈夫后羿的长生不老药，飞到了月宫。",
+   "en": "cháng é: Chang'e, the goddess of the moon in myth. The story says she secretly took her husband Hou Yi's elixir of eternal life and floated up to the moon."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "应悔：想必会后悔。",
+   "en": "yīng huǐ: surely regrets."
+  },
+  {
+   "line": 2,
+   "start": 5,
+   "end": 7,
+   "zh": "灵药：长生不老的仙药。",
+   "en": "líng yào: the magic medicine of eternal life."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "碧海青天：碧蓝如海的天空。嫦娥每天面对的只有这无边的天空。",
+   "en": "bì hǎi qīng tiān: the blue sky, wide as the sea. Every day Chang'e faces only this endless sky."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "夜夜心：每一夜都孤单寂寞的心。",
+   "en": "yè yè xīn: a heart that is lonely night after night."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "云母屏风上，烛光越来越暗，影子越来越深，",
+   "en": "On the mica screen the candle's shadows grow deeper and darker."
+  },
+  {
+   "zh": "银河渐渐西斜，启明星也慢慢沉落了。",
+   "en": "The Milky Way slowly sinks, and the morning star goes down."
+  },
+  {
+   "zh": "嫦娥想必后悔偷吃了长生不老药，",
+   "en": "Chang'e must regret stealing the magic medicine,"
+  },
+  {
+   "zh": "如今只能面对碧海一样的青天，夜夜孤单。",
+   "en": "for now she faces only the sea-blue sky, lonely night after night."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写作的时间不清楚。诗人一夜没睡，看着蜡烛燃尽、星星落下，想到了月亮上的嫦娥。这首诗的意思历来有不同的说法：有人认为就是写嫦娥的孤独；一说是借嫦娥写学道修仙的女道士；也有人认为是诗人借嫦娥写自己，清高孤独，不被人理解。",
+  "en": "We do not know when this poem was written. The poet stays awake all night. He watches the candle burn down and the stars set, and he thinks of Chang'e on the moon. People have long read the poem in different ways. Some think it is simply about Chang'e's loneliness. One view says it uses Chang'e to write about a Daoist nun who left the world to seek immortality. Others think the poet is writing about himself: proud, lonely and not understood."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐诗人。他的诗语言华美，感情深细，常常借神话和典故来说心事，意思含蓄，可以有多种理解。他一生仕途不顺，心里常有孤独和失意，这首诗里的寂寞也让很多人想到他自己。",
+  "en": "Li Shangyin (about 813–858) was a late Tang poet. His poems are rich in language and deep in feeling. He often used myths and old stories to speak of what was in his heart, so his meaning is veiled and can be read in many ways. His career never went well, and he often felt lonely and let down. Many readers feel that the loneliness in this poem is his own."
+ },
+ "appreciation": {
+  "zh": "前两句写一个长夜：屋里烛光越来越暗，窗外银河斜了，晨星也落了。一夜过去，诗人还没有睡，这份孤独不用说出来，就藏在这些慢慢变化的景物里。后两句，诗人抬头想到月亮上的嫦娥：她得到了长生不老，却永远一个人面对无边的天空。“夜夜心”三个字，把这份寂寞拉得无限长。嫦娥的孤独和诗人的孤独，好像隔着天空互相照见。",
+  "en": "The first two lines show a long night. Indoors, the candlelight grows dimmer. Outside, the Milky Way tilts and the morning star sets. The whole night has passed and the poet has not slept. His loneliness needs no words; it hides in these slowly changing things. In the last two lines he looks up and thinks of Chang'e on the moon. She won eternal life, but must face the endless sky alone forever. The words \"heart, night after night\" stretch that loneliness out without end. Chang'e's loneliness and the poet's seem to mirror each other across the sky."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "myth",
+   "loneliness",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,631 @@
+{
+ "id": "ci-a54882708635",
+ "kind": "ci",
+ "title": "千秋岁·数声鶗鴂",
+ "title_en": "To the Tune Qian Qiu Sui: A Few Cries of the Cuckoo",
+ "author": "张先",
+ "author_en": "Zhang Xian",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "鶗",
+    "tí"
+   ],
+   [
+    "鴂",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "报",
+    "bào"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "菲",
+    "fēi"
+   ],
+   [
+    "歇",
+    "xiē"
+   ]
+  ],
+  [
+   [
+    "惜",
+    "xī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "折",
+    "zhé"
+   ]
+  ],
+  [
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "暴",
+    "bào"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "节",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "丰",
+    "fēng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "幺",
+    "yāo"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "拨",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "极",
+    "jí"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "能",
+    "néng"
+   ],
+   [
+    "说",
+    "shuō"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "老",
+    "lǎo"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "双",
+    "shuāng"
+   ],
+   [
+    "丝",
+    "sī"
+   ],
+   [
+    "网",
+    "wǎng"
+   ]
+  ],
+  [
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "结",
+    "jié"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "也",
+    "yě"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "凝",
+    "níng"
+   ],
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": {
+  "zh": "原始文本用了简化后的生僻字“𫛸”，通行本多印作“鶗鴂”，这里用“鶗鴂”。原始文本第七句作“无人尽日飞花雪”，不少通行本作“无人尽日花飞雪”，这里用后者，意思一样。",
+  "en": "The corpus writes the first character of the bird name in a rare simplified form; most printed editions use the traditional form, which this page follows. The corpus also has line seven with two characters in reverse order; many usual editions have the order used here. The meaning is the same."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "数声：读 shù，意思是几声，不读 shǔ。",
+   "en": "In shù shēng it reads shù, meaning a few, not shǔ (to count)."
+  },
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "鶗",
+   "pinyin": "tí",
+   "zh": "鶗鴂：读 tí jué。也写作“鹈鴂”。",
+   "en": "The bird name reads tí jué. It is sometimes written with another first character."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "更：读 gèng，意思是还、又。",
+   "en": "It reads gèng, meaning also or further."
+  },
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "子",
+   "pinyin": "zǐ",
+   "zh": "梅子：口语读轻声 zi，读诗时一般读 zǐ。",
+   "en": "In speech méi zi has a light second syllable; in poems it is usually read zǐ."
+  },
+  {
+   "line": 7,
+   "pos": 2,
+   "char": "幺",
+   "pinyin": "yāo",
+   "zh": "幺弦：读 yāo，意思是最小、最细。",
+   "en": "In yāo xián it reads yāo, meaning the smallest."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "数声：几声。",
+   "en": "shù shēng: a few cries."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "鶗鴂：鸟名，一般认为就是杜鹃鸟。它在春末叫，古人听到它叫，就知道春天快过去了。",
+   "en": "tí jué: the name of a bird, usually taken to be the cuckoo. It sings in late spring, so people in old times knew spring was ending when they heard it."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "报：报告，告诉。",
+   "en": "bào: to announce."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "芳菲歇：花草凋谢了。芳菲，花草的香气和美丽，这里指春花。歇，停止、凋零。",
+   "en": "fāng fēi xiē: the flowers have faded. Fāng fēi means the scent and beauty of flowers; xiē means to stop or wither."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "惜春：爱惜春天，舍不得春天走。",
+   "en": "xī chūn: to cherish spring and not want it to leave."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "残红：残留的、快要凋谢的花。",
+   "en": "cán hóng: the last flowers that are about to fall."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "风色暴：风很猛烈。",
+   "en": "fēng sè bào: the wind is fierce."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "梅子青时节：梅子还青青的时候，就是暮春初夏。",
+   "en": "méi zǐ qīng shí jié: when plums are still green, that is, late spring and early summer."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 3,
+   "zh": "永丰柳：唐代洛阳永丰坊有一个荒园，园里的柳树没人欣赏，白居易写诗可怜过它。后来常用来比喻孤单、没人疼爱的女子。",
+   "en": "yǒng fēng liǔ: in the Tang, an abandoned garden in Yongfeng Ward of Luoyang had a willow no one admired, and Bai Juyi wrote a poem pitying it. Later it stood for a lonely woman whom no one cared for."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "尽日：整天。",
+   "en": "jìn rì: all day long."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "花飞雪：柳絮像雪花一样飞舞。",
+   "en": "huā fēi xuě: willow catkins fly about like snow."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "幺弦：琵琶上最细的第四根弦，声音最尖细、最哀怨。",
+   "en": "yāo xián: the thinnest, fourth string of a pipa lute, which has the highest, saddest sound."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 5,
+   "zh": "拨：用手指或拨子弹弦。",
+   "en": "bō: to pluck a string."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "怨极：怨恨到了极点。",
+   "en": "yuàn jí: bitterness at its deepest."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 3,
+   "zh": "天不老：天不会老。唐代李贺有诗句“天若有情天亦老”，这里反过来说天不会老。",
+   "en": "tiān bù lǎo: heaven does not grow old. The Tang poet Li He wrote that if heaven had feelings, heaven too would grow old; this line turns that around."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 3,
+   "zh": "情难绝：感情难以断绝。",
+   "en": "qíng nán jué: love is hard to cut off."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 5,
+   "zh": "双丝网：用两股丝织成的网。丝和“思”同音，暗指两人互相思念。",
+   "en": "shuāng sī wǎng: a net knotted from double threads. The word for thread sounds like the word for longing, hinting that the two miss each other."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 5,
+   "zh": "千千结：成千上万个结，比喻心里解不开的情结。",
+   "en": "qiān qiān jié: thousands of knots, standing for feelings that cannot be untied."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 3,
+   "zh": "夜过也：夜晚过去了。也，语气词。",
+   "en": "yè guò yě: the night is over. Yě is a word that adds feeling."
+  },
+  {
+   "line": 14,
+   "start": 4,
+   "end": 5,
+   "zh": "凝：凝住不动。",
+   "en": "níng: to hang still."
+  },
+  {
+   "line": 14,
+   "start": 5,
+   "end": 7,
+   "zh": "残月：天快亮时还挂在天上的月亮。",
+   "en": "cán yuè: the moon still hanging in the sky as dawn comes."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "杜鹃鸟叫了几声，",
+   "en": "A few cries of the cuckoo,"
+  },
+  {
+   "zh": "又在告诉人们，春花已经凋谢了。",
+   "en": "telling once more that the flowers of spring are gone."
+  },
+  {
+   "zh": "我爱惜春天，又折下几枝残花。",
+   "en": "Loving the spring, I pick a few of the last flowers."
+  },
+  {
+   "zh": "雨下得很轻，风却刮得很猛，",
+   "en": "The rain is light, but the wind is fierce;"
+  },
+  {
+   "zh": "正是梅子还青的时节。",
+   "en": "it is the season when the plums are still green."
+  },
+  {
+   "zh": "就像永丰坊园里的柳树，",
+   "en": "Like the willow in the Yongfeng garden,"
+  },
+  {
+   "zh": "没有人来看它，整天柳絮像雪一样飘飞。",
+   "en": "with no one to look at it, its catkins fly like snow all day."
+  },
+  {
+   "zh": "不要去拨动那根最细的琴弦，",
+   "en": "Do not pluck that thinnest string,"
+  },
+  {
+   "zh": "怨恨到了极点，琴弦也能把它说出来。",
+   "en": "for when sorrow is at its deepest, the string can speak it."
+  },
+  {
+   "zh": "天不会老，",
+   "en": "Heaven does not grow old,"
+  },
+  {
+   "zh": "情也难以断绝。",
+   "en": "and love is hard to end."
+  },
+  {
+   "zh": "我的心就像一张双丝织成的网，",
+   "en": "My heart is like a net of double threads,"
+  },
+  {
+   "zh": "里面有千千万万个结。",
+   "en": "with thousands and thousands of knots inside."
+  },
+  {
+   "zh": "一夜过去了，",
+   "en": "The night is over,"
+  },
+  {
+   "zh": "东边的窗子还没有发白，一弯残月还凝在天上。",
+   "en": "the east window is not yet pale, and a fading moon hangs still."
+  }
+ ],
+ "background": {
+  "zh": "这首词写的是一段受到阻碍的爱情。写作时间不清楚，词里也没有说明具体的人和事。一说是张先写自己和一位女子相爱却不能在一起的痛苦。词从暮春的景色写起，借花落、柳絮、琴弦来写心里的怨和情，最后写一夜没睡，直到天快亮。",
+  "en": "This lyric is about a love that meets obstacles. We do not know when it was written, and it names no person or event. One view says Zhang Xian wrote about his own pain of loving a woman he could not be with. It begins with the scenery of late spring, uses falling flowers, willow catkins and a lute string to show sorrow and love, and ends after a sleepless night, just before dawn."
+ },
+ "author_note": {
+  "zh": "张先（990—1078），北宋词人，活到八十多岁。他的词以写景细腻出名，尤其爱写“影”，有“云破月来花弄影”等名句，人们叫他“张三影”。他写感情含蓄婉转，这首词就是代表。",
+  "en": "Zhang Xian (990–1078) was a lyric poet of the Northern Song who lived to his late eighties. He was known for his delicate scenes, and he especially loved to write about shadows, as in the famous line \"clouds part, the moon comes out, and flowers play with their shadows\". People nicknamed him Zhang of the Three Shadows. He wrote about feelings in a gentle, indirect way, and this lyric is a good example."
+ },
+ "appreciation": {
+  "zh": "上半首写春天走了。杜鹃一叫，花就谢了；诗人舍不得，又去折几朵残花。小雨加大风，正好像一段感情遇到的打击。孤零零的柳树没人看，柳絮整天像雪一样乱飞，那就是寂寞的样子。下半首直接写心。不要弹那根最细的弦，因为心里的怨太深，一弹琴弦就会替人哭出来。“天不老，情难绝”说得很坚定：天不会老，我的情也不会断。最有名的是“心似双丝网，中有千千结”，心像一张网，打满了解不开的结，又因为“丝”和“思”同音，结里全是思念。最后天快亮了，残月还挂着，一夜就这样没睡。",
+  "en": "The first half says spring is gone. When the cuckoo calls, the flowers fade; the poet cannot bear it and picks a few last blossoms. Light rain and a fierce wind are like the blows that fall on a love. A lonely willow no one looks at, its catkins flying like snow all day: that is what loneliness looks like. The second half speaks of the heart directly. Do not pluck the thinnest string, because the sorrow inside is so deep that the string would cry out for you. \"Heaven does not grow old, love is hard to end\" is firm: heaven will not age, and my love will not break. The most famous lines say the heart is like a net of double threads, full of knots that cannot be untied. Since thread and longing sound alike in Chinese, every knot is full of longing. At the end dawn is near, the fading moon still hangs, and a whole night has passed without sleep."
+ },
+ "famous_lines": [
+  9,
+  10,
+  11,
+  12
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "longing",
+   "late-spring",
+   "music"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "text_note",
+   "zh": "原始文本作“飞花雪”，我认为多数通行本作“花飞雪”，但没有逐一核对版本。",
+   "en": "The corpus has one order of the two characters in line seven; I believe most usual editions have the order used here, but I have not checked the editions one by one."
+  }
+ ]
+}

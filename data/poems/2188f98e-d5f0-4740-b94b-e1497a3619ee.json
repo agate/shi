@@ -1,0 +1,450 @@
+{
+ "id": "2188f98e-d5f0-4740-b94b-e1497a3619ee",
+ "kind": "shi",
+ "title": "黄鹤楼",
+ "title_en": "Yellow Crane Tower",
+ "author": "崔颢",
+ "author_en": "Cui Hao",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "乘",
+    "chéng"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "返",
+    "fǎn"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "载",
+    "zǎi"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "悠",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "川",
+    "chuān"
+   ],
+   [
+    "历",
+    "lì"
+   ],
+   [
+    "历",
+    "lì"
+   ],
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "萋",
+    "qī"
+   ],
+   [
+    "鹦",
+    "yīng"
+   ],
+   [
+    "鹉",
+    "wǔ"
+   ],
+   [
+    "洲",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "暮",
+    "mù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "是",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "使",
+    "shǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "课本和通行本第一句作“昔人已乘黄鹤去”。这里的古籍底本作“昔人已乘白云去”，唐代的一些本子也是这样。现在一般采用“黄鹤”，和后面的“黄鹤楼”“黄鹤一去”连成一气。",
+  "en": "Textbooks and the common text have the first line as \"xī rén yǐ chéng huáng hè qù\" (the man of old rode off on the yellow crane). The old source used here reads \"bái yún\" (white clouds) instead of \"huáng hè\" (yellow crane), as some Tang copies do. Today \"yellow crane\" is the usual choice, because it links up with \"Yellow Crane Tower\" and \"the yellow crane, once gone\"."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "载",
+   "pinyin": "zǎi",
+   "zh": "千载的“载”是“年”的意思，读 zǎi，不读 zài。",
+   "en": "Here zǎi means \"year\", so it is read zǎi, not zài."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "昔人：从前的人，指传说中骑着黄鹤飞走的仙人。",
+   "en": "xī rén: people of old; here the immortal in the legend who flew away on a yellow crane."
+  },
+  {
+   "line": 0,
+   "start": 3,
+   "end": 4,
+   "zh": "乘：坐、骑。",
+   "en": "chéng: to ride."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "空余：只留下。空，白白地。",
+   "en": "kōng yú: only left behind; kōng means emptily, in vain."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "黄鹤楼：古代名楼，在今天湖北武汉的长江边上。",
+   "en": "huáng hè lóu: a famous old tower on the Yangtze River in today's Wuhan, Hubei."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "不复返：再也没有回来。复，再。",
+   "en": "bù fù fǎn: never came back again; fù means again."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "千载：一千年，形容时间很长。载，年。",
+   "en": "qiān zǎi: a thousand years, meaning a very long time; zǎi means year."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "空悠悠：白白地、慢慢地飘着。悠悠，飘荡的样子。",
+   "en": "kōng yōu yōu: drifting slowly and emptily; yōu yōu describes floating far and free."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "晴川：晴天下的江面。川，河流。",
+   "en": "qíng chuān: the river under a clear sky; chuān means river."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "历历：一个一个看得清清楚楚。",
+   "en": "lì lì: clear and distinct, one by one."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "汉阳：地名，在今天武汉，和黄鹤楼隔江相望。",
+   "en": "hàn yáng: a place in today's Wuhan, across the river from the tower."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "萋萋：草长得又多又茂盛。",
+   "en": "qī qī: grass growing thick and lush."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "鹦鹉洲：长江中的一个小沙洲，后来被江水冲没了。",
+   "en": "yīng wǔ zhōu: a sandbar in the Yangtze, later washed away by the river."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "日暮：太阳落山，傍晚。",
+   "en": "rì mù: sunset, evening."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "乡关：家乡。",
+   "en": "xiāng guān: hometown."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "烟波：江面上像烟雾一样的水汽和波浪。",
+   "en": "yān bō: mist and waves over the river."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "使人愁：让人发愁。",
+   "en": "shǐ rén chóu: makes one sad."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "从前的仙人已经骑着黄鹤飞走了，",
+   "en": "The man of old has flown away on the yellow crane,"
+  },
+  {
+   "zh": "这里只留下了一座空空的黄鹤楼。",
+   "en": "and all that is left here is the empty Yellow Crane Tower."
+  },
+  {
+   "zh": "黄鹤飞走以后，再也没有回来，",
+   "en": "Once the yellow crane was gone, it never came back;"
+  },
+  {
+   "zh": "一千年来，只有白云在天上慢慢地飘。",
+   "en": "for a thousand years only white clouds have drifted slowly by."
+  },
+  {
+   "zh": "晴天里，江对岸汉阳的树看得清清楚楚，",
+   "en": "Under the clear sky, the trees of Hanyang stand out across the river,"
+  },
+  {
+   "zh": "鹦鹉洲上，春草长得又密又绿。",
+   "en": "and on Parrot Island the spring grass grows thick and green."
+  },
+  {
+   "zh": "天快黑了，我的家乡在哪里呢？",
+   "en": "Night is falling. Where is my home?"
+  },
+  {
+   "zh": "江上烟雾茫茫，让人心里发愁。",
+   "en": "The mist over the river waves fills me with sorrow."
+  }
+ ],
+ "background": {
+  "zh": "黄鹤楼在今天湖北武汉的长江边。传说古时有仙人骑着黄鹤从这里飞走，楼因此得名。崔颢登上黄鹤楼，看着江水、白云和对岸的景色，写下这首诗。写作的具体年份已经不清楚。相传后来李白登楼，也想写诗，看到崔颢的诗，说“眼前有景道不得，崔颢题诗在上头”，意思是这里的美景，崔颢已经写尽了。这个故事是后人记下的传说，未必真有其事。",
+  "en": "Yellow Crane Tower stands by the Yangtze River in today's Wuhan, Hubei. Legend says an immortal once flew away from here on a yellow crane, and the tower was named after it. Cui Hao climbed the tower, looked at the river, the white clouds and the far bank, and wrote this poem. The exact year is no longer known. A later story says Li Bai also climbed the tower and wanted to write a poem, but when he saw Cui Hao's, he said there was a fine view before him but he could not put it into words, because Cui Hao had already written it on the wall. This story was recorded by later people and may not be true."
+ },
+ "author_note": {
+  "zh": "崔颢（约704—754），唐代诗人，汴州（今河南开封）人，年轻时中了进士。他留下的诗不多，但这首《黄鹤楼》非常有名。宋代评论家严羽说，唐人的七言律诗，要数这一首最好。",
+  "en": "Cui Hao (about 704–754) was a Tang poet from Bianzhou, today's Kaifeng in Henan. He passed the top imperial exam when young. Few of his poems survive, but this one is very famous. The Song critic Yan Yu said it was the best seven-character regulated poem of the whole Tang."
+ },
+ "appreciation": {
+  "zh": "前四句写传说。“黄鹤”出现了三次，仙人走了，鹤也走了，只剩下空楼和千年的白云。读起来像一首歌，不太讲究律诗的规矩，却显得自然流畅。五、六句一下子回到眼前：天晴了，对岸的树一棵一棵看得清楚，沙洲上春草茂盛，景色明亮。最后两句，太阳落山，江上起了烟雾，诗人想家，却不知道家在哪个方向。从远古的传说，到眼前的美景，再到心里的乡愁，一层一层，越来越深。",
+  "en": "The first four lines tell the legend. The words \"yellow crane\" come three times. The immortal is gone, the crane is gone, and only the empty tower and a thousand years of white clouds remain. It reads almost like a song. It does not follow every rule of regulated verse, but it flows freely and naturally. Lines five and six come back to the present. The sky is clear, the trees across the river stand out one by one, and the spring grass on the island is thick. The scene is bright. In the last two lines the sun sets and mist rises over the river. The poet thinks of home but cannot tell which way it lies. From an ancient legend, to the view before him, to the longing in his heart, the feeling grows deeper, layer by layer."
+ },
+ "famous_lines": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "tower",
+   "river",
+   "legend"
+  ]
+ },
+ "uncertain": []
+}

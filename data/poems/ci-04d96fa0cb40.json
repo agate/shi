@@ -1,0 +1,534 @@
+{
+ "id": "ci-04d96fa0cb40",
+ "kind": "ci",
+ "title": "破阵子·为陈同甫赋壮词以寄之",
+ "title_en": "Breaking the Battle Line: A Heroic Lyric Written for Chen Tongfu",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调，六十二字）",
+  "en": "ci lyric in two stanzas, 62 characters"
+ },
+ "lines": [
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "挑",
+    "tiǎo"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "剑",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "角",
+    "jiǎo"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "营",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "麾",
+    "huī"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "炙",
+    "zhì"
+   ]
+  ],
+  [
+   [
+    "五",
+    "wǔ"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "翻",
+    "fān"
+   ],
+   [
+    "塞",
+    "sài"
+   ],
+   [
+    "外",
+    "wài"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "场",
+    "chǎng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "兵",
+    "bīng"
+   ]
+  ],
+  [
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "的",
+    "dí"
+   ],
+   [
+    "卢",
+    "lú"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "快",
+    "kuài"
+   ]
+  ],
+  [
+   [
+    "弓",
+    "gōng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "霹",
+    "pī"
+   ],
+   [
+    "雳",
+    "lì"
+   ],
+   [
+    "弦",
+    "xián"
+   ],
+   [
+    "惊",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "了",
+    "liǎo"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "王",
+    "wáng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "赢",
+    "yíng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "名",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "发",
+    "fà"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "挑",
+   "pinyin": "tiǎo",
+   "zh": "挑灯是把灯芯挑亮，挑读 tiǎo。",
+   "en": "Tiǎo dēng means to pick up the wick to brighten the lamp, so this character is read tiǎo."
+  },
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "炙",
+   "pinyin": "zhì",
+   "zh": "炙是烤熟的肉，读 zhì。",
+   "en": "This character means roasted meat, read zhì."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "塞",
+   "pinyin": "sài",
+   "zh": "塞外的塞读 sài，指边塞。",
+   "en": "In 'beyond the frontier', this character is read sài."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "的",
+   "pinyin": "dí",
+   "zh": "的卢是马名，的读 dí，不读 de。",
+   "en": "Dí lú is the name of a horse, so this character is read dí, not de."
+  },
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "了",
+   "pinyin": "liǎo",
+   "zh": "了却的了读 liǎo，是“完成、了结”的意思。",
+   "en": "In liǎo què, 'to finish', this character is read liǎo."
+  },
+  {
+   "line": 9,
+   "pos": 3,
+   "char": "发",
+   "pinyin": "fà",
+   "zh": "白发的发读 fà，是头发。",
+   "en": "In 'white hair', this character is read fà."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "挑灯：把油灯的灯芯挑一挑，让灯更亮。",
+   "en": "tiǎo dēng: to pick up the wick of an oil lamp so it burns brighter."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "梦回：从梦中醒来。一说是梦里回到了。",
+   "en": "mèng huí: waking from a dream. Some read it as 'returning in a dream'."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 6,
+   "zh": "吹角连营：一个接一个的军营里都响起了号角声。角，军中的号角。",
+   "en": "chuī jiǎo lián yíng: horns sounding from one army camp to the next. Jiǎo is an army horn."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 3,
+   "zh": "八百里：牛的代称。晋朝王恺有一头好牛，名叫“八百里驳”，后来就用“八百里”指牛。",
+   "en": "bā bǎi lǐ: a name for an ox. In the Jin dynasty, Wang Kai had a fine ox called Eight Hundred Li, so the phrase came to mean an ox."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 7,
+   "zh": "分麾下炙：把烤牛肉分给部下吃。麾下，部下，手下的士兵。麾，军旗。炙，烤肉。",
+   "en": "fēn huī xià zhì: sharing roast meat among the troops. Huī xià means the men under one's banner; huī is a war flag. Zhì is roast meat."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 3,
+   "zh": "五十弦：古代的瑟，传说有五十根弦。这里泛指军中的各种乐器。",
+   "en": "wǔ shí xián: fifty strings, meaning the se, an old zither said to have fifty strings. Here it stands for all the army's instruments."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 4,
+   "zh": "翻：演奏。",
+   "en": "fān: to play music."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "塞外声：边塞的雄壮乐曲。",
+   "en": "sài wài shēng: stirring music of the frontier."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "沙场：战场。",
+   "en": "shā chǎng: the battlefield."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "点兵：检阅军队，清点兵马。",
+   "en": "diǎn bīng: to review the troops."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "马作的卢：战马像的卢马一样。的卢，一种跑得很快的好马。传说三国时刘备骑的卢马，一跃跳过了檀溪，逃过追兵。作，像。",
+   "en": "mǎ zuò dí lú: the horses are like Dilu. Dilu was a very fast kind of horse. Legend says that in the Three Kingdoms, Liu Bei rode Dilu and leapt across the Tan Stream to escape his pursuers. Zuò here means like."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "霹雳：又响又急的雷声。这里形容拉弓放箭时弓弦的响声。",
+   "en": "pī lì: a sudden thunderclap. Here it is the sound of a bowstring when the arrow is shot."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "了却：完成，办好。",
+   "en": "liǎo què: to finish, to accomplish."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "天下事：指收复北方失地、统一国家的大事。",
+   "en": "tiān xià shì: the great task of the land, here winning back the lost north and uniting the country."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "赢得：获得。",
+   "en": "yíng dé: to win, to gain."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 7,
+   "zh": "生前身后名：活着时和死了以后的好名声。",
+   "en": "shēng qián shēn hòu míng: fame in life and after death."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "可怜：可惜。",
+   "en": "kě lián: what a pity."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "喝醉了酒，我挑亮油灯，细看我的宝剑。",
+   "en": "Drunk, I brighten the lamp and look at my sword."
+  },
+  {
+   "zh": "梦醒时，听见一座座军营里号角声响成一片。",
+   "en": "Waking from a dream, I hear horns sounding from camp to camp."
+  },
+  {
+   "zh": "把烤好的牛肉分给部下，",
+   "en": "Roast ox is shared among the troops,"
+  },
+  {
+   "zh": "各种乐器奏起雄壮的边塞乐曲。",
+   "en": "and the instruments play stirring frontier music."
+  },
+  {
+   "zh": "秋天，在战场上检阅军队。",
+   "en": "In autumn, the troops are reviewed on the battlefield."
+  },
+  {
+   "zh": "战马跑得像的卢马一样飞快，",
+   "en": "The horses gallop as fast as Dilu,"
+  },
+  {
+   "zh": "弓弦响起像打雷一样，让人心惊。",
+   "en": "and the bowstrings crack like thunder."
+  },
+  {
+   "zh": "我想替君王完成收复国土的大业，",
+   "en": "I would finish the king's great task of uniting the land,"
+  },
+  {
+   "zh": "赢得活着和死后的好名声。",
+   "en": "and win fame in life and after death."
+  },
+  {
+   "zh": "可惜，白发已经长出来了！",
+   "en": "But what a pity: my hair has already turned white!"
+  }
+ ],
+ "background": {
+  "zh": "陈同甫就是陈亮，字同甫，是辛弃疾的好朋友。两个人都主张抗击金国、收复北方。辛弃疾当时被罢官，闲居在江西上饶一带。一般认为这首词写于1188年两人在鹅湖相聚之后，辛弃疾写这首“壮词”寄给陈亮，用来互相鼓励，也抒发自己报国无门的悲愤。",
+  "en": "Chen Tongfu is Chen Liang, whose courtesy name was Tongfu. He was a close friend of Xin Qiji. Both men wanted to fight the Jin state and win back the north. At that time Xin Qiji had been dismissed from office and was living quietly near Shangrao in Jiangxi. The lyric is usually dated after the two met at Goose Lake in 1188. Xin Qiji wrote this 'heroic lyric' and sent it to Chen Liang to encourage each other, and to pour out his grief at having no way to serve his country."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他出生在被金国占领的北方，二十多岁就参加抗金义军，曾带着几十个人冲进敌营，抓住叛徒，押回南方。来到南宋后，他一直想带兵北伐，却长期不被重用。他的词豪放有力，和苏轼并称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), who called himself Jiaxuan, was a great Southern Song ci poet. He was born in the north, which the Jin state had taken. In his early twenties he joined a rebel army against the Jin. Once he led a few dozen men into an enemy camp, seized a traitor and brought him south. In the Southern Song he always wanted to lead troops north, but for years he was given no real power. His lyrics are bold and strong, and he and Su Shi are named together as the two great bold masters."
+ },
+ "appreciation": {
+  "zh": "这首词前九句都很热烈。夜里喝醉了，还要挑亮灯看宝剑；梦里醒来，听见军营里号角连成一片。接着是一幅幅军营的画面：分牛肉、奏军乐、秋天点兵、战马飞奔、弓弦如雷。读着好像真的站在战场上，热血沸腾。他想完成统一大业，留下好名声。可是最后一句“可怜白发生”，一下子把人从梦里拉回现实：这些都只是梦，人已经老了，愿望却没有实现。前面越热闹，最后这五个字就越让人难过。",
+  "en": "The first nine lines are full of fire. Drunk at night, he still brightens the lamp to look at his sword. Waking from a dream, he hears horns from camp to camp. Then come scene after scene of army life: sharing roast ox, playing war music, reviewing troops in autumn, horses racing, bowstrings cracking like thunder. Reading it, you feel you are on the battlefield, your blood running hot. He wants to finish the great task and leave a good name. But the last line, 'what a pity, my hair has turned white', pulls us out of the dream at once. All of this was only a dream. He has grown old, and his wish has not come true. The louder the lines before, the sadder these last five characters feel."
+ },
+ "famous_lines": [
+  0,
+  1,
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "war",
+   "ambition",
+   "old-age",
+   "friendship"
+  ]
+ },
+ "uncertain": []
+}

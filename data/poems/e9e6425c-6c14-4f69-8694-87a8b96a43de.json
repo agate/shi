@@ -1,0 +1,391 @@
+{
+ "id": "e9e6425c-6c14-4f69-8694-87a8b96a43de",
+ "kind": "shi",
+ "title": "春望",
+ "title_en": "Spring View",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "国",
+    "guó"
+   ],
+   [
+    "破",
+    "pò"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "木",
+    "mù"
+   ],
+   [
+    "深",
+    "shēn"
+   ]
+  ],
+  [
+   [
+    "感",
+    "gǎn"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "溅",
+    "jiàn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ],
+  [
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "烽",
+    "fēng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "抵",
+    "dǐ"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "金",
+    "jīn"
+   ]
+  ],
+  [
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "搔",
+    "sāo"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "短",
+    "duǎn"
+   ]
+  ],
+  [
+   [
+    "浑",
+    "hún"
+   ],
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "簪",
+    "zān"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 7,
+   "pos": 3,
+   "char": "胜",
+   "pinyin": "shèng",
+   "zh": "“不胜”的“胜”，现在一般读 shèng。旧读 shēng，意思是能承受。",
+   "en": "In bù shèng, the character is now usually read shèng. An older reading is shēng, meaning able to bear."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "国破：国都被攻破。这里指都城长安被叛军占领。",
+   "en": "guó pò: the capital has fallen. Here it means the capital Chang'an was taken by rebel troops."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "山河在：山和河还在，可是国家已经残破了。",
+   "en": "shān hé zài: the mountains and rivers are still there, though the country is broken."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "城春：长安城里春天来了。",
+   "en": "chéng chūn: spring has come to the city of Chang'an."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "草木深：草和树长得又高又密。因为人都逃走了，没有人管。",
+   "en": "cǎo mù shēn: grass and trees grow tall and thick, because the people have fled and no one tends them."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "感时：为时局感到伤心。时局，就是国家眼下的情况。",
+   "en": "gǎn shí: to grieve over the times, that is, over the state the country is in."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "溅泪：流下眼泪，泪水洒落。",
+   "en": "jiàn lèi: tears spill and fall."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "恨别：为和家人分别而难过。恨，这里是遗憾、难过的意思。",
+   "en": "hèn bié: to grieve over being parted from one's family. Hèn here means sorrow, not hatred."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "惊心：心里一惊，很不安。",
+   "en": "jīng xīn: the heart starts in alarm."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "烽火：古代在高台上点火报警的烟火。这里指战争。",
+   "en": "fēng huǒ: beacon fires lit on high towers to warn of attack in old times. Here it means war."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "连三月：一连好几个月。一说指连着两个春天的三月。",
+   "en": "lián sān yuè: for months on end. Another reading: through the third month of two springs in a row."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "家书：家里寄来的信。",
+   "en": "jiā shū: a letter from home."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "抵万金：抵得上一万两黄金，形容非常珍贵。",
+   "en": "dǐ wàn jīn: worth ten thousand pieces of gold, that is, priceless."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "白头：白头发。",
+   "en": "bái tóu: white hair."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 3,
+   "zh": "搔：用手指轻轻地抓、挠。",
+   "en": "sāo: to scratch with the fingers."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "更短：更加少了，更稀了。",
+   "en": "gèng duǎn: even thinner, even fewer."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "浑欲：简直要。",
+   "en": "hún yù: almost, very nearly."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "不胜簪：插不住簪子了。古代男子留长发，把头发束起来，用簪子别住帽子。簪，一种长针。不胜，承受不住。",
+   "en": "bù shèng zān: cannot hold a hairpin any more. Men in old China wore their hair long, tied it up, and fixed a cap on it with a long pin. Bù shèng means unable to bear."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "国都被攻破了，只有山河还在。",
+   "en": "The capital has fallen; only the hills and rivers remain."
+  },
+  {
+   "zh": "春天的长安城里，草木长得又高又密。",
+   "en": "Spring in the city, and grass and trees grow wild and thick."
+  },
+  {
+   "zh": "为时局伤心，看见花开也忍不住流泪。",
+   "en": "Grieving for the times, I shed tears even at the flowers."
+  },
+  {
+   "zh": "和家人分离，听见鸟叫也心惊。",
+   "en": "Parted from my family, even birdsong makes my heart start."
+  },
+  {
+   "zh": "战火已经一连烧了好几个月。",
+   "en": "The fires of war have burned for months on end."
+  },
+  {
+   "zh": "一封家信，抵得上万两黄金。",
+   "en": "A letter from home is worth ten thousand in gold."
+  },
+  {
+   "zh": "满头白发越挠越少，",
+   "en": "I scratch my white hair, and it grows ever thinner,"
+  },
+  {
+   "zh": "简直连簪子都插不住了。",
+   "en": "so thin it can hardly hold a hairpin."
+  }
+ ],
+ "background": {
+  "zh": "公元755年，安禄山、史思明起兵造反，史称“安史之乱”。第二年，叛军攻进长安。杜甫把家人安顿在鄜州，自己去投奔新即位的唐肃宗，半路被叛军抓住，带回了长安。757年春天，他被困在长安城里，看到城市破败，又没有家人的消息，写下了这首诗。",
+  "en": "In 755, An Lushan and Shi Siming rose against the Tang. This is called the An Lushan Rebellion. The next year the rebels took Chang'an. Du Fu left his family in Fuzhou and set off to join the new emperor, Suzong. On the way he was caught by the rebels and taken back to Chang'an. In the spring of 757 he was trapped in the city. He saw it in ruins and had no news of his family, so he wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），字子美，唐代大诗人，被人称为“诗圣”。他经历了唐朝由盛到衰的大乱，诗里写了很多百姓的苦难和国家的危难，所以他的诗又被称为“诗史”，就是用诗写成的历史。",
+  "en": "Du Fu (712–770), courtesy name Zimei, was a great Tang poet, often called the Sage of Poetry. He lived through the great war that turned the Tang from strong to weak. His poems tell of the people's suffering and the country's danger, so they are also called a history in verse."
+ },
+ "appreciation": {
+  "zh": "开头一个“破”字，一个“在”字，写出了大变化：国家破了，山河却还在；春天来了，城里却只有乱长的草木，没有人。接着两句，花本来好看，鸟叫本来好听，可诗人心里难过，看花流泪，听鸟心惊。一说是花和鸟也像人一样在流泪、在惊心。“家书抵万金”说出了战乱中所有人的心声。最后诗人不写哭，只写自己挠头，白发少得插不住簪子，一个忧国思家的老人就站在我们眼前了。",
+  "en": "The opening sets two words against each other: the country is broken, yet the hills and rivers remain. Spring has come, yet the city holds only wild grass and trees, and no people. Flowers are lovely and birdsong is sweet, but the poet is so sad that flowers bring tears and birds make his heart start. Another reading says the flowers and birds themselves seem to weep and tremble. \"A letter from home is worth ten thousand in gold\" speaks for everyone caught in war. At the end the poet does not say he weeps. He only scratches his head, his white hair too thin to hold a pin. And we see an old man worried for his country and his family."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3,
+  5
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "war",
+   "family",
+   "homesick",
+   "country"
+  ]
+ },
+ "uncertain": []
+}

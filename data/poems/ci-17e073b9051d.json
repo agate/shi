@@ -1,0 +1,550 @@
+{
+ "id": "ci-17e073b9051d",
+ "kind": "ci",
+ "title": "青玉案·凌波不过横塘路",
+ "title_en": "To the Tune Qing Yu An: She Does Not Come Down Hengtang Road",
+ "author": "贺铸",
+ "author_en": "He Zhu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·青玉案（双调）",
+  "en": "ci lyric to the tune Qing Yu An, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "凌",
+    "líng"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "过",
+    "guò"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "塘",
+    "táng"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "送",
+    "sòng"
+   ],
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "尘",
+    "chén"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "瑟",
+    "sè"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "院",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "琐",
+    "suǒ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "朱",
+    "zhū"
+   ],
+   [
+    "户",
+    "hù"
+   ]
+  ],
+  [
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "冉",
+    "rǎn"
+   ],
+   [
+    "冉",
+    "rǎn"
+   ],
+   [
+    "蘅",
+    "héng"
+   ],
+   [
+    "皋",
+    "gāo"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "彩",
+    "cǎi"
+   ],
+   [
+    "笔",
+    "bǐ"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "题",
+    "tí"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "肠",
+    "cháng"
+   ],
+   [
+    "句",
+    "jù"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "川",
+    "chuān"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "草",
+    "cǎo"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "絮",
+    "xù"
+   ]
+  ],
+  [
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": {
+  "zh": "通行本第九句作“试问闲愁都几许”，这里的古籍底本作“若问闲情都几许”。意思差不多，都是“要问我的愁有多少”，课本和多数选本用“试问闲愁”。",
+  "en": "The commonly taught text has \"shì wèn xián chóu dōu jǐ xǔ\" in line nine. The corpus text has \"ruò wèn xián qíng dōu jǐ xǔ\". Both mean about the same, \"if you ask how much idle sorrow I have\". Textbooks and most anthologies use the first."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 4,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "现在读 shéi 或 shuí 都可以，诵读古诗时也常读 shuí。",
+   "en": "It can be read shéi or shuí; people often say shuí when reciting old poems."
+  },
+  {
+   "line": 8,
+   "pos": 5,
+   "char": "几",
+   "pinyin": "jǐ",
+   "zh": "这里是“多少”的意思，读 jǐ。",
+   "en": "Read jǐ here, meaning \"how much\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "凌波：在水波上轻轻走，形容美女走路轻盈。出自曹植《洛神赋》里写洛水女神的句子。",
+   "en": "líng bō: walking lightly over the waves, used for a beautiful woman's light steps. It comes from Cao Zhi's poem about the goddess of the Luo River."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 6,
+   "zh": "横塘：地名，在苏州城外，作者住的地方附近。",
+   "en": "héng táng: a place outside the city of Suzhou, near where the poet lived."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "但：只。",
+   "en": "dàn: only."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "芳尘：美人走过扬起的尘土，指她远去的身影。",
+   "en": "fāng chén: the fragrant dust raised by the lady's steps, that is, her figure going away."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "锦瑟：装饰华美的瑟，一种弦乐器。华年：美好的青春。这里借用李商隐“锦瑟无端五十弦，一弦一柱思华年”的句子。",
+   "en": "jǐn sè huá nián: jǐn sè is a richly decorated zither; huá nián means the bright years of youth. It borrows a famous line by Li Shangyin."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "谁与度：和谁一起度过？",
+   "en": "shéi yǔ dù: with whom will she spend them?"
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 4,
+   "zh": "月桥花院：有月下小桥、种着花的院子。",
+   "en": "yuè qiáo huā yuàn: a courtyard with flowers and a little bridge under the moon."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "琐窗：雕着连环花纹的窗。朱户：红色的大门。指美人住的漂亮房子。",
+   "en": "suǒ chuāng zhū hù: suǒ chuāng is a window carved with linked patterns; zhū hù is a red door. Together they mean the lady's fine house."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 5,
+   "zh": "只有春知处：只有春天知道她住在哪里。",
+   "en": "zhǐ yǒu chūn zhī chù: only spring knows where she is."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "冉冉：慢慢飘动的样子。",
+   "en": "rǎn rǎn: drifting slowly."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "蘅皋：长着香草杜蘅的水边高地，也出自《洛神赋》。",
+   "en": "héng gāo: a waterside bank where the fragrant herb héng grows, also from the poem about the Luo River goddess."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "彩笔：五彩的笔，比喻好文才。传说南朝江淹梦见有人送他一支五色笔，从此文章写得特别好。",
+   "en": "cǎi bǐ: a many-coloured brush, meaning a gift for writing. Legend says the writer Jiang Yan dreamed someone gave him a five-coloured brush, and after that he wrote beautifully."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "断肠句：让人伤心到极点的句子。",
+   "en": "duàn cháng jù: heartbreaking lines."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "试问：试着问一问，如果要问。",
+   "en": "shì wèn: if you ask."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "闲愁：说不清来由、无处安放的愁。",
+   "en": "xián chóu: idle sorrow, a sadness with no clear cause and nowhere to go."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "都几许：总共有多少？",
+   "en": "dōu jǐ xǔ: how much in all?"
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 4,
+   "zh": "一川烟草：满河滩像烟雾一样迷迷蒙蒙的青草。川，河边的平地。",
+   "en": "yī chuān yān cǎo: a whole plain of grass, misty like smoke. Chuān is the flat land along a river."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 4,
+   "zh": "风絮：随风乱飞的柳絮。",
+   "en": "fēng xù: willow fluff blown about by the wind."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 5,
+   "zh": "梅子黄时雨：梅子变黄的时候下的雨，就是江南初夏连绵不断的梅雨。",
+   "en": "méi zǐ huáng shí yǔ: the rain when plums turn yellow: the long, steady \"plum rain\" of early summer south of the Yangtze."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她轻盈的脚步没有走到横塘这边来，",
+   "en": "Her light steps did not come down Hengtang Road;"
+  },
+  {
+   "zh": "我只能目送她远去的身影。",
+   "en": "I could only watch her fragrant dust drift away."
+  },
+  {
+   "zh": "她美好的青春年华，和谁一起度过呢？",
+   "en": "Her lovely years of youth, who will she spend them with?"
+  },
+  {
+   "zh": "是在有月下小桥、种满鲜花的院子里，",
+   "en": "Is it in a courtyard of flowers with a moonlit bridge,"
+  },
+  {
+   "zh": "还是在雕花窗、红漆门的屋子里？",
+   "en": "behind carved windows and a red door?"
+  },
+  {
+   "zh": "只有春天知道她在哪里。",
+   "en": "Only spring knows where she is."
+  },
+  {
+   "zh": "天上的云慢慢飘着，长满香草的水边天色晚了，",
+   "en": "Clouds drift slowly; dusk falls on the fragrant bank."
+  },
+  {
+   "zh": "我用彩笔写下了让人心碎的新句子。",
+   "en": "With my coloured brush I write new, heartbreaking lines."
+  },
+  {
+   "zh": "要问我的闲愁一共有多少？",
+   "en": "If you ask how much idle sorrow I have:"
+  },
+  {
+   "zh": "就像满河滩迷迷蒙蒙的青草，",
+   "en": "as much as a whole plain of misty grass,"
+  },
+  {
+   "zh": "像满城随风乱飞的柳絮，",
+   "en": "as the willow fluff blowing all over town,"
+  },
+  {
+   "zh": "像梅子黄时下个不停的雨。",
+   "en": "as the rain that never stops when the plums turn yellow."
+  }
+ ],
+ "background": {
+  "zh": "贺铸晚年住在苏州，在城外横塘一带有住处。这首词一般认为写于这个时期。词里说，一位美丽的女子从横塘附近经过，却没有走过来，他只能看着她走远，心里生出说不完的愁。也有人认为，“美人”只是寄托，是借追不到的美人，写自己的才能和理想得不到施展。",
+  "en": "In his later years He Zhu lived in Suzhou and had a home near Hengtang outside the city. This lyric is usually thought to come from that time. In it, a beautiful woman passes near Hengtang but does not come his way. He can only watch her go, and an endless sorrow rises in him. Some readers think the \"beauty\" is a symbol: by writing of a woman he cannot reach, he is writing about his own talent and hopes that were never put to use."
+ },
+ "author_note": {
+  "zh": "贺铸（1052—1125），字方回，号庆湖遗老，卫州（今河南卫辉一带）人，北宋词人。他一生做的都是小官，很不得志。他的词有的豪迈，有的深情细腻。因为这首词的结尾“梅子黄时雨”写得太好，人们送他一个外号：“贺梅子”。",
+  "en": "He Zhu (1052–1125), courtesy name Fanghui, came from Weizhou in today's Henan. He was a lyric poet of the Northern Song. All his life he held only small posts and never got ahead. Some of his lyrics are bold, others tender and delicate. The ending of this lyric, \"the rain when the plums turn yellow\", was so admired that people nicknamed him \"Plum He\"."
+ },
+ "appreciation": {
+  "zh": "上阕写一次错过。美人轻轻走过，没有过来，他只能远远看着她的背影。他忍不住猜：她的好年华和谁一起过？她住在怎样漂亮的院子里？可答案“只有春知处”，他永远不会知道。下阕写愁。傍晚云慢慢飘，他写下伤心的句子。最妙的是最后几句。愁本来看不见、摸不着，他却一连用了三样东西来比：满地的青草，满城的柳絮，下不完的梅雨。草多，絮乱，雨长，愁也就又多、又乱、又没完没了。这三个比喻连在一起，像一幅江南暮春初夏的烟雨图。",
+  "en": "The first stanza is about a missed chance. The lady walks lightly by without coming over, and he can only watch her back from afar. He cannot help wondering: who will share her lovely years? What fine courtyard does she live in? But \"only spring knows\", and he never will. The second stanza is about sorrow. At dusk the clouds drift slowly, and he writes sad lines. The best part is the ending. Sorrow cannot be seen or touched, yet he compares it to three things in a row: grass covering the plain, willow fluff filling the town, and plum rain that never stops. The grass is endless, the fluff is tangled, the rain goes on and on, and so is his sorrow. Together the three pictures make a misty painting of the south in late spring and early summer."
+ },
+ "famous_lines": [
+  8,
+  9,
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "spring",
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "sorrow",
+   "love",
+   "rain",
+   "longing"
+  ]
+ },
+ "uncertain": []
+}

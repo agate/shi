@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>使至塞上 · 王维 — 诗</title>
+    <meta name="description" content="使至塞上 · 王维 — On a Mission to the Frontier by Wang Wei: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 99 · Tang poem · five-character regulated verse</span><span lang="zh">第 99 首 · 唐诗 · 五言律诗</span></p>
+        <h1>使至塞上</h1>
+        <p class="by">王维<span class="mono"><span lang="en">Wang Wei · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">On a Mission to the Frontier</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>dān</i><b>单</b></span><span class="c gl" data-l="0" data-p="1"><i>chē</i><b>车</b></span><span class="c" data-l="0" data-p="2"><i>yù</i><b>欲</b></span><span class="c gl" data-l="0" data-p="3"><i>wèn</i><b>问</b></span><span class="c gl" data-l="0" data-p="4"><i>biān</i><b>边</b></span></p><p class="ln"><span class="c gl rd" data-l="1" data-p="0"><i>shǔ</i><b>属</b></span><span class="c gl" data-l="1" data-p="1"><i>guó</i><b>国</b></span><span class="c gl" data-l="1" data-p="2"><i>guò</i><b>过</b></span><span class="c gl" data-l="1" data-p="3"><i>jū</i><b>居</b></span><span class="c gl" data-l="1" data-p="4"><i>yán</i><b>延</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>zhēng</i><b>征</b></span><span class="c gl" data-l="2" data-p="1"><i>péng</i><b>蓬</b></span><span class="c" data-l="2" data-p="2"><i>chū</i><b>出</b></span><span class="c gl" data-l="2" data-p="3"><i>hàn</i><b>汉</b></span><span class="c gl" data-l="2" data-p="4"><i>sài</i><b>塞</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>guī</i><b>归</b></span><span class="c gl" data-l="3" data-p="1"><i>yàn</i><b>雁</b></span><span class="c" data-l="3" data-p="2"><i>rù</i><b>入</b></span><span class="c gl" data-l="3" data-p="3"><i>hú</i><b>胡</b></span><span class="c gl" data-l="3" data-p="4"><i>tiān</i><b>天</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>dà</i><b>大</b></span><span class="c gl" data-l="4" data-p="1"><i>mò</i><b>漠</b></span><span class="c gl" data-l="4" data-p="2"><i>gū</i><b>孤</b></span><span class="c gl" data-l="4" data-p="3"><i>yān</i><b>烟</b></span><span class="c" data-l="4" data-p="4"><i>zhí</i><b>直</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>cháng</i><b>长</b></span><span class="c gl" data-l="5" data-p="1"><i>hé</i><b>河</b></span><span class="c" data-l="5" data-p="2"><i>luò</i><b>落</b></span><span class="c" data-l="5" data-p="3"><i>rì</i><b>日</b></span><span class="c" data-l="5" data-p="4"><i>yuán</i><b>圆</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>xiāo</i><b>萧</b></span><span class="c gl" data-l="6" data-p="1"><i>guān</i><b>关</b></span><span class="c" data-l="6" data-p="2"><i>féng</i><b>逢</b></span><span class="c gl" data-l="6" data-p="3"><i>hòu</i><b>候</b></span><span class="c gl rd" data-l="6" data-p="4"><i>qí</i><b>骑</b></span></p><p class="ln"><span class="c gl rd" data-l="7" data-p="0"><i>dū</i><b>都</b></span><span class="c gl" data-l="7" data-p="1"><i>hù</i><b>护</b></span><span class="c" data-l="7" data-p="2"><i>zài</i><b>在</b></span><span class="c gl rd" data-l="7" data-p="3"><i>yān</i><b>燕</b></span><span class="c gl" data-l="7" data-p="4"><i>rán</i><b>然</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus has the seventh line as &quot;meeting a waiting official at Xiao Pass&quot;; textbooks and common editions have &quot;meeting a mounted scout&quot;.</p><p lang="zh">古诗库第七句作“萧关逢候吏”（守候迎接的小官），课本和通行本作“萧关逢候骑”（侦察的骑兵）。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">单车欲问边</span><span lang="en">With a single carriage I set out to visit the frontier,</span><span lang="zh">我乘着一辆车，轻装去慰问边关，</span></li><li><span class="o">属国过居延</span><span lang="en">an envoy passing far-off Juyan.</span><span lang="zh">作为使臣，经过了遥远的居延。</span></li><li><span class="o">征蓬出汉塞</span><span lang="en">Like tumbleweed I blow out past the frontier passes;</span><span lang="zh">我像随风飘飞的蓬草一样飞出了边塞，</span></li><li><span class="o">归雁入胡天</span><span lang="en">like the returning geese I fly into the northern skies.</span><span lang="zh">又像北归的大雁一样进入了胡地的天空。</span></li><li><span class="o">大漠孤烟直</span><span lang="en">Over the vast desert a single column of smoke rises straight;</span><span lang="zh">广阔的沙漠上，一缕孤烟直直升起；</span></li><li><span class="o">长河落日圆</span><span lang="en">over the long river the setting sun is round.</span><span lang="zh">长长的黄河上，落日又大又圆。</span></li><li><span class="o">萧关逢候骑</span><span lang="en">At Xiao Pass I meet a mounted scout,</span><span lang="zh">到了萧关，遇到侦察的骑兵，</span></li><li><span class="o">都护在燕然</span><span lang="en">who tells me: the commander is at the front, at Mount Yanran.</span><span lang="zh">他告诉我：主帅正在燕然前线。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>单车<span class="mono">dān chē</span></dt><dd><span lang="en">dān chē: a single carriage, meaning he travels with few attendants.</span><span lang="zh">单车：一辆车，说明随从很少，轻车简从。</span></dd></div><div><dt>问边<span class="mono">wèn biān</span></dt><dd><span lang="en">wèn biān: to go to the frontier to visit and comfort the soldiers.</span><span lang="zh">问边：到边塞去慰问守边的将士。</span></dd></div><div><dt>属国<span class="mono">shǔ guó</span></dt><dd><span lang="en">shǔ guó: short for an old Han dynasty title, the official in charge of dealings with border peoples. Wang Wei uses it for himself as an envoy. Another reading takes it as the small states that submitted to the Tang.</span><span lang="zh">属国：“典属国”的简称，汉代管理和少数民族往来的官。这里王维借来指自己使臣的身份。一说指归附唐朝的小国。</span></dd></div><div><dt>过居延<span class="mono">guò jū yán</span></dt><dd><span lang="en">guò jū yán: passing Juyan, a place around today&#x27;s Ejin Banner in Inner Mongolia. Here it stands for the far frontier in general.</span><span lang="zh">过居延：经过居延。居延，地名，在今内蒙古额济纳旗一带，这里泛指遥远的边地。</span></dd></div><div><dt>征蓬<span class="mono">zhēng péng</span></dt><dd><span lang="en">zhēng péng: tumbleweed blowing far away. When the péng plant dries, the wind tears it up and blows it everywhere. The poet compares himself to it.</span><span lang="zh">征蓬：随风远飞的蓬草。蓬草干枯后会被风连根吹起，到处飘飞，诗人用它比喻自己。</span></dd></div><div><dt>汉塞<span class="mono">hàn sài</span></dt><dd><span lang="en">hàn sài: the Han frontier passes, here meaning the Tang frontier.</span><span lang="zh">汉塞：汉朝的边关，这里借指唐朝的边塞。</span></dd></div><div><dt>归雁<span class="mono">guī yàn</span></dt><dd><span lang="en">guī yàn: wild geese flying back north in spring.</span><span lang="zh">归雁：春天从南方飞回北方的大雁。</span></dd></div><div><dt>胡天<span class="mono">hú tiān</span></dt><dd><span lang="en">hú tiān: the skies over the lands of the Hu, the northwest borderlands. Hú was the old name for peoples of the north and west.</span><span lang="zh">胡天：胡人地区的天空，指西北边地。胡，古代对北方和西方少数民族的称呼。</span></dd></div><div><dt>大漠<span class="mono">dà mò</span></dt><dd><span lang="en">dà mò: the vast desert.</span><span lang="zh">大漠：广阔的大沙漠。</span></dd></div><div><dt>孤烟<span class="mono">gū yān</span></dt><dd><span lang="en">gū yān: a single column of smoke rising straight up. One view says it is smoke from a beacon tower.</span><span lang="zh">孤烟：一缕直直升起的烟。一说是烽火台报平安的烟火。</span></dd></div><div><dt>长河<span class="mono">cháng hé</span></dt><dd><span lang="en">cháng hé: the long river, usually taken to be the Yellow River.</span><span lang="zh">长河：一般认为指黄河。</span></dd></div><div><dt>萧关<span class="mono">xiāo guān</span></dt><dd><span lang="en">xiāo guān: Xiao Pass, an old pass southeast of today&#x27;s Guyuan in Ningxia.</span><span lang="zh">萧关：古代关口名，在今宁夏固原东南。</span></dd></div><div><dt>候骑<span class="mono">hòu qí</span></dt><dd><span lang="en">hòu qí: mounted scouts who watch the enemy and carry messages.</span><span lang="zh">候骑：负责侦察、传递消息的骑兵。</span></dd></div><div><dt>都护<span class="mono">dū hù</span></dt><dd><span lang="en">dū hù: the governor of a Tang frontier command, here meaning the commanding general.</span><span lang="zh">都护：唐代在边疆设立的都护府的长官，这里指前线的主将。</span></dd></div><div><dt>燕然<span class="mono">yān rán</span></dt><dd><span lang="en">yān rán: Mount Yanran, in today&#x27;s Mongolia. The Eastern Han general Dou Xian carved a record of his victory on it. Here it stands for the front line.</span><span lang="zh">燕然：燕然山，在今蒙古国境内。东汉大将窦宪曾在这里刻石记功。这里代指前线。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>骑<span class="mono">qí</span></dt><dd><span lang="en">In hòu qí, the character means a mounted soldier. Many teachers and annotated editions read it jì, the old reading. Current standard dictionaries read it qí in all uses.</span><span lang="zh">“候骑”的“骑”指骑兵，老师和许多注本读 jì，这是旧读。现在的规范词典已经统一读 qí。</span></dd></div><div><dt>都<span class="mono">dū</span></dt><dd><span lang="en">Read dū; dū hù is an official title. It is not dōu.</span><span lang="zh">读 dū，“都护”是官名。不读 dōu。</span></dd></div><div><dt>燕<span class="mono">yān</span></dt><dd><span lang="en">Read yān; yān rán is the name of a mountain. It is not yàn, the swallow.</span><span lang="zh">读 yān，“燕然”是山名。不读 yàn（燕子的燕）。</span></dd></div><div><dt>属<span class="mono">shǔ</span></dt><dd><span lang="en">Read shǔ; shǔ guó is an official title or a subject state. It is not zhǔ.</span><span lang="zh">读 shǔ，“属国”是官名或附属国。不读 zhǔ。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">In the spring of 737, Cui Xiyi, a frontier commander in the Hexi region, defeated the Tibetan army. Emperor Xuanzong sent Wang Wei, then a censor, to the frontier to comfort the troops and look into the army&#x27;s affairs. He later stayed on in Liangzhou for a while as an aide to the commander. This poem records the frontier scenery he saw on the way. One view holds that the mission was also a way of pushing him out of the court.</p><p lang="zh">开元二十五年（737年）春天，河西节度副大使崔希逸打败了吐蕃。唐玄宗派王维以监察御史的身份出塞，去慰问将士、察看军情，后来他还留在凉州做了一段时间的判官（帮助长官处理事务的官员）。这首诗写的就是他出使路上看到的边塞风光。一说这次出使也有被排挤出朝廷的意思。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Wei (701–761, or by another account 699–761) was a great Tang poet, painter and musician, called the Buddha of Poetry. Su Shi said there were &quot;paintings in his poems&quot;. He was best at poems of hills, fields and streams. This one is about the frontier, yet it too reads like a painting.</p><p lang="zh">王维（701—761，一说699—761），唐代大诗人，也是画家和音乐家，被称为“诗佛”。苏轼说他“诗中有画”。他最擅长写山水田园，这首诗写的是边塞，却同样像一幅画。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">&quot;Over the vast desert a single column of smoke rises straight; over the long river the setting sun is round&quot; are the most famous lines ever written about the frontier. Picture it: endless yellow sand, no wind at all, one thin line of smoke going straight up into the sky. Far off, a long river, and the sun sinking, big, round and red above the water. The words &quot;straight&quot; and &quot;round&quot; are very simple, like drawing one line and one circle, yet they capture how wide, quiet and grand the desert is. Wang Wei also compares himself to blowing tumbleweed and to geese flying north, which hints at a traveller&#x27;s loneliness. At the end he reaches Xiao Pass and learns that the commander is still farther away at the front, so you can feel how remote the frontier is.</p><p lang="zh">“大漠孤烟直，长河落日圆”是写边塞最有名的两句。你可以想象一幅画：一望无边的黄沙，没有一点风，一缕烟直直地升上天；远处一条长河，太阳落下去，又大又圆，红红地挂在河上。“直”和“圆”两个字很简单，像画画时画下的一条直线和一个圆，却把沙漠的辽阔、安静和壮美都画了出来。王维把自己比作飘飞的蓬草和北飞的孤雁，又透出一点远行人的孤独。最后写到了萧关，才知道主帅还在更远的前线，边塞之远，可想而知。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/qiuci/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>秋词</b></a><a href="../../p/guanshanyue/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>关山月</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["单", "dān"], ["车", "chē"], ["欲", "yù"], ["问", "wèn"], ["边", "biān"]], [["属", "shǔ"], ["国", "guó"], ["过", "guò"], ["居", "jū"], ["延", "yán"]], [["征", "zhēng"], ["蓬", "péng"], ["出", "chū"], ["汉", "hàn"], ["塞", "sài"]], [["归", "guī"], ["雁", "yàn"], ["入", "rù"], ["胡", "hú"], ["天", "tiān"]], [["大", "dà"], ["漠", "mò"], ["孤", "gū"], ["烟", "yān"], ["直", "zhí"]], [["长", "cháng"], ["河", "hé"], ["落", "luò"], ["日", "rì"], ["圆", "yuán"]], [["萧", "xiāo"], ["关", "guān"], ["逢", "féng"], ["候", "hòu"], ["骑", "qí"]], [["都", "dū"], ["护", "hù"], ["在", "zài"], ["燕", "yān"], ["然", "rán"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "单车：一辆车，说明随从很少，轻车简从。", "en": "dān chē: a single carriage, meaning he travels with few attendants."}, {"line": 0, "start": 3, "end": 5, "zh": "问边：到边塞去慰问守边的将士。", "en": "wèn biān: to go to the frontier to visit and comfort the soldiers."}, {"line": 1, "start": 0, "end": 2, "zh": "属国：“典属国”的简称，汉代管理和少数民族往来的官。这里王维借来指自己使臣的身份。一说指归附唐朝的小国。", "en": "shǔ guó: short for an old Han dynasty title, the official in charge of dealings with border peoples. Wang Wei uses it for himself as an envoy. Another reading takes it as the small states that submitted to the Tang."}, {"line": 1, "start": 2, "end": 5, "zh": "过居延：经过居延。居延，地名，在今内蒙古额济纳旗一带，这里泛指遥远的边地。", "en": "guò jū yán: passing Juyan, a place around today's Ejin Banner in Inner Mongolia. Here it stands for the far frontier in general."}, {"line": 2, "start": 0, "end": 2, "zh": "征蓬：随风远飞的蓬草。蓬草干枯后会被风连根吹起，到处飘飞，诗人用它比喻自己。", "en": "zhēng péng: tumbleweed blowing far away. When the péng plant dries, the wind tears it up and blows it everywhere. The poet compares himself to it."}, {"line": 2, "start": 3, "end": 5, "zh": "汉塞：汉朝的边关，这里借指唐朝的边塞。", "en": "hàn sài: the Han frontier passes, here meaning the Tang frontier."}, {"line": 3, "start": 0, "end": 2, "zh": "归雁：春天从南方飞回北方的大雁。", "en": "guī yàn: wild geese flying back north in spring."}, {"line": 3, "start": 3, "end": 5, "zh": "胡天：胡人地区的天空，指西北边地。胡，古代对北方和西方少数民族的称呼。", "en": "hú tiān: the skies over the lands of the Hu, the northwest borderlands. Hú was the old name for peoples of the north and west."}, {"line": 4, "start": 0, "end": 2, "zh": "大漠：广阔的大沙漠。", "en": "dà mò: the vast desert."}, {"line": 4, "start": 2, "end": 4, "zh": "孤烟：一缕直直升起的烟。一说是烽火台报平安的烟火。", "en": "gū yān: a single column of smoke rising straight up. One view says it is smoke from a beacon tower."}, {"line": 5, "start": 0, "end": 2, "zh": "长河：一般认为指黄河。", "en": "cháng hé: the long river, usually taken to be the Yellow River."}, {"line": 6, "start": 0, "end": 2, "zh": "萧关：古代关口名，在今宁夏固原东南。", "en": "xiāo guān: Xiao Pass, an old pass southeast of today's Guyuan in Ningxia."}, {"line": 6, "start": 3, "end": 5, "zh": "候骑：负责侦察、传递消息的骑兵。", "en": "hòu qí: mounted scouts who watch the enemy and carry messages."}, {"line": 7, "start": 0, "end": 2, "zh": "都护：唐代在边疆设立的都护府的长官，这里指前线的主将。", "en": "dū hù: the governor of a Tang frontier command, here meaning the commanding general."}, {"line": 7, "start": 3, "end": 5, "zh": "燕然：燕然山，在今蒙古国境内。东汉大将窦宪曾在这里刻石记功。这里代指前线。", "en": "yān rán: Mount Yanran, in today's Mongolia. The Eastern Han general Dou Xian carved a record of his victory on it. Here it stands for the front line."}], "readings": [{"line": 6, "pos": 4, "char": "骑", "pinyin": "qí", "zh": "“候骑”的“骑”指骑兵，老师和许多注本读 jì，这是旧读。现在的规范词典已经统一读 qí。", "en": "In hòu qí, the character means a mounted soldier. Many teachers and annotated editions read it jì, the old reading. Current standard dictionaries read it qí in all uses."}, {"line": 7, "pos": 0, "char": "都", "pinyin": "dū", "zh": "读 dū，“都护”是官名。不读 dōu。", "en": "Read dū; dū hù is an official title. It is not dōu."}, {"line": 7, "pos": 3, "char": "燕", "pinyin": "yān", "zh": "读 yān，“燕然”是山名。不读 yàn（燕子的燕）。", "en": "Read yān; yān rán is the name of a mountain. It is not yàn, the swallow."}, {"line": 1, "pos": 0, "char": "属", "pinyin": "shǔ", "zh": "读 shǔ，“属国”是官名或附属国。不读 zhǔ。", "en": "Read shǔ; shǔ guó is an official title or a subject state. It is not zhǔ."}], "speak": ["单车欲问边", "属国过居延", "征蓬出汉赛", "归雁入胡天", "大漠孤烟直", "长河落日圆", "萧关逢候骑", "督护在阉然"], "speakTitle": "使至塞上。王维。", "sample": "单车欲问边"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

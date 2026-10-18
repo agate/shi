@@ -1,0 +1,268 @@
+{
+ "id": "d12edd29-d467-4b19-b3f5-533fa5c8d56a",
+ "kind": "shi",
+ "title": "秋夕",
+ "title_en": "An Autumn Evening",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "银",
+    "yín"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "画",
+    "huà"
+   ],
+   [
+    "屏",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "罗",
+    "luó"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "扇",
+    "shàn"
+   ],
+   [
+    "扑",
+    "pū"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "萤",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "阶",
+    "jiē"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "牵",
+    "qiān"
+   ],
+   [
+    "牛",
+    "niú"
+   ],
+   [
+    "织",
+    "zhī"
+   ],
+   [
+    "女",
+    "nǚ"
+   ],
+   [
+    "星",
+    "xīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本作“银烛秋光冷画屏”“天阶夜色凉如水”“卧看牵牛织女星”。语料库作“红烛”“坐看”。有的版本作“天街”或“坐看”，各本不同。",
+  "en": "The common text reads \"yín zhú\" (white candles) and \"wò kàn\" (lying and looking). The corpus text has \"hóng zhú\" (red candles) and \"zuò kàn\" (sitting and looking). Some versions also have \"tiān jiē\" written with a different character meaning \"heavenly street\"; versions differ."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "银烛：白色的蜡烛。一说是银色的烛台。",
+   "en": "yín zhú: white candles. Another reading: a silver candlestick."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "秋光：秋夜里的烛光和月光。",
+   "en": "qiū guāng: the light on an autumn night, from candles and the moon."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "冷画屏：让画屏显得冷清。冷，在这里是“使……变冷”的意思。",
+   "en": "lěng huà píng: makes the painted screen look cold. Here lěng, cold, is used as a verb: to make cold."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "画屏：画着图画的屏风。屏风是立在屋里挡风、隔开房间的板子。",
+   "en": "huà píng: a painted screen. A screen is a standing panel used indoors to block wind or divide a room."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "轻罗小扇：用轻薄丝绸做的小扇子。罗，一种很薄的丝织品。",
+   "en": "qīng luó xiǎo shàn: a small fan made of light silk. Luó is a very thin kind of silk."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "扑：拍打，扑捉。",
+   "en": "pū: to swat at, to try to catch."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "流萤：飞来飞去的萤火虫。",
+   "en": "liú yíng: fireflies flitting about."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "天阶：皇宫里的石头台阶。",
+   "en": "tiān jiē: the stone steps in the palace."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "凉如水：凉得像水一样。",
+   "en": "liáng rú shuǐ: as cool as water."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "卧看：躺着看。",
+   "en": "wò kàn: to lie down and look."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 7,
+   "zh": "牵牛织女星：两颗星的名字，就是牵牛星和织女星，隔着银河相望。传说牛郎和织女是一对夫妻，被银河隔开，每年七月初七才能见一面。",
+   "en": "qiān niú zhī nǚ xīng: the Cowherd Star and the Weaver Girl Star, two stars that face each other across the Milky Way. Legend says the Cowherd and the Weaver Girl are a married couple kept apart by the Milky Way, who may meet only once a year, on the seventh night of the seventh month."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "秋夜里，白色的烛光映着画屏，显得又冷又清。",
+   "en": "On an autumn night, white candlelight falls on the painted screen, and it looks cold and lonely."
+  },
+  {
+   "zh": "宫女拿着轻轻的丝绸小扇，去扑飞来飞去的萤火虫。",
+   "en": "A palace maid takes a light silk fan and swats at the flitting fireflies."
+  },
+  {
+   "zh": "宫里的石阶上，夜色凉得像水一样。",
+   "en": "On the palace steps, the night feels as cool as water."
+  },
+  {
+   "zh": "她躺下来，望着天上的牵牛星和织女星。",
+   "en": "She lies down and gazes at the Cowherd Star and the Weaver Girl Star."
+  }
+ ],
+ "background": {
+  "zh": "这是一首写宫女生活的诗。古时候，皇宫里有很多宫女，她们大多一辈子关在宫里，见不到亲人，也很难得到幸福。诗里写的就是一个宫女在秋天夜里的孤单。这首诗具体写于哪一年，现在不清楚。一说这首诗的作者是王建，因为王建的宫词里也收了它，但一般认为是杜牧写的。有的版本第四句是“坐看牵牛织女星”。",
+  "en": "This poem is about the life of a palace maid. In old times, the palace held many young women who served there. Most of them were shut inside for life. They could not see their families and rarely found happiness. The poem shows one such maid alone on an autumn night. We do not know the year it was written. Some say the poet was Wang Jian, because it also appears among his palace poems, but it is usually credited to Du Mu. Some versions have the last line begin \"sitting and looking\" instead of \"lying and looking\"."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），唐朝后期的诗人，字牧之，京兆万年（今陕西西安）人。他的七言绝句写得特别好，语言清新，画面鲜明。人们把他和李商隐并称“小李杜”。他很会用几个小细节，写出人心里说不出的感情，这首诗就是例子。",
+  "en": "Du Mu (803–852) was a poet of the late Tang. He came from the capital area, today's Xi'an. He was especially good at seven-character quatrains, with fresh words and clear pictures. People pair him with Li Shangyin as the \"Little Li and Du\". He could use a few small details to show feelings a person cannot put into words, and this poem is an example."
+ },
+ "appreciation": {
+  "zh": "这首诗没有一个字说“孤单”，但处处都是孤单。第一句，烛光是冷的，画屏也是冷的，屋里冷冷清清。第二句，宫女拿着小扇子扑萤火虫。古人认为萤火虫多生在荒草地里，宫里有萤火虫，说明这里很冷落；她扑萤火虫，也是因为太无聊，想找点事做。第三句，夜深了，石阶凉得像水，她却还不回屋睡觉。最后一句，她躺着看牵牛星和织女星。牛郎织女一年还能见一面，她呢？她心里的愿望，全藏在这一眼里。小扇子还有一层意思：秋天扇子没用了，常被古人用来比喻被冷落的女子。",
+  "en": "The poem never says \"lonely\", yet loneliness is everywhere. In the first line the candlelight is cold and the painted screen is cold; the room feels empty. In the second line the maid swats at fireflies with a little fan. People in old times thought fireflies lived in wild, overgrown places, so fireflies in the palace show how deserted it is. She chases them because she is bored and wants something to do. In the third line the night grows late and the steps feel as cool as water, but she still does not go to bed. In the last line she lies looking at the Cowherd and the Weaver Girl. They can at least meet once a year. What about her? All her hopes are hidden in that long look. The little fan means something too: in autumn a fan is no longer needed, and poets often used it to stand for a woman who has been set aside."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "palace",
+   "loneliness",
+   "stars",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

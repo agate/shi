@@ -1,0 +1,474 @@
+{
+ "id": "ci-3fcbfa364a75",
+ "kind": "ci",
+ "title": "临江仙·夜登小阁忆洛中旧游",
+ "title_en": "To the Tune of Lin Jiang Xian: Climbing a Small Tower at Night, Remembering Old Outings in Luoyang",
+ "author": "陈与义",
+ "author_en": "Chen Yuyi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·临江仙（双调）",
+  "en": "ci lyric to the tune Lin Jiang Xian, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "忆",
+    "yì"
+   ],
+   [
+    "昔",
+    "xī"
+   ],
+   [
+    "午",
+    "wǔ"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ]
+  ],
+  [
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "豪",
+    "háo"
+   ],
+   [
+    "英",
+    "yīng"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "沟",
+    "gōu"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "杏",
+    "xìng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "影",
+    "yǐng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "笛",
+    "dí"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "二",
+    "èr"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "虽",
+    "suī"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "惊",
+    "jīng"
+   ]
+  ],
+  [
+   [
+    "闲",
+    "xián"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "阁",
+    "gé"
+   ],
+   [
+    "看",
+    "kàn"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "晴",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "渔",
+    "yú"
+   ],
+   [
+    "唱",
+    "chàng"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "更",
+    "gēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "词题“夜登小阁忆洛中旧游”是通行本的题目，资料库里只有词牌“临江仙”。资料库“二十馀年”的“馀”是繁体转简体时留下的异体字，通行本写作“余”。",
+  "en": "The heading \"Climbing a Small Tower at Night, Remembering Old Outings in Luoyang\" is the title used in common editions. The corpus gives only the tune name. The corpus also writes the yú in line six with an old variant form left over from machine conversion. Common editions use the standard simplified form."
+ },
+ "readings": [
+  {
+   "line": 5,
+   "pos": 5,
+   "char": "一",
+   "pinyin": "yí",
+   "zh": "“一”在第四声“梦”前面变读第二声 yí。单字读 yī。",
+   "en": "Yī changes to yí before a fourth-tone sound like mèng. On its own it is read yī."
+  },
+  {
+   "line": 6,
+   "pos": 4,
+   "char": "堪",
+   "pinyin": "kān",
+   "zh": "“堪”读 kān，意思是“能够、经得起”，这里是“真让人”的意思。",
+   "en": "Kān means can bear. Here it means \"it really makes one\"."
+  },
+  {
+   "line": 9,
+   "pos": 4,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "“三更”的“更”读 gēng，不读 gèng。",
+   "en": "In sān gēng it is read gēng, not gèng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "忆昔：回想从前。",
+   "en": "yì xī: thinking back to the old days."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "午桥：桥名，在洛阳城南。唐代宰相裴度在这里建过别墅，是有名的游玩地方。",
+   "en": "wǔ qiáo: Noon Bridge, south of the city of Luoyang. The Tang minister Pei Du built a country house there, and it was a famous place for outings."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "坐中：在座的人里。",
+   "en": "zuò zhōng: among those sitting there."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "豪英：才华出众、意气风发的人。",
+   "en": "háo yīng: gifted, high-spirited people."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 7,
+   "zh": "长沟：长长的河。这句是说月亮倒映在河里，跟着流水悄悄流走了，也暗指时光悄悄过去。",
+   "en": "cháng gōu: a long stream. The moon shines in the water and flows away with it without a sound. It also hints that time slips away quietly."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "疏影：稀稀落落的影子。这里指杏花枝条的影子。",
+   "en": "shū yǐng: thin, scattered shadows, here the shadows of apricot branches."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "如一梦：好像做了一场梦。",
+   "en": "rú yí mèng: like a dream."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "堪惊：让人心惊。经历了那么多战乱，还能活着，想想都后怕。",
+   "en": "kān jīng: it makes one shudder. He has lived through so much war that just being alive is startling."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "小阁：小楼。",
+   "en": "xiǎo gé: a small tower room."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "新晴：雨后刚刚放晴。",
+   "en": "xīn qíng: the sky just clearing after rain."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 5,
+   "zh": "古今多少事：从古到今多少兴亡大事。",
+   "en": "gǔ jīn duō shǎo shì: so many great events, rise and fall, from past to present."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "渔唱：打鱼人唱的歌。",
+   "en": "yú chàng: the songs fishermen sing."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "三更：半夜。",
+   "en": "sān gēng: midnight."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "回想从前，在洛阳午桥上喝酒，",
+   "en": "I remember long ago, drinking on Noon Bridge in Luoyang."
+  },
+  {
+   "zh": "在座的多是才华出众的朋友。",
+   "en": "Most of those with us were bright, bold young men."
+  },
+  {
+   "zh": "月亮映在长长的河水里，静静地流走了。",
+   "en": "The moon in the long stream flowed away without a sound."
+  },
+  {
+   "zh": "在杏花稀疏的影子里，",
+   "en": "Among the thin shadows of the apricot blossoms,"
+  },
+  {
+   "zh": "我们吹着笛子，一直吹到天亮。",
+   "en": "we played the flute until dawn."
+  },
+  {
+   "zh": "二十多年过去，就像一场梦，",
+   "en": "More than twenty years have passed like a dream."
+  },
+  {
+   "zh": "我虽然还活着，想起来却心惊。",
+   "en": "I am still alive, but thinking of it makes me shudder."
+  },
+  {
+   "zh": "闲来登上小楼，看雨后新晴的景色。",
+   "en": "With time on my hands I climb the small tower to see the sky clear after rain."
+  },
+  {
+   "zh": "从古到今，有多少兴亡大事，",
+   "en": "So many things from past to present,"
+  },
+  {
+   "zh": "都化作了半夜里渔夫的歌声。",
+   "en": "all turned into the fishermen's songs at midnight."
+  }
+ ],
+ "background": {
+  "zh": "陈与义年轻时住在洛阳，常和朋友在午桥一带游玩。后来金兵攻破北宋都城，北方大乱，他一路向南逃难，经历了很多苦难。一般认为这首词作于南宋绍兴五年至六年（1135—1136年）前后，当时他住在浙江湖州的青墩镇。一个雨后放晴的夜晚，他登上小楼，想起了二十多年前在洛阳的日子。",
+  "en": "As a young man Chen Yuyi lived in Luoyang and often went out with friends around Noon Bridge. Later the Jin army took the Northern Song capital, the north fell into chaos, and he fled south, suffering much on the way. The lyric is usually dated to around 1135–1136, when he was living in Qingdun, a town in Huzhou, Zhejiang. One night, after rain had cleared, he climbed a small tower and remembered his days in Luoyang more than twenty years before."
+ },
+ "author_note": {
+  "zh": "陈与义（1090—1139），字去非，号简斋，洛阳人，两宋之交的诗人。他的诗学杜甫，经历了国家破碎以后，作品变得深沉。他留下的词不多，但这首《临江仙》非常有名，写得清新自然。",
+  "en": "Chen Yuyi (1090–1139), also called Qufei, was from Luoyang. He was a poet who lived as the Northern Song ended and the Southern Song began. He learned from Du Fu, and after his country was broken his writing grew deeper and sadder. He left only a few lyrics, but this one is very famous for its fresh and natural style."
+ },
+ "appreciation": {
+  "zh": "上片是一幅美好的回忆画：桥上喝酒，朋友满座；月亮映在河里静静流走；杏花影子里，有人吹笛，一直吹到天亮。“长沟流月去无声”写得很妙，流走的是月光，也是那段好时光。下片回到眼前：二十多年像一场梦，国家破了，朋友散了，自己能活下来都觉得心惊。他登楼看雨后的晴空，最后不说悲伤，只说古今多少事，都变成了半夜渔夫的歌声。这样淡淡一笔，反而让人更觉得沉重。",
+  "en": "The first stanza is a lovely picture from memory. Friends drink together on a bridge. The moon floats in the stream and drifts away silently. In the shadows of apricot blossoms someone plays the flute until dawn. \"The moon in the long stream flowed away without a sound\" is very clever: what flows away is moonlight, and also those happy years. The second stanza comes back to now. Twenty years have passed like a dream. The country is broken, the friends are scattered, and just being alive is a shock. He climbs the tower to see the clear sky after rain. At the end he does not speak of grief. He only says that all the events of history have become fishermen's songs at midnight. This light touch makes the feeling even heavier."
+ },
+ "famous_lines": [
+  2,
+  3,
+  4
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "memory",
+   "friendship",
+   "moon",
+   "night",
+   "history",
+   "music"
+  ]
+ },
+ "uncertain": []
+}

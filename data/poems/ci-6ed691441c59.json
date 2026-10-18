@@ -1,0 +1,376 @@
+{
+ "id": "ci-6ed691441c59",
+ "kind": "ci",
+ "title": "清平乐·红笺小字",
+ "title_en": "Pure Serene Music: Small Words on Red Paper",
+ "author": "晏殊",
+ "author_en": "Yan Shu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "笺",
+    "jiān"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "字",
+    "zì"
+   ]
+  ],
+  [
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "意",
+    "yì"
+   ]
+  ],
+  [
+   [
+    "鸿",
+    "hóng"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "惆",
+    "chóu"
+   ],
+   [
+    "怅",
+    "chàng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "寄",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "恰",
+    "qià"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "钩",
+    "gōu"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "面",
+    "miàn"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "红笺：红色的、印着花纹的信纸。",
+   "en": "hóng jiān: red letter paper, often printed with patterns."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "说尽：全部说出来。",
+   "en": "shuō jìn: to say it all."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "平生意：一辈子的心意，这里指对心上人的爱慕和思念。",
+   "en": "píng shēng yì: the feelings of a lifetime; here, love and longing for the one dear to the heart."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 7,
+   "zh": "鸿雁在云鱼在水：古人传说大雁和鱼能替人送信。现在大雁飞在云里，鱼游在水里，没有谁能帮忙送信。",
+   "en": "hóng yàn zài yún yú zài shuǐ: people of old said wild geese and fish could carry letters. Now the geese are up in the clouds and the fish are down in the water, and none of them can take the letter."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "惆怅：失落、伤心。",
+   "en": "chóu chàng: sad and lost."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "难寄：很难寄出去。",
+   "en": "nán jì: hard to send."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "斜阳：快落山的太阳。",
+   "en": "xié yáng: the setting sun."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "独倚：一个人靠着。",
+   "en": "dú yǐ: leaning alone."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "遥山：远处的山。",
+   "en": "yáo shān: the distant hills."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "恰对：正好对着。",
+   "en": "qià duì: right across from."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 6,
+   "zh": "帘钩：挂门帘、窗帘的钩子。",
+   "en": "lián gōu: the hook that holds up a curtain."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "人面：心上人的脸，指那个人。来自唐代崔护的诗句“人面不知何处去，桃花依旧笑春风”。",
+   "en": "rén miàn: the face of the loved one, meaning that person. It echoes a line by the Tang poet Cui Hu: the face is gone who knows where, but the peach blossoms still smile in the spring wind."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "依旧：还是像从前一样。",
+   "en": "yī jiù: still, just as before."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "在红色的信纸上写满了小字，",
+   "en": "On red paper, in small characters,"
+  },
+  {
+   "zh": "把一辈子的心意都说尽了。",
+   "en": "I write out all the feelings of my life."
+  },
+  {
+   "zh": "可是大雁飞在云里，鱼游在水里，",
+   "en": "But the wild geese are in the clouds and the fish are in the water,"
+  },
+  {
+   "zh": "这份感情没法寄出去，真让人伤心。",
+   "en": "and sadly there is no way to send this love."
+  },
+  {
+   "zh": "夕阳下，我一个人靠在西楼上，",
+   "en": "In the setting sun I lean alone on the western tower;"
+  },
+  {
+   "zh": "远处的山，正好对着窗帘的挂钩。",
+   "en": "the far hills sit right across from the curtain hook."
+  },
+  {
+   "zh": "那个人如今不知在哪里，",
+   "en": "Where that face has gone, I do not know;"
+  },
+  {
+   "zh": "只有绿色的江水，还像从前一样向东流去。",
+   "en": "only the green waves still flow east as before."
+  }
+ ],
+ "background": {
+  "zh": "这首词的写作时间和起因都不清楚。从内容看，写的是对远方心上人的思念：写好了一封长信，却没法寄出去；傍晚独自登楼远望，人不知在哪里，只有江水照旧东流。有人认为是晏殊写男女相思，也有人认为是借这种感情抒发怀念旧友的心情。",
+  "en": "We do not know when or why this lyric was written. From the words, it is about missing someone far away. A long letter has been written but cannot be sent. At dusk the writer climbs a tower alone and gazes into the distance. The person is nowhere to be found; only the river flows east as always. Some think Yan Shu is writing about love between a man and a woman. Others think he uses that feeling to express how he misses an old friend."
+ },
+ "author_note": {
+  "zh": "晏殊（991—1055），字同叔，北宋词人，做过宰相。他小时候就有“神童”之名，十四岁被推荐进朝廷，一生仕途顺利。他的词温和含蓄，写得很雅致，常写闲愁和相思。他的小儿子晏几道也是著名词人，父子并称“二晏”。",
+  "en": "Yan Shu (991–1055), styled Tongshu, was a ci writer of the Northern Song and served as chief minister. As a child he was known as a prodigy, and at fourteen he was recommended to the court. His career went smoothly all his life. His lyrics are gentle, refined and quiet in feeling, often about light sorrow and longing. His youngest son, Yan Jidao, was also a famous ci writer, and the two are called the Two Yans."
+ },
+ "appreciation": {
+  "zh": "上半首写信：小小的字写满红纸，一辈子的心意都在里面。可古人说能送信的大雁和鱼，一个在天上，一个在水里，谁也帮不上忙，信就是寄不出去。下半首写登楼：夕阳西下，一个人靠着楼栏，远山静静地对着帘钩，好像也在陪着发呆。最后两句化用唐诗：那个人不知去了哪里，只有江水还像从前一样往东流。人走了，水还在流，时间也在流，思念却停不下来。全词语言平淡，愁却越读越深。",
+  "en": "The first half is about a letter. Tiny characters fill the red paper, carrying the feelings of a lifetime. But the geese and fish that people of old said could carry letters are one in the sky and one in the water, and neither can help, so the letter cannot be sent. The second half is about climbing a tower. The sun is setting, the writer leans on the railing alone, and the distant hills face the curtain hook quietly, as if keeping company in the stillness. The last two lines borrow from a Tang poem: that person is gone who knows where, and only the river still flows east as before. The person has left, but the water and time keep flowing, and the longing will not stop. The words are plain, yet the sorrow grows deeper the more you read."
+ },
+ "famous_lines": [
+  2,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "letter",
+   "sunset",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

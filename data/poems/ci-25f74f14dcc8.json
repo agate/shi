@@ -1,0 +1,439 @@
+{
+ "id": "ci-25f74f14dcc8",
+ "kind": "ci",
+ "title": "少年游·长安古道马迟迟",
+ "title_en": "Roaming in Youth: On the Old Road of Chang'an",
+ "author": "柳永",
+ "author_en": "Liu Yong",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "迟",
+    "chí"
+   ],
+   [
+    "迟",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "乱",
+    "luàn"
+   ],
+   [
+    "蝉",
+    "chán"
+   ],
+   [
+    "嘶",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "岛",
+    "dǎo"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "原",
+    "yuán"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "目",
+    "mù"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "垂",
+    "chuí"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "踪",
+    "zōng"
+   ],
+   [
+    "迹",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "狎",
+    "xiá"
+   ],
+   [
+    "兴",
+    "xìng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "疏",
+    "shū"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "徒",
+    "tú"
+   ],
+   [
+    "萧",
+    "xiāo"
+   ],
+   [
+    "索",
+    "suǒ"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "语料库文本（来自《全宋词》）作“高柳乱蝉栖”“不似去年时”。现在通行的本子多作“高柳乱蝉嘶”“不似少年时”，这里用通行本。另外“夕阳岛外”，有的本子作“夕阳鸟外”。",
+  "en": "The corpus text (from the Complete Song Lyrics) has 'cicadas roosting' in line 2 and 'not like last year' in the last line. Most editions read today have 'cicadas shrilling' and 'not like my young days', and this page follows them. Also, in line 3 some editions have 'beyond the birds' instead of 'beyond the isle'."
+ },
+ "readings": [
+  {
+   "line": 7,
+   "pos": 1,
+   "char": "兴",
+   "pinyin": "xìng",
+   "zh": "“狎兴”的“兴”是兴致的意思，读 xìng。",
+   "en": "In xiá xìng, this character means 'mood, interest', so it is read xìng."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "“少年”的“少”读 shào，意思是年轻。",
+   "en": "In shào nián (youth) this character is read shào, meaning young."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "长安：今天的陕西西安，汉朝和唐朝的都城。宋词里也常用来泛指京城。",
+   "en": "Chang'an: today's Xi'an in Shaanxi, the capital of the Han and Tang dynasties. In Song lyrics it can also stand for any capital city."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "古道：古老的大路。",
+   "en": "gǔ dào: an old main road."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "迟迟：慢慢地走。",
+   "en": "chí chí: slowly, slowly."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "乱蝉嘶：许多蝉乱糟糟地叫着。嘶，叫声又尖又哑。",
+   "en": "luàn chán sī: many cicadas shrilling all at once. Sī is a sharp, rough cry."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "岛外：水中小块陆地的那边，指很远的地方。一说作“鸟外”，指比飞鸟还远的天边。",
+   "en": "dǎo wài: beyond the islets in the water, that is, far away. Some editions read 'beyond the birds', meaning the sky farther than the birds fly."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "原上：高高平平的原野上。长安附近有乐游原等高原。",
+   "en": "yuán shàng: on the high plain. Near Chang'an there were high plains such as Leyou Plain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "目断：望到眼睛看不见的地方，一直望到尽头。",
+   "en": "mù duàn: to gaze until your eyes can see no farther."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "四天垂：四面的天空低低地垂下来，和大地连在一起。",
+   "en": "sì tiān chuí: on all four sides the sky hangs low and meets the earth."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "归云：飘走的云。这里比喻一去不回的往事，或从前相爱的人。",
+   "en": "guī yún: drifting clouds that go away. Here they stand for the past that never comes back, or for someone once loved."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "踪迹：留下的痕迹。",
+   "en": "zōng jì: traces left behind."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "前期：从前的约定，也指过去期盼的事。",
+   "en": "qián qī: an earlier promise, or something once hoped for."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "狎兴：和朋友一起游玩、寻欢作乐的兴致。",
+   "en": "xiá xìng: the mood for having fun and going out with friends."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "生疏：变淡了，不熟悉了。",
+   "en": "shēng shū: faded, no longer familiar."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "酒徒：一起喝酒的朋友。",
+   "en": "jiǔ tú: drinking friends."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "萧索：冷落、稀少，这里指朋友都散了。",
+   "en": "xiāo suǒ: lonely and sparse. Here it means the friends have scattered."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长安的古道上，我骑着马慢慢地走，",
+   "en": "On the old road of Chang'an my horse walks slowly,"
+  },
+  {
+   "zh": "高高的柳树上，蝉乱纷纷地叫。",
+   "en": "and in the tall willows cicadas shrill all at once."
+  },
+  {
+   "zh": "夕阳落在远远的水洲外面，",
+   "en": "The setting sun sinks beyond the far-off isles,"
+  },
+  {
+   "zh": "秋风吹过高高的原野，",
+   "en": "the autumn wind sweeps across the high plain,"
+  },
+  {
+   "zh": "我一直望到天边，四面的天空低垂到地上。",
+   "en": "and I gaze until the sky comes down to the earth on every side."
+  },
+  {
+   "zh": "飘走的云一去不回，连一点痕迹都没有，",
+   "en": "The drifting clouds have gone and left no trace."
+  },
+  {
+   "zh": "从前的约定，如今又在哪里？",
+   "en": "Where now is the promise of the past?"
+  },
+  {
+   "zh": "寻欢作乐的兴致淡了，",
+   "en": "My taste for fun has faded,"
+  },
+  {
+   "zh": "一起喝酒的朋友也都散了，",
+   "en": "my drinking friends have scattered,"
+  },
+  {
+   "zh": "一切都不像年轻的时候了。",
+   "en": "and nothing is the way it was when I was young."
+  }
+ ],
+ "background": {
+  "zh": "这首词的写作时间不能确定。从词里看，是一个秋天的傍晚，作者已经不再年轻，骑着马走在长安的古道上。一般认为是柳永晚年的作品。他年轻时在京城过着热闹的生活，后来四处奔走，老了再回想，觉得一切都变了，于是写下这首词。",
+  "en": "We do not know exactly when this lyric was written. From the words, it is an autumn evening, and the writer, no longer young, rides along an old road in Chang'an. It is usually thought to be from Liu Yong's later years. When he was young he lived a lively life in the capital. Later he travelled from place to place. Looking back in old age, he felt that everything had changed, and he wrote this lyric."
+ },
+ "author_note": {
+  "zh": "柳永（约987—约1053），原名三变，北宋词人。他年轻时常住在京城，和歌女、乐工来往，写了很多人人会唱的新曲子，有“凡有井水饮处，即能歌柳词”的说法。但他考进士多次落榜，很晚才做了小官，一生不太得意。",
+  "en": "Liu Yong (around 987–around 1053), first named Sanbian, was a ci writer of the Northern Song. As a young man he lived in the capital among singers and musicians and wrote many new songs that everyone sang. People said that wherever there was a well to drink from, someone was singing Liu Yong's lyrics. But he failed the civil exams many times and got only a small post late in life, so he never did well in his career."
+ },
+ "appreciation": {
+  "zh": "上半首是一幅秋天的画：古道、慢马、高柳、乱蝉、夕阳、秋风、原野，一直铺到天边。马走得慢，是因为人心里没劲儿；蝉叫得乱，就像他心里乱。天地这么大，人却这么孤单。下半首转到心里：往事像飘走的云，找不回来；从前的约定，也不知在哪里。玩乐的心思淡了，酒友散了，最后一句“不似少年时”轻轻一叹，把老去的失落全说出来了。词牌叫“少年游”，写的却是少年不再，读来更让人心酸。",
+  "en": "The first half is a picture of autumn: an old road, a slow horse, tall willows, noisy cicadas, the setting sun, the autumn wind and the plain stretching to the sky. The horse walks slowly because the rider has no spirit left. The cicadas shrill in a jumble, like the jumble in his heart. The world is huge, and he is small and alone. The second half turns inward. The past is like clouds that have drifted off and cannot be found. The old promise is lost too. His love of fun has faded and his drinking friends are gone. The last line, 'nothing is like my young days', is a soft sigh that says everything about growing old. The tune is called 'Roaming in Youth', yet the lyric is about youth being gone, which makes it even sadder."
+ },
+ "famous_lines": [
+  0,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "aging",
+   "nostalgia",
+   "travel",
+   "sunset"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>赤壁 · 杜牧 — 诗</title>
+    <meta name="description" content="赤壁 · 杜牧 — Red Cliff by Du Mu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 21 · Tang poem · seven-character quatrain</span><span lang="zh">第 21 首 · 唐诗 · 七言绝句</span></p>
+        <h1>赤壁</h1>
+        <p class="by">杜牧<span class="mono"><span lang="en">Du Mu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Red Cliff</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>zhé</i><b>折</b></span><span class="c gl" data-l="0" data-p="1"><i>jǐ</i><b>戟</b></span><span class="c gl" data-l="0" data-p="2"><i>chén</i><b>沉</b></span><span class="c gl" data-l="0" data-p="3"><i>shā</i><b>沙</b></span><span class="c gl" data-l="0" data-p="4"><i>tiě</i><b>铁</b></span><span class="c gl" data-l="0" data-p="5"><i>wèi</i><b>未</b></span><span class="c gl" data-l="0" data-p="6"><i>xiāo</i><b>销</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>zì</i><b>自</b></span><span class="c gl rd" data-l="1" data-p="1"><i>jiāng</i><b>将</b></span><span class="c gl" data-l="1" data-p="2"><i>mó</i><b>磨</b></span><span class="c gl" data-l="1" data-p="3"><i>xǐ</i><b>洗</b></span><span class="c gl" data-l="1" data-p="4"><i>rèn</i><b>认</b></span><span class="c gl" data-l="1" data-p="5"><i>qián</i><b>前</b></span><span class="c gl rd" data-l="1" data-p="6"><i>cháo</i><b>朝</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>dōng</i><b>东</b></span><span class="c gl" data-l="2" data-p="1"><i>fēng</i><b>风</b></span><span class="c gl" data-l="2" data-p="2"><i>bù</i><b>不</b></span><span class="c gl" data-l="2" data-p="3"><i>yǔ</i><b>与</b></span><span class="c gl" data-l="2" data-p="4"><i>zhōu</i><b>周</b></span><span class="c gl" data-l="2" data-p="5"><i>láng</i><b>郎</b></span><span class="c gl rd" data-l="2" data-p="6"><i>biàn</i><b>便</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>tóng</i><b>铜</b></span><span class="c gl" data-l="3" data-p="1"><i>què</i><b>雀</b></span><span class="c gl" data-l="3" data-p="2"><i>chūn</i><b>春</b></span><span class="c gl" data-l="3" data-p="3"><i>shēn</i><b>深</b></span><span class="c gl" data-l="3" data-p="4"><i>suǒ</i><b>锁</b></span><span class="c gl" data-l="3" data-p="5"><i>èr</i><b>二</b></span><span class="c gl" data-l="3" data-p="6"><i>qiáo</i><b>乔</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The common text uses the modern characters for chén (to sink) and suǒ (to lock). The corpus uses older variant forms of these two characters.</p><p lang="zh">通行本作“沉”“锁”。语料库作“沈”“鏁”，是这两个字的古写法（异体字）。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">折戟沉沙铁未销</span><span lang="en">A broken halberd lies buried in the sand; its iron has not rusted away.</span><span lang="zh">一支折断的戟埋在沙子里，上面的铁还没有烂掉。</span></li><li><span class="o">自将磨洗认前朝</span><span lang="en">I pick it up, rub it and wash it, and see it is from the Three Kingdoms.</span><span lang="zh">我把它拿起来磨一磨、洗一洗，认出是三国时的遗物。</span></li><li><span class="o">东风不与周郎便</span><span lang="en">If the east wind had not helped Zhou Yu,</span><span lang="zh">如果东风不给周瑜方便，</span></li><li><span class="o">铜雀春深锁二乔</span><span lang="en">the two Qiao sisters would have been locked in Cao Cao&#x27;s Bronze Sparrow Terrace in spring.</span><span lang="zh">大乔小乔恐怕就要被曹操锁进铜雀台了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>折戟<span class="mono">zhé jǐ</span></dt><dd><span lang="en">zhé jǐ: a broken halberd. A halberd is an old weapon: a long pole with a spear point and a crescent-shaped blade.</span><span lang="zh">折戟：折断的戟。戟是古代的一种兵器，长杆上装着枪尖和月牙形的刃。</span></dd></div><div><dt>沉沙<span class="mono">chén shā</span></dt><dd><span lang="en">chén shā: sunk and buried in the sand.</span><span lang="zh">沉沙：埋在沙子里。</span></dd></div><div><dt>铁未销<span class="mono">tiě wèi xiāo</span></dt><dd><span lang="en">tiě wèi xiāo: the iron has not yet rusted away. Xiāo means to melt away, to vanish.</span><span lang="zh">铁未销：铁还没有烂掉。销，熔化、消失。</span></dd></div><div><dt>自将<span class="mono">zì jiāng</span></dt><dd><span lang="en">zì jiāng: picking it up myself. Jiāng here means to take, to hold.</span><span lang="zh">自将：自己拿起来。将，拿。</span></dd></div><div><dt>磨洗<span class="mono">mó xǐ</span></dt><dd><span lang="en">mó xǐ: to rub and wash it, to clean off the rust and mud.</span><span lang="zh">磨洗：磨一磨，洗一洗，把锈和泥去掉。</span></dd></div><div><dt>认前朝<span class="mono">rèn qián cháo</span></dt><dd><span lang="en">rèn qián cháo: to recognize it as something from an earlier age, the Three Kingdoms period, hundreds of years before.</span><span lang="zh">认前朝：认出它是前朝的东西。前朝，指几百年前的三国时代。</span></dd></div><div><dt>东风<span class="mono">dōng fēng</span></dt><dd><span lang="en">dōng fēng: the east wind. In the Battle of Red Cliff, Zhou Yu used an east wind to send fire against Cao Cao&#x27;s warships and burn them.</span><span lang="zh">东风：东边吹来的风。赤壁之战时，周瑜借着东风用火攻，烧了曹操的战船。</span></dd></div><div><dt>不与<span class="mono">bù yǔ</span></dt><dd><span lang="en">bù yǔ: did not give.</span><span lang="zh">不与：不给。</span></dd></div><div><dt>周郎<span class="mono">zhōu láng</span></dt><dd><span lang="en">zhōu láng: Zhou Yu, a great general of Wu. He was young and gifted, so people called him Young Master Zhou.</span><span lang="zh">周郎：周瑜，东吴的大将，年轻有为，人们叫他“周郎”。</span></dd></div><div><dt>便<span class="mono">biàn</span></dt><dd><span lang="en">biàn: convenience, a lucky chance.</span><span lang="zh">便：方便，好机会。</span></dd></div><div><dt>铜雀<span class="mono">tóng què</span></dt><dd><span lang="en">tóng què: the Bronze Sparrow Terrace, a tall building Cao Cao had built in Ye, today&#x27;s Linzhang in Hebei, where his concubines and singers lived.</span><span lang="zh">铜雀：铜雀台，曹操在邺城（今河北临漳）修的高台，里面住着他的姬妾和歌女。</span></dd></div><div><dt>春深<span class="mono">chūn shēn</span></dt><dd><span lang="en">chūn shēn: deep in spring. Here it also hints at being shut away deep inside the palace.</span><span lang="zh">春深：春意正浓。这里暗指被关在深宫里。</span></dd></div><div><dt>锁<span class="mono">suǒ</span></dt><dd><span lang="en">suǒ: to lock up.</span><span lang="zh">锁：关起来。</span></dd></div><div><dt>二乔<span class="mono">èr qiáo</span></dt><dd><span lang="en">èr qiáo: the two Qiao sisters, famous beauties of Wu. The elder married Sun Ce, and the younger married Zhou Yu.</span><span lang="zh">二乔：东吴的两位美女，大乔和小乔。大乔是孙策的妻子，小乔是周瑜的妻子。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>将<span class="mono">jiāng</span></dt><dd><span lang="en">Jiāng here means to take, read jiāng.</span><span lang="zh">“将”是拿的意思，读 jiāng。</span></dd></div><div><dt>朝<span class="mono">cháo</span></dt><dd><span lang="en">Qián cháo means an earlier dynasty; cháo is read cháo here.</span><span lang="zh">“前朝”指前代，“朝”读 cháo。</span></dd></div><div><dt>便<span class="mono">biàn</span></dt><dd><span lang="en">Biàn means convenience. It is read biàn, not pián.</span><span lang="zh">“便”是方便的意思，读 biàn，不读 pián。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">The Battle of Red Cliff took place in 208. Sun Quan and Liu Bei joined forces and, at Red Cliff on the Yangtze, defeated Cao Cao&#x27;s huge army with fire. After that the land was split into three. While Du Mu was prefect of Huangzhou, today&#x27;s Huanggang in Hubei (842–844), he visited a cliff there also called Red Cliff, and the poem is usually dated to that time. However, the real battlefield is generally thought to be elsewhere, around today&#x27;s Chibi City in Hubei; the one at Huangzhou only shares the name.</p><p lang="zh">赤壁之战发生在公元208年，孙权和刘备联手，在长江边的赤壁用火攻打败了曹操的大军，从此天下三分。杜牧在黄州（今湖北黄冈）做刺史时（842—844年），到过黄州的赤壁矶，一般认为这首诗就是那时写的。不过，真正打仗的赤壁一般认为在别处（今湖北赤壁市一带），黄州这处只是同名。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Mu (803–852) was a poet of the late Tang, from the capital area, today&#x27;s Xi&#x27;an. He read many books on warfare and even wrote notes on &quot;The Art of War&quot; by Sunzi, so he had his own views about battles. When he wrote about history, he often did not repeat the usual opinion but offered a new idea.</p><p lang="zh">杜牧（803—852），唐朝后期的诗人，字牧之，京兆万年（今陕西西安）人。他读过很多兵书，还给《孙子兵法》做过注解，对打仗的事很有自己的看法。所以他写历史诗，常常不按老说法，而是提出新的想法。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poet starts from a small object: a broken halberd dug out of the sand. After cleaning it, he sees it was left from the Battle of Red Cliff. One old weapon carries us back hundreds of years to that great battle. The last two lines are the poet&#x27;s bold idea. Zhou Yu won because the east wind happened to blow. Without that wind, Wu would have lost, and even the Qiao sisters would have been taken by Cao Cao and locked in his Bronze Sparrow Terrace. Instead of saying plainly that the state would fall, the poet shows it through the fate of two beautiful women, which is vivid and witty. It also suggests that success and failure in history sometimes depend on luck. As you read, ask yourself: can a single wind change history?</p><p lang="zh">诗人从一件小东西写起：沙子里挖出一支断戟。磨干净一看，原来是赤壁之战留下的。一支旧兵器，一下子把人带回了几百年前那场大战。后两句是诗人的大胆想法：周瑜能赢，是因为刚好刮起了东风。要是没有这阵风，东吴就会输，连大乔、小乔都会被曹操抢去，关在铜雀台里。诗人不直接说国家会亡，而是用两位美女的命运来说，又形象又有趣。这也说明，历史上的成败，有时候也靠运气。读的时候想一想：一阵风，就能改变历史吗？</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/zaofabaidicheng/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>早发白帝城</b></a><a href="../../p/sujiandejiang/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>宿建德江</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["折", "zhé"], ["戟", "jǐ"], ["沉", "chén"], ["沙", "shā"], ["铁", "tiě"], ["未", "wèi"], ["销", "xiāo"]], [["自", "zì"], ["将", "jiāng"], ["磨", "mó"], ["洗", "xǐ"], ["认", "rèn"], ["前", "qián"], ["朝", "cháo"]], [["东", "dōng"], ["风", "fēng"], ["不", "bù"], ["与", "yǔ"], ["周", "zhōu"], ["郎", "láng"], ["便", "biàn"]], [["铜", "tóng"], ["雀", "què"], ["春", "chūn"], ["深", "shēn"], ["锁", "suǒ"], ["二", "èr"], ["乔", "qiáo"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "折戟：折断的戟。戟是古代的一种兵器，长杆上装着枪尖和月牙形的刃。", "en": "zhé jǐ: a broken halberd. A halberd is an old weapon: a long pole with a spear point and a crescent-shaped blade."}, {"line": 0, "start": 2, "end": 4, "zh": "沉沙：埋在沙子里。", "en": "chén shā: sunk and buried in the sand."}, {"line": 0, "start": 4, "end": 7, "zh": "铁未销：铁还没有烂掉。销，熔化、消失。", "en": "tiě wèi xiāo: the iron has not yet rusted away. Xiāo means to melt away, to vanish."}, {"line": 1, "start": 0, "end": 2, "zh": "自将：自己拿起来。将，拿。", "en": "zì jiāng: picking it up myself. Jiāng here means to take, to hold."}, {"line": 1, "start": 2, "end": 4, "zh": "磨洗：磨一磨，洗一洗，把锈和泥去掉。", "en": "mó xǐ: to rub and wash it, to clean off the rust and mud."}, {"line": 1, "start": 4, "end": 7, "zh": "认前朝：认出它是前朝的东西。前朝，指几百年前的三国时代。", "en": "rèn qián cháo: to recognize it as something from an earlier age, the Three Kingdoms period, hundreds of years before."}, {"line": 2, "start": 0, "end": 2, "zh": "东风：东边吹来的风。赤壁之战时，周瑜借着东风用火攻，烧了曹操的战船。", "en": "dōng fēng: the east wind. In the Battle of Red Cliff, Zhou Yu used an east wind to send fire against Cao Cao's warships and burn them."}, {"line": 2, "start": 2, "end": 4, "zh": "不与：不给。", "en": "bù yǔ: did not give."}, {"line": 2, "start": 4, "end": 6, "zh": "周郎：周瑜，东吴的大将，年轻有为，人们叫他“周郎”。", "en": "zhōu láng: Zhou Yu, a great general of Wu. He was young and gifted, so people called him Young Master Zhou."}, {"line": 2, "start": 6, "end": 7, "zh": "便：方便，好机会。", "en": "biàn: convenience, a lucky chance."}, {"line": 3, "start": 0, "end": 2, "zh": "铜雀：铜雀台，曹操在邺城（今河北临漳）修的高台，里面住着他的姬妾和歌女。", "en": "tóng què: the Bronze Sparrow Terrace, a tall building Cao Cao had built in Ye, today's Linzhang in Hebei, where his concubines and singers lived."}, {"line": 3, "start": 2, "end": 4, "zh": "春深：春意正浓。这里暗指被关在深宫里。", "en": "chūn shēn: deep in spring. Here it also hints at being shut away deep inside the palace."}, {"line": 3, "start": 4, "end": 5, "zh": "锁：关起来。", "en": "suǒ: to lock up."}, {"line": 3, "start": 5, "end": 7, "zh": "二乔：东吴的两位美女，大乔和小乔。大乔是孙策的妻子，小乔是周瑜的妻子。", "en": "èr qiáo: the two Qiao sisters, famous beauties of Wu. The elder married Sun Ce, and the younger married Zhou Yu."}], "readings": [{"line": 1, "pos": 1, "char": "将", "pinyin": "jiāng", "zh": "“将”是拿的意思，读 jiāng。", "en": "Jiāng here means to take, read jiāng."}, {"line": 1, "pos": 6, "char": "朝", "pinyin": "cháo", "zh": "“前朝”指前代，“朝”读 cháo。", "en": "Qián cháo means an earlier dynasty; cháo is read cháo here."}, {"line": 2, "pos": 6, "char": "便", "pinyin": "biàn", "zh": "“便”是方便的意思，读 biàn，不读 pián。", "en": "Biàn means convenience. It is read biàn, not pián."}], "speak": ["折戟沉沙铁未销", "自将磨洗认前朝", "东风不与周郎便", "铜雀春深锁二乔"], "speakTitle": "赤壁。杜牧。", "sample": "折戟沉沙铁未销"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

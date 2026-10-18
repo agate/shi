@@ -1,0 +1,446 @@
+{
+ "id": "ci-6b2d04c172dd",
+ "kind": "ci",
+ "title": "玉楼春·戏林推",
+ "title_en": "Jade Tower Spring: Teasing Magistrate Lin",
+ "author": "刘克庄",
+ "author_en": "Liu Kezhuang",
+ "dynasty": "song",
+ "form": {
+  "zh": "词",
+  "en": "ci (song lyric)"
+ },
+ "lines": [
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "跃",
+    "yuè"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "市",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "舍",
+    "shè"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "似",
+    "sì"
+   ],
+   [
+    "寄",
+    "jì"
+   ]
+  ],
+  [
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "钱",
+    "qián"
+   ],
+   [
+    "换",
+    "huàn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "何",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "红",
+    "hóng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "卢",
+    "lú"
+   ],
+   [
+    "宵",
+    "xiāo"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "寐",
+    "mèi"
+   ]
+  ],
+  [
+   [
+    "易",
+    "yì"
+   ],
+   [
+    "挑",
+    "tiǎo"
+   ],
+   [
+    "锦",
+    "jǐn"
+   ],
+   [
+    "妇",
+    "fù"
+   ],
+   [
+    "机",
+    "jī"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "字",
+    "zì"
+   ]
+  ],
+  [
+   [
+    "难",
+    "nán"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "男",
+    "nán"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "滴",
+    "dī"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "通行本第四句作“红烛呼卢宵不寐”，这里的底本作“呼庐”，“庐”是形近的错字。",
+  "en": "The commonly taught text has hū lú in the fourth line, where lú is the name of the best dice throw. The source text writes lú with a look-alike character meaning a hut, which is a copying slip."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 1,
+   "char": "挑",
+   "pinyin": "tiǎo",
+   "zh": "“易挑”的“挑”，有的读本读 tiǎo（挑开、挑明），也有读 tiāo（挑选、挑出）的，意思都是看出、弄明白。",
+   "en": "Some readers read this character tiǎo, to lay open; others read tiāo, to pick out. Either way it means to work out the meaning."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "跃马：骑着马奔跑，这里指骑马四处游玩。",
+   "en": "yuè mǎ: to ride a galloping horse, here meaning to ride around having fun."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "长安市：长安城里。这里借长安指南宋的京城临安，就是今天的杭州。",
+   "en": "cháng ān shì: the streets of Chang'an. Here Chang'an stands for the Southern Song capital Lin'an, today's Hangzhou."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "客舍：旅店。",
+   "en": "kè shè: an inn."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "家似寄：自己的家反倒像临时住的地方。寄，暂时住。",
+   "en": "jiā sì jì: his own home feels like a place he is only staying in. Jì means to lodge for a while."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "青钱：铜钱。",
+   "en": "qīng qián: copper coins."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "日无何：每天别的事都不做，整天无所事事。",
+   "en": "rì wú hé: doing nothing else all day."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "呼卢：赌博。古代一种赌博游戏，掷出最好的花色叫“卢”，赌的人一边掷一边大喊“卢”。",
+   "en": "hū lú: gambling. In an old dice game the best throw was called lú, and players shouted it as they threw."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "宵不寐：整夜不睡觉。",
+   "en": "xiāo bú mèi: not sleeping all night."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 7,
+   "zh": "锦妇机中字：传说前秦女子苏蕙思念远方的丈夫，在织锦上织出一首可以回环读的诗寄给他。这里指妻子写给丈夫的深情的信。",
+   "en": "jǐn fù jī zhōng zì: the words in the wife's brocade. Legend says a woman named Su Hui missed her faraway husband and wove a poem into brocade that could be read round and round. Here it means a loving wife's letters to her husband."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "易挑：容易看懂、容易弄明白。",
+   "en": "yì tiǎo: easy to work out."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "玉人：美人，这里指歌楼里的歌女。",
+   "en": "yù rén: a beauty, here the singing girls of the pleasure houses."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 7,
+   "zh": "心下事：心里真正的想法。",
+   "en": "xīn xià shì: what is really in her heart."
+  },
+  {
+   "line": 6,
+   "start": 5,
+   "end": 7,
+   "zh": "神州：中国的美称，这里指被金国占领的北方国土。",
+   "en": "shén zhōu: a fine old name for China, here the northern lands taken by the Jin."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "水西桥：当时歌女聚居一带的桥，具体在哪里说法不一。",
+   "en": "shuǐ xī qiáo: a bridge near where the singing girls lived; where exactly it was is not agreed."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 6,
+   "zh": "畔：旁边。",
+   "en": "pàn: beside."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你年年骑着马在京城的街市上游玩，",
+   "en": "Year after year you ride your horse through the streets of the capital."
+  },
+  {
+   "zh": "把旅店当成家，自己的家倒像临时借住的地方。",
+   "en": "The inn feels like your home, and your home feels like a place you only visit."
+  },
+  {
+   "zh": "白天拿铜钱换酒，整天无所事事；",
+   "en": "By day you trade coins for wine and do nothing else;"
+  },
+  {
+   "zh": "夜里点着红烛赌博，整夜不睡。",
+   "en": "by night, under red candles, you gamble and never sleep."
+  },
+  {
+   "zh": "妻子信里的深情，很容易看明白；",
+   "en": "Your wife's loving letters are easy to understand,"
+  },
+  {
+   "zh": "歌女们心里想什么，却很难猜透。",
+   "en": "but what the singing girls really feel is hard to know."
+  },
+  {
+   "zh": "男子汉应该想着西北那片被占领的国土，",
+   "en": "A real man should think of the homeland lost in the northwest,"
+  },
+  {
+   "zh": "不要为了歌女，在水西桥边流眼泪。",
+   "en": "not shed tears for singing girls by the Shuixi Bridge."
+  }
+ ],
+ "background": {
+  "zh": "“林推”是一位姓林的推官（地方上管刑狱的官员），是刘克庄的朋友。这位朋友长年住在京城，整天喝酒、赌博、和歌女来往。刘克庄写这首词半开玩笑地劝他：别再沉迷玩乐，要想着被金国占领的北方。所以题目叫“戏”，就是开玩笑。具体写于哪一年不清楚。",
+  "en": "Lin Tui was a friend of the poet named Lin, who worked as a tuiguan, a local official who handled criminal cases. He had lived in the capital for years, spending his days drinking, gambling and visiting singing girls. Liu Kezhuang wrote this lyric to advise him, half as a joke. Stop wasting your life on pleasure, he says, and remember the northern lands taken by the Jin. That is why the title says teasing. We do not know the exact year it was written."
+ },
+ "author_note": {
+  "zh": "刘克庄（1187—1269），号后村，南宋诗人、词人。他生活在南宋后期，那时北方国土早已失去多年。他的词学辛弃疾，常常写收复国土的愿望，风格豪放。",
+  "en": "Liu Kezhuang (1187–1269), also called Houcun, was a poet of the late Southern Song. By his time the northern lands had been lost for many decades. His lyrics follow the style of Xin Qiji: bold, and often about the wish to win back the lost land."
+ },
+ "appreciation": {
+  "zh": "上半首像给朋友画像：年年骑马逛京城，把旅店当家，白天喝酒，夜里赌博，日子过得乱七八糟。下半首先讲道理：妻子的真心一看就懂，歌女的心思却猜不透，何必为她们伤心？最后两句一下子站高了：男子汉的眼光应该看向西北，那里还有被占领的国土等着收复，别在桥边为歌女掉眼泪。题目说是“戏”，开头确实轻松，结尾却很严肃，是真心的劝告，也藏着词人自己的报国心。",
+  "en": "The first half is like a portrait of the friend. Year after year he rides around the capital, treats the inn as home, drinks by day and gambles by night. His life is a mess. The second half begins by reasoning with him. A wife's true love is easy to see, but a singing girl's heart is hard to read, so why grieve over them? Then the last two lines rise high. A real man should look to the northwest, where the lost homeland waits to be won back. Do not cry by a bridge over singing girls. The title says it is a joke, and the start is light. But the end is serious. It is honest advice, and it also shows the poet's own love for his country."
+ },
+ "famous_lines": [
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "friendship",
+   "advice"
+  ]
+ },
+ "uncertain": [
+  {
+   "field": "glosses",
+   "zh": "“水西桥”的具体地点注家说法不一，这里只说是歌女聚居一带。",
+   "en": "Commentators disagree on where the Shuixi Bridge was; here it is described only as near where singing girls lived."
+  }
+ ]
+}

@@ -1,0 +1,505 @@
+{
+ "id": "ci-a051ff6eb275",
+ "kind": "ci",
+ "title": "踏莎行·郴州旅舍",
+ "title_en": "To the Tune of Ta Suo Xing: At an Inn in Chenzhou",
+ "author": "秦观",
+ "author_en": "Qin Guan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·踏莎行（双调）",
+  "en": "ci lyric to the tune Ta Suo Xing, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "失",
+    "shī"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "台",
+    "tái"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "迷",
+    "mí"
+   ],
+   [
+    "津",
+    "jīn"
+   ],
+   [
+    "渡",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "桃",
+    "táo"
+   ],
+   [
+    "源",
+    "yuán"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "可",
+    "kě"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "馆",
+    "guǎn"
+   ],
+   [
+    "闭",
+    "bì"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "寒",
+    "hán"
+   ]
+  ],
+  [
+   [
+    "杜",
+    "dù"
+   ],
+   [
+    "鹃",
+    "juān"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "暮",
+    "mù"
+   ]
+  ],
+  [
+   [
+    "驿",
+    "yì"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "花",
+    "huā"
+   ]
+  ],
+  [
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "传",
+    "chuán"
+   ],
+   [
+    "尺",
+    "chǐ"
+   ],
+   [
+    "素",
+    "sù"
+   ]
+  ],
+  [
+   [
+    "砌",
+    "qì"
+   ],
+   [
+    "成",
+    "chéng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "数",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "郴",
+    "chēn"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "幸",
+    "xìng"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "绕",
+    "rào"
+   ],
+   [
+    "郴",
+    "chēn"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "潇",
+    "xiāo"
+   ],
+   [
+    "湘",
+    "xiāng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "词题“郴州旅舍”是通行本的题目，资料库里只有词牌“踏莎行”。",
+  "en": "The heading \"At an Inn in Chenzhou\" is the title used in common editions. The corpus gives only the tune name."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“无寻处”的“处”是“地方”，读 chù。",
+   "en": "Chù here means place, read chù."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "“无重数”是“数不清有多少层”，“重”读 chóng。",
+   "en": "Wú chóng shù means countless layers. Chóng means layer, read chóng, not zhòng."
+  },
+  {
+   "line": 7,
+   "pos": 6,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "“重数”的“数”是名词“数目”，读 shù。",
+   "en": "Shù here is a noun, number, read shù, not shǔ."
+  },
+  {
+   "line": 8,
+   "pos": 0,
+   "char": "郴",
+   "pinyin": "chēn",
+   "zh": "“郴”读 chēn，是地名。",
+   "en": "This place-name character is read chēn."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为谁”是“为了谁”，读 wèi。",
+   "en": "Wèi shuí means for whom, read wèi."
+  },
+  {
+   "line": 9,
+   "pos": 1,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "“谁”口语多读 shéi，读诗时常读 shuí，两种都对。",
+   "en": "Shéi is the common spoken reading. In poems people often say shuí. Both are correct."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "雾失楼台：大雾里，楼台都看不见了。",
+   "en": "wù shī lóu tái: in the fog, the towers vanish."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "津渡：渡口，过河坐船的地方。月迷津渡，月色朦胧，渡口也找不到了。",
+   "en": "jīn dù: a ferry landing. In the hazy moonlight, the ferry landing is lost."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "桃源：桃花源。陶渊明写过一个与世隔绝、人人快乐的地方叫桃花源，相传就在郴州北边不远的武陵一带。",
+   "en": "táo yuán: the Peach Blossom Spring. Tao Yuanming wrote of a hidden, happy place cut off from the world. It is said to lie near Wuling, not far north of Chenzhou."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "望断：望到看不见为止，望穿了眼。",
+   "en": "wàng duàn: gazing until the eyes can see no more."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "可堪：哪里受得了。",
+   "en": "kě kān: how can one bear."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "孤馆：孤零零的旅店。",
+   "en": "gū guǎn: a lonely inn."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "杜鹃：一种鸟。古人觉得它的叫声像“不如归去”，听了让人想家。",
+   "en": "dù juān: the cuckoo. People of old thought its call sounded like \"better to go home\", and it made them homesick."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "斜阳暮：太阳偏西，天快黑了。",
+   "en": "xié yáng mù: the sun sinking, evening falling."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "驿：古代传送公文、书信的驿站。驿寄梅花，指朋友托人带来梅花，表示问候。这用的是南北朝陆凯给范晔寄梅花的故事。",
+   "en": "yì: an old post station that carried letters. Yì jì méi huā means a friend sends plum blossoms as a greeting, from the old story of Lu Kai sending plum blossoms to Fan Ye."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 4,
+   "zh": "尺素：写信用的一尺长的白绢，就是书信。鱼传尺素，出自古诗“客从远方来，遗我双鲤鱼”，指收到远方的来信。",
+   "en": "chǐ sù: a foot-long piece of white silk used for writing, meaning a letter. Yú chuán chǐ sù comes from an old poem about a carp-shaped letter case brought from far away. It means receiving letters from afar."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "砌成：像砌墙一样一块一块堆起来。",
+   "en": "qì chéng: piled up brick by brick, like building a wall."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "无重数：数不清有多少层。",
+   "en": "wú chóng shù: too many layers to count."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "郴江：郴州的一条河，从郴山流出，向北流进湘江。",
+   "en": "chēn jiāng: the Chen River, which flows out of the Chen hills and north into the Xiang River."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "幸自：本来是。",
+   "en": "xìng zì: by nature, it was meant to."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 6,
+   "zh": "潇湘：潇水和湘江，在今天的湖南。",
+   "en": "xiāo xiāng: the Xiao and Xiang rivers in today's Hunan."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "大雾弥漫，楼台都看不见了，",
+   "en": "The fog swallows the towers."
+  },
+  {
+   "zh": "月色朦胧，渡口也找不到了。",
+   "en": "The hazy moon hides the ferry landing."
+  },
+  {
+   "zh": "望穿双眼，也找不到桃花源在哪里。",
+   "en": "I gaze till my eyes give out, but there is no Peach Blossom Spring to be found."
+  },
+  {
+   "zh": "怎么受得了一个人关在旅店里，忍着春天的寒冷，",
+   "en": "How can I bear being shut in a lonely inn in the spring cold,"
+  },
+  {
+   "zh": "听杜鹃一声声叫，看太阳慢慢落下。",
+   "en": "hearing the cuckoo call as the sun goes down?"
+  },
+  {
+   "zh": "朋友托人寄来梅花，",
+   "en": "Friends send plum blossoms by the post,"
+  },
+  {
+   "zh": "又带来远方的书信，",
+   "en": "and letters come from far away."
+  },
+  {
+   "zh": "可这只让我的愁恨越堆越多，数也数不清。",
+   "en": "But they only pile up my sorrow, layer on layer past counting."
+  },
+  {
+   "zh": "郴江本来是绕着郴山流的，",
+   "en": "The Chen River was meant to wind around the Chen hills."
+  },
+  {
+   "zh": "它是为了谁，要流到潇湘去呢？",
+   "en": "For whom does it flow away to the Xiao and Xiang?"
+  }
+ ],
+ "background": {
+  "zh": "宋哲宗时，朝廷里反对新法的一派失势，秦观因为是苏轼的学生，接连被贬。绍圣三年（1096年）他被贬到郴州（今湖南郴州），第二年春天在郴州的旅店里写下这首词。据宋人笔记记载，苏轼非常喜欢最后两句，把它们写在扇子上。秦观去世后，苏轼叹息说，就是一万个人也换不回他。",
+  "en": "Under Emperor Zhezong, the court group that opposed the new reforms lost power. Because Qin Guan was Su Shi's student, he was sent away again and again. In 1096 he was banished to Chenzhou in today's Hunan, and the next spring he wrote this lyric at an inn there. A Song-dynasty notebook says Su Shi loved the last two lines so much that he wrote them on his fan. After Qin Guan died, Su Shi sighed that even ten thousand people could not buy him back."
+ },
+ "author_note": {
+  "zh": "秦观（1049—1100），字少游，号淮海居士，高邮（今江苏高邮）人，是“苏门四学士”之一。他的词温柔细腻，多写离别和伤感，是婉约派的代表词人。晚年被一贬再贬，这首词写出了他心里最深的绝望。",
+  "en": "Qin Guan (1049–1100), also called Shaoyou and known as the Retired Scholar of Huaihai, came from Gaoyou in today's Jiangsu. He was one of the Four Scholars of Su Shi's circle. His lyrics are gentle and delicate, often about parting and sadness, and he is a leading poet of the graceful style. In his last years he was banished again and again, and this lyric shows the deepest despair in his heart."
+ },
+ "appreciation": {
+  "zh": "开头三句是一片迷茫：雾遮住了楼台，月色里找不到渡口，那个美好的桃花源也看不见了。这也像他的前途，一片茫然。接着写眼前：一个人关在旅店里，春寒冷冷，杜鹃在叫，太阳落山，孤单到了极点。下片说，朋友寄来梅花和书信，本是安慰，却让愁越堆越高，像砌墙一样。最后他问郴江：你本来绕着郴山流，为什么要流到潇湘去？问江水，其实是问自己：我本来好好的，为什么会被冲到这么远的地方来？",
+  "en": "The first three lines are all mist and confusion. Fog hides the towers, the ferry landing is lost in the moonlight, and the lovely Peach Blossom Spring is nowhere to be seen. It is like his future, which he cannot see at all. Next comes the scene before him: shut alone in an inn, the spring air cold, the cuckoo calling, the sun going down. He could not be lonelier. In the second stanza, friends send plum blossoms and letters. They are meant to comfort him, but they pile his sorrow higher, like bricks in a wall. At the end he asks the Chen River: you were meant to wind around the Chen hills, so why flow off to the Xiao and Xiang? He asks the river, but he is really asking himself: my life was fine, so why was I swept so far away?"
+ },
+ "famous_lines": [
+  0,
+  1,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "exile",
+   "loneliness",
+   "homesick",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

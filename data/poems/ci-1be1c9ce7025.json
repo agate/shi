@@ -1,0 +1,330 @@
+{
+ "id": "ci-1be1c9ce7025",
+ "kind": "ci",
+ "title": "生查子·元夕",
+ "title_en": "Sheng Zha Zi: Lantern Festival Night",
+ "author": "欧阳修",
+ "author_en": "Ouyang Xiu",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（生查子）",
+  "en": "ci lyric, to the tune Sheng Zha Zi"
+ },
+ "lines": [
+  [
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "梢",
+    "shāo"
+   ],
+   [
+    "头",
+    "tóu"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "约",
+    "yuē"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "元",
+    "yuán"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "依",
+    "yī"
+   ],
+   [
+    "旧",
+    "jiù"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "泪",
+    "lèi"
+   ],
+   [
+    "湿",
+    "shī"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "衫",
+    "shān"
+   ],
+   [
+    "袖",
+    "xiù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "古诗库第三句作“月到柳梢头”，第八句作“泪满春衫袖”；通行本作“月上柳梢头”“泪湿春衫袖”，这里按通行本。",
+  "en": "The corpus has \"the moon reaches the willow tips\" in line three and \"tears fill my sleeves\" in line eight. Common editions have \"the moon rises to the willow tips\" and \"tears soak my sleeves\"; this page follows the common editions."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "元夜：元宵节的夜晚，就是农历正月十五的晚上。这天晚上家家挂灯、赏灯。",
+   "en": "yuán yè: the night of the Lantern Festival, the fifteenth day of the first lunar month, when everyone hangs up and admires lanterns."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "花市：热闹的集市，元宵夜这里挂满了花灯。",
+   "en": "huā shì: the busy market streets, full of festive lanterns that night."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "灯如昼：灯光亮得像白天一样。昼，白天。",
+   "en": "dēng rú zhòu: the lanterns make it as bright as day. Zhòu means daytime."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "柳梢头：柳树枝条的顶端。",
+   "en": "liǔ shāo tóu: the tips of the willow branches."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "人约：和心上人约好见面。",
+   "en": "rén yuē: the one I love and I agree to meet."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "黄昏：太阳落山后、天快黑的时候。",
+   "en": "huáng hūn: dusk, just after sunset when it is getting dark."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "依旧：和原来一样。",
+   "en": "yī jiù: just as before."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "去年人：去年一起约会的那个人。",
+   "en": "qù nián rén: the person I met last year."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "春衫：春天穿的衣服。",
+   "en": "chūn shān: spring clothes."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "去年元宵节的夜晚，",
+   "en": "Last year, on the night of the Lantern Festival,"
+  },
+  {
+   "zh": "集市上的花灯亮得像白天一样。",
+   "en": "the market lanterns shone as bright as day."
+  },
+  {
+   "zh": "月亮升到柳树的枝头，",
+   "en": "The moon rose to the tips of the willows,"
+  },
+  {
+   "zh": "我们约好在黄昏后见面。",
+   "en": "and we met, as agreed, after dusk."
+  },
+  {
+   "zh": "今年元宵节的夜晚，",
+   "en": "This year, on the night of the Lantern Festival,"
+  },
+  {
+   "zh": "月亮和花灯还和去年一样。",
+   "en": "the moon and the lanterns are just the same."
+  },
+  {
+   "zh": "可是再也见不到去年那个人了，",
+   "en": "But I cannot see the one from last year,"
+  },
+  {
+   "zh": "泪水打湿了我春衫的衣袖。",
+   "en": "and tears soak the sleeves of my spring clothes."
+  }
+ ],
+ "background": {
+  "zh": "“生查子”是词牌名，“查”在这里读 zhā。“元夕”就是元宵节的晚上。宋代的元宵节非常热闹，城里到处挂满花灯，年轻人也可以出门赏灯、相会。这首词写一个人在元宵夜想起去年的约会，今年却再也见不到那个人了。写作时间不详。这首词也有人说是南宋女词人朱淑真写的，但多数学者认为是欧阳修的作品。",
+  "en": "Sheng Zha Zi is the name of the tune. Yuán xī means the night of the Lantern Festival. In the Song dynasty this festival was very lively: lanterns hung everywhere in the city, and young people could go out to see them and meet each other. In this lyric, someone remembers a meeting on last year's festival night, but this year that person is gone. The date is unknown. Some say it was written by the Southern Song woman poet Zhu Shuzhen, but most scholars think it is by Ouyang Xiu."
+ },
+ "author_note": {
+  "zh": "欧阳修（1007—1072），北宋文学家、政治家，号醉翁，是“唐宋八大家”之一。他写文章很严肃，写词却常常很温柔，喜欢写离别和相思。这首词语言就像说话一样，简单又动人。",
+  "en": "Ouyang Xiu (1007–1072) was a Northern Song writer and statesman who called himself the Old Drunkard. He was one of the Eight Great Prose Masters of the Tang and Song. His essays were serious, but his lyrics were often tender, about partings and longing. This one is as simple as everyday speech, and very moving."
+ },
+ "appreciation": {
+  "zh": "这首词分成两半，像两张照片放在一起。上半是去年：花灯亮得像白天，月亮挂在柳树梢上，两个人在黄昏后悄悄见面，又热闹又甜蜜。下半是今年：还是元宵夜，月亮还是那个月亮，花灯也还是那样亮，可那个人却不见了。景物一点没变，人却变了，所以眼泪止不住，打湿了衣袖。前后两半的句子几乎一样，只换了几个字，一喜一悲，对比特别强烈。“月上柳梢头，人约黄昏后”后来成了写约会最有名的句子。",
+  "en": "This lyric has two halves, like two photos side by side. The first half is last year: lanterns bright as day, the moon over the willow tips, two people meeting quietly after dusk, lively and sweet. The second half is this year: the same festival night, the same moon, the same bright lanterns, but the person is gone. Nothing in the scene has changed, only the people, so the tears will not stop and soak the sleeves. The two halves use almost the same words with only a few changed, one happy and one sad, and the contrast is very strong. \"The moon rose to the willow tips; we met after dusk\" became the most famous lines ever written about a date."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "memory",
+   "moon",
+   "loss"
+  ]
+ },
+ "uncertain": []
+}

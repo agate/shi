@@ -1,0 +1,397 @@
+{
+ "id": "ci-905dfa169c9f",
+ "kind": "ci",
+ "title": "丑奴儿·书博山道中壁",
+ "title_en": "Chou Nu Er: Written on a Wall on the Road to Boshan",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《丑奴儿》（又名《采桑子》），双调四十四字",
+  "en": "ci to the tune Chou Nu Er (also called Cai Sang Zi), 44 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "滋",
+    "zī"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "爱",
+    "ài"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "层",
+    "céng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "赋",
+    "fù"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "词",
+    "cí"
+   ],
+   [
+    "强",
+    "qiǎng"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "愁",
+    "chóu"
+   ]
+  ],
+  [
+   [
+    "而",
+    "ér"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "识",
+    "shí"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "滋",
+    "zī"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "说",
+    "shuō"
+   ],
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "个",
+    "gè"
+   ],
+   [
+    "秋",
+    "qiū"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "“少”在“少年”里读 shào，意思是年轻。",
+   "en": "In shào nián (youth), this character is read shào, meaning young."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为”在这里读 wèi，意思是“为了”。",
+   "en": "Here this character is read wèi, meaning \"in order to\"."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "强",
+   "pinyin": "qiǎng",
+   "zh": "“强”在这里读 qiǎng，意思是勉强、硬要。",
+   "en": "Here this character is read qiǎng, meaning to force oneself."
+  },
+  {
+   "line": 5,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还”在这里一般读 huán，一说读 hái，意思是“又、却”。",
+   "en": "Here this character is usually read huán; some read it hái. It means \"and yet\" or \"then again\"."
+  },
+  {
+   "line": 6,
+   "pos": 2,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "同上一句，一般读 huán，一说读 hái。",
+   "en": "As in the line before, usually read huán; some read it hái."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "少年：年轻的时候。",
+   "en": "shào nián: when one is young."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "不识：不懂得，不知道。",
+   "en": "bù shí: not knowing, not understanding."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "愁滋味：发愁是什么味道，真正的忧愁是什么感觉。",
+   "en": "chóu zī wèi: the taste of sorrow, what real sorrow feels like."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "层楼：高楼。古人常登高楼抒发心事。",
+   "en": "céng lóu: a tall building of many floors. People in old times often climbed high places to pour out their feelings."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "赋：写（诗词）。",
+   "en": "fù: to write a poem."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "强说愁：没有愁却硬要说愁。",
+   "en": "qiǎng shuō chóu: forcing oneself to talk about sorrow without really feeling any."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "而今：如今，现在。",
+   "en": "ér jīn: now."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "识尽：尝遍了，完全懂得了。",
+   "en": "shí jìn: has tasted all of it, fully knows."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "欲说还休：想说又停下来不说了。休，停止。",
+   "en": "yù shuō huán xiū: wanting to speak, then stopping. Xiū means to stop."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "却道：反而说。",
+   "en": "què dào: instead says."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "好个秋：好一个凉爽的秋天。",
+   "en": "hǎo gè qiū: what a fine autumn."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "年轻的时候不懂得忧愁是什么滋味，",
+   "en": "When I was young, I did not know the taste of sorrow."
+  },
+  {
+   "zh": "喜欢登上高楼，",
+   "en": "I loved to climb tall towers,"
+  },
+  {
+   "zh": "喜欢登上高楼，",
+   "en": "I loved to climb tall towers,"
+  },
+  {
+   "zh": "为了写新词，没有愁也硬要说愁。",
+   "en": "and to write a new lyric, I forced myself to speak of sorrow."
+  },
+  {
+   "zh": "如今尝遍了忧愁的滋味，",
+   "en": "Now I have tasted every kind of sorrow,"
+  },
+  {
+   "zh": "想说又不说了，",
+   "en": "I want to speak of it, then stop,"
+  },
+  {
+   "zh": "想说又不说了，",
+   "en": "I want to speak of it, then stop,"
+  },
+  {
+   "zh": "反而说：好一个凉爽的秋天啊！",
+   "en": "and instead I say: the air is cool, what a fine autumn!"
+  }
+ ],
+ "background": {
+  "zh": "辛弃疾一心想收复北方，却多次被人攻击，被罢了官。宋孝宗淳熙八年（1181年）以后，他长期闲居在上饶（今属江西）带湖边。博山在今江西广丰，离上饶不远，他常常经过那里。这首词是他闲居时写在博山路边墙上的，具体年份不详。",
+  "en": "Xin Qiji wanted with all his heart to win back the north, but he was attacked by rivals again and again and removed from office. From 1181 on, he lived for many years without office by Dai Lake in Shangrao (in today's Jiangxi). Boshan, in today's Guangfeng, Jiangxi, is not far from Shangrao, and he often passed through it. He wrote this lyric on a wall by the road to Boshan during those years. The exact year is not known."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），号稼轩，南宋大词人。他年轻时带兵抗金，后来回到南宋，一辈子想收复北方，却总得不到重用。他的词大多豪迈，也有很多写闲居生活和心中苦闷的作品。这首词就是他把满腔的愁闷，用轻松的话说出来。",
+  "en": "Xin Qiji (1140–1207), also called Jiaxuan, was a great lyric poet of the Southern Song. As a young man he fought the Jin, then came over to the Southern Song. All his life he wanted to win back the north but was never given real power. Most of his lyrics are bold, but many also describe his idle life and the frustration in his heart. In this one, he speaks of a heart full of sorrow in light, easy words."
+ },
+ "appreciation": {
+  "zh": "这首词用“少年”和“而今”做对比。少年时没有真正的愁，却爱登楼，硬要在词里写愁，这有点像小孩子学大人叹气。到了现在，经历了国家的危难和自己的挫折，愁太多太重了，反而不知道从哪里说起，说出来也没用，于是只淡淡地说一句“天凉好个秋”。两组重复的句子“爱上层楼”“欲说还休”，读起来像一声声叹息。表面轻松，底下藏着深深的苦闷，这正是这首词最打动人的地方。",
+  "en": "This lyric sets \"when I was young\" against \"now\". When he was young, he had no real sorrow, yet he loved to climb towers and forced sorrow into his poems, a bit like a child copying a grown-up's sigh. Now he has lived through the country's troubles and his own failures. His sorrow is so great and heavy that he does not know where to begin, and saying it would change nothing. So he just says lightly, \"the air is cool, what a fine autumn\". The two repeated lines sound like sigh after sigh. The surface is easy, but deep frustration lies underneath. That is what moves readers most."
+ },
+ "famous_lines": [
+  0,
+  3,
+  7
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "sorrow",
+   "youth",
+   "growing-up",
+   "frustration"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,211 @@
+{
+ "id": "1f92134b-bca9-46eb-b2fe-87b30413041a",
+ "kind": "shi",
+ "title": "江雪",
+ "title_en": "River Snow",
+ "author": "柳宗元",
+ "author_en": "Liu Zongyuan",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "鸟",
+    "niǎo"
+   ],
+   [
+    "飞",
+    "fēi"
+   ],
+   [
+    "绝",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "踪",
+    "zōng"
+   ],
+   [
+    "灭",
+    "miè"
+   ]
+  ],
+  [
+   [
+    "孤",
+    "gū"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "蓑",
+    "suō"
+   ],
+   [
+    "笠",
+    "lì"
+   ],
+   [
+    "翁",
+    "wēng"
+   ]
+  ],
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "钓",
+    "diào"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "雪",
+    "xuě"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "数据里第二句写作“万迳人踪灭”。“迳”是“径”的异体字，意思一样，课本写作“径”。",
+  "en": "The data writes the second line with an old variant form of the character jìng (path). The meaning is the same; textbooks use the standard form."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "飞绝：飞得一只也没有了。绝，消失、没有了。",
+   "en": "fēi jué: every bird has flown away. Jué means gone, none left."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "万径：千万条小路。径，小路。",
+   "en": "wàn jìng: ten thousand paths. Jìng means a small path."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "人踪灭：人的脚印都没有了。踪，脚印；灭，消失。",
+   "en": "rén zōng miè: no footprints left. Zōng means footprints; miè means to vanish."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "孤舟：孤零零的一只小船。",
+   "en": "gū zhōu: a single lonely boat."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "蓑笠：蓑衣和斗笠。蓑衣是用草或棕毛编的雨衣，斗笠是用竹子编的大帽子。",
+   "en": "suō lì: a straw raincoat and a wide bamboo hat."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "翁：老人。",
+   "en": "wēng: an old man."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "独：独自。",
+   "en": "dú: alone."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "所有的山上，鸟儿都飞得没了踪影；",
+   "en": "Over a thousand hills, not one bird is flying;"
+  },
+  {
+   "zh": "所有的小路上，都看不见人的脚印。",
+   "en": "on ten thousand paths, not one footprint is left."
+  },
+  {
+   "zh": "一只小船上，坐着一位披蓑衣、戴斗笠的老人，",
+   "en": "In a lone boat sits an old man in a straw cape and bamboo hat,"
+  },
+  {
+   "zh": "独自在寒冷的江上，冒着大雪钓鱼。",
+   "en": "fishing alone on the cold river in the snow."
+  }
+ ],
+ "background": {
+  "zh": "唐顺宗时，柳宗元参加了王叔文等人主持的改革（永贞革新）。改革很快失败，805年他被贬到偏远的永州（今湖南永州），一住就是十年。一般认为这首诗是他在永州时写的，具体年份不详。那时他远离朝廷，心里孤独苦闷，却不肯低头。",
+  "en": "Under Emperor Shunzong, Liu Zongyuan joined a reform movement led by Wang Shuwen and others. It failed quickly, and in 805 Liu was sent away as a punishment to remote Yongzhou, in today's Hunan. He stayed there for ten years. This poem is usually thought to come from his Yongzhou years, though the exact year is not known. Far from the court, he felt lonely and low, but he would not give in."
+ },
+ "author_note": {
+  "zh": "柳宗元（773—819），字子厚，河东（今山西永济一带）人，人称“柳河东”。他是唐代有名的文学家，和韩愈一起提倡写朴实的古文，并称“韩柳”。他因为参加改革被贬，先到永州，后到柳州，最后死在柳州。",
+  "en": "Liu Zongyuan (773–819) came from Hedong, around today's Yongji in Shanxi. He was a famous Tang writer. Together with Han Yu he called for plain, old-style prose, and the two are often named together. Because he joined a failed reform, he was sent away, first to Yongzhou and later to Liuzhou, where he died."
+ },
+ "appreciation": {
+  "zh": "这首诗像一幅黑白的画。先画一个特别大的背景：千座山、万条路，全被大雪盖住，鸟没有了，人也没有了，到处冷冷清清。然后，在这片白茫茫的世界里，画了一个很小的人：一只小船，一位穿着蓑衣的老人，独自在江上钓鱼。天地越大越空，这个人就越显得孤单，也越显得坚强。他不怕冷，不怕寂寞，安安静静地做自己的事。很多人认为，这位老渔翁就是柳宗元自己：被贬到远方，仍然不肯随大流，保持着自己的骨气。",
+  "en": "This poem is like a black-and-white painting. First comes a huge background: a thousand hills and ten thousand paths, all buried under snow. The birds are gone and the people are gone, and everything is cold and empty. Then, in this white world, a very small figure appears: a little boat and an old man in a straw cape, fishing alone on the river. The bigger and emptier the world, the lonelier he looks, and the stronger too. He does not mind the cold or the loneliness. He quietly does his own thing. Many readers think the old fisherman is Liu Zongyuan himself: sent far away, still refusing to follow the crowd, still keeping his pride."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "snow",
+   "river",
+   "solitude",
+   "fishing",
+   "exile"
+  ]
+ },
+ "uncertain": []
+}

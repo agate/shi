@@ -1,0 +1,213 @@
+{
+ "id": "6d2e12c0-c1b8-4242-888c-9dba1a8f93ce",
+ "kind": "shi",
+ "title": "塞下曲·其二",
+ "title_en": "Frontier Song, No. 2",
+ "author": "卢纶",
+ "author_en": "Lu Lun",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "林",
+    "lín"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "将",
+    "jiāng"
+   ],
+   [
+    "军",
+    "jūn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "引",
+    "yǐn"
+   ],
+   [
+    "弓",
+    "gōng"
+   ]
+  ],
+  [
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "羽",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "没",
+    "mò"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "石",
+    "shí"
+   ],
+   [
+    "棱",
+    "léng"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "没",
+   "pinyin": "mò",
+   "zh": "没，这里是“陷进去、钻进去”的意思，读 mò，不读 méi。",
+   "en": "Here this character means to sink into, and is read mò, not méi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "林暗：树林里黑乎乎的。",
+   "en": "lín àn: the woods are dark."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "草惊风：风突然吹来，草被吹得乱动，好像受了惊吓。",
+   "en": "cǎo jīng fēng: a sudden wind sweeps the grass, and the grass shakes as if startled."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "引弓：拉开弓，射箭。",
+   "en": "yǐn gōng: to draw the bow and shoot."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "平明：天刚亮的时候。",
+   "en": "píng míng: at first light, just after dawn."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "白羽：箭尾上装着白色的羽毛，这里指那支箭。",
+   "en": "bái yǔ: white feathers on the end of an arrow; here it means the arrow."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 1,
+   "zh": "没：陷进去，钻进去。",
+   "en": "mò: to sink into."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "石棱：石头的棱角，这里指石头。",
+   "en": "shí léng: the edge of a rock; here it means the rock."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "树林黑沉沉的，一阵风吹得草乱动，",
+   "en": "The woods are dark; a sudden wind startles the grass."
+  },
+  {
+   "zh": "将军在夜里拉弓放了一箭。",
+   "en": "In the night, the general draws his bow and shoots."
+  },
+  {
+   "zh": "天亮后去找那支白羽箭，",
+   "en": "At dawn they go looking for the white-feathered arrow,"
+  },
+  {
+   "zh": "发现它深深地钻进了石头的棱角里。",
+   "en": "and find it sunk deep into the edge of a rock."
+  }
+ ],
+ "background": {
+  "zh": "卢纶写了一组《和张仆射塞下曲》，一共六首，这是第二首。“和”读 hè，是写诗回应别人的诗；仆射读 pú yè，是一种大官的名称。这位张仆射，一说是张延赏。诗里用了汉朝名将李广的故事：李广打猎时，看见草里有块石头，以为是老虎，一箭射去，箭头整个钻进了石头里。",
+  "en": "Lu Lun wrote a set of six Frontier Songs in reply to poems by a high official named Zhang, whose title was Puye. This is the second. Writing a poem to answer someone else's poem was common. One view says this Zhang was Zhang Yanshang. The poem borrows a story about Li Guang, a famous general of the Han dynasty. Out hunting, Li Guang saw a rock in the grass and took it for a tiger. He shot it, and the arrowhead went all the way into the rock."
+ },
+ "author_note": {
+  "zh": "卢纶，唐代诗人，“大历十才子”之一，生卒年不能确定，大约生活在八世纪后半期。他曾经在军队里做过官，熟悉军营生活，所以写起边塞来特别有力量。这组《塞下曲》写将军和士兵，读起来很有气势。",
+  "en": "Lu Lun was a Tang poet, one of the Ten Talents of the Dali era. His exact dates are not known; he lived in the second half of the eighth century. He once held a post in the army and knew camp life well, so his poems about the frontier are full of strength. This set of Frontier Songs is about generals and soldiers, and it reads with great force."
+ },
+ "appreciation": {
+  "zh": "第一句写环境：夜里树林黑乎乎的，一阵风吹得草乱晃，好像有老虎要扑出来。第二句写将军：他不慌不忙，拉弓就射。射中了什么？诗里先不说。第三句天亮了，大家去找那支箭。第四句才揭晓：箭深深钻进了石头里！石头那么硬，箭都能射进去，将军的力气有多大，就可想而知了。诗人不直接夸将军，而是让结果自己说话，给读者一个惊喜。",
+  "en": "The first line sets the scene. The woods are dark at night, and a gust of wind shakes the grass, as if a tiger is about to leap out. The second line shows the general. Calm and steady, he draws his bow and shoots. What did he hit? The poem does not say yet. In the third line it is dawn, and they go to find the arrow. The fourth line gives the answer: the arrow is buried deep in a rock! Rock is so hard, yet the arrow went in. Just think how strong the general must be. The poet does not praise him directly. He lets the result speak, and gives us a surprise."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "general",
+   "hero",
+   "night",
+   "archery"
+  ]
+ },
+ "uncertain": []
+}

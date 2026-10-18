@@ -1,0 +1,481 @@
+{
+ "id": "0167687e-8325-48bf-8da4-3749c9ce0a74",
+ "kind": "shi",
+ "title": "关山月",
+ "title_en": "The Moon over the Mountain Pass",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "乐府诗（五言古诗）",
+  "en": "yuefu ballad in five-character lines"
+ },
+ "lines": [
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "苍",
+    "cāng"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "间",
+    "jiān"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "里",
+    "lǐ"
+   ]
+  ],
+  [
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "度",
+    "dù"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "关",
+    "guān"
+   ]
+  ],
+  [
+   [
+    "汉",
+    "hàn"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "白",
+    "bái"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "道",
+    "dào"
+   ]
+  ],
+  [
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "湾",
+    "wān"
+   ]
+  ],
+  [
+   [
+    "由",
+    "yóu"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "战",
+    "zhàn"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "还",
+    "huán"
+   ]
+  ],
+  [
+   [
+    "戍",
+    "shù"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "色",
+    "sè"
+   ]
+  ],
+  [
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ],
+   [
+    "颜",
+    "yán"
+   ]
+  ],
+  [
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "叹",
+    "tàn"
+   ],
+   [
+    "息",
+    "xī"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "闲",
+    "xián"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "还在这里是“回来”的意思，读 huán，不读 hái。",
+   "en": "Here this character means to come back, so it is read huán, not hái."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "思归的思读 sī，是“想念”的意思。",
+   "en": "In sī guī, 'longing to go home', this character is read sī."
+  },
+  {
+   "line": 11,
+   "pos": 3,
+   "char": "应",
+   "pinyin": "yīng",
+   "zh": "应读 yīng，“未应”是“应该不会”的意思。",
+   "en": "This character is read yīng. Wèi yīng means 'surely will not'."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "天山：这里一般认为指祁连山，在今天的甘肃、青海一带。",
+   "en": "tiān shān: the Heavenly Mountains. Here it is usually taken to mean the Qilian Mountains, in today's Gansu and Qinghai."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "苍茫：又辽阔又模糊，一眼望不到边。",
+   "en": "cāng máng: vast and hazy, stretching beyond sight."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "云海：像大海一样一望无际的云。",
+   "en": "yún hǎi: a sea of clouds."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "吹度：吹过。度，越过。",
+   "en": "chuī dù: to blow across. Dù means to cross."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "玉门关：古代的关口，在今天甘肃敦煌西北，是通往西域的要道。",
+   "en": "yù mén guān: Jade Gate Pass, an old frontier gate northwest of today's Dunhuang in Gansu, on the road to the Western Regions."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "汉下白登道：汉朝的军队出兵白登山。汉高祖刘邦曾在白登山（今山西大同东北）被匈奴围困了七天。下，出兵。",
+   "en": "hàn xià bái dēng dào: the Han army marched down the road to Baideng. Liu Bang, the first Han emperor, was once trapped by the Xiongnu at Mount Baideng, northeast of today's Datong in Shanxi, for seven days. Xià means to send troops."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 5,
+   "zh": "胡窥青海湾：胡人一直盯着青海湖一带。胡，古代对北方和西方民族的称呼；窥，暗中窥视、想要侵占。唐朝和吐蕃常在青海湖一带打仗。",
+   "en": "hú kuī qīng hǎi wān: the Hu peoples eyed Qinghai Lake. Hú was an old name for the peoples of the north and west. Kuī means to spy on, wanting to seize. The Tang and the Tibetan empire often fought around Qinghai Lake."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "由来：从来，自古以来。",
+   "en": "yóu lái: from of old, always."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "戍客：守卫边疆的士兵。戍，守边。",
+   "en": "shù kè: soldiers guarding the frontier. Shù means to guard the border."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 5,
+   "zh": "边色：边地的景色。",
+   "en": "biān sè: the look of the border lands."
+  },
+  {
+   "line": 9,
+   "start": 3,
+   "end": 5,
+   "zh": "苦颜：愁苦的面容。",
+   "en": "kǔ yán: a sad, worn face."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 2,
+   "zh": "高楼：这里指士兵家中的妻子，她住在高楼里。",
+   "en": "gāo lóu: a high tower; here it means the soldiers' wives at home."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 5,
+   "zh": "叹息未应闲：叹息声应该不会停下来。闲，停止。",
+   "en": "tàn xī wèi yīng xián: their sighs surely will not stop. Xián here means to stop."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一轮明月从天山升起，",
+   "en": "A bright moon rises over the Heavenly Mountains,"
+  },
+  {
+   "zh": "在茫茫的云海中间穿行。",
+   "en": "drifting through a vast, hazy sea of clouds."
+  },
+  {
+   "zh": "长风刮了几万里，",
+   "en": "A long wind blows for thousands of li"
+  },
+  {
+   "zh": "一直吹过了玉门关。",
+   "en": "and sweeps across Jade Gate Pass."
+  },
+  {
+   "zh": "汉朝的军队出兵白登山，",
+   "en": "Once the Han army marched to Baideng,"
+  },
+  {
+   "zh": "胡人一直窥视着青海湖一带。",
+   "en": "and the Hu peoples still eye Qinghai Lake."
+  },
+  {
+   "zh": "自古以来这些打仗的地方，",
+   "en": "In these places of war since ancient times,"
+  },
+  {
+   "zh": "从没见过有谁能活着回来。",
+   "en": "no one has ever been seen to come home."
+  },
+  {
+   "zh": "守边的士兵望着边地的景色，",
+   "en": "The border soldiers look out at the frontier,"
+  },
+  {
+   "zh": "想家想得满脸愁苦。",
+   "en": "their faces full of sorrow as they long for home."
+  },
+  {
+   "zh": "家里的妻子在高楼上，也在这样的夜晚，",
+   "en": "On this same night, their wives in high towers"
+  },
+  {
+   "zh": "叹息声一定不会停下来。",
+   "en": "surely do not stop sighing."
+  }
+ ],
+ "background": {
+  "zh": "《关山月》是一个古老的乐府诗题目，属于“横吹曲”（军中骑马时吹奏的乐曲），内容多写边塞征战和离别的痛苦。李白借用这个旧题目写了这首诗。具体写于哪一年已经说不清了。唐朝时，西北边境战争很多，许多士兵长年守边回不了家，这首诗写的就是他们和家人的思念。",
+  "en": "'The Moon over the Mountain Pass' is an old title for yuefu songs. It belongs to the 'horizontal flute' tunes, music played on horseback in the army. Such songs usually tell of frontier wars and the pain of parting. Li Bai borrowed this old title for his poem. We no longer know which year he wrote it. In the Tang there were many wars on the northwest border. Many soldiers guarded it for years and could not go home. This poem is about how they and their families missed each other."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他的诗想象大胆，气势很大，最爱写月亮。他写过不少乐府诗，常用旧题目写出新的感情。这首诗开头那种辽阔的气派，就很有李白的特色。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. His poems are bold and grand, and he loved to write about the moon. He wrote many yuefu poems, often using old titles to carry new feelings. The vast, sweeping opening of this poem is very much in his style."
+ },
+ "appreciation": {
+  "zh": "前四句画面非常大：明月从天山升起，穿过茫茫云海；长风刮过几万里，吹过玉门关。月亮和风把天山、云海、玉门关连在一起，一下子铺开了整个西北边疆。中间四句讲历史：从汉朝到唐朝，这里一直在打仗，去打仗的人很少能回来。最后四句写人：边关的士兵望着月亮想家，家里的妻子也在同一个月亮下叹气。同一轮月亮，照着两个地方的人，两边都在思念。这首诗又雄壮又悲凉，让人看到战争背后普通人的痛苦。",
+  "en": "The first four lines make a huge picture. The moon rises over the Heavenly Mountains and drifts through a sea of clouds. A long wind blows thousands of li and sweeps across Jade Gate Pass. The moon and the wind link the mountains, the clouds and the pass, and the whole northwest frontier opens up at once. The middle four lines turn to history. From the Han to the Tang there was always war here, and few who went ever came back. The last four lines turn to people. Soldiers at the border look at the moon and miss home. Their wives at home sigh under the same moon. One moon shines on two places, and on both sides people are longing. The poem is grand and sad at the same time. It shows the pain of ordinary people behind the wars."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "frontier",
+   "war",
+   "longing",
+   "soldier"
+  ]
+ },
+ "uncertain": []
+}

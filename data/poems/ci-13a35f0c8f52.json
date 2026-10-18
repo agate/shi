@@ -1,0 +1,661 @@
+{
+ "id": "ci-13a35f0c8f52",
+ "kind": "ci",
+ "title": "洞仙歌·冰肌玉骨",
+ "title_en": "To the Tune Dong Xian Ge: Skin of Ice, Bones of Jade",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（长调，双调）",
+  "en": "ci lyric, long tune in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "冰",
+    "bīng"
+   ],
+   [
+    "肌",
+    "jī"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "骨",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "汗",
+    "hàn"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "殿",
+    "diàn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ]
+  ],
+  [
+   [
+    "绣",
+    "xiù"
+   ],
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "点",
+    "diǎn"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "窥",
+    "kuī"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "寝",
+    "qǐn"
+   ]
+  ],
+  [
+   [
+    "欹",
+    "qī"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "钗",
+    "chāi"
+   ],
+   [
+    "横",
+    "héng"
+   ],
+   [
+    "鬓",
+    "bìn"
+   ],
+   [
+    "乱",
+    "luàn"
+   ]
+  ],
+  [
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "携",
+    "xié"
+   ],
+   [
+    "素",
+    "sù"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "庭",
+    "tíng"
+   ],
+   [
+    "户",
+    "hù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "疏",
+    "shū"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "渡",
+    "dù"
+   ],
+   [
+    "河",
+    "hé"
+   ],
+   [
+    "汉",
+    "hàn"
+   ]
+  ],
+  [
+   [
+    "试",
+    "shì"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "何",
+    "hé"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "更",
+    "gēng"
+   ]
+  ],
+  [
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "淡",
+    "dàn"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "绳",
+    "shéng"
+   ],
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "屈",
+    "qū"
+   ],
+   [
+    "指",
+    "zhǐ"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "流",
+    "liú"
+   ],
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "偷",
+    "tōu"
+   ],
+   [
+    "换",
+    "huàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": {
+  "zh": "原始文本“敧枕”的“敧”是异体字，通行本写作“欹枕”，意思和读音都一样。",
+  "en": "The corpus writes the word for leaning on a pillow with a variant character; the usual text uses the standard form. The sound and meaning are the same."
+ },
+ "readings": [
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "一",
+   "pinyin": "yī",
+   "zh": "这里按本调标 yī。连读时“一点”实际读成 yì diǎn。",
+   "en": "It is marked here with its own tone, yī. In speech, yī diǎn is said as yì diǎn."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "欹",
+   "pinyin": "qī",
+   "zh": "欹：读 qī，意思是斜靠。原始文本写作异体字“敧”，读音相同。",
+   "en": "It reads qī and means to lean. The corpus writes it with a variant character that has the same sound."
+  },
+  {
+   "line": 11,
+   "pos": 3,
+   "char": "更",
+   "pinyin": "gēng",
+   "zh": "三更：读 gēng，是古代夜里的计时单位，不读 gèng。",
+   "en": "In sān gēng it reads gēng, a watch of the night, not gèng."
+  },
+  {
+   "line": 14,
+   "pos": 5,
+   "char": "几",
+   "pinyin": "jǐ",
+   "zh": "几时：读 jǐ，意思是什么时候。",
+   "en": "In jǐ shí it reads jǐ, meaning when."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "冰肌玉骨：皮肤像冰一样洁白清凉，骨骼像玉一样晶莹。用来形容美人，这里写的是五代后蜀的花蕊夫人。",
+   "en": "bīng jī yù gǔ: skin like ice and bones like jade, a way of praising a beautiful woman. Here it describes Lady Huarui of the Later Shu kingdom."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "自：本来，自然而然地。",
+   "en": "zì: naturally, by herself."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "水殿：建在水边或水上的宫殿。",
+   "en": "shuǐ diàn: a palace hall built by or over the water."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "暗香：淡淡的、闻得到却看不见的香气。这里指池中荷花的香气。",
+   "en": "àn xiāng: a faint scent you can smell but not see. Here it is the scent of lotus flowers in the pond."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "绣帘：绣着花纹的帘子。",
+   "en": "xiù lián: an embroidered curtain."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "窥人：偷偷地看人。这里把月亮写得像人一样在偷看。",
+   "en": "kuī rén: to peek at someone. The moon is written as if it were a person peeking in."
+  },
+  {
+   "line": 5,
+   "start": 1,
+   "end": 3,
+   "zh": "未寝：还没有睡。寝，睡觉。",
+   "en": "wèi qǐn: not yet asleep. Qǐn means to sleep."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "欹枕：斜靠在枕头上。欹，斜、倾斜。",
+   "en": "qī zhěn: leaning on a pillow. Qī means slanting."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 6,
+   "zh": "钗横鬓乱：头上的发钗歪了，鬓边的头发也乱了。钗，古代女子插在头发上的首饰。鬓，脸旁耳边的头发。",
+   "en": "chāi héng bìn luàn: her hairpin has slipped sideways and the hair by her temples is untidy. A chāi is a hairpin; bìn is the hair beside the ears."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "素手：洁白的手。",
+   "en": "sù shǒu: a fair, white hand."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "庭户：庭院和门户。",
+   "en": "tíng hù: the courtyard and the doors."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "疏星：稀稀落落的星星。",
+   "en": "shū xīng: a few scattered stars."
+  },
+  {
+   "line": 9,
+   "start": 5,
+   "end": 7,
+   "zh": "河汉：银河。",
+   "en": "hé hàn: the Milky Way."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "三更：古代把一夜分成五更，三更大约是半夜十一点到一点。",
+   "en": "sān gēng: people in old times split the night into five watches; the third watch is about eleven at night to one in the morning."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 2,
+   "zh": "金波：月光。月光像金色的水波。",
+   "en": "jīn bō: moonlight, which looks like golden ripples."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 2,
+   "zh": "玉绳：星名，在北斗星附近。玉绳星转低了，说明夜已经很深。",
+   "en": "yù shéng: the name of two stars near the Big Dipper. When they turn low in the sky, it is deep in the night."
+  },
+  {
+   "line": 14,
+   "start": 1,
+   "end": 3,
+   "zh": "屈指：弯着手指头计算。",
+   "en": "qū zhǐ: counting on one's fingers."
+  },
+  {
+   "line": 14,
+   "start": 3,
+   "end": 5,
+   "zh": "西风：秋风。",
+   "en": "xī fēng: the west wind, that is, the autumn wind."
+  },
+  {
+   "line": 15,
+   "start": 1,
+   "end": 3,
+   "zh": "不道：不知不觉，没想到。",
+   "en": "bù dào: without noticing, never realizing."
+  },
+  {
+   "line": 15,
+   "start": 3,
+   "end": 5,
+   "zh": "流年：像流水一样过去的岁月。",
+   "en": "liú nián: the years, which flow away like water."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她的肌肤像冰，骨骼像玉，",
+   "en": "Her skin is like ice, her bones like jade,"
+  },
+  {
+   "zh": "身上自然清凉，没有一点汗。",
+   "en": "cool by nature, without a drop of sweat."
+  },
+  {
+   "zh": "风吹进水边的宫殿，满屋都是淡淡的花香。",
+   "en": "A breeze comes into the hall by the water, filling it with a faint scent of flowers."
+  },
+  {
+   "zh": "绣花的帘子卷开了，",
+   "en": "The embroidered curtain is drawn open,"
+  },
+  {
+   "zh": "一轮明月偷偷地照进来看她。",
+   "en": "and a little bright moon peeks in at her."
+  },
+  {
+   "zh": "她还没有睡，",
+   "en": "She is not yet asleep,"
+  },
+  {
+   "zh": "斜靠着枕头，发钗歪了，鬓发也乱了。",
+   "en": "leaning on her pillow, her hairpin askew and her hair loose."
+  },
+  {
+   "zh": "起身后，两人手拉着手，",
+   "en": "They rise, hand in white hand,"
+  },
+  {
+   "zh": "庭院里静悄悄的没有声音，",
+   "en": "the courtyard and doorways silent,"
+  },
+  {
+   "zh": "不时看见几颗稀疏的星星划过银河。",
+   "en": "and now and then they see a few stars cross the Milky Way."
+  },
+  {
+   "zh": "问一问夜有多深了？",
+   "en": "They ask: how late is the night?"
+  },
+  {
+   "zh": "夜已经到了三更，",
+   "en": "It is already the third watch,"
+  },
+  {
+   "zh": "月光变淡了，",
+   "en": "the golden moonlight grows pale,"
+  },
+  {
+   "zh": "玉绳星低低地转向西边。",
+   "en": "and the Jade Cord stars turn low."
+  },
+  {
+   "zh": "只是掰着手指盼望秋风什么时候到来，",
+   "en": "They only count on their fingers the days till the cool west wind arrives,"
+  },
+  {
+   "zh": "却没有想到，岁月就在不知不觉中悄悄溜走了。",
+   "en": "never thinking that, all the while, the years are slipping quietly away."
+  }
+ ],
+ "background": {
+  "zh": "苏轼在这首词前写了一段小序。他说七岁时在眉州见过一位姓朱的老尼姑，九十岁了。她年轻时随师父进过五代后蜀国君孟昶的宫中。一个大热天的夜里，孟昶和花蕊夫人在摩诃池上乘凉，写了一首词，老尼姑都记得。四十年后，老尼姑早已去世，苏轼只记得开头两句，就按《洞仙歌》的调子把它补写完整。一般认为这首词写于元丰五年（1082年）苏轼在黄州的时候。",
+  "en": "Su Shi wrote a short preface to this lyric. When he was seven, he met an old nun named Zhu in Meizhou, who was ninety. When she was young, she had gone with her teacher into the palace of Meng Chang, ruler of the Later Shu kingdom. One very hot night, Meng Chang and Lady Huarui cooled off by the Mohe Pond, and he wrote a song. The nun remembered it all. Forty years later, the nun was long dead, and Su Shi remembered only the first two lines. So he finished the song to the tune Dong Xian Ge. It is usually dated to 1082, when Su Shi lived in Huangzhou."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），号东坡居士，北宋大文学家，诗、词、文章、书法、绘画样样都好。他的词常常豪放大气，但也能写得细腻柔美。这首词写于他被贬到黄州的时候，那几年他想了很多关于时间和人生的事。",
+  "en": "Su Shi (1037–1101), also called Su Dongpo, was a great writer of the Northern Song. He was brilliant at poems, lyrics, prose, calligraphy and painting. His lyrics are often bold and grand, but he could also write in a soft and delicate way. He wrote this one while banished to Huangzhou, years when he thought a great deal about time and life."
+ },
+ "appreciation": {
+  "zh": "这首词像一部安静的夏夜小电影。先是近景：美人冰清玉洁，清凉无汗，水殿里飘着荷香。镜头转到帘子上，月亮像个调皮的孩子偷偷往里看。接着两人手拉手走到院子里，四周一点声音也没有，只看见星星慢慢划过银河。他们问：夜多深了？月光淡了，星星低了。最后两句忽然说出一个道理：大热天里，人人都盼着秋风快来，却没想到，盼着盼着，一年又过去了，人也老了。从凉爽写到叹息，美丽中带着一点淡淡的伤感。",
+  "en": "This lyric is like a quiet little film of a summer night. First a close-up: the lady is pure as ice and jade, cool and free of sweat, and the scent of lotus drifts through the hall by the water. The camera moves to the curtain, where the moon peeks in like a playful child. Then the two walk hand in hand into the courtyard. There is no sound at all; they only see stars slowly crossing the Milky Way. They ask how late it is. The moonlight is pale, the stars are low. The last two lines suddenly speak a truth. On hot days everyone longs for the autumn wind to come, never noticing that, while they wait, another year slips by and they grow older. It moves from coolness to a sigh, a beautiful scene with a light touch of sadness."
+ },
+ "famous_lines": [
+  0,
+  1,
+  14,
+  15
+ ],
+ "tags": {
+  "seasons": [
+   "summer"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "night",
+   "moon",
+   "stars",
+   "time",
+   "beauty"
+  ]
+ },
+ "uncertain": []
+}

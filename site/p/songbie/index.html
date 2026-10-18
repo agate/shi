@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>送别 · 王维 — 诗</title>
+    <meta name="description" content="送别 · 王维 — Farewell by Wang Wei: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 83 · Tang poem · five-character quatrain</span><span lang="zh">第 83 首 · 唐诗 · 五言绝句</span></p>
+        <h1>送别</h1>
+        <p class="by">王维<span class="mono"><span lang="en">Wang Wei · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Farewell</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>shān</i><b>山</b></span><span class="c" data-l="0" data-p="1"><i>zhōng</i><b>中</b></span><span class="c gl" data-l="0" data-p="2"><i>xiāng</i><b>相</b></span><span class="c gl" data-l="0" data-p="3"><i>sòng</i><b>送</b></span><span class="c gl" data-l="0" data-p="4"><i>bà</i><b>罢</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>rì</i><b>日</b></span><span class="c gl" data-l="1" data-p="1"><i>mù</i><b>暮</b></span><span class="c gl" data-l="1" data-p="2"><i>yǎn</i><b>掩</b></span><span class="c gl" data-l="1" data-p="3"><i>chái</i><b>柴</b></span><span class="c gl" data-l="1" data-p="4"><i>fēi</i><b>扉</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>chūn</i><b>春</b></span><span class="c" data-l="2" data-p="1"><i>cǎo</i><b>草</b></span><span class="c" data-l="2" data-p="2"><i>míng</i><b>明</b></span><span class="c" data-l="2" data-p="3"><i>nián</i><b>年</b></span><span class="c" data-l="2" data-p="4"><i>lǜ</i><b>绿</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>wáng</i><b>王</b></span><span class="c gl" data-l="3" data-p="1"><i>sūn</i><b>孙</b></span><span class="c gl" data-l="3" data-p="2"><i>guī</i><b>归</b></span><span class="c gl" data-l="3" data-p="3"><i>bù</i><b>不</b></span><span class="c gl" data-l="3" data-p="4"><i>guī</i><b>归</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">山中相送罢</span><span lang="en">In the mountains, I have seen my friend off.</span><span lang="zh">在山中送走了朋友，</span></li><li><span class="o">日暮掩柴扉</span><span lang="en">At dusk I close my gate of sticks.</span><span lang="zh">傍晚回到家，关上了柴门。</span></li><li><span class="o">春草明年绿</span><span lang="en">Next spring the grass will turn green again,</span><span lang="zh">明年春天，青草又会变绿，</span></li><li><span class="o">王孙归不归</span><span lang="en">but you, my friend, will you come back or not?</span><span lang="zh">朋友啊，你还会不会回来？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>相送<span class="mono">xiāng sòng</span></dt><dd><span lang="en">xiāng sòng: to see someone off. Here xiāng does not mean each other; it just shows the action is aimed at the friend.</span><span lang="zh">相送：送别人。这里的“相”不是“互相”，只表示动作是对着朋友的。</span></dd></div><div><dt>罢<span class="mono">bà</span></dt><dd><span lang="en">bà: finished, over.</span><span lang="zh">罢：完了，结束。</span></dd></div><div><dt>日暮<span class="mono">rì mù</span></dt><dd><span lang="en">rì mù: dusk, when the sun is going down.</span><span lang="zh">日暮：傍晚，太阳快落山的时候。</span></dd></div><div><dt>掩<span class="mono">yǎn</span></dt><dd><span lang="en">yǎn: to close.</span><span lang="zh">掩：关上。</span></dd></div><div><dt>柴扉<span class="mono">chái fēi</span></dt><dd><span lang="en">chái fēi: a gate made of sticks and twigs.</span><span lang="zh">柴扉：用树枝、木条做的门。</span></dd></div><div><dt>王孙<span class="mono">wáng sūn</span></dt><dd><span lang="en">wáng sūn: first meant the sons and grandsons of nobles; here it is a polite way to address the friend.</span><span lang="zh">王孙：本来指贵族的子孙，这里是对朋友的尊称。</span></dd></div><div><dt>归不归<span class="mono">guī bù guī</span></dt><dd><span lang="en">guī bù guī: will you come back or not?</span><span lang="zh">归不归：回不回来，会不会回来。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Wang Wei wrote this after seeing a friend off in the mountains. We do not know who the friend was or what year it was. The poem is also titled Farewell in the Mountains. The fourth line borrows from an old poem in the Songs of Chu, which says: the young lord wanders and does not return, while the spring grass grows thick. In some versions, next year in the third line reads year after year.</p><p lang="zh">这首诗是王维在山中送走一位朋友后写的。朋友是谁、写在哪一年，都不清楚。题目一作《山中送别》。第四句借用了《楚辞·招隐士》里的句子：“王孙游兮不归，春草生兮萋萋。”意思是王孙出游不回来，春草长得很茂盛。第三句的“明年”，有的版本写作“年年”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Wei (701–761; some say 699–761) was a Tang poet and painter, called the Buddha of Poetry. From middle age he often lived in the hills of Zhongnan and Wangchuan, holding office while living almost like a hermit. His farewell poems are famous. He seldom says he is sad. Instead he hides deep feeling inside plain words.</p><p lang="zh">王维（701—761，一说699—761），唐代诗人、画家，人称“诗佛”。他中年以后常住在终南山和辋川的山里，一边做官，一边过着隐居一样的生活。他写送别的诗很有名，常常不直接说难过，而是在平淡的话里藏着深深的感情。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poem does not tell us what was said at parting or how many tears fell. It begins when the farewell is already over. The second line shows what comes after: it is dusk, the poet goes home and closes his gate. Closing a gate is an ordinary act, yet it makes us feel how lonely he is. The last two lines are what he thinks after closing the gate: next spring the grass will be green again, but will you come back? His friend has only just left, and he is already hoping for his return. The poem ends with a question and no answer, and the longing stays.</p><p lang="zh">诗没有写送别时说了什么话、流了多少眼泪，一开头就是“送完了”。第二句写送完以后：天黑了，诗人回到家，关上柴门。关门是很平常的动作，却让人感到他一个人的冷清。后两句是他关门以后心里想的：明年春草又会变绿，朋友你还会回来吗？朋友刚走，他就已经盼着朋友回来了。诗用一个问题结尾，没有答案，想念却一直留在心里。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/emeishanyuege/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>峨眉山月歌</b></a><a href="../../p/zashi-qier/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>杂诗·其二</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["山", "shān"], ["中", "zhōng"], ["相", "xiāng"], ["送", "sòng"], ["罢", "bà"]], [["日", "rì"], ["暮", "mù"], ["掩", "yǎn"], ["柴", "chái"], ["扉", "fēi"]], [["春", "chūn"], ["草", "cǎo"], ["明", "míng"], ["年", "nián"], ["绿", "lǜ"]], [["王", "wáng"], ["孙", "sūn"], ["归", "guī"], ["不", "bù"], ["归", "guī"]]], "glosses": [{"line": 0, "start": 2, "end": 4, "zh": "相送：送别人。这里的“相”不是“互相”，只表示动作是对着朋友的。", "en": "xiāng sòng: to see someone off. Here xiāng does not mean each other; it just shows the action is aimed at the friend."}, {"line": 0, "start": 4, "end": 5, "zh": "罢：完了，结束。", "en": "bà: finished, over."}, {"line": 1, "start": 0, "end": 2, "zh": "日暮：傍晚，太阳快落山的时候。", "en": "rì mù: dusk, when the sun is going down."}, {"line": 1, "start": 2, "end": 3, "zh": "掩：关上。", "en": "yǎn: to close."}, {"line": 1, "start": 3, "end": 5, "zh": "柴扉：用树枝、木条做的门。", "en": "chái fēi: a gate made of sticks and twigs."}, {"line": 3, "start": 0, "end": 2, "zh": "王孙：本来指贵族的子孙，这里是对朋友的尊称。", "en": "wáng sūn: first meant the sons and grandsons of nobles; here it is a polite way to address the friend."}, {"line": 3, "start": 2, "end": 5, "zh": "归不归：回不回来，会不会回来。", "en": "guī bù guī: will you come back or not?"}], "readings": [], "speak": ["山中相送罢", "日暮掩柴扉", "春草明年绿", "王孙归不归"], "speakTitle": "送别。王维。", "sample": "山中相送罢"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,294 @@
+{
+ "id": "baccf46a-41c4-4a0f-b90f-37cc35b04a64",
+ "kind": "shi",
+ "title": "子夜吴歌·秋歌",
+ "title_en": "Midnight Song of Wu: Autumn",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言古诗（乐府）",
+  "en": "five-character old-style poem (yuefu ballad)"
+ },
+ "lines": [
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "安",
+    "ān"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "片",
+    "piàn"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "户",
+    "hù"
+   ],
+   [
+    "捣",
+    "dǎo"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ]
+  ],
+  [
+   [
+    "总",
+    "zǒng"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "胡",
+    "hú"
+   ],
+   [
+    "虏",
+    "lǔ"
+   ]
+  ],
+  [
+   [
+    "良",
+    "liáng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "罢",
+    "bà"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "征",
+    "zhēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "一",
+   "pinyin": "yí",
+   "zh": "“一”本来读 yī，在第四声“片”前面变读 yí。",
+   "en": "This character is yī on its own, but changes to yí before the fourth-tone piàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "一片月：一轮明月，月光洒满全城。",
+   "en": "yí piàn yuè: a bright moon, its light spread over the whole city."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "万户：千家万户，形容人家很多。",
+   "en": "wàn hù: ten thousand households, meaning a great many homes."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "捣衣：古时把洗过的布或衣服放在石板上，用木棒敲打，让它变软、变干净，好做成冬衣。秋天常常捣衣，给远方的亲人准备寒衣。",
+   "en": "dǎo yī: beating cloth. In old times, washed cloth or clothes were laid on a flat stone and beaten with a wooden stick to soften and clean them before making winter clothes. People often did this in autumn to send warm clothes to family far away."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "吹不尽：吹不散，吹不完。",
+   "en": "chuī bú jìn: cannot blow it all away."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "总是：全都是。",
+   "en": "zǒng shì: all of it is."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "玉关情：思念远在玉门关守边的亲人的情意。玉关，玉门关，在今甘肃敦煌西北，这里代指边塞。",
+   "en": "yù guān qíng: love and longing for family guarding Jade Gate Pass. The pass, northwest of today's Dunhuang in Gansu, stands for the whole frontier."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "何日：哪一天。",
+   "en": "hé rì: what day, when."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "平胡虏：打败入侵的敌人。胡虏，古代对北方和西北少数民族带贬义的称呼。",
+   "en": "píng hú lǔ: to defeat the invading enemy. Hú lǔ was an insulting old name for peoples of the north and northwest."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "良人：古时妻子对丈夫的称呼。",
+   "en": "liáng rén: an old word a wife used for her husband."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 3,
+   "zh": "罢：结束、停止。",
+   "en": "bà: to stop, to end."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "远征：到远方打仗。",
+   "en": "yuǎn zhēng: going far away to war."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "长安城上空挂着一轮明月，",
+   "en": "Over Chang'an hangs one bright moon;"
+  },
+  {
+   "zh": "千家万户传来捣衣的声音。",
+   "en": "from ten thousand homes comes the sound of beating cloth."
+  },
+  {
+   "zh": "秋风吹也吹不散，",
+   "en": "The autumn wind cannot blow it away:"
+  },
+  {
+   "zh": "这些声音里全是对玉门关外亲人的思念。",
+   "en": "all of it is longing for those at Jade Gate Pass."
+  },
+  {
+   "zh": "哪一天才能打败敌人，",
+   "en": "When will the enemy be beaten,"
+  },
+  {
+   "zh": "让我的丈夫不再远征，回到家来？",
+   "en": "so my husband can end his far campaign and come home?"
+  }
+ ],
+ "background": {
+  "zh": "“子夜吴歌”是乐府旧题。相传东晋时吴地（今江苏、浙江一带）有一位叫子夜的女子，创作了哀怨动人的《子夜歌》，后人又按春夏秋冬写成《子夜四时歌》。李白也用这个旧题写了四首，分别写春、夏、秋、冬，这是第二首秋歌。唐代边境常有战事，许多男子被派去守边，家里的妻子日夜思念。写作年份不详。",
+  "en": "\"Midnight Song of Wu\" is an old folk-song title. Legend says that in the Eastern Jin dynasty a woman named Ziye (Midnight) in the Wu region (around today's Jiangsu and Zhejiang) made up sad, touching songs. Later poets wrote versions for the four seasons. Li Bai wrote four, one for each season, and this is the autumn song. In the Tang there was often fighting on the borders. Many men were sent to guard them, and their wives at home missed them day and night. The year it was written is unknown."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被称为“诗仙”。他的诗大多豪放奔腾，但也很会学习民歌，用朴素的话写普通人的心情。这首诗就是借思妇（思念丈夫的妻子）的口吻，写出了百姓对战争的厌倦。",
+  "en": "Li Bai (701–762) was a great Tang poet, called the Immortal of Poetry. Most of his poems are bold and sweeping, but he also learned from folk songs, using plain words to tell the feelings of ordinary people. In this poem he speaks in the voice of a wife missing her husband, and shows how tired the people were of war."
+ },
+ "appreciation": {
+  "zh": "诗一开头是一幅很大的画面：秋夜，长安城上一轮明月，月光下千家万户都在捣衣，“砰、砰”的声音此起彼伏。为什么这么多人在捣衣？因为她们要给远在边关的丈夫做冬衣。秋风吹个不停，却吹不散这一片捣衣声，也吹不散她们的思念。最后两句是妻子们心底的问话：什么时候才能打完仗，让丈夫回家？明月、秋风、捣衣声，一层层叠在一起，让人感到深深的思念，也感到战争带给普通人家的痛苦。",
+  "en": "The poem opens with a huge picture: an autumn night, one bright moon over Chang'an, and in its light ten thousand homes all beating cloth, the thumping sounds rising and falling. Why are so many beating cloth? Because they are making winter clothes for husbands far away on the frontier. The autumn wind keeps blowing, but it cannot blow away the sound, or their longing. The last two lines are the question in every wife's heart: when will the war be over, so my husband can come home? The moon, the autumn wind and the sound of beating cloth pile up layer on layer, and you feel both deep longing and the pain that war brings to ordinary families."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "war",
+   "longing",
+   "frontier"
+  ]
+ },
+ "uncertain": []
+}

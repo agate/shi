@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>踏莎行·郴州旅舍 · 秦观 — 诗</title>
+    <meta name="description" content="踏莎行·郴州旅舍 · 秦观 — To the Tune of Ta Suo Xing: At an Inn in Chenzhou by Qin Guan: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 87 · Song lyric · ci lyric to the tune Ta Suo Xing, in two stanzas</span><span lang="zh">第 87 首 · 宋词 · 词·踏莎行（双调）</span></p>
+        <h1>踏莎行·郴州旅舍</h1>
+        <p class="by">秦观<span class="mono"><span lang="en">Qin Guan · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">To the Tune of Ta Suo Xing: At an Inn in Chenzhou</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>wù</i><b>雾</b></span><span class="c gl" data-l="0" data-p="1"><i>shī</i><b>失</b></span><span class="c gl" data-l="0" data-p="2"><i>lóu</i><b>楼</b></span><span class="c gl" data-l="0" data-p="3"><i>tái</i><b>台</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>yuè</i><b>月</b></span><span class="c gl" data-l="1" data-p="1"><i>mí</i><b>迷</b></span><span class="c gl" data-l="1" data-p="2"><i>jīn</i><b>津</b></span><span class="c gl" data-l="1" data-p="3"><i>dù</i><b>渡</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>táo</i><b>桃</b></span><span class="c gl" data-l="2" data-p="1"><i>yuán</i><b>源</b></span><span class="c gl" data-l="2" data-p="2"><i>wàng</i><b>望</b></span><span class="c gl" data-l="2" data-p="3"><i>duàn</i><b>断</b></span><span class="c" data-l="2" data-p="4"><i>wú</i><b>无</b></span><span class="c" data-l="2" data-p="5"><i>xún</i><b>寻</b></span><span class="c rd" data-l="2" data-p="6"><i>chù</i><b>处</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>kě</i><b>可</b></span><span class="c gl" data-l="3" data-p="1"><i>kān</i><b>堪</b></span><span class="c gl" data-l="3" data-p="2"><i>gū</i><b>孤</b></span><span class="c gl" data-l="3" data-p="3"><i>guǎn</i><b>馆</b></span><span class="c" data-l="3" data-p="4"><i>bì</i><b>闭</b></span><span class="c" data-l="3" data-p="5"><i>chūn</i><b>春</b></span><span class="c" data-l="3" data-p="6"><i>hán</i><b>寒</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>dù</i><b>杜</b></span><span class="c gl" data-l="4" data-p="1"><i>juān</i><b>鹃</b></span><span class="c" data-l="4" data-p="2"><i>shēng</i><b>声</b></span><span class="c" data-l="4" data-p="3"><i>lǐ</i><b>里</b></span><span class="c gl" data-l="4" data-p="4"><i>xié</i><b>斜</b></span><span class="c gl" data-l="4" data-p="5"><i>yáng</i><b>阳</b></span><span class="c gl" data-l="4" data-p="6"><i>mù</i><b>暮</b></span></p><p class="ln brk"><span class="c gl" data-l="5" data-p="0"><i>yì</i><b>驿</b></span><span class="c gl" data-l="5" data-p="1"><i>jì</i><b>寄</b></span><span class="c gl" data-l="5" data-p="2"><i>méi</i><b>梅</b></span><span class="c gl" data-l="5" data-p="3"><i>huā</i><b>花</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>yú</i><b>鱼</b></span><span class="c gl" data-l="6" data-p="1"><i>chuán</i><b>传</b></span><span class="c gl" data-l="6" data-p="2"><i>chǐ</i><b>尺</b></span><span class="c gl" data-l="6" data-p="3"><i>sù</i><b>素</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>qì</i><b>砌</b></span><span class="c gl" data-l="7" data-p="1"><i>chéng</i><b>成</b></span><span class="c" data-l="7" data-p="2"><i>cǐ</i><b>此</b></span><span class="c" data-l="7" data-p="3"><i>hèn</i><b>恨</b></span><span class="c gl" data-l="7" data-p="4"><i>wú</i><b>无</b></span><span class="c gl rd" data-l="7" data-p="5"><i>chóng</i><b>重</b></span><span class="c gl rd" data-l="7" data-p="6"><i>shù</i><b>数</b></span></p><p class="ln"><span class="c gl rd" data-l="8" data-p="0"><i>chēn</i><b>郴</b></span><span class="c gl" data-l="8" data-p="1"><i>jiāng</i><b>江</b></span><span class="c gl" data-l="8" data-p="2"><i>xìng</i><b>幸</b></span><span class="c gl" data-l="8" data-p="3"><i>zì</i><b>自</b></span><span class="c" data-l="8" data-p="4"><i>rào</i><b>绕</b></span><span class="c" data-l="8" data-p="5"><i>chēn</i><b>郴</b></span><span class="c" data-l="8" data-p="6"><i>shān</i><b>山</b></span></p><p class="ln"><span class="c rd" data-l="9" data-p="0"><i>wèi</i><b>为</b></span><span class="c rd" data-l="9" data-p="1"><i>shuí</i><b>谁</b></span><span class="c" data-l="9" data-p="2"><i>liú</i><b>流</b></span><span class="c" data-l="9" data-p="3"><i>xià</i><b>下</b></span><span class="c gl" data-l="9" data-p="4"><i>xiāo</i><b>潇</b></span><span class="c gl" data-l="9" data-p="5"><i>xiāng</i><b>湘</b></span><span class="c" data-l="9" data-p="6"><i>qù</i><b>去</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The heading &quot;At an Inn in Chenzhou&quot; is the title used in common editions. The corpus gives only the tune name.</p><p lang="zh">词题“郴州旅舍”是通行本的题目，资料库里只有词牌“踏莎行”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">雾失楼台</span><span lang="en">The fog swallows the towers.</span><span lang="zh">大雾弥漫，楼台都看不见了，</span></li><li><span class="o">月迷津渡</span><span lang="en">The hazy moon hides the ferry landing.</span><span lang="zh">月色朦胧，渡口也找不到了。</span></li><li><span class="o">桃源望断无寻处</span><span lang="en">I gaze till my eyes give out, but there is no Peach Blossom Spring to be found.</span><span lang="zh">望穿双眼，也找不到桃花源在哪里。</span></li><li><span class="o">可堪孤馆闭春寒</span><span lang="en">How can I bear being shut in a lonely inn in the spring cold,</span><span lang="zh">怎么受得了一个人关在旅店里，忍着春天的寒冷，</span></li><li><span class="o">杜鹃声里斜阳暮</span><span lang="en">hearing the cuckoo call as the sun goes down?</span><span lang="zh">听杜鹃一声声叫，看太阳慢慢落下。</span></li><li class="brk"><span class="o">驿寄梅花</span><span lang="en">Friends send plum blossoms by the post,</span><span lang="zh">朋友托人寄来梅花，</span></li><li><span class="o">鱼传尺素</span><span lang="en">and letters come from far away.</span><span lang="zh">又带来远方的书信，</span></li><li><span class="o">砌成此恨无重数</span><span lang="en">But they only pile up my sorrow, layer on layer past counting.</span><span lang="zh">可这只让我的愁恨越堆越多，数也数不清。</span></li><li><span class="o">郴江幸自绕郴山</span><span lang="en">The Chen River was meant to wind around the Chen hills.</span><span lang="zh">郴江本来是绕着郴山流的，</span></li><li><span class="o">为谁流下潇湘去</span><span lang="en">For whom does it flow away to the Xiao and Xiang?</span><span lang="zh">它是为了谁，要流到潇湘去呢？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>雾失楼台<span class="mono">wù shī lóu tái</span></dt><dd><span lang="en">wù shī lóu tái: in the fog, the towers vanish.</span><span lang="zh">雾失楼台：大雾里，楼台都看不见了。</span></dd></div><div><dt>月迷津渡<span class="mono">yuè mí jīn dù</span></dt><dd><span lang="en">jīn dù: a ferry landing. In the hazy moonlight, the ferry landing is lost.</span><span lang="zh">津渡：渡口，过河坐船的地方。月迷津渡，月色朦胧，渡口也找不到了。</span></dd></div><div><dt>桃源<span class="mono">táo yuán</span></dt><dd><span lang="en">táo yuán: the Peach Blossom Spring. Tao Yuanming wrote of a hidden, happy place cut off from the world. It is said to lie near Wuling, not far north of Chenzhou.</span><span lang="zh">桃源：桃花源。陶渊明写过一个与世隔绝、人人快乐的地方叫桃花源，相传就在郴州北边不远的武陵一带。</span></dd></div><div><dt>望断<span class="mono">wàng duàn</span></dt><dd><span lang="en">wàng duàn: gazing until the eyes can see no more.</span><span lang="zh">望断：望到看不见为止，望穿了眼。</span></dd></div><div><dt>可堪<span class="mono">kě kān</span></dt><dd><span lang="en">kě kān: how can one bear.</span><span lang="zh">可堪：哪里受得了。</span></dd></div><div><dt>孤馆<span class="mono">gū guǎn</span></dt><dd><span lang="en">gū guǎn: a lonely inn.</span><span lang="zh">孤馆：孤零零的旅店。</span></dd></div><div><dt>杜鹃<span class="mono">dù juān</span></dt><dd><span lang="en">dù juān: the cuckoo. People of old thought its call sounded like &quot;better to go home&quot;, and it made them homesick.</span><span lang="zh">杜鹃：一种鸟。古人觉得它的叫声像“不如归去”，听了让人想家。</span></dd></div><div><dt>斜阳暮<span class="mono">xié yáng mù</span></dt><dd><span lang="en">xié yáng mù: the sun sinking, evening falling.</span><span lang="zh">斜阳暮：太阳偏西，天快黑了。</span></dd></div><div><dt>驿寄梅花<span class="mono">yì jì méi huā</span></dt><dd><span lang="en">yì: an old post station that carried letters. Yì jì méi huā means a friend sends plum blossoms as a greeting, from the old story of Lu Kai sending plum blossoms to Fan Ye.</span><span lang="zh">驿：古代传送公文、书信的驿站。驿寄梅花，指朋友托人带来梅花，表示问候。这用的是南北朝陆凯给范晔寄梅花的故事。</span></dd></div><div><dt>鱼传尺素<span class="mono">yú chuán chǐ sù</span></dt><dd><span lang="en">chǐ sù: a foot-long piece of white silk used for writing, meaning a letter. Yú chuán chǐ sù comes from an old poem about a carp-shaped letter case brought from far away. It means receiving letters from afar.</span><span lang="zh">尺素：写信用的一尺长的白绢，就是书信。鱼传尺素，出自古诗“客从远方来，遗我双鲤鱼”，指收到远方的来信。</span></dd></div><div><dt>砌成<span class="mono">qì chéng</span></dt><dd><span lang="en">qì chéng: piled up brick by brick, like building a wall.</span><span lang="zh">砌成：像砌墙一样一块一块堆起来。</span></dd></div><div><dt>无重数<span class="mono">wú chóng shù</span></dt><dd><span lang="en">wú chóng shù: too many layers to count.</span><span lang="zh">无重数：数不清有多少层。</span></dd></div><div><dt>郴江<span class="mono">chēn jiāng</span></dt><dd><span lang="en">chēn jiāng: the Chen River, which flows out of the Chen hills and north into the Xiang River.</span><span lang="zh">郴江：郴州的一条河，从郴山流出，向北流进湘江。</span></dd></div><div><dt>幸自<span class="mono">xìng zì</span></dt><dd><span lang="en">xìng zì: by nature, it was meant to.</span><span lang="zh">幸自：本来是。</span></dd></div><div><dt>潇湘<span class="mono">xiāo xiāng</span></dt><dd><span lang="en">xiāo xiāng: the Xiao and Xiang rivers in today&#x27;s Hunan.</span><span lang="zh">潇湘：潇水和湘江，在今天的湖南。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>处<span class="mono">chù</span></dt><dd><span lang="en">Chù here means place, read chù.</span><span lang="zh">“无寻处”的“处”是“地方”，读 chù。</span></dd></div><div><dt>重<span class="mono">chóng</span></dt><dd><span lang="en">Wú chóng shù means countless layers. Chóng means layer, read chóng, not zhòng.</span><span lang="zh">“无重数”是“数不清有多少层”，“重”读 chóng。</span></dd></div><div><dt>数<span class="mono">shù</span></dt><dd><span lang="en">Shù here is a noun, number, read shù, not shǔ.</span><span lang="zh">“重数”的“数”是名词“数目”，读 shù。</span></dd></div><div><dt>郴<span class="mono">chēn</span></dt><dd><span lang="en">This place-name character is read chēn.</span><span lang="zh">“郴”读 chēn，是地名。</span></dd></div><div><dt>为<span class="mono">wèi</span></dt><dd><span lang="en">Wèi shuí means for whom, read wèi.</span><span lang="zh">“为谁”是“为了谁”，读 wèi。</span></dd></div><div><dt>谁<span class="mono">shuí</span></dt><dd><span lang="en">Shéi is the common spoken reading. In poems people often say shuí. Both are correct.</span><span lang="zh">“谁”口语多读 shéi，读诗时常读 shuí，两种都对。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Under Emperor Zhezong, the court group that opposed the new reforms lost power. Because Qin Guan was Su Shi&#x27;s student, he was sent away again and again. In 1096 he was banished to Chenzhou in today&#x27;s Hunan, and the next spring he wrote this lyric at an inn there. A Song-dynasty notebook says Su Shi loved the last two lines so much that he wrote them on his fan. After Qin Guan died, Su Shi sighed that even ten thousand people could not buy him back.</p><p lang="zh">宋哲宗时，朝廷里反对新法的一派失势，秦观因为是苏轼的学生，接连被贬。绍圣三年（1096年）他被贬到郴州（今湖南郴州），第二年春天在郴州的旅店里写下这首词。据宋人笔记记载，苏轼非常喜欢最后两句，把它们写在扇子上。秦观去世后，苏轼叹息说，就是一万个人也换不回他。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Qin Guan (1049–1100), also called Shaoyou and known as the Retired Scholar of Huaihai, came from Gaoyou in today&#x27;s Jiangsu. He was one of the Four Scholars of Su Shi&#x27;s circle. His lyrics are gentle and delicate, often about parting and sadness, and he is a leading poet of the graceful style. In his last years he was banished again and again, and this lyric shows the deepest despair in his heart.</p><p lang="zh">秦观（1049—1100），字少游，号淮海居士，高邮（今江苏高邮）人，是“苏门四学士”之一。他的词温柔细腻，多写离别和伤感，是婉约派的代表词人。晚年被一贬再贬，这首词写出了他心里最深的绝望。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first three lines are all mist and confusion. Fog hides the towers, the ferry landing is lost in the moonlight, and the lovely Peach Blossom Spring is nowhere to be seen. It is like his future, which he cannot see at all. Next comes the scene before him: shut alone in an inn, the spring air cold, the cuckoo calling, the sun going down. He could not be lonelier. In the second stanza, friends send plum blossoms and letters. They are meant to comfort him, but they pile his sorrow higher, like bricks in a wall. At the end he asks the Chen River: you were meant to wind around the Chen hills, so why flow off to the Xiao and Xiang? He asks the river, but he is really asking himself: my life was fine, so why was I swept so far away?</p><p lang="zh">开头三句是一片迷茫：雾遮住了楼台，月色里找不到渡口，那个美好的桃花源也看不见了。这也像他的前途，一片茫然。接着写眼前：一个人关在旅店里，春寒冷冷，杜鹃在叫，太阳落山，孤单到了极点。下片说，朋友寄来梅花和书信，本是安慰，却让愁越堆越高，像砌墙一样。最后他问郴江：你本来绕着郴山流，为什么要流到潇湘去？问江水，其实是问自己：我本来好好的，为什么会被冲到这么远的地方来？</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/chaitoufeng-hongsushou/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>钗头凤·红酥手</b></a><a href="../../p/yumeiren-tingyu/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>虞美人·听雨</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["雾", "wù"], ["失", "shī"], ["楼", "lóu"], ["台", "tái"]], [["月", "yuè"], ["迷", "mí"], ["津", "jīn"], ["渡", "dù"]], [["桃", "táo"], ["源", "yuán"], ["望", "wàng"], ["断", "duàn"], ["无", "wú"], ["寻", "xún"], ["处", "chù"]], [["可", "kě"], ["堪", "kān"], ["孤", "gū"], ["馆", "guǎn"], ["闭", "bì"], ["春", "chūn"], ["寒", "hán"]], [["杜", "dù"], ["鹃", "juān"], ["声", "shēng"], ["里", "lǐ"], ["斜", "xié"], ["阳", "yáng"], ["暮", "mù"]], [["驿", "yì"], ["寄", "jì"], ["梅", "méi"], ["花", "huā"]], [["鱼", "yú"], ["传", "chuán"], ["尺", "chǐ"], ["素", "sù"]], [["砌", "qì"], ["成", "chéng"], ["此", "cǐ"], ["恨", "hèn"], ["无", "wú"], ["重", "chóng"], ["数", "shù"]], [["郴", "chēn"], ["江", "jiāng"], ["幸", "xìng"], ["自", "zì"], ["绕", "rào"], ["郴", "chēn"], ["山", "shān"]], [["为", "wèi"], ["谁", "shuí"], ["流", "liú"], ["下", "xià"], ["潇", "xiāo"], ["湘", "xiāng"], ["去", "qù"]]], "glosses": [{"line": 0, "start": 0, "end": 4, "zh": "雾失楼台：大雾里，楼台都看不见了。", "en": "wù shī lóu tái: in the fog, the towers vanish."}, {"line": 1, "start": 0, "end": 4, "zh": "津渡：渡口，过河坐船的地方。月迷津渡，月色朦胧，渡口也找不到了。", "en": "jīn dù: a ferry landing. In the hazy moonlight, the ferry landing is lost."}, {"line": 2, "start": 0, "end": 2, "zh": "桃源：桃花源。陶渊明写过一个与世隔绝、人人快乐的地方叫桃花源，相传就在郴州北边不远的武陵一带。", "en": "táo yuán: the Peach Blossom Spring. Tao Yuanming wrote of a hidden, happy place cut off from the world. It is said to lie near Wuling, not far north of Chenzhou."}, {"line": 2, "start": 2, "end": 4, "zh": "望断：望到看不见为止，望穿了眼。", "en": "wàng duàn: gazing until the eyes can see no more."}, {"line": 3, "start": 0, "end": 2, "zh": "可堪：哪里受得了。", "en": "kě kān: how can one bear."}, {"line": 3, "start": 2, "end": 4, "zh": "孤馆：孤零零的旅店。", "en": "gū guǎn: a lonely inn."}, {"line": 4, "start": 0, "end": 2, "zh": "杜鹃：一种鸟。古人觉得它的叫声像“不如归去”，听了让人想家。", "en": "dù juān: the cuckoo. People of old thought its call sounded like \"better to go home\", and it made them homesick."}, {"line": 4, "start": 4, "end": 7, "zh": "斜阳暮：太阳偏西，天快黑了。", "en": "xié yáng mù: the sun sinking, evening falling."}, {"line": 5, "start": 0, "end": 4, "zh": "驿：古代传送公文、书信的驿站。驿寄梅花，指朋友托人带来梅花，表示问候。这用的是南北朝陆凯给范晔寄梅花的故事。", "en": "yì: an old post station that carried letters. Yì jì méi huā means a friend sends plum blossoms as a greeting, from the old story of Lu Kai sending plum blossoms to Fan Ye."}, {"line": 6, "start": 0, "end": 4, "zh": "尺素：写信用的一尺长的白绢，就是书信。鱼传尺素，出自古诗“客从远方来，遗我双鲤鱼”，指收到远方的来信。", "en": "chǐ sù: a foot-long piece of white silk used for writing, meaning a letter. Yú chuán chǐ sù comes from an old poem about a carp-shaped letter case brought from far away. It means receiving letters from afar."}, {"line": 7, "start": 0, "end": 2, "zh": "砌成：像砌墙一样一块一块堆起来。", "en": "qì chéng: piled up brick by brick, like building a wall."}, {"line": 7, "start": 4, "end": 7, "zh": "无重数：数不清有多少层。", "en": "wú chóng shù: too many layers to count."}, {"line": 8, "start": 0, "end": 2, "zh": "郴江：郴州的一条河，从郴山流出，向北流进湘江。", "en": "chēn jiāng: the Chen River, which flows out of the Chen hills and north into the Xiang River."}, {"line": 8, "start": 2, "end": 4, "zh": "幸自：本来是。", "en": "xìng zì: by nature, it was meant to."}, {"line": 9, "start": 4, "end": 6, "zh": "潇湘：潇水和湘江，在今天的湖南。", "en": "xiāo xiāng: the Xiao and Xiang rivers in today's Hunan."}], "readings": [{"line": 2, "pos": 6, "char": "处", "pinyin": "chù", "zh": "“无寻处”的“处”是“地方”，读 chù。", "en": "Chù here means place, read chù."}, {"line": 7, "pos": 5, "char": "重", "pinyin": "chóng", "zh": "“无重数”是“数不清有多少层”，“重”读 chóng。", "en": "Wú chóng shù means countless layers. Chóng means layer, read chóng, not zhòng."}, {"line": 7, "pos": 6, "char": "数", "pinyin": "shù", "zh": "“重数”的“数”是名词“数目”，读 shù。", "en": "Shù here is a noun, number, read shù, not shǔ."}, {"line": 8, "pos": 0, "char": "郴", "pinyin": "chēn", "zh": "“郴”读 chēn，是地名。", "en": "This place-name character is read chēn."}, {"line": 9, "pos": 0, "char": "为", "pinyin": "wèi", "zh": "“为谁”是“为了谁”，读 wèi。", "en": "Wèi shuí means for whom, read wèi."}, {"line": 9, "pos": 1, "char": "谁", "pinyin": "shuí", "zh": "“谁”口语多读 shéi，读诗时常读 shuí，两种都对。", "en": "Shéi is the common spoken reading. In poems people often say shuí. Both are correct."}], "speak": ["雾失楼台", "月迷津渡", "桃源望断无寻处", "可堪孤馆闭春寒", "杜鹃声里斜阳暮", "驿寄梅花", "鱼传尺素", "砌成此恨无重数", "郴江幸自绕郴山", "为谁流下潇湘去"], "speakTitle": "踏莎行，郴州旅舍。秦观。", "sample": "雾失楼台"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

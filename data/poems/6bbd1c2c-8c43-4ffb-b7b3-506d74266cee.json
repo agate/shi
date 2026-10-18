@@ -1,0 +1,292 @@
+{
+ "id": "6bbd1c2c-8c43-4ffb-b7b3-506d74266cee",
+ "kind": "shi",
+ "title": "九月九日忆山东兄弟",
+ "title_en": "Thinking of My Brothers East of the Mountains on the Ninth Day of the Ninth Month",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "异",
+    "yì"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "为",
+    "wéi"
+   ],
+   [
+    "异",
+    "yì"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "每",
+    "měi"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "倍",
+    "bèi"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "亲",
+    "qīn"
+   ]
+  ],
+  [
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "兄",
+    "xiōng"
+   ],
+   [
+    "弟",
+    "dì"
+   ],
+   [
+    "登",
+    "dēng"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "遍",
+    "biàn"
+   ],
+   [
+    "插",
+    "chā"
+   ],
+   [
+    "茱",
+    "zhū"
+   ],
+   [
+    "萸",
+    "yú"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "一",
+    "yì"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 0,
+   "pos": 5,
+   "char": "异",
+   "pinyin": "yì",
+   "zh": "“为”是做、成为的意思，读 wéi，不读 wèi。",
+   "en": "Wéi here means to be, to become. It is read wéi, not wèi."
+  },
+  {
+   "line": 2,
+   "pos": 6,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“处”是地方的意思，读 chù。",
+   "en": "Chù means a place, read chù."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "少",
+   "pinyin": "shǎo",
+   "zh": "“少”是缺少的意思，读 shǎo，不读 shào。",
+   "en": "Shǎo means missing, too few. It is read shǎo, not shào."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "一",
+   "pinyin": "yì",
+   "zh": "“一”在阳平字“人”前变调，读 yì。",
+   "en": "Yī changes to yì before the second-tone syllable rén."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "异乡：别的地方，不是自己的家乡。",
+   "en": "yì xiāng: a strange place, not one's home town."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "为异客：做了外地的客人。为，做、成为。",
+   "en": "wéi yì kè: to be a stranger, a guest from somewhere else. Wéi means to be, to become."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "每逢：每到，每当遇到。",
+   "en": "měi féng: every time ... comes."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "佳节：美好的节日。",
+   "en": "jiā jié: a happy festival."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "倍：加倍，更加。",
+   "en": "bèi: doubly, even more."
+  },
+  {
+   "line": 1,
+   "start": 5,
+   "end": 7,
+   "zh": "思亲：想念亲人。",
+   "en": "sī qīn: to miss one's family."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "遥知：在远方想到。遥，远。",
+   "en": "yáo zhī: knowing from far away. Yáo means far."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "登高：爬到高处。古人有九月九日重阳节登高的习俗。",
+   "en": "dēng gāo: to climb up high. In old times people climbed hills on the Double Ninth Festival, the ninth day of the ninth month."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "茱萸：一种香气很浓的植物。古人重阳节把它插在头上或佩戴在身上，相信可以驱邪避灾。",
+   "en": "zhū yú: a strongly scented plant, the dogwood of old Chinese custom. On the Double Ninth, people wore sprigs of it in their hair or on their clothes, believing it kept away evil and bad luck."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "少一人：少了一个人，就是少了我。",
+   "en": "shǎo yì rén: one person is missing, and that person is me."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "我一个人在外地，做了一个外乡来的客人，",
+   "en": "Alone in a strange land, I am a stranger here."
+  },
+  {
+   "zh": "每到过节的时候，就更加想念家里的亲人。",
+   "en": "Every time a festival comes, I miss my family twice as much."
+  },
+  {
+   "zh": "我在远方也知道，兄弟们今天都去登高了，",
+   "en": "Far away, I know my brothers are climbing high today."
+  },
+  {
+   "zh": "他们都插上了茱萸，只是少了我一个人。",
+   "en": "They all wear sprigs of zhuyu, but one person is missing."
+  }
+ ],
+ "background": {
+  "zh": "王维在诗题下注明“时年十七”，就是说这首诗是他十七岁时写的。那时他离开家乡，在长安一带游学，准备考试。他的家乡在蒲州（今山西永济），在华山的东边，所以叫“山东”，不是今天的山东省。九月九日是重阳节，这天要和家人一起登高、插茱萸。王维一个人在外地，想起家乡的兄弟，写下了这首诗。",
+  "en": "Under the title Wang Wei noted that he was seventeen when he wrote it. He had left home and was living around Chang'an, studying and preparing for the examinations. His home was Puzhou, today's Yongji in Shanxi, east of Mount Hua, so he called it \"east of the mountains\", Shandong, which is not today's Shandong Province. The ninth day of the ninth month is the Double Ninth Festival, when families climb hills together and wear zhuyu. Alone far from home, Wang Wei thought of his brothers and wrote this poem."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），唐朝诗人、画家，字摩诘。他多才多艺，会写诗、画画，还精通音乐。他的山水诗写得像画一样，苏轼说他“诗中有画，画中有诗”。这首诗是他少年时写的，语言朴素，感情真挚。",
+  "en": "Wang Wei (701–761; some say 699–761) was a Tang poet and painter. He was gifted in many arts: poetry, painting and music. His poems about landscapes read like paintings, and Su Shi said there were paintings in his poems and poems in his paintings. He wrote this one as a teenager, in plain words and with true feeling."
+ },
+ "appreciation": {
+  "zh": "第一句里有两个“异”字：在“异乡”，做“异客”，读起来就觉得孤零零的。第二句“每逢佳节倍思亲”说出了几乎每个人都有过的感受：平时还好，一到节日，看见别人一家团圆，就特别想家。这句话太贴切了，一千多年来人们一直在用。后两句很巧，诗人不写自己怎么想兄弟，反过来写兄弟们怎么想他：他们登上高处，一个个插上茱萸，数来数去，发现少了一个人。从对面写过来，思念就更深了。",
+  "en": "The first line has the word yì, strange, twice: in a strange land, a stranger. Reading it, you feel how alone he is. The second line, \"every time a festival comes, I miss my family twice as much\", names a feeling almost everyone has had. Most days are fine, but at a festival, when you see other families together, you long for home. It fits so well that people have quoted it for more than a thousand years. The last two lines are clever. Instead of saying how he misses his brothers, the poet imagines his brothers missing him. They climb up high, each puts on a sprig of zhuyu, and as they count, they find one person missing. Seen from the other side, the longing feels even deeper."
+ },
+ "famous_lines": [
+  1,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "family",
+   "festival"
+  ]
+ },
+ "uncertain": []
+}

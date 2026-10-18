@@ -1,0 +1,271 @@
+{
+ "id": "b1a23dad-694c-41a0-82b7-6a0ddde6d246",
+ "kind": "shi",
+ "title": "江南春",
+ "title_en": "Spring in Jiangnan",
+ "author": "杜牧",
+ "author_en": "Du Mu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "绿",
+    "lǜ"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ]
+  ],
+  [
+   [
+    "水",
+    "shuǐ"
+   ],
+   [
+    "村",
+    "cūn"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "郭",
+    "guō"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "旗",
+    "qí"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "朝",
+    "cháo"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "八",
+    "bā"
+   ],
+   [
+    "十",
+    "shí"
+   ],
+   [
+    "寺",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "台",
+    "tái"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "中",
+    "zhōng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "诗的文字和古籍底本相同。底本题目作《江南春绝句》，课本通常题作《江南春》。",
+  "en": "The words of the poem match the source text. The source gives the title as \"Jiangnan Chun Jueju\" (Spring in Jiangnan, a Quatrain); textbooks usually shorten it to \"Jiangnan Chun\"."
+ },
+ "readings": [
+  {
+   "line": 2,
+   "pos": 1,
+   "char": "朝",
+   "pinyin": "cháo",
+   "zh": "朝，这里读 cháo，指朝代。南朝就是南方的几个朝代。不读 zhāo（早晨）。",
+   "en": "Here this character is read cháo, meaning a dynasty. Nán cháo means the Southern Dynasties. It is not zhāo, which means morning."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "千里：形容地方很大，指整个江南。",
+   "en": "qiān lǐ: a thousand li, a way of saying a very wide land, here all of Jiangnan."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "莺啼：黄莺在叫。黄莺是一种叫声好听的小鸟。",
+   "en": "yīng tí: orioles singing. The oriole is a small bird with a sweet song."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "绿映江：绿树绿草和红花互相映衬，倒映在江水里。映，照、映衬。",
+   "en": "lǜ yìng jiāng: green trees and grass shine against the river and the red flowers. Yìng means to reflect or set off."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "山郭：靠着山的城。郭，外城，这里指城镇。",
+   "en": "shān guō: a town by the hills. Guō is an outer city wall, here a town."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "酒旗：酒店门口挂的小旗子，像今天的招牌。",
+   "en": "jiǔ qí: the flag hung outside a wine shop, like a shop sign today."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "南朝：东晋以后在南方先后出现的宋、齐、梁、陈四个朝代。它们的都城都在建康，就是今天的南京。那时的皇帝和大臣很信佛教，修了很多寺庙。",
+   "en": "nán cháo: the Southern Dynasties, four dynasties (Song, Qi, Liang and Chen) that ruled the south one after another. Their capital was Jiankang, today's Nanjing. Their rulers loved Buddhism and built many temples."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "四百八十寺：四百八十座寺庙。这是说寺庙非常多，不是准确的数字。",
+   "en": "sì bǎi bā shí sì: four hundred and eighty temples. It means a great many, not an exact count."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "多少：这里是“很多”的意思。",
+   "en": "duō shǎo: here it means \"so many\"."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "楼台：高楼和亭台，这里指寺庙里的建筑。",
+   "en": "lóu tái: towers and terraces, here the buildings of the temples."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "烟雨：像烟一样蒙蒙的细雨。",
+   "en": "yān yǔ: fine misty rain that looks like smoke."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "辽阔的江南到处是黄莺的歌声，绿树红花映着江水。",
+   "en": "All over the wide land of Jiangnan orioles sing, and green trees and red flowers shine by the river."
+  },
+  {
+   "zh": "水边的村庄，山边的城镇，酒旗在春风里飘。",
+   "en": "In villages by the water and towns by the hills, wine-shop flags flutter in the wind."
+  },
+  {
+   "zh": "南朝留下了四百八十座寺庙，",
+   "en": "The Southern Dynasties left behind four hundred and eighty temples,"
+  },
+  {
+   "zh": "多少楼台都笼罩在蒙蒙的烟雨中。",
+   "en": "and so many of their towers stand hidden in the misty rain."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是江南的春天。江南指长江下游南边一带，春天花红柳绿，雨水很多。杜牧在江南做过官，也在这一带游历过很多年。这首诗具体写于哪一年，已经说不清了。诗里提到的南朝，都城就在今天的南京。南朝的皇帝特别信佛教，修了大量寺庙，到杜牧的时候，这些寺庙还在烟雨里。",
+  "en": "This poem is about spring in Jiangnan, the land south of the lower Yangtze River. In spring it is full of red flowers and green willows, and it rains a lot. Du Mu served as an official in this region and travelled there for years. We no longer know the exact year he wrote the poem. The Southern Dynasties it mentions had their capital at today's Nanjing. Their emperors loved Buddhism and built huge numbers of temples, and in Du Mu's time many still stood in the rain."
+ },
+ "author_note": {
+  "zh": "杜牧（803—852），晚唐诗人，字牧之。他的诗清新俊朗，尤其擅长七言绝句，写景常常几笔就画出一幅画。人们把他和李商隐并称“小李杜”。",
+  "en": "Du Mu (803–852) was a poet of the late Tang. His poems are fresh and bright, and he was best at seven-character quatrains. With a few strokes he could paint a whole scene. People pair him with Li Shangyin as the \"Little Li and Du\"."
+ },
+ "appreciation": {
+  "zh": "前两句像一张晴天的大画：千里江南，鸟在叫，花在开，水边有村，山边有城，酒旗在风里飘。后两句画面一下子变了，变成蒙蒙的雨天。那么多古老的寺庙，楼台在烟雨里若隐若现。南朝早就灭亡了，寺庙却还在，读起来有一点淡淡的感叹：繁华过去了，只剩下美丽的风景。明代有人说“千里”太远，根本听不见、看不见，应该改成“十里”。后人反驳说，诗写的是整个江南的春天，“千里”正好写出它的辽阔。",
+  "en": "The first two lines are a big sunny painting. Across all of Jiangnan birds sing and flowers bloom. There are villages by the water, towns by the hills, and wine-shop flags in the wind. Then the scene changes to a misty rainy day. So many old temples, their towers half hidden in the rain. The Southern Dynasties were long gone, but the temples remained. There is a soft sigh in it: the glory has passed, and only the beautiful scenery is left. A writer in the Ming dynasty said \"a thousand li\" was too far to hear or see, and it should be \"ten li\". Others answered that the poem paints spring over all of Jiangnan, so \"a thousand li\" shows how vast it is."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "jiangnan",
+   "rain",
+   "temple",
+   "history",
+   "scenery"
+  ]
+ },
+ "uncertain": []
+}

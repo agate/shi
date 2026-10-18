@@ -1,0 +1,253 @@
+{
+ "id": "75db753d-e7da-48a1-a6c0-6ed9147e58db",
+ "kind": "shi",
+ "title": "夜雨寄北",
+ "title_en": "Written on a Rainy Night, Sent North",
+ "author": "李商隐",
+ "author_en": "Li Shangyin",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "期",
+    "qī"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ],
+  [
+   [
+    "巴",
+    "bā"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "涨",
+    "zhǎng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "池",
+    "chí"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "剪",
+    "jiǎn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "烛",
+    "zhú"
+   ]
+  ],
+  [
+   [
+    "却",
+    "què"
+   ],
+   [
+    "话",
+    "huà"
+   ],
+   [
+    "巴",
+    "bā"
+   ],
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 4,
+   "char": "涨",
+   "pinyin": "zhǎng",
+   "zh": "涨，这里读 zhǎng，意思是水位升高，不读 zhàng。",
+   "en": "Here it is read zhǎng, meaning the water rises, not zhàng (to swell)."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "君：你，指收信的人。",
+   "en": "jūn: you, the person who will read the letter."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "归期：回家的日子。",
+   "en": "guī qī: the day of coming home."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "未有期：还定不下日子。",
+   "en": "wèi yǒu qī: no date can be set yet."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "巴山：大巴山，这里泛指诗人所在的巴蜀地区，就是今天的四川、重庆一带。",
+   "en": "bā shān: the Ba Mountains, here meaning the whole Ba-Shu region where the poet is, today's Sichuan and Chongqing."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "涨秋池：秋天的池塘里水涨满了。",
+   "en": "zhǎng qiū chí: the autumn pools fill up and rise."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "何当：什么时候才能。",
+   "en": "hé dāng: when will it be that..."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "共剪西窗烛：一起在西边的窗下剪烛芯。古代的蜡烛点久了，烛芯烧焦变长，要剪掉才亮。“剪烛”就是说两个人谈到很晚。",
+   "en": "gòng jiǎn xī chuāng zhú: to trim the candle together by the west window. An old candle's wick burned long and dark and had to be cut to keep the light bright. Trimming the candle means talking late into the night."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "却话：回过头来说起。",
+   "en": "què huà: to look back and talk about."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你问我什么时候回家，我还定不下日子。",
+   "en": "You ask when I will come home. I cannot say yet."
+  },
+  {
+   "zh": "今晚巴山下着夜雨，秋天的池塘涨满了水。",
+   "en": "Tonight rain falls on the Ba Mountains, and the autumn pools are rising."
+  },
+  {
+   "zh": "什么时候我们才能一起在西窗下剪着烛花，",
+   "en": "When will we sit together by the west window, trimming the candle,"
+  },
+  {
+   "zh": "再说起今晚巴山夜雨时我的心情呢？",
+   "en": "and talk about this night of rain on the Ba Mountains?"
+  }
+ ],
+ "background": {
+  "zh": "李商隐曾在巴蜀一带（今四川、重庆）做官和生活。有一年秋天，他收到北方寄来的信，信里问他什么时候回去。那天夜里正下着雨，他写了这首诗回答。一说这首诗是寄给妻子王氏的，有的版本题目就叫《夜雨寄内》，“内”指妻子；但也有人考证，他写这首诗时妻子已经去世，所以认为是寄给长安的朋友的。",
+  "en": "Li Shangyin lived and worked for a time in the Ba-Shu region (today's Sichuan and Chongqing). One autumn he got a letter from the north asking when he would come back. That night it was raining, and he wrote this poem as his reply. One view says it was sent to his wife, Lady Wang; some editions title it \"Sent to My Wife on a Rainy Night\". Others argue his wife had already died when he wrote it, so they think it went to a friend in Chang'an."
+ },
+ "author_note": {
+  "zh": "李商隐（约813—约858），晚唐诗人，和杜牧并称“小李杜”。他一生在各地做幕僚，就是给地方长官当助手，常常离家很远。他的诗感情细腻，语言很美，有些诗意思隐约，不容易读懂；这首却写得浅白，像在对人说话。",
+  "en": "Li Shangyin (about 813–858) was a late Tang poet, named together with Du Mu as the \"Little Li and Du\". All his life he worked as an aide to regional officials, often far from home. His poems are tender and beautiful, and some are hard to pin down. This one, though, is simple and clear, like talking to someone."
+ },
+ "appreciation": {
+  "zh": "第一句像一问一答：你问我哪天回，我说还不知道。一个“未有期”，带着无奈。第二句写眼前：夜里下着雨，池塘的水在上涨。雨下个不停，就像思念也涨满了心。后两句最妙，诗人想象将来：等我们再见面，在西窗下剪着烛花，聊起今天晚上巴山的雨。现在是孤单的雨夜，将来回头说起它，又变成温暖的话题。“巴山夜雨”在诗里出现了两次，一次是现在的愁，一次是将来的乐。",
+  "en": "The first line is like a question and an answer. You ask when I am coming; I do not know yet. The words \"no date yet\" carry a sense of helplessness. The second line shows what is in front of him. Rain falls at night, and the pools are rising. The rain keeps falling, just as missing someone fills his heart. The last two lines are the best part. The poet imagines the future: when we meet again, we will trim the candle by the west window and talk about tonight's rain. Tonight is lonely, but later it will become something warm to talk about. \"Night rain on the Ba Mountains\" appears twice: once as today's sadness, once as tomorrow's joy."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "rain",
+   "night",
+   "longing",
+   "letter"
+  ]
+ },
+ "uncertain": []
+}

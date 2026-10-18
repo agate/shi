@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>凉州词 · 王翰 — 诗</title>
+    <meta name="description" content="凉州词 · 王翰 — Song of Liangzhou by Wang Han: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 36 · Tang poem · seven-character quatrain</span><span lang="zh">第 36 首 · 唐诗 · 七言绝句</span></p>
+        <h1>凉州词</h1>
+        <p class="by">王翰<span class="mono"><span lang="en">Wang Han · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Song of Liangzhou</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>pú</i><b>葡</b></span><span class="c gl" data-l="0" data-p="1"><i>táo</i><b>萄</b></span><span class="c gl" data-l="0" data-p="2"><i>měi</i><b>美</b></span><span class="c gl" data-l="0" data-p="3"><i>jiǔ</i><b>酒</b></span><span class="c gl" data-l="0" data-p="4"><i>yè</i><b>夜</b></span><span class="c gl" data-l="0" data-p="5"><i>guāng</i><b>光</b></span><span class="c gl" data-l="0" data-p="6"><i>bēi</i><b>杯</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>yù</i><b>欲</b></span><span class="c gl" data-l="1" data-p="1"><i>yǐn</i><b>饮</b></span><span class="c gl" data-l="1" data-p="2"><i>pí</i><b>琵</b></span><span class="c gl" data-l="1" data-p="3"><i>pá</i><b>琶</b></span><span class="c gl" data-l="1" data-p="4"><i>mǎ</i><b>马</b></span><span class="c gl" data-l="1" data-p="5"><i>shàng</i><b>上</b></span><span class="c gl" data-l="1" data-p="6"><i>cuī</i><b>催</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>zuì</i><b>醉</b></span><span class="c gl" data-l="2" data-p="1"><i>wò</i><b>卧</b></span><span class="c gl" data-l="2" data-p="2"><i>shā</i><b>沙</b></span><span class="c gl rd" data-l="2" data-p="3"><i>chǎng</i><b>场</b></span><span class="c gl" data-l="2" data-p="4"><i>jūn</i><b>君</b></span><span class="c" data-l="2" data-p="5"><i>mò</i><b>莫</b></span><span class="c" data-l="2" data-p="6"><i>xiào</i><b>笑</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>gǔ</i><b>古</b></span><span class="c gl" data-l="3" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="3" data-p="2"><i>zhēng</i><b>征</b></span><span class="c gl" data-l="3" data-p="3"><i>zhàn</i><b>战</b></span><span class="c gl" data-l="3" data-p="4"><i>jǐ</i><b>几</b></span><span class="c gl rd" data-l="3" data-p="5"><i>rén</i><b>人</b></span><span class="c gl" data-l="3" data-p="6"><i>huí</i><b>回</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">葡萄美酒夜光杯</span><span lang="en">Fine grape wine fills the glowing jade cups.</span><span lang="zh">葡萄酿的美酒，盛在精美的夜光杯里。</span></li><li><span class="o">欲饮琵琶马上催</span><span lang="en">Just as we raise them to drink, a pipa on horseback urges us on.</span><span lang="zh">正要举杯痛饮，马背上的琵琶声响起来催促着。</span></li><li><span class="o">醉卧沙场君莫笑</span><span lang="en">If I lie drunk on the battlefield, please do not laugh at me.</span><span lang="zh">如果我喝醉了躺在战场上，请你不要笑我，</span></li><li><span class="o">古来征战几人回</span><span lang="en">Since ancient times, how many who went to war ever came home?</span><span lang="zh">自古以来出去打仗的人，有几个能活着回来？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>葡萄美酒<span class="mono">pú táo měi jiǔ</span></dt><dd><span lang="en">pú táo měi jiǔ: fine wine made from grapes. Grape wine came to China from the lands to the west.</span><span lang="zh">葡萄美酒：用葡萄酿的好酒。葡萄酒是从西域传来的。</span></dd></div><div><dt>夜光杯<span class="mono">yè guāng bēi</span></dt><dd><span lang="en">yè guāng bēi: a cup of white jade said to glow at night. Here it means a very fine cup.</span><span lang="zh">夜光杯：用白玉做的酒杯，传说在夜里能发光。这里是说杯子很精美。</span></dd></div><div><dt>欲饮<span class="mono">yù yǐn</span></dt><dd><span lang="en">yù yǐn: just about to drink. Yù means to want to, to be about to.</span><span lang="zh">欲饮：正要喝。欲，想要、将要。</span></dd></div><div><dt>琵琶<span class="mono">pí pá</span></dt><dd><span lang="en">pí pá: the pipa, a plucked lute from the lands to the west, which can be played on horseback.</span><span lang="zh">琵琶：一种弹拨乐器，从西域传来，可以在马上弹奏。</span></dd></div><div><dt>马上催<span class="mono">mǎ shàng cuī</span></dt><dd><span lang="en">mǎ shàng cuī: someone on horseback plays the pipa, urging everyone to drink. Another reading: it urges the soldiers to set off for battle.</span><span lang="zh">马上催：在马背上弹起琵琶，催人喝酒。一说是催人出发去打仗。</span></dd></div><div><dt>醉卧<span class="mono">zuì wò</span></dt><dd><span lang="en">zuì wò: to lie down drunk.</span><span lang="zh">醉卧：喝醉了躺下。</span></dd></div><div><dt>沙场<span class="mono">shā chǎng</span></dt><dd><span lang="en">shā chǎng: the battlefield. Frontier battlefields were often flat, sandy ground.</span><span lang="zh">沙场：战场。边塞的战场多是平坦的沙地。</span></dd></div><div><dt>君<span class="mono">jūn</span></dt><dd><span lang="en">jūn: you.</span><span lang="zh">君：你。</span></dd></div><div><dt>古来<span class="mono">gǔ lái</span></dt><dd><span lang="en">gǔ lái: since ancient times.</span><span lang="zh">古来：自古以来。</span></dd></div><div><dt>征战<span class="mono">zhēng zhàn</span></dt><dd><span lang="en">zhēng zhàn: to go off to war.</span><span lang="zh">征战：出去打仗。</span></dd></div><div><dt>几人回<span class="mono">jǐ rén huí</span></dt><dd><span lang="en">jǐ rén huí: how many come home alive?</span><span lang="zh">几人回：有几个人能活着回来。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>场<span class="mono">chǎng</span></dt><dd><span lang="en">In shā chǎng, battlefield, it is read chǎng.</span><span lang="zh">“场”在“沙场”里读 chǎng。</span></dd></div><div><dt>人<span class="mono">rén</span></dt><dd><span lang="en">Jǐ means how many. It is read jǐ, not jī.</span><span lang="zh">“几”是多少的意思，读 jǐ，不读 jī。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">&quot;Song of Liangzhou&quot; was originally the name of a popular Tang tune. Liangzhou was around today&#x27;s Wuwei in Gansu, an important frontier region in the northwest. Many poets wrote words to this tune about life on the frontier. Wang Han wrote two; this is the first. We do not know the year it was written. The poem shows frontier soldiers drinking before they go into battle.</p><p lang="zh">《凉州词》本来是唐朝流行的一种曲子的名字。凉州在今甘肃武威一带，是西北的边塞重地。很多诗人都按这个曲子填过词，写边塞的生活。王翰写了两首，这是第一首。这首诗写于哪一年，现在不清楚。诗里写的是边塞将士在出征前喝酒的场面。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Wang Han was a Tang poet from Jinyang in Bingzhou, today&#x27;s Taiyuan in Shanxi. His exact birth and death years are not known. He passed the highest imperial examination. He was bold and free, loved wine, and kept many horses and singers at home. Few of his poems survive, but this one is very famous.</p><p lang="zh">王翰，字子羽，并州晋阳（今山西太原）人，唐朝诗人，生卒年不详。他考中过进士，性格豪放，喜欢喝酒，家里养着很多马和歌伎。他留下来的诗很少，但这首《凉州词》非常有名。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poem opens with a lively feast. Grape wine and glowing jade cups were rare treasures from the western lands, bright and colourful: this is clearly a party on the frontier. Just as the cups are raised, the pipa starts to play, and everyone drinks even more freely. The third line turns: &quot;If I lie drunk on the battlefield, please don&#x27;t laugh at me.&quot; The fourth line gives the reason: since ancient times, how many who went to war came back? This sounds bold, as if the soldier does not care about life or death. But think about it, and there is a deep sadness inside. Because they may not come back tomorrow, they drink their fill today. Boldness and sorrow are mixed together, and that is what makes the poem so moving.</p><p lang="zh">这首诗一开头就很热闹：葡萄美酒、夜光杯，都是西域来的稀罕东西，颜色鲜亮，一看就是边塞的宴会。正要举杯，琵琶声响起来了，大家喝得更痛快。第三句话锋一转：“喝醉了躺在战场上，你可别笑话我。”第四句说出原因：自古以来去打仗的人，有几个能回来？这句话听上去很豪迈，好像不把生死放在心上；可仔细想想，里面也有说不出的悲凉。正因为明天可能回不来，今天才要痛痛快快地喝。豪放和悲伤混在一起，这就是这首诗打动人的地方。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/leyouyuan/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>乐游原</b></a><a href="../../p/wenliushijiu/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>问刘十九</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["葡", "pú"], ["萄", "táo"], ["美", "měi"], ["酒", "jiǔ"], ["夜", "yè"], ["光", "guāng"], ["杯", "bēi"]], [["欲", "yù"], ["饮", "yǐn"], ["琵", "pí"], ["琶", "pá"], ["马", "mǎ"], ["上", "shàng"], ["催", "cuī"]], [["醉", "zuì"], ["卧", "wò"], ["沙", "shā"], ["场", "chǎng"], ["君", "jūn"], ["莫", "mò"], ["笑", "xiào"]], [["古", "gǔ"], ["来", "lái"], ["征", "zhēng"], ["战", "zhàn"], ["几", "jǐ"], ["人", "rén"], ["回", "huí"]]], "glosses": [{"line": 0, "start": 0, "end": 4, "zh": "葡萄美酒：用葡萄酿的好酒。葡萄酒是从西域传来的。", "en": "pú táo měi jiǔ: fine wine made from grapes. Grape wine came to China from the lands to the west."}, {"line": 0, "start": 4, "end": 7, "zh": "夜光杯：用白玉做的酒杯，传说在夜里能发光。这里是说杯子很精美。", "en": "yè guāng bēi: a cup of white jade said to glow at night. Here it means a very fine cup."}, {"line": 1, "start": 0, "end": 2, "zh": "欲饮：正要喝。欲，想要、将要。", "en": "yù yǐn: just about to drink. Yù means to want to, to be about to."}, {"line": 1, "start": 2, "end": 4, "zh": "琵琶：一种弹拨乐器，从西域传来，可以在马上弹奏。", "en": "pí pá: the pipa, a plucked lute from the lands to the west, which can be played on horseback."}, {"line": 1, "start": 4, "end": 7, "zh": "马上催：在马背上弹起琵琶，催人喝酒。一说是催人出发去打仗。", "en": "mǎ shàng cuī: someone on horseback plays the pipa, urging everyone to drink. Another reading: it urges the soldiers to set off for battle."}, {"line": 2, "start": 0, "end": 2, "zh": "醉卧：喝醉了躺下。", "en": "zuì wò: to lie down drunk."}, {"line": 2, "start": 2, "end": 4, "zh": "沙场：战场。边塞的战场多是平坦的沙地。", "en": "shā chǎng: the battlefield. Frontier battlefields were often flat, sandy ground."}, {"line": 2, "start": 4, "end": 5, "zh": "君：你。", "en": "jūn: you."}, {"line": 3, "start": 0, "end": 2, "zh": "古来：自古以来。", "en": "gǔ lái: since ancient times."}, {"line": 3, "start": 2, "end": 4, "zh": "征战：出去打仗。", "en": "zhēng zhàn: to go off to war."}, {"line": 3, "start": 4, "end": 7, "zh": "几人回：有几个人能活着回来。", "en": "jǐ rén huí: how many come home alive?"}], "readings": [{"line": 2, "pos": 3, "char": "场", "pinyin": "chǎng", "zh": "“场”在“沙场”里读 chǎng。", "en": "In shā chǎng, battlefield, it is read chǎng."}, {"line": 3, "pos": 5, "char": "人", "pinyin": "rén", "zh": "“几”是多少的意思，读 jǐ，不读 jī。", "en": "Jǐ means how many. It is read jǐ, not jī."}], "speak": ["葡萄美酒夜光杯", "欲饮琵琶马上催", "醉卧沙场君莫笑", "古来征战几人回"], "speakTitle": "凉州词。王翰。", "sample": "葡萄美酒夜光杯"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

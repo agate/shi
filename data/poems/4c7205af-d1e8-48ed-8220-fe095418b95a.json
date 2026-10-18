@@ -1,0 +1,227 @@
+{
+ "id": "4c7205af-d1e8-48ed-8220-fe095418b95a",
+ "kind": "shi",
+ "title": "杂诗·其二",
+ "title_en": "Miscellaneous Poem, No. 2",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "应",
+    "yīng"
+   ],
+   [
+    "知",
+    "zhī"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "绮",
+    "qǐ"
+   ],
+   [
+    "窗",
+    "chuāng"
+   ],
+   [
+    "前",
+    "qián"
+   ]
+  ],
+  [
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "梅",
+    "méi"
+   ],
+   [
+    "着",
+    "zhuó"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "未",
+    "wèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "着",
+   "pinyin": "zhuó",
+   "zh": "着，这里是“长出、开出”的意思，读 zhuó，不读 zhe 或 zháo。",
+   "en": "Here this character means to put forth (flowers), and is read zhuó, not zhe or zháo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "君：你，对人客气的称呼。",
+   "en": "jūn: you, a polite way to address someone."
+  },
+  {
+   "line": 0,
+   "start": 1,
+   "end": 2,
+   "zh": "自：从。",
+   "en": "zì: from."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "故乡：家乡，老家。",
+   "en": "gù xiāng: hometown."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 1,
+   "zh": "应：应该。",
+   "en": "yīng: ought to, must."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "来日：你动身来这里的那一天。",
+   "en": "lái rì: the day you set out to come here."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "绮窗：雕着花纹的漂亮窗户。",
+   "en": "qǐ chuāng: a pretty window with carved patterns."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "寒梅：冬天冒着寒冷开花的梅花。",
+   "en": "hán méi: the plum tree that blooms in the winter cold."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "着花：开花。",
+   "en": "zhuó huā: to bloom."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 5,
+   "zh": "未：用在句尾，问“……了没有”。",
+   "en": "wèi: at the end of a question, it asks: yet or not?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "你是从我的家乡来的，",
+   "en": "You have come from my hometown,"
+  },
+  {
+   "zh": "应该知道家乡的事情。",
+   "en": "so you must know what goes on there."
+  },
+  {
+   "zh": "你动身来的那天，我家那扇雕花窗前，",
+   "en": "On the day you left, before my carved window,"
+  },
+  {
+   "zh": "那棵梅花开了没有？",
+   "en": "had the winter plum begun to bloom?"
+  }
+ ],
+ "background": {
+  "zh": "王维写了三首《杂诗》，这是第二首，写作时间不清楚。“杂诗”是古代诗人常用的题目，意思是随手写下、不好起具体题目的诗。诗里的人离开家乡很久了，遇到一位从家乡来的人，就急着打听家乡的事。他问的不是大事，而是窗前的一棵梅树。",
+  "en": "Wang Wei wrote three Miscellaneous Poems, and this is the second. We do not know when. Miscellaneous Poem was a common title for poems written on the spur of the moment, without a particular subject for a title. The speaker has been away from home a long time. He meets someone who has just come from his hometown and eagerly asks for news. What he asks about is not something big, but a plum tree by his window."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），唐代诗人、画家，人称“诗佛”。他十几岁就离开家乡，到长安等地求取功名，一生大部分时间都在外地。他写思念家乡的诗很动人，《九月九日忆山东兄弟》也是他的名作。",
+  "en": "Wang Wei (701–761; some say 699–761) was a Tang poet and painter, called the Buddha of Poetry. In his teens he left home for Chang'an and other places to seek an official career, and spent most of his life away. His poems about missing home are very moving. Thinking of My Brothers on the Double Ninth Festival is another famous one."
+ },
+ "appreciation": {
+  "zh": "想想看，你离家很久，突然遇到一个刚从老家来的人，会问什么？可能会问家里人好不好、家里怎么样了。这首诗里的人却只问了一件小事：我家窗前那棵梅花开了没有？问得越小，越能看出他对家乡的一草一木都记得清清楚楚。那棵梅树，也许是他和家人一起种的，也许会让他想起家里的某个人。一棵小小的梅树，装着他满满的思念。",
+  "en": "Imagine you have been away from home for a long time and suddenly meet someone just back from there. What would you ask? Maybe how your family is, or how things are at home. But the person in this poem asks only one small thing: had the plum tree by my window bloomed yet? The smaller the question, the more we see that he remembers every plant and tree of home clearly. Maybe he planted that tree with his family. Maybe it reminds him of someone at home. One little plum tree holds all his longing."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "plum",
+   "hometown"
+  ]
+ },
+ "uncertain": []
+}

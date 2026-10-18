@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>蝶恋花·槛菊愁烟兰泣露 · 晏殊 — 诗</title>
+    <meta name="description" content="蝶恋花·槛菊愁烟兰泣露 · 晏殊 — Butterflies Love Flowers: Chrysanthemums by the Railing Grieve in Mist by Yan Shu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 71 · Song lyric · ci lyric in two stanzas, 60 characters</span><span lang="zh">第 71 首 · 宋词 · 词（双调，六十字）</span></p>
+        <h1>蝶恋花·槛菊愁烟兰泣露</h1>
+        <p class="by">晏殊<span class="mono"><span lang="en">Yan Shu · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Butterflies Love Flowers: Chrysanthemums by the Railing Grieve in Mist</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl rd" data-l="0" data-p="0"><i>jiàn</i><b>槛</b></span><span class="c gl" data-l="0" data-p="1"><i>jú</i><b>菊</b></span><span class="c gl" data-l="0" data-p="2"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="0" data-p="3"><i>yān</i><b>烟</b></span><span class="c gl" data-l="0" data-p="4"><i>lán</i><b>兰</b></span><span class="c gl" data-l="0" data-p="5"><i>qì</i><b>泣</b></span><span class="c gl" data-l="0" data-p="6"><i>lù</i><b>露</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>luó</i><b>罗</b></span><span class="c gl" data-l="1" data-p="1"><i>mù</i><b>幕</b></span><span class="c gl" data-l="1" data-p="2"><i>qīng</i><b>轻</b></span><span class="c gl" data-l="1" data-p="3"><i>hán</i><b>寒</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>yàn</i><b>燕</b></span><span class="c" data-l="2" data-p="1"><i>zi</i><b>子</b></span><span class="c" data-l="2" data-p="2"><i>shuāng</i><b>双</b></span><span class="c" data-l="2" data-p="3"><i>fēi</i><b>飞</b></span><span class="c" data-l="2" data-p="4"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>míng</i><b>明</b></span><span class="c" data-l="3" data-p="1"><i>yuè</i><b>月</b></span><span class="c gl" data-l="3" data-p="2"><i>bù</i><b>不</b></span><span class="c gl" data-l="3" data-p="3"><i>ān</i><b>谙</b></span><span class="c gl" data-l="3" data-p="4"><i>lí</i><b>离</b></span><span class="c gl" data-l="3" data-p="5"><i>hèn</i><b>恨</b></span><span class="c" data-l="3" data-p="6"><i>kǔ</i><b>苦</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>xié</i><b>斜</b></span><span class="c gl" data-l="4" data-p="1"><i>guāng</i><b>光</b></span><span class="c gl" data-l="4" data-p="2"><i>dào</i><b>到</b></span><span class="c gl" data-l="4" data-p="3"><i>xiǎo</i><b>晓</b></span><span class="c" data-l="4" data-p="4"><i>chuān</i><b>穿</b></span><span class="c gl" data-l="4" data-p="5"><i>zhū</i><b>朱</b></span><span class="c gl" data-l="4" data-p="6"><i>hù</i><b>户</b></span></p><p class="ln brk"><span class="c" data-l="5" data-p="0"><i>zuó</i><b>昨</b></span><span class="c" data-l="5" data-p="1"><i>yè</i><b>夜</b></span><span class="c" data-l="5" data-p="2"><i>xī</i><b>西</b></span><span class="c" data-l="5" data-p="3"><i>fēng</i><b>风</b></span><span class="c gl" data-l="5" data-p="4"><i>diāo</i><b>凋</b></span><span class="c gl" data-l="5" data-p="5"><i>bì</i><b>碧</b></span><span class="c gl" data-l="5" data-p="6"><i>shù</i><b>树</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>dú</i><b>独</b></span><span class="c" data-l="6" data-p="1"><i>shàng</i><b>上</b></span><span class="c" data-l="6" data-p="2"><i>gāo</i><b>高</b></span><span class="c" data-l="6" data-p="3"><i>lóu</i><b>楼</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>wàng</i><b>望</b></span><span class="c gl rd" data-l="7" data-p="1"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="7" data-p="2"><i>tiān</i><b>天</b></span><span class="c gl" data-l="7" data-p="3"><i>yá</i><b>涯</b></span><span class="c gl" data-l="7" data-p="4"><i>lù</i><b>路</b></span></p><p class="ln"><span class="c" data-l="8" data-p="0"><i>yù</i><b>欲</b></span><span class="c" data-l="8" data-p="1"><i>jì</i><b>寄</b></span><span class="c gl" data-l="8" data-p="2"><i>cǎi</i><b>彩</b></span><span class="c gl" data-l="8" data-p="3"><i>jiān</i><b>笺</b></span><span class="c gl" data-l="8" data-p="4"><i>jiān</i><b>兼</b></span><span class="c gl" data-l="8" data-p="5"><i>chǐ</i><b>尺</b></span><span class="c gl" data-l="8" data-p="6"><i>sù</i><b>素</b></span></p><p class="ln"><span class="c gl" data-l="9" data-p="0"><i>shān</i><b>山</b></span><span class="c gl rd" data-l="9" data-p="1"><i>cháng</i><b>长</b></span><span class="c gl" data-l="9" data-p="2"><i>shuǐ</i><b>水</b></span><span class="c gl" data-l="9" data-p="3"><i>kuò</i><b>阔</b></span><span class="c gl" data-l="9" data-p="4"><i>zhī</i><b>知</b></span><span class="c gl" data-l="9" data-p="5"><i>hé</i><b>何</b></span><span class="c gl" data-l="9" data-p="6"><i>chù</i><b>处</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">槛菊愁烟兰泣露</span><span lang="en">Chrysanthemums by the railing seem to grieve in the mist; orchids seem to weep with dew.</span><span lang="zh">栏杆边的菊花笼着烟雾，好像在发愁；兰花沾着露水，好像在哭泣。</span></li><li><span class="o">罗幕轻寒</span><span lang="en">A slight chill comes through the silk curtains,</span><span lang="zh">丝绸帘幕间透进微微的寒意，</span></li><li><span class="o">燕子双飞去</span><span lang="en">and the swallows fly away in pairs.</span><span lang="zh">燕子成双成对地飞走了。</span></li><li><span class="o">明月不谙离恨苦</span><span lang="en">The bright moon does not know the pain of parting;</span><span lang="zh">明月不懂得离别的痛苦，</span></li><li><span class="o">斜光到晓穿朱户</span><span lang="en">its slanting light shines through the red door until dawn.</span><span lang="zh">斜斜的月光一直照到天亮，照进红色的门窗。</span></li><li class="brk"><span class="o">昨夜西风凋碧树</span><span lang="en">Last night the west wind stripped the green trees bare.</span><span lang="zh">昨天夜里，西风吹落了绿树的叶子。</span></li><li><span class="o">独上高楼</span><span lang="en">Alone I climb the high tower</span><span lang="zh">我独自登上高楼，</span></li><li><span class="o">望尽天涯路</span><span lang="en">and gaze down the road to the edge of the sky.</span><span lang="zh">望尽那通向天边的路。</span></li><li><span class="o">欲寄彩笺兼尺素</span><span lang="en">I want to send a letter, with poems and my longing,</span><span lang="zh">想寄一封信，写上诗句和思念，</span></li><li><span class="o">山长水阔知何处</span><span lang="en">but the mountains are long and the waters wide; who knows where he is?</span><span lang="zh">可是山那么长，水那么宽，哪里知道他在什么地方？</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>槛菊<span class="mono">jiàn jú</span></dt><dd><span lang="en">jiàn jú: chrysanthemums by the railing. Jiàn is a railing.</span><span lang="zh">槛菊：栏杆边的菊花。槛，栏杆。</span></dd></div><div><dt>愁烟<span class="mono">chóu yān</span></dt><dd><span lang="en">chóu yān: wrapped in mist, as if grieving.</span><span lang="zh">愁烟：笼罩在烟雾里，好像带着忧愁。</span></dd></div><div><dt>兰泣露<span class="mono">lán qì lù</span></dt><dd><span lang="en">lán qì lù: dew on the orchids, as if they were weeping.</span><span lang="zh">兰泣露：兰花上沾着露水，好像在哭泣。</span></dd></div><div><dt>罗幕<span class="mono">luó mù</span></dt><dd><span lang="en">luó mù: curtains made of thin silk.</span><span lang="zh">罗幕：用丝绸做的帘幕。</span></dd></div><div><dt>轻寒<span class="mono">qīng hán</span></dt><dd><span lang="en">qīng hán: a slight chill.</span><span lang="zh">轻寒：微微有些冷。</span></dd></div><div><dt>不谙<span class="mono">bù ān</span></dt><dd><span lang="en">bù ān: does not understand. Ān means to know well.</span><span lang="zh">不谙：不懂得，不了解。谙，熟悉、懂得。</span></dd></div><div><dt>离恨<span class="mono">lí hèn</span></dt><dd><span lang="en">lí hèn: the pain of being parted from a loved one.</span><span lang="zh">离恨：和亲人分别的痛苦。</span></dd></div><div><dt>斜光<span class="mono">xié guāng</span></dt><dd><span lang="en">xié guāng: slanting moonlight.</span><span lang="zh">斜光：斜斜照进来的月光。</span></dd></div><div><dt>到晓<span class="mono">dào xiǎo</span></dt><dd><span lang="en">dào xiǎo: until dawn.</span><span lang="zh">到晓：一直到天亮。</span></dd></div><div><dt>朱户<span class="mono">zhū hù</span></dt><dd><span lang="en">zhū hù: a red door, here the home of a wealthy family.</span><span lang="zh">朱户：红色的门窗，这里指富贵人家的住处。</span></dd></div><div><dt>凋碧树<span class="mono">diāo bì shù</span></dt><dd><span lang="en">diāo bì shù: made the green trees lose their leaves. Diāo means leaves withering and falling.</span><span lang="zh">凋碧树：让绿树的叶子凋落了。凋，草木凋零、叶子落下。</span></dd></div><div><dt>望尽<span class="mono">wàng jìn</span></dt><dd><span lang="en">wàng jìn: to gaze all the way to the end of sight.</span><span lang="zh">望尽：一直望到看不见的尽头。</span></dd></div><div><dt>天涯路<span class="mono">tiān yá lù</span></dt><dd><span lang="en">tiān yá lù: the road to the edge of the sky, meaning very far away.</span><span lang="zh">天涯路：通向天边的路，指远方。</span></dd></div><div><dt>彩笺<span class="mono">cǎi jiān</span></dt><dd><span lang="en">cǎi jiān: coloured writing paper, often used for poems.</span><span lang="zh">彩笺：彩色的信纸，常用来写诗。</span></dd></div><div><dt>兼<span class="mono">jiān</span></dt><dd><span lang="en">jiān: and, as well as.</span><span lang="zh">兼：和，以及。</span></dd></div><div><dt>尺素<span class="mono">chǐ sù</span></dt><dd><span lang="en">chǐ sù: a letter. People once wrote letters on a piece of white silk about one chi long, so a letter was called &#x27;a foot of silk&#x27;.</span><span lang="zh">尺素：书信。古人把信写在一尺左右长的白绢上，所以叫尺素。</span></dd></div><div><dt>山长水阔<span class="mono">shān cháng shuǐ kuò</span></dt><dd><span lang="en">shān cháng shuǐ kuò: long mountains and wide waters, meaning the way is far.</span><span lang="zh">山长水阔：山又多又远，水又宽又广，形容路途遥远。</span></dd></div><div><dt>知何处<span class="mono">zhī hé chù</span></dt><dd><span lang="en">zhī hé chù: who knows where he is?</span><span lang="zh">知何处：哪里知道他在什么地方。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>槛<span class="mono">jiàn</span></dt><dd><span lang="en">Here this character means a railing, read jiàn. It is read kǎn only when it means a doorsill.</span><span lang="zh">槛在这里是“栏杆”的意思，读 jiàn。“门槛”的槛才读 kǎn。</span></dd></div><div><dt>尽<span class="mono">jìn</span></dt><dd><span lang="en">In wàng jìn, &#x27;gaze to the very end&#x27;, this character is read jìn.</span><span lang="zh">望尽的尽读 jìn，是“到头、望到最远”的意思。</span></dd></div><div><dt>长<span class="mono">cháng</span></dt><dd><span lang="en">In &#x27;the mountains are long&#x27;, this character is read cháng.</span><span lang="zh">山长的长读 cháng，是“长远”的意思。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric shows someone in late autumn missing a loved one far away. We no longer know which year it was written or for whom. The speaker is usually taken to be a woman missing her beloved. The modern scholar Wang Guowei wrote that great work and great learning pass through three stages. For the first he used the lines about the west wind, the high tower and the road to the edge of the sky: first you must climb high, look far, and see where you are going.</p><p lang="zh">这首词写的是深秋时节一个人思念远方亲人的心情。具体写于哪一年、写给谁，已经说不清了。词里的主人公一般理解为一位思念远方爱人的女子。近代学者王国维在《人间词话》里说，做大事业、大学问要经过三种境界，第一种就是“昨夜西风凋碧树，独上高楼，望尽天涯路”，比喻先要登高望远，看清方向。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Shu (991–1055) was a Northern Song ci poet. He was a child prodigy and later became chief minister. His lyrics have graceful words and quiet feelings, often about idle sorrow and parting. This is his most famous lyric about parting: delicate at first, then suddenly wide open.</p><p lang="zh">晏殊（991—1055），北宋词人，从小就是“神童”，后来做到宰相。他的词语言优美，感情含蓄，多写闲愁和离别。这首词是他写离愁的名作，前面细腻，后面却突然开阔起来。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">It opens on an autumn morning. The chrysanthemums in the mist seem to grieve; the orchids with dew seem to weep. Really it is the person looking at them who is sad. The swallows fly off in pairs, which makes her feel all the more alone. She blames the moon for not knowing the pain of parting, shining on her all night so she cannot sleep. In the second stanza the picture suddenly grows huge. In one night the west wind has stripped the trees bare. She climbs the high tower and gazes to the edge of the sky. She wants to send a letter, but the mountains are high and the waters far, and she does not even know where he is. From small scenes of flowers, moon and swallows to the wide view from the tower, her longing grows deeper and reaches farther.</p><p lang="zh">开头是一个秋天的早晨：菊花笼着烟，像在发愁；兰花带着露，像在哭。其实是看花的人自己在难过。燕子成双飞走，更显得她一个人孤单。她怪月亮不懂离别的苦，整夜照着她，让她睡不着。下片画面突然变大：一夜西风，绿树叶子全落了，她登上高楼，一直望到天边。可是想寄一封信，山高水远，连他在哪里都不知道。从花、月、燕子的小景，到高楼、天涯的大景，愁思也越来越深，越来越远。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/ruanlanggui-tianbianjinzhangluchengshuang/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>阮郎归·天边金掌露成霜</b></a><a href="../../p/liuchou-qiangweixiehouzuo/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>六丑·蔷薇谢后作</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["槛", "jiàn"], ["菊", "jú"], ["愁", "chóu"], ["烟", "yān"], ["兰", "lán"], ["泣", "qì"], ["露", "lù"]], [["罗", "luó"], ["幕", "mù"], ["轻", "qīng"], ["寒", "hán"]], [["燕", "yàn"], ["子", "zi"], ["双", "shuāng"], ["飞", "fēi"], ["去", "qù"]], [["明", "míng"], ["月", "yuè"], ["不", "bù"], ["谙", "ān"], ["离", "lí"], ["恨", "hèn"], ["苦", "kǔ"]], [["斜", "xié"], ["光", "guāng"], ["到", "dào"], ["晓", "xiǎo"], ["穿", "chuān"], ["朱", "zhū"], ["户", "hù"]], [["昨", "zuó"], ["夜", "yè"], ["西", "xī"], ["风", "fēng"], ["凋", "diāo"], ["碧", "bì"], ["树", "shù"]], [["独", "dú"], ["上", "shàng"], ["高", "gāo"], ["楼", "lóu"]], [["望", "wàng"], ["尽", "jìn"], ["天", "tiān"], ["涯", "yá"], ["路", "lù"]], [["欲", "yù"], ["寄", "jì"], ["彩", "cǎi"], ["笺", "jiān"], ["兼", "jiān"], ["尺", "chǐ"], ["素", "sù"]], [["山", "shān"], ["长", "cháng"], ["水", "shuǐ"], ["阔", "kuò"], ["知", "zhī"], ["何", "hé"], ["处", "chù"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "槛菊：栏杆边的菊花。槛，栏杆。", "en": "jiàn jú: chrysanthemums by the railing. Jiàn is a railing."}, {"line": 0, "start": 2, "end": 4, "zh": "愁烟：笼罩在烟雾里，好像带着忧愁。", "en": "chóu yān: wrapped in mist, as if grieving."}, {"line": 0, "start": 4, "end": 7, "zh": "兰泣露：兰花上沾着露水，好像在哭泣。", "en": "lán qì lù: dew on the orchids, as if they were weeping."}, {"line": 1, "start": 0, "end": 2, "zh": "罗幕：用丝绸做的帘幕。", "en": "luó mù: curtains made of thin silk."}, {"line": 1, "start": 2, "end": 4, "zh": "轻寒：微微有些冷。", "en": "qīng hán: a slight chill."}, {"line": 3, "start": 2, "end": 4, "zh": "不谙：不懂得，不了解。谙，熟悉、懂得。", "en": "bù ān: does not understand. Ān means to know well."}, {"line": 3, "start": 4, "end": 6, "zh": "离恨：和亲人分别的痛苦。", "en": "lí hèn: the pain of being parted from a loved one."}, {"line": 4, "start": 0, "end": 2, "zh": "斜光：斜斜照进来的月光。", "en": "xié guāng: slanting moonlight."}, {"line": 4, "start": 2, "end": 4, "zh": "到晓：一直到天亮。", "en": "dào xiǎo: until dawn."}, {"line": 4, "start": 5, "end": 7, "zh": "朱户：红色的门窗，这里指富贵人家的住处。", "en": "zhū hù: a red door, here the home of a wealthy family."}, {"line": 5, "start": 4, "end": 7, "zh": "凋碧树：让绿树的叶子凋落了。凋，草木凋零、叶子落下。", "en": "diāo bì shù: made the green trees lose their leaves. Diāo means leaves withering and falling."}, {"line": 7, "start": 0, "end": 2, "zh": "望尽：一直望到看不见的尽头。", "en": "wàng jìn: to gaze all the way to the end of sight."}, {"line": 7, "start": 2, "end": 5, "zh": "天涯路：通向天边的路，指远方。", "en": "tiān yá lù: the road to the edge of the sky, meaning very far away."}, {"line": 8, "start": 2, "end": 4, "zh": "彩笺：彩色的信纸，常用来写诗。", "en": "cǎi jiān: coloured writing paper, often used for poems."}, {"line": 8, "start": 4, "end": 5, "zh": "兼：和，以及。", "en": "jiān: and, as well as."}, {"line": 8, "start": 5, "end": 7, "zh": "尺素：书信。古人把信写在一尺左右长的白绢上，所以叫尺素。", "en": "chǐ sù: a letter. People once wrote letters on a piece of white silk about one chi long, so a letter was called 'a foot of silk'."}, {"line": 9, "start": 0, "end": 4, "zh": "山长水阔：山又多又远，水又宽又广，形容路途遥远。", "en": "shān cháng shuǐ kuò: long mountains and wide waters, meaning the way is far."}, {"line": 9, "start": 4, "end": 7, "zh": "知何处：哪里知道他在什么地方。", "en": "zhī hé chù: who knows where he is?"}], "readings": [{"line": 0, "pos": 0, "char": "槛", "pinyin": "jiàn", "zh": "槛在这里是“栏杆”的意思，读 jiàn。“门槛”的槛才读 kǎn。", "en": "Here this character means a railing, read jiàn. It is read kǎn only when it means a doorsill."}, {"line": 7, "pos": 1, "char": "尽", "pinyin": "jìn", "zh": "望尽的尽读 jìn，是“到头、望到最远”的意思。", "en": "In wàng jìn, 'gaze to the very end', this character is read jìn."}, {"line": 9, "pos": 1, "char": "长", "pinyin": "cháng", "zh": "山长的长读 cháng，是“长远”的意思。", "en": "In 'the mountains are long', this character is read cháng."}], "speak": ["健菊愁烟兰泣露", "罗幕轻寒", "燕子双飞去", "明月不谙离恨苦", "斜光到晓穿朱户", "昨夜西风凋碧树", "独上高楼", "望晋天涯路", "欲寄彩笺兼尺素", "山长水阔知何处"], "speakTitle": "蝶恋花，槛菊愁烟兰泣露。晏殊。", "sample": "槛菊愁烟兰泣露"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

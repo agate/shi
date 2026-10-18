@@ -1,0 +1,222 @@
+{
+ "id": "b41e25f5-5a57-497f-a3a2-84bdfb9331f5",
+ "kind": "shi",
+ "title": "春怨",
+ "title_en": "Spring Grievance",
+ "author": "金昌绪",
+ "author_en": "Jin Changxu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "打",
+    "dǎ"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "儿",
+    "ér"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "教",
+    "jiào"
+   ],
+   [
+    "枝",
+    "zhī"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "啼",
+    "tí"
+   ]
+  ],
+  [
+   [
+    "啼",
+    "tí"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "妾",
+    "qiè"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "辽",
+    "liáo"
+   ],
+   [
+    "西",
+    "xī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "教",
+   "pinyin": "jiào",
+   "zh": "教，这里是“让”的意思，现在读 jiào。按古诗的平仄，这里应该是平声，所以也有人读 jiāo。",
+   "en": "Here this character means to let, and today it is read jiào. By the tone pattern of old poems this spot should be a level tone, so some people read it jiāo."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "打起：把它赶走，让它飞起来。",
+   "en": "dǎ qǐ: to shoo it away, to make it fly off."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "黄莺儿：黄莺，一种羽毛黄色、叫声好听的鸟。",
+   "en": "huáng yīng ér: the oriole, a yellow bird with a sweet song."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "莫教：不要让。",
+   "en": "mò jiào: do not let."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "啼：鸟叫。",
+   "en": "tí: (of a bird) to sing, to call."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 3,
+   "zh": "惊：惊醒，吵醒。",
+   "en": "jīng: to startle awake."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 4,
+   "zh": "妾：古代女子说自己时用的谦虚说法，就是“我”。",
+   "en": "qiè: a humble word an old-time woman used for herself; it simply means I or me."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "不得：不能。",
+   "en": "bù dé: cannot."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "辽西：辽河以西，大约是今天辽宁西部一带。唐朝时那里是边疆，有军队守卫。",
+   "en": "liáo xī: the land west of the Liao River, roughly western Liaoning today. In the Tang it was the frontier, guarded by soldiers."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "快把树上的黄莺赶走，",
+   "en": "Shoo the orioles away,"
+  },
+  {
+   "zh": "别让它在树枝上叫个不停。",
+   "en": "do not let them sing on the branches."
+  },
+  {
+   "zh": "它一叫，就把我的梦吵醒了，",
+   "en": "When they sing, they wake me from my dream,"
+  },
+  {
+   "zh": "我就不能在梦里到辽西去了。",
+   "en": "and I cannot reach Liaoxi in my dream."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写于什么时候、为什么写，都不清楚。题目一作《伊州歌》。唐朝时，很多男子被派到遥远的边疆去守卫，家里的妻子只能苦苦等待。诗里这位女子的丈夫，就在辽西守边。她见不到丈夫，只能在梦里去辽西和他相会。题目“春怨”，就是春天里的思念和怨恨。",
+  "en": "We do not know when or why this poem was written. It also goes by another title, Song of Yizhou. In the Tang, many men were sent to guard the far frontier, and their wives at home could only wait. The husband of the woman in this poem is guarding the border at Liaoxi. She cannot see him, so she can only meet him there in her dreams. The title means a spring grievance: missing someone, and resenting the separation, in springtime."
+ },
+ "author_note": {
+  "zh": "金昌绪，唐代诗人，余杭（今浙江杭州）人。他的生平几乎没有留下记载，流传下来的诗也只有这一首。可是就凭这短短二十个字，这首诗被选进了《唐诗三百首》，他的名字也被人记住了一千多年。",
+  "en": "Jin Changxu was a Tang poet from Yuhang, today's Hangzhou in Zhejiang. Almost nothing is recorded about his life, and this is the only poem of his that survives. Yet with just these twenty characters, the poem made it into Three Hundred Tang Poems, and his name has been remembered for over a thousand years."
+ },
+ "appreciation": {
+  "zh": "这首诗像讲一个小故事，一环扣一环。女子为什么要赶走黄莺？因为它在树枝上叫。叫又怎么了？会把她吵醒。吵醒又怎样？她正梦见去辽西找丈夫，一醒，梦就断了。读到最后一句，我们才明白原因。看起来她是在怪一只小鸟，其实是在想念远方的丈夫，也是在怨战争让夫妻分开。语言像平常说话一样简单，感情却很深。",
+  "en": "The poem is like a little story, each step leading to the next. Why does she want the orioles gone? Because they sing on the branches. What is wrong with that? It wakes her up. And then? She was dreaming of going to Liaoxi to find her husband, and when she wakes, the dream is broken. Only at the last line do we learn the reason. She seems to be blaming a little bird, but really she is missing her husband far away, and resenting the war that keeps them apart. The words are as simple as everyday talk, but the feeling runs deep."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "dream",
+   "war",
+   "frontier",
+   "birds"
+  ]
+ },
+ "uncertain": []
+}

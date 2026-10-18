@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>春晓 · 孟浩然 — 诗</title>
+    <meta name="description" content="春晓 · 孟浩然 — Spring Dawn by Meng Haoran: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 3 · Tang poem · five-character quatrain</span><span lang="zh">第 3 首 · 唐诗 · 五言绝句</span></p>
+        <h1>春晓</h1>
+        <p class="by">孟浩然<span class="mono"><span lang="en">Meng Haoran · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Spring Dawn</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>chūn</i><b>春</b></span><span class="c gl" data-l="0" data-p="1"><i>mián</i><b>眠</b></span><span class="c gl" data-l="0" data-p="2"><i>bù</i><b>不</b></span><span class="c gl rd" data-l="0" data-p="3"><i>jué</i><b>觉</b></span><span class="c gl" data-l="0" data-p="4"><i>xiǎo</i><b>晓</b></span></p><p class="ln"><span class="c gl rd" data-l="1" data-p="0"><i>chù</i><b>处</b></span><span class="c gl" data-l="1" data-p="1"><i>chù</i><b>处</b></span><span class="c gl" data-l="1" data-p="2"><i>wén</i><b>闻</b></span><span class="c gl" data-l="1" data-p="3"><i>tí</i><b>啼</b></span><span class="c gl" data-l="1" data-p="4"><i>niǎo</i><b>鸟</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>yè</i><b>夜</b></span><span class="c gl" data-l="2" data-p="1"><i>lái</i><b>来</b></span><span class="c" data-l="2" data-p="2"><i>fēng</i><b>风</b></span><span class="c" data-l="2" data-p="3"><i>yǔ</i><b>雨</b></span><span class="c" data-l="2" data-p="4"><i>shēng</i><b>声</b></span></p><p class="ln"><span class="c" data-l="3" data-p="0"><i>huā</i><b>花</b></span><span class="c" data-l="3" data-p="1"><i>luò</i><b>落</b></span><span class="c gl" data-l="3" data-p="2"><i>zhī</i><b>知</b></span><span class="c gl" data-l="3" data-p="3"><i>duō</i><b>多</b></span><span class="c gl" data-l="3" data-p="4"><i>shǎo</i><b>少</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">春眠不觉晓</span><span lang="en">Sleeping sweetly in spring, I did not notice the dawn;</span><span lang="zh">春天睡得香甜，不知不觉天就亮了，</span></li><li><span class="o">处处闻啼鸟</span><span lang="en">now I hear birds singing everywhere.</span><span lang="zh">到处都能听到鸟儿在叫。</span></li><li><span class="o">夜来风雨声</span><span lang="en">I remember the sound of wind and rain last night,</span><span lang="zh">想起昨天夜里，传来一阵阵风雨声，</span></li><li><span class="o">花落知多少</span><span lang="en">and wonder how many flowers have fallen.</span><span lang="zh">不知道有多少花被打落了。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>春眠<span class="mono">chūn mián</span></dt><dd><span lang="en">chūn mián: sleeping in spring.</span><span lang="zh">春眠：春天里睡觉。</span></dd></div><div><dt>不觉晓<span class="mono">bù jué xiǎo</span></dt><dd><span lang="en">bù jué xiǎo: not noticing that day has come. Xiǎo means dawn.</span><span lang="zh">不觉晓：不知不觉天就亮了。晓，天刚亮的时候。</span></dd></div><div><dt>处处<span class="mono">chù chù</span></dt><dd><span lang="en">chù chù: everywhere.</span><span lang="zh">处处：到处。</span></dd></div><div><dt>闻<span class="mono">wén</span></dt><dd><span lang="en">wén: to hear.</span><span lang="zh">闻：听见。</span></dd></div><div><dt>啼鸟<span class="mono">tí niǎo</span></dt><dd><span lang="en">tí niǎo: birds singing. Tí means the call of a bird or animal.</span><span lang="zh">啼鸟：鸟叫。啼，鸟兽叫。</span></dd></div><div><dt>夜来<span class="mono">yè lái</span></dt><dd><span lang="en">yè lái: last night.</span><span lang="zh">夜来：昨天夜里。</span></dd></div><div><dt>知多少<span class="mono">zhī duō shǎo</span></dt><dd><span lang="en">zhī duō shǎo: who knows how many.</span><span lang="zh">知多少：不知道有多少。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>觉<span class="mono">jué</span></dt><dd><span lang="en">Read jué here, meaning to notice. It is not jiào as in sleeping.</span><span lang="zh">这里读 jué，意思是察觉、感觉到，不是“睡觉”的 jiào。</span></dd></div><div><dt>处<span class="mono">chù</span></dt><dd><span lang="en">Chù chù means everywhere. Here the character is a noun, a place, so it is read chù.</span><span lang="zh">“处处”是“到处”的意思，“处”是名词，读 chù。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem is about the feeling of waking up on a spring morning. It is usually thought to come from the years when Meng Haoran lived quietly near his home town of Xiangyang. Which year it was can no longer be told. Meng spent most of his life in the countryside and often wrote about the hills, streams and daily life around him. This poem starts from a very ordinary morning.</p><p lang="zh">这首诗写的是春天早晨刚睡醒时的感受。一般认为是孟浩然隐居在家乡襄阳一带时写的，具体哪一年已经说不清了。孟浩然大半辈子住在乡下，常常写身边的山水和日常生活，这首诗就是从一个很平常的早晨写起的。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Meng Haoran (689–740) came from Xiangyang in today&#x27;s Hubei. He was a famous Tang poet of hills, rivers and country life, often named together with Wang Wei. He never held an official post. He spent most of his life living quietly at home, and also travelled widely. His poems use plain, natural words and read like friendly talk.</p><p lang="zh">孟浩然（689—740），襄州襄阳（今湖北襄阳）人，唐代著名的山水田园诗人，和王维并称“王孟”。他一生没有做官，大部分时间在家乡隐居，也常到各地游历。他的诗语言平淡自然，读起来像说话一样亲切。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The poet sleeps until morning and is woken by birds outside the window. First comes the cheerful part: birds are singing everywhere, and spring is lovely. Then he remembers the wind and rain in the night, and a thought stirs: so many flowers, how many were knocked down? There is joy in spring here, and also a little sadness at seeing it slip away. The poem has no hard words. It never says &quot;I love spring.&quot; It only gives the sounds he hears and one question in his mind. Yet it makes us feel we are lying in bed too, hearing the birds and picturing petals all over the ground.</p><p lang="zh">诗人一觉睡到天亮，被窗外的鸟叫声唤醒。他先听到的是热闹：到处都是鸟儿在唱歌，春天多好啊。接着他想起昨夜的风雨声，心里一动：那么多花，被风吹雨打落了多少？这里有喜欢春天的快乐，也有一点点舍不得春天的惋惜。全诗没有一个难字，也没有直接写“我爱春天”，只写了听到的声音和心里的一个问题，却让人好像也躺在床上，听见鸟叫，想到满地的落花。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/qiuxi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>秋夕</b></a><a href="../../p/poqinhuai/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>泊秦淮</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["春", "chūn"], ["眠", "mián"], ["不", "bù"], ["觉", "jué"], ["晓", "xiǎo"]], [["处", "chù"], ["处", "chù"], ["闻", "wén"], ["啼", "tí"], ["鸟", "niǎo"]], [["夜", "yè"], ["来", "lái"], ["风", "fēng"], ["雨", "yǔ"], ["声", "shēng"]], [["花", "huā"], ["落", "luò"], ["知", "zhī"], ["多", "duō"], ["少", "shǎo"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "春眠：春天里睡觉。", "en": "chūn mián: sleeping in spring."}, {"line": 0, "start": 2, "end": 5, "zh": "不觉晓：不知不觉天就亮了。晓，天刚亮的时候。", "en": "bù jué xiǎo: not noticing that day has come. Xiǎo means dawn."}, {"line": 1, "start": 0, "end": 2, "zh": "处处：到处。", "en": "chù chù: everywhere."}, {"line": 1, "start": 2, "end": 3, "zh": "闻：听见。", "en": "wén: to hear."}, {"line": 1, "start": 3, "end": 5, "zh": "啼鸟：鸟叫。啼，鸟兽叫。", "en": "tí niǎo: birds singing. Tí means the call of a bird or animal."}, {"line": 2, "start": 0, "end": 2, "zh": "夜来：昨天夜里。", "en": "yè lái: last night."}, {"line": 3, "start": 2, "end": 5, "zh": "知多少：不知道有多少。", "en": "zhī duō shǎo: who knows how many."}], "readings": [{"line": 0, "pos": 3, "char": "觉", "pinyin": "jué", "zh": "这里读 jué，意思是察觉、感觉到，不是“睡觉”的 jiào。", "en": "Read jué here, meaning to notice. It is not jiào as in sleeping."}, {"line": 1, "pos": 0, "char": "处", "pinyin": "chù", "zh": "“处处”是“到处”的意思，“处”是名词，读 chù。", "en": "Chù chù means everywhere. Here the character is a noun, a place, so it is read chù."}], "speak": ["春眠不觉晓", "处处闻啼鸟", "夜来风雨声", "花落知多少"], "speakTitle": "春晓。孟浩然。", "sample": "春眠不觉晓"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

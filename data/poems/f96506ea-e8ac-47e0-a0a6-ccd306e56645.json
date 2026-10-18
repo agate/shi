@@ -1,0 +1,347 @@
+{
+ "id": "f96506ea-e8ac-47e0-a0a6-ccd306e56645",
+ "kind": "shi",
+ "title": "旅夜书怀",
+ "title_en": "Thoughts Written While Traveling at Night",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "细",
+    "xì"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "微",
+    "wēi"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "岸",
+    "àn"
+   ]
+  ],
+  [
+   [
+    "危",
+    "wēi"
+   ],
+   [
+    "樯",
+    "qiáng"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "垂",
+    "chuí"
+   ],
+   [
+    "平",
+    "píng"
+   ],
+   [
+    "野",
+    "yě"
+   ],
+   [
+    "阔",
+    "kuò"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "涌",
+    "yǒng"
+   ],
+   [
+    "大",
+    "dà"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "名",
+    "míng"
+   ],
+   [
+    "岂",
+    "qǐ"
+   ],
+   [
+    "文",
+    "wén"
+   ],
+   [
+    "章",
+    "zhāng"
+   ],
+   [
+    "著",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "官",
+    "guān"
+   ],
+   [
+    "因",
+    "yīn"
+   ],
+   [
+    "老",
+    "lǎo"
+   ],
+   [
+    "病",
+    "bìng"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "飘",
+    "piāo"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "所",
+    "suǒ"
+   ],
+   [
+    "似",
+    "sì"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 4,
+   "pos": 4,
+   "char": "著",
+   "pinyin": "zhù",
+   "zh": "“著”在这里是“显著、出名”的意思，读 zhù，不读 zhe 或 zhuó。",
+   "en": "Here it means to become well known, so it is read zhù, not zhe or zhuó."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 5,
+   "zh": "细草微风岸：微风吹着岸边的细草。",
+   "en": "xì cǎo wēi fēng àn: a light breeze blows the fine grass on the bank."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "危樯：高高的桅杆。危，高；樯，船上挂帆的杆子。",
+   "en": "wēi qiáng: a tall mast. Wēi means high; qiáng is the pole that holds a boat's sail."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "独夜舟：夜里孤零零停着的船。",
+   "en": "dú yè zhōu: a boat alone in the night."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "星垂：星星低垂，好像挂在天边。",
+   "en": "xīng chuí: the stars hang low, as if hanging from the edge of the sky."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "平野：平坦广阔的原野。",
+   "en": "píng yě: a flat, wide plain."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "月涌：月影随着波浪上下涌动。",
+   "en": "yuè yǒng: the moon's reflection surging up and down with the waves."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 5,
+   "zh": "名岂文章著：名声难道是因为文章才显著的吗？岂，难道。著，显著。这是反话。",
+   "en": "míng qǐ wén zhāng zhù: is my fame really due to my writing? Qǐ means could it be. He says it with irony."
+  },
+  {
+   "line": 5,
+   "start": 4,
+   "end": 5,
+   "zh": "休：停止，这里指不做官了。",
+   "en": "xiū: to stop; here, to leave office."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "飘飘：飘来飘去，指四处漂泊。",
+   "en": "piāo piāo: drifting here and there; wandering."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "何所似：像什么。",
+   "en": "hé suǒ sì: what is it like."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "沙鸥：在江边沙滩上飞的一种水鸟。",
+   "en": "shā ōu: a gull that flies over sandy riverbanks."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "微风吹拂着江岸上的细草，",
+   "en": "A light breeze stirs the fine grass on the riverbank;"
+  },
+  {
+   "zh": "竖着高高桅杆的小船，在夜里孤零零地停着。",
+   "en": "a boat with a tall mast lies alone in the night."
+  },
+  {
+   "zh": "星星低垂，平坦的原野显得格外宽阔；",
+   "en": "Stars hang low, and the flat plain stretches wide;"
+  },
+  {
+   "zh": "月光随着波浪涌动，大江滚滚向东流去。",
+   "en": "the moon surges on the waves as the great river flows on."
+  },
+  {
+   "zh": "我的名声难道是靠文章得来的吗？",
+   "en": "Is my name really known because of my writing?"
+  },
+  {
+   "zh": "做官倒是因为年老多病而不得不停止了。",
+   "en": "My official life has ended, they say, because I am old and sick."
+  },
+  {
+   "zh": "我这样四处漂泊，像什么呢？",
+   "en": "Drifting about like this, what am I like?"
+  },
+  {
+   "zh": "就像天地之间一只孤零零的沙鸥。",
+   "en": "Like a single sand gull between heaven and earth."
+  }
+ ],
+ "background": {
+  "zh": "765年（永泰元年）春天，一直照顾杜甫的好友严武去世了。杜甫在成都失去了依靠，只好带着家人离开草堂，坐船沿岷江、长江东下。这首诗一般认为写于这次旅途中的一个夜晚，船停在江边，他写下了心里的感慨。一说写作时间稍晚一些。",
+  "en": "In the spring of 765, Du Fu's good friend Yan Wu, who had long looked after him, died. Without his support in Chengdu, Du Fu had to leave his thatched cottage with his family and travel east by boat down the Min and Yangtze rivers. The poem is usually thought to have been written one night on this journey, when the boat was moored by the bank. Some say it was written a little later."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他一生想为国家出力，可官一直做得很小，又碰上安史之乱，大半辈子都在漂泊。晚年他身体多病，带着家人在长江上辗转，写下许多深沉动人的诗。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. All his life he wanted to serve his country, but he only ever held small posts, and the An Lushan Rebellion turned most of his life into wandering. In his later years he was often ill and moved along the Yangtze with his family, writing many deep and moving poems."
+ },
+ "appreciation": {
+  "zh": "前四句写夜景。先看近处：岸边细草在微风里摇，一只小船孤零零地停着。再看远处：星星低低地垂在天边，原野一望无际；月亮倒映在江里，随着波浪一起涌动。景色很壮阔，可越大越显得船上的人孤单。后四句写心事。诗人说：我的名声难道靠文章吗？官倒是因为老病不做了。这是反话，里面有不甘心，也有苦笑。最后把自己比作天地间的一只沙鸥，小小的，飘来飘去，没有地方落脚，读来让人心酸。",
+  "en": "The first four lines show the night scene. Up close, fine grass sways in the breeze on the bank, and a boat lies alone. Farther off, stars hang low at the edge of the sky over an endless plain, and the moon's reflection surges on the river with the waves. The view is grand, but the bigger it is, the lonelier the man on the boat seems. The last four lines show his thoughts. He asks: is my name known for my writing? And my official life ended because I am old and sick. He is speaking with bitter irony. There is frustration in it, and a wry smile. At the end he compares himself to one sand gull between heaven and earth, tiny, drifting, with nowhere to land. It is heartbreaking to read."
+ },
+ "famous_lines": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "travel",
+   "night",
+   "river",
+   "loneliness",
+   "stars"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,209 @@
+{
+ "id": "ca2c489a-e433-4c0f-8248-77d354f0665e",
+ "kind": "shi",
+ "title": "静夜思",
+ "title_en": "Quiet Night Thoughts",
+ "author": "李白",
+ "author_en": "Li Bai",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言绝句",
+  "en": "five-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "床",
+    "chuáng"
+   ],
+   [
+    "前",
+    "qián"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "光",
+    "guāng"
+   ]
+  ],
+  [
+   [
+    "疑",
+    "yí"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "地",
+    "dì"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "举",
+    "jǔ"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "低",
+    "dī"
+   ],
+   [
+    "头",
+    "tóu"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料库是宋代版本的文字：“床前看月光，疑是地上霜。举头望山月，低头思故乡。”明清以后流行的版本改成了“床前明月光”“举头望明月”，现在课本用的也是这个版本。",
+  "en": "The corpus has the Song dynasty text, which reads \"before my bed I see the moonlight\" and \"I raise my head and look at the mountain moon\". From the Ming and Qing on, the popular version changed these to \"bright moonlight\" and \"look at the bright moon\". Today's textbooks use that later version."
+ },
+ "readings": [],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "床：一般理解为睡觉的床。也有人认为是井上的栏杆（井床），或是一种能坐的矮凳（胡床）。",
+   "en": "chuáng: usually taken as a bed. Some think it means the railing round a well, or a low folding stool."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "明月光：明亮的月光。",
+   "en": "míng yuè guāng: bright moonlight."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "疑是：好像是。",
+   "en": "yí shì: seemed to be."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "霜：天冷时，地面上结的一层白白的小冰粒。",
+   "en": "shuāng: frost, the thin white ice that forms on the ground when it is cold."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "举头：抬起头。",
+   "en": "jǔ tóu: to raise one's head."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 3,
+   "zh": "思：想念。",
+   "en": "sī: to miss, to think of."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "故乡：家乡，出生、长大的地方。",
+   "en": "gù xiāng: hometown, the place where one was born and grew up."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "床前洒满了明亮的月光，",
+   "en": "Bright moonlight falls in front of my bed."
+  },
+  {
+   "zh": "好像地上铺了一层白霜。",
+   "en": "It looks like frost on the ground."
+  },
+  {
+   "zh": "我抬起头，望着天上的明月，",
+   "en": "I raise my head and look at the bright moon,"
+  },
+  {
+   "zh": "又低下头，想起了远方的家乡。",
+   "en": "then lower my head and think of home."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写的是一个人在外地，夜深人静时想家的心情。李白二十多岁离开家乡四川，到各地漫游，从此很少回去。一说这首诗是唐玄宗开元十四年（726年）他在扬州时写的，但并没有确切的证据。题目“静夜思”，就是“安静的夜里想到的事”。",
+  "en": "This poem is about being far from home and missing it in the quiet of the night. In his twenties Li Bai left his home in Sichuan to travel, and he seldom went back. One account says he wrote it in Yangzhou in 726, but there is no firm proof. The title means \"thoughts on a quiet night\"."
+ },
+ "author_note": {
+  "zh": "李白（701—762），唐代大诗人，被人称为“诗仙”。他的诗想象丰富，语言自然。他一生到处漫游，写了很多想家、写月亮的诗。这首诗用最简单的字，写出了每个离家的人都有的感受，是中国最有名的诗之一。",
+  "en": "Li Bai (701–762) was a great Tang poet, often called the Immortal of Poetry. His poems are full of imagination and use natural, easy words. He traveled all his life and wrote many poems about the moon and missing home. This poem uses the simplest words to say what everyone far from home feels, and it is one of the most famous poems in China."
+ },
+ "appreciation": {
+  "zh": "这首诗只有二十个字，没有一个难字，却让人一读就记住。夜深了，诗人睡不着，看见床前一片白白的月光，一时恍惚，以为是地上结了霜。“霜”字让人感到夜里的凉意，也带出一点孤单。他抬起头，看见了天上那轮明月；再低下头，就想起了远方的家乡。一抬头，一低头，两个简单的动作，就把心情从看月亮转到了想家。月亮是天下人都能看见的，家乡的亲人也许正看着同一个月亮。所以千百年来，离家的人看到月亮，都会想起这首诗。",
+  "en": "This poem has only twenty characters, none of them hard, yet you remember it after one reading. Late at night the poet cannot sleep. He sees white moonlight in front of his bed and, for a moment, thinks frost has formed on the ground. The word \"frost\" makes you feel the cold of the night and a little loneliness too. He raises his head and sees the bright moon in the sky. Then he lowers his head and thinks of his faraway home. Two simple movements, up and down, carry his feelings from looking at the moon to missing home. Everyone under heaven can see the same moon, and his family may be looking at it right now. That is why, for over a thousand years, people far from home have thought of this poem when they see the moon."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "moon",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

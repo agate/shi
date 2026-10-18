@@ -1,0 +1,471 @@
+{
+ "id": "ci-faf6be4740ba",
+ "kind": "ci",
+ "title": "醉花阴·薄雾浓云愁永昼",
+ "title_en": "Tipsy in the Flowers' Shade: Thin Mist and Thick Clouds",
+ "author": "李清照",
+ "author_en": "Li Qingzhao",
+ "dynasty": "song",
+ "form": {
+  "zh": "词（双调）",
+  "en": "ci (song lyric) in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "雾",
+    "wù"
+   ],
+   [
+    "浓",
+    "nóng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "永",
+    "yǒng"
+   ],
+   [
+    "昼",
+    "zhòu"
+   ]
+  ],
+  [
+   [
+    "瑞",
+    "ruì"
+   ],
+   [
+    "脑",
+    "nǎo"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "兽",
+    "shòu"
+   ]
+  ],
+  [
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "节",
+    "jié"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "阳",
+    "yáng"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "枕",
+    "zhěn"
+   ],
+   [
+    "纱",
+    "shā"
+   ],
+   [
+    "厨",
+    "chú"
+   ]
+  ],
+  [
+   [
+    "半",
+    "bàn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "凉",
+    "liáng"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "透",
+    "tòu"
+   ]
+  ],
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "篱",
+    "lí"
+   ],
+   [
+    "把",
+    "bǎ"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "后",
+    "hòu"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "袖",
+    "xiù"
+   ]
+  ],
+  [
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "道",
+    "dào"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "销",
+    "xiāo"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "帘",
+    "lián"
+   ],
+   [
+    "卷",
+    "juǎn"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "风",
+    "fēng"
+   ]
+  ],
+  [
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "比",
+    "bǐ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "瘦",
+    "shòu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "语料库文本有三处和通行本不同：“瑞脑消金兽”“莫道不消魂”，通行本多作“销”；“东篱把洒”是繁简转换的错字，应为“把酒”；“人似黄花瘦”，通行本作“人比黄花瘦”。这里用通行本。",
+  "en": "The corpus text differs from the common text in three places. It has xiāo written with the 'melt away' character in lines 2 and 8, where most editions use the 'metal melting' character; both are read xiāo. Its line 6 has 'sprinkle' instead of 'wine', a slip made when the text was converted by machine. And its last line says 'a person as thin as' with the word for 'like', where the common text uses 'thinner than'. This page follows the common text."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "薄雾的“薄”读 bó。口语里说“薄饼”读 báo，书面词语里多读 bó。",
+   "en": "Here bó. In everyday words like 'thin pancake' it is read báo, but in written words like 'thin mist' it is read bó."
+  },
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重阳的“重”是“重复、两次”的意思，读 chóng，不读 zhòng。",
+   "en": "In chóng yáng (the Double Ninth) this character means 'double, twice', so it is read chóng, not zhòng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "薄雾浓云：淡淡的雾，厚厚的云。说明天气阴沉。",
+   "en": "bó wù nóng yún: thin mist and thick clouds. The day is grey and gloomy."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "永昼：漫长的白天。永，长。",
+   "en": "yǒng zhòu: a long, long day. Yǒng means long."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "瑞脑：一种香料，也叫龙脑，点着了会发出香气。",
+   "en": "ruì nǎo: a kind of incense, also called dragon-brain incense, which gives off a sweet smell when burned."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 3,
+   "zh": "销：烧完、慢慢消失。",
+   "en": "xiāo: to burn away, to slowly disappear."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 5,
+   "zh": "金兽：做成野兽形状的铜香炉。",
+   "en": "jīn shòu: a bronze incense burner made in the shape of an animal."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "佳节：美好的节日。",
+   "en": "jiā jié: a happy festival."
+  },
+  {
+   "line": 2,
+   "start": 3,
+   "end": 5,
+   "zh": "重阳：农历九月初九，重阳节。这天人们登高、赏菊、喝菊花酒，也想念亲人。",
+   "en": "chóng yáng: the Double Ninth Festival, the ninth day of the ninth lunar month. People climb hills, look at chrysanthemums, drink chrysanthemum wine, and miss their families."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "玉枕：用瓷或玉做的枕头，夏天用，摸上去凉凉的。",
+   "en": "yù zhěn: a pillow made of porcelain or jade. It is cool to the touch and used in summer."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "纱厨：用纱做成的帐子，像一间小屋，用来挡蚊子。",
+   "en": "shā chú: a gauze bed-tent, like a little room, to keep mosquitoes out."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "凉初透：凉意刚刚透进来。",
+   "en": "liáng chū tòu: the chill has just begun to seep in."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "东篱：东边的篱笆，指种菊花的地方。来自陶渊明的名句“采菊东篱下”。",
+   "en": "dōng lí: the eastern fence, meaning the place where chrysanthemums grow. It comes from Tao Yuanming's famous line about picking chrysanthemums by the eastern fence."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "把酒：端着酒杯喝酒。把，拿着。",
+   "en": "bǎ jiǔ: to hold a cup of wine and drink. Bǎ means to hold."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "暗香：淡淡的、悄悄飘来的香气，这里指菊花的香。",
+   "en": "àn xiāng: a faint, quiet fragrance. Here it is the smell of the chrysanthemums."
+  },
+  {
+   "line": 6,
+   "start": 3,
+   "end": 5,
+   "zh": "盈袖：装满了袖子。盈，满。",
+   "en": "yíng xiù: filling the sleeves. Yíng means full."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "莫道：不要说。",
+   "en": "mò dào: don't say."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "销魂：伤心得好像魂都没了，形容非常难过。",
+   "en": "xiāo hún: so sad that it feels as if your soul has melted away."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 4,
+   "zh": "帘卷西风：西风吹起了门帘。西风就是秋风。",
+   "en": "lián juǎn xī fēng: the west wind lifts the curtain. The west wind is the autumn wind."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "黄花：菊花。",
+   "en": "huáng huā: yellow flowers, that is, chrysanthemums."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "薄雾浓云，阴沉沉的，漫长的白天真让人发愁。",
+   "en": "Thin mist, thick clouds: the long grey day fills me with sorrow."
+  },
+  {
+   "zh": "兽形的铜香炉里，瑞脑香一点点烧完了。",
+   "en": "In the animal-shaped bronze burner, the incense slowly burns away."
+  },
+  {
+   "zh": "美好的节日又到了，又是重阳。",
+   "en": "The happy festival has come again: it is the Double Ninth once more."
+  },
+  {
+   "zh": "枕着玉枕，睡在纱帐里，",
+   "en": "On the jade pillow, inside the gauze bed-tent,"
+  },
+  {
+   "zh": "半夜里，凉意刚刚透了进来。",
+   "en": "at midnight the chill first seeps in."
+  },
+  {
+   "zh": "黄昏以后，我在东边篱笆旁的菊花前喝酒，",
+   "en": "After dusk I drink wine by the chrysanthemums at the eastern fence,"
+  },
+  {
+   "zh": "菊花淡淡的香气装满了衣袖。",
+   "en": "and their faint fragrance fills my sleeves."
+  },
+  {
+   "zh": "不要说这不让人伤心，",
+   "en": "Don't say this does not break the heart:"
+  },
+  {
+   "zh": "西风吹起门帘，",
+   "en": "when the west wind lifts the curtain,"
+  },
+  {
+   "zh": "帘里的人比菊花还要消瘦。",
+   "en": "the one inside is thinner than the yellow flowers."
+  }
+ ],
+ "background": {
+  "zh": "这首词是李清照早年的作品。她和丈夫赵明诚感情很好，但赵明诚常常在外地做官，两人只能分开。一般认为，这是一个重阳节，李清照一个人在家，想念丈夫，写下了这首词，寄给远方的他。元代的书里还记载了一个故事：赵明诚收到词后想比个高低，写了五十首，把妻子的词混在里面给朋友看，朋友说最好的是“莫道不销魂”三句。这个故事不一定是真的。",
+  "en": "This is one of Li Qingzhao's early works. She and her husband Zhao Mingcheng loved each other dearly, but he was often away serving as an official, so they had to live apart. It is usually thought that she wrote this on a Double Ninth Festival, alone at home and missing him, and sent it to him far away. A book from the Yuan dynasty tells a story: Zhao Mingcheng wanted to outdo her, wrote fifty poems of his own, and mixed hers in to show a friend. The friend said the best part was the last three lines. This story may not be true."
+ },
+ "author_note": {
+  "zh": "李清照（1084—约1155），号易安居士，宋代最有名的女词人。她前半生生活安稳，和丈夫一起收藏金石书画，词多写离别和相思，清新细腻。后来经历战乱，丈夫去世，词就变得悲凉了。这首词是她前期的代表作。",
+  "en": "Li Qingzhao (1084–around 1155), who called herself the Lay Scholar Yi'an, was the most famous woman writer of ci in the Song dynasty. In the first half of her life she lived in peace and collected old bronzes, stone rubbings and art with her husband. Her lyrics then were fresh and delicate, often about parting and longing. Later war and her husband's death made her writing sad and bleak. This lyric is a famous work from her early years."
+ },
+ "appreciation": {
+  "zh": "上半首从白天写到半夜：天阴沉沉的，香一点点烧完，日子过得好慢。节日本该热闹，她却一个人，半夜凉意透进纱帐，也透进心里。下半首写黄昏在菊花前喝酒，香气满袖，可是没有人一起分享。最后一阵西风吹起门帘，露出一个比菊花还瘦的人。菊花在秋风里细瘦，人因为思念也一天天瘦了。一个“瘦”字，把看不见的思念变成了看得见的样子，所以这三句成了千古名句。",
+  "en": "The first half moves from day to midnight. The sky is grey, the incense burns away bit by bit, and time crawls. A festival should be lively, but she is alone. At midnight the chill seeps into the bed-tent, and into her heart too. The second half shows her drinking by the chrysanthemums at dusk. Their smell fills her sleeves, but there is no one to share it with. At last a gust of west wind lifts the curtain and shows a person thinner than the flowers. The chrysanthemums are slender in the autumn wind, and she has grown thinner day by day from missing him. The single word 'thin' turns an invisible longing into something you can see. That is why these last lines are remembered to this day."
+ },
+ "famous_lines": [
+  7,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [
+   "chongyang"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "longing",
+   "chrysanthemum",
+   "love",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,881 @@
+{
+ "id": "ci-fa4783cbf967",
+ "kind": "ci",
+ "title": "永遇乐·明月如霜",
+ "title_en": "Yong Yu Le: The Bright Moon Like Frost",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·双调",
+  "en": "ci lyric in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "霜",
+    "shuāng"
+   ]
+  ],
+  [
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "景",
+    "jǐng"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "限",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "曲",
+    "qū"
+   ],
+   [
+    "港",
+    "gǎng"
+   ],
+   [
+    "跳",
+    "tiào"
+   ],
+   [
+    "鱼",
+    "yú"
+   ]
+  ],
+  [
+   [
+    "圆",
+    "yuán"
+   ],
+   [
+    "荷",
+    "hé"
+   ],
+   [
+    "泻",
+    "xiè"
+   ],
+   [
+    "露",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寞",
+    "mò"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "紞",
+    "dǎn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "铿",
+    "kēng"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "一",
+    "yí"
+   ],
+   [
+    "叶",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "惊",
+    "jīng"
+   ],
+   [
+    "断",
+    "duàn"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "茫",
+    "máng"
+   ],
+   [
+    "茫",
+    "máng"
+   ]
+  ],
+  [
+   [
+    "重",
+    "chóng"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ],
+  [
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "行",
+    "xíng"
+   ],
+   [
+    "遍",
+    "biàn"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "倦",
+    "juàn"
+   ],
+   [
+    "客",
+    "kè"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "园",
+    "yuán"
+   ],
+   [
+    "心",
+    "xīn"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ]
+  ],
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "子",
+    "zi"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "空",
+    "kōng"
+   ]
+  ],
+  [
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "锁",
+    "suǒ"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "中",
+    "zhōng"
+   ],
+   [
+    "燕",
+    "yàn"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "梦",
+    "mèng"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "觉",
+    "jué"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "欢",
+    "huān"
+   ],
+   [
+    "新",
+    "xīn"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ]
+  ],
+  [
+   [
+    "异",
+    "yì"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "对",
+    "duì"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "景",
+    "jǐng"
+   ]
+  ],
+  [
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "浩",
+    "hào"
+   ],
+   [
+    "叹",
+    "tàn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  12
+ ],
+ "text_note": {
+  "zh": "通行本第七句开头是“紞如三鼓”的“紞”（dǎn，形容打鼓的声音）。语料库里这个字是繁简转换时出的错字。",
+  "en": "In the common text, line seven begins with the character dan, which describes the sound of a drum. The corpus shows a wrong character there, a slip from the machine conversion."
+ },
+ "readings": [
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "曲",
+   "pinyin": "qū",
+   "zh": "曲，这里是弯弯曲曲的意思，读 qū，不读唱歌的 qǔ。",
+   "en": "Here the character means winding, so it is read qū, not qǔ as in a song."
+  },
+  {
+   "line": 10,
+   "pos": 0,
+   "char": "重",
+   "pinyin": "chóng",
+   "zh": "重，这里是“再一次”的意思，读 chóng。",
+   "en": "Here it means again, so it is read chóng."
+  },
+  {
+   "line": 11,
+   "pos": 0,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "觉，这里是睡醒的意思，读 jué，不读睡觉的 jiào。",
+   "en": "Here it means to wake up, so it is read jué, not jiào as in sleep."
+  },
+  {
+   "line": 19,
+   "pos": 3,
+   "char": "觉",
+   "pinyin": "jué",
+   "zh": "觉，醒来，读 jué。",
+   "en": "It means to wake up, read jué."
+  },
+  {
+   "line": 23,
+   "pos": 0,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "为，这里是“替、为了”的意思，读 wèi。",
+   "en": "Here it means for, on behalf of, so it is read wèi."
+  },
+  {
+   "line": 15,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yàn",
+   "zh": "燕子楼的“燕”指燕子这种鸟，读 yàn，不读地名“燕国”的 yān。",
+   "en": "In the name of the tower it means the swallow bird, read yàn, not yān as in the old state of Yan."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "明月如霜：月光洒在地上，白得像一层霜。",
+   "en": "míng yuè rú shuāng: the moonlight lies on the ground, white like frost."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 4,
+   "zh": "好风如水：凉风吹来，像清水一样凉爽。",
+   "en": "hǎo fēng rú shuǐ: the cool breeze feels fresh like clear water."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "清景：清幽美丽的景色。",
+   "en": "qīng jǐng: a quiet, clear and lovely scene."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "曲港：弯弯曲曲的小水道。",
+   "en": "qū gǎng: a winding little waterway."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "圆荷泻露：圆圆的荷叶上，露水滚落下来。泻，往下流。",
+   "en": "yuán hé xiè lù: dew rolls off the round lotus leaves. Xiè means to pour down."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "寂寞：冷清，没有人声。",
+   "en": "jì mò: lonely and quiet, with no one around."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "紞如：形容打鼓的声音，咚咚响。",
+   "en": "dǎn rú: the boom of a drum."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "三鼓：打了三更鼓，就是半夜时分。古人夜里打鼓报时间。",
+   "en": "sān gǔ: the drum for the third watch, around midnight. In old times people beat drums at night to tell the time."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "铿然：清脆响亮的声音。",
+   "en": "kēng rán: a sharp, clear sound."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "一叶：一片树叶落下来。",
+   "en": "yí yè: one leaf falling."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "黯黯：心里黯淡、不开心的样子。",
+   "en": "àn àn: gloomy, low in spirit."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "梦云：梦。古代传说里，美丽的女神在梦中化作云彩，所以用“梦云”指梦见美人的梦。",
+   "en": "mèng yún: a dream. In an old legend a beautiful goddess turned into clouds in a dream, so dream clouds means a dream of a lovely woman."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 6,
+   "zh": "惊断：被惊醒，梦断了。",
+   "en": "jīng duàn: woken with a start, so the dream breaks off."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 4,
+   "zh": "重寻无处：想再回到梦里去找，却找不到了。",
+   "en": "chóng xún wú chù: he wants to find the dream again, but there is nowhere to look."
+  },
+  {
+   "line": 11,
+   "start": 0,
+   "end": 2,
+   "zh": "觉来：醒来以后。",
+   "en": "jué lái: after waking."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 6,
+   "zh": "行遍：走了个遍。",
+   "en": "xíng biàn: to walk all over."
+  },
+  {
+   "line": 12,
+   "start": 0,
+   "end": 4,
+   "zh": "天涯倦客：在离家很远的地方漂泊、走累了的人。这是苏轼说自己。",
+   "en": "tiān yá juàn kè: a tired traveller far from home. Su Shi means himself."
+  },
+  {
+   "line": 13,
+   "start": 0,
+   "end": 4,
+   "zh": "山中归路：回家乡的山路。",
+   "en": "shān zhōng guī lù: the mountain road back home."
+  },
+  {
+   "line": 14,
+   "start": 0,
+   "end": 2,
+   "zh": "望断：一直望，望到看不见。",
+   "en": "wàng duàn: to gaze until nothing more can be seen."
+  },
+  {
+   "line": 14,
+   "start": 2,
+   "end": 6,
+   "zh": "故园心眼：想念家乡的心和眼睛。故园，老家。",
+   "en": "gù yuán xīn yǎn: the heart and eyes that long for home. Gù yuán means the old home."
+  },
+  {
+   "line": 15,
+   "start": 0,
+   "end": 3,
+   "zh": "燕子楼：在徐州的一座楼。唐代有个叫盼盼的女子，在主人死后独自住在这座楼里十几年，不肯嫁人。",
+   "en": "yàn zi lóu: the Swallow Tower in Xuzhou. In the Tang dynasty a woman named Panpan lived alone in it for more than ten years after her master died, and would not marry again."
+  },
+  {
+   "line": 16,
+   "start": 0,
+   "end": 2,
+   "zh": "佳人：美人，这里指盼盼。",
+   "en": "jiā rén: a beautiful woman, here Panpan."
+  },
+  {
+   "line": 17,
+   "start": 0,
+   "end": 5,
+   "zh": "空锁楼中燕：楼里只锁着燕子。人已经不在了。",
+   "en": "kōng suǒ lóu zhōng yàn: only swallows are locked inside the tower. The person is long gone."
+  },
+  {
+   "line": 19,
+   "start": 0,
+   "end": 2,
+   "zh": "何曾：哪里曾经，从来没有。",
+   "en": "hé céng: when ever? That is, never."
+  },
+  {
+   "line": 19,
+   "start": 2,
+   "end": 4,
+   "zh": "梦觉：从梦中醒来。",
+   "en": "mèng jué: to wake from a dream."
+  },
+  {
+   "line": 20,
+   "start": 2,
+   "end": 6,
+   "zh": "旧欢新怨：过去的欢乐，眼前的愁怨。",
+   "en": "jiù huān xīn yuàn: old joys and new sorrows."
+  },
+  {
+   "line": 21,
+   "start": 0,
+   "end": 2,
+   "zh": "异时：将来，以后某一天。",
+   "en": "yì shí: some day in the future."
+  },
+  {
+   "line": 22,
+   "start": 0,
+   "end": 2,
+   "zh": "黄楼：苏轼在徐州修的一座楼。",
+   "en": "huáng lóu: the Yellow Tower, which Su Shi had built in Xuzhou."
+  },
+  {
+   "line": 23,
+   "start": 1,
+   "end": 2,
+   "zh": "余：我。",
+   "en": "yú: I, me."
+  },
+  {
+   "line": 23,
+   "start": 2,
+   "end": 4,
+   "zh": "浩叹：长长地叹气。",
+   "en": "hào tàn: a long, deep sigh."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "月光洒下来，白得像霜。",
+   "en": "The bright moon is white like frost."
+  },
+  {
+   "zh": "凉风吹来，清凉得像水。",
+   "en": "The good breeze is cool like water."
+  },
+  {
+   "zh": "清幽的夜景无边无际。",
+   "en": "The clear night scene goes on without end."
+  },
+  {
+   "zh": "弯弯的水道里，鱼儿跳出水面，",
+   "en": "In the winding waterway, fish leap up."
+  },
+  {
+   "zh": "圆圆的荷叶上，露珠滚落下来，",
+   "en": "On the round lotus leaves, dew rolls off."
+  },
+  {
+   "zh": "这样冷清的美景，却没有人看见。",
+   "en": "Such a lonely, lovely scene, and no one sees it."
+  },
+  {
+   "zh": "咚咚的三更鼓响了，",
+   "en": "The drum booms for the third watch, midnight."
+  },
+  {
+   "zh": "一片树叶落下，发出清脆的声音，",
+   "en": "A leaf falls with a sharp little sound."
+  },
+  {
+   "zh": "把我从梦中惊醒，心里黯然。",
+   "en": "It breaks my dream, and I feel low."
+  },
+  {
+   "zh": "夜色茫茫，",
+   "en": "The night is vast and dim."
+  },
+  {
+   "zh": "想再回到梦里，却无处可找，",
+   "en": "I want to find the dream again, but it is nowhere."
+  },
+  {
+   "zh": "醒来后我把小园子走了个遍。",
+   "en": "Awake, I walk all over the little garden."
+  },
+  {
+   "zh": "我是漂泊在天涯、早已疲倦的人，",
+   "en": "I am a tired traveller at the edge of the world."
+  },
+  {
+   "zh": "望着山中回家的路，",
+   "en": "I look at the mountain road home,"
+  },
+  {
+   "zh": "望得心和眼都穿了，也看不到家乡。",
+   "en": "and gaze until my heart and eyes give out, but cannot see my old home."
+  },
+  {
+   "zh": "燕子楼已经空了，",
+   "en": "The Swallow Tower stands empty."
+  },
+  {
+   "zh": "那位美人在哪里呢？",
+   "en": "Where is the lovely woman now?"
+  },
+  {
+   "zh": "楼里只白白锁着燕子。",
+   "en": "Only swallows are locked inside, for nothing."
+  },
+  {
+   "zh": "从古到今，人生就像一场梦，",
+   "en": "From old times to now, life is like a dream,"
+  },
+  {
+   "zh": "谁又真正从梦里醒来过呢？",
+   "en": "and who has ever really woken from it?"
+  },
+  {
+   "zh": "只有旧日的欢乐和新的愁怨，一直缠着人。",
+   "en": "There are only old joys and new sorrows."
+  },
+  {
+   "zh": "将来有一天，有人面对",
+   "en": "Some day in the future, someone will face"
+  },
+  {
+   "zh": "黄楼的夜景，",
+   "en": "the night scene at the Yellow Tower,"
+  },
+  {
+   "zh": "也会为我长长地叹气吧。",
+   "en": "and give a long sigh for me."
+  }
+ ],
+ "background": {
+  "zh": "宋神宗元丰元年（1078年），苏轼在徐州做知州。徐州古代叫彭城。原词有个小题目，说他夜里住在燕子楼，梦见了盼盼，所以写了这首词。盼盼是唐代徐州一位官员家里的歌女，主人死后，她独自守在燕子楼里十几年。这位官员一般说是张建封，一说是他的儿子张愔。黄楼是苏轼在徐州抗洪以后修建的。",
+  "en": "In 1078 Su Shi was the governor of Xuzhou, which in old times was called Pengcheng. The lyric's original subtitle says he spent the night in the Swallow Tower, dreamed of Panpan, and so wrote this. Panpan was a singer in the household of a Tang official in Xuzhou. After her master died, she lived alone in the tower for more than ten years. The official is usually said to be Zhang Jianfeng; another account says it was his son, Zhang Yin. The Yellow Tower was built by Su Shi in Xuzhou after he led the fight against a flood."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），字子瞻，号东坡居士，北宋大文学家。他的诗、词、文章和书法都很出色。他一生多次被调来调去，到过很多地方，常常离家很远。这首词里“天涯倦客”的疲倦，和看透人生如梦的感叹，都和他的经历有关。",
+  "en": "Su Shi (1037–1101), also called Dongpo, was a great writer of the Northern Song. He was a master of poems, lyrics, prose and calligraphy. All his life he was moved from post to post and lived far from home. The tiredness of the far-off traveller in this lyric, and the feeling that life is a dream, both come from his own life."
+ },
+ "appreciation": {
+  "zh": "上片写梦醒前后的夜景。月光像霜，凉风像水，鱼儿跳，露珠滚，一切都静悄悄的，美得没人看见。忽然三更鼓响，一片叶子落下，把梦惊断了。他再也找不回那个梦，只好在小园子里走来走去。下片从盼盼想到自己。燕子楼空了，美人不在了，只剩燕子。苏轼由此想到：古往今来，人人都在梦里，没有谁真正醒过。最后他想象，将来有人站在他修的黄楼前，也会为他叹息，就像他今天为盼盼叹息一样。读的时候，可以想象一个人在月光下的园子里慢慢踱步，心里又平静又惆怅。",
+  "en": "The first half shows the night before and after he wakes. The moonlight is like frost and the breeze like water. Fish leap and dew rolls, all in silence, a beauty no one sees. Then the midnight drum sounds and a leaf falls, and the dream breaks. He cannot find it again, so he walks around the little garden. The second half moves from Panpan to himself. The Swallow Tower is empty, the lovely woman is gone, and only swallows remain. Su Shi thinks: from old times to now, everyone lives in a dream, and no one truly wakes. At the end he imagines that one day someone will stand before the Yellow Tower he built and sigh for him, just as he sighs for Panpan today. Picture a man pacing slowly in a moonlit garden, calm and a little sad at once."
+ },
+ "famous_lines": [
+  0,
+  1,
+  2,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "night",
+   "dream",
+   "history",
+   "homesick"
+  ]
+ },
+ "uncertain": []
+}

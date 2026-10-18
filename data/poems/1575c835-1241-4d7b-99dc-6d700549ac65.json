@@ -1,0 +1,280 @@
+{
+ "id": "1575c835-1241-4d7b-99dc-6d700549ac65",
+ "kind": "shi",
+ "title": "送元二使安西",
+ "title_en": "Seeing Yuan the Second Off on a Mission to Anxi",
+ "author": "王维",
+ "author_en": "Wang Wei",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "渭",
+    "wèi"
+   ],
+   [
+    "城",
+    "chéng"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ],
+   [
+    "浥",
+    "yì"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "尘",
+    "chén"
+   ]
+  ],
+  [
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "舍",
+    "shè"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "青",
+    "qīng"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "新",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "劝",
+    "quàn"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "杯",
+    "bēi"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ]
+  ],
+  [
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "出",
+    "chū"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "关",
+    "guān"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "人",
+    "rén"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "底本题目作《渭城曲》，第二句作“客舍青青杨柳春”。现在课本和通行本题作《送元二使安西》，第二句作“客舍青青柳色新”，这里按课本。这首诗后来被谱成歌曲，叫《渭城曲》，也叫《阳关三叠》，所以有两个题目。",
+  "en": "The source text is titled \"Song of Weicheng\" and its second line ends yang liu chun (willows in spring). Today's textbooks and most editions title it \"Seeing Yuan the Second Off on a Mission to Anxi\", with the second line ending liu se xin (the willows look fresh), which is used here. The poem was later set to music as \"Song of Weicheng\", also called \"Three Refrains at Yang Pass\", which is why it has two titles."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝，这里读 zhāo，意思是早晨，不读 cháo。",
+   "en": "Here it is read zhāo, meaning morning, not cháo (court, toward)."
+  },
+  {
+   "line": 1,
+   "pos": 1,
+   "char": "舍",
+   "pinyin": "shè",
+   "zh": "舍，这里读 shè，意思是房舍、旅店，不读 shě（舍得的舍）。",
+   "en": "Here it is read shè, meaning a house or inn, not shě (to give up)."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "更，这里读 gèng，意思是再、又，不读 gēng。",
+   "en": "Here it is read gèng, meaning once more, not gēng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "渭城：就是秦代的咸阳城，在长安西北，渭水北岸。唐人往西去，常在这里送别。",
+   "en": "wèi chéng: Weicheng, the old Qin capital Xianyang, northwest of Chang'an on the north bank of the Wei River. People heading west were often seen off here."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "朝雨：早晨的雨。",
+   "en": "zhāo yǔ: morning rain."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "浥：沾湿，打湿。",
+   "en": "yì: to wet, to moisten."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "轻尘：轻轻的尘土。",
+   "en": "qīng chén: light dust."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "客舍：旅店。",
+   "en": "kè shè: an inn."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "柳色新：柳树被雨洗过，颜色格外新鲜。",
+   "en": "liǔ sè xīn: washed by rain, the willows look fresh and new."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "更尽：再喝干。",
+   "en": "gèng jìn: to drain once more."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "阳关：古代关口，在今天甘肃敦煌的西南，出了阳关就是西域。",
+   "en": "yáng guān: Yang Pass, southwest of today's Dunhuang in Gansu. Beyond it lay the western regions."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "故人：老朋友。",
+   "en": "gù rén: an old friend."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "渭城早晨的一场小雨，打湿了路上的轻尘，",
+   "en": "In Weicheng the morning rain has wet the light dust on the road."
+  },
+  {
+   "zh": "旅店旁边青青的柳树，被雨洗得格外新鲜。",
+   "en": "Beside the inn the green willows look fresh and new."
+  },
+  {
+   "zh": "劝你再喝完这一杯酒吧，",
+   "en": "Let me urge you to drink one more cup of wine,"
+  },
+  {
+   "zh": "往西出了阳关，就再也见不到老朋友了。",
+   "en": "for once you go west through Yang Pass, you will have no old friends."
+  }
+ ],
+ "background": {
+  "zh": "王维的朋友元二要奉朝廷之命出使安西。“元二”是说他姓元，在兄弟中排行第二，名字不清楚。安西是唐朝在西域设的安西都护府，治所在今天新疆库车一带，离长安有好几千里。王维从长安送他到渭城，在旅店里摆酒送别，写下了这首诗。写作的具体年份不清楚。",
+  "en": "Wang Wei's friend Yuan the Second was being sent by the court on a mission to Anxi. \"Yuan the Second\" means his surname was Yuan and he was the second son; his given name is not known. Anxi was the Tang's Protectorate in the western regions, based around today's Kuqa in Xinjiang, thousands of li from Chang'an. Wang Wei went with him from Chang'an to Weicheng, set out wine at the inn to say goodbye, and wrote this poem. We do not know the exact year."
+ },
+ "author_note": {
+  "zh": "王维（701—761，一说699—761），盛唐诗人，也是画家和音乐家。苏轼称赞他“诗中有画，画中有诗”。他晚年信佛，被人称为“诗佛”。这首诗写成后很快被谱成曲子，成了唐代人送别时最爱唱的歌。",
+  "en": "Wang Wei (701–761, or by another account 699–761) was a high Tang poet, and also a painter and musician. Su Shi praised him: \"in his poems there are paintings, and in his paintings there are poems.\" In later life he turned to Buddhism and was called the Buddha of Poetry. This poem was soon set to music and became the Tang's favourite farewell song."
+ },
+ "appreciation": {
+  "zh": "前两句写送别的早晨：一场小雨刚停，路上没有尘土，柳树青青，空气干净清新。景色很美，可是“柳”和“留”读音相近，古人送别常折柳，柳树也让人想到离别。后两句没有写长长的告别，只写了一个动作：劝朋友再喝一杯。为什么？因为出了阳关，就再也没有老朋友了。前面喝了多少杯，说了多少话，诗人都没写，只把最后一杯写出来，那份不舍就全在这杯酒里了。",
+  "en": "The first two lines show the morning of the farewell. A light rain has just stopped, the road is free of dust, the willows are green, and the air is fresh and clean. The scene is lovely. But willow, liu, sounds like the word for \"stay\", and people broke willow twigs when parting, so willows also mean goodbye. The last two lines do not show a long farewell. They show one act: urging the friend to drink one more cup. Why? Because past Yang Pass there will be no old friends. The poet does not tell how many cups came before, or what was said. He only shows the last cup, and all his sorrow at parting is in it."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "farewell",
+   "friendship",
+   "wine",
+   "willow",
+   "rain"
+  ]
+ },
+ "uncertain": []
+}

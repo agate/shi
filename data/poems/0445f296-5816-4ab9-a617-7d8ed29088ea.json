@@ -1,0 +1,279 @@
+{
+ "id": "0445f296-5816-4ab9-a617-7d8ed29088ea",
+ "kind": "shi",
+ "title": "凉州词",
+ "title_en": "Song of Liangzhou",
+ "author": "王翰",
+ "author_en": "Wang Han",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "葡",
+    "pú"
+   ],
+   [
+    "萄",
+    "táo"
+   ],
+   [
+    "美",
+    "měi"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "杯",
+    "bēi"
+   ]
+  ],
+  [
+   [
+    "欲",
+    "yù"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "琵",
+    "pí"
+   ],
+   [
+    "琶",
+    "pá"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "催",
+    "cuī"
+   ]
+  ],
+  [
+   [
+    "醉",
+    "zuì"
+   ],
+   [
+    "卧",
+    "wò"
+   ],
+   [
+    "沙",
+    "shā"
+   ],
+   [
+    "场",
+    "chǎng"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "莫",
+    "mò"
+   ],
+   [
+    "笑",
+    "xiào"
+   ]
+  ],
+  [
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "征",
+    "zhēng"
+   ],
+   [
+    "战",
+    "zhàn"
+   ],
+   [
+    "几",
+    "jǐ"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "回",
+    "huí"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 2,
+   "pos": 3,
+   "char": "场",
+   "pinyin": "chǎng",
+   "zh": "“场”在“沙场”里读 chǎng。",
+   "en": "In shā chǎng, battlefield, it is read chǎng."
+  },
+  {
+   "line": 3,
+   "pos": 5,
+   "char": "人",
+   "pinyin": "rén",
+   "zh": "“几”是多少的意思，读 jǐ，不读 jī。",
+   "en": "Jǐ means how many. It is read jǐ, not jī."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "葡萄美酒：用葡萄酿的好酒。葡萄酒是从西域传来的。",
+   "en": "pú táo měi jiǔ: fine wine made from grapes. Grape wine came to China from the lands to the west."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "夜光杯：用白玉做的酒杯，传说在夜里能发光。这里是说杯子很精美。",
+   "en": "yè guāng bēi: a cup of white jade said to glow at night. Here it means a very fine cup."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "欲饮：正要喝。欲，想要、将要。",
+   "en": "yù yǐn: just about to drink. Yù means to want to, to be about to."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "琵琶：一种弹拨乐器，从西域传来，可以在马上弹奏。",
+   "en": "pí pá: the pipa, a plucked lute from the lands to the west, which can be played on horseback."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "马上催：在马背上弹起琵琶，催人喝酒。一说是催人出发去打仗。",
+   "en": "mǎ shàng cuī: someone on horseback plays the pipa, urging everyone to drink. Another reading: it urges the soldiers to set off for battle."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "醉卧：喝醉了躺下。",
+   "en": "zuì wò: to lie down drunk."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "沙场：战场。边塞的战场多是平坦的沙地。",
+   "en": "shā chǎng: the battlefield. Frontier battlefields were often flat, sandy ground."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 5,
+   "zh": "君：你。",
+   "en": "jūn: you."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "古来：自古以来。",
+   "en": "gǔ lái: since ancient times."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "征战：出去打仗。",
+   "en": "zhēng zhàn: to go off to war."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "几人回：有几个人能活着回来。",
+   "en": "jǐ rén huí: how many come home alive?"
+  }
+ ],
+ "translation": [
+  {
+   "zh": "葡萄酿的美酒，盛在精美的夜光杯里。",
+   "en": "Fine grape wine fills the glowing jade cups."
+  },
+  {
+   "zh": "正要举杯痛饮，马背上的琵琶声响起来催促着。",
+   "en": "Just as we raise them to drink, a pipa on horseback urges us on."
+  },
+  {
+   "zh": "如果我喝醉了躺在战场上，请你不要笑我，",
+   "en": "If I lie drunk on the battlefield, please do not laugh at me."
+  },
+  {
+   "zh": "自古以来出去打仗的人，有几个能活着回来？",
+   "en": "Since ancient times, how many who went to war ever came home?"
+  }
+ ],
+ "background": {
+  "zh": "《凉州词》本来是唐朝流行的一种曲子的名字。凉州在今甘肃武威一带，是西北的边塞重地。很多诗人都按这个曲子填过词，写边塞的生活。王翰写了两首，这是第一首。这首诗写于哪一年，现在不清楚。诗里写的是边塞将士在出征前喝酒的场面。",
+  "en": "\"Song of Liangzhou\" was originally the name of a popular Tang tune. Liangzhou was around today's Wuwei in Gansu, an important frontier region in the northwest. Many poets wrote words to this tune about life on the frontier. Wang Han wrote two; this is the first. We do not know the year it was written. The poem shows frontier soldiers drinking before they go into battle."
+ },
+ "author_note": {
+  "zh": "王翰，字子羽，并州晋阳（今山西太原）人，唐朝诗人，生卒年不详。他考中过进士，性格豪放，喜欢喝酒，家里养着很多马和歌伎。他留下来的诗很少，但这首《凉州词》非常有名。",
+  "en": "Wang Han was a Tang poet from Jinyang in Bingzhou, today's Taiyuan in Shanxi. His exact birth and death years are not known. He passed the highest imperial examination. He was bold and free, loved wine, and kept many horses and singers at home. Few of his poems survive, but this one is very famous."
+ },
+ "appreciation": {
+  "zh": "这首诗一开头就很热闹：葡萄美酒、夜光杯，都是西域来的稀罕东西，颜色鲜亮，一看就是边塞的宴会。正要举杯，琵琶声响起来了，大家喝得更痛快。第三句话锋一转：“喝醉了躺在战场上，你可别笑话我。”第四句说出原因：自古以来去打仗的人，有几个能回来？这句话听上去很豪迈，好像不把生死放在心上；可仔细想想，里面也有说不出的悲凉。正因为明天可能回不来，今天才要痛痛快快地喝。豪放和悲伤混在一起，这就是这首诗打动人的地方。",
+  "en": "The poem opens with a lively feast. Grape wine and glowing jade cups were rare treasures from the western lands, bright and colourful: this is clearly a party on the frontier. Just as the cups are raised, the pipa starts to play, and everyone drinks even more freely. The third line turns: \"If I lie drunk on the battlefield, please don't laugh at me.\" The fourth line gives the reason: since ancient times, how many who went to war came back? This sounds bold, as if the soldier does not care about life or death. But think about it, and there is a deep sadness inside. Because they may not come back tomorrow, they drink their fill today. Boldness and sorrow are mixed together, and that is what makes the poem so moving."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "frontier",
+   "war",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

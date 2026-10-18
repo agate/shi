@@ -1,0 +1,490 @@
+{
+ "id": "ci-da5da973d047",
+ "kind": "ci",
+ "title": "临江仙·夜归临皋",
+ "title_en": "To the Tune of Lin Jiang Xian: Coming Home to Lingao at Night",
+ "author": "苏轼",
+ "author_en": "Su Shi",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·临江仙（双调）",
+  "en": "ci lyric to the tune Lin Jiang Xian, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "坡",
+    "pō"
+   ],
+   [
+    "醒",
+    "xǐng"
+   ],
+   [
+    "复",
+    "fù"
+   ],
+   [
+    "醉",
+    "zuì"
+   ]
+  ],
+  [
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "来",
+    "lái"
+   ],
+   [
+    "仿",
+    "fǎng"
+   ],
+   [
+    "佛",
+    "fú"
+   ],
+   [
+    "三",
+    "sān"
+   ],
+   [
+    "更",
+    "gēng"
+   ]
+  ],
+  [
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "童",
+    "tóng"
+   ],
+   [
+    "鼻",
+    "bí"
+   ],
+   [
+    "息",
+    "xī"
+   ],
+   [
+    "已",
+    "yǐ"
+   ],
+   [
+    "雷",
+    "léi"
+   ],
+   [
+    "鸣",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "敲",
+    "qiāo"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "都",
+    "dōu"
+   ],
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "应",
+    "yìng"
+   ]
+  ],
+  [
+   [
+    "倚",
+    "yǐ"
+   ],
+   [
+    "杖",
+    "zhàng"
+   ],
+   [
+    "听",
+    "tīng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "恨",
+    "hèn"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "身",
+    "shēn"
+   ],
+   [
+    "非",
+    "fēi"
+   ],
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "有",
+    "yǒu"
+   ]
+  ],
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "忘",
+    "wàng"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "营",
+    "yíng"
+   ],
+   [
+    "营",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "静",
+    "jìng"
+   ],
+   [
+    "縠",
+    "hú"
+   ],
+   [
+    "纹",
+    "wén"
+   ],
+   [
+    "平",
+    "píng"
+   ]
+  ],
+  [
+   [
+    "小",
+    "xiǎo"
+   ],
+   [
+    "舟",
+    "zhōu"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "逝",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "词题“夜归临皋”是通行本的题目，资料库里只有词牌“临江仙”。资料库“寄馀生”的“馀”是繁体转简体时留下的异体字，通行本写作“余”。",
+  "en": "The heading \"Coming Home to Lingao at Night\" is the title used in common editions. The corpus gives only the tune name. The corpus also writes the yú of the last line with an old variant form left over from machine conversion. Common editions use the standard simplified form."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 3,
+   "char": "佛",
+   "pinyin": "fú",
+   "zh": "“仿佛”的“佛”读 fú，不读 fó。",
+   "en": "In fǎng fú the second character is read fú, not fó."
+  },
+  {
+   "line": 3,
+   "pos": 3,
+   "char": "不",
+   "pinyin": "bú",
+   "zh": "“不”在第四声“应”前面变读 bú。",
+   "en": "Bù changes to bú before the fourth-tone yìng."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "应",
+   "pinyin": "yìng",
+   "zh": "“应”是“答应、回应”的意思，读 yìng。",
+   "en": "Yìng here means to answer, so it is read yìng, not yīng."
+  },
+  {
+   "line": 5,
+   "pos": 0,
+   "char": "长",
+   "pinyin": "cháng",
+   "zh": "“长恨”是“常常遗憾”，读 cháng。",
+   "en": "Cháng hèn means always regretting, read cháng."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "縠",
+   "pinyin": "hú",
+   "zh": "“縠”读 hú，是一种有皱纹的薄纱。",
+   "en": "This character is read hú. It names a thin, crinkled silk."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "东坡：黄州城东的一块坡地。苏轼在这里开荒种地，还盖了房子，后来就自号“东坡居士”。",
+   "en": "dōng pō: the Eastern Slope, a piece of land east of the town of Huangzhou. Su Shi farmed it and built a house there, and later named himself after it: Dongpo."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "醒复醉：醒了又醉。复，又。",
+   "en": "xǐng fù zuì: sober, then drunk again. Fù means again."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "仿佛：好像，大概。",
+   "en": "fǎng fú: about, as if."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 6,
+   "zh": "三更：半夜，大约晚上十一点到凌晨一点。",
+   "en": "sān gēng: midnight, about 11 pm to 1 am."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "家童：家里的小仆人。",
+   "en": "jiā tóng: a young servant in the house."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 7,
+   "zh": "鼻息已雷鸣：打呼噜的声音像打雷一样响。",
+   "en": "bí xī yǐ léi míng: his snoring was already as loud as thunder."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "倚杖：靠着手杖。",
+   "en": "yǐ zhàng: leaning on a walking stick."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 7,
+   "zh": "此身非我有：自己的身体不属于自己。意思是被官场和俗事管着，做不了自己的主。这话出自《庄子》。",
+   "en": "cǐ shēn fēi wǒ yǒu: this body is not my own. He means he is ruled by official life and worldly cares and cannot be his own master. The idea comes from the book Zhuangzi."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 6,
+   "zh": "营营：忙忙碌碌，为名利奔走。也出自《庄子》。",
+   "en": "yíng yíng: busy, rushing about after fame and gain. This word also comes from Zhuangzi."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "夜阑：夜深了。",
+   "en": "yè lán: late in the night."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "縠纹：像绉纱一样细细的水波。",
+   "en": "hú wén: fine ripples on the water, like crinkled silk."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 5,
+   "zh": "逝：离开，远去。",
+   "en": "shì: to go away, to leave."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 5,
+   "zh": "寄余生：把剩下的日子托付给（江海）。",
+   "en": "jì yú shēng: to give the rest of one's life over to rivers and seas."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "夜里在东坡喝酒，醒了又醉，",
+   "en": "Drinking at night on the Eastern Slope, I sobered up and got drunk again."
+  },
+  {
+   "zh": "回到家时，大概已经半夜了。",
+   "en": "When I came home it was about midnight."
+  },
+  {
+   "zh": "家里的小仆人早已睡熟，呼噜声像打雷。",
+   "en": "My young servant was fast asleep, snoring like thunder."
+  },
+  {
+   "zh": "我敲门，他怎么也不应，",
+   "en": "I knocked, but he did not answer."
+  },
+  {
+   "zh": "我只好靠着手杖，听江水流动的声音。",
+   "en": "So I leaned on my stick and listened to the river."
+  },
+  {
+   "zh": "我常常遗憾，这身子不由自己做主，",
+   "en": "I often regret that this body is not my own."
+  },
+  {
+   "zh": "什么时候才能忘掉那些忙忙碌碌的事？",
+   "en": "When can I forget all this busy chasing about?"
+  },
+  {
+   "zh": "夜深了，风停了，江面的波纹也平了。",
+   "en": "The night is late, the wind is still, the ripples have smoothed away."
+  },
+  {
+   "zh": "真想坐上小船，从此远远离去，",
+   "en": "I wish I could take a little boat and leave from here,"
+  },
+  {
+   "zh": "在江河湖海上度过我剩下的日子。",
+   "en": "and spend the rest of my life on rivers and seas."
+  }
+ ],
+ "background": {
+  "zh": "宋神宗元丰二年（1079年），苏轼因为写诗被人告发，下了大狱，这就是“乌台诗案”。出狱后他被贬到黄州（今湖北黄冈）。这首词作于元丰五年（1082年），他住在长江边的临皋亭。一天夜里，他在东坡喝完酒回家，敲不开门，就站在门外听江声，写下了这首词。宋人笔记还记载，第二天有人传说苏轼坐船走了，太守吓了一跳，赶去一看，他还在家里睡觉呢。",
+  "en": "In 1079 Su Shi was reported for things he wrote in poems and thrown into prison. This is known as the Crow Terrace Poetry Case. After his release he was sent away to Huangzhou, today's Huanggang in Hubei. He wrote this lyric in 1082, when he lived at Lingao Pavilion by the Yangtze. One night he came home from drinking on the Eastern Slope, could not get in, and stood outside listening to the river. A Song-dynasty notebook adds that the next day people said Su Shi had sailed away. The governor was alarmed and rushed over, only to find him asleep at home."
+ },
+ "author_note": {
+  "zh": "苏轼（1037—1101），字子瞻，号东坡居士，北宋大文学家，诗、词、文章、书法、画都很出色。他一生几次被贬，日子很苦，却总能想得开。在黄州的几年，他写出了《念奴娇·赤壁怀古》《赤壁赋》等名作，这首词也写于这段时间。",
+  "en": "Su Shi (1037–1101), also called Zizhan and known as Dongpo, was a great writer of the Northern Song. He was brilliant at poems, lyrics, essays, calligraphy and painting. He was sent away from court several times and lived hard lives, yet he always found a way to see things lightly. In his years at Huangzhou he wrote famous works such as \"Remembering the Past at Red Cliff\" and the \"Red Cliff Rhapsody\". This lyric is from the same time."
+ },
+ "appreciation": {
+  "zh": "上片像一个有趣的小故事：喝到半夜回家，仆人睡得打雷一样响，怎么敲门都没人应。换了别人可能会生气，苏轼却靠着手杖，静静听起江水来。下片就从江声想开去：活在世上总被俗事牵着走，什么时候才能放下？这时夜深风停，江面平平的，他忽然很想坐上小船，漂到江海里，自由自在地过完一生。这首词从好笑写到深沉，最后的心愿开阔又洒脱。",
+  "en": "The first stanza is like a funny little story. He comes home at midnight. The servant snores like thunder, and no one answers the door. Someone else might get angry. Su Shi leans on his stick and quietly listens to the river instead. The second stanza grows out of that sound. In this world we are always pulled along by our cares. When can we let go? The night is deep, the wind has stopped, the river lies smooth. Suddenly he longs to take a little boat out onto the rivers and seas and live the rest of his life free. The lyric moves from something funny to something deep, and ends with a wish that is wide open and carefree."
+ },
+ "famous_lines": [
+  3,
+  4,
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "freedom",
+   "river",
+   "night",
+   "wine",
+   "exile"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>西江月·遣兴 · 辛弃疾 — 诗</title>
+    <meta name="description" content="西江月·遣兴 · 辛弃疾 — West River Moon: Venting My Feelings by Xin Qiji: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 95 · Song lyric · ci (song lyric) in two stanzas</span><span lang="zh">第 95 首 · 宋词 · 词（双调）</span></p>
+        <h1>西江月·遣兴</h1>
+        <p class="by">辛弃疾<span class="mono"><span lang="en">Xin Qiji · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">West River Moon: Venting My Feelings</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>zuì</i><b>醉</b></span><span class="c" data-l="0" data-p="1"><i>lǐ</i><b>里</b></span><span class="c gl" data-l="0" data-p="2"><i>qiě</i><b>且</b></span><span class="c gl" data-l="0" data-p="3"><i>tān</i><b>贪</b></span><span class="c gl" data-l="0" data-p="4"><i>huān</i><b>欢</b></span><span class="c gl" data-l="0" data-p="5"><i>xiào</i><b>笑</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>yào</i><b>要</b></span><span class="c gl" data-l="1" data-p="1"><i>chóu</i><b>愁</b></span><span class="c gl rd" data-l="1" data-p="2"><i>nǎ</i><b>那</b></span><span class="c gl" data-l="1" data-p="3"><i>dé</i><b>得</b></span><span class="c gl" data-l="1" data-p="4"><i>gōng</i><b>工</b></span><span class="c gl rd" data-l="1" data-p="5"><i>fū</i><b>夫</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>jìn</i><b>近</b></span><span class="c" data-l="2" data-p="1"><i>lái</i><b>来</b></span><span class="c gl" data-l="2" data-p="2"><i>shǐ</i><b>始</b></span><span class="c gl" data-l="2" data-p="3"><i>jué</i><b>觉</b></span><span class="c gl" data-l="2" data-p="4"><i>gǔ</i><b>古</b></span><span class="c gl" data-l="2" data-p="5"><i>rén</i><b>人</b></span><span class="c gl" data-l="2" data-p="6"><i>shū</i><b>书</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>xìn</i><b>信</b></span><span class="c gl rd" data-l="3" data-p="1"><i>zhuó</i><b>著</b></span><span class="c gl" data-l="3" data-p="2"><i>quán</i><b>全</b></span><span class="c gl" data-l="3" data-p="3"><i>wú</i><b>无</b></span><span class="c gl" data-l="3" data-p="4"><i>shì</i><b>是</b></span><span class="c gl" data-l="3" data-p="5"><i>chù</i><b>处</b></span></p><p class="ln brk"><span class="c" data-l="4" data-p="0"><i>zuó</i><b>昨</b></span><span class="c" data-l="4" data-p="1"><i>yè</i><b>夜</b></span><span class="c" data-l="4" data-p="2"><i>sōng</i><b>松</b></span><span class="c" data-l="4" data-p="3"><i>biān</i><b>边</b></span><span class="c" data-l="4" data-p="4"><i>zuì</i><b>醉</b></span><span class="c" data-l="4" data-p="5"><i>dǎo</i><b>倒</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>wèn</i><b>问</b></span><span class="c" data-l="5" data-p="1"><i>sōng</i><b>松</b></span><span class="c" data-l="5" data-p="2"><i>wǒ</i><b>我</b></span><span class="c" data-l="5" data-p="3"><i>zuì</i><b>醉</b></span><span class="c gl" data-l="5" data-p="4"><i>hé</i><b>何</b></span><span class="c gl" data-l="5" data-p="5"><i>rú</i><b>如</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>zhǐ</i><b>只</b></span><span class="c gl" data-l="6" data-p="1"><i>yí</i><b>疑</b></span><span class="c" data-l="6" data-p="2"><i>sōng</i><b>松</b></span><span class="c" data-l="6" data-p="3"><i>dòng</i><b>动</b></span><span class="c" data-l="6" data-p="4"><i>yào</i><b>要</b></span><span class="c" data-l="6" data-p="5"><i>lái</i><b>来</b></span><span class="c" data-l="6" data-p="6"><i>fú</i><b>扶</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>yǐ</i><b>以</b></span><span class="c" data-l="7" data-p="1"><i>shǒu</i><b>手</b></span><span class="c" data-l="7" data-p="2"><i>tuī</i><b>推</b></span><span class="c" data-l="7" data-p="3"><i>sōng</i><b>松</b></span><span class="c gl" data-l="7" data-p="4"><i>yuē</i><b>曰</b></span><span class="c gl" data-l="7" data-p="5"><i>qù</i><b>去</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">醉里且贪欢笑</span><span lang="en">When I am drunk, let me laugh and be merry for now;</span><span lang="zh">喝醉了，就先尽情地欢笑吧，</span></li><li><span class="o">要愁那得工夫</span><span lang="en">if I wanted to be sad, where would I find the time?</span><span lang="zh">想要发愁，哪里有这个时间？</span></li><li><span class="o">近来始觉古人书</span><span lang="en">Only lately have I found that the books of the ancients,</span><span lang="zh">最近我才发觉，古人书里的话，</span></li><li><span class="o">信著全无是处</span><span lang="en">if you believe them fully, are no use at all.</span><span lang="zh">要是全都相信，就一点用也没有。</span></li><li class="brk"><span class="o">昨夜松边醉倒</span><span lang="en">Last night I fell down drunk beside a pine,</span><span lang="zh">昨天夜里，我醉倒在松树旁边，</span></li><li><span class="o">问松我醉何如</span><span lang="en">and asked the pine, &#x27;How drunk am I?&#x27;</span><span lang="zh">问松树：“我醉得怎么样？”</span></li><li><span class="o">只疑松动要来扶</span><span lang="en">I thought the pine was moving, coming over to help me up,</span><span lang="zh">只觉得松树摇摇晃晃，要过来扶我，</span></li><li><span class="o">以手推松曰去</span><span lang="en">so I pushed it with my hand and said, &#x27;Go away!&#x27;</span><span lang="zh">我用手一推松树，说：“走开！”</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>且<span class="mono">qiě</span></dt><dd><span lang="en">qiě: for now, for the time being.</span><span lang="zh">且：暂且、姑且，先这样。</span></dd></div><div><dt>贪欢笑<span class="mono">tān huān xiào</span></dt><dd><span lang="en">tān huān xiào: to laugh and be merry to the full. Tān means not wanting to stop.</span><span lang="zh">贪欢笑：尽情地欢笑。贪，舍不得停。</span></dd></div><div><dt>要愁<span class="mono">yào chóu</span></dt><dd><span lang="en">yào chóu: if I wanted to be sad.</span><span lang="zh">要愁：要想发愁。</span></dd></div><div><dt>那得工夫<span class="mono">nǎ dé gōng fū</span></dt><dd><span lang="en">nǎ dé gōng fū: where would I find the time?</span><span lang="zh">那得工夫：哪有时间。</span></dd></div><div><dt>始觉<span class="mono">shǐ jué</span></dt><dd><span lang="en">shǐ jué: only now realise.</span><span lang="zh">始觉：才觉得、才发现。</span></dd></div><div><dt>古人书<span class="mono">gǔ rén shū</span></dt><dd><span lang="en">gǔ rén shū: books written by the sages of old.</span><span lang="zh">古人书：古代圣贤写的书。</span></dd></div><div><dt>信著<span class="mono">xìn zhuó</span></dt><dd><span lang="en">xìn zhuó: to believe in them.</span><span lang="zh">信著：相信它。著，同“着”。</span></dd></div><div><dt>全无是处<span class="mono">quán wú shì chù</span></dt><dd><span lang="en">quán wú shì chù: no use at all, not right at all. He says this in anger: what the old books teach does not work in the real world.</span><span lang="zh">全无是处：一点用处也没有，一点也不对。这是气话：古书上讲的道理，在现实里根本行不通。</span></dd></div><div><dt>何如<span class="mono">hé rú</span></dt><dd><span lang="en">hé rú: how is it?</span><span lang="zh">何如：怎么样。</span></dd></div><div><dt>只疑<span class="mono">zhǐ yí</span></dt><dd><span lang="en">zhǐ yí: I suspected, it seemed to me.</span><span lang="zh">只疑：只怀疑、只觉得。</span></dd></div><div><dt>曰<span class="mono">yuē</span></dt><dd><span lang="en">yuē: to say.</span><span lang="zh">曰：说。</span></dd></div><div><dt>去<span class="mono">qù</span></dt><dd><span lang="en">qù: go away!</span><span lang="zh">去：走开！</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>那<span class="mono">nǎ</span></dt><dd><span lang="en">Nǎ dé means &#x27;how could there be&#x27;. This character is used for the question word nǎ (how, where) and is read nǎ.</span><span lang="zh">“那得”就是“哪得”，“那”在这里是疑问词“哪”，读 nǎ。</span></dd></div><div><dt>夫<span class="mono">fū</span></dt><dd><span lang="en">In modern speech gōng fu ends with a light, toneless fu. When reading the poem aloud it is usually read fū.</span><span lang="zh">“工夫”在现代汉语里读 gōngfu，“夫”读轻声；读诗时一般读 fū。</span></dd></div><div><dt>著<span class="mono">zhuó</span></dt><dd><span lang="en">This character is the old form of zhuó here, meaning to hold on to, to stick to.</span><span lang="zh">“信著”的“著”同“着”，读 zhuó，有“附着、执着”的意思。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric is usually thought to have been written while Xin Qiji, removed from office, was living at Daihu Lake in Shangrao, in today&#x27;s Jiangxi. He longed to lead an army and win back the lost north, but the court would not use him, so he spent many years in the countryside. With nowhere to pour out his frustration, he turned to wine, and wrote this lyric that looks funny but is really sad. The title means letting out one&#x27;s feelings.</p><p lang="zh">这首词一般认为是辛弃疾被罢官、闲居上饶带湖（今江西上饶）时写的。他一心想带兵收复北方失地，朝廷却不用他，只能在乡下一住就是很多年。心里的苦闷没处说，他就借喝酒来排遣，写下了这首看起来好笑、其实很心酸的词。“遣兴”就是抒发心情的意思。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Xin Qiji (1140–1207), known as Jiaxuan, was a great ci writer of the Southern Song. As a young man he led troops against the Jin in the north. After coming south he kept urging the court to win back the lost land, but he was removed from office many times and lived in the countryside for nearly twenty years in all. His lyrics often use wine and landscapes to voice his anger at injustice, bold on the surface and full of grief beneath.</p><p lang="zh">辛弃疾（1140—1207），号稼轩，南宋大词人。他年轻时在北方带兵抗金，南下以后一直主张收复失地，却多次被罢官，在乡间闲居了将近二十年。他的词常常借喝酒、山水来写心中的不平，豪放中带着悲愤。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half sounds like drunken talk: he is too busy laughing to be sad, and the old books are worthless. But he means the opposite. The books of the sages teach loyalty to one&#x27;s ruler and country, yet when he tried to serve his country he was sent home. That is why he says their teachings do not work. The second half is a funny little story. Drunk beside a pine, he asks it how drunk he is. When the pine seems to sway, he thinks it wants to help him up, so he shoves it and says, &#x27;Go away!&#x27; That shove shows his stubborn pride: he will not give in, and he will not take help. It makes us laugh, and after the laugh we feel his hurt and his refusal to accept his fate.</p><p lang="zh">上半首像醉话：只顾笑，没空愁；古人的书，信了也白信。其实这是反话。他读的圣贤书教人忠君爱国，可他想报国却被赶回了家，所以才说书里的道理行不通。下半首是一个好玩的小故事：醉倒在松树边，问松树自己醉得怎样；看松树晃动，以为它要来扶，就推它一把说“去！”。这一推，推出了他不服输、不要人帮的倔强。读起来让人发笑，笑过之后，又能感到他心里的委屈和不甘。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/bosuanzi-songbaohaoranzhizhedong/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>卜算子·送鲍浩然之浙东</b></a><a href="../../p/xijiangyue-qingzaihuangzhou/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>西江月·顷在黄州</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["醉", "zuì"], ["里", "lǐ"], ["且", "qiě"], ["贪", "tān"], ["欢", "huān"], ["笑", "xiào"]], [["要", "yào"], ["愁", "chóu"], ["那", "nǎ"], ["得", "dé"], ["工", "gōng"], ["夫", "fū"]], [["近", "jìn"], ["来", "lái"], ["始", "shǐ"], ["觉", "jué"], ["古", "gǔ"], ["人", "rén"], ["书", "shū"]], [["信", "xìn"], ["著", "zhuó"], ["全", "quán"], ["无", "wú"], ["是", "shì"], ["处", "chù"]], [["昨", "zuó"], ["夜", "yè"], ["松", "sōng"], ["边", "biān"], ["醉", "zuì"], ["倒", "dǎo"]], [["问", "wèn"], ["松", "sōng"], ["我", "wǒ"], ["醉", "zuì"], ["何", "hé"], ["如", "rú"]], [["只", "zhǐ"], ["疑", "yí"], ["松", "sōng"], ["动", "dòng"], ["要", "yào"], ["来", "lái"], ["扶", "fú"]], [["以", "yǐ"], ["手", "shǒu"], ["推", "tuī"], ["松", "sōng"], ["曰", "yuē"], ["去", "qù"]]], "glosses": [{"line": 0, "start": 2, "end": 3, "zh": "且：暂且、姑且，先这样。", "en": "qiě: for now, for the time being."}, {"line": 0, "start": 3, "end": 6, "zh": "贪欢笑：尽情地欢笑。贪，舍不得停。", "en": "tān huān xiào: to laugh and be merry to the full. Tān means not wanting to stop."}, {"line": 1, "start": 0, "end": 2, "zh": "要愁：要想发愁。", "en": "yào chóu: if I wanted to be sad."}, {"line": 1, "start": 2, "end": 6, "zh": "那得工夫：哪有时间。", "en": "nǎ dé gōng fū: where would I find the time?"}, {"line": 2, "start": 2, "end": 4, "zh": "始觉：才觉得、才发现。", "en": "shǐ jué: only now realise."}, {"line": 2, "start": 4, "end": 7, "zh": "古人书：古代圣贤写的书。", "en": "gǔ rén shū: books written by the sages of old."}, {"line": 3, "start": 0, "end": 2, "zh": "信著：相信它。著，同“着”。", "en": "xìn zhuó: to believe in them."}, {"line": 3, "start": 2, "end": 6, "zh": "全无是处：一点用处也没有，一点也不对。这是气话：古书上讲的道理，在现实里根本行不通。", "en": "quán wú shì chù: no use at all, not right at all. He says this in anger: what the old books teach does not work in the real world."}, {"line": 5, "start": 4, "end": 6, "zh": "何如：怎么样。", "en": "hé rú: how is it?"}, {"line": 6, "start": 0, "end": 2, "zh": "只疑：只怀疑、只觉得。", "en": "zhǐ yí: I suspected, it seemed to me."}, {"line": 7, "start": 4, "end": 5, "zh": "曰：说。", "en": "yuē: to say."}, {"line": 7, "start": 5, "end": 6, "zh": "去：走开！", "en": "qù: go away!"}], "readings": [{"line": 1, "pos": 2, "char": "那", "pinyin": "nǎ", "zh": "“那得”就是“哪得”，“那”在这里是疑问词“哪”，读 nǎ。", "en": "Nǎ dé means 'how could there be'. This character is used for the question word nǎ (how, where) and is read nǎ."}, {"line": 1, "pos": 5, "char": "夫", "pinyin": "fū", "zh": "“工夫”在现代汉语里读 gōngfu，“夫”读轻声；读诗时一般读 fū。", "en": "In modern speech gōng fu ends with a light, toneless fu. When reading the poem aloud it is usually read fū."}, {"line": 3, "pos": 1, "char": "著", "pinyin": "zhuó", "zh": "“信著”的“著”同“着”，读 zhuó，有“附着、执着”的意思。", "en": "This character is the old form of zhuó here, meaning to hold on to, to stick to."}], "speak": ["醉里且贪欢笑", "要愁那得工孵", "近来始觉古人书", "信浊全无是处", "昨夜松边醉导", "问松我醉何如", "只疑松动要来扶", "以手推松曰去"], "speakTitle": "西江月，遣兴。辛弃疾。", "sample": "醉里且贪欢笑"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

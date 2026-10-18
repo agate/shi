@@ -1,0 +1,373 @@
+{
+ "id": "2c152693-c25f-45ce-8ef2-cbedce1a62bc",
+ "kind": "shi",
+ "title": "望月怀远",
+ "title_en": "Gazing at the Moon, Thinking of One Far Away",
+ "author": "张九龄",
+ "author_en": "Zhang Jiuling",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "海",
+    "hǎi"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "涯",
+    "yá"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "此",
+    "cǐ"
+   ],
+   [
+    "时",
+    "shí"
+   ]
+  ],
+  [
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "怨",
+    "yuàn"
+   ],
+   [
+    "遥",
+    "yáo"
+   ],
+   [
+    "夜",
+    "yè"
+   ]
+  ],
+  [
+   [
+    "竟",
+    "jìng"
+   ],
+   [
+    "夕",
+    "xī"
+   ],
+   [
+    "起",
+    "qǐ"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "灭",
+    "miè"
+   ],
+   [
+    "烛",
+    "zhú"
+   ],
+   [
+    "怜",
+    "lián"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ]
+  ],
+  [
+   [
+    "披",
+    "pī"
+   ],
+   [
+    "衣",
+    "yī"
+   ],
+   [
+    "觉",
+    "jué"
+   ],
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "滋",
+    "zī"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "堪",
+    "kān"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "手",
+    "shǒu"
+   ],
+   [
+    "赠",
+    "zèng"
+   ]
+  ],
+  [
+   [
+    "还",
+    "huán"
+   ],
+   [
+    "寝",
+    "qǐn"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "佳",
+    "jiā"
+   ],
+   [
+    "期",
+    "qī"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 7,
+   "pos": 0,
+   "char": "还",
+   "pinyin": "huán",
+   "zh": "“还寝”的“还”是回去的意思，读 huán。",
+   "en": "In huán qǐn, the character means to go back, so it is read huán."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "生：升起。",
+   "en": "shēng: to rise."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "天涯：天边，指离得很远的地方。",
+   "en": "tiān yá: the edge of the sky, meaning places very far apart."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "共此时：在同一时刻一起看着这轮明月。",
+   "en": "gòng cǐ shí: sharing this same moment, both looking at the moon."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "情人：有感情的人，这里指互相思念的亲人或朋友，也指诗人自己。",
+   "en": "qíng rén: people who care for each other. Here it means dear ones who miss each other, the poet among them."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 5,
+   "zh": "怨遥夜：埋怨夜太长。遥夜，长夜。",
+   "en": "yuàn yáo yè: to complain that the night is so long. Yáo yè means a long night."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "竟夕：一整夜。",
+   "en": "jìng xī: the whole night through."
+  },
+  {
+   "line": 3,
+   "start": 3,
+   "end": 5,
+   "zh": "相思：思念。",
+   "en": "xiāng sī: to miss someone."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "灭烛：吹灭蜡烛。",
+   "en": "miè zhú: to blow out the candle."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 5,
+   "zh": "怜光满：爱这满屋的月光。怜，爱。",
+   "en": "lián guāng mǎn: loving the moonlight that fills the room. Lián means to love."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "披衣：把衣服披在身上，指走到屋外。",
+   "en": "pī yī: to throw a coat over one's shoulders, that is, to go outside."
+  },
+  {
+   "line": 5,
+   "start": 3,
+   "end": 5,
+   "zh": "露滋：露水打湿了衣服。滋，润湿。",
+   "en": "lù zī: dew dampens the clothes. Zī means to moisten."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "不堪：不能。",
+   "en": "bù kān: cannot."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "盈手：满手，捧满一手。",
+   "en": "yíng shǒu: a handful."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "还寝：回到床上睡觉。",
+   "en": "huán qǐn: to go back to bed."
+  },
+  {
+   "line": 7,
+   "start": 3,
+   "end": 5,
+   "zh": "佳期：美好的相会的时候。",
+   "en": "jiā qī: the happy time of meeting again."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "一轮明月从海上升起，",
+   "en": "A bright moon rises over the sea;"
+  },
+  {
+   "zh": "远在天边的亲人，此刻也和我一起看着它。",
+   "en": "far across the world, we share this moment."
+  },
+  {
+   "zh": "思念亲人的人埋怨夜太长，",
+   "en": "Those who long for each other blame the endless night;"
+  },
+  {
+   "zh": "整夜都在想念对方。",
+   "en": "all night long they lie awake missing one another."
+  },
+  {
+   "zh": "吹灭蜡烛，我爱这满屋的月光，",
+   "en": "I blow out the candle and love the light that fills the room;"
+  },
+  {
+   "zh": "披上衣服出门，觉得露水沾湿了衣裳。",
+   "en": "I put on a coat and step out, and feel the dew grow damp."
+  },
+  {
+   "zh": "可惜不能捧一把月光送给你，",
+   "en": "Sadly I cannot gather a handful of moonlight to give you;"
+  },
+  {
+   "zh": "只好回去睡觉，盼望在梦里和你相会。",
+   "en": "so I go back to bed, hoping to meet you in a dream."
+  }
+ ],
+ "background": {
+  "zh": "张九龄是唐玄宗时的宰相，后来被奸臣李林甫排挤，丢了宰相的职位，被贬到荆州做官。一般认为，这首诗是他被贬荆州以后写的，但确切的时间已经说不清了。诗里思念的人是谁，也有不同说法：一说是远方的亲人，一说是朋友。",
+  "en": "Zhang Jiuling was chief minister under Emperor Xuanzong. Later the scheming minister Li Linfu pushed him out, and he was sent away to a post in Jingzhou. The poem is usually thought to have been written after he went to Jingzhou, but the exact date is not known. Who he is missing is also read in different ways: some say family far away, others say a friend."
+ },
+ "author_note": {
+  "zh": "张九龄（678—740），字子寿，韶州曲江（今广东韶关）人，唐代名臣、诗人。他做宰相时正直敢说话，很有名望。他的诗清新淡雅，感情真挚。“海上生明月”这首是他最有名的诗。",
+  "en": "Zhang Jiuling (678–740), courtesy name Zishou, came from Qujiang in Shaozhou, today's Shaoguan in Guangdong. He was a famous minister and poet of the Tang. As chief minister he was honest and dared to speak his mind, and he was widely respected. His poems are fresh, gentle and sincere. This is his best-known poem."
+ },
+ "appreciation": {
+  "zh": "开头十个字就是一幅大画：大海上，一轮明月慢慢升起。远方的人和我隔得那么远，此刻却在看着同一个月亮。月亮把两个人连在了一起。接下来写一整夜睡不着：嫌夜太长，吹灭蜡烛看月光，走到外面，露水打湿了衣服，说明站了很久。最可爱的是第七句，诗人想把月光捧起来送给远方的人，可是月光捧不住啊。没办法，只好回去睡觉，希望在梦里见面。一份思念写得又美又温柔。",
+  "en": "The first ten characters paint a huge picture: over the sea, a bright moon slowly rises. The one I miss is far away, yet at this very moment we look at the same moon. The moon ties us together. Then comes a sleepless night. The night feels too long. He blows out the candle to see the moonlight, goes outside, and the dew wets his clothes, so we know he stood there a long time. The sweetest line is the seventh. He wants to scoop up the moonlight and send it to the one far away, but moonlight cannot be held. So he goes back to bed and hopes to meet in a dream. The longing is lovely and tender."
+ },
+ "famous_lines": [
+  0,
+  1
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [
+   "midautumn"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "moon",
+   "longing",
+   "night"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,487 @@
+{
+ "id": "ci-e077143f2240",
+ "kind": "ci",
+ "title": "踏莎行·燕燕轻盈",
+ "title_en": "To the Tune of Ta Suo Xing: Light as a Swallow",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·踏莎行（双调）",
+  "en": "ci lyric to the tune Ta Suo Xing, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "燕",
+    "yàn"
+   ],
+   [
+    "轻",
+    "qīng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ]
+  ],
+  [
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "莺",
+    "yīng"
+   ],
+   [
+    "娇",
+    "jiāo"
+   ],
+   [
+    "软",
+    "ruǎn"
+   ]
+  ],
+  [
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "又",
+    "yòu"
+   ],
+   [
+    "向",
+    "xiàng"
+   ],
+   [
+    "华",
+    "huá"
+   ],
+   [
+    "胥",
+    "xū"
+   ],
+   [
+    "见",
+    "jiàn"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "争",
+    "zhēng"
+   ],
+   [
+    "得",
+    "dé"
+   ],
+   [
+    "薄",
+    "bó"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "知",
+    "zhī"
+   ]
+  ],
+  [
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "初",
+    "chū"
+   ],
+   [
+    "早",
+    "zǎo"
+   ],
+   [
+    "被",
+    "bèi"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "染",
+    "rǎn"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "后",
+    "hòu"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "辞",
+    "cí"
+   ]
+  ],
+  [
+   [
+    "别",
+    "bié"
+   ],
+   [
+    "时",
+    "shí"
+   ],
+   [
+    "针",
+    "zhēn"
+   ],
+   [
+    "线",
+    "xiàn"
+   ]
+  ],
+  [
+   [
+    "离",
+    "lí"
+   ],
+   [
+    "魂",
+    "hún"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "逐",
+    "zhú"
+   ],
+   [
+    "郎",
+    "láng"
+   ],
+   [
+    "行",
+    "háng"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ]
+  ],
+  [
+   [
+    "淮",
+    "huái"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "皓",
+    "hào"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "冷",
+    "lěng"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "山",
+    "shān"
+   ]
+  ],
+  [
+   [
+    "冥",
+    "míng"
+   ],
+   [
+    "冥",
+    "míng"
+   ],
+   [
+    "归",
+    "guī"
+   ],
+   [
+    "去",
+    "qù"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "管",
+    "guǎn"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "这首词原有一个很长的题目：“自沔东来，丁未元日至金陵，江上感梦而作”。资料库只有词牌，这里按通行做法用首句作题。",
+  "en": "The lyric has a long original heading: \"Coming from east of the Mian River, I reached Jinling on New Year's Day of the year Dingwei, and wrote this on the river after a dream.\" The corpus gives only the tune name, so the first line is used as the title, as is common."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yàn",
+   "zh": "“燕燕”指燕子，也借指心上人，读 yàn。",
+   "en": "Yàn yàn means swallows, and here also the beloved. Read yàn, not yān."
+  },
+  {
+   "line": 3,
+   "pos": 2,
+   "char": "争",
+   "pinyin": "zhēng",
+   "zh": "“争得”是宋代口语，意思是“怎么能、怎么会”，“争”读 zhēng。",
+   "en": "Zhēng dé is Song-era speech for \"how could\". Zhēng is read as usual."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "薄",
+   "pinyin": "bó",
+   "zh": "“薄情”读 bó。",
+   "en": "In bó qíng the first syllable is read bó, not báo."
+  },
+  {
+   "line": 7,
+   "pos": 5,
+   "char": "行",
+   "pinyin": "háng",
+   "zh": "“郎行”的“行”是宋代口语，意思是“那里、身边”，一般读 háng。也有人理解为“行走”，读 xíng。",
+   "en": "In láng háng, háng is Song-era speech meaning \"where he is\". It is usually read háng. Some take it as \"walking\" and read it xíng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 4,
+   "zh": "燕燕、莺莺：燕子和黄莺，这里借来比喻词人的心上人。轻盈：身子轻巧，动作好看。",
+   "en": "yàn yàn, yīng yīng: swallows and orioles, used here to stand for the woman he loves. qīng yíng: light and graceful."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "娇软：声音娇柔、温软。",
+   "en": "jiāo ruǎn: soft and sweet, like her voice."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "分明：清清楚楚。",
+   "en": "fēn míng: clearly."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "华胥：梦。传说黄帝白天睡觉，梦见去了华胥国，后来“华胥”就指梦境。",
+   "en": "huá xū: a dream. Legend says the Yellow Emperor once dreamed he visited the land of Huaxu, so the name came to mean dreamland."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "争得：怎么能。",
+   "en": "zhēng dé: how could."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 6,
+   "zh": "薄情：负心、冷淡的人。这里是女子对情郎又爱又怨的称呼。",
+   "en": "bó qíng: a cold-hearted one. Here it is what the woman calls her lover, half in love and half in blame."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "相思染：被思念浸透了，像布被染上颜色一样。",
+   "en": "xiāng sī rǎn: soaked through with longing, the way cloth takes in dye."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "书辞：信里写的话。",
+   "en": "shū cí: the words in her letters."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "针线：她亲手缝的衣物。",
+   "en": "zhēn xiàn: needle and thread, the clothes she sewed for him."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "离魂：离开身体的魂魄。古代有女子魂魄离开身体、追随心上人的传说。",
+   "en": "lí hún: a soul that has left the body. There are old tales of a girl whose soul left her body to follow the man she loved."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "暗逐：悄悄地追随。",
+   "en": "àn zhú: to follow in secret."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "郎行：情郎那里。",
+   "en": "láng háng: where her lover is."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "淮南：淮河以南，这里指合肥一带，是那位女子住的地方。",
+   "en": "huái nán: south of the Huai River, here the area around Hefei, where the woman lived."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "皓月：明亮洁白的月亮。",
+   "en": "hào yuè: a bright, white moon."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "冥冥：昏暗的样子。",
+   "en": "míng míng: dark and dim."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "她像燕子一样轻盈，",
+   "en": "She is light as a swallow,"
+  },
+  {
+   "zh": "像黄莺一样声音娇柔。",
+   "en": "soft-voiced as an oriole."
+  },
+  {
+   "zh": "我清清楚楚地又在梦里见到了她。",
+   "en": "Clearly I saw her again in a dream."
+  },
+  {
+   "zh": "她说：长夜难熬，你这薄情人怎么会知道？",
+   "en": "She said: how could you, cold one, know how long the nights are?"
+  },
+  {
+   "zh": "才是早春，我心里早已满是相思。",
+   "en": "Only early spring, and I am already soaked in longing."
+  },
+  {
+   "zh": "分别后她写来的信，",
+   "en": "The letters she wrote after we parted,"
+  },
+  {
+   "zh": "分别时她亲手缝的衣裳，",
+   "en": "the clothes she sewed as we said goodbye,"
+  },
+  {
+   "zh": "她的魂魄悄悄离开身体，一路远远跟着我。",
+   "en": "her soul slipped away in secret and followed me far."
+  },
+  {
+   "zh": "淮南的明月照着千山，一片清冷，",
+   "en": "The bright moon over Huainan turns a thousand hills cold."
+  },
+  {
+   "zh": "她的魂在昏暗中独自回去，没有人照看。",
+   "en": "In the dark, her soul goes home alone, and no one looks after it."
+  }
+ ],
+ "background": {
+  "zh": "宋孝宗淳熙十四年（1187年）正月初一，姜夔从汉阳往东去湖州，坐船经过金陵（今江苏南京），夜里梦见了心上人，醒来写下这首词。研究者认为，这位女子是他早年在合肥认识的一位歌女，他一生写了不少怀念她的词。她的名字和身世没有留下记载。",
+  "en": "On New Year's Day in 1187, Jiang Kui was traveling east by boat from Hanyang to Huzhou. As he passed Jinling, today's Nanjing, he dreamed of the woman he loved, and wrote this lyric when he woke. Scholars believe she was a singer he had met in Hefei when he was younger. He wrote many lyrics remembering her throughout his life. Her name and story were never recorded."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），字尧章，号白石道人，南宋词人，也精通音乐，自己能作曲。他一辈子没做官，靠朋友接济，四处漂泊。他的词清冷空灵，像月光一样。王国维在《人间词话》里说，姜夔的词他最喜欢的就是这首的最后两句。",
+  "en": "Jiang Kui (about 1155 to about 1221), also called Yaozhang and known as the Daoist of White Stone, was a Southern Song lyric poet and a fine musician who wrote his own tunes. He never held office. He lived on the help of friends and moved from place to place. His lyrics are cool, clear and airy, like moonlight. The scholar Wang Guowei wrote that of all Jiang Kui's lyrics, the lines he loved most were the last two of this one."
+ },
+ "appreciation": {
+  "zh": "上片写梦：心上人像燕子一样轻，像黄莺一样柔，清清楚楚地出现在梦里。她还埋怨他：长夜这么难熬，你怎么会知道？早春刚到，我已经被相思染透了。下片想她的痴情：信、亲手缝的衣服，都还在身边；她的魂儿甚至离开身体，一路追着他来。最后两句最美：淮南的明月照着千山，冷冷清清；她的魂在黑夜里独自回去，没人照看。写的是她的孤单，也是词人自己的心疼。",
+  "en": "The first stanza is the dream. His beloved, light as a swallow and soft as an oriole, appears clearly before him. She even scolds him: the nights are so long, how could you know? Spring has barely come, and I am soaked in longing. The second stanza thinks of her deep love. Her letters and the clothes she sewed are still with him. Her soul has even left her body to follow him all this way. The last two lines are the loveliest. The bright moon over Huainan turns a thousand hills cold. Her soul goes home alone in the dark, with no one to look after it. It is her loneliness, and also the poet's own ache for her."
+ },
+ "famous_lines": [
+  8,
+  9
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "love",
+   "dream",
+   "longing",
+   "moon"
+  ]
+ },
+ "uncertain": []
+}

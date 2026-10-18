@@ -1,0 +1,488 @@
+{
+ "id": "ci-92fa447bd030",
+ "kind": "ci",
+ "title": "南乡子·登京口北固亭有怀",
+ "title_en": "To the Tune of Nan Xiang Zi: Thoughts on Climbing Beigu Pavilion at Jingkou",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·南乡子（双调）",
+  "en": "ci lyric to the tune Nan Xiang Zi, in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "处",
+    "chù"
+   ],
+   [
+    "望",
+    "wàng"
+   ],
+   [
+    "神",
+    "shén"
+   ],
+   [
+    "州",
+    "zhōu"
+   ]
+  ],
+  [
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "眼",
+    "yǎn"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "固",
+    "gù"
+   ],
+   [
+    "楼",
+    "lóu"
+   ]
+  ],
+  [
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "兴",
+    "xīng"
+   ],
+   [
+    "亡",
+    "wáng"
+   ],
+   [
+    "多",
+    "duō"
+   ],
+   [
+    "少",
+    "shǎo"
+   ],
+   [
+    "事",
+    "shì"
+   ]
+  ],
+  [
+   [
+    "悠",
+    "yōu"
+   ],
+   [
+    "悠",
+    "yōu"
+   ]
+  ],
+  [
+   [
+    "不",
+    "bú"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "江",
+    "jiāng"
+   ],
+   [
+    "滚",
+    "gǔn"
+   ],
+   [
+    "滚",
+    "gǔn"
+   ],
+   [
+    "流",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "年",
+    "nián"
+   ],
+   [
+    "少",
+    "shào"
+   ],
+   [
+    "万",
+    "wàn"
+   ],
+   [
+    "兜",
+    "dōu"
+   ],
+   [
+    "鍪",
+    "móu"
+   ]
+  ],
+  [
+   [
+    "坐",
+    "zuò"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "战",
+    "zhàn"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "休",
+    "xiū"
+   ]
+  ],
+  [
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "下",
+    "xià"
+   ],
+   [
+    "英",
+    "yīng"
+   ],
+   [
+    "雄",
+    "xióng"
+   ],
+   [
+    "谁",
+    "shuí"
+   ],
+   [
+    "敌",
+    "dí"
+   ],
+   [
+    "手",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "曹",
+    "cáo"
+   ],
+   [
+    "刘",
+    "liú"
+   ]
+  ],
+  [
+   [
+    "生",
+    "shēng"
+   ],
+   [
+    "子",
+    "zǐ"
+   ],
+   [
+    "当",
+    "dāng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "孙",
+    "sūn"
+   ],
+   [
+    "仲",
+    "zhòng"
+   ],
+   [
+    "谋",
+    "móu"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  5
+ ],
+ "text_note": {
+  "zh": "词题“登京口北固亭有怀”是课本和通行本的题目，资料库里只有词牌“南乡子”。资料库第五句作“衮衮流”，课本作“滚滚流”。“衮衮”是古书里的写法，意思一样，都是水流不断的样子。",
+  "en": "The heading \"Thoughts on Climbing Beigu Pavilion at Jingkou\" is the title used in textbooks and common editions. The corpus gives only the tune name. In line five the corpus uses an older way of writing gǔn gǔn. Textbooks use the modern form. Both mean water rolling on without end."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 1,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "“何处”的“处”是“地方”，读 chù。",
+   "en": "Chù here means place, so it is read chù, not chǔ."
+  },
+  {
+   "line": 2,
+   "pos": 2,
+   "char": "兴",
+   "pinyin": "xīng",
+   "zh": "“兴亡”的“兴”是“兴盛”，读 xīng。",
+   "en": "Xīng here means to rise and flourish, read xīng, not xìng."
+  },
+  {
+   "line": 4,
+   "pos": 0,
+   "char": "不",
+   "pinyin": "bú",
+   "zh": "“不”在第四声“尽”前面变读 bú。",
+   "en": "Bù changes to bú before the fourth-tone jìn."
+  },
+  {
+   "line": 5,
+   "pos": 1,
+   "char": "少",
+   "pinyin": "shào",
+   "zh": "“年少”是“年轻”，读 shào。第三句“多少”的“少”读 shǎo。",
+   "en": "Nián shào means young, so it is read shào. In line three, duō shǎo is read shǎo."
+  },
+  {
+   "line": 7,
+   "pos": 4,
+   "char": "谁",
+   "pinyin": "shuí",
+   "zh": "“谁”口语多读 shéi，读诗时常读 shuí，两种都对。",
+   "en": "Shéi is the common spoken reading. In poems people often say shuí. Both are correct."
+  },
+  {
+   "line": 9,
+   "pos": 2,
+   "char": "当",
+   "pinyin": "dāng",
+   "zh": "“当如”是“应当像”，读 dāng。",
+   "en": "Dāng rú means should be like, read dāng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 3,
+   "end": 5,
+   "zh": "神州：指中国。这里特别指被金国占去的北方中原地区。",
+   "en": "shén zhōu: the Divine Land, an old name for China. Here it means the northern heartland taken by the Jin."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 7,
+   "zh": "北固楼：北固亭，在京口（今江苏镇江）北固山上，下面就是长江。",
+   "en": "běi gù lóu: Beigu Tower, a pavilion on Beigu Hill at Jingkou, today's Zhenjiang in Jiangsu. The Yangtze flows right below it."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "千古：很久很久以来。",
+   "en": "qiān gǔ: for a thousand ages, since long, long ago."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "兴亡：国家的兴盛和灭亡。",
+   "en": "xīng wáng: the rise and fall of states."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "悠悠：长久、没有尽头的样子。",
+   "en": "yōu yōu: long and endless."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 6,
+   "zh": "滚滚：大水翻腾奔流的样子。",
+   "en": "gǔn gǔn: rolling and surging, like a great flood of water."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "年少：年轻。指孙权，他十九岁就接管了江东。",
+   "en": "nián shào: young. This means Sun Quan, who took charge of the lands east of the Yangtze at nineteen."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "兜鍪：打仗时戴的头盔，这里代指士兵。万兜鍪，就是千军万马。",
+   "en": "dōu móu: a soldier's helmet, here standing for soldiers. Wàn dōu móu means ten thousand soldiers, a huge army."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "坐断：牢牢占据。",
+   "en": "zuò duàn: to hold firmly."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "东南：指三国时吴国所在的长江下游一带。",
+   "en": "dōng nán: the southeast, the lower Yangtze lands where the state of Wu stood in the Three Kingdoms time."
+  },
+  {
+   "line": 6,
+   "start": 4,
+   "end": 7,
+   "zh": "战未休：一直在打仗，没有停过。",
+   "en": "zhàn wèi xiū: fighting without rest."
+  },
+  {
+   "line": 7,
+   "start": 5,
+   "end": 7,
+   "zh": "敌手：能和他打成平手的对手。",
+   "en": "dí shǒu: a rival who can match him."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "曹刘：曹操和刘备。曹操曾对刘备说，天下英雄只有你和我。",
+   "en": "cáo liú: Cao Cao and Liu Bei. Cao Cao once told Liu Bei that the only heroes in the land were the two of them."
+  },
+  {
+   "line": 9,
+   "start": 4,
+   "end": 7,
+   "zh": "孙仲谋：孙权，字仲谋，三国时吴国的君主。曹操看到孙权的军队整齐威武，感叹说：“生子当如孙仲谋。”",
+   "en": "sūn zhòng móu: Sun Quan, also called Zhongmou, ruler of Wu in the Three Kingdoms time. Seeing how fine and orderly his army was, Cao Cao sighed: \"A son should be like Sun Zhongmou.\""
+  }
+ ],
+ "translation": [
+  {
+   "zh": "从哪里能望见中原故土？",
+   "en": "Where can I look out toward the lost northern land?"
+  },
+  {
+   "zh": "北固楼上，满眼都是美好的风光。",
+   "en": "From Beigu Tower, fine scenery fills my eyes."
+  },
+  {
+   "zh": "从古到今，有多少国家兴亡的大事？",
+   "en": "Through the ages, how many states have risen and fallen?"
+  },
+  {
+   "zh": "说也说不完，",
+   "en": "Long, long, without end,"
+  },
+  {
+   "zh": "就像这长江，滚滚东流，永远流不尽。",
+   "en": "like the endless Yangtze, rolling on and on."
+  },
+  {
+   "zh": "孙权年纪轻轻，就统领千军万马，",
+   "en": "Young Sun Quan led a mighty army,"
+  },
+  {
+   "zh": "牢牢守住东南，一直打仗，从不退让。",
+   "en": "held the southeast firmly, and never stopped fighting."
+  },
+  {
+   "zh": "天下英雄，谁是他的对手？",
+   "en": "Among the heroes of the land, who could match him?"
+  },
+  {
+   "zh": "只有曹操和刘备。",
+   "en": "Only Cao Cao and Liu Bei."
+  },
+  {
+   "zh": "难怪曹操说：生儿子就该像孙仲谋一样。",
+   "en": "No wonder Cao Cao said: a son should be like Sun Zhongmou."
+  }
+ ],
+ "background": {
+  "zh": "这首词作于宋宁宗嘉泰四年（1204年）前后，当时辛弃疾六十多岁，在镇江做知府。镇江古称京口，三国时孙权曾在这一带建都。那时南宋朝廷准备北伐，辛弃疾一心想收复中原，可又担心朝廷准备不足、用人不当。他登上北固亭眺望北方，想起了敢和强敌对抗的孙权，写下了这首词。",
+  "en": "This lyric was written around 1204, when Xin Qiji was in his sixties and governing Zhenjiang. Zhenjiang was called Jingkou in old times, and in the Three Kingdoms period Sun Quan once made his capital in this area. The Southern Song court was then planning a campaign north. Xin Qiji longed to win back the heartland, but he worried the court was not ready and was not choosing the right people. He climbed Beigu Pavilion, looked north, thought of Sun Quan, who dared to stand up to strong enemies, and wrote this lyric."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，历城（今山东济南）人。他出生时家乡已经被金国占领。二十多岁时他参加抗金义军，后来回到南宋，一辈子都想收复北方，却总不被重用。他的词豪迈有力，和苏轼并称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), also called You'an and known as Jiaxuan, came from Licheng, today's Jinan in Shandong. When he was born, his home was already ruled by the Jin. In his twenties he joined a band of volunteers fighting the Jin, then went south to the Song. All his life he wanted to win back the north, but he was seldom given real power. His lyrics are bold and strong, and he is named together with Su Shi."
+ },
+ "appreciation": {
+  "zh": "这首词用了三个问句，一问一答，很有气势。上片问：哪里能望见中原？眼前只有北固楼的风光，北方却看不到。再问：千古兴亡有多少事？答案就像长江，滚滚流个不停。下片写孙权：年纪轻轻就带着大军守住东南，和强敌打个不停。天下英雄谁能和他对抗？只有曹操、刘备。最后借曹操的话夸孙权。辛弃疾夸孙权，其实是在叹息：现在的朝廷，为什么没有孙权这样敢打敢拼的人呢？",
+  "en": "This lyric asks three questions and answers them, which gives it great force. The first stanza asks: where can I see the lost north? Only the view from Beigu Tower is in sight; the north cannot be seen. Then: how many risings and fallings has history seen? The answer is like the Yangtze, rolling on without end. The second stanza turns to Sun Quan. Still young, he led a great army, held the southeast and kept fighting strong enemies. Who in the land could match him? Only Cao Cao and Liu Bei. The last line praises him in Cao Cao's own words. By praising Sun Quan, Xin Qiji is really sighing: why does today's court have no one as brave as Sun Quan?"
+ },
+ "famous_lines": [
+  2,
+  3,
+  4,
+  9
+ ],
+ "tags": {
+  "seasons": [],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "patriotism",
+   "history",
+   "hero",
+   "river"
+  ]
+ },
+ "uncertain": []
+}

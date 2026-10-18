@@ -1,0 +1,351 @@
+{
+ "id": "c1280e87-ac81-4f9b-9de5-377d6af38ae8",
+ "kind": "shi",
+ "title": "月夜忆舍弟",
+ "title_en": "Thinking of My Brothers on a Moonlit Night",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "五言律诗",
+  "en": "five-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "戍",
+    "shù"
+   ],
+   [
+    "鼓",
+    "gǔ"
+   ],
+   [
+    "断",
+    "duàn"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "行",
+    "xíng"
+   ]
+  ],
+  [
+   [
+    "边",
+    "biān"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "声",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "露",
+    "lù"
+   ],
+   [
+    "从",
+    "cóng"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "白",
+    "bái"
+   ]
+  ],
+  [
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "是",
+    "shì"
+   ],
+   [
+    "故",
+    "gù"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "明",
+    "míng"
+   ]
+  ],
+  [
+   [
+    "有",
+    "yǒu"
+   ],
+   [
+    "弟",
+    "dì"
+   ],
+   [
+    "皆",
+    "jiē"
+   ],
+   [
+    "分",
+    "fēn"
+   ],
+   [
+    "散",
+    "sàn"
+   ]
+  ],
+  [
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "问",
+    "wèn"
+   ],
+   [
+    "死",
+    "sǐ"
+   ],
+   [
+    "生",
+    "shēng"
+   ]
+  ],
+  [
+   [
+    "寄",
+    "jì"
+   ],
+   [
+    "书",
+    "shū"
+   ],
+   [
+    "长",
+    "cháng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "达",
+    "dá"
+   ]
+  ],
+  [
+   [
+    "况",
+    "kuàng"
+   ],
+   [
+    "乃",
+    "nǎi"
+   ],
+   [
+    "未",
+    "wèi"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "兵",
+    "bīng"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "语料本第二句作“秋边一雁声”，第七句作“寄书长不避”。课本作“边秋一雁声”和“寄书长不达”。",
+  "en": "The corpus text has the two words of line two the other way round, and a different last-but-one character in line seven that makes little sense. Textbooks read biān qiū in line two and bù dá, never arrives, in line seven."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 4,
+   "char": "行",
+   "pinyin": "xíng",
+   "zh": "“断人行”的“行”是走路、行人的意思，读 xíng，不读 háng。",
+   "en": "In duàn rén xíng, the character means walking or travelers, so it is read xíng, not háng."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "戍鼓：守边军营里的鼓声。戍，守卫边疆。鼓一响，就不许人在路上走了。",
+   "en": "shù gǔ: drums of the border garrison. Shù means to guard the frontier. Once the drums sound, no one may be on the roads."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 5,
+   "zh": "断人行：路上断了行人。",
+   "en": "duàn rén xíng: the roads are empty of travelers."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "边秋：边地的秋天。",
+   "en": "biān qiū: autumn at the frontier."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 5,
+   "zh": "一雁声：一只孤雁的叫声。大雁平时成群飞，一只雁更显得孤单。",
+   "en": "yī yàn shēng: the cry of one lone goose. Geese usually fly in flocks, so a single goose seems lonely."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 5,
+   "zh": "露从今夜白：从今夜起就是白露节气了。白露是二十四节气之一，在秋天。",
+   "en": "lù cóng jīn yè bái: from tonight it is White Dew, one of the twenty-four solar terms, in autumn."
+  },
+  {
+   "line": 4,
+   "start": 3,
+   "end": 5,
+   "zh": "分散：分开，各在一方。",
+   "en": "fēn sàn: scattered, each in a different place."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "问死生：打听他们是死是活。",
+   "en": "wèn sǐ shēng: to ask whether they are alive or dead."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "寄书：寄信。",
+   "en": "jì shū: to send a letter."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 5,
+   "zh": "长不达：常常寄不到。长，同“常”。",
+   "en": "cháng bù dá: often never arrives. Cháng here means often."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "况乃：何况，更何况。",
+   "en": "kuàng nǎi: what is more, all the more since."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 5,
+   "zh": "未休兵：战争还没有停止。",
+   "en": "wèi xiū bīng: the fighting has not stopped."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "军营的鼓声响起，路上就没有了行人；",
+   "en": "The garrison drums sound, and the roads are empty;"
+  },
+  {
+   "zh": "边地的秋夜里，传来一只孤雁的叫声。",
+   "en": "in the frontier autumn, one wild goose cries."
+  },
+  {
+   "zh": "从今夜起就是白露了，",
+   "en": "From tonight the dew turns white;"
+  },
+  {
+   "zh": "月亮还是故乡的最明亮。",
+   "en": "the moon is brightest over home."
+  },
+  {
+   "zh": "我有几个弟弟，都分散在各地，",
+   "en": "I have brothers, all scattered far apart;"
+  },
+  {
+   "zh": "家已经没了，没处去打听他们的死活。",
+   "en": "with no home left, there is no one to ask if they live or die."
+  },
+  {
+   "zh": "寄出去的信常常收不到，",
+   "en": "The letters I send often never arrive,"
+  },
+  {
+   "zh": "更何况战争还没有停止。",
+   "en": "and all the more, the war has not ended."
+  }
+ ],
+ "background": {
+  "zh": "题目里的“舍弟”是对别人谦称自己的弟弟。乾元二年（759年）秋天，安史之乱还没有平定，杜甫丢了官，带着家人来到秦州（今甘肃天水）。他的几个弟弟分散在河南、山东等地，因为打仗，音信不通。白露这天夜里，他看着月亮想念弟弟们，写下了这首诗。",
+  "en": "In the title, shè dì is a modest way of saying \"my younger brothers\". In the autumn of 759 the An Lushan Rebellion was still raging. Du Fu had given up his post and brought his family to Qinzhou, today's Tianshui in Gansu. His younger brothers were scattered in Henan, Shandong and other places, and because of the war no news got through. On the night of White Dew he looked at the moon, missed his brothers, and wrote this poem."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），字子美，唐代大诗人，被人称为“诗圣”。他一生遇上安史之乱，四处逃难，和亲人常常不能相见。他写了很多想念家人的诗，感情特别真切，这首就是其中有名的一首。",
+  "en": "Du Fu (712–770), courtesy name Zimei, was a great Tang poet, often called the Sage of Poetry. He lived through the An Lushan Rebellion, fled from place to place, and was often cut off from his family. He wrote many poems about missing them, full of real feeling, and this is one of the best known."
+ },
+ "appreciation": {
+  "zh": "开头两句先写环境：军鼓一响，路上没人了；秋夜里只听见一只孤雁在叫。孤雁就像和兄弟分开的诗人自己。“露从今夜白，月是故乡明”是千古名句。月亮哪里都一样亮，可诗人偏说故乡的最亮，因为他心里装着故乡。后四句直接说出痛苦：弟弟们都散了，家也没了，写信也寄不到，仗还在打。一层比一层深，读来让人心酸。",
+  "en": "The first two lines set the scene. The army drums sound and the roads empty. In the autumn night only one lone goose is crying. The lonely goose is like the poet himself, cut off from his brothers. The lines about the dew turning white tonight and the moon being brightest over home are among the most famous in Chinese. The moon is just as bright everywhere, but the poet insists it is brightest at home, because home fills his heart. The last four lines say the pain plainly. His brothers are scattered, the home is gone, letters do not arrive, and the war goes on. Each line goes deeper than the last, and it makes the reader's heart ache."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [
+   "bailu"
+  ],
+  "themes": [
+   "homesick",
+   "family",
+   "moon",
+   "war"
+  ]
+ },
+ "uncertain": []
+}

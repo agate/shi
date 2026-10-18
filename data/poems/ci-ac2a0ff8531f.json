@@ -1,0 +1,543 @@
+{
+ "id": "ci-ac2a0ff8531f",
+ "kind": "ci",
+ "title": "青玉案·元夕",
+ "title_en": "To the Tune Qing Yu An: The Lantern Festival",
+ "author": "辛弃疾",
+ "author_en": "Xin Qiji",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·青玉案（双调）",
+  "en": "ci lyric to the tune Qing Yu An, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "东",
+    "dōng"
+   ],
+   [
+    "风",
+    "fēng"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "放",
+    "fàng"
+   ],
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "树",
+    "shù"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "吹",
+    "chuī"
+   ],
+   [
+    "落",
+    "luò"
+   ],
+   [
+    "星",
+    "xīng"
+   ],
+   [
+    "如",
+    "rú"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "宝",
+    "bǎo"
+   ],
+   [
+    "马",
+    "mǎ"
+   ],
+   [
+    "雕",
+    "diāo"
+   ],
+   [
+    "车",
+    "chē"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "满",
+    "mǎn"
+   ],
+   [
+    "路",
+    "lù"
+   ]
+  ],
+  [
+   [
+    "凤",
+    "fèng"
+   ],
+   [
+    "箫",
+    "xiāo"
+   ],
+   [
+    "声",
+    "shēng"
+   ],
+   [
+    "动",
+    "dòng"
+   ]
+  ],
+  [
+   [
+    "玉",
+    "yù"
+   ],
+   [
+    "壶",
+    "hú"
+   ],
+   [
+    "光",
+    "guāng"
+   ],
+   [
+    "转",
+    "zhuǎn"
+   ]
+  ],
+  [
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "鱼",
+    "yú"
+   ],
+   [
+    "龙",
+    "lóng"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ],
+  [
+   [
+    "蛾",
+    "é"
+   ],
+   [
+    "儿",
+    "ér"
+   ],
+   [
+    "雪",
+    "xuě"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "金",
+    "jīn"
+   ],
+   [
+    "缕",
+    "lǚ"
+   ]
+  ],
+  [
+   [
+    "笑",
+    "xiào"
+   ],
+   [
+    "语",
+    "yǔ"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "盈",
+    "yíng"
+   ],
+   [
+    "暗",
+    "àn"
+   ],
+   [
+    "香",
+    "xiāng"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "众",
+    "zhòng"
+   ],
+   [
+    "里",
+    "lǐ"
+   ],
+   [
+    "寻",
+    "xún"
+   ],
+   [
+    "他",
+    "tā"
+   ],
+   [
+    "千",
+    "qiān"
+   ],
+   [
+    "百",
+    "bǎi"
+   ],
+   [
+    "度",
+    "dù"
+   ]
+  ],
+  [
+   [
+    "蓦",
+    "mò"
+   ],
+   [
+    "然",
+    "rán"
+   ],
+   [
+    "回",
+    "huí"
+   ],
+   [
+    "首",
+    "shǒu"
+   ]
+  ],
+  [
+   [
+    "那",
+    "nà"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "却",
+    "què"
+   ],
+   [
+    "在",
+    "zài"
+   ]
+  ],
+  [
+   [
+    "灯",
+    "dēng"
+   ],
+   [
+    "火",
+    "huǒ"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "珊",
+    "shān"
+   ],
+   [
+    "处",
+    "chù"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  6
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 1,
+   "pos": 0,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "这里是“又、还”的意思，读 gèng。",
+   "en": "Read gèng here, meaning \"and also\"."
+  },
+  {
+   "line": 9,
+   "pos": 0,
+   "char": "蓦",
+   "pinyin": "mò",
+   "zh": "读 mò，不读 mù。",
+   "en": "Read mò, not mù."
+  },
+  {
+   "line": 11,
+   "pos": 4,
+   "char": "处",
+   "pinyin": "chù",
+   "zh": "这里是名词“地方”，读 chù。",
+   "en": "Here it is a noun meaning \"place\", read chù."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "花千树：千万棵树上开满了花，这里指挂满了彩灯，像开了花一样。",
+   "en": "huā qiān shù: a thousand trees in bloom; here it means trees hung with so many lanterns that they look like flowers."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 6,
+   "zh": "星如雨：烟火落下来，像下了一场星星雨。一说指满天的彩灯像星星。",
+   "en": "xīng rú yǔ: stars falling like rain, meaning fireworks coming down. Another view says it is the lanterns, many as stars."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "宝马雕车：华贵的马和雕着花纹的车，指富贵人家出来看灯。",
+   "en": "bǎo mǎ diāo chē: fine horses and carved carriages, meaning rich families out to see the lanterns."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "香满路：一路上都是香气。",
+   "en": "xiāng mǎn lù: the whole road is full of perfume."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "凤箫：箫的美称，一种竹子做的吹奏乐器。",
+   "en": "fèng xiāo: a fancy name for the xiao, a bamboo flute."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "玉壶：一说指明月，一说指白玉做的灯。",
+   "en": "yù hú: jade pot: some say it means the bright moon, others a lamp of white jade."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "光转：光在转动，指月亮慢慢移动，或灯在旋转。",
+   "en": "guāng zhuǎn: the light turns, as the moon moves across the sky or the lamps spin."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 5,
+   "zh": "鱼龙舞：舞动鱼形、龙形的彩灯。",
+   "en": "yú lóng wǔ: dancing fish and dragon lanterns."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 7,
+   "zh": "蛾儿、雪柳、黄金缕：都是元宵节妇女戴在头上的饰品，有的像飞蛾，有的像柳枝，有的是金色的丝线。",
+   "en": "é ér xuě liǔ huáng jīn lǚ: é ér, xuě liǔ and huáng jīn lǚ are all hair ornaments women wore at the Lantern Festival, shaped like moths, like willow sprigs, or made of golden thread."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "盈盈：声音轻柔、姿态美好的样子。",
+   "en": "yíng yíng: soft and charming."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 6,
+   "zh": "暗香：淡淡的香气，这里指那些女子身上的香味。",
+   "en": "àn xiāng: a faint fragrance, here the scent of the women passing by."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "众里：人群里。",
+   "en": "zhòng lǐ: in the crowd."
+  },
+  {
+   "line": 8,
+   "start": 3,
+   "end": 4,
+   "zh": "他：那个人。古时候“他”也可以指女子。",
+   "en": "tā: that person. In old times this word could mean a woman as well."
+  },
+  {
+   "line": 8,
+   "start": 4,
+   "end": 7,
+   "zh": "千百度：千百次，很多很多次。",
+   "en": "qiān bǎi dù: a thousand, a hundred times: over and over."
+  },
+  {
+   "line": 9,
+   "start": 0,
+   "end": 2,
+   "zh": "蓦然：突然，猛然。",
+   "en": "mò rán: suddenly."
+  },
+  {
+   "line": 10,
+   "start": 2,
+   "end": 3,
+   "zh": "却：竟然，原来。",
+   "en": "què: after all, as it turns out."
+  },
+  {
+   "line": 11,
+   "start": 2,
+   "end": 4,
+   "zh": "阑珊：零落、稀少，快要熄灭的样子。",
+   "en": "lán shān: dim and scattered, nearly going out."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "东风一夜之间吹开了千树繁花，满城挂满彩灯，",
+   "en": "In one night the east wind opens a thousand trees of flowers: lanterns everywhere,"
+  },
+  {
+   "zh": "又吹落了满天烟火，像星星落下来一样。",
+   "en": "and blows down fireworks like a rain of stars."
+  },
+  {
+   "zh": "华丽的马车来来往往，一路飘着香气。",
+   "en": "Fine horses and carved carriages fill the road with perfume."
+  },
+  {
+   "zh": "悠扬的箫声四处回荡，",
+   "en": "The music of flutes drifts everywhere,"
+  },
+  {
+   "zh": "明月慢慢移动，灯光流转，",
+   "en": "the jade-pot moon moves and the lights turn,"
+  },
+  {
+   "zh": "鱼灯龙灯舞动了整整一夜。",
+   "en": "and fish and dragon lanterns dance all night long."
+  },
+  {
+   "zh": "女子们头上戴着蛾儿、雪柳和金丝饰品，",
+   "en": "Women wear moth ornaments, snowy willow sprigs and threads of gold,"
+  },
+  {
+   "zh": "说说笑笑，带着淡淡的香气走过去了。",
+   "en": "laughing softly as they pass, leaving a faint scent behind."
+  },
+  {
+   "zh": "我在人群里找她找了千百遍，",
+   "en": "In the crowd I look for her a thousand, a hundred times,"
+  },
+  {
+   "zh": "猛然一回头，",
+   "en": "then suddenly I turn my head,"
+  },
+  {
+   "zh": "那个人原来就在",
+   "en": "and there she is,"
+  },
+  {
+   "zh": "灯火稀稀落落的地方。",
+   "en": "where the lights are few and dim."
+  }
+ ],
+ "background": {
+  "zh": "元夕就是元宵节，正月十五的晚上，人们看花灯、赏月、猜灯谜。这首词一般认为是辛弃疾在南宋都城临安（今浙江杭州）时写的，大约在淳熙初年，具体哪一年说法不一。当时南宋只剩下南方半壁江山，都城里却一片热闹。辛弃疾一心想收复北方，却得不到重用。",
+  "en": "Yuanxi is the Lantern Festival, the night of the fifteenth of the first month, when people look at lanterns, enjoy the moon and guess riddles. This lyric is usually thought to have been written while Xin Qiji was in Lin'an, today's Hangzhou, the capital of the Southern Song, around the mid-1170s. The exact year is debated. By then the Song held only the south, yet the capital was full of merrymaking. Xin Qiji longed to win back the north, but he was not given an important role."
+ },
+ "author_note": {
+  "zh": "辛弃疾（1140—1207），字幼安，号稼轩，历城（今山东济南）人。他出生时北方已被金国占领。二十多岁时，他参加抗金队伍，后来回到南宋。他一生想收复中原，却常常被冷落。他是豪放派的大词人，和苏轼合称“苏辛”。",
+  "en": "Xin Qiji (1140–1207), courtesy name You'an, also called Jiaxuan, came from Licheng, today's Jinan in Shandong. When he was born, the north was already ruled by the Jin. In his twenties he joined a band fighting the Jin, and later came south to the Song. All his life he wanted to win back the north, but he was often pushed aside. He was a great poet of the bold style, and is named together with Su Shi as \"Su and Xin\"."
+ },
+ "appreciation": {
+  "zh": "上阕写满城的热闹：灯像千树花开，烟火像星星落雨，香车宝马挤满了路，箫声、灯光、鱼龙灯舞了一整夜。下阕先写看灯的女子，她们打扮漂亮，说笑着走过。可“我”要找的那个人不在里面。他在人群里找了一遍又一遍，突然回头，才发现她一个人站在灯火稀少的角落里。前面写得越热闹，这一刻就越安静。很多人认为，那个不爱凑热闹、独自站在冷清处的人，也像辛弃疾自己。王国维还把最后几句比作做成大事要经过的最后一种境界：苦苦追寻之后，忽然找到了。",
+  "en": "The first stanza shows the whole town celebrating. The lanterns are like a thousand trees in bloom, the fireworks like a rain of stars. Fine carriages fill the roads, and flutes, lights and dragon lanterns go on all night. The second stanza first shows the women out to see the lanterns, dressed up and laughing as they pass. But the person \"I\" am looking for is not among them. He searches the crowd again and again. Then he turns around and finds her standing alone in a corner where the lights are dim. The busier the scene before, the quieter this moment feels. Many readers think the one who stays away from the crowd, alone in a quiet place, is also like Xin Qiji himself. The scholar Wang Guowei even compared the last lines to the final stage of achieving something great: after a long, hard search, you suddenly find it."
+ },
+ "famous_lines": [
+  0,
+  8,
+  9,
+  10,
+  11
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [
+   "lantern"
+  ],
+  "solar_terms": [],
+  "themes": [
+   "lantern",
+   "search",
+   "love",
+   "loneliness"
+  ]
+ },
+ "uncertain": []
+}

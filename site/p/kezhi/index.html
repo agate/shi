@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>客至 · 杜甫 — 诗</title>
+    <meta name="description" content="客至 · 杜甫 — A Guest Arrives by Du Fu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 14 · Tang poem · seven-character regulated verse</span><span lang="zh">第 14 首 · 唐诗 · 七言律诗</span></p>
+        <h1>客至</h1>
+        <p class="by">杜甫<span class="mono"><span lang="en">Du Fu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">A Guest Arrives</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl rd" data-l="0" data-p="0"><i>shè</i><b>舍</b></span><span class="c" data-l="0" data-p="1"><i>nán</i><b>南</b></span><span class="c rd" data-l="0" data-p="2"><i>shè</i><b>舍</b></span><span class="c" data-l="0" data-p="3"><i>běi</i><b>北</b></span><span class="c gl" data-l="0" data-p="4"><i>jiē</i><b>皆</b></span><span class="c gl" data-l="0" data-p="5"><i>chūn</i><b>春</b></span><span class="c gl" data-l="0" data-p="6"><i>shuǐ</i><b>水</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>dàn</i><b>但</b></span><span class="c gl" data-l="1" data-p="1"><i>jiàn</i><b>见</b></span><span class="c gl" data-l="1" data-p="2"><i>qún</i><b>群</b></span><span class="c gl" data-l="1" data-p="3"><i>ōu</i><b>鸥</b></span><span class="c" data-l="1" data-p="4"><i>rì</i><b>日</b></span><span class="c" data-l="1" data-p="5"><i>rì</i><b>日</b></span><span class="c" data-l="1" data-p="6"><i>lái</i><b>来</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>huā</i><b>花</b></span><span class="c gl" data-l="2" data-p="1"><i>jìng</i><b>径</b></span><span class="c gl" data-l="2" data-p="2"><i>bù</i><b>不</b></span><span class="c gl" data-l="2" data-p="3"><i>céng</i><b>曾</b></span><span class="c gl" data-l="2" data-p="4"><i>yuán</i><b>缘</b></span><span class="c gl" data-l="2" data-p="5"><i>kè</i><b>客</b></span><span class="c gl" data-l="2" data-p="6"><i>sǎo</i><b>扫</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>péng</i><b>蓬</b></span><span class="c gl" data-l="3" data-p="1"><i>mén</i><b>门</b></span><span class="c gl" data-l="3" data-p="2"><i>jīn</i><b>今</b></span><span class="c gl" data-l="3" data-p="3"><i>shǐ</i><b>始</b></span><span class="c gl rd" data-l="3" data-p="4"><i>wèi</i><b>为</b></span><span class="c gl" data-l="3" data-p="5"><i>jūn</i><b>君</b></span><span class="c gl" data-l="3" data-p="6"><i>kāi</i><b>开</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>pán</i><b>盘</b></span><span class="c gl" data-l="4" data-p="1"><i>sūn</i><b>飧</b></span><span class="c gl" data-l="4" data-p="2"><i>shì</i><b>市</b></span><span class="c gl" data-l="4" data-p="3"><i>yuǎn</i><b>远</b></span><span class="c gl" data-l="4" data-p="4"><i>wú</i><b>无</b></span><span class="c gl" data-l="4" data-p="5"><i>jiān</i><b>兼</b></span><span class="c gl" data-l="4" data-p="6"><i>wèi</i><b>味</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>zūn</i><b>樽</b></span><span class="c gl" data-l="5" data-p="1"><i>jiǔ</i><b>酒</b></span><span class="c" data-l="5" data-p="2"><i>jiā</i><b>家</b></span><span class="c" data-l="5" data-p="3"><i>pín</i><b>贫</b></span><span class="c" data-l="5" data-p="4"><i>zhǐ</i><b>只</b></span><span class="c gl" data-l="5" data-p="5"><i>jiù</i><b>旧</b></span><span class="c gl" data-l="5" data-p="6"><i>pēi</i><b>醅</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>kěn</i><b>肯</b></span><span class="c gl" data-l="6" data-p="1"><i>yǔ</i><b>与</b></span><span class="c gl" data-l="6" data-p="2"><i>lín</i><b>邻</b></span><span class="c gl" data-l="6" data-p="3"><i>wēng</i><b>翁</b></span><span class="c" data-l="6" data-p="4"><i>xiāng</i><b>相</b></span><span class="c" data-l="6" data-p="5"><i>duì</i><b>对</b></span><span class="c" data-l="6" data-p="6"><i>yǐn</i><b>饮</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>gé</i><b>隔</b></span><span class="c gl" data-l="7" data-p="1"><i>lí</i><b>篱</b></span><span class="c gl" data-l="7" data-p="2"><i>hū</i><b>呼</b></span><span class="c gl" data-l="7" data-p="3"><i>qǔ</i><b>取</b></span><span class="c gl" data-l="7" data-p="4"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="7" data-p="5"><i>yú</i><b>余</b></span><span class="c gl" data-l="7" data-p="6"><i>bēi</i><b>杯</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The commonly taught text has pán sūn (food on the plates) in the fifth line; the source text has pán cān, a word with a similar meaning. In the last line, the source writes bēi (cup) with an old form of the character.</p><p lang="zh">通行本第五句作“盘飧市远无兼味”，这里的底本作“盘餐”。末句通行本作“尽余杯”，底本作“桮”，是“杯”的古字。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">舍南舍北皆春水</span><span lang="en">South and north of my cottage, spring waters are everywhere,</span><span lang="zh">草堂南边北边，到处都是春天的河水，</span></li><li><span class="o">但见群鸥日日来</span><span lang="en">and all I see are flocks of gulls coming day after day.</span><span lang="zh">只看见成群的鸥鸟天天飞来。</span></li><li><span class="o">花径不曾缘客扫</span><span lang="en">The flower path has never been swept for a guest before;</span><span lang="zh">长满花草的小路，从来没有因为客人来而打扫过，</span></li><li><span class="o">蓬门今始为君开</span><span lang="en">today my rough gate opens for the first time, for you.</span><span lang="zh">简陋的家门，今天才第一次为你打开。</span></li><li><span class="o">盘飧市远无兼味</span><span lang="en">The market is far, so there are hardly any dishes on the plates;</span><span lang="zh">离集市太远，盘子里的菜没几样，</span></li><li><span class="o">樽酒家贫只旧醅</span><span lang="en">my house is poor, so there is only old home-made wine.</span><span lang="zh">家里穷，只有自家酿的旧酒。</span></li><li><span class="o">肯与邻翁相对饮</span><span lang="en">Would you like to drink with the old man next door?</span><span lang="zh">你愿意和隔壁的老人一起喝吗？</span></li><li><span class="o">隔篱呼取尽余杯</span><span lang="en">If so, I will call him over the fence, and we will finish the wine.</span><span lang="zh">愿意的话，我就隔着篱笆喊他过来，把剩下的酒喝完。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>舍<span class="mono">shè</span></dt><dd><span lang="en">shè: a house, here Du Fu&#x27;s thatched cottage in Chengdu.</span><span lang="zh">舍：房子，这里指杜甫在成都的草堂。</span></dd></div><div><dt>皆<span class="mono">jiē</span></dt><dd><span lang="en">jiē: all, everywhere.</span><span lang="zh">皆：都。</span></dd></div><div><dt>春水<span class="mono">chūn shuǐ</span></dt><dd><span lang="en">chūn shuǐ: the river water that rises in spring.</span><span lang="zh">春水：春天上涨的河水。</span></dd></div><div><dt>但见<span class="mono">dàn jiàn</span></dt><dd><span lang="en">dàn jiàn: only seeing.</span><span lang="zh">但见：只看见。</span></dd></div><div><dt>群鸥<span class="mono">qún ōu</span></dt><dd><span lang="en">qún ōu: flocks of gulls.</span><span lang="zh">群鸥：一群群的鸥鸟。</span></dd></div><div><dt>花径<span class="mono">huā jìng</span></dt><dd><span lang="en">huā jìng: a little path lined with flowers.</span><span lang="zh">花径：长满花草的小路。</span></dd></div><div><dt>不曾<span class="mono">bù céng</span></dt><dd><span lang="en">bù céng: never once.</span><span lang="zh">不曾：从来没有。</span></dd></div><div><dt>缘客扫<span class="mono">yuán kè sǎo</span></dt><dd><span lang="en">yuán kè sǎo: swept because a guest was coming. Yuán means because of.</span><span lang="zh">缘客扫：因为有客人来而打扫。缘，因为。</span></dd></div><div><dt>蓬门<span class="mono">péng mén</span></dt><dd><span lang="en">péng mén: a gate woven from weeds, meaning a poor, simple gate.</span><span lang="zh">蓬门：用蓬草编成的门，指简陋的家门。</span></dd></div><div><dt>今始<span class="mono">jīn shǐ</span></dt><dd><span lang="en">jīn shǐ: only today, for the first time.</span><span lang="zh">今始：今天才第一次。</span></dd></div><div><dt>为君开<span class="mono">wèi jūn kāi</span></dt><dd><span lang="en">wèi jūn kāi: opened for you. Jūn is a polite word for the guest.</span><span lang="zh">为君开：为你打开。君，对客人的尊称。</span></dd></div><div><dt>盘飧<span class="mono">pán sūn</span></dt><dd><span lang="en">pán sūn: the food on the plates. Sūn means cooked food.</span><span lang="zh">盘飧：盘子里的饭菜。飧，熟食。</span></dd></div><div><dt>市远<span class="mono">shì yuǎn</span></dt><dd><span lang="en">shì yuǎn: the market is far away, so it is hard to buy things.</span><span lang="zh">市远：离集市很远，不方便买东西。</span></dd></div><div><dt>无兼味<span class="mono">wú jiān wèi</span></dt><dd><span lang="en">wú jiān wèi: not even two dishes, meaning very little food.</span><span lang="zh">无兼味：没有两样以上的菜，指菜很少。</span></dd></div><div><dt>樽酒<span class="mono">zūn jiǔ</span></dt><dd><span lang="en">zūn jiǔ: the wine in the jar. Zūn is an old wine vessel.</span><span lang="zh">樽酒：酒杯里的酒。樽，古代盛酒的器具。</span></dd></div><div><dt>旧醅<span class="mono">jiù pēi</span></dt><dd><span lang="en">jiù pēi: old, unfiltered home-made wine. People then liked new wine best, so this is a humble way to speak.</span><span lang="zh">旧醅：以前酿的、没有过滤的陈酒。醅，没过滤的酒。古人认为新酒更好，所以这里是自谦。</span></dd></div><div><dt>肯与<span class="mono">kěn yǔ</span></dt><dd><span lang="en">kěn yǔ: would you be willing to, with. This is a question to the guest.</span><span lang="zh">肯与：愿不愿意和……。这是问客人的话。</span></dd></div><div><dt>邻翁<span class="mono">lín wēng</span></dt><dd><span lang="en">lín wēng: the old man next door.</span><span lang="zh">邻翁：邻居老人。</span></dd></div><div><dt>隔篱<span class="mono">gé lí</span></dt><dd><span lang="en">gé lí: across the fence.</span><span lang="zh">隔篱：隔着篱笆。</span></dd></div><div><dt>呼取<span class="mono">hū qǔ</span></dt><dd><span lang="en">hū qǔ: to call over. Qǔ after a verb adds no real meaning here.</span><span lang="zh">呼取：叫来。取，用在动词后面，没有实在意思。</span></dd></div><div><dt>尽余杯<span class="mono">jìn yú bēi</span></dt><dd><span lang="en">jìn yú bēi: to finish the rest of the wine.</span><span lang="zh">尽余杯：把剩下的酒喝完。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>舍<span class="mono">shè</span></dt><dd><span lang="en">Here the character means a house, so it is read shè, not shě (to give up).</span><span lang="zh">“舍”在这里是房子的意思，读 shè，不读 shě（舍弃）。</span></dd></div><div><dt>舍<span class="mono">shè</span></dt><dd><span lang="en">Same as before: read shè.</span><span lang="zh">同上，读 shè。</span></dd></div><div><dt>为<span class="mono">wèi</span></dt><dd><span lang="en">Here the character means for, so it is read wèi.</span><span lang="zh">“为君开”的“为”是“为了、替”的意思，读 wèi。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Du Fu wrote this poem in the spring of 761. After years of running from war, he had finally built a thatched cottage by the Huanhua Stream on the west side of Chengdu, and his life was settled for a while. Under the title, Du Fu added his own note: glad that Magistrate Cui came to visit. Mingfu was a polite word for a county magistrate. One account says Magistrate Cui was a relative on Du Fu&#x27;s mother&#x27;s side.</p><p lang="zh">这首诗写于唐肃宗上元二年（761年）春天。那时杜甫经过多年逃难，终于在成都西郊的浣花溪边盖了草堂，生活暂时安定下来。原诗题下有杜甫自己的小注：“喜崔明府相过”，意思是高兴崔县令来看望我。明府是对县令的尊称。一说这位崔明府是杜甫母亲那边的亲戚。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. Many of his poems tell of war and the suffering of ordinary people, and they feel heavy. But in the years at his Chengdu cottage he also wrote light, warm poems about flowers, neighbours and friends. A Guest Arrives is one of them.</p><p lang="zh">杜甫（712—770），唐代大诗人，被称为“诗圣”。他的诗多写战乱和百姓的苦难，读起来沉重。可在成都草堂住的那几年，他也写了不少轻松、温暖的小诗，写花草、邻居和朋友。这首《客至》就是其中一首。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines show spring water all around the cottage, and only gulls come by each day. Hardly anyone visits, and the host is a little lonely. Lines three and four suddenly grow lively. The flower path has never been swept for a guest, and the gate opens for the first time today, for you. The words only today show how happy the host is. Lines five and six are a shy apology. The market is far, so there is little food; the family is poor, so there is only old wine. The last two lines are the liveliest. The host asks the guest whether to invite the old man next door, and then calls him over the fence. The whole poem is like a little home video: plain, honest and full of warmth.</p><p lang="zh">开头两句写草堂四周都是春水，只有鸥鸟天天来，说明这里很少有人来，主人有点寂寞。三四句一下子变得热闹：花间小路从没为客人扫过，柴门今天第一次为你打开。一个“今始”，写出了主人有多高兴。五六句是主人不好意思地道歉：离集市远，菜少；家里穷，只有旧酒。最后两句最生动：主人问客人，要不要叫隔壁老人一起喝？然后隔着篱笆就喊起来了。整首诗像一段家常小视频，朴素、真诚，充满了人情味。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/xinglunan-qiyi/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>行路难·其一</b></a><a href="../../p/yuexiaduzhuosishou-qiyi/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>月下独酌四首·其一</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["舍", "shè"], ["南", "nán"], ["舍", "shè"], ["北", "běi"], ["皆", "jiē"], ["春", "chūn"], ["水", "shuǐ"]], [["但", "dàn"], ["见", "jiàn"], ["群", "qún"], ["鸥", "ōu"], ["日", "rì"], ["日", "rì"], ["来", "lái"]], [["花", "huā"], ["径", "jìng"], ["不", "bù"], ["曾", "céng"], ["缘", "yuán"], ["客", "kè"], ["扫", "sǎo"]], [["蓬", "péng"], ["门", "mén"], ["今", "jīn"], ["始", "shǐ"], ["为", "wèi"], ["君", "jūn"], ["开", "kāi"]], [["盘", "pán"], ["飧", "sūn"], ["市", "shì"], ["远", "yuǎn"], ["无", "wú"], ["兼", "jiān"], ["味", "wèi"]], [["樽", "zūn"], ["酒", "jiǔ"], ["家", "jiā"], ["贫", "pín"], ["只", "zhǐ"], ["旧", "jiù"], ["醅", "pēi"]], [["肯", "kěn"], ["与", "yǔ"], ["邻", "lín"], ["翁", "wēng"], ["相", "xiāng"], ["对", "duì"], ["饮", "yǐn"]], [["隔", "gé"], ["篱", "lí"], ["呼", "hū"], ["取", "qǔ"], ["尽", "jìn"], ["余", "yú"], ["杯", "bēi"]]], "glosses": [{"line": 0, "start": 0, "end": 1, "zh": "舍：房子，这里指杜甫在成都的草堂。", "en": "shè: a house, here Du Fu's thatched cottage in Chengdu."}, {"line": 0, "start": 4, "end": 5, "zh": "皆：都。", "en": "jiē: all, everywhere."}, {"line": 0, "start": 5, "end": 7, "zh": "春水：春天上涨的河水。", "en": "chūn shuǐ: the river water that rises in spring."}, {"line": 1, "start": 0, "end": 2, "zh": "但见：只看见。", "en": "dàn jiàn: only seeing."}, {"line": 1, "start": 2, "end": 4, "zh": "群鸥：一群群的鸥鸟。", "en": "qún ōu: flocks of gulls."}, {"line": 2, "start": 0, "end": 2, "zh": "花径：长满花草的小路。", "en": "huā jìng: a little path lined with flowers."}, {"line": 2, "start": 2, "end": 4, "zh": "不曾：从来没有。", "en": "bù céng: never once."}, {"line": 2, "start": 4, "end": 7, "zh": "缘客扫：因为有客人来而打扫。缘，因为。", "en": "yuán kè sǎo: swept because a guest was coming. Yuán means because of."}, {"line": 3, "start": 0, "end": 2, "zh": "蓬门：用蓬草编成的门，指简陋的家门。", "en": "péng mén: a gate woven from weeds, meaning a poor, simple gate."}, {"line": 3, "start": 2, "end": 4, "zh": "今始：今天才第一次。", "en": "jīn shǐ: only today, for the first time."}, {"line": 3, "start": 4, "end": 7, "zh": "为君开：为你打开。君，对客人的尊称。", "en": "wèi jūn kāi: opened for you. Jūn is a polite word for the guest."}, {"line": 4, "start": 0, "end": 2, "zh": "盘飧：盘子里的饭菜。飧，熟食。", "en": "pán sūn: the food on the plates. Sūn means cooked food."}, {"line": 4, "start": 2, "end": 4, "zh": "市远：离集市很远，不方便买东西。", "en": "shì yuǎn: the market is far away, so it is hard to buy things."}, {"line": 4, "start": 4, "end": 7, "zh": "无兼味：没有两样以上的菜，指菜很少。", "en": "wú jiān wèi: not even two dishes, meaning very little food."}, {"line": 5, "start": 0, "end": 2, "zh": "樽酒：酒杯里的酒。樽，古代盛酒的器具。", "en": "zūn jiǔ: the wine in the jar. Zūn is an old wine vessel."}, {"line": 5, "start": 5, "end": 7, "zh": "旧醅：以前酿的、没有过滤的陈酒。醅，没过滤的酒。古人认为新酒更好，所以这里是自谦。", "en": "jiù pēi: old, unfiltered home-made wine. People then liked new wine best, so this is a humble way to speak."}, {"line": 6, "start": 0, "end": 2, "zh": "肯与：愿不愿意和……。这是问客人的话。", "en": "kěn yǔ: would you be willing to, with. This is a question to the guest."}, {"line": 6, "start": 2, "end": 4, "zh": "邻翁：邻居老人。", "en": "lín wēng: the old man next door."}, {"line": 7, "start": 0, "end": 2, "zh": "隔篱：隔着篱笆。", "en": "gé lí: across the fence."}, {"line": 7, "start": 2, "end": 4, "zh": "呼取：叫来。取，用在动词后面，没有实在意思。", "en": "hū qǔ: to call over. Qǔ after a verb adds no real meaning here."}, {"line": 7, "start": 4, "end": 7, "zh": "尽余杯：把剩下的酒喝完。", "en": "jìn yú bēi: to finish the rest of the wine."}], "readings": [{"line": 0, "pos": 0, "char": "舍", "pinyin": "shè", "zh": "“舍”在这里是房子的意思，读 shè，不读 shě（舍弃）。", "en": "Here the character means a house, so it is read shè, not shě (to give up)."}, {"line": 0, "pos": 2, "char": "舍", "pinyin": "shè", "zh": "同上，读 shè。", "en": "Same as before: read shè."}, {"line": 3, "pos": 4, "char": "为", "pinyin": "wèi", "zh": "“为君开”的“为”是“为了、替”的意思，读 wèi。", "en": "Here the character means for, so it is read wèi."}], "speak": ["慑南慑北皆春水", "但见群鸥日日来", "花径不曾缘客扫", "蓬门今始为君开", "盘飧市远无兼味", "樽酒家贫只旧醅", "肯与邻翁相对饮", "隔篱呼取晋余杯"], "speakTitle": "客至。杜甫。", "sample": "舍南舍北皆春水"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

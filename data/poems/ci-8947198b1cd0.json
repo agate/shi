@@ -1,0 +1,510 @@
+{
+ "id": "ci-8947198b1cd0",
+ "kind": "ci",
+ "title": "苏幕遮·碧云天",
+ "title_en": "To the Tune Su Mu Zhe: Blue Clouds in the Sky",
+ "author": "范仲淹",
+ "author_en": "Fan Zhongyan",
+ "dynasty": "song",
+ "form": {
+  "zh": "词·苏幕遮（双调）",
+  "en": "ci lyric to the tune Su Mu Zhe, two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "天",
+    "tiān"
+   ]
+  ],
+  [
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "叶",
+    "yè"
+   ],
+   [
+    "地",
+    "dì"
+   ]
+  ],
+  [
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "色",
+    "sè"
+   ],
+   [
+    "连",
+    "lián"
+   ],
+   [
+    "波",
+    "bō"
+   ]
+  ],
+  [
+   [
+    "波",
+    "bō"
+   ],
+   [
+    "上",
+    "shàng"
+   ],
+   [
+    "寒",
+    "hán"
+   ],
+   [
+    "烟",
+    "yān"
+   ],
+   [
+    "翠",
+    "cuì"
+   ]
+  ],
+  [
+   [
+    "山",
+    "shān"
+   ],
+   [
+    "映",
+    "yìng"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "接",
+    "jiē"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "芳",
+    "fāng"
+   ],
+   [
+    "草",
+    "cǎo"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "情",
+    "qíng"
+   ]
+  ],
+  [
+   [
+    "更",
+    "gèng"
+   ],
+   [
+    "在",
+    "zài"
+   ],
+   [
+    "斜",
+    "xié"
+   ],
+   [
+    "阳",
+    "yáng"
+   ],
+   [
+    "外",
+    "wài"
+   ]
+  ],
+  [
+   [
+    "黯",
+    "àn"
+   ],
+   [
+    "乡",
+    "xiāng"
+   ],
+   [
+    "魂",
+    "hún"
+   ]
+  ],
+  [
+   [
+    "追",
+    "zhuī"
+   ],
+   [
+    "旅",
+    "lǚ"
+   ],
+   [
+    "思",
+    "sī"
+   ]
+  ],
+  [
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "夜",
+    "yè"
+   ],
+   [
+    "除",
+    "chú"
+   ],
+   [
+    "非",
+    "fēi"
+   ]
+  ],
+  [
+   [
+    "好",
+    "hǎo"
+   ],
+   [
+    "梦",
+    "mèng"
+   ],
+   [
+    "留",
+    "liú"
+   ],
+   [
+    "人",
+    "rén"
+   ],
+   [
+    "睡",
+    "shuì"
+   ]
+  ],
+  [
+   [
+    "明",
+    "míng"
+   ],
+   [
+    "月",
+    "yuè"
+   ],
+   [
+    "楼",
+    "lóu"
+   ],
+   [
+    "高",
+    "gāo"
+   ],
+   [
+    "休",
+    "xiū"
+   ],
+   [
+    "独",
+    "dú"
+   ],
+   [
+    "倚",
+    "yǐ"
+   ]
+  ],
+  [
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "入",
+    "rù"
+   ],
+   [
+    "愁",
+    "chóu"
+   ],
+   [
+    "肠",
+    "cháng"
+   ]
+  ],
+  [
+   [
+    "化",
+    "huà"
+   ],
+   [
+    "作",
+    "zuò"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "思",
+    "sī"
+   ],
+   [
+    "泪",
+    "lèi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  7
+ ],
+ "text_note": null,
+ "readings": [
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "思",
+   "pinyin": "sī",
+   "zh": "现在读 sī。这里是名词“心思、愁思”，旧读去声 sì，和“翠、外、睡、泪”押韵，有些课本和老师仍读 sì。",
+   "en": "Read sī today. Here it is a noun, \"thoughts, sorrows\". It was once read with a falling tone, sì, which rhymes with cuì, wài, shuì and lèi, and some textbooks and teachers still read it that way."
+  },
+  {
+   "line": 6,
+   "pos": 0,
+   "char": "更",
+   "pinyin": "gèng",
+   "zh": "这里是“还、更加”的意思，读 gèng。",
+   "en": "Read gèng here, meaning \"even further\"."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 3,
+   "zh": "碧云天：蓝天上飘着白云。碧，青绿色，这里指天的颜色。",
+   "en": "bì yún tiān: a blue sky with clouds. Bì is a blue-green colour, here the colour of the sky."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 3,
+   "zh": "黄叶地：地上铺满了黄色的落叶。",
+   "en": "huáng yè dì: the ground covered in yellow fallen leaves."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 4,
+   "zh": "秋色连波：秋天的景色一直连到远处的水波。",
+   "en": "qiū sè lián bō: the autumn colours reach all the way to the waves."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 5,
+   "zh": "寒烟：秋天水面上带着寒意的烟雾。翠：青绿色。水面上的雾气在远处看起来是青绿色的。",
+   "en": "hán yān cuì: hán yān is the chilly mist over autumn water; cuì is green. From far off, the mist looks green."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 4,
+   "zh": "山映斜阳：夕阳照在山上。斜阳，傍晚的太阳。",
+   "en": "shān yìng xié yáng: the setting sun shines on the hills."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "天接水：远远望去，天和水连在一起。",
+   "en": "tiān jiē shuǐ: far away, the sky meets the water."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 4,
+   "zh": "芳草无情：青草不懂人的心事。古诗里常用芳草比喻离愁或远方。",
+   "en": "fāng cǎo wú qíng: the grass has no feelings. In old poems, grass often stands for the sorrow of parting or the far-off road home."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 5,
+   "zh": "更在斜阳外：一直长到比夕阳还远的地方。",
+   "en": "gèng zài xié yáng wài: it grows on even beyond the setting sun."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 3,
+   "zh": "黯：心情低落。乡魂：想家的心。黯乡魂：想家想得心情沉重。",
+   "en": "àn xiāng hún: àn means low-spirited; xiāng hún is a heart missing home. Gloomy with homesickness."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 3,
+   "zh": "追：缠着不放。旅思：在外漂泊的愁思。",
+   "en": "zhuī lǚ sī: zhuī means to cling to; lǚ sī is the sad thoughts of someone far from home. Haunted by a traveller's sorrow."
+  },
+  {
+   "line": 9,
+   "start": 2,
+   "end": 4,
+   "zh": "除非：只有……才能……",
+   "en": "chú fēi: only if, only when."
+  },
+  {
+   "line": 10,
+   "start": 0,
+   "end": 5,
+   "zh": "好梦留人睡：做个回家的好梦，才能安心睡着。",
+   "en": "hǎo mèng liú rén shuì: only a good dream of home lets him sleep."
+  },
+  {
+   "line": 11,
+   "start": 4,
+   "end": 7,
+   "zh": "休：不要。倚：靠着栏杆。休独倚：不要一个人靠着栏杆远望。",
+   "en": "xiū dú yǐ: xiū means do not; yǐ is to lean on a railing. Do not lean there alone, looking far away."
+  },
+  {
+   "line": 12,
+   "start": 2,
+   "end": 4,
+   "zh": "愁肠：满是忧愁的心。",
+   "en": "chóu cháng: a heart full of sorrow; literally \"sorrowful insides\"."
+  },
+  {
+   "line": 13,
+   "start": 2,
+   "end": 4,
+   "zh": "相思：想念远方的人。",
+   "en": "xiāng sī: longing for someone far away."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "蓝天上飘着白云，",
+   "en": "Blue sky with drifting clouds,"
+  },
+  {
+   "zh": "地上铺满黄叶。",
+   "en": "yellow leaves on the ground."
+  },
+  {
+   "zh": "秋天的景色一直连到水波上，",
+   "en": "The autumn colours run on to the waves,"
+  },
+  {
+   "zh": "水波上笼着一层带着寒意的青绿色烟雾。",
+   "en": "and over the waves hangs a cold green mist."
+  },
+  {
+   "zh": "夕阳照着远山，天和水连在一起。",
+   "en": "The hills glow in the setting sun; the sky meets the water."
+  },
+  {
+   "zh": "芳草不懂人的心事，",
+   "en": "The grass has no heart,"
+  },
+  {
+   "zh": "一直长到比夕阳还远的地方。",
+   "en": "it grows on beyond the setting sun."
+  },
+  {
+   "zh": "想家想得心情沉重，",
+   "en": "Homesickness darkens my spirit,"
+  },
+  {
+   "zh": "在外漂泊的愁思缠着我不放。",
+   "en": "a traveller's sorrow will not let me go."
+  },
+  {
+   "zh": "每天夜里，只有",
+   "en": "Night after night, only"
+  },
+  {
+   "zh": "做了回家的好梦，我才能睡得着。",
+   "en": "a good dream of home lets me sleep."
+  },
+  {
+   "zh": "明月照着高楼，不要一个人靠着栏杆远望了。",
+   "en": "The moon is bright, the tower high; do not lean on the railing alone."
+  },
+  {
+   "zh": "酒喝进满是忧愁的心里，",
+   "en": "The wine goes down into my sorrowful heart"
+  },
+  {
+   "zh": "都变成了想念的眼泪。",
+   "en": "and turns into tears of longing."
+  }
+ ],
+ "background": {
+  "zh": "这首词一般认为是范仲淹在西北边地守边时写的。宋仁宗康定元年（1040）以后，西夏常来侵扰，范仲淹被派到陕西一带主持防守，好几年不能回家。一说这首词只是写一般的出门在外、想念家乡，不一定和守边有关。有的选本给它加了题目“怀旧”。",
+  "en": "This lyric is usually thought to have been written while Fan Zhongyan was guarding the northwest frontier. From 1040 on, Western Xia often raided the Song, and Fan Zhongyan was sent to the Shaanxi region to lead the defence. For several years he could not go home. Another view says the lyric is simply about being away from home and missing it, not tied to the frontier. Some anthologies give it the title \"Remembering the Past\"."
+ },
+ "author_note": {
+  "zh": "范仲淹（989—1052），字希文，苏州吴县（今江苏苏州）人，北宋政治家、文学家。他小时候家里很穷，靠刻苦读书考中进士。他说过一句有名的话：“先天下之忧而忧，后天下之乐而乐。”他守过边，也主持过改革。他的词留下来的不多，却很有名。",
+  "en": "Fan Zhongyan (989–1052), courtesy name Xiwen, came from Wu County in Suzhou. He was a statesman and writer of the Northern Song. He grew up poor and passed the imperial exam through hard study. He is famous for saying that one should worry before everyone else worries, and be happy only after everyone else is happy. He guarded the frontier and led reforms at court. Only a few of his lyrics survive, but they are well known."
+ },
+ "appreciation": {
+  "zh": "上阕像一幅很大的秋景画。抬头是蓝天白云，低头是满地黄叶，远处秋色一直连到水面，水上飘着青绿色的雾。夕阳照着山，天和水连成一片。芳草一直长到夕阳外面，也就是家乡的方向，那么远，怎么也看不到头。下阕写心情。想家的愁天天缠着他，只有做个回家的好梦才睡得着。月亮很亮，可他不敢再上楼远望，怕越看越想家。他只好喝酒，可酒一进愁肠，就变成了相思的眼泪。前面景色写得开阔美丽，后面的愁就显得更深。",
+  "en": "The first stanza is like a huge autumn painting. Look up: blue sky and clouds. Look down: yellow leaves everywhere. Far off, the autumn colours reach the water, and a green mist floats on the waves. The setting sun lights the hills, and sky and water melt into one. The grass grows on beyond the setting sun, toward home, so far away that he can never see the end. The second stanza is about his feelings. Homesickness clings to him every day, and only a good dream of home lets him sleep. The moon is bright, but he dares not climb the tower to look out, for fear of missing home even more. So he drinks, but once the wine is in his sorrowful heart, it turns into tears of longing. Because the scenery is so wide and beautiful, the sorrow that follows feels even deeper."
+ },
+ "famous_lines": [
+  0,
+  1,
+  12,
+  13
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "homesick",
+   "autumn",
+   "moon",
+   "wine"
+  ]
+ },
+ "uncertain": []
+}

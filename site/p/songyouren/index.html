@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>送友人 · 李白 — 诗</title>
+    <meta name="description" content="送友人 · 李白 — Seeing Off a Friend by Li Bai: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 66 · Tang poem · five-character regulated verse</span><span lang="zh">第 66 首 · 唐诗 · 五言律诗</span></p>
+        <h1>送友人</h1>
+        <p class="by">李白<span class="mono"><span lang="en">Li Bai · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Seeing Off a Friend</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>qīng</i><b>青</b></span><span class="c" data-l="0" data-p="1"><i>shān</i><b>山</b></span><span class="c gl" data-l="0" data-p="2"><i>héng</i><b>横</b></span><span class="c" data-l="0" data-p="3"><i>běi</i><b>北</b></span><span class="c gl" data-l="0" data-p="4"><i>guō</i><b>郭</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>bái</i><b>白</b></span><span class="c gl" data-l="1" data-p="1"><i>shuǐ</i><b>水</b></span><span class="c" data-l="1" data-p="2"><i>rào</i><b>绕</b></span><span class="c" data-l="1" data-p="3"><i>dōng</i><b>东</b></span><span class="c" data-l="1" data-p="4"><i>chéng</i><b>城</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>cǐ</i><b>此</b></span><span class="c" data-l="2" data-p="1"><i>dì</i><b>地</b></span><span class="c gl" data-l="2" data-p="2"><i>yì</i><b>一</b></span><span class="c gl rd" data-l="2" data-p="3"><i>wéi</i><b>为</b></span><span class="c gl" data-l="2" data-p="4"><i>bié</i><b>别</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>gū</i><b>孤</b></span><span class="c gl" data-l="3" data-p="1"><i>péng</i><b>蓬</b></span><span class="c" data-l="3" data-p="2"><i>wàn</i><b>万</b></span><span class="c" data-l="3" data-p="3"><i>lǐ</i><b>里</b></span><span class="c gl" data-l="3" data-p="4"><i>zhēng</i><b>征</b></span></p><p class="ln"><span class="c gl" data-l="4" data-p="0"><i>fú</i><b>浮</b></span><span class="c gl" data-l="4" data-p="1"><i>yún</i><b>云</b></span><span class="c gl" data-l="4" data-p="2"><i>yóu</i><b>游</b></span><span class="c gl" data-l="4" data-p="3"><i>zǐ</i><b>子</b></span><span class="c" data-l="4" data-p="4"><i>yì</i><b>意</b></span></p><p class="ln"><span class="c" data-l="5" data-p="0"><i>luò</i><b>落</b></span><span class="c" data-l="5" data-p="1"><i>rì</i><b>日</b></span><span class="c gl" data-l="5" data-p="2"><i>gù</i><b>故</b></span><span class="c gl" data-l="5" data-p="3"><i>rén</i><b>人</b></span><span class="c" data-l="5" data-p="4"><i>qíng</i><b>情</b></span></p><p class="ln"><span class="c" data-l="6" data-p="0"><i>huī</i><b>挥</b></span><span class="c" data-l="6" data-p="1"><i>shǒu</i><b>手</b></span><span class="c gl" data-l="6" data-p="2"><i>zì</i><b>自</b></span><span class="c gl" data-l="6" data-p="3"><i>zī</i><b>兹</b></span><span class="c gl" data-l="6" data-p="4"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c gl" data-l="7" data-p="0"><i>xiāo</i><b>萧</b></span><span class="c gl" data-l="7" data-p="1"><i>xiāo</i><b>萧</b></span><span class="c gl" data-l="7" data-p="2"><i>bān</i><b>班</b></span><span class="c gl" data-l="7" data-p="3"><i>mǎ</i><b>马</b></span><span class="c" data-l="7" data-p="4"><i>míng</i><b>鸣</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The corpus text writes rào, to wind around, in line two with an old variant form. Textbooks use the standard form; the word is the same.</p><p lang="zh">语料本第二句的“绕”写作“遶”。“遶”是“绕”的异体字，意思一样，课本写作“绕”。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">青山横北郭</span><span lang="en">Green hills lie across the north of the town;</span><span lang="zh">青山横卧在外城的北边，</span></li><li><span class="o">白水绕东城</span><span lang="en">white water winds around its eastern side.</span><span lang="zh">清亮的河水绕着东城流过。</span></li><li><span class="o">此地一为别</span><span lang="en">Here, once we say goodbye,</span><span lang="zh">我们就要在这里分别了，</span></li><li><span class="o">孤蓬万里征</span><span lang="en">you will drift ten thousand miles like a lone tumbleweed.</span><span lang="zh">你像一棵孤零零的蓬草，要飘到万里之外。</span></li><li><span class="o">浮云游子意</span><span lang="en">The drifting clouds are like a traveler&#x27;s heart;</span><span lang="zh">天上的浮云就像你这游子飘来飘去的心思，</span></li><li><span class="o">落日故人情</span><span lang="en">the setting sun is like an old friend&#x27;s lingering love.</span><span lang="zh">将落的太阳就像我这老朋友依依不舍的情意。</span></li><li><span class="o">挥手自兹去</span><span lang="en">We wave our hands, and you leave from here;</span><span lang="zh">挥挥手，你从这里走了，</span></li><li><span class="o">萧萧班马鸣</span><span lang="en">the parting horses neigh, xiao xiao, as if they too are sad.</span><span lang="zh">离群的马也萧萧地叫着，不愿分开。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>横<span class="mono">héng</span></dt><dd><span lang="en">héng: to lie across.</span><span lang="zh">横：横卧，横着躺在那里。</span></dd></div><div><dt>郭<span class="mono">guō</span></dt><dd><span lang="en">guō: the outer wall of a city. Old cities had an inner and an outer wall.</span><span lang="zh">郭：外城。古代城墙分内外两层，外面的一层叫郭。</span></dd></div><div><dt>白水<span class="mono">bái shuǐ</span></dt><dd><span lang="en">bái shuǐ: clear water shining white in the sun.</span><span lang="zh">白水：清澈的河水，在阳光下闪着白光。</span></dd></div><div><dt>一为别<span class="mono">yì wéi bié</span></dt><dd><span lang="en">yī wéi bié: once we part here. Wéi means to do or to become.</span><span lang="zh">一为别：一旦在这里分别。为，作、成为。</span></dd></div><div><dt>孤蓬<span class="mono">gū péng</span></dt><dd><span lang="en">gū péng: a lone tumbleweed. When it dries, the wind snaps it off and blows it everywhere. Here it stands for the friend traveling alone.</span><span lang="zh">孤蓬：蓬草干枯后被风吹断，到处飘飞。这里比喻独自远行的朋友。</span></dd></div><div><dt>征<span class="mono">zhēng</span></dt><dd><span lang="en">zhēng: to travel far.</span><span lang="zh">征：远行。</span></dd></div><div><dt>浮云<span class="mono">fú yún</span></dt><dd><span lang="en">fú yún: drifting clouds with no fixed place.</span><span lang="zh">浮云：飘浮的云，没有定处。</span></dd></div><div><dt>游子<span class="mono">yóu zǐ</span></dt><dd><span lang="en">yóu zǐ: one who travels far from home.</span><span lang="zh">游子：离家远行的人。</span></dd></div><div><dt>故人<span class="mono">gù rén</span></dt><dd><span lang="en">gù rén: an old friend, here the poet himself.</span><span lang="zh">故人：老朋友，这里是诗人自己。</span></dd></div><div><dt>自兹去<span class="mono">zì zī qù</span></dt><dd><span lang="en">zì zī qù: to leave from here. Zī means here.</span><span lang="zh">自兹去：从这里离开。兹，这里。</span></dd></div><div><dt>萧萧<span class="mono">xiāo xiāo</span></dt><dd><span lang="en">xiāo xiāo: the sound of horses neighing.</span><span lang="zh">萧萧：马叫的声音。</span></dd></div><div><dt>班马<span class="mono">bān mǎ</span></dt><dd><span lang="en">bān mǎ: a horse parted from its herd, here the horse carrying the friend away. Bān means to part.</span><span lang="zh">班马：离群的马，这里指载着朋友离开的马。班，分别。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>为<span class="mono">wéi</span></dt><dd><span lang="en">In yī wéi bié, the character means to do or become, so it is read wéi.</span><span lang="zh">“一为别”的“为”是作、成为的意思，读 wéi。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">Li Bai wrote this poem when seeing off a friend. We no longer know who the friend was, or the year or the place. From the poem, they parted outside a town, with green hills to the north and a river to the east. Li Bai traveled all his life and made many friends, and he wrote many farewell poems. This is one of the most famous.</p><p lang="zh">这是李白送别朋友时写的诗。朋友是谁、写在哪一年、在什么地方，都已经说不清了。从诗里看，送别的地方在一座城外，北边有青山，东边有河水。李白一生到处游历，交了很多朋友，也写了很多送别诗，这是其中很有名的一首。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Li Bai (701–762), courtesy name Taibai, also called the Lay Buddhist of Green Lotus, was a great Tang poet, known as the Immortal of Poetry. He grew up in Shu, around today&#x27;s Sichuan. He loved to roam among mountains and rivers and to make friends. His poems are bold and full of wild imagination, often about the moon, rivers and long journeys.</p><p lang="zh">李白（701—762），字太白，号青莲居士，唐代大诗人，被称为“诗仙”。他从小在蜀地（今四川一带）长大，喜欢游山玩水、结交朋友。他的诗想象大胆，气势豪放，常常写明月、江河和远行。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines show the place of parting: green hills to the north, a river to the east. The hills lie still and the water winds along, a lovely picture of stillness and movement. Then the poet says that after this goodbye, his friend will be like a tumbleweed blown by the wind, going ten thousand miles alone. Lines five and six use the scene to show feeling. Drifting clouds are like the friend&#x27;s wandering road. The setting sun sinks slowly, as if it does not want to go, like the poet&#x27;s heart that cannot let his friend leave. At the end he does not say anyone weeps. He only says the horses neigh. If even the horses are sad, how much more the people.</p><p lang="zh">开头两句写送别的地方：青山在北，河水在东，一个“横”、一个“绕”，山是静的，水是动的，画面很美。接着说，这一分别，朋友就像风吹起的蓬草，要孤孤单单地走万里路。第五、六句用景物比喻感情：浮云飘来飘去，像朋友的行踪；落日慢慢下沉，不肯马上离开，像诗人舍不得朋友的心。最后不写人哭，只写马叫，马都舍不得，人就更不用说了。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/fudeguyuancaosongbie/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>赋得古原草送别</b></a><a href="../../p/jueju/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>绝句</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["青", "qīng"], ["山", "shān"], ["横", "héng"], ["北", "běi"], ["郭", "guō"]], [["白", "bái"], ["水", "shuǐ"], ["绕", "rào"], ["东", "dōng"], ["城", "chéng"]], [["此", "cǐ"], ["地", "dì"], ["一", "yì"], ["为", "wéi"], ["别", "bié"]], [["孤", "gū"], ["蓬", "péng"], ["万", "wàn"], ["里", "lǐ"], ["征", "zhēng"]], [["浮", "fú"], ["云", "yún"], ["游", "yóu"], ["子", "zǐ"], ["意", "yì"]], [["落", "luò"], ["日", "rì"], ["故", "gù"], ["人", "rén"], ["情", "qíng"]], [["挥", "huī"], ["手", "shǒu"], ["自", "zì"], ["兹", "zī"], ["去", "qù"]], [["萧", "xiāo"], ["萧", "xiāo"], ["班", "bān"], ["马", "mǎ"], ["鸣", "míng"]]], "glosses": [{"line": 0, "start": 2, "end": 3, "zh": "横：横卧，横着躺在那里。", "en": "héng: to lie across."}, {"line": 0, "start": 4, "end": 5, "zh": "郭：外城。古代城墙分内外两层，外面的一层叫郭。", "en": "guō: the outer wall of a city. Old cities had an inner and an outer wall."}, {"line": 1, "start": 0, "end": 2, "zh": "白水：清澈的河水，在阳光下闪着白光。", "en": "bái shuǐ: clear water shining white in the sun."}, {"line": 2, "start": 2, "end": 5, "zh": "一为别：一旦在这里分别。为，作、成为。", "en": "yī wéi bié: once we part here. Wéi means to do or to become."}, {"line": 3, "start": 0, "end": 2, "zh": "孤蓬：蓬草干枯后被风吹断，到处飘飞。这里比喻独自远行的朋友。", "en": "gū péng: a lone tumbleweed. When it dries, the wind snaps it off and blows it everywhere. Here it stands for the friend traveling alone."}, {"line": 3, "start": 4, "end": 5, "zh": "征：远行。", "en": "zhēng: to travel far."}, {"line": 4, "start": 0, "end": 2, "zh": "浮云：飘浮的云，没有定处。", "en": "fú yún: drifting clouds with no fixed place."}, {"line": 4, "start": 2, "end": 4, "zh": "游子：离家远行的人。", "en": "yóu zǐ: one who travels far from home."}, {"line": 5, "start": 2, "end": 4, "zh": "故人：老朋友，这里是诗人自己。", "en": "gù rén: an old friend, here the poet himself."}, {"line": 6, "start": 2, "end": 5, "zh": "自兹去：从这里离开。兹，这里。", "en": "zì zī qù: to leave from here. Zī means here."}, {"line": 7, "start": 0, "end": 2, "zh": "萧萧：马叫的声音。", "en": "xiāo xiāo: the sound of horses neighing."}, {"line": 7, "start": 2, "end": 4, "zh": "班马：离群的马，这里指载着朋友离开的马。班，分别。", "en": "bān mǎ: a horse parted from its herd, here the horse carrying the friend away. Bān means to part."}], "readings": [{"line": 2, "pos": 3, "char": "为", "pinyin": "wéi", "zh": "“一为别”的“为”是作、成为的意思，读 wéi。", "en": "In yī wéi bié, the character means to do or become, so it is read wéi."}], "speak": ["青山横北郭", "白水绕东城", "此地义围别", "孤蓬万里征", "浮云游滓意", "落日故人情", "挥手自兹去", "萧萧班马鸣"], "speakTitle": "送友人。李白。", "sample": "青山横北郭"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

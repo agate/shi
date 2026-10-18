@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>玉楼春·春恨 · 晏殊 — 诗</title>
+    <meta name="description" content="玉楼春·春恨 · 晏殊 — Jade Tower Spring: Spring Sorrow by Yan Shu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 48 · Song lyric · ci (song lyric)</span><span lang="zh">第 48 首 · 宋词 · 词</span></p>
+        <h1>玉楼春·春恨</h1>
+        <p class="by">晏殊<span class="mono"><span lang="en">Yan Shu · Song</span><span lang="zh">宋</span></span></p>
+        <p class="en-title mono" lang="en">Jade Tower Spring: Spring Sorrow</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c" data-l="0" data-p="0"><i>lǜ</i><b>绿</b></span><span class="c" data-l="0" data-p="1"><i>yáng</i><b>杨</b></span><span class="c" data-l="0" data-p="2"><i>fāng</i><b>芳</b></span><span class="c" data-l="0" data-p="3"><i>cǎo</i><b>草</b></span><span class="c gl" data-l="0" data-p="4"><i>cháng</i><b>长</b></span><span class="c gl" data-l="0" data-p="5"><i>tíng</i><b>亭</b></span><span class="c" data-l="0" data-p="6"><i>lù</i><b>路</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>nián</i><b>年</b></span><span class="c gl" data-l="1" data-p="1"><i>shào</i><b>少</b></span><span class="c gl" data-l="1" data-p="2"><i>pāo</i><b>抛</b></span><span class="c gl" data-l="1" data-p="3"><i>rén</i><b>人</b></span><span class="c gl" data-l="1" data-p="4"><i>róng</i><b>容</b></span><span class="c gl" data-l="1" data-p="5"><i>yì</i><b>易</b></span><span class="c gl" data-l="1" data-p="6"><i>qù</i><b>去</b></span></p><p class="ln"><span class="c gl" data-l="2" data-p="0"><i>lóu</i><b>楼</b></span><span class="c gl" data-l="2" data-p="1"><i>tóu</i><b>头</b></span><span class="c gl" data-l="2" data-p="2"><i>cán</i><b>残</b></span><span class="c gl" data-l="2" data-p="3"><i>mèng</i><b>梦</b></span><span class="c gl" data-l="2" data-p="4"><i>wǔ</i><b>五</b></span><span class="c gl" data-l="2" data-p="5"><i>gēng</i><b>更</b></span><span class="c gl" data-l="2" data-p="6"><i>zhōng</i><b>钟</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>huā</i><b>花</b></span><span class="c gl" data-l="3" data-p="1"><i>dǐ</i><b>底</b></span><span class="c gl" data-l="3" data-p="2"><i>lí</i><b>离</b></span><span class="c gl" data-l="3" data-p="3"><i>chóu</i><b>愁</b></span><span class="c gl" data-l="3" data-p="4"><i>sān</i><b>三</b></span><span class="c gl" data-l="3" data-p="5"><i>yuè</i><b>月</b></span><span class="c gl" data-l="3" data-p="6"><i>yǔ</i><b>雨</b></span></p><p class="ln brk"><span class="c gl" data-l="4" data-p="0"><i>wú</i><b>无</b></span><span class="c gl" data-l="4" data-p="1"><i>qíng</i><b>情</b></span><span class="c gl" data-l="4" data-p="2"><i>bú</i><b>不</b></span><span class="c gl" data-l="4" data-p="3"><i>sì</i><b>似</b></span><span class="c gl" data-l="4" data-p="4"><i>duō</i><b>多</b></span><span class="c gl" data-l="4" data-p="5"><i>qíng</i><b>情</b></span><span class="c gl" data-l="4" data-p="6"><i>kǔ</i><b>苦</b></span></p><p class="ln"><span class="c gl" data-l="5" data-p="0"><i>yī</i><b>一</b></span><span class="c gl" data-l="5" data-p="1"><i>cùn</i><b>寸</b></span><span class="c rd" data-l="5" data-p="2"><i>hái</i><b>还</b></span><span class="c" data-l="5" data-p="3"><i>chéng</i><b>成</b></span><span class="c gl" data-l="5" data-p="4"><i>qiān</i><b>千</b></span><span class="c gl" data-l="5" data-p="5"><i>wàn</i><b>万</b></span><span class="c gl" data-l="5" data-p="6"><i>lǚ</i><b>缕</b></span></p><p class="ln"><span class="c gl" data-l="6" data-p="0"><i>tiān</i><b>天</b></span><span class="c gl" data-l="6" data-p="1"><i>yá</i><b>涯</b></span><span class="c gl" data-l="6" data-p="2"><i>dì</i><b>地</b></span><span class="c gl" data-l="6" data-p="3"><i>jiǎo</i><b>角</b></span><span class="c gl" data-l="6" data-p="4"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="6" data-p="5"><i>qióng</i><b>穷</b></span><span class="c gl" data-l="6" data-p="6"><i>shí</i><b>时</b></span></p><p class="ln"><span class="c" data-l="7" data-p="0"><i>zhǐ</i><b>只</b></span><span class="c" data-l="7" data-p="1"><i>yǒu</i><b>有</b></span><span class="c" data-l="7" data-p="2"><i>xiāng</i><b>相</b></span><span class="c" data-l="7" data-p="3"><i>sī</i><b>思</b></span><span class="c gl" data-l="7" data-p="4"><i>wú</i><b>无</b></span><span class="c gl" data-l="7" data-p="5"><i>jìn</i><b>尽</b></span><span class="c gl" data-l="7" data-p="6"><i>chù</i><b>处</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        <div class="note"><p lang="en">The commonly taught text has lí chóu (the sorrow of parting) in the fourth line; the source text has lí qíng (feelings of parting). The meaning is close.</p><p lang="zh">通行本第四句作“花底离愁三月雨”，这里的底本作“离情”，意思相近。</p></div>
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">绿杨芳草长亭路</span><span lang="en">On the road by the parting pavilion, the willows are green and the grass is sweet.</span><span lang="zh">长亭外的路上，杨柳青青，芳草萋萋，</span></li><li><span class="o">年少抛人容易去</span><span lang="en">The young man left me as lightly as if it were nothing.</span><span lang="zh">那个年轻人轻易地丢下我走了。</span></li><li><span class="o">楼头残梦五更钟</span><span lang="en">Up in the tower, my dream is broken by the bell before dawn;</span><span lang="zh">楼上的梦被五更的钟声惊醒，</span></li><li><span class="o">花底离愁三月雨</span><span lang="en">beneath the flowers, my sorrow falls like the endless rain of the third month.</span><span lang="zh">花下的离愁像三月的雨一样绵绵不断。</span></li><li class="brk"><span class="o">无情不似多情苦</span><span lang="en">Those without feelings do not suffer as those with deep feelings do.</span><span lang="zh">没有感情的人，不像多情的人这样痛苦，</span></li><li><span class="o">一寸还成千万缕</span><span lang="en">One small heart turns into thousands of threads of sorrow.</span><span lang="zh">小小的一颗心，竟变成了千丝万缕的愁绪。</span></li><li><span class="o">天涯地角有穷时</span><span lang="en">Even the edge of the sky and the corner of the earth have an end,</span><span lang="zh">天边地角再远，也总有到头的时候，</span></li><li><span class="o">只有相思无尽处</span><span lang="en">but longing alone goes on without end.</span><span lang="zh">只有相思，永远没有尽头。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>长亭<span class="mono">cháng tíng</span></dt><dd><span lang="en">cháng tíng: a roadside pavilion where travellers rested. People often said goodbye there.</span><span lang="zh">长亭：古时路边供人休息的亭子，人们常在这里送别。</span></dd></div><div><dt>年少<span class="mono">nián shào</span></dt><dd><span lang="en">nián shào: a young man, here the one who left.</span><span lang="zh">年少：年轻人，这里指离开的那个人。</span></dd></div><div><dt>抛人<span class="mono">pāo rén</span></dt><dd><span lang="en">pāo rén: to leave me behind.</span><span lang="zh">抛人：丢下我。</span></dd></div><div><dt>容易去<span class="mono">róng yì qù</span></dt><dd><span lang="en">róng yì qù: to go off lightly, as if it were nothing.</span><span lang="zh">容易去：轻易地就走了。</span></dd></div><div><dt>楼头<span class="mono">lóu tóu</span></dt><dd><span lang="en">lóu tóu: up in the tower.</span><span lang="zh">楼头：楼上。</span></dd></div><div><dt>残梦<span class="mono">cán mèng</span></dt><dd><span lang="en">cán mèng: a broken dream, cut off when one wakes.</span><span lang="zh">残梦：没做完的梦，被惊醒的梦。</span></dd></div><div><dt>五更钟<span class="mono">wǔ gēng zhōng</span></dt><dd><span lang="en">wǔ gēng zhōng: the bell just before dawn. People once split the night into five watches; the fifth watch is just before daybreak.</span><span lang="zh">五更钟：天快亮时的钟声。古人把一夜分成五更，五更就是快天亮的时候。</span></dd></div><div><dt>花底<span class="mono">huā dǐ</span></dt><dd><span lang="en">huā dǐ: beneath the flowers.</span><span lang="zh">花底：花丛下。</span></dd></div><div><dt>离愁<span class="mono">lí chóu</span></dt><dd><span lang="en">lí chóu: the sorrow of parting.</span><span lang="zh">离愁：分别的愁苦。</span></dd></div><div><dt>三月雨<span class="mono">sān yuè yǔ</span></dt><dd><span lang="en">sān yuè yǔ: rain in the third month, late spring, when rain knocks the flowers down.</span><span lang="zh">三月雨：暮春三月的雨，花被雨打落。</span></dd></div><div><dt>无情不似多情苦<span class="mono">wú qíng bú sì duō qíng kǔ</span></dt><dd><span lang="en">wú qíng bú sì duō qíng kǔ: those without feelings do not suffer the way those with deep feelings do.</span><span lang="zh">无情不似多情苦：没有感情的人，不像多情的人这样痛苦。</span></dd></div><div><dt>一寸<span class="mono">yī cùn</span></dt><dd><span lang="en">yí cùn: an inch, meaning the heart. People of old said the heart is only about an inch across.</span><span lang="zh">一寸：一寸长的心，指人的心。古人说心只有方寸那么大。</span></dd></div><div><dt>千万缕<span class="mono">qiān wàn lǚ</span></dt><dd><span lang="en">qiān wàn lǚ: thousands of threads, meaning countless sad thoughts.</span><span lang="zh">千万缕：千丝万缕，像无数根丝线，指数不清的愁思。</span></dd></div><div><dt>天涯地角<span class="mono">tiān yá dì jiǎo</span></dt><dd><span lang="en">tiān yá dì jiǎo: the edge of the sky and the corner of the earth, the farthest places there are.</span><span lang="zh">天涯地角：天的边、地的角，最远的地方。</span></dd></div><div><dt>有穷时<span class="mono">yǒu qióng shí</span></dt><dd><span lang="en">yǒu qióng shí: there is a point where they end.</span><span lang="zh">有穷时：总有到头的时候。</span></dd></div><div><dt>无尽处<span class="mono">wú jìn chù</span></dt><dd><span lang="en">wú jìn chù: no end at all.</span><span lang="zh">无尽处：没有尽头。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>还<span class="mono">hái</span></dt><dd><span lang="en">In this line the character means yet or even so, and is usually read hái today. Some readers read it huán, taking it as turning into.</span><span lang="zh">“一寸还成千万缕”的“还”，意思是“却、竟然”，现在多读 hái；也有读本读作 huán（还原、变成）。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This lyric is about a woman in spring who misses the man who has left her. The title means spring sorrow, the pain of parting felt in spring. Song poets often wrote about parting and longing in a woman&#x27;s voice. We no longer know in which year it was written.</p><p lang="zh">这首词写一位女子在春天想念离开的爱人。“春恨”就是春天里分别的愁苦。古人写词，常常借女子的口吻写离别和相思。这首词具体写于哪一年，已经说不清楚。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Yan Shu (991–1055) was a Northern Song poet who served as chancellor. He was a child prodigy and was sent to court at fourteen. His lyrics are gentle and elegant, often about quiet sorrow and parting. The famous lines about flowers falling and swallows returning are also his.</p><p lang="zh">晏殊（991—1055），字同叔，北宋词人，做过宰相。他从小就是“神童”，十四岁就被推荐进朝廷。他的词温和、典雅，常写闲愁和离别。著名的“无可奈何花落去，似曾相识燕归来”也是他写的。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first half shows both the scene and the people. Outside the pavilion the willows are green and the grass is fresh, a lovely spring. Yet the young man walked off as if it were nothing. Up in the tower, her dream is broken by the dawn bell. Under the flowers, her sorrow keeps falling like spring rain. The bell and the rain make her loneliness something you can hear. The second half speaks straight from the heart. People without feelings do not suffer; only those who love deeply do. One small heart can grow thousands of threads of sorrow. The last two lines are the most famous. Even the farthest places on earth have an end, but longing has none. Comparing it with the farthest places shows how long longing lasts.</p><p lang="zh">上半首写景也写人：长亭外柳绿草青，本是美好的春天，可那个年轻人却轻轻松松地走了。楼上，梦被五更钟声惊醒；花下，离愁像三月的雨下个不停。钟声和雨声，把孤单写得有声有色。下半首直接说心里话：不懂感情的人反倒不痛苦，多情的人才苦。一颗小小的心，能生出千丝万缕的愁。最后两句最有名：天涯海角再远也有尽头，只有相思没有尽头。用最远的地方来比，更显出相思之长。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/caisangzi-qunfangguohouxihuhao/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>采桑子·群芳过后西湖好</b></a><a href="../../p/pozhenzi-chunjing/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>破阵子·春景</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["绿", "lǜ"], ["杨", "yáng"], ["芳", "fāng"], ["草", "cǎo"], ["长", "cháng"], ["亭", "tíng"], ["路", "lù"]], [["年", "nián"], ["少", "shào"], ["抛", "pāo"], ["人", "rén"], ["容", "róng"], ["易", "yì"], ["去", "qù"]], [["楼", "lóu"], ["头", "tóu"], ["残", "cán"], ["梦", "mèng"], ["五", "wǔ"], ["更", "gēng"], ["钟", "zhōng"]], [["花", "huā"], ["底", "dǐ"], ["离", "lí"], ["愁", "chóu"], ["三", "sān"], ["月", "yuè"], ["雨", "yǔ"]], [["无", "wú"], ["情", "qíng"], ["不", "bú"], ["似", "sì"], ["多", "duō"], ["情", "qíng"], ["苦", "kǔ"]], [["一", "yī"], ["寸", "cùn"], ["还", "hái"], ["成", "chéng"], ["千", "qiān"], ["万", "wàn"], ["缕", "lǚ"]], [["天", "tiān"], ["涯", "yá"], ["地", "dì"], ["角", "jiǎo"], ["有", "yǒu"], ["穷", "qióng"], ["时", "shí"]], [["只", "zhǐ"], ["有", "yǒu"], ["相", "xiāng"], ["思", "sī"], ["无", "wú"], ["尽", "jìn"], ["处", "chù"]]], "glosses": [{"line": 0, "start": 4, "end": 6, "zh": "长亭：古时路边供人休息的亭子，人们常在这里送别。", "en": "cháng tíng: a roadside pavilion where travellers rested. People often said goodbye there."}, {"line": 1, "start": 0, "end": 2, "zh": "年少：年轻人，这里指离开的那个人。", "en": "nián shào: a young man, here the one who left."}, {"line": 1, "start": 2, "end": 4, "zh": "抛人：丢下我。", "en": "pāo rén: to leave me behind."}, {"line": 1, "start": 4, "end": 7, "zh": "容易去：轻易地就走了。", "en": "róng yì qù: to go off lightly, as if it were nothing."}, {"line": 2, "start": 0, "end": 2, "zh": "楼头：楼上。", "en": "lóu tóu: up in the tower."}, {"line": 2, "start": 2, "end": 4, "zh": "残梦：没做完的梦，被惊醒的梦。", "en": "cán mèng: a broken dream, cut off when one wakes."}, {"line": 2, "start": 4, "end": 7, "zh": "五更钟：天快亮时的钟声。古人把一夜分成五更，五更就是快天亮的时候。", "en": "wǔ gēng zhōng: the bell just before dawn. People once split the night into five watches; the fifth watch is just before daybreak."}, {"line": 3, "start": 0, "end": 2, "zh": "花底：花丛下。", "en": "huā dǐ: beneath the flowers."}, {"line": 3, "start": 2, "end": 4, "zh": "离愁：分别的愁苦。", "en": "lí chóu: the sorrow of parting."}, {"line": 3, "start": 4, "end": 7, "zh": "三月雨：暮春三月的雨，花被雨打落。", "en": "sān yuè yǔ: rain in the third month, late spring, when rain knocks the flowers down."}, {"line": 4, "start": 0, "end": 7, "zh": "无情不似多情苦：没有感情的人，不像多情的人这样痛苦。", "en": "wú qíng bú sì duō qíng kǔ: those without feelings do not suffer the way those with deep feelings do."}, {"line": 5, "start": 0, "end": 2, "zh": "一寸：一寸长的心，指人的心。古人说心只有方寸那么大。", "en": "yí cùn: an inch, meaning the heart. People of old said the heart is only about an inch across."}, {"line": 5, "start": 4, "end": 7, "zh": "千万缕：千丝万缕，像无数根丝线，指数不清的愁思。", "en": "qiān wàn lǚ: thousands of threads, meaning countless sad thoughts."}, {"line": 6, "start": 0, "end": 4, "zh": "天涯地角：天的边、地的角，最远的地方。", "en": "tiān yá dì jiǎo: the edge of the sky and the corner of the earth, the farthest places there are."}, {"line": 6, "start": 4, "end": 7, "zh": "有穷时：总有到头的时候。", "en": "yǒu qióng shí: there is a point where they end."}, {"line": 7, "start": 4, "end": 7, "zh": "无尽处：没有尽头。", "en": "wú jìn chù: no end at all."}], "readings": [{"line": 5, "pos": 2, "char": "还", "pinyin": "hái", "zh": "“一寸还成千万缕”的“还”，意思是“却、竟然”，现在多读 hái；也有读本读作 huán（还原、变成）。", "en": "In this line the character means yet or even so, and is usually read hái today. Some readers read it huán, taking it as turning into."}], "speak": ["绿杨芳草长亭路", "年少抛人容易去", "楼头残梦五更钟", "花底离愁三月雨", "无情不嗣多情苦", "一寸还成千万缕", "天涯地角有穷时", "只有相思无尽处"], "speakTitle": "玉楼春，春恨。晏殊。", "sample": "绿杨芳草长亭路"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

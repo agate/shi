@@ -1,0 +1,499 @@
+{
+ "id": "9da0cbe5-52d4-4efc-8be2-2f78f1a8f097",
+ "kind": "shi",
+ "title": "客至",
+ "title_en": "A Guest Arrives",
+ "author": "杜甫",
+ "author_en": "Du Fu",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言律诗",
+  "en": "seven-character regulated verse"
+ },
+ "lines": [
+  [
+   [
+    "舍",
+    "shè"
+   ],
+   [
+    "南",
+    "nán"
+   ],
+   [
+    "舍",
+    "shè"
+   ],
+   [
+    "北",
+    "běi"
+   ],
+   [
+    "皆",
+    "jiē"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "水",
+    "shuǐ"
+   ]
+  ],
+  [
+   [
+    "但",
+    "dàn"
+   ],
+   [
+    "见",
+    "jiàn"
+   ],
+   [
+    "群",
+    "qún"
+   ],
+   [
+    "鸥",
+    "ōu"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "来",
+    "lái"
+   ]
+  ],
+  [
+   [
+    "花",
+    "huā"
+   ],
+   [
+    "径",
+    "jìng"
+   ],
+   [
+    "不",
+    "bù"
+   ],
+   [
+    "曾",
+    "céng"
+   ],
+   [
+    "缘",
+    "yuán"
+   ],
+   [
+    "客",
+    "kè"
+   ],
+   [
+    "扫",
+    "sǎo"
+   ]
+  ],
+  [
+   [
+    "蓬",
+    "péng"
+   ],
+   [
+    "门",
+    "mén"
+   ],
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "始",
+    "shǐ"
+   ],
+   [
+    "为",
+    "wèi"
+   ],
+   [
+    "君",
+    "jūn"
+   ],
+   [
+    "开",
+    "kāi"
+   ]
+  ],
+  [
+   [
+    "盘",
+    "pán"
+   ],
+   [
+    "飧",
+    "sūn"
+   ],
+   [
+    "市",
+    "shì"
+   ],
+   [
+    "远",
+    "yuǎn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "兼",
+    "jiān"
+   ],
+   [
+    "味",
+    "wèi"
+   ]
+  ],
+  [
+   [
+    "樽",
+    "zūn"
+   ],
+   [
+    "酒",
+    "jiǔ"
+   ],
+   [
+    "家",
+    "jiā"
+   ],
+   [
+    "贫",
+    "pín"
+   ],
+   [
+    "只",
+    "zhǐ"
+   ],
+   [
+    "旧",
+    "jiù"
+   ],
+   [
+    "醅",
+    "pēi"
+   ]
+  ],
+  [
+   [
+    "肯",
+    "kěn"
+   ],
+   [
+    "与",
+    "yǔ"
+   ],
+   [
+    "邻",
+    "lín"
+   ],
+   [
+    "翁",
+    "wēng"
+   ],
+   [
+    "相",
+    "xiāng"
+   ],
+   [
+    "对",
+    "duì"
+   ],
+   [
+    "饮",
+    "yǐn"
+   ]
+  ],
+  [
+   [
+    "隔",
+    "gé"
+   ],
+   [
+    "篱",
+    "lí"
+   ],
+   [
+    "呼",
+    "hū"
+   ],
+   [
+    "取",
+    "qǔ"
+   ],
+   [
+    "尽",
+    "jìn"
+   ],
+   [
+    "余",
+    "yú"
+   ],
+   [
+    "杯",
+    "bēi"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "通行本第五句作“盘飧市远无兼味”，这里的底本作“盘餐”。末句通行本作“尽余杯”，底本作“桮”，是“杯”的古字。",
+  "en": "The commonly taught text has pán sūn (food on the plates) in the fifth line; the source text has pán cān, a word with a similar meaning. In the last line, the source writes bēi (cup) with an old form of the character."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "舍",
+   "pinyin": "shè",
+   "zh": "“舍”在这里是房子的意思，读 shè，不读 shě（舍弃）。",
+   "en": "Here the character means a house, so it is read shè, not shě (to give up)."
+  },
+  {
+   "line": 0,
+   "pos": 2,
+   "char": "舍",
+   "pinyin": "shè",
+   "zh": "同上，读 shè。",
+   "en": "Same as before: read shè."
+  },
+  {
+   "line": 3,
+   "pos": 4,
+   "char": "为",
+   "pinyin": "wèi",
+   "zh": "“为君开”的“为”是“为了、替”的意思，读 wèi。",
+   "en": "Here the character means for, so it is read wèi."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 1,
+   "zh": "舍：房子，这里指杜甫在成都的草堂。",
+   "en": "shè: a house, here Du Fu's thatched cottage in Chengdu."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 5,
+   "zh": "皆：都。",
+   "en": "jiē: all, everywhere."
+  },
+  {
+   "line": 0,
+   "start": 5,
+   "end": 7,
+   "zh": "春水：春天上涨的河水。",
+   "en": "chūn shuǐ: the river water that rises in spring."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "但见：只看见。",
+   "en": "dàn jiàn: only seeing."
+  },
+  {
+   "line": 1,
+   "start": 2,
+   "end": 4,
+   "zh": "群鸥：一群群的鸥鸟。",
+   "en": "qún ōu: flocks of gulls."
+  },
+  {
+   "line": 2,
+   "start": 0,
+   "end": 2,
+   "zh": "花径：长满花草的小路。",
+   "en": "huā jìng: a little path lined with flowers."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "不曾：从来没有。",
+   "en": "bù céng: never once."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 7,
+   "zh": "缘客扫：因为有客人来而打扫。缘，因为。",
+   "en": "yuán kè sǎo: swept because a guest was coming. Yuán means because of."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "蓬门：用蓬草编成的门，指简陋的家门。",
+   "en": "péng mén: a gate woven from weeds, meaning a poor, simple gate."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "今始：今天才第一次。",
+   "en": "jīn shǐ: only today, for the first time."
+  },
+  {
+   "line": 3,
+   "start": 4,
+   "end": 7,
+   "zh": "为君开：为你打开。君，对客人的尊称。",
+   "en": "wèi jūn kāi: opened for you. Jūn is a polite word for the guest."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 2,
+   "zh": "盘飧：盘子里的饭菜。飧，熟食。",
+   "en": "pán sūn: the food on the plates. Sūn means cooked food."
+  },
+  {
+   "line": 4,
+   "start": 2,
+   "end": 4,
+   "zh": "市远：离集市很远，不方便买东西。",
+   "en": "shì yuǎn: the market is far away, so it is hard to buy things."
+  },
+  {
+   "line": 4,
+   "start": 4,
+   "end": 7,
+   "zh": "无兼味：没有两样以上的菜，指菜很少。",
+   "en": "wú jiān wèi: not even two dishes, meaning very little food."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 2,
+   "zh": "樽酒：酒杯里的酒。樽，古代盛酒的器具。",
+   "en": "zūn jiǔ: the wine in the jar. Zūn is an old wine vessel."
+  },
+  {
+   "line": 5,
+   "start": 5,
+   "end": 7,
+   "zh": "旧醅：以前酿的、没有过滤的陈酒。醅，没过滤的酒。古人认为新酒更好，所以这里是自谦。",
+   "en": "jiù pēi: old, unfiltered home-made wine. People then liked new wine best, so this is a humble way to speak."
+  },
+  {
+   "line": 6,
+   "start": 0,
+   "end": 2,
+   "zh": "肯与：愿不愿意和……。这是问客人的话。",
+   "en": "kěn yǔ: would you be willing to, with. This is a question to the guest."
+  },
+  {
+   "line": 6,
+   "start": 2,
+   "end": 4,
+   "zh": "邻翁：邻居老人。",
+   "en": "lín wēng: the old man next door."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "隔篱：隔着篱笆。",
+   "en": "gé lí: across the fence."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "呼取：叫来。取，用在动词后面，没有实在意思。",
+   "en": "hū qǔ: to call over. Qǔ after a verb adds no real meaning here."
+  },
+  {
+   "line": 7,
+   "start": 4,
+   "end": 7,
+   "zh": "尽余杯：把剩下的酒喝完。",
+   "en": "jìn yú bēi: to finish the rest of the wine."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "草堂南边北边，到处都是春天的河水，",
+   "en": "South and north of my cottage, spring waters are everywhere,"
+  },
+  {
+   "zh": "只看见成群的鸥鸟天天飞来。",
+   "en": "and all I see are flocks of gulls coming day after day."
+  },
+  {
+   "zh": "长满花草的小路，从来没有因为客人来而打扫过，",
+   "en": "The flower path has never been swept for a guest before;"
+  },
+  {
+   "zh": "简陋的家门，今天才第一次为你打开。",
+   "en": "today my rough gate opens for the first time, for you."
+  },
+  {
+   "zh": "离集市太远，盘子里的菜没几样，",
+   "en": "The market is far, so there are hardly any dishes on the plates;"
+  },
+  {
+   "zh": "家里穷，只有自家酿的旧酒。",
+   "en": "my house is poor, so there is only old home-made wine."
+  },
+  {
+   "zh": "你愿意和隔壁的老人一起喝吗？",
+   "en": "Would you like to drink with the old man next door?"
+  },
+  {
+   "zh": "愿意的话，我就隔着篱笆喊他过来，把剩下的酒喝完。",
+   "en": "If so, I will call him over the fence, and we will finish the wine."
+  }
+ ],
+ "background": {
+  "zh": "这首诗写于唐肃宗上元二年（761年）春天。那时杜甫经过多年逃难，终于在成都西郊的浣花溪边盖了草堂，生活暂时安定下来。原诗题下有杜甫自己的小注：“喜崔明府相过”，意思是高兴崔县令来看望我。明府是对县令的尊称。一说这位崔明府是杜甫母亲那边的亲戚。",
+  "en": "Du Fu wrote this poem in the spring of 761. After years of running from war, he had finally built a thatched cottage by the Huanhua Stream on the west side of Chengdu, and his life was settled for a while. Under the title, Du Fu added his own note: glad that Magistrate Cui came to visit. Mingfu was a polite word for a county magistrate. One account says Magistrate Cui was a relative on Du Fu's mother's side."
+ },
+ "author_note": {
+  "zh": "杜甫（712—770），唐代大诗人，被称为“诗圣”。他的诗多写战乱和百姓的苦难，读起来沉重。可在成都草堂住的那几年，他也写了不少轻松、温暖的小诗，写花草、邻居和朋友。这首《客至》就是其中一首。",
+  "en": "Du Fu (712–770) was a great Tang poet, called the Sage of Poetry. Many of his poems tell of war and the suffering of ordinary people, and they feel heavy. But in the years at his Chengdu cottage he also wrote light, warm poems about flowers, neighbours and friends. A Guest Arrives is one of them."
+ },
+ "appreciation": {
+  "zh": "开头两句写草堂四周都是春水，只有鸥鸟天天来，说明这里很少有人来，主人有点寂寞。三四句一下子变得热闹：花间小路从没为客人扫过，柴门今天第一次为你打开。一个“今始”，写出了主人有多高兴。五六句是主人不好意思地道歉：离集市远，菜少；家里穷，只有旧酒。最后两句最生动：主人问客人，要不要叫隔壁老人一起喝？然后隔着篱笆就喊起来了。整首诗像一段家常小视频，朴素、真诚，充满了人情味。",
+  "en": "The first two lines show spring water all around the cottage, and only gulls come by each day. Hardly anyone visits, and the host is a little lonely. Lines three and four suddenly grow lively. The flower path has never been swept for a guest, and the gate opens for the first time today, for you. The words only today show how happy the host is. Lines five and six are a shy apology. The market is far, so there is little food; the family is poor, so there is only old wine. The last two lines are the liveliest. The host asks the guest whether to invite the old man next door, and then calls him over the fence. The whole poem is like a little home video: plain, honest and full of warmth."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "spring"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "friendship",
+   "hospitality",
+   "home",
+   "countryside"
+  ]
+ },
+ "uncertain": []
+}

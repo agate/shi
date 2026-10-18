@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-lang="en" data-base="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>山行 · 杜牧 — 诗</title>
+    <meta name="description" content="山行 · 杜牧 — Mountain Walk by Du Mu: pinyin, notes, translation and background." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="../../assets/scroll.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" />
+    <!-- Chinese UI text: LXGW WenKai from jsDelivr. Google Fonts only has the Traditional (TC) build, whose punctuation sits mid-line. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-regular.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/lxgwwenkai-bold.css" />
+    <script>
+      window.SHI_FONTS = [{"key": "hwmc", "family": "Huiwen-mincho", "zh": "汇文明朝体", "en": "Huiwen Mincho", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hwmct@3.0.0/dist/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"}, {"key": "jxzk", "family": "jiangxizhuokai", "zh": "江西拙楷", "en": "Jiangxi Zhuokai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/jxzk@3.0.0/dist/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7/result.css"}, {"key": "crgk", "family": "chengrongguangke", "zh": "程荣光刻楷", "en": "Cheng Rongguang Kekai", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/crgkk@2.0.0/dist/%E7%A8%8B%E8%8D%A3%E5%85%89%E5%88%BB%E6%A5%B7/result.css"}, {"key": "kx", "family": "nzgrKangxi", "zh": "康熙字典体", "en": "Kangxi Dictionary", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/rzjkxzdmh@3.0.0/dist/nzgrKangxi/result.css"}, {"key": "twk", "family": "TW-Kai-Aligned", "zh": "全字库正楷体", "en": "TW-Kai", "css": "https://cdn.jsdelivr.net/npm/@xiao-xue-seng/tw-kai-aligned@1.0.3/index.css"}, {"key": "zmxs", "family": "Zhi Mang Xing", "zh": "志莽行书", "en": "Zhi Mang Xing", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/zqzmxs@3.0.0/dist/%E9%92%9F%E9%BD%90%E5%BF%97%E8%8E%BD%E8%A1%8C%E4%B9%A6/result.css"}, {"key": "lc", "family": "Long Cang", "zh": "龙藏体", "en": "Long Cang", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/yzklct@3.0.0/dist/%E6%9C%89%E5%AD%97%E5%BA%93%E9%BE%99%E8%97%8F%E4%BD%93/result.css"}, {"key": "hlxs", "family": "hongleixingshu", "zh": "鸿雷行书", "en": "Honglei Xingshu", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/hlxsjt@3.0.0/dist/%E9%B8%BF%E9%9B%B7%E8%A1%8C%E4%B9%A6%E7%AE%80%E4%BD%93/result.css"}, {"key": "qtbf", "family": "qiantubifengshouxieti", "zh": "千图笔锋手写体", "en": "Qiantu Bifeng", "css": "https://cdn.jsdelivr.net/npm/@chinese-fonts/qtbfsxt@3.0.0/dist/%E5%8D%83%E5%9B%BE%E7%AC%94%E9%94%8B%E6%89%8B%E5%86%99%E4%BD%93/result.css"}];
+      // Same language mechanism as honghao.me: ?lang= wins, then the saved choice (shared across honghao.me),
+      // then the browser. The saved poem font and pinyin setting are applied here too, before first paint.
+      (function () {
+        var d = document.documentElement, get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var lang = new URLSearchParams(location.search).get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = get('lang');
+        if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+        d.dataset.lang = lang;
+        d.lang = lang === 'zh' ? 'zh-CN' : 'en';
+        var py = new URLSearchParams(location.search).get('pinyin');
+        if (py === '1' || (py !== '0' && get('shi.pinyin') === '1')) d.classList.add('py-all');
+        var key = get('shi.font'), f = window.SHI_FONTS[0];
+        window.SHI_FONTS.forEach(function (x) { if (x.key === key) f = x; });
+        document.write('<link id="font-' + f.key + '" rel="stylesheet" href="' + f.css + '">');
+        d.style.setProperty('--poem', "'" + f.family + "', 'LXGW WenKai', 'Songti SC', serif");
+        d.dataset.font = f.key;
+      })();
+    </script>
+    <link rel="stylesheet" href="../../assets/style.css" />
+  </head>
+  <body class="has-bar">
+    <header class="wrap">
+      <nav class="mono">
+        <a href="../../" class="home"><span lang="en">Shi · Tang &amp; Song poems</span><span lang="zh">诗 · 唐诗宋词精读</span></a>
+        <div class="links">
+          <a href="../../#search"><span lang="en">Search</span><span lang="zh">搜索</span></a>
+          <span class="toggle" role="group" aria-label="Language">
+            <button type="button" data-set-lang="en">EN</button>
+            <button type="button" data-set-lang="zh">中</button>
+          </span>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <article class="poem" style="--size:30px">
+        <p class="mono"><span lang="en">No. 77 · Tang poem · seven-character quatrain</span><span lang="zh">第 77 首 · 唐诗 · 七言绝句</span></p>
+        <h1>山行</h1>
+        <p class="by">杜牧<span class="mono"><span lang="en">Du Mu · Tang</span><span lang="zh">唐</span></span></p>
+        <p class="en-title mono" lang="en">Mountain Walk</p>
+        <p class="en-title mono" lang="zh">&nbsp;</p>
+        <div class="lines"><p class="ln"><span class="c gl" data-l="0" data-p="0"><i>yuǎn</i><b>远</b></span><span class="c gl" data-l="0" data-p="1"><i>shàng</i><b>上</b></span><span class="c gl" data-l="0" data-p="2"><i>hán</i><b>寒</b></span><span class="c gl" data-l="0" data-p="3"><i>shān</i><b>山</b></span><span class="c gl" data-l="0" data-p="4"><i>shí</i><b>石</b></span><span class="c gl" data-l="0" data-p="5"><i>jìng</i><b>径</b></span><span class="c gl rd" data-l="0" data-p="6"><i>xié</i><b>斜</b></span></p><p class="ln"><span class="c gl" data-l="1" data-p="0"><i>bái</i><b>白</b></span><span class="c gl" data-l="1" data-p="1"><i>yún</i><b>云</b></span><span class="c gl" data-l="1" data-p="2"><i>shēng</i><b>生</b></span><span class="c gl rd" data-l="1" data-p="3"><i>chù</i><b>处</b></span><span class="c" data-l="1" data-p="4"><i>yǒu</i><b>有</b></span><span class="c gl" data-l="1" data-p="5"><i>rén</i><b>人</b></span><span class="c gl" data-l="1" data-p="6"><i>jiā</i><b>家</b></span></p><p class="ln"><span class="c" data-l="2" data-p="0"><i>tíng</i><b>停</b></span><span class="c" data-l="2" data-p="1"><i>chē</i><b>车</b></span><span class="c gl" data-l="2" data-p="2"><i>zuò</i><b>坐</b></span><span class="c" data-l="2" data-p="3"><i>ài</i><b>爱</b></span><span class="c gl" data-l="2" data-p="4"><i>fēng</i><b>枫</b></span><span class="c gl" data-l="2" data-p="5"><i>lín</i><b>林</b></span><span class="c gl" data-l="2" data-p="6"><i>wǎn</i><b>晚</b></span></p><p class="ln"><span class="c gl" data-l="3" data-p="0"><i>shuāng</i><b>霜</b></span><span class="c gl" data-l="3" data-p="1"><i>yè</i><b>叶</b></span><span class="c gl" data-l="3" data-p="2"><i>hóng</i><b>红</b></span><span class="c gl" data-l="3" data-p="3"><i>yú</i><b>于</b></span><span class="c gl" data-l="3" data-p="4"><i>èr</i><b>二</b></span><span class="c gl" data-l="3" data-p="5"><i>yuè</i><b>月</b></span><span class="c gl" data-l="3" data-p="6"><i>huā</i><b>花</b></span></p></div>
+        <p class="tap-hint mono"><span lang="en">Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.</span><span lang="zh">点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。</span></p>
+        
+      </article>
+      <section class="sec">
+        <div class="num mono">01</div>
+        <div>
+          <h2><span lang="en">Line by line</span><span lang="zh">逐句翻译</span></h2>
+          <ol class="tr"><li><span class="o">远上寒山石径斜</span><span lang="en">A winding stone path climbs far up the autumn mountain.</span><span lang="zh">一条弯弯的石头小路，伸向远处深秋的山上。</span></li><li><span class="o">白云生处有人家</span><span lang="en">Where the white clouds rise, there are a few homes.</span><span lang="zh">在白云升起的地方，有几户人家。</span></li><li><span class="o">停车坐爱枫林晚</span><span lang="en">I stop my carriage, because I love the maple woods at dusk.</span><span lang="zh">我停下车，只因为喜爱傍晚的枫树林。</span></li><li><span class="o">霜叶红于二月花</span><span lang="en">The frosted leaves are redder than the flowers of spring.</span><span lang="zh">经霜的枫叶，比二月的春花还要红。</span></li></ol>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">02</div>
+        <div>
+          <h2><span lang="en">Words</span><span lang="zh">字词注释</span></h2>
+          <dl class="gloss"><div><dt>远上<span class="mono">yuǎn shàng</span></dt><dd><span lang="en">yuǎn shàng: climbing far up.</span><span lang="zh">远上：向远处、向高处走上去。</span></dd></div><div><dt>寒山<span class="mono">hán shān</span></dt><dd><span lang="en">hán shān: a cold mountain, a mountain in autumn.</span><span lang="zh">寒山：秋天的山。</span></dd></div><div><dt>石径<span class="mono">shí jìng</span></dt><dd><span lang="en">shí jìng: a narrow stone path.</span><span lang="zh">石径：石头铺成的小路。</span></dd></div><div><dt>斜<span class="mono">xié</span></dt><dd><span lang="en">xié: slanting, winding up into the distance.</span><span lang="zh">斜：弯弯曲曲地伸向远方。</span></dd></div><div><dt>白云生处<span class="mono">bái yún shēng chù</span></dt><dd><span lang="en">bái yún shēng chù: where white clouds rise, high up the mountain. Some versions say &quot;deep in the white clouds&quot; instead.</span><span lang="zh">白云生处：白云升起的地方，就是山的高处。有的版本作“白云深处”。</span></dd></div><div><dt>人家<span class="mono">rén jiā</span></dt><dd><span lang="en">rén jiā: homes where people live.</span><span lang="zh">人家：住户，有人住的房子。</span></dd></div><div><dt>坐<span class="mono">zuò</span></dt><dd><span lang="en">zuò: because. Here it does not mean to sit.</span><span lang="zh">坐：因为。不是“坐下”的意思。</span></dd></div><div><dt>枫林晚<span class="mono">fēng lín wǎn</span></dt><dd><span lang="en">fēng lín wǎn: the maple woods at dusk.</span><span lang="zh">枫林晚：傍晚时的枫树林。</span></dd></div><div><dt>霜叶<span class="mono">shuāng yè</span></dt><dd><span lang="en">shuāng yè: maple leaves turned red by autumn frost.</span><span lang="zh">霜叶：经过秋霜变红的枫叶。</span></dd></div><div><dt>红于<span class="mono">hóng yú</span></dt><dd><span lang="en">hóng yú: redder than.</span><span lang="zh">红于：比……还要红。</span></dd></div><div><dt>二月花<span class="mono">èr yuè huā</span></dt><dd><span lang="en">èr yuè huā: flowers of the second lunar month, in spring.</span><span lang="zh">二月花：农历二月春天开的花。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">03</div>
+        <div>
+          <h2><span lang="en">How to read it</span><span lang="zh">读音</span></h2>
+          <dl class="gloss"><div><dt>斜<span class="mono">xié</span></dt><dd><span lang="en">Textbooks read this character as xié. In old pronunciation it was xiá, rhyming with jiā and huā.</span><span lang="zh">斜，现在课本读 xié。古音读 xiá，和“家、花”押韵。</span></dd></div><div><dt>处<span class="mono">chù</span></dt><dd><span lang="en">Here this character is read chù, meaning a place.</span><span lang="zh">处，这里读 chù，指地方。</span></dd></div></dl>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">04</div>
+        <div>
+          <h2><span lang="en">Background</span><span lang="zh">创作背景</span></h2>
+          <div class="prose"><p lang="en">This poem is about the views on a walk in the mountains in late autumn. The title, Shan Xing, simply means travelling in the mountains. Du Mu rode a carriage up the mountain. He saw the winding stone path, homes up near the clouds, and a whole forest of maples glowing red at dusk, so he stopped to enjoy it. We no longer know which year, or which mountain, the poem was written about.</p><p lang="zh">这首诗写的是深秋时节在山里走路看到的景色。题目“山行”，就是在山里行走。杜牧坐着车上山，看到弯弯的石路、山顶的人家，还有傍晚一片火红的枫林，于是停下车来欣赏。这首诗具体写于哪一年、哪座山，已经说不清了。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">05</div>
+        <div>
+          <h2><span lang="en">The poet</span><span lang="zh">作者</span></h2>
+          <div class="prose"><p lang="en">Du Mu (803–852) was a poet of the late Tang. His poems are fresh and bright, and he was best at seven-character quatrains. With a few strokes he could paint a whole scene. People pair him with Li Shangyin as the &quot;Little Li and Du&quot;.</p><p lang="zh">杜牧（803—852），晚唐诗人，字牧之。他的诗清新俊朗，尤其擅长七言绝句，写景常常几笔就画出一幅画。人们把他和李商隐并称“小李杜”。</p></div>
+        </div>
+      </section>
+      <section class="sec">
+        <div class="num mono">06</div>
+        <div>
+          <h2><span lang="en">The mood</span><span lang="zh">意境</span></h2>
+          <div class="prose"><p lang="en">The first two lines move like a camera from low to high. A stone path winds into the mountain, and at the very top, among white clouds, people actually live. In the third line the poet stops his carriage, for a simple reason: he loves these maple woods at dusk too much to go on. The last line is the brightest part of the poem. Leaves touched by frost are even redder than spring flowers. Many poets find autumn sad. Du Mu sees how warm and beautiful it is, and his poem warms the reader&#x27;s heart too.</p><p lang="zh">前两句像镜头从下往上移：一条石路弯弯曲曲伸进山里，最高处白云飘飘，竟然还住着人家。第三句诗人停下了车，原因很简单：太喜欢这傍晚的枫林了。最后一句是全诗最亮的地方：被霜打过的枫叶，比春天的花还要红。很多人写秋天会觉得悲凉，杜牧却看到了秋天的热烈和美丽，读起来让人心里也暖暖的。</p></div>
+        </div>
+      </section>
+      <div class="pager"><a href="../../p/jiaren/"><span class="mono"><span lang="en">← Previous</span><span lang="zh">← 上一首</span></span><b>佳人</b></a><a href="../../p/ziyewuge-qiuge/"><span class="mono"><span lang="en">Next →</span><span lang="zh">下一首 →</span></span><b>子夜吴歌·秋歌</b></a></div>
+    </main>
+    <div class="bar" role="toolbar" aria-label="Reading tools">
+      <div class="in">
+        <button type="button" id="btn-pinyin" aria-pressed="false"><span lang="en">Pinyin</span><span lang="zh">拼音</span><span class="mono"><span lang="en">show all</span><span lang="zh">全部显示</span></span></button>
+        <button type="button" id="btn-font"><span lang="en">Font</span><span lang="zh">字体</span><span class="mono"><span lang="en">change</span><span lang="zh">换字体</span></span></button>
+        <button type="button" id="btn-speak" aria-pressed="false"><span lang="en">Listen</span><span lang="zh">朗读</span><span class="mono"><span lang="en">read aloud</span><span lang="zh">读给我听</span></span></button>
+      </div>
+    </div>
+    <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="shade"></div>
+      <div class="panel"><div class="in">
+        <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
+        <div class="body"></div>
+      </div></div>
+    </div>
+    <script type="application/json" id="poem-data">{"lines": [[["远", "yuǎn"], ["上", "shàng"], ["寒", "hán"], ["山", "shān"], ["石", "shí"], ["径", "jìng"], ["斜", "xié"]], [["白", "bái"], ["云", "yún"], ["生", "shēng"], ["处", "chù"], ["有", "yǒu"], ["人", "rén"], ["家", "jiā"]], [["停", "tíng"], ["车", "chē"], ["坐", "zuò"], ["爱", "ài"], ["枫", "fēng"], ["林", "lín"], ["晚", "wǎn"]], [["霜", "shuāng"], ["叶", "yè"], ["红", "hóng"], ["于", "yú"], ["二", "èr"], ["月", "yuè"], ["花", "huā"]]], "glosses": [{"line": 0, "start": 0, "end": 2, "zh": "远上：向远处、向高处走上去。", "en": "yuǎn shàng: climbing far up."}, {"line": 0, "start": 2, "end": 4, "zh": "寒山：秋天的山。", "en": "hán shān: a cold mountain, a mountain in autumn."}, {"line": 0, "start": 4, "end": 6, "zh": "石径：石头铺成的小路。", "en": "shí jìng: a narrow stone path."}, {"line": 0, "start": 6, "end": 7, "zh": "斜：弯弯曲曲地伸向远方。", "en": "xié: slanting, winding up into the distance."}, {"line": 1, "start": 0, "end": 4, "zh": "白云生处：白云升起的地方，就是山的高处。有的版本作“白云深处”。", "en": "bái yún shēng chù: where white clouds rise, high up the mountain. Some versions say \"deep in the white clouds\" instead."}, {"line": 1, "start": 5, "end": 7, "zh": "人家：住户，有人住的房子。", "en": "rén jiā: homes where people live."}, {"line": 2, "start": 2, "end": 3, "zh": "坐：因为。不是“坐下”的意思。", "en": "zuò: because. Here it does not mean to sit."}, {"line": 2, "start": 4, "end": 7, "zh": "枫林晚：傍晚时的枫树林。", "en": "fēng lín wǎn: the maple woods at dusk."}, {"line": 3, "start": 0, "end": 2, "zh": "霜叶：经过秋霜变红的枫叶。", "en": "shuāng yè: maple leaves turned red by autumn frost."}, {"line": 3, "start": 2, "end": 4, "zh": "红于：比……还要红。", "en": "hóng yú: redder than."}, {"line": 3, "start": 4, "end": 7, "zh": "二月花：农历二月春天开的花。", "en": "èr yuè huā: flowers of the second lunar month, in spring."}], "readings": [{"line": 0, "pos": 6, "char": "斜", "pinyin": "xié", "zh": "斜，现在课本读 xié。古音读 xiá，和“家、花”押韵。", "en": "Textbooks read this character as xié. In old pronunciation it was xiá, rhyming with jiā and huā."}, {"line": 1, "pos": 3, "char": "处", "pinyin": "chù", "zh": "处，这里读 chù，指地方。", "en": "Here this character is read chù, meaning a place."}], "speak": ["远上寒山石径斜", "白云生处有人家", "停车坐爱枫林晚", "霜叶红于二月花"], "speakTitle": "山行。杜牧。", "sample": "远上寒山石径斜"}</script>
+    <footer class="wrap mono">
+      <!-- Home link is relative ("/") so it follows the main domain if it ever changes; the label shows the live host. -->
+      <div class="foot">
+        <a href="/">← <span data-host>honghao.me</span></a> ·
+        <span lang="en">Made by <a href="/">Hong, Hao</a> · notes written with AI, reviewed against sources · poem texts from the chinese-poetry corpus (MIT)</span>
+        <span lang="zh"><a href="/">Hong, Hao</a> 制作 · 精读由 AI 撰写并按资料核对 · 诗词原文来自 chinese-poetry 数据集（MIT 许可）</span>
+        · <a href="https://github.com/agate/shi">github.com/agate/shi</a>
+      </div>
+    </footer>
+    <script src="../../assets/app.js"></script>
+  </body>
+</html>

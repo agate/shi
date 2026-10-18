@@ -1,0 +1,399 @@
+{
+ "id": "ci-9e10716009c4",
+ "kind": "ci",
+ "title": "点绛唇·丁未冬过吴松作",
+ "title_en": "Dian Jiang Chun: Written Passing Wusong in the Winter of the Dingwei Year",
+ "author": "姜夔",
+ "author_en": "Jiang Kui",
+ "dynasty": "song",
+ "form": {
+  "zh": "词，词牌《点绛唇》，双调四十一字",
+  "en": "ci to the tune Dian Jiang Chun, 41 characters in two stanzas"
+ },
+ "lines": [
+  [
+   [
+    "燕",
+    "yān"
+   ],
+   [
+    "雁",
+    "yàn"
+   ],
+   [
+    "无",
+    "wú"
+   ],
+   [
+    "心",
+    "xīn"
+   ]
+  ],
+  [
+   [
+    "太",
+    "tài"
+   ],
+   [
+    "湖",
+    "hú"
+   ],
+   [
+    "西",
+    "xī"
+   ],
+   [
+    "畔",
+    "pàn"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "去",
+    "qù"
+   ]
+  ],
+  [
+   [
+    "数",
+    "shù"
+   ],
+   [
+    "峰",
+    "fēng"
+   ],
+   [
+    "清",
+    "qīng"
+   ],
+   [
+    "苦",
+    "kǔ"
+   ]
+  ],
+  [
+   [
+    "商",
+    "shāng"
+   ],
+   [
+    "略",
+    "lüè"
+   ],
+   [
+    "黄",
+    "huáng"
+   ],
+   [
+    "昏",
+    "hūn"
+   ],
+   [
+    "雨",
+    "yǔ"
+   ]
+  ],
+  [
+   [
+    "第",
+    "dì"
+   ],
+   [
+    "四",
+    "sì"
+   ],
+   [
+    "桥",
+    "qiáo"
+   ],
+   [
+    "边",
+    "biān"
+   ]
+  ],
+  [
+   [
+    "拟",
+    "nǐ"
+   ],
+   [
+    "共",
+    "gòng"
+   ],
+   [
+    "天",
+    "tiān"
+   ],
+   [
+    "随",
+    "suí"
+   ],
+   [
+    "住",
+    "zhù"
+   ]
+  ],
+  [
+   [
+    "今",
+    "jīn"
+   ],
+   [
+    "何",
+    "hé"
+   ],
+   [
+    "许",
+    "xǔ"
+   ]
+  ],
+  [
+   [
+    "凭",
+    "píng"
+   ],
+   [
+    "阑",
+    "lán"
+   ],
+   [
+    "怀",
+    "huái"
+   ],
+   [
+    "古",
+    "gǔ"
+   ]
+  ],
+  [
+   [
+    "残",
+    "cán"
+   ],
+   [
+    "柳",
+    "liǔ"
+   ],
+   [
+    "参",
+    "cēn"
+   ],
+   [
+    "差",
+    "cī"
+   ],
+   [
+    "舞",
+    "wǔ"
+   ]
+  ]
+ ],
+ "stanza_breaks": [
+  4
+ ],
+ "text_note": {
+  "zh": "资料库原文作“凭栏怀古”，通行本多作“凭阑怀古”。“阑”和“栏”都是栏杆的意思。",
+  "en": "The corpus text writes the word for railing in line eight with the character lán meaning fence; most standard editions use another character also read lán. Both mean a railing."
+ },
+ "readings": [
+  {
+   "line": 0,
+   "pos": 0,
+   "char": "燕",
+   "pinyin": "yān",
+   "zh": "“燕”在这里一般读 yān，指北方的燕地，“燕雁”就是从北方飞来的大雁。一说读 yàn，“燕雁”指燕子和大雁。",
+   "en": "Here this character is usually read yān, the old name of the north, so the phrase means wild geese from the north. Some read it yàn, swallows, so the phrase would mean swallows and geese."
+  },
+  {
+   "line": 2,
+   "pos": 0,
+   "char": "数",
+   "pinyin": "shù",
+   "zh": "“数”在这里读 shù，意思是几座。",
+   "en": "Here this character is read shù, meaning a few."
+  },
+  {
+   "line": 8,
+   "pos": 2,
+   "char": "参",
+   "pinyin": "cēn",
+   "zh": "“参差”读 cēn cī，意思是长短高低不齐。",
+   "en": "The word cēn cī means uneven, of different lengths."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 0,
+   "end": 2,
+   "zh": "燕雁：从北方飞来的大雁。燕，古代地名，在今天河北、北京一带，代指北方。",
+   "en": "yān yàn: wild geese from the north. Yān is an old name for the land around today's Hebei and Beijing, standing for the north."
+  },
+  {
+   "line": 0,
+   "start": 2,
+   "end": 4,
+   "zh": "无心：没有心事，自由自在。",
+   "en": "wú xīn: carefree, with nothing on its mind."
+  },
+  {
+   "line": 1,
+   "start": 0,
+   "end": 2,
+   "zh": "太湖：中国很大的湖，在今江苏、浙江交界处。",
+   "en": "tài hú: Lake Tai, a very large lake on the border of today's Jiangsu and Zhejiang."
+  },
+  {
+   "line": 1,
+   "start": 3,
+   "end": 4,
+   "zh": "畔：边。",
+   "en": "pàn: the shore, the side."
+  },
+  {
+   "line": 2,
+   "start": 2,
+   "end": 4,
+   "zh": "清苦：清冷、凄苦的样子。",
+   "en": "qīng kǔ: cold, bare and gloomy."
+  },
+  {
+   "line": 3,
+   "start": 0,
+   "end": 2,
+   "zh": "商略：商量，酝酿。这里说几座山好像在商量着下一场黄昏雨。",
+   "en": "shāng lüè: to talk it over, to get ready. The hills seem to be discussing an evening rain."
+  },
+  {
+   "line": 4,
+   "start": 0,
+   "end": 3,
+   "zh": "第四桥：桥名，在吴江城外，一说就是甘泉桥。",
+   "en": "dì sì qiáo: the Fourth Bridge, outside the town of Wujiang. One account says it is the Ganquan Bridge."
+  },
+  {
+   "line": 5,
+   "start": 0,
+   "end": 1,
+   "zh": "拟：打算，想要。",
+   "en": "nǐ: to plan, to wish."
+  },
+  {
+   "line": 5,
+   "start": 2,
+   "end": 4,
+   "zh": "天随：唐代诗人陆龟蒙，号天随子，曾隐居在吴江一带。姜夔很敬佩他。",
+   "en": "tiān suí: Lu Guimeng, a Tang poet who called himself Tiansuizi. He lived as a hermit near Wujiang, and Jiang Kui admired him."
+  },
+  {
+   "line": 6,
+   "start": 1,
+   "end": 3,
+   "zh": "何许：怎么样，在哪里。",
+   "en": "hé xǔ: what is it like, where is it."
+  },
+  {
+   "line": 7,
+   "start": 0,
+   "end": 2,
+   "zh": "凭阑：靠着栏杆。",
+   "en": "píng lán: leaning on a railing."
+  },
+  {
+   "line": 7,
+   "start": 2,
+   "end": 4,
+   "zh": "怀古：怀念古人古事。",
+   "en": "huái gǔ: thinking of people and things of the past."
+  },
+  {
+   "line": 8,
+   "start": 0,
+   "end": 2,
+   "zh": "残柳：冬天叶子快掉光的柳树。",
+   "en": "cán liǔ: willows in winter, with almost all their leaves gone."
+  },
+  {
+   "line": 8,
+   "start": 2,
+   "end": 4,
+   "zh": "参差：长短高低不齐。",
+   "en": "cēn cī: uneven, of different lengths."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "北方飞来的大雁没有心事，",
+   "en": "The wild geese from the north have no cares;"
+  },
+  {
+   "zh": "在太湖西岸跟着白云飞走了。",
+   "en": "by the west shore of Lake Tai they fly off with the clouds."
+  },
+  {
+   "zh": "几座山峰显得清冷凄苦，",
+   "en": "A few peaks look cold and bleak,"
+  },
+  {
+   "zh": "好像在商量着要下一场黄昏雨。",
+   "en": "as if talking over an evening rain."
+  },
+  {
+   "zh": "在第四桥边，",
+   "en": "By the Fourth Bridge,"
+  },
+  {
+   "zh": "我想和天随子一起住在这里。",
+   "en": "I wish I could live here with Tiansuizi."
+  },
+  {
+   "zh": "如今他在哪里呢？",
+   "en": "But where is he now?"
+  },
+  {
+   "zh": "我靠着栏杆，怀念古人，",
+   "en": "I lean on the railing, thinking of the past;"
+  },
+  {
+   "zh": "只看见残败的柳枝高高低低地在风中舞动。",
+   "en": "only the bare willows sway unevenly in the wind."
+  }
+ ],
+ "background": {
+  "zh": "题目里的“丁未”是宋孝宗淳熙十四年（1187年）。这年冬天，姜夔从湖州去苏州拜访诗人范成大，路上经过吴松（吴淞江边，在今江苏苏州吴江一带）。这里是唐代诗人陆龟蒙隐居过的地方。姜夔看着眼前冬天的湖山，想起自己敬佩的陆龟蒙，写下这首词。",
+  "en": "Dingwei in the title is the year 1187. That winter, Jiang Kui travelled from Huzhou to Suzhou to visit the poet Fan Chengda. On the way he passed Wusong, by the Wusong River near today's Wujiang in Suzhou, Jiangsu. The Tang poet Lu Guimeng had once lived there as a hermit. Looking at the winter lake and hills, Jiang Kui thought of Lu Guimeng, whom he admired, and wrote this lyric."
+ },
+ "author_note": {
+  "zh": "姜夔（约1155—约1221），号白石道人，南宋词人，也是音乐家，自己能作曲。他一生没有做官，靠朋友接济，到处漂泊。他的词清冷空灵，像淡淡的水墨画。他很羡慕陆龟蒙那样隐居江湖、自由自在的生活。",
+  "en": "Jiang Kui (about 1155 to about 1221), also called the White Stone Taoist, was a Southern Song lyric poet and a musician who wrote his own tunes. He never held office, lived on help from friends, and wandered from place to place. His lyrics are cool and airy, like pale ink paintings. He envied the free hermit life of Lu Guimeng by the lakes and rivers."
+ },
+ "appreciation": {
+  "zh": "上阕写景。大雁跟着云自由地飞走，词人却羡慕它们“无心”，暗暗说出自己心事重重。几座山清清冷冷，好像在商量着要不要下雨，山也有了人的心情。这个“商略”用得特别妙，把冬天傍晚阴沉的天色写活了。下阕写心事。他想和古人陆龟蒙一起住在这里，可是古人早已不在，只剩栏杆和几株残柳在风里乱舞。整首词冷清、安静，透着漂泊的孤单和对古人的怀念。",
+  "en": "The first stanza paints the scene. The geese fly freely off with the clouds, and the poet envies them for having no cares. Quietly, he tells us his own heart is heavy. A few hills stand cold and bleak, as if discussing whether to rain, so even the hills have feelings. The word for \"talking it over\" is especially clever. It brings the gloomy winter evening sky to life. The second stanza turns to his heart. He wishes he could live here with Lu Guimeng, but that poet is long gone. Only the railing and a few bare willows are left, swaying in the wind. The whole lyric is cold and quiet, full of a wanderer's loneliness and longing for the past."
+ },
+ "famous_lines": [
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "winter"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "lake",
+   "travel",
+   "loneliness",
+   "nostalgia",
+   "wild-geese"
+  ]
+ },
+ "uncertain": []
+}

@@ -1,0 +1,265 @@
+{
+ "id": "aa22a168-1c3f-48e1-b7d4-1aa143d66335",
+ "kind": "shi",
+ "title": "秋词",
+ "title_en": "Autumn Song",
+ "author": "刘禹锡",
+ "author_en": "Liu Yuxi",
+ "dynasty": "tang",
+ "form": {
+  "zh": "七言绝句",
+  "en": "seven-character quatrain"
+ },
+ "lines": [
+  [
+   [
+    "自",
+    "zì"
+   ],
+   [
+    "古",
+    "gǔ"
+   ],
+   [
+    "逢",
+    "féng"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "悲",
+    "bēi"
+   ],
+   [
+    "寂",
+    "jì"
+   ],
+   [
+    "寥",
+    "liáo"
+   ]
+  ],
+  [
+   [
+    "我",
+    "wǒ"
+   ],
+   [
+    "言",
+    "yán"
+   ],
+   [
+    "秋",
+    "qiū"
+   ],
+   [
+    "日",
+    "rì"
+   ],
+   [
+    "胜",
+    "shèng"
+   ],
+   [
+    "春",
+    "chūn"
+   ],
+   [
+    "朝",
+    "zhāo"
+   ]
+  ],
+  [
+   [
+    "晴",
+    "qíng"
+   ],
+   [
+    "空",
+    "kōng"
+   ],
+   [
+    "一",
+    "yī"
+   ],
+   [
+    "鹤",
+    "hè"
+   ],
+   [
+    "排",
+    "pái"
+   ],
+   [
+    "云",
+    "yún"
+   ],
+   [
+    "上",
+    "shàng"
+   ]
+  ],
+  [
+   [
+    "便",
+    "biàn"
+   ],
+   [
+    "引",
+    "yǐn"
+   ],
+   [
+    "诗",
+    "shī"
+   ],
+   [
+    "情",
+    "qíng"
+   ],
+   [
+    "到",
+    "dào"
+   ],
+   [
+    "碧",
+    "bì"
+   ],
+   [
+    "霄",
+    "xiāo"
+   ]
+  ]
+ ],
+ "stanza_breaks": [],
+ "text_note": {
+  "zh": "诗的文字和古籍底本相同。底本题目作《秋词二首》，这是第一首，课本常题作《秋词》或《秋词（其一）》。",
+  "en": "The words of the poem match the source text. The source title is \"Two Autumn Songs\", and this is the first. Textbooks call it \"Autumn Song\", sometimes adding \"the first\"."
+ },
+ "readings": [
+  {
+   "line": 1,
+   "pos": 6,
+   "char": "朝",
+   "pinyin": "zhāo",
+   "zh": "朝，这里是“早晨”的意思，读 zhāo，不读 cháo。春朝，就是春天的早晨，这里指春天。",
+   "en": "Here this character means morning, read zhāo, not cháo. Chūn zhāo is a spring morning, here meaning spring."
+  },
+  {
+   "line": 3,
+   "pos": 0,
+   "char": "便",
+   "pinyin": "biàn",
+   "zh": "便，这里是“就”的意思，读 biàn。",
+   "en": "Here this character means \"then\", read biàn."
+  }
+ ],
+ "glosses": [
+  {
+   "line": 0,
+   "start": 2,
+   "end": 3,
+   "zh": "逢：遇到，碰上。",
+   "en": "féng: to meet, to come upon."
+  },
+  {
+   "line": 0,
+   "start": 4,
+   "end": 7,
+   "zh": "悲寂寥：为秋天的冷清、萧条而伤心。寂寥，冷清空旷，没有生气。",
+   "en": "bēi jì liáo: to grieve over autumn's loneliness. Jì liáo means empty, quiet and lifeless."
+  },
+  {
+   "line": 1,
+   "start": 1,
+   "end": 2,
+   "zh": "言：说。",
+   "en": "yán: to say."
+  },
+  {
+   "line": 1,
+   "start": 4,
+   "end": 5,
+   "zh": "胜：胜过，比……更好。",
+   "en": "shèng: to be better than."
+  },
+  {
+   "line": 2,
+   "start": 4,
+   "end": 6,
+   "zh": "排云：推开云层。",
+   "en": "pái yún: pushing through the clouds."
+  },
+  {
+   "line": 3,
+   "start": 1,
+   "end": 2,
+   "zh": "引：带着，引发。",
+   "en": "yǐn: to lead, to draw along."
+  },
+  {
+   "line": 3,
+   "start": 2,
+   "end": 4,
+   "zh": "诗情：写诗的兴致和心情。",
+   "en": "shī qíng: the feeling that makes you want to write a poem."
+  },
+  {
+   "line": 3,
+   "start": 5,
+   "end": 7,
+   "zh": "碧霄：蓝蓝的高空。",
+   "en": "bì xiāo: the high blue sky."
+  }
+ ],
+ "translation": [
+  {
+   "zh": "自古以来，人们一到秋天就为它的冷清萧条而悲伤，",
+   "en": "Since ancient times, people have grieved at autumn's lonely emptiness;"
+  },
+  {
+   "zh": "我却说秋天比春天还要好。",
+   "en": "but I say the autumn days are better than spring."
+  },
+  {
+   "zh": "晴朗的天空里，一只白鹤推开云层直飞上去，",
+   "en": "In the clear sky a single crane pushes through the clouds and soars,"
+  },
+  {
+   "zh": "把我写诗的兴致也带到了蓝蓝的高空。",
+   "en": "drawing my poetry up with it into the blue heavens."
+  }
+ ],
+ "background": {
+  "zh": "805年，刘禹锡参加了一场想改革朝政的运动，失败后被贬到朗州（今湖南常德）做司马，一去就是十年。一般认为，这首诗是他在朗州时写的。被贬到远方，按说应该很难过，可他偏偏写出了这样一首开朗、昂扬的秋天的诗。",
+  "en": "In 805 Liu Yuxi took part in a movement to reform the government. When it failed, he was sent away to Langzhou, today's Changde in Hunan, as a minor official, and stayed for ten years. Most people think he wrote this poem there. Being sent so far away should have made him miserable. Yet he wrote this cheerful, high-spirited poem about autumn."
+ },
+ "author_note": {
+  "zh": "刘禹锡（772—842），唐代诗人，字梦得。他一生多次被贬，在外地过了二十多年，却始终乐观坚强，从不认输。白居易称他为“诗豪”。他和白居易是好朋友，常有诗歌往来。",
+  "en": "Liu Yuxi (772–842) was a Tang poet. He was sent away from the capital again and again, and spent more than twenty years far from it. Yet he stayed cheerful and strong and never gave up. Bai Juyi called him a hero of poetry. The two were good friends and often exchanged poems."
+ },
+ "appreciation": {
+  "zh": "很多诗人一写秋天就叹气：草木枯了，天冷了，真让人伤心。刘禹锡第一句先说出大家的看法，第二句马上唱反调：我说秋天比春天还好！为什么？后两句给了一幅画：秋天的天空又高又蓝，一只白鹤冲破云层，一直飞上去。看着它，诗人的心也跟着飞上了高空。这只鹤，就像不肯低头的诗人自己。读这首诗，你会感到一股向上的力量：日子再难，也可以抬头看天。",
+  "en": "Many poets sigh as soon as they write about autumn. The plants wither, the weather turns cold, and it is all so sad. Liu Yuxi's first line states this common view, and his second line at once disagrees: I say autumn is better than spring! Why? The last two lines give a picture. The autumn sky is high and blue, and a white crane breaks through the clouds and flies straight up. Watching it, the poet's heart flies up into the sky too. The crane is like the poet himself, who refuses to bow his head. Reading this poem, you feel a force lifting you up: however hard life is, you can still look up at the sky."
+ },
+ "famous_lines": [
+  1,
+  2,
+  3
+ ],
+ "tags": {
+  "seasons": [
+   "autumn"
+  ],
+  "festivals": [],
+  "solar_terms": [],
+  "themes": [
+   "autumn",
+   "crane",
+   "optimism",
+   "sky"
+  ]
+ },
+ "uncertain": []
+}
