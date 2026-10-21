@@ -463,6 +463,24 @@ html[data-lang='zh'] .poem h1 {
   margin-left: 6px;
 }
 
+/* Title characters sit closer than poem characters, and a long title wraps between any two. */
+.poem h1 .c {
+  width: 1.15em;
+}
+
+.poem h1.nm {
+  line-break: anywhere;
+}
+
+/* The poet name is small, so its cells are wider than the text to fit the pinyin. */
+.poem .by .c {
+  width: 2.4em;
+}
+
+.poem .by .c i {
+  font-size: 11px;
+}
+
 .poem .en-title {
   margin: 0 0 22px;
 }

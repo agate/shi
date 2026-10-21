@@ -1,9 +1,9 @@
 {
- "_note": "Readings the pypinyin defaults get wrong in titles and poet names. scripts/build_site.py loads these before it makes URL slugs, sort keys and search keys. Each says why.",
+ "_note": "Readings pypinyin gets wrong in titles and poet names. scripts/build_site.py uses them for the pinyin shown over titles and names, URL slugs, sort keys, search keys and read-aloud. Each says why.",
  "phrases": [
   {
    "phrase": "卜算子",
-   "pinyin": "bǔ suàn zi",
+   "pinyin": "bǔ suàn zǐ",
    "reason": "卜 is bǔ here."
   },
   {
@@ -158,7 +158,7 @@
   },
   {
    "phrase": "生查子",
-   "pinyin": "shēng zhā zi",
+   "pinyin": "shēng zhā zǐ",
    "reason": "Tune name; 查 is zhā."
   },
   {
@@ -220,6 +220,256 @@
    "phrase": "张泌",
    "pinyin": "zhāng bì",
    "reason": "Poet; 泌 is bì."
+  },
+  {
+   "phrase": "子",
+   "pinyin": "zǐ",
+   "reason": "In titles and names 子 always has its full tone: 孔子, 游子, 卜算子, 陈子昂."
+  },
+  {
+   "phrase": "和乐",
+   "pinyin": "hè lè",
+   "reason": "和 (reply with a poem) is hè."
+  },
+  {
+   "phrase": "和张",
+   "pinyin": "hè zhāng",
+   "reason": "和 (reply with a poem) is hè."
+  },
+  {
+   "phrase": "和晋",
+   "pinyin": "hè jìn",
+   "reason": "和 (reply with a poem) is hè."
+  },
+  {
+   "phrase": "和贾",
+   "pinyin": "hè jiǎ",
+   "reason": "和 (reply with a poem) is hè."
+  },
+  {
+   "phrase": "奉和",
+   "pinyin": "fèng hè",
+   "reason": "和 (reply with a poem) is hè."
+  },
+  {
+   "phrase": "和友",
+   "pinyin": "hè yǒu",
+   "reason": "和 (reply with a poem) is hè."
+  },
+  {
+   "phrase": "和周",
+   "pinyin": "hè zhōu",
+   "reason": "和 (reply with a poem) is hè."
+  },
+  {
+   "phrase": "舍人",
+   "pinyin": "shè rén",
+   "reason": "舍人 (an office) is shè."
+  },
+  {
+   "phrase": "舍弟",
+   "pinyin": "shè dì",
+   "reason": "舍弟 (my brother) is shè."
+  },
+  {
+   "phrase": "客舍",
+   "pinyin": "kè shè",
+   "reason": "舍 (lodging) is shè."
+  },
+  {
+   "phrase": "僧舍",
+   "pinyin": "sēng shè",
+   "reason": "舍 (lodging) is shè."
+  },
+  {
+   "phrase": "西塞",
+   "pinyin": "xī sài",
+   "reason": "塞 (pass) is sài."
+  },
+  {
+   "phrase": "宫曲",
+   "pinyin": "gōng qǔ",
+   "reason": "曲 (song) is qǔ."
+  },
+  {
+   "phrase": "南曲",
+   "pinyin": "nán qǔ",
+   "reason": "曲 (song) is qǔ."
+  },
+  {
+   "phrase": "莲曲",
+   "pinyin": "lián qǔ",
+   "reason": "曲 (song) is qǔ."
+  },
+  {
+   "phrase": "法曲",
+   "pinyin": "fǎ qǔ",
+   "reason": "曲 (song) is qǔ."
+  },
+  {
+   "phrase": "曲玉管",
+   "pinyin": "qǔ yù guǎn",
+   "reason": "Tune name; 曲 (song) is qǔ."
+  },
+  {
+   "phrase": "一曲",
+   "pinyin": "yī qǔ",
+   "reason": "曲 (song) is qǔ."
+  },
+  {
+   "phrase": "江曲",
+   "pinyin": "jiāng qǔ",
+   "reason": "曲 (song) is qǔ, as in the poem."
+  },
+  {
+   "phrase": "秋兴",
+   "pinyin": "qiū xìng",
+   "reason": "兴 (mood) is xìng."
+  },
+  {
+   "phrase": "遣兴",
+   "pinyin": "qiǎn xìng",
+   "reason": "兴 (mood) is xìng."
+  },
+  {
+   "phrase": "赴阙",
+   "pinyin": "fù què",
+   "reason": "阙 (palace) is què."
+  },
+  {
+   "phrase": "二载",
+   "pinyin": "èr zǎi",
+   "reason": "载 (year) is zǎi."
+  },
+  {
+   "phrase": "华州",
+   "pinyin": "huà zhōu",
+   "reason": "Place name; 华 is huà."
+  },
+  {
+   "phrase": "华阴",
+   "pinyin": "huà yīn",
+   "reason": "Place name; 华 is huà."
+  },
+  {
+   "phrase": "戏为",
+   "pinyin": "xì wéi",
+   "reason": "为 (write) is wéi."
+  },
+  {
+   "phrase": "燕歌行",
+   "pinyin": "yān gē xíng",
+   "reason": "燕 (the old state of Yan) is yān."
+  },
+  {
+   "phrase": "仙游观",
+   "pinyin": "xiān yóu guàn",
+   "reason": "观 (Daoist temple) is guàn."
+  },
+  {
+   "phrase": "蜀相",
+   "pinyin": "shǔ xiàng",
+   "reason": "相 (chancellor) is xiàng."
+  },
+  {
+   "phrase": "天姥",
+   "pinyin": "tiān mǔ",
+   "reason": "Mount Tianmu; 姥 is mǔ."
+  },
+  {
+   "phrase": "春尽",
+   "pinyin": "chūn jìn",
+   "reason": "尽 (end) is jìn."
+  },
+  {
+   "phrase": "散尽",
+   "pinyin": "sàn jìn",
+   "reason": "尽 (end) is jìn."
+  },
+  {
+   "phrase": "桥尽",
+   "pinyin": "qiáo jìn",
+   "reason": "尽 (end) is jìn."
+  },
+  {
+   "phrase": "欲尽",
+   "pinyin": "yù jìn",
+   "reason": "尽 (end) is jìn."
+  },
+  {
+   "phrase": "销尽",
+   "pinyin": "xiāo jìn",
+   "reason": "尽 (end) is jìn."
+  },
+  {
+   "phrase": "吹尽",
+   "pinyin": "chuī jìn",
+   "reason": "尽 (end) is jìn."
+  },
+  {
+   "phrase": "缥瓦",
+   "pinyin": "piǎo wǎ",
+   "reason": "缥 (pale blue) is piǎo."
+  },
+  {
+   "phrase": "并刀",
+   "pinyin": "bīng dāo",
+   "reason": "并 (Bingzhou) is bīng."
+  },
+  {
+   "phrase": "催更",
+   "pinyin": "cuī gēng",
+   "reason": "更 (night watch) is gēng."
+  },
+  {
+   "phrase": "悄郊",
+   "pinyin": "qiǎo jiāo",
+   "reason": "悄 (quiet) is qiǎo."
+  },
+  {
+   "phrase": "风头",
+   "pinyin": "fēng tóu",
+   "reason": "头 is tóu, as in the poem."
+  },
+  {
+   "phrase": "谁种",
+   "pinyin": "shuí zhòng",
+   "reason": "种 (to plant) is zhòng."
+  },
+  {
+   "phrase": "岑参",
+   "pinyin": "cén shēn",
+   "reason": "Poet; 参 is shēn."
+  },
+  {
+   "phrase": "韦应物",
+   "pinyin": "wéi yìng wù",
+   "reason": "Poet; 应 is yìng."
+  },
+  {
+   "phrase": "张元干",
+   "pinyin": "zhāng yuán gān",
+   "reason": "Poet; 干 is gān."
+  },
+  {
+   "phrase": "丘为",
+   "pinyin": "qiū wéi",
+   "reason": "Poet; 为 in a name is wéi."
+  },
+  {
+   "phrase": "田为",
+   "pinyin": "tián wéi",
+   "reason": "Poet; 为 in a name is wéi."
+  },
+  {
+   "phrase": "塞下曲",
+   "pinyin": "sài xià qǔ",
+   "reason": "塞 (frontier) is sài; 曲 (song) is qǔ."
+  },
+  {
+   "phrase": "长干曲",
+   "pinyin": "cháng gān qǔ",
+   "reason": "长干, a Nanjing lane; 曲 (song) is qǔ."
   }
  ]
 }

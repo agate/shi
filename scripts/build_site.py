@@ -216,15 +216,32 @@ def speak_line(cells):
     return "".join(out)
 
 
+def name_cells(text):
+    """[char, toned pinyin] for a run of Chinese characters in a title or poet name, with the name fixes."""
+    want = [r[0] for r in pinyin(text, style=Style.TONE)]
+    for f in NAME_FIX_RE.finditer(text) if NAME_FIXES else []:
+        want[f.start():f.end()] = NAME_FIXES[f.group(0)]
+    return [list(c) for c in zip(text, want)]
+
+
 def speak_name(s):
-    """speak_line for a title or poet name: the readings to say are pypinyin's, with the name fixes."""
+    """speak_line for a title or poet name."""
     def run(m):
-        text = m.group(0)
-        want = [r[0] for r in pinyin(text, style=Style.TONE)]
-        for f in NAME_FIX_RE.finditer(text) if NAME_FIXES else []:
-            want[f.start():f.end()] = NAME_FIXES[f.group(0)]
-        return speak_line(list(zip(text, want)))
+        default = [r[0] for r in pinyin(m.group(0), style=Style.TONE)]
+        # Saying 子 zi for zǐ is fine; a homophone for a neutral tone is not worth it.
+        cells = [[ch, got if toneless(want) == toneless(got) and tone(got) == 0 else want]
+                 for (ch, want), got in zip(name_cells(m.group(0)), default)]
+        return speak_line(cells)
     return re.sub(r"[㐀-鿿]+", run, s)
+
+
+def name_html(s):
+    """A title or poet name as tappable characters with pinyin, like a poem line; other characters as text."""
+    def run(m):
+        cells = name_cells(m.group(0))
+        sandhi_line(cells)
+        return "".join(f'<span class="c"><i>{e(py)}</i><b>{e(ch)}</b></span>' for ch, py in cells)
+    return re.sub(r"[㐀-鿿]+", run, e(s))
 
 
 # --- Tone change (变调) of 一 and 不 ---
@@ -242,23 +259,28 @@ def tone(syllable):
     return 0
 
 
-def sandhi(p):
+def sandhi_line(line):
+    """Apply the rule to one line of [char, pinyin] cells in place; return the positions changed."""
     changed = set()
-    for i, line in enumerate(p["lines"]):
-        for j, cell in enumerate(line):
-            ch, py = cell
-            nxt = line[j + 1][1] if j + 1 < len(line) else None
-            if ch == "不" and py in ("bù", "bú"):
-                cell[1] = "bú" if nxt and tone(nxt) == 4 else "bù"
-            elif ch == "一" and py in ("yī", "yí", "yì"):
-                prev = line[j - 1][0] if j else ""
-                if not nxt or prev in "第初十" or line[j + 1][0] in "一二三四五六七八九十":
-                    cell[1] = "yī"
-                else:
-                    cell[1] = "yí" if tone(nxt) == 4 else "yì"
+    for j, cell in enumerate(line):
+        ch, py = cell
+        nxt = line[j + 1][1] if j + 1 < len(line) else None
+        if ch == "不" and py in ("bù", "bú"):
+            cell[1] = "bú" if nxt and tone(nxt) == 4 else "bù"
+        elif ch == "一" and py in ("yī", "yí", "yì"):
+            prev = line[j - 1][0] if j else ""
+            if not nxt or (prev and prev in "第初十") or line[j + 1][0] in "一二三四五六七八九十":
+                cell[1] = "yī"
             else:
-                continue
-            changed.add((i, j))
+                cell[1] = "yí" if tone(nxt) == 4 else "yì"
+        else:
+            continue
+        changed.add(j)
+    return changed
+
+
+def sandhi(p):
+    changed = {(i, j) for i, line in enumerate(p["lines"]) for j in sandhi_line(line)}
     p["readings"] = [r for r in p.get("readings", []) if (r["line"], r["pos"]) not in changed]
 
 
@@ -337,8 +359,8 @@ def poem_page(p, nav_prev, nav_next, base):
     <main class="wrap">
       <article class="poem" style="--size:{size}px">
         <p class="mono">{bi(f"No. {p['rank']} · {kind_en} · {p['form']['en']}", f"第 {p['rank']} 首 · {kind_zh} · {p['form']['zh']}") if p['rank'] else bi(f"{kind_en} · {p['form']['en']}", f"{kind_zh} · {p['form']['zh']}")}</p>
-        <h1>{e(p["title"])}</h1>
-        <p class="by">{e(p["author"])}<span class="mono">{bi(f"{p['author_en']} · {dyn_en}", dyn_zh)}</span></p>
+        <h1 class="nm">{name_html(p["title"])}</h1>
+        <p class="by"><span class="nm">{name_html(p["author"])}</span><span class="mono">{bi(f"{p['author_en']} · {dyn_en}", dyn_zh)}</span></p>
         <p class="en-title mono" lang="en">{e(p["title_en"])}</p>
         <p class="en-title mono" lang="zh">&nbsp;</p>
         <div class="lines">{"".join(rows)}</div>

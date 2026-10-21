@@ -149,6 +149,14 @@
       };
     }
 
+    // Title and poet name: pinyin only, no notes.
+    document.querySelectorAll('.poem .nm').forEach(function (nm) {
+      nm.addEventListener('click', function (e) {
+        var c = e.target.closest('.c');
+        if (c) c.classList.toggle('on');
+      });
+    });
+
     document.querySelector('.lines').addEventListener('click', function (e) {
       var c = e.target.closest('.c');
       if (!c) return;
