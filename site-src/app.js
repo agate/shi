@@ -127,7 +127,7 @@
   if (poem) {
     var lines = document.querySelectorAll('.lines .ln');
 
-    // Pinyin: tap one character, or show all from the toolbar.
+    // Pinyin: shown or hidden all at once from the toolbar.
     var pyBtn = document.getElementById('btn-pinyin');
     function setPinyinAll(on, save) {
       root.classList.toggle('py-all', on);
@@ -149,18 +149,10 @@
       };
     }
 
-    // Title and poet name: pinyin only, no notes.
-    document.querySelectorAll('.poem .nm').forEach(function (nm) {
-      nm.addEventListener('click', function (e) {
-        var c = e.target.closest('.c');
-        if (c) c.classList.toggle('on');
-      });
-    });
-
+    // Only characters with a note (underlined) can be tapped.
     document.querySelector('.lines').addEventListener('click', function (e) {
-      var c = e.target.closest('.c');
+      var c = e.target.closest('.c.gl, .c.rd');
       if (!c) return;
-      c.classList.toggle('on');
       var li = +c.dataset.l, pos = +c.dataset.p;
       var notes = document.createDocumentFragment();
       var title = null;

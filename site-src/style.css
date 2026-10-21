@@ -472,13 +472,27 @@ html[data-lang='zh'] .poem h1 {
   line-break: anywhere;
 }
 
-/* The poet name is small, so its cells are wider than the text to fit the pinyin. */
+/* The poet name is small: its pinyin sits in the flow, so each character is as wide as its
+   pinyin and they never overlap. It only takes room while pinyin is shown. */
 .poem .by .c {
-  width: 2.4em;
+  width: auto;
+  padding-top: 0;
+}
+
+html.py-all .poem .by .c {
+  margin: 0 0.12em;
 }
 
 .poem .by .c i {
-  font-size: 11px;
+  display: none;
+  position: static;
+  transform: none;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+html.py-all .poem .by .c i {
+  display: block;
 }
 
 .poem .en-title {
@@ -506,7 +520,6 @@ html[data-lang='zh'] .poem h1 {
   display: inline-block;
   width: 1.32em;
   padding-top: 20px;
-  cursor: pointer;
   user-select: none;
   -webkit-user-select: none;
 }
@@ -524,9 +537,13 @@ html[data-lang='zh'] .poem h1 {
   visibility: hidden;
 }
 
-.c.on i,
 html.py-all .c i {
   visibility: visible;
+}
+
+.c.gl,
+.c.rd {
+  cursor: pointer;
 }
 
 .c b {
@@ -688,6 +705,12 @@ html.py-all .c i {
 
 .bar button[aria-pressed='true'] .mono {
   color: var(--faint);
+}
+
+/* A toggle's second line says what tapping it will do. */
+.bar button[aria-pressed='true'] .if-off,
+.bar button[aria-pressed='false'] .if-on {
+  display: none;
 }
 
 .bar button:disabled {

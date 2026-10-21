@@ -364,14 +364,14 @@ def poem_page(p, nav_prev, nav_next, base):
         <p class="en-title mono" lang="en">{e(p["title_en"])}</p>
         <p class="en-title mono" lang="zh">&nbsp;</p>
         <div class="lines">{"".join(rows)}</div>
-        <p class="tap-hint mono">{bi("Tap a character for its pinyin. Underlined words have notes. 一 and 不 are marked with the tone you actually say.", "点一个字看拼音。字下有虚线的，点开有注释。“一”“不”标的是实际读出来的变调。")}</p>
+        <p class="tap-hint mono">{bi("Underlined words have notes: tap one. The Pinyin button below shows or hides all pinyin. 一 and 不 are marked with the tone you actually say.", "字下有虚线的，点开有注释。下方的“拼音”按钮可以显示或隐藏全部拼音。“一”“不”标的是实际读出来的变调。")}</p>
         {note}
       </article>{"".join(sections)}
       <div class="pager">{pager_link(nav_prev, "← Previous", "← 上一首")}{pager_link(nav_next, "Next →", "下一首 →")}</div>
     </main>
     <div class="bar" role="toolbar" aria-label="Reading tools">
       <div class="in">
-        <button type="button" id="btn-pinyin" aria-pressed="false">{bi("Pinyin", "拼音")}<span class="mono">{bi("show all", "全部显示")}</span></button>
+        <button type="button" id="btn-pinyin" aria-pressed="false">{bi("Pinyin", "拼音")}<span class="mono"><span class="if-off">{bi("show all", "全部显示")}</span><span class="if-on">{bi("hide all", "全部隐藏")}</span></span></button>
         <button type="button" id="btn-font">{bi("Font", "字体")}<span class="mono">{bi("change", "换字体")}</span></button>
         <button type="button" id="btn-speak" aria-pressed="false">{bi("Listen", "朗读")}<span class="mono">{bi("read aloud", "读给我听")}</span></button>
       </div>
