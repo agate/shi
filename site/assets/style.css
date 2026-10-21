@@ -861,7 +861,7 @@ html.py-all .c i {
 
 .bar .in {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   max-width: 720px;
   margin: 0 auto;
 }
@@ -1011,6 +1011,36 @@ body.has-bar {
   display: block;
   font-size: 12px;
   color: var(--muted);
+}
+
+.voices {
+  display: grid;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.voices button {
+  all: unset;
+  cursor: pointer;
+  display: grid;
+  gap: 2px;
+  border: 1px solid var(--rule);
+  padding: 10px 12px;
+}
+
+.voices button[aria-pressed='true'] {
+  border-color: var(--ink);
+  outline: 1px solid var(--ink);
+}
+
+.voices b {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.voices p {
+  margin: 4px 0 0;
+  line-height: 1.6;
 }
 
 /* Footer */

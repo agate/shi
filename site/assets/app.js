@@ -204,20 +204,30 @@
         applyFont(root.dataset.font);
       });
 
-    // Read aloud with the browser's own Chinese voice.
+    // Read aloud. By default the device's own Chinese voice (the one set in its settings);
+    // the Voice button can switch to a Google Mandarin voice where the browser has one.
     var speakBtn = document.getElementById('btn-speak');
+    var voiceBtn = document.getElementById('btn-voice');
     var synth = window.speechSynthesis;
     var speaking = false;
-    function zhVoice() {
-      var vs = synth ? synth.getVoices() : [];
-      var pick = null;
-      vs.forEach(function (v) {
-        if (!pick && /^zh[-_]CN/i.test(v.lang)) pick = v;
+    var SAMPLE = poem.speak[0];
+    if (synth) synth.getVoices(); // Chrome loads its voice list on the first ask
+    function googleVoices() {
+      return (synth ? synth.getVoices() : []).filter(function (v) {
+        return /google/i.test(v.name) && /^zh[-_]CN/i.test(v.lang);
       });
-      vs.forEach(function (v) {
-        if (!pick && /^zh/i.test(v.lang)) pick = v;
-      });
-      return pick;
+    }
+    // The saved choice, if this browser still has that voice; null means the device default.
+    function chosenVoice() {
+      var uri = store('shi.voice');
+      return uri ? googleVoices().filter(function (v) { return v.voiceURI === uri; })[0] || null : null;
+    }
+    function utter(text, voice) {
+      var u = new SpeechSynthesisUtterance(text);
+      u.lang = 'zh-CN';
+      if (voice) u.voice = voice;
+      u.rate = 0.75;
+      return u;
     }
     function stopSpeaking() {
       speaking = false;
@@ -234,15 +244,12 @@
           synth.cancel();
           speaking = true;
           speakBtn.setAttribute('aria-pressed', 'true');
-          var voice = zhVoice();
+          var voice = chosenVoice();
           var parts = [{ text: poem.speakTitle, line: -1 }].concat(
             poem.speak.map(function (t, i) { return { text: t, line: i }; })
           );
           parts.forEach(function (part, idx) {
-            var u = new SpeechSynthesisUtterance(part.text);
-            u.lang = 'zh-CN';
-            if (voice) u.voice = voice;
-            u.rate = 0.75;
+            var u = utter(part.text, voice);
             u.onstart = function () {
               lines.forEach(function (l) { l.classList.remove('speaking'); });
               if (part.line >= 0 && lines[part.line]) {
@@ -254,6 +261,50 @@
           });
         });
         window.addEventListener('pagehide', stopSpeaking);
+      }
+    }
+
+    // Voice picker: the device default, or a Google Mandarin voice. Tapping one plays a sample.
+    if (voiceBtn) {
+      if (!synth || !window.SpeechSynthesisUtterance) {
+        voiceBtn.disabled = true;
+      } else {
+        voiceBtn.addEventListener('click', function () {
+          stopSpeaking();
+          var box = el('div', { class: 'voices' });
+          var current = chosenVoice();
+          var options = [{ voice: null, en: 'Device voice', zh: '系统默认',
+            noteEn: 'The Chinese voice set in this device’s settings.', noteZh: '用这台设备设置里选的中文声音。' }]
+            .concat(googleVoices().map(function (v) {
+              return { voice: v, en: v.name, zh: v.name, noteEn: 'Online voice from Google.', noteZh: 'Google 的联网语音。' };
+            }));
+          function mark() {
+            box.querySelectorAll('button').forEach(function (b, i) {
+              b.setAttribute('aria-pressed', String(options[i].voice === current));
+            });
+          }
+          options.forEach(function (o) {
+            var b = el('button', { type: 'button' }, [
+              el('b', {}, [bi(o.en, o.zh)]),
+              el('span', { class: 'mono' }, [bi(o.noteEn, o.noteZh)]),
+            ]);
+            b.addEventListener('click', function () {
+              current = o.voice;
+              store('shi.voice', o.voice ? o.voice.voiceURI : '');
+              mark();
+              synth.cancel();
+              synth.speak(utter(SAMPLE, o.voice));
+            });
+            box.appendChild(b);
+          });
+          if (options.length === 1) {
+            box.appendChild(el('p', { class: 'mono' }, [bi(
+              'This browser has no Google Mandarin voice. Chrome on a computer or on Android has one.',
+              '这个浏览器没有 Google 普通话语音。电脑或安卓手机上的 Chrome 才有。')]));
+          }
+          mark();
+          openSheet('Voice', '声音', box);
+        });
       }
     }
   }
