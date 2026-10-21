@@ -182,32 +182,28 @@
       openSheet('Word', '字词', box);
     });
 
-    // Font picker.
-    var fontBtn = document.getElementById('btn-font');
-    if (fontBtn)
-      fontBtn.addEventListener('click', function () {
-        var grid = el('div', { class: 'fonts' });
-        FONTS.forEach(function (f) {
-          loadFontCss(f);
-          var b = el('button', { type: 'button', 'data-font': f.key }, [
-            el('span', { class: 's', text: poem.sample, style: "font-family:'" + f.family + "',serif" }),
-            el('span', { class: 'n', lang: 'zh', text: f.zh }),
-            el('span', { class: 'n', lang: 'en', text: f.en }),
-          ]);
-          b.addEventListener('click', function () {
-            applyFont(f.key);
-            store('shi.font', f.key);
-          });
-          grid.appendChild(b);
+    // Font choices, shown inside the More menu.
+    function fontPanel() {
+      var grid = el('div', { class: 'fonts' });
+      FONTS.forEach(function (f) {
+        loadFontCss(f);
+        var b = el('button', { type: 'button', 'data-font': f.key }, [
+          el('span', { class: 's', text: poem.sample, style: "font-family:'" + f.family + "',serif" }),
+          el('span', { class: 'n', lang: 'zh', text: f.zh }),
+          el('span', { class: 'n', lang: 'en', text: f.en }),
+        ]);
+        b.addEventListener('click', function () {
+          applyFont(f.key);
+          store('shi.font', f.key);
         });
-        openSheet('Font', '字体', grid);
-        applyFont(root.dataset.font);
+        grid.appendChild(b);
       });
+      return grid;
+    }
 
     // Read aloud. By default the device's own Chinese voice (the one set in its settings);
-    // the Voice button can switch to a Google Mandarin voice where the browser has one.
+    // the More menu can switch to a Google Mandarin voice where the browser has one.
     var speakBtn = document.getElementById('btn-speak');
-    var voiceBtn = document.getElementById('btn-voice');
     var synth = window.speechSynthesis;
     var speaking = false;
     var SAMPLE = poem.speak[0];
@@ -264,49 +260,83 @@
       }
     }
 
-    // Voice picker: the device default, or a Google Mandarin voice. Tapping one plays a sample.
-    if (voiceBtn) {
+    // Voice choices, shown inside the More menu: the device default, or a Google Mandarin
+    // voice. Tapping one plays a sample.
+    function voicePanel() {
+      var box = el('div', { class: 'voices' });
       if (!synth || !window.SpeechSynthesisUtterance) {
-        voiceBtn.disabled = true;
-      } else {
-        voiceBtn.addEventListener('click', function () {
-          stopSpeaking();
-          var box = el('div', { class: 'voices' });
-          var current = chosenVoice();
-          var options = [{ voice: null, en: 'Device voice', zh: '系统默认',
-            noteEn: 'The Chinese voice set in this device’s settings.', noteZh: '用这台设备设置里选的中文声音。' }]
-            .concat(googleVoices().map(function (v) {
-              return { voice: v, en: v.name, zh: v.name, noteEn: 'Online voice from Google.', noteZh: 'Google 的联网语音。' };
-            }));
-          function mark() {
-            box.querySelectorAll('button').forEach(function (b, i) {
-              b.setAttribute('aria-pressed', String(options[i].voice === current));
-            });
-          }
-          options.forEach(function (o) {
-            var b = el('button', { type: 'button' }, [
-              el('b', {}, [bi(o.en, o.zh)]),
-              el('span', { class: 'mono' }, [bi(o.noteEn, o.noteZh)]),
-            ]);
-            b.addEventListener('click', function () {
-              current = o.voice;
-              store('shi.voice', o.voice ? o.voice.voiceURI : '');
-              mark();
-              synth.cancel();
-              synth.speak(utter(SAMPLE, o.voice));
-            });
-            box.appendChild(b);
-          });
-          if (options.length === 1) {
-            box.appendChild(el('p', { class: 'mono' }, [bi(
-              'This browser has no Google Mandarin voice. Chrome on a computer or on Android has one.',
-              '这个浏览器没有 Google 普通话语音。电脑或安卓手机上的 Chrome 才有。')]));
-          }
-          mark();
-          openSheet('Voice', '声音', box);
+        box.appendChild(el('p', { class: 'mono' }, [bi('This browser cannot read aloud.', '这个浏览器不能朗读。')]));
+        return box;
+      }
+      var current = chosenVoice();
+      var options = [{ voice: null, en: 'Device voice', zh: '系统默认',
+        noteEn: 'The Chinese voice set in this device’s settings.', noteZh: '用这台设备设置里选的中文声音。' }]
+        .concat(googleVoices().map(function (v) {
+          return { voice: v, en: v.name, zh: v.name, noteEn: 'Online voice from Google.', noteZh: 'Google 的联网语音。' };
+        }));
+      function mark() {
+        box.querySelectorAll('button').forEach(function (b, i) {
+          b.setAttribute('aria-pressed', String(options[i].voice === current));
         });
       }
+      options.forEach(function (o) {
+        var b = el('button', { type: 'button' }, [
+          el('b', {}, [bi(o.en, o.zh)]),
+          el('span', { class: 'mono' }, [bi(o.noteEn, o.noteZh)]),
+        ]);
+        b.addEventListener('click', function () {
+          current = o.voice;
+          store('shi.voice', o.voice ? o.voice.voiceURI : '');
+          mark();
+          synth.cancel();
+          synth.speak(utter(SAMPLE, o.voice));
+        });
+        box.appendChild(b);
+      });
+      if (options.length === 1) {
+        box.appendChild(el('p', { class: 'mono' }, [bi(
+          'This browser has no Google Mandarin voice. Chrome on a computer or on Android has one.',
+          '这个浏览器没有 Google 普通话语音。电脑或安卓手机上的 Chrome 才有。')]));
+      }
+      mark();
+      return box;
     }
+
+    // More menu: one row per setting with its current value; a row opens that setting's
+    // choices, with a way back to the menu.
+    var moreBtn = document.getElementById('btn-more');
+    function openMore() {
+      var font = FONTS.filter(function (f) { return f.key === root.dataset.font; })[0] || FONTS[0];
+      var voice = chosenVoice();
+      var rows = [
+        { en: 'Font', zh: '字体', nowEn: font.en, nowZh: font.zh, titleEn: 'Font', titleZh: '字体', panel: fontPanel,
+          after: function () { applyFont(root.dataset.font); } },
+        { en: 'Voice', zh: '声音', nowEn: voice ? voice.name : 'Device voice', nowZh: voice ? voice.name : '系统默认',
+          titleEn: 'Voice', titleZh: '声音', panel: voicePanel },
+      ];
+      var menu = el('div', { class: 'menu' });
+      rows.forEach(function (r) {
+        var b = el('button', { type: 'button' }, [
+          el('b', {}, [bi(r.en, r.zh)]),
+          el('span', { class: 'now' }, [bi(r.nowEn, r.nowZh)]),
+          el('span', { class: 'go', 'aria-hidden': 'true', text: '›' }),
+        ]);
+        b.addEventListener('click', function () {
+          var back = el('button', { type: 'button', class: 'back' }, [bi('‹ Back', '‹ 返回')]);
+          back.addEventListener('click', openMore);
+          var view = el('div', {}, [back, r.panel()]);
+          openSheet(r.titleEn, r.titleZh, view);
+          if (r.after) r.after();
+        });
+        menu.appendChild(b);
+      });
+      openSheet('More', '更多', menu);
+    }
+    if (moreBtn)
+      moreBtn.addEventListener('click', function () {
+        stopSpeaking();
+        openMore();
+      });
   }
 
   /* ---------- Home: tabs (the index page runs its own) ---------- */

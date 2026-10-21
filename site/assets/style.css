@@ -861,7 +861,7 @@ html.py-all .c i {
 
 .bar .in {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   max-width: 720px;
   margin: 0 auto;
 }
@@ -1011,6 +1011,81 @@ body.has-bar {
   display: block;
   font-size: 12px;
   color: var(--muted);
+}
+
+/* More button: three bars drawn in CSS. */
+.burger,
+.burger::before,
+.burger::after {
+  display: block;
+  width: 18px;
+  height: 1.5px;
+  background: currentColor;
+}
+
+.burger {
+  position: relative;
+  margin: 6px 0;
+}
+
+.burger::before,
+.burger::after {
+  content: '';
+  position: absolute;
+  left: 0;
+}
+
+.burger::before {
+  top: -6px;
+}
+
+.burger::after {
+  top: 6px;
+}
+
+/* More menu: one row per setting. */
+.menu {
+  display: grid;
+  border-top: 1px solid var(--rule);
+}
+
+.menu button {
+  all: unset;
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: baseline;
+  gap: 12px;
+  padding: 16px 4px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.menu b {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.menu .now {
+  color: var(--muted);
+  font-size: 14px;
+  text-align: right;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.menu .go {
+  font: 18px var(--mono);
+  color: var(--muted);
+}
+
+.sheet .back {
+  all: unset;
+  cursor: pointer;
+  display: inline-block;
+  padding: 6px 0 10px;
+  font-size: 14px;
+  color: var(--soft);
 }
 
 .voices {

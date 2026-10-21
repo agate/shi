@@ -373,9 +373,8 @@ def poem_page(p, nav_prev, nav_next, base):
     <div class="bar" role="toolbar" aria-label="Reading tools">
       <div class="in">
         <button type="button" id="btn-pinyin" aria-pressed="false">{bi("Pinyin", "拼音")}<span class="mono"><span class="if-off">{bi("show all", "全部显示")}</span><span class="if-on">{bi("hide all", "全部隐藏")}</span></span></button>
-        <button type="button" id="btn-font">{bi("Font", "字体")}<span class="mono">{bi("change", "换字体")}</span></button>
         <button type="button" id="btn-speak" aria-pressed="false">{bi("Listen", "朗读")}<span class="mono">{bi("read aloud", "读给我听")}</span></button>
-        <button type="button" id="btn-voice">{bi("Voice", "声音")}<span class="mono">{bi("choose", "选声音")}</span></button>
+        <button type="button" id="btn-more" aria-haspopup="dialog"><span class="burger" aria-hidden="true"></span><span class="mono">{bi("font, voice", "字体、声音")}</span></button>
       </div>
     </div>{SHEET}
     <script type="application/json" id="poem-data">{json_script(data)}</script>""" + footer(base))
