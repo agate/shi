@@ -258,8 +258,8 @@
     }
   }
 
-  /* ---------- Home: tabs ---------- */
-  document.querySelectorAll('.tabs').forEach(function (tabs) {
+  /* ---------- Home: tabs (the index page runs its own) ---------- */
+  document.querySelectorAll('.tabs:not([data-own])').forEach(function (tabs) {
     var buttons = tabs.querySelectorAll('[role=tab]');
     function show(id) {
       buttons.forEach(function (b) {
@@ -511,6 +511,195 @@
     }).catch(function () {
       daily.hidden = true;
     });
+  }
+
+  /* ---------- Index: tabs, poet filter, letter bar ---------- */
+  var ixData = document.getElementById('index-data');
+  if (ixData) {
+    var POETS = JSON.parse(ixData.textContent).poets;
+    var byName = {};
+    POETS.forEach(function (p) { byName[p.n] = p; });
+    var ixInput = document.getElementById('poet');
+    var ixClear = document.querySelector('.ix-search .clear');
+    var suggest = document.getElementById('poet-list');
+    var chips = document.getElementById('chips');
+    var letters = document.getElementById('letters');
+    var status = document.getElementById('ix-status');
+    var tabButtons = document.querySelectorAll('.tabs[data-own] [role=tab]');
+    var state = { kind: 'shi', poet: null };
+    var CHIP_COUNT = 8;
+
+    function panel(kind) { return document.getElementById('ix-' + kind); }
+
+    // Hide rows by other poets, then tunes and letter groups left empty.
+    function applyFilter() {
+      var p = panel(state.kind);
+      p.querySelectorAll('li').forEach(function (li) {
+        li.hidden = !!state.poet && li.dataset.a !== state.poet;
+      });
+      p.querySelectorAll('.ix-tune').forEach(function (t) {
+        var n = t.querySelectorAll('li:not([hidden])').length;
+        t.hidden = !n;
+        t.querySelector('.n').textContent = n;
+      });
+      p.querySelectorAll('.ix-group').forEach(function (g) {
+        g.hidden = !g.querySelector('li:not([hidden])');
+      });
+    }
+
+    function renderLetters() {
+      letters.innerHTML = '';
+      panel(state.kind).querySelectorAll('.ix-group:not([hidden])').forEach(function (g) {
+        var a = el('a', { href: '#' + g.id, text: g.dataset.letter });
+        a.addEventListener('click', function (e) {
+          e.preventDefault();
+          g.scrollIntoView({ block: 'start' });
+        });
+        letters.appendChild(a);
+      });
+    }
+
+    function renderStatus() {
+      status.hidden = !state.poet;
+      if (!state.poet) return;
+      var n = byName[state.poet][state.kind];
+      status.innerHTML = '';
+      status.appendChild(state.kind === 'shi'
+        ? bi(state.poet + ' · ' + n + ' Tang poems', state.poet + ' · 唐诗 ' + n + ' 首')
+        : bi(state.poet + ' · ' + n + ' Song lyrics', state.poet + ' · 宋词 ' + n + ' 首'));
+    }
+
+    // The poets with the most poems in this tab, then a chip for the full list.
+    function renderChips() {
+      chips.innerHTML = '';
+      POETS.filter(function (p) { return p[state.kind]; })
+        .sort(function (a, b) { return b[state.kind] - a[state.kind]; })
+        .slice(0, CHIP_COUNT)
+        .forEach(function (p) {
+          var b = el('button', { type: 'button', class: 'chip', 'aria-pressed': String(p.n === state.poet) },
+            [document.createTextNode(p.n), el('span', { class: 'mono', text: String(p[state.kind]) })]);
+          b.addEventListener('click', function () { pick(p.n === state.poet ? null : p.n); });
+          chips.appendChild(b);
+        });
+      var more = el('button', { type: 'button', class: 'chip more' }, [bi('All poets ›', '全部诗人 ›')]);
+      more.addEventListener('click', openPoetSheet);
+      chips.appendChild(more);
+    }
+
+    function render() {
+      tabButtons.forEach(function (b) {
+        var on = b.dataset.kind === state.kind;
+        b.setAttribute('aria-selected', String(on));
+        panel(b.dataset.kind).hidden = !on;
+      });
+      applyFilter();
+      renderLetters();
+      renderStatus();
+      renderChips();
+      ixInput.value = state.poet || '';
+      ixClear.hidden = !state.poet;
+      var q = new URLSearchParams(location.search);
+      q.set('tab', state.kind);
+      if (state.poet) q.set('poet', state.poet); else q.delete('poet');
+      history.replaceState(null, '', location.pathname + '?' + q.toString() + location.hash);
+    }
+
+    // Picking a poet with nothing in this tab switches to the tab they wrote in.
+    function pick(name) {
+      state.poet = name && byName[name] ? name : null;
+      if (state.poet && !byName[state.poet][state.kind]) state.kind = state.kind === 'shi' ? 'ci' : 'shi';
+      closeSuggest();
+      render();
+    }
+
+    tabButtons.forEach(function (b) {
+      b.addEventListener('click', function () {
+        state.kind = b.dataset.kind;
+        if (state.poet && !byName[state.poet][state.kind]) state.poet = null;
+        render();
+      });
+    });
+
+    // Typeahead: characters anywhere in the name, or pinyin / initials from the start.
+    var active = -1, matches = [];
+    function closeSuggest() {
+      suggest.hidden = true;
+      ixInput.setAttribute('aria-expanded', 'false');
+      active = -1;
+    }
+    function showSuggest() {
+      var q = ixInput.value.toLowerCase().replace(/[\s'’]/g, '').replace(/ü/g, 'v');
+      if (!q || q === (state.poet || '')) return closeSuggest();
+      matches = POETS.filter(function (p) {
+        return p.n.indexOf(q) >= 0 || p.p.indexOf(q) === 0 || p.i.indexOf(q) === 0;
+      }).sort(function (a, b) {
+        return (b[state.kind] ? 1 : 0) - (a[state.kind] ? 1 : 0) || (b.shi + b.ci) - (a.shi + a.ci);
+      }).slice(0, 8);
+      suggest.innerHTML = '';
+      if (!matches.length) {
+        suggest.appendChild(el('li', { class: 'none' }, [bi('No poet by that name', '没有这位诗人')]));
+      }
+      matches.forEach(function (p, i) {
+        var li = el('li', { role: 'option', id: 'poet-opt-' + i }, [
+          el('b', { text: p.n }),
+          el('span', { class: 'mono' }, [bi(
+            [p.shi ? p.shi + ' Tang' : '', p.ci ? p.ci + ' Song' : ''].filter(Boolean).join(' · '),
+            [p.shi ? '唐诗 ' + p.shi : '', p.ci ? '宋词 ' + p.ci : ''].filter(Boolean).join(' · '))]),
+        ]);
+        li.addEventListener('mousedown', function (e) { e.preventDefault(); pick(p.n); });
+        suggest.appendChild(li);
+      });
+      active = -1;
+      suggest.hidden = false;
+      ixInput.setAttribute('aria-expanded', 'true');
+    }
+    function highlight(i) {
+      var opts = suggest.querySelectorAll('[role=option]');
+      if (!opts.length) return;
+      active = (i + opts.length) % opts.length;
+      opts.forEach(function (o, j) { o.setAttribute('aria-selected', String(j === active)); });
+      ixInput.setAttribute('aria-activedescendant', opts[active].id);
+    }
+    ixInput.addEventListener('input', showSuggest);
+    ixInput.addEventListener('focus', showSuggest);
+    ixInput.addEventListener('blur', function () {
+      closeSuggest();
+      ixInput.value = state.poet || '';
+    });
+    ixInput.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowDown') { e.preventDefault(); highlight(active + 1); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); highlight(active - 1); }
+      else if (e.key === 'Enter') {
+        e.preventDefault();
+        var m = matches[active >= 0 ? active : 0];
+        if (!suggest.hidden && m) { pick(m.n); ixInput.blur(); }
+      } else if (e.key === 'Escape') closeSuggest();
+    });
+    ixClear.addEventListener('click', function () { pick(null); ixInput.focus(); });
+
+    // Every poet in this tab, by pinyin, grouped by letter.
+    function openPoetSheet() {
+      var box = el('div', { class: 'poets' });
+      var last = '';
+      POETS.forEach(function (p) {
+        if (!p[state.kind]) return;
+        var letter = p.p.charAt(0).toUpperCase();
+        if (letter !== last) {
+          box.appendChild(el('h3', { class: 'mono', text: letter }));
+          last = letter;
+        }
+        var b = el('button', { type: 'button', 'aria-pressed': String(p.n === state.poet) },
+          [document.createTextNode(p.n), el('span', { class: 'mono', text: String(p[state.kind]) })]);
+        b.addEventListener('click', function () { closeSheet(); pick(p.n); });
+        box.appendChild(b);
+      });
+      openSheet(state.kind === 'shi' ? 'Tang poets' : 'Song lyricists',
+        state.kind === 'shi' ? '唐诗诗人' : '宋词词人', box);
+    }
+
+    var q0 = new URLSearchParams(location.search);
+    state.kind = q0.get('tab') === 'ci' ? 'ci' : 'shi';
+    pick(q0.get('poet'));
   }
 
   /* ---------- Saved font, applied on every page ---------- */

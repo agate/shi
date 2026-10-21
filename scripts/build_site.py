@@ -375,15 +375,22 @@ def poem_page(p, nav_prev, nav_next, base):
         <button type="button" id="btn-font">{bi("Font", "字体")}<span class="mono">{bi("change", "换字体")}</span></button>
         <button type="button" id="btn-speak" aria-pressed="false">{bi("Listen", "朗读")}<span class="mono">{bi("read aloud", "读给我听")}</span></button>
       </div>
-    </div>
+    </div>{SHEET}
+    <script type="application/json" id="poem-data">{json_script(data)}</script>""" + footer(base))
+
+
+SHEET = """
     <div class="sheet" id="sheet" aria-hidden="true" role="dialog" aria-modal="true">
       <div class="shade"></div>
       <div class="panel"><div class="in">
         <div class="top"><span class="label mono"></span><button type="button" class="close" aria-label="Close">×</button></div>
         <div class="body"></div>
       </div></div>
-    </div>
-    <script type="application/json" id="poem-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>""" + footer(base))
+    </div>"""
+
+
+def json_script(data):
+    return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 
 
 def stub_page(c, base):
@@ -432,7 +439,8 @@ def home_page(published, catalog, stats, base):
             aria-label="Search poems" data-ph-en="Title, poet, line or pinyin" data-ph-zh="标题、作者、诗句或拼音" />
           <button type="button" class="clear" aria-label="Clear" hidden>×</button>
         </label>
-        <p class="hint mono">{bi(f"Searches all {total} poems in the catalog: titles, poets, lines, pinyin (jingyesi) or initials (jys).", f"在目录的 {total} 首诗里搜：标题、作者、诗句、全拼（jingyesi）或首字母（jys）。")}</p>
+        <p class="hint mono">{bi(f"Searches all {total} poems in the catalog: titles, poets, lines, pinyin (jingyesi) or initials (jys).", f"在目录的 {total} 首诗里搜：标题、作者、诗句、全拼（jingyesi）或首字母（jys）。")}
+          <a href="{base}index/">{bi(f"Or browse all {total} in pinyin order →", f"或按拼音翻看全部 {total} 首 →")}</a></p>
       </div>
       <div class="results" id="results" hidden></div>
 
@@ -477,6 +485,97 @@ def home_page(published, catalog, stats, base):
         </section>
       </div>
     </main>""" + footer(base))
+
+
+# --- Index page: every published poem, in pinyin order ---
+
+CN_NUM = {c: i for i, c in enumerate("一二三四五六七八九十", 1)}
+SERIES = re.compile(r"[·（(]?其([一二三四五六七八九十]+)[）)]?$")
+
+
+def series_no(s):
+    """其三 -> 3, 其十五 -> 15."""
+    if len(s) == 1:
+        return CN_NUM[s]
+    tens, _, ones = s.partition("十")
+    return (CN_NUM.get(tens, 1) if tens else 1) * 10 + CN_NUM.get(ones, 0)
+
+
+def sort_key(title):
+    """Pinyin of the title, syllable by syllable; numbered parts (其一, 其二…) keep their order."""
+    m = SERIES.search(title)
+    base, no = (title[:m.start()], series_no(m.group(1))) if m else (title, 0)
+    return ([s.replace("ü", "v") for s in name_pinyin("".join(HAN.findall(base)))], no, title)
+
+
+def initial(title):
+    return sort_key(title)[0][0][0].upper()
+
+
+def index_page(published, base):
+    def row(p, label):
+        return (f'<li data-a="{e(p["author"])}"><a href="{base}p/{p["slug"]}/">'
+                f'<span class="tt">{e(label)}<small>{e(p["author"])}</small></span></a></li>')
+
+    def groups(kind, items):
+        out = []
+        for letter in sorted({k for k, _ in items}):
+            out.append(f'<section class="ix-group" data-letter="{letter}" id="ix-{kind}-{letter}">'
+                       f'<h3 class="mono">{letter}</h3>{"".join(html for k, html in items if k == letter)}</section>')
+        return "".join(out)
+
+    shi = sorted((p for p in published if p["kind"] == "shi"), key=lambda p: (sort_key(p["title"]), p["author"]))
+    shi_rows = [(initial(p["title"]), row(p, p["title"])) for p in shi]
+    shi_items = [(k, f'<ul class="list ix">{"".join(h for kk, h in shi_rows if kk == k)}</ul>')
+                 for k in sorted({k for k, _ in shi_rows})]
+
+    tunes = defaultdict(list)
+    for p in (p for p in published if p["kind"] == "ci"):
+        tune, _, sub = p["title"].partition("·")
+        tunes[tune].append((p, sub))
+    ci_items = []
+    for tune in sorted(tunes, key=sort_key):
+        rows = sorted(tunes[tune], key=lambda x: (sort_key(x[1] or x[0]["title"]), x[0]["author"]))
+        ci_items.append((initial(tune), f'<div class="ix-tune" data-tune="{e(tune)}"><h4>{e(tune)}<span class="mono n">{len(rows)}</span></h4>'
+                                        f'<ul class="list ix">{"".join(row(p, sub or p["title"]) for p, sub in rows)}</ul></div>'))
+
+    poets = defaultdict(lambda: {"shi": 0, "ci": 0})
+    for p in published:
+        poets[p["author"]][p["kind"]] += 1
+    data = {"poets": [{"n": n, "p": plain(n), "i": initials(n), "shi": c["shi"], "ci": c["ci"]}
+                      for n, c in sorted(poets.items(), key=lambda x: (sort_key(x[0]), x[0]))]}
+    counts = {k: sum(p["kind"] == k for p in published) for k in ("shi", "ci")}
+
+    return (head("索引 · Index — 诗", "Every Tang poem and Song lyric on the site, in pinyin order: Song lyrics by tune name, and a filter by poet.", base) + f"""
+  <body>{nav(base)}
+    <main class="wrap">
+      <section class="hero ix-hero">
+        <div class="mono">{bi("Index", "索引")}</div>
+        <h1>{bi("Every poem, in pinyin order.", "全部诗词，按拼音排。", "span")}</h1>
+      </section>
+
+      <div class="search ix-search">
+        <label>
+          <input id="poet" type="search" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="poet-list"
+            enterkeyhint="search" autocomplete="off" autocapitalize="off" spellcheck="false"
+            aria-label="Filter by poet" data-ph-en="Poet: 李白, libai or lb" data-ph-zh="诗人：李白、libai 或 lb" />
+          <button type="button" class="clear" aria-label="Clear" hidden>×</button>
+        </label>
+        <ul class="suggest" id="poet-list" role="listbox" hidden></ul>
+      </div>
+      <div class="chips" id="chips"></div>
+
+      <div class="tabs" role="tablist" data-own>
+        <button type="button" role="tab" aria-selected="true" aria-controls="ix-shi" data-kind="shi">{bi(f"Tang poems {counts['shi']}", f"唐诗 {counts['shi']}")}</button>
+        <button type="button" role="tab" aria-selected="false" aria-controls="ix-ci" data-kind="ci">{bi(f"Song lyrics {counts['ci']}", f"宋词 {counts['ci']}")}</button>
+      </div>
+      <p class="mono ix-status" id="ix-status" hidden></p>
+      <nav class="letters mono" id="letters" aria-label="Jump to letter"></nav>
+
+      <div id="ix-shi" class="ix-panel" role="tabpanel" data-kind="shi">{groups("shi", shi_items)}</div>
+      <div id="ix-ci" class="ix-panel" role="tabpanel" data-kind="ci" hidden>{groups("ci", ci_items)}</div>
+    </main>{SHEET}
+    <script type="application/json" id="index-data">{json_script(data)}</script>""" + footer(base))
 
 
 def not_found(base):
@@ -644,6 +743,7 @@ def main():
              "tang": db.execute("SELECT count(*) FROM poems WHERE kind='shi'").fetchone()[0],
              "song": db.execute("SELECT count(*) FROM poems WHERE kind='ci'").fetchone()[0]}
     write(os.path.join(SITE, "index.html"), home_page(published, catalog, stats, "./"))
+    write(os.path.join(SITE, "index", "index.html"), index_page(published, "../"))
     write(os.path.join(SITE, "404.html"), not_found("/shi/"))
 
     lines = ["# Pending close readings", "",

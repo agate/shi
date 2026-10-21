@@ -7,7 +7,8 @@ its background, a note on the poet and a note on its mood (意境). Everything i
 唐诗宋词精读，适合所有年龄的人，优先照顾手机。每个字有拼音，每个难词有注释，每首诗有逐句翻译、创作背景、
 作者介绍和意境赏析，中英文都有。
 
-Lives at https://honghao.me/shi/ (a GitHub Pages project page under honghao.me).
+Lives at https://honghao.me/shi/ (a GitHub Pages project page under honghao.me). The index page,
+/shi/index/, lists every poem in pinyin order (Song lyrics by tune name first) with a filter by poet.
 
 ## How it is made
 
