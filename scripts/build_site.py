@@ -43,6 +43,7 @@ SRC = os.path.join(ROOT, "site-src")
 DB = os.path.join(ROOT, "data/build/corpus.sqlite")
 REPO = "https://github.com/agate/shi"
 CATALOG_LISTS = ("tang300", "song300", "textbook", "famous")
+DAILY_WHOLE = 4  # today's poem shows poems of this many lines or fewer whole
 
 CDN = "https://cdn.jsdelivr.net/npm/"
 # The poem fonts a reader can choose; the first is the default.
@@ -728,14 +729,26 @@ def main():
                        "ti": initials(title), "ap": plain(c["author"]), "ai": initials(c["author"])})
     write(os.path.join(SITE, "data/search.json"), json.dumps(search, ensure_ascii=False, separators=(",", ":")))
 
+    # Today's poem: a short poem whole; otherwise its two best-known lines, with "……" for
+    # every gap so the card shows there is more above, between or below.
     daily = []
     for p in published:
-        idx = p.get("famous_lines") or [0, 1]
-        idx = sorted(idx)[:2] if len(idx) >= 2 else [idx[0], min(idx[0] + 1, len(p["lines"]) - 1)]
-        idx = sorted(set(idx))
+        n = len(p["lines"])
+        if n <= DAILY_WHOLE:
+            idx = list(range(n))
+        else:
+            idx = p.get("famous_lines") or [0, 1]
+            idx = sorted(idx)[:2] if len(idx) >= 2 else [idx[0], min(idx[0] + 1, n - 1)]
+            idx = sorted(set(idx))
+        shown = []
+        for k, i in enumerate(idx):
+            if i > (idx[k - 1] + 1 if k else 0):
+                shown.append("……")
+            shown.append("".join(c[0] for c in p["lines"][i]))
+        if idx[-1] < n - 1:
+            shown.append("……")
         tags = p.get("tags", {})
-        daily.append({"s": p["slug"], "t": p["title"], "a": p["author"],
-                      "l": ["".join(c[0] for c in p["lines"][i]) for i in idx],
+        daily.append({"s": p["slug"], "t": p["title"], "a": p["author"], "l": shown,
                       "g": {k: tags.get(k, []) for k in ("seasons", "festivals", "solar_terms")}})
     write(os.path.join(SITE, "data/daily.json"), json.dumps(daily, ensure_ascii=False, separators=(",", ":")))
 
