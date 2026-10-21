@@ -953,6 +953,11 @@ body.has-bar {
   margin-bottom: 6px;
 }
 
+/* Menus have no ×: tapping the shade closes them, and sub-pages have a Back link. */
+.sheet.no-close .close {
+  display: none;
+}
+
 .sheet .close {
   all: unset;
   cursor: pointer;
@@ -1013,37 +1018,7 @@ body.has-bar {
   color: var(--muted);
 }
 
-/* More button: three bars drawn in CSS. */
-.burger,
-.burger::before,
-.burger::after {
-  display: block;
-  width: 18px;
-  height: 1.5px;
-  background: currentColor;
-}
-
-.burger {
-  position: relative;
-  margin: 6px 0;
-}
-
-.burger::before,
-.burger::after {
-  content: '';
-  position: absolute;
-  left: 0;
-}
-
-.burger::before {
-  top: -6px;
-}
-
-.burger::after {
-  top: 6px;
-}
-
-/* More menu: one row per setting. */
+/* Settings menu: one row per setting. */
 .menu {
   display: grid;
   border-top: 1px solid var(--rule);

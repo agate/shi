@@ -95,16 +95,18 @@
   var sheetBody = sheet && sheet.querySelector('.body');
   var sheetTitle = sheet && sheet.querySelector('.top .label');
   var lastFocus = null;
-  function openSheet(titleEn, titleZh, content) {
+  // noClose: menus hide the × (tapping the shade still closes); focus goes to the first control.
+  function openSheet(titleEn, titleZh, content, noClose) {
     if (!sheet) return;
-    lastFocus = document.activeElement;
+    if (!sheet.classList.contains('open')) lastFocus = document.activeElement;
     sheetTitle.innerHTML = '';
     sheetTitle.appendChild(bi(titleEn, titleZh));
     sheetBody.innerHTML = '';
     sheetBody.appendChild(content);
+    sheet.classList.toggle('no-close', !!noClose);
     sheet.classList.add('open');
     sheet.setAttribute('aria-hidden', 'false');
-    sheet.querySelector('.close').focus();
+    (noClose ? sheetBody.querySelector('button') || sheetBody : sheet.querySelector('.close')).focus();
   }
   function closeSheet() {
     if (!sheet || !sheet.classList.contains('open')) return;
@@ -182,7 +184,7 @@
       openSheet('Word', '字词', box);
     });
 
-    // Font choices, shown inside the More menu.
+    // Font choices, shown inside the Settings menu.
     function fontPanel() {
       var grid = el('div', { class: 'fonts' });
       FONTS.forEach(function (f) {
@@ -202,7 +204,7 @@
     }
 
     // Read aloud. By default the device's own Chinese voice (the one set in its settings);
-    // the More menu can switch to a Google Mandarin voice where the browser has one.
+    // the Settings menu can switch to a Google Mandarin voice where the browser has one.
     var speakBtn = document.getElementById('btn-speak');
     var synth = window.speechSynthesis;
     var speaking = false;
@@ -260,7 +262,7 @@
       }
     }
 
-    // Voice choices, shown inside the More menu: the device default, or a Google Mandarin
+    // Voice choices, shown inside the Settings menu: the device default, or a Google Mandarin
     // voice. Tapping one plays a sample.
     function voicePanel() {
       var box = el('div', { class: 'voices' });
@@ -302,10 +304,10 @@
       return box;
     }
 
-    // More menu: one row per setting with its current value; a row opens that setting's
+    // Settings menu: one row per setting with its current value; a row opens that setting's
     // choices, with a way back to the menu.
-    var moreBtn = document.getElementById('btn-more');
-    function openMore() {
+    var settingsBtn = document.getElementById('btn-settings');
+    function openSettings() {
       var font = FONTS.filter(function (f) { return f.key === root.dataset.font; })[0] || FONTS[0];
       var voice = chosenVoice();
       var rows = [
@@ -323,19 +325,19 @@
         ]);
         b.addEventListener('click', function () {
           var back = el('button', { type: 'button', class: 'back' }, [bi('‹ Back', '‹ 返回')]);
-          back.addEventListener('click', openMore);
+          back.addEventListener('click', openSettings);
           var view = el('div', {}, [back, r.panel()]);
-          openSheet(r.titleEn, r.titleZh, view);
+          openSheet(r.titleEn, r.titleZh, view, true);
           if (r.after) r.after();
         });
         menu.appendChild(b);
       });
-      openSheet('More', '更多', menu);
+      openSheet('Settings', '设置', menu, true);
     }
-    if (moreBtn)
-      moreBtn.addEventListener('click', function () {
+    if (settingsBtn)
+      settingsBtn.addEventListener('click', function () {
         stopSpeaking();
-        openMore();
+        openSettings();
       });
   }
 
