@@ -31,12 +31,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def toneless(syllable):
     """'lǚ' -> 'lü': drop the tone mark, keep the umlaut."""
-    return unicodedata.normalize("NFC", re.sub("[̀́̄̌]", "", unicodedata.normalize("NFD", syllable)))
+    return unicodedata.normalize("NFC", re.sub("[\\u0300\\u0301\\u0304\\u030c]", "", unicodedata.normalize("NFD", syllable)))
 
 
-# Readings pypinyin gets wrong in titles and poet names, longest phrase first.
+# Readings pypinyin gets wrong in titles and poet names, toned, longest phrase first.
 with open(os.path.join(ROOT, "data/curation/pinyin.json"), encoding="utf-8") as f:
-    NAME_FIXES = {x["phrase"]: [toneless(s) for s in x["pinyin"].split()] for x in json.load(f)["phrases"]}
+    NAME_FIXES = {x["phrase"]: x["pinyin"].split() for x in json.load(f)["phrases"]}
 NAME_FIX_RE = re.compile("(" + "|".join(sorted(map(re.escape, NAME_FIXES), key=len, reverse=True)) + ")")
 SITE = os.path.join(ROOT, "site")
 SRC = os.path.join(ROOT, "site-src")
@@ -160,7 +160,7 @@ def name_pinyin(s):
     Only names use them: the read-aloud swap below must see pypinyin's own readings."""
     out = []
     for part in NAME_FIX_RE.split(s) if NAME_FIXES else [s]:
-        out += NAME_FIXES.get(part) or lazy_pinyin(part)
+        out += [toneless(x) for x in NAME_FIXES[part]] if part in NAME_FIXES else lazy_pinyin(part)
     return out
 
 
@@ -214,6 +214,17 @@ def speak_line(cells):
     for (ch, want), got in zip(cells, default):
         out.append(SOUNDS.get(want, ch) if want != got else ch)
     return "".join(out)
+
+
+def speak_name(s):
+    """speak_line for a title or poet name: the readings to say are pypinyin's, with the name fixes."""
+    def run(m):
+        text = m.group(0)
+        want = [r[0] for r in pinyin(text, style=Style.TONE)]
+        for f in NAME_FIX_RE.finditer(text) if NAME_FIXES else []:
+            want[f.start():f.end()] = NAME_FIXES[f.group(0)]
+        return speak_line(list(zip(text, want)))
+    return re.sub(r"[㐀-鿿]+", run, s)
 
 
 # --- Tone change (变调) of 一 and 不 ---
@@ -317,7 +328,7 @@ def poem_page(p, nav_prev, nav_next, base):
         "glosses": p.get("glosses", []),
         "readings": p.get("readings", []),
         "speak": [speak_line(l) for l in lines],
-        "speakTitle": p["title"].replace("·", "，") + "。" + p["author"] + "。",
+        "speakTitle": speak_name(p["title"].replace("·", "，") + "。" + p["author"] + "。"),
         "sample": "".join(c[0] for c in lines[0])[:7],
     }
     desc = f'{p["title"]} · {p["author"]} — {p["title_en"]} by {p["author_en"]}: pinyin, notes, translation and background.'
