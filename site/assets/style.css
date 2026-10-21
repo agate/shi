@@ -473,26 +473,23 @@ html[data-lang='zh'] .poem h1 {
 }
 
 /* The poet name is small: its pinyin sits in the flow, so each character is as wide as its
-   pinyin and they never overlap. It only takes room while pinyin is shown. */
+   pinyin and they never overlap. The room is kept while pinyin is hidden, so nothing moves. */
+.poem .by .nm {
+  font-size: 14px;
+}
+
 .poem .by .c {
   width: auto;
   padding-top: 0;
-}
-
-html.py-all .poem .by .c {
-  margin: 0 0.12em;
+  margin: 0 0.1em;
 }
 
 .poem .by .c i {
-  display: none;
+  display: block;
   position: static;
   transform: none;
-  font-size: 10px;
-  line-height: 14px;
-}
-
-html.py-all .poem .by .c i {
-  display: block;
+  font-size: 9px;
+  line-height: 12px;
 }
 
 .poem .en-title {
