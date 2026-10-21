@@ -59,6 +59,11 @@ Titles and poet names have no close reading, so their pinyin (URLs, sorting, sea
 pypinyin. Its wrong guesses on polyphonic characters, such as 鹿柴 (zhài) or 刘长卿 (cháng), are fixed
 in `data/curation/pinyin.json`, each with its reason.
 
+Today's poem on the home page is picked by passage, not by poem. `data/curation/passages.json` holds
+one to three famous passages per poem, best known first, each tagged with its own season, festival
+and solar term. The page looks for a passage that fits today's festival, then solar term, then
+season. Claude picked and tagged them; review is welcome.
+
 ### Fonts
 
 The poem text can be shown in nine fonts (reader's choice, default 汇文明朝体), served from jsDelivr

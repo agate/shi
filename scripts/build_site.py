@@ -669,6 +669,44 @@ def drop_twins(published, pending, rank):
     return [p for p in published if p["id"] in keep_ids], dropped
 
 
+TAG_KEYS = ("seasons", "festivals", "solar_terms")
+
+
+def load_passages():
+    """Famous passages per poem, each tagged on its own (data/curation/passages.json)."""
+    path = os.path.join(ROOT, "data/curation/passages.json")
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)["poems"]
+
+
+def daily_entries(published):
+    """One entry per famous passage: the home page picks the one whose tags fit today.
+    A short poem is shown whole; a longer one shows the passage, with "……" wherever the
+    poem goes on above or below it. Poems without curated passages fall back to their
+    first two famous lines and the poem's own tags."""
+    passages = load_passages()
+    out = []
+    for p in published:
+        n = len(p["lines"])
+        spans = passages.get(p["id"])
+        if not spans:
+            idx = p.get("famous_lines") or [0, 1]
+            idx = sorted(idx)[:2] if len(idx) >= 2 else [idx[0], min(idx[0] + 1, n - 1)]
+            tags = p.get("tags", {})
+            spans = [{"start": idx[0], "end": idx[-1], **{k: tags.get(k, []) for k in TAG_KEYS}}]
+        for x in spans:
+            start, end = (0, n - 1) if n <= DAILY_WHOLE else (x["start"], x["end"])
+            shown = ["……"] if start > 0 else []
+            shown += ["".join(c[0] for c in p["lines"][i]) for i in range(start, end + 1)]
+            if end < n - 1:
+                shown.append("……")
+            out.append({"s": p["slug"], "t": p["title"], "a": p["author"], "l": shown,
+                        "g": {k: x.get(k, []) for k in TAG_KEYS}})
+    return out
+
+
 def same_opening(a, b):
     n = min(len(a), len(b))
     return n > 0 and sum(x == y for x, y in zip(a, b)) / n >= 0.7
@@ -729,28 +767,7 @@ def main():
                        "ti": initials(title), "ap": plain(c["author"]), "ai": initials(c["author"])})
     write(os.path.join(SITE, "data/search.json"), json.dumps(search, ensure_ascii=False, separators=(",", ":")))
 
-    # Today's poem: a short poem whole; otherwise its two best-known lines, with "……" for
-    # every gap so the card shows there is more above, between or below.
-    daily = []
-    for p in published:
-        n = len(p["lines"])
-        if n <= DAILY_WHOLE:
-            idx = list(range(n))
-        else:
-            idx = p.get("famous_lines") or [0, 1]
-            idx = sorted(idx)[:2] if len(idx) >= 2 else [idx[0], min(idx[0] + 1, n - 1)]
-            idx = sorted(set(idx))
-        shown = []
-        for k, i in enumerate(idx):
-            if i > (idx[k - 1] + 1 if k else 0):
-                shown.append("……")
-            shown.append("".join(c[0] for c in p["lines"][i]))
-        if idx[-1] < n - 1:
-            shown.append("……")
-        tags = p.get("tags", {})
-        daily.append({"s": p["slug"], "t": p["title"], "a": p["author"], "l": shown,
-                      "g": {k: tags.get(k, []) for k in ("seasons", "festivals", "solar_terms")}})
-    write(os.path.join(SITE, "data/daily.json"), json.dumps(daily, ensure_ascii=False, separators=(",", ":")))
+    write(os.path.join(SITE, "data/daily.json"), json.dumps(daily_entries(published), ensure_ascii=False, separators=(",", ":")))
 
     stats = {"published": len(published), "catalog": len(catalog),
              "tang": db.execute("SELECT count(*) FROM poems WHERE kind='shi'").fetchone()[0],
