@@ -17,6 +17,7 @@ import re
 import shutil
 import sqlite3
 import sys
+import unicodedata
 from collections import defaultdict
 
 from pypinyin import Style, lazy_pinyin, pinyin
@@ -26,6 +27,17 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from validate_poems import check  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def toneless(syllable):
+    """'lǚ' -> 'lü': drop the tone mark, keep the umlaut."""
+    return unicodedata.normalize("NFC", re.sub("[̀́̄̌]", "", unicodedata.normalize("NFD", syllable)))
+
+
+# Readings pypinyin gets wrong in titles and poet names, longest phrase first.
+with open(os.path.join(ROOT, "data/curation/pinyin.json"), encoding="utf-8") as f:
+    NAME_FIXES = {x["phrase"]: [toneless(s) for s in x["pinyin"].split()] for x in json.load(f)["phrases"]}
+NAME_FIX_RE = re.compile("(" + "|".join(sorted(map(re.escape, NAME_FIXES), key=len, reverse=True)) + ")")
 SITE = os.path.join(ROOT, "site")
 SRC = os.path.join(ROOT, "site-src")
 DB = os.path.join(ROOT, "data/build/corpus.sqlite")
@@ -143,10 +155,19 @@ def paras(text, lang):
     return "".join(f'<p lang="{lang}">{e(p.strip())}</p>' for p in re.split(r"\n+", text) if p.strip())
 
 
+def name_pinyin(s):
+    """Toneless pinyin of a title or poet name, with the fixes in data/curation/pinyin.json.
+    Only names use them: the read-aloud swap below must see pypinyin's own readings."""
+    out = []
+    for part in NAME_FIX_RE.split(s) if NAME_FIXES else [s]:
+        out += NAME_FIXES.get(part) or lazy_pinyin(part)
+    return out
+
+
 def slugify(title, author, taken):
-    base = "-".join(s for s in ("".join(lazy_pinyin(re.sub(r"[^㐀-鿿·]", "", t))) for t in title.split("·")) if s)
+    base = "-".join(s for s in ("".join(name_pinyin(re.sub(r"[^㐀-鿿·]", "", t))) for t in title.split("·")) if s)
     base = re.sub(r"[^a-z0-9-]", "", base.replace("ü", "v")) or "poem"
-    for cand in (base, base + "-" + "".join(lazy_pinyin(author)), None):
+    for cand in (base, base + "-" + "".join(name_pinyin(author)), None):
         if cand and cand not in taken:
             taken.add(cand)
             return cand
@@ -158,11 +179,11 @@ def slugify(title, author, taken):
 
 
 def initials(s):
-    return "".join(p[0] for p in lazy_pinyin(s) if p and p[0].isalpha())
+    return "".join(p[0] for p in name_pinyin(s) if p and p[0].isalpha())
 
 
 def plain(s):
-    return "".join(lazy_pinyin(s)).replace("ü", "v")
+    return "".join(name_pinyin(s)).replace("ü", "v")
 
 
 # --- Read-aloud text: swap characters the browser voice would misread for a homophone ---

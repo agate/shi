@@ -54,6 +54,10 @@ Written by Claude from the corpus text and a machine pinyin baseline, following
 reading with any open question goes in its `uncertain` list and stays off the site until someone
 settles it; `docs/pending.md` lists them.
 
+Titles and poet names have no close reading, so their pinyin (URLs, sorting, search) comes from
+pypinyin. Its wrong guesses on polyphonic characters, such as 鹿柴 (zhài) or 刘长卿 (cháng), are fixed
+in `data/curation/pinyin.json`, each with its reason.
+
 ### Fonts
 
 The poem text can be shown in nine fonts (reader's choice, default 汇文明朝体), served from jsDelivr

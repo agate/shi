@@ -1,0 +1,225 @@
+{
+ "_note": "Readings the pypinyin defaults get wrong in titles and poet names. scripts/build_site.py loads these before it makes URL slugs, sort keys and search keys. Each says why.",
+ "phrases": [
+  {
+   "phrase": "卜算子",
+   "pinyin": "bǔ suàn zǐ",
+   "reason": "卜 is bǔ here."
+  },
+  {
+   "phrase": "夜泊",
+   "pinyin": "yè bó",
+   "reason": "泊 (moor) is bó."
+  },
+  {
+   "phrase": "泊秦淮",
+   "pinyin": "bó qín huái",
+   "reason": "泊 (moor) is bó."
+  },
+  {
+   "phrase": "泊葑门",
+   "pinyin": "bó fēng mén",
+   "reason": "泊 (moor) is bó."
+  },
+  {
+   "phrase": "应天长",
+   "pinyin": "yìng tiān cháng",
+   "reason": "Tune name; 长 is cháng."
+  },
+  {
+   "phrase": "长信",
+   "pinyin": "cháng xìn",
+   "reason": "长信宫, a palace; 长 is cháng."
+  },
+  {
+   "phrase": "长干",
+   "pinyin": "cháng gān",
+   "reason": "长干, a Nanjing lane; read Cháng Gān."
+  },
+  {
+   "phrase": "长相思",
+   "pinyin": "cháng xiāng sī",
+   "reason": "长 is cháng."
+  },
+  {
+   "phrase": "宴清都",
+   "pinyin": "yàn qīng dū",
+   "reason": "都 (capital) is dū."
+  },
+  {
+   "phrase": "西都",
+   "pinyin": "xī dū",
+   "reason": "都 (capital) is dū."
+  },
+  {
+   "phrase": "名都",
+   "pinyin": "míng dū",
+   "reason": "都 (city) is dū."
+  },
+  {
+   "phrase": "鹿柴",
+   "pinyin": "lù zhài",
+   "reason": "柴 (fence) is zhài."
+  },
+  {
+   "phrase": "弹胡笳",
+   "pinyin": "tán hú jiā",
+   "reason": "弹 (play) is tán."
+  },
+  {
+   "phrase": "给事",
+   "pinyin": "jǐ shì",
+   "reason": "给事 (an office) is jǐ shì."
+  },
+  {
+   "phrase": "仆射",
+   "pinyin": "pú yè",
+   "reason": "仆射 (an office) is pú yè."
+  },
+  {
+   "phrase": "重送",
+   "pinyin": "chóng sòng",
+   "reason": "重 (again) is chóng."
+  },
+  {
+   "phrase": "重别",
+   "pinyin": "chóng bié",
+   "reason": "重 (again) is chóng."
+  },
+  {
+   "phrase": "小重山",
+   "pinyin": "xiǎo chóng shān",
+   "reason": "Tune name; 重 is chóng."
+  },
+  {
+   "phrase": "重午",
+   "pinyin": "chóng wǔ",
+   "reason": "重午 (Double Fifth) is chóng wǔ."
+  },
+  {
+   "phrase": "重过",
+   "pinyin": "chóng guò",
+   "reason": "重 (again) is chóng."
+  },
+  {
+   "phrase": "几重",
+   "pinyin": "jǐ chóng",
+   "reason": "重 (layers) is chóng."
+  },
+  {
+   "phrase": "重帘",
+   "pinyin": "chóng lián",
+   "reason": "重 (layered) is chóng."
+  },
+  {
+   "phrase": "六么令",
+   "pinyin": "liù yāo lìng",
+   "reason": "Tune name; 么 is yāo."
+  },
+  {
+   "phrase": "没蕃",
+   "pinyin": "mò fān",
+   "reason": "没 (lost to) is mò."
+  },
+  {
+   "phrase": "校书",
+   "pinyin": "jiào shū",
+   "reason": "校书 (an office) is jiào shū."
+  },
+  {
+   "phrase": "踏莎行",
+   "pinyin": "tà suō xíng",
+   "reason": "Tune name; 莎 is suō."
+  },
+  {
+   "phrase": "清平乐",
+   "pinyin": "qīng píng yuè",
+   "reason": "Tune name; 乐 (music) is yuè."
+  },
+  {
+   "phrase": "永遇乐",
+   "pinyin": "yǒng yù yuè",
+   "reason": "Tune name; 乐 (music) is yuè."
+  },
+  {
+   "phrase": "夜半乐",
+   "pinyin": "yè bàn yuè",
+   "reason": "Tune name; 乐 (music) is yuè."
+  },
+  {
+   "phrase": "齐天乐",
+   "pinyin": "qí tiān yuè",
+   "reason": "Tune name; 乐 (music) is yuè."
+  },
+  {
+   "phrase": "坊乐",
+   "pinyin": "fāng yuè",
+   "reason": "教坊乐, court music; 乐 is yuè."
+  },
+  {
+   "phrase": "生查子",
+   "pinyin": "shēng zhā zǐ",
+   "reason": "Tune name; 查 is zhā."
+  },
+  {
+   "phrase": "魂梦长",
+   "pinyin": "hún mèng cháng",
+   "reason": "长 (long) is cháng."
+  },
+  {
+   "phrase": "长淮",
+   "pinyin": "cháng huái",
+   "reason": "长 (long) is cháng."
+  },
+  {
+   "phrase": "长费",
+   "pinyin": "cháng fèi",
+   "reason": "长 (always) is cháng."
+  },
+  {
+   "phrase": "薄雨",
+   "pinyin": "bó yǔ",
+   "reason": "薄 (light) is bó."
+  },
+  {
+   "phrase": "香罗薄",
+   "pinyin": "xiāng luó bó",
+   "reason": "薄 (thin) is bó, as in the poem."
+  },
+  {
+   "phrase": "槛菊",
+   "pinyin": "jiàn jú",
+   "reason": "槛 (railing) is jiàn."
+  },
+  {
+   "phrase": "情似",
+   "pinyin": "qíng sì",
+   "reason": "似 (like) is sì."
+  },
+  {
+   "phrase": "粉似",
+   "pinyin": "fěn sì",
+   "reason": "似 (like) is sì."
+  },
+  {
+   "phrase": "朝眠",
+   "pinyin": "zhāo mián",
+   "reason": "朝 (morning) is zhāo."
+  },
+  {
+   "phrase": "刘长卿",
+   "pinyin": "liú cháng qīng",
+   "reason": "Poet; 长 is cháng."
+  },
+  {
+   "phrase": "李峤",
+   "pinyin": "lǐ qiáo",
+   "reason": "Poet; 峤 is qiáo."
+  },
+  {
+   "phrase": "张泌",
+   "pinyin": "zhāng bì",
+   "reason": "Poet; 泌 is bì."
+  }
+ ]
+}
